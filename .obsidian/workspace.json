@@ -75,7 +75,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week04/Hill-Climbing with side-way moves on the 8-Queens.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week04/Enforced Hill-Climbing.md",
                 "mode": "source",
                 "source": false
               }
@@ -203,7 +203,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week04/Hill-Climbing with side-way moves on the 8-Queens.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week04/Enforced Hill-Climbing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -220,7 +220,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week04/Hill-Climbing with side-way moves on the 8-Queens.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week04/Enforced Hill-Climbing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -243,7 +243,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week04/Hill-Climbing with side-way moves on the 8-Queens.md"
+                "file": "COMPSCI367 - Artificial Intelligence/week04/Enforced Hill-Climbing.md"
               }
             }
           },
@@ -285,9 +285,9 @@
   },
   "active": "d0f61cd9fefb8c2d",
   "lastOpenFiles": [
+    "COMPSCI367 - Artificial Intelligence/week04/Hill-Climbing with side-way moves on the 8-Queens.md",
     "COMPSCI367 - Artificial Intelligence/week04/Hill-Climbing with side-way moves.md",
     "COMPSCI367 - Artificial Intelligence/week04/Enforced Hill-Climbing.md",
-    "COMPSCI367 - Artificial Intelligence/week04/Hill-Climbing with side-way moves on the 8-Queens.md",
     "COMPSCI367 - Artificial Intelligence/week04/Diagonal ridges.md",
     "COMPSCI367 - Artificial Intelligence/week04/Hill-Climbing with 8-Queens.md",
     "COMPSCI367 - Artificial Intelligence/week04/Hill-Climbing.md",

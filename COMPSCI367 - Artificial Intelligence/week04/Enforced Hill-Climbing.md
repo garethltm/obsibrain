@@ -1,4 +1,4 @@
-- Perform [[Breadth-First Search (BFS)]] from a local optima
+- You are using Perform [[Breadth-First Search (BFS)]] from a local optima
 	- to find the next state with better h function
 	- good at Escaping Shoulders/local optima
 
