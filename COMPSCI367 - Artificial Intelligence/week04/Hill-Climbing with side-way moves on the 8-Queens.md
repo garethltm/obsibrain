@@ -10,7 +10,7 @@
 2. Allow 100 [[sideways]] moves:
 	- Succeeds w/ probability = 0.94
 	- Average number of moves per trial:
-		- 21 when succeeding, 65 when getting stuck
+		- 21 when succeeding
+		- 65 when getting stuck
 	- Expected total number of moves needed:
-			$\frac {65(1-p)}{p+21}$
-			
+			$\frac {65(1-p)}{p+21}$ = ***~25 moves***
