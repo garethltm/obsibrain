@@ -1,0 +1,1 @@
+[[Agent]] receiving some input from the [[Environment]]

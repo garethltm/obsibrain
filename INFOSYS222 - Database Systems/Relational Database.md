@@ -1,0 +1,6 @@
+- stored in a [[Database]]
+- store similar data as a [[Relation]]
+- implement [[Relationship]] using attributes/domains
+- present data to user as a [[Relation]] (table)
+- provide operators to access [[Relation]]
+- provide operators to manipulate [[Relation]]

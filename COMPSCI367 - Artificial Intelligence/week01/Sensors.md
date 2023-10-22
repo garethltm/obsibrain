@@ -1,0 +1,1 @@
+> What are the inputs that sense & provide data for the [[Agent]]?

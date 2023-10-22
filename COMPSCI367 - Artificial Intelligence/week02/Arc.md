@@ -1,0 +1,1 @@
+- a line that joins 2 consecutive vertices (distinct or not) in a [[Directed Graph]]
