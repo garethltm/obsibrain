@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week04/Population-based Search.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week04/Local Search.md",
                 "mode": "source",
                 "source": false
               }
@@ -58,7 +58,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week04/Population-based Search.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week04/Local Search.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -154,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week04/Population-based Search.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week04/Local Search.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week04/Population-based Search.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week04/Local Search.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week04/Population-based Search.md"
+                "file": "COMPSCI367 - Artificial Intelligence/week04/Local Search.md"
               }
             }
           },
@@ -236,10 +236,10 @@
   },
   "active": "bcc7a7b87dd8df83",
   "lastOpenFiles": [
+    "COMPSCI367 - Artificial Intelligence/week04/Population-based Search.md",
     "COMPSCI367 - Artificial Intelligence/week04/Local Search.md",
     "COMPSCI367 - Artificial Intelligence/week04/candidate solution.md",
     "COMPSCI367 - Artificial Intelligence/week04/population.md",
-    "COMPSCI367 - Artificial Intelligence/week04/Population-based Search.md",
     "README.md",
     "2023-10-22.md",
     "COMPSCI367 - Artificial Intelligence/week04/current state.md",
