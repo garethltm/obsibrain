@@ -1,0 +1,1 @@
+- successors with the same value 
