@@ -3,4 +3,4 @@
 
 	Successor A
 	A' = argmin h(A') or A' = argmax h(A')
-	where h:S→
+	where h:S→R
