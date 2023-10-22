@@ -8,6 +8,6 @@
 
 #### Why is it not that BAD
 - 4 steps on average when it succeeds
+	> Backtracking 8-Queens → we need to make at least 8 assignments (every depth = 1 assignment)
 - 3 steps on average when it gets stuck
 	- State Space with $8^8$ = ~17 million states
-> Backtracking 8-Queens → we need to make at elas
