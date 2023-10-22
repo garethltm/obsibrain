@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week04/Iterative best improvement.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week04/greedy choice.md",
                 "mode": "source",
                 "source": false
               }
@@ -179,7 +179,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week04/Iterative best improvement.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week04/greedy choice.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -196,7 +196,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week04/Iterative best improvement.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week04/greedy choice.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -219,7 +219,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week04/Iterative best improvement.md"
+                "file": "COMPSCI367 - Artificial Intelligence/week04/greedy choice.md"
               }
             }
           },
@@ -259,16 +259,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "817eb36540b02d14",
+  "active": "3ad179677b7fba41",
   "lastOpenFiles": [
+    "COMPSCI367 - Artificial Intelligence/week04/Iterative best improvement.md",
+    "COMPSCI367 - Artificial Intelligence/week04/greedy choice.md",
+    "COMPSCI367 - Artificial Intelligence/week03/Local Search.md",
+    "COMPSCI367 - Artificial Intelligence/week03",
     "COMPSCI367 - Artificial Intelligence/week05/Local beam Search.md",
     "COMPSCI367 - Artificial Intelligence/week05/population.md",
     "COMPSCI367 - Artificial Intelligence/week02/State Space Problem.md",
     "@images/Pasted image 20231022152110.png",
-    "COMPSCI367 - Artificial Intelligence/week04/Iterative best improvement.md",
     "COMPSCI367 - Artificial Intelligence/week04",
     "COMPSCI367 - Artificial Intelligence/week05/Population-based Search.md",
-    "COMPSCI367 - Artificial Intelligence/week05/Local Search.md",
     "COMPSCI367 - Artificial Intelligence/week05/candidate solution.md",
     "README.md",
     "2023-10-22.md",
