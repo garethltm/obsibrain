@@ -1,1 +1,1 @@
-- hill climbing
+- [[Hill-Climbing]]
