@@ -1,7 +1,7 @@
 - Randomly generated 8-queens Start States
 	- Get stuck 86% of the time
 	- Solves only 14% of problem instances
-> Some 
+> Sometimes, in [[Depth-First Search (DFS)]] we might get into a situation where we can get stuck (no solution)
 > We use [[Hill-Climbing Search]] to see whether if it gets stuck
 
 
