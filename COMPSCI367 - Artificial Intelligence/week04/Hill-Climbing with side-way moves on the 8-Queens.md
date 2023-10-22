@@ -5,4 +5,6 @@
 	- Average number of moves per trial:
 		- 4 when succeeding
 		- 3 when getting stuck
-	- Expected total number
+	- Expected total number of moves needed:
+			$\frac 3(1-p) p+4$
+			
