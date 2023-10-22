@@ -82,6 +82,18 @@
             }
           },
           {
+            "id": "d8dcd874d29d6c9d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "COMPSCI367 - Artificial Intelligence/week04/Local Optima.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "2602e13c15239a89",
             "type": "leaf",
             "state": {
@@ -94,7 +106,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       },
       {
         "id": "ec007f23455ced60",
@@ -203,7 +215,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week04/Enforced Hill-Climbing.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week04/Local Optima.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -220,7 +232,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week04/Enforced Hill-Climbing.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week04/Local Optima.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -243,7 +255,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week04/Enforced Hill-Climbing.md"
+                "file": "COMPSCI367 - Artificial Intelligence/week04/Local Optima.md"
               }
             }
           },
@@ -283,8 +295,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d0f61cd9fefb8c2d",
+  "active": "d8dcd874d29d6c9d",
   "lastOpenFiles": [
+    "COMPSCI367 - Artificial Intelligence/week04/Enforced Hill-Climbing.md",
+    "COMPSCI367 - Artificial Intelligence/week04/Local Optima.md",
     "COMPSCI367 - Artificial Intelligence/week04/Hill-Climbing with side-way moves on the 8-Queens.md",
     "COMPSCI367 - Artificial Intelligence/week04/Iterative best improvement.md",
     "COMPSCI367 - Artificial Intelligence/week04/Hill-Climbing with 8-Queens.md",
@@ -293,7 +307,6 @@
     "COMPSCI367 - Artificial Intelligence/week04/Greedy Descent.md",
     "COMPSCI367 - Artificial Intelligence/week04/greedy choice.md",
     "COMPSCI367 - Artificial Intelligence/week04/Diagonal ridges.md",
-    "COMPSCI367 - Artificial Intelligence/week04/Enforced Hill-Climbing.md",
     "@images/Pasted image 20231022161956.png",
     "COMPSCI367 - Artificial Intelligence/week04/uphill successors.md",
     "COMPSCI367 - Artificial Intelligence/week04/sideways.md",
@@ -322,7 +335,6 @@
     "COMPSCI367 - Artificial Intelligence/week04",
     "README.md",
     "2023-10-22.md",
-    "COMPSCI367 - Artificial Intelligence/week05/current state.md",
     "COMPSCI367 - Artificial Intelligence/week05",
     "COMPSCI367 - Artificial Intelligence/week02",
     "Untitle",
