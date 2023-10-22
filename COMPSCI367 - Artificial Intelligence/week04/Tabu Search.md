@@ -7,4 +7,6 @@
 	- Never make the step that is currently "tabu'ed"
 
 ## Properties
-- As the size of the [[Tabu list]] grows, [[Hill-Climbing]] will asymptotically become "non-redundant" (won't look at the )
+- As the size of the [[Tabu list]] grows, [[Hill-Climbing]] will asymptotically become "non-redundant" (won't look at the same state twice)
+- In practice, a reasonable sized [[Tabu list]] (say 100 or so) would improve the performance of [[Hill-Climbing]] in many problems
+- The list can allow the algorithm to escape some of the local minima
