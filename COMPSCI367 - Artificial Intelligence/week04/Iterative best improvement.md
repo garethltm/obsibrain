@@ -3,4 +3,4 @@
 
 	Successor A
 	A' = argmin h(A') or A' = argmax h(A')
-	where h:S→R
+	where h: S→R is a heuristic function

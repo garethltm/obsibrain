@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week04/Iterative best improvement.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week03/Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -167,7 +167,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week04/Iterative best improvement.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week03/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -184,7 +184,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week04/Iterative best improvement.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week03/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -207,7 +207,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week04/Iterative best improvement.md"
+                "file": "COMPSCI367 - Artificial Intelligence/week03/Untitled.md"
               }
             }
           },
@@ -249,9 +249,10 @@
   },
   "active": "cb5aa28fcd535c95",
   "lastOpenFiles": [
+    "COMPSCI367 - Artificial Intelligence/week04/Iterative best improvement.md",
+    "COMPSCI367 - Artificial Intelligence/week03/Untitled.md",
     "COMPSCI367 - Artificial Intelligence/week05/Local beam Search.md",
     "COMPSCI367 - Artificial Intelligence/week04/greedy choice.md",
-    "COMPSCI367 - Artificial Intelligence/week04/Iterative best improvement.md",
     "COMPSCI367 - Artificial Intelligence/week03/Local Search.md",
     "COMPSCI367 - Artificial Intelligence/week03",
     "COMPSCI367 - Artificial Intelligence/week05/population.md",
@@ -278,7 +279,6 @@
     "COMPSCI367 - Artificial Intelligence/week01/Planning Agent.md",
     "COMPSCI367 - Artificial Intelligence/week01/Goal-Based (Telelogical Agent).md",
     "COMPSCI367 - Artificial Intelligence/week01/Deterministic.md",
-    "COMPSCI367 - Artificial Intelligence/week01/Reactive Agent.md",
     "COMPSCI367 - Artificial Intelligence/week02",
     "Untitle",
     "@images/Pasted image 20231016005321.png",
