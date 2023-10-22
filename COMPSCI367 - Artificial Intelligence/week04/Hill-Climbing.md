@@ -20,5 +20,3 @@
 1. Local maxima
 2. Plateaus
 3. [[Diagonal ridges]]
-
-Related to: [[Hill-Climbing with 8-Queens]]
