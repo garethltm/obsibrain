@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week05/Local beam Search.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week04/Iterative best improvement.md",
                 "mode": "source",
                 "source": false
               }
@@ -179,7 +179,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week05/Local beam Search.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week04/Iterative best improvement.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -196,7 +196,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week05/Local beam Search.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week04/Iterative best improvement.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -219,7 +219,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week05/Local beam Search.md"
+                "file": "COMPSCI367 - Artificial Intelligence/week04/Iterative best improvement.md"
               }
             }
           },
@@ -261,8 +261,8 @@
   },
   "active": "817eb36540b02d14",
   "lastOpenFiles": [
-    "COMPSCI367 - Artificial Intelligence/week05/population.md",
     "COMPSCI367 - Artificial Intelligence/week05/Local beam Search.md",
+    "COMPSCI367 - Artificial Intelligence/week05/population.md",
     "COMPSCI367 - Artificial Intelligence/week02/State Space Problem.md",
     "@images/Pasted image 20231022152110.png",
     "COMPSCI367 - Artificial Intelligence/week04/Iterative best improvement.md",
