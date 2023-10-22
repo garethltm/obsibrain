@@ -10,4 +10,4 @@
 - 4 steps on average when it succeeds
 - 3 steps on average when it gets stuck
 	- State Space with $8^8$ = ~17 million states
-- 
+> Backtracking 8-Queens → we need to make at elas
