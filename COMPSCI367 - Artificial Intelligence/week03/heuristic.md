@@ -4,4 +4,4 @@
 - in an ideal scenario where there are no limitation, what is the best possible solution
 
 ### Summary
-- Ad
+- Admissible heuristic
