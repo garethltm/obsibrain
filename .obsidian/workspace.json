@@ -63,7 +63,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week04/Hill-Climbing with 8-Queens.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week04/Hill-Climbing Search.md",
                 "mode": "source",
                 "source": false
               }
@@ -191,7 +191,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week04/Hill-Climbing with 8-Queens.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week04/Hill-Climbing Search.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -208,7 +208,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week04/Hill-Climbing with 8-Queens.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week04/Hill-Climbing Search.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -231,7 +231,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week04/Hill-Climbing with 8-Queens.md"
+                "file": "COMPSCI367 - Artificial Intelligence/week04/Hill-Climbing Search.md"
               }
             }
           },
@@ -273,8 +273,8 @@
   },
   "active": "a87f36592ab7d8cd",
   "lastOpenFiles": [
-    "COMPSCI367 - Artificial Intelligence/week04/Hill-Climbing Search.md",
     "COMPSCI367 - Artificial Intelligence/week04/Hill-Climbing with 8-Queens.md",
+    "COMPSCI367 - Artificial Intelligence/week04/Hill-Climbing Search.md",
     "@images/Pasted image 20231022154712.png",
     "COMPSCI367 - Artificial Intelligence/week04/Iterative best improvement.md",
     "COMPSCI367 - Artificial Intelligence/week04/minimises.md",
