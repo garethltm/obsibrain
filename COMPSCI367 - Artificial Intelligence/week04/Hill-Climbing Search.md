@@ -14,7 +14,7 @@
 - IMPORTANCE of [[Hill-Climbing Search]] = we always want to improve the VALUE
 
 ### Difficulties
-- Problem: depending on [[initial state]], can get stuck in local maxima
+- Main problem: depending on [[initial state]], can get stuck in local maxima
 ![[Pasted image 20231022160343.png]]
 > Note: these difficulties apply to all [[Local Search]] algorithms, and usually becomes much worse as the [[search space]] becomes higher dimensional
 1. Local maxima

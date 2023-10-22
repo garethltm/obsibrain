@@ -63,14 +63,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week04/minimises.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week04/Hill-Climbing Search.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       },
       {
         "id": "ec007f23455ced60",
@@ -259,22 +259,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "358f03c9716e94e8",
+  "active": "78003ac2d0f27c16",
   "lastOpenFiles": [
+    "COMPSCI367 - Artificial Intelligence/week04/greedy choice.md",
+    "COMPSCI367 - Artificial Intelligence/week04/Greedy Descent.md",
+    "COMPSCI367 - Artificial Intelligence/week04/minimises.md",
+    "COMPSCI367 - Artificial Intelligence/week04/Hill-Climbing Search.md",
     "@images/Pasted image 20231022160343.png",
     "COMPSCI367 - Artificial Intelligence/week04/Hill-Climbing with 8-Queens.md",
     "@images/Pasted image 20231022160231.png",
     "COMPSCI367 - Artificial Intelligence/week04/Iterative best improvement.md",
-    "COMPSCI367 - Artificial Intelligence/week04/Hill-Climbing Search.md",
     "@images/Pasted image 20231022155803.png",
     "@images/Pasted image 20231022154712.png",
-    "COMPSCI367 - Artificial Intelligence/week04/minimises.md",
     "COMPSCI367 - Artificial Intelligence/week04/maximises.md",
     "COMPSCI367 - Artificial Intelligence/week05/Local beam Search.md",
     "COMPSCI367 - Artificial Intelligence/week05/candidate solution.md",
     "COMPSCI367 - Artificial Intelligence/week01/Foundations of Artificial Intelligence.md",
     "COMPSCI367 - Artificial Intelligence/week03/heuristic.md",
-    "COMPSCI367 - Artificial Intelligence/week04/greedy choice.md",
     "COMPSCI367 - Artificial Intelligence/week01/Goal.md",
     "COMPSCI367 - Artificial Intelligence/week02/State Space Problem.md",
     "COMPSCI367 - Artificial Intelligence/week05/Population-based Search.md",
@@ -301,7 +302,6 @@
     "@images/Pasted image 20231017003153.png",
     "@images/Pasted image 20231017002537.png",
     "@images/Pasted image 20231017002334.png",
-    "@images/Pasted image 20231017002448.png",
     "@images",
     "INFOSYS222 - Database Systems",
     "COMPSCI367 - Artificial Intelligence/week01",
