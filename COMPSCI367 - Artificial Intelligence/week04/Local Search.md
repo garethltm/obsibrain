@@ -12,4 +12,4 @@
 	- AIM: to improve its position in the long run (optimal solution)
 
 ## Problem
-- c
+- could lead to a path without an optimal solution
