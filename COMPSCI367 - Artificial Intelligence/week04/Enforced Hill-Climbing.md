@@ -1,4 +1,4 @@
-- You are using [[Hill-Climbing]] algorithm when stuck instead of terminating, you perform [[Breadth-First Search (BFS)]] from a [[local optima]] until you find the next state with better h function (improvement)
+- You are using [[Hill-Climbing]] algorithm but when stuck instead of terminating, you perform [[Breadth-First Search (BFS)]] from a [[local optima]] until you find the next state with better h function (improvement)
 	- good at Escaping Shoulders/[[Local Optima]]![[Pasted image 20231022164039.png]]
 
 Typically,
