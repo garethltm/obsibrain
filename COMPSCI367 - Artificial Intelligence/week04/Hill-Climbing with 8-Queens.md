@@ -11,4 +11,4 @@
 	> Applying Backtracking 8-Queens → we need to make at least 8 assignments (for every depth = 1 assignment)
 	> - which in this case we are already saving quite a bit of steps
 - 3 steps on average when it gets stuck
-	- State Space with $8^8$ = ~17 million states
+- [[state space]] with $8^8$ = ~17 million states
