@@ -75,7 +75,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week04/Diagonal ridges.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week04/Hill-Climbing.md",
                 "mode": "source",
                 "source": false
               }
@@ -191,7 +191,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week04/Diagonal ridges.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week04/Hill-Climbing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -208,7 +208,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week04/Diagonal ridges.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week04/Hill-Climbing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -231,7 +231,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week04/Diagonal ridges.md"
+                "file": "COMPSCI367 - Artificial Intelligence/week04/Hill-Climbing.md"
               }
             }
           },
@@ -273,11 +273,11 @@
   },
   "active": "d0f61cd9fefb8c2d",
   "lastOpenFiles": [
+    "COMPSCI367 - Artificial Intelligence/week04/Diagonal ridges.md",
     "@images/Pasted image 20231022161052.png",
     "@images/Pasted image 20231022160958.png",
     "@images/Pasted image 20231022160937.png",
     "COMPSCI367 - Artificial Intelligence/week04/Hill-Climbing.md",
-    "COMPSCI367 - Artificial Intelligence/week04/Diagonal ridges.md",
     "COMPSCI367 - Artificial Intelligence/week04/Hill-Climbing with 8-Queens.md",
     "COMPSCI367 - Artificial Intelligence/week04/maximises.md",
     "COMPSCI367 - Artificial Intelligence/week04/Iterative best improvement.md",
@@ -313,7 +313,6 @@
     "COMPSCI367 - Artificial Intelligence/week02",
     "Untitle",
     "@images/Pasted image 20231016005321.png",
-    "@images/Pasted image 20231017003208.png",
     "@images",
     "INFOSYS222 - Database Systems",
     "COMPSCI367 - Artificial Intelligence/week01",
