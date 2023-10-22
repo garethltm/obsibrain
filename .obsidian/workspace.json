@@ -4,161 +4,93 @@
     "type": "split",
     "children": [
       {
-        "id": "e1ccbf259f6ba816",
-        "type": "tabs",
-        "dimension": 70.51724137931035,
-        "children": [
-          {
-            "id": "bcc7a7b87dd8df83",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week05/Population-based Search.md",
-                "mode": "source",
-                "source": false
-              }
-            },
-            "group": "49e37924338b6c36"
-          },
-          {
-            "id": "9d16bf805036e931",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week02/State Space Problem.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "358f03c9716e94e8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week04/Hill-Climbing.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f29b33f23d11f1cc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week04/Hill-Climbing.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "78003ac2d0f27c16",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week04/Hill-Climbing.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d0f61cd9fefb8c2d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week04/Hill-Climbing with 8-Queens.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2602e13c15239a89",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week04/Enforced Hill-Climbing.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ],
-        "currentTab": 6
-      },
-      {
-        "id": "992e264c1b226738",
+        "id": "85ed5c2a527340ac",
         "type": "split",
-        "dimension": 29.48275862068965,
         "children": [
           {
-            "id": "8d459d1c85b8b9ed",
+            "id": "f2bb8357061f46dd",
             "type": "tabs",
+            "dimension": 73.09069212410502,
             "children": [
               {
-                "id": "874de3ab24aec93a",
+                "id": "8468d6a35473b5b1",
                 "type": "leaf",
                 "state": {
-                  "type": "git-view",
-                  "state": {}
+                  "type": "markdown",
+                  "state": {
+                    "file": "COMPSCI367 - Artificial Intelligence/week04/local optima.md",
+                    "mode": "source",
+                    "source": false
+                  }
                 }
               }
             ]
           },
           {
-            "id": "d9a730eda40123bb",
-            "type": "tabs",
+            "id": "1f4f8dcded6976e2",
+            "type": "split",
+            "dimension": 26.90930787589499,
             "children": [
               {
-                "id": "7430a6c810762936",
-                "type": "leaf",
-                "state": {
-                  "type": "localgraph",
-                  "state": {
-                    "file": "COMPSCI367 - Artificial Intelligence/week05/Population-based Search.md",
-                    "options": {
-                      "collapse-filter": true,
-                      "search": "",
-                      "localJumps": 1,
-                      "localBacklinks": true,
-                      "localForelinks": true,
-                      "localInterlinks": false,
-                      "showTags": false,
-                      "showAttachments": false,
-                      "hideUnresolved": false,
-                      "collapse-color-groups": true,
-                      "colorGroups": [],
-                      "collapse-display": true,
-                      "showArrow": false,
-                      "textFadeMultiplier": 0,
-                      "nodeSizeMultiplier": 1,
-                      "lineSizeMultiplier": 1,
-                      "collapse-forces": true,
-                      "centerStrength": 0.518713248970312,
-                      "repelStrength": 10,
-                      "linkStrength": 1,
-                      "linkDistance": 250,
-                      "scale": 0.713275462622442,
-                      "close": true
+                "id": "8d459d1c85b8b9ed",
+                "type": "tabs",
+                "children": [
+                  {
+                    "id": "874de3ab24aec93a",
+                    "type": "leaf",
+                    "state": {
+                      "type": "git-view",
+                      "state": {}
                     }
                   }
-                },
-                "group": "49e37924338b6c36"
+                ]
+              },
+              {
+                "id": "276658972c5448a1",
+                "type": "tabs",
+                "children": [
+                  {
+                    "id": "7430a6c810762936",
+                    "type": "leaf",
+                    "state": {
+                      "type": "localgraph",
+                      "state": {
+                        "file": "COMPSCI367 - Artificial Intelligence/week04/local optima.md",
+                        "options": {
+                          "collapse-filter": true,
+                          "search": "",
+                          "localJumps": 1,
+                          "localBacklinks": true,
+                          "localForelinks": true,
+                          "localInterlinks": false,
+                          "showTags": false,
+                          "showAttachments": false,
+                          "hideUnresolved": false,
+                          "collapse-color-groups": true,
+                          "colorGroups": [],
+                          "collapse-display": true,
+                          "showArrow": false,
+                          "textFadeMultiplier": 0,
+                          "nodeSizeMultiplier": 1,
+                          "lineSizeMultiplier": 1,
+                          "collapse-forces": true,
+                          "centerStrength": 0.518713248970312,
+                          "repelStrength": 10,
+                          "linkStrength": 1,
+                          "linkDistance": 250,
+                          "scale": 0.713275462622442,
+                          "close": true
+                        }
+                      }
+                    }
+                  }
+                ]
               }
-            ]
+            ],
+            "direction": "horizontal"
           }
         ],
-        "direction": "horizontal"
+        "direction": "vertical"
       }
     ],
     "direction": "vertical"
@@ -187,7 +119,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "optima",
+                "query": "success",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -208,8 +140,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "29204b37fc003a9a",
@@ -225,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week04/Enforced Hill-Climbing.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week04/local optima.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -242,7 +173,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week04/Enforced Hill-Climbing.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week04/local optima.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -265,7 +196,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week04/Enforced Hill-Climbing.md"
+                "file": "COMPSCI367 - Artificial Intelligence/week04/local optima.md"
               }
             }
           },
@@ -299,42 +230,41 @@
   },
   "active": "874de3ab24aec93a",
   "lastOpenFiles": [
-    "@images/Untitled.png",
-    "COMPSCI367 - Artificial Intelligence/week04/Hill-Climbing with 8-Queens.md",
+    "COMPSCI367 - Artificial Intelligence/week04/greedy choice.md",
+    "COMPSCI367 - Artificial Intelligence/week04/Probabilistic Hill-Climbing.md",
+    "COMPSCI367 - Artificial Intelligence/week04/Probabilistic Approximately Complete (PAC).md",
+    "@images/Pasted image 20231022182721.png",
+    "COMPSCI367 - Artificial Intelligence/week04/Random Walk & Random Restart Hill-Climbing.md",
+    "Greedy Search.md",
+    "COMPSCI367 - Artificial Intelligence/week04/Random Walk Hill-Climbing.md",
+    "COMPSCI367 - Artificial Intelligence/week04/uninformed random walk.md",
+    "COMPSCI367 - Artificial Intelligence/week04/Difference between Stochastic & First-Choice Hill-Climbing.md",
+    "COMPSCI367 - Artificial Intelligence/week04/First Choice Hill-Climbing.md",
+    "COMPSCI367 - Artificial Intelligence/week04/Stochastic Hill-Climbing.md",
+    "COMPSCI367 - Artificial Intelligence/week04/Stochastic Local Search (SLS).md",
+    "COMPSCI367 - Artificial Intelligence/week04/Iterative best improvement.md",
+    "COMPSCI367 - Artificial Intelligence/week01/Stochastic.md",
+    "COMPSCI367 - Artificial Intelligence/week03/heuristic(s).md",
+    "COMPSCI367 - Artificial Intelligence/week03/Iterative Improvement.md",
+    "COMPSCI367 - Artificial Intelligence/week03/Local Search.md",
+    "COMPSCI367 - Artificial Intelligence/week03/A-Star Search.md",
+    "COMPSCI367 - Artificial Intelligence/week03/Admissible heuristic.md",
+    "COMPSCI367 - Artificial Intelligence/week03/successor(s).md",
     "COMPSCI367 - Artificial Intelligence/week04/Hill-Climbing with side-way moves on the 8-Queens.md",
     "COMPSCI367 - Artificial Intelligence/week04/Hill-Climbing with side-way moves.md",
+    "COMPSCI367 - Artificial Intelligence/week04/Hill-Climbing with 8-Queens.md",
     "COMPSCI367 - Artificial Intelligence/week04/Hill-Climbing.md",
-    "COMPSCI367 - Artificial Intelligence/week04/Tabu Search.md",
-    "README.md",
-    "COMPSCI367 - Artificial Intelligence/week04/Enforced Hill-Climbing.md",
-    "COMPSCI367 - Artificial Intelligence/week04/Greedy Descent.md",
-    "COMPSCI367 - Artificial Intelligence/week04/Iterative best improvement.md",
-    "COMPSCI367 - Artificial Intelligence/week04/Tabu list.md",
-    "@images/Pasted image 20231022164039.png",
-    "COMPSCI367 - Artificial Intelligence/week03/Local Search.md",
-    "COMPSCI367 - Artificial Intelligence/week04/Local Optima.md",
-    "COMPSCI367 - Artificial Intelligence/week04/greedy choice.md",
+    "COMPSCI367 - Artificial Intelligence/week04/Bernoulli random variable.md",
     "COMPSCI367 - Artificial Intelligence/week04/Diagonal ridges.md",
+    "@images/Pasted image 20231022173408.png",
+    "@images/Untitled.png",
+    "@images/Pasted image 20231022164039.png",
     "@images/Pasted image 20231022161956.png",
-    "COMPSCI367 - Artificial Intelligence/week04/uphill successors.md",
-    "COMPSCI367 - Artificial Intelligence/week04/sideways.md",
     "@images/Pasted image 20231022161052.png",
     "@images/Pasted image 20231022160958.png",
     "@images/Pasted image 20231022160937.png",
-    "COMPSCI367 - Artificial Intelligence/week04/maximises.md",
     "@images/Pasted image 20231022160706.png",
-    "COMPSCI367 - Artificial Intelligence/week04/minimises.md",
     "@images/Pasted image 20231022160343.png",
-    "@images/Pasted image 20231022160231.png",
-    "@images/Pasted image 20231022155803.png",
-    "@images/Pasted image 20231022154712.png",
-    "COMPSCI367 - Artificial Intelligence/week05/Local beam Search.md",
-    "COMPSCI367 - Artificial Intelligence/week05/candidate solution.md",
-    "COMPSCI367 - Artificial Intelligence/week01/Foundations of Artificial Intelligence.md",
-    "COMPSCI367 - Artificial Intelligence/week03/heuristic.md",
-    "COMPSCI367 - Artificial Intelligence/week01/Goal.md",
-    "COMPSCI367 - Artificial Intelligence/week02/State Space Problem.md",
-    "COMPSCI367 - Artificial Intelligence/week05/Population-based Search.md",
     "COMPSCI367 - Artificial Intelligence/week03",
     "COMPSCI367 - Artificial Intelligence/week04",
     "COMPSCI367 - Artificial Intelligence/week05",

@@ -1,0 +1,13 @@
+- computing the [[Bernoulli random variable]]
+- [[Random-Restart Hill Climbing]]
+- Number of restarts is $\frac {1}{p}$, where p is the probability of success
+	- 8 queens, no [[sideways]], p = 0.14
+		- so ~7 restarts
+	- 8 queens, [[sideways]], p = 0.94
+		- so ~1.06 restarts
+- Number of steps
+	- $(1 \times cost\ of\ success + ((\frac {1}{p-1}) \times cost\ of\ failure$
+	- 8 queens, no [[sideways]]
+		- $(1 \times 4 + ((\frac {0.86}{0.14}) \times 3$ = ***~22 steps***
+	- 8 queens, [[sideways]]
+		-  $(1 \times 21 + ((\frac {0.06}{0.94}) \times 64$ = ***~25 steps***

@@ -5,5 +5,5 @@
 
 ### Summary
 - [[Admissible heuristic]]
-- Comparing heuristics
-> Good heuristics can help A* Search algorithm to find the solution faster
+- Comparing [[heuristic(s)]]
+> Good [[heuristic(s)]] can help [[A-Star Search]] algorithm to find the solution faster

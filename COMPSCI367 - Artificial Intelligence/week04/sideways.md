@@ -1,1 +1,1 @@
-- successors with the same value 
+- [[successor(s)]] with the same value 

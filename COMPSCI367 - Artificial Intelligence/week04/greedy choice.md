@@ -1,1 +1,1 @@
-- making the best choice at each phase
+- ***making the "best choice" at each phase***

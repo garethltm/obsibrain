@@ -1,0 +1,2 @@
+- sooner or later there will be a state (eventually)
+- if we generate enough states; sooner or later we will find a state that will converge to a solution (or just find the solution)

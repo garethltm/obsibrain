@@ -1,1 +1,1 @@
-- whatever is the best current performance for one small part
+- whatever is the best current performance achievable for that instance

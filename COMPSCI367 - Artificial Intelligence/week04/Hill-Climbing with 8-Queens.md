@@ -4,7 +4,7 @@
 	- Solves only 14% of problem instances
 > Sometimes, 
 > 1. in [[Depth-First Search (DFS)]] we might get into a situation where we can get stuck (no solution). 
-> 2. in [[Greedy Search]] we might be looking for the best [[heuristic]] value at every [[state]] which might end up in a dead node
+> 2. in [[Greedy Search]] we might be looking for the best [[heuristic(s)]] value at every [[state]] which might end up in a dead node
 > We use [[Hill-Climbing]] to see whether if it gets stuck
 
 #### Why is it not that BAD
