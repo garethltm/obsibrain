@@ -1,10 +1,10 @@
-Agent is something that acts in an [[Environment]]
+Agent is something that acts in an [[environment]]
 - Acts autonomously in the world to achieve goals
 - [[Rationality]] - may have beliefs, desires & intentions
 
 Agent is an entity that 
-1. perceives its [[Environment]] through sensors
-2. acts on its [[Environment]] through [[Effectors]]/[[Actuators]]
+1. perceives its [[environment]] through sensors
+2. acts on its [[environment]] through [[Effectors]]/[[Actuators]]
 
 Comprises of
 1. Perception
@@ -12,7 +12,7 @@ Comprises of
 3. Acting
 
 ## Agent Mapping
-An agent can be seen as a mapping between [[Percepts]] and [[Action]]
+An agent can be seen as a mapping between [[Percepts]] and [[action]]
 > Vacuum Cleaner
 
 

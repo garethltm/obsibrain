@@ -1,1 +1,0 @@
-Problems to which [[Rational Agent]] are the [[Solution]]

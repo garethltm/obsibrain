@@ -9,3 +9,5 @@
 4. A Friend may drive a Vehicle (optional); A Vehicle may be driven by a Friend (optional)
 
 ![[Pasted image 20231015235236.png]]
+
+Related to: [[ERD]]

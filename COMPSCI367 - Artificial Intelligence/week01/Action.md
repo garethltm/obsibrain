@@ -1,1 +1,1 @@
-What the [[Agent]] does to affect the [[Environment]]
+What the [[Agent]] does to affect the [[environment]]

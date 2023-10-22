@@ -1,11 +1,11 @@
-- Thinking about all the elements that are relevant to finding a [[Solution]]
-> How we can describe the change of the [[Environment]] when we are performing an [[Action]]
+- Thinking about all the elements that are relevant to finding a [[solution(s)]]
+> How we can describe the change of the [[environment]] when we are performing an [[action]]
 
 ## Consists of:
 1. [[State Space]]
-2. [[Start State]]
-3. A set of [[Action]]
-4. An [[Action]] function
-	- Given a [[State]] & an [[Action]] - return a new [[State]]
-5. A set of [[Goal]]
-6. [[Path]] Cost
+2. [[Initial State (Start State)]]
+3. A set of [[action]]
+4. An [[action]] function
+	- Given a [[State(s)]] & an [[action]] - return a new [[State(s)]]
+5. A set of [[Goal(s) - Goal State(s)]]
+6. [[path(s)]] Cost

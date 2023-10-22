@@ -1,3 +1,3 @@
-[[Agent]] delivers the output of [[Action]] to the [[Environment]]
+[[Agent]] delivers the output of [[action]] to the [[environment]]
 
-> What are the outputs that enable [[Action]] upon an [[Environment]]
+> What are the outputs that enable [[action]] upon an [[environment]]

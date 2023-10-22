@@ -1,1 +1,1 @@
-Consists of [[PEAS]]
+- Consists of [[PEAS]]

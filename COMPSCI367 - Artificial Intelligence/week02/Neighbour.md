@@ -1,1 +1,1 @@
-A node n2 is a neighbour of n1 if there is an arc from n1 to n2
+A node $n2$ is a neighbour of $n1$ if there is an [[arc]] from $n1$ to $n2$
