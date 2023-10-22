@@ -1,3 +1,4 @@
+![[Pasted image 20231022160231.png]]
 - Randomly generated 8-queens [[Start States]]
 	- Get stuck 86% of the time
 	- Solves only 14% of problem instances

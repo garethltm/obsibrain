@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week04/Hill-Climbing with 8-Queens.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week04/Hill-Climbing Search.md",
                 "mode": "source",
                 "source": false
               }
@@ -179,7 +179,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week04/Hill-Climbing with 8-Queens.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week04/Hill-Climbing Search.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -196,7 +196,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week04/Hill-Climbing with 8-Queens.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week04/Hill-Climbing Search.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -219,7 +219,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week04/Hill-Climbing with 8-Queens.md"
+                "file": "COMPSCI367 - Artificial Intelligence/week04/Hill-Climbing Search.md"
               }
             }
           },
@@ -259,11 +259,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "358f03c9716e94e8",
+  "active": "3ad179677b7fba41",
   "lastOpenFiles": [
+    "COMPSCI367 - Artificial Intelligence/week04/Hill-Climbing with 8-Queens.md",
+    "@images/Pasted image 20231022160231.png",
     "COMPSCI367 - Artificial Intelligence/week04/Iterative best improvement.md",
     "COMPSCI367 - Artificial Intelligence/week04/Hill-Climbing Search.md",
-    "COMPSCI367 - Artificial Intelligence/week04/Hill-Climbing with 8-Queens.md",
     "@images/Pasted image 20231022155803.png",
     "@images/Pasted image 20231022154712.png",
     "COMPSCI367 - Artificial Intelligence/week04/minimises.md",
@@ -300,7 +301,6 @@
     "@images/Pasted image 20231017002537.png",
     "@images/Pasted image 20231017002334.png",
     "@images/Pasted image 20231017002448.png",
-    "@images/Pasted image 20231017002246.png",
     "@images",
     "INFOSYS222 - Database Systems",
     "COMPSCI367 - Artificial Intelligence/week01",
