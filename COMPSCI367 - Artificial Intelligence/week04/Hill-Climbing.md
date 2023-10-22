@@ -11,7 +11,7 @@
 - algorithm doesn't know what happened before that - NO MEMORY
 
 ![[Pasted image 20231022154712.png]]
-- IMPORTANCE of [[Hill-Climbing Search]] = we always want to improve the VALUE
+- IMPORTANCE of [[Hill-Climbing]] = we always want to improve the VALUE
 
 ### Difficulties
 - Main problem: depending on [[initial state]], can get stuck in local maxima
@@ -19,6 +19,6 @@
 > Note: these difficulties apply to all [[Local Search]] algorithms, and usually becomes much worse as the [[search space]] becomes higher dimensional
 1. Local maxima
 2. Plateaus
-3. Diagonal ridges
+3. [[Diagonal ridges]]
 
 Related to: [[Hill-Climbing with 8-Queens]]

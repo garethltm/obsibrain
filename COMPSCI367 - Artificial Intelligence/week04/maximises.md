@@ -1,1 +1,1 @@
-- [[Hill-Climbing Search]]
+- [[Hill-Climbing]]
