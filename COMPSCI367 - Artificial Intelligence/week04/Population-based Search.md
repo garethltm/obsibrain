@@ -4,8 +4,9 @@
 - Search diversification
 	- which may lead to a higher chance of finding a better solution
 - Combination of promising traits in different [[candidate solution]]
-	- Agents may share the same information
-		> 1 Agent finds shit path; Another one find a good path
+	- [[Multi-agent]] may share the same information
+		> 1 [[agent]] finds shit path; Another one find a good path
+		> 		
 
 ## Strategies
 1. Local beam Search
