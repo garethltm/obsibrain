@@ -6,4 +6,6 @@ Typically,
 - bridged by relatively quick periods of [[Hill-Climbing]]
 - Sometimes called "Variable Neighbourhood Descent"
 
+![[Untitled.png]]
+
 Middle ground between [[Local Search]] & [[Systematic Search]]

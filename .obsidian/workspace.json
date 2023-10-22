@@ -75,7 +75,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week04/Hill-Climbing.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week04/Hill-Climbing with 8-Queens.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       },
       {
         "id": "992e264c1b226738",
@@ -148,7 +148,7 @@
                       "repelStrength": 10,
                       "linkStrength": 1,
                       "linkDistance": 250,
-                      "scale": 1,
+                      "scale": 0.713275462622442,
                       "close": true
                     }
                   }
@@ -208,7 +208,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "29204b37fc003a9a",
@@ -224,7 +225,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week04/Hill-Climbing.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week04/Enforced Hill-Climbing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -241,7 +242,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week04/Hill-Climbing.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week04/Enforced Hill-Climbing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -264,7 +265,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week04/Hill-Climbing.md"
+                "file": "COMPSCI367 - Artificial Intelligence/week04/Enforced Hill-Climbing.md"
               }
             }
           },
@@ -296,21 +297,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d0f61cd9fefb8c2d",
+  "active": "874de3ab24aec93a",
   "lastOpenFiles": [
+    "@images/Untitled.png",
+    "COMPSCI367 - Artificial Intelligence/week04/Hill-Climbing with 8-Queens.md",
+    "COMPSCI367 - Artificial Intelligence/week04/Hill-Climbing with side-way moves on the 8-Queens.md",
+    "COMPSCI367 - Artificial Intelligence/week04/Hill-Climbing with side-way moves.md",
+    "COMPSCI367 - Artificial Intelligence/week04/Hill-Climbing.md",
     "COMPSCI367 - Artificial Intelligence/week04/Tabu Search.md",
     "README.md",
     "COMPSCI367 - Artificial Intelligence/week04/Enforced Hill-Climbing.md",
     "COMPSCI367 - Artificial Intelligence/week04/Greedy Descent.md",
-    "COMPSCI367 - Artificial Intelligence/week04/Hill-Climbing with 8-Queens.md",
     "COMPSCI367 - Artificial Intelligence/week04/Iterative best improvement.md",
-    "COMPSCI367 - Artificial Intelligence/week04/Hill-Climbing with side-way moves on the 8-Queens.md",
     "COMPSCI367 - Artificial Intelligence/week04/Tabu list.md",
     "@images/Pasted image 20231022164039.png",
     "COMPSCI367 - Artificial Intelligence/week03/Local Search.md",
     "COMPSCI367 - Artificial Intelligence/week04/Local Optima.md",
-    "COMPSCI367 - Artificial Intelligence/week04/Hill-Climbing with side-way moves.md",
-    "COMPSCI367 - Artificial Intelligence/week04/Hill-Climbing.md",
     "COMPSCI367 - Artificial Intelligence/week04/greedy choice.md",
     "COMPSCI367 - Artificial Intelligence/week04/Diagonal ridges.md",
     "@images/Pasted image 20231022161956.png",
@@ -333,7 +335,6 @@
     "COMPSCI367 - Artificial Intelligence/week01/Goal.md",
     "COMPSCI367 - Artificial Intelligence/week02/State Space Problem.md",
     "COMPSCI367 - Artificial Intelligence/week05/Population-based Search.md",
-    "COMPSCI367 - Artificial Intelligence/week03/Admissible heuristic.md",
     "COMPSCI367 - Artificial Intelligence/week03",
     "COMPSCI367 - Artificial Intelligence/week04",
     "COMPSCI367 - Artificial Intelligence/week05",
