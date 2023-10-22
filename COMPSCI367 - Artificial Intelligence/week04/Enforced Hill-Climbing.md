@@ -4,4 +4,7 @@
 
 Typically,
 - prolonged periods of exhaustive search
-- bridged by 
+- bridged by relatively quick periods of [[Hill-Climbing]]
+- Sometimes called "Variable Neighbourhood Descent"
+
+Middle ground 
