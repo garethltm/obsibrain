@@ -44,9 +44,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "f29b33f23d11f1cc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "COMPSCI367 - Artificial Intelligence/week04/Untitled.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "78003ac2d0f27c16",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "COMPSCI367 - Artificial Intelligence/week04/minimises.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       },
       {
         "id": "ec007f23455ced60",
@@ -155,7 +179,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week04/Iterative best improvement.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week04/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,7 +196,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week04/Iterative best improvement.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week04/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -195,7 +219,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week04/Iterative best improvement.md"
+                "file": "COMPSCI367 - Artificial Intelligence/week04/Untitled.md"
               }
             }
           },
@@ -235,8 +259,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "358f03c9716e94e8",
+  "active": "f29b33f23d11f1cc",
   "lastOpenFiles": [
+    "COMPSCI367 - Artificial Intelligence/week04/maximises.md",
+    "COMPSCI367 - Artificial Intelligence/week04/Untitled.md",
+    "COMPSCI367 - Artificial Intelligence/week04/minimises.md",
+    "COMPSCI367 - Artificial Intelligence/week04/Iterative best improvement.md",
     "COMPSCI367 - Artificial Intelligence/week05/Local beam Search.md",
     "COMPSCI367 - Artificial Intelligence/week05/candidate solution.md",
     "COMPSCI367 - Artificial Intelligence/week01/Foundations of Artificial Intelligence.md",
@@ -246,7 +274,6 @@
     "COMPSCI367 - Artificial Intelligence/week02/State Space Problem.md",
     "COMPSCI367 - Artificial Intelligence/week05/Population-based Search.md",
     "COMPSCI367 - Artificial Intelligence/week03/Admissible heuristic.md",
-    "COMPSCI367 - Artificial Intelligence/week04/Iterative best improvement.md",
     "COMPSCI367 - Artificial Intelligence/week03/Local Search.md",
     "COMPSCI367 - Artificial Intelligence/week03",
     "COMPSCI367 - Artificial Intelligence/week05/population.md",
@@ -264,9 +291,6 @@
     "COMPSCI367 - Artificial Intelligence/week02/Directed Graph.md",
     "COMPSCI367 - Artificial Intelligence/week02/State Space.md",
     "COMPSCI367 - Artificial Intelligence/week02/State.md",
-    "COMPSCI367 - Artificial Intelligence/week02/Start State.md",
-    "COMPSCI367 - Artificial Intelligence/week01/Reflex (Model-Based) Agent.md",
-    "COMPSCI367 - Artificial Intelligence/week01/Planning Agent.md",
     "COMPSCI367 - Artificial Intelligence/week02",
     "Untitle",
     "@images/Pasted image 20231016005321.png",
