@@ -4,6 +4,6 @@
 - in an ideal scenario where there are no limitation, what is the best possible solution
 
 ### Summary
-- Admissible heuristic
+- [[Admissible heuristic]]
 - Comparing heuristics
 > Good heuristics can help A* Search algorithm to find the solution faster
