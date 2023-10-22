@@ -1,1 +1,1 @@
-- greedy descent (gradient descent)
+- [[Greedy Descent]] (gradient descent)
