@@ -7,3 +7,4 @@
 #### Why is it not that BAD
 - 4 steps on average when it succeeds
 - 3 steps on average when it gets stuck
+	- State Space with $8^8$ = ~17 million states
