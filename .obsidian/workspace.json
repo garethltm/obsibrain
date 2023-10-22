@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week04/Local Search.md",
                 "mode": "source",
                 "source": false
               }
@@ -58,7 +58,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "README.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week04/Local Search.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -154,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week04/Local Search.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week04/Local Search.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "COMPSCI367 - Artificial Intelligence/week04/Local Search.md"
               }
             }
           },
@@ -221,7 +221,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -233,15 +234,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3ad179677b7fba41",
+  "active": "bcc7a7b87dd8df83",
   "lastOpenFiles": [
-    "2023-10-22.md",
-    "COMPSCI367 - Artificial Intelligence/week04/Local Search Strategies.md",
-    "COMPSCI367 - Artificial Intelligence/week04/current state.md",
     "COMPSCI367 - Artificial Intelligence/week04/single candidate solution.md",
+    "README.md",
+    "2023-10-22.md",
+    "COMPSCI367 - Artificial Intelligence/week04/Local Search.md",
+    "COMPSCI367 - Artificial Intelligence/week04/current state.md",
     "COMPSCI367 - Artificial Intelligence/week02/Solution.md",
     "COMPSCI367 - Artificial Intelligence/week04",
-    "README.md",
     "COMPSCI367 - Artificial Intelligence/week02/Search Techniques (Strategy).md",
     "COMPSCI367 - Artificial Intelligence/week02/Path.md",
     "COMPSCI367 - Artificial Intelligence/week02/Neighbour.md",
