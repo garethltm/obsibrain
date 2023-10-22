@@ -4,6 +4,7 @@
 
 ## Steps
 1. we start from some initial state
+2. perform a number of actions searching for a solution
 
 ## Main Idea
 - resembling an [[agent]] exploring the search space & move along successor relations

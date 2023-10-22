@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week04/Local Search.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week04/Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -58,7 +58,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week04/Local Search.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week04/Untitled.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -154,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week04/Local Search.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week04/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week04/Local Search.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week04/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week04/Local Search.md"
+                "file": "COMPSCI367 - Artificial Intelligence/week04/Untitled.md"
               }
             }
           },
@@ -236,10 +236,12 @@
   },
   "active": "bcc7a7b87dd8df83",
   "lastOpenFiles": [
+    "COMPSCI367 - Artificial Intelligence/week04/Population-based Search.md",
+    "COMPSCI367 - Artificial Intelligence/week04/Untitled.md",
+    "COMPSCI367 - Artificial Intelligence/week04/Local Search.md",
     "COMPSCI367 - Artificial Intelligence/week04/single candidate solution.md",
     "README.md",
     "2023-10-22.md",
-    "COMPSCI367 - Artificial Intelligence/week04/Local Search.md",
     "COMPSCI367 - Artificial Intelligence/week04/current state.md",
     "COMPSCI367 - Artificial Intelligence/week02/Solution.md",
     "COMPSCI367 - Artificial Intelligence/week04",
@@ -261,8 +263,6 @@
     "COMPSCI367 - Artificial Intelligence/week02/State Space Searching.md",
     "COMPSCI367 - Artificial Intelligence/week01/Tasks.md",
     "COMPSCI367 - Artificial Intelligence/week01/Fully Observable.md",
-    "COMPSCI367 - Artificial Intelligence/week02/Arc.md",
-    "COMPSCI367 - Artificial Intelligence/week01/Action.md",
     "COMPSCI367 - Artificial Intelligence/week02",
     "Untitle",
     "@images/Pasted image 20231016005321.png",
