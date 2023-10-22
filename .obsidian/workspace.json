@@ -203,7 +203,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week04/uphill successors.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week04/Hill-Climbing with side-way moves.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -220,7 +220,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week04/uphill successors.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week04/Hill-Climbing with side-way moves.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -243,7 +243,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week04/uphill successors.md"
+                "file": "COMPSCI367 - Artificial Intelligence/week04/Hill-Climbing with side-way moves.md"
               }
             }
           },
@@ -283,10 +283,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3ad179677b7fba41",
+  "active": "2602e13c15239a89",
   "lastOpenFiles": [
-    "COMPSCI367 - Artificial Intelligence/week04/Hill-Climbing with side-way moves.md",
     "COMPSCI367 - Artificial Intelligence/week04/uphill successors.md",
+    "COMPSCI367 - Artificial Intelligence/week04/Hill-Climbing with side-way moves.md",
     "COMPSCI367 - Artificial Intelligence/week04/sideways.md",
     "COMPSCI367 - Artificial Intelligence/week04/Hill-Climbing.md",
     "COMPSCI367 - Artificial Intelligence/week04/Hill-Climbing with 8-Queens.md",
