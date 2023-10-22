@@ -1,4 +1,4 @@
-- A resolution to the problem of [[Hill-Climbing]] not remembering (because it can end up in the same state)
+- A resolution to the problem of [[Hill-Climbing]] not remembering (because it can end up in the same state again)
 	- it stores a certain amount of states that we visited then adding the most recent & removing the oldest one
 		- which helps to avoid the same states twice
 - Prevents returning quickly to the same state
