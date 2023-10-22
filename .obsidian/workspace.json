@@ -22,18 +22,6 @@
             "group": "49e37924338b6c36"
           },
           {
-            "id": "cb5aa28fcd535c95",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week03/Admissible heuristic.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "9d16bf805036e931",
             "type": "leaf",
             "state": {
@@ -51,14 +39,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week01/Goal.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week03/heuristic.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "ec007f23455ced60",
@@ -167,7 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week03/Admissible heuristic.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week03/heuristic.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -184,7 +172,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week03/Admissible heuristic.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week03/heuristic.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -207,7 +195,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week03/Admissible heuristic.md"
+                "file": "COMPSCI367 - Artificial Intelligence/week03/heuristic.md"
               }
             }
           },
@@ -247,20 +235,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cb5aa28fcd535c95",
+  "active": "358f03c9716e94e8",
   "lastOpenFiles": [
-    "COMPSCI367 - Artificial Intelligence/week03/heuristic.md",
+    "COMPSCI367 - Artificial Intelligence/week04/greedy choice.md",
+    "COMPSCI367 - Artificial Intelligence/week01/Goal.md",
+    "COMPSCI367 - Artificial Intelligence/week02/State Space Problem.md",
+    "COMPSCI367 - Artificial Intelligence/week05/Population-based Search.md",
     "COMPSCI367 - Artificial Intelligence/week03/Admissible heuristic.md",
+    "COMPSCI367 - Artificial Intelligence/week03/heuristic.md",
     "COMPSCI367 - Artificial Intelligence/week04/Iterative best improvement.md",
     "COMPSCI367 - Artificial Intelligence/week05/Local beam Search.md",
-    "COMPSCI367 - Artificial Intelligence/week04/greedy choice.md",
     "COMPSCI367 - Artificial Intelligence/week03/Local Search.md",
     "COMPSCI367 - Artificial Intelligence/week03",
     "COMPSCI367 - Artificial Intelligence/week05/population.md",
-    "COMPSCI367 - Artificial Intelligence/week02/State Space Problem.md",
     "@images/Pasted image 20231022152110.png",
     "COMPSCI367 - Artificial Intelligence/week04",
-    "COMPSCI367 - Artificial Intelligence/week05/Population-based Search.md",
     "COMPSCI367 - Artificial Intelligence/week05/candidate solution.md",
     "README.md",
     "2023-10-22.md",
@@ -272,7 +261,6 @@
     "COMPSCI367 - Artificial Intelligence/week02/Neighbour.md",
     "COMPSCI367 - Artificial Intelligence/week02/Motivation of having a Search Strategy.md",
     "COMPSCI367 - Artificial Intelligence/week02/Directed Graph.md",
-    "COMPSCI367 - Artificial Intelligence/week01/Goal.md",
     "COMPSCI367 - Artificial Intelligence/week02/State Space.md",
     "COMPSCI367 - Artificial Intelligence/week02/State.md",
     "COMPSCI367 - Artificial Intelligence/week02/Start State.md",

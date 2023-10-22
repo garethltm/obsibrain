@@ -5,3 +5,5 @@
 
 ### Summary
 - Admissible heuristic
+- Comparing heuristics
+> Good heuristics can help A* Search algorithm to find the solution faster
