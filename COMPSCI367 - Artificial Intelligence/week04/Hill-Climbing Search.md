@@ -1,4 +1,5 @@
 - Have no Frontier
+- Will just STOP
 
 ## Steps
 - Start wherever
