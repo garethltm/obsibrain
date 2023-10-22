@@ -75,7 +75,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week04/Hill-Climbing.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week04/Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -191,7 +191,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week04/Hill-Climbing.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week04/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -208,7 +208,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week04/Hill-Climbing.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week04/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -231,7 +231,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week04/Hill-Climbing.md"
+                "file": "COMPSCI367 - Artificial Intelligence/week04/Untitled.md"
               }
             }
           },
@@ -273,11 +273,12 @@
   },
   "active": "d0f61cd9fefb8c2d",
   "lastOpenFiles": [
+    "COMPSCI367 - Artificial Intelligence/week04/Hill-Climbing.md",
+    "COMPSCI367 - Artificial Intelligence/week04/Untitled.md",
     "COMPSCI367 - Artificial Intelligence/week04/Diagonal ridges.md",
     "@images/Pasted image 20231022161052.png",
     "@images/Pasted image 20231022160958.png",
     "@images/Pasted image 20231022160937.png",
-    "COMPSCI367 - Artificial Intelligence/week04/Hill-Climbing.md",
     "COMPSCI367 - Artificial Intelligence/week04/Hill-Climbing with 8-Queens.md",
     "COMPSCI367 - Artificial Intelligence/week04/maximises.md",
     "COMPSCI367 - Artificial Intelligence/week04/Iterative best improvement.md",
