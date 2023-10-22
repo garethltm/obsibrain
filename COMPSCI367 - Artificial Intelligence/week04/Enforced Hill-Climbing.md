@@ -1,5 +1,5 @@
-- You are using Perform [[Breadth-First Search (BFS)]] from a local optima
-	- to find the next state with better h function
+- You are using [[Hill-Climbing]] algorithm when stuck instead of terminating, you perform [[Breadth-First Search (BFS)]] from a local optima
+	- until yofind the next state with better h function 
 	- good at Escaping Shoulders/local optima
 
 Typically,
