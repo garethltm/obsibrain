@@ -6,5 +6,5 @@
 		- 4 when succeeding
 		- 3 when getting stuck
 	- Expected total number of moves needed:
-			$\frac 3(1-p) p+4$
+			$\frac 3(1-p) (p+4)$
 			
