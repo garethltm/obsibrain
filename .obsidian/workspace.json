@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week05/Local beam Search.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week04/Iterative best improvement.md",
                 "mode": "source",
                 "source": false
               }
@@ -155,7 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week05/Local beam Search.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week04/Iterative best improvement.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,7 +172,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week05/Local beam Search.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week04/Iterative best improvement.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -195,7 +195,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week05/Local beam Search.md"
+                "file": "COMPSCI367 - Artificial Intelligence/week04/Iterative best improvement.md"
               }
             }
           },
@@ -237,6 +237,7 @@
   },
   "active": "358f03c9716e94e8",
   "lastOpenFiles": [
+    "COMPSCI367 - Artificial Intelligence/week05/Local beam Search.md",
     "COMPSCI367 - Artificial Intelligence/week05/candidate solution.md",
     "COMPSCI367 - Artificial Intelligence/week01/Foundations of Artificial Intelligence.md",
     "COMPSCI367 - Artificial Intelligence/week03/heuristic.md",
@@ -246,7 +247,6 @@
     "COMPSCI367 - Artificial Intelligence/week05/Population-based Search.md",
     "COMPSCI367 - Artificial Intelligence/week03/Admissible heuristic.md",
     "COMPSCI367 - Artificial Intelligence/week04/Iterative best improvement.md",
-    "COMPSCI367 - Artificial Intelligence/week05/Local beam Search.md",
     "COMPSCI367 - Artificial Intelligence/week03/Local Search.md",
     "COMPSCI367 - Artificial Intelligence/week03",
     "COMPSCI367 - Artificial Intelligence/week05/population.md",
