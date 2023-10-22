@@ -6,4 +6,7 @@
 		- 4 when succeeding
 		- 3 when getting stuck
 	- Expected total number of moves needed:
-			$\frac {3(1-p)} {p+4} =  ~22 \space moves$
+			$\frac {3(1-p)} {p+4}$ = ~***22 moves***
+2. Allow 100 [[sideways]] moves:
+	- Succeeds w/ probability = 0.94
+	- Average number of move
