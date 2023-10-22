@@ -20,3 +20,7 @@
 1. Local maxima
 2. Plateaus
 3. [[Diagonal ridges]]
+
+### Summary
+- [[Hill-Climbing]] - Choose best child
+- [[Hill-Climbing with side-way moves]] - choose best 
