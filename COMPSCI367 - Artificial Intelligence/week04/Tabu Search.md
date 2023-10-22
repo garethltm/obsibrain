@@ -3,8 +3,8 @@
 		- which helps to avoid the same states twice
 - Prevents returning quickly to the same state
 	-  implements a [[Tabu list]]
-	- Add most recent state to queue; drop oldest
+	- Add most recent state to [[Tabu list]]; drop oldest
 	- Never make the step that is currently "tabu'ed"
 
 ## Properties
-- 
+- As the size of the [[Tabu list]] grows, [[Hill-Climbing]] will asymptotically become "non-redundant" (won't look at the )

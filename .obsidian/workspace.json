@@ -87,7 +87,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tabu list.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week04/Tabu Search.md",
                 "mode": "source",
                 "source": false
               }
@@ -248,7 +248,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tabu list.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week04/Tabu Search.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -265,7 +265,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tabu list.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week04/Tabu Search.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -288,7 +288,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tabu list.md"
+                "file": "COMPSCI367 - Artificial Intelligence/week04/Tabu Search.md"
               }
             }
           },
@@ -322,8 +322,8 @@
   },
   "active": "556a9988be31cd3f",
   "lastOpenFiles": [
+    "COMPSCI367 - Artificial Intelligence/week04/Tabu list.md",
     "COMPSCI367 - Artificial Intelligence/week04/Tabu Search.md",
-    "Tabu list.md",
     "COMPSCI367 - Artificial Intelligence/week04/Enforced Hill-Climbing.md",
     "@images/Pasted image 20231022164039.png",
     "COMPSCI367 - Artificial Intelligence/week03/Local Search.md",
