@@ -3,3 +3,4 @@
 	2. Introduce a parameter m such that only ≤ m steps we can perform  [[sideways]] moves consecutively
 		- this solves the shoulder problem
 		![[Pasted image 20231022161956.png]]
+		- where we can overcome the shoulder & go up towards global maximum
