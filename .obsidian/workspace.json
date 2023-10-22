@@ -37,8 +37,12 @@
             "id": "358f03c9716e94e8",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "COMPSCI367 - Artificial Intelligence/week05/Local beam Search.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -151,6 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "COMPSCI367 - Artificial Intelligence/week05/Local beam Search.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,6 +172,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "COMPSCI367 - Artificial Intelligence/week05/Local beam Search.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -188,7 +194,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "COMPSCI367 - Artificial Intelligence/week05/Local beam Search.md"
+              }
             }
           },
           {
@@ -229,6 +237,8 @@
   },
   "active": "358f03c9716e94e8",
   "lastOpenFiles": [
+    "COMPSCI367 - Artificial Intelligence/week05/candidate solution.md",
+    "COMPSCI367 - Artificial Intelligence/week01/Foundations of Artificial Intelligence.md",
     "COMPSCI367 - Artificial Intelligence/week03/heuristic.md",
     "COMPSCI367 - Artificial Intelligence/week04/greedy choice.md",
     "COMPSCI367 - Artificial Intelligence/week01/Goal.md",
@@ -242,7 +252,6 @@
     "COMPSCI367 - Artificial Intelligence/week05/population.md",
     "@images/Pasted image 20231022152110.png",
     "COMPSCI367 - Artificial Intelligence/week04",
-    "COMPSCI367 - Artificial Intelligence/week05/candidate solution.md",
     "README.md",
     "2023-10-22.md",
     "COMPSCI367 - Artificial Intelligence/week05/current state.md",
@@ -258,7 +267,6 @@
     "COMPSCI367 - Artificial Intelligence/week02/Start State.md",
     "COMPSCI367 - Artificial Intelligence/week01/Reflex (Model-Based) Agent.md",
     "COMPSCI367 - Artificial Intelligence/week01/Planning Agent.md",
-    "COMPSCI367 - Artificial Intelligence/week01/Goal-Based (Telelogical Agent).md",
     "COMPSCI367 - Artificial Intelligence/week02",
     "Untitle",
     "@images/Pasted image 20231016005321.png",
