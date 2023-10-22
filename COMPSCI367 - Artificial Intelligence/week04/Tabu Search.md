@@ -1,4 +1,6 @@
-- A resolution to the proble
+- A resolution to the problem of [[Hill-Climbing]] not remembering (because it can end up in the same state)
+- it stores a certain amount of states that we visited then adding the most recent & removing the oldes t one
+	- which helps to avoi dthe same states twice
 - Prevents returning quickly to the same state
 	- Keep fixed length queue ("tabu list")
 	- Add most recent state to queue; drop oldest
