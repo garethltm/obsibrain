@@ -70,7 +70,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       },
       {
         "id": "ec007f23455ced60",
@@ -179,7 +179,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week02/State Space Problem.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week05/Local beam Search.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -196,7 +196,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week02/State Space Problem.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week05/Local beam Search.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -219,7 +219,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week02/State Space Problem.md"
+                "file": "COMPSCI367 - Artificial Intelligence/week05/Local beam Search.md"
               }
             }
           },
@@ -259,8 +259,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9d16bf805036e931",
+  "active": "817eb36540b02d14",
   "lastOpenFiles": [
+    "COMPSCI367 - Artificial Intelligence/week02/State Space Problem.md",
     "COMPSCI367 - Artificial Intelligence/week05/Local beam Search.md",
     "@images/Pasted image 20231022152110.png",
     "COMPSCI367 - Artificial Intelligence/week04/Iterative best improvement.md",
@@ -279,7 +280,6 @@
     "COMPSCI367 - Artificial Intelligence/week02/Neighbour.md",
     "COMPSCI367 - Artificial Intelligence/week02/Motivation of having a Search Strategy.md",
     "COMPSCI367 - Artificial Intelligence/week02/Directed Graph.md",
-    "COMPSCI367 - Artificial Intelligence/week02/State Space Problem.md",
     "COMPSCI367 - Artificial Intelligence/week01/Goal.md",
     "COMPSCI367 - Artificial Intelligence/week02/State Space.md",
     "COMPSCI367 - Artificial Intelligence/week02/State.md",
