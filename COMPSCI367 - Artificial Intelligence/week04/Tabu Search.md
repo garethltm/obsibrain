@@ -1,1 +1,5 @@
-- Prevents returning quikc
+- A resolution to the proble
+- Prevents returning quickly to the same state
+	- Keep fixed length queue ("tabu list")
+	- Add most recent state to queue; drop oldest
+	- Never make the step that is currently "tabu'ed"
