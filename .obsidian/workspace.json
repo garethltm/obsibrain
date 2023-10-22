@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week04/Iterative best improvement.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week04/Hill-Climbing with 8-Queens.md",
                 "mode": "source",
                 "source": false
               }
@@ -58,18 +58,6 @@
             }
           },
           {
-            "id": "a87f36592ab7d8cd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week04/Hill-Climbing with 8-Queens.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "78003ac2d0f27c16",
             "type": "leaf",
             "state": {
@@ -82,7 +70,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       },
       {
         "id": "ec007f23455ced60",
@@ -271,12 +259,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a87f36592ab7d8cd",
+  "active": "358f03c9716e94e8",
   "lastOpenFiles": [
-    "@images/Pasted image 20231022155803.png",
     "COMPSCI367 - Artificial Intelligence/week04/Iterative best improvement.md",
     "COMPSCI367 - Artificial Intelligence/week04/Hill-Climbing Search.md",
     "COMPSCI367 - Artificial Intelligence/week04/Hill-Climbing with 8-Queens.md",
+    "@images/Pasted image 20231022155803.png",
     "@images/Pasted image 20231022154712.png",
     "COMPSCI367 - Artificial Intelligence/week04/minimises.md",
     "COMPSCI367 - Artificial Intelligence/week04/maximises.md",
@@ -313,7 +301,6 @@
     "@images/Pasted image 20231017002334.png",
     "@images/Pasted image 20231017002448.png",
     "@images/Pasted image 20231017002246.png",
-    "@images/Pasted image 20231017002236.png",
     "@images",
     "INFOSYS222 - Database Systems",
     "COMPSCI367 - Artificial Intelligence/week01",
