@@ -1,1 +1,1 @@
-- adaptation of [[Iterative best improvement]] by maintaining M assignments
+- adaptation of [[Iterative best improvement]] by maintaining M assignments, where 
