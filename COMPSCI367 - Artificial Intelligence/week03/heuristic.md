@@ -1,0 +1,1 @@
+- a solution to relaxed problems, where some of the constraints of the original problem have been removed
