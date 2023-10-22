@@ -15,5 +15,7 @@
 
 ### Difficulties
 - Problem: depending on [[initial state]], can get stuck in local maxima
+![[Pasted image 20231022160343.png]]
+> Note: these difficulties apply to all [[Local Search]] algorithms, and usually
 
 Related to: [[Hill-Climbing with 8-Queens]]
