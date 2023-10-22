@@ -1,0 +1,1 @@
+ - keep a single "current" state, try to improve it

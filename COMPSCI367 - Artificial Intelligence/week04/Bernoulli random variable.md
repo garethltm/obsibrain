@@ -1,0 +1,1 @@
+- **the simplest kind of random variable**

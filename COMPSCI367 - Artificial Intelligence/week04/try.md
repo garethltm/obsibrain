@@ -1,0 +1,2 @@
+- process of succeeding/failing as a [[Bernoulli random variable]]
+- Whether a [[try]] is successful or not = [[Bernoulli random variable]]
