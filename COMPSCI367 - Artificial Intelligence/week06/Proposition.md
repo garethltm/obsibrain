@@ -1,2 +1,2 @@
 - formed by connecting simpler [[Proposition]] using connectives such as:
-	- $\neg , \$
+	- $\neg , \vee, \wedge, \implies$
