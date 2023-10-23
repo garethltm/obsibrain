@@ -1,0 +1,1 @@
+If there is a proof of g starting from S then `S ⊦ g`
