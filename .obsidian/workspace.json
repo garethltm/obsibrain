@@ -46,6 +46,18 @@
             }
           },
           {
+            "id": "ea8aebfb2a67a810",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "COMPSCI367 - Artificial Intelligence/week02/Optimal.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "2602e13c15239a89",
             "type": "leaf",
             "state": {
@@ -58,7 +70,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       },
       {
         "id": "d9a730eda40123bb",
@@ -167,7 +179,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week02/Cost Sensitive Search.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week02/Optimal.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -184,7 +196,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week02/Cost Sensitive Search.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week02/Optimal.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -207,7 +219,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week02/Cost Sensitive Search.md"
+                "file": "COMPSCI367 - Artificial Intelligence/week02/Optimal.md"
               }
             }
           },
@@ -239,11 +251,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "358f03c9716e94e8",
+  "active": "ea8aebfb2a67a810",
   "lastOpenFiles": [
+    "COMPSCI367 - Artificial Intelligence/week02/Cost Sensitive Search.md",
+    "@images/Pasted image 20231023140125.png",
     "@images/Pasted image 20231023140110.png",
     "COMPSCI367 - Artificial Intelligence/week02/Uniform-Cost Search (UCS) (Lowest-Cost-First Search).md",
-    "COMPSCI367 - Artificial Intelligence/week02/Cost Sensitive Search.md",
     "COMPSCI367 - Artificial Intelligence/week04/Hill-Climbing.md",
     "COMPSCI367 - Artificial Intelligence/week03/optimistic.md",
     "COMPSCI367 - Artificial Intelligence/week03/Admissible heuristic.md",
@@ -275,8 +288,6 @@
     "@images/Pasted image 20231022161956.png",
     "@images/Pasted image 20231022161052.png",
     "@images/Pasted image 20231022160958.png",
-    "@images/Pasted image 20231022160937.png",
-    "@images/Pasted image 20231022160706.png",
     "COMPSCI367 - Artificial Intelligence/week03",
     "COMPSCI367 - Artificial Intelligence/week04",
     "COMPSCI367 - Artificial Intelligence/week05",

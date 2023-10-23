@@ -9,3 +9,6 @@
     ### Bad
 	- explores options in every “direction”
     - No information about the [[Goal(s) - Goal State(s)]] location
+    ![[Pasted image 20231023140125.png]]
+    - doesn't know where to go
+    - the blue node would be the optimal path; [[Uniform-Cost Search (UCS) (Lowest-Cost-First Search)]] would prioritise the black nodes instead which is not [[optimal]]
