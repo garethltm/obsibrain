@@ -18,3 +18,18 @@ The aim is to find an assignment of the variables $Xi$ from the domains $Di$ in 
 
 ### Constraint Graph
 ![[Pasted image 20231023160844.png]]
+- Constraint graph: nodes are variables, arcs are [[constraint(s)]]
+- Binary CSP: each [[constraint(s)]] relates to 2 variables
+
+### n-Queens Puzzle
+![[Pasted image 20231023160933.png]]
+- Put n queens on an n-by-n chess board so that no 2 queens are attacking each other
+- Variables: $Q1, Q2, ..., Qn$
+
+Domains: ${1,2,...,n}$
+
+Constraints:
+
+$Qi ≠ Qj$ (cannot be in same row)
+
+$|Qi - Qj| ≠ |i-j|$ (or same diagonal)
