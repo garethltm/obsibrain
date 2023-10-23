@@ -1,3 +1,4 @@
 - [[SLD derivation]] of a query `ask g` from $KB\ \cup\ Percepts$ is a sequence of [[Definite clause]] $\gamma0, ...,\gamma n$ :
 	- The head of each $\gamma i$ is yes
-	- $\gamma 0$ is $
+	- $\gamma 0$ is $yes \leftarrow g$
+	- For i >0, $\gamma i$ is obtained by [[resolution]] (at each iteration) from  
