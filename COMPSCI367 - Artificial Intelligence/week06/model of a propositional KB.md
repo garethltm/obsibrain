@@ -1,2 +1,2 @@
 - an [[interpretation]] that satisfies [[Knowledge Base (KB)]]
-- satisf
+- satisfying everything in a [[Knowledge Base (KB)]]ww

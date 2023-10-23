@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week06/model of a propositional KB.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week06/Propositional Logic with Wumpus World.md",
                 "mode": "source",
                 "source": false
               }
@@ -45,7 +45,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week06/model of a propositional KB.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week06/Propositional Logic with Wumpus World.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -68,7 +68,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.7132754626224423,
+                  "scale": 0.1846232622585813,
                   "close": false
                 }
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week06/model of a propositional KB.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week06/Propositional Logic with Wumpus World.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week06/model of a propositional KB.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week06/Propositional Logic with Wumpus World.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -180,7 +180,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week06/model of a propositional KB.md"
+                "file": "COMPSCI367 - Artificial Intelligence/week06/Propositional Logic with Wumpus World.md"
               }
             }
           },
@@ -214,6 +214,8 @@
   },
   "active": "719a9e3cda8d050c",
   "lastOpenFiles": [
+    "@images/Pasted image 20231023212351.png",
+    "COMPSCI367 - Artificial Intelligence/week06/Propositional Logic.md",
     "COMPSCI367 - Artificial Intelligence/week06/Propositional Knowledge Base.md",
     "COMPSCI367 - Artificial Intelligence/week06/model of a propositional KB.md",
     "COMPSCI367 - Artificial Intelligence/week06/Knowledge Base (KB).md",
@@ -225,7 +227,6 @@
     "COMPSCI367 - Artificial Intelligence/week06/interpretation.md",
     "COMPSCI367 - Artificial Intelligence/week06/knowledge.md",
     "COMPSCI367 - Artificial Intelligence/week06/Propositional Logic with Wumpus World.md",
-    "COMPSCI367 - Artificial Intelligence/week06/Propositional Logic.md",
     "@images/Pasted image 20231023211733.png",
     "@images/Pasted image 20231023211539.png",
     "@images/Pasted image 20231023211515.png",
@@ -242,7 +243,6 @@
     "COMPSCI367 - Artificial Intelligence/week06/Atomic Propositions (atoms).md",
     "COMPSCI367 - Artificial Intelligence/week06/Atomic Representation.md",
     "COMPSCI367 - Artificial Intelligence/week06/Compound Propositions (Compound Entities).md",
-    "COMPSCI367 - Artificial Intelligence/week06/Duality of Syntax vs Semantics.md",
     "@images/Pasted image 20231023211353.png",
     "@images/Pasted image 20231023211252.png",
     "@images/Pasted image 20231023210943.png",
