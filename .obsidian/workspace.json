@@ -39,19 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week04/Hill-Climbing.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f29b33f23d11f1cc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week03/optimistic.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week02/Cost Sensitive Search.md",
                 "mode": "source",
                 "source": false
               }
@@ -70,7 +58,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       },
       {
         "id": "d9a730eda40123bb",
@@ -179,7 +167,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week03/optimistic.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week02/Cost Sensitive Search.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -196,7 +184,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week03/optimistic.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week02/Cost Sensitive Search.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -219,7 +207,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week03/optimistic.md"
+                "file": "COMPSCI367 - Artificial Intelligence/week02/Cost Sensitive Search.md"
               }
             }
           },
@@ -251,8 +239,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f29b33f23d11f1cc",
+  "active": "358f03c9716e94e8",
   "lastOpenFiles": [
+    "COMPSCI367 - Artificial Intelligence/week02/Uniform-Cost Search (UCS) (Lowest-Cost-First Search).md",
     "COMPSCI367 - Artificial Intelligence/week04/Hill-Climbing.md",
     "COMPSCI367 - Artificial Intelligence/week03/optimistic.md",
     "COMPSCI367 - Artificial Intelligence/week03/Admissible heuristic.md",
@@ -279,7 +268,6 @@
     "COMPSCI367 - Artificial Intelligence/week05/Population-based Search.md",
     "conflict-files-obsidian-git.md",
     "COMPSCI367 - Artificial Intelligence/week04/Probabilistic Approximately Complete (PAC).md",
-    "COMPSCI367 - Artificial Intelligence/week04/Random Walk & Random Restart Hill-Climbing.md",
     "@images/Untitled.png",
     "@images/Pasted image 20231022182721.png",
     "@images/Pasted image 20231022173408.png",
