@@ -23,4 +23,4 @@ General-purpose methods can give huge gains in speed:
 - In what order should its values be tried?
 - Can we detect inevitable failure early?
 #### Approaches:
-1. 
+1. [[Minimum Remaining Values (MRV)]]
