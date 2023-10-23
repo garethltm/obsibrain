@@ -11,9 +11,17 @@ for every s, so $h2$*(n) is admissible for p1
 
 ![[Pasted image 20231023143837.png]]
 With [[A-Star Search]]: a trade-off between quality of estimate and work per node
-- As **heuristics get closer to the true cost**, you will expand fewer nodes but usually do more work per node to compute the heuristic itself
+- As **[[heuristic(s)]] get closer to the true cost**, you will expand fewer nodes but usually do more work per node to compute the [[heuristic(s)]] itself
 ## Main idea
 - in an ideal scenario where there are no limitation, what is the best possible [[solution(s)]]
+##### What does $h1$ BETTER than $h2$ means (How do we know which [[heuristic(s)]] is better)
+- What we’d like $h1$ better than $h2$ for problem P to mean is that A* solving P using takes less time/memory than A* using
+- However. that is hard to predict in general
+- So, instead we look at node expansions as a proxy for time/memory
+
+If A* expands fewer nodes using $h1$ than using we say it is “better”
+
+Happily, we can characterise when this is likely to happen, namely when $h1$’s values are not lower than $h2$’s values
 ### Summary
 - [[Admissible heuristic]]
 - Comparing [[heuristic(s)]]
