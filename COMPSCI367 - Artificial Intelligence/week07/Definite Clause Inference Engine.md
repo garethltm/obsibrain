@@ -13,5 +13,5 @@
 
 ## Abstract Idea
 - [[Proof procedure]]
-- [[Sound (Proposition)]]
-- [[Complete (Proposition)|Complete (Proposition)]]
+- [[Soundness]]
+- [[Completeness|Completeness]]
