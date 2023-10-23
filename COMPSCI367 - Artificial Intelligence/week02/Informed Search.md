@@ -9,3 +9,17 @@
 
 # Types of Informed Search
 - [[Greedy (Best-First) Search]]
+
+## Summary: Informed Search
+[[heuristic(s)]] can be applied to reduce search cost
+- [[Greedy (Best-First) Search]] tries to minimise the cost from current node n to the goal
+- [[A-Star Search]] combines the advantages of Uniform-Cost Search & Greedy Search
+	- [[A-Star Search]] is [[complete]], [[optimal]] and optimally efficient among all optimal search algorithmsMemory usage is still a concern for A*: IDA* is a low-memory variant
+    
+- Informed search makes use to problem-specific knowledge to guide progress of search
+    
+- This can lead to a significant improvement in performance
+    
+- Much research has gone into admissible heuristics
+    
+    - Even on the automatic generation of admissible heuristics
