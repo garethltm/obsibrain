@@ -6,3 +6,6 @@
     - can find solutions more efficiently than uninformed strategy
 - Informed search algorithms, can do quite well given some guidance on where to look for solutions
 - All implemented using a [[priority queue]] to store [[frontier]] nodes
+
+# Types of Informed Search
+- [[Greedy (Best-First) Search]]
