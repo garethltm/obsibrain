@@ -20,21 +20,8 @@
               }
             },
             "group": "da01315d8484006a"
-          },
-          {
-            "id": "b0766baef24f996c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "crossover operation.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "f46a17f0b7c45033",
@@ -143,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "crossover operation.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week05/Genetic Algorithm.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "crossover operation.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week05/Genetic Algorithm.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -183,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "crossover operation.md"
+                "file": "COMPSCI367 - Artificial Intelligence/week05/Genetic Algorithm.md"
               }
             }
           },
@@ -215,10 +202,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b0766baef24f996c",
+  "active": "4096a24949cac45d",
   "lastOpenFiles": [
+    "COMPSCI367 - Artificial Intelligence/week05/mutation operation.md",
+    "@images/Pasted image 20231023181835.png",
     "COMPSCI367 - Artificial Intelligence/week05/Genetic Algorithm.md",
-    "crossover operation.md",
+    "COMPSCI367 - Artificial Intelligence/week05/crossover operation.md",
+    "@images/Pasted image 20231023181756.png",
     "COMPSCI367 - Artificial Intelligence/week05/fitness.md",
     "COMPSCI367 - Artificial Intelligence/week05/genetics.md",
     "COMPSCI367 - Artificial Intelligence/week05/evolution.md",
@@ -242,7 +232,6 @@
     "COMPSCI367 - Artificial Intelligence/week03/Local Search.md",
     "COMPSCI367 - Artificial Intelligence/week03/Iterative Improvement.md",
     "@images/Pasted image 20231023175248.png",
-    "@images/Pasted image 20231023175238.png",
     "COMPSCI367 - Artificial Intelligence/week04/Systematic Search vs Local Search.md",
     "COMPSCI367 - Artificial Intelligence/week03/Variable Elimination.md",
     "COMPSCI367 - Artificial Intelligence/week04/Gradient descent.md",
@@ -250,9 +239,6 @@
     "COMPSCI367 - Artificial Intelligence/week04/Enforced Hill-Climbing.md",
     "COMPSCI367 - Artificial Intelligence/week03/Least Constrainting Value.md",
     "COMPSCI367 - Artificial Intelligence/week04/Local Search in Continuous Space.md",
-    "COMPSCI367 - Artificial Intelligence/week03/Constraint Satisfaction Problem (CSPs).md",
-    "COMPSCI367 - Artificial Intelligence/week04/Stochastic Hill-Climbing.md",
-    "@images/Pasted image 20231023173844.png",
     "COMPSCI367 - Artificial Intelligence/week03",
     "COMPSCI367 - Artificial Intelligence/week04",
     "COMPSCI367 - Artificial Intelligence/week05",
