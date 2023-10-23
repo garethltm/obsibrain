@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week08/Free variables.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week08/First-Order Logic Inference.md",
                 "mode": "source",
                 "source": false
               }
@@ -45,7 +45,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week08/Free variables.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week08/First-Order Logic Inference.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -140,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week08/Free variables.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week08/First-Order Logic Inference.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week08/Free variables.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week08/First-Order Logic Inference.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -180,7 +180,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week08/Free variables.md"
+                "file": "COMPSCI367 - Artificial Intelligence/week08/First-Order Logic Inference.md"
               }
             }
           },
@@ -214,10 +214,13 @@
   },
   "active": "719a9e3cda8d050c",
   "lastOpenFiles": [
+    "COMPSCI367 - Artificial Intelligence/week08/First-Order KB.md",
+    "COMPSCI367 - Artificial Intelligence/week08/First-Order Logic Inference.md",
+    "COMPSCI367 - Artificial Intelligence/week08/theorem.md",
+    "COMPSCI367 - Artificial Intelligence/week08/free variables.md",
     "COMPSCI367 - Artificial Intelligence/week08/model.md",
     "COMPSCI367 - Artificial Intelligence/week08/axioms.md",
     "COMPSCI367 - Artificial Intelligence/week08/definition (singular).md",
-    "COMPSCI367 - Artificial Intelligence/week08/First-Order KB.md",
     "COMPSCI367 - Artificial Intelligence/week08/First-Order Logic.md",
     "COMPSCI367 - Artificial Intelligence/week08/First-Order Formulas.md",
     "COMPSCI367 - Artificial Intelligence/week08/First-Order Interpretation.md",
@@ -227,7 +230,6 @@
     "COMPSCI367 - Artificial Intelligence/week08/Satisfaction relation.md",
     "@images/Pasted image 20231024013031.png",
     "COMPSCI367 - Artificial Intelligence/week06/sentence.md",
-    "COMPSCI367 - Artificial Intelligence/week08/Free variables.md",
     "COMPSCI367 - Artificial Intelligence/week08/Quantifiers.md",
     "COMPSCI367 - Artificial Intelligence/week07/Human languages are complex.md",
     "COMPSCI367 - Artificial Intelligence/week06/satisfiable.md",
@@ -240,8 +242,6 @@
     "COMPSCI367 - Artificial Intelligence/week06/Knowledge-based Agents.md",
     "COMPSCI367 - Artificial Intelligence/week06/Inference engines (IE).md",
     "COMPSCI367 - Artificial Intelligence/week06/inference(s).md",
-    "COMPSCI367 - Artificial Intelligence/week07/Forward Chaining.md",
-    "COMPSCI367 - Artificial Intelligence/week07/Definite Clause Inference Engine.md",
     "@images/Pasted image 20231024011914.png",
     "@images/Pasted image 20231024011513.png",
     "@images/Pasted image 20231024011322.png",
