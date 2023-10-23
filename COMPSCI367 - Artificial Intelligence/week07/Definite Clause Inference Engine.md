@@ -12,3 +12,12 @@
 
 
 ## Abstract Idea
+Proof procedure → If there is a proof of g starting from S then; `S ⊦ g`
+- **[[Sound]]** 
+- **Complete** → If there is a proof each logical consequence of S then; `S ⊧ g` implies `S ⊦ g`
+`S ⊦ g` (Proof procedures) that are both **Sound** & **Complete**
+
+1. **Forward Chaining**
+    1. not very ideal/efficient
+2. **SLD Resolution** (Backward chaining) - iteratively replace goals with subgoals; try to get head with an empty body
+    1. potentially more efficient
