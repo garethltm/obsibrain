@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week07/Untitled.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week06/Propositional Logic.md",
                 "mode": "source",
                 "source": false
               }
@@ -45,7 +45,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week07/Untitled.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week06/Propositional Logic.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -140,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week07/Untitled.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week06/Propositional Logic.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week07/Untitled.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week06/Propositional Logic.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -180,7 +180,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week07/Untitled.md"
+                "file": "COMPSCI367 - Artificial Intelligence/week06/Propositional Logic.md"
               }
             }
           },
@@ -214,14 +214,16 @@
   },
   "active": "719a9e3cda8d050c",
   "lastOpenFiles": [
+    "COMPSCI367 - Artificial Intelligence/week07/Verbose.md",
+    "COMPSCI367 - Artificial Intelligence/week06/Propositional Logic.md",
     "COMPSCI367 - Artificial Intelligence/week07/SLD Resolution (Backward chaining).md",
-    "COMPSCI367 - Artificial Intelligence/week07/Untitled.md",
+    "COMPSCI367 - Artificial Intelligence/week07/Definite Clause Inference Engine.md",
+    "COMPSCI367 - Artificial Intelligence/week07/First Order Logic.md",
     "COMPSCI367 - Artificial Intelligence/week02/Complete.md",
     "COMPSCI367 - Artificial Intelligence/week03/Backtracking Search.md",
     "COMPSCI367 - Artificial Intelligence/week07/Completeness.md",
     "COMPSCI367 - Artificial Intelligence/week07/Soundness.md",
     "COMPSCI367 - Artificial Intelligence/week07/Forward Chaining.md",
-    "COMPSCI367 - Artificial Intelligence/week07/Definite Clause Inference Engine.md",
     "COMPSCI367 - Artificial Intelligence/week07/Proof procedure.md",
     "COMPSCI367 - Artificial Intelligence/week07/Resolution.md",
     "COMPSCI367 - Artificial Intelligence/week07/subgoal.md",
@@ -241,8 +243,6 @@
     "COMPSCI367 - Artificial Intelligence/week06/Factored Representation.md",
     "COMPSCI367 - Artificial Intelligence/week06/Inference engines (IE).md",
     "COMPSCI367 - Artificial Intelligence/week06/intelligent.md",
-    "COMPSCI367 - Artificial Intelligence/week06/interpretation.md",
-    "COMPSCI367 - Artificial Intelligence/week06/knowledge.md",
     "@images/Pasted image 20231023214921.png",
     "@images/Pasted image 20231023213622.png",
     "@images/Pasted image 20231023213507.png",
