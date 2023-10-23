@@ -1,1 +1,1 @@
-- [[SLD derivation]] of a query `ask g` from 
+- [[SLD derivation]] of a query `ask g` from $KB\ \cup\ Percepts$ is a sequence of [[Definite clause]] $\gamma0, \...,\gamma n$ 
