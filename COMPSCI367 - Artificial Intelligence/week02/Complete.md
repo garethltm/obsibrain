@@ -1,1 +1,1 @@
-_guaranteed to find a [[sol]] when there is one_
+_guaranteed to find a [[solution(s)]] when there is one_
