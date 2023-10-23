@@ -63,7 +63,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week03/optimisitic.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week03/optimistic.md",
                 "mode": "source",
                 "source": false
               }
@@ -191,7 +191,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week03/optimisitic.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week03/optimistic.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -208,7 +208,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week03/optimisitic.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week03/optimistic.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -231,7 +231,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week03/optimisitic.md"
+                "file": "COMPSCI367 - Artificial Intelligence/week03/optimistic.md"
               }
             }
           },
@@ -266,8 +266,8 @@
   "active": "78003ac2d0f27c16",
   "lastOpenFiles": [
     "COMPSCI367 - Artificial Intelligence/week03/Admissible heuristic.md",
+    "COMPSCI367 - Artificial Intelligence/week03/optimistic.md",
     "COMPSCI367 - Artificial Intelligence/week03/A-Star Search.md",
-    "COMPSCI367 - Artificial Intelligence/week03/optimisitic.md",
     "COMPSCI367 - Artificial Intelligence/week02/Cost Sensitive Search.md",
     "COMPSCI367 - Artificial Intelligence/week02/Optimal.md",
     "COMPSCI367 - Artificial Intelligence/week02/Uninformed Search.md",

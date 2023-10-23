@@ -1,1 +1,0 @@
-- it either underestimates the path cost to the goal or provides a correct estimate for the path cost to the goal, but it never overestimates the path cost to the goal.
