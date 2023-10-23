@@ -22,4 +22,8 @@ Domains:
 	$C = {3,4}$
 	$D = {2,3}$
 	$E = {2,3,4}$
+![[Pasted image 20231023171158.png]]
 they all show all possible combinations
+
+![[Pasted image 20231023171227.png]]
+- what it would look like without C
