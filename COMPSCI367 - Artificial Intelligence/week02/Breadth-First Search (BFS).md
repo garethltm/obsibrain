@@ -13,7 +13,7 @@
 - Find the shallowest [[Goal(s) - Goal State(s)]] first
 ### Complexity
 - Does [[Breadth-First Search (BFS)]] guarantee to find the [[path(s)]] with fewest [[arc]]?
-    - doesn’t mean we have an optimal solution where we can find a path with fewest [[arc]]
+    - doesn’t mean we have an optimal solution where we can find a [[path(s)]] with fewest [[arc]]
 - What happens on infinite graphs or on graphs with cycles if there is a solution?
     - graph with loops on it can be infinitely generated
 - What is the [[Time Complexity]] as a function of the length of the [[path(s)]] selected?
