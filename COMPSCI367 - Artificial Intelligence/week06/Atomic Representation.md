@@ -1,1 +1,3 @@
-- Explicitly 
+- Explicitly represent each [[state(s)]] of the [[world]] & their transitions
+	- [[state(s)]] are atomic entities in the model
+	- any [[action(s)]] leads to a [[state transition]]
