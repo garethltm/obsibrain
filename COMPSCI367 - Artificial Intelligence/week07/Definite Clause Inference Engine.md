@@ -13,9 +13,10 @@
 
 ## Abstract Idea
 - [[Proof procedure]]
-- **[[Sound]]** 
-- [[COMPSCI367 - Artificial Intelligence/week07/Complete|Complete]]
-`S ⊦ g` ([[Proof procedure]]) that are both **[[Sound]]** & **[[COMPSCI367 - Artificial Intelligence/week07/Complete|Complete]]**
+- **[[Sound (Proposition)]]** 
+- [[Complete (Proposition)|Complete (Proposition)]]
+
+`S ⊦ g` ([[Proof procedure]]) that are both **[[Sound (Proposition)]]** & **[[Complete (Proposition)|Complete (Proposition)]]**
 
 1. **Forward Chaining**
     1. not very ideal/efficient
