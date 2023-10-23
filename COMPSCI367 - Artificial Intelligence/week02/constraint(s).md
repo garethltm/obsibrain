@@ -2,4 +2,9 @@
 
 ### Types of Constraints
 - Hard Constraints
-	- 
+	- Unary constraints involve a single variable
+		M ≠ 0​
+	- Binary constraints involve pairs of variables
+		SA ≠ WA​
+	- Higher-order constraints involve 3 or more variables (might also involve hidden variables)
+		Y = D + E​ OR Y = D + E - 10​
