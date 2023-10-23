@@ -1,0 +1,1 @@
+- records the value that each node has
