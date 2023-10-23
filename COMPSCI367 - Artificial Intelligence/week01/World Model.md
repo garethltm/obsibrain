@@ -4,3 +4,5 @@
 - Knowledge Base
 
 - encodes information about:
+	- How the [[world]] evolves independently of the [[agent]]
+	- How the [[agent]]'s [[action(s)]] affect the [[world]]
