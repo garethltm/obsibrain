@@ -9,11 +9,11 @@ The threshold is steadily increased with each successive search. It starts at th
 
 ## Properties
 - [[Complete]]
-    - Yes, unless there are infinitely many nodes with $f ≤ cost of solution$
+    - Yes, unless there are infinitely many nodes with $f ≤ cost\ of\ solution$
 - [[Time Complexity]]
     - $O(b^d)$
 - [[Space Complexity]] (similar to [[Depth-First Search (DFS)]])
-	- 
-    - it need only store a stack of nodes which represents the branch of the tree it is expanding
-- Optimal:
-    - Yes (assuming $h(n)$ is admissible)
+	- $O(bd)$ 
+		- it need only store a stack of nodes which represents the branch of the tree it is expanding
+- [[Optimal]]
+    - Yes (assuming $h(n)$ is [[Admissible heuristic]])
