@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week02/heuristic(s).md",
+                "file": "COMPSCI367 - Artificial Intelligence/week03/Trivial Heuristic; Dominance.md",
                 "mode": "source",
                 "source": false
               }
@@ -45,7 +45,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week02/heuristic(s).md",
+                "file": "COMPSCI367 - Artificial Intelligence/week03/Trivial Heuristic; Dominance.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -140,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week02/heuristic(s).md",
+                "file": "COMPSCI367 - Artificial Intelligence/week03/Trivial Heuristic; Dominance.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week02/heuristic(s).md",
+                "file": "COMPSCI367 - Artificial Intelligence/week03/Trivial Heuristic; Dominance.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -180,7 +180,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week02/heuristic(s).md"
+                "file": "COMPSCI367 - Artificial Intelligence/week03/Trivial Heuristic; Dominance.md"
               }
             }
           },
@@ -214,6 +214,9 @@
   },
   "active": "9d16bf805036e931",
   "lastOpenFiles": [
+    "@images/Pasted image 20231023152108.png",
+    "COMPSCI367 - Artificial Intelligence/week02/heuristic(s).md",
+    "COMPSCI367 - Artificial Intelligence/week03/Trivial Heuristic; Dominance.md",
     "COMPSCI367 - Artificial Intelligence/week02/A-Star Search.md",
     "COMPSCI367 - Artificial Intelligence/week02/Optimal.md",
     "COMPSCI367 - Artificial Intelligence/week02/Consistent Heuristics.md",
@@ -223,7 +226,6 @@
     "COMPSCI367 - Artificial Intelligence/week02/Greedy (Best-First) Search.md",
     "COMPSCI367 - Artificial Intelligence/week02/Depth-Limited Search (DLS).md",
     "COMPSCI367 - Artificial Intelligence/week03/optimistic.md",
-    "COMPSCI367 - Artificial Intelligence/week02/heuristic(s).md",
     "COMPSCI367 - Artificial Intelligence/week02/Search Techniques (Search Strategy) (Search Algorithm).md",
     "@images/Pasted image 20231023145952.png",
     "COMPSCI367 - Artificial Intelligence/week02/Informed Search.md",
@@ -246,8 +248,6 @@
     "COMPSCI367 - Artificial Intelligence/week02/Bidirectional Search.md",
     "COMPSCI367 - Artificial Intelligence/week02/State Space.md",
     "@images/Pasted image 20231023134600.png",
-    "COMPSCI367 - Artificial Intelligence/week02/Iterative-Deepening Search (IDS).md",
-    "COMPSCI367 - Artificial Intelligence/week01/action(s).md",
     "@images/Untitled.png",
     "@images/Pasted image 20231022182721.png",
     "COMPSCI367 - Artificial Intelligence/week03",
