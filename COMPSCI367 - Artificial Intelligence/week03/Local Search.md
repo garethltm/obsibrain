@@ -30,3 +30,7 @@ In many optimisation problems:
 
 ## Problem
 - could lead to a [[path(s)]] without an [[optimal]] solution
+
+### Summary
+- Many [[Constraint Satisfaction Problem (CSPs)]] can be formulated as [[Local Search]]
+- General familie
