@@ -1,3 +1,0 @@
-- Looking at large dataset and looking at insights
-- Strategy focused
-- Historical Data

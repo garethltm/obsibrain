@@ -1,3 +1,0 @@
-- Day-to-day as efficient as possible
-- Running queries on the fly when there are changes
-- Current data

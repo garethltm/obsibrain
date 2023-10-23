@@ -1,3 +1,0 @@
-- How can I learn from the data that has already been generated
-- Idea of looking at trends by looking at historic data insights and deriving information from it
-- Big data
