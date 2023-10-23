@@ -15,4 +15,4 @@ changing a variable into a constant
 Essentially, we can turn $\forall x: King(x)\ into\ King(John)$
 - where $x$ can be anything, John, Richard, etc.
 
-> Repeated applications of Existential/Universal Instantiation would produce a new [[Knowledge Base (KB)]] that contains sentences without [[qu]] (a propositions)
+> Repeated applications of Existential/Universal Instantiation would produce a new [[Knowledge Base (KB)]] that contains [[sentence]] without [[quantifier(s)]] (a [[proposition]])
