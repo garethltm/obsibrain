@@ -1,1 +1,1 @@
-- if cannot demonstrate TRUE then
+- if cannot demonstrate TRUE then it is FALSE

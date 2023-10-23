@@ -1,0 +1,1 @@
+- [[First-Order Interpretation]] that satisfies all sentences in the KB & the assumptions

@@ -1,1 +1,2 @@
 - [[Closed world assumption]]
+- [[Domain-closure assumption]]
