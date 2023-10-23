@@ -1,6 +1,6 @@
 changing a variable into a constant
 - Substitution ($\frac {x}{t}$) → replacing variable x with the term t
-- A **sentence** without any quantifier is a proposition
+- A **[[sentence]]** without any [[quantifier(s)]] is a [[proposition]]
 
 >In Greedy(y) we cannot say that it is True/False;![[Pasted image 20231024013638.png]]
 
