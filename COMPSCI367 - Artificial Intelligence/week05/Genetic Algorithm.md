@@ -1,5 +1,5 @@
 - [[Search Techniques (Search Strategy) (Search Algorithm)]] inspired by [[genetics]] & [[evolution]] in biology
-- a variation of [[Stochastic beam Search]] that generates every [[successor(s)]] using 2 [[candidate solution]]
+- a variation of [[Stochastic Beam Search (SBS)]] that generates every [[successor(s)]] using 2 [[candidate solution]]
 
 ![[Pasted image 20231023181930.png]]
 
@@ -13,4 +13,4 @@
 ### Summary
 - [[Population-based Search]] conducts search by maintaining & updating a collection of [[candidate solution]]
 - [[Local beam Search]] is an adaptation of [[Iterative Best Improvement (IBI)]] by maintaining M > 1 [[candidate solution]]
-- [[Stochastic beam Search]] aims to avoid [[Local beam Search]] 
+- [[Stochastic Beam Search (SBS)]] aims to avoid [[Local beam Search]] concentration on a narrow [[path(s)]] by using [[Boltzmann distribution]]
