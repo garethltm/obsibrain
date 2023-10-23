@@ -36,4 +36,15 @@
 	- Theorem: [[A-Star Search]] finds optimal solution if **h(n)** is [[Admissible heuristic]]
 
 Hence, the theorem:
-**_If h(n) is [[Consistent Heuristics]], [[A-Star Search]] is [[op***
+**_If h(n) is [[Consistent Heuristics]], [[A-Star Search]] is [[Optimal]]***
+
+
+## Properties
+- [[Complete]]
+    - Yes, unless there are infinitely many nodes with f ≤ cost of solution
+- [[Time Complexity]]
+    - $ $ Exponential
+- [[Space Complexity]]
+    - Keeps all nodes in memory
+- [[Optimal]]
+    - Yes (assuming h is [[Admissible heuristic]])
