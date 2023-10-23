@@ -8,10 +8,13 @@ Use a [[rule of derivation]] for inference
 
 - [[Soundness]] of [[Forward Chaining]]:
 	- For any [[Definite clause]] [[Knowledge Base (KB)]], [[Percepts]] & query g
-		- $KB\ \cup Percepts\ \vdash g$ (proves)
+		- $KB\ \cup Percepts\ \vdash g$ ([[Proof procedure]])
 		implies that
-		$KB\ \cup Percepts\ \vDash g$ (entails)
+		- $KB\ \cup Percepts\ \vDash g$ (entails)
 		![[Pasted image 20231024002608.png]]
 
 - [[Completeness]] of [[Forward Chaining]]
 	- For any [[Knowledge Base (KB)]], [[Percepts]] & query g, 
+		- $KB\ \cup Percepts\ \vDash g$ (entails)
+		implies
+		- $KB\ \cup Percepts\ \vdash g$ ([[Proof procedure]])
