@@ -16,3 +16,4 @@
 ## Main Idea
 - balance the level of diversity with the immediate benefit/utility of the [[solution(s)]] of the [[population]] that you got
 - these searches are NOT independent
+![[Pasted image 20231023180205.png]]
