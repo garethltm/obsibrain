@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week05/Genetic Algorithm (GA).md",
+                "file": "COMPSCI367 - Artificial Intelligence/week05/Multi-agent System.md",
                 "mode": "source",
                 "source": false
               }
@@ -34,7 +34,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week05/Genetic Algorithm (GA).md",
+                "file": "COMPSCI367 - Artificial Intelligence/week05/Multi-agent System.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week05/Genetic Algorithm (GA).md",
+                "file": "COMPSCI367 - Artificial Intelligence/week05/Multi-agent System.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week05/Genetic Algorithm (GA).md",
+                "file": "COMPSCI367 - Artificial Intelligence/week05/Multi-agent System.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week05/Genetic Algorithm (GA).md"
+                "file": "COMPSCI367 - Artificial Intelligence/week05/Multi-agent System.md"
               }
             }
           },
@@ -204,6 +204,8 @@
   },
   "active": "4096a24949cac45d",
   "lastOpenFiles": [
+    "COMPSCI367 - Artificial Intelligence/week05/Genetic Algorithm (GA).md",
+    "COMPSCI367 - Artificial Intelligence/week05/Multi-agent System.md",
     "COMPSCI367 - Artificial Intelligence/week05/Solving Optimisation problems.md",
     "COMPSCI367 - Artificial Intelligence/week05/Evolutionary computation.md",
     "COMPSCI367 - Artificial Intelligence/week05/Genetic Algorithm with Travelling Salesman Problem.md",
@@ -216,7 +218,6 @@
     "@images/Pasted image 20231023193628.png",
     "@images/Pasted image 20231023193609.png",
     "@images/Pasted image 20231023193555.png",
-    "COMPSCI367 - Artificial Intelligence/week05/Genetic Algorithm (GA).md",
     "COMPSCI367 - Artificial Intelligence/week05/crossover operation.md",
     "COMPSCI367 - Artificial Intelligence/week05/fitness.md",
     "COMPSCI367 - Artificial Intelligence/week05/Stochastic Beam Search (SBS).md",
@@ -239,7 +240,6 @@
     "COMPSCI367 - Artificial Intelligence/week03/Iterative Improvement.md",
     "COMPSCI367 - Artificial Intelligence/week04/Systematic Search vs Local Search.md",
     "COMPSCI367 - Artificial Intelligence/week03/Variable Elimination.md",
-    "COMPSCI367 - Artificial Intelligence/week04/Gradient descent.md",
     "COMPSCI367 - Artificial Intelligence/week03",
     "COMPSCI367 - Artificial Intelligence/week04",
     "COMPSCI367 - Artificial Intelligence/week05",
