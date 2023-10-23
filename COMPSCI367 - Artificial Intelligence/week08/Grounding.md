@@ -12,4 +12,5 @@ changing a variable into a constant
 
 ### Rule 2: Universal [[instantiation]]
 - may be applied many times to infer infinitely many [[sentence]]$$\frac{\forall y:x(y)}{\text{Subst}(\{y/t\},x(y))}$$
-Essentially, we can turn $\fo
+Essentially, we can turn $\forall x: King(x)\ into\ King(John)$
+- where $x$ can be anything, John, Richard
