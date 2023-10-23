@@ -1,0 +1,1 @@
+- [[SLD derivation]] of a query `ask g` from 
