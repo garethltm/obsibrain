@@ -1,0 +1,3 @@
+- an [[interpretation]] that satisfies [[Knowledge Base (KB)]]
+- satisfying everything in a [[Knowledge Base (KB)]]
+- a set of facts

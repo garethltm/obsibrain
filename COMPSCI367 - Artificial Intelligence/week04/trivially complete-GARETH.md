@@ -1,0 +1,2 @@
+- sooner or later there will be a [[state(s)]] (eventually)
+- if we generate enough [[state(s)]]; sooner or later we will find a [[state(s)]] that will converge to a [[solution(s)]] (or just find the [[solution(s)]])

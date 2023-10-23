@@ -1,0 +1,1 @@
+- a formula without [[free variables]]. Therefore, all variables must be bounded by $\forall , \exists$

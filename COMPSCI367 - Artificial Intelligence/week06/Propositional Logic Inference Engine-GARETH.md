@@ -1,0 +1,2 @@
+- Decide if $\alpha \vDash \beta$
+- [[logical consequence]]

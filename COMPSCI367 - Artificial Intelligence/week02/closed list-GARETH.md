@@ -1,0 +1,2 @@
+- records the value that each node has
+- both mean the [[state(s)]] have been expanded. This is used both to reconstruct the solution [[path(s)]] through back-pointers and to do duplicate state elimination
