@@ -13,7 +13,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week06/Proposition.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week06/Atomic Entities.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -48,7 +48,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week06/Proposition.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week06/Atomic Entities.md",
                 "mode": "source",
                 "source": false
               }
@@ -121,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week06/Proposition.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week06/Atomic Entities.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week06/Proposition.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week06/Atomic Entities.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week06/Proposition.md"
+                "file": "COMPSCI367 - Artificial Intelligence/week06/Atomic Entities.md"
               }
             }
           },
@@ -195,8 +195,9 @@
   },
   "active": "78108e831b5150f6",
   "lastOpenFiles": [
-    "COMPSCI367 - Artificial Intelligence/week06/Propositional Logic.md",
     "COMPSCI367 - Artificial Intelligence/week06/Proposition.md",
+    "COMPSCI367 - Artificial Intelligence/week06/Atomic Entities.md",
+    "COMPSCI367 - Artificial Intelligence/week06/Propositional Logic.md",
     "COMPSCI367 - Artificial Intelligence/week06/Atomic Propositions.md",
     "COMPSCI367 - Artificial Intelligence/week06/Duality of Syntax vs Semantics.md",
     "@images/Pasted image 20231023204633.png",
@@ -232,7 +233,6 @@
     "COMPSCI367 - Artificial Intelligence/week06/intelligent.md",
     "COMPSCI367 - Artificial Intelligence/week05/competitive multi-agent environment.md",
     "COMPSCI367 - Artificial Intelligence/week06",
-    "COMPSCI367 - Artificial Intelligence/week05/Adversarial Search.md",
     "COMPSCI367 - Artificial Intelligence/week03",
     "COMPSCI367 - Artificial Intelligence/week04",
     "COMPSCI367 - Artificial Intelligence/week05",
