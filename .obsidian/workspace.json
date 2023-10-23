@@ -63,7 +63,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week02/Uninformed Search.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week02/Cost Sensitive Search.md",
                 "mode": "source",
                 "source": false
               }
@@ -191,7 +191,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week02/Uninformed Search.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week02/Cost Sensitive Search.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -208,7 +208,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week02/Uninformed Search.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week02/Cost Sensitive Search.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -231,7 +231,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week02/Uninformed Search.md"
+                "file": "COMPSCI367 - Artificial Intelligence/week02/Cost Sensitive Search.md"
               }
             }
           },
@@ -265,11 +265,12 @@
   },
   "active": "78003ac2d0f27c16",
   "lastOpenFiles": [
+    "COMPSCI367 - Artificial Intelligence/week02/Uninformed Search.md",
+    "COMPSCI367 - Artificial Intelligence/week02/Cost Sensitive Search.md",
     "COMPSCI367 - Artificial Intelligence/week02/Bidirectional Search.md",
     "COMPSCI367 - Artificial Intelligence/week02/State Space.md",
     "COMPSCI367 - Artificial Intelligence/week02/Search Techniques (Search Strategy) (Search Algorithm).md",
     "@images/Pasted image 20231023134600.png",
-    "COMPSCI367 - Artificial Intelligence/week02/Uninformed Search.md",
     "COMPSCI367 - Artificial Intelligence/week02/Iterative-Deepening Search (IDS).md",
     "COMPSCI367 - Artificial Intelligence/week02/Depth-Limited Search (DLS).md",
     "COMPSCI367 - Artificial Intelligence/week02/Informed Search Heuristic.md",
@@ -291,7 +292,6 @@
     "COMPSCI367 - Artificial Intelligence/week04/Random Walk & Random Restart Hill-Climbing.md",
     "COMPSCI367 - Artificial Intelligence/week04/trivially complete.md",
     "COMPSCI367 - Artificial Intelligence/week04/Random-Restart Hill Climbing.md",
-    "COMPSCI367 - Artificial Intelligence/week04/First Choice Hill-Climbing.md",
     "@images/Untitled.png",
     "@images/Pasted image 20231022182721.png",
     "@images/Pasted image 20231022173408.png",
