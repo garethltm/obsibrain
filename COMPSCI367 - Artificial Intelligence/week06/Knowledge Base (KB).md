@@ -1,2 +1,3 @@
 - stores previously held [[constraint(s)]]
 - facts specified by a [[Knowledge Representation Language]]
+- a set of clauses can eb regarded
