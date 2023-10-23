@@ -1,4 +1,4 @@
-- [[Performance measure]]
+- [[performance measure]]
 - [[environment]]
 - [[Actuators]]
 - [[Sensors]]

@@ -7,7 +7,7 @@
 |[[Deterministic]]|[[Stochastic]]|
 |[[Episodic]]|[[Sequential]]|
 |[[Known]]|[[Unknown]]|
-|[[Single-Agent]]|[[Multi-Agent]]|
+|[[Single-Agent]]|[[multi-agent]]|
 
 ## Key differences between Situated & Embodied
 
