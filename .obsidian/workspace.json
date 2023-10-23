@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week05/game tree.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week05/Adversarial Search.md",
                 "mode": "source",
                 "source": false
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week05/game tree.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week05/Adversarial Search.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +160,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week05/game tree.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week05/Adversarial Search.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -183,7 +183,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week05/game tree.md"
+                "file": "COMPSCI367 - Artificial Intelligence/week05/Adversarial Search.md"
               }
             }
           },
@@ -217,9 +217,10 @@
   },
   "active": "84eb7bfc88071263",
   "lastOpenFiles": [
+    "COMPSCI367 - Artificial Intelligence/week05/game tree.md",
+    "@images/Pasted image 20231023195213.png",
     "@images/Pasted image 20231023195153.png",
     "COMPSCI367 - Artificial Intelligence/week05/competitive multi-agent environment.md",
-    "COMPSCI367 - Artificial Intelligence/week05/game tree.md",
     "COMPSCI367 - Artificial Intelligence/week05/game.md",
     "@images/Pasted image 20231023195052.png",
     "@images/Pasted image 20231023194856.png",
@@ -239,8 +240,6 @@
     "@images/Pasted image 20231023193759.png",
     "@images/Pasted image 20231023193745.png",
     "COMPSCI367 - Artificial Intelligence/week05/Genetic Algorithm with 8-Queens.md",
-    "@images/Pasted image 20231023193628.png",
-    "@images/Pasted image 20231023193609.png",
     "COMPSCI367 - Artificial Intelligence/week05/crossover operation.md",
     "COMPSCI367 - Artificial Intelligence/week05/fitness.md",
     "COMPSCI367 - Artificial Intelligence/week05/Stochastic Beam Search (SBS).md",
