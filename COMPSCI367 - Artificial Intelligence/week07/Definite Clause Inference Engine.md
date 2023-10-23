@@ -12,9 +12,9 @@
 
 
 ## Abstract Idea
-Proof procedure → If there is a proof of g starting from S then `S ⊦ g`
+- [[Proof procedure]] → If there is a proof of g starting from S then `S ⊦ g`
 - **[[Sound]]** 
-- **[[COMPSCI367 - Artificial Intelligence/week02/Complete]]**
+- [[COMPSCI367 - Artificial Intelligence/week07/Complete|Complete]]
 `S ⊦ g` (Proof procedures) that are both **Sound** & **Complete**
 
 1. **Forward Chaining**
