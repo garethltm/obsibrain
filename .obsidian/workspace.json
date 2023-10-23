@@ -51,18 +51,6 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week04/Hill-Climbing.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "78003ac2d0f27c16",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "COMPSCI367 - Artificial Intelligence/week03/optimistic.md",
                 "mode": "source",
                 "source": false
@@ -82,7 +70,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       },
       {
         "id": "d9a730eda40123bb",
@@ -263,10 +251,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "78003ac2d0f27c16",
+  "active": "f29b33f23d11f1cc",
   "lastOpenFiles": [
-    "COMPSCI367 - Artificial Intelligence/week03/Admissible heuristic.md",
+    "COMPSCI367 - Artificial Intelligence/week04/Hill-Climbing.md",
     "COMPSCI367 - Artificial Intelligence/week03/optimistic.md",
+    "COMPSCI367 - Artificial Intelligence/week03/Admissible heuristic.md",
     "COMPSCI367 - Artificial Intelligence/week03/A-Star Search.md",
     "COMPSCI367 - Artificial Intelligence/week02/Cost Sensitive Search.md",
     "COMPSCI367 - Artificial Intelligence/week02/Optimal.md",
@@ -279,7 +268,6 @@
     "COMPSCI367 - Artificial Intelligence/week02/Depth-Limited Search (DLS).md",
     "COMPSCI367 - Artificial Intelligence/week02/Informed Search Heuristic.md",
     "COMPSCI367 - Artificial Intelligence/week02/heuristic(s).md",
-    "COMPSCI367 - Artificial Intelligence/week04/Hill-Climbing.md",
     "COMPSCI367 - Artificial Intelligence/week01/action(s).md",
     "COMPSCI367 - Artificial Intelligence/week03/Local Search.md",
     "COMPSCI367 - Artificial Intelligence/week02/Breadth-First Search (BFS).md",
