@@ -35,4 +35,5 @@
 	- If h is [[Admissible heuristic]] then **f(n)** **never overestimates** the actual cost of the best solution through n
 	- Theorem: [[A-Star Search]] finds optimal solution if **h(n)** is [[Admissible heuristic]]
 
-## Cons
+Hence, the theorem:
+**_If h(n) is [[Consistent Heuristics]], [[A-Star Search]] is [[op***
