@@ -20,8 +20,21 @@
               }
             },
             "group": "da01315d8484006a"
+          },
+          {
+            "id": "84eb7bfc88071263",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "COMPSCI367 - Artificial Intelligence/week05/game-setting.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "f46a17f0b7c45033",
@@ -130,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week05/competitive multi-agent environment.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week05/game-setting.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +160,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week05/competitive multi-agent environment.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week05/game-setting.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +183,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week05/competitive multi-agent environment.md"
+                "file": "COMPSCI367 - Artificial Intelligence/week05/game-setting.md"
               }
             }
           },
@@ -202,11 +215,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4096a24949cac45d",
+  "active": "3ad179677b7fba41",
   "lastOpenFiles": [
+    "COMPSCI367 - Artificial Intelligence/week05/competitive multi-agent environment.md",
+    "COMPSCI367 - Artificial Intelligence/week05/game-setting.md",
+    "@images/Pasted image 20231023194856.png",
     "@images/Pasted image 20231023194843.png",
     "COMPSCI367 - Artificial Intelligence/week05/Adversarial Search.md",
-    "COMPSCI367 - Artificial Intelligence/week05/competitive multi-agent environment.md",
     "COMPSCI367 - Artificial Intelligence/week05/Multi-agent System.md",
     "COMPSCI367 - Artificial Intelligence/week05/(partially) cooperative multi-agent environment.md",
     "COMPSCI367 - Artificial Intelligence/week01/multi-agent.md",
@@ -229,9 +244,7 @@
     "COMPSCI367 - Artificial Intelligence/week05/Stochastic Beam Search (SBS).md",
     "COMPSCI367 - Artificial Intelligence/week04/Iterative Best Improvement (IBI).md",
     "COMPSCI367 - Artificial Intelligence/week05/Population-based Search.md",
-    "@images/Pasted image 20231023181930.png",
     "COMPSCI367 - Artificial Intelligence/week05/mutation operation.md",
-    "@images/Pasted image 20231023181835.png",
     "COMPSCI367 - Artificial Intelligence/week05/genetics.md",
     "COMPSCI367 - Artificial Intelligence/week05/evolution.md",
     "COMPSCI367 - Artificial Intelligence/week05/Evolution as Search.md",
