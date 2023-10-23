@@ -1,0 +1,1 @@
+Basic factual information; they can take form of a [[definition (singular)]] 
