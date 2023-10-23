@@ -6,3 +6,6 @@
 - [[Constraint Satisfaction Problem (CSPs)]]
 
 ![[Pasted image 20231023212351.png]]
+
+### Summary
+- [[logic]]
