@@ -6,4 +6,7 @@
 - encodes information about:
 	- How the [[world]] evolves independently of the [[agent]]
 	- How the [[agent]]'s [[action(s)]] affect the [[world]]
-- an abstraction of information about the [[environment]] the ag
+- an abstraction of information about the [[environment]] the [[agent]] is in
+
+## Representations
+1. [[Atomic Representation]]
