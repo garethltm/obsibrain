@@ -63,7 +63,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week04/Hill-Climbing.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week02/Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -191,7 +191,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week04/Hill-Climbing.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week02/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -208,7 +208,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week04/Hill-Climbing.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week02/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -231,7 +231,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week04/Hill-Climbing.md"
+                "file": "COMPSCI367 - Artificial Intelligence/week02/Untitled.md"
               }
             }
           },
@@ -265,11 +265,13 @@
   },
   "active": "78003ac2d0f27c16",
   "lastOpenFiles": [
+    "COMPSCI367 - Artificial Intelligence/week02/heuristic(s).md",
+    "COMPSCI367 - Artificial Intelligence/week02/Untitled.md",
+    "COMPSCI367 - Artificial Intelligence/week04/Hill-Climbing.md",
     "COMPSCI367 - Artificial Intelligence/week01/action(s).md",
     "COMPSCI367 - Artificial Intelligence/week03/Local Search.md",
     "COMPSCI367 - Artificial Intelligence/week03/A-Star Search.md",
     "COMPSCI367 - Artificial Intelligence/week03/Admissible heuristic.md",
-    "COMPSCI367 - Artificial Intelligence/week03/heuristic(s).md",
     "COMPSCI367 - Artificial Intelligence/week02/Breadth-First Search (BFS).md",
     "COMPSCI367 - Artificial Intelligence/week02/arc.md",
     "COMPSCI367 - Artificial Intelligence/week05/current state.md",
@@ -288,9 +290,7 @@
     "COMPSCI367 - Artificial Intelligence/week04/Stochastic Local Search (SLS).md",
     "COMPSCI367 - Artificial Intelligence/week04/Random Walk Hill-Climbing.md",
     "COMPSCI367 - Artificial Intelligence/week04/Probabilistic Hill-Climbing.md",
-    "COMPSCI367 - Artificial Intelligence/week04/Hill-Climbing.md",
     "Greedy Search.md",
-    "COMPSCI367 - Artificial Intelligence/week04/uninformed random walk.md",
     "@images/Untitled.png",
     "@images/Pasted image 20231022182721.png",
     "@images/Pasted image 20231022173408.png",
