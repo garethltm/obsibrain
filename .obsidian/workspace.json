@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week06/Knowledge Representation Language.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week06/Syntax.md",
                 "mode": "source",
                 "source": false
               }
@@ -34,7 +34,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week06/Knowledge Representation Language.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week06/Syntax.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week06/Knowledge Representation Language.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week06/Syntax.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week06/Knowledge Representation Language.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week06/Syntax.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week06/Knowledge Representation Language.md"
+                "file": "COMPSCI367 - Artificial Intelligence/week06/Syntax.md"
               }
             }
           },
@@ -204,8 +204,9 @@
   },
   "active": "4096a24949cac45d",
   "lastOpenFiles": [
-    "COMPSCI367 - Artificial Intelligence/week06/Syntax.md",
+    "@images/Pasted image 20231023204251.png",
     "COMPSCI367 - Artificial Intelligence/week06/Knowledge Representation Language.md",
+    "COMPSCI367 - Artificial Intelligence/week06/Syntax.md",
     "@images/Pasted image 20231023204127.png",
     "@images/Pasted image 20231023204112.png",
     "COMPSCI367 - Artificial Intelligence/week06/Knowledge-based Agents.md",
@@ -241,7 +242,6 @@
     "COMPSCI367 - Artificial Intelligence/week05/Alpha-Beta Pruning.md",
     "COMPSCI367 - Artificial Intelligence/week05/two-player zero-sum games.md",
     "COMPSCI367 - Artificial Intelligence/week05/game.md",
-    "COMPSCI367 - Artificial Intelligence/week05/game tree.md",
     "COMPSCI367 - Artificial Intelligence/week03",
     "COMPSCI367 - Artificial Intelligence/week04",
     "COMPSCI367 - Artificial Intelligence/week05",
