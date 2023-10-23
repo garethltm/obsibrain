@@ -1,2 +1,2 @@
-- a function $\pi: $
-- 
+- a function $\pi: Atom \rightarrow {true,false}$
+	- $\pi$ is a possible [[world]]

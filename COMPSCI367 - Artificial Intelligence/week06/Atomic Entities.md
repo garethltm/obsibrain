@@ -1,3 +1,3 @@
 - [[Syntax]]: [[Atomic Propositions (atoms)]] 
 	- Atom = ${X1,..., Xk}$
-- [[Semantics]]: [[Interpretation]]
+- [[Semantics]]: ![[Interpretation]]
