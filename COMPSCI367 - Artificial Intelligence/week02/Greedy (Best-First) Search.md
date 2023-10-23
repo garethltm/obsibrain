@@ -5,7 +5,7 @@
 - selects the next node for expansion using the [[heuristic(s)]] function for its evaluation function, ie. `f(n) = h(n)`
     - `h(n)=0` → n is a [[Goal(s) - Goal State(s)]]
     > Example: greedy search **minimises the estimated cost to the [[Goal(s) - Goal State(s)]]**; it expands whichever node n is estimated to be closest to the [[Goal(s) - Goal State(s)]]
-- It treats the [[frontier]] as a [[priority queue]] ordered by h
+- It treats the [[frontier (open list, fringe)]] as a [[priority queue]] ordered by h
 
 ## Properties
 - [[Complete]] 

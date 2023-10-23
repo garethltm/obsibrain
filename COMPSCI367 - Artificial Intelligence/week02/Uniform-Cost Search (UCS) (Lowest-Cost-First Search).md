@@ -1,6 +1,6 @@
 - simplest [[Search Techniques (Search Strategy) (Search Algorithm)]] that is guaranteed to find a minimum [[path cost]]
 	- similar to [[Breadth-First Search (BFS)]] but it selects a [[path(s)]] with the ==lowest cost==
-	- the [[Frontier]] is implemented as a [[Priority Queue]] ordered by the ==cost function==
+	- the [[frontier (open list, fringe)]] is implemented as a [[Priority Queue]] ordered by the ==cost function==
 
 **Sometimes there are cost associated with [[arc]]. The cost of a [[path(s)]] is the sum of the cost of its [[arc]]**
 - an optimal [[solution(s)]] is one with minimum cost
@@ -26,7 +26,7 @@
 3. [[Space Complexity]] - we need to store all the nodes we want to explore
 	-  $O(b^[1+\frac C ε])$
 		- number will depend on that minimum cost associated to an [[arc]] to that ε
-		- smaller the ε means more nodes we might need to store in our [[frontier]]
+		- smaller the ε means more nodes we might need to store in our [[frontier (open list, fringe)]]
 4. [[Optimal]]
 	- Yes, if nodes expanded in increasing order of `g(n)`![[Pasted image 20231022030918.png]]
 > ε (epsilon) - least-cost [[action(s)]] 
@@ -39,4 +39,4 @@
 > - b - branching factor
 > - d - depth of the [[solution(s)]]]
 
-Worst case scenario: we will need to visit all the nodes stored in the [[frontier]]; which means that the [[Time Complexity]] = [[Space Complexity]]
+Worst case scenario: we will need to visit all the nodes stored in the [[frontier (open list, fringe)]]; which means that the [[Time Complexity]] = [[Space Complexity]]

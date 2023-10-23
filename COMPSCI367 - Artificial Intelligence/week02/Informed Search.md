@@ -5,7 +5,7 @@
     - one that uses problem-specific knowledge beyond the definition of the problem itself
     - can find solutions more efficiently than uninformed strategy
 - Informed search algorithms, can do quite well given some guidance on where to look for solutions
-- All implemented using a [[priority queue]] to store [[frontier]] nodes
+- All implemented using a [[priority queue]] to store [[frontier (open list, fringe)]] nodes
 
 # Types of Informed Search
 - [[Greedy (Best-First) Search]]

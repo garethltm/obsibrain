@@ -2,13 +2,13 @@
 - Last In First Out
 - expands one of the nodes at the deepest level of the tree
 - implementation:
-    - implementing the [[frontier]] as a [[stack]]
+    - implementing the [[frontier (open list, fringe)]] as a [[stack]]
     - can alternatively be implemented by recursive function calls
 - in [[Depth-First Search (DFS)]], like [[Breadth-First Search (BFS)]], the order in which the [[path(s)]] are expanded does not depend on the [[Goal(s) - Goal State(s)]]
 
 ### Main idea
 - always expand node at deepest level of tree and when search hits a dead-end return back to expand nodes at a shallower level
-- can be implemented using a [[stack]] of explored + [[frontier]] nodes
+- can be implemented using a [[stack]] of explored + [[frontier (open list, fringe)]] nodes
 - at any point [[Depth-First Search (DFS)]] stores single [[path(s)]] from root to leaf
     - together with any remaining unexpanded siblings of nodes along [[path(s)]]
 - stop when node with [[Goal(s) - Goal State(s)]] is expanded

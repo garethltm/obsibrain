@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week02/Frontier.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week03/Iterative Deepening A-Star Search (IDA).md",
                 "mode": "source",
                 "source": false
               }
@@ -33,7 +33,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week02/Frontier.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week03/Iterative Deepening A-Star Search (IDA).md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -91,7 +91,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "path",
+                "query": "open list",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -108,7 +108,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -128,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week02/Frontier.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week03/Iterative Deepening A-Star Search (IDA).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week02/Frontier.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week03/Iterative Deepening A-Star Search (IDA).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +169,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week02/Frontier.md"
+                "file": "COMPSCI367 - Artificial Intelligence/week03/Iterative Deepening A-Star Search (IDA).md"
               }
             }
           },
@@ -202,6 +203,8 @@
   },
   "active": "2602e13c15239a89",
   "lastOpenFiles": [
+    "COMPSCI367 - Artificial Intelligence/week02/Greedy (Best-First) Search.md",
+    "COMPSCI367 - Artificial Intelligence/week02/frontier (open list, fringe).md",
     "COMPSCI367 - Artificial Intelligence/week02/Directed Graph.md",
     "COMPSCI367 - Artificial Intelligence/week03/optimistic.md",
     "COMPSCI367 - Artificial Intelligence/week03/open list.md",
@@ -221,7 +224,6 @@
     "@images/Pasted image 20231023153938.png",
     "@images/Pasted image 20231023153758.png",
     "COMPSCI367 - Artificial Intelligence/week03/Local Search.md",
-    "COMPSCI367 - Artificial Intelligence/week02/Greedy (Best-First) Search.md",
     "COMPSCI367 - Artificial Intelligence/week04/Enforced Hill-Climbing.md",
     "COMPSCI367 - Artificial Intelligence/week03/Trivial Heuristic; Dominance.md",
     "COMPSCI367 - Artificial Intelligence/week02/Uniform-Cost Search (UCS) (Lowest-Cost-First Search).md",
@@ -231,7 +233,6 @@
     "COMPSCI367 - Artificial Intelligence/week02/path cost.md",
     "COMPSCI367 - Artificial Intelligence/week02/Informed Search Heuristic.md",
     "COMPSCI367 - Artificial Intelligence/week02/Breadth-First Search (BFS).md",
-    "COMPSCI367 - Artificial Intelligence/week02/Cost Sensitive Search.md",
     "@images/Pasted image 20231023152108.png",
     "@images/Pasted image 20231023151300.png",
     "@images/Pasted image 20231023150701.png",

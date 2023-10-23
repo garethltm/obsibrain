@@ -1,12 +1,12 @@
 ![[Pasted image 20231022021423.png]]
 - First in First Out
-- [[Frontier]] = [[Queue]]
-	- Selecting the earliest element to add to the [[Frontier]]
-> If the list of [[path(s)]] on the [[Frontier]] is $(p1,p2,...,pr)$ :
+- [[frontier (open list, fringe)]] = [[Queue]]
+	- Selecting the earliest element to add to the [[frontier (open list, fringe)]]
+> If the list of [[path(s)]] on the [[frontier (open list, fringe)]] is $(p1,p2,...,pr)$ :
 	- $p1$ is selected. Its neighbours are added to the end of the [[Queue]], after $pr$
 	- $p2$ is selected next
 - All nodes are expanded at a given depth in the tree before any nodes at the next level are expanded
-- Can be implemented by using a [[Queue]] to store [[Frontier]] nodes
+- Can be implemented by using a [[Queue]] to store [[frontier (open list, fringe)]] nodes
     - put newly generated successors at end of [[Queue]]
 - Stop when node with [[Goal(s) - Goal State(s)]] is generated
 - Very systematic
@@ -19,7 +19,7 @@
 - What is the [[Time Complexity]] as a function of the length of the [[path(s)]] selected?
     - limited in time running the algorithm
 - What is the [[Space Complexity]] as a function of the length of the [[path(s)]] selected?
-    - we need to allocate certain space for the [[Frontier]]
+    - we need to allocate certain space for the [[frontier (open list, fringe)]]
 - How does the [[Goal(s) - Goal State(s)]] affect the search?
 
 ## Properties
