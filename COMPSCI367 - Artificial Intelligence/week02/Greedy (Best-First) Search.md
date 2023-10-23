@@ -15,5 +15,8 @@
 	- $O(b^m)$, where m is the maximum depth in search space
 - [[Space Complexity]]
 	- $O(b^m)$ (retains all nodes in memory)
-- Optimal: 
+- [[Optimal]]
 	- No!
+
+>Greedy Search has the same time deficits as [[Depth-First Search (DFS)]]. 
+>However, a good [[heuristic(s)]] can reduce [[Time Complexity]] and [[Space Complexity]] costs substantially.
