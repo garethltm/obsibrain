@@ -75,7 +75,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week04/Hill-Climbing.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week05/candidate solution.md",
                 "mode": "source",
                 "source": false
               }
@@ -203,7 +203,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week05/Population-based Search.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week05/candidate solution.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -220,7 +220,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week05/Population-based Search.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week05/candidate solution.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -243,7 +243,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week05/Population-based Search.md"
+                "file": "COMPSCI367 - Artificial Intelligence/week05/candidate solution.md"
               }
             }
           },
@@ -275,8 +275,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e74ba1aee9926111",
+  "active": "d0f61cd9fefb8c2d",
   "lastOpenFiles": [
+    "COMPSCI367 - Artificial Intelligence/week05/Local beam Search.md",
+    "COMPSCI367 - Artificial Intelligence/week05/population.md",
+    "COMPSCI367 - Artificial Intelligence/week05/Population-based Search.md",
     "conflict-files-obsidian-git.md",
     "COMPSCI367 - Artificial Intelligence/week04/Probabilistic Approximately Complete (PAC).md",
     "COMPSCI367 - Artificial Intelligence/week04/Random Walk & Random Restart Hill-Climbing.md",
@@ -303,9 +306,6 @@
     "@images/Pasted image 20231022173408.png",
     "COMPSCI367 - Artificial Intelligence/week04/Tabu Search.md",
     "README.md",
-    "COMPSCI367 - Artificial Intelligence/week04/Enforced Hill-Climbing.md",
-    "COMPSCI367 - Artificial Intelligence/week04/Greedy Descent.md",
-    "COMPSCI367 - Artificial Intelligence/week04/Hill-Climbing with 8-Queens.md",
     "@images/Pasted image 20231022164039.png",
     "@images/Pasted image 20231022161956.png",
     "@images/Pasted image 20231022161052.png",
