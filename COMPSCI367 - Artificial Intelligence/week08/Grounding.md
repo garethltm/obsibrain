@@ -9,3 +9,5 @@ changing a variable into a constant
 
 ### Rule 1: Existential [[instantiation]]
 - [[Skolem constant]]
+
+### Rule 2: Univers
