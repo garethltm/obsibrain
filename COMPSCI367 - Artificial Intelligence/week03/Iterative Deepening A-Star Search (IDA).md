@@ -25,7 +25,7 @@ Short answer:
 - [[Time Complexity]] sometimes
 Long answer:
 - [[A-Star Search]] uses [[priority queue]], [[Iterative Deepening A-Star Search (IDA)]] uses a stack
-	- [[Priority Queue]] could mean higher [[Time Complexity]] because
+	- [[Priority Queue]] could mean higher [[Time Complexity]] because you would need to sort the [[queue]] constantly
 - [[Iterative Deepening A-Star Search (IDA)]] doesn’t need to deal with neither open or [[closed list]], but [[A-Star Search]] does
 - Runtime will depend on how frequently duplicate states will be encountered and iterations are done
 - If you don’t have much [[Space Complexity]], but can wait for the solution - use [[Iterative Deepening A-Star Search (IDA)]]
