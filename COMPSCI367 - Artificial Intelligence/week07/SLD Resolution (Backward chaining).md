@@ -1,6 +1,6 @@
 - Selective Linear [[Definite clause]]
 - iteratively replace goals with subgoals; try to get head with an empty body
-- [[SLD Resolution (Backward chaining)]] can be performed using a 
+- [[SLD Resolution (Backward chaining)]] can be performed using a [[Search Techniques (Search Strategy) (Search Algorithm)]]
 ![[Pasted image 20231024005327.png]]
 ## Main Idea
 - `yes ← g`, then you keep going backwards from g adding stuff to it to eventually reach to a state where; `yes ←`
