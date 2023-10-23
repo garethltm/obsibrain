@@ -4,5 +4,5 @@
 This can be achieved by a [[Depth-First Search (DFS)]] on a special kind of [[State Space]], where [[state(s)]] are defined by the values so far:
 - [[initial state (start state)]]
 	- the empty assignment
-- [[Successor function]]
+- [[successor function]]
 - [[Goal test]]

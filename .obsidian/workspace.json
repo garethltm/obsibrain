@@ -26,19 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week02/Search Techniques (Search Strategy) (Search Algorithm).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8466c6a7e48c48a4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week04/Hill-Climbing with 8-Queens.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week03/successor function.md",
                 "mode": "source",
                 "source": false
               }
@@ -57,7 +45,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       },
       {
         "id": "d9a730eda40123bb",
@@ -70,7 +58,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week04/Hill-Climbing with 8-Queens.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week03/successor function.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -165,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week04/Hill-Climbing with 8-Queens.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week03/successor function.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -182,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week04/Hill-Climbing with 8-Queens.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week03/successor function.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -205,7 +193,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week04/Hill-Climbing with 8-Queens.md"
+                "file": "COMPSCI367 - Artificial Intelligence/week03/successor function.md"
               }
             }
           },
@@ -237,9 +225,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8466c6a7e48c48a4",
+  "active": "e33800f4695639a6",
   "lastOpenFiles": [
     "state.md",
+    "COMPSCI367 - Artificial Intelligence/week02/Search Techniques (Search Strategy) (Search Algorithm).md",
     "COMPSCI367 - Artificial Intelligence/week04/Hill-Climbing with 8-Queens.md",
     "COMPSCI367 - Artificial Intelligence/week01/Deterministic.md",
     "COMPSCI367 - Artificial Intelligence/week04/Tabu Search.md",
@@ -254,7 +243,6 @@
     "COMPSCI367 - Artificial Intelligence/week02/State Space.md",
     "COMPSCI367 - Artificial Intelligence/week02/State Space Problem.md",
     "COMPSCI367 - Artificial Intelligence/week02/Search Tree.md",
-    "COMPSCI367 - Artificial Intelligence/week02/Search Techniques (Search Strategy) (Search Algorithm).md",
     "COMPSCI367 - Artificial Intelligence/week02/initial state (start state).md",
     "COMPSCI367 - Artificial Intelligence/week04/Random-Restart Hill Climbing.md",
     "COMPSCI367 - Artificial Intelligence/week04/try.md",
