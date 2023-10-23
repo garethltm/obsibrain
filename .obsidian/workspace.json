@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week06/logical consequence.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week06/Inference engines (IE).md",
                 "mode": "source",
                 "source": false
               }
@@ -45,7 +45,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week06/logical consequence.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week06/Inference engines (IE).md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -140,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week06/logical consequence.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week06/Inference engines (IE).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week06/logical consequence.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week06/Inference engines (IE).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -180,7 +180,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week06/logical consequence.md"
+                "file": "COMPSCI367 - Artificial Intelligence/week06/Inference engines (IE).md"
               }
             }
           },
@@ -214,13 +214,14 @@
   },
   "active": "719a9e3cda8d050c",
   "lastOpenFiles": [
-    "COMPSCI367 - Artificial Intelligence/week06/Propositional Inference Engine.md",
     "COMPSCI367 - Artificial Intelligence/week06/logical consequence.md",
+    "@images/Pasted image 20231023212648.png",
+    "COMPSCI367 - Artificial Intelligence/week06/model of a propositional KB.md",
+    "COMPSCI367 - Artificial Intelligence/week06/Propositional Inference Engine.md",
     "COMPSCI367 - Artificial Intelligence/week06/Propositional Logic with Wumpus World.md",
     "@images/Pasted image 20231023212351.png",
     "COMPSCI367 - Artificial Intelligence/week06/Propositional Logic.md",
     "COMPSCI367 - Artificial Intelligence/week06/Propositional Knowledge Base.md",
-    "COMPSCI367 - Artificial Intelligence/week06/model of a propositional KB.md",
     "COMPSCI367 - Artificial Intelligence/week06/Knowledge Base (KB).md",
     "COMPSCI367 - Artificial Intelligence/week06/connectives.md",
     "COMPSCI367 - Artificial Intelligence/week06/clause(s).md",
@@ -243,14 +244,12 @@
     "COMPSCI367 - Artificial Intelligence/week06/Agents with a World Model.md",
     "COMPSCI367 - Artificial Intelligence/week06/Atomic Entities.md",
     "COMPSCI367 - Artificial Intelligence/week06/Atomic Propositions (atoms).md",
-    "COMPSCI367 - Artificial Intelligence/week06/Atomic Representation.md",
     "@images/Pasted image 20231023211353.png",
     "@images/Pasted image 20231023211252.png",
     "@images/Pasted image 20231023210943.png",
     "COMPSCI367 - Artificial Intelligence/week06/Untitled",
     "@images/Pasted image 20231023210657.png",
     "@images/Pasted image 20231023210640.png",
-    "@images/Pasted image 20231023210619.png",
     "COMPSCI367 - Artificial Intelligence/week06",
     "COMPSCI367 - Artificial Intelligence/week03",
     "COMPSCI367 - Artificial Intelligence/week04",
