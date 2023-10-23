@@ -1,1 +1,1 @@
-- [[Inference engines (IE)]] to derive knowledge from [[COMPSCI367 - Artificial Intelligence/week01/Percepts]]
+- [[Inference engines (IE)]] to derive knowledge from [[Percepts]]

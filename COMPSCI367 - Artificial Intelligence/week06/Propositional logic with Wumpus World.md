@@ -13,4 +13,3 @@
 - [[model of a propositional KB]]
 - [[Propositional Logic Inference Engine]]
 - [[Equivalence between inference & satisfiability]]
-- 
