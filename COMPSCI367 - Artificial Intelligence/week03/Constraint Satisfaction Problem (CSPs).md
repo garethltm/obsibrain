@@ -1,5 +1,5 @@
-- [[csp]] are defined by a set of variables $Xi$, each with a domain $Di$ of possible values, and a set of [[constraint(s)]] C that specify **allowable combinations of values**
-- 
+- [[Constraint Satisfaction Problem (CSPs)]] are defined by a set of variables $Xi$, each with a domain $Di$ of possible values, and a set of [[constraint(s)]] C that specify **allowable combinations of values**
+- can be formulated as [[Local Search]]
 
 ## Main Idea
 The aim is to find an assignment of the variables $Xi$ from the domains $Di$ in such a way that none of the [[constraint(s)]] C are violated
