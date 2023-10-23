@@ -63,7 +63,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week02/Cost Sensitive Search.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week03/Admissible heuristic.md",
                 "mode": "source",
                 "source": false
               }
@@ -191,7 +191,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week02/Cost Sensitive Search.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week03/Admissible heuristic.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -208,7 +208,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week02/Cost Sensitive Search.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week03/Admissible heuristic.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -231,7 +231,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week02/Cost Sensitive Search.md"
+                "file": "COMPSCI367 - Artificial Intelligence/week03/Admissible heuristic.md"
               }
             }
           },
@@ -265,8 +265,8 @@
   },
   "active": "78003ac2d0f27c16",
   "lastOpenFiles": [
-    "COMPSCI367 - Artificial Intelligence/week02/Optimal.md",
     "COMPSCI367 - Artificial Intelligence/week02/Cost Sensitive Search.md",
+    "COMPSCI367 - Artificial Intelligence/week02/Optimal.md",
     "COMPSCI367 - Artificial Intelligence/week02/Uninformed Search.md",
     "COMPSCI367 - Artificial Intelligence/week02/Bidirectional Search.md",
     "COMPSCI367 - Artificial Intelligence/week02/State Space.md",
