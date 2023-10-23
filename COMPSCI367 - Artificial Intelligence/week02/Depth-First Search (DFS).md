@@ -20,7 +20,7 @@
 2. [[Time Complexity]]
     - $O(b^m)$
 	    - m = maximum depth of [[search tree]]
-	    - b = branching factor
+	    - b = [[branching factor(s)]]
         - terrible if m is much larger than b
         - but if [[solution(s)]] are dense, can be much faster than [[Breadth-First Search (BFS)]]
 3. [[Space Complexity]]

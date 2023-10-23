@@ -15,4 +15,10 @@ The search space for this [[Depth-First Search (DFS)]] has certain very specific
 - Variable assignments are commutative
     > Example: [**WA = red** then **NT = green**] same as [**NT = green** then **WA = red**]
 
-> [[Breadth-First Search (BFS)]] is bad because of the possible [[branching factor]] due to the number of variables which is equivalent to the depth which may take really long
+> [[Breadth-First Search (BFS)]] is bad because of the possible [[branching factor(s)]] due to the number of variables which is equivalent to the depth which may take really long
+
+### Improvements to Backtracking Search
+General-purpose methods can give huge gains in speed:
+1. Which variable should be assigned next?
+2. In what order should its values be tried?
+3. Can we detect inevitable failure early?

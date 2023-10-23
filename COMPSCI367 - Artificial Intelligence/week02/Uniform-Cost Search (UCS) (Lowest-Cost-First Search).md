@@ -36,7 +36,7 @@
 > In other words, approximates the depth at which the [[solution(s)]] can be found. 
 > 
 > The computation of the time/[[space complexity]] in this case would be similar to [[Breadth-First Search (BFS)]] $O(b^d)$ 
-> - b - branching factor
+> - b - [[branching factor(s)]]
 > - d - depth of the [[solution(s)]]]
 
 Worst case scenario: we will need to visit all the nodes stored in the [[frontier (open list, fringe)]]; which means that the [[Time Complexity]] = [[Space Complexity]]
