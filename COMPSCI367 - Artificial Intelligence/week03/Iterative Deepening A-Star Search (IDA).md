@@ -10,21 +10,22 @@ The threshold is steadily increased with each successive search. It starts at th
 ## Properties
 - [[Complete]]
 	- Yes
-	    - unless there are infinitely many nodes with $f ≤ cost\ of\ solution$
+		- unless there are infinitely many nodes with $f ≤ cost\ of\ solution$
 - [[Time Complexity]]
 	-  $O(b^d)$
 - [[Space Complexity]] (similar to [[Depth-First Search (DFS)]])
 	- $O(bd)$ 
-		- it need only store a stack of nodes which represents the branch of the tree it is expanding
+		- it need only store a [[stack]] of nodes which represents the branch of the tree it is expanding
 - [[Optimal]]
-	- Yes (assuming $h(n)$ is [[Admissible heuristic]])
+	- Yes 
+		- (assuming $h(n)$ is [[Admissible heuristic]])
 
 ### Is IDA* better than A*
 Short answer:
 - [[Space Complexity]] wise ✅
 - [[Time Complexity]] sometimes
 Long answer:
-- [[A-Star Search]] uses [[priority queue]], [[Iterative Deepening A-Star Search (IDA)]] uses a stack
+- [[A-Star Search]] uses [[priority queue]], [[Iterative Deepening A-Star Search (IDA)]] uses a [[stack]]
 	- [[Priority Queue]] could mean higher [[Time Complexity]] because you would need to sort the [[queue]] constantly
 - [[Iterative Deepening A-Star Search (IDA)]] doesn’t need to deal with neither [[frontier (open list, fringe)]] or [[closed list]], but [[A-Star Search]] does
 - Runtime will depend on how frequently duplicate states will be encountered and iterations are done

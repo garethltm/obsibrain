@@ -91,7 +91,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "goal test",
+                "query": "stack",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -108,7 +108,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -202,8 +203,10 @@
   },
   "active": "2602e13c15239a89",
   "lastOpenFiles": [
-    "COMPSCI367 - Artificial Intelligence/week03/goal test.md",
+    "COMPSCI367 - Artificial Intelligence/week03/Iterative Deepening A-Star Search (IDA).md",
+    "COMPSCI367 - Artificial Intelligence/week02/Stack.md",
     "COMPSCI367 - Artificial Intelligence/week03/Backtracking Search.md",
+    "COMPSCI367 - Artificial Intelligence/week03/goal test.md",
     "COMPSCI367 - Artificial Intelligence/week03/Constraint Satisfaction Problem (CSPs).md",
     "COMPSCI367 - Artificial Intelligence/week02/closed list.md",
     "COMPSCI367 - Artificial Intelligence/week01/Scientific goal.md",
@@ -226,8 +229,6 @@
     "COMPSCI367 - Artificial Intelligence/week02/State Space Problem.md",
     "COMPSCI367 - Artificial Intelligence/week02/Search Tree.md",
     "COMPSCI367 - Artificial Intelligence/week02/initial state (start state).md",
-    "COMPSCI367 - Artificial Intelligence/week04/Random-Restart Hill Climbing.md",
-    "COMPSCI367 - Artificial Intelligence/week04/try.md",
     "@images/Pasted image 20231023161228.png",
     "@images/Pasted image 20231023160933.png",
     "@images/Pasted image 20231023160844.png",

@@ -7,4 +7,4 @@ This can be achieved by a [[Depth-First Search (DFS)]] on a special kind of [[St
 - [[successor function]]
 - [[goal test]]
 
->We always go for the 1st element in the frontier because we are implementing as a stack
+>We always go for the 1st element in the [[frontier (open list, fringe)]] because we are implementing as a [[stack]]
