@@ -13,7 +13,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week02/constraint(s).md",
+                "file": "COMPSCI367 - Artificial Intelligence/week03/Path Search vs CSPs.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -48,7 +48,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week02/constraint(s).md",
+                "file": "COMPSCI367 - Artificial Intelligence/week03/Path Search vs CSPs.md",
                 "mode": "source",
                 "source": false
               }
@@ -121,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week02/constraint(s).md",
+                "file": "COMPSCI367 - Artificial Intelligence/week03/Path Search vs CSPs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week02/constraint(s).md",
+                "file": "COMPSCI367 - Artificial Intelligence/week03/Path Search vs CSPs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week02/constraint(s).md"
+                "file": "COMPSCI367 - Artificial Intelligence/week03/Path Search vs CSPs.md"
               }
             }
           },
@@ -195,7 +195,9 @@
   },
   "active": "fc5ebdd1a292e78a",
   "lastOpenFiles": [
-    "COMPSCI367 - Artificial Intelligence/week03/Untitled.md",
+    "COMPSCI367 - Artificial Intelligence/week03/Constraint Satisfaction Problem (CSPs).md",
+    "COMPSCI367 - Artificial Intelligence/week03/Path Search vs CSPs.md",
+    "COMPSCI367 - Artificial Intelligence/week02/constraint(s).md",
     "COMPSCI367 - Artificial Intelligence/week03/Least Constrainting Value.md",
     "COMPSCI367 - Artificial Intelligence/week03/Backtracking Search.md",
     "COMPSCI367 - Artificial Intelligence/week03/Forward Checking.md",
@@ -220,7 +222,6 @@
     "COMPSCI367 - Artificial Intelligence/week03/branching factor(s).md",
     "COMPSCI367 - Artificial Intelligence/week02/Stack.md",
     "COMPSCI367 - Artificial Intelligence/week03/goal test.md",
-    "COMPSCI367 - Artificial Intelligence/week03/Constraint Satisfaction Problem (CSPs).md",
     "COMPSCI367 - Artificial Intelligence/week02/closed list.md",
     "COMPSCI367 - Artificial Intelligence/week01/Scientific goal.md",
     "COMPSCI367 - Artificial Intelligence/week02/Cost Sensitive Search.md",
@@ -230,7 +231,6 @@
     "COMPSCI367 - Artificial Intelligence/week04/Hill-Climbing with 8-Queens.md",
     "COMPSCI367 - Artificial Intelligence/week01/Deterministic.md",
     "COMPSCI367 - Artificial Intelligence/week04/Tabu Search.md",
-    "COMPSCI367 - Artificial Intelligence/week02/Uninformed Search.md",
     "COMPSCI367 - Artificial Intelligence/week03",
     "COMPSCI367 - Artificial Intelligence/week04",
     "COMPSCI367 - Artificial Intelligence/week05",
