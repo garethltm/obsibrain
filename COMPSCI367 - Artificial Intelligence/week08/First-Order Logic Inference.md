@@ -1,1 +1,2 @@
-tools for First-Order Logic Inference:
+## Tools
+1. Grounding
