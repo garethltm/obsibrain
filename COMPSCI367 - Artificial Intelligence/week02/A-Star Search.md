@@ -33,4 +33,6 @@
 	- $∀n h(n) ≤ y(n)$
 		- where y(n) is the true cost from n to the [[Goal(s) - Goal State(s)]]
 	- If h is [[Admissible heuristic]] then **f(n)** **never overestimates** the actual cost of the best solution through n
-Theorem: A* Search finds optimal solution if **h(n)** is [[Admissible heuristic]]
+	- Theorem: [[A-Star Search]] finds optimal solution if **h(n)** is [[Admissible heuristic]]
+
+## Cons
