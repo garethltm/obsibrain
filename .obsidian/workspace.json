@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week05/Solving Optimisation problems.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week05/Genetic Algorithm (GA).md",
                 "mode": "source",
                 "source": false
               }
@@ -34,7 +34,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week05/Solving Optimisation problems.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week05/Genetic Algorithm (GA).md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week05/Solving Optimisation problems.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week05/Genetic Algorithm (GA).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week05/Solving Optimisation problems.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week05/Genetic Algorithm (GA).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week05/Solving Optimisation problems.md"
+                "file": "COMPSCI367 - Artificial Intelligence/week05/Genetic Algorithm (GA).md"
               }
             }
           },
@@ -204,8 +204,8 @@
   },
   "active": "4096a24949cac45d",
   "lastOpenFiles": [
-    "COMPSCI367 - Artificial Intelligence/week05/Evolutionary computation.md",
     "COMPSCI367 - Artificial Intelligence/week05/Solving Optimisation problems.md",
+    "COMPSCI367 - Artificial Intelligence/week05/Evolutionary computation.md",
     "COMPSCI367 - Artificial Intelligence/week05/Genetic Algorithm with Travelling Salesman Problem.md",
     "@images/Pasted image 20231023193853.png",
     "@images/Pasted image 20231023193831.png",
