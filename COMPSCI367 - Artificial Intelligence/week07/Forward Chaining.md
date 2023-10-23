@@ -11,3 +11,4 @@ Use a [[rule of derivation]] for inference
 		$KB\ \cup Percepts\ \vdash g$ (proves)
 		implies that
 		$KB\ \cup Percepts\ \vDash g$ (entails)
+		![[Pasted image 20231024002608.png]]
