@@ -2,7 +2,7 @@
 - First in First Out
 - [[Frontier]] = [[Queue]]
 	- Selecting the earliest element to add to the [[Frontier]]
-> If the list of paths on the [[Frontier]] is $(p1,p2,...,pr)$ :
+> If the list of [[path(s)]] on the [[Frontier]] is $(p1,p2,...,pr)$ :
 	- $p1$ is selected. Its neighbours are added to the end of the [[Queue]], after $pr$
 	- $p2$ is selected next
 - All nodes are expanded at a given depth in the tree before any nodes at the next level are expanded
@@ -12,13 +12,13 @@
 - Very systematic
 - Find the shallowest [[Goal(s) - Goal State(s)]] first
 ### Complexity
-- Does breadth-first search guarantee to find the path with fewest [[arc]]?
+- Does [[Breadth-First Search (BFS)]] guarantee to find the [[path(s)]] with fewest [[arc]]?
     - doesn’t mean we have an optimal solution where we can find a path with fewest [[arc]]
 - What happens on infinite graphs or on graphs with cycles if there is a solution?
     - graph with loops on it can be infinitely generated
-- What is the time complexity as a function of the length of the [[path(s)]] selected?
+- What is the [[Time Complexity]] as a function of the length of the [[path(s)]] selected?
     - limited in time running the algorithm
-- What is the space complexity as a function of the length of the [[path(s)]] selected?
+- What is the [[Space Complexity]] as a function of the length of the [[path(s)]] selected?
     - we need to allocate certain space for the [[Frontier]]
 - How does the [[Goal(s) - Goal State(s)]] affect the search?
 
