@@ -1,1 +1,1 @@
-- computational problem-solving technique inspired by the process of natural [[evolution]]. It's a subfield of [[Artificial Intelligence]] that uses algorithms derived from biological [[evolution]] to solve complex optimization & search problems
+- computational problem-solving technique inspired by the process of natural [[evolution]]. It's a subfield of [[Artificial Intelligence (AI)]] that uses algorithms derived from biological [[evolution]] to solve complex optimization & search problems
