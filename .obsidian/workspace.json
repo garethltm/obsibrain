@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week06/Agent with a Knowledge Base.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week06/Knowledge-based Agents.md",
                 "mode": "source",
                 "source": false
               }
@@ -34,7 +34,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week06/Agent with a Knowledge Base.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week06/Knowledge-based Agents.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week06/Agent with a Knowledge Base.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week06/Knowledge-based Agents.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week06/Agent with a Knowledge Base.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week06/Knowledge-based Agents.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week06/Agent with a Knowledge Base.md"
+                "file": "COMPSCI367 - Artificial Intelligence/week06/Knowledge-based Agents.md"
               }
             }
           },
@@ -209,7 +209,7 @@
     "@images/Pasted image 20231023203405.png",
     "@images/Pasted image 20231023203349.png",
     "@images/Pasted image 20231023203333.png",
-    "COMPSCI367 - Artificial Intelligence/week06/Agent with a Knowledge Base.md",
+    "COMPSCI367 - Artificial Intelligence/week06/Knowledge-based Agents.md",
     "COMPSCI367 - Artificial Intelligence/week06/state transition.md",
     "COMPSCI367 - Artificial Intelligence/week06/Structured Representation.md",
     "COMPSCI367 - Artificial Intelligence/week06/Agents with a World Model.md",
