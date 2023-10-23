@@ -1,1 +1,0 @@
-- consisting of [[COMPSCI367 - Artificial Intelligence/week01/Percepts|Percepts]] & [[Atomic Propositions (atoms)]]
