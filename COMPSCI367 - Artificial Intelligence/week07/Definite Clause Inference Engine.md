@@ -1,0 +1,1 @@
+- [[Definite Clause Inference Engine]] need to handle queries of form `ask b` where b is an [[Atomic Propositions (atoms)]]

@@ -4,4 +4,4 @@ where $m ≥ 0$, $H$ & every $Ai$ is an [[Atomic Propositions (atoms)]]
 H = HEAD
 - *can only have 1 [[Atomic Propositions (atoms)]]*
 ROOT
-- no nega
+- no negation allowed
