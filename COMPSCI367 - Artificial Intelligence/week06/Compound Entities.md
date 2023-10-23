@@ -1,1 +1,4 @@
-a [[Proposition]] can be made up from the [[Atomic Propositions (atoms)]] in the form
+a [[proposition]] can be made up from the [[Atomic Propositions (atoms)]] in the form
+![[Pasted image 20231023205601.png]]
+A, B = [[proposition]]
+
