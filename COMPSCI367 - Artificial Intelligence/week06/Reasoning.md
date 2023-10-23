@@ -1,1 +1,1 @@
-- [[Inference engines]] to derive knowledge from [[Percepts]]
+- [[Inference engines (IE)]] to derive knowledge from [[Percepts]]

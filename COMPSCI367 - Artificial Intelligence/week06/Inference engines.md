@@ -1,1 +1,0 @@
-- derive value of other variables
