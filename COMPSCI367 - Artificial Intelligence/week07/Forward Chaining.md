@@ -1,1 +1,1 @@
-Start from [[clause(s)]] in $[[]]
+Start from [[clause(s)]] in $KB \cup Percepts$
