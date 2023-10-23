@@ -1,0 +1,2 @@
+- solving it:
+	- turn to [[Satisfiability Problem (SAT)]] -

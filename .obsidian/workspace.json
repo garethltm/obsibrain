@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week06/Logic Inference vs Constraint Satisfaction.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week06/Inference Problem.md",
                 "mode": "source",
                 "source": false
               }
@@ -45,7 +45,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week06/Logic Inference vs Constraint Satisfaction.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week06/Inference Problem.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -140,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week06/Logic Inference vs Constraint Satisfaction.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week06/Inference Problem.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week06/Logic Inference vs Constraint Satisfaction.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week06/Inference Problem.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -180,7 +180,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week06/Logic Inference vs Constraint Satisfaction.md"
+                "file": "COMPSCI367 - Artificial Intelligence/week06/Inference Problem.md"
               }
             }
           },
@@ -214,6 +214,10 @@
   },
   "active": "719a9e3cda8d050c",
   "lastOpenFiles": [
+    "COMPSCI367 - Artificial Intelligence/week06/Inference engines (IE).md",
+    "COMPSCI367 - Artificial Intelligence/week06/Inference Problem.md",
+    "COMPSCI367 - Artificial Intelligence/week06/Logic Inference vs Constraint Satisfaction.md",
+    "@images/Pasted image 20231023214921.png",
     "COMPSCI367 - Artificial Intelligence/week06/logical consequence.md",
     "COMPSCI367 - Artificial Intelligence/week06/logically equivalent.md",
     "COMPSCI367 - Artificial Intelligence/week06/logically implies.md",
@@ -237,9 +241,6 @@
     "COMPSCI367 - Artificial Intelligence/week06/Structured Representation.md",
     "COMPSCI367 - Artificial Intelligence/week06/Syntax.md",
     "COMPSCI367 - Artificial Intelligence/week06/Truth table.md",
-    "COMPSCI367 - Artificial Intelligence/week06/Wumpus World Agent.md",
-    "COMPSCI367 - Artificial Intelligence/week06/Knowledge Base (KB).md",
-    "COMPSCI367 - Artificial Intelligence/week06/clause(s).md",
     "@images/Pasted image 20231023213622.png",
     "@images/Pasted image 20231023213507.png",
     "@images/Pasted image 20231023212648.png",
@@ -249,7 +250,6 @@
     "@images/Pasted image 20231023211515.png",
     "@images/Pasted image 20231023211353.png",
     "@images/Pasted image 20231023211252.png",
-    "@images/Pasted image 20231023210943.png",
     "COMPSCI367 - Artificial Intelligence/week06/Untitled",
     "COMPSCI367 - Artificial Intelligence/week06",
     "COMPSCI367 - Artificial Intelligence/week03",
