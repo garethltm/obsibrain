@@ -18,4 +18,4 @@
     - we need to use a [[complete]] [[Search Techniques (Search Strategy) (Search Algorithm)]] that will not go into an infinite [[path(s)]]
         > [[Breadth-First Search (BFS)]], [[Iterative-Deepening Search (IDS)]], etc.
         
-Don’t really implement [[Inference engines (IE)]]/[[Propositional Logic]] nowadays because everything is already set up for you. [[First Order Logic]] is more applicable
+Don’t really implement [[Inference engines (IE)]]/[[Propositional Logic]] nowadays because everything is already set up for you. [[First-Order Logic]] is more applicable

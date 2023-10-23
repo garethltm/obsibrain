@@ -1,1 +1,1 @@
-- [[First-Order Interpretation]] that satisfies all sentences in the KB & the assumptions
+- [[First-Order Interpretation]] that satisfies all [[sentence]] in the [[Knowledge Base (KB)]] & the assumptions
