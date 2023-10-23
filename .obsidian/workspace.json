@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week06/Satisfiability Problem (SAT).md",
+                "file": "COMPSCI367 - Artificial Intelligence/week06/Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -45,7 +45,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week06/Satisfiability Problem (SAT).md",
+                "file": "COMPSCI367 - Artificial Intelligence/week06/Untitled.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -140,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week06/Satisfiability Problem (SAT).md",
+                "file": "COMPSCI367 - Artificial Intelligence/week06/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week06/Satisfiability Problem (SAT).md",
+                "file": "COMPSCI367 - Artificial Intelligence/week06/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -180,7 +180,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week06/Satisfiability Problem (SAT).md"
+                "file": "COMPSCI367 - Artificial Intelligence/week06/Untitled.md"
               }
             }
           },
@@ -214,8 +214,11 @@
   },
   "active": "719a9e3cda8d050c",
   "lastOpenFiles": [
-    "COMPSCI367 - Artificial Intelligence/week06/satisfiable.md",
     "COMPSCI367 - Artificial Intelligence/week06/Satisfiability Problem (SAT).md",
+    "COMPSCI367 - Artificial Intelligence/week06/Untitled.md",
+    "COMPSCI367 - Artificial Intelligence/week06/interpretation.md",
+    "@images/Pasted image 20231023213622.png",
+    "COMPSCI367 - Artificial Intelligence/week06/satisfiable.md",
     "@images/Pasted image 20231023213507.png",
     "COMPSCI367 - Artificial Intelligence/week06/sentence.md",
     "COMPSCI367 - Artificial Intelligence/week06/Logic Inference vs Constraint Satisfaction.md",
@@ -238,19 +241,16 @@
     "COMPSCI367 - Artificial Intelligence/week06/Knowledge Representation Language.md",
     "COMPSCI367 - Artificial Intelligence/week06/Knowledge-based Agents.md",
     "COMPSCI367 - Artificial Intelligence/week06/logically implies.md",
-    "COMPSCI367 - Artificial Intelligence/week06/interpretation.md",
     "COMPSCI367 - Artificial Intelligence/week06/knowledge.md",
     "@images/Pasted image 20231023211733.png",
     "@images/Pasted image 20231023211539.png",
     "@images/Pasted image 20231023211515.png",
     "COMPSCI367 - Artificial Intelligence/week06/Wumpus World Agent.md",
     "COMPSCI367 - Artificial Intelligence/week06/Truth table.md",
-    "COMPSCI367 - Artificial Intelligence/week06/Syntax.md",
     "@images/Pasted image 20231023211353.png",
     "@images/Pasted image 20231023211252.png",
     "@images/Pasted image 20231023210943.png",
     "COMPSCI367 - Artificial Intelligence/week06/Untitled",
-    "@images/Pasted image 20231023210657.png",
     "COMPSCI367 - Artificial Intelligence/week06",
     "COMPSCI367 - Artificial Intelligence/week03",
     "COMPSCI367 - Artificial Intelligence/week04",
