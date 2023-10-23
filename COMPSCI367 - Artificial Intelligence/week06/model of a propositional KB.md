@@ -1,0 +1,2 @@
+- an [[interpretation]] that satisfies [[Knowledge Base (KB)]]
+- satisf

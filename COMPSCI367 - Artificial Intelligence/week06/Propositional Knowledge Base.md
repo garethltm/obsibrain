@@ -1,1 +1,1 @@
-- a set of [[clause(s)]] (list of [[claui]])
+- a set of [[clause(s)]] (list of [[clause(s)]])
