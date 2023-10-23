@@ -8,47 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "7430a6c810762936",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week03/Local Search.md",
-                "options": {
-                  "collapse-filter": true,
-                  "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": true,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 0.713275462622442,
-                  "close": true
-                }
-              }
-            }
-          },
-          {
             "id": "4096a24949cac45d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week03/Local Search.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week03/Iterative Improvement.md",
                 "mode": "source",
                 "source": false
               }
@@ -67,7 +32,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week03/Local Search.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week03/Iterative Improvement.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -163,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week03/Local Search.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week03/Iterative Improvement.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -180,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week03/Local Search.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week03/Iterative Improvement.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -203,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week03/Local Search.md"
+                "file": "COMPSCI367 - Artificial Intelligence/week03/Iterative Improvement.md"
               }
             }
           },
@@ -235,10 +200,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9475496e15cbf07b",
+  "active": "4096a24949cac45d",
   "lastOpenFiles": [
-    "COMPSCI367 - Artificial Intelligence/week04/Systematic Search vs Local Search.md",
     "COMPSCI367 - Artificial Intelligence/week03/Local Search.md",
+    "COMPSCI367 - Artificial Intelligence/week04/Systematic Search vs Local Search.md",
     "COMPSCI367 - Artificial Intelligence/week03/Variable Elimination.md",
     "COMPSCI367 - Artificial Intelligence/week04/Gradient descent.md",
     "COMPSCI367 - Artificial Intelligence/week03/Stochastic Search.md",
