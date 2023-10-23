@@ -1,1 +1,1 @@
-- for [[proposition]] $\alpha$ & $\beta$, $\alpha \ \vDash\ \b$
+- for [[proposition]] $\alpha$ & $\beta$, $\alpha \ \vDash\ \beta$ if & only if $\alpha \land \neg \beta$ is not [[sa]]
