@@ -1,2 +1,2 @@
-- always checking if there is a better solution
-- possible solutions
+- always checking if there is a better [[solution(s)]]
+- possible [[solution(s)]]
