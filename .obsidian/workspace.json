@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week06/Equivalence between inference & satisfiability.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week06/Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -45,7 +45,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week06/Equivalence between inference & satisfiability.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week06/Untitled.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -140,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week06/Equivalence between inference & satisfiability.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week06/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week06/Equivalence between inference & satisfiability.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week06/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -180,7 +180,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week06/Equivalence between inference & satisfiability.md"
+                "file": "COMPSCI367 - Artificial Intelligence/week06/Untitled.md"
               }
             }
           },
@@ -214,8 +214,10 @@
   },
   "active": "719a9e3cda8d050c",
   "lastOpenFiles": [
-    "COMPSCI367 - Artificial Intelligence/week06/Satisfiability Problem (SAT).md",
+    "COMPSCI367 - Artificial Intelligence/week06/SAT solvers.md",
+    "COMPSCI367 - Artificial Intelligence/week06/Untitled.md",
     "COMPSCI367 - Artificial Intelligence/week06/Equivalence between inference & satisfiability.md",
+    "COMPSCI367 - Artificial Intelligence/week06/Satisfiability Problem (SAT).md",
     "COMPSCI367 - Artificial Intelligence/week06/Wumpus World Agent.md",
     "COMPSCI367 - Artificial Intelligence/week06/Truth table.md",
     "COMPSCI367 - Artificial Intelligence/week06/Syntax.md",
@@ -240,8 +242,6 @@
     "COMPSCI367 - Artificial Intelligence/week06/Logic Inference vs Constraint Satisfaction.md",
     "COMPSCI367 - Artificial Intelligence/week06/percept atoms.md",
     "COMPSCI367 - Artificial Intelligence/week06/Inference engines (IE).md",
-    "percept atoms.md",
-    "COMPSCI367 - Artificial Intelligence/week01/Percepts.md",
     "@images/Pasted image 20231023212648.png",
     "@images/Pasted image 20231023212351.png",
     "@images/Pasted image 20231023211733.png",
