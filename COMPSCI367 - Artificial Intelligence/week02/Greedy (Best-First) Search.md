@@ -12,7 +12,8 @@
 	- generally no! can get stuck in loops
     > Example: but complete in finite space with repeated-state checking
 - [[Time Complexity]]
-	- O($b^m$), where m is the maximum depth in search space
-- Space: O($b^m$) (retains all nodes in memory)
-    
-- Optimal: No!
+	- $O(b^m)$, where m is the maximum depth in search space
+- [[Space Complexity]]
+	- $O(b^m)$ (retains all nodes in memory)
+- Optimal: 
+	- No!
