@@ -11,5 +11,5 @@ Trivial [[heuristic(s)]]
 - Bottom of lattice is the zero [[heuristic(s)]] (what does this give us?)
 	- Gives:
 		- [[Uniform-Cost Search (UCS) (Lowest-Cost-First Search)]]
-		- if [[heuristic(s)]] goves
+		- if [[heuristic(s)]] gives you 0 then you are just evaluating the [[path cost]]
 - Top of lattice is the exact [[heuristic(s)]]

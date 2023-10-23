@@ -21,6 +21,18 @@
             }
           },
           {
+            "id": "17d55d78fde168de",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "COMPSCI367 - Artificial Intelligence/week02/A-Star Search.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "2602e13c15239a89",
             "type": "leaf",
             "state": {
@@ -32,7 +44,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "d9a730eda40123bb",
@@ -45,7 +58,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week03/Trivial Heuristic; Dominance.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week02/A-Star Search.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -103,7 +116,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "heuris",
+                "query": "path",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -120,7 +133,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -140,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week03/Trivial Heuristic; Dominance.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week02/A-Star Search.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week03/Trivial Heuristic; Dominance.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week02/A-Star Search.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -180,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week03/Trivial Heuristic; Dominance.md"
+                "file": "COMPSCI367 - Artificial Intelligence/week02/A-Star Search.md"
               }
             }
           },
@@ -212,11 +226,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9d16bf805036e931",
+  "active": "17d55d78fde168de",
   "lastOpenFiles": [
+    "COMPSCI367 - Artificial Intelligence/week02/path cost.md",
+    "COMPSCI367 - Artificial Intelligence/week03/Trivial Heuristic; Dominance.md",
     "@images/Pasted image 20231023152108.png",
     "COMPSCI367 - Artificial Intelligence/week02/heuristic(s).md",
-    "COMPSCI367 - Artificial Intelligence/week03/Trivial Heuristic; Dominance.md",
     "COMPSCI367 - Artificial Intelligence/week02/A-Star Search.md",
     "COMPSCI367 - Artificial Intelligence/week02/Optimal.md",
     "COMPSCI367 - Artificial Intelligence/week02/Consistent Heuristics.md",
@@ -249,7 +264,6 @@
     "COMPSCI367 - Artificial Intelligence/week02/State Space.md",
     "@images/Pasted image 20231023134600.png",
     "@images/Untitled.png",
-    "@images/Pasted image 20231022182721.png",
     "COMPSCI367 - Artificial Intelligence/week03",
     "COMPSCI367 - Artificial Intelligence/week04",
     "COMPSCI367 - Artificial Intelligence/week05",
