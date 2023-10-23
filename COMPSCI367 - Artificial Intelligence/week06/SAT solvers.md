@@ -2,3 +2,4 @@
 
 ### Efficient implementations
 - [[DPLL algorithm]]
+- [[Local Search]]
