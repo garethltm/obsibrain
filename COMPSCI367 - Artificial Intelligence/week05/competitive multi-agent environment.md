@@ -4,4 +4,4 @@
 ### tic-tac-toe
 ![[Pasted image 20231023194843.png]]![[Pasted image 20231023194856.png]]
 
-usually used in a [[game-setting]]
+usually used in a [[game]]
