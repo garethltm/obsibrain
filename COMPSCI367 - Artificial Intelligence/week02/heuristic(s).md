@@ -17,7 +17,7 @@ With [[A-Star Search]]: a trade-off between quality of estimate and work per nod
 ##### What does $h1$ BETTER than $h2$ means (How do we know which [[heuristic(s)]] is better)
 - What we’d like $h1$ better than $h2$ for problem P to mean is that [[A-Star Search]] solving P using takes less [[Time Complexity]] & [[Space Complexity]] than [[A-Star Search]] using [[heuristic(s)]]
 - However. that is hard to predict in general
-- So, instead we look at node expansions as a proxy for time/memory
+- So, instead we look at node expansions as a proxy for [[Time Complexity]] & [[Space Complexity]]
 - If A* expands fewer nodes using $h1$ than using we say it is “better”
 - Happily, we can characterise when this is likely to happen, namely when $h1$’s values are not lower than $h2$’s values
 ### Summary
