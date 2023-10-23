@@ -1,3 +1,3 @@
 - for [[competitive multi-agent environment]]
 
-used in: 
+used in: [[game]]
