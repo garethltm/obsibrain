@@ -1,3 +1,3 @@
 - provides a simple formal [[Language]] frame work. In this framework, we may specify sentences recursively:
 	- [[Atomic Propositions (atoms)]]
-	- [[Proposition]]
+	- [[proposition]]
