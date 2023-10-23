@@ -15,7 +15,9 @@
     - Depends on the search algorithm used. If [[Breadth-First Search (BFS)]], then yes
 - [[Time Complexity]]
     - $O(b^\frac d2)$
-- Space?
+- [[Space Complexity]]
     -  $O(b^\frac d2)$
-- Optimal?
-    - Depends on the search algorithm used
+- [[Optimal]]
+    - Depends on the [[Search Techniques (Search Strategy) (Search Algorithm)]] used
+
+>Bidirectional search is uninformed search strategy as it only uses the information provided by the state-space. For state-space problems, we assume that the location of the goal is known to the agent. The solution of the search is not the location of the goal, but the path to the goal.

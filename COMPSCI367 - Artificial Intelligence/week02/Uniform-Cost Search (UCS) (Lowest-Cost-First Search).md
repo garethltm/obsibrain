@@ -1,4 +1,4 @@
-- simplest [[Search Techniques (Strategy)]] that is guaranteed to find a minimum cost [[path(s)]]
+- simplest [[Search Techniques (Search Strategy) (Search Algorithm)]] that is guaranteed to find a minimum cost [[path(s)]]
 	- similar to [[Breadth-First Search (BFS)]] but it selects a [[path(s)]] with the ==lowest cost==
 	- the [[Frontier]] is implemented as a [[Priority Queue]] ordered by the ==cost function==
 
