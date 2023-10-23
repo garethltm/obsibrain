@@ -8,7 +8,7 @@
 	- assume branching factor = b in both directions
 	- assume there is a solution at depth = d. 
 	- Then bidirectional search finds a solution in O($2b^\frac d2$) = O($b^\frac d2$) time steps.
-- to check for intersection it must have all states from one of the searches in memory, therefore [[Space Complexity]] is O($b^\frac d2$) + O($b^\frac d2$) = 2O($b^\frac d2$) = O($b^\frac d2$)
+- to check for intersection it must have all [[state(s)]] from one of the searches in memory, therefore [[Space Complexity]] is O($b^\frac d2$) + O($b^\frac d2$) = 2O($b^\frac d2$) = O($b^\frac d2$)
 
 ## Properties
 - [[Complete]]

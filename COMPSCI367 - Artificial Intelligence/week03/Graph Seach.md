@@ -1,5 +1,5 @@
 ## Main Idea
-- never expand a state twice (if not necessary)
+- never expand a [[state(s)]] twice (if not necessary)
 
 ### How to implement:
 - [[Search Tree]] + set of expanded states (”closed set”) not the same as [[closed list]]?

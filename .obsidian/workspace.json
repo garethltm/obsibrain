@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week03/Backtracking Search.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week03/Graph Seach.md",
                 "mode": "source",
                 "source": false
               }
@@ -58,7 +58,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week03/Backtracking Search.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week03/Graph Seach.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -154,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week03/Backtracking Search.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week03/Graph Seach.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week03/Backtracking Search.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week03/Graph Seach.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week03/Backtracking Search.md"
+                "file": "COMPSCI367 - Artificial Intelligence/week03/Graph Seach.md"
               }
             }
           },
@@ -226,10 +226,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a6e0090ac9cbd1f3",
+  "active": "e33800f4695639a6",
   "lastOpenFiles": [
-    "Successor function.md",
+    "COMPSCI367 - Artificial Intelligence/week02/Bidirectional Search.md",
     "COMPSCI367 - Artificial Intelligence/week03/Backtracking Search.md",
+    "COMPSCI367 - Artificial Intelligence/week01/Artificial Intelligence.md",
+    "COMPSCI367 - Artificial Intelligence/week02/A-Star Search.md",
+    "Successor function.md",
     "COMPSCI367 - Artificial Intelligence/week03/Goal test.md",
     "@images/Pasted image 20231023161228.png",
     "COMPSCI367 - Artificial Intelligence/week03/Constraint Satisfaction Problem (CSPs).md",
@@ -242,8 +245,6 @@
     "COMPSCI367 - Artificial Intelligence/week03/Graph Seach.md",
     "COMPSCI367 - Artificial Intelligence/week03/successor(s).md",
     "COMPSCI367 - Artificial Intelligence/week02/Complete.md",
-    "COMPSCI367 - Artificial Intelligence/week02/Bidirectional Search.md",
-    "COMPSCI367 - Artificial Intelligence/week02/A-Star Search.md",
     "COMPSCI367 - Artificial Intelligence/week01/agent.md",
     "COMPSCI367 - Artificial Intelligence/week01/goal(s) - goal state(s).md",
     "COMPSCI367 - Artificial Intelligence/week02/state(s).md",
@@ -258,7 +259,6 @@
     "COMPSCI367 - Artificial Intelligence/week02/heuristic(s).md",
     "COMPSCI367 - Artificial Intelligence/week02/Iterative-Deepening Search (IDS).md",
     "@images/Pasted image 20231023155524.png",
-    "COMPSCI367 - Artificial Intelligence/week02/Consistent Heuristics.md",
     "@images/Pasted image 20231023154624.png",
     "@images/Pasted image 20231023153938.png",
     "@images/Pasted image 20231023153758.png",
