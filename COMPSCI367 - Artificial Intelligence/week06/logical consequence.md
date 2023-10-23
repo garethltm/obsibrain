@@ -1,0 +1,1 @@
+- A [[proposition]] g is called a [[logical consequence]] of a [[Knowledge Base (KB)]] written as
