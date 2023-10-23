@@ -1,0 +1,1 @@
+- strings of symbols that convey some sort of meaning

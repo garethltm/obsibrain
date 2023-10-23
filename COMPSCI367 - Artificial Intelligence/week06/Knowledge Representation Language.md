@@ -5,6 +5,6 @@
 ![[Pasted image 20231023204127.png]]
 
 
-### How to define a language
+### How to define a [[language]]
 1. [[Syntax]]
 2. [[Semantics]]
