@@ -1,1 +1,2 @@
-- for competitive
+- for [[competitive multi-agent environment]]
+
