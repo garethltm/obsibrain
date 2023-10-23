@@ -13,7 +13,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week03/arc consistent.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week03/Variable Elimination.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -48,7 +48,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week03/arc consistent.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week03/Variable Elimination.md",
                 "mode": "source",
                 "source": false
               }
@@ -121,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week03/arc consistent.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week03/Variable Elimination.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week03/arc consistent.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week03/Variable Elimination.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week03/arc consistent.md"
+                "file": "COMPSCI367 - Artificial Intelligence/week03/Variable Elimination.md"
               }
             }
           },
@@ -195,15 +195,16 @@
   },
   "active": "97487a4151d5cf52",
   "lastOpenFiles": [
+    "COMPSCI367 - Artificial Intelligence/week03/Backtracking Search.md",
+    "COMPSCI367 - Artificial Intelligence/week03/Variable Elimination.md",
+    "COMPSCI367 - Artificial Intelligence/week03/arc consistent.md",
     "@images/Pasted image 20231023170744.png",
     "COMPSCI367 - Artificial Intelligence/week03/Forward Checking.md",
-    "COMPSCI367 - Artificial Intelligence/week03/arc consistent.md",
     "@images/Pasted image 20231023170618.png",
     "@images/Pasted image 20231023170607.png",
     "@images/Pasted image 20231023170532.png",
     "@images/Pasted image 20231023170515.png",
     "@images/Pasted image 20231023170425.png",
-    "COMPSCI367 - Artificial Intelligence/week03/Backtracking Search.md",
     "COMPSCI367 - Artificial Intelligence/week03/Least Constrainting Value.md",
     "@images/Pasted image 20231023163245.png",
     "COMPSCI367 - Artificial Intelligence/week03/Minimum Remaining Values (MRV).md",
@@ -230,7 +231,6 @@
     "COMPSCI367 - Artificial Intelligence/week04/Tabu Search.md",
     "COMPSCI367 - Artificial Intelligence/week02/Uninformed Search.md",
     "COMPSCI367 - Artificial Intelligence/week01/Utility-Based Agent.md",
-    "@images/Pasted image 20231023161228.png",
     "COMPSCI367 - Artificial Intelligence/week03",
     "COMPSCI367 - Artificial Intelligence/week04",
     "COMPSCI367 - Artificial Intelligence/week05",
