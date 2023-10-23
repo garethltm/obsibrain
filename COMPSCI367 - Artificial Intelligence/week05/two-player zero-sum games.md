@@ -10,4 +10,5 @@
 	- MAX - wants to maximise payoff
 	- MIN - wants to minimise payoff
 - The players take turns to choose a [[successor(s)]]
-For any play
+For any player, the [[goal(s) - goal state(s)]] is to identify an optimal strategy for the game that starts at the root of the [[game tree]]
+- this search process is called [[Adversarial Search]]
