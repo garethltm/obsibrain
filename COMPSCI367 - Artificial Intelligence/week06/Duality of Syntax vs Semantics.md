@@ -1,4 +1,4 @@
-- [[Syntax]] vs [[semantics]] in art
+- [[syntax]] vs [[semantics]] in art
 ![[Pasted image 20231023204521.png]]
 
 - in [[genetics]]

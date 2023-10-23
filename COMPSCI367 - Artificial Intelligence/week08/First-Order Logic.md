@@ -1,6 +1,6 @@
 - [[semantics]] 
 	- Meaning part of logic
-- [[Syntax]]
+- [[syntax]]
 	- Grammar - how sentences are constructed
 	- Symbolic part of logic
 

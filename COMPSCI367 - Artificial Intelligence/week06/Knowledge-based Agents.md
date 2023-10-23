@@ -12,7 +12,7 @@
 	- [[Knowledge Representation Language]]
 	- [[Knowledge Base (KB)]]
 	- [[Inference engines (IE)]]
-- [[Syntax]] of [[Propositional Logic]]
+- [[syntax]] of [[Propositional Logic]]
 	- [[Atomic Propositions (atoms)]]
 	- [[Compound Propositions (Compound Entities)]]
 - [[semantics]] of [[Propositional Logic]]

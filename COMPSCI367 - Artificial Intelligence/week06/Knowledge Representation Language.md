@@ -7,5 +7,5 @@
 
 
 ### How to define a [[language]]
-1. [[Syntax]]
+1. [[syntax]]
 2. [[semantics]]

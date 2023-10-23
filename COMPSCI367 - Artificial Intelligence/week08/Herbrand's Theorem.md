@@ -1,0 +1,4 @@
+- If [[Knowledge Base (KB)]] is infinite (possibly KB’), you can always find a subset of that KB which leads to the same [[sentence]] - YOU DON’T HAVE TO WORRY ABOUT INFINITE SENTENCES (Generalising?)
+- Propositionalization → Applying grounding rules to introduce propositions to KB & eliminate the quantifiers
+    - if proof not found, repeat again to generate more propositions
+    - when will you stop?
