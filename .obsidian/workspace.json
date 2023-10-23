@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week05/evolution.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week05/Evolution as Search.md",
                 "mode": "source",
                 "source": false
               }
@@ -34,7 +34,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week05/evolution.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week05/Evolution as Search.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week05/evolution.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week05/Evolution as Search.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week05/evolution.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week05/Evolution as Search.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week05/evolution.md"
+                "file": "COMPSCI367 - Artificial Intelligence/week05/Evolution as Search.md"
               }
             }
           },
@@ -204,9 +204,10 @@
   },
   "active": "4096a24949cac45d",
   "lastOpenFiles": [
+    "COMPSCI367 - Artificial Intelligence/week05/evolution.md",
+    "COMPSCI367 - Artificial Intelligence/week05/Evolution as Search.md",
     "COMPSCI367 - Artificial Intelligence/week05/population.md",
     "COMPSCI367 - Artificial Intelligence/week05/reproduction.md",
-    "COMPSCI367 - Artificial Intelligence/week05/evolution.md",
     "@images/Pasted image 20231023180933.png",
     "COMPSCI367 - Artificial Intelligence/week05/Population-based Search.md",
     "COMPSCI367 - Artificial Intelligence/week05/candidate solution.md",
