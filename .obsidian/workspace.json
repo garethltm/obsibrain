@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week06/inference.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week06/Knowledge-based Agents.md",
                 "mode": "source",
                 "source": false
               }
@@ -45,7 +45,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week06/inference.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week06/Knowledge-based Agents.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -103,7 +103,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "online",
+                "query": "inferen",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -120,7 +120,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -140,7 +141,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week06/inference.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week06/Knowledge-based Agents.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +158,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week06/inference.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week06/Knowledge-based Agents.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -180,7 +181,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week06/inference.md"
+                "file": "COMPSCI367 - Artificial Intelligence/week06/Knowledge-based Agents.md"
               }
             }
           },
@@ -214,8 +215,11 @@
   },
   "active": "719a9e3cda8d050c",
   "lastOpenFiles": [
+    "COMPSCI367 - Artificial Intelligence/week06/Inference engines (IE).md",
+    "COMPSCI367 - Artificial Intelligence/week06/inference(s).md",
+    "COMPSCI367 - Artificial Intelligence/week07/Forward Chaining.md",
+    "COMPSCI367 - Artificial Intelligence/week07/Definite Clause Inference Engine.md",
     "COMPSCI367 - Artificial Intelligence/week08/inductively.md",
-    "COMPSCI367 - Artificial Intelligence/week06/inference.md",
     "COMPSCI367 - Artificial Intelligence/week08/First Order Formulas.md",
     "COMPSCI367 - Artificial Intelligence/week08/term(s).md",
     "COMPSCI367 - Artificial Intelligence/week08/signature.md",
@@ -226,7 +230,6 @@
     "@images/Pasted image 20231024011322.png",
     "COMPSCI367 - Artificial Intelligence/week07/Modus Ponens (MP).md",
     "COMPSCI367 - Artificial Intelligence/week08",
-    "COMPSCI367 - Artificial Intelligence/week07/Forward Chaining.md",
     "COMPSCI367 - Artificial Intelligence/week07/SLD Resolution (Backward chaining).md",
     "@images/Pasted image 20231024010214.png",
     "@images/Pasted image 20231024010154.png",
@@ -235,7 +238,6 @@
     "@images/Pasted image 20231024010025.png",
     "COMPSCI367 - Artificial Intelligence/week07/resolution.md",
     "COMPSCI367 - Artificial Intelligence/week07/Expressive.md",
-    "COMPSCI367 - Artificial Intelligence/week07/Definite Clause Inference Engine.md",
     "COMPSCI367 - Artificial Intelligence/week07/Completeness.md",
     "COMPSCI367 - Artificial Intelligence/week07/Compositional.md",
     "COMPSCI367 - Artificial Intelligence/week07/Declarative.md",
@@ -249,7 +251,6 @@
     "@images/Pasted image 20231024002910.png",
     "COMPSCI367 - Artificial Intelligence/week07/Proof procedure.md",
     "@images/Pasted image 20231024002608.png",
-    "COMPSCI367 - Artificial Intelligence/week06/Inference engines (IE).md",
     "COMPSCI367 - Artificial Intelligence/week06/clause(s).md",
     "COMPSCI367 - Artificial Intelligence/week07",
     "COMPSCI367 - Artificial Intelligence/week06/Untitled",
