@@ -1,1 +1,1 @@
-- algorithms that generate new [[constraint(s)]] from [[Percepts]] & [[Knowledge Base (KB)]]
+- algorithms that generate new [[constraint(s)]]/facts from [[Percepts]] & [[Knowledge Base (KB)]]

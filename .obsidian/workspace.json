@@ -13,7 +13,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week06/Inference engines (IE).md",
+                "file": "COMPSCI367 - Artificial Intelligence/week06/Knowledge-based Agents.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -48,7 +48,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week06/Inference engines (IE).md",
+                "file": "COMPSCI367 - Artificial Intelligence/week06/Knowledge-based Agents.md",
                 "mode": "source",
                 "source": false
               }
@@ -121,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week06/Inference engines (IE).md",
+                "file": "COMPSCI367 - Artificial Intelligence/week06/Knowledge-based Agents.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week06/Inference engines (IE).md",
+                "file": "COMPSCI367 - Artificial Intelligence/week06/Knowledge-based Agents.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week06/Inference engines (IE).md"
+                "file": "COMPSCI367 - Artificial Intelligence/week06/Knowledge-based Agents.md"
               }
             }
           },
@@ -195,6 +195,7 @@
   },
   "active": "78108e831b5150f6",
   "lastOpenFiles": [
+    "COMPSCI367 - Artificial Intelligence/week06/Inference engines (IE).md",
     "COMPSCI367 - Artificial Intelligence/week06/Knowledge-based Agents.md",
     "COMPSCI367 - Artificial Intelligence/week06/Knowledge Base (KB).md",
     "COMPSCI367 - Artificial Intelligence/week06/Knowledge Representation Language.md",
@@ -220,7 +221,6 @@
     "@images/Pasted image 20231023204251.png",
     "@images/Pasted image 20231023204127.png",
     "@images/Pasted image 20231023204112.png",
-    "COMPSCI367 - Artificial Intelligence/week06/Inference engines (IE).md",
     "@images/Pasted image 20231023203959.png",
     "COMPSCI367 - Artificial Intelligence/week06/Online.md",
     "@images/Pasted image 20231023203857.png",

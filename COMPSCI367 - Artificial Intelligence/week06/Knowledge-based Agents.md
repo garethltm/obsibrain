@@ -12,3 +12,6 @@
 	- [[Knowledge Representation Language]]
 	- [[Knowledge Base (KB)]]
 	- [[Inference engines (IE)]]
+- [[Syntax]] of [[Propositional Logic]]
+	- [[Atomic Propositions (atoms)]]
+	- [[com]]
