@@ -1,0 +1,2 @@
+- assign a value to an unassigned variable that does not conflict with previously assigned values of other variables.
+- (If no legal values remain, the successor function fails.)

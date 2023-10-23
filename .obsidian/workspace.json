@@ -38,14 +38,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Goal test.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week03/Goal test.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       },
       {
         "id": "d9a730eda40123bb",
@@ -58,7 +58,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Goal test.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week03/Backtracking Search.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -116,7 +116,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "closed",
+                "query": "state",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -133,7 +133,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -153,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Goal test.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week03/Backtracking Search.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Goal test.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week03/Backtracking Search.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -193,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Goal test.md"
+                "file": "COMPSCI367 - Artificial Intelligence/week03/Backtracking Search.md"
               }
             }
           },
@@ -225,10 +226,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5a1cf2eb0bfdf358",
+  "active": "a6e0090ac9cbd1f3",
   "lastOpenFiles": [
+    "Successor function.md",
     "COMPSCI367 - Artificial Intelligence/week03/Backtracking Search.md",
-    "Goal test.md",
+    "COMPSCI367 - Artificial Intelligence/week03/Goal test.md",
     "@images/Pasted image 20231023161228.png",
     "COMPSCI367 - Artificial Intelligence/week03/Constraint Satisfaction Problem (CSPs).md",
     "@images/Pasted image 20231023160933.png",
@@ -258,7 +260,6 @@
     "@images/Pasted image 20231023155524.png",
     "COMPSCI367 - Artificial Intelligence/week02/Consistent Heuristics.md",
     "@images/Pasted image 20231023154624.png",
-    "COMPSCI367 - Artificial Intelligence/week03/Admissible heuristic.md",
     "@images/Pasted image 20231023153938.png",
     "@images/Pasted image 20231023153758.png",
     "@images/Pasted image 20231023152108.png",

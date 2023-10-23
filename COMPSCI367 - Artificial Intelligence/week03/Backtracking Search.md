@@ -4,7 +4,5 @@
 This can be achieved by a [[Depth-First Search (DFS)]] on a special kind of [[State Space]], where [[state(s)]] are defined by the values so far:
 - [[Initial State (Start State)]]
 	- the empty assignment
-- [[successor(s)]] function
-	- assign a value to an unassigned variable that does not conflict with previously assigned values of other variables.
-	- (If no legal values remain, the successor function fails.)
+- [[Successor function]]
 - [[Goal test]]
