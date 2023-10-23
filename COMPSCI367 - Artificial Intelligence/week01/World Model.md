@@ -10,3 +10,4 @@
 
 ## Representations
 1. [[Atomic Representation]]
+2. [[Factored Representation]]

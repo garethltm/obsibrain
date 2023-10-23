@@ -14,27 +14,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week05/competitive multi-agent environment.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week06/Factored Representation.md",
                 "mode": "source",
                 "source": false
               }
             },
             "group": "da01315d8484006a"
-          },
-          {
-            "id": "84eb7bfc88071263",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week06/state transition.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "f46a17f0b7c45033",
@@ -47,7 +34,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week05/competitive multi-agent environment.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week06/Factored Representation.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -143,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week06/state transition.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week06/Factored Representation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week06/state transition.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week06/Factored Representation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -183,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week06/state transition.md"
+                "file": "COMPSCI367 - Artificial Intelligence/week06/Factored Representation.md"
               }
             }
           },
@@ -215,13 +202,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "84eb7bfc88071263",
+  "active": "4096a24949cac45d",
   "lastOpenFiles": [
-    "COMPSCI367 - Artificial Intelligence/week06/Atomic Representation.md",
-    "COMPSCI367 - Artificial Intelligence/week06/state transition.md",
     "COMPSCI367 - Artificial Intelligence/week01/World Model.md",
+    "COMPSCI367 - Artificial Intelligence/week06/Factored Representation.md",
+    "COMPSCI367 - Artificial Intelligence/week06/Untitled",
     "COMPSCI367 - Artificial Intelligence/week06/Agents with a World Model.md",
+    "COMPSCI367 - Artificial Intelligence/week06/Atomic Representation.md",
     "COMPSCI367 - Artificial Intelligence/week06/intelligent.md",
+    "COMPSCI367 - Artificial Intelligence/week06/state transition.md",
+    "COMPSCI367 - Artificial Intelligence/week05/competitive multi-agent environment.md",
     "COMPSCI367 - Artificial Intelligence/week06",
     "COMPSCI367 - Artificial Intelligence/week05/Adversarial Search.md",
     "COMPSCI367 - Artificial Intelligence/week05/Minmax Algorithm.md",
@@ -241,7 +231,6 @@
     "COMPSCI367 - Artificial Intelligence/week05/two-player zero-sum games.md",
     "COMPSCI367 - Artificial Intelligence/week05/game.md",
     "COMPSCI367 - Artificial Intelligence/week05/game tree.md",
-    "COMPSCI367 - Artificial Intelligence/week05/competitive multi-agent environment.md",
     "COMPSCI367 - Artificial Intelligence/week05/(partially) cooperative multi-agent environment.md",
     "COMPSCI367 - Artificial Intelligence/week01/multi-agent.md",
     "COMPSCI367 - Artificial Intelligence/week01/performance measure.md",
@@ -253,7 +242,6 @@
     "COMPSCI367 - Artificial Intelligence/week05/crossover operation.md",
     "COMPSCI367 - Artificial Intelligence/week05/fitness.md",
     "COMPSCI367 - Artificial Intelligence/week05/Stochastic Beam Search (SBS).md",
-    "COMPSCI367 - Artificial Intelligence/week04/Iterative Best Improvement (IBI).md",
     "COMPSCI367 - Artificial Intelligence/week03",
     "COMPSCI367 - Artificial Intelligence/week04",
     "COMPSCI367 - Artificial Intelligence/week05",
@@ -261,7 +249,6 @@
     "Untitle",
     "@images",
     "INFOSYS222 - Database Systems",
-    "COMPSCI367 - Artificial Intelligence/week01",
-    "COMPSCI367 - Artificial Intelligence"
+    "COMPSCI367 - Artificial Intelligence/week01"
   ]
 }
