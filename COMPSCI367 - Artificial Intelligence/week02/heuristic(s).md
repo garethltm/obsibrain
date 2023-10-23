@@ -4,6 +4,11 @@
 - Can make use of heuristics in deciding which is the most “promising” [[path(s)]] to take during search
 - In search, heuristic should be an underestimate of actual cost to get from current node to any goal - an [[Admissible heuristic]]
 - Denoted `h(n); h(n) = 0` when ever n is a [[Goal(s) - Goal State(s)]] node
+
+If Problem $p2$ is a relaxed version of $p1$ then
+$$ h2*(n) ≤ h1*(n) $$
+for every s, so $h2$*(n) is admissible for p1
+
 ![[Pasted image 20231023143837.png]]
 
 ## Main idea

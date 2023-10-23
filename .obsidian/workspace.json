@@ -9,43 +9,18 @@
         "dimension": 75.8248730964467,
         "children": [
           {
-            "id": "9d16bf805036e931",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week03/Trivial Heuristic; Dominance.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "17d55d78fde168de",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week03/Trivial Heuristic; Dominance.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "2602e13c15239a89",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week04/Enforced Hill-Climbing.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week02/heuristic(s).md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "d9a730eda40123bb",
@@ -58,7 +33,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week03/Trivial Heuristic; Dominance.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week02/heuristic(s).md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -153,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week03/Trivial Heuristic; Dominance.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week02/heuristic(s).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week03/Trivial Heuristic; Dominance.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week02/heuristic(s).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -193,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week03/Trivial Heuristic; Dominance.md"
+                "file": "COMPSCI367 - Artificial Intelligence/week02/heuristic(s).md"
               }
             }
           },
@@ -225,10 +200,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "17d55d78fde168de",
+  "active": "2602e13c15239a89",
   "lastOpenFiles": [
-    "COMPSCI367 - Artificial Intelligence/week02/Uniform-Cost Search (UCS) (Lowest-Cost-First Search).md",
+    "COMPSCI367 - Artificial Intelligence/week02/Greedy (Best-First) Search.md",
+    "COMPSCI367 - Artificial Intelligence/week04/Enforced Hill-Climbing.md",
     "COMPSCI367 - Artificial Intelligence/week03/Trivial Heuristic; Dominance.md",
+    "COMPSCI367 - Artificial Intelligence/week02/Uniform-Cost Search (UCS) (Lowest-Cost-First Search).md",
     "COMPSCI367 - Artificial Intelligence/week02/Search Techniques (Search Strategy) (Search Algorithm).md",
     "COMPSCI367 - Artificial Intelligence/week05/Population-based Search.md",
     "COMPSCI367 - Artificial Intelligence/week02/path(s).md",
@@ -249,14 +226,12 @@
     "COMPSCI367 - Artificial Intelligence/week03/Admissible heuristic.md",
     "@images/Pasted image 20231023151300.png",
     "@images/Pasted image 20231023150701.png",
-    "COMPSCI367 - Artificial Intelligence/week02/Greedy (Best-First) Search.md",
     "COMPSCI367 - Artificial Intelligence/week02/Depth-Limited Search (DLS).md",
     "@images/Pasted image 20231023145952.png",
     "COMPSCI367 - Artificial Intelligence/week02/Informed Search.md",
     "COMPSCI367 - Artificial Intelligence/week02/Uninformed Search.md",
     "Informed Search.md",
     "COMPSCI367 - Artificial Intelligence/week02/Frontier.md",
-    "COMPSCI367 - Artificial Intelligence/week02/suboptimal.md",
     "@images/Pasted image 20231023143837.png",
     "@images/Pasted image 20231023143630.png",
     "@images/Pasted image 20231023140125.png",
