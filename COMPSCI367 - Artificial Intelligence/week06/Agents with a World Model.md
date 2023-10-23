@@ -1,1 +1,2 @@
--  [[World Model]]
+-  A model-based agent uses a [[World Model]] to determine the agent's [[action(s)]]
+- 
