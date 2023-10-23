@@ -75,7 +75,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week04/Hill-Climbing.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week08/Grounding-GARETH.md",
                 "mode": "source",
                 "source": false
               }
@@ -224,7 +224,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week04/Hill-Climbing.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week08/Grounding-GARETH.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -241,7 +241,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week04/Hill-Climbing.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week08/Grounding-GARETH.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -264,7 +264,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week04/Hill-Climbing.md"
+                "file": "COMPSCI367 - Artificial Intelligence/week08/Grounding-GARETH.md"
               }
             }
           },
@@ -296,10 +296,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "874de3ab24aec93a",
+  "active": "3ad179677b7fba41",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
+    "COMPSCI367 - Artificial Intelligence/week08/Grounding.md",
+    "COMPSCI367 - Artificial Intelligence/week08/Grounding-GARETH.md",
+    "COMPSCI367 - Artificial Intelligence/week08/Herbrand's Theorem.md",
+    "COMPSCI367 - Artificial Intelligence/week08/Herbrand's Theorem-GARETH.md",
+    "COMPSCI367 - Artificial Intelligence/week08/First-Order Logic Inference.md",
+    "COMPSCI367 - Artificial Intelligence/week08/First-Order Logic Inference-GARETH.md",
+    "COMPSCI367 - Artificial Intelligence/week08/First-Order Logic.md",
+    "COMPSCI367 - Artificial Intelligence/week08/First-Order Logic-GARETH.md",
+    "COMPSCI367 - Artificial Intelligence/week08/First-Order Interpretation.md",
+    "COMPSCI367 - Artificial Intelligence/week08/First-Order Interpretation-GARETH.md",
+    "COMPSCI367 - Artificial Intelligence/week08/First-Order Formulas.md",
+    "COMPSCI367 - Artificial Intelligence/week08/First-Order Formulas-GARETH.md",
     "COMPSCI367 - Artificial Intelligence/week04/Hill-Climbing.md",
+    "conflict-files-obsidian-git.md",
     "COMPSCI367 - Artificial Intelligence/week07/resolution.md",
     "COMPSCI367 - Artificial Intelligence/week06/syntax.md",
     "COMPSCI367 - Artificial Intelligence/week06/semantics.md",
@@ -312,18 +324,6 @@
     "COMPSCI367 - Artificial Intelligence/week05/fitness.md",
     "INFOSYS222 - Database Systems/Unary.md",
     "INFOSYS222 - Database Systems/Transform.md",
-    "INFOSYS222 - Database Systems/Total vs Partial.md",
-    "INFOSYS222 - Database Systems/Ternary.md",
-    "INFOSYS222 - Database Systems/Tabular Data Warehouse.md",
-    "INFOSYS222 - Database Systems/TCL - Transaction Control Language.md",
-    "INFOSYS222 - Database Systems/Systems Modeling.md",
-    "INFOSYS222 - Database Systems/Subquery.md",
-    "INFOSYS222 - Database Systems/Star vs Snowflake.md",
-    "INFOSYS222 - Database Systems/Star Schema.md",
-    "INFOSYS222 - Database Systems/Sets.md",
-    "INFOSYS222 - Database Systems/SQL.md",
-    "INFOSYS222 - Database Systems/Requirements.md",
-    "INFOSYS222 - Database Systems/Relationship.md",
     "@images/quicklatex.com-557f65414714e2cde89ee6709e65a857_l3-GARETH.svg",
     "COMPSCI367 - Artificial Intelligence/week08",
     "COMPSCI367 - Artificial Intelligence/week07",
