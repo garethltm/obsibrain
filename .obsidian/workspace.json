@@ -13,7 +13,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week04/Simulated Annealing.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week04/Typical Annealing Schedule.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -48,7 +48,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week04/Simulated Annealing.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week04/Typical Annealing Schedule.md",
                 "mode": "source",
                 "source": false
               }
@@ -121,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week04/Simulated Annealing.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week04/Typical Annealing Schedule.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week04/Simulated Annealing.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week04/Typical Annealing Schedule.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week04/Simulated Annealing.md"
+                "file": "COMPSCI367 - Artificial Intelligence/week04/Typical Annealing Schedule.md"
               }
             }
           },
@@ -195,11 +195,11 @@
   },
   "active": "fc5ebdd1a292e78a",
   "lastOpenFiles": [
+    "COMPSCI367 - Artificial Intelligence/week04/Simulated Annealing.md",
     "COMPSCI367 - Artificial Intelligence/week04/sideways.md",
     "COMPSCI367 - Artificial Intelligence/week04/Annealing.md",
     "COMPSCI367 - Artificial Intelligence/week04/Typical Annealing Schedule.md",
     "@images/Pasted image 20231023172730.png",
-    "COMPSCI367 - Artificial Intelligence/week04/Simulated Annealing.md",
     "COMPSCI367 - Artificial Intelligence/week04/Bernoulli random variable.md",
     "COMPSCI367 - Artificial Intelligence/week04/temperature T.md",
     "@images/Pasted image 20231023172426.png",
