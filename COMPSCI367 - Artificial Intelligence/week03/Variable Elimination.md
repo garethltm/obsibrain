@@ -12,4 +12,14 @@ Otherwise:
 
 
 ### Example
-![[Pasted image 20231023171048.png]]
+![[Pasted image 20231023171048.png]]Constraints: 
+	$A ≠ B, E ≠ C, E ≠ D, A < D,B < E, D < C, E-A$ is odd
+Variables: 
+	$A, B, C, D, E$
+Domains:
+	$A = {1,2}$
+	$B = {1,2,3}$
+	$C = {3,4}$
+	$D = {2,3}$
+	$E = {2,3,4}$
+they all show all possible combinations
