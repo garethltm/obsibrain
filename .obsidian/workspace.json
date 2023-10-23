@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week02/Informed Search.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week02/Frontier.md",
                 "mode": "source",
                 "source": false
               }
@@ -33,7 +33,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week02/Informed Search.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week02/Frontier.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -128,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week02/Informed Search.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week02/Frontier.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week02/Informed Search.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week02/Frontier.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week02/Informed Search.md"
+                "file": "COMPSCI367 - Artificial Intelligence/week02/Frontier.md"
               }
             }
           },
@@ -202,8 +202,11 @@
   },
   "active": "2602e13c15239a89",
   "lastOpenFiles": [
-    "COMPSCI367 - Artificial Intelligence/week02/heuristic(s).md",
+    "COMPSCI367 - Artificial Intelligence/week02/Directed Graph.md",
+    "COMPSCI367 - Artificial Intelligence/week03/optimistic.md",
+    "COMPSCI367 - Artificial Intelligence/week03/open list.md",
     "COMPSCI367 - Artificial Intelligence/week02/Informed Search.md",
+    "COMPSCI367 - Artificial Intelligence/week02/heuristic(s).md",
     "COMPSCI367 - Artificial Intelligence/week03/Iterative Deepening A-Star Search (IDA).md",
     "COMPSCI367 - Artificial Intelligence/week02/Iterative-Deepening Search (IDS).md",
     "COMPSCI367 - Artificial Intelligence/week02/A-Star Search.md",
@@ -226,12 +229,9 @@
     "COMPSCI367 - Artificial Intelligence/week05/Population-based Search.md",
     "COMPSCI367 - Artificial Intelligence/week02/path(s).md",
     "COMPSCI367 - Artificial Intelligence/week02/path cost.md",
-    "COMPSCI367 - Artificial Intelligence/week03/optimistic.md",
     "COMPSCI367 - Artificial Intelligence/week02/Informed Search Heuristic.md",
     "COMPSCI367 - Artificial Intelligence/week02/Breadth-First Search (BFS).md",
     "COMPSCI367 - Artificial Intelligence/week02/Cost Sensitive Search.md",
-    "COMPSCI367 - Artificial Intelligence/week02/Depth-First Search (DFS).md",
-    "COMPSCI367 - Artificial Intelligence/week02/Bidirectional Search.md",
     "@images/Pasted image 20231023152108.png",
     "@images/Pasted image 20231023151300.png",
     "@images/Pasted image 20231023150701.png",
