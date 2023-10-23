@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week03/Backtracking Search.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week03/branching factor.md",
                 "mode": "source",
                 "source": false
               }
@@ -33,7 +33,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week03/Backtracking Search.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week03/branching factor.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -108,8 +108,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -129,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week03/Backtracking Search.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week03/branching factor.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week03/Backtracking Search.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week03/branching factor.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week03/Backtracking Search.md"
+                "file": "COMPSCI367 - Artificial Intelligence/week03/branching factor.md"
               }
             }
           },
@@ -203,9 +202,10 @@
   },
   "active": "2602e13c15239a89",
   "lastOpenFiles": [
+    "COMPSCI367 - Artificial Intelligence/week03/Backtracking Search.md",
+    "COMPSCI367 - Artificial Intelligence/week03/branching factor.md",
     "COMPSCI367 - Artificial Intelligence/week03/Iterative Deepening A-Star Search (IDA).md",
     "COMPSCI367 - Artificial Intelligence/week02/Stack.md",
-    "COMPSCI367 - Artificial Intelligence/week03/Backtracking Search.md",
     "COMPSCI367 - Artificial Intelligence/week03/goal test.md",
     "COMPSCI367 - Artificial Intelligence/week03/Constraint Satisfaction Problem (CSPs).md",
     "COMPSCI367 - Artificial Intelligence/week02/closed list.md",
@@ -228,7 +228,6 @@
     "COMPSCI367 - Artificial Intelligence/week02/State Space.md",
     "COMPSCI367 - Artificial Intelligence/week02/State Space Problem.md",
     "COMPSCI367 - Artificial Intelligence/week02/Search Tree.md",
-    "COMPSCI367 - Artificial Intelligence/week02/initial state (start state).md",
     "@images/Pasted image 20231023161228.png",
     "@images/Pasted image 20231023160933.png",
     "@images/Pasted image 20231023160844.png",
