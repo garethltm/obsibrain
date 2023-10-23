@@ -34,7 +34,11 @@ In many optimisation problems:
 ### Summary
 - Many [[Constraint Satisfaction Problem (CSPs)]] can be formulated as [[Local Search]]
 - General families of algorithms:
-	- [[Local Search]]
+	- [[Local Search]] + [[Gradient descent]]
+		- [[Hill-Climbing]]
+		- [[Hill-Climbing with side-way moves]]
+		- [[Tabu Search]]
+		- [[Enforced Hill-Climbing]]
 	- [[Stochastic Search]]
 	- [[Population-based Search]]
 > Many machine learning algorithms are [[Local Search]]
