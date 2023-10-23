@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week06/Inference Problem.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week06/clause(s).md",
                 "mode": "source",
                 "source": false
               }
@@ -45,7 +45,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week06/Inference Problem.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week06/clause(s).md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -140,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week06/Inference Problem.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week06/clause(s).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week06/Inference Problem.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week06/clause(s).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -180,7 +180,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week06/Inference Problem.md"
+                "file": "COMPSCI367 - Artificial Intelligence/week06/clause(s).md"
               }
             }
           },
@@ -214,8 +214,19 @@
   },
   "active": "719a9e3cda8d050c",
   "lastOpenFiles": [
+    "COMPSCI367 - Artificial Intelligence/week06/Propositional Logic with Wumpus World.md",
+    "COMPSCI367 - Artificial Intelligence/week06/Propositional Logic.md",
+    "COMPSCI367 - Artificial Intelligence/week06/Propositional Knowledge Base.md",
+    "COMPSCI367 - Artificial Intelligence/week06/Propositional Inference Engine.md",
+    "COMPSCI367 - Artificial Intelligence/week06/percept atoms.md",
+    "COMPSCI367 - Artificial Intelligence/week06/proposition.md",
+    "COMPSCI367 - Artificial Intelligence/week06/Equivalence between inference & satisfiability.md",
+    "COMPSCI367 - Artificial Intelligence/week06/Factored Representation.md",
     "COMPSCI367 - Artificial Intelligence/week06/Inference engines (IE).md",
     "COMPSCI367 - Artificial Intelligence/week06/Inference Problem.md",
+    "COMPSCI367 - Artificial Intelligence/week06/Knowledge Representation Language.md",
+    "COMPSCI367 - Artificial Intelligence/week06/Knowledge Base (KB).md",
+    "COMPSCI367 - Artificial Intelligence/week06/Knowledge-based Agents.md",
     "COMPSCI367 - Artificial Intelligence/week06/Logic Inference vs Constraint Satisfaction.md",
     "@images/Pasted image 20231023214921.png",
     "COMPSCI367 - Artificial Intelligence/week06/logical consequence.md",
@@ -225,22 +236,11 @@
     "COMPSCI367 - Artificial Intelligence/week06/NP.md",
     "COMPSCI367 - Artificial Intelligence/week06/Offline.md",
     "COMPSCI367 - Artificial Intelligence/week06/Online.md",
-    "COMPSCI367 - Artificial Intelligence/week06/percept atoms.md",
-    "COMPSCI367 - Artificial Intelligence/week06/proposition.md",
-    "COMPSCI367 - Artificial Intelligence/week06/Propositional Inference Engine.md",
-    "COMPSCI367 - Artificial Intelligence/week06/Propositional Knowledge Base.md",
-    "COMPSCI367 - Artificial Intelligence/week06/Propositional Logic.md",
-    "COMPSCI367 - Artificial Intelligence/week06/Propositional Logic with Wumpus World.md",
     "COMPSCI367 - Artificial Intelligence/week06/Reasoning.md",
     "COMPSCI367 - Artificial Intelligence/week06/SAT solvers.md",
     "COMPSCI367 - Artificial Intelligence/week06/Satisfiability Problem (SAT).md",
     "COMPSCI367 - Artificial Intelligence/week06/satisfiable.md",
     "COMPSCI367 - Artificial Intelligence/week06/Semantics.md",
-    "COMPSCI367 - Artificial Intelligence/week06/sentence.md",
-    "COMPSCI367 - Artificial Intelligence/week06/state transition.md",
-    "COMPSCI367 - Artificial Intelligence/week06/Structured Representation.md",
-    "COMPSCI367 - Artificial Intelligence/week06/Syntax.md",
-    "COMPSCI367 - Artificial Intelligence/week06/Truth table.md",
     "@images/Pasted image 20231023213622.png",
     "@images/Pasted image 20231023213507.png",
     "@images/Pasted image 20231023212648.png",
