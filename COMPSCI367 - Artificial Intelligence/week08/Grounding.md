@@ -14,3 +14,5 @@ changing a variable into a constant
 - may be applied many times to infer infinitely many [[sentence]]$$\frac{\forall y:x(y)}{\text{Subst}(\{y/t\},x(y))}$$
 Essentially, we can turn $\forall x: King(x)\ into\ King(John)$
 - where $x$ can be anything, John, Richard, etc.
+
+> Repeated applications of Existential/Universal Instantiation would produce a new [[kb]] that contains sentences without quantifiers (a propositions)
