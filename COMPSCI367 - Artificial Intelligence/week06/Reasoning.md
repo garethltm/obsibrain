@@ -1,0 +1,1 @@
+- [[Inference engines]] to derive knowledge from [[Percepts]]

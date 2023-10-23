@@ -5,4 +5,4 @@
 
 - a [[World Model]] that describes the [[world]] using variables, while capturing the following:
 	- [[Knowledge]]
-	- Reasoning
+	- [[Reasoning]]

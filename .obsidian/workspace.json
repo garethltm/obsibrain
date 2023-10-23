@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week06/Structured Representation.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week06/Inference engines.md",
                 "mode": "source",
                 "source": false
               }
@@ -34,7 +34,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week06/Structured Representation.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week06/Inference engines.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week06/Structured Representation.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week06/Inference engines.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week06/Structured Representation.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week06/Inference engines.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week06/Structured Representation.md"
+                "file": "COMPSCI367 - Artificial Intelligence/week06/Inference engines.md"
               }
             }
           },
@@ -204,8 +204,10 @@
   },
   "active": "4096a24949cac45d",
   "lastOpenFiles": [
-    "COMPSCI367 - Artificial Intelligence/week06/Knowledge.md",
+    "COMPSCI367 - Artificial Intelligence/week06/Reasoning.md",
+    "COMPSCI367 - Artificial Intelligence/week06/Inference engines.md",
     "COMPSCI367 - Artificial Intelligence/week06/Structured Representation.md",
+    "COMPSCI367 - Artificial Intelligence/week06/Knowledge.md",
     "COMPSCI367 - Artificial Intelligence/week01/World Model.md",
     "@images/Pasted image 20231023202323.png",
     "COMPSCI367 - Artificial Intelligence/week06/Atomic Representation.md",
@@ -240,8 +242,6 @@
     "COMPSCI367 - Artificial Intelligence/week05/Solving Optimisation problems.md",
     "COMPSCI367 - Artificial Intelligence/week05/Evolutionary computation.md",
     "COMPSCI367 - Artificial Intelligence/week05/Genetic Algorithm with Travelling Salesman Problem.md",
-    "COMPSCI367 - Artificial Intelligence/week05/Genetic Algorithm with 8-Queens.md",
-    "COMPSCI367 - Artificial Intelligence/week05/crossover operation.md",
     "COMPSCI367 - Artificial Intelligence/week03",
     "COMPSCI367 - Artificial Intelligence/week04",
     "COMPSCI367 - Artificial Intelligence/week05",
