@@ -4,4 +4,6 @@
 
 ### Probability of Accepting Worse [[successor(s)]]
 - decreases as [[temperature T]] decreases
-- probability increases as E incre
+- probability increases as E decreases
+- sometimes, step size also decreases with [[temperature T]]
+![[Pasted image 20231023172921.png]]
