@@ -1,5 +1,7 @@
 - [[Search Techniques (Search Strategy) (Search Algorithm)]] inspired by [[genetics]] & [[evolution]] in biology
-- a variation of [[stoc]]
+- a variation of [[Stochastic beam Search]] that generates every [[successor(s)]] using 2 [[candidate solution]]
+
+![[Pasted image 20231023181930.png]]
 
 ## Main Idea
 - to apply the [[evolution]] paradigm as a [[Search Techniques (Search Strategy) (Search Algorithm)]], we need:
@@ -7,3 +9,7 @@
 	2. [[fitness]]
 	3. [[crossover operation]]
 	4. [[mutation operation]]
+
+### Summary
+- [[Population-based Search]]
+- 
