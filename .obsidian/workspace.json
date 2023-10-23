@@ -13,7 +13,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week06/logically implies.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week06/logically equivalent.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -48,7 +48,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week06/logically implies.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week06/logically equivalent.md",
                 "mode": "source",
                 "source": false
               }
@@ -121,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week06/logically implies.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week06/logically equivalent.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week06/logically implies.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week06/logically equivalent.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week06/logically implies.md"
+                "file": "COMPSCI367 - Artificial Intelligence/week06/logically equivalent.md"
               }
             }
           },
@@ -195,8 +195,9 @@
   },
   "active": "ea5b8c185c07b419",
   "lastOpenFiles": [
-    "@images/Pasted image 20231023210943.png",
     "COMPSCI367 - Artificial Intelligence/week06/logically implies.md",
+    "COMPSCI367 - Artificial Intelligence/week06/logically equivalent.md",
+    "@images/Pasted image 20231023210943.png",
     "COMPSCI367 - Artificial Intelligence/week06/Interpretation.md",
     "COMPSCI367 - Artificial Intelligence/week06/Propositional logic with Wumpus World.md",
     "COMPSCI367 - Artificial Intelligence/week06/Untitled",
@@ -231,7 +232,6 @@
     "@images/Pasted image 20231023204552.png",
     "@images/Pasted image 20231023204521.png",
     "@images/Pasted image 20231023204251.png",
-    "@images/Pasted image 20231023204127.png",
     "COMPSCI367 - Artificial Intelligence/week06",
     "COMPSCI367 - Artificial Intelligence/week03",
     "COMPSCI367 - Artificial Intelligence/week04",
