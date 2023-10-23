@@ -1,0 +1,1 @@
+- [[Wumpus World Agent]] world scenario needs a [[Structured Representation]] 
