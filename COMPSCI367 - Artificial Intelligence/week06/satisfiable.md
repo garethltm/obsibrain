@@ -1,0 +1,1 @@
+- a [[sentence]] is called satisfiable
