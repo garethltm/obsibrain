@@ -6,13 +6,15 @@ The aim is to find an assignment of the variables $Xi$ from the domains $Di$ in 
 
 
 ### Map Colouring
-![[Pasted image 20231023160732.png]]- Variables:
-    - WA, NT, Q, NSW, V, SA, T
+![[Pasted image 20231023160732.png]]
+- Variables:
+     `WA, NT, Q, NSW, V, SA, T`
 - Domains:
-    
     - $Di = {red, green, blue}$
-- Constraints:
-    
+- [[constraint(s)]]:
     - adjacent regions must have different colours
-    
     > Example: WA ≠ NT etc,
+    
+
+### Constraint Graph
+![[Pasted image 20231023160844.png]]
