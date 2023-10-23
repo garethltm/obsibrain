@@ -17,4 +17,4 @@
 #### Framework
 - [[Genetic Algorithm (GA)]] maintains a [[population]] of [[candidate solution]]
 - Chromosomes are representations of [[candidate solution]] that determines [[fitness]]
-- 
+- [[crossover operation]] & [[mutation operation]] for generating offsprings

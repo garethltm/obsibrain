@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week05/fitness.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week05/Genetic Algorithm (GA).md",
                 "mode": "source",
                 "source": false
               }
@@ -34,7 +34,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week05/fitness.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week05/Genetic Algorithm (GA).md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week05/fitness.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week05/Genetic Algorithm (GA).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week05/fitness.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week05/Genetic Algorithm (GA).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week05/fitness.md"
+                "file": "COMPSCI367 - Artificial Intelligence/week05/Genetic Algorithm (GA).md"
               }
             }
           },
@@ -204,6 +204,8 @@
   },
   "active": "4096a24949cac45d",
   "lastOpenFiles": [
+    "COMPSCI367 - Artificial Intelligence/week05/crossover operation.md",
+    "COMPSCI367 - Artificial Intelligence/week05/fitness.md",
     "COMPSCI367 - Artificial Intelligence/week05/Genetic Algorithm (GA).md",
     "COMPSCI367 - Artificial Intelligence/week05/Stochastic Beam Search (SBS).md",
     "COMPSCI367 - Artificial Intelligence/week04/Iterative Best Improvement (IBI).md",
@@ -211,9 +213,7 @@
     "@images/Pasted image 20231023181930.png",
     "COMPSCI367 - Artificial Intelligence/week05/mutation operation.md",
     "@images/Pasted image 20231023181835.png",
-    "COMPSCI367 - Artificial Intelligence/week05/crossover operation.md",
     "@images/Pasted image 20231023181756.png",
-    "COMPSCI367 - Artificial Intelligence/week05/fitness.md",
     "COMPSCI367 - Artificial Intelligence/week05/genetics.md",
     "COMPSCI367 - Artificial Intelligence/week05/evolution.md",
     "COMPSCI367 - Artificial Intelligence/week05/Evolution as Search.md",
