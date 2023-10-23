@@ -1,0 +1,1 @@
+Turning a [[sentence]] into a [[proposition]]

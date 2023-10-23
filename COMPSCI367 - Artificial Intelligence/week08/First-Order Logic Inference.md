@@ -1,2 +1,2 @@
 ## Tools
-1. Grounding
+1. [[Grounding]]
