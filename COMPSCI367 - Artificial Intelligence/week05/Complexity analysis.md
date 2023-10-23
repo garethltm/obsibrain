@@ -1,1 +1,5 @@
-- the effectiveness of [[Alpha-Beta Pruning]] depends on the order in which the states are exa
+- the effectiveness of [[Alpha-Beta Pruning]] depends on the order in which the states are examined
+	- Best case [[Time Complexity]]: 
+		- $O(b^ \frac {k}{2})$
+			- with branching factor b
+			- 
