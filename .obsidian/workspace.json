@@ -13,7 +13,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week06/Wumpus World Agent.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week06/Propositional logic with Wumpus World.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -48,7 +48,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week06/Wumpus World Agent.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week06/Propositional logic with Wumpus World.md",
                 "mode": "source",
                 "source": false
               }
@@ -121,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week06/Wumpus World Agent.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week06/Propositional logic with Wumpus World.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week06/Wumpus World Agent.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week06/Propositional logic with Wumpus World.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week06/Wumpus World Agent.md"
+                "file": "COMPSCI367 - Artificial Intelligence/week06/Propositional logic with Wumpus World.md"
               }
             }
           },
@@ -195,13 +195,16 @@
   },
   "active": "ea5b8c185c07b419",
   "lastOpenFiles": [
+    "@images/Pasted image 20231023211539.png",
+    "@images/Pasted image 20231023211515.png",
+    "COMPSCI367 - Artificial Intelligence/week06/Propositional Logic.md",
+    "COMPSCI367 - Artificial Intelligence/week06/Propositional logic with Wumpus World.md",
+    "COMPSCI367 - Artificial Intelligence/week06/Wumpus World Agent.md",
     "COMPSCI367 - Artificial Intelligence/week06/Truth table.md",
     "COMPSCI367 - Artificial Intelligence/week06/Syntax.md",
     "COMPSCI367 - Artificial Intelligence/week06/Structured Representation.md",
     "COMPSCI367 - Artificial Intelligence/week06/Semantics.md",
     "COMPSCI367 - Artificial Intelligence/week06/Reasoning.md",
-    "COMPSCI367 - Artificial Intelligence/week06/Propositional logic with Wumpus World.md",
-    "COMPSCI367 - Artificial Intelligence/week06/Propositional Logic.md",
     "COMPSCI367 - Artificial Intelligence/week06/proposition.md",
     "COMPSCI367 - Artificial Intelligence/week06/Online.md",
     "COMPSCI367 - Artificial Intelligence/week06/Agents with a World Model.md",
@@ -226,12 +229,9 @@
     "@images/Pasted image 20231023210657.png",
     "@images/Pasted image 20231023210640.png",
     "@images/Pasted image 20231023210619.png",
-    "COMPSCI367 - Artificial Intelligence/week06/Knowledge-based Agents.md",
-    "COMPSCI367 - Artificial Intelligence/week06/state transition.md",
     "@images/Pasted image 20231023205951.png",
     "@images/Pasted image 20231023205601.png",
     "@images/Pasted image 20231023204633.png",
-    "@images/Pasted image 20231023204552.png",
     "COMPSCI367 - Artificial Intelligence/week06",
     "COMPSCI367 - Artificial Intelligence/week03",
     "COMPSCI367 - Artificial Intelligence/week04",
