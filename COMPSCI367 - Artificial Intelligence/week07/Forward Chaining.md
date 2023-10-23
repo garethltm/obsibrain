@@ -18,3 +18,4 @@ Use a [[rule of derivation]] for inference
 		- $KB\ \cup Percepts\ \vDash g$ (entails)
 		implies
 		- $KB\ \cup Percepts\ \vdash g$ ([[Proof procedure]])
+		![[Pasted image 20231024002910.png]]
