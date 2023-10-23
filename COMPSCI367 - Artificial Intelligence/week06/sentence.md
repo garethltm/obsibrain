@@ -1,0 +1,1 @@
+- a formula without [[Free variables]]. Therefore, all variables must be bounded
