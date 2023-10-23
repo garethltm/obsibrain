@@ -43,8 +43,8 @@ Hence, the theorem:
 - [[Complete]]
     - Yes, unless there are infinitely many nodes with f ≤ cost of solution
 - [[Time Complexity]]
-    - $ $ Exponential
+    - $O(b^d)$ 
 - [[Space Complexity]]
-    - Keeps all nodes in memory
+    - $O(b^d)$ - Keeps all nodes in memory
 - [[Optimal]]
     - Yes (assuming h is [[Admissible heuristic]])
