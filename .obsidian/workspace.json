@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week03/Untitled.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week03/Backtracking Search.md",
                 "mode": "source",
                 "source": false
               }
@@ -46,7 +46,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week03/Untitled.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week03/Backtracking Search.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -141,7 +141,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week03/Untitled.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week03/Backtracking Search.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -158,7 +158,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week03/Untitled.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week03/Backtracking Search.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -181,7 +181,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week03/Untitled.md"
+                "file": "COMPSCI367 - Artificial Intelligence/week03/Backtracking Search.md"
               }
             }
           },
@@ -215,8 +215,9 @@
   },
   "active": "e33800f4695639a6",
   "lastOpenFiles": [
+    "@images/Pasted image 20231023161228.png",
     "COMPSCI367 - Artificial Intelligence/week03/Constraint Satisfaction Problem (CSPs).md",
-    "COMPSCI367 - Artificial Intelligence/week03/Untitled.md",
+    "COMPSCI367 - Artificial Intelligence/week03/Backtracking Search.md",
     "@images/Pasted image 20231023160933.png",
     "@images/Pasted image 20231023160844.png",
     "COMPSCI367 - Artificial Intelligence/week02/constraint(s).md",
@@ -245,7 +246,6 @@
     "COMPSCI367 - Artificial Intelligence/week02/Consistent Heuristics.md",
     "@images/Pasted image 20231023154624.png",
     "COMPSCI367 - Artificial Intelligence/week03/Admissible heuristic.md",
-    "COMPSCI367 - Artificial Intelligence/week03/Tree Search.md",
     "@images/Pasted image 20231023153938.png",
     "@images/Pasted image 20231023153758.png",
     "@images/Pasted image 20231023152108.png",
