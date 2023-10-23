@@ -6,6 +6,7 @@
       {
         "id": "d9a730eda40123bb",
         "type": "tabs",
+        "dimension": 77.79187817258884,
         "children": [
           {
             "id": "4096a24949cac45d",
@@ -25,6 +26,7 @@
       {
         "id": "f46a17f0b7c45033",
         "type": "tabs",
+        "dimension": 22.20812182741117,
         "children": [
           {
             "id": "9475496e15cbf07b",
@@ -202,6 +204,8 @@
   },
   "active": "4096a24949cac45d",
   "lastOpenFiles": [
+    "@images/Pasted image 20231023180406.png",
+    "@images/Pasted image 20231023180404.png",
     "COMPSCI367 - Artificial Intelligence/week05/Boltzmann distribution.md",
     "COMPSCI367 - Artificial Intelligence/week05/Stochastic beam Search.md",
     "COMPSCI367 - Artificial Intelligence/week05/Population-based Search.md",
@@ -233,11 +237,9 @@
     "@images/Pasted image 20231023173450.png",
     "COMPSCI367 - Artificial Intelligence/week04/Simulated Annealing.md",
     "@images/Pasted image 20231023173208.png",
-    "@images/Pasted image 20231023173131.png",
     "COMPSCI367 - Artificial Intelligence/week04/Simulated Annealing with 8-Queens.md",
     "COMPSCI367 - Artificial Intelligence/week04/Typical Annealing Schedule.md",
     "COMPSCI367 - Artificial Intelligence/week04/sideways.md",
-    "COMPSCI367 - Artificial Intelligence/week04/Annealing.md",
     "COMPSCI367 - Artificial Intelligence/week03",
     "COMPSCI367 - Artificial Intelligence/week04",
     "COMPSCI367 - Artificial Intelligence/week05",
