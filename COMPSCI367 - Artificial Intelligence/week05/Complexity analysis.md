@@ -1,0 +1,1 @@
+- the effectiveness of [[Alpha-Beta Pruning]] depends on the order in which the states are exa

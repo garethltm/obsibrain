@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week05/Alpha-Beta Pruning.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week05/Complexity analysis.md",
                 "mode": "source",
                 "source": false
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week05/Alpha-Beta Pruning.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week05/Complexity analysis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +160,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week05/Alpha-Beta Pruning.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week05/Complexity analysis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -183,7 +183,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week05/Alpha-Beta Pruning.md"
+                "file": "COMPSCI367 - Artificial Intelligence/week05/Complexity analysis.md"
               }
             }
           },
@@ -217,6 +217,10 @@
   },
   "active": "84eb7bfc88071263",
   "lastOpenFiles": [
+    "COMPSCI367 - Artificial Intelligence/week05/Alpha-Beta Pruning.md",
+    "COMPSCI367 - Artificial Intelligence/week05/Complexity analysis.md",
+    "@images/Pasted image 20231023200526.png",
+    "@images/Pasted image 20231023200506.png",
     "@images/Pasted image 20231023200158.png",
     "@images/Pasted image 20231023200145.png",
     "@images/Pasted image 20231023200129.png",
@@ -226,10 +230,6 @@
     "@images/Pasted image 20231023195954.png",
     "@images/Pasted image 20231023195938.png",
     "COMPSCI367 - Artificial Intelligence/week05/Minmax Algorithm.md",
-    "COMPSCI367 - Artificial Intelligence/week05/Alpha-Beta Pruning.md",
-    "@images/Pasted image 20231023195857.png",
-    "@images/Pasted image 20231023195838.png",
-    "@images/Pasted image 20231023195818.png",
     "COMPSCI367 - Artificial Intelligence/week05/two-player zero-sum games.md",
     "COMPSCI367 - Artificial Intelligence/week05/game.md",
     "COMPSCI367 - Artificial Intelligence/week05/game tree.md",
