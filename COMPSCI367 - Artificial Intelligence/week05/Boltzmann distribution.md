@@ -1,0 +1,1 @@
+- each [[solution(s)]]: you apply a probabilistic selection on the [[successor(s)]]
