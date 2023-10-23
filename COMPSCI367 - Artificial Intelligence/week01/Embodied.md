@@ -1,3 +1,3 @@
-- [[Agent]] have a body & experience the world directly
+- [[agent]] have a body & experience the world directly
 
 >spray painting robot

@@ -1,3 +1,3 @@
-- [[Agent]] [[Percepts]] contains all relevant information about the [[world]]
+- [[agent]] [[Percepts]] contains all relevant information about the [[world]]
 
 >can observe everything

@@ -1,4 +1,4 @@
-- might not know what the [[Goal(s) - Goal State(s)]] is but might want to maximise/minimise a certain utility
+- might not know what the [[goal(s) - goal state(s)]] is but might want to maximise/minimise a certain utility
 - not easy to implement
 	- [[World Model]] & keep track of its [[environment]]
 	- [[task(s)]] involved a great deal of research on - perception, representation, reasoning & learning

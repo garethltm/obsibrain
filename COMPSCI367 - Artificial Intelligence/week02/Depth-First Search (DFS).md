@@ -4,14 +4,14 @@
 - implementation:
     - implementing the [[frontier (open list, fringe)]] as a [[stack]]
     - can alternatively be implemented by recursive function calls
-- in [[Depth-First Search (DFS)]], like [[Breadth-First Search (BFS)]], the order in which the [[path(s)]] are expanded does not depend on the [[Goal(s) - Goal State(s)]]
+- in [[Depth-First Search (DFS)]], like [[Breadth-First Search (BFS)]], the order in which the [[path(s)]] are expanded does not depend on the [[goal(s) - goal state(s)]]
 
 ### Main idea
 - always expand node at deepest level of tree and when search hits a dead-end return back to expand nodes at a shallower level
 - can be implemented using a [[stack]] of explored + [[frontier (open list, fringe)]] nodes
 - at any point [[Depth-First Search (DFS)]] stores single [[path(s)]] from root to leaf
     - together with any remaining unexpanded siblings of nodes along [[path(s)]]
-- stop when node with [[Goal(s) - Goal State(s)]] is expanded
+- stop when node with [[goal(s) - goal state(s)]] is expanded
 
 ## Properties
 1. [[Complete]]
@@ -28,7 +28,7 @@
 	    - linear space
 4. [[Optimal]]
     - No, can be [[suboptimal]] [[solution(s)]] first
-	    - there is a chance that [[Depth-First Search (DFS)]] can hit a [[Goal(s) - Goal State(s)]] due to random chance as [[Breadth-First Search (BFS)]] would systematically go through the search by levels
+	    - there is a chance that [[Depth-First Search (DFS)]] can hit a [[goal(s) - goal state(s)]] due to random chance as [[Breadth-First Search (BFS)]] would systematically go through the search by levels
 
 >[[Depth-First Search (DFS)]] is considered a memory efficient algorithm as it only stores the nodes that is currently being generated
 

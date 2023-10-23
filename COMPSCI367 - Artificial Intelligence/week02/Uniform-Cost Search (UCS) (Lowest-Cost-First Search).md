@@ -31,7 +31,7 @@
 	- Yes, if nodes expanded in increasing order of `g(n)`![[Pasted image 20231022030918.png]]
 > ε (epsilon) - least-cost [[action(s)]] 
 > C - cost of the optimal [[solution(s)]]
-> $\frac Cε$ would represent the number of steps that might be required to find the [[Goal(s) - Goal State(s)]]. 
+> $\frac Cε$ would represent the number of steps that might be required to find the [[goal(s) - goal state(s)]]. 
 > 
 > In other words, approximates the depth at which the [[solution(s)]] can be found. 
 > 

@@ -11,7 +11,7 @@
 ![[Pasted image 20231022020302.png]]
 
 > Potential Exam Format:
-> We have very limited memory but we have a lot of time, we have a problem with a lot of [[Goal(s) - Goal State(s)]] states in it 
+> We have very limited memory but we have a lot of time, we have a problem with a lot of [[goal(s) - goal state(s)]] states in it 
 > 
 > What algorithm would you use?
 ## Summary

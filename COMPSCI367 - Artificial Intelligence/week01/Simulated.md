@@ -1,1 +1,1 @@
-- simulated in an [[environment]] - feed [[Percepts]] to [[Agent]]
+- simulated in an [[environment]] - feed [[Percepts]] to [[agent]]

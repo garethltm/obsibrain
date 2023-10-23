@@ -17,7 +17,7 @@
 - Use both cost of [[path(s)]] generated & estimate to goal to order nodes on the [[frontier (open list, fringe)]]
 - **f(n)** is the **estimated cost** of the **cheapest solution** extending this [[path(s)]] (through node n)
 - **g(n) = cost of [[path(s)]] from [[Initial State (Start State)]] to n**; 
-- **h(n) = estimate from n to [[Goal(s) - Goal State(s)]]**
+- **h(n) = estimate from n to [[goal(s) - goal state(s)]]**
 - Order [[priority queue]] using function **f(n)** = **g(n)** + **h(n)**
 
 ### Heuristic Function
@@ -31,7 +31,7 @@
 - Yes, provided h(n) is [[Admissible heuristic]] 
 - ##### Conditions for [[Optimal]]
 	- $∀n h(n) ≤ y(n)$
-		- where y(n) is the true cost from n to the [[Goal(s) - Goal State(s)]]
+		- where y(n) is the true cost from n to the [[goal(s) - goal state(s)]]
 	- If h is [[Admissible heuristic]] then **f(n)** **never overestimates** the actual cost of the best solution through n
 	- Theorem: [[A-Star Search]] finds optimal solution if **h(n)** is [[Admissible heuristic]]
 

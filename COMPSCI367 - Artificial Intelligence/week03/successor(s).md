@@ -1,0 +1,1 @@
+- both mean the nodes that all the outgoing edges of a node connect to

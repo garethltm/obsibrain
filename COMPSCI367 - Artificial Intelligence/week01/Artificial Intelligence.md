@@ -25,6 +25,6 @@
 4. Acting Rationally
 
 ## Goals
-What are the main [[Goal(s) - Goal State(s)]] of the [[Agent]]
+What are the main [[goal(s) - goal state(s)]] of the [[agent]]
 1. [[Scientific goal]]
 2. [[Engineering goal]]

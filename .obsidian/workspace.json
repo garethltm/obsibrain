@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week01/Goal(s) - Goal State(s).md",
+                "file": "COMPSCI367 - Artificial Intelligence/week03/Graph Seach.md",
                 "mode": "source",
                 "source": false
               }
@@ -46,7 +46,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week01/Goal(s) - Goal State(s).md",
+                "file": "COMPSCI367 - Artificial Intelligence/week03/Graph Seach.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -104,7 +104,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "open list",
+                "query": "closed",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -121,7 +121,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -141,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week01/Goal(s) - Goal State(s).md",
+                "file": "COMPSCI367 - Artificial Intelligence/week03/Graph Seach.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -158,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week01/Goal(s) - Goal State(s).md",
+                "file": "COMPSCI367 - Artificial Intelligence/week03/Graph Seach.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -181,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week01/Goal(s) - Goal State(s).md"
+                "file": "COMPSCI367 - Artificial Intelligence/week03/Graph Seach.md"
               }
             }
           },
@@ -215,9 +216,14 @@
   },
   "active": "e33800f4695639a6",
   "lastOpenFiles": [
+    "COMPSCI367 - Artificial Intelligence/week03/successor(s).md",
+    "COMPSCI367 - Artificial Intelligence/week02/Complete.md",
+    "COMPSCI367 - Artificial Intelligence/week02/Bidirectional Search.md",
+    "COMPSCI367 - Artificial Intelligence/week02/A-Star Search.md",
+    "COMPSCI367 - Artificial Intelligence/week01/agent.md",
+    "COMPSCI367 - Artificial Intelligence/week01/goal(s) - goal state(s).md",
     "COMPSCI367 - Artificial Intelligence/week02/state(s).md",
     "COMPSCI367 - Artificial Intelligence/week02/closed list.md",
-    "COMPSCI367 - Artificial Intelligence/week02/A-Star Search.md",
     "COMPSCI367 - Artificial Intelligence/week02/Breadth-First Search (BFS).md",
     "COMPSCI367 - Artificial Intelligence/week02/Depth-First Search (DFS).md",
     "COMPSCI367 - Artificial Intelligence/week02/Greedy (Best-First) Search.md",
@@ -240,11 +246,6 @@
     "@images/Pasted image 20231023153758.png",
     "COMPSCI367 - Artificial Intelligence/week03/Local Search.md",
     "COMPSCI367 - Artificial Intelligence/week04/Enforced Hill-Climbing.md",
-    "COMPSCI367 - Artificial Intelligence/week03/Trivial Heuristic; Dominance.md",
-    "COMPSCI367 - Artificial Intelligence/week02/Uniform-Cost Search (UCS) (Lowest-Cost-First Search).md",
-    "COMPSCI367 - Artificial Intelligence/week02/Search Techniques (Search Strategy) (Search Algorithm).md",
-    "COMPSCI367 - Artificial Intelligence/week05/Population-based Search.md",
-    "COMPSCI367 - Artificial Intelligence/week02/path(s).md",
     "@images/Pasted image 20231023152108.png",
     "@images/Pasted image 20231023151300.png",
     "@images/Pasted image 20231023150701.png",

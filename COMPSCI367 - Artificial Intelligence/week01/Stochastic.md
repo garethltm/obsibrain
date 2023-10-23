@@ -1,3 +1,3 @@
 - some random element involved
 
-> [[Agent]] may not kick ball
+> [[agent]] may not kick ball

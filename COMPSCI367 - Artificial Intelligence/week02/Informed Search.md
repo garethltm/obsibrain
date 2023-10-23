@@ -13,7 +13,7 @@
 ## Summary: Informed Search
 - All of them uses [[heuristic(s)]].
 	- [[heuristic(s)]] can be applied to reduce search cost
-	- In order to find [[heuristic(s)]], you need to solve a relaxed problem and think of what kind on constraints you can ignore and decide on what actions that brings you closer to your [[Goal(s) - Goal State(s)]]
+	- In order to find [[heuristic(s)]], you need to solve a relaxed problem and think of what kind on constraints you can ignore and decide on what actions that brings you closer to your [[goal(s) - goal state(s)]]
 	- Working on [[closed list]]/[[frontier (open list, fringe)]] can affect the [[Time Complexity]] & [[Space Complexity]] used of the algorithm
 - [[Greedy (Best-First) Search]] tries to minimise the cost from current node n to the goal
 - [[A-Star Search]] combines the advantages of Uniform-Cost Search & Greedy Search
