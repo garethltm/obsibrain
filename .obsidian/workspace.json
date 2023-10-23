@@ -63,7 +63,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week02/Untitled.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week02/Uninformed Search.md",
                 "mode": "source",
                 "source": false
               }
@@ -191,7 +191,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week02/Untitled.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week02/Uninformed Search.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -208,7 +208,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week02/Untitled.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week02/Uninformed Search.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -231,7 +231,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week02/Untitled.md"
+                "file": "COMPSCI367 - Artificial Intelligence/week02/Uninformed Search.md"
               }
             }
           },
@@ -265,8 +265,11 @@
   },
   "active": "78003ac2d0f27c16",
   "lastOpenFiles": [
+    "COMPSCI367 - Artificial Intelligence/week02/Iterative-Deepening Search (IDS).md",
+    "COMPSCI367 - Artificial Intelligence/week02/Uninformed Search.md",
+    "COMPSCI367 - Artificial Intelligence/week02/Depth-Limited Search (DLS).md",
+    "COMPSCI367 - Artificial Intelligence/week02/Informed Search Heuristic.md",
     "COMPSCI367 - Artificial Intelligence/week02/heuristic(s).md",
-    "COMPSCI367 - Artificial Intelligence/week02/Untitled.md",
     "COMPSCI367 - Artificial Intelligence/week04/Hill-Climbing.md",
     "COMPSCI367 - Artificial Intelligence/week01/action(s).md",
     "COMPSCI367 - Artificial Intelligence/week03/Local Search.md",
@@ -288,9 +291,6 @@
     "COMPSCI367 - Artificial Intelligence/week04/Random-Restarts with 8-Queens.md",
     "COMPSCI367 - Artificial Intelligence/week04/Stochastic Hill-Climbing.md",
     "COMPSCI367 - Artificial Intelligence/week04/Stochastic Local Search (SLS).md",
-    "COMPSCI367 - Artificial Intelligence/week04/Random Walk Hill-Climbing.md",
-    "COMPSCI367 - Artificial Intelligence/week04/Probabilistic Hill-Climbing.md",
-    "Greedy Search.md",
     "@images/Untitled.png",
     "@images/Pasted image 20231022182721.png",
     "@images/Pasted image 20231022173408.png",
