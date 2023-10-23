@@ -1,0 +1,1 @@
+Applying [[Grounding]] rules to introduce [[proposition]] to [[Knowledge Base (KB)]] & eliminate the [[quantifier(s)]]
