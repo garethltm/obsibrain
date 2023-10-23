@@ -1,3 +1,3 @@
-- finite number of [[action]] that the [[Agent]] can do
+- finite number of [[action(s)]] that the [[Agent]] can do
 
->limited number of [[action]] can could be performed
+>limited number of [[action(s)]] can could be performed

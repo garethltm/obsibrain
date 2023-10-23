@@ -1,3 +1,3 @@
-- [[Agent]] [[action]] may vary continuously
+- [[Agent]] [[action(s)]] may vary continuously
 
->infinite number of [[action]] could be performed
+>infinite number of [[action(s)]] could be performed

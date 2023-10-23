@@ -70,18 +70,6 @@
             }
           },
           {
-            "id": "d0f61cd9fefb8c2d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week03/Local Search.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "2602e13c15239a89",
             "type": "leaf",
             "state": {
@@ -94,7 +82,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       },
       {
         "id": "d9a730eda40123bb",
@@ -203,7 +191,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week03/Local Search.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week04/Hill-Climbing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -220,7 +208,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week03/Local Search.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week04/Hill-Climbing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -243,7 +231,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week03/Local Search.md"
+                "file": "COMPSCI367 - Artificial Intelligence/week04/Hill-Climbing.md"
               }
             }
           },
@@ -275,8 +263,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d0f61cd9fefb8c2d",
+  "active": "78003ac2d0f27c16",
   "lastOpenFiles": [
+    "COMPSCI367 - Artificial Intelligence/week01/action(s).md",
+    "COMPSCI367 - Artificial Intelligence/week03/Local Search.md",
     "COMPSCI367 - Artificial Intelligence/week03/A-Star Search.md",
     "COMPSCI367 - Artificial Intelligence/week03/Admissible heuristic.md",
     "COMPSCI367 - Artificial Intelligence/week03/heuristic(s).md",
@@ -301,8 +291,6 @@
     "COMPSCI367 - Artificial Intelligence/week04/Hill-Climbing.md",
     "Greedy Search.md",
     "COMPSCI367 - Artificial Intelligence/week04/uninformed random walk.md",
-    "COMPSCI367 - Artificial Intelligence/week04/try.md",
-    "COMPSCI367 - Artificial Intelligence/week04/Difference between Stochastic & First-Choice Hill-Climbing.md",
     "@images/Untitled.png",
     "@images/Pasted image 20231022182721.png",
     "@images/Pasted image 20231022173408.png",

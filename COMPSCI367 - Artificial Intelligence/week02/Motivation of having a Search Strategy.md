@@ -1,2 +1,2 @@
-- [[Reactive Agent]] & [[Reflex (Model-Based) Agent]] choose their [[action]] based on their current [[Percepts]] or from past [[Percepts]]
+- [[Reactive Agent]] & [[Reflex (Model-Based) Agent]] choose their [[action(s)]] based on their current [[Percepts]] or from past [[Percepts]]
 - [[Planning Agent]] can use [[Search Techniques (Strategy)]] to plan several steps ahead in order to achieve its [[Goal(s) - Goal State(s)]](s)

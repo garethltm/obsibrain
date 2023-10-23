@@ -21,8 +21,8 @@ In many optimisation problems:
 	>- Constant space, suitable for online as well as offline search
 
 ## Steps
-1. we start from some [[initial]]
-2. perform a number of actions searching for a solution
+1. we start from some [[Initial State (Start State)]]
+2. perform a number of [[action(s)]] searching for a [[solution(s)]]
 
 ## Main Idea
 - resembling an [[agent]] exploring the search space & move along successor relations

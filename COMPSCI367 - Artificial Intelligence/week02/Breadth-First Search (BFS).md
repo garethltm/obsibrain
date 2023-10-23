@@ -30,7 +30,7 @@
 3. [[Space Complexity]]
 	- $O(b^d)$ - as it keeps every node in memory, where it generates all the nodes up to level d
 4. [[Optimal]]
-	- Yes - only if all the [[action]] have the same cost
+	- Yes - only if all the [[action(s)]] have the same cost
 
 ## Summary
 - Space is a big problem - it grows exponentially with depth

@@ -12,7 +12,7 @@ Comprises of
 3. Acting
 
 ## Agent Mapping
-An agent can be seen as a mapping between [[Percepts]] and [[action]]
+An agent can be seen as a mapping between [[Percepts]] and [[action(s)]]
 > Vacuum Cleaner
 
 

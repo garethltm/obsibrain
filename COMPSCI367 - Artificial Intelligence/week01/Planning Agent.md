@@ -1,11 +1,11 @@
 - decision making made by this [[Agent]] if fundamentally different from the condition-action rules
 - involves consideration of the future
-	> What will happen if I do this [[action]]
+	> What will happen if I do this [[action(s)]]
 	> Will that make me happy?
 
 ![[Pasted image 20231012005826.png]]
 
->In [[Reflex (Model-Based) Agent]] designs, this information is not explicitly represented because the built-in rules map directly from [[State(s)]] to [[action]]
+>In [[Reflex (Model-Based) Agent]] designs, this information is not explicitly represented because the built-in rules map directly from [[State(s)]] to [[action(s)]]
 
 
 ## One of the main Agents of Planning Agent

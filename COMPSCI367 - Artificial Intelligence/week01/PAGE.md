@@ -1,5 +1,5 @@
 1. [[Percepts]]
-2. [[action]]
+2. [[action(s)]]
 3. [[Goal(s) - Goal State(s)]]
 4. [[environment]]
 

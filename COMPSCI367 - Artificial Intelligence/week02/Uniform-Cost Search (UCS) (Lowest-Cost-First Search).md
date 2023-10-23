@@ -11,7 +11,7 @@
 	(`lowest path cost g(n)`)
 1. Expand root first, 
 2. Expand least-cost unexpanded node
-3. Reduces to [[Breadth-First Search (BFS)]] when all [[action]] have same cost
+3. Reduces to [[Breadth-First Search (BFS)]] when all [[action(s)]] have same cost
 4. Finds the cheapest goal provided path cost is monotonically increasing along each [[path(s)]] 
 > (no negative-cost steps)
 > Also, sorting whenever we add a node
@@ -22,14 +22,14 @@
 2. [[Time Complexity]]
 	- $O(b^[1+\frac C ε])$ 
 		- where C* = cost of the optimal [[solution(s)]]
-		- assume every [[action]] costs at least ε, where ε is the least cost [[action]]
+		- assume every [[action(s)]] costs at least ε, where ε is the least cost [[action(s)]]
 3. [[Space Complexity]] - we need to store all the nodes we want to explore
 	-  $O(b^[1+\frac C ε])$
 		- number will depend on that minimum cost associated to an [[arc]] to that ε
 		- smaller the ε means more nodes we might need to store in our [[frontier]]
 4. [[Optimal]]
 	- Yes, if nodes expanded in increasing order of `g(n)`![[Pasted image 20231022030918.png]]
-> ε (epsilon) - least-cost [[action]] 
+> ε (epsilon) - least-cost [[action(s)]] 
 > C - cost of the optimal [[solution(s)]]
 > $\frac Cε$ would represent the number of steps that might be required to find the [[Goal(s) - Goal State(s)]]. 
 > 
