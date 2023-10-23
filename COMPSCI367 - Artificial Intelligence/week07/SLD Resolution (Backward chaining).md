@@ -1,0 +1,1 @@
+- iteratively replace goals with subgoals; try to get head with an empty body
