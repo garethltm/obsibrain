@@ -14,4 +14,6 @@
 	- [[Inference engines (IE)]]
 - [[Syntax]] of [[Propositional Logic]]
 	- [[Atomic Propositions (atoms)]]
-	- [[com]]
+	- [[Compound Propositions (Compound Entities)]]
+- [[Semantics]] of [[Propositional Logic]]
+	- 
