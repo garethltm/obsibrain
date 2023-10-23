@@ -1,4 +1,5 @@
-- recursively updates the values of [[state(s)]] in the [[game tree]] as in the [[Minmax Algorithm]], while preserving values 
+- recursively updates the values of [[state(s)]] in the [[game tree]] as in the [[Minmax Algorithm]], while preserving values **α** , **β** for every [[state(s)]] it encounters & pruning branches accordingly
+	- **α**: The best (highest) score MAX can achieve so far along the [[path(s)]] being explorede
 ![[Pasted image 20231023195938.png]]
 ![[Pasted image 20231023195954.png]]
 
