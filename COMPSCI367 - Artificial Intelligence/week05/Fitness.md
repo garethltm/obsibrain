@@ -1,0 +1,1 @@
+- how desirable a [[candidate solution]] looks.
