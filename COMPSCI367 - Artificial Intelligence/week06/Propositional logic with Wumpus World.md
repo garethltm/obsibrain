@@ -9,4 +9,6 @@
 
 ### Summary
 - [[logically implies]] & [[logically equivalent]]
-- [[literal]]
+- [[literal(s)]] & [[clause(s)]]
+- [[model of a propositional KB]]
+- 
