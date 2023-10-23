@@ -33,4 +33,6 @@ In many optimisation problems:
 
 ### Summary
 - Many [[Constraint Satisfaction Problem (CSPs)]] can be formulated as [[Local Search]]
-- General familie
+- General families of algorithms:
+	- [[Local Search]]
+	- [[stoca]]
