@@ -8,4 +8,4 @@
 
 > annealing process would start by keeping metal above its recrystallisation temperature for while before letting it cool down
 
-> same idea for [[Local Search]] where we want to get out of local maxm
+> same idea for [[Local Search]] where we want to get out of local maximum/minimum
