@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week02/Informed Search.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week03/Iterative Deepening A-Star Search.md",
                 "mode": "source",
                 "source": false
               }
@@ -33,7 +33,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week02/Informed Search.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week03/Iterative Deepening A-Star Search.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -128,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week02/Informed Search.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week03/Iterative Deepening A-Star Search.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week02/Informed Search.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week03/Iterative Deepening A-Star Search.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week02/Informed Search.md"
+                "file": "COMPSCI367 - Artificial Intelligence/week03/Iterative Deepening A-Star Search.md"
               }
             }
           },
@@ -202,6 +202,8 @@
   },
   "active": "2602e13c15239a89",
   "lastOpenFiles": [
+    "COMPSCI367 - Artificial Intelligence/week02/Informed Search.md",
+    "COMPSCI367 - Artificial Intelligence/week03/Iterative Deepening A-Star Search.md",
     "COMPSCI367 - Artificial Intelligence/week02/Consistent Heuristics.md",
     "@images/Pasted image 20231023154624.png",
     "COMPSCI367 - Artificial Intelligence/week03/Admissible heuristic.md",
@@ -232,7 +234,6 @@
     "COMPSCI367 - Artificial Intelligence/week02/Optimal.md",
     "@images/Pasted image 20231023151300.png",
     "@images/Pasted image 20231023150701.png",
-    "COMPSCI367 - Artificial Intelligence/week02/Depth-Limited Search (DLS).md",
     "@images/Pasted image 20231023145952.png",
     "@images/Pasted image 20231023143837.png",
     "@images/Pasted image 20231023143630.png",

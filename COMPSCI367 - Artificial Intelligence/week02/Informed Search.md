@@ -14,7 +14,8 @@
 [[heuristic(s)]] can be applied to reduce search cost
 - [[Greedy (Best-First) Search]] tries to minimise the cost from current node n to the goal
 - [[A-Star Search]] combines the advantages of Uniform-Cost Search & Greedy Search
-	- [[A-Star Search]] is [[complete]], [[optimal]] and optimally efficient among all optimal search algorithmsMemory usage is still a concern for A*: IDA* is a low-memory variant
+	- [[A-Star Search]] is [[complete]], [[optimal]] and optimally efficient among all optimal search algorithms
+	- [[Space Complexity]] is still a concern for [[A-Star Search]]: IDA* is a low-memory variant
     
 - Informed search makes use to problem-specific knowledge to guide progress of search
     
