@@ -10,10 +10,10 @@ $$ h2*(n) ≤ h1*(n) $$
 for every s, so $h2$*(n) is admissible for p1
 
 ![[Pasted image 20231023143837.png]]
-
+With [[A-Star Search]]: a trade-off between quality of estimate and work per node
+- As **heuristics get closer to the true cost**, you will expand fewer nodes but usually do more work per node to compute the heuristic itself
 ## Main idea
 - in an ideal scenario where there are no limitation, what is the best possible [[solution(s)]]
-
 ### Summary
 - [[Admissible heuristic]]
 - Comparing [[heuristic(s)]]
