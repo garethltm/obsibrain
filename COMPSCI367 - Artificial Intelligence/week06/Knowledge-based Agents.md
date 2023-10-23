@@ -16,4 +16,5 @@
 	- [[Atomic Propositions (atoms)]]
 	- [[Compound Propositions (Compound Entities)]]
 - [[Semantics]] of [[Propositional Logic]]
-	- 
+	- [[Interpretation]]
+	- Truth table
