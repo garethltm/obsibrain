@@ -13,7 +13,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week06/Atomic Entities.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week06/Compound Entities.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -48,7 +48,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week06/Atomic Entities.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week06/Compound Entities.md",
                 "mode": "source",
                 "source": false
               }
@@ -121,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week06/Atomic Entities.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week06/Compound Entities.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week06/Atomic Entities.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week06/Compound Entities.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week06/Atomic Entities.md"
+                "file": "COMPSCI367 - Artificial Intelligence/week06/Compound Entities.md"
               }
             }
           },
@@ -193,11 +193,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3ad179677b7fba41",
+  "active": "78108e831b5150f6",
   "lastOpenFiles": [
-    "COMPSCI367 - Artificial Intelligence/week06/Interpretation.md",
     "COMPSCI367 - Artificial Intelligence/week06/Atomic Entities.md",
+    "COMPSCI367 - Artificial Intelligence/week06/Compound Entities.md",
     "COMPSCI367 - Artificial Intelligence/week06/Atomic Propositions (atoms).md",
+    "COMPSCI367 - Artificial Intelligence/week06/Interpretation.md",
     "COMPSCI367 - Artificial Intelligence/week06/Proposition.md",
     "COMPSCI367 - Artificial Intelligence/week06/Propositional Logic.md",
     "COMPSCI367 - Artificial Intelligence/week06/Duality of Syntax vs Semantics.md",
@@ -231,7 +232,6 @@
     "COMPSCI367 - Artificial Intelligence/week06/Reasoning.md",
     "COMPSCI367 - Artificial Intelligence/week01/World Model.md",
     "COMPSCI367 - Artificial Intelligence/week06/Untitled",
-    "COMPSCI367 - Artificial Intelligence/week06/intelligent.md",
     "COMPSCI367 - Artificial Intelligence/week06",
     "COMPSCI367 - Artificial Intelligence/week03",
     "COMPSCI367 - Artificial Intelligence/week04",
