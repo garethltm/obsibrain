@@ -1,0 +1,1 @@
+- characterized by the [inference](https://www.google.com/search?client=firefox-b-d&sca_esv=575778037&q=inference&si=ALGXSlYl_e3TsZvERASNGAvnwCgjslr_EjNTMYMAisb-SHtvzEwHTGpXwRfVcmaBCxL60ro2X2gN1M3XbHoS5BPOzR9e6QM6_lWhNe8tvm76fqwlM6ybvjU%3D&expnd=1) of general laws from particular instances.

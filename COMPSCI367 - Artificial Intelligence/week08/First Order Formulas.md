@@ -1,1 +1,1 @@
-- with [[term(s)]], you can now define [[First Order Formulas]], where they are defined inductively
+- with [[term(s)]], you can now define [[First Order Formulas]], where they are defined [[inductively]]
