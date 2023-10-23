@@ -11,3 +11,11 @@
 - to check for intersection it must have all states from one of the searches in memory, therefore [[Space Complexity]] is O($b^\frac d2$) + O($b^\frac d2$) = 2O($b^\frac d2$) = O($b^\frac d2$)
 
 ## Properties
+- [[Complete]]
+    - Depends on the search algorithm used. If [[Breadth-First Search (BFS)]], then yes
+- [[Time Complexity]]
+    - $O(b^\frac d2)$
+- Space?
+    -  $O(b^\frac d2)$
+- Optimal?
+    - Depends on the search algorithm used
