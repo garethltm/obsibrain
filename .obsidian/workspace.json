@@ -14,38 +14,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week02/closed list.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e33800f4695639a6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week03/successor function.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5a1cf2eb0bfdf358",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week03/Goal test.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week03/Backtracking Search.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "d9a730eda40123bb",
@@ -58,7 +33,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week03/successor function.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week03/Backtracking Search.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -116,7 +91,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "state",
+                "query": "goal test",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -153,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week03/successor function.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week03/Backtracking Search.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week03/successor function.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week03/Backtracking Search.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -193,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week03/successor function.md"
+                "file": "COMPSCI367 - Artificial Intelligence/week03/Backtracking Search.md"
               }
             }
           },
@@ -225,8 +200,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e33800f4695639a6",
+  "active": "2602e13c15239a89",
   "lastOpenFiles": [
+    "COMPSCI367 - Artificial Intelligence/week03/goal test.md",
+    "COMPSCI367 - Artificial Intelligence/week03/Backtracking Search.md",
+    "COMPSCI367 - Artificial Intelligence/week03/Constraint Satisfaction Problem (CSPs).md",
+    "COMPSCI367 - Artificial Intelligence/week02/closed list.md",
+    "COMPSCI367 - Artificial Intelligence/week01/Scientific goal.md",
+    "COMPSCI367 - Artificial Intelligence/week02/Cost Sensitive Search.md",
+    "COMPSCI367 - Artificial Intelligence/week03/successor function.md",
     "state.md",
     "COMPSCI367 - Artificial Intelligence/week02/Search Techniques (Search Strategy) (Search Algorithm).md",
     "COMPSCI367 - Artificial Intelligence/week04/Hill-Climbing with 8-Queens.md",
@@ -246,13 +228,6 @@
     "COMPSCI367 - Artificial Intelligence/week02/initial state (start state).md",
     "COMPSCI367 - Artificial Intelligence/week04/Random-Restart Hill Climbing.md",
     "COMPSCI367 - Artificial Intelligence/week04/try.md",
-    "COMPSCI367 - Artificial Intelligence/week01/Reactive Agent.md",
-    "COMPSCI367 - Artificial Intelligence/week04/Random Walk & Random Restart Hill-Climbing.md",
-    "COMPSCI367 - Artificial Intelligence/week04/Probabilistic Hill-Climbing.md",
-    "COMPSCI367 - Artificial Intelligence/week03/Local Search.md",
-    "COMPSCI367 - Artificial Intelligence/week03/Iterative Improvement.md",
-    "COMPSCI367 - Artificial Intelligence/week04/Hill-Climbing.md",
-    "COMPSCI367 - Artificial Intelligence/week03/Graph Seach.md",
     "@images/Pasted image 20231023161228.png",
     "@images/Pasted image 20231023160933.png",
     "@images/Pasted image 20231023160844.png",

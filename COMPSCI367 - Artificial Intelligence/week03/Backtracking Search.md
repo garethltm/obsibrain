@@ -5,4 +5,6 @@ This can be achieved by a [[Depth-First Search (DFS)]] on a special kind of [[St
 - [[initial state (start state)]]
 	- the empty assignment
 - [[successor function]]
-- [[Goal test]]
+- [[goal test]]
+
+>We always go for the 1st element in the frontier because we are implementing as a stack
