@@ -1,5 +1,8 @@
 - [[Wumpus World Agent]] world scenario needs a [[Structured Representation]] to code [[constraint(s)]] & [[Percepts]], & to perform inferences
-
 ## Consists
 1. [[Offline]]
 2. [[Online]]
+
+## Implements
+1. [[Knowledge Base (KB)]]
+2. [[Knowledge Base (KB)]] is updated through an [[Inference engines (IE)]]

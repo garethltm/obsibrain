@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week06/Online.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week06/Knowledge-based Agents.md",
                 "mode": "source",
                 "source": false
               }
@@ -34,7 +34,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week06/Online.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week06/Knowledge-based Agents.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week06/Online.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week06/Knowledge-based Agents.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week06/Online.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week06/Knowledge-based Agents.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week06/Online.md"
+                "file": "COMPSCI367 - Artificial Intelligence/week06/Knowledge-based Agents.md"
               }
             }
           },
@@ -204,8 +204,9 @@
   },
   "active": "4096a24949cac45d",
   "lastOpenFiles": [
-    "COMPSCI367 - Artificial Intelligence/week06/Offline.md",
     "COMPSCI367 - Artificial Intelligence/week06/Online.md",
+    "@images/Pasted image 20231023203857.png",
+    "COMPSCI367 - Artificial Intelligence/week06/Offline.md",
     "COMPSCI367 - Artificial Intelligence/week06/Knowledge-based Agents.md",
     "COMPSCI367 - Artificial Intelligence/week06/Knowledge Base (KB).md",
     "COMPSCI367 - Artificial Intelligence/week06/Knowledge.md",
@@ -226,7 +227,6 @@
     "@images/Pasted image 20231023202923.png",
     "@images/Pasted image 20231023202907.png",
     "@images/Pasted image 20231023202851.png",
-    "@images/Pasted image 20231023202816.png",
     "COMPSCI367 - Artificial Intelligence/week01/World Model.md",
     "COMPSCI367 - Artificial Intelligence/week06/Untitled",
     "COMPSCI367 - Artificial Intelligence/week06/intelligent.md",
@@ -241,7 +241,6 @@
     "COMPSCI367 - Artificial Intelligence/week05/game.md",
     "COMPSCI367 - Artificial Intelligence/week05/game tree.md",
     "COMPSCI367 - Artificial Intelligence/week05/(partially) cooperative multi-agent environment.md",
-    "COMPSCI367 - Artificial Intelligence/week01/multi-agent.md",
     "COMPSCI367 - Artificial Intelligence/week03",
     "COMPSCI367 - Artificial Intelligence/week04",
     "COMPSCI367 - Artificial Intelligence/week05",
