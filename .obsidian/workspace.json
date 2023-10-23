@@ -13,7 +13,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week06/Compound Entities.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week06/Knowledge Representation Language.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -48,7 +48,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week06/Compound Entities.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week06/Knowledge Representation Language.md",
                 "mode": "source",
                 "source": false
               }
@@ -121,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week06/Compound Entities.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week06/Knowledge Representation Language.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week06/Compound Entities.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week06/Knowledge Representation Language.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week06/Compound Entities.md"
+                "file": "COMPSCI367 - Artificial Intelligence/week06/Knowledge Representation Language.md"
               }
             }
           },
@@ -195,13 +195,15 @@
   },
   "active": "78108e831b5150f6",
   "lastOpenFiles": [
+    "COMPSCI367 - Artificial Intelligence/week06/Knowledge-based Agents.md",
+    "COMPSCI367 - Artificial Intelligence/week06/Knowledge Base (KB).md",
+    "COMPSCI367 - Artificial Intelligence/week06/Compound Entities.md",
     "@images/Pasted image 20231023205951.png",
     "COMPSCI367 - Artificial Intelligence/week06/proposition.md",
     "COMPSCI367 - Artificial Intelligence/week06/Atomic Entities.md",
     "COMPSCI367 - Artificial Intelligence/week06/Agents with a World Model.md",
     "COMPSCI367 - Artificial Intelligence/week06/Atomic Propositions (atoms).md",
     "COMPSCI367 - Artificial Intelligence/week06/Atomic Representation.md",
-    "COMPSCI367 - Artificial Intelligence/week06/Compound Entities.md",
     "COMPSCI367 - Artificial Intelligence/week06/connectives.md",
     "@images/Pasted image 20231023205601.png",
     "COMPSCI367 - Artificial Intelligence/week06/Interpretation.md",
@@ -213,20 +215,17 @@
     "@images/Pasted image 20231023204521.png",
     "COMPSCI367 - Artificial Intelligence/week06/Syntax.md",
     "COMPSCI367 - Artificial Intelligence/week06/Knowledge Representation Language.md",
-    "COMPSCI367 - Artificial Intelligence/week06/Knowledge-based Agents.md",
     "COMPSCI367 - Artificial Intelligence/week06/Language.md",
     "COMPSCI367 - Artificial Intelligence/week06/Semantics.md",
     "@images/Pasted image 20231023204251.png",
     "@images/Pasted image 20231023204127.png",
     "@images/Pasted image 20231023204112.png",
-    "COMPSCI367 - Artificial Intelligence/week06/Knowledge Base (KB).md",
     "COMPSCI367 - Artificial Intelligence/week06/Inference engines (IE).md",
     "@images/Pasted image 20231023203959.png",
     "COMPSCI367 - Artificial Intelligence/week06/Online.md",
     "@images/Pasted image 20231023203857.png",
     "COMPSCI367 - Artificial Intelligence/week06/Offline.md",
     "COMPSCI367 - Artificial Intelligence/week06/Knowledge.md",
-    "@images/Pasted image 20231023203752.png",
     "COMPSCI367 - Artificial Intelligence/week06/Wumpus World Agent.md",
     "COMPSCI367 - Artificial Intelligence/week06/state transition.md",
     "COMPSCI367 - Artificial Intelligence/week06/Structured Representation.md",
