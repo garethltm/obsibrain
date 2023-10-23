@@ -1,0 +1,1 @@
+- agent has a [[Knowledge Base (KB)]] 
