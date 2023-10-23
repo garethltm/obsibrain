@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week08/First Order Interpretation.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week08/signature.md",
                 "mode": "source",
                 "source": false
               }
@@ -45,7 +45,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week08/First Order Interpretation.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week08/signature.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -140,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week08/First Order Interpretation.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week08/signature.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week08/First Order Interpretation.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week08/signature.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -180,7 +180,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week08/First Order Interpretation.md"
+                "file": "COMPSCI367 - Artificial Intelligence/week08/signature.md"
               }
             }
           },
@@ -214,8 +214,10 @@
   },
   "active": "719a9e3cda8d050c",
   "lastOpenFiles": [
-    "COMPSCI367 - Artificial Intelligence/week08/First Order Logic.md",
     "COMPSCI367 - Artificial Intelligence/week08/First Order Interpretation.md",
+    "COMPSCI367 - Artificial Intelligence/week08/signature.md",
+    "@images/Pasted image 20231024011322.png",
+    "COMPSCI367 - Artificial Intelligence/week08/First Order Logic.md",
     "COMPSCI367 - Artificial Intelligence/week07/Modus Ponens (MP).md",
     "COMPSCI367 - Artificial Intelligence/week08",
     "COMPSCI367 - Artificial Intelligence/week07/Forward Chaining.md",
@@ -244,13 +246,11 @@
     "COMPSCI367 - Artificial Intelligence/week06/Inference engines (IE).md",
     "@images/Pasted image 20231024002255.png",
     "@images/Pasted image 20231024002237.png",
-    "@images/rules-of-inference-chart.png",
     "COMPSCI367 - Artificial Intelligence/week06/clause(s).md",
     "COMPSCI367 - Artificial Intelligence/week06/logical consequence.md",
     "COMPSCI367 - Artificial Intelligence/week07/Human languages are complex.md",
     "COMPSCI367 - Artificial Intelligence/week06/sentence.md",
     "COMPSCI367 - Artificial Intelligence/week07/Low expresiveness.md",
-    "COMPSCI367 - Artificial Intelligence/week06/Propositional Logic.md",
     "COMPSCI367 - Artificial Intelligence/week07",
     "COMPSCI367 - Artificial Intelligence/week06/Untitled",
     "COMPSCI367 - Artificial Intelligence/week06",
