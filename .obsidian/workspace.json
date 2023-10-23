@@ -20,8 +20,21 @@
               }
             },
             "group": "da01315d8484006a"
+          },
+          {
+            "id": "b0766baef24f996c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "crossover operation.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "f46a17f0b7c45033",
@@ -130,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week05/Genetic Algorithm.md",
+                "file": "crossover operation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +160,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week05/Genetic Algorithm.md",
+                "file": "crossover operation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +183,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week05/Genetic Algorithm.md"
+                "file": "crossover operation.md"
               }
             }
           },
@@ -202,10 +215,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4096a24949cac45d",
+  "active": "b0766baef24f996c",
   "lastOpenFiles": [
-    "COMPSCI367 - Artificial Intelligence/week05/Fitness.md",
     "COMPSCI367 - Artificial Intelligence/week05/Genetic Algorithm.md",
+    "crossover operation.md",
+    "COMPSCI367 - Artificial Intelligence/week05/fitness.md",
     "COMPSCI367 - Artificial Intelligence/week05/genetics.md",
     "COMPSCI367 - Artificial Intelligence/week05/evolution.md",
     "COMPSCI367 - Artificial Intelligence/week05/Evolution as Search.md",
@@ -238,7 +252,6 @@
     "COMPSCI367 - Artificial Intelligence/week04/Local Search in Continuous Space.md",
     "COMPSCI367 - Artificial Intelligence/week03/Constraint Satisfaction Problem (CSPs).md",
     "COMPSCI367 - Artificial Intelligence/week04/Stochastic Hill-Climbing.md",
-    "COMPSCI367 - Artificial Intelligence/week04/Continuous Space (Continuous Functions).md",
     "@images/Pasted image 20231023173844.png",
     "COMPSCI367 - Artificial Intelligence/week03",
     "COMPSCI367 - Artificial Intelligence/week04",
