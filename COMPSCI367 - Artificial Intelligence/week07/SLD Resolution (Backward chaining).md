@@ -1,6 +1,6 @@
 - Selective Linear [[Definite clause]]
 - iteratively replace goals with subgoals; try to get head with an empty body
-
+![[Pasted image 20231024005327.png]]
 ## Main Idea
 - `yes ← g`, then you keep going backwards from g adding stuff to it to eventually reach to a state where; `yes ←`
     - G (a set which contains whatever the current state is) - G will increase up to a certain point, then it will start to decrease where it would eventually reach 0
