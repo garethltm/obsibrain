@@ -8,11 +8,11 @@
 - It treats the [[frontier]] as a [[priority queue]] ordered by h
 
 ## Properties
-- [[Complete]]: generally no! can get stuck in loops
+- [[Complete]] 
+	- generally no! can get stuck in loops
     > Example: but complete in finite space with repeated-state checking
-    
-- Time: O($b^m$), where m is the maximum depth in search space
-    
+- [[Time Complexity]]
+	- O($b^m$), where m is the maximum depth in search space
 - Space: O($b^m$) (retains all nodes in memory)
     
 - Optimal: No!
