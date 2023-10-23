@@ -1,0 +1,1 @@
+handle information that is [[Partially Observable]] - idea of stating rules

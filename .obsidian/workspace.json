@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week07/Declarative.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week07/Compositional.md",
                 "mode": "source",
                 "source": false
               }
@@ -45,7 +45,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week07/Declarative.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week07/Compositional.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -140,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week07/Declarative.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week07/Compositional.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week07/Declarative.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week07/Compositional.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -180,7 +180,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week07/Declarative.md"
+                "file": "COMPSCI367 - Artificial Intelligence/week07/Compositional.md"
               }
             }
           },
@@ -214,6 +214,8 @@
   },
   "active": "719a9e3cda8d050c",
   "lastOpenFiles": [
+    "COMPSCI367 - Artificial Intelligence/week07/Expressive.md",
+    "COMPSCI367 - Artificial Intelligence/week07/Compositional.md",
     "COMPSCI367 - Artificial Intelligence/week07/What logic needs to be.md",
     "COMPSCI367 - Artificial Intelligence/week07/Declarative.md",
     "COMPSCI367 - Artificial Intelligence/week07/Low expresiveness.md",
@@ -242,8 +244,6 @@
     "COMPSCI367 - Artificial Intelligence/week06/Equivalence between inference & satisfiability.md",
     "COMPSCI367 - Artificial Intelligence/week07",
     "COMPSCI367 - Artificial Intelligence/week06/Logic Inference Problem.md",
-    "COMPSCI367 - Artificial Intelligence/week06/Propositional Logic with Wumpus World.md",
-    "COMPSCI367 - Artificial Intelligence/week06/Propositional Logic Inference Engine.md",
     "@images/Pasted image 20231023214921.png",
     "@images/Pasted image 20231023213622.png",
     "@images/Pasted image 20231023213507.png",
