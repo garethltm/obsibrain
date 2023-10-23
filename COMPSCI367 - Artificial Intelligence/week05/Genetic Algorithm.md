@@ -12,4 +12,5 @@
 
 ### Summary
 - [[Population-based Search]] conducts search by maintaining & updating a collection of [[candidate solution]]
-- [[Local beam Search]] is an d
+- [[Local beam Search]] is an adaptation of [[Iterative Best Improvement (IBI)]] by maintaining M > 1 [[candidate solution]]
+- [[Stochastic beam Search]] aims to avoid [[Local beam Search]] 
