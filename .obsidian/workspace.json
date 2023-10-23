@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week06/Inference engines.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week06/Agent with a Knowledge Base.md",
                 "mode": "source",
                 "source": false
               }
@@ -34,7 +34,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week06/Inference engines.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week06/Agent with a Knowledge Base.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week06/Inference engines.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week06/Agent with a Knowledge Base.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week06/Inference engines.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week06/Agent with a Knowledge Base.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week06/Inference engines.md"
+                "file": "COMPSCI367 - Artificial Intelligence/week06/Agent with a Knowledge Base.md"
               }
             }
           },
@@ -204,9 +204,12 @@
   },
   "active": "4096a24949cac45d",
   "lastOpenFiles": [
-    "COMPSCI367 - Artificial Intelligence/week06/Reasoning.md",
-    "COMPSCI367 - Artificial Intelligence/week06/Inference engines.md",
+    "@images/Pasted image 20231023202851.png",
     "COMPSCI367 - Artificial Intelligence/week06/Structured Representation.md",
+    "COMPSCI367 - Artificial Intelligence/week06/Agent with a Knowledge Base.md",
+    "@images/Pasted image 20231023202816.png",
+    "COMPSCI367 - Artificial Intelligence/week06/Inference engines.md",
+    "COMPSCI367 - Artificial Intelligence/week06/Reasoning.md",
     "COMPSCI367 - Artificial Intelligence/week06/Knowledge.md",
     "COMPSCI367 - Artificial Intelligence/week01/World Model.md",
     "@images/Pasted image 20231023202323.png",
@@ -231,7 +234,6 @@
     "@images/Pasted image 20231023200145.png",
     "@images/Pasted image 20231023200129.png",
     "@images/Pasted image 20231023200113.png",
-    "@images/Pasted image 20231023200059.png",
     "COMPSCI367 - Artificial Intelligence/week05/two-player zero-sum games.md",
     "COMPSCI367 - Artificial Intelligence/week05/game.md",
     "COMPSCI367 - Artificial Intelligence/week05/game tree.md",
@@ -240,8 +242,6 @@
     "COMPSCI367 - Artificial Intelligence/week01/performance measure.md",
     "COMPSCI367 - Artificial Intelligence/week05/Genetic Algorithm (GA).md",
     "COMPSCI367 - Artificial Intelligence/week05/Solving Optimisation problems.md",
-    "COMPSCI367 - Artificial Intelligence/week05/Evolutionary computation.md",
-    "COMPSCI367 - Artificial Intelligence/week05/Genetic Algorithm with Travelling Salesman Problem.md",
     "COMPSCI367 - Artificial Intelligence/week03",
     "COMPSCI367 - Artificial Intelligence/week04",
     "COMPSCI367 - Artificial Intelligence/week05",

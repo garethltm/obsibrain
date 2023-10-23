@@ -1,1 +1,1 @@
-- derive value of other variable
+- derive value of other variables

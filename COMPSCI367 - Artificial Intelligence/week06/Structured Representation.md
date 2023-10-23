@@ -6,3 +6,4 @@
 - a [[World Model]] that describes the [[world]] using variables, while capturing the following:
 	- [[Knowledge]]
 	- [[Reasoning]]
+![[Pasted image 20231023202816.png]]
