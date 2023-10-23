@@ -1,9 +1,9 @@
-- A resolution to the problem of [[Hill-Climbing]] not remembering (because it can end up in the same state again)
+- A resolution to the problem of [[Hill-Climbing]] not remembering (because it can end up in the same [[state(s)]] again)
 	- it stores a certain amount of states that we visited then adding the ==most recent & removing the oldest one==
-		- which helps to avoid the same states twice
-- Prevents returning quickly to the same state
+		- which helps to avoid the same [[state(s)]] twice
+- Prevents returning quickly to the same [[state(s)]]
 	-  implements a [[Tabu list]]
-	- Add most recent state to [[Tabu list]]; drop oldest
+	- Add most recent [[state(s)]] to [[Tabu list]]; drop oldest
 	- Never make the step that is currently "tabu'ed"
 
 ## Properties
