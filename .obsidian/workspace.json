@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week06/Structured Representation.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week06/Wumpus World Agent.md",
                 "mode": "source",
                 "source": false
               }
@@ -34,7 +34,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week06/Structured Representation.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week06/Wumpus World Agent.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week06/Structured Representation.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week06/Wumpus World Agent.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week06/Structured Representation.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week06/Wumpus World Agent.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week06/Structured Representation.md"
+                "file": "COMPSCI367 - Artificial Intelligence/week06/Wumpus World Agent.md"
               }
             }
           },
@@ -204,14 +204,16 @@
   },
   "active": "4096a24949cac45d",
   "lastOpenFiles": [
-    "COMPSCI367 - Artificial Intelligence/week06/Wumpus World Agent.md",
+    "@images/Pasted image 20231023203349.png",
+    "@images/Pasted image 20231023203333.png",
     "COMPSCI367 - Artificial Intelligence/week06/Agent with a Knowledge Base.md",
+    "COMPSCI367 - Artificial Intelligence/week06/state transition.md",
+    "COMPSCI367 - Artificial Intelligence/week06/Structured Representation.md",
+    "COMPSCI367 - Artificial Intelligence/week06/Wumpus World Agent.md",
     "COMPSCI367 - Artificial Intelligence/week06/Agents with a World Model.md",
     "COMPSCI367 - Artificial Intelligence/week06/Atomic Representation.md",
     "COMPSCI367 - Artificial Intelligence/week06/Factored Representation.md",
     "COMPSCI367 - Artificial Intelligence/week06/Knowledge.md",
-    "COMPSCI367 - Artificial Intelligence/week06/Structured Representation.md",
-    "COMPSCI367 - Artificial Intelligence/week06/state transition.md",
     "COMPSCI367 - Artificial Intelligence/week06/Reasoning.md",
     "@images/Pasted image 20231023203201.png",
     "@images/Pasted image 20231023202923.png",
@@ -233,7 +235,6 @@
     "COMPSCI367 - Artificial Intelligence/week05/Complexity analysis.md",
     "COMPSCI367 - Artificial Intelligence/week05/Alpha-Beta Pruning.md",
     "@images/Pasted image 20231023200526.png",
-    "@images/Pasted image 20231023200506.png",
     "COMPSCI367 - Artificial Intelligence/week05/two-player zero-sum games.md",
     "COMPSCI367 - Artificial Intelligence/week05/game.md",
     "COMPSCI367 - Artificial Intelligence/week05/game tree.md",
@@ -241,7 +242,6 @@
     "COMPSCI367 - Artificial Intelligence/week01/multi-agent.md",
     "COMPSCI367 - Artificial Intelligence/week01/performance measure.md",
     "COMPSCI367 - Artificial Intelligence/week05/Genetic Algorithm (GA).md",
-    "COMPSCI367 - Artificial Intelligence/week05/Solving Optimisation problems.md",
     "COMPSCI367 - Artificial Intelligence/week03",
     "COMPSCI367 - Artificial Intelligence/week04",
     "COMPSCI367 - Artificial Intelligence/week05",
