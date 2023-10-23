@@ -11,5 +11,5 @@
 	4. [[mutation operation]]
 
 ### Summary
-- [[Population-based Search]]
-- 
+- [[Population-based Search]] conducts search by maintaining & updating a collection of [[candidate solution]]
+- [[Local beam Search]] is an d
