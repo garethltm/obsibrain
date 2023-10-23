@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week03/Iterative Improvement.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week03/Local Search.md",
                 "mode": "source",
                 "source": false
               }
@@ -32,7 +32,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week03/Iterative Improvement.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week03/Local Search.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -128,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week03/Iterative Improvement.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week03/Local Search.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week03/Iterative Improvement.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week03/Local Search.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week03/Iterative Improvement.md"
+                "file": "COMPSCI367 - Artificial Intelligence/week03/Local Search.md"
               }
             }
           },
@@ -202,6 +202,7 @@
   },
   "active": "4096a24949cac45d",
   "lastOpenFiles": [
+    "COMPSCI367 - Artificial Intelligence/week03/Iterative Improvement.md",
     "@images/Pasted image 20231023175248.png",
     "@images/Pasted image 20231023175238.png",
     "COMPSCI367 - Artificial Intelligence/week03/Local Search.md",
@@ -228,7 +229,6 @@
     "COMPSCI367 - Artificial Intelligence/week04/Simulated Annealing with 8-Queens.md",
     "@images/Pasted image 20231023173013.png",
     "COMPSCI367 - Artificial Intelligence/week04/Typical Annealing Schedule.md",
-    "@images/Pasted image 20231023172921.png",
     "COMPSCI367 - Artificial Intelligence/week04/sideways.md",
     "COMPSCI367 - Artificial Intelligence/week04/Annealing.md",
     "COMPSCI367 - Artificial Intelligence/week04/temperature T.md",

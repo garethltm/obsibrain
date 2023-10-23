@@ -21,6 +21,7 @@ In many optimisation problems:
 	>- Constant space, suitable for online as well as offline search
 
 ## Algorithms
+- [[Hill-Climbing]]
 - 
 ## Steps
 1. we start from some [[initial state (start state)]]
