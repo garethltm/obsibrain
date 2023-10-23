@@ -1,0 +1,1 @@
+- computational problem-solving technique inspired by the process of natural [[evolution]]. It's a subfield of [[Artificial Intelligence]] that uses algorithms 
