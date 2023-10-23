@@ -8,3 +8,5 @@
 
 - more generally, 3 allowed values would be better than 2, etc.
 	- combining these heuristics makes multi-variable CSP with big domains feasible
+
+>we are minimizing the number of failures of [[Backtracking Search]] will have, exploring the more promising branches

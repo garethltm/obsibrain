@@ -25,3 +25,4 @@ General-purpose methods can give huge gains in speed:
 #### Approaches:
 1. [[Minimum Remaining Values (MRV)]]
 2. [[Least Constrainting Value]]
+3. [[Forwa]]

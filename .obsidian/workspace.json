@@ -13,7 +13,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week03/Least Constrainting Value.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week03/Backtracking Search.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -48,7 +48,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week03/Least Constrainting Value.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week03/Backtracking Search.md",
                 "mode": "source",
                 "source": false
               }
@@ -121,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week03/Least Constrainting Value.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week03/Backtracking Search.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week03/Least Constrainting Value.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week03/Backtracking Search.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week03/Least Constrainting Value.md"
+                "file": "COMPSCI367 - Artificial Intelligence/week03/Backtracking Search.md"
               }
             }
           },
@@ -195,9 +195,9 @@
   },
   "active": "97487a4151d5cf52",
   "lastOpenFiles": [
+    "COMPSCI367 - Artificial Intelligence/week03/Least Constrainting Value.md",
     "@images/Pasted image 20231023163245.png",
     "COMPSCI367 - Artificial Intelligence/week03/Backtracking Search.md",
-    "COMPSCI367 - Artificial Intelligence/week03/Least Constrainting Value.md",
     "COMPSCI367 - Artificial Intelligence/week03/Minimum Remaining Values (MRV).md",
     "@images/Pasted image 20231023163130.png",
     "COMPSCI367 - Artificial Intelligence/week03/degree heuristic.md",
@@ -230,7 +230,6 @@
     "@images/Pasted image 20231023160732.png",
     "@images/Pasted image 20231023155524.png",
     "@images/Pasted image 20231023154624.png",
-    "@images/Pasted image 20231023153938.png",
     "COMPSCI367 - Artificial Intelligence/week03",
     "COMPSCI367 - Artificial Intelligence/week04",
     "COMPSCI367 - Artificial Intelligence/week05",
