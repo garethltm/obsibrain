@@ -13,7 +13,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week06/Knowledge Representation Language.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week06/Inference engines (IE).md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -48,7 +48,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week06/Knowledge Representation Language.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week06/Inference engines (IE).md",
                 "mode": "source",
                 "source": false
               }
@@ -121,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week06/Knowledge Representation Language.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week06/Inference engines (IE).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week06/Knowledge Representation Language.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week06/Inference engines (IE).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week06/Knowledge Representation Language.md"
+                "file": "COMPSCI367 - Artificial Intelligence/week06/Inference engines (IE).md"
               }
             }
           },
@@ -197,6 +197,7 @@
   "lastOpenFiles": [
     "COMPSCI367 - Artificial Intelligence/week06/Knowledge-based Agents.md",
     "COMPSCI367 - Artificial Intelligence/week06/Knowledge Base (KB).md",
+    "COMPSCI367 - Artificial Intelligence/week06/Knowledge Representation Language.md",
     "COMPSCI367 - Artificial Intelligence/week06/Compound Entities.md",
     "@images/Pasted image 20231023205951.png",
     "COMPSCI367 - Artificial Intelligence/week06/proposition.md",
@@ -214,7 +215,6 @@
     "@images/Pasted image 20231023204552.png",
     "@images/Pasted image 20231023204521.png",
     "COMPSCI367 - Artificial Intelligence/week06/Syntax.md",
-    "COMPSCI367 - Artificial Intelligence/week06/Knowledge Representation Language.md",
     "COMPSCI367 - Artificial Intelligence/week06/Language.md",
     "COMPSCI367 - Artificial Intelligence/week06/Semantics.md",
     "@images/Pasted image 20231023204251.png",

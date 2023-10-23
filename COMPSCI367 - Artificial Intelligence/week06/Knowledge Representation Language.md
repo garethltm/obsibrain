@@ -1,4 +1,4 @@
-- 
+- specify [[Structured Representation]] of a [[World Model]]
 ![[Pasted image 20231023203959.png]]
 - used to specify [[constraint(s)]] in a [[Knowledge Base (KB)]]
 

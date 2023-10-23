@@ -9,4 +9,6 @@
 
 ### Summary
 - [[Knowledge-based Agents]]
-	- [[Knowledge Representation Language]]:
+	- [[Knowledge Representation Language]]
+	- [[Knowledge Base (KB)]]
+	- [[Inference engines (IE)]]
