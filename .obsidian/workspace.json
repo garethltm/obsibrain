@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week03/Graph Seach.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week04/Random Walk & Random Restart Hill-Climbing.md",
                 "mode": "source",
                 "source": false
               }
@@ -58,7 +58,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week03/Graph Seach.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week04/Random Walk & Random Restart Hill-Climbing.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -154,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week03/Graph Seach.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week04/Random Walk & Random Restart Hill-Climbing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week03/Graph Seach.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week04/Random Walk & Random Restart Hill-Climbing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week03/Graph Seach.md"
+                "file": "COMPSCI367 - Artificial Intelligence/week04/Random Walk & Random Restart Hill-Climbing.md"
               }
             }
           },
@@ -228,6 +228,11 @@
   },
   "active": "e33800f4695639a6",
   "lastOpenFiles": [
+    "COMPSCI367 - Artificial Intelligence/week04/Probabilistic Hill-Climbing.md",
+    "COMPSCI367 - Artificial Intelligence/week03/Local Search.md",
+    "COMPSCI367 - Artificial Intelligence/week03/Iterative Improvement.md",
+    "COMPSCI367 - Artificial Intelligence/week04/Hill-Climbing.md",
+    "COMPSCI367 - Artificial Intelligence/week03/Graph Seach.md",
     "COMPSCI367 - Artificial Intelligence/week02/Bidirectional Search.md",
     "COMPSCI367 - Artificial Intelligence/week03/Backtracking Search.md",
     "COMPSCI367 - Artificial Intelligence/week01/Artificial Intelligence.md",
@@ -242,7 +247,6 @@
     "@images/Pasted image 20231023160732.png",
     "COMPSCI367 - Artificial Intelligence/week03/Iterative Deepening A-Star Search (IDA).md",
     "COMPSCI367 - Artificial Intelligence/week02/Informed Search.md",
-    "COMPSCI367 - Artificial Intelligence/week03/Graph Seach.md",
     "COMPSCI367 - Artificial Intelligence/week03/successor(s).md",
     "COMPSCI367 - Artificial Intelligence/week02/Complete.md",
     "COMPSCI367 - Artificial Intelligence/week01/agent.md",
@@ -254,10 +258,6 @@
     "COMPSCI367 - Artificial Intelligence/week02/Greedy (Best-First) Search.md",
     "COMPSCI367 - Artificial Intelligence/week02/frontier (open list, fringe).md",
     "COMPSCI367 - Artificial Intelligence/week02/Directed Graph.md",
-    "COMPSCI367 - Artificial Intelligence/week03/optimistic.md",
-    "COMPSCI367 - Artificial Intelligence/week03/open list.md",
-    "COMPSCI367 - Artificial Intelligence/week02/heuristic(s).md",
-    "COMPSCI367 - Artificial Intelligence/week02/Iterative-Deepening Search (IDS).md",
     "@images/Pasted image 20231023155524.png",
     "@images/Pasted image 20231023154624.png",
     "@images/Pasted image 20231023153938.png",

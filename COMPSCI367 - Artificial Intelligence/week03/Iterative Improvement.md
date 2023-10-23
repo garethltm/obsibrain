@@ -1,1 +1,1 @@
- - keep a single "current" state, try to improve it
+ - keep a single "current" [[state(s)]], try to improve it

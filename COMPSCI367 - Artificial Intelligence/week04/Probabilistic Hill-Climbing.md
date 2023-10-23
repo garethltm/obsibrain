@@ -2,7 +2,7 @@
 
 ***"The worse a step is, the less likely it would be performed"***![[Pasted image 20231022182721.png]]
 - we assign probabilities based on the value we can get from that neighbour
-	- if we can improve our state, we give it a high probability. Otherwise, low probability
+	- if we can improve our [[state(s)]], we give it a high probability. Otherwise, low probability
 
 ## Main Idea
 - choose the [[successor(s)]] that has the biggest drop in loss may lead to [[local optima]] that are not global optima

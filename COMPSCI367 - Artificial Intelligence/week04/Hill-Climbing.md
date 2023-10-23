@@ -3,7 +3,7 @@
 
 ## Steps
 - Start wherever
-- Repeat: move to the best neighbouring state
+- Repeat: move to the best neighbouring [[state(s)]]
 - If no neighbours better than current → QUIT
 
 
