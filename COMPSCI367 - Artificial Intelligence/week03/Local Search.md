@@ -10,7 +10,7 @@
 
 In many optimisation problems:
 - [[path(s)]] is irrelevant
-- [[goal(s) - goal state(s)]] is the solution
+- [[goal(s) - goal state(s)]] is the [[solution(s)]]
 - [[State Space]] = set of "complete" configuration
 	![[Pasted image 20231022173408.png]]
 	1. find configuration satisfying constraints
