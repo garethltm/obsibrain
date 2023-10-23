@@ -3,4 +3,5 @@
 - Each $Ri$ where $1 \le i \le k$ is a relation (or predicates), of certain arity $ri$, defined on D
 	> $Ri$ is a subset of the Cartesian product $D^ri$
 - Each $fi$ where $1 \le i \le l$ is a function (of certain arity $si$) defined on D,
-- 
+>	$fi : D^si \rightarrow D$
+>	
