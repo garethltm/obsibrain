@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week06/Atomic Representation.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week06/Structured Representation.md",
                 "mode": "source",
                 "source": false
               }
@@ -34,7 +34,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week06/Atomic Representation.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week06/Structured Representation.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week06/Atomic Representation.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week06/Structured Representation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week06/Atomic Representation.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week06/Structured Representation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week06/Atomic Representation.md"
+                "file": "COMPSCI367 - Artificial Intelligence/week06/Structured Representation.md"
               }
             }
           },
@@ -204,13 +204,15 @@
   },
   "active": "4096a24949cac45d",
   "lastOpenFiles": [
+    "COMPSCI367 - Artificial Intelligence/week01/World Model.md",
+    "COMPSCI367 - Artificial Intelligence/week06/Structured Representation.md",
+    "@images/Pasted image 20231023202323.png",
+    "COMPSCI367 - Artificial Intelligence/week06/Atomic Representation.md",
     "@images/Pasted image 20231023202245.png",
     "COMPSCI367 - Artificial Intelligence/week06/Factored Representation.md",
     "@images/Pasted image 20231023202227.png",
-    "COMPSCI367 - Artificial Intelligence/week01/World Model.md",
     "COMPSCI367 - Artificial Intelligence/week06/Untitled",
     "COMPSCI367 - Artificial Intelligence/week06/Agents with a World Model.md",
-    "COMPSCI367 - Artificial Intelligence/week06/Atomic Representation.md",
     "COMPSCI367 - Artificial Intelligence/week06/intelligent.md",
     "COMPSCI367 - Artificial Intelligence/week06/state transition.md",
     "COMPSCI367 - Artificial Intelligence/week05/competitive multi-agent environment.md",
@@ -227,8 +229,6 @@
     "@images/Pasted image 20231023200129.png",
     "@images/Pasted image 20231023200113.png",
     "@images/Pasted image 20231023200059.png",
-    "@images/Pasted image 20231023200043.png",
-    "@images/Pasted image 20231023195954.png",
     "COMPSCI367 - Artificial Intelligence/week05/two-player zero-sum games.md",
     "COMPSCI367 - Artificial Intelligence/week05/game.md",
     "COMPSCI367 - Artificial Intelligence/week05/game tree.md",

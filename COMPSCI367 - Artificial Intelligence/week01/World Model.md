@@ -11,3 +11,5 @@
 ## Representations
 1. [[Atomic Representation]]
 2. [[Factored Representation]]
+![[Pasted image 20231023202323.png]]
+3. [[Structured Representation]]
