@@ -20,4 +20,5 @@
 - [[Optimal]]
     - Depends on the [[Search Techniques (Search Strategy) (Search Algorithm)]] used
 
->Bidirectional search is uninformed search strategy as it only uses the information provided by the state-space. For state-space problems, we assume that the location of the goal is known to the agent. The solution of the search is not the location of the goal, but the path to the goal.
+>Bidirectional search is [[Uninformed Search]] strategy as it only uses the information provided by the [[State Space]]. 
+>For [[State Space Problem]], we assume that the location of the [[Goal(s) - Goal State(s)]] is known to the [[agent]]. The [[solution(s)]] of the search is not the location of the [[Goal(s) - Goal State(s)]], but the path to the goal.
