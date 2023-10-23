@@ -1,2 +1,3 @@
 - a tuple $$(D,R1,R2,...,Rk,f1,...,fl)$$
-- where D os
+- where D is a set of elements & is called the domain (we are using a set of nouns)
+- Each $Ri$ where $1 \lesseqto i \lesseqto k$
