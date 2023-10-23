@@ -9,4 +9,4 @@
 
 ### Summary
 - [[logically implies]] & [[logically equivalent]]
-- 
+- [[literal]]
