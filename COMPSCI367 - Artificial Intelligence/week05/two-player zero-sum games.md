@@ -3,4 +3,5 @@
 2. MIN
 ![[Pasted image 20231023195341.png]]
 
-[[game]] 
+[[game]]-playing as Search
+- A [[game tree]] can be considered as a [[se]]
