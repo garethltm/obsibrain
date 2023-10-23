@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week08/First Order Logic.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week08/First Order Interpretation.md",
                 "mode": "source",
                 "source": false
               }
@@ -45,7 +45,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week08/First Order Logic.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week08/First Order Interpretation.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -140,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week08/First Order Logic.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week08/First Order Interpretation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week08/First Order Logic.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week08/First Order Interpretation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -180,7 +180,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week08/First Order Logic.md"
+                "file": "COMPSCI367 - Artificial Intelligence/week08/First Order Interpretation.md"
               }
             }
           },
@@ -214,6 +214,8 @@
   },
   "active": "719a9e3cda8d050c",
   "lastOpenFiles": [
+    "COMPSCI367 - Artificial Intelligence/week08/First Order Logic.md",
+    "COMPSCI367 - Artificial Intelligence/week08/First Order Interpretation.md",
     "COMPSCI367 - Artificial Intelligence/week07/Modus Ponens (MP).md",
     "COMPSCI367 - Artificial Intelligence/week08",
     "COMPSCI367 - Artificial Intelligence/week07/Forward Chaining.md",
@@ -230,7 +232,6 @@
     "COMPSCI367 - Artificial Intelligence/week07/Compositional.md",
     "COMPSCI367 - Artificial Intelligence/week07/Declarative.md",
     "COMPSCI367 - Artificial Intelligence/week07/Definite clause.md",
-    "COMPSCI367 - Artificial Intelligence/week08/First Order Logic.md",
     "COMPSCI367 - Artificial Intelligence/week07/Soundness.md",
     "COMPSCI367 - Artificial Intelligence/week07/What logic needs to be.md",
     "COMPSCI367 - Artificial Intelligence/week07/Verbose.md",

@@ -1,0 +1,2 @@
+- a tuple $$(D,R1,R2,...,Rk,f1,...,fl)$$
+- where D os

@@ -5,4 +5,4 @@
 	- Symbolic part of logic
 
 ### Semantics of [[First Order Logic]]
-- 
+- [[First Order Interpretation]]
