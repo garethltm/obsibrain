@@ -20,6 +20,8 @@ In many optimisation problems:
 	>- We can use [[Iterative Improvement]] algorithms to keep a single "current" state, try to improve it
 	>- Constant space, suitable for online as well as offline search
 
+## Algorithms
+- 
 ## Steps
 1. we start from some [[initial state (start state)]]
 2. perform a number of [[action(s)]] searching for a [[solution(s)]]
