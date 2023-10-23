@@ -13,7 +13,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week04/Systematic Search vs Local Search.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week03/Local Search.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -48,14 +48,56 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week04/Systematic Search vs Local Search.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week03/Local Search.md",
                 "mode": "source",
                 "source": false
               }
-            }
+            },
+            "group": "da01315d8484006a"
           }
-        ],
-        "currentTab": 1
+        ]
+      },
+      {
+        "id": "f46a17f0b7c45033",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9475496e15cbf07b",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "COMPSCI367 - Artificial Intelligence/week03/Local Search.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1.0000000000000004,
+                  "close": false
+                }
+              }
+            },
+            "group": "da01315d8484006a"
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -121,7 +163,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week04/Systematic Search vs Local Search.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week03/Local Search.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +180,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week04/Systematic Search vs Local Search.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week03/Local Search.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +203,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week04/Systematic Search vs Local Search.md"
+                "file": "COMPSCI367 - Artificial Intelligence/week03/Local Search.md"
               }
             }
           },
@@ -193,10 +235,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4096a24949cac45d",
+  "active": "9475496e15cbf07b",
   "lastOpenFiles": [
-    "COMPSCI367 - Artificial Intelligence/week03/Local Search.md",
     "COMPSCI367 - Artificial Intelligence/week04/Systematic Search vs Local Search.md",
+    "COMPSCI367 - Artificial Intelligence/week03/Local Search.md",
     "COMPSCI367 - Artificial Intelligence/week03/Variable Elimination.md",
     "COMPSCI367 - Artificial Intelligence/week04/Gradient descent.md",
     "COMPSCI367 - Artificial Intelligence/week03/Stochastic Search.md",
