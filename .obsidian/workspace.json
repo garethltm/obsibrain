@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week06/sentence.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week06/logically equivalent.md",
                 "mode": "source",
                 "source": false
               }
@@ -45,7 +45,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week06/sentence.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week06/logically equivalent.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -140,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week06/sentence.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week06/logically equivalent.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week06/sentence.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week06/logically equivalent.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -180,7 +180,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week06/sentence.md"
+                "file": "COMPSCI367 - Artificial Intelligence/week06/logically equivalent.md"
               }
             }
           },
@@ -214,8 +214,10 @@
   },
   "active": "719a9e3cda8d050c",
   "lastOpenFiles": [
-    "COMPSCI367 - Artificial Intelligence/week08/Free variables.md",
+    "COMPSCI367 - Artificial Intelligence/week08/Satisfaction relation.md",
+    "@images/Pasted image 20231024013031.png",
     "COMPSCI367 - Artificial Intelligence/week06/sentence.md",
+    "COMPSCI367 - Artificial Intelligence/week08/Free variables.md",
     "COMPSCI367 - Artificial Intelligence/week08/Quantifiers.md",
     "COMPSCI367 - Artificial Intelligence/week07/Human languages are complex.md",
     "COMPSCI367 - Artificial Intelligence/week06/satisfiable.md",
@@ -247,10 +249,7 @@
     "COMPSCI367 - Artificial Intelligence/week07/resolution.md",
     "COMPSCI367 - Artificial Intelligence/week07/Expressive.md",
     "COMPSCI367 - Artificial Intelligence/week07/Completeness.md",
-    "COMPSCI367 - Artificial Intelligence/week07/Compositional.md",
-    "COMPSCI367 - Artificial Intelligence/week07/Declarative.md",
     "@images/Pasted image 20231024005327.png",
-    "@images/Pasted image 20231024002910.png",
     "COMPSCI367 - Artificial Intelligence/week07",
     "COMPSCI367 - Artificial Intelligence/week06/Untitled",
     "COMPSCI367 - Artificial Intelligence/week06",
