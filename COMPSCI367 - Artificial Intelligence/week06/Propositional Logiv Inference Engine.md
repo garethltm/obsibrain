@@ -1,1 +1,2 @@
+- Decide if 
 - [[logical consequence]]

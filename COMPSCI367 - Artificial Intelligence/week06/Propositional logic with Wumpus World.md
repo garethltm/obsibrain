@@ -11,4 +11,4 @@
 - [[logically implies]] & [[logically equivalent]]
 - [[literal(s)]] & [[clause(s)]]
 - [[model of a propositional KB]]
-- 
+- [[Propositional Logiv Inference Engine]]
