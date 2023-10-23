@@ -8,4 +8,4 @@
 4. An [[action(s)]] function
 	- Given a [[state(s)]] & an [[action(s)]] - return a new [[state(s)]]
 5. A set of [[goal(s) - goal state(s)]]
-6. [[path(s)]] Cost
+6. [[path cost]]

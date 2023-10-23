@@ -38,7 +38,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week02/Search Techniques (Search Strategy) (Search Algorithm).md",
+                "file": "COMPSCI367 - Artificial Intelligence/week04/Stochastic Hill-Climbing.md",
                 "mode": "source",
                 "source": false
               }
@@ -70,7 +70,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week02/Search Techniques (Search Strategy) (Search Algorithm).md",
+                "file": "COMPSCI367 - Artificial Intelligence/week04/Stochastic Hill-Climbing.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -166,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week02/Search Techniques (Search Strategy) (Search Algorithm).md",
+                "file": "COMPSCI367 - Artificial Intelligence/week04/Stochastic Hill-Climbing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week02/Search Techniques (Search Strategy) (Search Algorithm).md",
+                "file": "COMPSCI367 - Artificial Intelligence/week04/Stochastic Hill-Climbing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -206,7 +206,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week02/Search Techniques (Search Strategy) (Search Algorithm).md"
+                "file": "COMPSCI367 - Artificial Intelligence/week04/Stochastic Hill-Climbing.md"
               }
             }
           },
@@ -238,10 +238,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a6e0090ac9cbd1f3",
+  "active": "8466c6a7e48c48a4",
   "lastOpenFiles": [
-    "COMPSCI367 - Artificial Intelligence/week02/initial state (start state).md",
+    "COMPSCI367 - Artificial Intelligence/week02/state(s).md",
+    "COMPSCI367 - Artificial Intelligence/week02/State Space Searching.md",
+    "COMPSCI367 - Artificial Intelligence/week02/State Space.md",
+    "COMPSCI367 - Artificial Intelligence/week02/State Space Problem.md",
+    "COMPSCI367 - Artificial Intelligence/week02/Search Tree.md",
     "COMPSCI367 - Artificial Intelligence/week02/Search Techniques (Search Strategy) (Search Algorithm).md",
+    "COMPSCI367 - Artificial Intelligence/week02/initial state (start state).md",
     "COMPSCI367 - Artificial Intelligence/week04/Random-Restart Hill Climbing.md",
     "COMPSCI367 - Artificial Intelligence/week04/try.md",
     "COMPSCI367 - Artificial Intelligence/week01/Reactive Agent.md",
@@ -265,11 +270,6 @@
     "@images/Pasted image 20231023160732.png",
     "COMPSCI367 - Artificial Intelligence/week03/Iterative Deepening A-Star Search (IDA).md",
     "COMPSCI367 - Artificial Intelligence/week02/Informed Search.md",
-    "COMPSCI367 - Artificial Intelligence/week03/successor(s).md",
-    "COMPSCI367 - Artificial Intelligence/week02/Complete.md",
-    "COMPSCI367 - Artificial Intelligence/week01/agent.md",
-    "COMPSCI367 - Artificial Intelligence/week01/goal(s) - goal state(s).md",
-    "COMPSCI367 - Artificial Intelligence/week02/state(s).md",
     "@images/Pasted image 20231023155524.png",
     "@images/Pasted image 20231023154624.png",
     "@images/Pasted image 20231023153938.png",
