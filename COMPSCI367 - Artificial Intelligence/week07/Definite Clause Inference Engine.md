@@ -13,5 +13,5 @@
 
 ## Abstract Idea
 - [[Proof procedure]]
-- **[[Sound (Proposition)]]** 
+- [[Sound (Proposition)]]
 - [[Complete (Proposition)|Complete (Proposition)]]

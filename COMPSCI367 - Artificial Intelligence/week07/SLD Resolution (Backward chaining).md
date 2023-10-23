@@ -6,7 +6,7 @@
 
 #### Problem with SLD:
 - **No mechanism for backtracking purposes**
-    - You might end up searching through the entire search tree, which would eventually mean that it isn’t much different than **Forward Chaining**
+    - You might end up searching through the entire [[search tree]], which would eventually mean that it isn’t much different than **[[Forward Chaining]]**
     - Theoretically it would still mean that it is not efficient but in practice it is still more efficient because of the backtracking idea
 - **Soundness** → search procedure is success (it derives goal), we can then work backwards & turn it into a forward chaining proof
 - **Completeness** → because of the completeness of forward chaining, SLD resolution is also complete
