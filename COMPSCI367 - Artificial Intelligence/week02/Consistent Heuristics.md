@@ -1,4 +1,4 @@
-A **heuristic is consistent** if for every node n, every successor of n’ of n generated for any action a,
+A **heuristic is consistent** if for every node n, every [[successor(s)]] of n’ of n generated for any [[action(s)]] a,
 $$ h(n) ≤ c(n,a,n’) + h(n’) $$
 
 If **h is consistent**, we have
@@ -11,3 +11,13 @@ $$
 $$ |h(A) - h(C)|≤c(A,C) $$
 OR
 $$ h(C) - c(A,C) ≤ h(A) ≤ c(A,C) + h(C) $$
+
+### Consequences of consistency
+- The f value along a path never decreases:
+    
+    $$ h(A) ≤ c(A,C) + h(C) $$
+    becomes
+    
+    $$ g(A) + h(A) ≤ g(A) + c(A,C) + h(C) $$
+    
+- A* graph search is optimal (no-reopenings)
