@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week08/Lifting.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week08/Generalised Modus Ponens (GMP).md",
                 "mode": "source",
                 "source": false
               }
@@ -45,7 +45,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week08/Lifting.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week08/Generalised Modus Ponens (GMP).md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -140,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week08/Lifting.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week08/Generalised Modus Ponens (GMP).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week08/Lifting.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week08/Generalised Modus Ponens (GMP).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -180,7 +180,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week08/Lifting.md"
+                "file": "COMPSCI367 - Artificial Intelligence/week08/Generalised Modus Ponens (GMP).md"
               }
             }
           },
@@ -215,10 +215,13 @@
   "active": "719a9e3cda8d050c",
   "lastOpenFiles": [
     "COMPSCI367 - Artificial Intelligence/week08/Unification.md",
+    "COMPSCI367 - Artificial Intelligence/week08/Generalised Modus Ponens (GMP).md",
+    "@images/Pasted image 20231024020323.png",
+    "@images/Pasted image 20231024020315.png",
+    "COMPSCI367 - Artificial Intelligence/week08/Grounding.md",
     "COMPSCI367 - Artificial Intelligence/week08/Lifting.md",
     "COMPSCI367 - Artificial Intelligence/week08/Herbrand's Theorem.md",
     "COMPSCI367 - Artificial Intelligence/week08/Propositionalization.md",
-    "COMPSCI367 - Artificial Intelligence/week08/Grounding.md",
     "COMPSCI367 - Artificial Intelligence/week06/syntax.md",
     "COMPSCI367 - Artificial Intelligence/week06/semantics.md",
     "COMPSCI367 - Artificial Intelligence/week08/free variables.md",
@@ -240,7 +243,6 @@
     "COMPSCI367 - Artificial Intelligence/week08/quantifier(s).md",
     "@images/Pasted image 20231024013638.png",
     "COMPSCI367 - Artificial Intelligence/week08/theorem.md",
-    "COMPSCI367 - Artificial Intelligence/week08/model.md",
     "@images/Pasted image 20231024013031.png",
     "@images/Pasted image 20231024012623.png",
     "@images/Pasted image 20231024011914.png",
@@ -249,8 +251,6 @@
     "COMPSCI367 - Artificial Intelligence/week08",
     "@images/Pasted image 20231024010214.png",
     "@images/Pasted image 20231024010154.png",
-    "@images/Pasted image 20231024010105.png",
-    "@images/Pasted image 20231024010025.png",
     "COMPSCI367 - Artificial Intelligence/week07",
     "COMPSCI367 - Artificial Intelligence/week06/Untitled",
     "COMPSCI367 - Artificial Intelligence/week06",
