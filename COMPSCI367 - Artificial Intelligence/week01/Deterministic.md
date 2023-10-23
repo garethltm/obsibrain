@@ -1,3 +1,3 @@
-- current [[State(s)]] uniquely determines the next [[State(s)]]
+- current [[state(s)]] uniquely determines the next [[state(s)]]
 - 100% outcome
 >chess piece moving forward

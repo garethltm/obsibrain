@@ -1,1 +1,1 @@
-- **an indication of which [[State(s)]] that the machine should start in by default**
+- **an indication of which [[state(s)]] that the machine should start in by default**

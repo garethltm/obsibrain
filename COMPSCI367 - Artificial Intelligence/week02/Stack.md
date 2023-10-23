@@ -1,1 +1,1 @@
-- insert newly generated [[State(s)]] at the front of the [[queue]] (thus making it a stack)
+- insert newly generated [[state(s)]] at the front of the [[queue]] (thus making it a stack)

@@ -6,6 +6,6 @@
 2. [[Initial State (Start State)]]
 3. A set of [[action(s)]]
 4. An [[action(s)]] function
-	- Given a [[State(s)]] & an [[action(s)]] - return a new [[State(s)]]
+	- Given a [[state(s)]] & an [[action(s)]] - return a new [[state(s)]]
 5. A set of [[Goal(s) - Goal State(s)]]
 6. [[path(s)]] Cost

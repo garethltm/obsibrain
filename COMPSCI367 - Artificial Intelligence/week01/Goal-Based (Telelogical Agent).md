@@ -1,5 +1,5 @@
 - part of [[Planning Agent]]
-- [[State(s)]] description not enough
+- [[state(s)]] description not enough
 	- needs to consider its [[Goal(s) - Goal State(s)]] - which may involve searching & planning
 
 *a planning goal-based agent is more flexible because the knowledge that supports its decisions is represented explicitly & can be modified* 

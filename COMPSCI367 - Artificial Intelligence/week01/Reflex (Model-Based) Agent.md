@@ -1,6 +1,6 @@
 - Also known as Model-Based [[Agent]]
 - most effective way to handle [[Partially Observable]] is for the [[Agent]] to keep track of the part of the [[world]] it can't see
-- [[Agent]] should maintain some sort of internal [[State(s)]]
+- [[Agent]] should maintain some sort of internal [[state(s)]]
 - Knowledge about "how the [[world]] works" - is called the model of the [[world]]
 ![[Pasted image 20231012005149.png]]
 

@@ -5,7 +5,7 @@
 
 ![[Pasted image 20231012005826.png]]
 
->In [[Reflex (Model-Based) Agent]] designs, this information is not explicitly represented because the built-in rules map directly from [[State(s)]] to [[action(s)]]
+>In [[Reflex (Model-Based) Agent]] designs, this information is not explicitly represented because the built-in rules map directly from [[state(s)]] to [[action(s)]]
 
 
 ## One of the main Agents of Planning Agent

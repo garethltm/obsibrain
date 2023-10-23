@@ -16,7 +16,7 @@
 ## Properties
 1. [[Complete]]
     - No - fails in infinite-depth spaces, spaces with loops
-        - we need to modify to avoid repeated [[State(s)]] along [[path(s)]] in finite spaces
+        - we need to modify to avoid repeated [[state(s)]] along [[path(s)]] in finite spaces
 2. [[Time Complexity]]
     - $O(b^m)$
 	    - m = maximum depth of [[search tree]]
