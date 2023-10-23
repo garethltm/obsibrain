@@ -9,9 +9,9 @@
 	- maintains & iteratively updates a single [[candidate solution]]
 
 In many optimisation problems:
-- [[Path]] is irrelevant
-- Goal State is the solution
-- State Space = set of "complete" configuration
+- [[path(s)]] is irrelevant
+- [[Goal(s) - Goal State(s)]] is the solution
+- [[State Space]] = set of "complete" configuration
 	![[Pasted image 20231022173408.png]]
 	1. find configuration satisfying constraints
 		> n-queens problem
@@ -21,7 +21,7 @@ In many optimisation problems:
 	>- Constant space, suitable for online as well as offline search
 
 ## Steps
-1. we start from some initial state
+1. we start from some [[initial]]
 2. perform a number of actions searching for a solution
 
 ## Main Idea
