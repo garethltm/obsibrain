@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week07/Expressive.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week07/Forward Chaining.md",
                 "mode": "source",
                 "source": false
               }
@@ -45,7 +45,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week07/Expressive.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week07/Forward Chaining.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -140,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week07/Expressive.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week07/Forward Chaining.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week07/Expressive.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week07/Forward Chaining.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -180,7 +180,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week07/Expressive.md"
+                "file": "COMPSCI367 - Artificial Intelligence/week07/Forward Chaining.md"
               }
             }
           },
@@ -212,15 +212,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3ad179677b7fba41",
+  "active": "719a9e3cda8d050c",
   "lastOpenFiles": [
+    "COMPSCI367 - Artificial Intelligence/week07/Expressive.md",
     "COMPSCI367 - Artificial Intelligence/week07/Definite Clause Inference Engine.md",
     "COMPSCI367 - Artificial Intelligence/week07/Completeness.md",
     "COMPSCI367 - Artificial Intelligence/week07/Compositional.md",
     "COMPSCI367 - Artificial Intelligence/week07/Declarative.md",
     "COMPSCI367 - Artificial Intelligence/week07/Definite clause.md",
     "COMPSCI367 - Artificial Intelligence/week07/First Order Logic.md",
-    "COMPSCI367 - Artificial Intelligence/week07/Expressive.md",
     "COMPSCI367 - Artificial Intelligence/week07/Soundness.md",
     "COMPSCI367 - Artificial Intelligence/week07/What logic needs to be.md",
     "COMPSCI367 - Artificial Intelligence/week07/Verbose.md",
