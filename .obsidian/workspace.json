@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week02/Informed Search Heuristic.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week02/Informed (Heuristic) Searches.md",
                 "mode": "source",
                 "source": false
               }
@@ -167,7 +167,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week02/Informed Search Heuristic.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week02/Informed (Heuristic) Searches.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -184,7 +184,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week02/Informed Search Heuristic.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week02/Informed (Heuristic) Searches.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -207,7 +207,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week02/Informed Search Heuristic.md"
+                "file": "COMPSCI367 - Artificial Intelligence/week02/Informed (Heuristic) Searches.md"
               }
             }
           },
@@ -241,9 +241,10 @@
   },
   "active": "9d16bf805036e931",
   "lastOpenFiles": [
+    "COMPSCI367 - Artificial Intelligence/week02/Informed Search Heuristic.md",
+    "COMPSCI367 - Artificial Intelligence/week02/Informed (Heuristic) Searches.md",
     "COMPSCI367 - Artificial Intelligence/week02/heuristic(s).md",
     "@images/Pasted image 20231023143837.png",
-    "COMPSCI367 - Artificial Intelligence/week02/Informed Search Heuristic.md",
     "COMPSCI367 - Artificial Intelligence/week02/State Space Problem.md",
     "COMPSCI367 - Artificial Intelligence/week02/Initial State (Start State).md",
     "@images/Pasted image 20231023143630.png",
