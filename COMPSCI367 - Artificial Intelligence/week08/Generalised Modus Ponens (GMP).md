@@ -1,0 +1,1 @@
+- Idea of substituting constants into variables - [[Unification]] 
