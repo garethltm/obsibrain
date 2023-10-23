@@ -7,13 +7,10 @@
 - orders by **goal proximity** or forward cost: **h(n)**
 *A-Star Search orders by the sum:* f(n) = **g(n)** + **h(n)**
 
-**Uniform Cost Search** minimizes **g(n)**
-
-- optimal & complete but not efficient
-
-**Greedy Search** minimizes **h(n)**
-
-- efficient but not optimal or complete
+[[Uniform-Cost Search (UCS) (Lowest-Cost-First Search)]] minimizes **g(n)**
+- [[optimal]] & [[complete]] but not efficient
+[[Greedy (Best-First) Search]] minimizes **h(n)**
+- efficient but not [[optimal]] or [[complete]]
 
 ## Main Idea
 - Use both cost of path generated & estimate to goal to order nodes on the [[frontier]]
@@ -21,3 +18,6 @@
 - **g(n) = cost of path from [[Initial State (Start State)]] to n**; 
 - **h(n) = estimate from n to [[Goal(s) - Goal State(s)]]**
 - Order [[priority queue]] using function **f(n)** = **g(n)** + **h(n)**
+
+### Heuristic Function
+
