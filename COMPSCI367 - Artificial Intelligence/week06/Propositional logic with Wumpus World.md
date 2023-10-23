@@ -8,7 +8,7 @@
 ![[Pasted image 20231023212351.png]]
 
 ### Summary
-- [[logically implies]] & [[logically equivalent]]
+- [[logically implies]] & [[logically equivalent (logical equivalence)]]
 - [[literal(s)]] & [[clause(s)]]
 - [[model of a propositional KB]]
 - [[Propositional Logic Inference Engine]]
