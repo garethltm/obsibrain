@@ -9,11 +9,22 @@ The threshold is steadily increased with each successive search. It starts at th
 
 ## Properties
 - [[Complete]]
-    - Yes, unless there are infinitely many nodes with $f ≤ cost\ of\ solution$
+	- Yes
+	    - unless there are infinitely many nodes with $f ≤ cost\ of\ solution$
 - [[Time Complexity]]
-    - $O(b^d)$
+	-  $O(b^d)$
 - [[Space Complexity]] (similar to [[Depth-First Search (DFS)]])
 	- $O(bd)$ 
 		- it need only store a stack of nodes which represents the branch of the tree it is expanding
 - [[Optimal]]
-    - Yes (assuming $h(n)$ is [[Admissible heuristic]])
+	- Yes (assuming $h(n)$ is [[Admissible heuristic]])
+
+### Is IDA* better than A*
+Short answer:
+- [[Space Complexity]] wise ✅
+- [[Time Complexity]] sometimes
+Long answer:
+- [[a]] uses priority queue, IDA_ uses a stack**
+- IDA* doesn’t need to deal with neither open or closed lists, but A* does
+- Runtime will depend on how frequently duplicate states will be encountered and iterations are done
+- If you don’t have much memory, but can wait for the solution - use IDA*
