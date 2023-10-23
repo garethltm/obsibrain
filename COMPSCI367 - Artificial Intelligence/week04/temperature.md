@@ -4,4 +4,4 @@
 - probability of "locally bad" move is lower
 
 Typically, T is decreased as the algorithm runs longer
-> Example: there is a tem
+> Example: there is a temperature re
