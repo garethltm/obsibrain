@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week05/(partially) cooperative multi-agent environment.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week05/Adversarial Search.md",
                 "mode": "source",
                 "source": false
               }
@@ -34,7 +34,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week05/(partially) cooperative multi-agent environment.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week05/Adversarial Search.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week05/(partially) cooperative multi-agent environment.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week05/Adversarial Search.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week05/(partially) cooperative multi-agent environment.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week05/Adversarial Search.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week05/(partially) cooperative multi-agent environment.md"
+                "file": "COMPSCI367 - Artificial Intelligence/week05/Adversarial Search.md"
               }
             }
           },
@@ -204,6 +204,7 @@
   },
   "active": "4096a24949cac45d",
   "lastOpenFiles": [
+    "COMPSCI367 - Artificial Intelligence/week05/competitive multi-agent environment.md",
     "COMPSCI367 - Artificial Intelligence/week05/Multi-agent System.md",
     "COMPSCI367 - Artificial Intelligence/week05/(partially) cooperative multi-agent environment.md",
     "COMPSCI367 - Artificial Intelligence/week05/Adversarial Search.md",
@@ -239,7 +240,6 @@
     "COMPSCI367 - Artificial Intelligence/week05/current state.md",
     "COMPSCI367 - Artificial Intelligence/week05/Boltzmann distribution.md",
     "COMPSCI367 - Artificial Intelligence/week05/Greedy descent with M random restarts vs Local beam Search.md",
-    "COMPSCI367 - Artificial Intelligence/week05/Local beam Search.md",
     "COMPSCI367 - Artificial Intelligence/week03",
     "COMPSCI367 - Artificial Intelligence/week04",
     "COMPSCI367 - Artificial Intelligence/week05",

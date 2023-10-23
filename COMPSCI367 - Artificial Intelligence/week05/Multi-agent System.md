@@ -1,12 +1,8 @@
 - [[environment]] that involves [[multi-agent]]
 
 ## Consists of:
+1. [[(partially) cooperative multi-agent environment]]
+2. [[competitive multi-agent environment]]
 
-#### A (partially) cooperative [[multi-agent]] [[environment]]
-- 
-
-#### A competitive [[multi-agent]] [[environment]]
-- where [[multi-agent]] have opposing [[performance measure]] (conflicting [[goal(s) - goal state(s)]])
-> Chess, GO
 
 
