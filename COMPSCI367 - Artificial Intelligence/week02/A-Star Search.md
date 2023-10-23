@@ -29,3 +29,4 @@
 
 #### Is [[A-Star Search]] [[Optimal]] & [[Complete]]?
 - Yes, provided h(n) is [[Admissible heuristic]] 
+- ##### Conditions for 
