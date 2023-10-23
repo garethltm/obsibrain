@@ -7,3 +7,5 @@ changing a variable into a constant
 1. [[Instantiation]]
 2. A strategy that converts a [[First-Order KB]] into a [[Propositional Knowledge Base]]
 
+### Rule 1: Existential [[instantiation]]
+- [[Skolem constant]]
