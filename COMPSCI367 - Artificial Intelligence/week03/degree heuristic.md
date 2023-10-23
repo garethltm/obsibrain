@@ -1,0 +1,1 @@
+- choose the variable with the most [[constraint(s)]] on remaining variables
