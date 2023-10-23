@@ -19,6 +19,8 @@ The search space for this [[Depth-First Search (DFS)]] has certain very specific
 
 ### Improvements to Backtracking Search
 General-purpose methods can give huge gains in speed:
-1. Which variable should be assigned next?
-2. In what order should its values be tried?
-3. Can we detect inevitable failure early?
+- Which variable should be assigned next?
+- In what order should its values be tried?
+- Can we detect inevitable failure early?
+#### Approaches:
+1. 
