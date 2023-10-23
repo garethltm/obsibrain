@@ -1,1 +1,1 @@
-- for [[proposition]] 
+- for [[proposition]] $\alpha$ & $\beta$, $\alpha \ \vDash\ \b$
