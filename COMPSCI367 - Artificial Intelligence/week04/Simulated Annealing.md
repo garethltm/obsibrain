@@ -16,4 +16,5 @@
 - convergence might take a VERY long time
 - often works very well in practice
 	- but usually VERY slow
-		- sl
+		- slowness comes about because [[temperature T]] must be decreased very gradually to retain optimality
+- [[Simulated Annealing]] & its relatives are a key workhorse in VLSI layout & other [[optimal]] configuration problems
