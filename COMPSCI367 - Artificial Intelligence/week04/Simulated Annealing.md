@@ -10,3 +10,10 @@
 ![[Pasted image 20231023172426.png]]
 
 ![[Pasted image 20231023173131.png]]
+![[Pasted image 20231023173208.png]]
+
+## Properties
+- convergence might take a VERY long time
+- often works very well in practice
+	- but usually VERY slow
+		- sl
