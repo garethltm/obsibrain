@@ -5,4 +5,4 @@
 	- Many AI problems can be abstracted into the problem of finding a path in a [[Directed Graph]]
 - There is usually more than one way to represent a problem as a Graph
 1. [[Uninformed Search]] can only distinguish between [[Goal(s) - Goal State(s)]] & non-[[Goal(s) - Goal State(s)]] 
-2. [[Informed Search]] uses [[Heuristics]] to try to get "closer" to the [[Goal(s) - Goal State(s)]]
+2. [[Informed Search]] uses [[heuristic(s)]] to try to get "closer" to the [[Goal(s) - Goal State(s)]]

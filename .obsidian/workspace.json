@@ -9,25 +9,12 @@
         "dimension": 75.8248730964467,
         "children": [
           {
-            "id": "bcc7a7b87dd8df83",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week02/Greedy (Best-First) Search.md",
-                "mode": "source",
-                "source": false
-              }
-            },
-            "group": "49e37924338b6c36"
-          },
-          {
             "id": "9d16bf805036e931",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week03/optimistic.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week02/Greedy (Best-First) Search.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,8 +72,7 @@
                   "close": true
                 }
               }
-            },
-            "group": "49e37924338b6c36"
+            }
           }
         ]
       }
@@ -117,7 +103,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "optima",
+                "query": "heuris",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -226,19 +212,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bcc7a7b87dd8df83",
+  "active": "9d16bf805036e931",
   "lastOpenFiles": [
+    "COMPSCI367 - Artificial Intelligence/week03/optimistic.md",
+    "COMPSCI367 - Artificial Intelligence/week02/heuristic(s).md",
+    "COMPSCI367 - Artificial Intelligence/week02/Search Techniques (Search Strategy) (Search Algorithm).md",
+    "COMPSCI367 - Artificial Intelligence/week02/Greedy (Best-First) Search.md",
     "@images/Pasted image 20231023145952.png",
     "COMPSCI367 - Artificial Intelligence/week02/Informed Search.md",
     "COMPSCI367 - Artificial Intelligence/week02/Informed Search Heuristic.md",
     "COMPSCI367 - Artificial Intelligence/week02/Uninformed Search.md",
     "Informed Search.md",
-    "COMPSCI367 - Artificial Intelligence/week02/Search Techniques (Search Strategy) (Search Algorithm).md",
-    "COMPSCI367 - Artificial Intelligence/week02/Greedy (Best-First) Search.md",
     "COMPSCI367 - Artificial Intelligence/week05/Population-based Search.md",
-    "COMPSCI367 - Artificial Intelligence/week03/optimistic.md",
     "COMPSCI367 - Artificial Intelligence/week02/Frontier.md",
-    "COMPSCI367 - Artificial Intelligence/week02/heuristic(s).md",
     "COMPSCI367 - Artificial Intelligence/week02/suboptimal.md",
     "COMPSCI367 - Artificial Intelligence/week02/Optimal.md",
     "@images/Pasted image 20231023143837.png",
@@ -263,7 +249,6 @@
     "@images/Pasted image 20231022182721.png",
     "@images/Pasted image 20231022173408.png",
     "@images/Pasted image 20231022164039.png",
-    "@images/Pasted image 20231022161956.png",
     "COMPSCI367 - Artificial Intelligence/week03",
     "COMPSCI367 - Artificial Intelligence/week04",
     "COMPSCI367 - Artificial Intelligence/week05",

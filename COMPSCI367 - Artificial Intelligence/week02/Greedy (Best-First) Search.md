@@ -2,9 +2,8 @@
 
 ## Main Idea
 - select the [[path(s)]] whose end is closest to a [[Goal(s) - Goal State(s)]] according to the [[heuristic(s)]] function
-- selects the next node for expansion using the [[heuristic(s)]] function for its evaluation function, ie. f(n) = h(n)
-    
-    - h(n)=0 → n is a goal state
+- selects the next node for expansion using the [[heuristic(s)]] function for its evaluation function, ie. `f(n) = h(n)`
+    - `h(n)=0` → n is a [[Goal(s) - Goal State(s)]]
     
     > Example: greedy search **minimises the estimated cost to the goal**; it expands whichever node n is estimated to be closest to the goal
     
