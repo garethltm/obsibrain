@@ -1,4 +1,4 @@
-- [[Semantics]] 
+- [[semantics]] 
 	- Meaning part of logic
 - [[Syntax]]
 	- Grammar - how sentences are constructed

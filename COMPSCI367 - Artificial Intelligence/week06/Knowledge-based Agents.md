@@ -15,6 +15,6 @@
 - [[Syntax]] of [[Propositional Logic]]
 	- [[Atomic Propositions (atoms)]]
 	- [[Compound Propositions (Compound Entities)]]
-- [[Semantics]] of [[Propositional Logic]]
+- [[semantics]] of [[Propositional Logic]]
 	- [[interpretation]]
 	- [[Truth table]]

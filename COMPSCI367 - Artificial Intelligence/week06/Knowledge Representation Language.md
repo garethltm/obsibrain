@@ -8,4 +8,4 @@
 
 ### How to define a [[language]]
 1. [[Syntax]]
-2. [[Semantics]]
+2. [[semantics]]

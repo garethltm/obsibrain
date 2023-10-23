@@ -16,3 +16,7 @@ Essentially, we can turn $\forall x: King(x)\ into\ King(John)$
 - where $x$ can be anything, John, Richard, etc.
 
 > Repeated applications of Existential/Universal Instantiation would produce a new [[Knowledge Base (KB)]] that contains [[sentence]] without [[quantifier(s)]] (a [[proposition]])
+
+For any [[sentence]] φ, $KB ⊧ φ$ then $KB’ ⊧ φ$ - vice versa; it has the same [[semantics]]
+- KB’ essentially has no [[quantifier(s)]], therefore it is a [[proposition]]
+- KB’ can potentially be an infinite set
