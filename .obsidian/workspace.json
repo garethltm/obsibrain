@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week02/heuristic(s).md",
+                "file": "COMPSCI367 - Artificial Intelligence/week02/Informed Search Heuristic.md",
                 "mode": "source",
                 "source": false
               }
@@ -167,7 +167,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week02/heuristic(s).md",
+                "file": "COMPSCI367 - Artificial Intelligence/week02/Informed Search Heuristic.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -184,7 +184,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week02/heuristic(s).md",
+                "file": "COMPSCI367 - Artificial Intelligence/week02/Informed Search Heuristic.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -207,7 +207,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week02/heuristic(s).md"
+                "file": "COMPSCI367 - Artificial Intelligence/week02/Informed Search Heuristic.md"
               }
             }
           },
@@ -241,9 +241,10 @@
   },
   "active": "9d16bf805036e931",
   "lastOpenFiles": [
+    "COMPSCI367 - Artificial Intelligence/week02/heuristic(s).md",
+    "@images/Pasted image 20231023143837.png",
     "COMPSCI367 - Artificial Intelligence/week02/Informed Search Heuristic.md",
     "COMPSCI367 - Artificial Intelligence/week02/State Space Problem.md",
-    "COMPSCI367 - Artificial Intelligence/week02/heuristic(s).md",
     "COMPSCI367 - Artificial Intelligence/week02/Initial State (Start State).md",
     "@images/Pasted image 20231023143630.png",
     "COMPSCI367 - Artificial Intelligence/week02/Cost Sensitive Search.md",
@@ -270,13 +271,11 @@
     "COMPSCI367 - Artificial Intelligence/week05/current state.md",
     "COMPSCI367 - Artificial Intelligence/week05/candidate solution.md",
     "COMPSCI367 - Artificial Intelligence/week05/Local beam Search.md",
-    "COMPSCI367 - Artificial Intelligence/week05/population.md",
     "@images/Untitled.png",
     "@images/Pasted image 20231022182721.png",
     "@images/Pasted image 20231022173408.png",
     "@images/Pasted image 20231022164039.png",
     "@images/Pasted image 20231022161956.png",
-    "@images/Pasted image 20231022161052.png",
     "COMPSCI367 - Artificial Intelligence/week03",
     "COMPSCI367 - Artificial Intelligence/week04",
     "COMPSCI367 - Artificial Intelligence/week05",
