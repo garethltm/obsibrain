@@ -6,7 +6,7 @@
       {
         "id": "e1ccbf259f6ba816",
         "type": "tabs",
-        "dimension": 70.51724137931035,
+        "dimension": 75.8248730964467,
         "children": [
           {
             "id": "bcc7a7b87dd8df83",
@@ -46,18 +46,6 @@
             }
           },
           {
-            "id": "ea8aebfb2a67a810",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week02/heuristic(s).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "2602e13c15239a89",
             "type": "leaf",
             "state": {
@@ -70,12 +58,12 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       },
       {
         "id": "d9a730eda40123bb",
         "type": "tabs",
-        "dimension": 29.48275862068965,
+        "dimension": 24.1751269035533,
         "children": [
           {
             "id": "7430a6c810762936",
@@ -179,7 +167,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week02/heuristic(s).md",
+                "file": "COMPSCI367 - Artificial Intelligence/week02/Cost Sensitive Search.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -196,7 +184,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week02/heuristic(s).md",
+                "file": "COMPSCI367 - Artificial Intelligence/week02/Cost Sensitive Search.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -219,7 +207,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week02/heuristic(s).md"
+                "file": "COMPSCI367 - Artificial Intelligence/week02/Cost Sensitive Search.md"
               }
             }
           },
@@ -251,8 +239,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ea8aebfb2a67a810",
+  "active": "358f03c9716e94e8",
   "lastOpenFiles": [
+    "COMPSCI367 - Artificial Intelligence/week02/heuristic(s).md",
+    "COMPSCI367 - Artificial Intelligence/week02/constraint(s).md",
     "COMPSCI367 - Artificial Intelligence/week02/Optimal.md",
     "COMPSCI367 - Artificial Intelligence/week02/Cost Sensitive Search.md",
     "@images/Pasted image 20231023140125.png",
@@ -270,7 +260,6 @@
     "COMPSCI367 - Artificial Intelligence/week02/Iterative-Deepening Search (IDS).md",
     "COMPSCI367 - Artificial Intelligence/week02/Depth-Limited Search (DLS).md",
     "COMPSCI367 - Artificial Intelligence/week02/Informed Search Heuristic.md",
-    "COMPSCI367 - Artificial Intelligence/week02/heuristic(s).md",
     "COMPSCI367 - Artificial Intelligence/week01/action(s).md",
     "COMPSCI367 - Artificial Intelligence/week03/Local Search.md",
     "COMPSCI367 - Artificial Intelligence/week02/Breadth-First Search (BFS).md",
