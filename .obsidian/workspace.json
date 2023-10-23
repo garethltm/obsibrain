@@ -9,59 +9,24 @@
         "dimension": 71.51015228426397,
         "children": [
           {
-            "id": "9475496e15cbf07b",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week06/Knowledge Base (KB).md",
-                "options": {
-                  "collapse-filter": true,
-                  "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": true,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 0.7132754626224423,
-                  "close": false
-                }
-              }
-            }
-          },
-          {
-            "id": "ea5b8c185c07b419",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week06/Knowledge Base (KB).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "719a9e3cda8d050c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "COMPSCI367 - Artificial Intelligence/week06/connectives.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d1f30f6c85c85107",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "COMPSCI367 - Artificial Intelligence/week06/Knowledge Base (KB).md",
                 "mode": "source",
                 "source": false
               }
@@ -248,18 +213,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ea5b8c185c07b419",
+  "active": "d1f30f6c85c85107",
   "lastOpenFiles": [
-    "COMPSCI367 - Artificial Intelligence/week06/knowledge.md",
+    "COMPSCI367 - Artificial Intelligence/week06/Knowledge Representation Language.md",
+    "COMPSCI367 - Artificial Intelligence/week06/Knowledge-based Agents.md",
+    "COMPSCI367 - Artificial Intelligence/week06/logically implies.md",
+    "COMPSCI367 - Artificial Intelligence/week06/connectives.md",
+    "COMPSCI367 - Artificial Intelligence/week06/interpretation.md",
     "COMPSCI367 - Artificial Intelligence/week06/Knowledge Base (KB).md",
+    "COMPSCI367 - Artificial Intelligence/week06/knowledge.md",
     "COMPSCI367 - Artificial Intelligence/week06/Propositional Knowledge Base.md",
     "COMPSCI367 - Artificial Intelligence/week06/Propositional Logic with Wumpus World.md",
     "COMPSCI367 - Artificial Intelligence/week06/Propositional Logic.md",
-    "COMPSCI367 - Artificial Intelligence/week06/Knowledge Representation Language.md",
-    "COMPSCI367 - Artificial Intelligence/week06/Knowledge-based Agents.md",
     "COMPSCI367 - Artificial Intelligence/week06/clause(s).md",
     "@images/Pasted image 20231023211733.png",
-    "COMPSCI367 - Artificial Intelligence/week06/connectives.md",
     "@images/Pasted image 20231023211539.png",
     "@images/Pasted image 20231023211515.png",
     "COMPSCI367 - Artificial Intelligence/week06/Wumpus World Agent.md",
@@ -277,8 +244,6 @@
     "COMPSCI367 - Artificial Intelligence/week06/Compound Propositions (Compound Entities).md",
     "COMPSCI367 - Artificial Intelligence/week06/Duality of Syntax vs Semantics.md",
     "COMPSCI367 - Artificial Intelligence/week06/Factored Representation.md",
-    "COMPSCI367 - Artificial Intelligence/week06/Inference engines (IE).md",
-    "COMPSCI367 - Artificial Intelligence/week06/Interpretation.md",
     "@images/Pasted image 20231023211353.png",
     "@images/Pasted image 20231023211252.png",
     "@images/Pasted image 20231023210943.png",
