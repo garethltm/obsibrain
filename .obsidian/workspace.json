@@ -13,7 +13,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week04/Local Search in Continuous Space.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week03/Constraint Satisfaction Problem (CSPs).md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -48,7 +48,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week04/Local Search in Continuous Space.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week03/Constraint Satisfaction Problem (CSPs).md",
                 "mode": "source",
                 "source": false
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week04/Local Search in Continuous Space.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week03/Constraint Satisfaction Problem (CSPs).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week04/Local Search in Continuous Space.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week03/Constraint Satisfaction Problem (CSPs).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week04/Local Search in Continuous Space.md"
+                "file": "COMPSCI367 - Artificial Intelligence/week03/Constraint Satisfaction Problem (CSPs).md"
               }
             }
           },
@@ -207,11 +207,12 @@
   },
   "active": "fc5ebdd1a292e78a",
   "lastOpenFiles": [
+    "COMPSCI367 - Artificial Intelligence/week04/Stochastic Hill-Climbing.md",
+    "COMPSCI367 - Artificial Intelligence/week04/Local Search in Continuous Space.md",
     "COMPSCI367 - Artificial Intelligence/week04/Continuous Space (Continuous Functions).md",
     "COMPSCI367 - Artificial Intelligence/week04/Gradient descent.md",
     "@images/Pasted image 20231023173844.png",
     "@images/Pasted image 20231023173820.png",
-    "COMPSCI367 - Artificial Intelligence/week04/Local Search in Continuous Space.md",
     "@images/Pasted image 20231023173738.png",
     "@images/Pasted image 20231023173640.png",
     "COMPSCI367 - Artificial Intelligence/week04/Difference between Stochastic & First-Choice Hill-Climbing.md",
