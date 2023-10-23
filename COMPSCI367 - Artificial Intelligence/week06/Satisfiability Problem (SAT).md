@@ -1,0 +1,1 @@
+- asks for a [[satisfiable]] [[interpretation]] of a [[proposition]]
