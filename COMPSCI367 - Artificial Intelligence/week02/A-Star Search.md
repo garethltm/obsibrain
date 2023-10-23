@@ -13,6 +13,7 @@
 - efficient but not [[optimal]] or [[complete]]
 
 ## Main Idea
+- preserve efficiency of [[Greedy (Best-First) Search]] but avoid expanding paths that are already expensive
 - Use both cost of path generated & estimate to goal to order nodes on the [[frontier]]
 - **f(n)** is the **estimated cost** of the **cheapest solution** extending this [[path(s)]] (through node n)
 - **g(n) = cost of path from [[Initial State (Start State)]] to n**; 
@@ -20,4 +21,8 @@
 - Order [[priority queue]] using function **f(n)** = **g(n)** + **h(n)**
 
 ### Heuristic Function
-
+![[Pasted image 20231023151300.png]]
+**Heuristic estimate f(n)** of the cost of the cheapest paths from s to t via n:
+**f(n)** = **g(n)** + **h(n)**
+- **g(n)** is the **cost of an optimal path** from s to n
+- **h(n)** is an **estimate of the cost of an optimal path** from n to t
