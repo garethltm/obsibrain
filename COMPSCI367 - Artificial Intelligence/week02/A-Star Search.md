@@ -38,7 +38,6 @@
 Hence, the theorem:
 **_If h(n) is [[Consistent Heuristics]], [[A-Star Search]] is [[Optimal]]***
 
-
 ## Properties
 - [[Complete]]
     - Yes, unless there are infinitely many nodes with f ≤ cost of solution
@@ -48,3 +47,8 @@ Hence, the theorem:
     - $O(b^d)$ - Keeps all nodes in memory
 - [[Optimal]]
     - Yes (assuming h is [[Admissible heuristic]])
+
+## Summary:
+- [[A-Star Search]] uses both backward cost g & (estimates of) forward costs h
+- [[A-Star Search]] is [[optimal]] with [[Admissible heuristic]]/[[Consistent Heuristics]]
+- [[heuristic(s)]] design is key: often use relaxed problems
