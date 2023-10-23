@@ -43,7 +43,7 @@
             }
           },
           {
-            "id": "2f3c2baa2f8d3d08",
+            "id": "ea5b8c185c07b419",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -193,10 +193,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2f3c2baa2f8d3d08",
+  "active": "ea5b8c185c07b419",
   "lastOpenFiles": [
-    "COMPSCI367 - Artificial Intelligence/week06/Interpretation.md",
+    "@images/Pasted image 20231023210943.png",
     "COMPSCI367 - Artificial Intelligence/week06/logically implies.md",
+    "COMPSCI367 - Artificial Intelligence/week06/Interpretation.md",
     "COMPSCI367 - Artificial Intelligence/week06/Propositional logic with Wumpus World.md",
     "COMPSCI367 - Artificial Intelligence/week06/Untitled",
     "@images/Pasted image 20231023210657.png",
@@ -225,7 +226,6 @@
     "@images/Pasted image 20231023205951.png",
     "COMPSCI367 - Artificial Intelligence/week06/Atomic Entities.md",
     "COMPSCI367 - Artificial Intelligence/week06/Agents with a World Model.md",
-    "COMPSCI367 - Artificial Intelligence/week06/Atomic Propositions (atoms).md",
     "@images/Pasted image 20231023205601.png",
     "@images/Pasted image 20231023204633.png",
     "@images/Pasted image 20231023204552.png",
