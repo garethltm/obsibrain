@@ -1,9 +1,12 @@
 ![[Pasted image 20231023152108.png]]
+- 
+- in relation to 2 different heuristics
+
 Dominance: if $ha(n) ≥ hc(n)$ for all n (both [[Admissible heuristic]]) then $h2$ dominates $h1$ and is better for search.
 - So the aim is to make the [[heuristic(s)]] h() as large as possible, but without exceeding h*(): $ha ≥ hc$ if $∀n: ha(n) ≥ hc(n)$
 
 [[heuristic(s)]] form a semi-lattice:
-- Max of [[is admissible
+- Max of [[Admissible heuristic]] is admissible
     $h(n) = max(ha(n) ≥ hb(n))$
 
 Trivial [[heuristic(s)]]
