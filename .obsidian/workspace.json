@@ -14,7 +14,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week06/Propositional Knowledge Base.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week06/Knowledge Base (KB).md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week06/Propositional Knowledge Base.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week06/Knowledge Base (KB).md",
                 "mode": "source",
                 "source": false
               }
@@ -81,7 +81,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week06/Propositional Knowledge Base.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week06/Knowledge Base (KB).md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -176,7 +176,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week06/Propositional Knowledge Base.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week06/Knowledge Base (KB).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -193,7 +193,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week06/Propositional Knowledge Base.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week06/Knowledge Base (KB).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -216,7 +216,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week06/Propositional Knowledge Base.md"
+                "file": "COMPSCI367 - Artificial Intelligence/week06/Knowledge Base (KB).md"
               }
             }
           },
@@ -250,15 +250,16 @@
   },
   "active": "ea5b8c185c07b419",
   "lastOpenFiles": [
+    "COMPSCI367 - Artificial Intelligence/week06/knowledge.md",
+    "COMPSCI367 - Artificial Intelligence/week06/Knowledge Base (KB).md",
+    "COMPSCI367 - Artificial Intelligence/week06/Propositional Knowledge Base.md",
     "COMPSCI367 - Artificial Intelligence/week06/Propositional Logic with Wumpus World.md",
     "COMPSCI367 - Artificial Intelligence/week06/Propositional Logic.md",
     "COMPSCI367 - Artificial Intelligence/week06/Knowledge Representation Language.md",
     "COMPSCI367 - Artificial Intelligence/week06/Knowledge-based Agents.md",
-    "COMPSCI367 - Artificial Intelligence/week06/Knowledge Base (KB).md",
     "COMPSCI367 - Artificial Intelligence/week06/clause(s).md",
     "@images/Pasted image 20231023211733.png",
     "COMPSCI367 - Artificial Intelligence/week06/connectives.md",
-    "COMPSCI367 - Artificial Intelligence/week06/Propositional Knowledge Base.md",
     "@images/Pasted image 20231023211539.png",
     "@images/Pasted image 20231023211515.png",
     "COMPSCI367 - Artificial Intelligence/week06/Wumpus World Agent.md",
@@ -278,7 +279,6 @@
     "COMPSCI367 - Artificial Intelligence/week06/Factored Representation.md",
     "COMPSCI367 - Artificial Intelligence/week06/Inference engines (IE).md",
     "COMPSCI367 - Artificial Intelligence/week06/Interpretation.md",
-    "COMPSCI367 - Artificial Intelligence/week06/Knowledge.md",
     "@images/Pasted image 20231023211353.png",
     "@images/Pasted image 20231023211252.png",
     "@images/Pasted image 20231023210943.png",
