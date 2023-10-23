@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week02/A-Star Search.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week03/optimistic.md",
                 "mode": "source",
                 "source": false
               }
@@ -58,7 +58,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week02/A-Star Search.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week03/optimistic.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -154,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week02/A-Star Search.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week03/optimistic.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week02/A-Star Search.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week03/optimistic.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week02/A-Star Search.md"
+                "file": "COMPSCI367 - Artificial Intelligence/week03/optimistic.md"
               }
             }
           },
@@ -228,11 +228,14 @@
   },
   "active": "17d55d78fde168de",
   "lastOpenFiles": [
+    "COMPSCI367 - Artificial Intelligence/week03/Local Search.md",
+    "COMPSCI367 - Artificial Intelligence/week02/Iterative-Deepening Search (IDS).md",
+    "COMPSCI367 - Artificial Intelligence/week02/Informed Search Heuristic.md",
+    "COMPSCI367 - Artificial Intelligence/week02/A-Star Search.md",
     "COMPSCI367 - Artificial Intelligence/week02/Breadth-First Search (BFS).md",
     "COMPSCI367 - Artificial Intelligence/week02/Cost Sensitive Search.md",
     "COMPSCI367 - Artificial Intelligence/week02/Depth-First Search (DFS).md",
     "COMPSCI367 - Artificial Intelligence/week02/Bidirectional Search.md",
-    "COMPSCI367 - Artificial Intelligence/week02/A-Star Search.md",
     "COMPSCI367 - Artificial Intelligence/week02/path cost.md",
     "COMPSCI367 - Artificial Intelligence/week03/Trivial Heuristic; Dominance.md",
     "@images/Pasted image 20231023152108.png",
@@ -248,7 +251,6 @@
     "COMPSCI367 - Artificial Intelligence/week02/Search Techniques (Search Strategy) (Search Algorithm).md",
     "@images/Pasted image 20231023145952.png",
     "COMPSCI367 - Artificial Intelligence/week02/Informed Search.md",
-    "COMPSCI367 - Artificial Intelligence/week02/Informed Search Heuristic.md",
     "COMPSCI367 - Artificial Intelligence/week02/Uninformed Search.md",
     "Informed Search.md",
     "COMPSCI367 - Artificial Intelligence/week05/Population-based Search.md",
@@ -258,10 +260,8 @@
     "COMPSCI367 - Artificial Intelligence/week02/State Space Problem.md",
     "COMPSCI367 - Artificial Intelligence/week02/Initial State (Start State).md",
     "@images/Pasted image 20231023143630.png",
-    "COMPSCI367 - Artificial Intelligence/week02/constraint(s).md",
     "@images/Pasted image 20231023140125.png",
     "@images/Pasted image 20231023140110.png",
-    "COMPSCI367 - Artificial Intelligence/week02/Uniform-Cost Search (UCS) (Lowest-Cost-First Search).md",
     "@images/Pasted image 20231023134600.png",
     "@images/Untitled.png",
     "COMPSCI367 - Artificial Intelligence/week03",

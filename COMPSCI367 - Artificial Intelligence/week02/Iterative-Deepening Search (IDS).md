@@ -4,7 +4,7 @@
 	==by doing a series of **[[Depth-Limited Search (DLS)]]** to depth 1,2,3, etc.==
 > early [[state(s)]] will be expanded multiple times, but that might not matter too much because most of the nodes are near the leaves
 ## Finding max path cost
-- the maximum path cost between any 2 nodes is known as the diameter of the [[state space]]
+- the maximum [[path cost]] between any 2 nodes is known as the diameter of the [[state space]]
 - this would be a good candidate for a depth limit but it may be difficult to determine in advance
 - Therefore, it can be very difficult to decide upon a depth limit for search
 ## Main Idea

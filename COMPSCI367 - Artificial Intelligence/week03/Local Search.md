@@ -29,4 +29,4 @@ In many optimisation problems:
 	- AIM: to improve its position in the long run (optimal solution)
 
 ## Problem
-- could lead to a path without an optimal solution
+- could lead to a [[path(s)]] without an [[optimal]] solution

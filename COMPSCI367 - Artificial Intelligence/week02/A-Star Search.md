@@ -13,10 +13,10 @@
 - efficient but not [[optimal]] or [[complete]]
 
 ## Main Idea
-- preserve efficiency of [[Greedy (Best-First) Search]] but avoid expanding paths that are already expensive
+- preserve efficiency of [[Greedy (Best-First) Search]] but avoid expanding [[path(s)]] that are already expensive
 - Use both cost of [[path(s)]] generated & estimate to goal to order nodes on the [[frontier]]
 - **f(n)** is the **estimated cost** of the **cheapest solution** extending this [[path(s)]] (through node n)
-- **g(n) = cost of path from [[Initial State (Start State)]] to n**; 
+- **g(n) = cost of [[path(s)]] from [[Initial State (Start State)]] to n**; 
 - **h(n) = estimate from n to [[Goal(s) - Goal State(s)]]**
 - Order [[priority queue]] using function **f(n)** = **g(n)** + **h(n)**
 
