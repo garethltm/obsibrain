@@ -19,8 +19,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "8fd419b28e3e04cd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "COMPSCI367 - Artificial Intelligence/week02/closed list.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "d9a730eda40123bb",
@@ -33,7 +46,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week02/A-Star Search.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week02/closed list.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -128,7 +141,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week02/A-Star Search.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week02/closed list.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +158,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week02/A-Star Search.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week02/closed list.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +181,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week02/A-Star Search.md"
+                "file": "COMPSCI367 - Artificial Intelligence/week02/closed list.md"
               }
             }
           },
@@ -200,8 +213,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2602e13c15239a89",
+  "active": "8fd419b28e3e04cd",
   "lastOpenFiles": [
+    "COMPSCI367 - Artificial Intelligence/week02/A-Star Search.md",
+    "COMPSCI367 - Artificial Intelligence/week02/closed list.md",
     "@images/Pasted image 20231023155524.png",
     "COMPSCI367 - Artificial Intelligence/week03/Iterative Deepening A-Star Search (IDA).md",
     "COMPSCI367 - Artificial Intelligence/week02/Informed Search.md",
@@ -226,7 +241,6 @@
     "COMPSCI367 - Artificial Intelligence/week03/optimistic.md",
     "COMPSCI367 - Artificial Intelligence/week02/Iterative-Deepening Search (IDS).md",
     "COMPSCI367 - Artificial Intelligence/week02/Informed Search Heuristic.md",
-    "COMPSCI367 - Artificial Intelligence/week02/A-Star Search.md",
     "COMPSCI367 - Artificial Intelligence/week02/Breadth-First Search (BFS).md",
     "COMPSCI367 - Artificial Intelligence/week02/Cost Sensitive Search.md",
     "COMPSCI367 - Artificial Intelligence/week02/Depth-First Search (DFS).md",
@@ -237,7 +251,6 @@
     "@images/Pasted image 20231023145952.png",
     "@images/Pasted image 20231023143837.png",
     "@images/Pasted image 20231023143630.png",
-    "@images/Pasted image 20231023140125.png",
     "COMPSCI367 - Artificial Intelligence/week03",
     "COMPSCI367 - Artificial Intelligence/week04",
     "COMPSCI367 - Artificial Intelligence/week05",

@@ -42,10 +42,9 @@ Hence, the theorem:
 ![[Pasted image 20231023155524.png]]
 
 ### A* - What to do if h is NOT CONSISTENT
-- So far, we have assumed that h is consistent (thus admissible); but what if h is not consistent (but still admissible)
-If **h is not consistent** then we have **no guarantee** that the 1st time **state s** is picked to be expanded that its **cheapest path from i has been found**
-
-This means that if s is already in the closed list, a cheaper path may be found & this new path will need to “replace” the old one
+- So far, we have assumed that h is [[Consistent Heuristics]] (thus [[Admissible heuristic]]); but what if h is not [[Consistent Heuristics]] (but still [[Admissible heuristic]])
+- If **h is not consistent** then we have **no guarantee** that the 1st time **state s** is picked to be expanded that its **cheapest path from i has been found**
+- This means that if s is already in the [[closed list]], a cheaper [[path(s)]] may be found & this new [[path(s)]] will need to “replace” the old one
 ## Properties
 - [[Complete]]
     - Yes, unless there are infinitely many nodes with f ≤ cost of solution
