@@ -26,3 +26,6 @@
 **f(n)** = **g(n)** + **h(n)**
 - **g(n)** is the **cost of an optimal path** from s to n
 - **h(n)** is an **estimate of the cost of an optimal path** from n to t
+
+#### Is [[A-Star Search]] [[Optimal]] & [[Complete]]?
+- Yes, provided h(n) is [[Admissible heuristic]] 
