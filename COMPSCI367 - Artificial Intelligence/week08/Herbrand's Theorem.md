@@ -1,5 +1,5 @@
 - If [[Knowledge Base (KB)]] is infinite (possibly KB’), you can always find a subset of that [[Knowledge Base (KB)]] which leads to the same [[sentence]]
 	- YOU DON’T HAVE TO WORRY ABOUT INFINITE SENTENCES (Generalising?)
 - [[Propositionalization]]
-    - if [[proo]] not found, repeat again to generate more [[proposition]]
+    - if [[Proof procedure]] not found, repeat again to generate more [[proposition]]
     - when will you stop?

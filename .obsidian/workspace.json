@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week08/Herbrand's Theorem.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week08/Lifting.md",
                 "mode": "source",
                 "source": false
               }
@@ -45,7 +45,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week08/Herbrand's Theorem.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week08/Lifting.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -140,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week08/Herbrand's Theorem.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week08/Lifting.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week08/Herbrand's Theorem.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week08/Lifting.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -180,7 +180,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week08/Herbrand's Theorem.md"
+                "file": "COMPSCI367 - Artificial Intelligence/week08/Lifting.md"
               }
             }
           },
@@ -214,10 +214,11 @@
   },
   "active": "719a9e3cda8d050c",
   "lastOpenFiles": [
-    "COMPSCI367 - Artificial Intelligence/week08/Propositionalization.md",
-    "COMPSCI367 - Artificial Intelligence/week08/Herbrand's Theorem.md",
-    "COMPSCI367 - Artificial Intelligence/week08/Grounding.md",
+    "COMPSCI367 - Artificial Intelligence/week08/Unification.md",
     "COMPSCI367 - Artificial Intelligence/week08/Lifting.md",
+    "COMPSCI367 - Artificial Intelligence/week08/Herbrand's Theorem.md",
+    "COMPSCI367 - Artificial Intelligence/week08/Propositionalization.md",
+    "COMPSCI367 - Artificial Intelligence/week08/Grounding.md",
     "COMPSCI367 - Artificial Intelligence/week06/syntax.md",
     "COMPSCI367 - Artificial Intelligence/week06/semantics.md",
     "COMPSCI367 - Artificial Intelligence/week08/free variables.md",
@@ -240,7 +241,6 @@
     "@images/Pasted image 20231024013638.png",
     "COMPSCI367 - Artificial Intelligence/week08/theorem.md",
     "COMPSCI367 - Artificial Intelligence/week08/model.md",
-    "COMPSCI367 - Artificial Intelligence/week06/logically equivalent (logical equivalence).md",
     "@images/Pasted image 20231024013031.png",
     "@images/Pasted image 20231024012623.png",
     "@images/Pasted image 20231024011914.png",
