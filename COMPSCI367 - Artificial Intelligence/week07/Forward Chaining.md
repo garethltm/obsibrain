@@ -1,0 +1,1 @@
+Start from [[clause(s)]] in $[[]]

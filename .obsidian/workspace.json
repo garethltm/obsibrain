@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week07/Human languages are complex.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week07/Forward Chaining.md",
                 "mode": "source",
                 "source": false
               }
@@ -45,7 +45,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week07/Human languages are complex.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week07/Forward Chaining.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -140,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week07/Human languages are complex.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week07/Forward Chaining.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week07/Human languages are complex.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week07/Forward Chaining.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -180,7 +180,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week07/Human languages are complex.md"
+                "file": "COMPSCI367 - Artificial Intelligence/week07/Forward Chaining.md"
               }
             }
           },
@@ -214,8 +214,8 @@
   },
   "active": "719a9e3cda8d050c",
   "lastOpenFiles": [
-    "COMPSCI367 - Artificial Intelligence/week06/sentence.md",
     "COMPSCI367 - Artificial Intelligence/week07/Human languages are complex.md",
+    "COMPSCI367 - Artificial Intelligence/week06/sentence.md",
     "@images/Pasted image 20231024001211.png",
     "COMPSCI367 - Artificial Intelligence/week07/What logic needs to be.md",
     "COMPSCI367 - Artificial Intelligence/week07/Compositional.md",
