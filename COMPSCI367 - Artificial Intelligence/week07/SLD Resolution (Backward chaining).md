@@ -10,5 +10,5 @@
     - Theoretically it would still mean that it is not efficient but in practice it is still more efficient because of the [[Backtracking Search]] idea
 - **[[Soundness]]** → search procedure is success (it derives goal), we can then work [[Backtracking Search]] & turn it into a [[forward chaining]] proof
 - **[[Completeness]]** → because of the completeness of [[forward chaining]], [[SLD Resolution (Backward chaining)]] is also [[Completeness]]
-    - we need to use a complete search method that will not go into an infinite [[path(s)]]
+    - we need to use a [[complete]] [[Search Techniques (Search Strategy) (Search Algorithm)]] that will not go into an infinite [[path(s)]]
         > [[Breadth-First Search (BFS)]], [[Iterative-Deepening Search (IDS)]], etc.
