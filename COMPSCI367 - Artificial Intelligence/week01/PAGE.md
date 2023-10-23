@@ -1,4 +1,4 @@
-1. [[Percepts]]
+1. [[COMPSCI367 - Artificial Intelligence/week01/Percepts]]
 2. [[action(s)]]
 3. [[goal(s) - goal state(s)]]
 4. [[environment]]

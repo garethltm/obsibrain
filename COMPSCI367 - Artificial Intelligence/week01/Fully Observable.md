@@ -1,3 +1,3 @@
-- [[agent]] [[Percepts]] contains all relevant information about the [[world]]
+- [[agent]] [[COMPSCI367 - Artificial Intelligence/week01/Percepts]] contains all relevant information about the [[world]]
 
 >can observe everything

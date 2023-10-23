@@ -1,5 +1,5 @@
 Rational **≠** omniscent
-- [[Percepts]] may not supply all information
+- [[COMPSCI367 - Artificial Intelligence/week01/Percepts]] may not supply all information
 
 Rational **≠** clairvoyant
 - [[action(s)]] outcomes may not be as expected

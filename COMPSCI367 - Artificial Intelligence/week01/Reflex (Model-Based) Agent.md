@@ -5,7 +5,7 @@
 ![[Pasted image 20231012005149.png]]
 
 ## Simple Reflex Agent
-- they respond directly to [[Percepts]]
+- they respond directly to [[COMPSCI367 - Artificial Intelligence/week01/Percepts]]
 
 ## Limitations
 - [[agent]] with a [[world model]] but no planning can look into the past but not the future

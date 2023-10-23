@@ -1,1 +1,1 @@
-- simulated in an [[environment]] - feed [[Percepts]] to [[agent]]
+- simulated in an [[environment]] - feed [[COMPSCI367 - Artificial Intelligence/week01/Percepts]] to [[agent]]

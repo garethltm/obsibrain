@@ -1,2 +1,2 @@
-- [[Reactive Agent]] & [[Reflex (Model-Based) Agent]] choose their [[action(s)]] based on their current [[Percepts]] or from past [[Percepts]]
+- [[Reactive Agent]] & [[Reflex (Model-Based) Agent]] choose their [[action(s)]] based on their current [[COMPSCI367 - Artificial Intelligence/week01/Percepts]] or from past [[COMPSCI367 - Artificial Intelligence/week01/Percepts]]
 - [[Planning Agent]] can use [[Search Techniques (Search Strategy) (Search Algorithm)]] to plan several steps ahead in order to achieve its [[goal(s) - goal state(s)]](s)
