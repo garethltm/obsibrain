@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week05/Genetic Algorithm.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week05/Population-based Search.md",
                 "mode": "source",
                 "source": false
               }
@@ -34,7 +34,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week05/Genetic Algorithm.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week05/Population-based Search.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week05/Genetic Algorithm.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week05/Population-based Search.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week05/Genetic Algorithm.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week05/Population-based Search.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week05/Genetic Algorithm.md"
+                "file": "COMPSCI367 - Artificial Intelligence/week05/Population-based Search.md"
               }
             }
           },
@@ -204,10 +204,10 @@
   },
   "active": "4096a24949cac45d",
   "lastOpenFiles": [
+    "COMPSCI367 - Artificial Intelligence/week05/Genetic Algorithm.md",
     "@images/Pasted image 20231023181930.png",
     "COMPSCI367 - Artificial Intelligence/week05/mutation operation.md",
     "@images/Pasted image 20231023181835.png",
-    "COMPSCI367 - Artificial Intelligence/week05/Genetic Algorithm.md",
     "COMPSCI367 - Artificial Intelligence/week05/crossover operation.md",
     "@images/Pasted image 20231023181756.png",
     "COMPSCI367 - Artificial Intelligence/week05/fitness.md",
@@ -232,7 +232,6 @@
     "COMPSCI367 - Artificial Intelligence/week05/Local beam Search.md",
     "COMPSCI367 - Artificial Intelligence/week03/Local Search.md",
     "COMPSCI367 - Artificial Intelligence/week03/Iterative Improvement.md",
-    "@images/Pasted image 20231023175248.png",
     "COMPSCI367 - Artificial Intelligence/week04/Systematic Search vs Local Search.md",
     "COMPSCI367 - Artificial Intelligence/week03/Variable Elimination.md",
     "COMPSCI367 - Artificial Intelligence/week04/Gradient descent.md",
