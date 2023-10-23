@@ -1,5 +1,5 @@
 - series of [[Hill-Climbing]] searches
-	- (from randomly generated initial states)
+	- (from randomly generated [[initial state (start state)]])
 - overcomes local maxima
 	- [[trivially complete]]
 

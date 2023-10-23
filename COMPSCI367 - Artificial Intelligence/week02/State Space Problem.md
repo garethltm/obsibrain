@@ -3,7 +3,7 @@
 
 ## Consists of:
 1. [[State Space]]
-2. [[Initial State (Start State)]]
+2. [[initial state (start state)]]
 3. A set of [[action(s)]]
 4. An [[action(s)]] function
 	- Given a [[state(s)]] & an [[action(s)]] - return a new [[state(s)]]

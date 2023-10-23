@@ -26,7 +26,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week04/Random Walk & Random Restart Hill-Climbing.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week02/Search Techniques (Search Strategy) (Search Algorithm).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8466c6a7e48c48a4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "COMPSCI367 - Artificial Intelligence/week02/Search Techniques (Search Strategy) (Search Algorithm).md",
                 "mode": "source",
                 "source": false
               }
@@ -45,7 +57,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "d9a730eda40123bb",
@@ -58,7 +70,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week04/Random Walk & Random Restart Hill-Climbing.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week02/Search Techniques (Search Strategy) (Search Algorithm).md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -154,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week04/Random Walk & Random Restart Hill-Climbing.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week02/Search Techniques (Search Strategy) (Search Algorithm).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week04/Random Walk & Random Restart Hill-Climbing.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week02/Search Techniques (Search Strategy) (Search Algorithm).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +206,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week04/Random Walk & Random Restart Hill-Climbing.md"
+                "file": "COMPSCI367 - Artificial Intelligence/week02/Search Techniques (Search Strategy) (Search Algorithm).md"
               }
             }
           },
@@ -226,8 +238,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e33800f4695639a6",
+  "active": "a6e0090ac9cbd1f3",
   "lastOpenFiles": [
+    "COMPSCI367 - Artificial Intelligence/week02/initial state (start state).md",
+    "COMPSCI367 - Artificial Intelligence/week02/Search Techniques (Search Strategy) (Search Algorithm).md",
+    "COMPSCI367 - Artificial Intelligence/week04/Random-Restart Hill Climbing.md",
+    "COMPSCI367 - Artificial Intelligence/week04/try.md",
+    "COMPSCI367 - Artificial Intelligence/week01/Reactive Agent.md",
+    "COMPSCI367 - Artificial Intelligence/week04/Random Walk & Random Restart Hill-Climbing.md",
     "COMPSCI367 - Artificial Intelligence/week04/Probabilistic Hill-Climbing.md",
     "COMPSCI367 - Artificial Intelligence/week03/Local Search.md",
     "COMPSCI367 - Artificial Intelligence/week03/Iterative Improvement.md",
@@ -252,12 +270,6 @@
     "COMPSCI367 - Artificial Intelligence/week01/agent.md",
     "COMPSCI367 - Artificial Intelligence/week01/goal(s) - goal state(s).md",
     "COMPSCI367 - Artificial Intelligence/week02/state(s).md",
-    "COMPSCI367 - Artificial Intelligence/week02/closed list.md",
-    "COMPSCI367 - Artificial Intelligence/week02/Breadth-First Search (BFS).md",
-    "COMPSCI367 - Artificial Intelligence/week02/Depth-First Search (DFS).md",
-    "COMPSCI367 - Artificial Intelligence/week02/Greedy (Best-First) Search.md",
-    "COMPSCI367 - Artificial Intelligence/week02/frontier (open list, fringe).md",
-    "COMPSCI367 - Artificial Intelligence/week02/Directed Graph.md",
     "@images/Pasted image 20231023155524.png",
     "@images/Pasted image 20231023154624.png",
     "@images/Pasted image 20231023153938.png",

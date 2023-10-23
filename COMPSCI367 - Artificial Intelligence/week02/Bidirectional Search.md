@@ -3,7 +3,7 @@
 ![[Pasted image 20231023134600.png]]
 
 ## Main Idea
-- search both forward from the [[Initial State (Start State)]] and backward from the [[goal(s) - goal state(s)]], and stop when the 2 searches meet in the middle
+- search both forward from the [[initial state (start state)]] and backward from the [[goal(s) - goal state(s)]], and stop when the 2 searches meet in the middle
 - we need an efficient way to check if a new node already appears in the other half of the search. The complexity analysis assumes this can be done in ==constant time==, using a Hash Table
 	- assume branching factor = b in both directions
 	- assume there is a solution at depth = d. 

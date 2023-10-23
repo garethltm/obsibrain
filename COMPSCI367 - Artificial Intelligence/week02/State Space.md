@@ -1,1 +1,1 @@
-- a set of all [[state(s)]] reachable from the [[Initial State (Start State)]](s) by any [[action(s)]] sequence
+- a set of all [[state(s)]] reachable from the [[initial state (start state)]](s) by any [[action(s)]] sequence

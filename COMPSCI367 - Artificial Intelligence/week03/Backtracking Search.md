@@ -2,7 +2,7 @@
 - [[Constraint Satisfaction Problem (CSPs)]] can be solved by assigning values to variables one by one, in different combinations.
 - Whenever a [[constraint(s)]] is violated, we go back to the most recently assigned variable & assign it a new value.
 This can be achieved by a [[Depth-First Search (DFS)]] on a special kind of [[State Space]], where [[state(s)]] are defined by the values so far:
-- [[Initial State (Start State)]]
+- [[initial state (start state)]]
 	- the empty assignment
 - [[Successor function]]
 - [[Goal test]]
