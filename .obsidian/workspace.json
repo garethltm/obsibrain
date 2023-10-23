@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week05/Genetic Algorithm with 8-Queens.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week05/Genetic Algorithm with Travelling Salesman Problem.md",
                 "mode": "source",
                 "source": false
               }
@@ -34,7 +34,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week05/Genetic Algorithm with 8-Queens.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week05/Genetic Algorithm with Travelling Salesman Problem.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week05/Genetic Algorithm with 8-Queens.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week05/Genetic Algorithm with Travelling Salesman Problem.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week05/Genetic Algorithm with 8-Queens.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week05/Genetic Algorithm with Travelling Salesman Problem.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week05/Genetic Algorithm with 8-Queens.md"
+                "file": "COMPSCI367 - Artificial Intelligence/week05/Genetic Algorithm with Travelling Salesman Problem.md"
               }
             }
           },
@@ -204,11 +204,13 @@
   },
   "active": "4096a24949cac45d",
   "lastOpenFiles": [
+    "@images/Pasted image 20231023193745.png",
+    "COMPSCI367 - Artificial Intelligence/week05/Genetic Algorithm with 8-Queens.md",
+    "COMPSCI367 - Artificial Intelligence/week05/Genetic Algorithm with Travelling Salesman Problem.md",
     "@images/Pasted image 20231023193628.png",
     "@images/Pasted image 20231023193609.png",
     "@images/Pasted image 20231023193555.png",
     "COMPSCI367 - Artificial Intelligence/week05/Genetic Algorithm (GA).md",
-    "COMPSCI367 - Artificial Intelligence/week05/Genetic Algorithm with 8-Queens.md",
     "COMPSCI367 - Artificial Intelligence/week05/crossover operation.md",
     "COMPSCI367 - Artificial Intelligence/week05/fitness.md",
     "COMPSCI367 - Artificial Intelligence/week05/Stochastic Beam Search (SBS).md",
@@ -229,7 +231,6 @@
     "COMPSCI367 - Artificial Intelligence/week05/current state.md",
     "@images/Pasted image 20231023180840.png",
     "@images/Pasted image 20231023180810.png",
-    "@images/Pasted image 20231023180406.png",
     "COMPSCI367 - Artificial Intelligence/week05/Boltzmann distribution.md",
     "COMPSCI367 - Artificial Intelligence/week05/Greedy descent with M random restarts vs Local beam Search.md",
     "COMPSCI367 - Artificial Intelligence/week05/Local beam Search.md",
@@ -239,7 +240,6 @@
     "COMPSCI367 - Artificial Intelligence/week03/Variable Elimination.md",
     "COMPSCI367 - Artificial Intelligence/week04/Gradient descent.md",
     "COMPSCI367 - Artificial Intelligence/week03/Stochastic Search.md",
-    "COMPSCI367 - Artificial Intelligence/week04/Enforced Hill-Climbing.md",
     "COMPSCI367 - Artificial Intelligence/week03",
     "COMPSCI367 - Artificial Intelligence/week04",
     "COMPSCI367 - Artificial Intelligence/week05",
