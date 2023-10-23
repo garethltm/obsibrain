@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week05/Greedy descent with M random restarts vs Local beam Search.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week05/Population-based Search.md",
                 "mode": "source",
                 "source": false
               }
@@ -32,7 +32,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week05/Greedy descent with M random restarts vs Local beam Search.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week05/Population-based Search.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -128,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week05/Greedy descent with M random restarts vs Local beam Search.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week05/Population-based Search.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week05/Greedy descent with M random restarts vs Local beam Search.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week05/Population-based Search.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week05/Greedy descent with M random restarts vs Local beam Search.md"
+                "file": "COMPSCI367 - Artificial Intelligence/week05/Population-based Search.md"
               }
             }
           },
@@ -202,8 +202,8 @@
   },
   "active": "4096a24949cac45d",
   "lastOpenFiles": [
-    "COMPSCI367 - Artificial Intelligence/week05/Local beam Search.md",
     "COMPSCI367 - Artificial Intelligence/week05/Greedy descent with M random restarts vs Local beam Search.md",
+    "COMPSCI367 - Artificial Intelligence/week05/Local beam Search.md",
     "COMPSCI367 - Artificial Intelligence/week05/Population-based Search.md",
     "COMPSCI367 - Artificial Intelligence/week03/Local Search.md",
     "COMPSCI367 - Artificial Intelligence/week05/current state.md",

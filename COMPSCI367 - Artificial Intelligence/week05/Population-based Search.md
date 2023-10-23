@@ -12,3 +12,6 @@
 ## Strategies
 1. [[Local beam Search]]
 2. Genetic Algorithm
+
+## Main Idea
+- balance the level of diversity with the immediate benefit/ut
