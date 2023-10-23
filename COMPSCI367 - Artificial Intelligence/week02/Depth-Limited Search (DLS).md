@@ -1,7 +1,7 @@
 - solves the infinite loop **problem**
 
 ## Properties
-- [[Complete]]
+- [[COMPSCI367 - Artificial Intelligence/week02/Complete]]
     - Yes - no infinite loops anymore
 	- Even if there is loops in the graph, it can’t go infinitely as it would cycle within the limit of the maximum number of steps but will still need to go back and traverse to other parts of the graph
 - [[Time Complexity]]

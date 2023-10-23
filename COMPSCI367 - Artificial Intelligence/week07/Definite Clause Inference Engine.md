@@ -12,9 +12,9 @@
 
 
 ## Abstract Idea
-Proof procedure → If there is a proof of g starting from S then; `S ⊦ g`
+Proof procedure → If there is a proof of g starting from S then `S ⊦ g`
 - **[[Sound]]** 
-- **Complete** → If there is a proof each logical consequence of S then; `S ⊧ g` implies `S ⊦ g`
+- **[[COMPSCI367 - Artificial Intelligence/week02/Complete]]**
 `S ⊦ g` (Proof procedures) that are both **Sound** & **Complete**
 
 1. **Forward Chaining**

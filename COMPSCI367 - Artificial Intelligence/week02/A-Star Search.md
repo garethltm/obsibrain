@@ -8,9 +8,9 @@
 *A-Star Search orders by the sum:* f(n) = **g(n)** + **h(n)**
 
 [[Uniform-Cost Search (UCS) (Lowest-Cost-First Search)]] minimizes **g(n)**
-- [[optimal]] & [[complete]] but not efficient
+- [[optimal]] & [[COMPSCI367 - Artificial Intelligence/week02/Complete]] but not efficient
 [[Greedy (Best-First) Search]] minimizes **h(n)**
-- efficient but not [[optimal]] or [[complete]]
+- efficient but not [[optimal]] or [[COMPSCI367 - Artificial Intelligence/week02/Complete]]
 
 ## Main Idea
 - preserve efficiency of [[Greedy (Best-First) Search]] but avoid expanding [[path(s)]] that are already expensive
@@ -27,7 +27,7 @@
 - **g(n)** is the **cost of an optimal path** from s to n
 - **h(n)** is an **estimate of the cost of an optimal path** from n to t
 
-#### Is [[A-Star Search]] [[Optimal]] & [[Complete]]?
+#### Is [[A-Star Search]] [[Optimal]] & [[COMPSCI367 - Artificial Intelligence/week02/Complete]]?
 - Yes, provided h(n) is [[Admissible heuristic]] 
 - ##### Conditions for [[Optimal]]
 	- $∀n h(n) ≤ y(n)$
@@ -47,7 +47,7 @@ Hence, the theorem:
 - This means that if s is already in the [[closed list]], a cheaper [[path(s)]] may be found & this new [[path(s)]] will need to “replace” the old one
 	- if we meet that [[state(s)]] again & the evaluation value is smaller then you will need to reopen
 ## Properties
-- [[Complete]]
+- [[COMPSCI367 - Artificial Intelligence/week02/Complete]]
     - Yes, unless there are infinitely many nodes with f ≤ cost of solution
 - [[Time Complexity]]
     - $O(b^d)$ 

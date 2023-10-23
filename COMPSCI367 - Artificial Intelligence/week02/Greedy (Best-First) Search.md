@@ -8,7 +8,7 @@
 - It treats the [[frontier (open list, fringe)]] as a [[priority queue]] ordered by h
 
 ## Properties
-- [[Complete]] 
+- [[COMPSCI367 - Artificial Intelligence/week02/Complete]] 
 	- generally no! can get stuck in loops
     > Example: but complete in finite space with repeated-state checking
 - [[Time Complexity]]

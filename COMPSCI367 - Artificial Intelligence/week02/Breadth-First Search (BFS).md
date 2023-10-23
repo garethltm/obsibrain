@@ -23,7 +23,7 @@
 - How does the [[goal(s) - goal state(s)]] affect the search?
 
 ## Properties
-1. [[Complete]]
+1. [[COMPSCI367 - Artificial Intelligence/week02/Complete]]
 	- it terminates with a [[solution(s)]] when one exists
 2.  [[Time Complexity]]
 	-  $+ b^2+b^3+…+b^d = O(b^d)$
