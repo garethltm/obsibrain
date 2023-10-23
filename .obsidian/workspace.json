@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week03/Local Search.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week05/Local beam Search.md",
                 "mode": "source",
                 "source": false
               }
@@ -32,7 +32,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week03/Local Search.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week05/Local beam Search.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -55,7 +55,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 1.0000000000000004,
+                  "scale": 0.7132754626224423,
                   "close": false
                 }
               }
@@ -128,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week03/Local Search.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week05/Local beam Search.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week03/Local Search.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week05/Local beam Search.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week03/Local Search.md"
+                "file": "COMPSCI367 - Artificial Intelligence/week05/Local beam Search.md"
               }
             }
           },
@@ -202,10 +202,12 @@
   },
   "active": "4096a24949cac45d",
   "lastOpenFiles": [
+    "COMPSCI367 - Artificial Intelligence/week05/current state.md",
+    "COMPSCI367 - Artificial Intelligence/week05/candidate solution.md",
+    "COMPSCI367 - Artificial Intelligence/week03/Local Search.md",
     "COMPSCI367 - Artificial Intelligence/week03/Iterative Improvement.md",
     "@images/Pasted image 20231023175248.png",
     "@images/Pasted image 20231023175238.png",
-    "COMPSCI367 - Artificial Intelligence/week03/Local Search.md",
     "COMPSCI367 - Artificial Intelligence/week04/Systematic Search vs Local Search.md",
     "COMPSCI367 - Artificial Intelligence/week03/Variable Elimination.md",
     "COMPSCI367 - Artificial Intelligence/week04/Gradient descent.md",
@@ -236,8 +238,6 @@
     "COMPSCI367 - Artificial Intelligence/week02/constraint(s).md",
     "COMPSCI367 - Artificial Intelligence/week03/Backtracking Search.md",
     "COMPSCI367 - Artificial Intelligence/week03/Forward Checking.md",
-    "COMPSCI367 - Artificial Intelligence/week03/arc consistent.md",
-    "COMPSCI367 - Artificial Intelligence/week03/Minimum Remaining Values (MRV).md",
     "COMPSCI367 - Artificial Intelligence/week03",
     "COMPSCI367 - Artificial Intelligence/week04",
     "COMPSCI367 - Artificial Intelligence/week05",
