@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week02/Uniform-Cost Search (UCS) (Lowest-Cost-First Search).md",
+                "file": "COMPSCI367 - Artificial Intelligence/week03/Trivial Heuristic; Dominance.md",
                 "mode": "source",
                 "source": false
               }
@@ -58,7 +58,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week02/Uniform-Cost Search (UCS) (Lowest-Cost-First Search).md",
+                "file": "COMPSCI367 - Artificial Intelligence/week03/Trivial Heuristic; Dominance.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -133,8 +133,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -154,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week02/Uniform-Cost Search (UCS) (Lowest-Cost-First Search).md",
+                "file": "COMPSCI367 - Artificial Intelligence/week03/Trivial Heuristic; Dominance.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week02/Uniform-Cost Search (UCS) (Lowest-Cost-First Search).md",
+                "file": "COMPSCI367 - Artificial Intelligence/week03/Trivial Heuristic; Dominance.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +193,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week02/Uniform-Cost Search (UCS) (Lowest-Cost-First Search).md"
+                "file": "COMPSCI367 - Artificial Intelligence/week03/Trivial Heuristic; Dominance.md"
               }
             }
           },
@@ -228,6 +227,7 @@
   },
   "active": "17d55d78fde168de",
   "lastOpenFiles": [
+    "COMPSCI367 - Artificial Intelligence/week02/Uniform-Cost Search (UCS) (Lowest-Cost-First Search).md",
     "COMPSCI367 - Artificial Intelligence/week03/Trivial Heuristic; Dominance.md",
     "COMPSCI367 - Artificial Intelligence/week02/Search Techniques (Search Strategy) (Search Algorithm).md",
     "COMPSCI367 - Artificial Intelligence/week05/Population-based Search.md",
@@ -258,7 +258,6 @@
     "COMPSCI367 - Artificial Intelligence/week02/Frontier.md",
     "COMPSCI367 - Artificial Intelligence/week02/suboptimal.md",
     "@images/Pasted image 20231023143837.png",
-    "COMPSCI367 - Artificial Intelligence/week02/State Space Problem.md",
     "@images/Pasted image 20231023143630.png",
     "@images/Pasted image 20231023140125.png",
     "@images/Pasted image 20231023140110.png",

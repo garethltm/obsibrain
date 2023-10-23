@@ -1,4 +1,4 @@
-- simplest [[Search Techniques (Search Strategy) (Search Algorithm)]] that is guaranteed to find a minimum cost [[path(s)]]
+- simplest [[Search Techniques (Search Strategy) (Search Algorithm)]] that is guaranteed to find a minimum [[path cost]]
 	- similar to [[Breadth-First Search (BFS)]] but it selects a [[path(s)]] with the ==lowest cost==
 	- the [[Frontier]] is implemented as a [[Priority Queue]] ordered by the ==cost function==
 
@@ -7,12 +7,12 @@
 - for many domains, [[arc]] have non-unit costs, the aim is to find an optimal [[solution(s)]], a [[solution(s)]] such that no other [[solution(s)]] has a lower total cost
 
 ## Steps
- Implementation: [[priority queue]] = insert nodes in order of increasing [[path(s)]] cost
+ Implementation: [[priority queue]] = insert nodes in order of increasing [[path cost]]
 	(`lowest path cost g(n)`)
 1. Expand root first, 
 2. Expand least-cost unexpanded node
 3. Reduces to [[Breadth-First Search (BFS)]] when all [[action(s)]] have same cost
-4. Finds the cheapest goal provided path cost is monotonically increasing along each [[path(s)]] 
+4. Finds the cheapest goal provided [[path cost]] is monotonically increasing along each [[path(s)]] 
 > (no negative-cost steps)
 > Also, sorting whenever we add a node
 
