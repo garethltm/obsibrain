@@ -103,7 +103,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "branch",
+                "query": "online",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -120,7 +120,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -212,8 +213,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "78022574f0109cc7",
+  "active": "719a9e3cda8d050c",
   "lastOpenFiles": [
+    "COMPSCI367 - Artificial Intelligence/week06/Knowledge-based Agents.md",
+    "COMPSCI367 - Artificial Intelligence/week06/Offline.md",
+    "COMPSCI367 - Artificial Intelligence/week03/Local Search.md",
     "COMPSCI367 - Artificial Intelligence/week06/Equivalence between inference & satisfiability.md",
     "COMPSCI367 - Artificial Intelligence/week07",
     "COMPSCI367 - Artificial Intelligence/week06/Logic Inference Problem.md",
@@ -226,7 +230,6 @@
     "COMPSCI367 - Artificial Intelligence/week06/knowledge.md",
     "COMPSCI367 - Artificial Intelligence/week06/Knowledge Base (KB).md",
     "COMPSCI367 - Artificial Intelligence/week06/Knowledge Representation Language.md",
-    "COMPSCI367 - Artificial Intelligence/week06/Knowledge-based Agents.md",
     "COMPSCI367 - Artificial Intelligence/week01/Percepts.md",
     "COMPSCI367 - Artificial Intelligence/week06/Language.md",
     "COMPSCI367 - Artificial Intelligence/week06/literal(s).md",
@@ -239,7 +242,6 @@
     "COMPSCI367 - Artificial Intelligence/week06/state transition.md",
     "COMPSCI367 - Artificial Intelligence/week06/Wumpus World Agent.md",
     "COMPSCI367 - Artificial Intelligence/week06/Truth table.md",
-    "COMPSCI367 - Artificial Intelligence/week06/Structured Representation.md",
     "@images/Pasted image 20231023214921.png",
     "@images/Pasted image 20231023213622.png",
     "@images/Pasted image 20231023213507.png",

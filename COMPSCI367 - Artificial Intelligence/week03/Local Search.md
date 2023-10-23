@@ -22,7 +22,7 @@ In many optimisation problems:
 
 ## Algorithms
 - [[Hill-Climbing]]
-- 
+
 ## Steps
 1. we start from some [[initial state (start state)]]
 2. perform a number of [[action(s)]] searching for a [[solution(s)]]
