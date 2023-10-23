@@ -1,4 +1,5 @@
 - Also known as [[iterative improvement]]
+- designed to so
 - [[frontier (open list, fringe)]] maintains some unexpanded successors of expanded nodes
 - Start from some [[state(s)]] & "move" from present location(s) to neighbouring location(s). 
 	- These moves are determined by the present location(s).
@@ -22,6 +23,7 @@ In many optimisation problems:
 
 ## Algorithms
 - [[Hill-Climbing]]
+- 
 ## Steps
 1. we start from some [[initial state (start state)]]
 2. perform a number of [[action(s)]] searching for a [[solution(s)]]
