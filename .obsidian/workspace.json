@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week02/Cost Sensitive Search.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week02/Informed Search Heuristic.md",
                 "mode": "source",
                 "source": false
               }
@@ -167,7 +167,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week02/Cost Sensitive Search.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week02/Informed Search Heuristic.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -184,7 +184,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week02/Cost Sensitive Search.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week02/Informed Search Heuristic.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -207,7 +207,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week02/Cost Sensitive Search.md"
+                "file": "COMPSCI367 - Artificial Intelligence/week02/Informed Search Heuristic.md"
               }
             }
           },
@@ -241,10 +241,11 @@
   },
   "active": "358f03c9716e94e8",
   "lastOpenFiles": [
+    "@images/Pasted image 20231023143630.png",
+    "COMPSCI367 - Artificial Intelligence/week02/Cost Sensitive Search.md",
     "COMPSCI367 - Artificial Intelligence/week02/heuristic(s).md",
     "COMPSCI367 - Artificial Intelligence/week02/constraint(s).md",
     "COMPSCI367 - Artificial Intelligence/week02/Optimal.md",
-    "COMPSCI367 - Artificial Intelligence/week02/Cost Sensitive Search.md",
     "@images/Pasted image 20231023140125.png",
     "@images/Pasted image 20231023140110.png",
     "COMPSCI367 - Artificial Intelligence/week02/Uniform-Cost Search (UCS) (Lowest-Cost-First Search).md",
@@ -269,7 +270,6 @@
     "COMPSCI367 - Artificial Intelligence/week05/Local beam Search.md",
     "COMPSCI367 - Artificial Intelligence/week05/population.md",
     "COMPSCI367 - Artificial Intelligence/week05/Population-based Search.md",
-    "conflict-files-obsidian-git.md",
     "@images/Untitled.png",
     "@images/Pasted image 20231022182721.png",
     "@images/Pasted image 20231022173408.png",
