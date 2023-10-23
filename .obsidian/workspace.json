@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week05/Population-based Search.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week02/Informed Search.md",
                 "mode": "source",
                 "source": false
               }
@@ -58,7 +58,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week05/Population-based Search.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week02/Informed Search.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -81,7 +81,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 1,
+                  "scale": 0.713275462622442,
                   "close": true
                 }
               }
@@ -154,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week05/Population-based Search.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week02/Informed Search.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week05/Population-based Search.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week02/Informed Search.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week05/Population-based Search.md"
+                "file": "COMPSCI367 - Artificial Intelligence/week02/Informed Search.md"
               }
             }
           },
@@ -228,14 +228,17 @@
   },
   "active": "bcc7a7b87dd8df83",
   "lastOpenFiles": [
+    "COMPSCI367 - Artificial Intelligence/week02/Informed Search Heuristic.md",
+    "COMPSCI367 - Artificial Intelligence/week02/Informed Search.md",
+    "Informed Search.md",
+    "COMPSCI367 - Artificial Intelligence/week02/Search Techniques (Search Strategy) (Search Algorithm).md",
+    "Greedy Search.md",
+    "COMPSCI367 - Artificial Intelligence/week05/Population-based Search.md",
     "COMPSCI367 - Artificial Intelligence/week03/optimistic.md",
     "COMPSCI367 - Artificial Intelligence/week02/Frontier.md",
-    "COMPSCI367 - Artificial Intelligence/week02/Informed (Heuristic) Searches.md",
     "COMPSCI367 - Artificial Intelligence/week02/heuristic(s).md",
-    "COMPSCI367 - Artificial Intelligence/week05/Population-based Search.md",
     "COMPSCI367 - Artificial Intelligence/week02/suboptimal.md",
     "COMPSCI367 - Artificial Intelligence/week02/Optimal.md",
-    "COMPSCI367 - Artificial Intelligence/week02/Informed Search Heuristic.md",
     "@images/Pasted image 20231023143837.png",
     "COMPSCI367 - Artificial Intelligence/week02/State Space Problem.md",
     "COMPSCI367 - Artificial Intelligence/week02/Initial State (Start State).md",
@@ -251,14 +254,11 @@
     "COMPSCI367 - Artificial Intelligence/week02/Uninformed Search.md",
     "COMPSCI367 - Artificial Intelligence/week02/Bidirectional Search.md",
     "COMPSCI367 - Artificial Intelligence/week02/State Space.md",
-    "COMPSCI367 - Artificial Intelligence/week02/Search Techniques (Search Strategy) (Search Algorithm).md",
     "@images/Pasted image 20231023134600.png",
     "COMPSCI367 - Artificial Intelligence/week02/Iterative-Deepening Search (IDS).md",
     "COMPSCI367 - Artificial Intelligence/week02/Depth-Limited Search (DLS).md",
     "COMPSCI367 - Artificial Intelligence/week01/action(s).md",
     "COMPSCI367 - Artificial Intelligence/week03/Local Search.md",
-    "COMPSCI367 - Artificial Intelligence/week02/Breadth-First Search (BFS).md",
-    "COMPSCI367 - Artificial Intelligence/week02/arc.md",
     "@images/Untitled.png",
     "@images/Pasted image 20231022182721.png",
     "@images/Pasted image 20231022173408.png",
