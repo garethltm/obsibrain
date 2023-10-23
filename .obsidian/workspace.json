@@ -6,6 +6,7 @@
       {
         "id": "f46a17f0b7c45033",
         "type": "tabs",
+        "dimension": 71.51015228426397,
         "children": [
           {
             "id": "9475496e15cbf07b",
@@ -13,7 +14,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week06/clause(s).md",
+                "file": "COMPSCI367 - Artificial Intelligence/week06/Propositional Knowledge Base.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -48,7 +49,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week06/clause(s).md",
+                "file": "COMPSCI367 - Artificial Intelligence/week06/Propositional Knowledge Base.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "719a9e3cda8d050c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "COMPSCI367 - Artificial Intelligence/week06/connectives.md",
                 "mode": "source",
                 "source": false
               }
@@ -56,6 +69,48 @@
           }
         ],
         "currentTab": 1
+      },
+      {
+        "id": "2afe1273f82ff304",
+        "type": "tabs",
+        "dimension": 28.48984771573604,
+        "children": [
+          {
+            "id": "78022574f0109cc7",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "COMPSCI367 - Artificial Intelligence/week06/Propositional Knowledge Base.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.7132754626224423,
+                  "close": false
+                }
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -121,7 +176,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week06/clause(s).md",
+                "file": "COMPSCI367 - Artificial Intelligence/week06/Propositional Knowledge Base.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +193,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week06/clause(s).md",
+                "file": "COMPSCI367 - Artificial Intelligence/week06/Propositional Knowledge Base.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +216,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week06/clause(s).md"
+                "file": "COMPSCI367 - Artificial Intelligence/week06/Propositional Knowledge Base.md"
               }
             }
           },
@@ -195,13 +250,17 @@
   },
   "active": "ea5b8c185c07b419",
   "lastOpenFiles": [
+    "COMPSCI367 - Artificial Intelligence/week06/Propositional Logic with Wumpus World.md",
+    "COMPSCI367 - Artificial Intelligence/week06/Propositional Logic.md",
+    "COMPSCI367 - Artificial Intelligence/week06/Knowledge Representation Language.md",
+    "COMPSCI367 - Artificial Intelligence/week06/Knowledge-based Agents.md",
     "COMPSCI367 - Artificial Intelligence/week06/Knowledge Base (KB).md",
     "COMPSCI367 - Artificial Intelligence/week06/clause(s).md",
+    "@images/Pasted image 20231023211733.png",
+    "COMPSCI367 - Artificial Intelligence/week06/connectives.md",
     "COMPSCI367 - Artificial Intelligence/week06/Propositional Knowledge Base.md",
-    "COMPSCI367 - Artificial Intelligence/week06/Propositional Logic with Wumpus World.md",
     "@images/Pasted image 20231023211539.png",
     "@images/Pasted image 20231023211515.png",
-    "COMPSCI367 - Artificial Intelligence/week06/Propositional Logic.md",
     "COMPSCI367 - Artificial Intelligence/week06/Wumpus World Agent.md",
     "COMPSCI367 - Artificial Intelligence/week06/Truth table.md",
     "COMPSCI367 - Artificial Intelligence/week06/Syntax.md",
@@ -215,15 +274,12 @@
     "COMPSCI367 - Artificial Intelligence/week06/Atomic Propositions (atoms).md",
     "COMPSCI367 - Artificial Intelligence/week06/Atomic Representation.md",
     "COMPSCI367 - Artificial Intelligence/week06/Compound Propositions (Compound Entities).md",
-    "COMPSCI367 - Artificial Intelligence/week06/connectives.md",
     "COMPSCI367 - Artificial Intelligence/week06/Duality of Syntax vs Semantics.md",
     "COMPSCI367 - Artificial Intelligence/week06/Factored Representation.md",
     "COMPSCI367 - Artificial Intelligence/week06/Inference engines (IE).md",
     "COMPSCI367 - Artificial Intelligence/week06/Interpretation.md",
     "COMPSCI367 - Artificial Intelligence/week06/Knowledge.md",
-    "COMPSCI367 - Artificial Intelligence/week06/intelligent.md",
     "@images/Pasted image 20231023211353.png",
-    "COMPSCI367 - Artificial Intelligence/week06/logically equivalent.md",
     "@images/Pasted image 20231023211252.png",
     "@images/Pasted image 20231023210943.png",
     "COMPSCI367 - Artificial Intelligence/week06/Untitled",
@@ -231,7 +287,6 @@
     "@images/Pasted image 20231023210640.png",
     "@images/Pasted image 20231023210619.png",
     "@images/Pasted image 20231023205951.png",
-    "@images/Pasted image 20231023205601.png",
     "COMPSCI367 - Artificial Intelligence/week06",
     "COMPSCI367 - Artificial Intelligence/week03",
     "COMPSCI367 - Artificial Intelligence/week04",

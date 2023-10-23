@@ -2,6 +2,5 @@
 - [[Atomic Propositions (atoms)]]
 
 ![[Pasted image 20231023210640.png]]![[Pasted image 20231023210657.png]]
-![[Pasted image 20231023211515.png]]
 ![[Pasted image 20231023211539.png]]
 - [[Constraint Satisfaction Problem (CSPs)]]
