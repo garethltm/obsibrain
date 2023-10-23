@@ -13,7 +13,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week04/Simulated Annealing with 8-Queens.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week04/Simulated Annealing.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -48,7 +48,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week04/Simulated Annealing with 8-Queens.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week04/Simulated Annealing.md",
                 "mode": "source",
                 "source": false
               }
@@ -121,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week04/Simulated Annealing with 8-Queens.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week04/Simulated Annealing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week04/Simulated Annealing with 8-Queens.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week04/Simulated Annealing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week04/Simulated Annealing with 8-Queens.md"
+                "file": "COMPSCI367 - Artificial Intelligence/week04/Simulated Annealing.md"
               }
             }
           },
@@ -195,11 +195,12 @@
   },
   "active": "fc5ebdd1a292e78a",
   "lastOpenFiles": [
+    "@images/Pasted image 20231023173131.png",
+    "COMPSCI367 - Artificial Intelligence/week04/Simulated Annealing with 8-Queens.md",
+    "COMPSCI367 - Artificial Intelligence/week04/Simulated Annealing.md",
     "@images/Pasted image 20231023173013.png",
     "COMPSCI367 - Artificial Intelligence/week04/Typical Annealing Schedule.md",
-    "COMPSCI367 - Artificial Intelligence/week04/Simulated Annealing with 8-Queens.md",
     "@images/Pasted image 20231023172921.png",
-    "COMPSCI367 - Artificial Intelligence/week04/Simulated Annealing.md",
     "COMPSCI367 - Artificial Intelligence/week04/sideways.md",
     "COMPSCI367 - Artificial Intelligence/week04/Annealing.md",
     "@images/Pasted image 20231023172730.png",
@@ -220,7 +221,6 @@
     "COMPSCI367 - Artificial Intelligence/week03/arc consistent.md",
     "@images/Pasted image 20231023170744.png",
     "@images/Pasted image 20231023170618.png",
-    "@images/Pasted image 20231023170607.png",
     "COMPSCI367 - Artificial Intelligence/week03/Minimum Remaining Values (MRV).md",
     "COMPSCI367 - Artificial Intelligence/week03/degree heuristic.md",
     "COMPSCI367 - Artificial Intelligence/week02/Depth-First Search (DFS).md",
