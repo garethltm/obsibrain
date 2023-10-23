@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week07/Compositional.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week07/Human languages are complex.md",
                 "mode": "source",
                 "source": false
               }
@@ -45,7 +45,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week07/Compositional.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week07/Human languages are complex.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -140,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week07/Compositional.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week07/Human languages are complex.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week07/Compositional.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week07/Human languages are complex.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -180,7 +180,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week07/Compositional.md"
+                "file": "COMPSCI367 - Artificial Intelligence/week07/Human languages are complex.md"
               }
             }
           },
@@ -214,9 +214,12 @@
   },
   "active": "719a9e3cda8d050c",
   "lastOpenFiles": [
-    "COMPSCI367 - Artificial Intelligence/week07/Expressive.md",
-    "COMPSCI367 - Artificial Intelligence/week07/Compositional.md",
+    "COMPSCI367 - Artificial Intelligence/week06/sentence.md",
+    "COMPSCI367 - Artificial Intelligence/week07/Human languages are complex.md",
+    "@images/Pasted image 20231024001211.png",
     "COMPSCI367 - Artificial Intelligence/week07/What logic needs to be.md",
+    "COMPSCI367 - Artificial Intelligence/week07/Compositional.md",
+    "COMPSCI367 - Artificial Intelligence/week07/Expressive.md",
     "COMPSCI367 - Artificial Intelligence/week07/Declarative.md",
     "COMPSCI367 - Artificial Intelligence/week07/Low expresiveness.md",
     "@images/Pasted image 20231024000923.png",
@@ -241,16 +244,13 @@
     "COMPSCI367 - Artificial Intelligence/week03/Local Search.md",
     "COMPSCI367 - Artificial Intelligence/week06/Knowledge-based Agents.md",
     "COMPSCI367 - Artificial Intelligence/week06/Offline.md",
-    "COMPSCI367 - Artificial Intelligence/week06/Equivalence between inference & satisfiability.md",
     "COMPSCI367 - Artificial Intelligence/week07",
-    "COMPSCI367 - Artificial Intelligence/week06/Logic Inference Problem.md",
     "@images/Pasted image 20231023214921.png",
     "@images/Pasted image 20231023213622.png",
     "@images/Pasted image 20231023213507.png",
     "@images/Pasted image 20231023212648.png",
     "@images/Pasted image 20231023212351.png",
     "@images/Pasted image 20231023211733.png",
-    "@images/Pasted image 20231023211539.png",
     "COMPSCI367 - Artificial Intelligence/week06/Untitled",
     "COMPSCI367 - Artificial Intelligence/week06",
     "COMPSCI367 - Artificial Intelligence/week03",
