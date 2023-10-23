@@ -4,29 +4,8 @@
     "type": "split",
     "children": [
       {
-        "id": "d9a730eda40123bb",
-        "type": "tabs",
-        "dimension": 77.79187817258884,
-        "children": [
-          {
-            "id": "4096a24949cac45d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week06/Propositional Logic.md",
-                "mode": "source",
-                "source": false
-              }
-            },
-            "group": "da01315d8484006a"
-          }
-        ]
-      },
-      {
         "id": "f46a17f0b7c45033",
         "type": "tabs",
-        "dimension": 22.20812182741117,
         "children": [
           {
             "id": "9475496e15cbf07b",
@@ -34,7 +13,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week06/Propositional Logic.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week06/Proposition.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -61,10 +40,22 @@
                   "close": false
                 }
               }
-            },
-            "group": "da01315d8484006a"
+            }
+          },
+          {
+            "id": "78108e831b5150f6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "COMPSCI367 - Artificial Intelligence/week06/Proposition.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -130,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week06/Propositional Logic.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week06/Proposition.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week06/Propositional Logic.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week06/Proposition.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week06/Propositional Logic.md"
+                "file": "COMPSCI367 - Artificial Intelligence/week06/Proposition.md"
               }
             }
           },
@@ -202,10 +193,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4096a24949cac45d",
+  "active": "78108e831b5150f6",
   "lastOpenFiles": [
-    "COMPSCI367 - Artificial Intelligence/week06/Duality of Syntax vs Semantics.md",
     "COMPSCI367 - Artificial Intelligence/week06/Propositional Logic.md",
+    "COMPSCI367 - Artificial Intelligence/week06/Proposition.md",
+    "COMPSCI367 - Artificial Intelligence/week06/Atomic Propositions.md",
+    "COMPSCI367 - Artificial Intelligence/week06/Duality of Syntax vs Semantics.md",
     "@images/Pasted image 20231023204633.png",
     "COMPSCI367 - Artificial Intelligence/week01/Artificial Intelligence (AI).md",
     "@images/Pasted image 20231023204552.png",
@@ -240,8 +233,6 @@
     "COMPSCI367 - Artificial Intelligence/week05/competitive multi-agent environment.md",
     "COMPSCI367 - Artificial Intelligence/week06",
     "COMPSCI367 - Artificial Intelligence/week05/Adversarial Search.md",
-    "COMPSCI367 - Artificial Intelligence/week05/Minmax Algorithm.md",
-    "COMPSCI367 - Artificial Intelligence/week05/Multi-agent System.md",
     "COMPSCI367 - Artificial Intelligence/week03",
     "COMPSCI367 - Artificial Intelligence/week04",
     "COMPSCI367 - Artificial Intelligence/week05",

@@ -1,0 +1,2 @@
+- formed by connecting simpler [[Proposition]] using connectives such as:
+	- 
