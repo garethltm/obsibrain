@@ -1,0 +1,4 @@
+- You need a specification of:
+    - [[initial state (start state)]]
+        - you need a series of [[action(s)]] that the [[agent]] can perform in the [[world]] in order to achieve the goal state
+    - [[goal(s) - goal state(s)]] → marker of success
