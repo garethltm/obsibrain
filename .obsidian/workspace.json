@@ -73,12 +73,8 @@
             "id": "d0f61cd9fefb8c2d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week08/Grounding.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           },
           {
@@ -224,7 +220,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week05/Population-based Search.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -241,7 +236,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week05/Population-based Search.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -263,9 +257,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week05/Population-based Search.md"
-              }
+              "state": {}
             }
           },
           {
@@ -296,8 +288,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "874de3ab24aec93a",
+  "active": "d0f61cd9fefb8c2d",
   "lastOpenFiles": [
+    "COMPSCI367 - Artificial Intelligence/week05/Population-based Search.md",
     "COMPSCI367 - Artificial Intelligence/week10/term specificity.md",
     "COMPSCI367 - Artificial Intelligence/week10/prior evidence (prior).md",
     "COMPSCI367 - Artificial Intelligence/week10/posterior evidence (posterior).md",
@@ -323,7 +316,6 @@
     "COMPSCI367 - Artificial Intelligence/week10/H.md",
     "COMPSCI367 - Artificial Intelligence/week10/Entropy (or self-information).md",
     "COMPSCI367 - Artificial Intelligence/week10/Deriving Bayes Rule.md",
-    "COMPSCI367 - Artificial Intelligence/week10/Data compression.md",
     "@images/Pasted image 20231025012028.png",
     "@images/Pasted image 20231025011003.png",
     "@images/Pasted image 20231025010549.png",
