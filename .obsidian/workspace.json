@@ -99,7 +99,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week09/SATPlan.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week09/TranslateToSAT.md",
                 "mode": "source",
                 "source": false
               }
@@ -123,7 +123,7 @@
                 "state": {
                   "type": "outgoing-link",
                   "state": {
-                    "file": "COMPSCI367 - Artificial Intelligence/week09/SATPlan.md",
+                    "file": "COMPSCI367 - Artificial Intelligence/week09/TranslateToSAT.md",
                     "linksCollapsed": false,
                     "unlinkedCollapsed": true
                   }
@@ -251,7 +251,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week09/SATPlan.md"
+                "file": "COMPSCI367 - Artificial Intelligence/week09/TranslateToSAT.md"
               }
             }
           },
@@ -292,9 +292,10 @@
   },
   "active": "3dd87e27a1a2fba3",
   "lastOpenFiles": [
+    "@images/Pasted image 20231024160716.png",
+    "COMPSCI367 - Artificial Intelligence/week09/SATPlan.md",
     "@images/Pasted image 20231024160613.png",
     "COMPSCI367 - Artificial Intelligence/week09/ExtractPlan.md",
-    "COMPSCI367 - Artificial Intelligence/week09/SATPlan.md",
     "COMPSCI367 - Artificial Intelligence/week06/SAT solvers.md",
     "@images/Pasted image 20231024160111.png",
     "COMPSCI367 - Artificial Intelligence/week06/Satisfiability Problem (SAT).md",
@@ -327,7 +328,6 @@
     "COMPSCI367 - Artificial Intelligence/week09/Problem file.md",
     "@images/COMPSCI3672023_S2W09ClassicalPlan1of2-16.jpg",
     "COMPSCI367 - Artificial Intelligence/week09/PDDL.md",
-    "@images/COMPSCI3672023_S2W09ClassicalPlan1of2-15.jpg",
     "COMPSCI367 - Artificial Intelligence/week09/TranslateToSAT.md",
     "COMPSCI367 - Artificial Intelligence/week09",
     "COMPSCI367 - Artificial Intelligence/week08",
