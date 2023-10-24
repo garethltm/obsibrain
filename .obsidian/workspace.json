@@ -148,7 +148,7 @@
                       "repelStrength": 10,
                       "linkStrength": 1,
                       "linkDistance": 250,
-                      "scale": 0.850726243597498,
+                      "scale": 0.7356825628249143,
                       "close": true
                     }
                   }
@@ -296,7 +296,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3ad179677b7fba41",
+  "active": "874de3ab24aec93a",
   "lastOpenFiles": [
     "COMPSCI367 - Artificial Intelligence/week10/term specificity.md",
     "COMPSCI367 - Artificial Intelligence/week10/prior evidence (prior).md",
