@@ -75,7 +75,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week05/competitive multi-agent environment.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week04/sideways.md",
                 "mode": "source",
                 "source": false
               }
@@ -224,7 +224,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week05/competitive multi-agent environment.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week04/sideways.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -241,7 +241,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week05/competitive multi-agent environment.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week04/sideways.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -264,7 +264,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week05/competitive multi-agent environment.md"
+                "file": "COMPSCI367 - Artificial Intelligence/week04/sideways.md"
               }
             }
           },
@@ -298,32 +298,32 @@
   },
   "active": "3ad179677b7fba41",
   "lastOpenFiles": [
-    "COMPSCI367 - Artificial Intelligence/week05/game-GARETH.md",
-    "COMPSCI367 - Artificial Intelligence/week05/competitive multi-agent environment.md",
-    "COMPSCI367 - Artificial Intelligence/week05/game tree-GARETH.md",
-    "COMPSCI367 - Artificial Intelligence/week05/fitness-GARETH.md",
-    "COMPSCI367 - Artificial Intelligence/week05/evolution-GARETH.md",
-    "COMPSCI367 - Artificial Intelligence/week05/Evolution as Search-GARETH.md",
-    "COMPSCI367 - Artificial Intelligence/week05/Complexity analysis-GARETH.md",
-    "COMPSCI367 - Artificial Intelligence/week05/competitive multi-agent environment-GARETH.md",
-    "COMPSCI367 - Artificial Intelligence/week05/Alpha-Beta Pruning.md",
-    "COMPSCI367 - Artificial Intelligence/week05/candidate solution-GARETH.md",
-    "COMPSCI367 - Artificial Intelligence/week05/Alpha-Beta Pruning-GARETH.md",
-    "COMPSCI367 - Artificial Intelligence/week05/Adversarial Search.md",
-    "COMPSCI367 - Artificial Intelligence/week05/(partially) cooperative multi-agent environment.md",
-    "COMPSCI367 - Artificial Intelligence/week06/syntax.md",
-    "COMPSCI367 - Artificial Intelligence/week05/Adversarial Search-GARETH.md",
-    "COMPSCI367 - Artificial Intelligence/week06/Wumpus World Agent-GARETH.md",
-    "COMPSCI367 - Artificial Intelligence/week06/syntax-GARETH.md",
-    "COMPSCI367 - Artificial Intelligence/week06/Structured Representation.md",
-    "COMPSCI367 - Artificial Intelligence/week06/Structured Representation-GARETH.md",
-    "COMPSCI367 - Artificial Intelligence/week06/Propositional Logic with Wumpus World.md",
-    "COMPSCI367 - Artificial Intelligence/week06/sentence-GARETH.md",
-    "COMPSCI367 - Artificial Intelligence/week06/semantics-GARETH.md",
-    "COMPSCI367 - Artificial Intelligence/week06/satisfiable-GARETH.md",
-    "COMPSCI367 - Artificial Intelligence/week06/Satisfiability Problem (SAT)-GARETH.md",
-    "COMPSCI367 - Artificial Intelligence/week06/SAT solvers-GARETH.md",
-    "COMPSCI367 - Artificial Intelligence/week06/Reasoning-GARETH.md",
+    "COMPSCI367 - Artificial Intelligence/week04/Random-Restarts with 8-Queens.md",
+    "COMPSCI367 - Artificial Intelligence/week04/Random-Restart Hill Climbing.md",
+    "COMPSCI367 - Artificial Intelligence/week04/Random-Restart Hill Climbing-GARETH.md",
+    "COMPSCI367 - Artificial Intelligence/week04/Random Walk Hill-Climbing.md",
+    "COMPSCI367 - Artificial Intelligence/week04/Random Walk & Random Restart Hill-Climbing.md",
+    "COMPSCI367 - Artificial Intelligence/week04/Random Walk & Random Restart Hill-Climbing-GARETH.md",
+    "COMPSCI367 - Artificial Intelligence/week04/Probabilistic Approximately Complete (PAC).md",
+    "COMPSCI367 - Artificial Intelligence/week04/Probabilistic Hill-Climbing-GARETH.md",
+    "COMPSCI367 - Artificial Intelligence/week04/minimises.md",
+    "COMPSCI367 - Artificial Intelligence/week04/maximises.md",
+    "COMPSCI367 - Artificial Intelligence/week04/Local Search in Continuous Space.md",
+    "COMPSCI367 - Artificial Intelligence/week04/Local Search in Continuous Space-GARETH.md",
+    "COMPSCI367 - Artificial Intelligence/week04/Local Optima.md",
+    "COMPSCI367 - Artificial Intelligence/week04/Iterative Best Improvement (IBI).md",
+    "COMPSCI367 - Artificial Intelligence/week04/Iterative Best Improvement (IBI)-GARETH.md",
+    "COMPSCI367 - Artificial Intelligence/week04/Hill-Climbing with side-way moves on the 8-Queens.md",
+    "COMPSCI367 - Artificial Intelligence/week04/Hill-Climbing-GARETH.md",
+    "COMPSCI367 - Artificial Intelligence/week04/Hill-Climbing with side-way moves.md",
+    "COMPSCI367 - Artificial Intelligence/week04/Difference between Stochastic & First-Choice Hill-Climbing.md",
+    "COMPSCI367 - Artificial Intelligence/week04/Hill-Climbing with 8-Queens-GARETH.md",
+    "COMPSCI367 - Artificial Intelligence/week04/Gradient descent-GARETH.md",
+    "COMPSCI367 - Artificial Intelligence/week04/Enforced Hill-Climbing-GARETH.md",
+    "COMPSCI367 - Artificial Intelligence/week04/Difference between Stochastic & First-Choice Hill-Climbing-GARETH.md",
+    "COMPSCI367 - Artificial Intelligence/week04/Diagonal ridges.md",
+    "COMPSCI367 - Artificial Intelligence/week04/Continuous Space (Continuous Functions).md",
+    "COMPSCI367 - Artificial Intelligence/week05/Solving Optimisation problems.md",
     "@images/quicklatex.com-557f65414714e2cde89ee6709e65a857_l3-GARETH.svg",
     "COMPSCI367 - Artificial Intelligence/week08",
     "COMPSCI367 - Artificial Intelligence/week07",
