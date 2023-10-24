@@ -11,7 +11,10 @@ finding a plan by converting the problem into a [[Propositional Knowledge Base]]
 ![[Pasted image 20231024160111.png]]
 ![[Pasted image 20231024160613.png]]
 ## Disadvantages
-
+- [[planning]] problem usually requires a large [[Propositional Knowledge Base]]:
+	- [[TranslateToSAT]] needs to create
+	- $(Tmax +1) \times |Obj|^Argsp$
+	- 
 
 
 >conjunctive normal form not being tested
