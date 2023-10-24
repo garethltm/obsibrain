@@ -32,6 +32,7 @@ $p(C\tiny k \normalsize\ |\ x1,...,xn)$
 - bad news because of many possibilities
 
 #### Probability of a +sentiment given our string
-$$P(A\ |B) = \frac {P(A\cap B)}{P(B)}$$
-
+$$P(A\ |\ B) = \frac {P(A\cap B)}{P(B)}$$
+which is the same as
+$$\frac {+sentiment\ \land\ String}{All\ instance}$$
 
