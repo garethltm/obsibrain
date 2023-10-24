@@ -99,7 +99,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week09/Planning.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week09/Classical Planning.md",
                 "mode": "source",
                 "source": false
               }
@@ -131,7 +131,7 @@
                 "state": {
                   "type": "outgoing-link",
                   "state": {
-                    "file": "COMPSCI367 - Artificial Intelligence/week09/Planning.md",
+                    "file": "COMPSCI367 - Artificial Intelligence/week09/Classical Planning.md",
                     "linksCollapsed": false,
                     "unlinkedCollapsed": true
                   }
@@ -143,7 +143,7 @@
                 "state": {
                   "type": "backlink",
                   "state": {
-                    "file": "COMPSCI367 - Artificial Intelligence/week09/Planning.md",
+                    "file": "COMPSCI367 - Artificial Intelligence/week09/Classical Planning.md",
                     "collapseAll": false,
                     "extraContext": false,
                     "sortOrder": "alphabetical",
@@ -277,7 +277,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week09/Planning.md"
+                "file": "COMPSCI367 - Artificial Intelligence/week09/Classical Planning.md"
               }
             }
           },
@@ -318,8 +318,9 @@
   },
   "active": "3dd87e27a1a2fba3",
   "lastOpenFiles": [
-    "COMPSCI367 - Artificial Intelligence/week09/Classical Planning.md",
+    "@images/Pasted image 20231024150510.png",
     "COMPSCI367 - Artificial Intelligence/week09/Planning.md",
+    "COMPSCI367 - Artificial Intelligence/week09/Classical Planning.md",
     "COMPSCI367 - Artificial Intelligence/week09/Planning task.md",
     "COMPSCI367 - Artificial Intelligence/week09/Bayes Nets.md",
     "COMPSCI367 - Artificial Intelligence/week09/First Order Bayes Nets.md",
@@ -345,7 +346,6 @@
     "@images/Untitled 6.png",
     "COMPSCI367 - Artificial Intelligence/week09/Backward Planning.md",
     "@images/Untitled 5.png",
-    "COMPSCI367 - Artificial Intelligence/week09/Domain file.md",
     "COMPSCI367 - Artificial Intelligence/week09",
     "@images/Untitled 4.png",
     "@images/Untitled 3.png",
