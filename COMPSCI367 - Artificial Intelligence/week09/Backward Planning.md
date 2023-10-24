@@ -8,8 +8,7 @@ start from [[goal(s) - goal state(s)]] & checking whether you reach the [[initia
 	    <aside> 💡 as long as there is an effect that doesn’t go away from the goal</aside>
     - In this case, we write `action a` ∈ `Relevant(g)`
     
-2. regressed subgoal → from `goal g` over `action a` is:
+2. regressed [[subgoal]] → from `goal g` over `action a` is:
     - `Regress(g,a)` = (`goal g` \ `Add(a)`) ∪ `Precond(a)`
 
-		<aside> 💡 Backward planning can be more effective in certain context
-		</aside>
+		<aside> 💡 Backward planning can be more effective in certain context</aside>
