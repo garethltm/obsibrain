@@ -1,6 +1,6 @@
 - strings of symbols that convey some sort of meaning
 
-### Aspects of [[Language]]
+### Aspects of [[language(s)]]
 - Phones
 - Phonemes
 - Paragraphs
@@ -19,4 +19,4 @@
 ##### [[Logic]] & KR Exercises
 - [[syntax]]
 - [[semantics]]
-- Pragmatics (how [[Language]] is used)
+- Pragmatics (how [[language(s)]] is used)

@@ -1,4 +1,4 @@
-- - provides a simple formal [[Language]] frame work. In this framework, we may specify sentences recursively:
+- - provides a simple formal [[language(s)]] frame work. In this framework, we may specify sentences recursively:
 	- [[Atomic Propositions (atoms)]]
 	- [[proposition]]
 - the lowest level of logic there is, not very convenient to use. 
