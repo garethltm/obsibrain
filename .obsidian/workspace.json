@@ -99,7 +99,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week06/SAT solvers.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week09/Arithmetic.md",
                 "mode": "source",
                 "source": false
               }
@@ -131,7 +131,7 @@
                 "state": {
                   "type": "outgoing-link",
                   "state": {
-                    "file": "COMPSCI367 - Artificial Intelligence/week06/SAT solvers.md",
+                    "file": "COMPSCI367 - Artificial Intelligence/week09/Arithmetic.md",
                     "linksCollapsed": false,
                     "unlinkedCollapsed": true
                   }
@@ -143,7 +143,7 @@
                 "state": {
                   "type": "backlink",
                   "state": {
-                    "file": "COMPSCI367 - Artificial Intelligence/week06/SAT solvers.md",
+                    "file": "COMPSCI367 - Artificial Intelligence/week09/Arithmetic.md",
                     "collapseAll": false,
                     "extraContext": false,
                     "sortOrder": "alphabetical",
@@ -277,7 +277,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week06/SAT solvers.md"
+                "file": "COMPSCI367 - Artificial Intelligence/week09/Arithmetic.md"
               }
             }
           },
@@ -316,23 +316,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3dd87e27a1a2fba3",
+  "active": "3ad179677b7fba41",
   "lastOpenFiles": [
-    "COMPSCI367 - Artificial Intelligence/week09/TranslateToSAT.md",
-    "COMPSCI367 - Artificial Intelligence/week06/SAT solvers.md",
-    "COMPSCI367 - Artificial Intelligence/week06/proposition.md",
+    "COMPSCI367 - Artificial Intelligence/week09/search.md",
+    "COMPSCI367 - Artificial Intelligence/week09/Forward Planning.md",
     "COMPSCI367 - Artificial Intelligence/week09/SATPlan.md",
+    "COMPSCI367 - Artificial Intelligence/week06/SAT solvers.md",
+    "COMPSCI367 - Artificial Intelligence/week09/TranslateToSAT.md",
+    "COMPSCI367 - Artificial Intelligence/week06/proposition.md",
     "COMPSCI367 - Artificial Intelligence/week06/Propositional Knowledge Base.md",
     "COMPSCI367 - Artificial Intelligence/week09/ExtractPlan.md",
     "COMPSCI367 - Artificial Intelligence/week09/Classical Planning.md",
-    "COMPSCI367 - Artificial Intelligence/week09/search.md",
     "COMPSCI367 - Artificial Intelligence/week06/Satisfiability Problem (SAT).md",
     "COMPSCI367 - Artificial Intelligence/week09/Logic-based Planning algorithms.md",
     "COMPSCI367 - Artificial Intelligence/week06/interpretation.md",
     "COMPSCI367 - Artificial Intelligence/week06/Knowledge Base (KB).md",
     "@images/Untitled 6.png",
     "COMPSCI367 - Artificial Intelligence/week09/Backward Planning.md",
-    "COMPSCI367 - Artificial Intelligence/week09/Forward Planning.md",
     "@images/Untitled 5.png",
     "COMPSCI367 - Artificial Intelligence/week09/Domain file.md",
     "COMPSCI367 - Artificial Intelligence/week09/Building a planner.md",
