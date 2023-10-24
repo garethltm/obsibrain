@@ -13,5 +13,7 @@
 
 ## Classification: Probability of a string
 ![[Pasted image 20231024181746.png]]
+$P_{em}(\text{``I don't like the sausage rolls at this tea rooms"})=\,?​$
 - we could find documents that have this exact string
-	- 
+	- but this could be a low probability which is not very informative
+- Instead, we could break the [[sentence]] into parts, find releve
