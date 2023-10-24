@@ -1,0 +1,1 @@
+- [[First Order Bayes Nets]] 

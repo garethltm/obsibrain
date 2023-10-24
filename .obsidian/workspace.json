@@ -99,7 +99,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week09/Probability Theory.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week09/Bayes Nets.md",
                 "mode": "source",
                 "source": false
               }
@@ -131,7 +131,7 @@
                 "state": {
                   "type": "outgoing-link",
                   "state": {
-                    "file": "COMPSCI367 - Artificial Intelligence/week09/Probability Theory.md",
+                    "file": "COMPSCI367 - Artificial Intelligence/week09/Bayes Nets.md",
                     "linksCollapsed": false,
                     "unlinkedCollapsed": true
                   }
@@ -143,7 +143,7 @@
                 "state": {
                   "type": "backlink",
                   "state": {
-                    "file": "COMPSCI367 - Artificial Intelligence/week09/Probability Theory.md",
+                    "file": "COMPSCI367 - Artificial Intelligence/week09/Bayes Nets.md",
                     "collapseAll": false,
                     "extraContext": false,
                     "sortOrder": "alphabetical",
@@ -250,7 +250,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 209.5
   },
   "right": {
     "id": "29204b37fc003a9a",
@@ -277,7 +277,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week09/Probability Theory.md"
+                "file": "COMPSCI367 - Artificial Intelligence/week09/Bayes Nets.md"
               }
             }
           },
@@ -318,8 +318,11 @@
   },
   "active": "3dd87e27a1a2fba3",
   "lastOpenFiles": [
-    "COMPSCI367 - Artificial Intelligence/week09/Probability.md",
+    "COMPSCI367 - Artificial Intelligence/week09/First Order Bayes Nets.md",
+    "COMPSCI367 - Artificial Intelligence/week09/Bayes Nets.md",
+    "COMPSCI367 - Artificial Intelligence/week09/Problog.md",
     "COMPSCI367 - Artificial Intelligence/week09/Probability Theory.md",
+    "COMPSCI367 - Artificial Intelligence/week09/Probability.md",
     "COMPSCI367 - Artificial Intelligence/week09/Probabilistic Reasoning.md",
     "COMPSCI367 - Artificial Intelligence/week08/Arithmetic.md",
     "COMPSCI367 - Artificial Intelligence/week09/PDDL implementation.md",
@@ -343,9 +346,6 @@
     "COMPSCI367 - Artificial Intelligence/week09/Domain file.md",
     "COMPSCI367 - Artificial Intelligence/week09/Building a planner.md",
     "COMPSCI367 - Artificial Intelligence/week08/Search-based.md",
-    "COMPSCI367 - Artificial Intelligence/week08/logic.md",
-    "COMPSCI367 - Artificial Intelligence/week09/Problem file.md",
-    "COMPSCI367 - Artificial Intelligence/week09/Remote Agent.md",
     "COMPSCI367 - Artificial Intelligence/week09",
     "@images/Untitled 4.png",
     "@images/Untitled 3.png",
