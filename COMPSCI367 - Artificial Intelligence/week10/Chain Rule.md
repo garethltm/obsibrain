@@ -1,2 +1,3 @@
 - $H(X,Y) = H(X) + H(Y|X)$
-	- combination of 
+	- combination of [[Joint Entropy]] & [[Conditional Entropy]]
+- H(X\tiny 1\normalsize ,...,X\tiny n \normalsize) = 
