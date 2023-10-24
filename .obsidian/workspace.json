@@ -86,7 +86,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week09/First Order Bayes Nets.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week09/Probabilisitc Logic.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
                 "state": {
                   "type": "outgoing-link",
                   "state": {
-                    "file": "COMPSCI367 - Artificial Intelligence/week09/First Order Bayes Nets.md",
+                    "file": "COMPSCI367 - Artificial Intelligence/week09/Probabilisitc Logic.md",
                     "linksCollapsed": false,
                     "unlinkedCollapsed": true
                   }
@@ -128,7 +128,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "COMPSCI367 - Artificial Intelligence/week09/First Order Bayes Nets.md",
+                    "file": "COMPSCI367 - Artificial Intelligence/week09/Probabilisitc Logic.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -237,7 +237,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week09/First Order Bayes Nets.md"
+                "file": "COMPSCI367 - Artificial Intelligence/week09/Probabilisitc Logic.md"
               }
             }
           },
@@ -278,6 +278,8 @@
   },
   "active": "2602e13c15239a89",
   "lastOpenFiles": [
+    "COMPSCI367 - Artificial Intelligence/week09/First Order Bayes Nets.md",
+    "@images/Pasted image 20231024163958.png",
     "@images/Pasted image 20231024163917.png",
     "COMPSCI367 - Artificial Intelligence/week09/Bayes Nets.md",
     "@images/Pasted image 20231024163825.png",
@@ -299,8 +301,6 @@
     "COMPSCI367 - Artificial Intelligence/week09/uncertainty.md",
     "COMPSCI367 - Artificial Intelligence/week09/Probability.md",
     "COMPSCI367 - Artificial Intelligence/week07/Modus Ponens (MP).md",
-    "@images/Pasted image 20231024162358.png",
-    "@images/Pasted image 20231024162355.png",
     "COMPSCI367 - Artificial Intelligence/week08/Lifting.md",
     "COMPSCI367 - Artificial Intelligence/week09/SATPlan.md",
     "COMPSCI367 - Artificial Intelligence/week09/domain-independent heuristic.md",
