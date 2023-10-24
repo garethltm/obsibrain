@@ -99,7 +99,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week06/SAT solvers.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week09/SATPlan.md",
                 "mode": "source",
                 "source": false
               }
@@ -123,7 +123,7 @@
                 "state": {
                   "type": "outgoing-link",
                   "state": {
-                    "file": "COMPSCI367 - Artificial Intelligence/week06/SAT solvers.md",
+                    "file": "COMPSCI367 - Artificial Intelligence/week09/SATPlan.md",
                     "linksCollapsed": false,
                     "unlinkedCollapsed": true
                   }
@@ -251,7 +251,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week06/SAT solvers.md"
+                "file": "COMPSCI367 - Artificial Intelligence/week09/SATPlan.md"
               }
             }
           },
@@ -292,11 +292,12 @@
   },
   "active": "3dd87e27a1a2fba3",
   "lastOpenFiles": [
+    "COMPSCI367 - Artificial Intelligence/week09/ExtractPlan.md",
     "COMPSCI367 - Artificial Intelligence/week09/SATPlan.md",
+    "COMPSCI367 - Artificial Intelligence/week06/SAT solvers.md",
     "@images/Pasted image 20231024160111.png",
     "COMPSCI367 - Artificial Intelligence/week06/Satisfiability Problem (SAT).md",
     "COMPSCI367 - Artificial Intelligence/week06/Propositional Knowledge Base.md",
-    "COMPSCI367 - Artificial Intelligence/week06/SAT solvers.md",
     "@images/Pasted image 20231024155646.png",
     "@images/Pasted image 20231024155559.png",
     "COMPSCI367 - Artificial Intelligence/week09/Logic-based Planning Algorithms.md",
@@ -319,7 +320,6 @@
     "Backward (Regression) planning.md",
     "Untitled.canvas",
     "COMPSCI367 - Artificial Intelligence/week09/Domain file.md",
-    "COMPSCI367 - Artificial Intelligence/week09/ExtractPlan.md",
     "COMPSCI367 - Artificial Intelligence/week09/First Order Bayes Nets.md",
     "COMPSCI367 - Artificial Intelligence/week09/Task description.md",
     "COMPSCI367 - Artificial Intelligence/week02/state(s).md",

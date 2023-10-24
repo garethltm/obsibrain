@@ -1,1 +1,1 @@
-If [[goal(s) - goal state(s)]] can be achieved, extract [[action(s)]] variables at each time 1≤ i ≤ t to form a plan
+If [[goal(s) - goal state(s)]] can be achieved, extract [[action(s)]] variables at each time 1≤ i ≤ t to form a [[plan]]
