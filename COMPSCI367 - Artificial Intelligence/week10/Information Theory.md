@@ -4,3 +4,5 @@
 		data rate < channel capacity
 - Idea of [[Entropy]]
 - [[Data compression]]
+- Truly random data can't be compressed
+	- Ordered 
