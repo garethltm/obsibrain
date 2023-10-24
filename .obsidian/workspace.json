@@ -99,7 +99,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week09/Search-based Planning Algorithm.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week09/Logic-based Planning algorithms.md",
                 "mode": "source",
                 "source": false
               }
@@ -123,7 +123,7 @@
                 "state": {
                   "type": "outgoing-link",
                   "state": {
-                    "file": "COMPSCI367 - Artificial Intelligence/week09/Search-based Planning Algorithm.md",
+                    "file": "COMPSCI367 - Artificial Intelligence/week09/Logic-based Planning algorithms.md",
                     "linksCollapsed": false,
                     "unlinkedCollapsed": true
                   }
@@ -220,8 +220,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -252,7 +251,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week09/Search-based Planning Algorithm.md"
+                "file": "COMPSCI367 - Artificial Intelligence/week09/Logic-based Planning algorithms.md"
               }
             }
           },
@@ -293,12 +292,13 @@
   },
   "active": "3dd87e27a1a2fba3",
   "lastOpenFiles": [
-    "COMPSCI367 - Artificial Intelligence/week09/Building a planner.md",
+    "COMPSCI367 - Artificial Intelligence/week09/Forward (Progression) planning.md",
     "COMPSCI367 - Artificial Intelligence/week09/Search-based Planning Algorithm.md",
+    "COMPSCI367 - Artificial Intelligence/week09/search.md",
+    "COMPSCI367 - Artificial Intelligence/week09/Building a planner.md",
     "COMPSCI367 - Artificial Intelligence/week09/Logic-based Planning algorithms.md",
     "COMPSCI367 - Artificial Intelligence/week09/Backward (Regression) planning.md",
     "@images/Pasted image 20231024154715.png",
-    "COMPSCI367 - Artificial Intelligence/week09/Forward (Progression) planning.md",
     "@images/Pasted image 20231024154602.png",
     "@images/Pasted image 20231024154323.png",
     "@images/Pasted image 20231024154304.png",
@@ -308,7 +308,6 @@
     "COMPSCI367 - Artificial Intelligence/week09/Planning task.md",
     "COMPSCI367 - Artificial Intelligence/week09/Classical Planning.md",
     "COMPSCI367 - Artificial Intelligence/week06/Structured Representation.md",
-    "COMPSCI367 - Artificial Intelligence/week09/search.md",
     "Backward (Regression) planning.md",
     "Untitled.canvas",
     "COMPSCI367 - Artificial Intelligence/week09/Domain file.md",
