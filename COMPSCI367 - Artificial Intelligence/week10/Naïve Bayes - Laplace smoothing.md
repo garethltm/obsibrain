@@ -9,3 +9,5 @@ we use a smoothed estimate of the [[probability]]:
 $$\hat{P}(\large v\tiny i\normalsize)=\frac {\large c\tiny i\ \normalsize +\ \alpha}{N\ +\ \alpha d}=\frac {\large c\tiny i\ \normalsize +\ 1}{N\ +\ d}(for\ add-one\ case)$$
 - for the case of [[Laplace smoothing (add-one smoothing)]]
 	- we add 1 to each term of the count
+
+![[Pasted image 20231025003904.png]]
