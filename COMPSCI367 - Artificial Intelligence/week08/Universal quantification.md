@@ -1,0 +1,1 @@
+cold(wellington). rainy(auckland). snowy(X):- rainy(X), cold(X).
