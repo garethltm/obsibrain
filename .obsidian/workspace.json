@@ -6,7 +6,7 @@
       {
         "id": "e1ccbf259f6ba816",
         "type": "tabs",
-        "dimension": 70.51724137931035,
+        "dimension": 65.14360313315926,
         "children": [
           {
             "id": "bcc7a7b87dd8df83",
@@ -75,7 +75,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week08/Unification.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week08/Logic Programming.md",
                 "mode": "source",
                 "source": false
               }
@@ -99,7 +99,7 @@
       {
         "id": "992e264c1b226738",
         "type": "split",
-        "dimension": 29.48275862068965,
+        "dimension": 34.85639686684073,
         "children": [
           {
             "id": "8d459d1c85b8b9ed",
@@ -224,7 +224,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week08/Unification.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week08/Logic Programming.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -241,7 +241,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week08/Unification.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week08/Logic Programming.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -264,7 +264,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week08/Unification.md"
+                "file": "COMPSCI367 - Artificial Intelligence/week08/Logic Programming.md"
               }
             }
           },
@@ -298,8 +298,10 @@
   },
   "active": "d0f61cd9fefb8c2d",
   "lastOpenFiles": [
-    "COMPSCI367 - Artificial Intelligence/week08/Generalised Modus Ponens (GMP).md",
+    "COMPSCI367 - Artificial Intelligence/week08/algorithm.md",
+    "COMPSCI367 - Artificial Intelligence/week08/Logic Programming.md",
     "COMPSCI367 - Artificial Intelligence/week08/Unification.md",
+    "COMPSCI367 - Artificial Intelligence/week08/Generalised Modus Ponens (GMP).md",
     "COMPSCI367 - Artificial Intelligence/week06/Compound Propositions (Compound Entities).md",
     "COMPSCI367 - Artificial Intelligence/week06/Compound Propositions (Compound Entities)-GARETH.md",
     "COMPSCI367 - Artificial Intelligence/week07/Definite Clause Inference Engine.md",
@@ -322,8 +324,6 @@
     "INFOSYS222 - Database Systems/Hierarchy-GARETH.md",
     "INFOSYS222 - Database Systems/Database Management.md",
     "INFOSYS222 - Database Systems/Database Management-GARETH.md",
-    "INFOSYS222 - Database Systems/Conceptual to Logical-GARETH.md",
-    "INFOSYS222 - Database Systems/Chen's ERD Notation-GARETH.md",
     "@images/quicklatex.com-557f65414714e2cde89ee6709e65a857_l3-GARETH.svg",
     "COMPSCI367 - Artificial Intelligence/week08",
     "COMPSCI367 - Artificial Intelligence/week07",
