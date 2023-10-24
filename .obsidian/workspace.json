@@ -225,7 +225,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "gareth",
+                "query": "language model",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -242,7 +242,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -334,10 +335,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d0f61cd9fefb8c2d",
+  "active": "a6e0090ac9cbd1f3",
   "lastOpenFiles": [
-    "COMPSCI367 - Artificial Intelligence/week10/Translation Model.md",
+    "COMPSCI367 - Artificial Intelligence/week10/Language Model.md",
     "COMPSCI367 - Artificial Intelligence/week10/Statistical Language Model.md",
+    "COMPSCI367 - Artificial Intelligence/week10/Translation Model.md",
     "COMPSCI367 - Artificial Intelligence/week10/Machine Translation.md",
     "COMPSCI367 - Artificial Intelligence/week10/Laplace smoothing (add-one smoothing).md",
     "COMPSCI367 - Artificial Intelligence/week10/Mutual Information.md",
@@ -365,7 +367,6 @@
     "COMPSCI367 - Artificial Intelligence/week10/Shallow NLP.md",
     "COMPSCI367 - Artificial Intelligence/week10/Naïve Bayes classification.md",
     "COMPSCI367 - Artificial Intelligence/week10/Naïve Bayes - Laplace smoothing.md",
-    "COMPSCI367 - Artificial Intelligence/week10/Modern Problems - More subsequent lectures.md",
     "@images/Pasted image 20231025012028.png",
     "@images/Pasted image 20231025011003.png",
     "@images/Pasted image 20231025010549.png",
