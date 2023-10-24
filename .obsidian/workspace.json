@@ -86,27 +86,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week08/Unification in queries.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week09/Untitled.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "3dd87e27a1a2fba3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week09/Problog.md",
-                "mode": "source",
-                "source": false
-              }
-            },
-            "group": "6264df0038d4b3d6"
           }
         ],
-        "currentTab": 7
+        "currentTab": 6
       },
       {
         "id": "992e264c1b226738",
@@ -123,7 +110,7 @@
                 "state": {
                   "type": "outgoing-link",
                   "state": {
-                    "file": "COMPSCI367 - Artificial Intelligence/week09/Problog.md",
+                    "file": "COMPSCI367 - Artificial Intelligence/week09/Untitled.md",
                     "linksCollapsed": false,
                     "unlinkedCollapsed": true
                   }
@@ -141,7 +128,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "COMPSCI367 - Artificial Intelligence/week09/Problog.md",
+                    "file": "COMPSCI367 - Artificial Intelligence/week09/Untitled.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -168,8 +155,7 @@
                       "close": true
                     }
                   }
-                },
-                "group": "6264df0038d4b3d6"
+                }
               }
             ]
           }
@@ -251,7 +237,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week09/Problog.md"
+                "file": "COMPSCI367 - Artificial Intelligence/week09/Untitled.md"
               }
             }
           },
@@ -290,15 +276,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3dd87e27a1a2fba3",
+  "active": "2602e13c15239a89",
   "lastOpenFiles": [
-    "COMPSCI367 - Artificial Intelligence/week06/Propositional Logic.md",
+    "COMPSCI367 - Artificial Intelligence/week08/Unification in queries.md",
+    "COMPSCI367 - Artificial Intelligence/week09/Untitled.md",
+    "COMPSCI367 - Artificial Intelligence/week09/Noisy OR.md",
+    "@images/Pasted image 20231024163500.png",
     "COMPSCI367 - Artificial Intelligence/week09/Problog.md",
+    "COMPSCI367 - Artificial Intelligence/week06/Propositional Logic.md",
     "@images/Pasted image 20231024163316.png",
     "@images/Pasted image 20231024163223.png",
     "@images/Pasted image 20231024163144.png",
     "COMPSCI367 - Artificial Intelligence/week09/Probabilisitc Logic.md",
-    "COMPSCI367 - Artificial Intelligence/week09/Untitled.md",
     "COMPSCI367 - Artificial Intelligence/week09/Probability Theory.md",
     "COMPSCI367 - Artificial Intelligence/week09/uncertainty.md",
     "COMPSCI367 - Artificial Intelligence/week09/Probability.md",
@@ -314,7 +303,6 @@
     "@images/COMPSCI3672023_S2W09ClassicalPlan2of2-21.jpg",
     "@images/COMPSCI3672023_S2W09ClassicalPlan2of2-20.jpg",
     "@images/COMPSCI3672023_S2W09ClassicalPlan2of2-19.jpg",
-    "@images/Pasted image 20231024160716.png",
     "COMPSCI367 - Artificial Intelligence/week09/ExtractPlan.md",
     "COMPSCI367 - Artificial Intelligence/week06/SAT solvers.md",
     "COMPSCI367 - Artificial Intelligence/week06/Satisfiability Problem (SAT).md",
@@ -326,8 +314,6 @@
     "COMPSCI367 - Artificial Intelligence/week09/Forward (Progression) planning.md",
     "COMPSCI367 - Artificial Intelligence/week09/search.md",
     "COMPSCI367 - Artificial Intelligence/week09/Building a planner.md",
-    "COMPSCI367 - Artificial Intelligence/week09/Backward (Regression) planning.md",
-    "COMPSCI367 - Artificial Intelligence/week09/plan.md",
     "Untitled.canvas",
     "COMPSCI367 - Artificial Intelligence/week09",
     "COMPSCI367 - Artificial Intelligence/week08",
