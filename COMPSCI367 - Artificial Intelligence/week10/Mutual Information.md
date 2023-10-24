@@ -19,3 +19,4 @@ $$I(X;Y) =$$
 
 - [[Mutual Information]] grows with the dependence between variables & their [[Entropy (or self-information)]]
 >		how dependent are they on each other & how much information do they contain?
+

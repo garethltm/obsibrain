@@ -73,8 +73,12 @@
             "id": "d0f61cd9fefb8c2d",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "COMPSCI367 - Artificial Intelligence/week10/Mutual Information.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
@@ -220,6 +224,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "COMPSCI367 - Artificial Intelligence/week10/Mutual Information.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -236,6 +241,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "COMPSCI367 - Artificial Intelligence/week10/Mutual Information.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -257,7 +263,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "COMPSCI367 - Artificial Intelligence/week10/Mutual Information.md"
+              }
             }
           },
           {
@@ -288,7 +296,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d0f61cd9fefb8c2d",
+  "active": "3ad179677b7fba41",
   "lastOpenFiles": [
     "COMPSCI367 - Artificial Intelligence/week05/Population-based Search.md",
     "COMPSCI367 - Artificial Intelligence/week10/term specificity.md",
