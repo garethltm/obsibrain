@@ -1,2 +1,3 @@
-$$C\tiny MAP\normalsize = arg\ max\ P(x,\small c\tiny k\normalsize)$$
-- where $c\tiny k$ 
+$$C\tiny MAP\normalsize = arg\ max\ P(x,\large c\tiny k\normalsize)$$
+- where $\large c\tiny k\normalsize$ ∈ C
+- But, need to know for e
