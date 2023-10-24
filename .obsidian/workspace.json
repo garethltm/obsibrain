@@ -224,7 +224,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 513.5
+    "width": 236.5
   },
   "right": {
     "id": "29204b37fc003a9a",
@@ -292,6 +292,8 @@
   },
   "active": "3dd87e27a1a2fba3",
   "lastOpenFiles": [
+    "@images/Pasted image 20231024163316.png",
+    "@images/Pasted image 20231024163223.png",
     "@images/Pasted image 20231024163144.png",
     "COMPSCI367 - Artificial Intelligence/week09/Probabilisitc Logic.md",
     "COMPSCI367 - Artificial Intelligence/week09/Untitled.md",
@@ -314,10 +316,8 @@
     "@images/Pasted image 20231024160613.png",
     "COMPSCI367 - Artificial Intelligence/week09/ExtractPlan.md",
     "COMPSCI367 - Artificial Intelligence/week06/SAT solvers.md",
-    "@images/Pasted image 20231024160111.png",
     "COMPSCI367 - Artificial Intelligence/week06/Satisfiability Problem (SAT).md",
     "COMPSCI367 - Artificial Intelligence/week06/Propositional Knowledge Base.md",
-    "@images/Pasted image 20231024155646.png",
     "COMPSCI367 - Artificial Intelligence/week09/planning.md",
     "COMPSCI367 - Artificial Intelligence/week09/Planning task.md",
     "COMPSCI367 - Artificial Intelligence/week09/Search-based Planning Algorithm.md",
