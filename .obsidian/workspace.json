@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week10/Pipelined NLP.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week10/Shallow NLP.md",
                 "mode": "source",
                 "source": false
               }
@@ -34,7 +34,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week10/Pipelined NLP.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week10/Shallow NLP.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week10/Pipelined NLP.md"
+                "file": "COMPSCI367 - Artificial Intelligence/week10/Shallow NLP.md"
               }
             }
           },
@@ -183,6 +183,7 @@
   "active": "0ac46519bebe99ac",
   "lastOpenFiles": [
     "COMPSCI367 - Artificial Intelligence/week10/Natural Language Processing (NLP).md",
+    "COMPSCI367 - Artificial Intelligence/week10/Shallow NLP.md",
     "COMPSCI367 - Artificial Intelligence/week10/Pipelined NLP.md",
     "COMPSCI367 - Artificial Intelligence/week10/Why use language.md",
     "COMPSCI367 - Artificial Intelligence/week06/Language.md",
@@ -218,7 +219,6 @@
     "COMPSCI367 - Artificial Intelligence/week09/Probability.md",
     "COMPSCI367 - Artificial Intelligence/week07/Modus Ponens (MP).md",
     "COMPSCI367 - Artificial Intelligence/week08/Lifting.md",
-    "COMPSCI367 - Artificial Intelligence/week09/SATPlan.md",
     "Untitled.canvas",
     "COMPSCI367 - Artificial Intelligence/week09",
     "COMPSCI367 - Artificial Intelligence/week08",

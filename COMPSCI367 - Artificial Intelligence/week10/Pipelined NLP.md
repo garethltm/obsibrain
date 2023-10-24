@@ -5,3 +5,5 @@
 3. Word Boundaries
 4. Punctuation
 5. Lemmatisation
+	- once you extracted a word 
+		- is that the base/root word
