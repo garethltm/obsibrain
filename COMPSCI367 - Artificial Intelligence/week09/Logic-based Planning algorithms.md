@@ -1,3 +1,6 @@
+- [[Propositional Logic]]
+- [[First-Order Logic]]
+
 -  [[Propositional Logic]]-based planning
 	- [[SATPlan]] ([[SAT solvers]])
 -  [[Logic Programming]]-based planning

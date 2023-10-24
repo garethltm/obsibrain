@@ -99,7 +99,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week08/Search-based.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week09/Logic-based Planning algorithms.md",
                 "mode": "source",
                 "source": false
               }
@@ -123,7 +123,7 @@
                 "state": {
                   "type": "outgoing-link",
                   "state": {
-                    "file": "COMPSCI367 - Artificial Intelligence/week08/Search-based.md",
+                    "file": "COMPSCI367 - Artificial Intelligence/week09/Logic-based Planning algorithms.md",
                     "linksCollapsed": false,
                     "unlinkedCollapsed": true
                   }
@@ -251,7 +251,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week08/Search-based.md"
+                "file": "COMPSCI367 - Artificial Intelligence/week09/Logic-based Planning algorithms.md"
               }
             }
           },
@@ -293,8 +293,8 @@
   "active": "3dd87e27a1a2fba3",
   "lastOpenFiles": [
     "COMPSCI367 - Artificial Intelligence/week09/Building a planner.md",
-    "COMPSCI367 - Artificial Intelligence/week09/Logic-based Planning algorithms.md",
     "COMPSCI367 - Artificial Intelligence/week08/Search-based.md",
+    "COMPSCI367 - Artificial Intelligence/week09/Logic-based Planning algorithms.md",
     "COMPSCI367 - Artificial Intelligence/week09/Planning.md",
     "COMPSCI367 - Artificial Intelligence/week09/Task description.md",
     "COMPSCI367 - Artificial Intelligence/week02/state(s).md",
