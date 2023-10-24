@@ -1,4 +1,5 @@
 - [[Satisfiability Problem (SAT)]] 
+- Feeding this [[proposition]] to a SAT solver which produces a goal
 
 ### Efficient implementations
 - [[DPLL algorithm]]
