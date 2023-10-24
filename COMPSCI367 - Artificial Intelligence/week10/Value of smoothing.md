@@ -1,1 +1,4 @@
-- Also called shrinkage
+- Also called shrinkage, since it shifts the [[probability]] distribution towards a uniform distribution
+	- assumes your sample is not the representative of the real world
+- This amounts to saying that we think the training data contains limited information about the true distribution
+	- trying to 
