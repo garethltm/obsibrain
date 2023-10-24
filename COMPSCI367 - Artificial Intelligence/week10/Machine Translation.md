@@ -11,4 +11,5 @@ $$\begin{equation}
 		= arg\ max\ {p(zh|mi)\ \cdot p(mi)}\\
 		\end{split}
 		\end{equation}$$
-- $arg\ max\$ 
+- $arg\ max$ $\rightarrow$ find the model that is going to maximise the [[probability]] of maori given some text in mandarin
+- we can just remove the $p(zh)$ line because 
