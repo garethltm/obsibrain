@@ -1,4 +1,4 @@
-start from [[goal(s) - goal state(s)]] & checking whether you reach the [[initial state (start state)]]
+start from [[goal(s) - goal state(s)]] & checking whether you reach the [[initial state (start state)]] by iteratively applying [[action(s)]] 
 
 ### Action Scheme
 1. `action a` is relevant to `goal g` if it satisfies **one or both** of these conditions:

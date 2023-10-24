@@ -99,7 +99,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week09/Forward (Progression) planning.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week09/Backward (Regression) planning.md",
                 "mode": "source",
                 "source": false
               }
@@ -123,7 +123,7 @@
                 "state": {
                   "type": "outgoing-link",
                   "state": {
-                    "file": "COMPSCI367 - Artificial Intelligence/week09/Forward (Progression) planning.md",
+                    "file": "COMPSCI367 - Artificial Intelligence/week09/Backward (Regression) planning.md",
                     "linksCollapsed": false,
                     "unlinkedCollapsed": true
                   }
@@ -251,7 +251,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week09/Forward (Progression) planning.md"
+                "file": "COMPSCI367 - Artificial Intelligence/week09/Backward (Regression) planning.md"
               }
             }
           },
@@ -292,6 +292,8 @@
   },
   "active": "3dd87e27a1a2fba3",
   "lastOpenFiles": [
+    "COMPSCI367 - Artificial Intelligence/week09/Forward (Progression) planning.md",
+    "@images/Pasted image 20231024154323.png",
     "@images/Pasted image 20231024154304.png",
     "@images/Pasted image 20231024154243.png",
     "COMPSCI367 - Artificial Intelligence/week09/Search-based.md",
@@ -302,7 +304,6 @@
     "COMPSCI367 - Artificial Intelligence/week09/Classical Planning.md",
     "COMPSCI367 - Artificial Intelligence/week06/Structured Representation.md",
     "COMPSCI367 - Artificial Intelligence/week09/search.md",
-    "COMPSCI367 - Artificial Intelligence/week09/Forward (Progression) planning.md",
     "Backward (Regression) planning.md",
     "Untitled.canvas",
     "COMPSCI367 - Artificial Intelligence/week09/Building a planner.md",
@@ -327,8 +328,6 @@
     "COMPSCI367 - Artificial Intelligence/week09/Problog.md",
     "COMPSCI367 - Artificial Intelligence/week09/Probability Theory.md",
     "COMPSCI367 - Artificial Intelligence/week09/Probability.md",
-    "@images/Pasted image 20231024150510.png",
-    "@images/Untitled 6.png",
     "COMPSCI367 - Artificial Intelligence/week09",
     "COMPSCI367 - Artificial Intelligence/week08",
     "COMPSCI367 - Artificial Intelligence/week07",
