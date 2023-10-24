@@ -28,5 +28,9 @@ Classifying if this is a positive sentiment or negative sentiment
 - $C\tiny 1\normalsize = +ve\ sentiment$
 - $C\tiny 2\normalsize = -ve\ sentiment$
 
-$p(C\tiny k \normalsize | x1,..)
+$p(C\tiny k \normalsize\ |\ x1,...,xn)$
+- bad news because of many possibilities
+
+
+
 
