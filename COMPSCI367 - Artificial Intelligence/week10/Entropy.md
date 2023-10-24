@@ -1,0 +1,1 @@
+measure of [[uncertainty]] $\rightarrow$ amount of information provided by some data
