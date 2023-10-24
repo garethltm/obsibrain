@@ -1,2 +1,3 @@
 - measure of [[uncertainty]] $\rightarrow$ amount of information provided by some data
-- $p(x)$ is a [[probability]] mass function over a random variable $X$ over an alphabet (a set of discrete symbols) X:
+- $p(x)$ is a [[probability]] mass function over a random variable $X$ over an alphabet (a set of discrete symbols) $X$:
+$$p(x)=P(X=x),x\in X$$
