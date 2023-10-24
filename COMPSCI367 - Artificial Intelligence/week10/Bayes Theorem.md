@@ -7,6 +7,3 @@ $$P(A\ |\ B) = \frac {P(B\ |\ A)\ \cdot\ P(A)}{P(B)}$$
 - $P(A\ |\ B)$ is the [[conditional probability]] 
 
 > they are independent events, the outcome of 1 doesn't necessarily impacts the outcome of the another
-
-## Deriving Bayes Rule
-![[Pasted image 20231024235715.png]]
