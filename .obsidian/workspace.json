@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week10/Applying Bayes Rule.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week10/Applying Bayes Rule for class ranking.md",
                 "mode": "source",
                 "source": false
               }
@@ -45,7 +45,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week10/Applying Bayes Rule.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week10/Applying Bayes Rule for class ranking.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -140,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week10/Applying Bayes Rule.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week10/Applying Bayes Rule for class ranking.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week10/Applying Bayes Rule.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week10/Applying Bayes Rule for class ranking.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -180,7 +180,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week10/Applying Bayes Rule.md"
+                "file": "COMPSCI367 - Artificial Intelligence/week10/Applying Bayes Rule for class ranking.md"
               }
             }
           },
@@ -214,8 +214,8 @@
   },
   "active": "719a9e3cda8d050c",
   "lastOpenFiles": [
-    "COMPSCI367 - Artificial Intelligence/week10/Untitled.md",
     "COMPSCI367 - Artificial Intelligence/week10/Applying Bayes Rule.md",
+    "COMPSCI367 - Artificial Intelligence/week10/Applying Bayes Rule for class ranking.md",
     "@images/Pasted image 20231025000433.png",
     "COMPSCI367 - Artificial Intelligence/week10/evidence.md",
     "COMPSCI367 - Artificial Intelligence/week10/posterior evidence (posterior).md",

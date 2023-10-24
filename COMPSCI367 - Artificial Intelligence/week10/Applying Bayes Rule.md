@@ -7,3 +7,5 @@ $$posterior = \frac {prior\ \times\ likelihood}{evidence}$$
 - [[prior evidence (prior)]]
 
 ![[Pasted image 20231025000433.png]]
+
+
