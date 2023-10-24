@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week10/Symbolic Knowledge.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week06/Language.md",
                 "mode": "source",
                 "source": false
               }
@@ -34,7 +34,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week10/Symbolic Knowledge.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week06/Language.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week10/Symbolic Knowledge.md"
+                "file": "COMPSCI367 - Artificial Intelligence/week06/Language.md"
               }
             }
           },
@@ -182,9 +182,9 @@
   },
   "active": "0ac46519bebe99ac",
   "lastOpenFiles": [
+    "COMPSCI367 - Artificial Intelligence/week10/Symbolic Knowledge.md",
     "@images/Pasted image 20231024165054.png",
     "COMPSCI367 - Artificial Intelligence/week05/Alpha-Beta Pruning.md",
-    "COMPSCI367 - Artificial Intelligence/week10/Symbolic Knowledge.md",
     "COMPSCI367 - Artificial Intelligence/week01/goal(s) - goal state(s).md",
     "COMPSCI367 - Artificial Intelligence/week06/Language.md",
     "COMPSCI367 - Artificial Intelligence/week10",
@@ -210,7 +210,6 @@
     "COMPSCI367 - Artificial Intelligence/week06/Propositional Logic.md",
     "@images/Pasted image 20231024163316.png",
     "@images/Pasted image 20231024163223.png",
-    "@images/Pasted image 20231024163144.png",
     "COMPSCI367 - Artificial Intelligence/week09/Probability Theory.md",
     "COMPSCI367 - Artificial Intelligence/week09/uncertainty.md",
     "COMPSCI367 - Artificial Intelligence/week09/Probability.md",
