@@ -21,4 +21,6 @@
 >[[Classical Planning]] vs [[Search]]
 >	different [[state(s)]] representation
 
-- [[plann]]
+- [[Classical Planning]]
+	- [[state(s)]]: structural information used by [[Classical Planning]] [[algorithm]]
+- [[Search]]

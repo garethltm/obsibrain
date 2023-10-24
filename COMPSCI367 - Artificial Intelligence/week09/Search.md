@@ -1,1 +1,2 @@
-problem solving
+- problem solving
+- possibilities of just moving from one [[stat]]
