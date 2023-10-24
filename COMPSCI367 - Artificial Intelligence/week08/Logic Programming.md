@@ -1,1 +1,1 @@
-When we are writing a program we are essentia
+When we are writing a program we are essentially writing the logic part

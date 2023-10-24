@@ -1,0 +1,1 @@
+a set of principles that delineates how elements should be arranged so a computer can perform specific tasks
