@@ -9,7 +9,9 @@ $$p(x)=P(X=x),x\in X$$
 >	If we set $X = {2,3,4,5,6,7,8,9,10,11,12}$, being the outcomes that can actually happen, we can eliminate the 0 probabilities
 
 - [[Entropy (or self-information)]] is the average [[uncertainty]] (information, in bits) of a random variable:
-$$H(p) = H(X) = -\displaystyle\sum_{x\in X}p(x)\ log \ p(x)$$
+$$H(p) = H(X) = -\displaystyle\sum_{x\in X}p(x)\times log \ p(x)$$
 ![[Pasted image 20231025010549.png]]
 - [[Entropy (or self-information)]] of [[probability]] of mass function = [[Entropy (or self-information)]] of distribution of [[probability]]
-- $-\displaystyle\sum_{x\in X}$ $\rightarrow$ negation of the sum of the [[probability]] of X(rolling some result) multiplied log ([[probability]] of x)
+- $-\displaystyle\sum_{x\in X}p(x)\times log \ p(x)$
+	- negation of the sum of the [[probability]] of X (rolling some result) 
+	- multiplied by log ([[probability]] of x)
