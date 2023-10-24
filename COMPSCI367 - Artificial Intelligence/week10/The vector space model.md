@@ -2,4 +2,4 @@
 - [[Term Frequency (tf)]]
 - [[Inverse Document Frequency (idf)]]
 - For query with terms t (eg: ("another","sample")) the best match document is:
-		$args\ max
+		$$args\ max\ \Pi \tiny i\\ \small tf()$$
