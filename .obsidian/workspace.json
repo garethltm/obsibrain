@@ -18,8 +18,7 @@
                 "mode": "source",
                 "source": false
               }
-            },
-            "group": "49e37924338b6c36"
+            }
           },
           {
             "id": "9d16bf805036e931",
@@ -99,7 +98,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week09/TranslateToSAT.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week09/SATPlan.md",
                 "mode": "source",
                 "source": false
               }
@@ -123,7 +122,6 @@
                 "state": {
                   "type": "outgoing-link",
                   "state": {
-                    "file": "COMPSCI367 - Artificial Intelligence/week09/TranslateToSAT.md",
                     "linksCollapsed": false,
                     "unlinkedCollapsed": true
                   }
@@ -136,40 +134,12 @@
             "type": "tabs",
             "children": [
               {
-                "id": "7430a6c810762936",
+                "id": "95f9269492aec5aa",
                 "type": "leaf",
                 "state": {
-                  "type": "localgraph",
-                  "state": {
-                    "file": "COMPSCI367 - Artificial Intelligence/week05/Population-based Search.md",
-                    "options": {
-                      "collapse-filter": true,
-                      "search": "",
-                      "localJumps": 1,
-                      "localBacklinks": true,
-                      "localForelinks": true,
-                      "localInterlinks": false,
-                      "showTags": false,
-                      "showAttachments": false,
-                      "hideUnresolved": false,
-                      "collapse-color-groups": true,
-                      "colorGroups": [],
-                      "collapse-display": true,
-                      "showArrow": false,
-                      "textFadeMultiplier": 0,
-                      "nodeSizeMultiplier": 1,
-                      "lineSizeMultiplier": 1,
-                      "collapse-forces": true,
-                      "centerStrength": 0.518713248970312,
-                      "repelStrength": 10,
-                      "linkStrength": 1,
-                      "linkDistance": 250,
-                      "scale": 0.5087618855792587,
-                      "close": true
-                    }
-                  }
-                },
-                "group": "49e37924338b6c36"
+                  "type": "empty",
+                  "state": {}
+                }
               }
             ]
           }
@@ -250,9 +220,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week09/TranslateToSAT.md"
-              }
+              "state": {}
             }
           },
           {
@@ -290,10 +258,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3dd87e27a1a2fba3",
+  "active": "95f9269492aec5aa",
   "lastOpenFiles": [
-    "@images/Pasted image 20231024160716.png",
     "COMPSCI367 - Artificial Intelligence/week09/SATPlan.md",
+    "COMPSCI367 - Artificial Intelligence/week09/TranslateToSAT.md",
+    "@images/COMPSCI3672023_S2W09ClassicalPlan2of2-22.jpg",
+    "@images/COMPSCI3672023_S2W09ClassicalPlan2of2-21.jpg",
+    "@images/COMPSCI3672023_S2W09ClassicalPlan2of2-20.jpg",
+    "@images/COMPSCI3672023_S2W09ClassicalPlan2of2-19.jpg",
+    "@images/Pasted image 20231024160716.png",
     "@images/Pasted image 20231024160613.png",
     "COMPSCI367 - Artificial Intelligence/week09/ExtractPlan.md",
     "COMPSCI367 - Artificial Intelligence/week06/SAT solvers.md",
@@ -312,10 +285,6 @@
     "COMPSCI367 - Artificial Intelligence/week09/Building a planner.md",
     "COMPSCI367 - Artificial Intelligence/week09/Backward (Regression) planning.md",
     "@images/Pasted image 20231024154715.png",
-    "@images/Pasted image 20231024154602.png",
-    "@images/Pasted image 20231024154323.png",
-    "@images/Pasted image 20231024154304.png",
-    "@images/Pasted image 20231024154243.png",
     "COMPSCI367 - Artificial Intelligence/week09/plan.md",
     "COMPSCI367 - Artificial Intelligence/week09/Classical Planning.md",
     "COMPSCI367 - Artificial Intelligence/week06/Structured Representation.md",
@@ -326,9 +295,7 @@
     "COMPSCI367 - Artificial Intelligence/week09/Task description.md",
     "COMPSCI367 - Artificial Intelligence/week02/state(s).md",
     "COMPSCI367 - Artificial Intelligence/week09/Problem file.md",
-    "@images/COMPSCI3672023_S2W09ClassicalPlan1of2-16.jpg",
     "COMPSCI367 - Artificial Intelligence/week09/PDDL.md",
-    "COMPSCI367 - Artificial Intelligence/week09/TranslateToSAT.md",
     "COMPSCI367 - Artificial Intelligence/week09",
     "COMPSCI367 - Artificial Intelligence/week08",
     "COMPSCI367 - Artificial Intelligence/week07",
