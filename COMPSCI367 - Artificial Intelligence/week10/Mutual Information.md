@@ -7,4 +7,5 @@
 >			$H(X,Y) = H(X) + H(Y|X) = H(Y) + H(X|Y)$
 
 Therefore, we can claim:
-- H(X) - H(X|Y) = H(Y) - H(Y|X) = I
+- $H(X) - H(X|Y) = H(Y) - H(Y|X) = I(X;Y) = I(Y;X)$
+	- $I(X;Y) = I(Y;X)$ $\rightarrow$ represents the middle are
