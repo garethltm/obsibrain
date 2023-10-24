@@ -1,1 +1,1 @@
-derive [[probability]] based on mea
+derive [[probability]] based on [[degree of belief]]
