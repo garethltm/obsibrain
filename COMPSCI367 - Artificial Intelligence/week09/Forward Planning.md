@@ -1,0 +1,1 @@
+applying [[action(s)]] & checking whether if you are closer to the [[goal(s) - goal state(s)]]
