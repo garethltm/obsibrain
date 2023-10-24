@@ -86,7 +86,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week09/Probabilistic Logic.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week09/Probabilistic Parsing.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
                 "state": {
                   "type": "outgoing-link",
                   "state": {
-                    "file": "COMPSCI367 - Artificial Intelligence/week09/Probabilistic Logic.md",
+                    "file": "COMPSCI367 - Artificial Intelligence/week09/Probabilistic Parsing.md",
                     "linksCollapsed": false,
                     "unlinkedCollapsed": true
                   }
@@ -128,7 +128,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "COMPSCI367 - Artificial Intelligence/week09/Probabilistic Logic.md",
+                    "file": "COMPSCI367 - Artificial Intelligence/week09/Probabilistic Parsing.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -237,7 +237,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week09/Probabilistic Logic.md"
+                "file": "COMPSCI367 - Artificial Intelligence/week09/Probabilistic Parsing.md"
               }
             }
           },
@@ -278,6 +278,8 @@
   },
   "active": "2602e13c15239a89",
   "lastOpenFiles": [
+    "COMPSCI367 - Artificial Intelligence/week09/Probabilistic Logic.md",
+    "COMPSCI367 - Artificial Intelligence/week09/Probabilistic Parsing.md",
     "COMPSCI367 - Artificial Intelligence/week09/First Order Bayes Nets.md",
     "@images/Pasted image 20231024163958.png",
     "@images/Pasted image 20231024163917.png",
@@ -296,7 +298,6 @@
     "@images/Pasted image 20231024163316.png",
     "@images/Pasted image 20231024163223.png",
     "@images/Pasted image 20231024163144.png",
-    "COMPSCI367 - Artificial Intelligence/week09/Probabilistic Logic.md",
     "COMPSCI367 - Artificial Intelligence/week09/Probability Theory.md",
     "COMPSCI367 - Artificial Intelligence/week09/uncertainty.md",
     "COMPSCI367 - Artificial Intelligence/week09/Probability.md",
@@ -313,7 +314,6 @@
     "COMPSCI367 - Artificial Intelligence/week09/planning.md",
     "COMPSCI367 - Artificial Intelligence/week09/Planning task.md",
     "COMPSCI367 - Artificial Intelligence/week09/Search-based Planning Algorithm.md",
-    "COMPSCI367 - Artificial Intelligence/week08/algorithm.md",
     "Untitled.canvas",
     "COMPSCI367 - Artificial Intelligence/week09",
     "COMPSCI367 - Artificial Intelligence/week08",

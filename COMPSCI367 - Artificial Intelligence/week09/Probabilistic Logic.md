@@ -3,4 +3,6 @@
 
 ### Applications
 - more flexible versions of logic-based systems
->	robot path planning $\rightarrow$ do not have certainty
+>	robot path planning $\rightarrow$ do not have certainty but needs constraints on errors
+
+- [[Probabilistic Parsing]]
