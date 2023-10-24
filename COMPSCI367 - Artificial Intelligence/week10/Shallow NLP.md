@@ -25,6 +25,8 @@ $$\frac {Count(x)}{total\ samples}$$
 - $x=(don't\ like,sausage\ rolls,tea\ rooms)$
 
 Classifying if this is a positive sentiment or negative sentiment
-$C\tiny 1\normalsize = +ve\ sentiment$
+- $C\tiny 1\normalsize = +ve\ sentiment$
+- $C\tiny 2\normalsize = -ve\ sentiment$
 
+$p(C\tiny k \normalsize | x1,..)
 
