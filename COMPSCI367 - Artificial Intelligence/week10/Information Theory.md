@@ -5,6 +5,8 @@
 	- [[Transmission errors]] can be arbitrarily low as long as:
 		[[data rate]] < channel capacity
 - Idea of [[Entropy]]
+	- how difficult is is to compress information given a particular language 
+		- more complex = more information needs to be decoded
 - [[Data compression]]
 - Truly random data can't be compressed
 	- Ordered data can be:

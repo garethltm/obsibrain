@@ -1,1 +1,1 @@
-speed of sending information across a chan
+speed of sending information across a channel
