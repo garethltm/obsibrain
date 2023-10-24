@@ -6,6 +6,7 @@
       {
         "id": "0d04557c2b82fb70",
         "type": "tabs",
+        "dimension": 75.85365853658537,
         "children": [
           {
             "id": "0ac46519bebe99ac",
@@ -13,11 +14,55 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week05/Alpha-Beta Pruning.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week10/Symbolic Knowledge.md",
                 "mode": "source",
                 "source": false
               }
-            }
+            },
+            "group": "78784693ed8901a3"
+          }
+        ]
+      },
+      {
+        "id": "7a902ebdd6721d3e",
+        "type": "tabs",
+        "dimension": 24.146341463414632,
+        "children": [
+          {
+            "id": "4141428b785ed837",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "COMPSCI367 - Artificial Intelligence/week10/Symbolic Knowledge.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1,
+                  "close": false
+                }
+              }
+            },
+            "group": "78784693ed8901a3"
           }
         ]
       }
@@ -65,8 +110,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -97,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week05/Alpha-Beta Pruning.md"
+                "file": "COMPSCI367 - Artificial Intelligence/week10/Symbolic Knowledge.md"
               }
             }
           },
@@ -136,8 +180,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0ac46519bebe99ac",
+  "active": "4141428b785ed837",
   "lastOpenFiles": [
+    "COMPSCI367 - Artificial Intelligence/week05/Alpha-Beta Pruning.md",
+    "COMPSCI367 - Artificial Intelligence/week10/Symbolic Knowledge.md",
     "COMPSCI367 - Artificial Intelligence/week01/goal(s) - goal state(s).md",
     "COMPSCI367 - Artificial Intelligence/week06/Language.md",
     "COMPSCI367 - Artificial Intelligence/week10",
@@ -173,8 +219,6 @@
     "COMPSCI367 - Artificial Intelligence/week09/domain-independent heuristic.md",
     "COMPSCI367 - Artificial Intelligence/week09/Logic-based Planning Algorithms.md",
     "COMPSCI367 - Artificial Intelligence/week09/TranslateToSAT.md",
-    "COMPSCI367 - Artificial Intelligence/week09/ExtractPlan.md",
-    "COMPSCI367 - Artificial Intelligence/week06/SAT solvers.md",
     "Untitled.canvas",
     "COMPSCI367 - Artificial Intelligence/week09",
     "COMPSCI367 - Artificial Intelligence/week08",
