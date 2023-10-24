@@ -14,7 +14,7 @@
 - [[sentence]]
 > Transforming [[clause(s)]] & [[sentence]] into [[First-Order Logic]]
 > Language can be broken down from documents into smaller fragments 
-> > S
+> > Sentences, words
 
 ##### [[Logic]] & KR Exercises
 - [[syntax]]

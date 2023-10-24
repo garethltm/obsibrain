@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week06/Language.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week10/Symbolic Knowledge.md",
                 "mode": "source",
                 "source": false
               }
@@ -34,7 +34,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week06/Language.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week10/Symbolic Knowledge.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week06/Language.md"
+                "file": "COMPSCI367 - Artificial Intelligence/week10/Symbolic Knowledge.md"
               }
             }
           },
@@ -182,6 +182,7 @@
   },
   "active": "0ac46519bebe99ac",
   "lastOpenFiles": [
+    "COMPSCI367 - Artificial Intelligence/week06/Language.md",
     "COMPSCI367 - Artificial Intelligence/week10/Why use language.md",
     "COMPSCI367 - Artificial Intelligence/week10/Term Frequency (tf).md",
     "COMPSCI367 - Artificial Intelligence/week10/The vector space model.md",
@@ -191,7 +192,6 @@
     "@images/Pasted image 20231024165959.png",
     "COMPSCI367 - Artificial Intelligence/week10/Natural Language Processing (NLP).md",
     "COMPSCI367 - Artificial Intelligence/week10/Pipelined NLP.md",
-    "COMPSCI367 - Artificial Intelligence/week06/Language.md",
     "COMPSCI367 - Artificial Intelligence/week10/Symbolic Knowledge.md",
     "@images/Pasted image 20231024165054.png",
     "COMPSCI367 - Artificial Intelligence/week05/Alpha-Beta Pruning.md",
