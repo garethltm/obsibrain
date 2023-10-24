@@ -103,7 +103,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "genetic algo",
+                "query": "\\ce",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -214,8 +214,9 @@
   },
   "active": "719a9e3cda8d050c",
   "lastOpenFiles": [
-    "COMPSCI367 - Artificial Intelligence/week10/Shallow NLP.md",
+    "COMPSCI367 - Artificial Intelligence/week10/The vector space model.md",
     "COMPSCI367 - Artificial Intelligence/week10/Bayes Theorem.md",
+    "COMPSCI367 - Artificial Intelligence/week10/Shallow NLP.md",
     "COMPSCI367 - Artificial Intelligence/week10/Natural Language Processing (NLP).md",
     "COMPSCI367 - Artificial Intelligence/week10/Pipelined NLP.md",
     "COMPSCI367 - Artificial Intelligence/week06/Satisfiability Problem (SAT).md",
@@ -232,7 +233,6 @@
     "COMPSCI367 - Artificial Intelligence/week08/Prolog.md",
     "COMPSCI367 - Artificial Intelligence/week08/Universal quantification.md",
     "COMPSCI367 - Artificial Intelligence/week02/State(s).md",
-    "COMPSCI367 - Artificial Intelligence/week10/The vector space model.md",
     "COMPSCI367 - Artificial Intelligence/week10/Why should you use NLP.md",
     "COMPSCI367 - Artificial Intelligence/week10/Term Frequency (tf).md",
     "COMPSCI367 - Artificial Intelligence/week10/term specificity.md",
