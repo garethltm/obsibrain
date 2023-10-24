@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week10/Why use language.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week10/Natural Language Processing (NLP).md",
                 "mode": "source",
                 "source": false
               }
@@ -34,7 +34,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week10/Why use language.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week10/Natural Language Processing (NLP).md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week10/Why use language.md"
+                "file": "COMPSCI367 - Artificial Intelligence/week10/Natural Language Processing (NLP).md"
               }
             }
           },
@@ -182,8 +182,9 @@
   },
   "active": "0ac46519bebe99ac",
   "lastOpenFiles": [
-    "COMPSCI367 - Artificial Intelligence/week06/Language.md",
     "COMPSCI367 - Artificial Intelligence/week10/Why use language.md",
+    "COMPSCI367 - Artificial Intelligence/week10/Natural Language Processing (NLP).md",
+    "COMPSCI367 - Artificial Intelligence/week06/Language.md",
     "COMPSCI367 - Artificial Intelligence/week10/Symbolic Knowledge.md",
     "@images/Pasted image 20231024165054.png",
     "COMPSCI367 - Artificial Intelligence/week05/Alpha-Beta Pruning.md",
@@ -218,7 +219,6 @@
     "COMPSCI367 - Artificial Intelligence/week08/Lifting.md",
     "COMPSCI367 - Artificial Intelligence/week09/SATPlan.md",
     "COMPSCI367 - Artificial Intelligence/week09/domain-independent heuristic.md",
-    "COMPSCI367 - Artificial Intelligence/week09/Logic-based Planning Algorithms.md",
     "Untitled.canvas",
     "COMPSCI367 - Artificial Intelligence/week09",
     "COMPSCI367 - Artificial Intelligence/week08",
