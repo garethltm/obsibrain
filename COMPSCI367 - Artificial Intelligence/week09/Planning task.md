@@ -4,3 +4,5 @@
 3. [[initial state (start state)]]
 4. [[goal(s) - goal state(s)]]
 We will describe these components using [[First-Order Logic]]
+
+![[Pasted image 20231024151254.png]]![[Pasted image 20231024151313.png]]
