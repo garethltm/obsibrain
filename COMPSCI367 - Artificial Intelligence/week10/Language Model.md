@@ -3,7 +3,7 @@
 $W = he\ waka\ eke\ noa$
 $p(W) = ?$
 
-- Trigram model (n-gram model for n = 3)
-	- $p(W) \cong p(he)\ p(waka\ |\ he)\ p(eke\ |\ he,waka)\ p(noa\ |\ waka,eke)$
-	- 
-	- 
+- Trigram model (n-gram model for n = 3):
+	- $p(W) \cong p(he)\cdot p(waka\ |\ he)\cdot p(eke\ |\ he,waka)\cdot p(noa\ |\ waka,eke)$
+- Unigram model:
+	- p(w\tiny 1\normalsize)
