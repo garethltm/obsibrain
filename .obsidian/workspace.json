@@ -99,7 +99,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week09/search.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week09/Logic-based Planning algorithms.md",
                 "mode": "source",
                 "source": false
               }
@@ -123,7 +123,7 @@
                 "state": {
                   "type": "outgoing-link",
                   "state": {
-                    "file": "COMPSCI367 - Artificial Intelligence/week09/search.md",
+                    "file": "COMPSCI367 - Artificial Intelligence/week09/Logic-based Planning algorithms.md",
                     "linksCollapsed": false,
                     "unlinkedCollapsed": true
                   }
@@ -251,7 +251,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week09/search.md"
+                "file": "COMPSCI367 - Artificial Intelligence/week09/Logic-based Planning algorithms.md"
               }
             }
           },
@@ -292,15 +292,16 @@
   },
   "active": "3dd87e27a1a2fba3",
   "lastOpenFiles": [
-    "COMPSCI367 - Artificial Intelligence/week09/Task description.md",
+    "COMPSCI367 - Artificial Intelligence/week09/Classical Planning.md",
+    "COMPSCI367 - Artificial Intelligence/week09/Planning task.md",
     "COMPSCI367 - Artificial Intelligence/week09/Planning.md",
+    "COMPSCI367 - Artificial Intelligence/week09/plan.md",
+    "COMPSCI367 - Artificial Intelligence/week09/search.md",
+    "COMPSCI367 - Artificial Intelligence/week09/Task description.md",
     "COMPSCI367 - Artificial Intelligence/week09/Logic-based Planning algorithms.md",
     "COMPSCI367 - Artificial Intelligence/week09/Building a planner.md",
     "COMPSCI367 - Artificial Intelligence/week08/Search-based.md",
     "COMPSCI367 - Artificial Intelligence/week02/state(s).md",
-    "COMPSCI367 - Artificial Intelligence/week09/Classical Planning.md",
-    "COMPSCI367 - Artificial Intelligence/week09/search.md",
-    "COMPSCI367 - Artificial Intelligence/week09/Planning task.md",
     "COMPSCI367 - Artificial Intelligence/week09/Problem file.md",
     "@images/COMPSCI3672023_S2W09ClassicalPlan1of2-16.jpg",
     "COMPSCI367 - Artificial Intelligence/week09/PDDL.md",
@@ -319,7 +320,6 @@
     "COMPSCI367 - Artificial Intelligence/week09/Probability Theory.md",
     "COMPSCI367 - Artificial Intelligence/week09/Probability.md",
     "COMPSCI367 - Artificial Intelligence/week09/Probabilistic Reasoning.md",
-    "COMPSCI367 - Artificial Intelligence/week09/plan.md",
     "COMPSCI367 - Artificial Intelligence/week09/First Order Bayes Nets.md",
     "COMPSCI367 - Artificial Intelligence/week09/ExtractPlan.md",
     "COMPSCI367 - Artificial Intelligence/week09/Backward Planning.md",
