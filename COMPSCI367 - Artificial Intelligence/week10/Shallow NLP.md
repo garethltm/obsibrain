@@ -22,4 +22,4 @@ $P_{em}(\text{``I don't like the sausage rolls at this tea rooms"})=\,?​$
 ![[Pasted image 20231024182526.png]]
 - $x = (x1,...,xn)$
 - $x=(don't\ like,sausage\ rolls,tea\ rooms)$
-- 
+
