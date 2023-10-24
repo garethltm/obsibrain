@@ -1,4 +1,4 @@
-finding a plan by converting the problem into a [[Propositional Knowledge Base]]
+finding a plan by converting the problem into a [[Propositional Knowledge Base]] $\Phi$
 - 
 
 ### Main components of [[SATPlan]]
@@ -11,3 +11,5 @@ finding a plan by converting the problem into a [[Propositional Knowledge Base]]
 >Check the main steps of [[TranslateToSAT]](Translate a [[PDDL]] description to [[SATPlan]]) 
 
 >conjunctive normal form not being test
+
+Related to: [[Satisfiability Problem (SAT)]]
