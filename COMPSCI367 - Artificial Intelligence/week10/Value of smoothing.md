@@ -4,4 +4,4 @@
 	- trying to avoid [[overfitting]]
 - If we hadn't used [[Laplace smoothing (add-one smoothing)]] in our language ID example, what would have happened?
 	- sample did not contain some of the terms that is used for the search string
-		- there would then be 0s
+		- there would then be 0s which would lead the end product to be 0
