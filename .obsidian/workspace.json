@@ -75,7 +75,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week10/The Noisy Channel Model.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week10/Speech Processing.md",
                 "mode": "source",
                 "source": false
               }
@@ -224,7 +224,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week10/The Noisy Channel Model.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week10/Speech Processing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -241,7 +241,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week10/The Noisy Channel Model.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week10/Speech Processing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -264,7 +264,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week10/The Noisy Channel Model.md"
+                "file": "COMPSCI367 - Artificial Intelligence/week10/Speech Processing.md"
               }
             }
           },
@@ -298,10 +298,13 @@
   },
   "active": "d0f61cd9fefb8c2d",
   "lastOpenFiles": [
+    "COMPSCI367 - Artificial Intelligence/week10/The Noisy Channel Model.md",
+    "COMPSCI367 - Artificial Intelligence/week10/Speech Processing.md",
+    "@images/Pasted image 20231025101932.png",
+    "@images/Pasted image 20231025101919.png",
     "@images/Pasted image 20231025101827.png",
     "@images/Pasted image 20231025101730.png",
     "COMPSCI367 - Artificial Intelligence/week10/Mutual Information.md",
-    "COMPSCI367 - Artificial Intelligence/week10/The Noisy Channel Model.md",
     "COMPSCI367 - Artificial Intelligence/week10/Entropy (or self-information).md",
     "COMPSCI367 - Artificial Intelligence/week05/Population-based Search.md",
     "COMPSCI367 - Artificial Intelligence/week10/term specificity.md",
@@ -331,9 +334,6 @@
     "@images/Pasted image 20231025003941.png",
     "@images/Pasted image 20231025003904.png",
     "@images/Pasted image 20231025002120.png",
-    "@images/Pasted image 20231025002104.png",
-    "@images/Pasted image 20231025001647.png",
-    "@images/Pasted image 20231025000943.png",
     "COMPSCI367 - Artificial Intelligence/week08",
     "COMPSCI367 - Artificial Intelligence/week07",
     "COMPSCI367 - Artificial Intelligence/week06",

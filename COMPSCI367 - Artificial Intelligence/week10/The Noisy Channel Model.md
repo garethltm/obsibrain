@@ -5,3 +5,4 @@
 ![[Pasted image 20231025101827.png]]
 
 ## Applications
+![[Pasted image 20231025101932.png]]
