@@ -99,7 +99,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week08/Domain-closure assumption.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week02/state(s).md",
                 "mode": "source",
                 "source": false
               }
@@ -131,7 +131,7 @@
                 "state": {
                   "type": "outgoing-link",
                   "state": {
-                    "file": "COMPSCI367 - Artificial Intelligence/week08/Domain-closure assumption.md",
+                    "file": "COMPSCI367 - Artificial Intelligence/week02/state(s).md",
                     "linksCollapsed": false,
                     "unlinkedCollapsed": true
                   }
@@ -143,7 +143,7 @@
                 "state": {
                   "type": "backlink",
                   "state": {
-                    "file": "COMPSCI367 - Artificial Intelligence/week08/Domain-closure assumption.md",
+                    "file": "COMPSCI367 - Artificial Intelligence/week02/state(s).md",
                     "collapseAll": false,
                     "extraContext": false,
                     "sortOrder": "alphabetical",
@@ -277,7 +277,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week08/Domain-closure assumption.md"
+                "file": "COMPSCI367 - Artificial Intelligence/week02/state(s).md"
               }
             }
           },
@@ -318,6 +318,7 @@
   },
   "active": "3dd87e27a1a2fba3",
   "lastOpenFiles": [
+    "COMPSCI367 - Artificial Intelligence/week08/Domain-closure assumption.md",
     "COMPSCI367 - Artificial Intelligence/week02/state(s).md",
     "COMPSCI367 - Artificial Intelligence/week08/First-Order Logic Inference.md",
     "COMPSCI367 - Artificial Intelligence/week09/Classical Planning.md",
@@ -346,7 +347,6 @@
     "COMPSCI367 - Artificial Intelligence/week08/Declarative programming.md",
     "COMPSCI367 - Artificial Intelligence/week08/Unification in queries.md",
     "@images/Untitled 3.png",
-    "COMPSCI367 - Artificial Intelligence/week08/Existential quantification.md",
     "@images/Untitled 2.png",
     "@images/Untitled 1.png",
     "@images/quicklatex.com-557f65414714e2cde89ee6709e65a857_l3-GARETH.svg",
