@@ -4,4 +4,7 @@
 - Would I get head/tail if I toss a coin?
 
 [[uncertainty]] is an important aspect of an [[agent]]'s decision making:
-- [[agent]] only ha
+- [[agent]] only have [[Partially Observable]] information about the [[environment]]
+- [[agent]] [[knowledge]] of the truth of a statement is uncertain
+- the [[State(s)]] of the world is inherently uncertain
+>	coinflip
