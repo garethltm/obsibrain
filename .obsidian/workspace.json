@@ -98,7 +98,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week07/Modus Ponens (MP).md",
+                "file": "COMPSCI367 - Artificial Intelligence/week09/Probability.md",
                 "mode": "source",
                 "source": false
               }
@@ -123,7 +123,7 @@
                 "state": {
                   "type": "outgoing-link",
                   "state": {
-                    "file": "COMPSCI367 - Artificial Intelligence/week07/Modus Ponens (MP).md",
+                    "file": "COMPSCI367 - Artificial Intelligence/week09/Probability.md",
                     "linksCollapsed": false,
                     "unlinkedCollapsed": true
                   }
@@ -141,7 +141,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "COMPSCI367 - Artificial Intelligence/week07/Modus Ponens (MP).md",
+                    "file": "COMPSCI367 - Artificial Intelligence/week09/Probability.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -251,7 +251,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week07/Modus Ponens (MP).md"
+                "file": "COMPSCI367 - Artificial Intelligence/week09/Probability.md"
               }
             }
           },
@@ -290,8 +290,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3dd87e27a1a2fba3",
+  "active": "3ad179677b7fba41",
   "lastOpenFiles": [
+    "COMPSCI367 - Artificial Intelligence/week07/Modus Ponens (MP).md",
     "@images/Pasted image 20231024162358.png",
     "@images/Pasted image 20231024162355.png",
     "COMPSCI367 - Artificial Intelligence/week08/Lifting.md",
@@ -311,7 +312,6 @@
     "COMPSCI367 - Artificial Intelligence/week06/Satisfiability Problem (SAT).md",
     "COMPSCI367 - Artificial Intelligence/week06/Propositional Knowledge Base.md",
     "@images/Pasted image 20231024155646.png",
-    "@images/Pasted image 20231024155559.png",
     "COMPSCI367 - Artificial Intelligence/week09/planning.md",
     "COMPSCI367 - Artificial Intelligence/week09/Planning task.md",
     "COMPSCI367 - Artificial Intelligence/week09/Search-based Planning Algorithm.md",
