@@ -1,5 +1,9 @@
 - a [[Planning task]] with the following assumptions:
-	- 
+	-  a finite [[State Space]] → in regards to the series of [[action(s)]] performed to achieve the [[goal(s) - goal state(s)]]
+- [[fully observable]] → no need to worry about uncertainty
+- [[deterministic]] action → knowing the before & after [[state(s)]] that the [[action(s)]] is performed
+
+>>**basically its saying that everything is in a controlled environment**
 - You need a specification of:
     - [[initial state (start state)]]
         - you need a series of [[action(s)]] that the [[agent]] can perform in the [[world]] in order to achieve the [[goal(s) - goal state(s)]]
