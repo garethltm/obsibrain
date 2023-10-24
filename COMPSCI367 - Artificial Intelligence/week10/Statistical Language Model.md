@@ -2,4 +2,6 @@
 
 ### Example
 $$\hat {mi}= arg\ max\ p(zh|mi)\ p(mi)$$
-- $p(zh|mi)$ $\rightarrow$ 
+- $p(zh|mi)$ $\rightarrow$ [[Translation Model]]
+- $p(mi)$ $\rightarrow$ [[language(s)]] Model
+
