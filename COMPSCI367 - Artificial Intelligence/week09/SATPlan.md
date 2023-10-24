@@ -17,6 +17,7 @@ finding a plan by converting the problem into a [[Propositional Knowledge Base]]
 		- for new [[Atomic Propositions (atoms)]] for each predicate symbol
 	- $(Tmax +1) \times |Obj|^{Argsp}$
 		- for new [[Atomic Propositions (atoms)]] for each action schema
+	- where $|Obj|$ is the set of constants, $Argsp$ is the maximum arity of a predicate, $ArgsA$ is the maxi
 
 
 >conjunctive normal form not being tested
