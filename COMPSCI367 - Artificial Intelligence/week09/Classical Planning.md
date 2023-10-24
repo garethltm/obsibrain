@@ -13,3 +13,9 @@
 3. [[initial state (start state)]]
 4. [[goal(s) - goal state(s)]]
 
+> Planning problems are co-related with search
+> 	where they are solved in a search
+> Search → problem solving
+> Logic → description language; to specify planning tasks
+
+
