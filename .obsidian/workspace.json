@@ -99,7 +99,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week09/Domain file.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week09/Classical Planning.md",
                 "mode": "source",
                 "source": false
               }
@@ -123,7 +123,7 @@
                 "state": {
                   "type": "outgoing-link",
                   "state": {
-                    "file": "COMPSCI367 - Artificial Intelligence/week09/Domain file.md",
+                    "file": "COMPSCI367 - Artificial Intelligence/week09/Classical Planning.md",
                     "linksCollapsed": false,
                     "unlinkedCollapsed": true
                   }
@@ -220,8 +220,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -252,7 +251,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week09/Domain file.md"
+                "file": "COMPSCI367 - Artificial Intelligence/week09/Classical Planning.md"
               }
             }
           },
@@ -293,10 +292,14 @@
   },
   "active": "3dd87e27a1a2fba3",
   "lastOpenFiles": [
-    "Untitled.canvas",
-    "COMPSCI367 - Artificial Intelligence/week09/Domain file.md",
-    "COMPSCI367 - Artificial Intelligence/week09/PDDL.md",
+    "COMPSCI367 - Artificial Intelligence/week09/Building a planner.md",
     "COMPSCI367 - Artificial Intelligence/week09/Problem file.md",
+    "@images/COMPSCI3672023_S2W09ClassicalPlan1of2-16.jpg",
+    "COMPSCI367 - Artificial Intelligence/week09/PDDL.md",
+    "COMPSCI367 - Artificial Intelligence/week09/Domain file.md",
+    "@images/COMPSCI3672023_S2W09ClassicalPlan1of2-15.jpg",
+    "@images/COMPSCI3672023_S2W09ClassicalPlan1of2-14.jpg",
+    "Untitled.canvas",
     "COMPSCI367 - Artificial Intelligence/week09/Planning task.md",
     "@images/Pasted image 20231024151352.png",
     "@images/Pasted image 20231024151339.png",
@@ -316,7 +319,6 @@
     "COMPSCI367 - Artificial Intelligence/week09/ExtractPlan.md",
     "COMPSCI367 - Artificial Intelligence/week09/Backward Planning.md",
     "COMPSCI367 - Artificial Intelligence/week09/Bayes Nets.md",
-    "COMPSCI367 - Artificial Intelligence/week09/Building a planner.md",
     "COMPSCI367 - Artificial Intelligence/week09/Classical Planning.md",
     "COMPSCI367 - Artificial Intelligence/week09/Planning.md",
     "COMPSCI367 - Artificial Intelligence/week01/agent.md",
@@ -327,9 +329,6 @@
     "@images/Untitled 6.png",
     "@images/Untitled 5.png",
     "COMPSCI367 - Artificial Intelligence/week09",
-    "@images/Untitled 4.png",
-    "@images/Untitled 3.png",
-    "@images/Untitled 2.png",
     "COMPSCI367 - Artificial Intelligence/week08",
     "COMPSCI367 - Artificial Intelligence/week07",
     "COMPSCI367 - Artificial Intelligence/week06",

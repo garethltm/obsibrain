@@ -1,3 +1,4 @@
+- finding a sequence of [[ac]]
 - a [[Planning task]] with the following assumptions:
 	-  a finite [[State Space]] → in regards to the series of [[action(s)]] performed to achieve the [[goal(s) - goal state(s)]] from an [[initial state (start state)]]
 	- [[fully observable]] → no need to worry about uncertainty, the [[agent]] can tell which [[state(s)]] we are in
@@ -14,7 +15,6 @@
 1. **Search** → using [[Search Techniques (Search Strategy) (Search Algorithm)]] such as [A*](https://www.notion.so/week04-Local-Search-Stochastic-Search-74d77c6537cc4e0495da5556ded9709f?pvs=21) which requires domain-specific [[heuristic(s)]]
 2. **Inference** → [[SATPlan]] uses domain-independent [[heuristic(s)]] for [[inference(s)]], but relies on [[Propositional Logic]] which may be space inefficient
 
-
 ### Representing [[Classical Planning]] tasks
 > Planning problems are co-related with search
 > 	where they are solved in a search
@@ -23,7 +23,6 @@
 
 >[[Classical Planning]] vs [[search]]
 >	different [[state(s)]] representation
-
 - [[Classical Planning]]
 	- [[state(s)]]: structural information used by [[Classical Planning]] [[algorithm]]
 - [[search]]
