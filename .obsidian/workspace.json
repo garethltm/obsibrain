@@ -99,7 +99,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week09/SATPlan.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week06/SAT solvers.md",
                 "mode": "source",
                 "source": false
               }
@@ -123,7 +123,7 @@
                 "state": {
                   "type": "outgoing-link",
                   "state": {
-                    "file": "COMPSCI367 - Artificial Intelligence/week09/SATPlan.md",
+                    "file": "COMPSCI367 - Artificial Intelligence/week06/SAT solvers.md",
                     "linksCollapsed": false,
                     "unlinkedCollapsed": true
                   }
@@ -251,7 +251,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week09/SATPlan.md"
+                "file": "COMPSCI367 - Artificial Intelligence/week06/SAT solvers.md"
               }
             }
           },
@@ -292,9 +292,9 @@
   },
   "active": "3dd87e27a1a2fba3",
   "lastOpenFiles": [
+    "COMPSCI367 - Artificial Intelligence/week09/SATPlan.md",
     "@images/Pasted image 20231024160111.png",
     "COMPSCI367 - Artificial Intelligence/week06/Satisfiability Problem (SAT).md",
-    "COMPSCI367 - Artificial Intelligence/week09/SATPlan.md",
     "COMPSCI367 - Artificial Intelligence/week06/Propositional Knowledge Base.md",
     "COMPSCI367 - Artificial Intelligence/week06/SAT solvers.md",
     "@images/Pasted image 20231024155646.png",
@@ -327,7 +327,6 @@
     "@images/COMPSCI3672023_S2W09ClassicalPlan1of2-16.jpg",
     "COMPSCI367 - Artificial Intelligence/week09/PDDL.md",
     "@images/COMPSCI3672023_S2W09ClassicalPlan1of2-15.jpg",
-    "@images/COMPSCI3672023_S2W09ClassicalPlan1of2-14.jpg",
     "COMPSCI367 - Artificial Intelligence/week09/TranslateToSAT.md",
     "COMPSCI367 - Artificial Intelligence/week09",
     "COMPSCI367 - Artificial Intelligence/week08",

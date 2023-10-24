@@ -1,4 +1,3 @@
-- [[Satisfiability Problem (SAT)]] 
 - Feeding this [[Propositional Knowledge Base]] from ([[TranslateToSAT]]) to a [[SAT solvers]] which produces a [[goal(s) - goal state(s)]]
 ![[Pasted image 20231024155646.png]]
 ### Efficient implementations
@@ -7,3 +6,5 @@
 	- [[Greedy Descent]]
 	- [[Simulated Annealing]]
 	- WalkSAT
+
+Related to: [[Satisfiability Problem (SAT)]] 
