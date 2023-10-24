@@ -99,7 +99,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week06/Structured Representation.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week09/Planning.md",
                 "mode": "source",
                 "source": false
               }
@@ -123,7 +123,7 @@
                 "state": {
                   "type": "outgoing-link",
                   "state": {
-                    "file": "COMPSCI367 - Artificial Intelligence/week06/Structured Representation.md",
+                    "file": "COMPSCI367 - Artificial Intelligence/week09/Planning.md",
                     "linksCollapsed": false,
                     "unlinkedCollapsed": true
                   }
@@ -251,7 +251,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week06/Structured Representation.md"
+                "file": "COMPSCI367 - Artificial Intelligence/week09/Planning.md"
               }
             }
           },
@@ -293,6 +293,7 @@
   "active": "3dd87e27a1a2fba3",
   "lastOpenFiles": [
     "COMPSCI367 - Artificial Intelligence/week09/Search-based.md",
+    "COMPSCI367 - Artificial Intelligence/week06/Structured Representation.md",
     "COMPSCI367 - Artificial Intelligence/week09/search.md",
     "COMPSCI367 - Artificial Intelligence/week09/Planning.md",
     "COMPSCI367 - Artificial Intelligence/week09/Classical Planning.md",
@@ -325,7 +326,6 @@
     "COMPSCI367 - Artificial Intelligence/week09/Probability Theory.md",
     "COMPSCI367 - Artificial Intelligence/week09/Probability.md",
     "COMPSCI367 - Artificial Intelligence/week09/Probabilistic Reasoning.md",
-    "COMPSCI367 - Artificial Intelligence/week09/Bayes Nets.md",
     "@images/Pasted image 20231024150510.png",
     "@images/Untitled 6.png",
     "@images/Untitled 5.png",

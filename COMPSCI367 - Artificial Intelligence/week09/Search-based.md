@@ -3,10 +3,10 @@
 
 >[[Planning]] vs [[search]]
 >	main difference = [[state(s)]] representation
-- [[Planning]] (typically the [[Structured Representation]])
-	- [[state(s)]]: structural information used by [[Classical Planning]] [[algorithm]]
-- [[search]]  (typically the [[Atomic Representation]])
-	- [[state(s)]]: single entity used by the [[search]] [[algorithm]]
+- [[Planning]] 
+	- [[state(s)]] (typically the [[Structured Representation]]): structural information used by [[Planning]][[algorithm]]
+- [[search]]  
+	- [[state(s)]] (typically the [[Atomic Representation]]): single entity used by the [[search]] [[algorithm]]
 
 1. [[Forward (Progression) planning]]
 2. [[Backward (Regression) planning]]
