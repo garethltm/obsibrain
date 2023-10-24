@@ -75,7 +75,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week01/Continuous-GARETH.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week01/Game Playing Agent-GARETH.md",
                 "mode": "source",
                 "source": false
               }
@@ -224,7 +224,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week01/Continuous-GARETH.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week01/Game Playing Agent-GARETH.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -241,7 +241,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week01/Continuous-GARETH.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week01/Game Playing Agent-GARETH.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -264,7 +264,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week01/Continuous-GARETH.md"
+                "file": "COMPSCI367 - Artificial Intelligence/week01/Game Playing Agent-GARETH.md"
               }
             }
           },
@@ -298,7 +298,18 @@
   },
   "active": "d0f61cd9fefb8c2d",
   "lastOpenFiles": [
+    "COMPSCI367 - Artificial Intelligence/week01/Episodic.md",
+    "COMPSCI367 - Artificial Intelligence/week01/Episodic-GARETH.md",
+    "COMPSCI367 - Artificial Intelligence/week01/Fully Observable.md",
+    "COMPSCI367 - Artificial Intelligence/week01/Fully Observable-GARETH.md",
+    "COMPSCI367 - Artificial Intelligence/week01/Environment.md",
+    "COMPSCI367 - Artificial Intelligence/week01/environment-GARETH.md",
     "COMPSCI367 - Artificial Intelligence/week01/Actuators.md",
+    "COMPSCI367 - Artificial Intelligence/week01/Environment Types-GARETH.md",
+    "COMPSCI367 - Artificial Intelligence/week01/Embodied-GARETH.md",
+    "COMPSCI367 - Artificial Intelligence/week01/Dynamic-GARETH.md",
+    "COMPSCI367 - Artificial Intelligence/week01/Discrete-GARETH.md",
+    "COMPSCI367 - Artificial Intelligence/week01/Continuous-GARETH.md",
     "COMPSCI367 - Artificial Intelligence/week01/Artificial Intelligence (AI)-GARETH.md",
     "COMPSCI367 - Artificial Intelligence/week01/agent-GARETH.md",
     "COMPSCI367 - Artificial Intelligence/week01/Actuators-GARETH.md",
@@ -313,17 +324,6 @@
     "COMPSCI367 - Artificial Intelligence/week08/First-Order Interpretation.md",
     "COMPSCI367 - Artificial Intelligence/week08/First-Order Interpretation-GARETH.md",
     "COMPSCI367 - Artificial Intelligence/week08/First-Order Formulas.md",
-    "COMPSCI367 - Artificial Intelligence/week08/First-Order Formulas-GARETH.md",
-    "COMPSCI367 - Artificial Intelligence/week04/Hill-Climbing.md",
-    "conflict-files-obsidian-git.md",
-    "COMPSCI367 - Artificial Intelligence/week07/resolution.md",
-    "COMPSCI367 - Artificial Intelligence/week06/syntax.md",
-    "COMPSCI367 - Artificial Intelligence/week06/semantics.md",
-    "COMPSCI367 - Artificial Intelligence/week06/proposition.md",
-    "COMPSCI367 - Artificial Intelligence/week06/knowledge.md",
-    "COMPSCI367 - Artificial Intelligence/week06/interpretation.md",
-    "COMPSCI367 - Artificial Intelligence/week06/intelligent.md",
-    "COMPSCI367 - Artificial Intelligence/week06/Propositional Logic with Wumpus World.md",
     "@images/quicklatex.com-557f65414714e2cde89ee6709e65a857_l3-GARETH.svg",
     "COMPSCI367 - Artificial Intelligence/week08",
     "COMPSCI367 - Artificial Intelligence/week07",
