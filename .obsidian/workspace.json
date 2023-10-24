@@ -75,7 +75,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week04/sideways.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week03/optimistic.md",
                 "mode": "source",
                 "source": false
               }
@@ -224,7 +224,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week04/sideways.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week03/optimistic.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -241,7 +241,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week04/sideways.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week03/optimistic.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -264,7 +264,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week04/sideways.md"
+                "file": "COMPSCI367 - Artificial Intelligence/week03/optimistic.md"
               }
             }
           },
@@ -296,34 +296,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3ad179677b7fba41",
+  "active": "d0f61cd9fefb8c2d",
   "lastOpenFiles": [
-    "COMPSCI367 - Artificial Intelligence/week04/Random-Restarts with 8-Queens.md",
-    "COMPSCI367 - Artificial Intelligence/week04/Random-Restart Hill Climbing.md",
-    "COMPSCI367 - Artificial Intelligence/week04/Random-Restart Hill Climbing-GARETH.md",
-    "COMPSCI367 - Artificial Intelligence/week04/Random Walk Hill-Climbing.md",
-    "COMPSCI367 - Artificial Intelligence/week04/Random Walk & Random Restart Hill-Climbing.md",
-    "COMPSCI367 - Artificial Intelligence/week04/Random Walk & Random Restart Hill-Climbing-GARETH.md",
-    "COMPSCI367 - Artificial Intelligence/week04/Probabilistic Approximately Complete (PAC).md",
-    "COMPSCI367 - Artificial Intelligence/week04/Probabilistic Hill-Climbing-GARETH.md",
-    "COMPSCI367 - Artificial Intelligence/week04/minimises.md",
-    "COMPSCI367 - Artificial Intelligence/week04/maximises.md",
-    "COMPSCI367 - Artificial Intelligence/week04/Local Search in Continuous Space.md",
-    "COMPSCI367 - Artificial Intelligence/week04/Local Search in Continuous Space-GARETH.md",
-    "COMPSCI367 - Artificial Intelligence/week04/Local Optima.md",
-    "COMPSCI367 - Artificial Intelligence/week04/Iterative Best Improvement (IBI).md",
-    "COMPSCI367 - Artificial Intelligence/week04/Iterative Best Improvement (IBI)-GARETH.md",
-    "COMPSCI367 - Artificial Intelligence/week04/Hill-Climbing with side-way moves on the 8-Queens.md",
-    "COMPSCI367 - Artificial Intelligence/week04/Hill-Climbing-GARETH.md",
-    "COMPSCI367 - Artificial Intelligence/week04/Hill-Climbing with side-way moves.md",
-    "COMPSCI367 - Artificial Intelligence/week04/Difference between Stochastic & First-Choice Hill-Climbing.md",
-    "COMPSCI367 - Artificial Intelligence/week04/Hill-Climbing with 8-Queens-GARETH.md",
-    "COMPSCI367 - Artificial Intelligence/week04/Gradient descent-GARETH.md",
-    "COMPSCI367 - Artificial Intelligence/week04/Enforced Hill-Climbing-GARETH.md",
-    "COMPSCI367 - Artificial Intelligence/week04/Difference between Stochastic & First-Choice Hill-Climbing-GARETH.md",
-    "COMPSCI367 - Artificial Intelligence/week04/Diagonal ridges.md",
-    "COMPSCI367 - Artificial Intelligence/week04/Continuous Space (Continuous Functions).md",
-    "COMPSCI367 - Artificial Intelligence/week05/Solving Optimisation problems.md",
+    "COMPSCI367 - Artificial Intelligence/week02/Directed Graph-GARETH.md",
+    "COMPSCI367 - Artificial Intelligence/week03/optimistic.md",
+    "COMPSCI367 - Artificial Intelligence/week02/Depth-Limited Search (DLS)-GARETH.md",
+    "COMPSCI367 - Artificial Intelligence/week02/Depth-First Search (DFS)-GARETH.md",
+    "COMPSCI367 - Artificial Intelligence/week02/Cost Sensitive Search-GARETH.md",
+    "COMPSCI367 - Artificial Intelligence/week02/constraint(s)-GARETH.md",
+    "COMPSCI367 - Artificial Intelligence/week02/Consistent Heuristics-GARETH.md",
+    "COMPSCI367 - Artificial Intelligence/week02/Complete-GARETH.md",
+    "COMPSCI367 - Artificial Intelligence/week02/closed list-GARETH.md",
+    "COMPSCI367 - Artificial Intelligence/week02/Breadth-First Search (BFS)-GARETH.md",
+    "COMPSCI367 - Artificial Intelligence/week02/A-Star Search-GARETH.md",
+    "COMPSCI367 - Artificial Intelligence/week02/Bidirectional Search-GARETH.md",
+    "COMPSCI367 - Artificial Intelligence/week03/Variable Elimination-GARETH.md",
+    "COMPSCI367 - Artificial Intelligence/week03/Trivial Heuristic; Dominance-GARETH.md",
+    "COMPSCI367 - Artificial Intelligence/week03/Tree Search-GARETH.md",
+    "COMPSCI367 - Artificial Intelligence/week03/successor function-GARETH.md",
+    "COMPSCI367 - Artificial Intelligence/week03/Stochastic Search-GARETH.md",
+    "COMPSCI367 - Artificial Intelligence/week03/Path Search vs CSPs-GARETH.md",
+    "COMPSCI367 - Artificial Intelligence/week03/optimistic-GARETH.md",
+    "COMPSCI367 - Artificial Intelligence/week03/Minimum Remaining Values (MRV).md",
+    "COMPSCI367 - Artificial Intelligence/week03/Minimum Remaining Values (MRV)-GARETH.md",
+    "COMPSCI367 - Artificial Intelligence/week03/Iterative Deepening A-Star Search (IDA).md",
+    "COMPSCI367 - Artificial Intelligence/week03/Local Search-GARETH.md",
+    "COMPSCI367 - Artificial Intelligence/week03/Least Constrainting Value-GARETH.md",
+    "COMPSCI367 - Artificial Intelligence/week03/Iterative Improvement-GARETH.md",
+    "COMPSCI367 - Artificial Intelligence/week03/Iterative Deepening A-Star Search (IDA)-GARETH.md",
     "@images/quicklatex.com-557f65414714e2cde89ee6709e65a857_l3-GARETH.svg",
     "COMPSCI367 - Artificial Intelligence/week08",
     "COMPSCI367 - Artificial Intelligence/week07",
