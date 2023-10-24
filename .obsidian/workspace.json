@@ -99,7 +99,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Arithmetic.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week09/Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -131,7 +131,7 @@
                 "state": {
                   "type": "outgoing-link",
                   "state": {
-                    "file": "Arithmetic.md",
+                    "file": "COMPSCI367 - Artificial Intelligence/week09/Untitled.md",
                     "linksCollapsed": false,
                     "unlinkedCollapsed": true
                   }
@@ -143,7 +143,7 @@
                 "state": {
                   "type": "backlink",
                   "state": {
-                    "file": "Arithmetic.md",
+                    "file": "COMPSCI367 - Artificial Intelligence/week09/Untitled.md",
                     "collapseAll": false,
                     "extraContext": false,
                     "sortOrder": "alphabetical",
@@ -229,7 +229,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "gareth",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -277,7 +277,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Arithmetic.md"
+                "file": "COMPSCI367 - Artificial Intelligence/week09/Untitled.md"
               }
             }
           },
@@ -316,11 +316,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3ad179677b7fba41",
+  "active": "3dd87e27a1a2fba3",
   "lastOpenFiles": [
+    "COMPSCI367 - Artificial Intelligence/week09/Remote Agent.md",
+    "COMPSCI367 - Artificial Intelligence/week09/Untitled.md",
+    "Arithmetic.md",
     "COMPSCI367 - Artificial Intelligence/week09",
     "COMPSCI367 - Artificial Intelligence/week08/Prolog.md",
-    "Arithmetic.md",
     "COMPSCI367 - Artificial Intelligence/week08/Ordering.md",
     "COMPSCI367 - Artificial Intelligence/week08/First-Order Logic.md",
     "COMPSCI367 - Artificial Intelligence/week08/list operations.md",
@@ -347,7 +349,6 @@
     "COMPSCI367 - Artificial Intelligence/week07/Definite Clause Inference Engine-GARETH.md",
     "COMPSCI367 - Artificial Intelligence/week07/Compositional.md",
     "COMPSCI367 - Artificial Intelligence/week07/Human languages are complex-GARETH.md",
-    "COMPSCI367 - Artificial Intelligence/week07/SLD Resolution (Backward chaining).md",
     "@images/quicklatex.com-557f65414714e2cde89ee6709e65a857_l3-GARETH.svg",
     "COMPSCI367 - Artificial Intelligence/week08",
     "COMPSCI367 - Artificial Intelligence/week07",
@@ -362,7 +363,6 @@
     "COMPSCI367 - Artificial Intelligence/week05",
     "COMPSCI367 - Artificial Intelligence/week02",
     "Untitle",
-    "@images",
-    "INFOSYS222 - Database Systems"
+    "@images"
   ]
 }
