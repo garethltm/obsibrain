@@ -8,10 +8,6 @@
 2. **Inference** → uses domain-independent heuristics for inference, but relies on [[Propositional Logic]] which may be space inefficient
 
 ### Representing [[Classical Planning]] tasks
-1. [[state(s)]]
-2. [[action(s)]]
-3. [[initial state (start state)]]
-4. [[goal(s) - goal state(s)]]
 
 > Planning problems are co-related with search
 > 	where they are solved in a search
