@@ -31,6 +31,7 @@ Classifying if this is a positive sentiment or negative sentiment
 $p(C\tiny k \normalsize\ |\ x1,...,xn)$
 - bad news because of many possibilities
 
+#### Probability of a +sentiment given our string
 
 
 
