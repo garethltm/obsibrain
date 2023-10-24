@@ -99,7 +99,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week08/negation.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week08/Prolog.md",
                 "mode": "source",
                 "source": false
               }
@@ -131,7 +131,7 @@
                 "state": {
                   "type": "outgoing-link",
                   "state": {
-                    "file": "COMPSCI367 - Artificial Intelligence/week08/negation.md",
+                    "file": "COMPSCI367 - Artificial Intelligence/week08/Prolog.md",
                     "linksCollapsed": false,
                     "unlinkedCollapsed": true
                   }
@@ -143,7 +143,7 @@
                 "state": {
                   "type": "backlink",
                   "state": {
-                    "file": "COMPSCI367 - Artificial Intelligence/week08/negation.md",
+                    "file": "COMPSCI367 - Artificial Intelligence/week08/Prolog.md",
                     "collapseAll": false,
                     "extraContext": false,
                     "sortOrder": "alphabetical",
@@ -277,7 +277,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week08/negation.md"
+                "file": "COMPSCI367 - Artificial Intelligence/week08/Prolog.md"
               }
             }
           },
@@ -318,8 +318,10 @@
   },
   "active": "3dd87e27a1a2fba3",
   "lastOpenFiles": [
-    "COMPSCI367 - Artificial Intelligence/week08/Declarative programming.md",
+    "COMPSCI367 - Artificial Intelligence/week08/list operations.md",
+    "@images/Untitled 4.png",
     "COMPSCI367 - Artificial Intelligence/week08/negation.md",
+    "COMPSCI367 - Artificial Intelligence/week08/Declarative programming.md",
     "COMPSCI367 - Artificial Intelligence/week08/Unification in queries.md",
     "@images/Untitled 3.png",
     "COMPSCI367 - Artificial Intelligence/week08/Existential quantification.md",
@@ -345,8 +347,6 @@
     "COMPSCI367 - Artificial Intelligence/week07/SLD Resolution (Backward chaining)-GARETH.md",
     "INFOSYS222 - Database Systems/Business Intelligence.md",
     "INFOSYS222 - Database Systems/Basic with Staging & Data Marts.md",
-    "INFOSYS222 - Database Systems/Basic.md",
-    "INFOSYS222 - Database Systems/Attribute.md",
     "@images/quicklatex.com-557f65414714e2cde89ee6709e65a857_l3-GARETH.svg",
     "COMPSCI367 - Artificial Intelligence/week08",
     "COMPSCI367 - Artificial Intelligence/week07",
@@ -356,7 +356,6 @@
     "@images/Untitled.png",
     "@images/Pasted image 20231024020323.png",
     "@images/Pasted image 20231024020315.png",
-    "@images/Pasted image 20231024013638.png",
     "COMPSCI367 - Artificial Intelligence/week03",
     "COMPSCI367 - Artificial Intelligence/week04",
     "COMPSCI367 - Artificial Intelligence/week05",

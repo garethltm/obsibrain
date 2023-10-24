@@ -1,2 +1,2 @@
-- (\+)
+- \\+
 - basically if you cannot proof if something is True then the negation will be True which is the same as False- [[Closed world assumption]]
