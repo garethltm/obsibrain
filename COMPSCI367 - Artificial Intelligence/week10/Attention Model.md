@@ -1,1 +1,1 @@
-- this 
+- this [[model(s)]] allows an [[Recurrent Neural Network (RNN)]] to pay attention to specific parts of the input that is considered as being important, which improves the performance of the resulting [[model(s)]] in practice. By noting $\alpha ^<t,t'>$
