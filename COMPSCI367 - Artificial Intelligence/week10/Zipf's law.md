@@ -4,5 +4,3 @@
 	- 1000th word in a list has a decreased likelihood of occurring$$f(k;s,N)=\frac {\frac {1}{k^s}}{\textstyle\sum_{n=1}^N\frac {1}{n^s}}$$
 	- s = different [[language(s)]]
 ![[Pasted image 20231025002104.png]]
-- bottom line is that some words are very rare & may not appear in a sample or will be undersampled, which leads to [[overfitting]]
-- 
