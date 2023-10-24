@@ -18,4 +18,7 @@
 >	information might not always be correct
 
 - Social Network analysis
->	networks between people using graph & networks as there is 
+>	networks between people using graph & networks as there is [[uncertainty]] involved
+
+- entity matching & resolution
+>	going over historic records & matching names BUT people's names may be spelt differently in the past
