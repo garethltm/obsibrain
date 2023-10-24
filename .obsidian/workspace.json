@@ -6,7 +6,7 @@
       {
         "id": "e1ccbf259f6ba816",
         "type": "tabs",
-        "dimension": 48.305905130687314,
+        "dimension": 77.07082833133254,
         "children": [
           {
             "id": "bcc7a7b87dd8df83",
@@ -111,7 +111,7 @@
       {
         "id": "992e264c1b226738",
         "type": "split",
-        "dimension": 51.694094869312686,
+        "dimension": 22.92917166866747,
         "children": [
           {
             "id": "8d459d1c85b8b9ed",
@@ -224,7 +224,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 209.5
+    "width": 513.5
   },
   "right": {
     "id": "29204b37fc003a9a",
@@ -292,6 +292,7 @@
   },
   "active": "3dd87e27a1a2fba3",
   "lastOpenFiles": [
+    "@images/Pasted image 20231024163144.png",
     "COMPSCI367 - Artificial Intelligence/week09/Probabilisitc Logic.md",
     "COMPSCI367 - Artificial Intelligence/week09/Untitled.md",
     "COMPSCI367 - Artificial Intelligence/week09/Probability Theory.md",
@@ -327,7 +328,6 @@
     "COMPSCI367 - Artificial Intelligence/week09/Backward (Regression) planning.md",
     "COMPSCI367 - Artificial Intelligence/week09/plan.md",
     "COMPSCI367 - Artificial Intelligence/week09/Classical Planning.md",
-    "COMPSCI367 - Artificial Intelligence/week06/Structured Representation.md",
     "Untitled.canvas",
     "COMPSCI367 - Artificial Intelligence/week09",
     "COMPSCI367 - Artificial Intelligence/week08",
