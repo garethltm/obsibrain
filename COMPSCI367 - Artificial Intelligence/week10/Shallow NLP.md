@@ -11,4 +11,7 @@
 ## [[Information Retrieval (IR)]]
 - [[The vector space model]]
 
-## Classification: Probab
+## Classification: Probability of a string
+![[Pasted image 20231024181746.png]]
+- we could find documents that have this exact string
+	- 
