@@ -16,6 +16,4 @@
 > Planning problems are co-related with search
 > 	where they are solved in a search
 > Search → problem solving
-> Logic → description language; to specify planning tasks
-
-
+> [[Logic]]

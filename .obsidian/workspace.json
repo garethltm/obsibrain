@@ -99,7 +99,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week09/Classical Planning.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week08/Logic-based.md",
                 "mode": "source",
                 "source": false
               }
@@ -131,7 +131,7 @@
                 "state": {
                   "type": "outgoing-link",
                   "state": {
-                    "file": "COMPSCI367 - Artificial Intelligence/week09/Classical Planning.md",
+                    "file": "COMPSCI367 - Artificial Intelligence/week08/Logic-based.md",
                     "linksCollapsed": false,
                     "unlinkedCollapsed": true
                   }
@@ -143,7 +143,7 @@
                 "state": {
                   "type": "backlink",
                   "state": {
-                    "file": "COMPSCI367 - Artificial Intelligence/week09/Classical Planning.md",
+                    "file": "COMPSCI367 - Artificial Intelligence/week08/Logic-based.md",
                     "collapseAll": false,
                     "extraContext": false,
                     "sortOrder": "alphabetical",
@@ -277,7 +277,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week09/Classical Planning.md"
+                "file": "COMPSCI367 - Artificial Intelligence/week08/Logic-based.md"
               }
             }
           },
@@ -318,8 +318,11 @@
   },
   "active": "3dd87e27a1a2fba3",
   "lastOpenFiles": [
-    "COMPSCI367 - Artificial Intelligence/week08/logic.md",
+    "COMPSCI367 - Artificial Intelligence/week08/Building a planner.md",
+    "COMPSCI367 - Artificial Intelligence/week08/Logic-based.md",
+    "COMPSCI367 - Artificial Intelligence/week08/Search-based.md",
     "COMPSCI367 - Artificial Intelligence/week09/Classical Planning.md",
+    "COMPSCI367 - Artificial Intelligence/week08/logic.md",
     "COMPSCI367 - Artificial Intelligence/week09/Problem file.md",
     "COMPSCI367 - Artificial Intelligence/week09/PDDL implementation.md",
     "COMPSCI367 - Artificial Intelligence/week09/Domain file.md",
@@ -342,9 +345,6 @@
     "COMPSCI367 - Artificial Intelligence/week01/goal(s) - goal state(s).md",
     "Arithmetic.md",
     "COMPSCI367 - Artificial Intelligence/week09",
-    "COMPSCI367 - Artificial Intelligence/week08/Prolog.md",
-    "COMPSCI367 - Artificial Intelligence/week08/Ordering.md",
-    "COMPSCI367 - Artificial Intelligence/week08/First-Order Logic.md",
     "@images/Untitled 4.png",
     "@images/Untitled 3.png",
     "@images/Untitled 2.png",
