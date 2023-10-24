@@ -4,4 +4,6 @@ which basically means
 $$posterior = \frac {prior\ \times\ likelihood}{evidence}$$
 - [[posterior evidence (posterior)]]
 - [[evidence]]
-- [[prior evidence]]
+- [[prior evidence (prior)]]
+
+![[Pasted image 20231025000433.png]]
