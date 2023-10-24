@@ -24,5 +24,7 @@ $$\frac {Count(x)}{total\ samples}$$
 - $x = (x1,...,xn)$
 - $x=(don't\ like,sausage\ rolls,tea\ rooms)$
 
-Classifying if this is a positive sentiment or ne
+Classifying if this is a positive sentiment or negative sentiment
+$C\tiny 1\normalsize = +ve\ sentiment$
+
 
