@@ -1,1 +1,2 @@
-defining what happens in that [[Environment]]
+- specifies [[initial state (start state)]] & [[goal(s) - goal state(s)]]
+- defining what happens in that [[Environment]]

@@ -1,2 +1,2 @@
-- 
+- specifies predicates ([[state(s)]]) & [[action(s)]]
 - defining the [[Environment]]
