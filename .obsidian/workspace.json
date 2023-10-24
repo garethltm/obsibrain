@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week10/Shallow NLP.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week10/overfitting.md",
                 "mode": "source",
                 "source": false
               }
@@ -34,7 +34,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week10/Shallow NLP.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week10/overfitting.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week10/Shallow NLP.md"
+                "file": "COMPSCI367 - Artificial Intelligence/week10/overfitting.md"
               }
             }
           },
@@ -182,11 +182,12 @@
   },
   "active": "0ac46519bebe99ac",
   "lastOpenFiles": [
+    "COMPSCI367 - Artificial Intelligence/week10/Shallow NLP.md",
+    "COMPSCI367 - Artificial Intelligence/week10/overfitting.md",
     "@images/Pasted image 20231024181844.png",
     "@images/Pasted image 20231024181746.png",
     "COMPSCI367 - Artificial Intelligence/week10/Information Retrieval (IR).md",
     "COMPSCI367 - Artificial Intelligence/week10/The vector space model.md",
-    "COMPSCI367 - Artificial Intelligence/week10/Shallow NLP.md",
     "COMPSCI367 - Artificial Intelligence/week10/Term Frequency (tf).md",
     "COMPSCI367 - Artificial Intelligence/week10/Inverse Document Frequency (idf).md",
     "COMPSCI367 - Artificial Intelligence/week10/term specificity.md",
@@ -215,7 +216,6 @@
     "COMPSCI367 - Artificial Intelligence/week09/Evidence - Calculate probabilities given prior evidence.md",
     "@images/Pasted image 20231024163703.png",
     "COMPSCI367 - Artificial Intelligence/week09/Annotated Disjunction.md",
-    "@images/Pasted image 20231024163600.png",
     "COMPSCI367 - Artificial Intelligence/week08/Unification in queries.md",
     "COMPSCI367 - Artificial Intelligence/week09/Noisy OR.md",
     "COMPSCI367 - Artificial Intelligence/week09/Problog.md",
