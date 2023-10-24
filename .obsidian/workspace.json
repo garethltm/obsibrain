@@ -99,7 +99,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week06/SAT solvers.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week09/SATPlan.md",
                 "mode": "source",
                 "source": false
               }
@@ -123,7 +123,7 @@
                 "state": {
                   "type": "outgoing-link",
                   "state": {
-                    "file": "COMPSCI367 - Artificial Intelligence/week06/SAT solvers.md",
+                    "file": "COMPSCI367 - Artificial Intelligence/week09/SATPlan.md",
                     "linksCollapsed": false,
                     "unlinkedCollapsed": true
                   }
@@ -251,7 +251,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week06/SAT solvers.md"
+                "file": "COMPSCI367 - Artificial Intelligence/week09/SATPlan.md"
               }
             }
           },
@@ -292,9 +292,12 @@
   },
   "active": "3dd87e27a1a2fba3",
   "lastOpenFiles": [
+    "COMPSCI367 - Artificial Intelligence/week06/Propositional Knowledge Base.md",
+    "COMPSCI367 - Artificial Intelligence/week09/SATPlan.md",
+    "COMPSCI367 - Artificial Intelligence/week06/SAT solvers.md",
+    "@images/Pasted image 20231024155646.png",
     "COMPSCI367 - Artificial Intelligence/week06/Satisfiability Problem (SAT).md",
     "@images/Pasted image 20231024155559.png",
-    "COMPSCI367 - Artificial Intelligence/week06/SAT solvers.md",
     "COMPSCI367 - Artificial Intelligence/week09/Logic-based Planning Algorithms.md",
     "COMPSCI367 - Artificial Intelligence/week09/planning.md",
     "COMPSCI367 - Artificial Intelligence/week09/Planning task.md",
@@ -324,11 +327,8 @@
     "COMPSCI367 - Artificial Intelligence/week09/PDDL.md",
     "@images/COMPSCI3672023_S2W09ClassicalPlan1of2-15.jpg",
     "@images/COMPSCI3672023_S2W09ClassicalPlan1of2-14.jpg",
-    "@images/Pasted image 20231024151352.png",
     "COMPSCI367 - Artificial Intelligence/week09/TranslateToSAT.md",
-    "COMPSCI367 - Artificial Intelligence/week09/SATPlan.md",
     "COMPSCI367 - Artificial Intelligence/week09/Remote Agent.md",
-    "COMPSCI367 - Artificial Intelligence/week09/Problog.md",
     "COMPSCI367 - Artificial Intelligence/week09",
     "COMPSCI367 - Artificial Intelligence/week08",
     "COMPSCI367 - Artificial Intelligence/week07",
