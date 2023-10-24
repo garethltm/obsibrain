@@ -1,3 +1,4 @@
+description language to specify [[Planning task]]
 - [[Propositional Logic]]
 - [[First-Order Logic]]
 
