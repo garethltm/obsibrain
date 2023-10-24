@@ -99,7 +99,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week09/Backward (Regression) planning.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week09/Search-based.md",
                 "mode": "source",
                 "source": false
               }
@@ -123,7 +123,7 @@
                 "state": {
                   "type": "outgoing-link",
                   "state": {
-                    "file": "COMPSCI367 - Artificial Intelligence/week09/Backward (Regression) planning.md",
+                    "file": "COMPSCI367 - Artificial Intelligence/week09/Search-based.md",
                     "linksCollapsed": false,
                     "unlinkedCollapsed": true
                   }
@@ -220,8 +220,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -252,7 +251,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week09/Backward (Regression) planning.md"
+                "file": "COMPSCI367 - Artificial Intelligence/week09/Search-based.md"
               }
             }
           },
@@ -293,6 +292,7 @@
   },
   "active": "3dd87e27a1a2fba3",
   "lastOpenFiles": [
+    "COMPSCI367 - Artificial Intelligence/week09/Backward (Regression) planning.md",
     "COMPSCI367 - Artificial Intelligence/week09/Planning.md",
     "COMPSCI367 - Artificial Intelligence/week09/plan.md",
     "COMPSCI367 - Artificial Intelligence/week09/Planning task.md",
@@ -301,7 +301,6 @@
     "COMPSCI367 - Artificial Intelligence/week06/Structured Representation.md",
     "COMPSCI367 - Artificial Intelligence/week09/search.md",
     "COMPSCI367 - Artificial Intelligence/week09/Forward (Progression) planning.md",
-    "COMPSCI367 - Artificial Intelligence/week09/Backward (Regression) planning.md",
     "Backward (Regression) planning.md",
     "Untitled.canvas",
     "COMPSCI367 - Artificial Intelligence/week09/Building a planner.md",
