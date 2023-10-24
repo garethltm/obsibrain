@@ -4,4 +4,4 @@ $W = he\ waka\ eke\ noa$
 $p(W) = ?$
 
 - Trigram model (n-gram model for n = 3)
-	- p(W)
+	- $p(W) \cong p(he)\ p(waka\ |\ he)\ p(eke\ |\ $ 
