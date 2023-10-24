@@ -4,4 +4,4 @@
 
 > ``snowy(X):- rainy(X), cold(X).`` 
 > - this can be viewed as:
-> - $\forall$x: (rainy(x) ∧ cold(x)) → snowy(x)
+> - $\forall x$: (rainy(x) ∧ cold(x)) → snowy(x)
