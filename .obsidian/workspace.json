@@ -75,7 +75,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week10/Handling Sequences with Neural networks.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week10/Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -162,7 +162,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "COMPSCI367 - Artificial Intelligence/week10/Handling Sequences with Neural networks.md",
+                    "file": "COMPSCI367 - Artificial Intelligence/week10/Untitled.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -262,7 +262,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week10/Handling Sequences with Neural networks.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week10/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -279,7 +279,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week10/Handling Sequences with Neural networks.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week10/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -302,7 +302,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week10/Handling Sequences with Neural networks.md"
+                "file": "COMPSCI367 - Artificial Intelligence/week10/Untitled.md"
               }
             }
           },
@@ -336,9 +336,10 @@
   },
   "active": "d0f61cd9fefb8c2d",
   "lastOpenFiles": [
-    "@images/Pasted image 20231025115510.png",
     "COMPSCI367 - Artificial Intelligence/week10/Autoregressive Language Models based on Deep Learning.md",
+    "COMPSCI367 - Artificial Intelligence/week10/Untitled.md",
     "COMPSCI367 - Artificial Intelligence/week10/Handling Sequences with Neural networks.md",
+    "@images/Pasted image 20231025115510.png",
     "COMPSCI367 - Artificial Intelligence/week10/Smoothing.md",
     "COMPSCI367 - Artificial Intelligence/week10/Language Model.md",
     "COMPSCI367 - Artificial Intelligence/week10/Statistical Language Model.md",
@@ -371,7 +372,6 @@
     "@images/Pasted image 20231025010549.png",
     "@images/Pasted image 20231025003941.png",
     "@images/Pasted image 20231025003904.png",
-    "@images/Pasted image 20231025002120.png",
     "COMPSCI367 - Artificial Intelligence/week08",
     "COMPSCI367 - Artificial Intelligence/week07",
     "COMPSCI367 - Artificial Intelligence/week06",
