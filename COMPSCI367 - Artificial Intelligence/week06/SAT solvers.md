@@ -1,5 +1,5 @@
 - [[Satisfiability Problem (SAT)]] 
-- Feeding this [[proposition]] to a [[SAT solvers]] which produces a [[goal(s) - goal state(s)]]
+- Feeding this [[Propositional Knowledge Base]] from ([[TranslateToSAT]]) to a [[SAT solvers]] which produces a [[goal(s) - goal state(s)]]
 
 ### Efficient implementations
 - [[DPLL algorithm]]
