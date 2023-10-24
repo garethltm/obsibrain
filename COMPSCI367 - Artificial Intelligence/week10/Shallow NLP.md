@@ -19,3 +19,5 @@ $P_{em}(\text{``I don't like the sausage rolls at this tea rooms"})=\,?​$
 	- but this could be a low probability which is not very informative
 - Instead, we could break the [[sentence]] into parts, find relevant pages for these terms, then count these documents & calculate proportion of total samples
 	- but counting is prone to [[overfitting]]
+- $x = (x1,...,xn)$
+- $x=("don't"$
