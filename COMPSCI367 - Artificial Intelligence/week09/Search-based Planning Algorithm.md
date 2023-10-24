@@ -15,4 +15,4 @@
 
 ## Algorithms
 1. [[Forward (Progression) planning]]
-5. [[Backward (Regression) planning]]
+2. [[Backward (Regression) planning]]
