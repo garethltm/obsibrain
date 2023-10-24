@@ -12,4 +12,4 @@ $$p(x)=P(X=x),x\in X$$
 $$H(p) = H(X) = -\displaystyle\sum_{x\in X}p(x)\ log \ p(x)$$
 ![[Pasted image 20231025010549.png]]
 - [[Entropy (or self-information)]] of [[probability]] of mass function = [[Entropy (or self-information)]] of distribution of [[probability]]
-- $-\displaystyle\sum_{x\in X}$ $\rightarrow$
+- $-\displaystyle\sum_{x\in X}$ $\rightarrow$ negation of the sum of the [[probability]] of X(rolling some result) multiplied log ([[probability]] of x)
