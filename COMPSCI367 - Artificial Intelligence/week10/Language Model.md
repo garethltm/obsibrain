@@ -6,4 +6,5 @@ $p(W) = ?$
 - Trigram model (n-gram model for n = 3):
 	- $p(W) \cong p(he)\cdot p(waka\ |\ he)\cdot p(eke\ |\ he,waka)\cdot p(noa\ |\ waka,eke)$
 - Unigram model:
-	- p(w\tiny 1\normalsize)
+	- $p(\huge w\tiny 1\normalsize) = \frac {f(w\tiny 1\normalsize)}{N}$
+	- 
