@@ -1,5 +1,0 @@
-- [[Closed world assumption]]
-- [[Domain-closure assumption]]
-- [[model]]
-- [[axioms]]
-- [[theorem]]

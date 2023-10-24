@@ -75,7 +75,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week01/Rationality.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week07/Completeness.md",
                 "mode": "source",
                 "source": false
               }
@@ -224,7 +224,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week01/Rationality.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week07/Completeness.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -241,7 +241,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week01/Rationality.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week07/Completeness.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -264,7 +264,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week01/Rationality.md"
+                "file": "COMPSCI367 - Artificial Intelligence/week07/Completeness.md"
               }
             }
           },
@@ -298,32 +298,32 @@
   },
   "active": "d0f61cd9fefb8c2d",
   "lastOpenFiles": [
-    "COMPSCI367 - Artificial Intelligence/week01/Reflex (Model-Based) Agent-GARETH.md",
+    "COMPSCI367 - Artificial Intelligence/week07/Completeness-GARETH.md",
+    "COMPSCI367 - Artificial Intelligence/week07/Completeness.md",
+    "COMPSCI367 - Artificial Intelligence/week08/First-Order KB.md",
+    "COMPSCI367 - Artificial Intelligence/week08/term(s).md",
+    "COMPSCI367 - Artificial Intelligence/week08/First-Order KB-GARETH.md",
+    "COMPSCI367 - Artificial Intelligence/week08/Unification-GARETH.md",
+    "COMPSCI367 - Artificial Intelligence/week08/term(s)-GARETH.md",
+    "COMPSCI367 - Artificial Intelligence/week08/signature.md",
+    "COMPSCI367 - Artificial Intelligence/week08/Lifting-GARETH.md",
+    "COMPSCI367 - Artificial Intelligence/week08/quantifier(s).md",
+    "COMPSCI367 - Artificial Intelligence/week08/signature-GARETH.md",
+    "COMPSCI367 - Artificial Intelligence/week08/Skolem constant-GARETH.md",
+    "COMPSCI367 - Artificial Intelligence/week08/quantifier(s)-GARETH.md",
+    "COMPSCI367 - Artificial Intelligence/week08/Satisfaction relation.md",
+    "COMPSCI367 - Artificial Intelligence/week08/Satisfaction relation-GARETH.md",
     "COMPSCI367 - Artificial Intelligence/week01/Rationality.md",
+    "COMPSCI367 - Artificial Intelligence/week01/Unknown-GARETH.md",
+    "COMPSCI367 - Artificial Intelligence/week01/World Model-GARETH.md",
+    "COMPSCI367 - Artificial Intelligence/week01/Utility-Based Agent-GARETH.md",
+    "COMPSCI367 - Artificial Intelligence/week01/Static-GARETH.md",
+    "COMPSCI367 - Artificial Intelligence/week01/Stochastic-GARETH.md",
+    "COMPSCI367 - Artificial Intelligence/week01/Situated-GARETH.md",
+    "COMPSCI367 - Artificial Intelligence/week01/Sequential-GARETH.md",
+    "COMPSCI367 - Artificial Intelligence/week01/Scientific goal-GARETH.md",
+    "COMPSCI367 - Artificial Intelligence/week01/Reflex (Model-Based) Agent-GARETH.md",
     "COMPSCI367 - Artificial Intelligence/week01/Reactive Agent-GARETH.md",
-    "COMPSCI367 - Artificial Intelligence/week01/Rationality-GARETH.md",
-    "COMPSCI367 - Artificial Intelligence/week01/Reactive Agent.md",
-    "COMPSCI367 - Artificial Intelligence/week01/PAGE.md",
-    "COMPSCI367 - Artificial Intelligence/week01/Planning Agent-GARETH.md",
-    "COMPSCI367 - Artificial Intelligence/week01/performance measure-GARETH.md",
-    "COMPSCI367 - Artificial Intelligence/week01/PEAS.md",
-    "COMPSCI367 - Artificial Intelligence/week01/PAGE-GARETH.md",
-    "COMPSCI367 - Artificial Intelligence/week01/PEAS-GARETH.md",
-    "COMPSCI367 - Artificial Intelligence/week01/Known.md",
-    "COMPSCI367 - Artificial Intelligence/week01/Partially Observable-GARETH.md",
-    "COMPSCI367 - Artificial Intelligence/week01/multi-agent-GARETH.md",
-    "COMPSCI367 - Artificial Intelligence/week01/Known-GARETH.md",
-    "COMPSCI367 - Artificial Intelligence/week01/Multi-agent.md",
-    "COMPSCI367 - Artificial Intelligence/week01/Learning Agent.md",
-    "COMPSCI367 - Artificial Intelligence/week01/Episodic.md",
-    "COMPSCI367 - Artificial Intelligence/week01/goal(s) - goal state(s)-GARETH.md",
-    "COMPSCI367 - Artificial Intelligence/week01/Goal-Based (Telelogical Agent)-GARETH.md",
-    "COMPSCI367 - Artificial Intelligence/week01/Game Playing Agent-GARETH.md",
-    "COMPSCI367 - Artificial Intelligence/week01/Episodic-GARETH.md",
-    "COMPSCI367 - Artificial Intelligence/week01/Fully Observable.md",
-    "COMPSCI367 - Artificial Intelligence/week01/Fully Observable-GARETH.md",
-    "COMPSCI367 - Artificial Intelligence/week01/Environment.md",
-    "COMPSCI367 - Artificial Intelligence/week01/environment-GARETH.md",
     "@images/quicklatex.com-557f65414714e2cde89ee6709e65a857_l3-GARETH.svg",
     "COMPSCI367 - Artificial Intelligence/week08",
     "COMPSCI367 - Artificial Intelligence/week07",
