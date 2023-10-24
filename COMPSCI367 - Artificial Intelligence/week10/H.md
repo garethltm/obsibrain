@@ -1,1 +1,1 @@
-*measure of [[Entropy]]*
+*measure of [[Entropy (or self-information)]]*
