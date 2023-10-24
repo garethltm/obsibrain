@@ -4,6 +4,7 @@
 - For query with terms t (eg: ("another","sample")) the best match document is:
 		$$args\ max\ \Pi \tiny i\ \ \normalsize {tf(t\tiny i \normalsize,D)}$$
 - d∈D
+- ${tf(t\tiny i \normalsize,d)}$ = increases
 - More often, we rank the documents, rather than take the best
 	- you calculate through various pages
 	- highest score = most relevant
