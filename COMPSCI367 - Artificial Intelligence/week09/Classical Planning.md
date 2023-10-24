@@ -15,7 +15,10 @@
 
 > Planning problems are co-related with search
 > 	where they are solved in a search
-> Search → problem solving
+> [[Search]]
 > [[Logic]]
 
->[[Classical Planning]]
+>[[Classical Planning]] vs [[Search]]
+>	different [[state(s)]] representation
+
+- [[plann]]
