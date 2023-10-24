@@ -7,4 +7,6 @@
 - Truly random data can't be compressed
 	- Ordered data can be:
 		- Compression is limited by a.) [[Entropy]] (from Shannon)
-			- Important for understanding everything from cell phones, to biology,
+			- Important for understanding everything from cell phones, to biology, to thermodynamics, to black holes.
+		- & more fundamentally by b.) Kolmogorov Complexity (K)
+			- Measure of computational resources needed to specify an object, such as a piece of text
