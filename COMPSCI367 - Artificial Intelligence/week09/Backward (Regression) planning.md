@@ -1,5 +1,4 @@
 start from [[goal(s) - goal state(s)]] & finding a sequene of steps that reaches the [[initial state (start state)]] by iteratively applying [[action(s)]] in the backward direction
-
 ### Action Scheme
 1. `action a` is relevant to `goal g` if it satisfies **one or both** of these conditions:
     - at least 1 of `action a` ’s effects (can be + or -) unifies with an element of `goal g`
@@ -11,4 +10,4 @@ start from [[goal(s) - goal state(s)]] & finding a sequene of steps that reaches
 2. regressed [[subgoal]] → from `goal g` over `action a` is:
     - `Regress(g,a)` = (`goal g` \ `Add(a)`) ∪ `Precond(a)`
 
-		<aside> 💡 Backward planning can be more effective in certain context</aside>
+		<aside> 💡 Backward planning can be more effective in certain context</aside>![[Pasted image 20231024154602.png]]
