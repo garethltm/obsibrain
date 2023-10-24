@@ -99,7 +99,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week09/Planning.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week09/Backward (Regression) planning.md",
                 "mode": "source",
                 "source": false
               }
@@ -123,7 +123,7 @@
                 "state": {
                   "type": "outgoing-link",
                   "state": {
-                    "file": "COMPSCI367 - Artificial Intelligence/week09/Planning.md",
+                    "file": "COMPSCI367 - Artificial Intelligence/week09/Backward (Regression) planning.md",
                     "linksCollapsed": false,
                     "unlinkedCollapsed": true
                   }
@@ -203,7 +203,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "subgoal",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -220,7 +220,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -251,7 +252,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week09/Planning.md"
+                "file": "COMPSCI367 - Artificial Intelligence/week09/Backward (Regression) planning.md"
               }
             }
           },
@@ -292,11 +293,13 @@
   },
   "active": "3dd87e27a1a2fba3",
   "lastOpenFiles": [
+    "COMPSCI367 - Artificial Intelligence/week09/Planning.md",
+    "COMPSCI367 - Artificial Intelligence/week09/plan.md",
+    "COMPSCI367 - Artificial Intelligence/week09/Planning task.md",
     "COMPSCI367 - Artificial Intelligence/week09/Search-based.md",
+    "COMPSCI367 - Artificial Intelligence/week09/Classical Planning.md",
     "COMPSCI367 - Artificial Intelligence/week06/Structured Representation.md",
     "COMPSCI367 - Artificial Intelligence/week09/search.md",
-    "COMPSCI367 - Artificial Intelligence/week09/Planning.md",
-    "COMPSCI367 - Artificial Intelligence/week09/Classical Planning.md",
     "COMPSCI367 - Artificial Intelligence/week09/Forward (Progression) planning.md",
     "COMPSCI367 - Artificial Intelligence/week09/Backward (Regression) planning.md",
     "Backward (Regression) planning.md",
@@ -306,8 +309,6 @@
     "COMPSCI367 - Artificial Intelligence/week09/ExtractPlan.md",
     "COMPSCI367 - Artificial Intelligence/week09/First Order Bayes Nets.md",
     "COMPSCI367 - Artificial Intelligence/week09/Logic-based Planning algorithms.md",
-    "COMPSCI367 - Artificial Intelligence/week09/Planning task.md",
-    "COMPSCI367 - Artificial Intelligence/week09/plan.md",
     "COMPSCI367 - Artificial Intelligence/week09/Task description.md",
     "COMPSCI367 - Artificial Intelligence/week02/state(s).md",
     "COMPSCI367 - Artificial Intelligence/week09/Problem file.md",
