@@ -1,5 +1,5 @@
 -  [[Propositional Logic]]-based planning
-	- SATPlan ([[SAT solvers]])
+	- [[SATPlan]] ([[SAT solvers]])
 -  [[Logic Programming]]-based planning
 	- Prolog planner
 
@@ -18,4 +18,4 @@
 >>>Example: finding an [[interpretation]] π such that: π ⊧ φ
 
 ![[Untitled 6.png]]
-- represent the planning problem using logical syntax & extract the sequence of actions from there
+- represent the planning problem using logical [[syntax]] & extract the sequence of [[action(s)]] from there

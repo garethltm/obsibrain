@@ -1,0 +1,1 @@
+finding a plan by converting the problem int a 
