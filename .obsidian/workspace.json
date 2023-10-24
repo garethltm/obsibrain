@@ -11,8 +11,12 @@
             "id": "0ac46519bebe99ac",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "COMPSCI367 - Artificial Intelligence/week05/Alpha-Beta Pruning.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -92,7 +96,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "COMPSCI367 - Artificial Intelligence/week05/Alpha-Beta Pruning.md"
+              }
             }
           },
           {
