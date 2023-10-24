@@ -15,14 +15,14 @@
 
 > Planning problems are co-related with search
 > 	where they are solved in a search
-> [[Search]]
+> [[search]]
 > [[Logic]]
 
->[[Classical Planning]] vs [[Search]]
+>[[Classical Planning]] vs [[search]]
 >	different [[state(s)]] representation
 
 - [[Classical Planning]]
 	- [[state(s)]]: structural information used by [[Classical Planning]] [[algorithm]]
-- [[Search]]
-	- [[state(s)]]: single entity used by the [[Search]] [[algorithm]]
+- [[search]]
+	- [[state(s)]]: single entity used by the [[search]] [[algorithm]]
 ![[Untitled 5.png]]

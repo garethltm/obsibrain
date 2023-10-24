@@ -10,4 +10,4 @@ applying [[action(s)]] & checking whether if you are closer to the [[goal(s) - g
 
 ### Complexity Issue
 1. Irrelevant [[action(s)]] → You might end up getting [[state(s)]] that are not relevant to the [[goal(s) - goal state(s)]]
-2. Large search space → Taking up loads of space in [[Search]] of finding your [[goal(s) - goal state(s)]]
+2. Large search space → Taking up loads of space in [[search]] of finding your [[goal(s) - goal state(s)]]
