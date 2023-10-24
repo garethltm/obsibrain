@@ -1,0 +1,2 @@
+- $H(X,Y) = H(X) + H(Y|X)$
+	- combination of 
