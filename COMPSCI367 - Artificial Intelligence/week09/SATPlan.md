@@ -1,5 +1,6 @@
 finding a plan by converting the problem into a [[Propositional Knowledge Base]] $\Phi$
-- a [[satisfiable]] [[interpretation]] of $\Phi$: assign TRUE to the [[action(s)]] that are part of 
+- a [[satisfiable]] [[interpretation]] of $\Phi$: assign TRUE to the [[action(s)]] that are part of a correct plan; false to the others
+- if there is no correct plan, $\Phi$ is not [[satisfiable]]
 
 ### Main components of [[SATPlan]]
 1. [[TranslateToSAT]]
@@ -9,7 +10,7 @@ finding a plan by converting the problem into a [[Propositional Knowledge Base]]
 >> Remember to set a hyperparameter `(Tmax)` to bound the length of the plan
 >
 >Check the main steps of [[TranslateToSAT]](Translate a [[PDDL]] description to [[SATPlan]]) 
-
->conjunctive normal form not being test
+![[Pasted image 20231024160111.png]]
+>conjunctive normal form not being tested
 
 Related to: [[Satisfiability Problem (SAT)]]
