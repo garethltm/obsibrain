@@ -5,5 +5,5 @@ $$p(x)=P(X=x),x\in X$$
 >		$p(0) = 0$,
 >		$p(1) = 0$,
 >		$p(2) = \frac {1}{36}$,
->		$p(3) = \frac {2}{36}, ...,p(12) = \frac {1}{36},$
->		p(13) = 0, etc.
+>		$p(3) = \frac {2}{36}, ...,p(12) = \frac {1}{36},p(13) = 0, etc.$
+>	If we set X = {2,3,4,5,6,7,8,9,10,11,12}, being the outcomes that can actually happen, we can eliminate the 0 probabilities
