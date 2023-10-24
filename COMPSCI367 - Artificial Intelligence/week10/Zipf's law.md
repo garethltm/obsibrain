@@ -1,0 +1,3 @@
+- N: Number of words in English
+- k: rank of the word
+- s: is a parameter (1 fits OK for Eng)
