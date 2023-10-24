@@ -6,3 +6,5 @@
 We will describe these components using [[First-Order Logic]]
 
 ![[Pasted image 20231024151254.png]]![[Pasted image 20231024151313.png]]
+![[Pasted image 20231024151352.png]]
+![[Pasted image 20231024151339.png]]

@@ -1,1 +1,1 @@
-Translate a [[PDDL implementation]] description into a [[Propositional Knowledge Base]]
+Translate a [[PDDL]] description into a [[Propositional Knowledge Base]]

@@ -99,7 +99,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week09/Planning task.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week09/PDDL.md",
                 "mode": "source",
                 "source": false
               }
@@ -123,7 +123,7 @@
                 "state": {
                   "type": "outgoing-link",
                   "state": {
-                    "file": "COMPSCI367 - Artificial Intelligence/week09/Planning task.md",
+                    "file": "COMPSCI367 - Artificial Intelligence/week09/PDDL.md",
                     "linksCollapsed": false,
                     "unlinkedCollapsed": true
                   }
@@ -251,7 +251,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week09/Planning task.md"
+                "file": "COMPSCI367 - Artificial Intelligence/week09/PDDL.md"
               }
             }
           },
@@ -292,6 +292,9 @@
   },
   "active": "3dd87e27a1a2fba3",
   "lastOpenFiles": [
+    "COMPSCI367 - Artificial Intelligence/week09/Planning task.md",
+    "@images/Pasted image 20231024151352.png",
+    "@images/Pasted image 20231024151339.png",
     "@images/Pasted image 20231024151313.png",
     "@images/Pasted image 20231024151254.png",
     "COMPSCI367 - Artificial Intelligence/week09/TranslateToSAT.md",
@@ -303,9 +306,8 @@
     "COMPSCI367 - Artificial Intelligence/week09/Probability Theory.md",
     "COMPSCI367 - Artificial Intelligence/week09/Probability.md",
     "COMPSCI367 - Artificial Intelligence/week09/Probabilistic Reasoning.md",
-    "COMPSCI367 - Artificial Intelligence/week09/Planning task.md",
     "COMPSCI367 - Artificial Intelligence/week09/plan.md",
-    "COMPSCI367 - Artificial Intelligence/week09/PDDL implementation.md",
+    "COMPSCI367 - Artificial Intelligence/week09/PDDL.md",
     "COMPSCI367 - Artificial Intelligence/week09/Logic-based Planning algorithms.md",
     "COMPSCI367 - Artificial Intelligence/week09/First Order Bayes Nets.md",
     "COMPSCI367 - Artificial Intelligence/week09/ExtractPlan.md",
@@ -326,12 +328,9 @@
     "@images/Untitled 4.png",
     "@images/Untitled 3.png",
     "@images/Untitled 2.png",
-    "@images/Untitled 1.png",
-    "@images/quicklatex.com-557f65414714e2cde89ee6709e65a857_l3-GARETH.svg",
     "COMPSCI367 - Artificial Intelligence/week08",
     "COMPSCI367 - Artificial Intelligence/week07",
     "COMPSCI367 - Artificial Intelligence/week06",
-    "@images/rules-of-inference-chart.png",
     "COMPSCI367 - Artificial Intelligence/week03",
     "COMPSCI367 - Artificial Intelligence/week04",
     "COMPSCI367 - Artificial Intelligence/week05",
