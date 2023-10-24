@@ -22,7 +22,8 @@ finding a plan by converting the problem into a [[Propositional Knowledge Base]]
 ## Advantages
 Speed
 - Utilising efficient [[domain-independent heuristic]] for [[Propositional Logic]] reasoning
-- Taking advantag
+- Taking advantage of mature [[SAT solvers]] such as DPLL, which is highly optimised
+- Fixed structure in [[Classical Planning]] domain & problem means that further optimisation is possible
 
 >conjunctive normal form not being tested
 
