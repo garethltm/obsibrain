@@ -1,4 +1,4 @@
 - $H(X,Y) = H(X) + H(Y|X)$
 	- combination of [[Joint Entropy]] & [[Conditional Entropy]]
-- $H(X\tiny 1\normalsize ,...,X\tiny n \normalsize) = H(X\tiny 1\normalsize) +H(X\tiny 2\normalsize | X\tiny 1\normalsize)+...+H(X\tiny 1\normalsize)$
-- 
+- $H(X\tiny 1\normalsize ,...,X\tiny n \normalsize) = H(X\tiny 1\normalsize) +H(X\tiny 2\normalsize | X\tiny 1\normalsize)+...+H(X\tiny n\normalsize |X\tiny 1\normalsize ,..., X\tiny n-1\normalsize)$
+	- summation because of logs
