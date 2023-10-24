@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week10/Entropy (or self-information).md",
+                "file": "COMPSCI367 - Artificial Intelligence/week10/Joint Entropy.md",
                 "mode": "source",
                 "source": false
               }
@@ -45,7 +45,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week10/Entropy (or self-information).md",
+                "file": "COMPSCI367 - Artificial Intelligence/week10/Joint Entropy.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -140,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week10/Entropy (or self-information).md",
+                "file": "COMPSCI367 - Artificial Intelligence/week10/Joint Entropy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week10/Entropy (or self-information).md",
+                "file": "COMPSCI367 - Artificial Intelligence/week10/Joint Entropy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -180,7 +180,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week10/Entropy (or self-information).md"
+                "file": "COMPSCI367 - Artificial Intelligence/week10/Joint Entropy.md"
               }
             }
           },
@@ -214,6 +214,8 @@
   },
   "active": "719a9e3cda8d050c",
   "lastOpenFiles": [
+    "COMPSCI367 - Artificial Intelligence/week10/Entropy (or self-information).md",
+    "COMPSCI367 - Artificial Intelligence/week10/Joint Entropy.md",
     "@images/Pasted image 20231025011003.png",
     "@images/Pasted image 20231025010549.png",
     "COMPSCI367 - Artificial Intelligence/week10/Information Theory.md",
@@ -223,7 +225,6 @@
     "COMPSCI367 - Artificial Intelligence/week10/data rate.md",
     "COMPSCI367 - Artificial Intelligence/week10/Untitled",
     "COMPSCI367 - Artificial Intelligence/week10/Transmission errors.md",
-    "COMPSCI367 - Artificial Intelligence/week10/Entropy (or self-information).md",
     "COMPSCI367 - Artificial Intelligence/week10/Channel Capacity.md",
     "COMPSCI367 - Artificial Intelligence/week10/Why should you use NLP.md",
     "COMPSCI367 - Artificial Intelligence/week10/Modern Problems - More subsequent lectures.md",
@@ -250,7 +251,6 @@
     "@images/Pasted image 20231025000943.png",
     "@images/Pasted image 20231025000902.png",
     "@images/Pasted image 20231025000844.png",
-    "@images/Pasted image 20231025000433.png",
     "COMPSCI367 - Artificial Intelligence/week10",
     "COMPSCI367 - Artificial Intelligence/week09",
     "INFOSYS222 - Database Systems",

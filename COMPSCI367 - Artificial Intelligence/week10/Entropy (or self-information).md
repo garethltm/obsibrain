@@ -18,3 +18,4 @@ $$H(p) = H(X) = -\displaystyle\sum_{x\in X}p(x)\times log \ p(x)$$
 	- negation of the sum of the [[probability]] of X (rolling some result) 
 	- multiplied by log ([[probability]] of x)
 
+![[Pasted image 20231025011003.png]]
