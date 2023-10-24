@@ -1,2 +1,2 @@
 - problem solving
-- possibilities of just moving from one [[stat]]
+- possibilities of just moving from one [[state(s)]] to another [[state(s)]]

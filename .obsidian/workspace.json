@@ -99,7 +99,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week09/Search.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week09/Classical Planning.md",
                 "mode": "source",
                 "source": false
               }
@@ -131,7 +131,7 @@
                 "state": {
                   "type": "outgoing-link",
                   "state": {
-                    "file": "COMPSCI367 - Artificial Intelligence/week09/Search.md",
+                    "file": "COMPSCI367 - Artificial Intelligence/week09/Classical Planning.md",
                     "linksCollapsed": false,
                     "unlinkedCollapsed": true
                   }
@@ -143,7 +143,7 @@
                 "state": {
                   "type": "backlink",
                   "state": {
-                    "file": "COMPSCI367 - Artificial Intelligence/week09/Search.md",
+                    "file": "COMPSCI367 - Artificial Intelligence/week09/Classical Planning.md",
                     "collapseAll": false,
                     "extraContext": false,
                     "sortOrder": "alphabetical",
@@ -277,7 +277,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week09/Search.md"
+                "file": "COMPSCI367 - Artificial Intelligence/week09/Classical Planning.md"
               }
             }
           },
@@ -318,8 +318,8 @@
   },
   "active": "3dd87e27a1a2fba3",
   "lastOpenFiles": [
-    "COMPSCI367 - Artificial Intelligence/week09/Classical Planning.md",
     "COMPSCI367 - Artificial Intelligence/week09/Search.md",
+    "COMPSCI367 - Artificial Intelligence/week09/Classical Planning.md",
     "COMPSCI367 - Artificial Intelligence/week09/Domain file.md",
     "COMPSCI367 - Artificial Intelligence/week09/Building a planner.md",
     "COMPSCI367 - Artificial Intelligence/week09/Logic-based.md",
