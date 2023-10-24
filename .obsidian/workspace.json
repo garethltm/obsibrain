@@ -87,7 +87,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week08/Logic Programming.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week08/logic.md",
                 "mode": "source",
                 "source": false
               }
@@ -119,7 +119,7 @@
                 "state": {
                   "type": "outgoing-link",
                   "state": {
-                    "file": "COMPSCI367 - Artificial Intelligence/week08/Logic Programming.md",
+                    "file": "COMPSCI367 - Artificial Intelligence/week08/logic.md",
                     "linksCollapsed": false,
                     "unlinkedCollapsed": true
                   }
@@ -131,7 +131,7 @@
                 "state": {
                   "type": "backlink",
                   "state": {
-                    "file": "COMPSCI367 - Artificial Intelligence/week08/Logic Programming.md",
+                    "file": "COMPSCI367 - Artificial Intelligence/week08/logic.md",
                     "collapseAll": false,
                     "extraContext": false,
                     "sortOrder": "alphabetical",
@@ -265,7 +265,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week08/Logic Programming.md"
+                "file": "COMPSCI367 - Artificial Intelligence/week08/logic.md"
               }
             }
           },
@@ -306,9 +306,9 @@
   },
   "active": "2602e13c15239a89",
   "lastOpenFiles": [
+    "COMPSCI367 - Artificial Intelligence/week08/Logic Programming.md",
     "COMPSCI367 - Artificial Intelligence/week08/Declarative programming.md",
     "@images/Untitled 1.png",
-    "COMPSCI367 - Artificial Intelligence/week08/Logic Programming.md",
     "COMPSCI367 - Artificial Intelligence/week08/Imperative programming.md",
     "COMPSCI367 - Artificial Intelligence/week08/logic.md",
     "conflict-files-obsidian-git.md",
