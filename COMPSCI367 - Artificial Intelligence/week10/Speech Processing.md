@@ -12,3 +12,5 @@
 - Emotion Recognition
 - Beam Forming
 	- picking out a conversation in a crowded room
+
+Related to: [[The Noisy Channel Model]]

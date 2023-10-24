@@ -6,7 +6,7 @@
       {
         "id": "e1ccbf259f6ba816",
         "type": "tabs",
-        "dimension": 70.51724137931035,
+        "dimension": 64.34010152284264,
         "children": [
           {
             "id": "bcc7a7b87dd8df83",
@@ -75,11 +75,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week10/Speech Processing.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week10/Machine Translation.md",
                 "mode": "source",
                 "source": false
               }
-            }
+            },
+            "group": "bd9851f4b44cc862"
           },
           {
             "id": "2602e13c15239a89",
@@ -99,7 +100,7 @@
       {
         "id": "992e264c1b226738",
         "type": "split",
-        "dimension": 29.48275862068965,
+        "dimension": 35.659898477157356,
         "children": [
           {
             "id": "8d459d1c85b8b9ed",
@@ -154,8 +155,45 @@
                   }
                 },
                 "group": "49e37924338b6c36"
+              },
+              {
+                "id": "a8b21011d3ee7aaa",
+                "type": "leaf",
+                "state": {
+                  "type": "localgraph",
+                  "state": {
+                    "file": "COMPSCI367 - Artificial Intelligence/week10/Machine Translation.md",
+                    "options": {
+                      "collapse-filter": true,
+                      "search": "",
+                      "localJumps": 1,
+                      "localBacklinks": true,
+                      "localForelinks": true,
+                      "localInterlinks": false,
+                      "showTags": false,
+                      "showAttachments": false,
+                      "hideUnresolved": false,
+                      "collapse-color-groups": true,
+                      "colorGroups": [],
+                      "collapse-display": true,
+                      "showArrow": false,
+                      "textFadeMultiplier": 0,
+                      "nodeSizeMultiplier": 1,
+                      "lineSizeMultiplier": 1,
+                      "collapse-forces": true,
+                      "centerStrength": 0.518713248970312,
+                      "repelStrength": 10,
+                      "linkStrength": 1,
+                      "linkDistance": 250,
+                      "scale": 1,
+                      "close": false
+                    }
+                  }
+                },
+                "group": "bd9851f4b44cc862"
               }
-            ]
+            ],
+            "currentTab": 1
           }
         ],
         "direction": "horizontal"
@@ -224,7 +262,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week10/Speech Processing.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week10/Machine Translation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -241,7 +279,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week10/Speech Processing.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week10/Machine Translation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -264,7 +302,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week10/Speech Processing.md"
+                "file": "COMPSCI367 - Artificial Intelligence/week10/Machine Translation.md"
               }
             }
           },
@@ -299,6 +337,8 @@
   "active": "d0f61cd9fefb8c2d",
   "lastOpenFiles": [
     "COMPSCI367 - Artificial Intelligence/week10/The Noisy Channel Model.md",
+    "COMPSCI367 - Artificial Intelligence/week10/Machine Translation.md",
+    "COMPSCI367 - Artificial Intelligence/week10/The vector space model.md",
     "COMPSCI367 - Artificial Intelligence/week10/Speech Processing.md",
     "@images/Pasted image 20231025101932.png",
     "@images/Pasted image 20231025101919.png",
@@ -326,8 +366,6 @@
     "COMPSCI367 - Artificial Intelligence/week10/Laplace smoothing (add-one smoothing).md",
     "COMPSCI367 - Artificial Intelligence/week10/Joint Entropy.md",
     "COMPSCI367 - Artificial Intelligence/week10/Inverse Document Frequency (idf).md",
-    "COMPSCI367 - Artificial Intelligence/week10/Information Theory.md",
-    "COMPSCI367 - Artificial Intelligence/week10/Information Retrieval (IR).md",
     "@images/Pasted image 20231025012028.png",
     "@images/Pasted image 20231025011003.png",
     "@images/Pasted image 20231025010549.png",
