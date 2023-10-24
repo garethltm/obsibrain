@@ -1,1 +1,0 @@
-- **a special type of [[Queue]] in which elements present in the [[Queue]] are served according to their priority**
