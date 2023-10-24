@@ -1,4 +1,4 @@
-- a domain-independent language that allows representation of [[Classical Planning]] task
+- a domain-independent language such as [[PDDL]] that allows representation of [[Classical Planning]] task
 1. [[state(s)]]
 2. [[action(s)]]
 3. [[initial state (start state)]]

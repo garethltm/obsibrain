@@ -1,3 +1,3 @@
-1. 
-2. [[Domain file]]
-3. [[Problem file]]
+- Planning Domain Definition Language
+-  [[Domain file]]
+-  [[Problem file]]
