@@ -1,0 +1,2 @@
+- study of the transmission, storage & retrieval of digital information
+- Idea of [[Channel Capacity]]
