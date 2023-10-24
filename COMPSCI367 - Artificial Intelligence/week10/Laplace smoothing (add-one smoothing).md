@@ -1,0 +1,1 @@
+- in the case of α = 1 simply adds a constant to each count
