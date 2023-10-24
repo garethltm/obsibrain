@@ -1,1 +1,0 @@
-$\neg , \vee, \wedge, \rightarrow$

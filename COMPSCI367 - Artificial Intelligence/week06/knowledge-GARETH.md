@@ -1,2 +1,0 @@
-- [[constraint(s)]] (logical relationship) on variables
-	- a connection between 2 variables

@@ -75,7 +75,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week07/Completeness.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week06/logically equivalent (logical equivalence)-GARETH.md",
                 "mode": "source",
                 "source": false
               }
@@ -224,7 +224,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week07/Completeness.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week06/logically equivalent (logical equivalence)-GARETH.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -241,7 +241,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week07/Completeness.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week06/logically equivalent (logical equivalence)-GARETH.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -264,7 +264,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week07/Completeness.md"
+                "file": "COMPSCI367 - Artificial Intelligence/week06/logically equivalent (logical equivalence)-GARETH.md"
               }
             }
           },
@@ -298,32 +298,32 @@
   },
   "active": "d0f61cd9fefb8c2d",
   "lastOpenFiles": [
-    "COMPSCI367 - Artificial Intelligence/week07/Completeness-GARETH.md",
+    "COMPSCI367 - Artificial Intelligence/week06/logically equivalent (logical equivalence).md",
+    "COMPSCI367 - Artificial Intelligence/week06/logically equivalent (logical equivalence)-GARETH.md",
+    "COMPSCI367 - Artificial Intelligence/week06/Logic Inference vs Constraint Satisfaction.md",
+    "COMPSCI367 - Artificial Intelligence/week06/logical consequence-GARETH.md",
+    "COMPSCI367 - Artificial Intelligence/week06/Logic Inference vs Constraint Satisfaction-GARETH.md",
+    "COMPSCI367 - Artificial Intelligence/week06/Knowledge Representation Language.md",
+    "COMPSCI367 - Artificial Intelligence/week06/Logic Inference Problem-GARETH.md",
+    "COMPSCI367 - Artificial Intelligence/week06/knowledge-GARETH.md",
+    "COMPSCI367 - Artificial Intelligence/week06/intelligent.md",
+    "COMPSCI367 - Artificial Intelligence/week06/Knowledge-based Agents-GARETH.md",
+    "COMPSCI367 - Artificial Intelligence/week06/Knowledge Representation Language-GARETH.md",
+    "COMPSCI367 - Artificial Intelligence/week06/Knowledge Base (KB)-GARETH.md",
+    "COMPSCI367 - Artificial Intelligence/week06/interpretation-GARETH.md",
+    "COMPSCI367 - Artificial Intelligence/week06/intelligent-GARETH.md",
     "COMPSCI367 - Artificial Intelligence/week07/Completeness.md",
-    "COMPSCI367 - Artificial Intelligence/week08/First-Order KB.md",
-    "COMPSCI367 - Artificial Intelligence/week08/term(s).md",
-    "COMPSCI367 - Artificial Intelligence/week08/First-Order KB-GARETH.md",
-    "COMPSCI367 - Artificial Intelligence/week08/Unification-GARETH.md",
-    "COMPSCI367 - Artificial Intelligence/week08/term(s)-GARETH.md",
-    "COMPSCI367 - Artificial Intelligence/week08/signature.md",
-    "COMPSCI367 - Artificial Intelligence/week08/Lifting-GARETH.md",
-    "COMPSCI367 - Artificial Intelligence/week08/quantifier(s).md",
-    "COMPSCI367 - Artificial Intelligence/week08/signature-GARETH.md",
-    "COMPSCI367 - Artificial Intelligence/week08/Skolem constant-GARETH.md",
-    "COMPSCI367 - Artificial Intelligence/week08/quantifier(s)-GARETH.md",
-    "COMPSCI367 - Artificial Intelligence/week08/Satisfaction relation.md",
-    "COMPSCI367 - Artificial Intelligence/week08/Satisfaction relation-GARETH.md",
-    "COMPSCI367 - Artificial Intelligence/week01/Rationality.md",
-    "COMPSCI367 - Artificial Intelligence/week01/Unknown-GARETH.md",
-    "COMPSCI367 - Artificial Intelligence/week01/World Model-GARETH.md",
-    "COMPSCI367 - Artificial Intelligence/week01/Utility-Based Agent-GARETH.md",
-    "COMPSCI367 - Artificial Intelligence/week01/Static-GARETH.md",
-    "COMPSCI367 - Artificial Intelligence/week01/Stochastic-GARETH.md",
-    "COMPSCI367 - Artificial Intelligence/week01/Situated-GARETH.md",
-    "COMPSCI367 - Artificial Intelligence/week01/Sequential-GARETH.md",
-    "COMPSCI367 - Artificial Intelligence/week01/Scientific goal-GARETH.md",
-    "COMPSCI367 - Artificial Intelligence/week01/Reflex (Model-Based) Agent-GARETH.md",
-    "COMPSCI367 - Artificial Intelligence/week01/Reactive Agent-GARETH.md",
+    "COMPSCI367 - Artificial Intelligence/week06/Inference engines (IE)-GARETH.md",
+    "COMPSCI367 - Artificial Intelligence/week06/Equivalence between inference & satisfiability-GARETH.md",
+    "COMPSCI367 - Artificial Intelligence/week06/Factored Representation-GARETH.md",
+    "COMPSCI367 - Artificial Intelligence/week06/Duality of Syntax vs Semantics-GARETH.md",
+    "COMPSCI367 - Artificial Intelligence/week06/DPLL algorithm-GARETH.md",
+    "COMPSCI367 - Artificial Intelligence/week06/connectives-GARETH.md",
+    "COMPSCI367 - Artificial Intelligence/week06/clause(s)-GARETH.md",
+    "COMPSCI367 - Artificial Intelligence/week06/Atomic Representation-GARETH.md",
+    "COMPSCI367 - Artificial Intelligence/week06/Atomic Entities-GARETH.md",
+    "COMPSCI367 - Artificial Intelligence/week06/Atomic Propositions (atoms)-GARETH.md",
+    "COMPSCI367 - Artificial Intelligence/week06/Agents with a World Model-GARETH.md",
     "@images/quicklatex.com-557f65414714e2cde89ee6709e65a857_l3-GARETH.svg",
     "COMPSCI367 - Artificial Intelligence/week08",
     "COMPSCI367 - Artificial Intelligence/week07",

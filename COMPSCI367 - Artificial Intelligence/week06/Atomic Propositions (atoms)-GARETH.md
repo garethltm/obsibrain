@@ -1,2 +1,0 @@
-- binary features of the form X with domain {true, false} or {0, 1}
-- basic entities
