@@ -1,7 +1,9 @@
 - study of the transmission, storage & retrieval of digital information
+	- sending & receiving messages
 - Idea of [[Channel Capacity]]:
+	- Encrypted message decoded into plain-text
 	- [[Transmission errors]] can be arbitrarily low as long as:
-		data rate < channel capacity
+		[[data rate]] < channel capacity
 - Idea of [[Entropy]]
 - [[Data compression]]
 - Truly random data can't be compressed
