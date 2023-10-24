@@ -75,7 +75,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "INFOSYS222 - Database Systems/Chen's ERD Notation-GARETH.md",
+                "file": "INFOSYS222 - Database Systems/Business Intelligence.md",
                 "mode": "source",
                 "source": false
               }
@@ -204,8 +204,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -225,7 +224,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "INFOSYS222 - Database Systems/Chen's ERD Notation-GARETH.md",
+                "file": "INFOSYS222 - Database Systems/Business Intelligence.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -242,7 +241,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "INFOSYS222 - Database Systems/Chen's ERD Notation-GARETH.md",
+                "file": "INFOSYS222 - Database Systems/Business Intelligence.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -265,7 +264,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "INFOSYS222 - Database Systems/Chen's ERD Notation-GARETH.md"
+                "file": "INFOSYS222 - Database Systems/Business Intelligence.md"
               }
             }
           },
@@ -299,6 +298,22 @@
   },
   "active": "d0f61cd9fefb8c2d",
   "lastOpenFiles": [
+    "INFOSYS222 - Database Systems/Basic with Staging & Data Marts.md",
+    "INFOSYS222 - Database Systems/Basic.md",
+    "INFOSYS222 - Database Systems/Attribute.md",
+    "INFOSYS222 - Database Systems/Analytics.md",
+    "INFOSYS222 - Database Systems/3NF - 3rd Normal Form.md",
+    "INFOSYS222 - Database Systems/2NF - 2nd Normal Form.md",
+    "INFOSYS222 - Database Systems/1NF - 1st Normal Form.md",
+    "INFOSYS222 - Database Systems/0NF - 'Un'normalised.md",
+    "INFOSYS222 - Database Systems/(Hyper) Cube Data Warehouse.md",
+    "COMPSCI367 - Artificial Intelligence/week06/Compound Propositions (Compound Entities)-GARETH.md",
+    "INFOSYS222 - Database Systems/Hierarchy.md",
+    "INFOSYS222 - Database Systems/Hierarchy-GARETH.md",
+    "INFOSYS222 - Database Systems/Database Management.md",
+    "INFOSYS222 - Database Systems/Database Management-GARETH.md",
+    "INFOSYS222 - Database Systems/Conceptual to Logical-GARETH.md",
+    "INFOSYS222 - Database Systems/Chen's ERD Notation-GARETH.md",
     "COMPSCI367 - Artificial Intelligence/week02/Uninformed Search.md",
     "COMPSCI367 - Artificial Intelligence/week02/Uninformed Search-GARETH.md",
     "COMPSCI367 - Artificial Intelligence/week02/Uniform-Cost Search (UCS) (Lowest-Cost-First Search).md",
@@ -309,22 +324,6 @@
     "COMPSCI367 - Artificial Intelligence/week02/State Space Searching.md",
     "COMPSCI367 - Artificial Intelligence/week02/State Space Problem.md",
     "COMPSCI367 - Artificial Intelligence/week02/Problem Solving by Graph Searching.md",
-    "COMPSCI367 - Artificial Intelligence/week02/state(s)-GARETH.md",
-    "COMPSCI367 - Artificial Intelligence/week02/State Space Searching-GARETH.md",
-    "COMPSCI367 - Artificial Intelligence/week02/State Space Problem-GARETH.md",
-    "COMPSCI367 - Artificial Intelligence/week02/Search Tree-GARETH.md",
-    "COMPSCI367 - Artificial Intelligence/week02/Search Techniques (Search Strategy) (Search Algorithm)-GARETH.md",
-    "COMPSCI367 - Artificial Intelligence/week02/Problem Solving by Graph Searching-GARETH.md",
-    "COMPSCI367 - Artificial Intelligence/week02/Motivation of having a Search Strategy.md",
-    "COMPSCI367 - Artificial Intelligence/week02/Priority Queue-GARETH.md",
-    "COMPSCI367 - Artificial Intelligence/week02/path(s)-GARETH.md",
-    "COMPSCI367 - Artificial Intelligence/week02/Optimal-GARETH.md",
-    "COMPSCI367 - Artificial Intelligence/week02/Motivation of having a Search Strategy-GARETH.md",
-    "COMPSCI367 - Artificial Intelligence/week02/Iterative-Deepening Search (IDS).md",
-    "COMPSCI367 - Artificial Intelligence/week02/Iterative-Deepening Search (IDS)-GARETH.md",
-    "COMPSCI367 - Artificial Intelligence/week03/optimistic.md",
-    "COMPSCI367 - Artificial Intelligence/week02/Informed Search-GARETH.md",
-    "COMPSCI367 - Artificial Intelligence/week02/Informed Search Heuristic-GARETH.md",
     "@images/quicklatex.com-557f65414714e2cde89ee6709e65a857_l3-GARETH.svg",
     "COMPSCI367 - Artificial Intelligence/week08",
     "COMPSCI367 - Artificial Intelligence/week07",
