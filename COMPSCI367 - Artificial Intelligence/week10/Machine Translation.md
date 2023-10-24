@@ -7,6 +7,6 @@ This exemplifies a current research problem in [[Natural Language Processing (NL
 $$\begin{equation}
 	\begin{split} 
 	\hat {mi}= arg\ max\ p(mi|zh)\\
-		
+		= arg\ max\ \frac {p(zh|mi)\ \cdotp(mi)}{}\\
 		\end{split}
 		\end{equation}$$
