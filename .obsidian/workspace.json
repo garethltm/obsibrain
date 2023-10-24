@@ -75,7 +75,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week10/Machine Translation.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week10/Statistical Language Model.md",
                 "mode": "source",
                 "source": false
               }
@@ -162,7 +162,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "COMPSCI367 - Artificial Intelligence/week10/Machine Translation.md",
+                    "file": "COMPSCI367 - Artificial Intelligence/week10/Statistical Language Model.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -262,7 +262,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week10/Machine Translation.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week10/Statistical Language Model.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -279,7 +279,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week10/Machine Translation.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week10/Statistical Language Model.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -302,7 +302,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week10/Machine Translation.md"
+                "file": "COMPSCI367 - Artificial Intelligence/week10/Statistical Language Model.md"
               }
             }
           },
@@ -336,8 +336,9 @@
   },
   "active": "d0f61cd9fefb8c2d",
   "lastOpenFiles": [
-    "COMPSCI367 - Artificial Intelligence/week10/The Noisy Channel Model.md",
     "COMPSCI367 - Artificial Intelligence/week10/Machine Translation.md",
+    "COMPSCI367 - Artificial Intelligence/week10/Statistical Language Model.md",
+    "COMPSCI367 - Artificial Intelligence/week10/The Noisy Channel Model.md",
     "COMPSCI367 - Artificial Intelligence/week10/The vector space model.md",
     "COMPSCI367 - Artificial Intelligence/week10/Speech Processing.md",
     "@images/Pasted image 20231025101932.png",
@@ -365,7 +366,6 @@
     "COMPSCI367 - Artificial Intelligence/week10/Modern Problems - More subsequent lectures.md",
     "COMPSCI367 - Artificial Intelligence/week10/Laplace smoothing (add-one smoothing).md",
     "COMPSCI367 - Artificial Intelligence/week10/Joint Entropy.md",
-    "COMPSCI367 - Artificial Intelligence/week10/Inverse Document Frequency (idf).md",
     "@images/Pasted image 20231025012028.png",
     "@images/Pasted image 20231025011003.png",
     "@images/Pasted image 20231025010549.png",
