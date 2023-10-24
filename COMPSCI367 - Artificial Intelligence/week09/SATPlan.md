@@ -21,7 +21,7 @@ finding a plan by converting the problem into a [[Propositional Knowledge Base]]
 
 ## Advantages
 Speed
-- Utilising efficient domain-independent [[heuristic(s)]]
+- Utilising efficient [[domain-independent heuristic]]
 
 >conjunctive normal form not being tested
 
