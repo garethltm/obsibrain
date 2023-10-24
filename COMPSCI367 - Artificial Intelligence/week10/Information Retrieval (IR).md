@@ -3,3 +3,7 @@
 1. think of a document as an exported memory
 	- useful for preserving [[knowledge]] across generations
 2. just as with natural thought, [[Artificial Intelligence (AI)]] systems need to access memories (database in terms of [[Artificial Intelligence (AI)]], where you use [[Knowledge Base (KB)]]/Training data to process) relevant to a problem
+
+## Main Idea
+- plugging in some kind of text & find documents relevant to our search string
+- Idea of processing given information 
