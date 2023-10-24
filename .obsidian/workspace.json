@@ -118,14 +118,6 @@
             "type": "tabs",
             "children": [
               {
-                "id": "874de3ab24aec93a",
-                "type": "leaf",
-                "state": {
-                  "type": "git-view",
-                  "state": {}
-                }
-              },
-              {
                 "id": "34faae9d0b6c33c5",
                 "type": "leaf",
                 "state": {
@@ -136,26 +128,8 @@
                     "unlinkedCollapsed": true
                   }
                 }
-              },
-              {
-                "id": "db6754d77108e140",
-                "type": "leaf",
-                "state": {
-                  "type": "backlink",
-                  "state": {
-                    "file": "COMPSCI367 - Artificial Intelligence/week09/Classical Planning.md",
-                    "collapseAll": false,
-                    "extraContext": false,
-                    "sortOrder": "alphabetical",
-                    "showSearch": false,
-                    "searchQuery": "",
-                    "backlinkCollapsed": false,
-                    "unlinkedCollapsed": true
-                  }
-                }
               }
-            ],
-            "currentTab": 1
+            ]
           },
           {
             "id": "d9a730eda40123bb",
@@ -318,6 +292,8 @@
   },
   "active": "3dd87e27a1a2fba3",
   "lastOpenFiles": [
+    "COMPSCI367 - Artificial Intelligence/week01/agent.md",
+    "COMPSCI367 - Artificial Intelligence/week09/Classical Planning.md",
     "COMPSCI367 - Artificial Intelligence/week01/world.md",
     "COMPSCI367 - Artificial Intelligence/week09/TranslateToSAT.md",
     "COMPSCI367 - Artificial Intelligence/week09/SATPlan.md",
@@ -332,7 +308,6 @@
     "COMPSCI367 - Artificial Intelligence/week09/Forward Planning.md",
     "COMPSCI367 - Artificial Intelligence/week09/First Order Bayes Nets.md",
     "COMPSCI367 - Artificial Intelligence/week09/Domain file.md",
-    "COMPSCI367 - Artificial Intelligence/week09/Classical Planning.md",
     "COMPSCI367 - Artificial Intelligence/week09/Building a planner.md",
     "@images/Pasted image 20231024150510.png",
     "COMPSCI367 - Artificial Intelligence/week09/Planning.md",
@@ -344,7 +319,6 @@
     "COMPSCI367 - Artificial Intelligence/week06/proposition.md",
     "COMPSCI367 - Artificial Intelligence/week06/Propositional Knowledge Base.md",
     "COMPSCI367 - Artificial Intelligence/week09/ExtractPlan.md",
-    "COMPSCI367 - Artificial Intelligence/week06/Satisfiability Problem (SAT).md",
     "@images/Untitled 6.png",
     "@images/Untitled 5.png",
     "COMPSCI367 - Artificial Intelligence/week09",
