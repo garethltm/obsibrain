@@ -17,3 +17,5 @@
 > 	where they are solved in a search
 > Search → problem solving
 > [[Logic]]
+
+>[[Classical Planning]]
