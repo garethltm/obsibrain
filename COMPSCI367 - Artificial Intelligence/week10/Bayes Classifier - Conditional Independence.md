@@ -1,2 +1,2 @@
-$$C\tiny MAP\normalsize = arg\ max\ P(x,c\tiny k)$$
-- where c\tiny k
+$$C\tiny MAP\normalsize = arg\ max\ P(x,\small c\tiny k\normalsize)$$
+- where $c\tiny k$ 
