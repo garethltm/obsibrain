@@ -6,4 +6,5 @@
 
 ## Main Idea
 - plugging in some kind of text & find documents relevant to our search string
-- Idea of processing given information 
+- Idea of processing given information $\rightarrow$ new thoughts which goes back into the memory
+	- fundamental operation for human beings is to recall information
