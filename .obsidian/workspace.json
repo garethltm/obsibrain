@@ -99,7 +99,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week09/SATPlan.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week09/ExtractPlan.md",
                 "mode": "source",
                 "source": false
               }
@@ -123,7 +123,7 @@
                 "state": {
                   "type": "outgoing-link",
                   "state": {
-                    "file": "COMPSCI367 - Artificial Intelligence/week09/SATPlan.md",
+                    "file": "COMPSCI367 - Artificial Intelligence/week09/ExtractPlan.md",
                     "linksCollapsed": false,
                     "unlinkedCollapsed": true
                   }
@@ -251,7 +251,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week09/SATPlan.md"
+                "file": "COMPSCI367 - Artificial Intelligence/week09/ExtractPlan.md"
               }
             }
           },
@@ -292,8 +292,8 @@
   },
   "active": "3dd87e27a1a2fba3",
   "lastOpenFiles": [
-    "COMPSCI367 - Artificial Intelligence/week09/ExtractPlan.md",
     "COMPSCI367 - Artificial Intelligence/week09/SATPlan.md",
+    "COMPSCI367 - Artificial Intelligence/week09/ExtractPlan.md",
     "COMPSCI367 - Artificial Intelligence/week06/SAT solvers.md",
     "@images/Pasted image 20231024160111.png",
     "COMPSCI367 - Artificial Intelligence/week06/Satisfiability Problem (SAT).md",
