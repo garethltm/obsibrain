@@ -1,3 +1,5 @@
 - finding relevant documents in a search engine
 - [[Term Frequency (tf)]]
 - [[Inverse Document Frequency (idf)]]
+- For query with terms t (eg: ("another","sample")) the best match document is:
+		
