@@ -75,7 +75,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week10/Attention Model.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week10/Attention Mechanisms.md",
                 "mode": "source",
                 "source": false
               }
@@ -162,7 +162,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "COMPSCI367 - Artificial Intelligence/week10/Attention Model.md",
+                    "file": "COMPSCI367 - Artificial Intelligence/week10/Attention Mechanisms.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -262,7 +262,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week10/Attention Model.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week10/Attention Mechanisms.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -279,7 +279,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week10/Attention Model.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week10/Attention Mechanisms.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -302,7 +302,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week10/Attention Model.md"
+                "file": "COMPSCI367 - Artificial Intelligence/week10/Attention Mechanisms.md"
               }
             }
           },
@@ -336,6 +336,7 @@
   },
   "active": "d0f61cd9fefb8c2d",
   "lastOpenFiles": [
+    "COMPSCI367 - Artificial Intelligence/week10/Attention Model.md",
     "COMPSCI367 - Artificial Intelligence/week10/Joint Entropy.md",
     "COMPSCI367 - Artificial Intelligence/week10/Language Model.md",
     "COMPSCI367 - Artificial Intelligence/week10/Machine Translation.md",
@@ -361,7 +362,6 @@
     "COMPSCI367 - Artificial Intelligence/week10/Why should you use NLP.md",
     "COMPSCI367 - Artificial Intelligence/week10/data rate.md",
     "COMPSCI367 - Artificial Intelligence/week10/Bayes Theorem.md",
-    "COMPSCI367 - Artificial Intelligence/week10/Attention Model.md",
     "@images/Pasted image 20231025115510.png",
     "@images/Pasted image 20231025101932.png",
     "@images/Pasted image 20231025101919.png",
