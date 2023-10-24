@@ -2,5 +2,6 @@
 $$p(C\tiny k\normalsize\ |\ x)=\frac {p(C\tiny k)\normalsize\ \cdot\ p(x\ |\ C\tiny k\normalsize)}{p(x)}$$
 which basically means
 $$posterior = \frac {prior\ \times\ likelihood}{evidence}$$
-- posterior = [[posterior evidence]]
+- [[posterior evidence (posterior)]]
 - [[evidence]]
+- [[prior evidence]]
