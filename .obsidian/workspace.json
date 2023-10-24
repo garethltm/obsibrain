@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week10/Shallow NLP.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week10/Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -34,7 +34,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week10/Shallow NLP.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week10/Untitled.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week10/Shallow NLP.md"
+                "file": "COMPSCI367 - Artificial Intelligence/week10/Untitled.md"
               }
             }
           },
@@ -182,9 +182,11 @@
   },
   "active": "0ac46519bebe99ac",
   "lastOpenFiles": [
+    "COMPSCI367 - Artificial Intelligence/week10/Shallow NLP.md",
+    "COMPSCI367 - Artificial Intelligence/week10/Untitled.md",
+    "@images/Pasted image 20231024170109.png",
     "@images/Pasted image 20231024165959.png",
     "COMPSCI367 - Artificial Intelligence/week10/Natural Language Processing (NLP).md",
-    "COMPSCI367 - Artificial Intelligence/week10/Shallow NLP.md",
     "COMPSCI367 - Artificial Intelligence/week10/Pipelined NLP.md",
     "COMPSCI367 - Artificial Intelligence/week10/Why use language.md",
     "COMPSCI367 - Artificial Intelligence/week06/Language.md",
@@ -213,8 +215,6 @@
     "@images/Pasted image 20231024163500.png",
     "COMPSCI367 - Artificial Intelligence/week09/Problog.md",
     "COMPSCI367 - Artificial Intelligence/week06/Propositional Logic.md",
-    "@images/Pasted image 20231024163316.png",
-    "@images/Pasted image 20231024163223.png",
     "COMPSCI367 - Artificial Intelligence/week09/Probability Theory.md",
     "COMPSCI367 - Artificial Intelligence/week09/uncertainty.md",
     "COMPSCI367 - Artificial Intelligence/week09/Probability.md",
