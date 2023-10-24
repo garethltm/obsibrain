@@ -7,8 +7,7 @@ description language to specify [[Planning task]]
 -  [[Logic Programming]]-based planning
 	- Prolog planner
 
-- States → logical sentences
-
+- States can be expressed as logical sentences
 - Actions → logical rules that describe the effect (where you capture state transitions)
 
 - Goal → this is only true if a sequence of actions are true which triggers a sequence of state transitions that links the initial state with the goal
