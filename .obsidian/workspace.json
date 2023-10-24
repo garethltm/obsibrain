@@ -111,7 +111,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week02/Space Complexity.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week09/Remote Agent.md",
                 "mode": "source",
                 "source": false
               }
@@ -143,7 +143,7 @@
                 "state": {
                   "type": "outgoing-link",
                   "state": {
-                    "file": "COMPSCI367 - Artificial Intelligence/week02/Space Complexity.md",
+                    "file": "COMPSCI367 - Artificial Intelligence/week09/Remote Agent.md",
                     "linksCollapsed": false,
                     "unlinkedCollapsed": true
                   }
@@ -155,7 +155,7 @@
                 "state": {
                   "type": "backlink",
                   "state": {
-                    "file": "COMPSCI367 - Artificial Intelligence/week02/Space Complexity.md",
+                    "file": "COMPSCI367 - Artificial Intelligence/week09/Remote Agent.md",
                     "collapseAll": false,
                     "extraContext": false,
                     "sortOrder": "alphabetical",
@@ -289,7 +289,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week02/Space Complexity.md"
+                "file": "COMPSCI367 - Artificial Intelligence/week09/Remote Agent.md"
               }
             }
           },
@@ -330,8 +330,9 @@
   },
   "active": "f7e49e7c55488e07",
   "lastOpenFiles": [
-    "COMPSCI367 - Artificial Intelligence/week02/Time Complexity.md",
     "COMPSCI367 - Artificial Intelligence/week02/Uniform-Cost Search (UCS) (Lowest-Cost-First Search).md",
+    "COMPSCI367 - Artificial Intelligence/week02/Time Complexity.md",
+    "COMPSCI367 - Artificial Intelligence/week02/Space Complexity.md",
     "COMPSCI367 - Artificial Intelligence/week02/Uninformed Search.md",
     "COMPSCI367 - Artificial Intelligence/week02/Optimal.md",
     "COMPSCI367 - Artificial Intelligence/week02/arc.md",
@@ -360,7 +361,6 @@
     "conflict-files-obsidian-git.md",
     "COMPSCI367 - Artificial Intelligence/week08/algorithm.md",
     "COMPSCI367 - Artificial Intelligence/week08/Unification.md",
-    "COMPSCI367 - Artificial Intelligence/week08/Generalised Modus Ponens (GMP).md",
     "@images/quicklatex.com-557f65414714e2cde89ee6709e65a857_l3-GARETH.svg",
     "COMPSCI367 - Artificial Intelligence/week08",
     "COMPSCI367 - Artificial Intelligence/week07",

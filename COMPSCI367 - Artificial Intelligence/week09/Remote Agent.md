@@ -1,2 +1,2 @@
 - an example in [[Classical Planning]]
-- giving a high-level [[goal(s) - goal state(s)]]
+- giving a high-level [[goal(s) - goal state(s)]] & let the machine do its own thing auto
