@@ -99,7 +99,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week09/Task description.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week02/state(s).md",
                 "mode": "source",
                 "source": false
               }
@@ -123,7 +123,7 @@
                 "state": {
                   "type": "outgoing-link",
                   "state": {
-                    "file": "COMPSCI367 - Artificial Intelligence/week09/Task description.md",
+                    "file": "COMPSCI367 - Artificial Intelligence/week02/state(s).md",
                     "linksCollapsed": false,
                     "unlinkedCollapsed": true
                   }
@@ -203,7 +203,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "domain independ",
+                "query": "domain-indep",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -220,7 +220,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -251,7 +252,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week09/Task description.md"
+                "file": "COMPSCI367 - Artificial Intelligence/week02/state(s).md"
               }
             }
           },
@@ -292,8 +293,8 @@
   },
   "active": "3dd87e27a1a2fba3",
   "lastOpenFiles": [
-    "COMPSCI367 - Artificial Intelligence/week09/Classical Planning.md",
     "COMPSCI367 - Artificial Intelligence/week09/Task description.md",
+    "COMPSCI367 - Artificial Intelligence/week09/Classical Planning.md",
     "COMPSCI367 - Artificial Intelligence/week09/search.md",
     "COMPSCI367 - Artificial Intelligence/week09/Planning task.md",
     "COMPSCI367 - Artificial Intelligence/week09/Building a planner.md",
