@@ -3,9 +3,9 @@
 
 >[[Planning]] vs [[search]]
 >	main difference = [[state(s)]] representation
-- [[Classical Planning]]
+- [[Planning]] (typically the [[Structured Representation]])
 	- [[state(s)]]: structural information used by [[Classical Planning]] [[algorithm]]
-- [[search]]
+- [[search]]  (typically the [[Atomic Representation]])
 	- [[state(s)]]: single entity used by the [[search]] [[algorithm]]
 
 1. [[Forward (Progression) planning]]
