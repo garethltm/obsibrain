@@ -99,14 +99,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week09/Untitled.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week09/Remote Agent.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f7e49e7c55488e07",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "COMPSCI367 - Artificial Intelligence/week02/Space Complexity.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       },
       {
         "id": "992e264c1b226738",
@@ -131,7 +143,7 @@
                 "state": {
                   "type": "outgoing-link",
                   "state": {
-                    "file": "COMPSCI367 - Artificial Intelligence/week09/Untitled.md",
+                    "file": "COMPSCI367 - Artificial Intelligence/week02/Space Complexity.md",
                     "linksCollapsed": false,
                     "unlinkedCollapsed": true
                   }
@@ -143,7 +155,7 @@
                 "state": {
                   "type": "backlink",
                   "state": {
-                    "file": "COMPSCI367 - Artificial Intelligence/week09/Untitled.md",
+                    "file": "COMPSCI367 - Artificial Intelligence/week02/Space Complexity.md",
                     "collapseAll": false,
                     "extraContext": false,
                     "sortOrder": "alphabetical",
@@ -277,7 +289,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week09/Untitled.md"
+                "file": "COMPSCI367 - Artificial Intelligence/week02/Space Complexity.md"
               }
             }
           },
@@ -316,10 +328,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3dd87e27a1a2fba3",
+  "active": "f7e49e7c55488e07",
   "lastOpenFiles": [
+    "COMPSCI367 - Artificial Intelligence/week02/Time Complexity.md",
+    "COMPSCI367 - Artificial Intelligence/week02/Uniform-Cost Search (UCS) (Lowest-Cost-First Search).md",
+    "COMPSCI367 - Artificial Intelligence/week02/Uninformed Search.md",
+    "COMPSCI367 - Artificial Intelligence/week02/Optimal.md",
+    "COMPSCI367 - Artificial Intelligence/week02/arc.md",
+    "COMPSCI367 - Artificial Intelligence/week01/goal(s) - goal state(s).md",
     "COMPSCI367 - Artificial Intelligence/week09/Remote Agent.md",
-    "COMPSCI367 - Artificial Intelligence/week09/Untitled.md",
+    "COMPSCI367 - Artificial Intelligence/week09/Classical Planning.md",
     "Arithmetic.md",
     "COMPSCI367 - Artificial Intelligence/week09",
     "COMPSCI367 - Artificial Intelligence/week08/Prolog.md",
@@ -343,12 +361,6 @@
     "COMPSCI367 - Artificial Intelligence/week08/algorithm.md",
     "COMPSCI367 - Artificial Intelligence/week08/Unification.md",
     "COMPSCI367 - Artificial Intelligence/week08/Generalised Modus Ponens (GMP).md",
-    "COMPSCI367 - Artificial Intelligence/week06/Compound Propositions (Compound Entities).md",
-    "COMPSCI367 - Artificial Intelligence/week06/Compound Propositions (Compound Entities)-GARETH.md",
-    "COMPSCI367 - Artificial Intelligence/week07/Definite Clause Inference Engine.md",
-    "COMPSCI367 - Artificial Intelligence/week07/Definite Clause Inference Engine-GARETH.md",
-    "COMPSCI367 - Artificial Intelligence/week07/Compositional.md",
-    "COMPSCI367 - Artificial Intelligence/week07/Human languages are complex-GARETH.md",
     "@images/quicklatex.com-557f65414714e2cde89ee6709e65a857_l3-GARETH.svg",
     "COMPSCI367 - Artificial Intelligence/week08",
     "COMPSCI367 - Artificial Intelligence/week07",

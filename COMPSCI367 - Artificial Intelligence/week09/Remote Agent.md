@@ -1,1 +1,2 @@
-- an example in [[classical]]
+- an example in [[Classical Planning]]
+- giving a high-level [[goal(s) - goal state(s)]]
