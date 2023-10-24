@@ -1,1 +1,2 @@
-a theory that gives us tools for reliably reasoning about [[uncertainty]]
+- a theory that gives us tools for reliably reasoning about [[uncertainty]]
+- is a [[calculus of belief]]

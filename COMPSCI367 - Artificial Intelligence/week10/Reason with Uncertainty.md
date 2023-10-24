@@ -2,7 +2,7 @@
 - What will be the weather in Auckland tomorrow?
 - Will the All Blacks win their next test match?
 - Would I get head/tail if I toss a coin?
-> All these statements have [[uncertainty]] linked 
+> All these statements have [[uncertainty]] in their outcome
 
 [[uncertainty]] is an important aspect of an [[agent]]'s decision making:
 - [[agent]] only have [[Partially Observable]] information about the [[environment]]
