@@ -1,0 +1,2 @@
+- applies [[inference(s)]] to solve the problem
+- [[control]] component handled by the interpreter

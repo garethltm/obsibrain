@@ -4,161 +4,77 @@
     "type": "split",
     "children": [
       {
-        "id": "e1ccbf259f6ba816",
+        "id": "f46a17f0b7c45033",
         "type": "tabs",
-        "dimension": 70.51724137931035,
+        "dimension": 71.51015228426397,
         "children": [
           {
-            "id": "bcc7a7b87dd8df83",
+            "id": "719a9e3cda8d050c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week05/Population-based Search.md",
-                "mode": "source",
-                "source": false
-              }
-            },
-            "group": "49e37924338b6c36"
-          },
-          {
-            "id": "9d16bf805036e931",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week02/State Space Problem.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week06/Satisfiability Problem (SAT).md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "358f03c9716e94e8",
+            "id": "d1f30f6c85c85107",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week04/Hill-Climbing.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f29b33f23d11f1cc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week04/Hill-Climbing.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "78003ac2d0f27c16",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week04/Hill-Climbing.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d0f61cd9fefb8c2d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week08/Grounding.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2602e13c15239a89",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week04/Enforced Hill-Climbing.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week06/clause(s).md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 5
+        ]
       },
       {
-        "id": "992e264c1b226738",
-        "type": "split",
-        "dimension": 29.48275862068965,
+        "id": "2afe1273f82ff304",
+        "type": "tabs",
+        "dimension": 28.48984771573604,
         "children": [
           {
-            "id": "8d459d1c85b8b9ed",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "874de3ab24aec93a",
-                "type": "leaf",
-                "state": {
-                  "type": "git-view",
-                  "state": {}
+            "id": "78022574f0109cc7",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "COMPSCI367 - Artificial Intelligence/week06/Satisfiability Problem (SAT).md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.5087618855792593,
+                  "close": true
                 }
               }
-            ]
-          },
-          {
-            "id": "d9a730eda40123bb",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "7430a6c810762936",
-                "type": "leaf",
-                "state": {
-                  "type": "localgraph",
-                  "state": {
-                    "file": "COMPSCI367 - Artificial Intelligence/week05/Population-based Search.md",
-                    "options": {
-                      "collapse-filter": true,
-                      "search": "",
-                      "localJumps": 1,
-                      "localBacklinks": true,
-                      "localForelinks": true,
-                      "localInterlinks": false,
-                      "showTags": false,
-                      "showAttachments": false,
-                      "hideUnresolved": false,
-                      "collapse-color-groups": true,
-                      "colorGroups": [],
-                      "collapse-display": true,
-                      "showArrow": false,
-                      "textFadeMultiplier": 0,
-                      "nodeSizeMultiplier": 1,
-                      "lineSizeMultiplier": 1,
-                      "collapse-forces": true,
-                      "centerStrength": 0.518713248970312,
-                      "repelStrength": 10,
-                      "linkStrength": 1,
-                      "linkDistance": 250,
-                      "scale": 0.850726243597498,
-                      "close": true
-                    }
-                  }
-                },
-                "group": "49e37924338b6c36"
-              }
-            ]
+            }
           }
-        ],
-        "direction": "horizontal"
+        ]
       }
     ],
     "direction": "vertical"
@@ -187,7 +103,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "optima",
+                "query": "genetic algo",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -224,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week05/Population-based Search.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week06/Satisfiability Problem (SAT).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -241,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week05/Population-based Search.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week06/Satisfiability Problem (SAT).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -264,7 +180,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week05/Population-based Search.md"
+                "file": "COMPSCI367 - Artificial Intelligence/week06/Satisfiability Problem (SAT).md"
               }
             }
           },
@@ -296,53 +212,53 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3ad179677b7fba41",
+  "active": "719a9e3cda8d050c",
   "lastOpenFiles": [
-    "COMPSCI367 - Artificial Intelligence/week08/Grounding-GARETH.md",
-    "COMPSCI367 - Artificial Intelligence/week08/Grounding.md",
-    "COMPSCI367 - Artificial Intelligence/week08/Herbrand's Theorem.md",
-    "COMPSCI367 - Artificial Intelligence/week08/Herbrand's Theorem-GARETH.md",
-    "COMPSCI367 - Artificial Intelligence/week08/First-Order Logic Inference.md",
-    "COMPSCI367 - Artificial Intelligence/week08/First-Order Logic Inference-GARETH.md",
-    "COMPSCI367 - Artificial Intelligence/week08/First-Order Logic.md",
-    "COMPSCI367 - Artificial Intelligence/week08/First-Order Logic-GARETH.md",
-    "COMPSCI367 - Artificial Intelligence/week08/First-Order Interpretation.md",
-    "COMPSCI367 - Artificial Intelligence/week08/First-Order Interpretation-GARETH.md",
-    "COMPSCI367 - Artificial Intelligence/week08/First-Order Formulas.md",
-    "COMPSCI367 - Artificial Intelligence/week08/First-Order Formulas-GARETH.md",
-    "COMPSCI367 - Artificial Intelligence/week04/Hill-Climbing.md",
-    "conflict-files-obsidian-git.md",
-    "COMPSCI367 - Artificial Intelligence/week07/resolution.md",
-    "COMPSCI367 - Artificial Intelligence/week06/syntax.md",
-    "COMPSCI367 - Artificial Intelligence/week06/semantics.md",
-    "COMPSCI367 - Artificial Intelligence/week06/proposition.md",
-    "COMPSCI367 - Artificial Intelligence/week06/knowledge.md",
-    "COMPSCI367 - Artificial Intelligence/week06/interpretation.md",
-    "COMPSCI367 - Artificial Intelligence/week06/intelligent.md",
-    "COMPSCI367 - Artificial Intelligence/week06/Propositional Logic with Wumpus World.md",
-    "COMPSCI367 - Artificial Intelligence/week05/genetics.md",
-    "COMPSCI367 - Artificial Intelligence/week05/fitness.md",
-    "INFOSYS222 - Database Systems/Unary.md",
-    "INFOSYS222 - Database Systems/Transform.md",
+    "COMPSCI367 - Artificial Intelligence/week08/algorithm.md",
+    "COMPSCI367 - Artificial Intelligence/week08/control.md",
+    "COMPSCI367 - Artificial Intelligence/week08/list operations.md",
+    "COMPSCI367 - Artificial Intelligence/week08/Logic Programming.md",
+    "COMPSCI367 - Artificial Intelligence/week08/logic.md",
+    "COMPSCI367 - Artificial Intelligence/week08/negation.md",
+    "COMPSCI367 - Artificial Intelligence/week08/model(s).md",
+    "COMPSCI367 - Artificial Intelligence/week08/Ordering.md",
+    "COMPSCI367 - Artificial Intelligence/week08/Unification in queries.md",
+    "COMPSCI367 - Artificial Intelligence/week08/Prolog.md",
+    "COMPSCI367 - Artificial Intelligence/week08/Universal quantification.md",
+    "COMPSCI367 - Artificial Intelligence/week02/State(s).md",
+    "COMPSCI367 - Artificial Intelligence/week10/The vector space model.md",
+    "COMPSCI367 - Artificial Intelligence/week10/Why should you use NLP.md",
+    "COMPSCI367 - Artificial Intelligence/week10/Term Frequency (tf).md",
+    "COMPSCI367 - Artificial Intelligence/week10/term specificity.md",
+    "COMPSCI367 - Artificial Intelligence/week10/Shallow NLP.md",
+    "COMPSCI367 - Artificial Intelligence/week10/Symbolic Knowledge.md",
+    "COMPSCI367 - Artificial Intelligence/week10/Pipelined NLP.md",
+    "COMPSCI367 - Artificial Intelligence/week10/Information Retrieval (IR).md",
+    "COMPSCI367 - Artificial Intelligence/week10/overfitting.md",
+    "COMPSCI367 - Artificial Intelligence/week10/Natural Language Processing (NLP).md",
+    "COMPSCI367 - Artificial Intelligence/week10/Inverse Document Frequency (idf).md",
+    "COMPSCI367 - Artificial Intelligence/week10",
+    "COMPSCI367 - Artificial Intelligence/week08/Free variables.md",
+    "COMPSCI367 - Artificial Intelligence/week08/Model.md",
+    "COMPSCI367 - Artificial Intelligence/week03/Goal test.md",
+    "COMPSCI367 - Artificial Intelligence/week09",
     "@images/quicklatex.com-557f65414714e2cde89ee6709e65a857_l3-GARETH.svg",
+    "@images/Untitled 6.png",
+    "@images/Untitled 5.png",
+    "@images/Untitled 4.png",
+    "@images/Untitled 3.png",
+    "@images/Untitled 2.png",
+    "@images/Untitled 1.png",
+    "@images/Pasted image 20231024182526.png",
+    "@images/Pasted image 20231024181844.png",
+    "@images/Pasted image 20231024181746.png",
+    "INFOSYS222 - Database Systems",
     "COMPSCI367 - Artificial Intelligence/week08",
     "COMPSCI367 - Artificial Intelligence/week07",
+    "COMPSCI367 - Artificial Intelligence/week06/Untitled",
     "COMPSCI367 - Artificial Intelligence/week06",
-    "@images/rules-of-inference-chart.png",
-    "@images/quicklatex.com-557f65414714e2cde89ee6709e65a857_l3.svg",
-    "@images/Untitled.png",
-    "@images/Pasted image 20231024020323.png",
-    "@images/Pasted image 20231024020315.png",
-    "@images/Pasted image 20231024013638.png",
-    "@images/Pasted image 20231024013031.png",
-    "@images/Pasted image 20231024012623.png",
-    "@images/Pasted image 20231024011914.png",
     "COMPSCI367 - Artificial Intelligence/week03",
     "COMPSCI367 - Artificial Intelligence/week04",
-    "COMPSCI367 - Artificial Intelligence/week05",
-    "COMPSCI367 - Artificial Intelligence/week02",
-    "Untitle",
-    "@images",
-    "INFOSYS222 - Database Systems"
+    "COMPSCI367 - Artificial Intelligence/week05"
   ]
 }

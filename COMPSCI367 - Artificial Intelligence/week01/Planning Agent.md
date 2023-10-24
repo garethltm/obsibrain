@@ -7,7 +7,8 @@
 
 >In [[Reflex (Model-Based) Agent]] designs, this information is not explicitly represented because the built-in rules map directly from [[state(s)]] to [[action(s)]]
 
-
+## Example
+1. Room bookings
 ## One of the main Agents of Planning Agent
 ![[Goal-Based (Telelogical Agent)]]
 

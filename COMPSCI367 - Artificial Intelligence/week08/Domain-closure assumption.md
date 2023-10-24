@@ -1,1 +1,2 @@
 - restricted to a location
+- all elements of the domain are expressed using constants
