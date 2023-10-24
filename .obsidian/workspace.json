@@ -99,7 +99,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week09/Classical Planning.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week09/Planning.md",
                 "mode": "source",
                 "source": false
               }
@@ -123,7 +123,7 @@
                 "state": {
                   "type": "outgoing-link",
                   "state": {
-                    "file": "COMPSCI367 - Artificial Intelligence/week09/Classical Planning.md",
+                    "file": "COMPSCI367 - Artificial Intelligence/week09/Planning.md",
                     "linksCollapsed": false,
                     "unlinkedCollapsed": true
                   }
@@ -251,7 +251,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week09/Classical Planning.md"
+                "file": "COMPSCI367 - Artificial Intelligence/week09/Planning.md"
               }
             }
           },
@@ -292,8 +292,10 @@
   },
   "active": "3dd87e27a1a2fba3",
   "lastOpenFiles": [
-    "COMPSCI367 - Artificial Intelligence/week01/agent.md",
+    "COMPSCI367 - Artificial Intelligence/week09/plan.md",
+    "COMPSCI367 - Artificial Intelligence/week09/Planning.md",
     "COMPSCI367 - Artificial Intelligence/week09/Classical Planning.md",
+    "COMPSCI367 - Artificial Intelligence/week01/agent.md",
     "COMPSCI367 - Artificial Intelligence/week01/world.md",
     "COMPSCI367 - Artificial Intelligence/week09/TranslateToSAT.md",
     "COMPSCI367 - Artificial Intelligence/week09/SATPlan.md",
@@ -310,7 +312,6 @@
     "COMPSCI367 - Artificial Intelligence/week09/Domain file.md",
     "COMPSCI367 - Artificial Intelligence/week09/Building a planner.md",
     "@images/Pasted image 20231024150510.png",
-    "COMPSCI367 - Artificial Intelligence/week09/Planning.md",
     "COMPSCI367 - Artificial Intelligence/week09/Bayes Nets.md",
     "COMPSCI367 - Artificial Intelligence/week09/Probability Theory.md",
     "COMPSCI367 - Artificial Intelligence/week08/Arithmetic.md",
@@ -318,7 +319,6 @@
     "COMPSCI367 - Artificial Intelligence/week06/SAT solvers.md",
     "COMPSCI367 - Artificial Intelligence/week06/proposition.md",
     "COMPSCI367 - Artificial Intelligence/week06/Propositional Knowledge Base.md",
-    "COMPSCI367 - Artificial Intelligence/week09/ExtractPlan.md",
     "@images/Untitled 6.png",
     "@images/Untitled 5.png",
     "COMPSCI367 - Artificial Intelligence/week09",
