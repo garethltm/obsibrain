@@ -12,7 +12,7 @@
 - Phrases
 - [[clause(s)]]
 - [[sentence]]
-Transforming [[clause(s)]] & [[sentence]] into [[First-Order Logic]]
+> Transforming [[clause(s)]] & [[sentence]] into [[First-Order Logic]]
 
 ##### [[Logic]] & KR Exercises
 - [[syntax]]
