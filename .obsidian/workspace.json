@@ -75,7 +75,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week10/Mutual Information.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week10/The Noisy Channel Model.md",
                 "mode": "source",
                 "source": false
               }
@@ -224,7 +224,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week10/Mutual Information.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week10/The Noisy Channel Model.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -241,7 +241,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week10/Mutual Information.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week10/The Noisy Channel Model.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -264,7 +264,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week10/Mutual Information.md"
+                "file": "COMPSCI367 - Artificial Intelligence/week10/The Noisy Channel Model.md"
               }
             }
           },
@@ -298,8 +298,9 @@
   },
   "active": "d0f61cd9fefb8c2d",
   "lastOpenFiles": [
-    "COMPSCI367 - Artificial Intelligence/week10/Entropy (or self-information).md",
     "COMPSCI367 - Artificial Intelligence/week10/Mutual Information.md",
+    "COMPSCI367 - Artificial Intelligence/week10/The Noisy Channel Model.md",
+    "COMPSCI367 - Artificial Intelligence/week10/Entropy (or self-information).md",
     "COMPSCI367 - Artificial Intelligence/week05/Population-based Search.md",
     "COMPSCI367 - Artificial Intelligence/week10/term specificity.md",
     "COMPSCI367 - Artificial Intelligence/week10/prior evidence (prior).md",
@@ -323,7 +324,6 @@
     "COMPSCI367 - Artificial Intelligence/week10/Information Theory.md",
     "COMPSCI367 - Artificial Intelligence/week10/Information Retrieval (IR).md",
     "COMPSCI367 - Artificial Intelligence/week10/H.md",
-    "COMPSCI367 - Artificial Intelligence/week10/Deriving Bayes Rule.md",
     "@images/Pasted image 20231025012028.png",
     "@images/Pasted image 20231025011003.png",
     "@images/Pasted image 20231025010549.png",

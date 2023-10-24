@@ -11,10 +11,11 @@ Therefore, we can claim:
 	- $I(X;Y) = I(Y;X)$ $\rightarrow$ which represents the middle area
 $$I(X;Y) = \displaystyle\sum_{x,y}p(x,y)\ log\frac{p(x,y)}{p(x)\ p(y)}$$
 
+- this basically shows how informative is one variable compared to the other
 - Symmetric, non-negative measure of common information in 2 variables
 >		how much variables tell you about each other?
 
-- 0 when the variables are independent
+- 0 when the variables are independent (no overlaps)
 >		independent dice throws
 
 - [[Mutual Information]] grows with the dependence between variables & their [[Entropy (or self-information)]]
