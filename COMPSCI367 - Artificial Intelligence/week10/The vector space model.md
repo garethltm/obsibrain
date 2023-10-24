@@ -1,3 +1,3 @@
 - finding relevant documents in a search engine
 - [[Term Frequency (tf)]]
-- 
+- [[Inverse Document Frequency (idf)]]

@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week10/Term Frequency (tf).md",
+                "file": "COMPSCI367 - Artificial Intelligence/week10/Inverse Document Frequency (idf).md",
                 "mode": "source",
                 "source": false
               }
@@ -34,7 +34,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week10/Term Frequency (tf).md",
+                "file": "COMPSCI367 - Artificial Intelligence/week10/Inverse Document Frequency (idf).md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week10/Term Frequency (tf).md"
+                "file": "COMPSCI367 - Artificial Intelligence/week10/Inverse Document Frequency (idf).md"
               }
             }
           },
@@ -182,8 +182,9 @@
   },
   "active": "0ac46519bebe99ac",
   "lastOpenFiles": [
-    "COMPSCI367 - Artificial Intelligence/week10/The vector space model.md",
     "COMPSCI367 - Artificial Intelligence/week10/Term Frequency (tf).md",
+    "COMPSCI367 - Artificial Intelligence/week10/Inverse Document Frequency (idf).md",
+    "COMPSCI367 - Artificial Intelligence/week10/The vector space model.md",
     "COMPSCI367 - Artificial Intelligence/week10/Information Retrieval (IR).md",
     "COMPSCI367 - Artificial Intelligence/week10/Shallow NLP.md",
     "COMPSCI367 - Artificial Intelligence/week10/Pipelined NLP.md",
@@ -218,7 +219,6 @@
     "COMPSCI367 - Artificial Intelligence/week09/Problog.md",
     "COMPSCI367 - Artificial Intelligence/week06/Propositional Logic.md",
     "COMPSCI367 - Artificial Intelligence/week09/Probability Theory.md",
-    "COMPSCI367 - Artificial Intelligence/week09/uncertainty.md",
     "Untitled.canvas",
     "COMPSCI367 - Artificial Intelligence/week09",
     "COMPSCI367 - Artificial Intelligence/week08",
