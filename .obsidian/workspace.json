@@ -75,7 +75,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week10/Deriving Bayes Rule.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week10/Attention Weight.md",
                 "mode": "source",
                 "source": false
               }
@@ -162,7 +162,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "COMPSCI367 - Artificial Intelligence/week10/Deriving Bayes Rule.md",
+                    "file": "COMPSCI367 - Artificial Intelligence/week10/Attention Weight.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -262,7 +262,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week10/Deriving Bayes Rule.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week10/Attention Weight.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -279,7 +279,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week10/Deriving Bayes Rule.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week10/Attention Weight.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -302,7 +302,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week10/Deriving Bayes Rule.md"
+                "file": "COMPSCI367 - Artificial Intelligence/week10/Attention Weight.md"
               }
             }
           },
@@ -336,6 +336,24 @@
   },
   "active": "d0f61cd9fefb8c2d",
   "lastOpenFiles": [
+    "COMPSCI367 - Artificial Intelligence/week10/Recurrent Neural Network (RNN).md",
+    "COMPSCI367 - Artificial Intelligence/week10/Symbolic Knowledge.md",
+    "COMPSCI367 - Artificial Intelligence/week10/The Noisy Channel Model.md",
+    "COMPSCI367 - Artificial Intelligence/week10/The vector space model.md",
+    "COMPSCI367 - Artificial Intelligence/week10/Translation Model.md",
+    "COMPSCI367 - Artificial Intelligence/week10/Transmission errors.md",
+    "COMPSCI367 - Artificial Intelligence/week10/Value of smoothing.md",
+    "COMPSCI367 - Artificial Intelligence/week10/Why should you use NLP.md",
+    "COMPSCI367 - Artificial Intelligence/week10/Zipf's law.md",
+    "COMPSCI367 - Artificial Intelligence/week10/Applying Bayes Rule.md",
+    "COMPSCI367 - Artificial Intelligence/week10/Applying Bayes Rule for class ranking.md",
+    "COMPSCI367 - Artificial Intelligence/week10/Attention Mechanisms.md",
+    "COMPSCI367 - Artificial Intelligence/week10/Attention Weight.md",
+    "COMPSCI367 - Artificial Intelligence/week10/Autoregressive Language Models based on Deep Learning.md",
+    "COMPSCI367 - Artificial Intelligence/week10/conditional probability.md",
+    "COMPSCI367 - Artificial Intelligence/week10/Data compression.md",
+    "COMPSCI367 - Artificial Intelligence/week10/data rate.md",
+    "COMPSCI367 - Artificial Intelligence/week10/Deriving Bayes Rule.md",
     "COMPSCI367 - Artificial Intelligence/week10/evidence.md",
     "COMPSCI367 - Artificial Intelligence/week10/Information Retrieval (IR).md",
     "COMPSCI367 - Artificial Intelligence/week10/Joint Entropy.md",
@@ -344,24 +362,6 @@
     "COMPSCI367 - Artificial Intelligence/week10/Naïve Bayes classification.md",
     "COMPSCI367 - Artificial Intelligence/week10/Natural Language Processing (NLP).md",
     "COMPSCI367 - Artificial Intelligence/week10/Pipelined NLP.md",
-    "COMPSCI367 - Artificial Intelligence/week10/prior evidence (prior).md",
-    "COMPSCI367 - Artificial Intelligence/week10/Recurrent Neural Network (RNN).md",
-    "COMPSCI367 - Artificial Intelligence/week10/Shallow NLP.md",
-    "COMPSCI367 - Artificial Intelligence/week10/Smoothing.md",
-    "COMPSCI367 - Artificial Intelligence/week10/Machine Translation.md",
-    "COMPSCI367 - Artificial Intelligence/week10/Information Theory.md",
-    "COMPSCI367 - Artificial Intelligence/week10/H.md",
-    "COMPSCI367 - Artificial Intelligence/week10/Entropy (or self-information).md",
-    "COMPSCI367 - Artificial Intelligence/week10/conditional probability.md",
-    "COMPSCI367 - Artificial Intelligence/week10/Conditional Entropy.md",
-    "COMPSCI367 - Artificial Intelligence/week10/Attention Weight.md",
-    "COMPSCI367 - Artificial Intelligence/week10/Attention Mechanisms.md",
-    "COMPSCI367 - Artificial Intelligence/week10/Attention Model.md",
-    "COMPSCI367 - Artificial Intelligence/week10/Language Model.md",
-    "COMPSCI367 - Artificial Intelligence/week10/Mutual Information.md",
-    "COMPSCI367 - Artificial Intelligence/week10/overfitting.md",
-    "COMPSCI367 - Artificial Intelligence/week10/posterior evidence (posterior).md",
-    "COMPSCI367 - Artificial Intelligence/week10/Speech Processing.md",
     "@images/Pasted image 20231025115510.png",
     "@images/Pasted image 20231025101932.png",
     "@images/Pasted image 20231025101919.png",
