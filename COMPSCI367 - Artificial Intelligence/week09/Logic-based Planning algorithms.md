@@ -8,9 +8,8 @@ description language to specify [[Planning task]]
 	- Prolog planner
 
 - States can be expressed as logical sentences
-- Actions → logical rules that describe the effect (where you capture state transitions)
-
-- Goal → this is only true if a sequence of actions are true which triggers a sequence of state transitions that links the initial state with the goal
+- Actions can be expressed as logical rules that describe the effect (where you capture state transitions)
+- Goal → this is only true if a sequence of [[action(s)]] are true which triggers a sequence of state transitions that links the [[initial state (start state)]] with the [[goal(s) - goal state(s)]]
 
 >> Planning task can be expressed as a 
 >> [[Knowledge Base (KB)]] φ (related to [[Logic Inference Problem]]) 
