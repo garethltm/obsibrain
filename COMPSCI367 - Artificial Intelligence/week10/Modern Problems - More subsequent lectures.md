@@ -1,4 +1,7 @@
 - Dialogue Systems
 - Question Answering
 - Problem Solving
-- Document & Knowledge Integrat
+- Document & Knowledge Integration
+- Team Integration
+	- Crowds
+	- Human AI Teaming

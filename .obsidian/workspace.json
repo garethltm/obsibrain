@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week10/Modern Problems - More subsequent lectures.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week10/Why should you use NLP.md",
                 "mode": "source",
                 "source": false
               }
@@ -45,7 +45,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week10/Modern Problems - More subsequent lectures.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week10/Why should you use NLP.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -140,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week10/Modern Problems - More subsequent lectures.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week10/Why should you use NLP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week10/Modern Problems - More subsequent lectures.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week10/Why should you use NLP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -180,7 +180,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week10/Modern Problems - More subsequent lectures.md"
+                "file": "COMPSCI367 - Artificial Intelligence/week10/Why should you use NLP.md"
               }
             }
           },
@@ -214,8 +214,8 @@
   },
   "active": "719a9e3cda8d050c",
   "lastOpenFiles": [
-    "COMPSCI367 - Artificial Intelligence/week10/Value of smoothing.md",
     "COMPSCI367 - Artificial Intelligence/week10/Modern Problems - More subsequent lectures.md",
+    "COMPSCI367 - Artificial Intelligence/week10/Value of smoothing.md",
     "COMPSCI367 - Artificial Intelligence/week10/overfitting.md",
     "COMPSCI367 - Artificial Intelligence/week10/Naïve Bayes classification.md",
     "@images/Pasted image 20231025003941.png",
