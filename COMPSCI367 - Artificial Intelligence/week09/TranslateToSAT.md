@@ -1,0 +1,1 @@
+Translate a [[PDDL implementation]] description into a [[kb]]
