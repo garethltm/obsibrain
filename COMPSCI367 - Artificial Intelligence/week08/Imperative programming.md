@@ -1,1 +1,2 @@
-describing steps to produce 
+describing steps to produce some output
+- computer is blindly following
