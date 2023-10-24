@@ -11,3 +11,7 @@ start from [[goal(s) - goal state(s)]] & finding a sequene of steps that reaches
     - `Regress(g,a)` = (`goal g` \ `Add(a)`) ∪ `Precond(a)`
 
 		<aside> 💡 Backward planning can be more effective in certain context</aside>![[Pasted image 20231024154602.png]]
+
+### Advantages
+generally reduced [[branching factor(s)]]. Suitable for cases when there is a large number of ground [[action(s)]]
+![[Pasted image 20231024154715.png]]
