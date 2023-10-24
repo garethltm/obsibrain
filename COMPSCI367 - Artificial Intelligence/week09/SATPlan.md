@@ -13,8 +13,10 @@ finding a plan by converting the problem into a [[Propositional Knowledge Base]]
 ## Disadvantages
 - [[planning]] problem usually requires a large [[Propositional Knowledge Base]]:
 	- [[TranslateToSAT]] needs to create
-	- $(Tmax +1) \times |Obj|^Argsp$
-	- 
+	- $(Tmax +1) \times |Obj|^{Argsp}$
+		- for new [[Atomic Propositions (atoms)]] for each predicate symbol
+	- $(Tmax +1) \times |Obj|^{Argsp}$
+		- for new [[Atomic Propositions (atoms)]] for each action schema
 
 
 >conjunctive normal form not being tested
