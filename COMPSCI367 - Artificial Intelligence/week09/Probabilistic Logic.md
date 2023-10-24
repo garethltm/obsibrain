@@ -6,3 +6,7 @@
 >	robot path planning $\rightarrow$ do not have certainty but needs constraints on errors
 
 - [[Probabilistic Parsing]]
+>	some parsing patterns/group of words are more or less likely to happen/happen together
+
+- Information extraction & integration
+> 	is the information you wanted to extract pres

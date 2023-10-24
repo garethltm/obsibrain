@@ -86,7 +86,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week09/Probabilistic Parsing.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week09/Probabilistic Logic.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
                 "state": {
                   "type": "outgoing-link",
                   "state": {
-                    "file": "COMPSCI367 - Artificial Intelligence/week09/Probabilistic Parsing.md",
+                    "file": "COMPSCI367 - Artificial Intelligence/week09/Probabilistic Logic.md",
                     "linksCollapsed": false,
                     "unlinkedCollapsed": true
                   }
@@ -128,7 +128,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "COMPSCI367 - Artificial Intelligence/week09/Probabilistic Parsing.md",
+                    "file": "COMPSCI367 - Artificial Intelligence/week09/Probabilistic Logic.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -237,7 +237,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week09/Probabilistic Parsing.md"
+                "file": "COMPSCI367 - Artificial Intelligence/week09/Probabilistic Logic.md"
               }
             }
           },
@@ -278,8 +278,8 @@
   },
   "active": "2602e13c15239a89",
   "lastOpenFiles": [
-    "COMPSCI367 - Artificial Intelligence/week09/Probabilistic Logic.md",
     "COMPSCI367 - Artificial Intelligence/week09/Probabilistic Parsing.md",
+    "COMPSCI367 - Artificial Intelligence/week09/Probabilistic Logic.md",
     "COMPSCI367 - Artificial Intelligence/week09/First Order Bayes Nets.md",
     "@images/Pasted image 20231024163958.png",
     "@images/Pasted image 20231024163917.png",
