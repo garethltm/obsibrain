@@ -1,0 +1,5 @@
+-  [[Propositional Logic]]-based planning
+	- SATPlan ([[SAT solvers]])
+-  [[Logic Programming]]-based planning
+	- Prolog planner
+- 
