@@ -1,1 +1,11 @@
-### Different Applicatio
+### Different Applications
+- Speech Recognition (Transcription)
+- Speech Synthesis
+- Speech detection
+- Keyword Spotting
+	- Hey Siri
+- Prosody Recognition
+- Singing Recognition
+- Speaker ID
+- Age ID
+- Gender ID
