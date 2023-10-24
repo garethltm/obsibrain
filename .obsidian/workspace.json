@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week10/Bayes Theorem.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week10/Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -45,7 +45,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week10/Bayes Theorem.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week10/Untitled.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -140,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week10/Bayes Theorem.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week10/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week10/Bayes Theorem.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week10/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -180,7 +180,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week10/Bayes Theorem.md"
+                "file": "COMPSCI367 - Artificial Intelligence/week10/Untitled.md"
               }
             }
           },
@@ -214,8 +214,9 @@
   },
   "active": "719a9e3cda8d050c",
   "lastOpenFiles": [
-    "COMPSCI367 - Artificial Intelligence/week10/The vector space model.md",
     "COMPSCI367 - Artificial Intelligence/week10/Bayes Theorem.md",
+    "COMPSCI367 - Artificial Intelligence/week10/Untitled.md",
+    "COMPSCI367 - Artificial Intelligence/week10/The vector space model.md",
     "COMPSCI367 - Artificial Intelligence/week10/Shallow NLP.md",
     "COMPSCI367 - Artificial Intelligence/week10/Natural Language Processing (NLP).md",
     "COMPSCI367 - Artificial Intelligence/week10/Pipelined NLP.md",
@@ -239,7 +240,6 @@
     "COMPSCI367 - Artificial Intelligence/week10/Symbolic Knowledge.md",
     "COMPSCI367 - Artificial Intelligence/week10/Information Retrieval (IR).md",
     "COMPSCI367 - Artificial Intelligence/week10/overfitting.md",
-    "COMPSCI367 - Artificial Intelligence/week10/Inverse Document Frequency (idf).md",
     "COMPSCI367 - Artificial Intelligence/week10",
     "COMPSCI367 - Artificial Intelligence/week09",
     "@images/quicklatex.com-557f65414714e2cde89ee6709e65a857_l3-GARETH.svg",
