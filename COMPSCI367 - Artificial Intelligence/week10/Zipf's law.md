@@ -2,3 +2,4 @@
 - k: rank of the word
 - s: is a parameter (1 fits OK for English)
 	- 1000th word in a list has a decreased likelihood of occurring$$f(k;s,N)=\frac {\frac {1}{k^s}}{}$$
+![[Pasted image 20231025002104.png]]
