@@ -1,2 +1,2 @@
-$$p(\huge {w}\tiny {n}\normalsize =\ \huge {w}\tiny {n}\normalsize \ |\ \huge {w}\tiny {1}\normalsize \ ...\ \huge {w}\tiny {n-1}\normalsize) \cong f(\huge {w}\tiny {1}\normalsize \ ...\ \huge {w}\tiny {n-1}\normalsize ,i)$$
-- where 
+$$p(\huge {w}\tiny {n}\normalsize =\ \huge {v}\tiny {i}\normalsize \ |\ \huge {w}\tiny {1}\normalsize \ ...\ \huge {w}\tiny {n-1}\normalsize) \cong f(\huge {w}\tiny {1}\normalsize \ ...\ \huge {w}\tiny {n-1}\normalsize ,i)$$
+- where $\huge {v}\tiny {i}\normalsize$ is a word in the vocabulary 
