@@ -99,7 +99,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week09/Classical Planning.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week01/world.md",
                 "mode": "source",
                 "source": false
               }
@@ -131,7 +131,7 @@
                 "state": {
                   "type": "outgoing-link",
                   "state": {
-                    "file": "COMPSCI367 - Artificial Intelligence/week09/Classical Planning.md",
+                    "file": "COMPSCI367 - Artificial Intelligence/week01/world.md",
                     "linksCollapsed": false,
                     "unlinkedCollapsed": true
                   }
@@ -143,7 +143,7 @@
                 "state": {
                   "type": "backlink",
                   "state": {
-                    "file": "COMPSCI367 - Artificial Intelligence/week09/Classical Planning.md",
+                    "file": "COMPSCI367 - Artificial Intelligence/week01/world.md",
                     "collapseAll": false,
                     "extraContext": false,
                     "sortOrder": "alphabetical",
@@ -229,7 +229,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "plann",
+                "query": "finite state",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -246,7 +246,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -277,7 +278,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week09/Classical Planning.md"
+                "file": "COMPSCI367 - Artificial Intelligence/week01/world.md"
               }
             }
           },
@@ -318,33 +319,34 @@
   },
   "active": "3dd87e27a1a2fba3",
   "lastOpenFiles": [
-    "@images/Pasted image 20231024150510.png",
-    "COMPSCI367 - Artificial Intelligence/week09/Planning.md",
-    "COMPSCI367 - Artificial Intelligence/week09/Classical Planning.md",
-    "COMPSCI367 - Artificial Intelligence/week09/Planning task.md",
-    "COMPSCI367 - Artificial Intelligence/week09/Bayes Nets.md",
-    "COMPSCI367 - Artificial Intelligence/week09/First Order Bayes Nets.md",
+    "COMPSCI367 - Artificial Intelligence/week09/TranslateToSAT.md",
+    "COMPSCI367 - Artificial Intelligence/week09/SATPlan.md",
+    "COMPSCI367 - Artificial Intelligence/week09/search.md",
+    "COMPSCI367 - Artificial Intelligence/week09/Remote Agent.md",
     "COMPSCI367 - Artificial Intelligence/week09/Problog.md",
-    "COMPSCI367 - Artificial Intelligence/week09/Probability Theory.md",
+    "COMPSCI367 - Artificial Intelligence/week09/Problem file.md",
     "COMPSCI367 - Artificial Intelligence/week09/Probability.md",
     "COMPSCI367 - Artificial Intelligence/week09/Probabilistic Reasoning.md",
-    "COMPSCI367 - Artificial Intelligence/week08/Arithmetic.md",
+    "COMPSCI367 - Artificial Intelligence/week09/Planning task.md",
     "COMPSCI367 - Artificial Intelligence/week09/PDDL implementation.md",
-    "COMPSCI367 - Artificial Intelligence/week08/Prolog.md",
-    "COMPSCI367 - Artificial Intelligence/week09/search.md",
     "COMPSCI367 - Artificial Intelligence/week09/Forward Planning.md",
-    "COMPSCI367 - Artificial Intelligence/week09/SATPlan.md",
+    "COMPSCI367 - Artificial Intelligence/week09/First Order Bayes Nets.md",
+    "COMPSCI367 - Artificial Intelligence/week09/Domain file.md",
+    "COMPSCI367 - Artificial Intelligence/week09/Classical Planning.md",
+    "COMPSCI367 - Artificial Intelligence/week09/Building a planner.md",
+    "@images/Pasted image 20231024150510.png",
+    "COMPSCI367 - Artificial Intelligence/week09/Planning.md",
+    "COMPSCI367 - Artificial Intelligence/week09/Bayes Nets.md",
+    "COMPSCI367 - Artificial Intelligence/week09/Probability Theory.md",
+    "COMPSCI367 - Artificial Intelligence/week08/Arithmetic.md",
+    "COMPSCI367 - Artificial Intelligence/week08/Prolog.md",
     "COMPSCI367 - Artificial Intelligence/week06/SAT solvers.md",
-    "COMPSCI367 - Artificial Intelligence/week09/TranslateToSAT.md",
     "COMPSCI367 - Artificial Intelligence/week06/proposition.md",
     "COMPSCI367 - Artificial Intelligence/week06/Propositional Knowledge Base.md",
     "COMPSCI367 - Artificial Intelligence/week09/ExtractPlan.md",
     "COMPSCI367 - Artificial Intelligence/week06/Satisfiability Problem (SAT).md",
     "COMPSCI367 - Artificial Intelligence/week09/Logic-based Planning algorithms.md",
-    "COMPSCI367 - Artificial Intelligence/week06/interpretation.md",
-    "COMPSCI367 - Artificial Intelligence/week06/Knowledge Base (KB).md",
     "@images/Untitled 6.png",
-    "COMPSCI367 - Artificial Intelligence/week09/Backward Planning.md",
     "@images/Untitled 5.png",
     "COMPSCI367 - Artificial Intelligence/week09",
     "@images/Untitled 4.png",
@@ -357,7 +359,6 @@
     "COMPSCI367 - Artificial Intelligence/week06",
     "@images/rules-of-inference-chart.png",
     "@images/quicklatex.com-557f65414714e2cde89ee6709e65a857_l3.svg",
-    "@images/Untitled.png",
     "COMPSCI367 - Artificial Intelligence/week03",
     "COMPSCI367 - Artificial Intelligence/week04",
     "COMPSCI367 - Artificial Intelligence/week05",

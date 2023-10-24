@@ -1,3 +1,5 @@
+- a [[Planning task]] with the following assumptions:
+	- 
 - You need a specification of:
     - [[initial state (start state)]]
         - you need a series of [[action(s)]] that the [[agent]] can perform in the [[world]] in order to achieve the [[goal(s) - goal state(s)]]
