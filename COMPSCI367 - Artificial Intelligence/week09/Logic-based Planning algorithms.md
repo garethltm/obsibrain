@@ -9,10 +9,13 @@
 
 - Goal → this is only true if a sequence of actions are true which triggers a sequence of state transitions that links the initial state with the goal
 
->> Planning task can be expressed as a [[Knowledge Base (KB)]] φ (related to logical inference) φ = initial state ∧ action descriptions ∧ goal
+>> Planning task can be expressed as a 
+>> [[Knowledge Base (KB)]] φ (related to [[Logic Inference Problem]]) 
 >> 
->> Planning is equivalent to checking the satisfiability of φ (satisfies the KB)
->>>Example: finding an interpretation π such that: π ⊧ φ
+>> φ = [[initial state (start state)]] ∧ [[action(s)]] descriptions ∧ [[goal(s) - goal state(s)]]
+>> 
+>> Planning is equivalent to checking the [[satisfiable]] of φ (satisfies the [[Knowledge Base (KB)]])
+>>>Example: finding an [[interpretation]] π such that: π ⊧ φ
 
 ![[Untitled 6.png]]
 - represent the planning problem using logical syntax & extract the sequence of actions from there
