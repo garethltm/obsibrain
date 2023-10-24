@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week10/Data compression.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week10/Information Theory.md",
                 "mode": "source",
                 "source": false
               }
@@ -45,7 +45,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week10/Data compression.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week10/Information Theory.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -140,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week10/Data compression.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week10/Information Theory.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week10/Data compression.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week10/Information Theory.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -180,7 +180,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week10/Data compression.md"
+                "file": "COMPSCI367 - Artificial Intelligence/week10/Information Theory.md"
               }
             }
           },
@@ -214,13 +214,14 @@
   },
   "active": "719a9e3cda8d050c",
   "lastOpenFiles": [
+    "COMPSCI367 - Artificial Intelligence/week10/H.md",
     "COMPSCI367 - Artificial Intelligence/week10/Information Theory.md",
+    "COMPSCI367 - Artificial Intelligence/week10/Data compression.md",
     "COMPSCI367 - Artificial Intelligence/week10/conditional probability.md",
     "COMPSCI367 - Artificial Intelligence/week10/data rate.md",
     "COMPSCI367 - Artificial Intelligence/week10/Untitled",
     "COMPSCI367 - Artificial Intelligence/week10/Transmission errors.md",
     "COMPSCI367 - Artificial Intelligence/week10/Entropy.md",
-    "COMPSCI367 - Artificial Intelligence/week10/Data compression.md",
     "COMPSCI367 - Artificial Intelligence/week10/Channel Capacity.md",
     "COMPSCI367 - Artificial Intelligence/week10/Why should you use NLP.md",
     "COMPSCI367 - Artificial Intelligence/week10/Modern Problems - More subsequent lectures.md",
@@ -245,7 +246,6 @@
     "COMPSCI367 - Artificial Intelligence/week10/term specificity.md",
     "COMPSCI367 - Artificial Intelligence/week10/Shallow NLP.md",
     "COMPSCI367 - Artificial Intelligence/week10/Pipelined NLP.md",
-    "COMPSCI367 - Artificial Intelligence/week10/Information Retrieval (IR).md",
     "@images/Pasted image 20231025000943.png",
     "@images/Pasted image 20231025000902.png",
     "@images/Pasted image 20231025000844.png",
