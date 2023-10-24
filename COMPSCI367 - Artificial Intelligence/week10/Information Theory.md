@@ -5,4 +5,6 @@
 - Idea of [[Entropy]]
 - [[Data compression]]
 - Truly random data can't be compressed
-	- Ordered 
+	- Ordered data can be:
+		- Compression is limited by a.) [[Entropy]] (from Shannon)
+			- Important for understanding everything from cell phones, to biology,
