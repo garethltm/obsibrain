@@ -99,7 +99,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week09/Forward Planning.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week09/Backward Planning.md",
                 "mode": "source",
                 "source": false
               }
@@ -131,7 +131,7 @@
                 "state": {
                   "type": "outgoing-link",
                   "state": {
-                    "file": "COMPSCI367 - Artificial Intelligence/week09/Forward Planning.md",
+                    "file": "COMPSCI367 - Artificial Intelligence/week09/Backward Planning.md",
                     "linksCollapsed": false,
                     "unlinkedCollapsed": true
                   }
@@ -143,7 +143,7 @@
                 "state": {
                   "type": "backlink",
                   "state": {
-                    "file": "COMPSCI367 - Artificial Intelligence/week09/Forward Planning.md",
+                    "file": "COMPSCI367 - Artificial Intelligence/week09/Backward Planning.md",
                     "collapseAll": false,
                     "extraContext": false,
                     "sortOrder": "alphabetical",
@@ -277,7 +277,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week09/Forward Planning.md"
+                "file": "COMPSCI367 - Artificial Intelligence/week09/Backward Planning.md"
               }
             }
           },
@@ -319,6 +319,7 @@
   "active": "3dd87e27a1a2fba3",
   "lastOpenFiles": [
     "COMPSCI367 - Artificial Intelligence/week09/Search.md",
+    "COMPSCI367 - Artificial Intelligence/week09/Backward Planning.md",
     "COMPSCI367 - Artificial Intelligence/week09/Forward Planning.md",
     "COMPSCI367 - Artificial Intelligence/week09/Classical Planning.md",
     "@images/Untitled 5.png",
@@ -344,7 +345,6 @@
     "COMPSCI367 - Artificial Intelligence/week02/Space Complexity.md",
     "COMPSCI367 - Artificial Intelligence/week02/Uninformed Search.md",
     "COMPSCI367 - Artificial Intelligence/week02/Optimal.md",
-    "COMPSCI367 - Artificial Intelligence/week02/arc.md",
     "COMPSCI367 - Artificial Intelligence/week09",
     "@images/Untitled 4.png",
     "@images/Untitled 3.png",

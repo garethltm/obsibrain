@@ -1,0 +1,1 @@
+start from [[goal(s) - goal state(s)]] & checking whether you reach the [[initial state (start state)]]
