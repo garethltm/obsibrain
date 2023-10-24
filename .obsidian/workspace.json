@@ -6,7 +6,7 @@
       {
         "id": "e1ccbf259f6ba816",
         "type": "tabs",
-        "dimension": 65.14360313315926,
+        "dimension": 48.305905130687314,
         "children": [
           {
             "id": "bcc7a7b87dd8df83",
@@ -102,7 +102,8 @@
                 "mode": "source",
                 "source": false
               }
-            }
+            },
+            "group": "6264df0038d4b3d6"
           }
         ],
         "currentTab": 7
@@ -110,7 +111,7 @@
       {
         "id": "992e264c1b226738",
         "type": "split",
-        "dimension": 34.85639686684073,
+        "dimension": 51.694094869312686,
         "children": [
           {
             "id": "8d459d1c85b8b9ed",
@@ -122,6 +123,7 @@
                 "state": {
                   "type": "outgoing-link",
                   "state": {
+                    "file": "COMPSCI367 - Artificial Intelligence/week09/SATPlan.md",
                     "linksCollapsed": false,
                     "unlinkedCollapsed": true
                   }
@@ -134,12 +136,40 @@
             "type": "tabs",
             "children": [
               {
-                "id": "95f9269492aec5aa",
+                "id": "f44f056083841a23",
                 "type": "leaf",
                 "state": {
-                  "type": "empty",
-                  "state": {}
-                }
+                  "type": "localgraph",
+                  "state": {
+                    "file": "COMPSCI367 - Artificial Intelligence/week09/SATPlan.md",
+                    "options": {
+                      "collapse-filter": true,
+                      "search": "",
+                      "localJumps": 1,
+                      "localBacklinks": true,
+                      "localForelinks": true,
+                      "localInterlinks": false,
+                      "showTags": false,
+                      "showAttachments": false,
+                      "hideUnresolved": false,
+                      "collapse-color-groups": true,
+                      "colorGroups": [],
+                      "collapse-display": true,
+                      "showArrow": false,
+                      "textFadeMultiplier": 0,
+                      "nodeSizeMultiplier": 1,
+                      "lineSizeMultiplier": 1,
+                      "collapse-forces": true,
+                      "centerStrength": 0.518713248970312,
+                      "repelStrength": 10,
+                      "linkStrength": 1,
+                      "linkDistance": 250,
+                      "scale": 0.713275462622443,
+                      "close": true
+                    }
+                  }
+                },
+                "group": "6264df0038d4b3d6"
               }
             ]
           }
@@ -220,7 +250,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "COMPSCI367 - Artificial Intelligence/week09/SATPlan.md"
+              }
             }
           },
           {
@@ -258,8 +290,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "95f9269492aec5aa",
+  "active": "f44f056083841a23",
   "lastOpenFiles": [
+    "COMPSCI367 - Artificial Intelligence/week09/Logic-based Planning Algorithms.md",
     "COMPSCI367 - Artificial Intelligence/week09/SATPlan.md",
     "COMPSCI367 - Artificial Intelligence/week09/TranslateToSAT.md",
     "@images/COMPSCI3672023_S2W09ClassicalPlan2of2-22.jpg",
@@ -275,7 +308,6 @@
     "COMPSCI367 - Artificial Intelligence/week06/Propositional Knowledge Base.md",
     "@images/Pasted image 20231024155646.png",
     "@images/Pasted image 20231024155559.png",
-    "COMPSCI367 - Artificial Intelligence/week09/Logic-based Planning Algorithms.md",
     "COMPSCI367 - Artificial Intelligence/week09/planning.md",
     "COMPSCI367 - Artificial Intelligence/week09/Planning task.md",
     "COMPSCI367 - Artificial Intelligence/week09/Search-based Planning Algorithm.md",

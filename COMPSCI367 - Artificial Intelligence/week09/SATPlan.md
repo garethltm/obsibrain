@@ -10,6 +10,9 @@ finding a plan by converting the problem into a [[Propositional Knowledge Base]]
 >> Check the main steps of [[TranslateToSAT]](Translate a [[PDDL]] description to [[SATPlan]]) 
 ![[Pasted image 20231024160111.png]]
 ![[Pasted image 20231024160613.png]]
+## Disadvantages
+
+
 
 >conjunctive normal form not being tested
 
