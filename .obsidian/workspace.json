@@ -99,7 +99,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week09/Classical Planning.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week09/Task description.md",
                 "mode": "source",
                 "source": false
               }
@@ -123,7 +123,7 @@
                 "state": {
                   "type": "outgoing-link",
                   "state": {
-                    "file": "COMPSCI367 - Artificial Intelligence/week09/Classical Planning.md",
+                    "file": "COMPSCI367 - Artificial Intelligence/week09/Task description.md",
                     "linksCollapsed": false,
                     "unlinkedCollapsed": true
                   }
@@ -251,7 +251,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week09/Classical Planning.md"
+                "file": "COMPSCI367 - Artificial Intelligence/week09/Task description.md"
               }
             }
           },
@@ -292,8 +292,10 @@
   },
   "active": "3dd87e27a1a2fba3",
   "lastOpenFiles": [
-    "COMPSCI367 - Artificial Intelligence/week09/Planning task.md",
     "COMPSCI367 - Artificial Intelligence/week09/Classical Planning.md",
+    "COMPSCI367 - Artificial Intelligence/week09/Task description.md",
+    "COMPSCI367 - Artificial Intelligence/week09/search.md",
+    "COMPSCI367 - Artificial Intelligence/week09/Planning task.md",
     "COMPSCI367 - Artificial Intelligence/week09/Building a planner.md",
     "COMPSCI367 - Artificial Intelligence/week09/Problem file.md",
     "@images/COMPSCI3672023_S2W09ClassicalPlan1of2-16.jpg",
@@ -307,7 +309,6 @@
     "@images/Pasted image 20231024151313.png",
     "@images/Pasted image 20231024151254.png",
     "COMPSCI367 - Artificial Intelligence/week09/TranslateToSAT.md",
-    "COMPSCI367 - Artificial Intelligence/week09/search.md",
     "COMPSCI367 - Artificial Intelligence/week09/SATPlan.md",
     "COMPSCI367 - Artificial Intelligence/week09/Remote Agent.md",
     "COMPSCI367 - Artificial Intelligence/week09/Problog.md",
