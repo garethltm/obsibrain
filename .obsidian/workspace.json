@@ -104,21 +104,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "f7e49e7c55488e07",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week09/Remote Agent.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 8
+        "currentTab": 7
       },
       {
         "id": "992e264c1b226738",
@@ -241,7 +229,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "plann",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -258,7 +246,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -328,8 +317,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f7e49e7c55488e07",
+  "active": "3dd87e27a1a2fba3",
   "lastOpenFiles": [
+    "COMPSCI367 - Artificial Intelligence/week01/Planning Agent.md",
+    "COMPSCI367 - Artificial Intelligence/week09/Remote Agent.md",
     "COMPSCI367 - Artificial Intelligence/week02/Uniform-Cost Search (UCS) (Lowest-Cost-First Search).md",
     "COMPSCI367 - Artificial Intelligence/week02/Time Complexity.md",
     "COMPSCI367 - Artificial Intelligence/week02/Space Complexity.md",
@@ -337,7 +328,6 @@
     "COMPSCI367 - Artificial Intelligence/week02/Optimal.md",
     "COMPSCI367 - Artificial Intelligence/week02/arc.md",
     "COMPSCI367 - Artificial Intelligence/week01/goal(s) - goal state(s).md",
-    "COMPSCI367 - Artificial Intelligence/week09/Remote Agent.md",
     "COMPSCI367 - Artificial Intelligence/week09/Classical Planning.md",
     "Arithmetic.md",
     "COMPSCI367 - Artificial Intelligence/week09",
@@ -360,7 +350,6 @@
     "COMPSCI367 - Artificial Intelligence/week08/Imperative programming.md",
     "conflict-files-obsidian-git.md",
     "COMPSCI367 - Artificial Intelligence/week08/algorithm.md",
-    "COMPSCI367 - Artificial Intelligence/week08/Unification.md",
     "@images/quicklatex.com-557f65414714e2cde89ee6709e65a857_l3-GARETH.svg",
     "COMPSCI367 - Artificial Intelligence/week08",
     "COMPSCI367 - Artificial Intelligence/week07",
