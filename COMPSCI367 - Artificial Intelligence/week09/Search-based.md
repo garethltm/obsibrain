@@ -13,5 +13,6 @@
 2. [[subgoal]] through regression
 3. [[heuristic(s)]] through relaxing preconditions
 
-4. [[Forward (Progression) planning]]
+## Algorithms
+1. [[Forward (Progression) planning]]
 5. [[Backward (Regression) planning]]

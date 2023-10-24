@@ -99,7 +99,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week09/Backward (Regression) planning.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week09/Search-based.md",
                 "mode": "source",
                 "source": false
               }
@@ -123,7 +123,7 @@
                 "state": {
                   "type": "outgoing-link",
                   "state": {
-                    "file": "COMPSCI367 - Artificial Intelligence/week09/Backward (Regression) planning.md",
+                    "file": "COMPSCI367 - Artificial Intelligence/week09/Search-based.md",
                     "linksCollapsed": false,
                     "unlinkedCollapsed": true
                   }
@@ -251,7 +251,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week09/Backward (Regression) planning.md"
+                "file": "COMPSCI367 - Artificial Intelligence/week09/Search-based.md"
               }
             }
           },
@@ -292,9 +292,9 @@
   },
   "active": "3dd87e27a1a2fba3",
   "lastOpenFiles": [
+    "COMPSCI367 - Artificial Intelligence/week09/Backward (Regression) planning.md",
     "@images/Pasted image 20231024154715.png",
     "COMPSCI367 - Artificial Intelligence/week09/Forward (Progression) planning.md",
-    "COMPSCI367 - Artificial Intelligence/week09/Backward (Regression) planning.md",
     "@images/Pasted image 20231024154602.png",
     "@images/Pasted image 20231024154323.png",
     "@images/Pasted image 20231024154304.png",
@@ -322,7 +322,6 @@
     "@images/COMPSCI3672023_S2W09ClassicalPlan1of2-14.jpg",
     "@images/Pasted image 20231024151352.png",
     "@images/Pasted image 20231024151339.png",
-    "@images/Pasted image 20231024151313.png",
     "COMPSCI367 - Artificial Intelligence/week09/TranslateToSAT.md",
     "COMPSCI367 - Artificial Intelligence/week09/SATPlan.md",
     "COMPSCI367 - Artificial Intelligence/week09/Remote Agent.md",
