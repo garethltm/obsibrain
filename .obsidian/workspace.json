@@ -4,101 +4,8 @@
     "type": "split",
     "children": [
       {
-        "id": "e1ccbf259f6ba816",
-        "type": "tabs",
-        "dimension": 77.07082833133254,
-        "children": [
-          {
-            "id": "bcc7a7b87dd8df83",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week05/Population-based Search.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9d16bf805036e931",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week02/State Space Problem.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "358f03c9716e94e8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week04/Hill-Climbing.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f29b33f23d11f1cc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week04/Hill-Climbing.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "78003ac2d0f27c16",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week04/Hill-Climbing.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d0f61cd9fefb8c2d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week08/Logic Programming.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2602e13c15239a89",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week09/Probabilistic Logic.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ],
-        "currentTab": 6
-      },
-      {
         "id": "992e264c1b226738",
         "type": "split",
-        "dimension": 22.92917166866747,
         "children": [
           {
             "id": "8d459d1c85b8b9ed",
@@ -110,7 +17,6 @@
                 "state": {
                   "type": "outgoing-link",
                   "state": {
-                    "file": "COMPSCI367 - Artificial Intelligence/week09/Probabilistic Logic.md",
                     "linksCollapsed": false,
                     "unlinkedCollapsed": true
                   }
@@ -128,7 +34,6 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "COMPSCI367 - Artificial Intelligence/week09/Probabilistic Logic.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -236,9 +141,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week09/Probabilistic Logic.md"
-              }
+              "state": {}
             }
           },
           {
@@ -276,10 +179,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2602e13c15239a89",
+  "active": "3ad179677b7fba41",
   "lastOpenFiles": [
-    "COMPSCI367 - Artificial Intelligence/week09/Probabilistic Parsing.md",
+    "COMPSCI367 - Artificial Intelligence/week10",
     "COMPSCI367 - Artificial Intelligence/week09/Probabilistic Logic.md",
+    "COMPSCI367 - Artificial Intelligence/week08/Logic Programming.md",
+    "COMPSCI367 - Artificial Intelligence/week04/Hill-Climbing.md",
+    "COMPSCI367 - Artificial Intelligence/week02/State Space Problem.md",
+    "COMPSCI367 - Artificial Intelligence/week09/Probabilistic Parsing.md",
     "COMPSCI367 - Artificial Intelligence/week09/First Order Bayes Nets.md",
     "@images/Pasted image 20231024163958.png",
     "@images/Pasted image 20231024163917.png",
@@ -310,10 +217,6 @@
     "COMPSCI367 - Artificial Intelligence/week09/ExtractPlan.md",
     "COMPSCI367 - Artificial Intelligence/week06/SAT solvers.md",
     "COMPSCI367 - Artificial Intelligence/week06/Satisfiability Problem (SAT).md",
-    "COMPSCI367 - Artificial Intelligence/week06/Propositional Knowledge Base.md",
-    "COMPSCI367 - Artificial Intelligence/week09/planning.md",
-    "COMPSCI367 - Artificial Intelligence/week09/Planning task.md",
-    "COMPSCI367 - Artificial Intelligence/week09/Search-based Planning Algorithm.md",
     "Untitled.canvas",
     "COMPSCI367 - Artificial Intelligence/week09",
     "COMPSCI367 - Artificial Intelligence/week08",
