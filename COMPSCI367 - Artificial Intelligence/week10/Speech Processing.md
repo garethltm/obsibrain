@@ -9,3 +9,6 @@
 - Speaker ID
 - Age ID
 - Gender ID
+- Emotion Recognition
+- Beam Forming
+	- picking out a conversation in a crowded room
