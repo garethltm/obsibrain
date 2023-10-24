@@ -6,4 +6,4 @@ Given a vocabulary v of size d
 - of terms $\large v\tiny i$ for $i=(1,...,d)$
 - counts $\large c\tiny i$ summing to N (total number of words)
 we use a smoothed estimate of the [[probability]]:
-$$\hat{P}(\large v\tiny i\normalsize)=\frac {}{}$$
+$$\hat{P}(\large v\tiny i\normalsize)=\frac {\large c\tiny i\ +\normalsize \alpha}{}$$
