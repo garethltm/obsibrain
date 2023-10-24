@@ -4,68 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "992e264c1b226738",
-        "type": "split",
+        "id": "0d04557c2b82fb70",
+        "type": "tabs",
         "children": [
           {
-            "id": "8d459d1c85b8b9ed",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "34faae9d0b6c33c5",
-                "type": "leaf",
-                "state": {
-                  "type": "outgoing-link",
-                  "state": {
-                    "linksCollapsed": false,
-                    "unlinkedCollapsed": true
-                  }
-                }
-              }
-            ]
-          },
-          {
-            "id": "d9a730eda40123bb",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "f44f056083841a23",
-                "type": "leaf",
-                "state": {
-                  "type": "localgraph",
-                  "state": {
-                    "options": {
-                      "collapse-filter": true,
-                      "search": "",
-                      "localJumps": 1,
-                      "localBacklinks": true,
-                      "localForelinks": true,
-                      "localInterlinks": false,
-                      "showTags": false,
-                      "showAttachments": false,
-                      "hideUnresolved": false,
-                      "collapse-color-groups": true,
-                      "colorGroups": [],
-                      "collapse-display": true,
-                      "showArrow": false,
-                      "textFadeMultiplier": 0,
-                      "nodeSizeMultiplier": 1,
-                      "lineSizeMultiplier": 1,
-                      "collapse-forces": true,
-                      "centerStrength": 0.518713248970312,
-                      "repelStrength": 10,
-                      "linkStrength": 1,
-                      "linkDistance": 250,
-                      "scale": 0.713275462622443,
-                      "close": true
-                    }
-                  }
-                }
-              }
-            ]
+            "id": "0ac46519bebe99ac",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
-        ],
-        "direction": "horizontal"
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "search-based",
+                "query": "languag",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -111,7 +61,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -179,8 +130,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3ad179677b7fba41",
+  "active": "0ac46519bebe99ac",
   "lastOpenFiles": [
+    "COMPSCI367 - Artificial Intelligence/week01/goal(s) - goal state(s).md",
+    "COMPSCI367 - Artificial Intelligence/week06/Language.md",
     "COMPSCI367 - Artificial Intelligence/week10",
     "COMPSCI367 - Artificial Intelligence/week09/Probabilistic Logic.md",
     "COMPSCI367 - Artificial Intelligence/week08/Logic Programming.md",
@@ -216,7 +169,6 @@
     "COMPSCI367 - Artificial Intelligence/week09/TranslateToSAT.md",
     "COMPSCI367 - Artificial Intelligence/week09/ExtractPlan.md",
     "COMPSCI367 - Artificial Intelligence/week06/SAT solvers.md",
-    "COMPSCI367 - Artificial Intelligence/week06/Satisfiability Problem (SAT).md",
     "Untitled.canvas",
     "COMPSCI367 - Artificial Intelligence/week09",
     "COMPSCI367 - Artificial Intelligence/week08",
@@ -226,7 +178,6 @@
     "COMPSCI367 - Artificial Intelligence/week04",
     "COMPSCI367 - Artificial Intelligence/week05",
     "COMPSCI367 - Artificial Intelligence/week02",
-    "Untitle",
-    "@images"
+    "Untitle"
   ]
 }
