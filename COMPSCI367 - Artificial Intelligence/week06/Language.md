@@ -3,12 +3,14 @@
 ### Aspects of [[Language]]
 - Phones
 - Phonemes
-- Words
-- Phrases
-- [[clause(s)]]
-- [[sentence]]
 - Paragraphs
 - Documents
 - Spoken
 - Written
-- 
+##### [[Logic]] Exercises
+- Words
+- Phrases
+- [[clause(s)]]
+- [[sentence]]
+
+##### [[Logic]] & KR Exercises
