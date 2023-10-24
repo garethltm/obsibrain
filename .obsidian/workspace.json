@@ -12,12 +12,8 @@
             "id": "0ac46519bebe99ac",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week10/Shallow NLP.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             },
             "group": "78784693ed8901a3"
           }
@@ -114,7 +110,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 236.5
+    "width": 236.5,
+    "collapsed": true
   },
   "right": {
     "id": "29204b37fc003a9a",
@@ -140,9 +137,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week10/Shallow NLP.md"
-              }
+              "state": {}
             }
           },
           {
@@ -182,9 +177,9 @@
   },
   "active": "0ac46519bebe99ac",
   "lastOpenFiles": [
+    "COMPSCI367 - Artificial Intelligence/week10/Shallow NLP.md",
     "@images/Pasted image 20231024182526.png",
     "COMPSCI367 - Artificial Intelligence/week10/overfitting.md",
-    "COMPSCI367 - Artificial Intelligence/week10/Shallow NLP.md",
     "COMPSCI367 - Artificial Intelligence/week10/Information Retrieval (IR).md",
     "COMPSCI367 - Artificial Intelligence/week10/Inverse Document Frequency (idf).md",
     "COMPSCI367 - Artificial Intelligence/week10/Natural Language Processing (NLP).md",
@@ -215,7 +210,6 @@
     "@images/Pasted image 20231024163825.png",
     "@images/Pasted image 20231024163808.png",
     "COMPSCI367 - Artificial Intelligence/week09/Evidence - Calculate probabilities given prior evidence.md",
-    "@images/Pasted image 20231024163703.png",
     "COMPSCI367 - Artificial Intelligence/week09/Annotated Disjunction.md",
     "COMPSCI367 - Artificial Intelligence/week08/Unification in queries.md",
     "COMPSCI367 - Artificial Intelligence/week09/Noisy OR.md",
