@@ -12,4 +12,4 @@ $p(W) = ?$
 - Bigram model: $$p(\huge w\tiny 2\normalsize | \huge w\tiny 1\normalsize) = \frac {f(\huge w\tiny 1\normalsize , \huge w\tiny 2\normalsize)}{f(\huge w\tiny 1\normalsize)}$$
 	- where $f(\huge w\tiny 1\normalsize ,\huge w\tiny 2\normalsize)$ is the count of times $\huge w\tiny 2\normalsize$  follows $\huge w\tiny 1\normalsize$
 	-
-- Trigram model: $$p(\huge w\tiny 3\normalsize | \huge w\tiny 1\normalsize ,\huge w\tiny 2\normalsize) = \frac {f(\huge w\tiny 1\normalsize , \huge w\tiny 2\normalsize ,\huge w\tiny 2\normalsize)}{f(\huge w\tiny 1\normalsize)}$$
+- Trigram model: $$p(\huge w\tiny 3\normalsize | \huge w\tiny 1\normalsize ,\huge w\tiny 2\normalsize) = \frac {f(\huge w\tiny 1\normalsize , \huge w\tiny 2\normalsize ,\huge w\tiny 3\normalsize)}{f(\huge w\tiny 1\normalsize , \huge w\tiny 2\normalsize)}$$

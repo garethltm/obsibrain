@@ -242,8 +242,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -337,8 +336,9 @@
   },
   "active": "d0f61cd9fefb8c2d",
   "lastOpenFiles": [
-    "COMPSCI367 - Artificial Intelligence/week10/Statistical Language Model.md",
+    "COMPSCI367 - Artificial Intelligence/week10/Smoothing.md",
     "COMPSCI367 - Artificial Intelligence/week10/Language Model.md",
+    "COMPSCI367 - Artificial Intelligence/week10/Statistical Language Model.md",
     "COMPSCI367 - Artificial Intelligence/week10/Translation Model.md",
     "COMPSCI367 - Artificial Intelligence/week10/Machine Translation.md",
     "COMPSCI367 - Artificial Intelligence/week10/Laplace smoothing (add-one smoothing).md",
@@ -366,7 +366,6 @@
     "COMPSCI367 - Artificial Intelligence/week10/Symbolic Knowledge.md",
     "COMPSCI367 - Artificial Intelligence/week10/Shallow NLP.md",
     "COMPSCI367 - Artificial Intelligence/week10/Naïve Bayes classification.md",
-    "COMPSCI367 - Artificial Intelligence/week10/Naïve Bayes - Laplace smoothing.md",
     "@images/Pasted image 20231025012028.png",
     "@images/Pasted image 20231025011003.png",
     "@images/Pasted image 20231025010549.png",
