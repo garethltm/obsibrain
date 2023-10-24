@@ -1,1 +1,1 @@
-Quantifying & Working with [[degree of belief]]
+Quantifying & Working with measures of belief
