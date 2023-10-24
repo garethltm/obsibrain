@@ -75,7 +75,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week08/Grounding.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week01/Continuous-GARETH.md",
                 "mode": "source",
                 "source": false
               }
@@ -148,7 +148,7 @@
                       "repelStrength": 10,
                       "linkStrength": 1,
                       "linkDistance": 250,
-                      "scale": 1,
+                      "scale": 0.5087618855792587,
                       "close": true
                     }
                   }
@@ -224,7 +224,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week08/Grounding.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week01/Continuous-GARETH.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -241,7 +241,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week08/Grounding.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week01/Continuous-GARETH.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -264,7 +264,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week08/Grounding.md"
+                "file": "COMPSCI367 - Artificial Intelligence/week01/Continuous-GARETH.md"
               }
             }
           },
@@ -298,8 +298,12 @@
   },
   "active": "d0f61cd9fefb8c2d",
   "lastOpenFiles": [
-    "COMPSCI367 - Artificial Intelligence/week08/Grounding-GARETH.md",
+    "COMPSCI367 - Artificial Intelligence/week01/Actuators.md",
+    "COMPSCI367 - Artificial Intelligence/week01/Artificial Intelligence (AI)-GARETH.md",
+    "COMPSCI367 - Artificial Intelligence/week01/agent-GARETH.md",
+    "COMPSCI367 - Artificial Intelligence/week01/Actuators-GARETH.md",
     "COMPSCI367 - Artificial Intelligence/week08/Grounding.md",
+    "COMPSCI367 - Artificial Intelligence/week08/Grounding-GARETH.md",
     "COMPSCI367 - Artificial Intelligence/week08/Herbrand's Theorem.md",
     "COMPSCI367 - Artificial Intelligence/week08/Herbrand's Theorem-GARETH.md",
     "COMPSCI367 - Artificial Intelligence/week08/First-Order Logic Inference.md",
@@ -320,10 +324,6 @@
     "COMPSCI367 - Artificial Intelligence/week06/interpretation.md",
     "COMPSCI367 - Artificial Intelligence/week06/intelligent.md",
     "COMPSCI367 - Artificial Intelligence/week06/Propositional Logic with Wumpus World.md",
-    "COMPSCI367 - Artificial Intelligence/week05/genetics.md",
-    "COMPSCI367 - Artificial Intelligence/week05/fitness.md",
-    "INFOSYS222 - Database Systems/Unary.md",
-    "INFOSYS222 - Database Systems/Transform.md",
     "@images/quicklatex.com-557f65414714e2cde89ee6709e65a857_l3-GARETH.svg",
     "COMPSCI367 - Artificial Intelligence/week08",
     "COMPSCI367 - Artificial Intelligence/week07",
