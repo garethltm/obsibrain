@@ -14,4 +14,8 @@
 - Activity recognition; scene recognition (but Deep Learning) - classifying things
 >	do you have enough evidence to recognise the activity/scene
 
-- [[inference(s)]]
+- [[inference(s)]] over noisy [[Knowledge Base (KB)]] (eg: Semantic Web)
+>	information might not always be correct
+
+- Social Network analysis
+>	networks between people using graph & networks as there is 
