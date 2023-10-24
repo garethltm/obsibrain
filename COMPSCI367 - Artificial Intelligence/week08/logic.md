@@ -1,3 +1,2 @@
-- When we are writing a program we are essentially writing the [[logic]] part
-- we are describing the domain to the machine - let the machine do the thinking
+- applies [[logic]] to describe what to compute
 - a set of principles that describes how elements should be arranged so a computer can perform specific tasks
