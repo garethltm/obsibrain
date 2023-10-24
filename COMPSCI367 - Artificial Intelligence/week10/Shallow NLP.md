@@ -5,4 +5,5 @@
 
 ## Preprocessing & Bag of Words
 - breaking a [[sentence]] into constituent words
+- once you have extracted these base words of [[sentence]], you have key informative words & particles that may also be informative but less important
 ![[Pasted image 20231024170109.png]]
