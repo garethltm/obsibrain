@@ -25,3 +25,4 @@
 	- [[state(s)]]: structural information used by [[Classical Planning]] [[algorithm]]
 - [[Search]]
 	- [[state(s)]]: single entity used by the [[Search]] [[algorithm]]
+![[Untitled 5.png]]
