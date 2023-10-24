@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week10/Information Retrieval (IR).md",
+                "file": "COMPSCI367 - Artificial Intelligence/week10/The vector space model.md",
                 "mode": "source",
                 "source": false
               }
@@ -34,7 +34,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week10/Information Retrieval (IR).md",
+                "file": "COMPSCI367 - Artificial Intelligence/week10/The vector space model.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week10/Information Retrieval (IR).md"
+                "file": "COMPSCI367 - Artificial Intelligence/week10/The vector space model.md"
               }
             }
           },
@@ -182,14 +182,14 @@
   },
   "active": "0ac46519bebe99ac",
   "lastOpenFiles": [
+    "COMPSCI367 - Artificial Intelligence/week10/Term Frequency (tf).md",
+    "COMPSCI367 - Artificial Intelligence/week10/The vector space model.md",
+    "COMPSCI367 - Artificial Intelligence/week10/Information Retrieval (IR).md",
     "COMPSCI367 - Artificial Intelligence/week10/Shallow NLP.md",
     "COMPSCI367 - Artificial Intelligence/week10/Pipelined NLP.md",
     "COMPSCI367 - Artificial Intelligence/week10/Why should you use NLP.md",
     "COMPSCI367 - Artificial Intelligence/week10/Symbolic Knowledge.md",
     "COMPSCI367 - Artificial Intelligence/week06/Language.md",
-    "COMPSCI367 - Artificial Intelligence/week10/Term Frequency (tf).md",
-    "COMPSCI367 - Artificial Intelligence/week10/The vector space model.md",
-    "COMPSCI367 - Artificial Intelligence/week10/Information Retrieval (IR).md",
     "@images/Pasted image 20231024170109.png",
     "@images/Pasted image 20231024165959.png",
     "COMPSCI367 - Artificial Intelligence/week10/Natural Language Processing (NLP).md",
