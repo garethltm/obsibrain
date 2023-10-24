@@ -1,2 +1,2 @@
 - if the combination doesn't appear in your [[Knowledge Base (KB)]]/[[Database]] then it might not representative of the the real world
-	- might not be the representation of the real [[Probability]]
+	- might not be the representation of the real [[probability]]

@@ -1,6 +1,6 @@
 imagine a very large number n of possible worlds (potential outcomes) which an event has had an opportunity to occur:
-- k → number of worlds in which the event has occurred
-- n-k → number of worlds in which the event hasn’t occurred
+- k → number of [[world]] in which the event has occurred
+- n-k → number of [[world]] in which the event hasn’t occurred
 - k/n → probability of the event
 
 1. 0 is event certain not to occur
