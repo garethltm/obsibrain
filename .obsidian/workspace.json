@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week10/The vector space model.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week10/Term Frequency (tf).md",
                 "mode": "source",
                 "source": false
               }
@@ -34,7 +34,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week10/The vector space model.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week10/Term Frequency (tf).md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week10/The vector space model.md"
+                "file": "COMPSCI367 - Artificial Intelligence/week10/Term Frequency (tf).md"
               }
             }
           },
@@ -182,8 +182,8 @@
   },
   "active": "0ac46519bebe99ac",
   "lastOpenFiles": [
-    "COMPSCI367 - Artificial Intelligence/week10/Term Frequency (tf).md",
     "COMPSCI367 - Artificial Intelligence/week10/The vector space model.md",
+    "COMPSCI367 - Artificial Intelligence/week10/Term Frequency (tf).md",
     "COMPSCI367 - Artificial Intelligence/week10/Information Retrieval (IR).md",
     "COMPSCI367 - Artificial Intelligence/week10/Shallow NLP.md",
     "COMPSCI367 - Artificial Intelligence/week10/Pipelined NLP.md",
