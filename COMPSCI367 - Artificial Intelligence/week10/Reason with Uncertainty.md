@@ -1,2 +1,7 @@
 [[agent]]'s plans are contingent on events in the world:
-- What will be the weather in Au
+- What will be the weather in Auckland tomorrow?
+- Will the All Blacks win their next test match?
+- Would I get head/tail if I toss a coin?
+
+[[uncertainty]] is an important aspect of an [[agent]]'s decision making:
+- [[agent]] only ha
