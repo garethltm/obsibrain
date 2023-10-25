@@ -1,2 +1,2 @@
-- An [[Atomic Propositions (atoms)]] is [[Independent]] of another [[Atomic Propositions (atoms)]] $\gamma$ conditioned on a set of atoms $Z\tiny 1\normalsize ,...,Z\tiny m$ of for any $y \in {{0,1}}$
-- 
+- An [[Atomic Propositions (atoms)]] is [[Independent]] of another [[Atomic Propositions (atoms)]] $\gamma$ conditioned on a set of atoms $Z\tiny 1\normalsize ,...,Z\tiny m$ of for any $y \in \{ 0,1\}$
+$$
