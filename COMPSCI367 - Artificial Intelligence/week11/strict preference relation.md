@@ -1,0 +1,1 @@
+$$\huge o\tiny 1\normalsize 
