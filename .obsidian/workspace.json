@@ -75,7 +75,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week11/Axiom 3 - Monotonicity.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week11/Axiom 4 - Decomposability.md",
                 "mode": "source",
                 "source": false
               }
@@ -162,7 +162,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "COMPSCI367 - Artificial Intelligence/week11/Axiom 3 - Monotonicity.md",
+                    "file": "COMPSCI367 - Artificial Intelligence/week11/Axiom 4 - Decomposability.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -262,7 +262,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week11/Axiom 3 - Monotonicity.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week11/Axiom 4 - Decomposability.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -279,7 +279,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week11/Axiom 3 - Monotonicity.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week11/Axiom 4 - Decomposability.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -302,7 +302,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week11/Axiom 3 - Monotonicity.md"
+                "file": "COMPSCI367 - Artificial Intelligence/week11/Axiom 4 - Decomposability.md"
               }
             }
           },
@@ -336,10 +336,12 @@
   },
   "active": "d0f61cd9fefb8c2d",
   "lastOpenFiles": [
-    "@images/Pasted image 20231026004539.png",
+    "COMPSCI367 - Artificial Intelligence/week11/Axiom 3 - Monotonicity.md",
     "COMPSCI367 - Artificial Intelligence/week11/Axiom 2 - Transitivity.md",
-    "@images/Pasted image 20231026004436.png",
     "COMPSCI367 - Artificial Intelligence/week11/Axiom 1 - Completeness.md",
+    "COMPSCI367 - Artificial Intelligence/week11/Axiom 4 - Decomposability.md",
+    "@images/Pasted image 20231026004539.png",
+    "@images/Pasted image 20231026004436.png",
     "COMPSCI367 - Artificial Intelligence/week11/indifference relation (~).md",
     "COMPSCI367 - Artificial Intelligence/week11/strict preference relation.md",
     "COMPSCI367 - Artificial Intelligence/week11/weak preference relation (≥).md",
@@ -362,7 +364,6 @@
     "COMPSCI367 - Artificial Intelligence/week07/entails.md",
     "INFOSYS222 - Database Systems/Attribute(s).md",
     "COMPSCI367 - Artificial Intelligence/week11/Linear scalability.md",
-    "COMPSCI367 - Artificial Intelligence/week11/CPT Operations.md",
     "COMPSCI367 - Artificial Intelligence/week12",
     "COMPSCI367 - Artificial Intelligence/week11",
     "@images/Untitled.jpg",
@@ -373,7 +374,6 @@
     "@images/Pasted image 20231025161047.png",
     "@images/Pasted image 20231025161014.png",
     "@images/Pasted image 20231025160943.png",
-    "@images/Pasted image 20231025160918.png",
     "COMPSCI367 - Artificial Intelligence/week08",
     "COMPSCI367 - Artificial Intelligence/week07",
     "COMPSCI367 - Artificial Intelligence/week06",
