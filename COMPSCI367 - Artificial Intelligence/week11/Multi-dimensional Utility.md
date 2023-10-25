@@ -1,1 +1,2 @@
-- more variables are now involbed
+- more variables are now involved
+- [[Factored Representation]]
