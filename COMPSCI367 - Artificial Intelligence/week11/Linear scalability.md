@@ -1,4 +1,5 @@
 - Idea of introducing a constant C 
 	- $C \times \ utilities$
 		- [[utility]]
-- Suppose $u:\ohm \rightarrow R$ is a [[utility]] function. Then for any constant c > 0, $u': \ohm \rightarrow R$ defined by 
+- Suppose $u:\ohm \rightarrow R$ is a [[utility]] function. Then for any constant c > 0, $u': \ohm \rightarrow R$ defined by $u'(o)=cu(o)$ is also a [[utility]] function
+	- preferences remain the same even when introducing a new 
