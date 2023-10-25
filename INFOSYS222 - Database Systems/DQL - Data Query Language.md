@@ -32,6 +32,7 @@ LIMIT COUNT, OFFSET
 >
 >It is done with the help of aggregate functions, such as `SUM`, `COUNT`, and `AVG`.
 >
-		For example, in a database of products, you might want to calculate the average price of the whole inventory.
+		#Example 
+		in a database of products, you might want to calculate the average price of the whole inventory.
 
 Related to: [[SQL]]
