@@ -1,1 +1,1 @@
-$$\huge o\tiny 1\normalsize ~ \huge o\tiny 2
+$$\huge o\tiny 1\normalsize \backsim \huge o\tiny 2$$
