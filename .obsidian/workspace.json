@@ -73,12 +73,8 @@
             "id": "d0f61cd9fefb8c2d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week09/probability.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             },
             "group": "bd9851f4b44cc862"
           },
@@ -162,7 +158,6 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "COMPSCI367 - Artificial Intelligence/week09/probability.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -262,7 +257,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week09/probability.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week05/Population-based Search.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -279,7 +274,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week09/probability.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week05/Population-based Search.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -302,7 +297,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week09/probability.md"
+                "file": "COMPSCI367 - Artificial Intelligence/week05/Population-based Search.md"
               }
             }
           },
