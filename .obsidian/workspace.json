@@ -38,18 +38,6 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week04/Hill-Climbing.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f29b33f23d11f1cc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "COMPSCI367 - Artificial Intelligence/week07/Forward Chaining.md",
                 "mode": "source",
                 "source": false
@@ -57,7 +45,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       },
       {
         "id": "8d459d1c85b8b9ed",
@@ -211,12 +199,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f29b33f23d11f1cc",
+  "active": "358f03c9716e94e8",
   "lastOpenFiles": [
+    "COMPSCI367 - Artificial Intelligence/week04/Hill-Climbing.md",
+    "COMPSCI367 - Artificial Intelligence/week07/entails.md",
+    "COMPSCI367 - Artificial Intelligence/week07/Forward Chaining.md",
     "COMPSCI367 - Artificial Intelligence/week09/probability.md",
     "COMPSCI367 - Artificial Intelligence/week10/Additivity.md",
     "COMPSCI367 - Artificial Intelligence/week10/belief measure.md",
-    "COMPSCI367 - Artificial Intelligence/week04/Hill-Climbing.md",
     "COMPSCI367 - Artificial Intelligence/week09/Probability Theory.md",
     "COMPSCI367 - Artificial Intelligence/week10/calculus of belief.md",
     "COMPSCI367 - Artificial Intelligence/week10/disjoint subsets.md",
@@ -240,8 +230,6 @@
     "COMPSCI367 - Artificial Intelligence/week10/The vector space model.md",
     "COMPSCI367 - Artificial Intelligence/week10/Translation Model.md",
     "COMPSCI367 - Artificial Intelligence/week10/Transmission errors.md",
-    "COMPSCI367 - Artificial Intelligence/week10/Value of smoothing.md",
-    "COMPSCI367 - Artificial Intelligence/week10/Why should you use NLP.md",
     "@images/Pasted image 20231025115510.png",
     "@images/Pasted image 20231025101932.png",
     "@images/Pasted image 20231025101919.png",

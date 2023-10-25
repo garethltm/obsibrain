@@ -15,7 +15,7 @@ Use a [[rule of derivation]] for [[inference(s)]]
 
 - [[Completeness]] of [[Forward Chaining]]
 	- For any [[Knowledge Base (KB)]], [[Percepts]] & query g, 
-		- $KB\ \cup Percepts\ \vDash g$ (entails)
+		- $KB\ \cup Percepts\ \vDash g$ ([[entails]])
 		implies
 		- $KB\ \cup Percepts\ \vdash g$ ([[Proof procedure]])
 		![[Pasted image 20231024002910.png]]
