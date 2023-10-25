@@ -63,7 +63,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week11/von Neumann & Morgenstern (VNM).md",
+                "file": "COMPSCI367 - Artificial Intelligence/week11/Additive independence property.md",
                 "mode": "source",
                 "source": false
               }
@@ -160,7 +160,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "COMPSCI367 - Artificial Intelligence/week11/von Neumann & Morgenstern (VNM).md",
+                    "file": "COMPSCI367 - Artificial Intelligence/week11/Additive independence property.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -239,8 +239,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -260,7 +259,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week11/von Neumann & Morgenstern (VNM).md",
+                "file": "COMPSCI367 - Artificial Intelligence/week11/Additive independence property.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -277,7 +276,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week11/von Neumann & Morgenstern (VNM).md",
+                "file": "COMPSCI367 - Artificial Intelligence/week11/Additive independence property.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -300,7 +299,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week11/von Neumann & Morgenstern (VNM).md"
+                "file": "COMPSCI367 - Artificial Intelligence/week11/Additive independence property.md"
               }
             }
           },
@@ -334,6 +333,9 @@
   },
   "active": "78003ac2d0f27c16",
   "lastOpenFiles": [
+    "COMPSCI367 - Artificial Intelligence/week11/Multi-dimensional Utility.md",
+    "@images/Pasted image 20231026104137.png",
+    "COMPSCI367 - Artificial Intelligence/week11/von Neumann & Morgenstern (VNM).md",
     "COMPSCI367 - Artificial Intelligence/week03/Variable Elimination.md",
     "COMPSCI367 - Artificial Intelligence/week10/Value of smoothing.md",
     "COMPSCI367 - Artificial Intelligence/week04/temperature T.md",
@@ -358,8 +360,6 @@
     "COMPSCI367 - Artificial Intelligence/week03/Backtracking Search.md",
     "COMPSCI367 - Artificial Intelligence/week11/Additive independence property.md",
     "INFOSYS222 - Database Systems/DQL - Data Query Language.md",
-    "COMPSCI367 - Artificial Intelligence/week11/von Neumann & Morgenstern (VNM).md",
-    "COMPSCI367 - Artificial Intelligence/week10/Chain Rule.md",
     "@images/Pasted image 20231026100336.png",
     "@images/Pasted image 20231026010151.png",
     "@images/Pasted image 20231026010018.png",
@@ -371,7 +371,6 @@
     "@images/Untitled.jpg",
     "COMPSCI367 - Artificial Intelligence/week12",
     "COMPSCI367 - Artificial Intelligence/week11",
-    "@images/Pasted image 20231026004654.png",
     "COMPSCI367 - Artificial Intelligence/week08",
     "COMPSCI367 - Artificial Intelligence/week07",
     "COMPSCI367 - Artificial Intelligence/week06",

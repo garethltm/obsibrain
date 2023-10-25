@@ -7,3 +7,7 @@ $$V\tiny 1\normalsize ,...,V\tiny k$$
 >	$u(Weapon,Armour) = w\tiny 1\normalsize u\tiny 1\normalsize (Weapon)+w\tiny 1\normalsize u\tiny 1\normalsize(Armour)$
 
 
+### Usually doesn't hold
+
+
+
