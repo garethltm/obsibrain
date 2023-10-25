@@ -76,7 +76,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#Example",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -187,6 +187,7 @@
   },
   "active": "bcc7a7b87dd8df83",
   "lastOpenFiles": [
+    "@images/COMPSCI3672023_S2W11Uncertainty2of2-19.jpg",
     "@images/COMPSCI3672023_S2W11Uncertainty2of2-17.jpg",
     "COMPSCI367 - Artificial Intelligence/week11/Bayesian Network Inference.md",
     "COMPSCI367 - Artificial Intelligence/week10/Chain Rule.md",
@@ -207,7 +208,6 @@
     "COMPSCI367 - Artificial Intelligence/week10/Bayes Classifier - Conditional Independence.md",
     "@images/COMPSCI3672023_S2W11Uncertainty2of2-08.jpg",
     "@images/Pasted image 20231025160434.png",
-    "@images/Pasted image 20231025160417.png",
     "COMPSCI367 - Artificial Intelligence/week11/Probabilistic Model.md",
     "COMPSCI367 - Artificial Intelligence/week05/Population-based Search.md",
     "COMPSCI367 - Artificial Intelligence/week10/Independent (Independence).md",
