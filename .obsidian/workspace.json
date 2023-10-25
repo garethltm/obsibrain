@@ -63,7 +63,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week07/subgoal.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week06/Duality of Syntax vs Semantics.md",
                 "mode": "source",
                 "source": false
               }
@@ -160,7 +160,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "COMPSCI367 - Artificial Intelligence/week07/subgoal.md",
+                    "file": "COMPSCI367 - Artificial Intelligence/week06/Duality of Syntax vs Semantics.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -259,7 +259,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week07/subgoal.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week06/Duality of Syntax vs Semantics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -276,7 +276,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week07/subgoal.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week06/Duality of Syntax vs Semantics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -299,7 +299,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week07/subgoal.md"
+                "file": "COMPSCI367 - Artificial Intelligence/week06/Duality of Syntax vs Semantics.md"
               }
             }
           },
@@ -333,6 +333,17 @@
   },
   "active": "78003ac2d0f27c16",
   "lastOpenFiles": [
+    "COMPSCI367 - Artificial Intelligence/week06/DPLL algorithm.md",
+    "COMPSCI367 - Artificial Intelligence/week06/connectives.md",
+    "COMPSCI367 - Artificial Intelligence/week06/Compound Propositions (Compound Entities).md",
+    "COMPSCI367 - Artificial Intelligence/week06/clause(s).md",
+    "COMPSCI367 - Artificial Intelligence/week06/Atomic Representation.md",
+    "COMPSCI367 - Artificial Intelligence/week06/Atomic Propositions (atoms).md",
+    "COMPSCI367 - Artificial Intelligence/week06/Atomic Entities.md",
+    "COMPSCI367 - Artificial Intelligence/week06/Agents with a World Model.md",
+    "COMPSCI367 - Artificial Intelligence/week07/What logic needs to be.md",
+    "COMPSCI367 - Artificial Intelligence/week07/Verbose.md",
+    "COMPSCI367 - Artificial Intelligence/week07/subgoal.md",
     "COMPSCI367 - Artificial Intelligence/week07/Soundness.md",
     "COMPSCI367 - Artificial Intelligence/week07/SLD Resolution (Backward chaining).md",
     "COMPSCI367 - Artificial Intelligence/week07/SLD derivation.md",
@@ -348,17 +359,6 @@
     "COMPSCI367 - Artificial Intelligence/week07/Definite clause.md",
     "COMPSCI367 - Artificial Intelligence/week07/Declarative.md",
     "COMPSCI367 - Artificial Intelligence/week07/Compositional.md",
-    "COMPSCI367 - Artificial Intelligence/week07/Completeness.md",
-    "COMPSCI367 - Artificial Intelligence/week08/Universal quantification.md",
-    "COMPSCI367 - Artificial Intelligence/week08/Existential quantification.md",
-    "COMPSCI367 - Artificial Intelligence/week08/Unification in queries.md",
-    "COMPSCI367 - Artificial Intelligence/week08/theorem.md",
-    "COMPSCI367 - Artificial Intelligence/week08/term(s).md",
-    "COMPSCI367 - Artificial Intelligence/week08/Skolem constant.md",
-    "COMPSCI367 - Artificial Intelligence/week08/signature.md",
-    "COMPSCI367 - Artificial Intelligence/week08/Satisfaction relation.md",
-    "COMPSCI367 - Artificial Intelligence/week08/Propositionalization.md",
-    "COMPSCI367 - Artificial Intelligence/week08/Prolog.md",
     "@images/Pasted image 20231026105122.png",
     "@images/Pasted image 20231026105109.png",
     "@images/Pasted image 20231026105052.png",
