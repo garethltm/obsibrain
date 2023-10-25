@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week10/Inference with Probability.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week10/Bayes Rule with Existing Evidence.md",
                 "mode": "source",
                 "source": false
               }
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week10/Inference with Probability.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week10/Bayes Rule with Existing Evidence.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week10/Inference with Probability.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week10/Bayes Rule with Existing Evidence.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week10/Inference with Probability.md"
+                "file": "COMPSCI367 - Artificial Intelligence/week10/Bayes Rule with Existing Evidence.md"
               }
             }
           },
@@ -188,10 +188,11 @@
   },
   "active": "9d16bf805036e931",
   "lastOpenFiles": [
+    "COMPSCI367 - Artificial Intelligence/week10/Inference with Probability.md",
+    "COMPSCI367 - Artificial Intelligence/week10/Bayes Rule with Existing Evidence.md",
     "@images/Pasted image 20231025154445.png",
     "@images/Pasted image 20231025154422.png",
     "COMPSCI367 - Artificial Intelligence/week10/Bayes Theorem.md",
-    "COMPSCI367 - Artificial Intelligence/week10/Inference with Probability.md",
     "COMPSCI367 - Artificial Intelligence/week10/Conditional Probability Table (CPT).md",
     "@images/Pasted image 20231025154033.png",
     "@images/Pasted image 20231025153953.png",
@@ -223,7 +224,6 @@
     "@images/Untitled.jpg",
     "@images/Pasted image 20231025132516.png",
     "@images/Pasted image 20231025121813.png",
-    "@images/Pasted image 20231025115510.png",
     "COMPSCI367 - Artificial Intelligence/week08",
     "COMPSCI367 - Artificial Intelligence/week07",
     "COMPSCI367 - Artificial Intelligence/week06",
