@@ -24,4 +24,5 @@ The following holds for all [[proposition]] $a$ & $b$ & $e$:
 - $P(\neg a\ |\ e)=1-P(a\ |\ e)$
 	- they are going to add up to 1
 - If a & b are [[logically equivalent (logical equivalence)]] $\rightarrow$ $P(a\ |\ e)=P(b\ |\ e)$
-- P(a \lor b\ |\e)=P(a\ |\ e) + P(b\ |\ e)
+- $P(a\ |\ e)=P(a\ \land b\|\ e$
+- $P(a \lor b\ |\ e)=P(a\ |\ e) + P(b\ |\ e)$
