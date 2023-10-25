@@ -63,7 +63,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week05/Genetic Algorithm with 8-Queens.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week05/Minmax Algorithm.md",
                 "mode": "source",
                 "source": false
               }
@@ -160,7 +160,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "COMPSCI367 - Artificial Intelligence/week05/Genetic Algorithm with 8-Queens.md",
+                    "file": "COMPSCI367 - Artificial Intelligence/week05/Minmax Algorithm.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -259,7 +259,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week05/Genetic Algorithm with 8-Queens.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week05/Minmax Algorithm.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -276,7 +276,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week05/Genetic Algorithm with 8-Queens.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week05/Minmax Algorithm.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -299,7 +299,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week05/Genetic Algorithm with 8-Queens.md"
+                "file": "COMPSCI367 - Artificial Intelligence/week05/Minmax Algorithm.md"
               }
             }
           },
@@ -333,6 +333,11 @@
   },
   "active": "78003ac2d0f27c16",
   "lastOpenFiles": [
+    "COMPSCI367 - Artificial Intelligence/week05/Local beam Search.md",
+    "COMPSCI367 - Artificial Intelligence/week05/Greedy descent with M random restarts vs Local beam Search.md",
+    "COMPSCI367 - Artificial Intelligence/week05/genetics.md",
+    "COMPSCI367 - Artificial Intelligence/week05/Genetic Algorithm with Travelling Salesman Problem.md",
+    "COMPSCI367 - Artificial Intelligence/week05/Genetic Algorithm with 8-Queens.md",
     "COMPSCI367 - Artificial Intelligence/week05/Genetic Algorithm (GA).md",
     "COMPSCI367 - Artificial Intelligence/week05/game tree.md",
     "COMPSCI367 - Artificial Intelligence/week05/fitness.md",
@@ -354,11 +359,6 @@
     "COMPSCI367 - Artificial Intelligence/week06/Structured Representation.md",
     "COMPSCI367 - Artificial Intelligence/week06/state transition.md",
     "COMPSCI367 - Artificial Intelligence/week06/sentence.md",
-    "COMPSCI367 - Artificial Intelligence/week06/semantics.md",
-    "COMPSCI367 - Artificial Intelligence/week06/satisfiable.md",
-    "COMPSCI367 - Artificial Intelligence/week06/Satisfiability Problem (SAT).md",
-    "COMPSCI367 - Artificial Intelligence/week06/SAT solvers.md",
-    "COMPSCI367 - Artificial Intelligence/week06/Reasoning.md",
     "@images/Pasted image 20231026105122.png",
     "@images/Pasted image 20231026105109.png",
     "@images/Pasted image 20231026105052.png",
