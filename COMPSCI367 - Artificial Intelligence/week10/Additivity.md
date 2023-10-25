@@ -1,1 +1,1 @@
-Suppose $S\tiny 1$ & $S\tiny 2$ are [[disjoint subsets]] of $\ohm$. Then our belief
+Suppose $S\tiny 1$ & $S\tiny 2$ are [[disjoint subsets]] of $\ohm$. Then our belief that $s \in S\tiny 1\normalsize \cup S\tiny 2$ is the sum of our belief that $s \in S\tiny 1$
