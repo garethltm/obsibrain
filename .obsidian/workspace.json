@@ -63,7 +63,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week01/agent(s).md",
+                "file": "COMPSCI367 - Artificial Intelligence/week11/Multi-dimensional Utility.md",
                 "mode": "source",
                 "source": false
               }
@@ -160,7 +160,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "COMPSCI367 - Artificial Intelligence/week01/agent(s).md",
+                    "file": "COMPSCI367 - Artificial Intelligence/week11/Multi-dimensional Utility.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -259,7 +259,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week01/agent(s).md",
+                "file": "COMPSCI367 - Artificial Intelligence/week11/Multi-dimensional Utility.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -276,7 +276,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week01/agent(s).md",
+                "file": "COMPSCI367 - Artificial Intelligence/week11/Multi-dimensional Utility.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -299,7 +299,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week01/agent(s).md"
+                "file": "COMPSCI367 - Artificial Intelligence/week11/Multi-dimensional Utility.md"
               }
             }
           },
@@ -334,6 +334,9 @@
   "active": "78003ac2d0f27c16",
   "lastOpenFiles": [
     "COMPSCI367 - Artificial Intelligence/week11/von Neumann & Morgenstern (VNM).md",
+    "COMPSCI367 - Artificial Intelligence/week11/Multi-dimensional Utility.md",
+    "@images/Pasted image 20231026100336.png",
+    "COMPSCI367 - Artificial Intelligence/week01/agent(s).md",
     "COMPSCI367 - Artificial Intelligence/week11/utility.md",
     "COMPSCI367 - Artificial Intelligence/week11/Expected utility hypothesis.md",
     "COMPSCI367 - Artificial Intelligence/week11/expected utility.md",
@@ -360,9 +363,7 @@
     "@images/Pasted image 20231026010018.png",
     "COMPSCI367 - Artificial Intelligence/week11/von Neumann & Morgenstern (VNM)-GARETH.md",
     "@images/Pasted image 20231026005656.png",
-    "COMPSCI367 - Artificial Intelligence/week11/CPT Operation 1 - Restriction-GARETH.md",
     "@images/Pasted image 20231026005324.png",
-    "COMPSCI367 - Artificial Intelligence/week11/Axiom 6 - Independence-GARETH.md",
     "@images/Pasted image 20231026005102.png",
     "@images/Pasted image 20231026005123.png",
     "@images/Pasted image 20231026004758.png",
@@ -370,7 +371,6 @@
     "COMPSCI367 - Artificial Intelligence/week12",
     "COMPSCI367 - Artificial Intelligence/week11",
     "@images/Pasted image 20231026004654.png",
-    "@images/Pasted image 20231026004539.png",
     "COMPSCI367 - Artificial Intelligence/week08",
     "COMPSCI367 - Artificial Intelligence/week07",
     "COMPSCI367 - Artificial Intelligence/week06",
