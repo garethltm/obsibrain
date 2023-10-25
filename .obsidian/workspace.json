@@ -63,7 +63,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week01/multi-agent.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week10/Machine Translation.md",
                 "mode": "source",
                 "source": false
               }
@@ -160,7 +160,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "COMPSCI367 - Artificial Intelligence/week01/multi-agent.md",
+                    "file": "COMPSCI367 - Artificial Intelligence/week10/Machine Translation.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -260,7 +260,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week01/multi-agent.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week10/Machine Translation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -277,7 +277,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week01/multi-agent.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week10/Machine Translation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -300,7 +300,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week01/multi-agent.md"
+                "file": "COMPSCI367 - Artificial Intelligence/week10/Machine Translation.md"
               }
             }
           },
@@ -335,6 +335,7 @@
   "active": "78003ac2d0f27c16",
   "lastOpenFiles": [
     "COMPSCI367 - Artificial Intelligence/week09/Logic-based Planning algorithms.md",
+    "COMPSCI367 - Artificial Intelligence/week01/multi-agent.md",
     "COMPSCI367 - Artificial Intelligence/week10/Language Model.md",
     "COMPSCI367 - Artificial Intelligence/week10/independent (independence).md",
     "COMPSCI367 - Artificial Intelligence/week10/Inference with Probability (Probabilistic Inference).md",
@@ -360,7 +361,6 @@
     "COMPSCI367 - Artificial Intelligence/week11/Variable Elimination Algorithm (VE).md",
     "COMPSCI367 - Artificial Intelligence/week04/Hill-Climbing.md",
     "COMPSCI367 - Artificial Intelligence/week11/Linear scalability.md",
-    "COMPSCI367 - Artificial Intelligence/week11/outcome(s).md",
     "@images/Pasted image 20231026010151.png",
     "@images/Pasted image 20231026010018.png",
     "@images/Pasted image 20231026005656.png",
