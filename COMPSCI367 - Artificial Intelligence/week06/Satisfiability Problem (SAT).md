@@ -9,5 +9,6 @@
 > $\pi (p),\ \pi (q),\ \pi (r)$ such that
 > $(p\land q\land \neg r) \lor (\neg q \rightarrow (\neg p\land r))$ is true
 
-![[Pasted image 20231023213622.png]]
+>	#Example 
+>	![[Pasted image 20231023213622.png]]
 ![[Pasted image 20231024155559.png]]
