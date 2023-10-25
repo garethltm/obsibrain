@@ -1,4 +1,8 @@
-1. [[Propositional Logic]]![[Pasted image 20231024163223.png]]
+1. [[Propositional Logic]]
+>	#Example 
+>	![[Pasted image 20231024163223.png]]
 	- Related to: [[Noisy OR]]
 
-2. [[First-Order Logic]]![[Pasted image 20231024163316.png]]
+3. [[First-Order Logic]]
+>	#Example 
+>	![[Pasted image 20231024163316.png]]

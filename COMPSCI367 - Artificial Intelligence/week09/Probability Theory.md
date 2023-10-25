@@ -19,7 +19,7 @@ The sample space $\ohm$ over these [[Atomic Propositions (atoms)]] contains all 
 
 A [[proposition]] describes a [[constraint(s)]] on [[Atomic Propositions (atoms)]]
 >	#Example 
-1. $\alpha \tiny 1\normalsize: \neg Hot$
+>	1. $\alpha \tiny 1\normalsize: \neg Hot$
 >		$e \tiny 2\normalsize \ e \tiny 4\normalsize$ basically says that it is NOT Hot
 >				$e \tiny 2\normalsize \& \$e \tiny 4\normalsize$ 
 >	2. $\alpha \tiny 2\normalsize: \neg Sunny \lor \neg Hot$
