@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week11/Planning with Uncertainty.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week11/evaluate desirability.md",
                 "mode": "source",
                 "source": false
               }
@@ -52,7 +52,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "COMPSCI367 - Artificial Intelligence/week11/Planning with Uncertainty.md",
+                    "file": "COMPSCI367 - Artificial Intelligence/week11/evaluate desirability.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -151,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week11/Planning with Uncertainty.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week11/evaluate desirability.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -168,7 +168,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week11/Planning with Uncertainty.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week11/evaluate desirability.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -191,7 +191,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week11/Planning with Uncertainty.md"
+                "file": "COMPSCI367 - Artificial Intelligence/week11/evaluate desirability.md"
               }
             }
           },
@@ -225,8 +225,8 @@
   },
   "active": "9d16bf805036e931",
   "lastOpenFiles": [
-    "COMPSCI367 - Artificial Intelligence/week11/desirability.md",
     "COMPSCI367 - Artificial Intelligence/week11/Planning with Uncertainty.md",
+    "COMPSCI367 - Artificial Intelligence/week11/evaluate desirability.md",
     "COMPSCI367 - Artificial Intelligence/week07/Definite Clause Inference Engine.md",
     "INFOSYS222 - Database Systems/OLAP - Online Analytics Processing.md",
     "INFOSYS222 - Database Systems/OLTP - Online Transaction Processing.md",
