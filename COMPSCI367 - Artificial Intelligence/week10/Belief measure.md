@@ -4,4 +4,5 @@ Any [[belief measure]] must satisfy the follow properties:
 1. [[Unit Measure]]
 2. [[Additivity]]
 
-
+![[Pasted image 20231025135513.png]]
+![[Pasted image 20231025135526.png]]

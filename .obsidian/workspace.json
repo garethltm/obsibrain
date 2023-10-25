@@ -38,7 +38,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week10/belief measure.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week10/conditional probability.md",
                 "mode": "source",
                 "source": false
               }
@@ -89,7 +89,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "conditional",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -106,7 +106,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -126,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week10/belief measure.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week10/conditional probability.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week10/belief measure.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week10/conditional probability.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +167,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week10/belief measure.md"
+                "file": "COMPSCI367 - Artificial Intelligence/week10/conditional probability.md"
               }
             }
           },
@@ -200,13 +201,15 @@
   },
   "active": "358f03c9716e94e8",
   "lastOpenFiles": [
+    "COMPSCI367 - Artificial Intelligence/week10/belief measure.md",
+    "@images/Pasted image 20231025135526.png",
+    "@images/Pasted image 20231025135513.png",
     "COMPSCI367 - Artificial Intelligence/week09/probability.md",
     "COMPSCI367 - Artificial Intelligence/week02/state(s).md",
     "COMPSCI367 - Artificial Intelligence/week10/Additivity.md",
     "COMPSCI367 - Artificial Intelligence/week07/Forward Chaining.md",
     "COMPSCI367 - Artificial Intelligence/week04/Hill-Climbing.md",
     "COMPSCI367 - Artificial Intelligence/week07/entails.md",
-    "COMPSCI367 - Artificial Intelligence/week10/belief measure.md",
     "COMPSCI367 - Artificial Intelligence/week09/Probability Theory.md",
     "COMPSCI367 - Artificial Intelligence/week10/calculus of belief.md",
     "COMPSCI367 - Artificial Intelligence/week10/disjoint subsets.md",
@@ -228,14 +231,11 @@
     "COMPSCI367 - Artificial Intelligence/week10/Symbolic Knowledge.md",
     "COMPSCI367 - Artificial Intelligence/week10/The Noisy Channel Model.md",
     "COMPSCI367 - Artificial Intelligence/week10/The vector space model.md",
-    "COMPSCI367 - Artificial Intelligence/week10/Translation Model.md",
     "@images/Pasted image 20231025115510.png",
     "@images/Pasted image 20231025101932.png",
     "@images/Pasted image 20231025101919.png",
     "@images/Pasted image 20231025101827.png",
     "@images/Pasted image 20231025101730.png",
-    "@images/Pasted image 20231025012028.png",
-    "@images/Pasted image 20231025011003.png",
     "COMPSCI367 - Artificial Intelligence/week08",
     "COMPSCI367 - Artificial Intelligence/week07",
     "COMPSCI367 - Artificial Intelligence/week06",
