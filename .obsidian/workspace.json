@@ -75,7 +75,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week11/(VNM-) rational-GARETH.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week11/Axiom 1 - Completeness-GARETH.md",
                 "mode": "source",
                 "source": false
               }
@@ -173,7 +173,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "COMPSCI367 - Artificial Intelligence/week11/(VNM-) rational-GARETH.md",
+                    "file": "COMPSCI367 - Artificial Intelligence/week11/Axiom 1 - Completeness-GARETH.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -273,7 +273,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week11/(VNM-) rational-GARETH.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week11/Axiom 1 - Completeness-GARETH.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -290,7 +290,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week11/(VNM-) rational-GARETH.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week11/Axiom 1 - Completeness-GARETH.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -313,7 +313,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week11/(VNM-) rational-GARETH.md"
+                "file": "COMPSCI367 - Artificial Intelligence/week11/Axiom 1 - Completeness-GARETH.md"
               }
             }
           },
@@ -345,10 +345,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d0f61cd9fefb8c2d",
+  "active": "3ad179677b7fba41",
   "lastOpenFiles": [
-    "COMPSCI367 - Artificial Intelligence/week11/(VNM-) rational.md",
     "COMPSCI367 - Artificial Intelligence/week11/(VNM-) rational-GARETH.md",
+    "COMPSCI367 - Artificial Intelligence/week11/(VNM-) rational.md",
     "COMPSCI367 - Artificial Intelligence/week09/Probabilistic Reasoning.md",
     "COMPSCI367 - Artificial Intelligence/week09/Classical Planning-GARETH.md",
     "COMPSCI367 - Artificial Intelligence/week09/Classical Planning.md",
