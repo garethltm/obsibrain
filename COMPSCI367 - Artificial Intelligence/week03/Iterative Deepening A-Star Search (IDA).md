@@ -8,7 +8,7 @@ The threshold is steadily increased with each successive search. It starts at th
 >The limit is set not by depth but their evaluation value
 
 ## Properties
-- [[COMPSCI367 - Artificial Intelligence/week02/Complete]]
+- [[Complete]]
 	- Yes
 		- unless there are infinitely many nodes with $f ≤ cost\ of\ solution$
 - [[Time Complexity]]

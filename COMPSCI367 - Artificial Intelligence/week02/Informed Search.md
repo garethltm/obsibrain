@@ -17,7 +17,7 @@
 	- Working on [[closed list]]/[[frontier (open list, fringe)]] can affect the [[Time Complexity]] & [[Space Complexity]] used of the algorithm
 - [[Greedy (Best-First) Search]] tries to minimise the cost from current node n to the goal
 - [[A-Star Search]] combines the advantages of Uniform-Cost Search & Greedy Search
-	- [[A-Star Search]] is [[COMPSCI367 - Artificial Intelligence/week02/Complete]], [[optimal]] and optimally efficient among all optimal search algorithms
+	- [[A-Star Search]] is [[complete]], [[optimal]] and optimally efficient among all optimal search algorithms
 	- [[Space Complexity]] is still a concern for [[A-Star Search]]: IDA* is a low-memory variant
 - [[Informed Search]] makes use to problem-specific knowledge to guide progress of search
 	- This can lead to a significant improvement in performance

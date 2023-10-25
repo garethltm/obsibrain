@@ -1,6 +1,6 @@
 - **Combines** the benefits of 
 	- **[[Depth-First Search (DFS)]] (low memory - [[Space Complexity]])** 
-	- **[[Breadth-First Search (BFS)]] ([[optimal]] and [[COMPSCI367 - Artificial Intelligence/week02/Complete]])** 
+	- **[[Breadth-First Search (BFS)]] ([[optimal]] and [[complete]])** 
 	==by doing a series of **[[Depth-Limited Search (DLS)]]** to depth 1,2,3, etc.==
 > early [[state(s)]] will be expanded multiple times, but that might not matter too much because most of the nodes are near the leaves
 ## Finding max path cost
@@ -12,7 +12,7 @@
 - combines benefits of [[Depth-First Search (DFS)]] and [[Breadth-First Search (BFS)]]
 
 ## Properties
-- [[COMPSCI367 - Artificial Intelligence/week02/Complete]]
+- [[Complete]]
     - Yes
 - [[Time Complexity]]
     - $O(b^d)$ nodes at the top level are expanded once, nodes at the next level twice,...

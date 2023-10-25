@@ -35,5 +35,5 @@
 ## Analysis
 - In cases where problem has many [[solution(s)]], [[Depth-First Search (DFS)]] may outperform [[Breadth-First Search (BFS)]] because there is a good chance it will find a [[solution(s)]] after exploring only a small part of the space
 - However, [[Depth-First Search (DFS)]] may get stuck following a deep or infinite [[path(s)]] even when a [[solution(s)]] exists at a relatively shallow level
-- Therefore, [[Depth-First Search (DFS)]] is not [[COMPSCI367 - Artificial Intelligence/week02/Complete]] and not [[optimal]]
+- Therefore, [[Depth-First Search (DFS)]] is not [[complete]] and not [[optimal]]
     - avoid [[Depth-First Search (DFS)]] for problems with deep or infinite [[path(s)]]
