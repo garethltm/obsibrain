@@ -1,7 +1,7 @@
 if an [[agent]] is a [[Rational Agent]], then for every [[outcome(s)]] $\huge o\tiny i\normalsize$, 
 there is a real number u($\huge o\tiny i\normalsize$) such that:
 - $\huge o\tiny i\normalsize$ > $\huge o\tiny j\normalsize$ if and only if u($\huge o\tiny i\normalsize$) > u($\huge o\tiny j\normalsize$) AND
-- [[utility]] are linear with [[Probability]]
+- [[utility]] are linear with [[Probability]] [[outcome(s)]] $\huge o\tiny i\normalsize$]
 ![[Pasted image 20231026010018.png]]
 
 ### Consequences of [[(VNM-) rational]]
