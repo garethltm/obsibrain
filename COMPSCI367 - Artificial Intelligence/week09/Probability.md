@@ -6,3 +6,5 @@ imagine a very large number n of possible [[worlds]] which an event has had an o
 1. 0 is event certain not to occur
 2. 1 is event certain to occur
 which leads to [[Probability Theory]]
+
+- Given a [[belief measure]] $\mu$ over $\ohm$, the [[probability]] of a [[proposition]] $\alpha$ is 
