@@ -3,3 +3,6 @@ A [[Probability Distribution]] can be represented as a probability table:
 
 We can represent [[conditional probability]] distribution as a [[Conditional Probability Table (CPT)]]
 ![[Pasted image 20231025153953.png]]
+
+### Notations
+![[Pasted image 20231025154033.png]]
