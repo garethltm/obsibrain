@@ -63,7 +63,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week05/Minmax Algorithm.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week05/Stochastic Beam Search (SBS).md",
                 "mode": "source",
                 "source": false
               }
@@ -160,7 +160,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "COMPSCI367 - Artificial Intelligence/week05/Minmax Algorithm.md",
+                    "file": "COMPSCI367 - Artificial Intelligence/week05/Stochastic Beam Search (SBS).md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -259,7 +259,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week05/Minmax Algorithm.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week05/Stochastic Beam Search (SBS).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -276,7 +276,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week05/Minmax Algorithm.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week05/Stochastic Beam Search (SBS).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -299,7 +299,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week05/Minmax Algorithm.md"
+                "file": "COMPSCI367 - Artificial Intelligence/week05/Stochastic Beam Search (SBS).md"
               }
             }
           },
@@ -333,6 +333,13 @@
   },
   "active": "78003ac2d0f27c16",
   "lastOpenFiles": [
+    "COMPSCI367 - Artificial Intelligence/week05/Solving Optimisation problems.md",
+    "COMPSCI367 - Artificial Intelligence/week05/reproduce.md",
+    "COMPSCI367 - Artificial Intelligence/week05/Population-based Search.md",
+    "COMPSCI367 - Artificial Intelligence/week05/population.md",
+    "COMPSCI367 - Artificial Intelligence/week05/mutation operation.md",
+    "COMPSCI367 - Artificial Intelligence/week05/Multi-agent System.md",
+    "COMPSCI367 - Artificial Intelligence/week05/Minmax Algorithm.md",
     "COMPSCI367 - Artificial Intelligence/week05/Local beam Search.md",
     "COMPSCI367 - Artificial Intelligence/week05/Greedy descent with M random restarts vs Local beam Search.md",
     "COMPSCI367 - Artificial Intelligence/week05/genetics.md",
@@ -352,13 +359,6 @@
     "COMPSCI367 - Artificial Intelligence/week05/Boltzmann distribution.md",
     "COMPSCI367 - Artificial Intelligence/week05/Alpha-Beta Pruning.md",
     "COMPSCI367 - Artificial Intelligence/week05/Adversarial Search.md",
-    "COMPSCI367 - Artificial Intelligence/week05/(partially) cooperative multi-agent environment.md",
-    "COMPSCI367 - Artificial Intelligence/week06/Wumpus World Agent.md",
-    "COMPSCI367 - Artificial Intelligence/week06/Truth table.md",
-    "COMPSCI367 - Artificial Intelligence/week06/syntax.md",
-    "COMPSCI367 - Artificial Intelligence/week06/Structured Representation.md",
-    "COMPSCI367 - Artificial Intelligence/week06/state transition.md",
-    "COMPSCI367 - Artificial Intelligence/week06/sentence.md",
     "@images/Pasted image 20231026105122.png",
     "@images/Pasted image 20231026105109.png",
     "@images/Pasted image 20231026105052.png",
