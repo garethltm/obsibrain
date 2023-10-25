@@ -63,7 +63,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week02/State(s).md",
+                "file": "COMPSCI367 - Artificial Intelligence/week11/Additive independence property.md",
                 "mode": "source",
                 "source": false
               }
@@ -160,7 +160,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "COMPSCI367 - Artificial Intelligence/week02/State(s).md",
+                    "file": "COMPSCI367 - Artificial Intelligence/week11/Additive independence property.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -259,7 +259,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week02/State(s).md",
+                "file": "COMPSCI367 - Artificial Intelligence/week11/Additive independence property.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -276,7 +276,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week02/State(s).md",
+                "file": "COMPSCI367 - Artificial Intelligence/week11/Additive independence property.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -299,7 +299,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week02/State(s).md"
+                "file": "COMPSCI367 - Artificial Intelligence/week11/Additive independence property.md"
               }
             }
           },
@@ -333,6 +333,7 @@
   },
   "active": "78003ac2d0f27c16",
   "lastOpenFiles": [
+    "COMPSCI367 - Artificial Intelligence/week02/state(s).md",
     "COMPSCI367 - Artificial Intelligence/week11/Additive independence property.md",
     "COMPSCI367 - Artificial Intelligence/week10/independent (independence).md",
     "COMPSCI367 - Artificial Intelligence/week06/Atomic Propositions (atoms).md",
@@ -359,7 +360,6 @@
     "COMPSCI367 - Artificial Intelligence/week09/Classical Planning-GARETH.md",
     "COMPSCI367 - Artificial Intelligence/week09/Classical Planning.md",
     "COMPSCI367 - Artificial Intelligence/week10/degree of belief.md",
-    "conflict-files-obsidian-git.md",
     "@images/Pasted image 20231026010151.png",
     "@images/Pasted image 20231026010018.png",
     "@images/Pasted image 20231026005656.png",
