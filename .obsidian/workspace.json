@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week10/Inference with Probability.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week10/Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week10/Inference with Probability.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week10/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week10/Inference with Probability.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week10/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week10/Inference with Probability.md"
+                "file": "COMPSCI367 - Artificial Intelligence/week10/Untitled.md"
               }
             }
           },
@@ -188,12 +188,14 @@
   },
   "active": "9d16bf805036e931",
   "lastOpenFiles": [
+    "COMPSCI367 - Artificial Intelligence/week10/Inference with Probability.md",
+    "COMPSCI367 - Artificial Intelligence/week10/Untitled.md",
+    "@images/COMPSCI3672023_S2W10Uncertainty1of2-16.jpg",
     "@images/COMPSCI3672023_S2W10Uncertainty1of2-15.jpg",
     "@images/COMPSCI3672023_S2W10Uncertainty1of2-14.jpg",
     "COMPSCI367 - Artificial Intelligence/week10/Bayes Rule with Existing Evidence.md",
     "@images/COMPSCI3672023_S2W10Uncertainty1of2-18.jpg",
     "@images/COMPSCI3672023_S2W10Uncertainty1of2-17.jpg",
-    "COMPSCI367 - Artificial Intelligence/week10/Inference with Probability.md",
     "@images/Pasted image 20231025154445.png",
     "@images/Pasted image 20231025154422.png",
     "COMPSCI367 - Artificial Intelligence/week10/Bayes Theorem.md",
@@ -215,8 +217,6 @@
     "COMPSCI367 - Artificial Intelligence/week10/posterior evidence (posterior probability).md",
     "COMPSCI367 - Artificial Intelligence/week01/agent.md",
     "COMPSCI367 - Artificial Intelligence/week10/belief measure.md",
-    "@images/Pasted image 20231025135526.png",
-    "@images/Pasted image 20231025135513.png",
     "COMPSCI367 - Artificial Intelligence/week09/probability.md",
     "COMPSCI367 - Artificial Intelligence/week02/state(s).md",
     "COMPSCI367 - Artificial Intelligence/week10/Additivity.md",
