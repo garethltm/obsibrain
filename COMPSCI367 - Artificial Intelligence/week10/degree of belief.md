@@ -1,1 +1,2 @@
-Quantifying & Working with measures of belief
+- Quantifying & Working with measures of belief
+- the [[probability]] of a [[proposition]] expresses the [[degree of belief]] held about the [[proposition]] being TRUE
