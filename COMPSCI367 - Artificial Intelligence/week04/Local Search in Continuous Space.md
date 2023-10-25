@@ -2,7 +2,7 @@
 
 ### Optimisation of [[Continuous Space (Continuous Functions)]]
 ![[Pasted image 20231023173640.png]]
-### Handling a [[Continuous State]]/Action Space
+### Handling a [[con/Action Space
 ![[Pasted image 20231023173738.png]]
 
 

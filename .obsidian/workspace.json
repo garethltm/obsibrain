@@ -12,8 +12,12 @@
             "id": "9d16bf805036e931",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "COMPSCI367 - Artificial Intelligence/week04/Local Search in Continuous Space.md",
+                "mode": "source",
+                "source": false
+              }
             },
             "group": "7923199754eed4a3"
           }
@@ -48,7 +52,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "COMPSCI367 - Artificial Intelligence/week11/One-off Decision Problem.md",
+                    "file": "COMPSCI367 - Artificial Intelligence/week04/Local Search in Continuous Space.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -148,6 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "COMPSCI367 - Artificial Intelligence/week04/Local Search in Continuous Space.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,6 +169,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "COMPSCI367 - Artificial Intelligence/week04/Local Search in Continuous Space.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -185,7 +191,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "COMPSCI367 - Artificial Intelligence/week04/Local Search in Continuous Space.md"
+              }
             }
           },
           {
@@ -218,6 +226,8 @@
   },
   "active": "9d16bf805036e931",
   "lastOpenFiles": [
+    "Continuous State.md",
+    "COMPSCI367 - Artificial Intelligence/week10/Naïve Bayes classification.md",
     "COMPSCI367 - Artificial Intelligence/week11/One-off Decision Problem.md",
     "COMPSCI367 - Artificial Intelligence/week11/Linear scalability.md",
     "COMPSCI367 - Artificial Intelligence/week12",
@@ -245,8 +255,6 @@
     "INFOSYS222 - Database Systems/OLAP - Online Analytics Processing.md",
     "INFOSYS222 - Database Systems/OLTP - Online Transaction Processing.md",
     "COMPSCI367 - Artificial Intelligence/week09/Probability Theory.md",
-    "COMPSCI367 - Artificial Intelligence/week01/Environment Types.md",
-    "COMPSCI367 - Artificial Intelligence/week01/Deterministic.md",
     "@images/COMPSCI3672023_S2W11Uncertainty2of2-24.jpg",
     "@images/Pasted image 20231025162230.png",
     "@images/COMPSCI3672023_S2W11Uncertainty2of2-22.jpg",
