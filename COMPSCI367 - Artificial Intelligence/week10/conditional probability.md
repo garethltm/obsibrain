@@ -29,5 +29,4 @@ The following holds for all [[proposition]] $a$ & $b$ & $e$:
 - $P(a \lor b\ |\ e)=P(a\ |\ e) + P(b\ |\ e)-P(a\land b\ |\ e)$
 	- $-P(a\land b\ |\ e)$: to prevent overcounting the intersection
 - [[Chain Rule]]
--
-Law of
+- [[Law of total probability]]
