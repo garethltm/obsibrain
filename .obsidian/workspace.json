@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week03/Variable Elimination.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week11/Variable Elimination Algorithm.md",
                 "mode": "source",
                 "source": false
               }
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week03/Variable Elimination.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week11/Variable Elimination Algorithm.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week03/Variable Elimination.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week11/Variable Elimination Algorithm.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week03/Variable Elimination.md"
+                "file": "COMPSCI367 - Artificial Intelligence/week11/Variable Elimination Algorithm.md"
               }
             }
           },
@@ -187,8 +187,12 @@
   },
   "active": "bcc7a7b87dd8df83",
   "lastOpenFiles": [
+    "COMPSCI367 - Artificial Intelligence/week03/Variable Elimination.md",
+    "@images/COMPSCI3672023_S2W11Uncertainty2of2-22.jpg",
+    "@images/COMPSCI3672023_S2W11Uncertainty2of2-21.jpg",
+    "@images/COMPSCI3672023_S2W11Uncertainty2of2-20.jpg",
     "COMPSCI367 - Artificial Intelligence/week10/Chain Rule.md",
-    "COMPSCI367 - Artificial Intelligence/week11/Variable Elimination.md",
+    "COMPSCI367 - Artificial Intelligence/week11/Variable Elimination Algorithm.md",
     "@images/COMPSCI3672023_S2W11Uncertainty2of2-19.jpg",
     "@images/COMPSCI3672023_S2W11Uncertainty2of2-17.jpg",
     "COMPSCI367 - Artificial Intelligence/week11/Bayesian Network Inference.md",
@@ -202,12 +206,9 @@
     "@images/Pasted image 20231025161047.png",
     "@images/Pasted image 20231025161014.png",
     "@images/Pasted image 20231025160943.png",
-    "@images/Pasted image 20231025160918.png",
-    "@images/Pasted image 20231025160803.png",
     "COMPSCI367 - Artificial Intelligence/week11/Bayesian Networks.md",
     "COMPSCI367 - Artificial Intelligence/week11/Local Markov Property.md",
     "COMPSCI367 - Artificial Intelligence/week10/Bayes Classifier - Conditional Independence.md",
-    "@images/COMPSCI3672023_S2W11Uncertainty2of2-08.jpg",
     "COMPSCI367 - Artificial Intelligence/week11/Probabilistic Model.md",
     "COMPSCI367 - Artificial Intelligence/week05/Population-based Search.md",
     "COMPSCI367 - Artificial Intelligence/week10/Independent (Independence).md",
@@ -222,7 +223,6 @@
     "COMPSCI367 - Artificial Intelligence/week10/Autoregressive Language Models based on Deep Learning.md",
     "COMPSCI367 - Artificial Intelligence/week10/Bayes Rule with Existing Evidence.md",
     "COMPSCI367 - Artificial Intelligence/week10/Bayes Theorem.md",
-    "COMPSCI367 - Artificial Intelligence/week10/belief measure.md",
     "COMPSCI367 - Artificial Intelligence/week11",
     "COMPSCI367 - Artificial Intelligence/week08",
     "COMPSCI367 - Artificial Intelligence/week07",
