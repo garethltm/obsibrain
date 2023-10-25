@@ -1,1 +1,1 @@
-Suppose $\huge o\tiny 1\normalsize > \huge o\tiny 2\normalsize > \huge o\tiny 1\normalsize$
+Suppose $\huge o\tiny 1\normalsize > \huge o\tiny 2\normalsize > \huge o\tiny 3\normalsize$. Then there exists $p \in [0,1]$ such that $$\huge o\tiny 2\normalsize \sim [p:\huge o\tiny 1\normalsize ]
