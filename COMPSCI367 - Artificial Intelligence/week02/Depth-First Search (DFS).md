@@ -14,7 +14,7 @@
 - stop when node with [[goal(s) - goal state(s)]] is expanded
 
 ## Properties
-1. [[COMPSCI367 - Artificial Intelligence/week02/Complete]]
+1. [[Complete]]
     - No - fails in infinite-depth spaces, spaces with loops
         - we need to modify to avoid repeated [[state(s)]] along [[path(s)]] in finite spaces
 2. [[Time Complexity]]

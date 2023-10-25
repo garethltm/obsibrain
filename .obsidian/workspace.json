@@ -6,56 +6,17 @@
       {
         "id": "e1ccbf259f6ba816",
         "type": "tabs",
-        "dimension": 33.24873096446701,
+        "dimension": 49.80988593155894,
         "children": [
           {
             "id": "9d16bf805036e931",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
-            },
-            "group": "7923199754eed4a3"
-          }
-        ]
-      },
-      {
-        "id": "60bfd547c7562a8a",
-        "type": "tabs",
-        "dimension": 33.24873096446701,
-        "children": [
-          {
-            "id": "c8759232c7bcce13",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
+              "type": "markdown",
               "state": {
                 "file": "COMPSCI367 - Artificial Intelligence/week02/A-Star Search.md",
-                "options": {
-                  "collapse-filter": true,
-                  "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": true,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 1,
-                  "close": false
-                }
+                "mode": "source",
+                "source": false
               }
             },
             "group": "7923199754eed4a3"
@@ -63,19 +24,68 @@
         ]
       },
       {
-        "id": "8d459d1c85b8b9ed",
-        "type": "tabs",
-        "dimension": 33.50253807106599,
+        "id": "11f5110b1e91bcab",
+        "type": "split",
+        "dimension": 50.19011406844106,
         "children": [
           {
-            "id": "874de3ab24aec93a",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {}
-            }
+            "id": "8d459d1c85b8b9ed",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "874de3ab24aec93a",
+                "type": "leaf",
+                "state": {
+                  "type": "git-view",
+                  "state": {}
+                }
+              }
+            ]
+          },
+          {
+            "id": "7883ac2ca26fc52e",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "c8759232c7bcce13",
+                "type": "leaf",
+                "state": {
+                  "type": "localgraph",
+                  "state": {
+                    "file": "COMPSCI367 - Artificial Intelligence/week02/A-Star Search.md",
+                    "options": {
+                      "collapse-filter": true,
+                      "search": "",
+                      "localJumps": 1,
+                      "localBacklinks": true,
+                      "localForelinks": true,
+                      "localInterlinks": false,
+                      "showTags": false,
+                      "showAttachments": false,
+                      "hideUnresolved": false,
+                      "collapse-color-groups": true,
+                      "colorGroups": [],
+                      "collapse-display": true,
+                      "showArrow": false,
+                      "textFadeMultiplier": 0,
+                      "nodeSizeMultiplier": 1,
+                      "lineSizeMultiplier": 1,
+                      "collapse-forces": true,
+                      "centerStrength": 0.518713248970312,
+                      "repelStrength": 10,
+                      "linkStrength": 1,
+                      "linkDistance": 250,
+                      "scale": 1,
+                      "close": false
+                    }
+                  }
+                },
+                "group": "7923199754eed4a3"
+              }
+            ]
           }
-        ]
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -104,7 +114,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Example",
+                "query": "complet",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -121,7 +131,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -141,6 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "COMPSCI367 - Artificial Intelligence/week02/A-Star Search.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,6 +169,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "COMPSCI367 - Artificial Intelligence/week02/A-Star Search.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +191,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "COMPSCI367 - Artificial Intelligence/week02/A-Star Search.md"
+              }
             }
           },
           {
@@ -211,6 +226,7 @@
   },
   "active": "9d16bf805036e931",
   "lastOpenFiles": [
+    "COMPSCI367 - Artificial Intelligence/week02/Depth-First Search (DFS).md",
     "COMPSCI367 - Artificial Intelligence/week02/A-Star Search.md",
     "path cos.md",
     "COMPSCI367 - Artificial Intelligence/week10/Modern Problems - More subsequent lectures.md",
@@ -246,7 +262,6 @@
     "COMPSCI367 - Artificial Intelligence/week10/Applying Bayes Rule.md",
     "COMPSCI367 - Artificial Intelligence/week10/Applying Bayes Rule for class ranking.md",
     "COMPSCI367 - Artificial Intelligence/week10/Attention Mechanisms.md",
-    "COMPSCI367 - Artificial Intelligence/week10/Attention Model.md",
     "COMPSCI367 - Artificial Intelligence/week11",
     "COMPSCI367 - Artificial Intelligence/week08",
     "COMPSCI367 - Artificial Intelligence/week07",

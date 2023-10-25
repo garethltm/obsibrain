@@ -8,7 +8,7 @@
 *A-Star Search orders by the sum:* f(n) = **g(n)** + **h(n)**
 
 [[Uniform-Cost Search (UCS) (Lowest-Cost-First Search)]] minimizes **g(n)**
-- [[optimal]] & [[COMPSCI367 - Artificial Intelligence/week02/Complete]] but not efficient
+- [[optimal]] & [[complete]] but not efficient
 [[Greedy (Best-First) Search]] minimizes **h(n)**
 - efficient but not [[optimal]] or [[COMPSCI367 - Artificial Intelligence/week02/Complete]]
 
