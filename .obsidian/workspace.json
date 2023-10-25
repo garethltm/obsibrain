@@ -75,7 +75,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week11/strict preference relation.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week11/Axiom 1 - Completeness.md",
                 "mode": "source",
                 "source": false
               }
@@ -162,7 +162,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "COMPSCI367 - Artificial Intelligence/week11/strict preference relation.md",
+                    "file": "COMPSCI367 - Artificial Intelligence/week11/Axiom 1 - Completeness.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -262,7 +262,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week11/strict preference relation.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week11/Axiom 1 - Completeness.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -279,7 +279,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week11/strict preference relation.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week11/Axiom 1 - Completeness.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -302,7 +302,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week11/strict preference relation.md"
+                "file": "COMPSCI367 - Artificial Intelligence/week11/Axiom 1 - Completeness.md"
               }
             }
           },

@@ -1,0 +1,1 @@
+- an [[agent]] has preference between all pairs of outco
