@@ -1,6 +1,5 @@
-The [[agent]] hopes to maximise the chance of meeting its [[goal(s) - goal state(s)]]
+- he [[agent]] hopes to maximise the chance of meeting its [[goal(s) - goal state(s)]]
 >	arrive at outcomes that are more desirable
-
-Preferences: How desirable an outcome is
+- Preferences: How desirable an outcome is
 - [[Utility function]]
-- 
+- [[Utility-Based Agent]]
