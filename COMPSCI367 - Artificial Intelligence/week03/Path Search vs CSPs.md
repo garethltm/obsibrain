@@ -12,4 +12,4 @@
 >	
 >	n-Queens
 >		Difficult part is knowing the final state
-    - How to get there is easy
+>		How to get there is easy

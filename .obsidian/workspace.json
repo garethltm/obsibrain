@@ -63,7 +63,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week03/Path Search vs CSPs.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week03/Backtracking Search.md",
                 "mode": "source",
                 "source": false
               }
@@ -160,7 +160,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "COMPSCI367 - Artificial Intelligence/week03/Path Search vs CSPs.md",
+                    "file": "COMPSCI367 - Artificial Intelligence/week03/Backtracking Search.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -222,7 +222,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Example",
+                "query": "example",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -260,7 +260,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week03/Path Search vs CSPs.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week03/Backtracking Search.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -277,7 +277,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week03/Path Search vs CSPs.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week03/Backtracking Search.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -300,7 +300,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week03/Path Search vs CSPs.md"
+                "file": "COMPSCI367 - Artificial Intelligence/week03/Backtracking Search.md"
               }
             }
           },
@@ -334,6 +334,9 @@
   },
   "active": "78003ac2d0f27c16",
   "lastOpenFiles": [
+    "COMPSCI367 - Artificial Intelligence/week03/Constraint Satisfaction Problem (CSPs).md",
+    "INFOSYS222 - Database Systems/DQL - Data Query Language.md",
+    "COMPSCI367 - Artificial Intelligence/week03/Path Search vs CSPs.md",
     "COMPSCI367 - Artificial Intelligence/week10/Machine Translation.md",
     "COMPSCI367 - Artificial Intelligence/week09/Logic-based Planning algorithms.md",
     "COMPSCI367 - Artificial Intelligence/week01/multi-agent.md",
@@ -342,8 +345,6 @@
     "COMPSCI367 - Artificial Intelligence/week10/Inference with Probability (Probabilistic Inference).md",
     "COMPSCI367 - Artificial Intelligence/week02/Informed Search Heuristic.md",
     "COMPSCI367 - Artificial Intelligence/week11/von Neumann & Morgenstern (VNM).md",
-    "INFOSYS222 - Database Systems/DQL - Data Query Language.md",
-    "COMPSCI367 - Artificial Intelligence/week03/Constraint Satisfaction Problem (CSPs).md",
     "COMPSCI367 - Artificial Intelligence/week03/Backtracking Search.md",
     "COMPSCI367 - Artificial Intelligence/week02/Greedy (Best-First) Search.md",
     "COMPSCI367 - Artificial Intelligence/week10/Chain Rule.md",
@@ -360,7 +361,6 @@
     "COMPSCI367 - Artificial Intelligence/week11/Expected utility hypothesis.md",
     "COMPSCI367 - Artificial Intelligence/week11/expected utility.md",
     "COMPSCI367 - Artificial Intelligence/week11/Variable Elimination Algorithm (VE).md",
-    "COMPSCI367 - Artificial Intelligence/week04/Hill-Climbing.md",
     "@images/Pasted image 20231026010151.png",
     "@images/Pasted image 20231026010018.png",
     "@images/Pasted image 20231026005656.png",
