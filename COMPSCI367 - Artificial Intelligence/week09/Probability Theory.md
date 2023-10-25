@@ -17,4 +17,5 @@ The sample space $\ohm$ over these [[Atomic Propositions (atoms)]] contains all 
 ![[Pasted image 20231025132516.png]]
 
 A [[proposition]] describes a [[constraint(s)]] on [[Atomic Propositions (atoms)]]
->	
+>	$\alpha \tiny 1: \neg Hot$
+>	$e\tiny 2\implies$
