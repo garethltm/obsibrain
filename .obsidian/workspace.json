@@ -48,7 +48,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "COMPSCI367 - Artificial Intelligence/week06/Propositional Logic.md",
+                    "file": "COMPSCI367 - Artificial Intelligence/week11/One-off Decision Problem.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -217,11 +217,11 @@
   },
   "active": "9d16bf805036e931",
   "lastOpenFiles": [
+    "COMPSCI367 - Artificial Intelligence/week11/One-off Decision Problem.md",
     "COMPSCI367 - Artificial Intelligence/week06/Propositional Logic.md",
     "COMPSCI367 - Artificial Intelligence/week04/Local Search in Continuous Space.md",
     "Continuous State.md",
     "COMPSCI367 - Artificial Intelligence/week10/Naïve Bayes classification.md",
-    "COMPSCI367 - Artificial Intelligence/week11/One-off Decision Problem.md",
     "COMPSCI367 - Artificial Intelligence/week11/Linear scalability.md",
     "COMPSCI367 - Artificial Intelligence/week12",
     "COMPSCI367 - Artificial Intelligence/week11/lottery.md",
