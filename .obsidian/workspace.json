@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week11/Axioms for Rationality.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week11/Linear scalability.md",
                 "mode": "source",
                 "source": false
               }
@@ -52,7 +52,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "COMPSCI367 - Artificial Intelligence/week11/Axioms for Rationality.md",
+                    "file": "COMPSCI367 - Artificial Intelligence/week11/Linear scalability.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -151,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week11/Axioms for Rationality.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week11/Linear scalability.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -168,7 +168,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week11/Axioms for Rationality.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week11/Linear scalability.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -191,7 +191,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week11/Axioms for Rationality.md"
+                "file": "COMPSCI367 - Artificial Intelligence/week11/Linear scalability.md"
               }
             }
           },
@@ -225,8 +225,9 @@
   },
   "active": "9d16bf805036e931",
   "lastOpenFiles": [
-    "COMPSCI367 - Artificial Intelligence/week11/Axiom 3 - Monotonicity.md",
     "COMPSCI367 - Artificial Intelligence/week11/Axioms for Rationality.md",
+    "COMPSCI367 - Artificial Intelligence/week11/Linear scalability.md",
+    "COMPSCI367 - Artificial Intelligence/week11/Axiom 3 - Monotonicity.md",
     "COMPSCI367 - Artificial Intelligence/week11/Axiom 2 - Transitivity.md",
     "COMPSCI367 - Artificial Intelligence/week11/Axiom 1 - Completeness.md",
     "COMPSCI367 - Artificial Intelligence/week11/lottery.md",
@@ -252,7 +253,6 @@
     "COMPSCI367 - Artificial Intelligence/week01/Goal-Based (Telelogical Agent).md",
     "COMPSCI367 - Artificial Intelligence/week08/Herbrand's Theorem.md",
     "INFOSYS222 - Database Systems/Attributes.md",
-    "INFOSYS222 - Database Systems/Attribute(s).md",
     "@images/COMPSCI3672023_S2W11Uncertainty2of2-24.jpg",
     "@images/Pasted image 20231025162230.png",
     "@images/COMPSCI3672023_S2W11Uncertainty2of2-22.jpg",
