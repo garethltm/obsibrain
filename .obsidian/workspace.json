@@ -63,7 +63,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week06/Knowledge Representation Language.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week06/Offline.md",
                 "mode": "source",
                 "source": false
               }
@@ -160,7 +160,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "COMPSCI367 - Artificial Intelligence/week06/Knowledge Representation Language.md",
+                    "file": "COMPSCI367 - Artificial Intelligence/week06/Offline.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -259,7 +259,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week06/Knowledge Representation Language.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week06/Offline.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -276,7 +276,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week06/Knowledge Representation Language.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week06/Offline.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -299,7 +299,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week06/Knowledge Representation Language.md"
+                "file": "COMPSCI367 - Artificial Intelligence/week06/Offline.md"
               }
             }
           },
@@ -333,6 +333,17 @@
   },
   "active": "78003ac2d0f27c16",
   "lastOpenFiles": [
+    "COMPSCI367 - Artificial Intelligence/week06/NP.md",
+    "COMPSCI367 - Artificial Intelligence/week06/model of a propositional KB.md",
+    "COMPSCI367 - Artificial Intelligence/week06/logically implies.md",
+    "COMPSCI367 - Artificial Intelligence/week06/logically equivalent (logical equivalence).md",
+    "COMPSCI367 - Artificial Intelligence/week06/logical consequence.md",
+    "COMPSCI367 - Artificial Intelligence/week06/Logic Inference vs Constraint Satisfaction.md",
+    "COMPSCI367 - Artificial Intelligence/week06/Logic Inference Problem.md",
+    "COMPSCI367 - Artificial Intelligence/week06/literal(s).md",
+    "COMPSCI367 - Artificial Intelligence/week06/language(s).md",
+    "COMPSCI367 - Artificial Intelligence/week06/Knowledge-based Agents.md",
+    "COMPSCI367 - Artificial Intelligence/week06/Knowledge Representation Language.md",
     "COMPSCI367 - Artificial Intelligence/week06/Knowledge Base (KB).md",
     "COMPSCI367 - Artificial Intelligence/week06/knowledge.md",
     "COMPSCI367 - Artificial Intelligence/week06/interpretation.md",
@@ -348,17 +359,6 @@
     "COMPSCI367 - Artificial Intelligence/week06/clause(s).md",
     "COMPSCI367 - Artificial Intelligence/week06/Atomic Representation.md",
     "COMPSCI367 - Artificial Intelligence/week06/Atomic Propositions (atoms).md",
-    "COMPSCI367 - Artificial Intelligence/week06/Atomic Entities.md",
-    "COMPSCI367 - Artificial Intelligence/week06/Agents with a World Model.md",
-    "COMPSCI367 - Artificial Intelligence/week07/What logic needs to be.md",
-    "COMPSCI367 - Artificial Intelligence/week07/Verbose.md",
-    "COMPSCI367 - Artificial Intelligence/week07/subgoal.md",
-    "COMPSCI367 - Artificial Intelligence/week07/Soundness.md",
-    "COMPSCI367 - Artificial Intelligence/week07/SLD Resolution (Backward chaining).md",
-    "COMPSCI367 - Artificial Intelligence/week07/SLD derivation.md",
-    "COMPSCI367 - Artificial Intelligence/week07/resolution.md",
-    "COMPSCI367 - Artificial Intelligence/week07/Proof procedure.md",
-    "COMPSCI367 - Artificial Intelligence/week07/Modus Ponens (MP).md",
     "@images/Pasted image 20231026105122.png",
     "@images/Pasted image 20231026105109.png",
     "@images/Pasted image 20231026105052.png",
