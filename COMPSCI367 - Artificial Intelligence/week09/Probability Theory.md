@@ -13,11 +13,13 @@
 >	Hot means high temperature
 
 The sample space $\ohm$ over these [[Atomic Propositions (atoms)]] contains all possible [[interpretation]]. 
->[[sample]] over Sunny, Hot
-![[Pasted image 20231025132516.png]]
+>	#Example 
+>	[[sample]] over Sunny, Hot
+>	![[Pasted image 20231025132516.png]]
 
 A [[proposition]] describes a [[constraint(s)]] on [[Atomic Propositions (atoms)]]
->	1. $\alpha \tiny 1\normalsize: \neg Hot$
+>	#Example 
+1. $\alpha \tiny 1\normalsize: \neg Hot$
 >		$e \tiny 2\normalsize \ e \tiny 4\normalsize$ basically says that it is NOT Hot
 >				$e \tiny 2\normalsize \& \$e \tiny 4\normalsize$ 
 >	2. $\alpha \tiny 2\normalsize: \neg Sunny \lor \neg Hot$
