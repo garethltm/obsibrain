@@ -63,7 +63,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week11/One-off Decision.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week03/Local Search.md",
                 "mode": "source",
                 "source": false
               }
@@ -160,7 +160,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "COMPSCI367 - Artificial Intelligence/week11/One-off Decision.md",
+                    "file": "COMPSCI367 - Artificial Intelligence/week03/Local Search.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -259,7 +259,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week11/One-off Decision.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week03/Local Search.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -276,7 +276,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week11/One-off Decision.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week03/Local Search.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -299,7 +299,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week11/One-off Decision.md"
+                "file": "COMPSCI367 - Artificial Intelligence/week03/Local Search.md"
               }
             }
           },
@@ -333,14 +333,15 @@
   },
   "active": "78003ac2d0f27c16",
   "lastOpenFiles": [
-    "COMPSCI367 - Artificial Intelligence/week11/Multi-dimensional Utility.md",
+    "COMPSCI367 - Artificial Intelligence/week11/Additive independence property.md",
+    "COMPSCI367 - Artificial Intelligence/week11/(VNM-) rational.md",
     "COMPSCI367 - Artificial Intelligence/week11/One-off Decision.md",
+    "COMPSCI367 - Artificial Intelligence/week11/Multi-dimensional Utility.md",
     "@images/Pasted image 20231026105122.png",
     "@images/Pasted image 20231026105109.png",
     "@images/Pasted image 20231026105052.png",
     "COMPSCI367 - Artificial Intelligence/week09/Classical Planning.md",
     "@images/Pasted image 20231026104435.png",
-    "COMPSCI367 - Artificial Intelligence/week11/Additive independence property.md",
     "@images/Pasted image 20231026104238.png",
     "@images/Pasted image 20231026104137.png",
     "COMPSCI367 - Artificial Intelligence/week11/von Neumann & Morgenstern (VNM).md",
