@@ -6,4 +6,8 @@
 ## [[CPT Operations]] 2: Multiplication
 ![[Pasted image 20231025160943.png]]
 
-## [[CPT Operations]] 3: N
+## [[CPT Operations]] 3: Normalisation
+![[Pasted image 20231025161014.png]]
+
+## [[CPT Operations]] 4: Summation
+![[Pasted image 20231025161047.png]]
