@@ -8,7 +8,7 @@
 - [[agent]] only have [[Partially Observable]] information about the [[environment]]
 >	in the real world; [[knowledge]] of something is True may not be clear
 - [[agent]] [[knowledge]] of the truth of a statement is uncertain
-- the [[State(s)]] of the world is inherently uncertain
+- the [[state(s)]] of the world is inherently uncertain
 >	coinflip
 
 The [[agent]] [[knowledge]] can at best provide only a [[degree of belief]]

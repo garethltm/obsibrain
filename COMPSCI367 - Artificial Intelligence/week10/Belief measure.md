@@ -3,3 +3,5 @@ For a [[sample]] $s \in \ohm$ whose features are unknown, a [[belief measure]] o
 Any [[belief measure]] must satisfy the follow properties:
 1. [[Unit Measure]]
 2. [[Additivity]]
+
+

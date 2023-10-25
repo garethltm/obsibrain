@@ -38,7 +38,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week07/Forward Chaining.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week10/belief measure.md",
                 "mode": "source",
                 "source": false
               }
@@ -89,7 +89,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "entails",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -106,8 +106,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -127,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week07/Forward Chaining.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week10/belief measure.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week07/Forward Chaining.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week10/belief measure.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week07/Forward Chaining.md"
+                "file": "COMPSCI367 - Artificial Intelligence/week10/belief measure.md"
               }
             }
           },
@@ -201,11 +200,12 @@
   },
   "active": "358f03c9716e94e8",
   "lastOpenFiles": [
+    "COMPSCI367 - Artificial Intelligence/week09/probability.md",
+    "COMPSCI367 - Artificial Intelligence/week02/state(s).md",
+    "COMPSCI367 - Artificial Intelligence/week10/Additivity.md",
+    "COMPSCI367 - Artificial Intelligence/week07/Forward Chaining.md",
     "COMPSCI367 - Artificial Intelligence/week04/Hill-Climbing.md",
     "COMPSCI367 - Artificial Intelligence/week07/entails.md",
-    "COMPSCI367 - Artificial Intelligence/week07/Forward Chaining.md",
-    "COMPSCI367 - Artificial Intelligence/week09/probability.md",
-    "COMPSCI367 - Artificial Intelligence/week10/Additivity.md",
     "COMPSCI367 - Artificial Intelligence/week10/belief measure.md",
     "COMPSCI367 - Artificial Intelligence/week09/Probability Theory.md",
     "COMPSCI367 - Artificial Intelligence/week10/calculus of belief.md",
@@ -229,7 +229,6 @@
     "COMPSCI367 - Artificial Intelligence/week10/The Noisy Channel Model.md",
     "COMPSCI367 - Artificial Intelligence/week10/The vector space model.md",
     "COMPSCI367 - Artificial Intelligence/week10/Translation Model.md",
-    "COMPSCI367 - Artificial Intelligence/week10/Transmission errors.md",
     "@images/Pasted image 20231025115510.png",
     "@images/Pasted image 20231025101932.png",
     "@images/Pasted image 20231025101919.png",
