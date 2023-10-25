@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week02/A-Star Search.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week02/Depth-First Search (DFS).md",
                 "mode": "source",
                 "source": false
               }
@@ -52,7 +52,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "COMPSCI367 - Artificial Intelligence/week02/A-Star Search.md",
+                    "file": "COMPSCI367 - Artificial Intelligence/week02/Depth-First Search (DFS).md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -152,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week02/A-Star Search.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week02/Depth-First Search (DFS).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,7 +169,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week02/A-Star Search.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week02/Depth-First Search (DFS).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -192,7 +192,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week02/A-Star Search.md"
+                "file": "COMPSCI367 - Artificial Intelligence/week02/Depth-First Search (DFS).md"
               }
             }
           },
@@ -226,8 +226,11 @@
   },
   "active": "9d16bf805036e931",
   "lastOpenFiles": [
-    "COMPSCI367 - Artificial Intelligence/week02/Depth-First Search (DFS).md",
+    "COMPSCI367 - Artificial Intelligence/week02/Cost Sensitive Search.md",
+    "COMPSCI367 - Artificial Intelligence/week02/Breadth-First Search (BFS).md",
+    "COMPSCI367 - Artificial Intelligence/week02/Bidirectional Search.md",
     "COMPSCI367 - Artificial Intelligence/week02/A-Star Search.md",
+    "COMPSCI367 - Artificial Intelligence/week02/Depth-First Search (DFS).md",
     "path cos.md",
     "COMPSCI367 - Artificial Intelligence/week10/Modern Problems - More subsequent lectures.md",
     "COMPSCI367 - Artificial Intelligence/week11/Bayesian Network Inference.md",
@@ -259,9 +262,6 @@
     "COMPSCI367 - Artificial Intelligence/week10/Inference with Probability (Probabilistic Inference).md",
     "COMPSCI367 - Artificial Intelligence/week09/Probability Theory.md",
     "COMPSCI367 - Artificial Intelligence/week10/Additivity.md",
-    "COMPSCI367 - Artificial Intelligence/week10/Applying Bayes Rule.md",
-    "COMPSCI367 - Artificial Intelligence/week10/Applying Bayes Rule for class ranking.md",
-    "COMPSCI367 - Artificial Intelligence/week10/Attention Mechanisms.md",
     "COMPSCI367 - Artificial Intelligence/week11",
     "COMPSCI367 - Artificial Intelligence/week08",
     "COMPSCI367 - Artificial Intelligence/week07",
