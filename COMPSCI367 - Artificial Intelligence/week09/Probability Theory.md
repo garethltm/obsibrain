@@ -7,3 +7,5 @@
 	- 0 is no chance to occur
 	- 1 is certain to occur
 
+Let X\tiny 1
+
