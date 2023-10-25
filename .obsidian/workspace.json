@@ -63,7 +63,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week06/Wumpus World Agent.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week05/Adversarial Search.md",
                 "mode": "source",
                 "source": false
               }
@@ -160,7 +160,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "COMPSCI367 - Artificial Intelligence/week06/Wumpus World Agent.md",
+                    "file": "COMPSCI367 - Artificial Intelligence/week05/Adversarial Search.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -259,7 +259,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week06/Wumpus World Agent.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week05/Adversarial Search.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -276,7 +276,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week06/Wumpus World Agent.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week05/Adversarial Search.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -299,7 +299,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week06/Wumpus World Agent.md"
+                "file": "COMPSCI367 - Artificial Intelligence/week05/Adversarial Search.md"
               }
             }
           },
@@ -333,6 +333,8 @@
   },
   "active": "78003ac2d0f27c16",
   "lastOpenFiles": [
+    "COMPSCI367 - Artificial Intelligence/week05/(partially) cooperative multi-agent environment.md",
+    "COMPSCI367 - Artificial Intelligence/week06/Wumpus World Agent.md",
     "COMPSCI367 - Artificial Intelligence/week06/Truth table.md",
     "COMPSCI367 - Artificial Intelligence/week06/syntax.md",
     "COMPSCI367 - Artificial Intelligence/week06/Structured Representation.md",
@@ -357,8 +359,6 @@
     "COMPSCI367 - Artificial Intelligence/week06/logically equivalent (logical equivalence).md",
     "COMPSCI367 - Artificial Intelligence/week06/logical consequence.md",
     "COMPSCI367 - Artificial Intelligence/week06/Logic Inference vs Constraint Satisfaction.md",
-    "COMPSCI367 - Artificial Intelligence/week06/Logic Inference Problem.md",
-    "COMPSCI367 - Artificial Intelligence/week06/literal(s).md",
     "@images/Pasted image 20231026105122.png",
     "@images/Pasted image 20231026105109.png",
     "@images/Pasted image 20231026105052.png",
