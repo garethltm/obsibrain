@@ -4,4 +4,4 @@
 
 ![[Pasted image 20231025162230.png]]
 ![[COMPSCI3672023_S2W11Uncertainty2of2-24.jpg]]
-Related to: [[NP]]-complete
+Related to: [[NP]]-complete, [[Time Complexity]]

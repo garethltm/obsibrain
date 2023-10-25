@@ -15,4 +15,6 @@ Related to: [[conditional probability]]
 ![[COMPSCI3672023_S2W11Uncertainty2of2-17.jpg]]
 Related to: [[Local Markov Property]]
 ![[COMPSCI3672023_S2W11Uncertainty2of2-19.jpg]]
+Related to: [[Time Complexity]]
+
 Better method: [[Variable Elimination Algorithm (VE)]]
