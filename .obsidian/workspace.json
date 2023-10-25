@@ -12,12 +12,8 @@
             "id": "9d16bf805036e931",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week04/Local Search in Continuous Space.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             },
             "group": "7923199754eed4a3"
           }
@@ -52,7 +48,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "COMPSCI367 - Artificial Intelligence/week04/Local Search in Continuous Space.md",
+                    "file": "COMPSCI367 - Artificial Intelligence/week06/Propositional Logic.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -135,8 +131,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "29204b37fc003a9a",
@@ -152,7 +147,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week04/Local Search in Continuous Space.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,7 +163,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week04/Local Search in Continuous Space.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -191,9 +184,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week04/Local Search in Continuous Space.md"
-              }
+              "state": {}
             }
           },
           {
@@ -226,6 +217,8 @@
   },
   "active": "9d16bf805036e931",
   "lastOpenFiles": [
+    "COMPSCI367 - Artificial Intelligence/week06/Propositional Logic.md",
+    "COMPSCI367 - Artificial Intelligence/week04/Local Search in Continuous Space.md",
     "Continuous State.md",
     "COMPSCI367 - Artificial Intelligence/week10/Naïve Bayes classification.md",
     "COMPSCI367 - Artificial Intelligence/week11/One-off Decision Problem.md",
@@ -253,8 +246,6 @@
     "@images/Pasted image 20231025165611.png",
     "COMPSCI367 - Artificial Intelligence/week07/Definite Clause Inference Engine.md",
     "INFOSYS222 - Database Systems/OLAP - Online Analytics Processing.md",
-    "INFOSYS222 - Database Systems/OLTP - Online Transaction Processing.md",
-    "COMPSCI367 - Artificial Intelligence/week09/Probability Theory.md",
     "@images/COMPSCI3672023_S2W11Uncertainty2of2-24.jpg",
     "@images/Pasted image 20231025162230.png",
     "@images/COMPSCI3672023_S2W11Uncertainty2of2-22.jpg",
