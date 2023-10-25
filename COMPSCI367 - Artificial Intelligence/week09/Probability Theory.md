@@ -18,4 +18,4 @@ The sample space $\ohm$ over these [[Atomic Propositions (atoms)]] contains all 
 
 A [[proposition]] describes a [[constraint(s)]] on [[Atomic Propositions (atoms)]]
 >	$\alpha \tiny 1: \neg Hot$
->	$e\tiny 2\implies$
+>	$\huge e \tiny 2\normalsize \vDash \huge \alpha \tiny 1$
