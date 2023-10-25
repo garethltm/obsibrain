@@ -18,6 +18,8 @@ The sample space $\ohm$ over these [[Atomic Propositions (atoms)]] contains all 
 
 A [[proposition]] describes a [[constraint(s)]] on [[Atomic Propositions (atoms)]]
 >	1. $\alpha \tiny 1\normalsize: \neg Hot$
->		$e \tiny 2\normalsize \vDash \alpha \tiny 1$ 
->	2. $\alpha \tiny 2\normalsize: \neg Sunny \lor \neg Hot$
->		$e\tiny 2\normalsize \vDash \alpha /$
+>		$e \tiny 2\normalsize \vDash \alpha \tiny 1,e \tiny 4\normalsize \vDash \alpha \tiny 1$ 
+>				$e \tiny 2\normalsize \& \$e \tiny 4\normalsize$ 
+>	1. $\alpha \tiny 2\normalsize: \neg Sunny \lor \neg Hot$
+>		$e\tiny 2\normalsize \vDash \alpha \tiny 2\normalsize ,e\tiny 3\normalsize \vDash \alpha \tiny 2\normalsize ,e\tiny 4\normalsize \vDash \alpha \tiny 2\normalsize$
+>				either one of them is False
