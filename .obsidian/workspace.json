@@ -50,26 +50,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week04/Hill-Climbing.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d0f61cd9fefb8c2d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week10/Additivity.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week10/belief measure.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       },
       {
         "id": "8d459d1c85b8b9ed",
@@ -113,7 +101,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "language model",
+                "query": "belief",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -150,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week10/Additivity.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week10/belief measure.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week10/Additivity.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week10/belief measure.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -190,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week10/Additivity.md"
+                "file": "COMPSCI367 - Artificial Intelligence/week10/belief measure.md"
               }
             }
           },
@@ -222,17 +210,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d0f61cd9fefb8c2d",
+  "active": "f29b33f23d11f1cc",
   "lastOpenFiles": [
+    "COMPSCI367 - Artificial Intelligence/week04/Hill-Climbing.md",
+    "COMPSCI367 - Artificial Intelligence/week09/Probability Theory.md",
+    "COMPSCI367 - Artificial Intelligence/week10/calculus of belief.md",
+    "COMPSCI367 - Artificial Intelligence/week10/Additivity.md",
     "COMPSCI367 - Artificial Intelligence/week10/disjoint subsets.md",
     "@images/Untitled.jpg",
-    "COMPSCI367 - Artificial Intelligence/week10/Additivity.md",
     "COMPSCI367 - Artificial Intelligence/week10/belief measure.md",
     "COMPSCI367 - Artificial Intelligence/week10/Unit Measure.md",
     "COMPSCI367 - Artificial Intelligence/week10/Conditional Entropy.md",
-    "COMPSCI367 - Artificial Intelligence/week10/calculus of belief.md",
     "conflict-files-obsidian-git.md",
-    "COMPSCI367 - Artificial Intelligence/week09/Probability Theory.md",
     "COMPSCI367 - Artificial Intelligence/week06/proposition.md",
     "@images/Pasted image 20231025132516.png",
     "COMPSCI367 - Artificial Intelligence/week10/sample.md",
