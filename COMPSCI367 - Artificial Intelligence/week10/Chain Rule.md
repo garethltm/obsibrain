@@ -5,3 +5,10 @@
 
 #### Probability 
 $$P(a \land b)=P(a)P(b\ |\ a)$$
+
+### [[Bayesian Network Inference]]
+![[COMPSCI3672023_S2W11Uncertainty2of2-16.jpg]]
+
+## Example
+
+![[COMPSCI3672023_S2W11Uncertainty2of2-17.jpg]]
