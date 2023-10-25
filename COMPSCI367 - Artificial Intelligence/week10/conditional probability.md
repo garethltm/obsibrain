@@ -4,3 +4,5 @@ The [[belief measure]] in hypothesis $h$ based on [[proposition]] $e$ is called 
 - [[probability]] of $h$ given $e$
 
 The [[proposition]] e represents certain given experience
+
+The [[conditional probability]] $P(h\ |\ e)=\frac {P(h \land e)}{P(e)}$ is the [[Agent]]
