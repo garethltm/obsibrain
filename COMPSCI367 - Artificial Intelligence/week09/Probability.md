@@ -7,4 +7,4 @@ imagine a very large number n of possible [[worlds]] which an event has had an o
 2. 1 is event certain to occur
 which leads to [[Probability Theory]]
 
-- Given a [[belief measure]] $\mu$ over $\ohm$, the [[probability]] of a [[proposition]] $\alpha$ is 
+- Given a [[belief measure]] $\mu$ over $\ohm$, the [[probability]] of a [[proposition]] $\alpha$ is $P(\alpha )=\mu ({w \in \ohm :\ w\ \vDash \alpha})$
