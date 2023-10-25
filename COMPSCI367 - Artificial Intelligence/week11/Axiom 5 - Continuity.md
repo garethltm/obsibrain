@@ -1,0 +1,1 @@
+Suppose $\huge o\tiny 1\normalsize > \huge o\tiny 2\normalsize > \huge o\tiny 1\normalsize$
