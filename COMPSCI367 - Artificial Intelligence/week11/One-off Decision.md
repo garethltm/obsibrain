@@ -3,4 +3,4 @@
 
 ### Solution
 By [[von Neumann & Morgenstern (VNM)]] theorem, there is a [[utility]] function $u:\ohm \rightarrow R$
-By [[Expected utility hypothesis]]: The [[agent(s)]]  
+By [[Expected utility hypothesis]]: The [[agent(s)]] wants to maximise the [[expected utility]] arg

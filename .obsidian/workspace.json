@@ -61,8 +61,12 @@
             "id": "78003ac2d0f27c16",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "COMPSCI367 - Artificial Intelligence/week11/One-off Decision.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
@@ -156,6 +160,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
+                    "file": "COMPSCI367 - Artificial Intelligence/week11/One-off Decision.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -234,8 +239,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -255,6 +259,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "COMPSCI367 - Artificial Intelligence/week11/One-off Decision.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -271,6 +276,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "COMPSCI367 - Artificial Intelligence/week11/One-off Decision.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -292,7 +298,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "COMPSCI367 - Artificial Intelligence/week11/One-off Decision.md"
+              }
             }
           },
           {
@@ -326,7 +334,7 @@
   "active": "78003ac2d0f27c16",
   "lastOpenFiles": [
     "COMPSCI367 - Artificial Intelligence/week09/Classical Planning.md",
-    "COMPSCI367 - Artificial Intelligence/week11/One-off Decision Problem.md",
+    "COMPSCI367 - Artificial Intelligence/week11/One-off Decision.md",
     "@images/Pasted image 20231026104435.png",
     "COMPSCI367 - Artificial Intelligence/week11/Additive independence property.md",
     "@images/Pasted image 20231026104238.png",
