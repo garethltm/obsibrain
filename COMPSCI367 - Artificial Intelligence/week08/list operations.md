@@ -1,3 +1,4 @@
-![[Untitled 4.png]]
+>	#Example 
+>	![[Untitled 4.png]]
 
 Related to: [[PDDL]]

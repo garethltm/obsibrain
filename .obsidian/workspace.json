@@ -63,7 +63,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week08/Grounding.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week08/Prolog.md",
                 "mode": "source",
                 "source": false
               }
@@ -160,7 +160,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "COMPSCI367 - Artificial Intelligence/week08/Grounding.md",
+                    "file": "COMPSCI367 - Artificial Intelligence/week08/Prolog.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -259,7 +259,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week08/Grounding.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week08/Prolog.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -276,7 +276,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week08/Grounding.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week08/Prolog.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -299,7 +299,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week08/Grounding.md"
+                "file": "COMPSCI367 - Artificial Intelligence/week08/Prolog.md"
               }
             }
           },
@@ -333,6 +333,21 @@
   },
   "active": "78003ac2d0f27c16",
   "lastOpenFiles": [
+    "COMPSCI367 - Artificial Intelligence/week08/Propositionalization.md",
+    "COMPSCI367 - Artificial Intelligence/week08/quantifier(s).md",
+    "COMPSCI367 - Artificial Intelligence/week08/Prolog.md",
+    "COMPSCI367 - Artificial Intelligence/week08/Ordering.md",
+    "COMPSCI367 - Artificial Intelligence/week08/negation.md",
+    "COMPSCI367 - Artificial Intelligence/week08/model(s).md",
+    "COMPSCI367 - Artificial Intelligence/week08/Logic Programming.md",
+    "COMPSCI367 - Artificial Intelligence/week08/logic.md",
+    "COMPSCI367 - Artificial Intelligence/week08/list operations.md",
+    "COMPSCI367 - Artificial Intelligence/week08/Lifting.md",
+    "COMPSCI367 - Artificial Intelligence/week08/instantiation.md",
+    "COMPSCI367 - Artificial Intelligence/week08/inductively.md",
+    "COMPSCI367 - Artificial Intelligence/week08/Imperative programming.md",
+    "COMPSCI367 - Artificial Intelligence/week08/Herbrand's Theorem.md",
+    "COMPSCI367 - Artificial Intelligence/week08/Grounding.md",
     "COMPSCI367 - Artificial Intelligence/week08/Generalised Modus Ponens (GMP).md",
     "COMPSCI367 - Artificial Intelligence/week08/Free variables.md",
     "COMPSCI367 - Artificial Intelligence/week08/First-Order Logic Inference.md",
@@ -344,21 +359,6 @@
     "COMPSCI367 - Artificial Intelligence/week08/Domain-closure assumption.md",
     "COMPSCI367 - Artificial Intelligence/week08/definition (singular).md",
     "COMPSCI367 - Artificial Intelligence/week08/Declarative programming.md",
-    "COMPSCI367 - Artificial Intelligence/week08/control.md",
-    "COMPSCI367 - Artificial Intelligence/week08/Closed world assumption.md",
-    "COMPSCI367 - Artificial Intelligence/week08/axioms.md",
-    "COMPSCI367 - Artificial Intelligence/week08/Arithmetic.md",
-    "COMPSCI367 - Artificial Intelligence/week08/algorithm.md",
-    "COMPSCI367 - Artificial Intelligence/week09/Annotated Disjunction.md",
-    "COMPSCI367 - Artificial Intelligence/week09/Probability Theory.md",
-    "COMPSCI367 - Artificial Intelligence/week09/Problog.md",
-    "COMPSCI367 - Artificial Intelligence/week09/Remote Agent.md",
-    "COMPSCI367 - Artificial Intelligence/week09/SATPlan.md",
-    "COMPSCI367 - Artificial Intelligence/week09/worlds.md",
-    "COMPSCI367 - Artificial Intelligence/week09/uncertainty.md",
-    "COMPSCI367 - Artificial Intelligence/week09/TranslateToSAT.md",
-    "COMPSCI367 - Artificial Intelligence/week09/Search-based Planning Algorithm.md",
-    "COMPSCI367 - Artificial Intelligence/week09/Search.md",
     "@images/Pasted image 20231026105122.png",
     "@images/Pasted image 20231026105109.png",
     "@images/Pasted image 20231026105052.png",

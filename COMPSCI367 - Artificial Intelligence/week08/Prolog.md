@@ -1,5 +1,6 @@
 - implements a [[First-Order KB]]
-	![[Untitled 2.png]]
+>	#Example 
+![[Untitled 2.png]]
 >make sure there is only one [[Atomic Propositions (atoms)]] in the Head
 
 ## Issues
