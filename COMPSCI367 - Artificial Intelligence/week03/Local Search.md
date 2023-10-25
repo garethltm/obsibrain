@@ -17,7 +17,7 @@ In many optimisation problems:
 		> n-queens problem
 	2. find optimal configuration
 		>travelling salesperson problem
-	>- We can use [[Iterative Improvement]] algorithms to keep a single "current" state, try to improve it
+	>- We can use [[Iterative Improvement]] [[algorithm]] to keep a single "current" state, try to improve it
 	>- Constant space, suitable for online as well as offline search
 
 ## Algorithms
@@ -28,7 +28,7 @@ In many optimisation problems:
 2. perform a number of [[action(s)]] searching for a [[solution(s)]]
 
 ## Main Idea
-- resembling an [[agent(s)]] exploring the search space & move along successor relations
+- resembling an [[agent(s)]] exploring the search space & move along [[successor(s)]] relations
 	- AIM: to improve its position in the long run (optimal solution)
 
 ## Problem
