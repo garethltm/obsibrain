@@ -11,7 +11,8 @@
 - **No mechanism for backtracking purposes**
     - You might end up searching through the entire [[search tree]], which would eventually mean that it isn’t much different than **[[Forward Chaining]]**
     - Theoretically it would still mean that it is not efficient but in practice it is still more efficient because of the [[Backtracking Search]] idea
-    ![[Pasted image 20231024010214.png]]
+>	#Example 
+>	![[Pasted image 20231024010214.png]]
 
 - **[[Soundness]]** → search procedure is success (it derives goal), we can then work [[Backtracking Search]] & turn it into a [[forward chaining]] proof
 - **[[Completeness]]** → because of the completeness of [[forward chaining]], [[SLD Resolution (Backward chaining)]] is also [[Completeness]]

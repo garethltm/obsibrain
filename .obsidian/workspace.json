@@ -63,7 +63,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week07/Low expresiveness.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week07/subgoal.md",
                 "mode": "source",
                 "source": false
               }
@@ -160,7 +160,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "COMPSCI367 - Artificial Intelligence/week07/Low expresiveness.md",
+                    "file": "COMPSCI367 - Artificial Intelligence/week07/subgoal.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -222,7 +222,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "example",
+                "query": "tag:#Example",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -259,7 +259,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week07/Low expresiveness.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week07/subgoal.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -276,7 +276,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week07/Low expresiveness.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week07/subgoal.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -299,7 +299,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week07/Low expresiveness.md"
+                "file": "COMPSCI367 - Artificial Intelligence/week07/subgoal.md"
               }
             }
           },
@@ -333,6 +333,13 @@
   },
   "active": "78003ac2d0f27c16",
   "lastOpenFiles": [
+    "COMPSCI367 - Artificial Intelligence/week07/Soundness.md",
+    "COMPSCI367 - Artificial Intelligence/week07/SLD Resolution (Backward chaining).md",
+    "COMPSCI367 - Artificial Intelligence/week07/SLD derivation.md",
+    "COMPSCI367 - Artificial Intelligence/week07/resolution.md",
+    "COMPSCI367 - Artificial Intelligence/week07/Proof procedure.md",
+    "COMPSCI367 - Artificial Intelligence/week07/Modus Ponens (MP).md",
+    "COMPSCI367 - Artificial Intelligence/week07/Low expresiveness.md",
     "COMPSCI367 - Artificial Intelligence/week07/Human languages are complex.md",
     "COMPSCI367 - Artificial Intelligence/week07/Forward Chaining.md",
     "COMPSCI367 - Artificial Intelligence/week07/Expressive.md",
@@ -352,13 +359,6 @@
     "COMPSCI367 - Artificial Intelligence/week08/Satisfaction relation.md",
     "COMPSCI367 - Artificial Intelligence/week08/Propositionalization.md",
     "COMPSCI367 - Artificial Intelligence/week08/Prolog.md",
-    "COMPSCI367 - Artificial Intelligence/week08/quantifier(s).md",
-    "COMPSCI367 - Artificial Intelligence/week08/Ordering.md",
-    "COMPSCI367 - Artificial Intelligence/week08/negation.md",
-    "COMPSCI367 - Artificial Intelligence/week08/model(s).md",
-    "COMPSCI367 - Artificial Intelligence/week08/Logic Programming.md",
-    "COMPSCI367 - Artificial Intelligence/week08/logic.md",
-    "COMPSCI367 - Artificial Intelligence/week08/list operations.md",
     "@images/Pasted image 20231026105122.png",
     "@images/Pasted image 20231026105109.png",
     "@images/Pasted image 20231026105052.png",
