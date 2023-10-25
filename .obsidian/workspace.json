@@ -18,8 +18,7 @@
                 "mode": "source",
                 "source": false
               }
-            },
-            "group": "49e37924338b6c36"
+            }
           },
           {
             "id": "9d16bf805036e931",
@@ -73,10 +72,13 @@
             "id": "d0f61cd9fefb8c2d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
-            },
-            "group": "bd9851f4b44cc862"
+              "type": "markdown",
+              "state": {
+                "file": "COMPSCI367 - Artificial Intelligence/week10/Bayes Theorem.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           },
           {
             "id": "2602e13c15239a89",
@@ -94,104 +96,19 @@
         "currentTab": 5
       },
       {
-        "id": "992e264c1b226738",
-        "type": "split",
+        "id": "8d459d1c85b8b9ed",
+        "type": "tabs",
         "dimension": 35.659898477157356,
         "children": [
           {
-            "id": "8d459d1c85b8b9ed",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "874de3ab24aec93a",
-                "type": "leaf",
-                "state": {
-                  "type": "git-view",
-                  "state": {}
-                }
-              }
-            ]
-          },
-          {
-            "id": "d9a730eda40123bb",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "7430a6c810762936",
-                "type": "leaf",
-                "state": {
-                  "type": "localgraph",
-                  "state": {
-                    "file": "COMPSCI367 - Artificial Intelligence/week05/Population-based Search.md",
-                    "options": {
-                      "collapse-filter": true,
-                      "search": "",
-                      "localJumps": 1,
-                      "localBacklinks": true,
-                      "localForelinks": true,
-                      "localInterlinks": false,
-                      "showTags": false,
-                      "showAttachments": false,
-                      "hideUnresolved": false,
-                      "collapse-color-groups": true,
-                      "colorGroups": [],
-                      "collapse-display": true,
-                      "showArrow": false,
-                      "textFadeMultiplier": 0,
-                      "nodeSizeMultiplier": 1,
-                      "lineSizeMultiplier": 1,
-                      "collapse-forces": true,
-                      "centerStrength": 0.518713248970312,
-                      "repelStrength": 10,
-                      "linkStrength": 1,
-                      "linkDistance": 250,
-                      "scale": 0.7356825628249143,
-                      "close": true
-                    }
-                  }
-                },
-                "group": "49e37924338b6c36"
-              },
-              {
-                "id": "a8b21011d3ee7aaa",
-                "type": "leaf",
-                "state": {
-                  "type": "localgraph",
-                  "state": {
-                    "options": {
-                      "collapse-filter": true,
-                      "search": "",
-                      "localJumps": 1,
-                      "localBacklinks": true,
-                      "localForelinks": true,
-                      "localInterlinks": false,
-                      "showTags": false,
-                      "showAttachments": false,
-                      "hideUnresolved": false,
-                      "collapse-color-groups": true,
-                      "colorGroups": [],
-                      "collapse-display": true,
-                      "showArrow": false,
-                      "textFadeMultiplier": 0,
-                      "nodeSizeMultiplier": 1,
-                      "lineSizeMultiplier": 1,
-                      "collapse-forces": true,
-                      "centerStrength": 0.518713248970312,
-                      "repelStrength": 10,
-                      "linkStrength": 1,
-                      "linkDistance": 250,
-                      "scale": 1,
-                      "close": false
-                    }
-                  }
-                },
-                "group": "bd9851f4b44cc862"
-              }
-            ],
-            "currentTab": 1
+            "id": "874de3ab24aec93a",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
-        ],
-        "direction": "horizontal"
+        ]
       }
     ],
     "direction": "vertical"
@@ -257,7 +174,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week05/Population-based Search.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week10/Bayes Theorem.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -274,7 +191,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week05/Population-based Search.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week10/Bayes Theorem.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -297,7 +214,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week05/Population-based Search.md"
+                "file": "COMPSCI367 - Artificial Intelligence/week10/Bayes Theorem.md"
               }
             }
           },
