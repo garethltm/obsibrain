@@ -1,0 +1,1 @@
+an [[agent]] is defined to be [[(VNM-) rational]] if it obeys the
