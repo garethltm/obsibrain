@@ -4,7 +4,8 @@
 - select the [[path(s)]] whose end is closest to a [[goal(s) - goal state(s)]] according to the [[heuristic(s)]] function
 - selects the next node for expansion using the [[heuristic(s)]] function for its evaluation function, ie. `f(n) = h(n)`
     - `h(n)=0` → n is a [[goal(s) - goal state(s)]]
-    > Example: greedy search **minimises the estimated cost to the [[goal(s) - goal state(s)]]**; it expands whichever node n is estimated to be closest to the [[goal(s) - goal state(s)]]
+>	#Example 
+>	$greedy search$ **minimises the estimated cost to the [[goal(s) - goal state(s)]]**; it expands whichever node n is estimated to be closest to the [[goal(s) - goal state(s)]]
 - It treats the [[frontier (open list, fringe)]] as a [[priority queue]] ordered by h
 
 ## Properties

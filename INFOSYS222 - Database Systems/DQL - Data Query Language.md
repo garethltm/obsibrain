@@ -31,8 +31,7 @@ LIMIT COUNT, OFFSET
 >SQL aggregation is **the task of collecting a set of values to return a single value**. 
 >
 >It is done with the help of aggregate functions, such as `SUM`, `COUNT`, and `AVG`.
->
-		#Example 
-		in a database of products, you might want to calculate the average price of the whole inventory.
+>	#Example 
+>	in a database of products, you might want to calculate the average price of the whole inventory.
 
 Related to: [[SQL]]

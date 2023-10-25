@@ -63,7 +63,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "INFOSYS222 - Database Systems/DQL - Data Query Language.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week02/Greedy (Best-First) Search.md",
                 "mode": "source",
                 "source": false
               }
@@ -160,7 +160,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "INFOSYS222 - Database Systems/DQL - Data Query Language.md",
+                    "file": "COMPSCI367 - Artificial Intelligence/week02/Greedy (Best-First) Search.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -260,7 +260,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "INFOSYS222 - Database Systems/DQL - Data Query Language.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week02/Greedy (Best-First) Search.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -277,7 +277,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "INFOSYS222 - Database Systems/DQL - Data Query Language.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week02/Greedy (Best-First) Search.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -300,7 +300,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "INFOSYS222 - Database Systems/DQL - Data Query Language.md"
+                "file": "COMPSCI367 - Artificial Intelligence/week02/Greedy (Best-First) Search.md"
               }
             }
           },
@@ -334,6 +334,7 @@
   },
   "active": "78003ac2d0f27c16",
   "lastOpenFiles": [
+    "INFOSYS222 - Database Systems/DQL - Data Query Language.md",
     "COMPSCI367 - Artificial Intelligence/week10/Chain Rule.md",
     "COMPSCI367 - Artificial Intelligence/week11/Bayesian Networks.md",
     "COMPSCI367 - Artificial Intelligence/week03/Constraint Satisfaction Problem (CSPs).md",
@@ -360,7 +361,6 @@
     "COMPSCI367 - Artificial Intelligence/week11/Axiom 2 - Transitivity-GARETH.md",
     "COMPSCI367 - Artificial Intelligence/week11/Axiom 1 - Completeness-GARETH.md",
     "COMPSCI367 - Artificial Intelligence/week11/Axiom 1 - Completeness.md",
-    "COMPSCI367 - Artificial Intelligence/week11/(VNM-) rational-GARETH.md",
     "@images/Pasted image 20231026010151.png",
     "@images/Pasted image 20231026010018.png",
     "@images/Pasted image 20231026005656.png",
