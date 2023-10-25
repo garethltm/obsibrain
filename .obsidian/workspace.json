@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week10/Bayes Theorem.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week10/Inference with Probability.md",
                 "mode": "source",
                 "source": false
               }
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week10/Bayes Theorem.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week10/Inference with Probability.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week10/Bayes Theorem.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week10/Inference with Probability.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week10/Bayes Theorem.md"
+                "file": "COMPSCI367 - Artificial Intelligence/week10/Inference with Probability.md"
               }
             }
           },
@@ -188,6 +188,7 @@
   },
   "active": "9d16bf805036e931",
   "lastOpenFiles": [
+    "COMPSCI367 - Artificial Intelligence/week10/Bayes Theorem.md",
     "COMPSCI367 - Artificial Intelligence/week10/Inference with Probability.md",
     "COMPSCI367 - Artificial Intelligence/week10/Conditional Probability Table (CPT).md",
     "@images/Pasted image 20231025154033.png",
@@ -197,7 +198,6 @@
     "COMPSCI367 - Artificial Intelligence/week10/Probability Distribution.md",
     "COMPSCI367 - Artificial Intelligence/week10/conditional probability.md",
     "COMPSCI367 - Artificial Intelligence/week10/Applying Bayes Rule.md",
-    "COMPSCI367 - Artificial Intelligence/week10/Bayes Theorem.md",
     "COMPSCI367 - Artificial Intelligence/week10/Law of total probability.md",
     "COMPSCI367 - Artificial Intelligence/week10/Chain Rule.md",
     "COMPSCI367 - Artificial Intelligence/week10/Conditional Entropy.md",
