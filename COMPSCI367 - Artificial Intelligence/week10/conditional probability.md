@@ -13,4 +13,5 @@ The [[conditional probability]] $P(h\ |\ e)=\frac {P(h \land e)}{P(e)}=\frac {hy
 >	
 >	Other [[evidence]]: 
 >	$\begin {equation} \begin {split} P(Sunny \land \neg Hot)=0.19\\ P(\neg Hot)=0.53 \end{split} \end{equation}$
->	[[posterior evidence (posterior probability)]]: P(Sunny\ |\ \neg Hot) = \frac {0.19}{0.53} 
+>	[[posterior evidence (posterior probability)]]: $P(Sunny\ |\ \neg Hot) = \frac {0.19}{0.53} \approx 0.36$
+>		Belief that it is going to be Sunny is going to drop
