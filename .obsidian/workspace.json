@@ -38,7 +38,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week01/Agent.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week10/conditional probability.md",
                 "mode": "source",
                 "source": false
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week01/Agent.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week10/conditional probability.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week01/Agent.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week10/conditional probability.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week01/Agent.md"
+                "file": "COMPSCI367 - Artificial Intelligence/week10/conditional probability.md"
               }
             }
           },
@@ -200,6 +200,7 @@
   },
   "active": "358f03c9716e94e8",
   "lastOpenFiles": [
+    "COMPSCI367 - Artificial Intelligence/week01/agent.md",
     "COMPSCI367 - Artificial Intelligence/week10/conditional probability.md",
     "COMPSCI367 - Artificial Intelligence/week10/belief measure.md",
     "@images/Pasted image 20231025135526.png",
@@ -230,7 +231,6 @@
     "COMPSCI367 - Artificial Intelligence/week10/Recurrent Neural Network (RNN).md",
     "COMPSCI367 - Artificial Intelligence/week10/Symbolic Knowledge.md",
     "COMPSCI367 - Artificial Intelligence/week10/The Noisy Channel Model.md",
-    "COMPSCI367 - Artificial Intelligence/week10/The vector space model.md",
     "@images/Pasted image 20231025115510.png",
     "@images/Pasted image 20231025101932.png",
     "@images/Pasted image 20231025101919.png",

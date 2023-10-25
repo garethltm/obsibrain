@@ -5,4 +5,5 @@ The [[belief measure]] in hypothesis $h$ based on [[proposition]] $e$ is called 
 
 The [[proposition]] e represents certain given experience
 
-The [[conditional probability]] $P(h\ |\ e)=\frac {P(h \land e)}{P(e)}$ is the [[Agent]]
+The [[conditional probability]] $P(h\ |\ e)=\frac {P(h \land e)}{P(e)}$ is the [[agent]]'s [[posterior evidence (posterior)]] of $h$.
+>
