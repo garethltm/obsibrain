@@ -1,7 +1,7 @@
 - Dialogue Systems
 - Question Answering
 - Problem Solving
-- Document & Knowledge Integration
+- Document & [[knowledge]] Integration
 - Team Integration
 	- Crowds
-	- Human AI Teaming
+	- Human [[Artificial Intelligence (AI)]] Teaming
