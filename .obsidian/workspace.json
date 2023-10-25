@@ -63,7 +63,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week05/Alpha-Beta Pruning.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week05/Genetic Algorithm with 8-Queens.md",
                 "mode": "source",
                 "source": false
               }
@@ -160,7 +160,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "COMPSCI367 - Artificial Intelligence/week05/Alpha-Beta Pruning.md",
+                    "file": "COMPSCI367 - Artificial Intelligence/week05/Genetic Algorithm with 8-Queens.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -259,7 +259,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week05/Alpha-Beta Pruning.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week05/Genetic Algorithm with 8-Queens.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -276,7 +276,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week05/Alpha-Beta Pruning.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week05/Genetic Algorithm with 8-Queens.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -299,7 +299,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week05/Alpha-Beta Pruning.md"
+                "file": "COMPSCI367 - Artificial Intelligence/week05/Genetic Algorithm with 8-Queens.md"
               }
             }
           },
@@ -333,6 +333,19 @@
   },
   "active": "78003ac2d0f27c16",
   "lastOpenFiles": [
+    "COMPSCI367 - Artificial Intelligence/week05/Genetic Algorithm (GA).md",
+    "COMPSCI367 - Artificial Intelligence/week05/game tree.md",
+    "COMPSCI367 - Artificial Intelligence/week05/fitness.md",
+    "COMPSCI367 - Artificial Intelligence/week05/Evolutionary computation.md",
+    "COMPSCI367 - Artificial Intelligence/week05/Evolution as Search.md",
+    "COMPSCI367 - Artificial Intelligence/week05/evolution.md",
+    "COMPSCI367 - Artificial Intelligence/week05/current state.md",
+    "COMPSCI367 - Artificial Intelligence/week05/crossover operation.md",
+    "COMPSCI367 - Artificial Intelligence/week05/Complexity analysis.md",
+    "COMPSCI367 - Artificial Intelligence/week05/competitive multi-agent environment.md",
+    "COMPSCI367 - Artificial Intelligence/week05/candidate solution.md",
+    "COMPSCI367 - Artificial Intelligence/week05/Boltzmann distribution.md",
+    "COMPSCI367 - Artificial Intelligence/week05/Alpha-Beta Pruning.md",
     "COMPSCI367 - Artificial Intelligence/week05/Adversarial Search.md",
     "COMPSCI367 - Artificial Intelligence/week05/(partially) cooperative multi-agent environment.md",
     "COMPSCI367 - Artificial Intelligence/week06/Wumpus World Agent.md",
@@ -346,19 +359,6 @@
     "COMPSCI367 - Artificial Intelligence/week06/Satisfiability Problem (SAT).md",
     "COMPSCI367 - Artificial Intelligence/week06/SAT solvers.md",
     "COMPSCI367 - Artificial Intelligence/week06/Reasoning.md",
-    "COMPSCI367 - Artificial Intelligence/week06/Propositional Logic with Wumpus World.md",
-    "COMPSCI367 - Artificial Intelligence/week06/Propositional Logic Inference Engine.md",
-    "COMPSCI367 - Artificial Intelligence/week06/Propositional Logic.md",
-    "COMPSCI367 - Artificial Intelligence/week06/Propositional Knowledge Base.md",
-    "COMPSCI367 - Artificial Intelligence/week06/proposition.md",
-    "COMPSCI367 - Artificial Intelligence/week06/percept atoms.md",
-    "COMPSCI367 - Artificial Intelligence/week06/Online.md",
-    "COMPSCI367 - Artificial Intelligence/week06/Offline.md",
-    "COMPSCI367 - Artificial Intelligence/week06/NP.md",
-    "COMPSCI367 - Artificial Intelligence/week06/model of a propositional KB.md",
-    "COMPSCI367 - Artificial Intelligence/week06/logically implies.md",
-    "COMPSCI367 - Artificial Intelligence/week06/logically equivalent (logical equivalence).md",
-    "COMPSCI367 - Artificial Intelligence/week06/logical consequence.md",
     "@images/Pasted image 20231026105122.png",
     "@images/Pasted image 20231026105109.png",
     "@images/Pasted image 20231026105052.png",
