@@ -2,7 +2,7 @@
 - combination of both [[Uniform-Cost Search (UCS) (Lowest-Cost-First Search)]] & [[Greedy (Best-First) Search]]
 
 **[[Uniform-Cost Search (UCS) (Lowest-Cost-First Search)]]** 
-- orders by **[[path cos]]t** or backward cost: **g(n)**
+- orders by [[path cost]] or backward cost: **g(n)**
 **[[Greedy (Best-First) Search]]** 
 - orders by **goal proximity** or forward cost: **h(n)**
 *A-Star Search orders by the sum:* f(n) = **g(n)** + **h(n)**
