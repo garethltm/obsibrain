@@ -74,7 +74,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week09/Probability Theory.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week10/Belief measure.md",
                 "mode": "source",
                 "source": false
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week09/Probability Theory.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week10/Belief measure.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -191,7 +191,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week09/Probability Theory.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week10/Belief measure.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -214,7 +214,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week09/Probability Theory.md"
+                "file": "COMPSCI367 - Artificial Intelligence/week10/Belief measure.md"
               }
             }
           },
@@ -248,8 +248,9 @@
   },
   "active": "d0f61cd9fefb8c2d",
   "lastOpenFiles": [
-    "COMPSCI367 - Artificial Intelligence/week06/proposition.md",
     "COMPSCI367 - Artificial Intelligence/week09/Probability Theory.md",
+    "COMPSCI367 - Artificial Intelligence/week10/Belief measure.md",
+    "COMPSCI367 - Artificial Intelligence/week06/proposition.md",
     "@images/Pasted image 20231025132516.png",
     "COMPSCI367 - Artificial Intelligence/week10/sample.md",
     "COMPSCI367 - Artificial Intelligence/week10/sample space.md",
@@ -275,7 +276,6 @@
     "COMPSCI367 - Artificial Intelligence/week10/Autoregressive Language Models based on Deep Learning.md",
     "COMPSCI367 - Artificial Intelligence/week10/conditional probability.md",
     "COMPSCI367 - Artificial Intelligence/week10/Data compression.md",
-    "COMPSCI367 - Artificial Intelligence/week10/data rate.md",
     "@images/Pasted image 20231025115510.png",
     "@images/Pasted image 20231025101932.png",
     "@images/Pasted image 20231025101919.png",

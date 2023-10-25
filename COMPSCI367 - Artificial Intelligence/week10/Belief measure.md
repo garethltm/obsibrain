@@ -1,0 +1,1 @@
+For a [[sample]] $s \in \ohm$ whose features are unkn
