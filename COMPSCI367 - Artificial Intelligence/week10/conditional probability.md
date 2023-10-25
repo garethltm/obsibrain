@@ -1,4 +1,4 @@
-$P(A\ |\ B)$ is the conditional [[probability]] that A will occur, given that B has occurred
+$P(A\ |\ B)$ is the conditional [[probability]] that A will occur, given that B has already occurred
 
 The [[belief measure]] in hypothesis $h$ based on [[proposition]] $e$ is called the [[conditional probability]] of $h$ given $e$, written $P(h\ |\ e)$
 - [[probability]] of $h$ given $e$

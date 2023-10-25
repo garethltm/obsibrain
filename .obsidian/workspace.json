@@ -12,8 +12,12 @@
             "id": "9d16bf805036e931",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "COMPSCI367 - Artificial Intelligence/week10/conditional probability.md",
+                "mode": "source",
+                "source": false
+              }
             },
             "group": "7923199754eed4a3"
           }
@@ -48,7 +52,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "COMPSCI367 - Artificial Intelligence/week11/One-off Decision Problem.md",
+                    "file": "COMPSCI367 - Artificial Intelligence/week10/conditional probability.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -147,6 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "COMPSCI367 - Artificial Intelligence/week10/conditional probability.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,6 +168,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "COMPSCI367 - Artificial Intelligence/week10/conditional probability.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,7 +190,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "COMPSCI367 - Artificial Intelligence/week10/conditional probability.md"
+              }
             }
           },
           {
