@@ -28,4 +28,4 @@ they all show all possible combinations
 ![[Pasted image 20231023171227.png]]
 - what it would look like without C
 
-Related to: [[Variable Elimination Algorithm]]
+Related to: [[Variable Elimination Algorithm (VE)]]

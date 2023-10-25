@@ -5,4 +5,4 @@
 2. [[Chain Rule]]
 
 Solving the Problem
-- [[Variable Elimination Algorithm]]
+- [[Variable Elimination Algorithm (VE)]]
