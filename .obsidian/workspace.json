@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week11/lottery.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week11/outcomes.md",
                 "mode": "source",
                 "source": false
               }
@@ -52,7 +52,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "COMPSCI367 - Artificial Intelligence/week11/lottery.md",
+                    "file": "COMPSCI367 - Artificial Intelligence/week11/outcomes.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -151,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week11/lottery.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week11/outcomes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -168,7 +168,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week11/lottery.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week11/outcomes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -191,7 +191,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week11/lottery.md"
+                "file": "COMPSCI367 - Artificial Intelligence/week11/outcomes.md"
               }
             }
           },
@@ -225,8 +225,9 @@
   },
   "active": "9d16bf805036e931",
   "lastOpenFiles": [
-    "COMPSCI367 - Artificial Intelligence/week11/Utility Theory.md",
     "COMPSCI367 - Artificial Intelligence/week11/lottery.md",
+    "COMPSCI367 - Artificial Intelligence/week11/outcomes.md",
+    "COMPSCI367 - Artificial Intelligence/week11/Utility Theory.md",
     "COMPSCI367 - Artificial Intelligence/week11/Bayesian Network Inference.md",
     "COMPSCI367 - Artificial Intelligence/week11/evaluate desirability.md",
     "COMPSCI367 - Artificial Intelligence/week01/Utility-Based Agent.md",
@@ -251,7 +252,6 @@
     "COMPSCI367 - Artificial Intelligence/week02/Uniform-Cost Search (UCS) (Lowest-Cost-First Search).md",
     "COMPSCI367 - Artificial Intelligence/week04/Random Walk Hill-Climbing.md",
     "COMPSCI367 - Artificial Intelligence/week07/Proof procedure.md",
-    "COMPSCI367 - Artificial Intelligence/week03/Local Search.md",
     "@images/COMPSCI3672023_S2W11Uncertainty2of2-24.jpg",
     "@images/Pasted image 20231025162230.png",
     "@images/COMPSCI3672023_S2W11Uncertainty2of2-22.jpg",

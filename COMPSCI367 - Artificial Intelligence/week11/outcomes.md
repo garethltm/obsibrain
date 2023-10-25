@@ -1,0 +1,2 @@
+- $\ohm$
+- contains all [[lottery]] over [[state(s)]] S 
