@@ -26,7 +26,8 @@ How can we indicate that the Dahlia in Flower (#5) is linked to the Pigeon in Bi
 ![[Pasted image 20231015234809.png]]
 > M & N properties is to show that it is a many-to-many relationship, the 2 numbers don’t have to be equal; 
 
->	#a person owns 5 properties, the property must be owned by 5 people
+>	#Example 
+>	a person owns 5 properties, the property must be owned by 5 people
 
 ## Relationship Symbols
 ![[Pasted image 20231015235410.png]]
