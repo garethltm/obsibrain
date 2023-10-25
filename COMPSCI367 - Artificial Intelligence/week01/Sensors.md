@@ -1,1 +1,1 @@
-> What are the inputs that sense & provide data for the [[agent]]?
+> What are the inputs that sense & provide data for the [[agent(s)]]?

@@ -63,7 +63,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week11/Expected utility hypothesis.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week01/agent(s).md",
                 "mode": "source",
                 "source": false
               }
@@ -160,7 +160,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "COMPSCI367 - Artificial Intelligence/week11/Expected utility hypothesis.md",
+                    "file": "COMPSCI367 - Artificial Intelligence/week01/agent(s).md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -259,7 +259,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week11/Expected utility hypothesis.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week01/agent(s).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -276,7 +276,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week11/Expected utility hypothesis.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week01/agent(s).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -299,7 +299,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week11/Expected utility hypothesis.md"
+                "file": "COMPSCI367 - Artificial Intelligence/week01/agent(s).md"
               }
             }
           },
@@ -334,6 +334,7 @@
   "active": "78003ac2d0f27c16",
   "lastOpenFiles": [
     "COMPSCI367 - Artificial Intelligence/week11/von Neumann & Morgenstern (VNM).md",
+    "COMPSCI367 - Artificial Intelligence/week11/utility.md",
     "COMPSCI367 - Artificial Intelligence/week11/Expected utility hypothesis.md",
     "COMPSCI367 - Artificial Intelligence/week11/expected utility.md",
     "COMPSCI367 - Artificial Intelligence/week11/Variable Elimination Algorithm (VE).md",
@@ -364,7 +365,6 @@
     "COMPSCI367 - Artificial Intelligence/week11/Axiom 6 - Independence-GARETH.md",
     "@images/Pasted image 20231026005102.png",
     "@images/Pasted image 20231026005123.png",
-    "COMPSCI367 - Artificial Intelligence/week11/Axiom 5 - Continuity-GARETH.md",
     "@images/Pasted image 20231026004758.png",
     "@images/Untitled.jpg",
     "COMPSCI367 - Artificial Intelligence/week12",

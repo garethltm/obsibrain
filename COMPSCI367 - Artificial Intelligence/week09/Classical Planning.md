@@ -1,15 +1,14 @@
 - finding a sequence of [[action(s)]] to get from an [[initial state (start state)]] to a [[goal(s) - goal state(s)]] as a [[Planning task]] with the following assumptions:
 	-  a finite [[State Space]] → in regards to the series of [[action(s)]] performed to achieve the [[goal(s) - goal state(s)]] from an [[initial state (start state)]]
-	- [[fully observable]] → no need to worry about uncertainty, the [[agent]] can tell which [[state(s)]] we are in
-	- [[deterministic]] actions → knowing the before & after [[state(s)]] that the [[action(s)]] is performed, each [[action(s)]] has one outcome, which can be forseen by the [[agent]]
-	- nothing changes unless the [[agent]] changes
+	- [[fully observable]] → no need to worry about uncertainty, the [[[[agent(s)]]an tell which [[state(s)]] we are in
+	- [[deterministic]] actions → knowing the before & after [[state(s)]] that the [[action(s)]] is performed, each [[action(s)]] has one outcome, which can be forseen by the [[a[[agent(s)]] nothing changes unless the [[ag[[agent(s)]]nges
 	- [[goal(s) - goal state(s)]] must be achieved
 Related to: [[Goal-Based (Telelogical Agent)]]
 
 >>**basically its saying that everything is in a controlled environment**
 - You need a specification of:
     - [[initial state (start state)]]
-        - you need a series of [[action(s)]] that the [[agent]] can perform in the [[world(s)]] in order to achieve the [[goal(s) - goal state(s)]]
+        - you need a series of [[action(s)]] that the [[agent]] c[[agent(s)]]m in the [[world(s)]] in order to achieve the [[goal(s) - goal state(s)]]
     - [[goal(s) - goal state(s)]] → marker of success
 - [[Task description]]
 ![[Pasted image 20231024150510.png]]

@@ -1,4 +1,4 @@
-- decision making made by this [[agent]] if fundamentally different from the condition-action rules
+- decision making made by this [[agent(s)]] if fundamentally different from the condition-action rules
 - involves consideration of the future
 	> What will happen if I do this [[action(s)]]
 	> Will that make me happy?

@@ -28,7 +28,7 @@ In many optimisation problems:
 2. perform a number of [[action(s)]] searching for a [[solution(s)]]
 
 ## Main Idea
-- resembling an [[agent]] exploring the search space & move along successor relations
+- resembling an [[agent(s)]] exploring the search space & move along successor relations
 	- AIM: to improve its position in the long run (optimal solution)
 
 ## Problem

@@ -4,9 +4,9 @@
 - Knowledge Base
 
 - encodes information about:
-	- How the [[world(s)]] evolves independently of the [[agent]]
-	- How the [[agent]]'s [[action(s)]] affect the [[world(s)]]
-- an abstraction of information about the [[environment]] the [[agent]] is in
+	- How the [[world(s)]] evolves independently of the [[agent(s)]]
+	- How the [[agent(s)]]'s [[action(s)]] affect the [[world(s)]]
+- an abstraction of information about the [[environment]] the [[agent(s)]] is in
 
 ## Representations
 1. [[Atomic Representation]]

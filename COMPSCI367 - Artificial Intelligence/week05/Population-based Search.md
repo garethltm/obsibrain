@@ -6,7 +6,7 @@
 	- which may lead to a higher chance of finding a better solution
 - Combination of promising traits in different [[candidate solution]]
 	- [[multi-agent]] may share the same information
-		> 1 [[agent]] finds shit path; Another one find a good path
+		> 1 [[agent(s)]] finds shit path; Another one find a good path
 		> 		Shit path = We redeploy the agent to a good path - this could give a possibility of combining promising traits in different [[candidate solution]] - by joining the information that we find: we can easily find a better solution
 
 ## Strategies
