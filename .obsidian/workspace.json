@@ -63,7 +63,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week05/Stochastic Beam Search (SBS).md",
+                "file": "COMPSCI367 - Artificial Intelligence/week04/Diagonal ridges.md",
                 "mode": "source",
                 "source": false
               }
@@ -160,7 +160,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "COMPSCI367 - Artificial Intelligence/week05/Stochastic Beam Search (SBS).md",
+                    "file": "COMPSCI367 - Artificial Intelligence/week04/Diagonal ridges.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -259,7 +259,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week05/Stochastic Beam Search (SBS).md",
+                "file": "COMPSCI367 - Artificial Intelligence/week04/Diagonal ridges.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -276,7 +276,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week05/Stochastic Beam Search (SBS).md",
+                "file": "COMPSCI367 - Artificial Intelligence/week04/Diagonal ridges.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -299,7 +299,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week05/Stochastic Beam Search (SBS).md"
+                "file": "COMPSCI367 - Artificial Intelligence/week04/Diagonal ridges.md"
               }
             }
           },
@@ -333,6 +333,12 @@
   },
   "active": "78003ac2d0f27c16",
   "lastOpenFiles": [
+    "COMPSCI367 - Artificial Intelligence/week04/Continuous Space (Continuous Functions).md",
+    "COMPSCI367 - Artificial Intelligence/week04/Bernoulli random variable.md",
+    "COMPSCI367 - Artificial Intelligence/week04/Annealing.md",
+    "COMPSCI367 - Artificial Intelligence/week05/(partially) cooperative multi-agent environment.md",
+    "COMPSCI367 - Artificial Intelligence/week05/two-player zero-sum games.md",
+    "COMPSCI367 - Artificial Intelligence/week05/Stochastic Beam Search (SBS).md",
     "COMPSCI367 - Artificial Intelligence/week05/Solving Optimisation problems.md",
     "COMPSCI367 - Artificial Intelligence/week05/reproduce.md",
     "COMPSCI367 - Artificial Intelligence/week05/Population-based Search.md",
@@ -353,12 +359,6 @@
     "COMPSCI367 - Artificial Intelligence/week05/evolution.md",
     "COMPSCI367 - Artificial Intelligence/week05/current state.md",
     "COMPSCI367 - Artificial Intelligence/week05/crossover operation.md",
-    "COMPSCI367 - Artificial Intelligence/week05/Complexity analysis.md",
-    "COMPSCI367 - Artificial Intelligence/week05/competitive multi-agent environment.md",
-    "COMPSCI367 - Artificial Intelligence/week05/candidate solution.md",
-    "COMPSCI367 - Artificial Intelligence/week05/Boltzmann distribution.md",
-    "COMPSCI367 - Artificial Intelligence/week05/Alpha-Beta Pruning.md",
-    "COMPSCI367 - Artificial Intelligence/week05/Adversarial Search.md",
     "@images/Pasted image 20231026105122.png",
     "@images/Pasted image 20231026105109.png",
     "@images/Pasted image 20231026105052.png",
