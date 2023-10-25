@@ -14,6 +14,5 @@ finding out the most preferred [[outcome(s)]]
 	- because if we have different [[agent(s)]] in the system $\rightarrow$ they might have outcomes that cannot be compared because we don't know in what scale they are working
 - [[Expected utility hypothesis]]
 
-## Example
-#Example 
-![[Pasted image 20231026100336.png]]
+>	#Example 
+>	![[Pasted image 20231026100336.png]]
