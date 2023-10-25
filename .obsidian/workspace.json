@@ -18,7 +18,8 @@
                 "mode": "source",
                 "source": false
               }
-            }
+            },
+            "group": "49e37924338b6c36"
           },
           {
             "id": "9d16bf805036e931",
@@ -74,11 +75,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week09/Probability Theory.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week10/degree of belief.md",
                 "mode": "source",
                 "source": false
               }
-            }
+            },
+            "group": "bd9851f4b44cc862"
           },
           {
             "id": "2602e13c15239a89",
@@ -96,19 +98,105 @@
         "currentTab": 5
       },
       {
-        "id": "8d459d1c85b8b9ed",
-        "type": "tabs",
+        "id": "992e264c1b226738",
+        "type": "split",
         "dimension": 35.659898477157356,
         "children": [
           {
-            "id": "874de3ab24aec93a",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {}
-            }
+            "id": "8d459d1c85b8b9ed",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "874de3ab24aec93a",
+                "type": "leaf",
+                "state": {
+                  "type": "git-view",
+                  "state": {}
+                }
+              }
+            ]
+          },
+          {
+            "id": "d9a730eda40123bb",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "7430a6c810762936",
+                "type": "leaf",
+                "state": {
+                  "type": "localgraph",
+                  "state": {
+                    "file": "COMPSCI367 - Artificial Intelligence/week05/Population-based Search.md",
+                    "options": {
+                      "collapse-filter": true,
+                      "search": "",
+                      "localJumps": 1,
+                      "localBacklinks": true,
+                      "localForelinks": true,
+                      "localInterlinks": false,
+                      "showTags": false,
+                      "showAttachments": false,
+                      "hideUnresolved": false,
+                      "collapse-color-groups": true,
+                      "colorGroups": [],
+                      "collapse-display": true,
+                      "showArrow": false,
+                      "textFadeMultiplier": 0,
+                      "nodeSizeMultiplier": 1,
+                      "lineSizeMultiplier": 1,
+                      "collapse-forces": true,
+                      "centerStrength": 0.518713248970312,
+                      "repelStrength": 10,
+                      "linkStrength": 1,
+                      "linkDistance": 250,
+                      "scale": 0.7356825628249143,
+                      "close": true
+                    }
+                  }
+                },
+                "group": "49e37924338b6c36"
+              },
+              {
+                "id": "a8b21011d3ee7aaa",
+                "type": "leaf",
+                "state": {
+                  "type": "localgraph",
+                  "state": {
+                    "file": "COMPSCI367 - Artificial Intelligence/week10/degree of belief.md",
+                    "options": {
+                      "collapse-filter": true,
+                      "search": "",
+                      "localJumps": 1,
+                      "localBacklinks": true,
+                      "localForelinks": true,
+                      "localInterlinks": false,
+                      "showTags": false,
+                      "showAttachments": false,
+                      "hideUnresolved": false,
+                      "collapse-color-groups": true,
+                      "colorGroups": [],
+                      "collapse-display": true,
+                      "showArrow": false,
+                      "textFadeMultiplier": 0,
+                      "nodeSizeMultiplier": 1,
+                      "lineSizeMultiplier": 1,
+                      "collapse-forces": true,
+                      "centerStrength": 0.518713248970312,
+                      "repelStrength": 10,
+                      "linkStrength": 1,
+                      "linkDistance": 250,
+                      "scale": 1,
+                      "close": false
+                    }
+                  }
+                },
+                "group": "bd9851f4b44cc862"
+              }
+            ],
+            "currentTab": 1
           }
-        ]
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -174,7 +262,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week09/Probability Theory.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week10/degree of belief.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -191,7 +279,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week09/Probability Theory.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week10/degree of belief.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -214,7 +302,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week09/Probability Theory.md"
+                "file": "COMPSCI367 - Artificial Intelligence/week10/degree of belief.md"
               }
             }
           },
@@ -248,14 +336,13 @@
   },
   "active": "d0f61cd9fefb8c2d",
   "lastOpenFiles": [
-    "COMPSCI367 - Artificial Intelligence/week06/proposition.md",
-    "COMPSCI367 - Artificial Intelligence/week09/Probability Theory.md",
-    "@images/Pasted image 20231025132516.png",
+    "COMPSCI367 - Artificial Intelligence/week09/probability.md",
     "COMPSCI367 - Artificial Intelligence/week10/sample.md",
     "COMPSCI367 - Artificial Intelligence/week10/sample space.md",
     "COMPSCI367 - Artificial Intelligence/week09/Probability.md",
-    "COMPSCI367 - Artificial Intelligence/week10/Bayes Theorem.md",
+    "@images/Pasted image 20231025132516.png",
     "COMPSCI367 - Artificial Intelligence/week10/degree of belief.md",
+    "COMPSCI367 - Artificial Intelligence/week09/Probability Theory.md",
     "COMPSCI367 - Artificial Intelligence/week10/calculus of belief.md",
     "COMPSCI367 - Artificial Intelligence/week10/Reason with Uncertainty.md",
     "COMPSCI367 - Artificial Intelligence/week10/Attention Mechanisms.md",
@@ -276,6 +363,7 @@
     "COMPSCI367 - Artificial Intelligence/week10/conditional probability.md",
     "COMPSCI367 - Artificial Intelligence/week10/Data compression.md",
     "COMPSCI367 - Artificial Intelligence/week10/data rate.md",
+    "COMPSCI367 - Artificial Intelligence/week10/Deriving Bayes Rule.md",
     "@images/Pasted image 20231025115510.png",
     "@images/Pasted image 20231025101932.png",
     "@images/Pasted image 20231025101919.png",
