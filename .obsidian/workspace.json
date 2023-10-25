@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week10/Bayes Rule with Existing Evidence.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week09/Probability Theory.md",
                 "mode": "source",
                 "source": false
               }
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week10/Bayes Rule with Existing Evidence.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week09/Probability Theory.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week10/Bayes Rule with Existing Evidence.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week09/Probability Theory.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week10/Bayes Rule with Existing Evidence.md"
+                "file": "COMPSCI367 - Artificial Intelligence/week09/Probability Theory.md"
               }
             }
           },
@@ -188,6 +188,7 @@
   },
   "active": "9d16bf805036e931",
   "lastOpenFiles": [
+    "COMPSCI367 - Artificial Intelligence/week10/Bayes Rule with Existing Evidence.md",
     "README.md",
     "COMPSCI367 - Artificial Intelligence/week11",
     "COMPSCI367 - Artificial Intelligence/week11.md",
@@ -200,7 +201,6 @@
     "@images/COMPSCI3672023_S2W10Uncertainty1of2-16.jpg",
     "@images/COMPSCI3672023_S2W10Uncertainty1of2-15.jpg",
     "@images/COMPSCI3672023_S2W10Uncertainty1of2-14.jpg",
-    "COMPSCI367 - Artificial Intelligence/week10/Bayes Rule with Existing Evidence.md",
     "@images/COMPSCI3672023_S2W10Uncertainty1of2-18.jpg",
     "@images/COMPSCI3672023_S2W10Uncertainty1of2-17.jpg",
     "@images/Pasted image 20231025154445.png",
