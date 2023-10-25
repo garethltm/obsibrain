@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week09/Classical Planning.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week01/Goal(s) - Goal State(s).md",
                 "mode": "source",
                 "source": false
               }
@@ -52,7 +52,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "COMPSCI367 - Artificial Intelligence/week09/Classical Planning.md",
+                    "file": "COMPSCI367 - Artificial Intelligence/week01/Goal(s) - Goal State(s).md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -131,8 +131,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -152,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week09/Classical Planning.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week01/Goal(s) - Goal State(s).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,7 +168,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week09/Classical Planning.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week01/Goal(s) - Goal State(s).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -192,7 +191,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week09/Classical Planning.md"
+                "file": "COMPSCI367 - Artificial Intelligence/week01/Goal(s) - Goal State(s).md"
               }
             }
           },
@@ -226,8 +225,9 @@
   },
   "active": "9d16bf805036e931",
   "lastOpenFiles": [
-    "COMPSCI367 - Artificial Intelligence/week02/Initial State (Start State).md",
+    "COMPSCI367 - Artificial Intelligence/week11/Planning with Uncertainty.md",
     "COMPSCI367 - Artificial Intelligence/week09/Classical Planning.md",
+    "COMPSCI367 - Artificial Intelligence/week02/Initial State (Start State).md",
     "COMPSCI367 - Artificial Intelligence/week09/Domain file.md",
     "COMPSCI367 - Artificial Intelligence/week01/Goal-Based (Telelogical Agent).md",
     "COMPSCI367 - Artificial Intelligence/week08/Herbrand's Theorem.md",
@@ -251,7 +251,6 @@
     "path cos.md",
     "COMPSCI367 - Artificial Intelligence/week10/Modern Problems - More subsequent lectures.md",
     "COMPSCI367 - Artificial Intelligence/week11/Bayesian Network Inference.md",
-    "COMPSCI367 - Artificial Intelligence/week10/Independent (Independence).md",
     "@images/COMPSCI3672023_S2W11Uncertainty2of2-24.jpg",
     "@images/Pasted image 20231025162230.png",
     "@images/COMPSCI3672023_S2W11Uncertainty2of2-22.jpg",
