@@ -1,4 +1,4 @@
-- if an [[agent]] is [[ration]]
+- if an [[agent]] is a [[Rational Agent]], then for every [[outcome(s)]] $\huge o\tiny i\normalsize$, there is a real number 
 
 
 ### Consequences
