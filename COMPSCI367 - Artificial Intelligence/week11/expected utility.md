@@ -1,0 +1,1 @@
+$\huge p\tiny 1\normalsize u (\huge o\tiny 1\normalsize)$ 
