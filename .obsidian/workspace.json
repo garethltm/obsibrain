@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week11/utility.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week11/Utility Theory.md",
                 "mode": "source",
                 "source": false
               }
@@ -52,7 +52,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "COMPSCI367 - Artificial Intelligence/week11/utility.md",
+                    "file": "COMPSCI367 - Artificial Intelligence/week11/Utility Theory.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -151,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week11/utility.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week11/Utility Theory.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -168,7 +168,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week11/utility.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week11/Utility Theory.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -191,7 +191,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week11/utility.md"
+                "file": "COMPSCI367 - Artificial Intelligence/week11/Utility Theory.md"
               }
             }
           },
@@ -225,8 +225,9 @@
   },
   "active": "9d16bf805036e931",
   "lastOpenFiles": [
-    "COMPSCI367 - Artificial Intelligence/week11/von Neumann & Morgenstern (VNM).md",
+    "COMPSCI367 - Artificial Intelligence/week11/Utility function.md",
     "COMPSCI367 - Artificial Intelligence/week11/utility.md",
+    "COMPSCI367 - Artificial Intelligence/week11/von Neumann & Morgenstern (VNM).md",
     "COMPSCI367 - Artificial Intelligence/week11/Linear scalability.md",
     "COMPSCI367 - Artificial Intelligence/week11/Axioms for Rationality.md",
     "COMPSCI367 - Artificial Intelligence/week11/Axiom 3 - Monotonicity.md",
@@ -240,7 +241,6 @@
     "COMPSCI367 - Artificial Intelligence/week11/evaluate desirability.md",
     "COMPSCI367 - Artificial Intelligence/week01/Utility-Based Agent.md",
     "@images/Pasted image 20231025165611.png",
-    "COMPSCI367 - Artificial Intelligence/week11/Utility function.md",
     "COMPSCI367 - Artificial Intelligence/week11/Planning with Uncertainty.md",
     "COMPSCI367 - Artificial Intelligence/week07/Definite Clause Inference Engine.md",
     "INFOSYS222 - Database Systems/OLAP - Online Analytics Processing.md",
