@@ -8,10 +8,11 @@ $$P(a \land b)=P(a)P(b\ |\ a)$$
 
 ### [[Bayesian Network Inference]]
 ![[COMPSCI3672023_S2W11Uncertainty2of2-16.jpg]]
-
+Related to: [[conditional probability]]
 ## Example 
 #Example
 
 ![[COMPSCI3672023_S2W11Uncertainty2of2-17.jpg]]
 Related to: [[Local Markov Property]]
 ![[COMPSCI3672023_S2W11Uncertainty2of2-19.jpg]]
+Related to: [[na]]
