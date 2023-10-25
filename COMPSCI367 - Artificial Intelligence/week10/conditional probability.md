@@ -20,4 +20,5 @@ The [[conditional probability]] $P(h\ |\ e)=\frac {P(h \land e)}{P(e)}=\frac {hy
 The following holds for all [[proposition]] $a$ & $b$ & $e$:
 - $P(e\ |\ e)=1$
 - If $a \land b$ is a contradiction
-	- P(a\ |\ e)
+	- $P(a\ |\ e) + P(b\ |\ e) = P(a\lor b\ |\ e)$
+- P(\neg a\ |)
