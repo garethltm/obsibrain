@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week10/Probability Distribution.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week10/Chain Rule.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,7 +77,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "probabi",
+                "query": "posterior",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -94,8 +94,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -115,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week10/Probability Distribution.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week10/Chain Rule.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week10/Probability Distribution.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week10/Chain Rule.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week10/Probability Distribution.md"
+                "file": "COMPSCI367 - Artificial Intelligence/week10/Chain Rule.md"
               }
             }
           },
@@ -187,8 +186,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a6e0090ac9cbd1f3",
+  "active": "9d16bf805036e931",
   "lastOpenFiles": [
+    "COMPSCI367 - Artificial Intelligence/week10/calculus of belief.md",
+    "COMPSCI367 - Artificial Intelligence/week10/Naïve Bayes - Laplace smoothing.md",
+    "COMPSCI367 - Artificial Intelligence/week10/Naïve Bayes classification.md",
+    "COMPSCI367 - Artificial Intelligence/week10/Mutual Information.md",
+    "COMPSCI367 - Artificial Intelligence/week10/posterior evidence (posterior probability).md",
+    "COMPSCI367 - Artificial Intelligence/week10/Applying Bayes Rule.md",
+    "COMPSCI367 - Artificial Intelligence/week10/conditional probability.md",
+    "COMPSCI367 - Artificial Intelligence/week10/Probability Distribution.md",
     "COMPSCI367 - Artificial Intelligence/week10/Independent (Independence).md",
     "COMPSCI367 - Artificial Intelligence/week10/degree of belief.md",
     "COMPSCI367 - Artificial Intelligence/week09/Probability Theory.md",
@@ -210,9 +217,6 @@
     "COMPSCI367 - Artificial Intelligence/week10/Bayes Theorem.md",
     "COMPSCI367 - Artificial Intelligence/week10/Conditional Probability Table (CPT).md",
     "COMPSCI367 - Artificial Intelligence/week10/Compact Representation of Probability Distribution.md",
-    "COMPSCI367 - Artificial Intelligence/week10/Probability Distribution.md",
-    "COMPSCI367 - Artificial Intelligence/week10/conditional probability.md",
-    "COMPSCI367 - Artificial Intelligence/week10/Applying Bayes Rule.md",
     "COMPSCI367 - Artificial Intelligence/week10/Law of total probability.md",
     "COMPSCI367 - Artificial Intelligence/week10/Chain Rule.md",
     "COMPSCI367 - Artificial Intelligence/week10/Conditional Entropy.md",
@@ -220,12 +224,7 @@
     "COMPSCI367 - Artificial Intelligence/week10/evidence.md",
     "COMPSCI367 - Artificial Intelligence/week02/State Space Problem.md",
     "COMPSCI367 - Artificial Intelligence/week10/prior evidence (prior probability).md",
-    "COMPSCI367 - Artificial Intelligence/week10/posterior evidence (posterior probability).md",
     "COMPSCI367 - Artificial Intelligence/week01/agent.md",
-    "COMPSCI367 - Artificial Intelligence/week10/belief measure.md",
-    "COMPSCI367 - Artificial Intelligence/week09/probability.md",
-    "COMPSCI367 - Artificial Intelligence/week02/state(s).md",
-    "COMPSCI367 - Artificial Intelligence/week10/Additivity.md",
     "COMPSCI367 - Artificial Intelligence/week08",
     "COMPSCI367 - Artificial Intelligence/week07",
     "COMPSCI367 - Artificial Intelligence/week06",
