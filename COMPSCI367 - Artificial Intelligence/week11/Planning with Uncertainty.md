@@ -6,7 +6,7 @@
 - [[state(s)]] changes with [[Stochastic]] elements involved
 - non-[[Deterministic]] [[action(s)]]
 - Imperfect information
-- [[goal(s) - goal state(s)]] may not be achieved (up to chance). Need to evaluate desirability of outcomes
+- [[goal(s) - goal state(s)]] may not be achieved (up to chance). Need to [[evaluate desirability]] of outcomes
 
 Thus the need to reason about [[uncertainty]] using tools like:
 1. [[Probability Theory]]: quantifying [[uncertainty]] & calculating expectations

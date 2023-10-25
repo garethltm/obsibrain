@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week07/Definite Clause Inference Engine.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week11/Planning with Uncertainty.md",
                 "mode": "source",
                 "source": false
               }
@@ -52,7 +52,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "COMPSCI367 - Artificial Intelligence/week07/Definite Clause Inference Engine.md",
+                    "file": "COMPSCI367 - Artificial Intelligence/week11/Planning with Uncertainty.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -131,8 +131,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -152,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week07/Definite Clause Inference Engine.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week11/Planning with Uncertainty.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,7 +168,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week07/Definite Clause Inference Engine.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week11/Planning with Uncertainty.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -192,7 +191,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week07/Definite Clause Inference Engine.md"
+                "file": "COMPSCI367 - Artificial Intelligence/week11/Planning with Uncertainty.md"
               }
             }
           },
@@ -226,10 +225,11 @@
   },
   "active": "9d16bf805036e931",
   "lastOpenFiles": [
+    "COMPSCI367 - Artificial Intelligence/week11/desirability.md",
+    "COMPSCI367 - Artificial Intelligence/week11/Planning with Uncertainty.md",
+    "COMPSCI367 - Artificial Intelligence/week07/Definite Clause Inference Engine.md",
     "INFOSYS222 - Database Systems/OLAP - Online Analytics Processing.md",
     "INFOSYS222 - Database Systems/OLTP - Online Transaction Processing.md",
-    "COMPSCI367 - Artificial Intelligence/week07/Definite Clause Inference Engine.md",
-    "COMPSCI367 - Artificial Intelligence/week11/Planning with Uncertainty.md",
     "COMPSCI367 - Artificial Intelligence/week09/Probability Theory.md",
     "COMPSCI367 - Artificial Intelligence/week11/Utility theory.md",
     "COMPSCI367 - Artificial Intelligence/week01/Environment Types.md",
@@ -251,7 +251,6 @@
     "COMPSCI367 - Artificial Intelligence/week03/Iterative Deepening A-Star Search (IDA).md",
     "COMPSCI367 - Artificial Intelligence/week02/Informed Search.md",
     "COMPSCI367 - Artificial Intelligence/week02/Greedy (Best-First) Search.md",
-    "COMPSCI367 - Artificial Intelligence/week02/Depth-First Search (DFS).md",
     "@images/COMPSCI3672023_S2W11Uncertainty2of2-24.jpg",
     "@images/Pasted image 20231025162230.png",
     "@images/COMPSCI3672023_S2W11Uncertainty2of2-22.jpg",
