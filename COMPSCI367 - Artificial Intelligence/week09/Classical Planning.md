@@ -8,7 +8,7 @@ Related to: [[Goal-Based (Telelogical Agent)]]
 >>**basically its saying that everything is in a controlled environment**
 - You need a specification of:
     - [[initial state (start state)]]
-        - you need a series of [[action(s)]] that the [[agent]] c[[agent(s)]]m in the [[world(s)]] in order to achieve the [[goal(s) - goal state(s)]]
+        - you need a series of [[action(s)]] that the [[agent(s)]] in the [[world(s)]] in order to achieve the [[goal(s) - goal state(s)]]
     - [[goal(s) - goal state(s)]] → marker of success
 - [[Task description]]
 ![[Pasted image 20231024150510.png]]
