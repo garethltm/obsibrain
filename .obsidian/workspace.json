@@ -63,7 +63,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week11/Additive independence property.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week10/Chain Rule.md",
                 "mode": "source",
                 "source": false
               }
@@ -160,7 +160,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "COMPSCI367 - Artificial Intelligence/week11/Additive independence property.md",
+                    "file": "COMPSCI367 - Artificial Intelligence/week10/Chain Rule.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -222,7 +222,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "example",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -239,7 +239,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -259,7 +260,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week11/Additive independence property.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week10/Chain Rule.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -276,7 +277,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week11/Additive independence property.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week10/Chain Rule.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -299,7 +300,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week11/Additive independence property.md"
+                "file": "COMPSCI367 - Artificial Intelligence/week10/Chain Rule.md"
               }
             }
           },
@@ -333,8 +334,11 @@
   },
   "active": "78003ac2d0f27c16",
   "lastOpenFiles": [
-    "COMPSCI367 - Artificial Intelligence/week02/state(s).md",
+    "COMPSCI367 - Artificial Intelligence/week11/Bayesian Networks.md",
+    "COMPSCI367 - Artificial Intelligence/week03/Backtracking Search.md",
+    "COMPSCI367 - Artificial Intelligence/week02/Breadth-First Search (BFS).md",
     "COMPSCI367 - Artificial Intelligence/week11/Additive independence property.md",
+    "COMPSCI367 - Artificial Intelligence/week02/state(s).md",
     "COMPSCI367 - Artificial Intelligence/week10/independent (independence).md",
     "COMPSCI367 - Artificial Intelligence/week06/Atomic Propositions (atoms).md",
     "COMPSCI367 - Artificial Intelligence/week11/Multi-dimensional Utility.md",
@@ -357,9 +361,6 @@
     "COMPSCI367 - Artificial Intelligence/week11/(VNM-) rational-GARETH.md",
     "COMPSCI367 - Artificial Intelligence/week11/(VNM-) rational.md",
     "COMPSCI367 - Artificial Intelligence/week09/Probabilistic Reasoning.md",
-    "COMPSCI367 - Artificial Intelligence/week09/Classical Planning-GARETH.md",
-    "COMPSCI367 - Artificial Intelligence/week09/Classical Planning.md",
-    "COMPSCI367 - Artificial Intelligence/week10/degree of belief.md",
     "@images/Pasted image 20231026010151.png",
     "@images/Pasted image 20231026010018.png",
     "@images/Pasted image 20231026005656.png",
