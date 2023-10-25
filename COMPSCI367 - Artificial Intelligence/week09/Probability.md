@@ -8,4 +8,4 @@ imagine a very large number n of possible [[worlds]] which an event has had an o
 which leads to [[Probability Theory]]
 
 - Given a [[belief measure]] $\mu$ over $\ohm$, the [[probability]] of a [[proposition]] $\alpha$ is $P(\alpha )=\mu ({w \in \ohm :\ w\ \vDash \alpha})$ 
-	- ${w \in \ohm :\ w\ \vDash \alpha}$ 
+	- ${w \in \ohm :\ w\ \vDash \alpha}$ $\rightarrow$ [[belief measure]] of all possible [[State(s)]] that 

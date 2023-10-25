@@ -50,7 +50,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week09/probability.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week07/Forward Chaining.md",
                 "mode": "source",
                 "source": false
               }
@@ -101,7 +101,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "belief",
+                "query": "entails",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -118,7 +118,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -138,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week09/probability.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week07/Forward Chaining.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week09/probability.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week07/Forward Chaining.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week09/probability.md"
+                "file": "COMPSCI367 - Artificial Intelligence/week07/Forward Chaining.md"
               }
             }
           },
@@ -212,6 +213,7 @@
   },
   "active": "f29b33f23d11f1cc",
   "lastOpenFiles": [
+    "COMPSCI367 - Artificial Intelligence/week09/probability.md",
     "COMPSCI367 - Artificial Intelligence/week10/Additivity.md",
     "COMPSCI367 - Artificial Intelligence/week10/belief measure.md",
     "COMPSCI367 - Artificial Intelligence/week04/Hill-Climbing.md",
@@ -226,7 +228,6 @@
     "@images/Pasted image 20231025132516.png",
     "COMPSCI367 - Artificial Intelligence/week10/sample.md",
     "COMPSCI367 - Artificial Intelligence/week10/sample space.md",
-    "COMPSCI367 - Artificial Intelligence/week09/probability.md",
     "COMPSCI367 - Artificial Intelligence/week10/Bayes Theorem.md",
     "COMPSCI367 - Artificial Intelligence/week10/degree of belief.md",
     "COMPSCI367 - Artificial Intelligence/week10/Reason with Uncertainty.md",
