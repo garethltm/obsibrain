@@ -7,7 +7,6 @@ $$V\tiny 1\normalsize ,...,V\tiny k$$
 >	$u(Weapon,Armour) = w\tiny 1\normalsize u\tiny 1\normalsize (Weapon)+w\tiny 1\normalsize u\tiny 1\normalsize(Armour)$
 
 
-### Usually doesn't hold
-
-
-
+### The case where [[Additive independence property]] usually doesn't hold
+>	#Example 
+>	![[Pasted image 20231026104238.png]]
