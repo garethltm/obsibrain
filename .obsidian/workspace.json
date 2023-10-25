@@ -75,7 +75,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week11/outcomes.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week11/Planning with Uncertainty.md",
                 "mode": "source",
                 "source": false
               }
@@ -162,7 +162,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "COMPSCI367 - Artificial Intelligence/week11/outcomes.md",
+                    "file": "COMPSCI367 - Artificial Intelligence/week11/Planning with Uncertainty.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -262,7 +262,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week11/outcomes.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week11/Planning with Uncertainty.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -279,7 +279,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week11/outcomes.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week11/Planning with Uncertainty.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -302,7 +302,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week11/outcomes.md"
+                "file": "COMPSCI367 - Artificial Intelligence/week11/Planning with Uncertainty.md"
               }
             }
           },
@@ -336,6 +336,19 @@
   },
   "active": "d0f61cd9fefb8c2d",
   "lastOpenFiles": [
+    "COMPSCI367 - Artificial Intelligence/week10/Compact Representation of Probability Distribution.md",
+    "COMPSCI367 - Artificial Intelligence/week10/Conditional Probability Table (CPT).md",
+    "COMPSCI367 - Artificial Intelligence/week10/disjoint subsets.md",
+    "COMPSCI367 - Artificial Intelligence/week10/Inference with Probability (Probabilistic Inference).md",
+    "COMPSCI367 - Artificial Intelligence/week10/Independent (Independence).md",
+    "COMPSCI367 - Artificial Intelligence/week10/Law of total probability.md",
+    "COMPSCI367 - Artificial Intelligence/week10/prior evidence (prior probability).md",
+    "COMPSCI367 - Artificial Intelligence/week10/posterior evidence (posterior probability).md",
+    "COMPSCI367 - Artificial Intelligence/week10/Probability Distribution.md",
+    "COMPSCI367 - Artificial Intelligence/week10/Unit Measure.md",
+    "COMPSCI367 - Artificial Intelligence/week07/entails.md",
+    "INFOSYS222 - Database Systems/Attribute(s).md",
+    "COMPSCI367 - Artificial Intelligence/week11/outcomes.md",
     "COMPSCI367 - Artificial Intelligence/week11/lottery.md",
     "COMPSCI367 - Artificial Intelligence/week11/Linear scalability.md",
     "COMPSCI367 - Artificial Intelligence/week11/CPT Operations.md",
@@ -350,19 +363,6 @@
     "COMPSCI367 - Artificial Intelligence/week12",
     "COMPSCI367 - Artificial Intelligence/week11/von Neumann & Morgenstern (VNM).md",
     "COMPSCI367 - Artificial Intelligence/week11/Variable Elimination Algorithm (VE).md",
-    "COMPSCI367 - Artificial Intelligence/week11/utility.md",
-    "COMPSCI367 - Artificial Intelligence/week11/Utility theory.md",
-    "COMPSCI367 - Artificial Intelligence/week11/Utility function.md",
-    "COMPSCI367 - Artificial Intelligence/week11/Probabilistic Model.md",
-    "COMPSCI367 - Artificial Intelligence/week11/Planning with Uncertainty.md",
-    "COMPSCI367 - Artificial Intelligence/week11/outcomes.md",
-    "COMPSCI367 - Artificial Intelligence/week11/Local Markov Property.md",
-    "COMPSCI367 - Artificial Intelligence/week11/One-off Decision Problem.md",
-    "COMPSCI367 - Artificial Intelligence/week11/evaluate desirability.md",
-    "COMPSCI367 - Artificial Intelligence/week11/CPT Operation 1 - Restriction.md",
-    "COMPSCI367 - Artificial Intelligence/week11/CPT Operation 2 - Multiplication.md",
-    "COMPSCI367 - Artificial Intelligence/week11/Bayesian Networks.md",
-    "COMPSCI367 - Artificial Intelligence/week11/Axioms for Rationality.md",
     "COMPSCI367 - Artificial Intelligence/week11",
     "@images/Untitled.jpg",
     "@images/Pasted image 20231025182314.png",
