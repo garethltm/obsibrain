@@ -4,6 +4,8 @@
 	- [[deterministic]] actions → knowing the before & after [[state(s)]] that the [[action(s)]] is performed, each [[action(s)]] has one outcome, which can be forseen by the [[agent]]
 	- nothing changes unless the [[agent]] changes
 	- [[goal(s) - goal state(s)]] must be achieved
+Related to: [[Goal-Based (Telelogical Agent)]]
+
 >>**basically its saying that everything is in a controlled environment**
 - You need a specification of:
     - [[initial state (start state)]]
