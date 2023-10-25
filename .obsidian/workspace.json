@@ -57,18 +57,6 @@
             }
           },
           {
-            "id": "78003ac2d0f27c16",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week04/Hill-Climbing.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "d0f61cd9fefb8c2d",
             "type": "leaf",
             "state": {
@@ -79,29 +67,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "fd81abe695a7c8c2",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "2602e13c15239a89",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week04/Enforced Hill-Climbing.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 4
       },
       {
         "id": "8d459d1c85b8b9ed",
@@ -182,6 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "COMPSCI367 - Artificial Intelligence/week10/Belief measure.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -198,6 +167,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "COMPSCI367 - Artificial Intelligence/week10/Belief measure.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -219,7 +189,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "COMPSCI367 - Artificial Intelligence/week10/Belief measure.md"
+              }
             }
           },
           {
@@ -250,8 +222,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fd81abe695a7c8c2",
+  "active": "d0f61cd9fefb8c2d",
   "lastOpenFiles": [
+    "COMPSCI367 - Artificial Intelligence/week10/Conditional Entropy.md",
+    "COMPSCI367 - Artificial Intelligence/week10/calculus of belief.md",
     "conflict-files-obsidian-git.md",
     "COMPSCI367 - Artificial Intelligence/week10/Belief measure.md",
     "COMPSCI367 - Artificial Intelligence/week09/Probability Theory.md",
@@ -262,7 +236,6 @@
     "COMPSCI367 - Artificial Intelligence/week09/Probability.md",
     "COMPSCI367 - Artificial Intelligence/week10/Bayes Theorem.md",
     "COMPSCI367 - Artificial Intelligence/week10/degree of belief.md",
-    "COMPSCI367 - Artificial Intelligence/week10/calculus of belief.md",
     "COMPSCI367 - Artificial Intelligence/week10/Reason with Uncertainty.md",
     "COMPSCI367 - Artificial Intelligence/week10/Attention Mechanisms.md",
     "@images/Pasted image 20231025121813.png",
@@ -279,7 +252,6 @@
     "COMPSCI367 - Artificial Intelligence/week10/Applying Bayes Rule.md",
     "COMPSCI367 - Artificial Intelligence/week10/Applying Bayes Rule for class ranking.md",
     "COMPSCI367 - Artificial Intelligence/week10/Autoregressive Language Models based on Deep Learning.md",
-    "COMPSCI367 - Artificial Intelligence/week10/conditional probability.md",
     "@images/Pasted image 20231025115510.png",
     "@images/Pasted image 20231025101932.png",
     "@images/Pasted image 20231025101919.png",
