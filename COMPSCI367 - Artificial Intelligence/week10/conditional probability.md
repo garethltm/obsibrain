@@ -9,4 +9,4 @@ The [[conditional probability]] $P(h\ |\ e)=\frac {P(h \land e)}{P(e)}=\frac {hy
 - $prior\ probability\ of\ evidence$ $\rightarrow$ should be larger
 >	[[prior evidence (prior probability)]] P(Sunny) = 0.54
 >	[[evidence]] e: $\neg Hot$
->	
+>	Other [[evidence]]: 
