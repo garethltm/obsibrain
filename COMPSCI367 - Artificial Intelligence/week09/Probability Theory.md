@@ -7,8 +7,8 @@
 	- 0 is no chance to occur
 	- 1 is certain to occur
 
-## Example
-Let $X\tiny 1\normalsize ,...,X\tiny d$ be [[Atomic Propositions (atoms)]]
+>	#Example 
+>	Let $X\tiny 1\normalsize ,...,X\tiny d$ be [[Atomic Propositions (atoms)]]
 >	Sunny means outlook will be sunny
 >	Hot means high temperature
 

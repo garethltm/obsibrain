@@ -1,6 +1,7 @@
 Linking 2 (or more) [[Relation]]
 
-> Example: at the exit, we noticed an orange dahlia in a pigeon’s mouth
+>	#Example 
+>	at the exit, we noticed an orange dahlia in a pigeon’s mouth
 
 How can we indicate that the Dahlia in Flower (#5) is linked to the Pigeon in Bird (#4)
 
@@ -24,7 +25,8 @@ How can we indicate that the Dahlia in Flower (#5) is linked to the Pigeon in Bi
 
 ![[Pasted image 20231015234809.png]]
 > M & N properties is to show that it is a many-to-many relationship, the 2 numbers don’t have to be equal; 
-> For example: a person owns 5 properties, the property must be owned by 5 people
+
+>	#a person owns 5 properties, the property must be owned by 5 people
 
 ## Relationship Symbols
 ![[Pasted image 20231015235410.png]]

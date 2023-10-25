@@ -63,7 +63,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week09/Probability Theory.md",
+                "file": "INFOSYS222 - Database Systems/Relationship.md",
                 "mode": "source",
                 "source": false
               }
@@ -160,7 +160,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "COMPSCI367 - Artificial Intelligence/week09/Probability Theory.md",
+                    "file": "INFOSYS222 - Database Systems/Relationship.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -260,7 +260,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week09/Probability Theory.md",
+                "file": "INFOSYS222 - Database Systems/Relationship.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -277,7 +277,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week09/Probability Theory.md",
+                "file": "INFOSYS222 - Database Systems/Relationship.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -300,7 +300,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week09/Probability Theory.md"
+                "file": "INFOSYS222 - Database Systems/Relationship.md"
               }
             }
           },
@@ -334,6 +334,7 @@
   },
   "active": "78003ac2d0f27c16",
   "lastOpenFiles": [
+    "COMPSCI367 - Artificial Intelligence/week09/Probability Theory.md",
     "COMPSCI367 - Artificial Intelligence/week01/Planning Agent.md",
     "COMPSCI367 - Artificial Intelligence/week03/Path Search vs CSPs.md",
     "COMPSCI367 - Artificial Intelligence/week10/Machine Translation.md",
@@ -360,7 +361,6 @@
     "COMPSCI367 - Artificial Intelligence/week01/agent(s).md",
     "COMPSCI367 - Artificial Intelligence/week11/utility.md",
     "COMPSCI367 - Artificial Intelligence/week11/Expected utility hypothesis.md",
-    "COMPSCI367 - Artificial Intelligence/week11/expected utility.md",
     "@images/Pasted image 20231026010151.png",
     "@images/Pasted image 20231026010018.png",
     "@images/Pasted image 20231026005656.png",
