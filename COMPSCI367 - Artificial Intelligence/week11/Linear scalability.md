@@ -1,4 +1,4 @@
 - Idea of introducing a constant C 
 	- $C \times \ utilities$
 		- [[utility]]
-- Suppose $u:\ohm \rightarrow R$
+- Suppose $u:\ohm \rightarrow R$ is a [[utility]] function. Then for any constant c > 0, $u': \ohm \rightarrow R$ defined by 
