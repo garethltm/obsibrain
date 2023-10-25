@@ -12,6 +12,7 @@ Let $X\tiny 1\normalsize ,...,X\tiny d$ be [[Atomic Propositions (atoms)]]
 >	Sunny means outlook will be sunny
 >	Hot means high temperature
 
-The sample space $\ohm$ over these [[Atomic Propositions (atoms)]] contains all possible [[interpretation]]
+The sample space $\ohm$ over these [[Atomic Propositions (atoms)]] contains all possible [[interpretation]]. 
+>[[sample]] over Sunn
 
 

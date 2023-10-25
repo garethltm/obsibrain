@@ -1,0 +1,1 @@
+each [[interpretation]] of the [[sample space]]

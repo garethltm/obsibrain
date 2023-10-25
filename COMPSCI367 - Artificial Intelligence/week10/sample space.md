@@ -1,1 +1,1 @@
-contain
+contains all possible [[interpretation]] of [[Atomic Propositions (atoms)]]
