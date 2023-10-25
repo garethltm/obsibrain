@@ -3,5 +3,5 @@ $$\ohm \tiny s\normalsize= {(e\tiny 1\normalsize ,...,e\tiny m\normalsize)\ |\ e
 - a [[Probability Distribution]] of a set of [[Atomic Propositions (atoms)]] S, denoted as $P\tiny s$, is a function from $\ohm \tiny s$ into [0,1] such that $$\displaystyle\sum_{w \in \ohm \tiny s}P\tiny s (w) = 1$$
 	- we express it as $P(X\tiny 1\normalsize ,..., X\tiny m\normalsize)$
 	- $P\tiny s$ $\rightarrow$ a function from the set of [[sample]] into the range [0 to 1] such that:
-		- the sum of all [[probability]] for each of the [[sample]] 
-- 
+		- the sum of all [[probability]] for each of the [[sample]] = 1
+- a [[Probability Distribution]] of a set of [[Atomic Propositions (atoms)]] S conditioned on [[Atomic Propositions (atoms)]] $\gamma \tiny 1\normalsize ,...,\gamma $ 
