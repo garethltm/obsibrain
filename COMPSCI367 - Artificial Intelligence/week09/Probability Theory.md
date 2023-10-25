@@ -13,6 +13,8 @@ Let $X\tiny 1\normalsize ,...,X\tiny d$ be [[Atomic Propositions (atoms)]]
 >	Hot means high temperature
 
 The sample space $\ohm$ over these [[Atomic Propositions (atoms)]] contains all possible [[interpretation]]. 
->[[sample]] over Sunn
+>[[sample]] over Sunny, Hot
+![[Pasted image 20231025132516.png]]
 
-
+A [[proposition]] describes a [[constraint(s)]] on [[Atomic Propositions (atoms)]]
+>	
