@@ -63,7 +63,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week08/Unification in queries.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week08/Universal quantification.md",
                 "mode": "source",
                 "source": false
               }
@@ -160,7 +160,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "COMPSCI367 - Artificial Intelligence/week08/Unification in queries.md",
+                    "file": "COMPSCI367 - Artificial Intelligence/week08/Universal quantification.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -259,7 +259,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week08/Unification in queries.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week08/Universal quantification.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -276,7 +276,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week08/Unification in queries.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week08/Universal quantification.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -299,7 +299,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week08/Unification in queries.md"
+                "file": "COMPSCI367 - Artificial Intelligence/week08/Universal quantification.md"
               }
             }
           },
@@ -333,6 +333,7 @@
   },
   "active": "78003ac2d0f27c16",
   "lastOpenFiles": [
+    "COMPSCI367 - Artificial Intelligence/week08/Unification in queries.md",
     "COMPSCI367 - Artificial Intelligence/week08/theorem.md",
     "COMPSCI367 - Artificial Intelligence/week08/term(s).md",
     "COMPSCI367 - Artificial Intelligence/week08/Skolem constant.md",
@@ -358,7 +359,6 @@
     "COMPSCI367 - Artificial Intelligence/week08/First-Order Logic Inference.md",
     "COMPSCI367 - Artificial Intelligence/week08/First-Order Logic.md",
     "COMPSCI367 - Artificial Intelligence/week08/First-Order KB.md",
-    "COMPSCI367 - Artificial Intelligence/week08/First-Order Interpretation.md",
     "@images/Pasted image 20231026105122.png",
     "@images/Pasted image 20231026105109.png",
     "@images/Pasted image 20231026105052.png",

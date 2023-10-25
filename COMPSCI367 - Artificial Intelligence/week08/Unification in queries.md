@@ -1,4 +1,4 @@
->
-![[Untitled 3.png]]
+>	#Example 
+>	![[Untitled 3.png]]
 
 Related to: [[Prolog]]
