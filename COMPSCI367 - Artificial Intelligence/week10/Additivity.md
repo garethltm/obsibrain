@@ -1,1 +1,1 @@
-Suppose $S\tiny 1$ & $S\tiny 2$ are disjoint subsets
+Suppose $S\tiny 1$ & $S\tiny 2$ are [[disjoint subsets]] of $\ohm$. Then our belief
