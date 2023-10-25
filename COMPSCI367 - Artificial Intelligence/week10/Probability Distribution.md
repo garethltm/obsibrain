@@ -5,8 +5,8 @@ $$\ohm \tiny s\normalsize= {(e\tiny 1\normalsize ,...,e\tiny m\normalsize)\ |\ e
 	- $P\tiny s$ $\rightarrow$ a function from the set of [[sample]] into the range [0 to 1] such that:
 		- the sum of all [[probability]] for each of the [[sample]] = 1
 
-- a [[Probability Distribution]] of a set of [[Atomic Propositions (atoms)]] S conditioned on [[Atomic Propositions (atoms)]] $\gamma \tiny 1\normalsize ,...,\gamma \tiny e$ denoted as $P\tiny s |\gamma \tiny 1 ,...,\gamma \tiny e$ is a function from $\ohm \gamma \tiny 1\normalsize ,...,\gamma \tiny e \cup S$ tp [0,1] such that for any $w \in \ohm \gamma \tiny 1\normalsize ,...,\gamma \tiny m$:
-$$\displaystyle\sum_{r \in \ohm \tiny s}P\tiny {s\ |\ \gamma \tiny 1\normalsize ,...,\gamma \tiny e}\normalsize (w,r) = 1$$
-$(w,r)$ $\rightarrow$ given certain facts
-$\gamma \tiny 1\normalsize ,...,\gamma \tiny e$ $\rightarrow$ sum of the remaining [[sample]] [[probability]] are going to add to 1
+- a [[Probability Distribution]] of a set of [[Atomic Propositions (atoms)]] S conditioned on [[Atomic Propositions (atoms)]] $\gamma \tiny 1\normalsize ,...,\gamma \tiny e$ denoted as $P\tiny s |\gamma \tiny 1 ,...,\gamma \tiny e$ is a function from $\ohm \gamma \tiny 1\normalsize ,...,\gamma \tiny e \cup S$ tp [0,1] such that for any $w \in \ohm \gamma \tiny 1\normalsize ,...,\gamma \tiny m$: $$\displaystyle\sum_{r \in \ohm \tiny s}P\tiny {s\ |\ \gamma \tiny 1\normalsize ,...,\gamma \tiny e}\normalsize (w,r) = 1$$
+	- we express it as $P(X\tiny 1\normalsize ,..., X\tiny m\normalsize)$
+	- $(w,r)$ $\rightarrow$ given certain facts
+	- $\gamma \tiny 1\normalsize ,...,\gamma \tiny e$ $\rightarrow$ sum of the remaining [[sample]] [[probability]] are going to add to 1
 		
