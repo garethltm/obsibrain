@@ -1,0 +1,1 @@
+- [[Conditional Probability Table (CPT)]]
