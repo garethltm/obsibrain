@@ -1,3 +1,4 @@
 - [[agent(s)]] implements a [[Inference engines (IE)]]
 
-![[Pasted image 20231023203857.png]]
+>	#Example 
+>	![[Pasted image 20231023203857.png]]
