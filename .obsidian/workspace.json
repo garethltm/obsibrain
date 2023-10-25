@@ -75,7 +75,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week11/Planning with Uncertainty.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week09/Classical Planning.md",
                 "mode": "source",
                 "source": false
               }
@@ -162,7 +162,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "COMPSCI367 - Artificial Intelligence/week11/Planning with Uncertainty.md",
+                    "file": "COMPSCI367 - Artificial Intelligence/week09/Classical Planning.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -262,7 +262,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week11/Planning with Uncertainty.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week09/Classical Planning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -279,7 +279,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week11/Planning with Uncertainty.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week09/Classical Planning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -302,7 +302,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week11/Planning with Uncertainty.md"
+                "file": "COMPSCI367 - Artificial Intelligence/week09/Classical Planning.md"
               }
             }
           },
@@ -336,6 +336,7 @@
   },
   "active": "d0f61cd9fefb8c2d",
   "lastOpenFiles": [
+    "COMPSCI367 - Artificial Intelligence/week11/Planning with Uncertainty.md",
     "COMPSCI367 - Artificial Intelligence/week10/Compact Representation of Probability Distribution.md",
     "COMPSCI367 - Artificial Intelligence/week10/Conditional Probability Table (CPT).md",
     "COMPSCI367 - Artificial Intelligence/week10/disjoint subsets.md",
@@ -362,7 +363,6 @@
     "COMPSCI367 - Artificial Intelligence/week12/Single-stage decision networks (SSDN).md",
     "COMPSCI367 - Artificial Intelligence/week12",
     "COMPSCI367 - Artificial Intelligence/week11/von Neumann & Morgenstern (VNM).md",
-    "COMPSCI367 - Artificial Intelligence/week11/Variable Elimination Algorithm (VE).md",
     "COMPSCI367 - Artificial Intelligence/week11",
     "@images/Untitled.jpg",
     "@images/Pasted image 20231025182314.png",
