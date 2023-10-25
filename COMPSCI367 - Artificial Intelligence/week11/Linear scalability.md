@@ -1,3 +1,4 @@
-- introducing a constant C 
+- Idea of introducing a constant C 
 	- $C \times \ utilities$
 		- [[utility]]
+- Suppose $u:\ohm \rightarrow R$

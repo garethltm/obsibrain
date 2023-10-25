@@ -75,7 +75,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week11/expected utility.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week11/Linear scalability.md",
                 "mode": "source",
                 "source": false
               }
@@ -173,7 +173,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "COMPSCI367 - Artificial Intelligence/week11/expected utility.md",
+                    "file": "COMPSCI367 - Artificial Intelligence/week11/Linear scalability.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -273,7 +273,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week11/expected utility.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week11/Linear scalability.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -290,7 +290,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week11/expected utility.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week11/Linear scalability.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -313,7 +313,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week11/expected utility.md"
+                "file": "COMPSCI367 - Artificial Intelligence/week11/Linear scalability.md"
               }
             }
           },
@@ -347,8 +347,10 @@
   },
   "active": "d0f61cd9fefb8c2d",
   "lastOpenFiles": [
-    "COMPSCI367 - Artificial Intelligence/week11/von Neumann & Morgenstern (VNM).md",
+    "COMPSCI367 - Artificial Intelligence/week11/Untitled.md",
+    "COMPSCI367 - Artificial Intelligence/week11/Linear scalability.md",
     "COMPSCI367 - Artificial Intelligence/week11/expected utility.md",
+    "COMPSCI367 - Artificial Intelligence/week11/von Neumann & Morgenstern (VNM).md",
     "COMPSCI367 - Artificial Intelligence/week11/outcome(s).md",
     "COMPSCI367 - Artificial Intelligence/week11/Axiom 3 - Monotonicity.md",
     "COMPSCI367 - Artificial Intelligence/week11/Axiom 3 - Monotonicity-GARETH.md",
@@ -378,8 +380,6 @@
     "@images/Pasted image 20231026004758.png",
     "COMPSCI367 - Artificial Intelligence/week11/Axiom 4 - Decomposability-GARETH.md",
     "COMPSCI367 - Artificial Intelligence/week11/indifference relation (~)-GARETH.md",
-    "COMPSCI367 - Artificial Intelligence/week11/strict preference relation-GARETH.md",
-    "COMPSCI367 - Artificial Intelligence/week11/outcome(s)-GARETH.md",
     "@images/Untitled.jpg",
     "COMPSCI367 - Artificial Intelligence/week12",
     "COMPSCI367 - Artificial Intelligence/week11",
