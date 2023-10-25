@@ -6,26 +6,14 @@
       {
         "id": "e1ccbf259f6ba816",
         "type": "tabs",
-        "dimension": 64.34010152284264,
+        "dimension": 66.49746192893402,
         "children": [
-          {
-            "id": "bcc7a7b87dd8df83",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
           {
             "id": "9d16bf805036e931",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week10/Independent (Independence).md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -33,7 +21,7 @@
       {
         "id": "8d459d1c85b8b9ed",
         "type": "tabs",
-        "dimension": 35.659898477157356,
+        "dimension": 33.50253807106599,
         "children": [
           {
             "id": "874de3ab24aec93a",
@@ -177,11 +165,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bcc7a7b87dd8df83",
+  "active": "9d16bf805036e931",
   "lastOpenFiles": [
+    "COMPSCI367 - Artificial Intelligence/week11/Bayesian Network Inference.md",
+    "COMPSCI367 - Artificial Intelligence/week10/Independent (Independence).md",
     "COMPSCI367 - Artificial Intelligence/week11/Variable Elimination Algorithm (VE).md",
     "COMPSCI367 - Artificial Intelligence/week10/Chain Rule.md",
-    "COMPSCI367 - Artificial Intelligence/week11/Bayesian Network Inference.md",
     "@images/COMPSCI3672023_S2W11Uncertainty2of2-24.jpg",
     "@images/Pasted image 20231025162230.png",
     "variab.md",
@@ -204,7 +193,6 @@
     "COMPSCI367 - Artificial Intelligence/week10/Bayes Classifier - Conditional Independence.md",
     "COMPSCI367 - Artificial Intelligence/week11/Probabilistic Model.md",
     "COMPSCI367 - Artificial Intelligence/week05/Population-based Search.md",
-    "COMPSCI367 - Artificial Intelligence/week10/Independent (Independence).md",
     "COMPSCI367 - Artificial Intelligence/week10/Inference with Probability (Probabilistic Inference).md",
     "COMPSCI367 - Artificial Intelligence/week09/Probability Theory.md",
     "COMPSCI367 - Artificial Intelligence/week10/Additivity.md",
