@@ -63,7 +63,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week09/Annotated Disjunction.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week09/Logic-based Planning algorithms.md",
                 "mode": "source",
                 "source": false
               }
@@ -160,7 +160,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "COMPSCI367 - Artificial Intelligence/week09/Annotated Disjunction.md",
+                    "file": "COMPSCI367 - Artificial Intelligence/week09/Logic-based Planning algorithms.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -259,7 +259,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week09/Annotated Disjunction.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week09/Logic-based Planning algorithms.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -276,7 +276,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week09/Annotated Disjunction.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week09/Logic-based Planning algorithms.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -299,7 +299,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week09/Annotated Disjunction.md"
+                "file": "COMPSCI367 - Artificial Intelligence/week09/Logic-based Planning algorithms.md"
               }
             }
           },
@@ -333,14 +333,16 @@
   },
   "active": "78003ac2d0f27c16",
   "lastOpenFiles": [
+    "COMPSCI367 - Artificial Intelligence/week09/Forward (Progression) planning.md",
+    "COMPSCI367 - Artificial Intelligence/week09/First Order Bayes Nets.md",
+    "COMPSCI367 - Artificial Intelligence/week09/ExtractPlan.md",
+    "COMPSCI367 - Artificial Intelligence/week09/Evidence - Calculate probabilities given prior evidence.md",
+    "COMPSCI367 - Artificial Intelligence/week09/Annotated Disjunction.md",
     "COMPSCI367 - Artificial Intelligence/week09/Backward (Regression) planning.md",
     "COMPSCI367 - Artificial Intelligence/week09/Building a planner.md",
     "COMPSCI367 - Artificial Intelligence/week09/Classical Planning.md",
     "COMPSCI367 - Artificial Intelligence/week09/Domain file.md",
     "COMPSCI367 - Artificial Intelligence/week09/domain-independent heuristic.md",
-    "COMPSCI367 - Artificial Intelligence/week09/Evidence - Calculate probabilities given prior evidence.md",
-    "COMPSCI367 - Artificial Intelligence/week09/ExtractPlan.md",
-    "COMPSCI367 - Artificial Intelligence/week09/First Order Bayes Nets.md",
     "COMPSCI367 - Artificial Intelligence/week09/Bayes Nets.md",
     "COMPSCI367 - Artificial Intelligence/week03/Local Search.md",
     "COMPSCI367 - Artificial Intelligence/week08/algorithm.md",
@@ -363,8 +365,6 @@
     "COMPSCI367 - Artificial Intelligence/week10/Smoothing.md",
     "COMPSCI367 - Artificial Intelligence/week09/Remote Agent.md",
     "INFOSYS222 - Database Systems/Relationship.md",
-    "COMPSCI367 - Artificial Intelligence/week09/Probability Theory.md",
-    "COMPSCI367 - Artificial Intelligence/week01/Planning Agent.md",
     "@images/Pasted image 20231026100336.png",
     "@images/Pasted image 20231026010151.png",
     "@images/Pasted image 20231026010018.png",
