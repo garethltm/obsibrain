@@ -1,0 +1,1 @@
+- what we can use to solve the [[Additive independence property]] not being [[independent (independence)]]
