@@ -21,4 +21,6 @@ The following holds for all [[proposition]] $a$ & $b$ & $e$:
 - $P(e\ |\ e)=1$
 - If $a \land b$ is a contradiction
 	- $P(a\ |\ e) + P(b\ |\ e) = P(a\lor b\ |\ e)$
-- P(\neg a\ |)
+- $P(\neg a\ |\ e)=1-P(a\ |\ e)$
+	- they are going to add up to 1
+- If 
