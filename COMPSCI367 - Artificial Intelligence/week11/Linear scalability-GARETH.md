@@ -1,0 +1,3 @@
+- introducing a constant C 
+	- $C \times \ utilities$
+		- [[utility]]

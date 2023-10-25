@@ -83,25 +83,14 @@
             "group": "bd9851f4b44cc862"
           },
           {
-            "id": "90b421ffc624feab",
+            "id": "3babe86f90cab07f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "conflict-files-obsidian-git.md",
                 "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3babe86f90cab07f",
-            "type": "leaf",
-            "state": {
-              "type": "diff-view",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "staged": false
+                "source": true
               }
             }
           },
@@ -357,24 +346,8 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "90b421ffc624feab",
+  "active": "3babe86f90cab07f",
   "lastOpenFiles": [
-    "COMPSCI367 - Artificial Intelligence/week10/degree of belief.md",
-    "conflict-files-obsidian-git.md",
-    "@images/Pasted image 20231026010151.png",
-    "COMPSCI367 - Artificial Intelligence/week11/Variable Elimination Algorithm (VE)-GARETH.md",
-    "COMPSCI367 - Artificial Intelligence/week11/CPT Operation 2 - Multiplication-GARETH.md",
-    "COMPSCI367 - Artificial Intelligence/week11/CPT Operation 3 - Normalisation-GARETH.md",
-    "@images/Pasted image 20231026010018.png",
-    "COMPSCI367 - Artificial Intelligence/week11/von Neumann & Morgenstern (VNM)-GARETH.md",
-    "@images/Pasted image 20231026005656.png",
-    "COMPSCI367 - Artificial Intelligence/week11/CPT Operation 1 - Restriction-GARETH.md",
-    "COMPSCI367 - Artificial Intelligence/week11/(VNM-) rational-GARETH.md",
-    "@images/Pasted image 20231026005324.png",
-    "COMPSCI367 - Artificial Intelligence/week11/Axiom 6 - Independence-GARETH.md",
-    "@images/Pasted image 20231026005102.png",
-    "@images/Pasted image 20231026005123.png",
-    "COMPSCI367 - Artificial Intelligence/week11/Axiom 5 - Continuity-GARETH.md",
     "@images/Pasted image 20231026004758.png",
     "COMPSCI367 - Artificial Intelligence/week11/Axiom 4 - Decomposability-GARETH.md",
     "COMPSCI367 - Artificial Intelligence/week11/Axiom 1 - Completeness-GARETH.md",
@@ -392,11 +365,27 @@
     "COMPSCI367 - Artificial Intelligence/week11/CPT Operation 4 - Summation-GARETH.md",
     "COMPSCI367 - Artificial Intelligence/week11/CPT Operations-GARETH.md",
     "COMPSCI367 - Artificial Intelligence/week11/Linear scalability-GARETH.md",
+    "COMPSCI367 - Artificial Intelligence/week11/lottery-GARETH.md",
+    "COMPSCI367 - Artificial Intelligence/week10/Compact Representation of Probability Distribution.md",
+    "COMPSCI367 - Artificial Intelligence/week10/Conditional Probability Table (CPT).md",
+    "COMPSCI367 - Artificial Intelligence/week10/disjoint subsets.md",
+    "COMPSCI367 - Artificial Intelligence/week10/Inference with Probability (Probabilistic Inference).md",
+    "COMPSCI367 - Artificial Intelligence/week10/Independent (Independence).md",
+    "COMPSCI367 - Artificial Intelligence/week10/Law of total probability.md",
+    "COMPSCI367 - Artificial Intelligence/week10/prior evidence (prior probability).md",
+    "COMPSCI367 - Artificial Intelligence/week10/posterior evidence (posterior probability).md",
     "@images/Untitled.jpg",
     "COMPSCI367 - Artificial Intelligence/week12",
     "COMPSCI367 - Artificial Intelligence/week11",
     "@images/Pasted image 20231026004654.png",
     "@images/Pasted image 20231026004539.png",
+    "@images/Pasted image 20231026004436.png",
+    "@images/Pasted image 20231025182314.png",
+    "@images/Pasted image 20231025170547.png",
+    "@images/Pasted image 20231025165611.png",
+    "@images/Pasted image 20231025162230.png",
+    "@images/Pasted image 20231025161047.png",
+    "@images/Pasted image 20231025161014.png",
     "COMPSCI367 - Artificial Intelligence/week08",
     "COMPSCI367 - Artificial Intelligence/week07",
     "COMPSCI367 - Artificial Intelligence/week06",
