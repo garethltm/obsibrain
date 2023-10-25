@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week11/outcomes.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week11/lottery.md",
                 "mode": "source",
                 "source": false
               }
@@ -52,7 +52,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "COMPSCI367 - Artificial Intelligence/week11/outcomes.md",
+                    "file": "COMPSCI367 - Artificial Intelligence/week11/lottery.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -151,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week11/outcomes.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week11/lottery.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -168,7 +168,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week11/outcomes.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week11/lottery.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -191,7 +191,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week11/outcomes.md"
+                "file": "COMPSCI367 - Artificial Intelligence/week11/lottery.md"
               }
             }
           },
@@ -225,8 +225,8 @@
   },
   "active": "9d16bf805036e931",
   "lastOpenFiles": [
-    "COMPSCI367 - Artificial Intelligence/week11/lottery.md",
     "COMPSCI367 - Artificial Intelligence/week11/outcomes.md",
+    "COMPSCI367 - Artificial Intelligence/week11/lottery.md",
     "COMPSCI367 - Artificial Intelligence/week11/Utility Theory.md",
     "COMPSCI367 - Artificial Intelligence/week11/Bayesian Network Inference.md",
     "COMPSCI367 - Artificial Intelligence/week11/evaluate desirability.md",
