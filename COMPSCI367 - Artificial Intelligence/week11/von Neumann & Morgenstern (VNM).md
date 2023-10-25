@@ -1,4 +1,6 @@
-- if an [[agent]] is a [[Rational Agent]], then for every [[outcome(s)]] $\huge o\tiny i\normalsize$, there is a real number 
+if an [[agent]] is a [[Rational Agent]], then for every [[outcome(s)]] $\huge o\tiny i\normalsize$, 
+there is a real number u($\huge o\tiny i\normalsize$) such that:
+- $\huge o\tiny i\normalsize$ 
 
 
 ### Consequences
