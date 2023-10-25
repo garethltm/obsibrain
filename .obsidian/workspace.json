@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week10/Inference with Probability (Probabilistic Inference).md",
+                "file": "COMPSCI367 - Artificial Intelligence/week11/Probabilistic Model.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,8 +94,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -115,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week10/Inference with Probability (Probabilistic Inference).md",
+                "file": "COMPSCI367 - Artificial Intelligence/week11/Probabilistic Model.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week10/Inference with Probability (Probabilistic Inference).md",
+                "file": "COMPSCI367 - Artificial Intelligence/week11/Probabilistic Model.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week10/Inference with Probability (Probabilistic Inference).md"
+                "file": "COMPSCI367 - Artificial Intelligence/week11/Probabilistic Model.md"
               }
             }
           },
@@ -187,8 +186,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a6e0090ac9cbd1f3",
+  "active": "9d16bf805036e931",
   "lastOpenFiles": [
+    "COMPSCI367 - Artificial Intelligence/week10/Inference with Probability (Probabilistic Inference).md",
+    "COMPSCI367 - Artificial Intelligence/week11/Probabilistic Model.md",
+    "@images/COMPSCI3672023_S2W11Uncertainty2of2-04.jpg",
+    "@images/COMPSCI3672023_S2W11Uncertainty2of2-03.jpg",
     "COMPSCI367 - Artificial Intelligence/week09/Probability Theory.md",
     "COMPSCI367 - Artificial Intelligence/week10/Additivity.md",
     "COMPSCI367 - Artificial Intelligence/week10/Applying Bayes Rule.md",
@@ -213,8 +216,6 @@
     "COMPSCI367 - Artificial Intelligence/week10/Deriving Bayes Rule.md",
     "COMPSCI367 - Artificial Intelligence/week10/disjoint subsets.md",
     "COMPSCI367 - Artificial Intelligence/week10/Entropy (or self-information).md",
-    "COMPSCI367 - Artificial Intelligence/week10/evidence.md",
-    "COMPSCI367 - Artificial Intelligence/week10/H.md",
     "COMPSCI367 - Artificial Intelligence/week11",
     "@images/COMPSCI3672023_S2W10Uncertainty1of2-22.jpg",
     "@images/COMPSCI3672023_S2W10Uncertainty1of2-21.jpg",
@@ -224,8 +225,6 @@
     "@images/COMPSCI3672023_S2W10Uncertainty1of2-15.jpg",
     "@images/COMPSCI3672023_S2W10Uncertainty1of2-14.jpg",
     "@images/COMPSCI3672023_S2W10Uncertainty1of2-18.jpg",
-    "@images/COMPSCI3672023_S2W10Uncertainty1of2-17.jpg",
-    "@images/Pasted image 20231025154445.png",
     "COMPSCI367 - Artificial Intelligence/week08",
     "COMPSCI367 - Artificial Intelligence/week07",
     "COMPSCI367 - Artificial Intelligence/week06",
