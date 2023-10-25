@@ -9,7 +9,7 @@ Entity Set:
 [[Entity Types]]
 >Friend
 
-[[Attribute]]
+[[Attribute(s)]]
 >Simple, Composite, Multi-valued, Derived, Optional
 >[[Keys]]: Candidate, Primary, Composite
 

@@ -1,10 +1,10 @@
 - process of defining a general [[Entity Types]] from a set of specialised entity types by identifying their common characteristics![[Pasted image 20231016001424.png]]
 
 1. Superset (Employee)
-	- Common [[Attribute]]
+	- Common [[Attribute(s)]]
 	- General [[Entity]]
 2. Subset (Others)
-	- Specific [[Attribute]]
+	- Specific [[Attribute(s)]]
 	- Specialised [[Entity]]
 ![[Pasted image 20231016001651.png]]
 

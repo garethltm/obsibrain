@@ -3,5 +3,5 @@
 			AirNZ Loyalty Records
 2. Identify [[Entity Types]]
 	- Loyalty Customer
-3. Identify [[Attribute]]
+3. Identify [[Attribute(s)]]
 	- ID, Name (Prefix, First/Last name), Age, Home Address, Land/Phone Number, Points

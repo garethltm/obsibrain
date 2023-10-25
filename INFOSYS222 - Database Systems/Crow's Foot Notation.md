@@ -1,5 +1,5 @@
 - [[Entity Types]] is a rectangle with its name on top
-- [[Attribute]] are listed inside the rectangle
+- [[Attribute(s)]] are listed inside the rectangle
 - Key attributes (called Identifier) marked with *
 - Relationships shown as “crows’ foot”
 ![[Pasted image 20231015235317.png]]

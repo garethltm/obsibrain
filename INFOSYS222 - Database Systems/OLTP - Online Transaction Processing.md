@@ -5,7 +5,7 @@
 ## Schema
 - Every table is connected to another table
 - Break the many-to-many relationships (Association table)
-- Common [[Attributes]] in one of the table, move it out & put in a table ([[3NF - 3rd Normal Form]])
+- Common [[Attribute(s)]] in one of the table, move it out & put in a table ([[3NF - 3rd Normal Form]])
 - Breaking down the multivalued attribute ([[Normalisation]])
     - Faster in running queries
 

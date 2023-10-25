@@ -7,7 +7,7 @@ Related to: [[Binary]]
 
 # ERD Guidelines
 - [[Entity]] are abstract or concrete - typical nouns
-- [[Attribute]] are facts about or properties of an [[Entity]]
+- [[Attribute(s)]] are facts about or properties of an [[Entity]]
 - [[Relationship]] are typically verbs connecting [[Entity]]
 	- Identify [[Dependency]]/Cardinality/Degree
 - Stick to specifications

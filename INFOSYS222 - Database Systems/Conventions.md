@@ -4,7 +4,7 @@
 - Avoid Abbreviation (Doctor vs Dr)
 - No duplicates
 
-## [[Attribute]]
+## [[Attribute(s)]]
 - Rinse & Repeat
 
 ## [[Relationship]]

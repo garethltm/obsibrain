@@ -3,5 +3,5 @@
 	- Recall that primary is mandatory (can't be empty)
 - No partial functional [[Dependency]]
 	- Non-key depends on the 'whole' key
-	- [[Attribute]] do not depend 'part' of the primary key
+	- [[Attribute(s)]] do not depend 'part' of the primary key
 ![[Pasted image 20231016004907.png]]
