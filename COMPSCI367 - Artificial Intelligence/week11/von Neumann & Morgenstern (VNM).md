@@ -6,6 +6,7 @@ there is a real number u($\huge o\tiny i\normalsize$) such that:
 
 ### Consequences of [[(VNM-) rational]]
 finding out the most preferred [[outcome(s)]]
-- although preferences may seem to be complex & multifaceted, a [[Rational Agent]]'s value for an [[outcome(s)]] can be measured 
+- although preferences may seem to be complex & multifaceted, a [[Rational Agent]]'s value for an [[outcome(s)]] can be measured by a (one-dimensional) number u($\huge o\tiny i\normalsize$) - the [[utility]] of the [[outcome(s)]] $\huge o\tiny i\normalsize$
+- the [[utility]] of a [[Probability]] 
 - cannot just sum up 2 utilities of 2 different agents
 	- because if we have different [[agent]] in the system $\rightarrow$ they might have outcomes that cannot be compared because we don't know in what scale they are working
