@@ -13,8 +13,8 @@ This can be achieved by a [[Depth-First Search (DFS)]] on a special kind of [[St
 The search space for this [[Depth-First Search (DFS)]] has certain very specific properties:
 - **If there are n variables, every [[solution(s)]] will occur at exactly depth n**
 - Variable assignments are commutative
-    > #Example  
-    > [**WA = red** then **NT = green**] same as [**NT = green** then **WA = red**]
+>	#Example  
+>	 [**WA = red** then **NT = green**] same as [**NT = green** then **WA = red**]
 
 > [[Breadth-First Search (BFS)]] is bad because of the possible [[branching factor(s)]] due to the number of variables which is equivalent to the depth which may take really long
 

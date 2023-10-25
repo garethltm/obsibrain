@@ -11,7 +11,8 @@
 ## Properties
 - [[Complete]]
 	- generally no! can get stuck in loops
->: but complete in finite space with repeated-state checking
+>	#Example 
+>	but [[complete]] in finite space with repeated-state checking
 - [[Time Complexity]]
 	- $O(b^m)$, where m is the maximum depth in search space
 - [[Space Complexity]]
