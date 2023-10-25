@@ -26,4 +26,7 @@ The following holds for all [[proposition]] $a$ & $b$ & $e$:
 - If a & b are [[logically equivalent (logical equivalence)]] $\rightarrow$ $P(a\ |\ e)=P(b\ |\ e)$
 - $P(a\ |\ e)=P(a\ \land \ b\ |\ e) +P(a\ \land \neg b\ |\ e)$
 	- $P(Sunny\ |\ NotHot)=P(Sunny\land Windy\ |\ NotHot) +P(Sunny\land NotWindy\ |\ NotHot)$
-- $P(a \lor b\ |\ e)=P(a\ |\ e) + P(b\ |\ e)-P(a\land b\ |$
+- $P(a \lor b\ |\ e)=P(a\ |\ e) + P(b\ |\ e)-P(a\land b\ |\ e)$
+	- $-P(a\land b\ |\ e)$: to prevent overcounting the intersection
+
+Chain rule: P(a \land b)=P(a)P(b\ |\ a)
