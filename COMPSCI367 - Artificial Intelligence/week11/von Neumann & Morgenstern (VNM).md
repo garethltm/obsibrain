@@ -1,4 +1,4 @@
-
+- if an [[agent]] is [[ration]]
 
 
 ### Consequences
