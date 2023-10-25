@@ -1,2 +1,2 @@
 the amount of attention that the output $y^{<t>}$ should pay to the activation $a^{<t'>}$ given by $\alpha ^{<t,t'>}$ computed as follows:
-$$\alpha ^{<t,t'>}=\frac {exp(e^{<t,t'>})}{\displaystyle\sum_{t''=1}^{T\tiny x\normalsize}exp(e^{<t,t''>})}$$D
+$$\alpha ^{<t,t'>}=\frac {exp(e^{<t,t'>})}{\displaystyle\sum_{t''=1}^{T\tiny x\normalsize}exp(e^{<t,t''>})}$$
