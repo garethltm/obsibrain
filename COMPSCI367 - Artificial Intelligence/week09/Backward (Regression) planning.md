@@ -14,4 +14,5 @@ start from [[goal(s) - goal state(s)]] & finding a sequene of steps that reaches
 
 ### Advantages
 generally reduced [[branching factor(s)]]. Suitable for cases when there is a large number of ground [[action(s)]]
-![[Pasted image 20231024154715.png]]
+>	#Example 
+>	![[Pasted image 20231024154715.png]]
