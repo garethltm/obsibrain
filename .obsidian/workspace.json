@@ -63,7 +63,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week10/Statistical Language Model.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week03/Variable Elimination.md",
                 "mode": "source",
                 "source": false
               }
@@ -160,7 +160,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "COMPSCI367 - Artificial Intelligence/week10/Statistical Language Model.md",
+                    "file": "COMPSCI367 - Artificial Intelligence/week03/Variable Elimination.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -260,7 +260,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week10/Statistical Language Model.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week03/Variable Elimination.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -277,7 +277,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week10/Statistical Language Model.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week03/Variable Elimination.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -300,7 +300,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week10/Statistical Language Model.md"
+                "file": "COMPSCI367 - Artificial Intelligence/week03/Variable Elimination.md"
               }
             }
           },
@@ -334,6 +334,10 @@
   },
   "active": "78003ac2d0f27c16",
   "lastOpenFiles": [
+    "COMPSCI367 - Artificial Intelligence/week10/Value of smoothing.md",
+    "COMPSCI367 - Artificial Intelligence/week04/temperature T.md",
+    "COMPSCI367 - Artificial Intelligence/week04/Systematic Search vs Local Search.md",
+    "COMPSCI367 - Artificial Intelligence/week10/Statistical Language Model.md",
     "COMPSCI367 - Artificial Intelligence/week10/Smoothing.md",
     "COMPSCI367 - Artificial Intelligence/week09/Remote Agent.md",
     "INFOSYS222 - Database Systems/Relationship.md",
@@ -356,10 +360,6 @@
     "COMPSCI367 - Artificial Intelligence/week11/von Neumann & Morgenstern (VNM).md",
     "COMPSCI367 - Artificial Intelligence/week10/Chain Rule.md",
     "COMPSCI367 - Artificial Intelligence/week02/Breadth-First Search (BFS).md",
-    "COMPSCI367 - Artificial Intelligence/week02/state(s).md",
-    "COMPSCI367 - Artificial Intelligence/week06/Atomic Propositions (atoms).md",
-    "COMPSCI367 - Artificial Intelligence/week11/Multi-dimensional Utility.md",
-    "COMPSCI367 - Artificial Intelligence/week06/Factored Representation.md",
     "@images/Pasted image 20231026100336.png",
     "@images/Pasted image 20231026010151.png",
     "@images/Pasted image 20231026010018.png",

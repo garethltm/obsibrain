@@ -11,10 +11,11 @@ Otherwise:
 > we want to construct a graph that represents the [[Constraint Satisfaction Problem (CSPs)]]; we want to eliminate the variables & introduce a new [[constraint(s)]] that doesn’t involve it
 
 
-### Example
-![[Pasted image 20231023171048.png]]Constraints: 
-	$A ≠ B, E ≠ C, E ≠ D, A < D,B < E, D < C, E-A$ is odd
-Variables: 
+>	#Example 
+>	![[Pasted image 20231023171048.png]]Constraints: 
+>	$A ≠ B, E ≠ C, E ≠ D, A < D,B < E, D < C, E-A$ is odd
+>	
+>	Variables: 
 	$A, B, C, D, E$
 Domains:
 	$A = {1,2}$
