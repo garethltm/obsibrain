@@ -1,5 +1,5 @@
 - Also known as [[iterative improvement]]
-- [[frontier (open list, fringe)]] maintains some unexpanded successors of expanded nodes
+- [[frontier (open list, fringe)]] maintains some unexpanded [[successor(s)]] of expanded nodes
 - Start from some [[state(s)]] & "move" from present location(s) to neighbouring location(s). 
 	- These moves are determined by the present location(s).
 - Not guaranteed to be [[complete]]
