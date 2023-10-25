@@ -1,1 +1,3 @@
-the study of utilities & their relations to pre
+the study of utilities & their relations to preferences over uncertain outcomes
+
+Related to: [[lottery]]

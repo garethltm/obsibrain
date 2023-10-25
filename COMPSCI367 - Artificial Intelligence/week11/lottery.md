@@ -1,0 +1,1 @@
+- a finite distribution over a set $$
