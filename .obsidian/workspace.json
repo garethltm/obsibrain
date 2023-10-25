@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week11/CPT Operations.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week10/Chain Rule.md",
                 "mode": "source",
                 "source": false
               }
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week11/CPT Operations.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week10/Chain Rule.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week11/CPT Operations.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week10/Chain Rule.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week11/CPT Operations.md"
+                "file": "COMPSCI367 - Artificial Intelligence/week10/Chain Rule.md"
               }
             }
           },
@@ -187,8 +187,10 @@
   },
   "active": "bcc7a7b87dd8df83",
   "lastOpenFiles": [
-    "COMPSCI367 - Artificial Intelligence/week11/CPT Operation 4 - Summation.md",
+    "COMPSCI367 - Artificial Intelligence/week11/Bayesian Network Inference.md",
     "COMPSCI367 - Artificial Intelligence/week11/CPT Operations.md",
+    "@images/COMPSCI3672023_S2W11Uncertainty2of2-15.jpg",
+    "COMPSCI367 - Artificial Intelligence/week11/CPT Operation 4 - Summation.md",
     "COMPSCI367 - Artificial Intelligence/week11/CPT Operation 3 - Normalisation.md",
     "COMPSCI367 - Artificial Intelligence/week11/CPT Operation 2 - Multiplication.md",
     "COMPSCI367 - Artificial Intelligence/week11/CPT Operation 1 - Restriction.md",
@@ -196,7 +198,6 @@
     "@images/Pasted image 20231025161014.png",
     "@images/Pasted image 20231025160943.png",
     "@images/Pasted image 20231025160918.png",
-    "COMPSCI367 - Artificial Intelligence/week11/Bayesian Network Inference.md",
     "@images/Pasted image 20231025160803.png",
     "COMPSCI367 - Artificial Intelligence/week11/Bayesian Networks.md",
     "COMPSCI367 - Artificial Intelligence/week11/Local Markov Property.md",
@@ -209,7 +210,6 @@
     "COMPSCI367 - Artificial Intelligence/week10/Independent (Independence).md",
     "@images/Pasted image 20231025160309.png",
     "COMPSCI367 - Artificial Intelligence/week10/Inference with Probability (Probabilistic Inference).md",
-    "@images/COMPSCI3672023_S2W11Uncertainty2of2-04.jpg",
     "COMPSCI367 - Artificial Intelligence/week09/Probability Theory.md",
     "COMPSCI367 - Artificial Intelligence/week10/Additivity.md",
     "COMPSCI367 - Artificial Intelligence/week10/Applying Bayes Rule.md",
@@ -222,7 +222,6 @@
     "COMPSCI367 - Artificial Intelligence/week10/Bayes Theorem.md",
     "COMPSCI367 - Artificial Intelligence/week10/belief measure.md",
     "COMPSCI367 - Artificial Intelligence/week10/calculus of belief.md",
-    "COMPSCI367 - Artificial Intelligence/week10/Chain Rule.md",
     "COMPSCI367 - Artificial Intelligence/week11",
     "COMPSCI367 - Artificial Intelligence/week08",
     "COMPSCI367 - Artificial Intelligence/week07",
