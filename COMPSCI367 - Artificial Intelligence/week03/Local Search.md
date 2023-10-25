@@ -2,7 +2,7 @@
 - [[frontier (open list, fringe)]] maintains some unexpanded successors of expanded nodes
 - Start from some [[state(s)]] & "move" from present location(s) to neighbouring location(s). 
 	- These moves are determined by the present location(s).
-- Not guaranteed to be [[COMPSCI367 - Artificial Intelligence/week02/Complete]]
+- Not guaranteed to be [[complete]]
 - [[Single-agent]] environment
 - designed to solve large complex search problems with small memory ([[Space Complexity]])
 	- small memory because you only need to know the [[current state]]

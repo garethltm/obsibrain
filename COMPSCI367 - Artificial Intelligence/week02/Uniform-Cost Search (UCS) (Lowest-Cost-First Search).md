@@ -17,7 +17,7 @@
 > Also, sorting whenever we add a node
 
 ## Properties
-1. [[COMPSCI367 - Artificial Intelligence/week02/Complete]]
+1. [[Complete]]
 	- Yes, if b is finite & if step cost ≥ ε with ε > 0
 2. [[Time Complexity]]
 	- $O(b^[1+\frac C ε])$ 
