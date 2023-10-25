@@ -6,27 +6,101 @@
       {
         "id": "e1ccbf259f6ba816",
         "type": "tabs",
-        "dimension": 74.61928934010153,
+        "dimension": 64.34010152284264,
         "children": [
+          {
+            "id": "bcc7a7b87dd8df83",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "COMPSCI367 - Artificial Intelligence/week05/Population-based Search.md",
+                "mode": "source",
+                "source": false
+              }
+            },
+            "group": "49e37924338b6c36"
+          },
           {
             "id": "9d16bf805036e931",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week12/Single-stage decision networks (SSDN).md",
+                "file": "COMPSCI367 - Artificial Intelligence/week02/State Space Problem.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "358f03c9716e94e8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "COMPSCI367 - Artificial Intelligence/week04/Hill-Climbing.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f29b33f23d11f1cc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "COMPSCI367 - Artificial Intelligence/week04/Hill-Climbing.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "78003ac2d0f27c16",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "COMPSCI367 - Artificial Intelligence/week04/Hill-Climbing.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d0f61cd9fefb8c2d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "COMPSCI367 - Artificial Intelligence/week11/outcomes.md",
                 "mode": "source",
                 "source": false
               }
             },
-            "group": "7923199754eed4a3"
+            "group": "bd9851f4b44cc862"
+          },
+          {
+            "id": "2602e13c15239a89",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "COMPSCI367 - Artificial Intelligence/week04/Enforced Hill-Climbing.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       },
       {
-        "id": "11f5110b1e91bcab",
+        "id": "992e264c1b226738",
         "type": "split",
-        "dimension": 25.380710659898476,
+        "dimension": 35.659898477157356,
         "children": [
           {
             "id": "8d459d1c85b8b9ed",
@@ -43,16 +117,52 @@
             ]
           },
           {
-            "id": "7883ac2ca26fc52e",
+            "id": "d9a730eda40123bb",
             "type": "tabs",
             "children": [
               {
-                "id": "c8759232c7bcce13",
+                "id": "7430a6c810762936",
                 "type": "leaf",
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "COMPSCI367 - Artificial Intelligence/week12/Single-stage decision networks (SSDN).md",
+                    "file": "COMPSCI367 - Artificial Intelligence/week05/Population-based Search.md",
+                    "options": {
+                      "collapse-filter": true,
+                      "search": "",
+                      "localJumps": 1,
+                      "localBacklinks": true,
+                      "localForelinks": true,
+                      "localInterlinks": false,
+                      "showTags": false,
+                      "showAttachments": false,
+                      "hideUnresolved": false,
+                      "collapse-color-groups": true,
+                      "colorGroups": [],
+                      "collapse-display": true,
+                      "showArrow": false,
+                      "textFadeMultiplier": 0,
+                      "nodeSizeMultiplier": 1,
+                      "lineSizeMultiplier": 1,
+                      "collapse-forces": true,
+                      "centerStrength": 0.518713248970312,
+                      "repelStrength": 10,
+                      "linkStrength": 1,
+                      "linkDistance": 250,
+                      "scale": 0.7356825628249143,
+                      "close": true
+                    }
+                  }
+                },
+                "group": "49e37924338b6c36"
+              },
+              {
+                "id": "a8b21011d3ee7aaa",
+                "type": "leaf",
+                "state": {
+                  "type": "localgraph",
+                  "state": {
+                    "file": "COMPSCI367 - Artificial Intelligence/week11/outcomes.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -76,13 +186,14 @@
                       "linkStrength": 1,
                       "linkDistance": 250,
                       "scale": 1,
-                      "close": true
+                      "close": false
                     }
                   }
                 },
-                "group": "7923199754eed4a3"
+                "group": "bd9851f4b44cc862"
               }
-            ]
+            ],
+            "currentTab": 1
           }
         ],
         "direction": "horizontal"
@@ -114,7 +225,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "queries",
+                "query": "language model",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -151,7 +262,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week12/Single-stage decision networks (SSDN).md",
+                "file": "COMPSCI367 - Artificial Intelligence/week11/outcomes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -168,7 +279,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week12/Single-stage decision networks (SSDN).md",
+                "file": "COMPSCI367 - Artificial Intelligence/week11/outcomes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -191,7 +302,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week12/Single-stage decision networks (SSDN).md"
+                "file": "COMPSCI367 - Artificial Intelligence/week11/outcomes.md"
               }
             }
           },
@@ -223,46 +334,46 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9d16bf805036e931",
+  "active": "d0f61cd9fefb8c2d",
   "lastOpenFiles": [
-    "@images/Pasted image 20231025182314.png",
-    "COMPSCI367 - Artificial Intelligence/week11/Local Markov Property.md",
-    "COMPSCI367 - Artificial Intelligence/week12/Single-stage decision networks (SSDN).md",
-    "COMPSCI367 - Artificial Intelligence/week10/conditional probability.md",
-    "COMPSCI367 - Artificial Intelligence/week11/One-off Decision Problem.md",
-    "COMPSCI367 - Artificial Intelligence/week06/Propositional Logic.md",
-    "COMPSCI367 - Artificial Intelligence/week04/Local Search in Continuous Space.md",
-    "Continuous State.md",
-    "COMPSCI367 - Artificial Intelligence/week10/Naïve Bayes classification.md",
-    "COMPSCI367 - Artificial Intelligence/week11/Linear scalability.md",
-    "COMPSCI367 - Artificial Intelligence/week12",
     "COMPSCI367 - Artificial Intelligence/week11/lottery.md",
-    "COMPSCI367 - Artificial Intelligence/week11/evaluate desirability.md",
+    "COMPSCI367 - Artificial Intelligence/week11/Linear scalability.md",
     "COMPSCI367 - Artificial Intelligence/week11/CPT Operations.md",
+    "COMPSCI367 - Artificial Intelligence/week11/CPT Operation 4 - Summation.md",
+    "COMPSCI367 - Artificial Intelligence/week11/CPT Operation 3 - Normalisation.md",
     "COMPSCI367 - Artificial Intelligence/week11/Bayesian Network Inference.md",
-    "COMPSCI367 - Artificial Intelligence/week11/Bayesian Networks.md",
-    "COMPSCI367 - Artificial Intelligence/week11/Planning with Uncertainty.md",
-    "COMPSCI367 - Artificial Intelligence/week11/Variable Elimination Algorithm (VE).md",
-    "COMPSCI367 - Artificial Intelligence/week11/Utility Theory.md",
-    "COMPSCI367 - Artificial Intelligence/week11/Utility function.md",
-    "COMPSCI367 - Artificial Intelligence/week11/outcomes.md",
-    "COMPSCI367 - Artificial Intelligence/week11/utility.md",
-    "COMPSCI367 - Artificial Intelligence/week11/von Neumann & Morgenstern (VNM).md",
-    "COMPSCI367 - Artificial Intelligence/week11/Axioms for Rationality.md",
     "COMPSCI367 - Artificial Intelligence/week11/Axiom 3 - Monotonicity.md",
     "COMPSCI367 - Artificial Intelligence/week11/Axiom 2 - Transitivity.md",
     "COMPSCI367 - Artificial Intelligence/week11/Axiom 1 - Completeness.md",
+    "COMPSCI367 - Artificial Intelligence/week10/degree of belief.md",
+    "COMPSCI367 - Artificial Intelligence/week12/Single-stage decision networks (SSDN).md",
+    "COMPSCI367 - Artificial Intelligence/week12",
+    "COMPSCI367 - Artificial Intelligence/week11/von Neumann & Morgenstern (VNM).md",
+    "COMPSCI367 - Artificial Intelligence/week11/Variable Elimination Algorithm (VE).md",
+    "COMPSCI367 - Artificial Intelligence/week11/utility.md",
+    "COMPSCI367 - Artificial Intelligence/week11/Utility theory.md",
+    "COMPSCI367 - Artificial Intelligence/week11/Utility function.md",
+    "COMPSCI367 - Artificial Intelligence/week11/Probabilistic Model.md",
+    "COMPSCI367 - Artificial Intelligence/week11/Planning with Uncertainty.md",
+    "COMPSCI367 - Artificial Intelligence/week11/outcomes.md",
+    "COMPSCI367 - Artificial Intelligence/week11/Local Markov Property.md",
+    "COMPSCI367 - Artificial Intelligence/week11/One-off Decision Problem.md",
+    "COMPSCI367 - Artificial Intelligence/week11/evaluate desirability.md",
+    "COMPSCI367 - Artificial Intelligence/week11/CPT Operation 1 - Restriction.md",
+    "COMPSCI367 - Artificial Intelligence/week11/CPT Operation 2 - Multiplication.md",
+    "COMPSCI367 - Artificial Intelligence/week11/Bayesian Networks.md",
+    "COMPSCI367 - Artificial Intelligence/week11/Axioms for Rationality.md",
+    "COMPSCI367 - Artificial Intelligence/week11",
+    "@images/Untitled.jpg",
+    "@images/Pasted image 20231025182314.png",
     "@images/Pasted image 20231025170547.png",
     "@images/Pasted image 20231025165611.png",
-    "@images/COMPSCI3672023_S2W11Uncertainty2of2-24.jpg",
     "@images/Pasted image 20231025162230.png",
-    "@images/COMPSCI3672023_S2W11Uncertainty2of2-22.jpg",
-    "@images/COMPSCI3672023_S2W11Uncertainty2of2-21.jpg",
-    "@images/COMPSCI3672023_S2W11Uncertainty2of2-20.jpg",
-    "@images/COMPSCI3672023_S2W11Uncertainty2of2-19.jpg",
-    "@images/COMPSCI3672023_S2W11Uncertainty2of2-17.jpg",
-    "@images/COMPSCI3672023_S2W11Uncertainty2of2-16.jpg",
-    "COMPSCI367 - Artificial Intelligence/week11",
+    "@images/Pasted image 20231025161047.png",
+    "@images/Pasted image 20231025161014.png",
+    "@images/Pasted image 20231025160943.png",
+    "@images/Pasted image 20231025160918.png",
+    "@images/Pasted image 20231025160803.png",
     "COMPSCI367 - Artificial Intelligence/week08",
     "COMPSCI367 - Artificial Intelligence/week07",
     "COMPSCI367 - Artificial Intelligence/week06",
