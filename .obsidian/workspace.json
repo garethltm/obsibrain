@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week10/Information Retrieval (IR).md",
+                "file": "COMPSCI367 - Artificial Intelligence/week09/Probability Theory.md",
                 "mode": "source",
                 "source": false
               }
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week10/Information Retrieval (IR).md",
+                "file": "COMPSCI367 - Artificial Intelligence/week09/Probability Theory.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week10/Information Retrieval (IR).md",
+                "file": "COMPSCI367 - Artificial Intelligence/week09/Probability Theory.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week10/Information Retrieval (IR).md"
+                "file": "COMPSCI367 - Artificial Intelligence/week09/Probability Theory.md"
               }
             }
           },
@@ -188,32 +188,32 @@
   },
   "active": "9d16bf805036e931",
   "lastOpenFiles": [
-    "COMPSCI367 - Artificial Intelligence/week10/Information Theory.md",
-    "COMPSCI367 - Artificial Intelligence/week10/Inverse Document Frequency (idf).md",
-    "COMPSCI367 - Artificial Intelligence/week10/Language Model.md",
-    "COMPSCI367 - Artificial Intelligence/week10/Joint Entropy.md",
-    "COMPSCI367 - Artificial Intelligence/week10/Laplace smoothing (add-one smoothing).md",
-    "COMPSCI367 - Artificial Intelligence/week10/Law of total probability.md",
-    "COMPSCI367 - Artificial Intelligence/week10/Machine Translation.md",
-    "COMPSCI367 - Artificial Intelligence/week10/Modern Problems - More subsequent lectures.md",
-    "COMPSCI367 - Artificial Intelligence/week10/Mutual Information.md",
-    "COMPSCI367 - Artificial Intelligence/week10/Naïve Bayes - Laplace smoothing.md",
-    "COMPSCI367 - Artificial Intelligence/week10/Naïve Bayes classification.md",
-    "COMPSCI367 - Artificial Intelligence/week10/Natural Language Processing (NLP).md",
-    "COMPSCI367 - Artificial Intelligence/week10/overfitting.md",
-    "COMPSCI367 - Artificial Intelligence/week10/Pipelined NLP.md",
-    "COMPSCI367 - Artificial Intelligence/week10/posterior evidence (posterior probability).md",
-    "COMPSCI367 - Artificial Intelligence/week10/Probability Distribution.md",
-    "COMPSCI367 - Artificial Intelligence/week10/Reason with Uncertainty.md",
-    "COMPSCI367 - Artificial Intelligence/week10/Recurrent Neural Network (RNN).md",
-    "COMPSCI367 - Artificial Intelligence/week10/sample.md",
-    "COMPSCI367 - Artificial Intelligence/week10/sample space.md",
-    "COMPSCI367 - Artificial Intelligence/week10/Shallow NLP.md",
-    "COMPSCI367 - Artificial Intelligence/week10/Smoothing.md",
-    "COMPSCI367 - Artificial Intelligence/week10/Speech Processing.md",
-    "COMPSCI367 - Artificial Intelligence/week10/Statistical Language Model.md",
-    "COMPSCI367 - Artificial Intelligence/week10/Symbolic Knowledge.md",
+    "COMPSCI367 - Artificial Intelligence/week10/Additivity.md",
+    "COMPSCI367 - Artificial Intelligence/week10/Applying Bayes Rule.md",
+    "COMPSCI367 - Artificial Intelligence/week10/Applying Bayes Rule for class ranking.md",
+    "COMPSCI367 - Artificial Intelligence/week10/Attention Mechanisms.md",
+    "COMPSCI367 - Artificial Intelligence/week10/Attention Model.md",
+    "COMPSCI367 - Artificial Intelligence/week10/Attention Weight.md",
+    "COMPSCI367 - Artificial Intelligence/week10/Autoregressive Language Models based on Deep Learning.md",
+    "COMPSCI367 - Artificial Intelligence/week10/Bayes Classifier - Conditional Independence.md",
+    "COMPSCI367 - Artificial Intelligence/week10/Bayes Rule with Existing Evidence.md",
+    "COMPSCI367 - Artificial Intelligence/week10/Bayes Theorem.md",
+    "COMPSCI367 - Artificial Intelligence/week10/belief measure.md",
+    "COMPSCI367 - Artificial Intelligence/week10/calculus of belief.md",
+    "COMPSCI367 - Artificial Intelligence/week10/Chain Rule.md",
+    "COMPSCI367 - Artificial Intelligence/week10/Conditional Probability Table (CPT).md",
+    "COMPSCI367 - Artificial Intelligence/week10/Compact Representation of Probability Distribution.md",
+    "COMPSCI367 - Artificial Intelligence/week10/Conditional Entropy.md",
+    "COMPSCI367 - Artificial Intelligence/week10/conditional probability.md",
+    "COMPSCI367 - Artificial Intelligence/week10/Data compression.md",
+    "COMPSCI367 - Artificial Intelligence/week10/data rate.md",
+    "COMPSCI367 - Artificial Intelligence/week10/degree of belief.md",
+    "COMPSCI367 - Artificial Intelligence/week10/Deriving Bayes Rule.md",
+    "COMPSCI367 - Artificial Intelligence/week10/disjoint subsets.md",
+    "COMPSCI367 - Artificial Intelligence/week10/Entropy (or self-information).md",
     "COMPSCI367 - Artificial Intelligence/week10/evidence.md",
+    "COMPSCI367 - Artificial Intelligence/week10/H.md",
+    "COMPSCI367 - Artificial Intelligence/week10/Independent (Independence).md",
     "COMPSCI367 - Artificial Intelligence/week11",
     "@images/COMPSCI3672023_S2W10Uncertainty1of2-22.jpg",
     "@images/COMPSCI3672023_S2W10Uncertainty1of2-21.jpg",
