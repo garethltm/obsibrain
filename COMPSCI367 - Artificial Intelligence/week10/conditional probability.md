@@ -12,7 +12,11 @@ The [[conditional probability]] $P(h\ |\ e)=\frac {P(h \land e)}{P(e)}=\frac {hy
 >	[[evidence]] $e$: $\neg Hot$
 >	
 >	Other [[evidence]]: 
->	$\begin 
->	P(Sunny \land \neg Hot)=0.19$
+>	$\begin {equation} \begin {split}
+>	P(Sunny \land \neg Hot)=0.19
+>	\end{split}
+>	\end{equation}
+>	$
+>	
 >	
 >	
