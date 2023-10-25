@@ -63,7 +63,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week09/uncertainty.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week08/Arithmetic.md",
                 "mode": "source",
                 "source": false
               }
@@ -160,7 +160,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "COMPSCI367 - Artificial Intelligence/week09/uncertainty.md",
+                    "file": "COMPSCI367 - Artificial Intelligence/week08/Arithmetic.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -259,7 +259,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week09/uncertainty.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week08/Arithmetic.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -276,7 +276,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week09/uncertainty.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week08/Arithmetic.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -299,7 +299,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week09/uncertainty.md"
+                "file": "COMPSCI367 - Artificial Intelligence/week08/Arithmetic.md"
               }
             }
           },
@@ -333,14 +333,19 @@
   },
   "active": "78003ac2d0f27c16",
   "lastOpenFiles": [
+    "COMPSCI367 - Artificial Intelligence/week08/algorithm.md",
+    "COMPSCI367 - Artificial Intelligence/week08/Arithmetic.md",
+    "COMPSCI367 - Artificial Intelligence/week09/Annotated Disjunction.md",
+    "COMPSCI367 - Artificial Intelligence/week09/Probability Theory.md",
+    "COMPSCI367 - Artificial Intelligence/week09/Problog.md",
+    "COMPSCI367 - Artificial Intelligence/week09/Remote Agent.md",
+    "COMPSCI367 - Artificial Intelligence/week09/SATPlan.md",
+    "COMPSCI367 - Artificial Intelligence/week09/worlds.md",
+    "COMPSCI367 - Artificial Intelligence/week09/uncertainty.md",
     "COMPSCI367 - Artificial Intelligence/week09/TranslateToSAT.md",
     "COMPSCI367 - Artificial Intelligence/week09/Search-based Planning Algorithm.md",
     "COMPSCI367 - Artificial Intelligence/week09/Search.md",
-    "COMPSCI367 - Artificial Intelligence/week09/SATPlan.md",
-    "COMPSCI367 - Artificial Intelligence/week09/Remote Agent.md",
-    "COMPSCI367 - Artificial Intelligence/week09/Problog.md",
     "COMPSCI367 - Artificial Intelligence/week09/Problem file.md",
-    "COMPSCI367 - Artificial Intelligence/week09/Probability Theory.md",
     "COMPSCI367 - Artificial Intelligence/week09/Probability.md",
     "COMPSCI367 - Artificial Intelligence/week09/Probabilistic Parsing.md",
     "COMPSCI367 - Artificial Intelligence/week09/Probabilistic Reasoning.md",
@@ -354,11 +359,6 @@
     "COMPSCI367 - Artificial Intelligence/week09/Forward (Progression) planning.md",
     "COMPSCI367 - Artificial Intelligence/week09/First Order Bayes Nets.md",
     "COMPSCI367 - Artificial Intelligence/week09/ExtractPlan.md",
-    "COMPSCI367 - Artificial Intelligence/week09/Evidence - Calculate probabilities given prior evidence.md",
-    "COMPSCI367 - Artificial Intelligence/week09/Annotated Disjunction.md",
-    "COMPSCI367 - Artificial Intelligence/week09/Backward (Regression) planning.md",
-    "COMPSCI367 - Artificial Intelligence/week09/Building a planner.md",
-    "COMPSCI367 - Artificial Intelligence/week09/Classical Planning.md",
     "@images/Pasted image 20231026105122.png",
     "@images/Pasted image 20231026105109.png",
     "@images/Pasted image 20231026105052.png",

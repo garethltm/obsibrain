@@ -1,1 +1,1 @@
-Logic + Control
+[[logic]] + Control
