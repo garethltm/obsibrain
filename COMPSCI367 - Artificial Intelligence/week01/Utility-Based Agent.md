@@ -7,3 +7,5 @@
 ![[Pasted image 20231012011352.png]]
 
 >Building a time-table for your courses where you don't know what it might look like in the end but you want to minimise the amount of waiting time
+
+![[Pasted image 20231025165611.png]]

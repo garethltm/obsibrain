@@ -11,4 +11,4 @@
 Thus the need to reason about [[uncertainty]] using tools like:
 1. [[Probability Theory]]: quantifying [[uncertainty]] & calculating expectations
 2. [[Bayesian Networks]]: reason about [[probability]] outcomes with imperfect information
-3. [[Utility theory]]
+3. [[Utility Theory]]
