@@ -1,2 +1,2 @@
 - [[Bayes Theorem]]
-- This means that $P(a\ |\ b)$ is proportional to $P(b\ |\ a) \times P(a)$, written as 
+- This means that $P(a\ |\ b)$ is proportional to $P(b\ |\ a) \times P(a)$, written as: $$P(a\ |\ b)
