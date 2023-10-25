@@ -1,4 +1,5 @@
-``in(auckland, northIs).``
+>	#Example 
+>	``in(auckland, northIs).``
 ``in(wellington, northIs).``
 ``samelsland(X, Z):- in(X, Y), in(Z, Y).``
 
