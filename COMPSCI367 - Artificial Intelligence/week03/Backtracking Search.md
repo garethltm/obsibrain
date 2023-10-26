@@ -27,4 +27,4 @@ General-purpose methods can give huge gains in speed:
 1. [[Minimum Remaining Values (MRV)]]
 2. [[Least Constrainting Value]]
 3. [[Forward Checking]]
-4. [[COMPSCI367 - Artificial Intelligence/week03/Variable Elimination]]
+4. [[Variable Elimination]]]
