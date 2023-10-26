@@ -58,18 +58,6 @@
             }
           },
           {
-            "id": "78003ac2d0f27c16",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "INFOSYS222 - Database Systems/Relationship-HP.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "2602e13c15239a89",
             "type": "leaf",
             "state": {
@@ -82,7 +70,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       },
       {
         "id": "992e264c1b226738",
@@ -149,7 +137,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "INFOSYS222 - Database Systems/Relationship-HP.md",
+                    "file": "COMPSCI367 - Artificial Intelligence/week04/Hill-Climbing.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -249,7 +237,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "INFOSYS222 - Database Systems/Relationship-HP.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week04/Hill-Climbing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -266,7 +254,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "INFOSYS222 - Database Systems/Relationship-HP.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week04/Hill-Climbing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -289,7 +277,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "INFOSYS222 - Database Systems/Relationship-HP.md"
+                "file": "COMPSCI367 - Artificial Intelligence/week04/Hill-Climbing.md"
               }
             }
           },
@@ -321,9 +309,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a6e0090ac9cbd1f3",
+  "active": "f29b33f23d11f1cc",
   "lastOpenFiles": [
     "COMPSCI367 - Artificial Intelligence/week11/Additive independence property.md",
+    "COMPSCI367 - Artificial Intelligence/week01/agent(s)-HP.md",
+    "INFOSYS222 - Database Systems/DQL - Data Query Language-HP.md",
+    "COMPSCI367 - Artificial Intelligence/week11/Expected utility hypothesis-HP.md",
+    "COMPSCI367 - Artificial Intelligence/week11/expected utility-HP.md",
+    "COMPSCI367 - Artificial Intelligence/week10/independent (independence)-HP.md",
+    "COMPSCI367 - Artificial Intelligence/week11/Multi-dimensional Utility-HP.md",
+    "COMPSCI367 - Artificial Intelligence/week11/One-off Decision-HP.md",
+    "INFOSYS222 - Database Systems/Relationship-HP.md",
     "COMPSCI367 - Artificial Intelligence/week11/Additive independence property-HP.md",
     "COMPSCI367 - Artificial Intelligence/week11/von Neumann & Morgenstern (VNM).md",
     "COMPSCI367 - Artificial Intelligence/week04/Hill-Climbing.md",
@@ -334,19 +330,11 @@
     "COMPSCI367 - Artificial Intelligence/week01/Goal(s) - Goal State(s).md",
     "COMPSCI367 - Artificial Intelligence/week01/Multi-agent.md",
     "COMPSCI367 - Artificial Intelligence/week01/Performance measure.md",
-    "INFOSYS222 - Database Systems/DQL - Data Query Language-HP.md",
-    "INFOSYS222 - Database Systems/Relationship-HP.md",
-    "COMPSCI367 - Artificial Intelligence/week11/expected utility-HP.md",
     "COMPSCI367 - Artificial Intelligence/week11/expected utility.md",
-    "COMPSCI367 - Artificial Intelligence/week11/Multi-dimensional Utility-HP.md",
     "COMPSCI367 - Artificial Intelligence/week11/Multi-dimensional Utility.md",
-    "COMPSCI367 - Artificial Intelligence/week11/Expected utility hypothesis-HP.md",
     "COMPSCI367 - Artificial Intelligence/week11/Expected utility hypothesis.md",
-    "COMPSCI367 - Artificial Intelligence/week11/One-off Decision-HP.md",
-    "COMPSCI367 - Artificial Intelligence/week10/independent (independence)-HP.md",
     "COMPSCI367 - Artificial Intelligence/week10/independent (independence).md",
     "COMPSCI367 - Artificial Intelligence/week02/state(s).md",
-    "COMPSCI367 - Artificial Intelligence/week01/agent(s)-HP.md",
     "COMPSCI367 - Artificial Intelligence/week01/agent(s).md",
     "COMPSCI367 - Artificial Intelligence/week12/value of a decision network.md",
     "@images/Pasted image 20231026174833.png",
