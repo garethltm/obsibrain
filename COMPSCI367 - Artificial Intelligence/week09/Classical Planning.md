@@ -1,6 +1,6 @@
 - finding a sequence of [[action(s)]] to get from an [[initial state (start state)]] to a [[goal(s) - goal state(s)]] as a [[Planning task]] with the following assumptions:
-	-  a finite [[State Space]] → in regards to the series of [[action(s)]] performed to achieve the [[goal(s) - goal state(s)]] from an [[initial state (start state)]]
-	- [[fully observable]] → no need to worry about uncertainty, the can tell which [[state(s)]] we are in
+	-  ==a finite [[State Space]]== → in regards to the series of [[action(s)]] performed to achieve the [[goal(s) - goal state(s)]] from an [[initial state (start state)]]
+	- ==[[fully observable]]== → no need to worry about uncertainty, the can tell which [[state(s)]] we are in
 	- [[deterministic]] actions → knowing the before & after [[state(s)]] that the [[action(s)]] is performed, each [[action(s)]] has one outcome, which can be forseen by the [[agent(s)]]
 	- nothing changes unless the [[agent(s)]] changes
 	- [[goal(s) - goal state(s)]] must be achieved
