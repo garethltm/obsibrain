@@ -2,4 +2,4 @@
 ![[Pasted image 20231026104435.png]]
 ### [[One-off Decision]] Problem can be described by 2 types of Knowledge Representations
 1. [[Decision Trees]]
-2. [[Decision Network-based sequential decision problem (DN-based sequential decision problem)]]
+2. [[Decision Network]]

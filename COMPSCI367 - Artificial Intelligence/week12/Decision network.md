@@ -6,7 +6,7 @@ a [[Probability]] graph model that ==extends a [[Single-stage decision networks 
 - [[Conditional Probability Table (CPT)]] where $P(C\tiny i\normalsize | parents(C\tiny i\normalsize)$) is assigned to every [[Chance nodes]]
 - [[Utility function]] u(parents(u)) is given
 
-We will be assuming the [[no forgetting property]] for all [[Decision network]]
+We will be assuming the [[no forgetting property]] for all [[Decision Network]]
 
 
 

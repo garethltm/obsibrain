@@ -1,1 +1,1 @@
-[[Decision Network-based sequential decision problem (DN-based sequential decision problem)]] asks for [[optimal policy]] (which maximises the [[expected utility]]) & the value of a given [[Decision network]]
+[[Decision Network-based sequential decision problem (DN-based sequential decision problem)]] asks for [[optimal policy]] (which maximises the [[expected utility]]) & the value of a given [[Decision Network]]
