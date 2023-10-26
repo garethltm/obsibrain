@@ -10,9 +10,11 @@ We will be assuming the [[no forgetting property]] for all [[Decision network]]
 
 >	#Example 
 >	Should an [[agent(s)]] take an umbrella?
+>	
 >	[[Chance nodes]]: 
 >	1. Weather: {*norain, rain*}
 >	2. Forecast: {*sunny, cloudy, rainy*}
->	3. 
->	
+>	[[Decision nodes]]:
+>	Umbrella: {0, 1}
+>	![[Pasted image 20231026165531.png]]
 
