@@ -63,34 +63,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week04/Hill-Climbing.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d0f61cd9fefb8c2d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "COMPSCI367 - Artificial Intelligence/week11/von Neumann & Morgenstern (VNM).md",
                 "mode": "source",
                 "source": false
-              }
-            },
-            "group": "bd9851f4b44cc862"
-          },
-          {
-            "id": "5923d6ac5ced3395",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week11/von Neumann & Morgenstern (VNM).md",
-                "mode": "source",
-                "source": true
               }
             }
           },
@@ -107,7 +82,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 4
       },
       {
         "id": "992e264c1b226738",
@@ -201,8 +176,7 @@
                       "close": false
                     }
                   }
-                },
-                "group": "bd9851f4b44cc862"
+                }
               }
             ],
             "currentTab": 1
@@ -346,11 +320,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5923d6ac5ced3395",
+  "active": "78003ac2d0f27c16",
   "lastOpenFiles": [
+    "COMPSCI367 - Artificial Intelligence/week04/Hill-Climbing.md",
+    "COMPSCI367 - Artificial Intelligence/week11/von Neumann & Morgenstern (VNM).md",
     "COMPSCI367 - Artificial Intelligence/week11/One-off Decision.md",
     "conflict-files-obsidian-git.md",
-    "COMPSCI367 - Artificial Intelligence/week11/von Neumann & Morgenstern (VNM).md",
     "COMPSCI367 - Artificial Intelligence/week11/Decision Trees.md",
     "COMPSCI367 - Artificial Intelligence/week01/Environment.md",
     "COMPSCI367 - Artificial Intelligence/week01/Goal(s) - Goal State(s).md",
@@ -373,7 +348,6 @@
     "COMPSCI367 - Artificial Intelligence/week01/agent(s).md",
     "COMPSCI367 - Artificial Intelligence/week12/value of a decision network.md",
     "COMPSCI367 - Artificial Intelligence/week12/state (ω).md",
-    "COMPSCI367 - Artificial Intelligence/week12/policy.md",
     "@images/Pasted image 20231026174833.png",
     "@images/Pasted image 20231026174606.png",
     "@images/Pasted image 20231026170928.png",
