@@ -63,7 +63,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week12/policy (π).md",
+                "file": "COMPSCI367 - Artificial Intelligence/week12/Single-stage decision networks (SSDN).md",
                 "mode": "source",
                 "source": false
               }
@@ -160,7 +160,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "COMPSCI367 - Artificial Intelligence/week12/policy (π).md",
+                    "file": "COMPSCI367 - Artificial Intelligence/week12/Single-stage decision networks (SSDN).md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -259,7 +259,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week12/policy (π).md",
+                "file": "COMPSCI367 - Artificial Intelligence/week12/Single-stage decision networks (SSDN).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -276,7 +276,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week12/policy (π).md",
+                "file": "COMPSCI367 - Artificial Intelligence/week12/Single-stage decision networks (SSDN).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -299,7 +299,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week12/policy (π).md"
+                "file": "COMPSCI367 - Artificial Intelligence/week12/Single-stage decision networks (SSDN).md"
               }
             }
           },
@@ -333,13 +333,18 @@
   },
   "active": "78003ac2d0f27c16",
   "lastOpenFiles": [
+    "@images/COMPSCI3672022_S2W12Lecture35Decision2of2-15.jpg",
+    "COMPSCI367 - Artificial Intelligence/week12/Sequential Decision Problem.md",
+    "COMPSCI367 - Artificial Intelligence/week12/Single-stage decision networks (SSDN).md",
+    "COMPSCI367 - Artificial Intelligence/week12/SSDN-based one-off decision problem.md",
+    "COMPSCI367 - Artificial Intelligence/week12/state (ω).md",
+    "COMPSCI367 - Artificial Intelligence/week12/value of a decision network.md",
+    "COMPSCI367 - Artificial Intelligence/week12/policy (π).md",
     "@images/Pasted image 20231026170928.png",
     "@images/Pasted image 20231026170850.png",
     "COMPSCI367 - Artificial Intelligence/week12/Decision Network-based sequential decision problem (DN-based sequential decision problem).md",
-    "COMPSCI367 - Artificial Intelligence/week12/policy (π).md",
     "@images/Pasted image 20231026170612.png",
     "@images/Pasted image 20231026170532.png",
-    "COMPSCI367 - Artificial Intelligence/week12/state (ω).md",
     "COMPSCI367 - Artificial Intelligence/week12/policy.md",
     "COMPSCI367 - Artificial Intelligence/week12/Decision function.md",
     "@images/Pasted image 20231026165939.png",
@@ -350,18 +355,13 @@
     "COMPSCI367 - Artificial Intelligence/week12/no forgetting property.md",
     "COMPSCI367 - Artificial Intelligence/week12/Decision nodes.md",
     "COMPSCI367 - Artificial Intelligence/week12/Finite horizon.md",
-    "COMPSCI367 - Artificial Intelligence/week12/Sequential Decision Problem.md",
     "COMPSCI367 - Artificial Intelligence/week12/Indefinite horizon or infinite horizon.md",
-    "COMPSCI367 - Artificial Intelligence/week12/Single-stage decision networks (SSDN).md",
     "COMPSCI367 - Artificial Intelligence/week01/Utility-Based Agent.md",
     "@images/COMPSCI3672022_S2W12Lecture35Decision2of2-08.jpg",
     "@images/Pasted image 20231026163536.png",
     "@images/Pasted image 20231026163437.png",
     "COMPSCI367 - Artificial Intelligence/week09/TranslateToSAT.md",
-    "COMPSCI367 - Artificial Intelligence/week12/SSDN-based one-off decision problem.md",
-    "COMPSCI367 - Artificial Intelligence/week12/value of a decision network.md",
     "COMPSCI367 - Artificial Intelligence/week12/optimal policy.md",
-    "@images/COMPSCI3672022_S2W12Lecture35Decision2of2-04.jpg",
     "COMPSCI367 - Artificial Intelligence/week12/Chance nodes.md",
     "COMPSCI367 - Artificial Intelligence/week11/One-off Decision.md",
     "COMPSCI367 - Artificial Intelligence/week11/outcome(s).md",
