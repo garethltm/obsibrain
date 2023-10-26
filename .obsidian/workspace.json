@@ -63,7 +63,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week06/Duality of Syntax vs Semantics.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week06/Logic Inference vs Constraint Satisfaction.md",
                 "mode": "source",
                 "source": false
               }
@@ -160,7 +160,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "COMPSCI367 - Artificial Intelligence/week06/Duality of Syntax vs Semantics.md",
+                    "file": "COMPSCI367 - Artificial Intelligence/week06/Logic Inference vs Constraint Satisfaction.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -259,7 +259,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week06/Duality of Syntax vs Semantics.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week06/Logic Inference vs Constraint Satisfaction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -276,7 +276,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week06/Duality of Syntax vs Semantics.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week06/Logic Inference vs Constraint Satisfaction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -299,7 +299,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week06/Duality of Syntax vs Semantics.md"
+                "file": "COMPSCI367 - Artificial Intelligence/week06/Logic Inference vs Constraint Satisfaction.md"
               }
             }
           },
@@ -333,9 +333,21 @@
   },
   "active": "78003ac2d0f27c16",
   "lastOpenFiles": [
+    "COMPSCI367 - Artificial Intelligence/week06/Logic Inference Problem.md",
+    "COMPSCI367 - Artificial Intelligence/week06/literal(s).md",
+    "COMPSCI367 - Artificial Intelligence/week06/language(s).md",
+    "COMPSCI367 - Artificial Intelligence/week06/Knowledge-based Agents.md",
+    "COMPSCI367 - Artificial Intelligence/week06/Knowledge Representation Language.md",
+    "COMPSCI367 - Artificial Intelligence/week06/Structured Representation.md",
+    "COMPSCI367 - Artificial Intelligence/week06/Knowledge Base (KB).md",
+    "COMPSCI367 - Artificial Intelligence/week06/knowledge.md",
+    "COMPSCI367 - Artificial Intelligence/week06/interpretation.md",
+    "COMPSCI367 - Artificial Intelligence/week06/intelligent.md",
+    "COMPSCI367 - Artificial Intelligence/week06/inference(s).md",
+    "COMPSCI367 - Artificial Intelligence/week06/Inference engines (IE).md",
+    "COMPSCI367 - Artificial Intelligence/week06/Duality of Syntax vs Semantics.md",
     "COMPSCI367 - Artificial Intelligence/week06/Factored Representation.md",
     "COMPSCI367 - Artificial Intelligence/week06/Equivalence between inference & satisfiability.md",
-    "COMPSCI367 - Artificial Intelligence/week06/Duality of Syntax vs Semantics.md",
     "COMPSCI367 - Artificial Intelligence/week06/DPLL algorithm.md",
     "COMPSCI367 - Artificial Intelligence/week06/connectives.md",
     "COMPSCI367 - Artificial Intelligence/week06/Compound Propositions (Compound Entities).md",
@@ -347,18 +359,6 @@
     "COMPSCI367 - Artificial Intelligence/week01/Percepts.md",
     "COMPSCI367 - Artificial Intelligence/week05/two-player zero-sum games.md",
     "COMPSCI367 - Artificial Intelligence/week05/Solving Optimisation problems.md",
-    "COMPSCI367 - Artificial Intelligence/week05/Alpha-Beta Pruning.md",
-    "COMPSCI367 - Artificial Intelligence/week05/Boltzmann distribution.md",
-    "COMPSCI367 - Artificial Intelligence/week05/Adversarial Search.md",
-    "COMPSCI367 - Artificial Intelligence/week05/Stochastic Beam Search (SBS).md",
-    "COMPSCI367 - Artificial Intelligence/week05/reproduce.md",
-    "COMPSCI367 - Artificial Intelligence/week05/Population-based Search.md",
-    "COMPSCI367 - Artificial Intelligence/week05/population.md",
-    "COMPSCI367 - Artificial Intelligence/week05/mutation operation.md",
-    "COMPSCI367 - Artificial Intelligence/week05/Multi-agent System.md",
-    "COMPSCI367 - Artificial Intelligence/week05/(partially) cooperative multi-agent environment.md",
-    "COMPSCI367 - Artificial Intelligence/week05/Minmax Algorithm.md",
-    "COMPSCI367 - Artificial Intelligence/week05/Local beam Search.md",
     "@images/COMPSCI3672022_S2W12Lecture35Decision2of2-23.jpg",
     "@images/COMPSCI3672022_S2W12Lecture35Decision2of2-22.jpg",
     "@images/Pasted image 20231026174833.png",
