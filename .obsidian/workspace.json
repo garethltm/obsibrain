@@ -63,7 +63,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week12/Decision nodes.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week12/Chance nodes.md",
                 "mode": "source",
                 "source": false
               }
@@ -160,7 +160,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "COMPSCI367 - Artificial Intelligence/week12/Decision nodes.md",
+                    "file": "COMPSCI367 - Artificial Intelligence/week12/Chance nodes.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -259,7 +259,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week12/Decision nodes.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week12/Chance nodes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -276,7 +276,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week12/Decision nodes.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week12/Chance nodes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -299,7 +299,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week12/Decision nodes.md"
+                "file": "COMPSCI367 - Artificial Intelligence/week12/Chance nodes.md"
               }
             }
           },
@@ -333,8 +333,9 @@
   },
   "active": "78003ac2d0f27c16",
   "lastOpenFiles": [
-    "COMPSCI367 - Artificial Intelligence/week12/Single-stage decision networks (SSDN).md",
     "COMPSCI367 - Artificial Intelligence/week12/Decision nodes.md",
+    "COMPSCI367 - Artificial Intelligence/week12/Chance nodes.md",
+    "COMPSCI367 - Artificial Intelligence/week12/Single-stage decision networks (SSDN).md",
     "COMPSCI367 - Artificial Intelligence/week11/One-off Decision.md",
     "COMPSCI367 - Artificial Intelligence/week11/outcome(s).md",
     "COMPSCI367 - Artificial Intelligence/week11/Planning with Uncertainty.md",
@@ -358,7 +359,6 @@
     "COMPSCI367 - Artificial Intelligence/week04/Bernoulli random variable.md",
     "COMPSCI367 - Artificial Intelligence/week04/Annealing.md",
     "COMPSCI367 - Artificial Intelligence/week05/(partially) cooperative multi-agent environment.md",
-    "COMPSCI367 - Artificial Intelligence/week05/two-player zero-sum games.md",
     "@images/Pasted image 20231026105122.png",
     "@images/Pasted image 20231026105109.png",
     "@images/Pasted image 20231026105052.png",
