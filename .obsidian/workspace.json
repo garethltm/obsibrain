@@ -75,7 +75,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week07/Verbose.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week06/Inference Engine Example.md",
                 "mode": "preview",
                 "source": false
               }
@@ -172,7 +172,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "COMPSCI367 - Artificial Intelligence/week07/Verbose.md",
+                    "file": "COMPSCI367 - Artificial Intelligence/week06/Inference Engine Example.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -271,7 +271,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week07/Verbose.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week06/Inference Engine Example.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -288,7 +288,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week07/Verbose.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week06/Inference Engine Example.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -311,7 +311,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week07/Verbose.md"
+                "file": "COMPSCI367 - Artificial Intelligence/week06/Inference Engine Example.md"
               }
             }
           },
@@ -345,6 +345,9 @@
   },
   "active": "8fa7e30c89f23bef",
   "lastOpenFiles": [
+    "COMPSCI367 - Artificial Intelligence/week07/Verbose.md",
+    "COMPSCI367 - Artificial Intelligence/week06/Inference engines (IE).md",
+    "COMPSCI367 - Artificial Intelligence/week07/What logic needs to be.md",
     "COMPSCI367 - Artificial Intelligence/week07/subgoal.md",
     "COMPSCI367 - Artificial Intelligence/week07/Soundness.md",
     "COMPSCI367 - Artificial Intelligence/week07/Forward Chaining.md",
@@ -365,12 +368,9 @@
     "COMPSCI367 - Artificial Intelligence/week06/semantics.md",
     "COMPSCI367 - Artificial Intelligence/week06/logically equivalent (logical equivalence).md",
     "COMPSCI367 - Artificial Intelligence/week06/Inference Engine Example.md",
-    "COMPSCI367 - Artificial Intelligence/week06/Inference engines (IE).md",
     "COMPSCI367 - Artificial Intelligence/week06/language(s).md",
     "COMPSCI367 - Artificial Intelligence/week06/literal(s).md",
     "COMPSCI367 - Artificial Intelligence/week06/Logic Inference vs Constraint Satisfaction.md",
-    "COMPSCI367 - Artificial Intelligence/week06/logically implies.md",
-    "COMPSCI367 - Artificial Intelligence/week06/logical consequence.md",
     "@images/COMPSCI3672022_S2W12Lecture35Decision2of2-23.jpg",
     "@images/COMPSCI3672022_S2W12Lecture35Decision2of2-22.jpg",
     "@images/Pasted image 20231026174833.png",
