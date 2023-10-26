@@ -61,8 +61,12 @@
             "id": "78003ac2d0f27c16",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
@@ -156,6 +160,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
+                    "file": "README.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -254,6 +259,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -270,6 +276,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -291,7 +298,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "README.md"
+              }
             }
           },
           {
@@ -331,7 +340,7 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "2462874ab3fccbcf",
+  "active": "78003ac2d0f27c16",
   "lastOpenFiles": [
     "INFOSYS222 - Database Systems/Attribute(s).md",
     "COMPSCI367 - Artificial Intelligence/week02/state(s).md",
