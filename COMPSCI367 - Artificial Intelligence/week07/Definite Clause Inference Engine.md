@@ -8,7 +8,7 @@
 >	The detective uses logical reasoning (the [[inference(s)]] rules) to connect the facts and reach a conclusion (the proof). 
 >	If the detective can show that the conclusion logically follows from the facts, then they have solved the case.
 
-
+>	Check [[Inference Engine Example]]
 ## Abstract Idea
 - [[Proof procedure]]
 - [[Soundness]]

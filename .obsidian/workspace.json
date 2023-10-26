@@ -75,8 +75,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week07/Definite Clause Inference Engine.md",
-                "mode": "source",
+                "file": "COMPSCI367 - Artificial Intelligence/week07/Forward Chaining.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -172,7 +172,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "COMPSCI367 - Artificial Intelligence/week07/Definite Clause Inference Engine.md",
+                    "file": "COMPSCI367 - Artificial Intelligence/week07/Forward Chaining.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -271,7 +271,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week07/Definite Clause Inference Engine.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week07/Forward Chaining.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -288,7 +288,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week07/Definite Clause Inference Engine.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week07/Forward Chaining.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -311,7 +311,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week07/Definite Clause Inference Engine.md"
+                "file": "COMPSCI367 - Artificial Intelligence/week07/Forward Chaining.md"
               }
             }
           },
@@ -345,6 +345,7 @@
   },
   "active": "8fa7e30c89f23bef",
   "lastOpenFiles": [
+    "COMPSCI367 - Artificial Intelligence/week07/Expressive.md",
     "COMPSCI367 - Artificial Intelligence/week07/entails.md",
     "COMPSCI367 - Artificial Intelligence/week07/Definite Clause Inference Engine.md",
     "COMPSCI367 - Artificial Intelligence/week07/Definite clause.md",
@@ -370,7 +371,6 @@
     "COMPSCI367 - Artificial Intelligence/week06/SAT solvers.md",
     "COMPSCI367 - Artificial Intelligence/week06/Reasoning.md",
     "COMPSCI367 - Artificial Intelligence/week06/Propositional Logic with Wumpus World.md",
-    "COMPSCI367 - Artificial Intelligence/week06/Propositional Logic Inference Engine.md",
     "@images/COMPSCI3672022_S2W12Lecture35Decision2of2-23.jpg",
     "@images/COMPSCI3672022_S2W12Lecture35Decision2of2-22.jpg",
     "@images/Pasted image 20231026174833.png",
