@@ -63,7 +63,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week12/Untitled.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week12/Decision Network-based sequential decision problem (DN-based sequential decision problem).md",
                 "mode": "source",
                 "source": false
               }
@@ -160,7 +160,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "COMPSCI367 - Artificial Intelligence/week12/Untitled.md",
+                    "file": "COMPSCI367 - Artificial Intelligence/week12/Decision Network-based sequential decision problem (DN-based sequential decision problem).md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -259,7 +259,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week12/Untitled.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week12/Decision Network-based sequential decision problem (DN-based sequential decision problem).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -276,7 +276,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week12/Untitled.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week12/Decision Network-based sequential decision problem (DN-based sequential decision problem).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -299,7 +299,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week12/Untitled.md"
+                "file": "COMPSCI367 - Artificial Intelligence/week12/Decision Network-based sequential decision problem (DN-based sequential decision problem).md"
               }
             }
           },
@@ -334,7 +334,7 @@
   "active": "78003ac2d0f27c16",
   "lastOpenFiles": [
     "COMPSCI367 - Artificial Intelligence/week12/policy (π).md",
-    "COMPSCI367 - Artificial Intelligence/week12/Untitled.md",
+    "COMPSCI367 - Artificial Intelligence/week12/Decision Network-based sequential decision problem (DN-based sequential decision problem).md",
     "@images/Pasted image 20231026170612.png",
     "@images/Pasted image 20231026170532.png",
     "COMPSCI367 - Artificial Intelligence/week12/state (ω).md",
