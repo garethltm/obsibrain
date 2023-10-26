@@ -63,7 +63,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week12/Single-stage decision networks (SSDN).md",
+                "file": "COMPSCI367 - Artificial Intelligence/week12/policy.md",
                 "mode": "source",
                 "source": false
               }
@@ -160,7 +160,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "COMPSCI367 - Artificial Intelligence/week12/Single-stage decision networks (SSDN).md",
+                    "file": "COMPSCI367 - Artificial Intelligence/week12/policy.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -259,7 +259,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week12/Single-stage decision networks (SSDN).md",
+                "file": "COMPSCI367 - Artificial Intelligence/week12/policy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -276,7 +276,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week12/Single-stage decision networks (SSDN).md",
+                "file": "COMPSCI367 - Artificial Intelligence/week12/policy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -299,7 +299,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week12/Single-stage decision networks (SSDN).md"
+                "file": "COMPSCI367 - Artificial Intelligence/week12/policy.md"
               }
             }
           },
@@ -333,11 +333,12 @@
   },
   "active": "78003ac2d0f27c16",
   "lastOpenFiles": [
+    "COMPSCI367 - Artificial Intelligence/week12/Single-stage decision networks (SSDN).md",
+    "COMPSCI367 - Artificial Intelligence/week12/policy.md",
     "@images/COMPSCI3672022_S2W12Lecture35Decision2of2-04.jpg",
     "@images/COMPSCI3672022_S2W12Lecture35Decision2of2-06.jpg",
     "COMPSCI367 - Artificial Intelligence/week12/Decision nodes.md",
     "COMPSCI367 - Artificial Intelligence/week12/Chance nodes.md",
-    "COMPSCI367 - Artificial Intelligence/week12/Single-stage decision networks (SSDN).md",
     "COMPSCI367 - Artificial Intelligence/week11/One-off Decision.md",
     "COMPSCI367 - Artificial Intelligence/week11/outcome(s).md",
     "COMPSCI367 - Artificial Intelligence/week11/Planning with Uncertainty.md",
@@ -368,7 +369,6 @@
     "@images/Pasted image 20231026104137.png",
     "@images/Pasted image 20231026100336.png",
     "@images/Pasted image 20231026010151.png",
-    "@images/Pasted image 20231026010018.png",
     "COMPSCI367 - Artificial Intelligence/week12",
     "COMPSCI367 - Artificial Intelligence/week11",
     "COMPSCI367 - Artificial Intelligence/week08",
