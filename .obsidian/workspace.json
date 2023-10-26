@@ -75,7 +75,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week07/subgoal.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week07/Verbose.md",
                 "mode": "preview",
                 "source": false
               }
@@ -172,7 +172,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "COMPSCI367 - Artificial Intelligence/week07/subgoal.md",
+                    "file": "COMPSCI367 - Artificial Intelligence/week07/Verbose.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -271,7 +271,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week07/subgoal.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week07/Verbose.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -288,7 +288,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week07/subgoal.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week07/Verbose.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -311,7 +311,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week07/subgoal.md"
+                "file": "COMPSCI367 - Artificial Intelligence/week07/Verbose.md"
               }
             }
           },
@@ -345,10 +345,10 @@
   },
   "active": "8fa7e30c89f23bef",
   "lastOpenFiles": [
+    "COMPSCI367 - Artificial Intelligence/week07/subgoal.md",
     "COMPSCI367 - Artificial Intelligence/week07/Soundness.md",
     "COMPSCI367 - Artificial Intelligence/week07/Forward Chaining.md",
     "COMPSCI367 - Artificial Intelligence/week07/SLD Resolution (Backward chaining).md",
-    "COMPSCI367 - Artificial Intelligence/week07/subgoal.md",
     "COMPSCI367 - Artificial Intelligence/week07/Completeness.md",
     "COMPSCI367 - Artificial Intelligence/week07/SLD derivation.md",
     "COMPSCI367 - Artificial Intelligence/week07/Expressive.md",
