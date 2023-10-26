@@ -63,7 +63,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week11/von Neumann & Morgenstern (VNM).md",
+                "file": "INFOSYS222 - Database Systems/Relationship-HP.md",
                 "mode": "source",
                 "source": false
               }
@@ -149,7 +149,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "COMPSCI367 - Artificial Intelligence/week11/von Neumann & Morgenstern (VNM).md",
+                    "file": "INFOSYS222 - Database Systems/Relationship-HP.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -211,7 +211,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "language model",
+                "query": "hp",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -228,7 +228,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -248,7 +249,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week11/von Neumann & Morgenstern (VNM).md",
+                "file": "INFOSYS222 - Database Systems/Relationship-HP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -265,7 +266,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week11/von Neumann & Morgenstern (VNM).md",
+                "file": "INFOSYS222 - Database Systems/Relationship-HP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -288,7 +289,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week11/von Neumann & Morgenstern (VNM).md"
+                "file": "INFOSYS222 - Database Systems/Relationship-HP.md"
               }
             }
           },
@@ -320,10 +321,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "78003ac2d0f27c16",
+  "active": "a6e0090ac9cbd1f3",
   "lastOpenFiles": [
-    "COMPSCI367 - Artificial Intelligence/week04/Hill-Climbing.md",
+    "COMPSCI367 - Artificial Intelligence/week11/Additive independence property.md",
+    "COMPSCI367 - Artificial Intelligence/week11/Additive independence property-HP.md",
     "COMPSCI367 - Artificial Intelligence/week11/von Neumann & Morgenstern (VNM).md",
+    "COMPSCI367 - Artificial Intelligence/week04/Hill-Climbing.md",
     "COMPSCI367 - Artificial Intelligence/week11/One-off Decision.md",
     "conflict-files-obsidian-git.md",
     "COMPSCI367 - Artificial Intelligence/week11/Decision Trees.md",
@@ -339,7 +342,6 @@
     "COMPSCI367 - Artificial Intelligence/week11/Multi-dimensional Utility.md",
     "COMPSCI367 - Artificial Intelligence/week11/Expected utility hypothesis-HP.md",
     "COMPSCI367 - Artificial Intelligence/week11/Expected utility hypothesis.md",
-    "COMPSCI367 - Artificial Intelligence/week11/Additive independence property-HP.md",
     "COMPSCI367 - Artificial Intelligence/week11/One-off Decision-HP.md",
     "COMPSCI367 - Artificial Intelligence/week10/independent (independence)-HP.md",
     "COMPSCI367 - Artificial Intelligence/week10/independent (independence).md",
@@ -347,7 +349,6 @@
     "COMPSCI367 - Artificial Intelligence/week01/agent(s)-HP.md",
     "COMPSCI367 - Artificial Intelligence/week01/agent(s).md",
     "COMPSCI367 - Artificial Intelligence/week12/value of a decision network.md",
-    "COMPSCI367 - Artificial Intelligence/week12/state (ω).md",
     "@images/Pasted image 20231026174833.png",
     "@images/Pasted image 20231026174606.png",
     "@images/Pasted image 20231026170928.png",
