@@ -1,0 +1,1 @@
+a [[policy (π)]] consists of a [[Decision function]] for every [[Decision nodes]] 
