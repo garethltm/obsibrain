@@ -63,7 +63,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week12/SSDN-based one-off decision problem.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week12/Single-stage decision networks (SSDN).md",
                 "mode": "source",
                 "source": false
               }
@@ -160,7 +160,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "COMPSCI367 - Artificial Intelligence/week12/SSDN-based one-off decision problem.md",
+                    "file": "COMPSCI367 - Artificial Intelligence/week12/Single-stage decision networks (SSDN).md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -259,7 +259,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week12/SSDN-based one-off decision problem.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week12/Single-stage decision networks (SSDN).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -276,7 +276,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week12/SSDN-based one-off decision problem.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week12/Single-stage decision networks (SSDN).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -299,7 +299,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week12/SSDN-based one-off decision problem.md"
+                "file": "COMPSCI367 - Artificial Intelligence/week12/Single-stage decision networks (SSDN).md"
               }
             }
           },
@@ -333,8 +333,8 @@
   },
   "active": "78003ac2d0f27c16",
   "lastOpenFiles": [
-    "COMPSCI367 - Artificial Intelligence/week12/Single-stage decision networks (SSDN).md",
     "COMPSCI367 - Artificial Intelligence/week12/SSDN-based one-off decision problem.md",
+    "COMPSCI367 - Artificial Intelligence/week12/Single-stage decision networks (SSDN).md",
     "COMPSCI367 - Artificial Intelligence/week12/value of a decision network.md",
     "COMPSCI367 - Artificial Intelligence/week12/optimal policy.md",
     "COMPSCI367 - Artificial Intelligence/week12/policy.md",
