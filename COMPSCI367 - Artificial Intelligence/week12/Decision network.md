@@ -3,5 +3,6 @@ a [[Probability]] graph model that extends a [[Single-stage decision networks (S
 	- no cycles/loops
 - [[Decision nodes]]
 - [[no forgetting property]]
+- [[Conditional Probability Table (CPT)]]
 
 
