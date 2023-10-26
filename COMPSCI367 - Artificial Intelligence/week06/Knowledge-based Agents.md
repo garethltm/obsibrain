@@ -1,4 +1,4 @@
-- [[Wumpus World Agent]] world scenario needs a [[Structured Representation]] to code [[constraint(s)]] & [[Percepts]], & to perform [[inference(s)]]
+- [[Inference Engine Example]] world scenario needs a [[Structured Representation]] to code [[constraint(s)]] & [[Percepts]], & to perform [[inference(s)]]
 ## Consists
 1. [[Offline]]
 2. [[Online]]

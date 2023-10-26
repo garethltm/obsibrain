@@ -75,7 +75,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week06/Wumpus World Agent.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week07/Declarative.md",
                 "mode": "source",
                 "source": false
               }
@@ -172,7 +172,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "COMPSCI367 - Artificial Intelligence/week06/Wumpus World Agent.md",
+                    "file": "COMPSCI367 - Artificial Intelligence/week07/Declarative.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -271,7 +271,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week06/Wumpus World Agent.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week07/Declarative.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -288,7 +288,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week06/Wumpus World Agent.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week07/Declarative.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -311,7 +311,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week06/Wumpus World Agent.md"
+                "file": "COMPSCI367 - Artificial Intelligence/week07/Declarative.md"
               }
             }
           },
@@ -343,34 +343,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a8b21011d3ee7aaa",
+  "active": "8fa7e30c89f23bef",
   "lastOpenFiles": [
+    "COMPSCI367 - Artificial Intelligence/week07/Compositional.md",
+    "COMPSCI367 - Artificial Intelligence/week07/Completeness.md",
     "COMPSCI367 - Artificial Intelligence/week06/Truth table.md",
-    "COMPSCI367 - Artificial Intelligence/week06/Wumpus World Agent.md",
-    "COMPSCI367 - Artificial Intelligence/week06/Satisfiability Problem (SAT).md",
+    "COMPSCI367 - Artificial Intelligence/week06/syntax.md",
+    "COMPSCI367 - Artificial Intelligence/week06/Structured Representation.md",
+    "COMPSCI367 - Artificial Intelligence/week06/sentence.md",
     "COMPSCI367 - Artificial Intelligence/week06/satisfiable.md",
+    "COMPSCI367 - Artificial Intelligence/week06/semantics.md",
+    "COMPSCI367 - Artificial Intelligence/week06/logically equivalent (logical equivalence).md",
+    "COMPSCI367 - Artificial Intelligence/week06/Inference Engine Example.md",
+    "COMPSCI367 - Artificial Intelligence/week06/Inference engines (IE).md",
+    "COMPSCI367 - Artificial Intelligence/week06/language(s).md",
+    "COMPSCI367 - Artificial Intelligence/week06/literal(s).md",
+    "COMPSCI367 - Artificial Intelligence/week06/Logic Inference vs Constraint Satisfaction.md",
+    "COMPSCI367 - Artificial Intelligence/week06/logically implies.md",
+    "COMPSCI367 - Artificial Intelligence/week06/logical consequence.md",
+    "COMPSCI367 - Artificial Intelligence/week06/Logic Inference Problem.md",
+    "COMPSCI367 - Artificial Intelligence/week06/Satisfiability Problem (SAT).md",
     "COMPSCI367 - Artificial Intelligence/week06/SAT solvers.md",
     "COMPSCI367 - Artificial Intelligence/week06/Reasoning.md",
     "COMPSCI367 - Artificial Intelligence/week06/Propositional Logic with Wumpus World.md",
     "COMPSCI367 - Artificial Intelligence/week06/Propositional Logic Inference Engine.md",
     "COMPSCI367 - Artificial Intelligence/week06/Propositional Knowledge Base.md",
     "COMPSCI367 - Artificial Intelligence/week04/Greedy Descent.md",
-    "COMPSCI367 - Artificial Intelligence/week06/semantics.md",
-    "COMPSCI367 - Artificial Intelligence/week06/sentence.md",
     "COMPSCI367 - Artificial Intelligence/week06/state transition.md",
-    "COMPSCI367 - Artificial Intelligence/week06/Structured Representation.md",
-    "COMPSCI367 - Artificial Intelligence/week06/syntax.md",
     "COMPSCI367 - Artificial Intelligence/week06/intelligent.md",
-    "COMPSCI367 - Artificial Intelligence/week06/Factored Representation.md",
-    "COMPSCI367 - Artificial Intelligence/week06/Equivalence between inference & satisfiability.md",
-    "COMPSCI367 - Artificial Intelligence/week06/Duality of Syntax vs Semantics.md",
-    "COMPSCI367 - Artificial Intelligence/week06/DPLL algorithm.md",
-    "COMPSCI367 - Artificial Intelligence/week06/connectives.md",
-    "COMPSCI367 - Artificial Intelligence/week06/Compound Propositions (Compound Entities).md",
-    "COMPSCI367 - Artificial Intelligence/week06/clause(s).md",
-    "COMPSCI367 - Artificial Intelligence/week06/Atomic Representation.md",
-    "COMPSCI367 - Artificial Intelligence/week06/logically equivalent (logical equivalence).md",
-    "COMPSCI367 - Artificial Intelligence/week06/logically implies.md",
     "@images/COMPSCI3672022_S2W12Lecture35Decision2of2-23.jpg",
     "@images/COMPSCI3672022_S2W12Lecture35Decision2of2-22.jpg",
     "@images/Pasted image 20231026174833.png",
