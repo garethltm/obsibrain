@@ -12,3 +12,4 @@ An extension of a [[Bayesian Networks]] with 3 nodes:
 >	- [[policy]], [[optimal policy]], [[value of a decision network]]
 >	- [[SSDN-based one-off decision problem]]
 >	![[Pasted image 20231025182314.png]]
+>	- basically combining the 
