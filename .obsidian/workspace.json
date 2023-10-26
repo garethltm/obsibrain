@@ -222,7 +222,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Example",
+                "query": "knowledge representation",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -239,7 +239,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -331,7 +332,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "78003ac2d0f27c16",
+  "active": "a6e0090ac9cbd1f3",
   "lastOpenFiles": [
     "COMPSCI367 - Artificial Intelligence/week12/policy (π).md",
     "COMPSCI367 - Artificial Intelligence/week12/policy.md",
