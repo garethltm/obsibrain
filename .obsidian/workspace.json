@@ -63,7 +63,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week06/Logic Inference vs Constraint Satisfaction.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week06/state transition.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8fa7e30c89f23bef",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "COMPSCI367 - Artificial Intelligence/week06/Propositional Knowledge Base.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +105,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       },
       {
         "id": "992e264c1b226738",
@@ -160,7 +172,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "COMPSCI367 - Artificial Intelligence/week06/Logic Inference vs Constraint Satisfaction.md",
+                    "file": "COMPSCI367 - Artificial Intelligence/week06/Propositional Knowledge Base.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -259,7 +271,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week06/Logic Inference vs Constraint Satisfaction.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week06/Propositional Knowledge Base.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -276,7 +288,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week06/Logic Inference vs Constraint Satisfaction.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week06/Propositional Knowledge Base.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -299,7 +311,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week06/Logic Inference vs Constraint Satisfaction.md"
+                "file": "COMPSCI367 - Artificial Intelligence/week06/Propositional Knowledge Base.md"
               }
             }
           },
@@ -331,34 +343,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "78003ac2d0f27c16",
+  "active": "3ad179677b7fba41",
   "lastOpenFiles": [
+    "COMPSCI367 - Artificial Intelligence/week06/Propositional Logic.md",
+    "COMPSCI367 - Artificial Intelligence/week06/Propositional Logic Inference Engine.md",
+    "COMPSCI367 - Artificial Intelligence/week06/Propositional Logic with Wumpus World.md",
+    "COMPSCI367 - Artificial Intelligence/week06/Reasoning.md",
+    "COMPSCI367 - Artificial Intelligence/week06/SAT solvers.md",
+    "COMPSCI367 - Artificial Intelligence/week06/Satisfiability Problem (SAT).md",
+    "COMPSCI367 - Artificial Intelligence/week06/satisfiable.md",
+    "COMPSCI367 - Artificial Intelligence/week06/semantics.md",
+    "COMPSCI367 - Artificial Intelligence/week06/sentence.md",
+    "COMPSCI367 - Artificial Intelligence/week06/state transition.md",
+    "COMPSCI367 - Artificial Intelligence/week06/Structured Representation.md",
+    "COMPSCI367 - Artificial Intelligence/week06/Wumpus World Agent.md",
+    "COMPSCI367 - Artificial Intelligence/week06/syntax.md",
+    "COMPSCI367 - Artificial Intelligence/week06/Truth table.md",
+    "COMPSCI367 - Artificial Intelligence/week06/Logic Inference vs Constraint Satisfaction.md",
     "COMPSCI367 - Artificial Intelligence/week06/Logic Inference Problem.md",
     "COMPSCI367 - Artificial Intelligence/week06/logical consequence.md",
-    "COMPSCI367 - Artificial Intelligence/week06/Logic Inference vs Constraint Satisfaction.md",
     "COMPSCI367 - Artificial Intelligence/week06/literal(s).md",
     "COMPSCI367 - Artificial Intelligence/week06/language(s).md",
     "COMPSCI367 - Artificial Intelligence/week06/Knowledge-based Agents.md",
     "COMPSCI367 - Artificial Intelligence/week06/Knowledge Representation Language.md",
-    "COMPSCI367 - Artificial Intelligence/week06/Structured Representation.md",
     "COMPSCI367 - Artificial Intelligence/week06/Knowledge Base (KB).md",
     "COMPSCI367 - Artificial Intelligence/week06/knowledge.md",
     "COMPSCI367 - Artificial Intelligence/week06/interpretation.md",
     "COMPSCI367 - Artificial Intelligence/week06/intelligent.md",
     "COMPSCI367 - Artificial Intelligence/week06/inference(s).md",
-    "COMPSCI367 - Artificial Intelligence/week06/Inference engines (IE).md",
-    "COMPSCI367 - Artificial Intelligence/week06/Duality of Syntax vs Semantics.md",
-    "COMPSCI367 - Artificial Intelligence/week06/Factored Representation.md",
-    "COMPSCI367 - Artificial Intelligence/week06/Equivalence between inference & satisfiability.md",
-    "COMPSCI367 - Artificial Intelligence/week06/DPLL algorithm.md",
-    "COMPSCI367 - Artificial Intelligence/week06/connectives.md",
-    "COMPSCI367 - Artificial Intelligence/week06/Compound Propositions (Compound Entities).md",
-    "COMPSCI367 - Artificial Intelligence/week06/Atomic Representation.md",
-    "COMPSCI367 - Artificial Intelligence/week06/Atomic Entities.md",
-    "COMPSCI367 - Artificial Intelligence/week06/Atomic Propositions (atoms).md",
-    "COMPSCI367 - Artificial Intelligence/week06/clause(s).md",
-    "COMPSCI367 - Artificial Intelligence/week06/Agents with a World Model.md",
-    "COMPSCI367 - Artificial Intelligence/week01/Percepts.md",
     "@images/COMPSCI3672022_S2W12Lecture35Decision2of2-23.jpg",
     "@images/COMPSCI3672022_S2W12Lecture35Decision2of2-22.jpg",
     "@images/Pasted image 20231026174833.png",
