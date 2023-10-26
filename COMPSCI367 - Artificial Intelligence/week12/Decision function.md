@@ -1,0 +1,1 @@
+a [[Decision function]] for a [[Decision nodes]] $D\tiny i$ is a function 
