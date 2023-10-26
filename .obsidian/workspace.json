@@ -75,7 +75,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week06/Inference Engine Example.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week07/SLD Resolution (Backward chaining).md",
                 "mode": "preview",
                 "source": false
               }
@@ -172,7 +172,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "COMPSCI367 - Artificial Intelligence/week06/Inference Engine Example.md",
+                    "file": "COMPSCI367 - Artificial Intelligence/week07/SLD Resolution (Backward chaining).md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -251,7 +251,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -271,7 +272,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week06/Inference Engine Example.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week07/SLD Resolution (Backward chaining).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -288,7 +289,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week06/Inference Engine Example.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week07/SLD Resolution (Backward chaining).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -311,7 +312,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week06/Inference Engine Example.md"
+                "file": "COMPSCI367 - Artificial Intelligence/week07/SLD Resolution (Backward chaining).md"
               }
             }
           },
@@ -345,32 +346,32 @@
   },
   "active": "8fa7e30c89f23bef",
   "lastOpenFiles": [
-    "COMPSCI367 - Artificial Intelligence/week07/Verbose.md",
-    "COMPSCI367 - Artificial Intelligence/week06/Inference engines (IE).md",
+    "COMPSCI367 - Artificial Intelligence/week12/Single-stage decision networks (SSDN).md",
+    "COMPSCI367 - Artificial Intelligence/week03/Local Search.md",
+    "COMPSCI367 - Artificial Intelligence/week02/Uniform-Cost Search (UCS) (Lowest-Cost-First Search).md",
+    "COMPSCI367 - Artificial Intelligence/week03/Backtracking Search.md",
+    "COMPSCI367 - Artificial Intelligence/week05/Alpha-Beta Pruning.md",
+    "COMPSCI367 - Artificial Intelligence/week05/Genetic Algorithm with Travelling Salesman Problem.md",
+    "COMPSCI367 - Artificial Intelligence/week05/Genetic Algorithm with 8-Queens.md",
+    "COMPSCI367 - Artificial Intelligence/week05/Local beam Search.md",
+    "COMPSCI367 - Artificial Intelligence/week08/First-Order Interpretation.md",
+    "COMPSCI367 - Artificial Intelligence/week08/First-Order Formulas.md",
+    "COMPSCI367 - Artificial Intelligence/week08/Existential quantification.md",
+    "COMPSCI367 - Artificial Intelligence/week08/Domain-closure assumption.md",
+    "COMPSCI367 - Artificial Intelligence/week08/definition (singular).md",
+    "COMPSCI367 - Artificial Intelligence/week08/Declarative programming.md",
+    "COMPSCI367 - Artificial Intelligence/week08/control.md",
+    "COMPSCI367 - Artificial Intelligence/week08/axioms.md",
+    "COMPSCI367 - Artificial Intelligence/week08/Closed world assumption.md",
+    "COMPSCI367 - Artificial Intelligence/week08/Arithmetic.md",
+    "COMPSCI367 - Artificial Intelligence/week08/algorithm.md",
     "COMPSCI367 - Artificial Intelligence/week07/What logic needs to be.md",
+    "COMPSCI367 - Artificial Intelligence/week07/Verbose.md",
+    "COMPSCI367 - Artificial Intelligence/week06/Inference Engine Example.md",
+    "COMPSCI367 - Artificial Intelligence/week06/Inference engines (IE).md",
     "COMPSCI367 - Artificial Intelligence/week07/subgoal.md",
     "COMPSCI367 - Artificial Intelligence/week07/Soundness.md",
     "COMPSCI367 - Artificial Intelligence/week07/Forward Chaining.md",
-    "COMPSCI367 - Artificial Intelligence/week07/SLD Resolution (Backward chaining).md",
-    "COMPSCI367 - Artificial Intelligence/week07/Completeness.md",
-    "COMPSCI367 - Artificial Intelligence/week07/SLD derivation.md",
-    "COMPSCI367 - Artificial Intelligence/week07/Expressive.md",
-    "COMPSCI367 - Artificial Intelligence/week07/entails.md",
-    "COMPSCI367 - Artificial Intelligence/week07/Definite Clause Inference Engine.md",
-    "COMPSCI367 - Artificial Intelligence/week07/Definite clause.md",
-    "COMPSCI367 - Artificial Intelligence/week07/Compositional.md",
-    "COMPSCI367 - Artificial Intelligence/week07/Declarative.md",
-    "COMPSCI367 - Artificial Intelligence/week06/Truth table.md",
-    "COMPSCI367 - Artificial Intelligence/week06/syntax.md",
-    "COMPSCI367 - Artificial Intelligence/week06/Structured Representation.md",
-    "COMPSCI367 - Artificial Intelligence/week06/sentence.md",
-    "COMPSCI367 - Artificial Intelligence/week06/satisfiable.md",
-    "COMPSCI367 - Artificial Intelligence/week06/semantics.md",
-    "COMPSCI367 - Artificial Intelligence/week06/logically equivalent (logical equivalence).md",
-    "COMPSCI367 - Artificial Intelligence/week06/Inference Engine Example.md",
-    "COMPSCI367 - Artificial Intelligence/week06/language(s).md",
-    "COMPSCI367 - Artificial Intelligence/week06/literal(s).md",
-    "COMPSCI367 - Artificial Intelligence/week06/Logic Inference vs Constraint Satisfaction.md",
     "@images/COMPSCI3672022_S2W12Lecture35Decision2of2-23.jpg",
     "@images/COMPSCI3672022_S2W12Lecture35Decision2of2-22.jpg",
     "@images/Pasted image 20231026174833.png",
