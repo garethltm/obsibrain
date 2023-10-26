@@ -1,1 +1,1 @@
-- ordered by path cost
+- ordered by [[path cost]]
