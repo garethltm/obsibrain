@@ -5,6 +5,7 @@ An extension of a [[Bayesian Networks]] with 3 nodes:
 1. [[Decision nodes]]
 2. [[Chance nodes]]
 3. A single [[utility]] node, represents the [[utility]]
+>>	The [[Chance nodes]] take the same tole as nodes in a [[Bayesian Networks]] with [[Local Markov Property]]
 
 >	#Example 
 >	![[Pasted image 20231025182314.png]]
