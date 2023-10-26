@@ -63,7 +63,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week12/Decision function.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week12/policy.md",
                 "mode": "source",
                 "source": false
               }
@@ -160,7 +160,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "COMPSCI367 - Artificial Intelligence/week12/Decision function.md",
+                    "file": "COMPSCI367 - Artificial Intelligence/week12/policy.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -259,7 +259,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week12/Decision function.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week12/policy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -276,7 +276,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week12/Decision function.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week12/policy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -299,7 +299,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week12/Decision function.md"
+                "file": "COMPSCI367 - Artificial Intelligence/week12/policy.md"
               }
             }
           },
@@ -333,9 +333,11 @@
   },
   "active": "78003ac2d0f27c16",
   "lastOpenFiles": [
+    "COMPSCI367 - Artificial Intelligence/week12/Untitled.md",
+    "COMPSCI367 - Artificial Intelligence/week12/policy.md",
+    "COMPSCI367 - Artificial Intelligence/week12/Decision function.md",
     "@images/Pasted image 20231026165939.png",
     "COMPSCI367 - Artificial Intelligence/week12/Decision network.md",
-    "COMPSCI367 - Artificial Intelligence/week12/Decision function.md",
     "@images/Pasted image 20231026165642.png",
     "@images/Pasted image 20231026165531.png",
     "COMPSCI367 - Artificial Intelligence/week11/Utility function.md",
@@ -353,7 +355,6 @@
     "COMPSCI367 - Artificial Intelligence/week12/SSDN-based one-off decision problem.md",
     "COMPSCI367 - Artificial Intelligence/week12/value of a decision network.md",
     "COMPSCI367 - Artificial Intelligence/week12/optimal policy.md",
-    "COMPSCI367 - Artificial Intelligence/week12/policy.md",
     "@images/COMPSCI3672022_S2W12Lecture35Decision2of2-04.jpg",
     "@images/COMPSCI3672022_S2W12Lecture35Decision2of2-06.jpg",
     "COMPSCI367 - Artificial Intelligence/week12/Chance nodes.md",
@@ -368,7 +369,6 @@
     "COMPSCI367 - Artificial Intelligence/week11/Additive independence property.md",
     "@images/Pasted image 20231026105122.png",
     "@images/Pasted image 20231026105109.png",
-    "@images/Pasted image 20231026105052.png",
     "COMPSCI367 - Artificial Intelligence/week12",
     "COMPSCI367 - Artificial Intelligence/week11",
     "COMPSCI367 - Artificial Intelligence/week08",
