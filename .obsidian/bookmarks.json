@@ -10,7 +10,13 @@
       "type": "file",
       "ctime": 1698273182239,
       "path": "COMPSCI367 - Artificial Intelligence/week09/TranslateToSAT.md",
-      "title": "exam prep"
+      "title": "translate pddl to sat"
+    },
+    {
+      "type": "file",
+      "ctime": 1698290805353,
+      "path": "COMPSCI367 - Artificial Intelligence/week12/Single-stage decision networks (SSDN).md",
+      "title": "ssdn"
     }
   ]
 }
