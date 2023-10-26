@@ -1,0 +1,1 @@
+if an edge connects to a node X to $D\tiny i$
