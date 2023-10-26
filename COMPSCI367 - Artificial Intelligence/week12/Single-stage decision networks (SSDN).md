@@ -8,4 +8,7 @@ An extension of a [[Bayesian Networks]] with 3 nodes:
 >>	The [[Chance nodes]] take the same tole as nodes in a [[Bayesian Networks]] with [[Local Markov Property]]
 
 >	#Example 
+>	![[COMPSCI3672022_S2W12Lecture35Decision2of2-04.jpg]]![[COMPSCI3672022_S2W12Lecture35Decision2of2-06.jpg]]
+
+>	#Example 
 >	![[Pasted image 20231025182314.png]]
