@@ -11,6 +11,4 @@ An extension of a [[Bayesian Networks]] with 3 nodes:
 >	![[COMPSCI3672022_S2W12Lecture35Decision2of2-04.jpg]]![[COMPSCI3672022_S2W12Lecture35Decision2of2-06.jpg]]
 >	- [[policy]], [[optimal policy]], [[value of a decision network]]
 >	- [[SSDN-based one-off decision problem]]
-
->	#Example 
 >	![[Pasted image 20231025182314.png]]
