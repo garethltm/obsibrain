@@ -1,1 +1,5 @@
-![[Pasted image 20231025182314.png]]
+
+
+
+>	#Example 
+>	![[Pasted image 20231025182314.png]]

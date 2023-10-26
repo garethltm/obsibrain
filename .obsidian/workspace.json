@@ -63,7 +63,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week11/Expected utility hypothesis.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week12/Single-stage decision networks (SSDN).md",
                 "mode": "source",
                 "source": false
               }
@@ -160,7 +160,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "COMPSCI367 - Artificial Intelligence/week11/Expected utility hypothesis.md",
+                    "file": "COMPSCI367 - Artificial Intelligence/week12/Single-stage decision networks (SSDN).md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -259,7 +259,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week11/Expected utility hypothesis.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week12/Single-stage decision networks (SSDN).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -276,7 +276,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week11/Expected utility hypothesis.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week12/Single-stage decision networks (SSDN).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -299,7 +299,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week11/Expected utility hypothesis.md"
+                "file": "COMPSCI367 - Artificial Intelligence/week12/Single-stage decision networks (SSDN).md"
               }
             }
           },
@@ -333,12 +333,16 @@
   },
   "active": "78003ac2d0f27c16",
   "lastOpenFiles": [
+    "COMPSCI367 - Artificial Intelligence/week11/One-off Decision.md",
+    "COMPSCI367 - Artificial Intelligence/week11/outcome(s).md",
+    "COMPSCI367 - Artificial Intelligence/week11/Planning with Uncertainty.md",
+    "COMPSCI367 - Artificial Intelligence/week11/Multi-dimensional Utility.md",
+    "COMPSCI367 - Artificial Intelligence/week11/Linear scalability.md",
+    "COMPSCI367 - Artificial Intelligence/week11/Expected utility hypothesis.md",
     "COMPSCI367 - Artificial Intelligence/week11/CPT Operations.md",
     "COMPSCI367 - Artificial Intelligence/week11/evaluate desirability.md",
     "COMPSCI367 - Artificial Intelligence/week11/Additive independence property.md",
-    "COMPSCI367 - Artificial Intelligence/week11/One-off Decision.md",
     "COMPSCI367 - Artificial Intelligence/week09/Classical Planning.md",
-    "COMPSCI367 - Artificial Intelligence/week11/Planning with Uncertainty.md",
     "COMPSCI367 - Artificial Intelligence/week12/Single-stage decision networks (SSDN).md",
     "COMPSCI367 - Artificial Intelligence/week04/Hill-Climbing.md",
     "COMPSCI367 - Artificial Intelligence/week04/Hill-Climbing with 8-Queens.md",
@@ -355,10 +359,6 @@
     "COMPSCI367 - Artificial Intelligence/week05/(partially) cooperative multi-agent environment.md",
     "COMPSCI367 - Artificial Intelligence/week05/two-player zero-sum games.md",
     "COMPSCI367 - Artificial Intelligence/week05/Stochastic Beam Search (SBS).md",
-    "COMPSCI367 - Artificial Intelligence/week05/Solving Optimisation problems.md",
-    "COMPSCI367 - Artificial Intelligence/week05/reproduce.md",
-    "COMPSCI367 - Artificial Intelligence/week05/Population-based Search.md",
-    "COMPSCI367 - Artificial Intelligence/week05/population.md",
     "@images/Pasted image 20231026105122.png",
     "@images/Pasted image 20231026105109.png",
     "@images/Pasted image 20231026105052.png",
