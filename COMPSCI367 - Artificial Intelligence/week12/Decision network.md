@@ -20,5 +20,8 @@ We will be assuming the [[no forgetting property]] for all [[Decision network]]
 >	![[Pasted image 20231026165642.png]]
 >	There are 3 types of edges:
 >	1. Into a [[Decision nodes]]: available information (observation/memory) when the decision i smake
->	2. Into a [[Chance nodes]]; 
+>	2. Into a [[Chance nodes]]: Probabilistic [[Dependency]]
+>	3. Into a [[utility]] node: [[Dependency]] of the [[Utility function]]
+
+
 
