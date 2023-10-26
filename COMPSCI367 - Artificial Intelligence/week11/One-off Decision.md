@@ -7,3 +7,6 @@ By [[Expected utility hypothesis]]: The [[agent(s)]] wants to maximise the [[exp
 ![[Pasted image 20231026105052.png]]
 >	#Example 
 >	![[Pasted image 20231026105109.png]]![[Pasted image 20231026105122.png]]
+
+### [[One-off Decision]] Problem can be described by 2 types of Knowledge Representations
+1. 

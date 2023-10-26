@@ -63,7 +63,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week12/SSDN-based one-off decision problem.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week11/One-off Decision.md",
                 "mode": "source",
                 "source": false
               }
@@ -160,7 +160,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "COMPSCI367 - Artificial Intelligence/week12/SSDN-based one-off decision problem.md",
+                    "file": "COMPSCI367 - Artificial Intelligence/week11/One-off Decision.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -239,8 +239,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -260,7 +259,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week12/SSDN-based one-off decision problem.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week11/One-off Decision.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -277,7 +276,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week12/SSDN-based one-off decision problem.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week11/One-off Decision.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -300,7 +299,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week12/SSDN-based one-off decision problem.md"
+                "file": "COMPSCI367 - Artificial Intelligence/week11/One-off Decision.md"
               }
             }
           },
@@ -334,6 +333,7 @@
   },
   "active": "78003ac2d0f27c16",
   "lastOpenFiles": [
+    "COMPSCI367 - Artificial Intelligence/week12/SSDN-based one-off decision problem.md",
     "COMPSCI367 - Artificial Intelligence/week12/Single-stage decision networks (SSDN).md",
     "COMPSCI367 - Artificial Intelligence/week11/One-off Decision.md",
     "COMPSCI367 - Artificial Intelligence/week12/policy (π).md",
@@ -347,7 +347,6 @@
     "COMPSCI367 - Artificial Intelligence/week12/Decision function.md",
     "COMPSCI367 - Artificial Intelligence/week12/Chance nodes.md",
     "COMPSCI367 - Artificial Intelligence/week12/Sequential Decision Problem.md",
-    "COMPSCI367 - Artificial Intelligence/week12/SSDN-based one-off decision problem.md",
     "COMPSCI367 - Artificial Intelligence/week12/value of a decision network.md",
     "COMPSCI367 - Artificial Intelligence/week12/state (ω).md",
     "COMPSCI367 - Artificial Intelligence/week12/Decision Network-based sequential decision problem (DN-based sequential decision problem).md",
