@@ -15,7 +15,9 @@ description language to specify [[Planning task]]
 >> φ = [[initial state (start state)]] ∧ [[action(s)]] descriptions ∧ [[goal(s) - goal state(s)]]
 >> 
 >> [[Planning]] is equivalent to checking the [[satisfiable]] of φ (satisfies the [[Knowledge Base (KB)]])
->>>Example: finding an [[interpretation]] π such that: π ⊧ φ
+
+>	#Example 
+>	finding an [[interpretation]] π such that: π ⊧ φ
 
 ![[Untitled 6.png]]
 - represent the planning problem using logical [[syntax]] & extract the sequence of [[action(s)]] from there

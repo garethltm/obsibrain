@@ -1,1 +1,1 @@
-potential outcomes
+potential [[outcome(s)]]

@@ -1,1 +1,1 @@
-- a set of candidate solutions
+- a set of [[candidate solution]]

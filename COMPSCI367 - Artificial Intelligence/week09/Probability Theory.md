@@ -3,20 +3,22 @@
 >	There is a 80% [[probability]] of raining expresses a belief based on past experience
 - [[Probability Theory]] is the study of how [[knowledge]] affects [[degree of belief]]
 	- new [[evidence]], revise your belief
-- The [[probability]] of a hypothesis $\alpha$ is a scale of the [[agent]]'s belief in $\alpha$ in the range [0,1] 
+- The [[probability]] of a hypothesis $\alpha$ is a scale of the [[agent(s)]]'s belief in $\alpha$ in the range [0,1] 
 	- 0 is no chance to occur
 	- 1 is certain to occur
 
-## Example
-Let $X\tiny 1\normalsize ,...,X\tiny d$ be [[Atomic Propositions (atoms)]]
+>	#Example 
+>	Let $X\tiny 1\normalsize ,...,X\tiny d$ be [[Atomic Propositions (atoms)]]
 >	Sunny means outlook will be sunny
 >	Hot means high temperature
 
 The sample space $\ohm$ over these [[Atomic Propositions (atoms)]] contains all possible [[interpretation]]. 
->[[sample]] over Sunny, Hot
-![[Pasted image 20231025132516.png]]
+>	#Example 
+>	[[sample]] over Sunny, Hot
+>	![[Pasted image 20231025132516.png]]
 
 A [[proposition]] describes a [[constraint(s)]] on [[Atomic Propositions (atoms)]]
+>	#Example 
 >	1. $\alpha \tiny 1\normalsize: \neg Hot$
 >		$e \tiny 2\normalsize \ e \tiny 4\normalsize$ basically says that it is NOT Hot
 >				$e \tiny 2\normalsize \& \$e \tiny 4\normalsize$ 

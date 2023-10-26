@@ -1,0 +1,1 @@
+is a [[policy]] whose [[expected utility]] is maximal

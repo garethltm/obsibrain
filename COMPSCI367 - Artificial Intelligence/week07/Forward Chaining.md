@@ -4,7 +4,8 @@ Use a [[rule of derivation]] for [[inference(s)]]
 
 [[Forward Chaining]] applies [[Modus Ponens (MP)]] iteratively to the current [[Knowledge Base (KB)]] to generate a new [[clause(s)]], which are then added to [[Knowledge Base (KB)]]
 
-![[Pasted image 20231024002237.png]]![[Pasted image 20231024002255.png]]
+>	#Example 
+>	![[Pasted image 20231024002237.png]]![[Pasted image 20231024002255.png]]
 
 - [[Soundness]] of [[Forward Chaining]]:
 	- For any [[Definite clause]] [[Knowledge Base (KB)]], [[Percepts]] & query g

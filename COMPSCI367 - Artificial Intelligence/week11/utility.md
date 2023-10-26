@@ -1,2 +1,2 @@
-[[Performance measure]] of an [[agent]]
-- [[agent]] is aiming at maximising the highest performance possible
+[[Performance measure]] of an [[agent(s)]]
+- [[agent(s)]] is aiming at maximising the highest performance possible

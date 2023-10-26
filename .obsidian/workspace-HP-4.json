@@ -1,0 +1,398 @@
+{
+  "main": {
+    "id": "bf06cc806afed704",
+    "type": "split",
+    "children": [
+      {
+        "id": "e1ccbf259f6ba816",
+        "type": "tabs",
+        "dimension": 87.30964467005076,
+        "children": [
+          {
+            "id": "bcc7a7b87dd8df83",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "COMPSCI367 - Artificial Intelligence/week05/Population-based Search.md",
+                "mode": "source",
+                "source": false
+              }
+            },
+            "group": "49e37924338b6c36"
+          },
+          {
+            "id": "9d16bf805036e931",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "COMPSCI367 - Artificial Intelligence/week02/State Space Problem.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "358f03c9716e94e8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "COMPSCI367 - Artificial Intelligence/week04/Hill-Climbing.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f29b33f23d11f1cc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "COMPSCI367 - Artificial Intelligence/week04/Hill-Climbing.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "78003ac2d0f27c16",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "COMPSCI367 - Artificial Intelligence/week04/Hill-Climbing.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d0f61cd9fefb8c2d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "COMPSCI367 - Artificial Intelligence/week11/von Neumann & Morgenstern (VNM).md",
+                "mode": "source",
+                "source": false
+              }
+            },
+            "group": "bd9851f4b44cc862"
+          },
+          {
+            "id": "d72c111bd9f55a73",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2602e13c15239a89",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "COMPSCI367 - Artificial Intelligence/week04/Enforced Hill-Climbing.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 6
+      },
+      {
+        "id": "992e264c1b226738",
+        "type": "split",
+        "dimension": 12.690355329949238,
+        "children": [
+          {
+            "id": "8d459d1c85b8b9ed",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "874de3ab24aec93a",
+                "type": "leaf",
+                "state": {
+                  "type": "git-view",
+                  "state": {}
+                }
+              }
+            ]
+          },
+          {
+            "id": "d9a730eda40123bb",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "7430a6c810762936",
+                "type": "leaf",
+                "state": {
+                  "type": "localgraph",
+                  "state": {
+                    "file": "COMPSCI367 - Artificial Intelligence/week05/Population-based Search.md",
+                    "options": {
+                      "collapse-filter": true,
+                      "search": "",
+                      "localJumps": 1,
+                      "localBacklinks": true,
+                      "localForelinks": true,
+                      "localInterlinks": false,
+                      "showTags": false,
+                      "showAttachments": false,
+                      "hideUnresolved": false,
+                      "collapse-color-groups": true,
+                      "colorGroups": [],
+                      "collapse-display": true,
+                      "showArrow": false,
+                      "textFadeMultiplier": 0,
+                      "nodeSizeMultiplier": 1,
+                      "lineSizeMultiplier": 1,
+                      "collapse-forces": true,
+                      "centerStrength": 0.518713248970312,
+                      "repelStrength": 10,
+                      "linkStrength": 1,
+                      "linkDistance": 250,
+                      "scale": 0.7356825628249143,
+                      "close": true
+                    }
+                  }
+                },
+                "group": "49e37924338b6c36"
+              },
+              {
+                "id": "a8b21011d3ee7aaa",
+                "type": "leaf",
+                "state": {
+                  "type": "localgraph",
+                  "state": {
+                    "file": "COMPSCI367 - Artificial Intelligence/week11/von Neumann & Morgenstern (VNM).md",
+                    "options": {
+                      "collapse-filter": true,
+                      "search": "",
+                      "localJumps": 1,
+                      "localBacklinks": true,
+                      "localForelinks": true,
+                      "localInterlinks": false,
+                      "showTags": false,
+                      "showAttachments": false,
+                      "hideUnresolved": false,
+                      "collapse-color-groups": true,
+                      "colorGroups": [],
+                      "collapse-display": true,
+                      "showArrow": false,
+                      "textFadeMultiplier": 0,
+                      "nodeSizeMultiplier": 1,
+                      "lineSizeMultiplier": 1,
+                      "collapse-forces": true,
+                      "centerStrength": 0.518713248970312,
+                      "repelStrength": 10,
+                      "linkStrength": 1,
+                      "linkDistance": 250,
+                      "scale": 1,
+                      "close": false
+                    }
+                  }
+                },
+                "group": "bd9851f4b44cc862"
+              }
+            ],
+            "currentTab": 1
+          }
+        ],
+        "direction": "horizontal"
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "805c8a0f785715bc",
+    "type": "split",
+    "children": [
+      {
+        "id": "5d1fcf455abb6984",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3ad179677b7fba41",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a6e0090ac9cbd1f3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "language model",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8830eb3f6ce35c2d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "29204b37fc003a9a",
+    "type": "split",
+    "children": [
+      {
+        "id": "5a69fa8a943ea5f0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "db6754d77108e140",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "34faae9d0b6c33c5",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9bb6d40336bd7f8b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "5b1131bd753dae2a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "conflict-files-obsidian-git.md"
+              }
+            }
+          },
+          {
+            "id": "e74ba1aee9926111",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "d72c111bd9f55a73",
+  "lastOpenFiles": [
+    "COMPSCI367 - Artificial Intelligence/week11/expected utility-HP.md",
+    "COMPSCI367 - Artificial Intelligence/week11/expected utility.md",
+    "COMPSCI367 - Artificial Intelligence/week11/Multi-dimensional Utility-HP.md",
+    "COMPSCI367 - Artificial Intelligence/week11/Multi-dimensional Utility.md",
+    "COMPSCI367 - Artificial Intelligence/week11/Expected utility hypothesis-HP.md",
+    "COMPSCI367 - Artificial Intelligence/week11/Expected utility hypothesis.md",
+    "COMPSCI367 - Artificial Intelligence/week11/Additive independence property-HP.md",
+    "COMPSCI367 - Artificial Intelligence/week11/One-off Decision-HP.md",
+    "COMPSCI367 - Artificial Intelligence/week11/One-off Decision.md",
+    "COMPSCI367 - Artificial Intelligence/week10/independent (independence)-HP.md",
+    "COMPSCI367 - Artificial Intelligence/week10/independent (independence).md",
+    "COMPSCI367 - Artificial Intelligence/week02/state(s).md",
+    "COMPSCI367 - Artificial Intelligence/week01/agent(s)-HP.md",
+    "COMPSCI367 - Artificial Intelligence/week01/agent(s).md",
+    "COMPSCI367 - Artificial Intelligence/week11/von Neumann & Morgenstern (VNM).md",
+    "conflict-files-obsidian-git.md",
+    "COMPSCI367 - Artificial Intelligence/week12/value of a decision network.md",
+    "COMPSCI367 - Artificial Intelligence/week12/state (ω).md",
+    "COMPSCI367 - Artificial Intelligence/week12/policy.md",
+    "COMPSCI367 - Artificial Intelligence/week12/policy (π).md",
+    "COMPSCI367 - Artificial Intelligence/week12/optimal policy.md",
+    "COMPSCI367 - Artificial Intelligence/week12/no forgetting property.md",
+    "COMPSCI367 - Artificial Intelligence/week12/Sequential Decision Problem.md",
+    "COMPSCI367 - Artificial Intelligence/week12/SSDN-based one-off decision problem.md",
+    "COMPSCI367 - Artificial Intelligence/week12/Indefinite horizon or infinite horizon.md",
+    "COMPSCI367 - Artificial Intelligence/week12/Finite horizon.md",
+    "@images/Pasted image 20231026174833.png",
+    "@images/Pasted image 20231026174606.png",
+    "@images/Pasted image 20231026170928.png",
+    "@images/Pasted image 20231026170850.png",
+    "@images/Pasted image 20231026170612.png",
+    "@images/Pasted image 20231026170532.png",
+    "@images/Pasted image 20231026165939.png",
+    "@images/Pasted image 20231026165642.png",
+    "@images/Pasted image 20231026165531.png",
+    "@images/Pasted image 20231026163536.png",
+    "COMPSCI367 - Artificial Intelligence/week12",
+    "COMPSCI367 - Artificial Intelligence/week11",
+    "COMPSCI367 - Artificial Intelligence/week08",
+    "COMPSCI367 - Artificial Intelligence/week07",
+    "COMPSCI367 - Artificial Intelligence/week06",
+    "COMPSCI367 - Artificial Intelligence/week03",
+    "COMPSCI367 - Artificial Intelligence/week04",
+    "COMPSCI367 - Artificial Intelligence/week05",
+    "COMPSCI367 - Artificial Intelligence/week02",
+    "Untitle"
+  ]
+}

@@ -1,1 +1,1 @@
-- **the simplest kind of random variable**
+- **the simplest kind of random([[Stochastic]]) variable**

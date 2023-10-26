@@ -1,4 +1,4 @@
-- decision making made by this [[agent]] if fundamentally different from the condition-action rules
+- decision making made by this [[agent(s)]] if fundamentally different from the condition-action rules
 - involves consideration of the future
 	> What will happen if I do this [[action(s)]]
 	> Will that make me happy?
@@ -7,8 +7,8 @@
 
 >In [[Reflex (Model-Based) Agent]] designs, this information is not explicitly represented because the built-in rules map directly from [[state(s)]] to [[action(s)]]
 
-## Example
-1. Room bookings
+>	#Example 
+>	Room bookings
 ## One of the main Agents of Planning Agent
 ![[Goal-Based (Telelogical Agent)]]
 

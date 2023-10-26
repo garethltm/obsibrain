@@ -22,4 +22,4 @@
 
 >Bidirectional search is [[Uninformed Search]] strategy as it only uses the information provided by the [[State Space]]. 
 >
->For [[State Space Problem]], we assume that the location of the [[goal(s) - goal state(s)]] is known to the [[agent]]. The [[solution(s)]] of the search is not the location of the [[goal(s) - goal state(s)]], but the [[path(s)]] to the [[goal(s) - goal state(s)]].
+>For [[State Space Problem]], we assume that the location of the [[goal(s) - goal state(s)]] is known to the [[agent(s)]]. The [[solution(s)]] of the search is not the location of the [[goal(s) - goal state(s)]], but the [[path(s)]] to the [[goal(s) - goal state(s)]].

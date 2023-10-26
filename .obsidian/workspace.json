@@ -83,6 +83,30 @@
             "group": "bd9851f4b44cc862"
           },
           {
+            "id": "5923d6ac5ced3395",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "COMPSCI367 - Artificial Intelligence/week11/von Neumann & Morgenstern (VNM).md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "00f25bdef60fb0e3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "2602e13c15239a89",
             "type": "leaf",
             "state": {
@@ -95,7 +119,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 7
       },
       {
         "id": "992e264c1b226738",
@@ -185,7 +209,7 @@
                       "repelStrength": 10,
                       "linkStrength": 1,
                       "linkDistance": 250,
-                      "scale": 1,
+                      "scale": 0.3628873693012117,
                       "close": false
                     }
                   }
@@ -262,7 +286,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week11/von Neumann & Morgenstern (VNM).md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -279,7 +303,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week11/von Neumann & Morgenstern (VNM).md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -302,7 +326,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week11/von Neumann & Morgenstern (VNM).md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -334,44 +358,44 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d0f61cd9fefb8c2d",
+  "active": "00f25bdef60fb0e3",
   "lastOpenFiles": [
-    "COMPSCI367 - Artificial Intelligence/week11/Variable Elimination Algorithm (VE).md",
-    "COMPSCI367 - Artificial Intelligence/week11/CPT Operation 3 - Normalisation.md",
-    "COMPSCI367 - Artificial Intelligence/week11/CPT Operation 4 - Summation.md",
-    "COMPSCI367 - Artificial Intelligence/week11/evaluate desirability.md",
-    "COMPSCI367 - Artificial Intelligence/week11/CPT Operations.md",
-    "COMPSCI367 - Artificial Intelligence/week11/CPT Operation 2 - Multiplication.md",
-    "COMPSCI367 - Artificial Intelligence/week11/CPT Operation 1 - Restriction.md",
-    "COMPSCI367 - Artificial Intelligence/week11/Bayesian Network Inference.md",
-    "COMPSCI367 - Artificial Intelligence/week11/indifference relation (~).md",
     "COMPSCI367 - Artificial Intelligence/week11/von Neumann & Morgenstern (VNM).md",
-    "@images/Pasted image 20231026010151.png",
-    "@images/Pasted image 20231026010018.png",
-    "COMPSCI367 - Artificial Intelligence/week11/Axiom 2 - Transitivity.md",
-    "COMPSCI367 - Artificial Intelligence/week11/Axiom 4 - Decomposability.md",
-    "COMPSCI367 - Artificial Intelligence/week11/weak preference relation (≥).md",
-    "COMPSCI367 - Artificial Intelligence/week11/Axiom 5 - Continuity.md",
-    "@images/Pasted image 20231026005656.png",
-    "COMPSCI367 - Artificial Intelligence/week11/(VNM-) rational.md",
-    "COMPSCI367 - Artificial Intelligence/week11/Axiom 3 - Monotonicity.md",
-    "COMPSCI367 - Artificial Intelligence/week11/Axiom 6 - Independence.md",
-    "@images/Pasted image 20231026005324.png",
-    "COMPSCI367 - Artificial Intelligence/week11/Axiom 1 - Completeness.md",
-    "@images/Pasted image 20231026005123.png",
-    "@images/Pasted image 20231026005102.png",
-    "@images/Pasted image 20231026004758.png",
-    "@images/Pasted image 20231026004654.png",
-    "@images/Pasted image 20231026004539.png",
-    "@images/Pasted image 20231026004436.png",
-    "COMPSCI367 - Artificial Intelligence/week11/strict preference relation.md",
-    "COMPSCI367 - Artificial Intelligence/week11/outcome(s).md",
-    "COMPSCI367 - Artificial Intelligence/week11/lottery.md",
-    "COMPSCI367 - Artificial Intelligence/week11/Utility theory.md",
-    "COMPSCI367 - Artificial Intelligence/week11/Planning with Uncertainty.md",
-    "COMPSCI367 - Artificial Intelligence/week09/Classical Planning.md",
-    "COMPSCI367 - Artificial Intelligence/week10/Compact Representation of Probability Distribution.md",
-    "COMPSCI367 - Artificial Intelligence/week10/Conditional Probability Table (CPT).md",
+    "conflict-files-obsidian-git.md",
+    "COMPSCI367 - Artificial Intelligence/week11/Decision Trees.md",
+    "COMPSCI367 - Artificial Intelligence/week01/Environment.md",
+    "COMPSCI367 - Artificial Intelligence/week01/Goal(s) - Goal State(s).md",
+    "COMPSCI367 - Artificial Intelligence/week01/Multi-agent.md",
+    "COMPSCI367 - Artificial Intelligence/week01/Performance measure.md",
+    "INFOSYS222 - Database Systems/DQL - Data Query Language-HP.md",
+    "INFOSYS222 - Database Systems/Relationship-HP.md",
+    "COMPSCI367 - Artificial Intelligence/week11/expected utility-HP.md",
+    "COMPSCI367 - Artificial Intelligence/week11/expected utility.md",
+    "COMPSCI367 - Artificial Intelligence/week11/Multi-dimensional Utility-HP.md",
+    "COMPSCI367 - Artificial Intelligence/week11/Multi-dimensional Utility.md",
+    "COMPSCI367 - Artificial Intelligence/week11/Expected utility hypothesis-HP.md",
+    "COMPSCI367 - Artificial Intelligence/week11/Expected utility hypothesis.md",
+    "COMPSCI367 - Artificial Intelligence/week11/Additive independence property-HP.md",
+    "COMPSCI367 - Artificial Intelligence/week11/One-off Decision-HP.md",
+    "COMPSCI367 - Artificial Intelligence/week11/One-off Decision.md",
+    "COMPSCI367 - Artificial Intelligence/week10/independent (independence)-HP.md",
+    "COMPSCI367 - Artificial Intelligence/week10/independent (independence).md",
+    "COMPSCI367 - Artificial Intelligence/week02/state(s).md",
+    "COMPSCI367 - Artificial Intelligence/week01/agent(s)-HP.md",
+    "COMPSCI367 - Artificial Intelligence/week01/agent(s).md",
+    "COMPSCI367 - Artificial Intelligence/week12/value of a decision network.md",
+    "COMPSCI367 - Artificial Intelligence/week12/state (ω).md",
+    "COMPSCI367 - Artificial Intelligence/week12/policy.md",
+    "@images/Pasted image 20231026174833.png",
+    "@images/Pasted image 20231026174606.png",
+    "@images/Pasted image 20231026170928.png",
+    "@images/Pasted image 20231026170850.png",
+    "@images/Pasted image 20231026170612.png",
+    "@images/Pasted image 20231026170532.png",
+    "@images/Pasted image 20231026165939.png",
+    "@images/Pasted image 20231026165642.png",
+    "@images/Pasted image 20231026165531.png",
+    "@images/Pasted image 20231026163536.png",
     "COMPSCI367 - Artificial Intelligence/week12",
     "COMPSCI367 - Artificial Intelligence/week11",
     "COMPSCI367 - Artificial Intelligence/week08",

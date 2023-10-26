@@ -1,1 +1,1 @@
-- ordered by path cost
+- both ends and the operations are performed in First In First Out (FIFO)

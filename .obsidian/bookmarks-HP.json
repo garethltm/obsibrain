@@ -1,0 +1,66 @@
+{
+  "items": [
+    {
+      "type": "file",
+      "ctime": 1698112683093,
+      "path": "COMPSCI367 - Artificial Intelligence/week09/search.md",
+      "title": "exams"
+    },
+    {
+      "type": "file",
+      "ctime": 1698273182239,
+      "path": "COMPSCI367 - Artificial Intelligence/week09/TranslateToSAT.md",
+      "title": "translate pddl to sat"
+    },
+    {
+      "type": "file",
+      "ctime": 1698296420082,
+      "path": "COMPSCI367 - Artificial Intelligence/week07/SLD Resolution (Backward chaining).md"
+    },
+    {
+      "type": "file",
+      "ctime": 1698296438234,
+      "path": "COMPSCI367 - Artificial Intelligence/week12/Single-stage decision networks (SSDN).md"
+    },
+    {
+      "type": "file",
+      "ctime": 1698296740872,
+      "path": "COMPSCI367 - Artificial Intelligence/week02/Uniform-Cost Search (UCS) (Lowest-Cost-First Search).md"
+    },
+    {
+      "type": "file",
+      "ctime": 1698296750641,
+      "path": "COMPSCI367 - Artificial Intelligence/week03/Local Search.md"
+    },
+    {
+      "type": "file",
+      "ctime": 1698296833618,
+      "path": "COMPSCI367 - Artificial Intelligence/week03/Backtracking Search.md"
+    },
+    {
+      "type": "file",
+      "ctime": 1698296922315,
+      "path": "COMPSCI367 - Artificial Intelligence/week03/Stochastic Search.md"
+    },
+    {
+      "type": "file",
+      "ctime": 1698296963108,
+      "path": "COMPSCI367 - Artificial Intelligence/week05/Alpha-Beta Pruning.md"
+    },
+    {
+      "type": "file",
+      "ctime": 1698297029180,
+      "path": "COMPSCI367 - Artificial Intelligence/week05/Genetic Algorithm with Travelling Salesman Problem.md"
+    },
+    {
+      "type": "file",
+      "ctime": 1698297039613,
+      "path": "COMPSCI367 - Artificial Intelligence/week05/Genetic Algorithm with 8-Queens.md"
+    },
+    {
+      "type": "file",
+      "ctime": 1698297057477,
+      "path": "COMPSCI367 - Artificial Intelligence/week05/Local beam Search.md"
+    }
+  ]
+}
