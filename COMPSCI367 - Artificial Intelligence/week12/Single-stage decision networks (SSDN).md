@@ -17,4 +17,4 @@ An extension of a [[Bayesian Networks]] with 3 nodes:
 >	into:![[Pasted image 20231026163536.png]]
 
 ![[COMPSCI3672022_S2W12Lecture35Decision2of2-08.jpg]]
-- this one deletes all the [[cha]]
+- this one deletes all the [[Chance nodes]]
