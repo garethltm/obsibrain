@@ -61,8 +61,12 @@
             "id": "78003ac2d0f27c16",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "INFOSYS222 - Database Systems/Attribute(s).md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
@@ -156,6 +160,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
+                    "file": "INFOSYS222 - Database Systems/Attribute(s).md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -254,6 +259,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "INFOSYS222 - Database Systems/Attribute(s).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -270,6 +276,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "INFOSYS222 - Database Systems/Attribute(s).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -291,7 +298,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "INFOSYS222 - Database Systems/Attribute(s).md"
+              }
             }
           },
           {
