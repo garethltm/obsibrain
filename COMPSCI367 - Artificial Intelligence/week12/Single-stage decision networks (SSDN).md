@@ -9,6 +9,7 @@ An extension of a [[Bayesian Networks]] with 3 nodes:
 
 >	#Example 
 >	![[COMPSCI3672022_S2W12Lecture35Decision2of2-04.jpg]]![[COMPSCI3672022_S2W12Lecture35Decision2of2-06.jpg]]
+>	- [[policy]], [[optimal policy]]
 
 >	#Example 
 >	![[Pasted image 20231025182314.png]]

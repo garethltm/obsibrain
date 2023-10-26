@@ -1,1 +1,1 @@
-a [[policy]] for a [[Single-stage decision networks (SSDN)]] is an assigne
+a [[policy]] for a [[Single-stage decision networks (SSDN)]] is an assignment of a value to each decision variable. Each [[policy]] has an [[expected utility]].
