@@ -32,5 +32,7 @@ An extension of a [[Bayesian Networks]] with 3 nodes:
 >	1. Into a [[Decision nodes]]: available information (observation/memory) when the decision i smake
 >	2. Into a [[Chance nodes]]: Probabilistic [[Dependency]]
 >	3. Into a [[utility]] node: [[Dependency]] of the [[Utility function]]
+>	![[Pasted image 20231026174606.png]]
+>	![[COMPSCI3672022_S2W12Lecture35Decision2of2-17.jpg]]
 >	
 - this one deletes all the [[Chance nodes]]
