@@ -63,7 +63,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week06/Atomic Entities.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week06/Duality of Syntax vs Semantics.md",
                 "mode": "source",
                 "source": false
               }
@@ -160,7 +160,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "COMPSCI367 - Artificial Intelligence/week06/Atomic Entities.md",
+                    "file": "COMPSCI367 - Artificial Intelligence/week06/Duality of Syntax vs Semantics.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -183,7 +183,7 @@
                       "repelStrength": 10,
                       "linkStrength": 1,
                       "linkDistance": 250,
-                      "scale": 1,
+                      "scale": 0.713275462622442,
                       "close": false
                     }
                   }
@@ -222,7 +222,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "hp",
+                "query": "percepts",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -259,7 +259,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week06/Atomic Entities.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week06/Duality of Syntax vs Semantics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -276,7 +276,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week06/Atomic Entities.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week06/Duality of Syntax vs Semantics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -299,7 +299,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week06/Atomic Entities.md"
+                "file": "COMPSCI367 - Artificial Intelligence/week06/Duality of Syntax vs Semantics.md"
               }
             }
           },
@@ -333,17 +333,20 @@
   },
   "active": "78003ac2d0f27c16",
   "lastOpenFiles": [
-    "COMPSCI367 - Artificial Intelligence/week06/Agents with a World Model.md",
-    "COMPSCI367 - Artificial Intelligence/week05/two-player zero-sum games.md",
-    "COMPSCI367 - Artificial Intelligence/week05/Solving Optimisation problems.md",
+    "COMPSCI367 - Artificial Intelligence/week06/Factored Representation.md",
+    "COMPSCI367 - Artificial Intelligence/week06/Equivalence between inference & satisfiability.md",
+    "COMPSCI367 - Artificial Intelligence/week06/Duality of Syntax vs Semantics.md",
+    "COMPSCI367 - Artificial Intelligence/week06/DPLL algorithm.md",
+    "COMPSCI367 - Artificial Intelligence/week06/connectives.md",
+    "COMPSCI367 - Artificial Intelligence/week06/Compound Propositions (Compound Entities).md",
+    "COMPSCI367 - Artificial Intelligence/week06/Atomic Representation.md",
     "COMPSCI367 - Artificial Intelligence/week06/Atomic Entities.md",
     "COMPSCI367 - Artificial Intelligence/week06/Atomic Propositions (atoms).md",
-    "COMPSCI367 - Artificial Intelligence/week06/Atomic Representation.md",
     "COMPSCI367 - Artificial Intelligence/week06/clause(s).md",
-    "COMPSCI367 - Artificial Intelligence/week06/Compound Propositions (Compound Entities).md",
-    "COMPSCI367 - Artificial Intelligence/week06/connectives.md",
-    "COMPSCI367 - Artificial Intelligence/week06/DPLL algorithm.md",
-    "COMPSCI367 - Artificial Intelligence/week06/Duality of Syntax vs Semantics.md",
+    "COMPSCI367 - Artificial Intelligence/week06/Agents with a World Model.md",
+    "COMPSCI367 - Artificial Intelligence/week01/Percepts.md",
+    "COMPSCI367 - Artificial Intelligence/week05/two-player zero-sum games.md",
+    "COMPSCI367 - Artificial Intelligence/week05/Solving Optimisation problems.md",
     "COMPSCI367 - Artificial Intelligence/week05/Alpha-Beta Pruning.md",
     "COMPSCI367 - Artificial Intelligence/week05/Boltzmann distribution.md",
     "COMPSCI367 - Artificial Intelligence/week05/Adversarial Search.md",
@@ -356,9 +359,6 @@
     "COMPSCI367 - Artificial Intelligence/week05/(partially) cooperative multi-agent environment.md",
     "COMPSCI367 - Artificial Intelligence/week05/Minmax Algorithm.md",
     "COMPSCI367 - Artificial Intelligence/week05/Local beam Search.md",
-    "COMPSCI367 - Artificial Intelligence/week05/Greedy descent with M random restarts vs Local beam Search.md",
-    "COMPSCI367 - Artificial Intelligence/week05/genetics.md",
-    "COMPSCI367 - Artificial Intelligence/week05/Genetic Algorithm with Travelling Salesman Problem.md",
     "@images/COMPSCI3672022_S2W12Lecture35Decision2of2-23.jpg",
     "@images/COMPSCI3672022_S2W12Lecture35Decision2of2-22.jpg",
     "@images/Pasted image 20231026174833.png",
