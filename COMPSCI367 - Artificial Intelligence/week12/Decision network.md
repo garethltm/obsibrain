@@ -3,6 +3,11 @@ a [[Probability]] graph model that extends a [[Single-stage decision networks (S
 	- no cycles/loops
 - [[Decision nodes]]
 - [[no forgetting property]]
-- [[Conditional Probability Table (CPT)]] where $P(C\tiny i\normalsize | parents(C\tiny i\normalsize)$) is assigned to every [[]]
+- [[Conditional Probability Table (CPT)]] where $P(C\tiny i\normalsize | parents(C\tiny i\normalsize)$) is assigned to every [[Chance nodes]]
+- [[Utility function]] u(parents(u)) is given
 
+We will be assuming the [[no forgetting property]] for all [[Decision network]]
+
+>	#Example 
+>	
 
