@@ -303,9 +303,17 @@
                 "sortOrder": "frequency"
               }
             }
+          },
+          {
+            "id": "2462874ab3fccbcf",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -319,10 +327,11 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "78003ac2d0f27c16",
+  "active": "2462874ab3fccbcf",
   "lastOpenFiles": [
     "INFOSYS222 - Database Systems/Attribute(s).md",
     "COMPSCI367 - Artificial Intelligence/week02/state(s).md",
