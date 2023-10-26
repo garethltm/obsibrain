@@ -1,1 +1,1 @@
-- both ends and the operations are performed in First In First Out (FIFO) order
+- both ends and the operations are performed in First In First Out (FIFO)

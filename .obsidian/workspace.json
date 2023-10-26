@@ -63,7 +63,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week02/Search Tree.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week02/Time Complexity.md",
                 "mode": "source",
                 "source": false
               }
@@ -160,7 +160,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "COMPSCI367 - Artificial Intelligence/week02/Search Tree.md",
+                    "file": "COMPSCI367 - Artificial Intelligence/week02/Time Complexity.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -259,7 +259,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week02/Search Tree.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week02/Time Complexity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -276,7 +276,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week02/Search Tree.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week02/Time Complexity.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -299,7 +299,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week02/Search Tree.md"
+                "file": "COMPSCI367 - Artificial Intelligence/week02/Time Complexity.md"
               }
             }
           },
@@ -333,8 +333,16 @@
   },
   "active": "78003ac2d0f27c16",
   "lastOpenFiles": [
-    "COMPSCI367 - Artificial Intelligence/week02/Search Techniques (Search Strategy) (Search Algorithm).md",
+    "COMPSCI367 - Artificial Intelligence/week02/State(s).md",
+    "COMPSCI367 - Artificial Intelligence/week02/State Space Problem.md",
+    "COMPSCI367 - Artificial Intelligence/week02/State Space Searching.md",
+    "COMPSCI367 - Artificial Intelligence/week02/State Space.md",
+    "COMPSCI367 - Artificial Intelligence/week02/Stack.md",
     "COMPSCI367 - Artificial Intelligence/week02/Queue.md",
+    "COMPSCI367 - Artificial Intelligence/week02/Space Complexity.md",
+    "COMPSCI367 - Artificial Intelligence/week02/solution(s).md",
+    "COMPSCI367 - Artificial Intelligence/week02/Search Tree.md",
+    "COMPSCI367 - Artificial Intelligence/week02/Search Techniques (Search Strategy) (Search Algorithm).md",
     "COMPSCI367 - Artificial Intelligence/week02/Priority Queue.md",
     "COMPSCI367 - Artificial Intelligence/week02/Problem Solving by Graph Searching.md",
     "COMPSCI367 - Artificial Intelligence/week02/path(s).md",
@@ -351,14 +359,6 @@
     "COMPSCI367 - Artificial Intelligence/week02/heuristic(s).md",
     "COMPSCI367 - Artificial Intelligence/week02/Greedy (Best-First) Search.md",
     "COMPSCI367 - Artificial Intelligence/week02/frontier (open list, fringe).md",
-    "COMPSCI367 - Artificial Intelligence/week02/Depth-Limited Search (DLS).md",
-    "COMPSCI367 - Artificial Intelligence/week02/Depth-First Search (DFS).md",
-    "COMPSCI367 - Artificial Intelligence/week02/Cost Sensitive Search.md",
-    "COMPSCI367 - Artificial Intelligence/week02/constraint(s).md",
-    "COMPSCI367 - Artificial Intelligence/week02/Consistent Heuristics.md",
-    "COMPSCI367 - Artificial Intelligence/week02/Complete.md",
-    "COMPSCI367 - Artificial Intelligence/week02/closed list.md",
-    "COMPSCI367 - Artificial Intelligence/week02/Breadth-First Search (BFS).md",
     "@images/COMPSCI3672022_S2W12Lecture35Decision2of2-23.jpg",
     "@images/COMPSCI3672022_S2W12Lecture35Decision2of2-22.jpg",
     "@images/Pasted image 20231026174833.png",
