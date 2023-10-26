@@ -1,1 +1,1 @@
-[[Local Markov Property]] decision process. The agent does not know a prior
+[[Local Markov Property]] decision process. The agent does not know a sequence & number of decisions to be made
