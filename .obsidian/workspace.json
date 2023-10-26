@@ -63,7 +63,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week02/Queue.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week02/Search Tree.md",
                 "mode": "source",
                 "source": false
               }
@@ -160,7 +160,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "COMPSCI367 - Artificial Intelligence/week02/Queue.md",
+                    "file": "COMPSCI367 - Artificial Intelligence/week02/Search Tree.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -259,7 +259,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week02/Queue.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week02/Search Tree.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -276,7 +276,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week02/Queue.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week02/Search Tree.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -299,7 +299,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week02/Queue.md"
+                "file": "COMPSCI367 - Artificial Intelligence/week02/Search Tree.md"
               }
             }
           },
@@ -333,12 +333,12 @@
   },
   "active": "78003ac2d0f27c16",
   "lastOpenFiles": [
-    "COMPSCI367 - Artificial Intelligence/week02/Problem Solving by Graph Searching.md",
-    "COMPSCI367 - Artificial Intelligence/week02/Priority Queue.md",
-    "COMPSCI367 - Artificial Intelligence/week02/path(s).md",
-    "COMPSCI367 - Artificial Intelligence/week02/path cost.md",
     "COMPSCI367 - Artificial Intelligence/week02/Search Techniques (Search Strategy) (Search Algorithm).md",
     "COMPSCI367 - Artificial Intelligence/week02/Queue.md",
+    "COMPSCI367 - Artificial Intelligence/week02/Priority Queue.md",
+    "COMPSCI367 - Artificial Intelligence/week02/Problem Solving by Graph Searching.md",
+    "COMPSCI367 - Artificial Intelligence/week02/path(s).md",
+    "COMPSCI367 - Artificial Intelligence/week02/path cost.md",
     "COMPSCI367 - Artificial Intelligence/week02/Optimal.md",
     "COMPSCI367 - Artificial Intelligence/week02/Motivation of having a Search Strategy.md",
     "COMPSCI367 - Artificial Intelligence/week02/Neighbour.md",
