@@ -1,4 +1,4 @@
-a [[Probability]] graph model that extends a [[Single-stage decision networks (SSDN)]] to allow both [[Chance nodes]] & [[Decision nodes]] to be parents of [[Decision nodes]]
+a [[Probability]] graph model that ==extends a [[Single-stage decision networks (SSDN)]]== to allow both [[Chance nodes]] & [[Decision nodes]] to be parents of [[Decision nodes]]
 - graph is acyclic
 	- no cycles/loops
 - [[Decision nodes]]
@@ -9,5 +9,6 @@ a [[Probability]] graph model that extends a [[Single-stage decision networks (S
 We will be assuming the [[no forgetting property]] for all [[Decision network]]
 
 >	#Example 
->	
+>	Should an [[agent(s)]] take an umbrella?
+>	[[Cha]]
 
