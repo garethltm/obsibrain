@@ -63,7 +63,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week09/TranslateToSAT.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week02/Initial State (Start State).md",
                 "mode": "source",
                 "source": false
               }
@@ -160,7 +160,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "COMPSCI367 - Artificial Intelligence/week09/TranslateToSAT.md",
+                    "file": "COMPSCI367 - Artificial Intelligence/week02/Initial State (Start State).md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -239,8 +239,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -260,7 +259,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week09/TranslateToSAT.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week02/Initial State (Start State).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -277,7 +276,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week09/TranslateToSAT.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week02/Initial State (Start State).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -300,7 +299,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week09/TranslateToSAT.md"
+                "file": "COMPSCI367 - Artificial Intelligence/week02/Initial State (Start State).md"
               }
             }
           },
@@ -334,6 +333,23 @@
   },
   "active": "78003ac2d0f27c16",
   "lastOpenFiles": [
+    "COMPSCI367 - Artificial Intelligence/week02/Informed Search Heuristic.md",
+    "COMPSCI367 - Artificial Intelligence/week02/Informed Search.md",
+    "COMPSCI367 - Artificial Intelligence/week02/heuristic(s).md",
+    "COMPSCI367 - Artificial Intelligence/week02/Greedy (Best-First) Search.md",
+    "COMPSCI367 - Artificial Intelligence/week02/frontier (open list, fringe).md",
+    "COMPSCI367 - Artificial Intelligence/week02/Depth-Limited Search (DLS).md",
+    "COMPSCI367 - Artificial Intelligence/week02/Depth-First Search (DFS).md",
+    "COMPSCI367 - Artificial Intelligence/week02/Cost Sensitive Search.md",
+    "COMPSCI367 - Artificial Intelligence/week02/constraint(s).md",
+    "COMPSCI367 - Artificial Intelligence/week02/Consistent Heuristics.md",
+    "COMPSCI367 - Artificial Intelligence/week02/Complete.md",
+    "COMPSCI367 - Artificial Intelligence/week02/closed list.md",
+    "COMPSCI367 - Artificial Intelligence/week02/Breadth-First Search (BFS).md",
+    "COMPSCI367 - Artificial Intelligence/week02/Bidirectional Search.md",
+    "COMPSCI367 - Artificial Intelligence/week02/Arc.md",
+    "COMPSCI367 - Artificial Intelligence/week02/A-Star Search.md",
+    "COMPSCI367 - Artificial Intelligence/week09/TranslateToSAT.md",
     "COMPSCI367 - Artificial Intelligence/week12/Single-stage decision networks (SSDN).md",
     "COMPSCI367 - Artificial Intelligence/week07/SLD Resolution (Backward chaining).md",
     "COMPSCI367 - Artificial Intelligence/week12/Decision Network-based sequential decision problem (DN-based sequential decision problem).md",
@@ -343,16 +359,6 @@
     "COMPSCI367 - Artificial Intelligence/week11/Decision Trees.md",
     "COMPSCI367 - Artificial Intelligence/week12/policy (π).md",
     "COMPSCI367 - Artificial Intelligence/week12/policy.md",
-    "COMPSCI367 - Artificial Intelligence/week12/optimal policy.md",
-    "COMPSCI367 - Artificial Intelligence/week12/no forgetting property.md",
-    "COMPSCI367 - Artificial Intelligence/week12/Finite horizon.md",
-    "COMPSCI367 - Artificial Intelligence/week12/Decision-theoretic Expert Systems.md",
-    "COMPSCI367 - Artificial Intelligence/week12/Decision nodes.md",
-    "COMPSCI367 - Artificial Intelligence/week12/Decision function.md",
-    "COMPSCI367 - Artificial Intelligence/week12/Chance nodes.md",
-    "COMPSCI367 - Artificial Intelligence/week12/Sequential Decision Problem.md",
-    "COMPSCI367 - Artificial Intelligence/week12/value of a decision network.md",
-    "COMPSCI367 - Artificial Intelligence/week12/state (ω).md",
     "@images/COMPSCI3672022_S2W12Lecture35Decision2of2-23.jpg",
     "@images/COMPSCI3672022_S2W12Lecture35Decision2of2-22.jpg",
     "@images/Pasted image 20231026174833.png",
@@ -363,13 +369,6 @@
     "@images/Pasted image 20231026174606.png",
     "@images/COMPSCI3672022_S2W12Lecture35Decision2of2-15.jpg",
     "@images/Pasted image 20231026170928.png",
-    "COMPSCI367 - Artificial Intelligence/week11/Utility function.md",
-    "COMPSCI367 - Artificial Intelligence/week12/Indefinite horizon or infinite horizon.md",
-    "COMPSCI367 - Artificial Intelligence/week01/Utility-Based Agent.md",
-    "COMPSCI367 - Artificial Intelligence/week09/TranslateToSAT.md",
-    "COMPSCI367 - Artificial Intelligence/week11/outcome(s).md",
-    "COMPSCI367 - Artificial Intelligence/week11/Planning with Uncertainty.md",
-    "COMPSCI367 - Artificial Intelligence/week11/Multi-dimensional Utility.md",
     "COMPSCI367 - Artificial Intelligence/week12",
     "COMPSCI367 - Artificial Intelligence/week11",
     "COMPSCI367 - Artificial Intelligence/week08",
