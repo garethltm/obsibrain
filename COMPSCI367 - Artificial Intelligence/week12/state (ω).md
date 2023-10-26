@@ -1,1 +1,1 @@
-- a [[state (ω)]] satisfies [[policy (π)]] if every [[Decision nodes]] D has the same value as specific
+- a [[state (ω)]] satisfies [[policy (π)]] if every [[Decision nodes]] D has the same value as specified by [[policy (π)]], given the values of its parents in [[state (ω)]]
