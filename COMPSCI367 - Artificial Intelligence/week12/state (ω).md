@@ -1,0 +1,1 @@
+- a [[state (ω)]] satisfies [[policy (π)]] if every [[Decision nodes]] D has the same value as specific
