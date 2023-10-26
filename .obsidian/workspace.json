@@ -63,7 +63,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week11/Planning with Uncertainty.md",
                 "mode": "source",
                 "source": false
               }
@@ -160,7 +160,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "README.md",
+                    "file": "COMPSCI367 - Artificial Intelligence/week11/Planning with Uncertainty.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -183,7 +183,7 @@
                       "repelStrength": 10,
                       "linkStrength": 1,
                       "linkDistance": 250,
-                      "scale": 0.38964468173478434,
+                      "scale": 1,
                       "close": false
                     }
                   }
@@ -243,7 +243,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "29204b37fc003a9a",
@@ -259,7 +259,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week11/Planning with Uncertainty.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -276,7 +276,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week11/Planning with Uncertainty.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -299,7 +299,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "COMPSCI367 - Artificial Intelligence/week11/Planning with Uncertainty.md"
               }
             }
           },
@@ -312,17 +312,9 @@
                 "sortOrder": "frequency"
               }
             }
-          },
-          {
-            "id": "2462874ab3fccbcf",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {}
-            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -336,15 +328,12 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "obsidian-spaced-repetition:Review flashcards": false
+      "command-palette:Open command palette": false
     }
   },
   "active": "78003ac2d0f27c16",
   "lastOpenFiles": [
-    "INFOSYS222 - Database Systems/Attribute(s).md",
-    "COMPSCI367 - Artificial Intelligence/week02/state(s).md",
-    "COMPSCI367 - Artificial Intelligence/week02/constraint(s).md",
+    "COMPSCI367 - Artificial Intelligence/week12/Single-stage decision networks (SSDN).md",
     "COMPSCI367 - Artificial Intelligence/week04/Hill-Climbing.md",
     "COMPSCI367 - Artificial Intelligence/week04/Hill-Climbing with 8-Queens.md",
     "COMPSCI367 - Artificial Intelligence/week04/Greedy Descent.md",
@@ -368,6 +357,8 @@
     "COMPSCI367 - Artificial Intelligence/week05/Multi-agent System.md",
     "COMPSCI367 - Artificial Intelligence/week05/Minmax Algorithm.md",
     "COMPSCI367 - Artificial Intelligence/week05/Local beam Search.md",
+    "COMPSCI367 - Artificial Intelligence/week05/Greedy descent with M random restarts vs Local beam Search.md",
+    "COMPSCI367 - Artificial Intelligence/week05/genetics.md",
     "@images/Pasted image 20231026105122.png",
     "@images/Pasted image 20231026105109.png",
     "@images/Pasted image 20231026105052.png",

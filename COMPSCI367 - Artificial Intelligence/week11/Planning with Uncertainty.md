@@ -4,7 +4,7 @@
 [[Planning with Uncertainty]] differs from [[Classical Planning]]:
 - infinite set of [[probability]] outcomes as a search space
 - [[state(s)]] changes with [[Stochastic]] elements involved
-- non-[[Deterministic]] [[action(s)]]
+- ==non-[[Deterministic]] [[action(s)]]==
 - Imperfect information
 - [[goal(s) - goal state(s)]] may not be achieved (up to chance). Need to [[evaluate desirability]] of outcomes
 
