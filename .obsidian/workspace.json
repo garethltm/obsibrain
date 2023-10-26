@@ -63,7 +63,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week03/Stochastic Search.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week05/Evolution as Search.md",
                 "mode": "source",
                 "source": false
               }
@@ -160,7 +160,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "COMPSCI367 - Artificial Intelligence/week03/Stochastic Search.md",
+                    "file": "COMPSCI367 - Artificial Intelligence/week05/Evolution as Search.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -259,7 +259,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week03/Stochastic Search.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week05/Evolution as Search.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -276,7 +276,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week03/Stochastic Search.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week05/Evolution as Search.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -299,7 +299,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week03/Stochastic Search.md"
+                "file": "COMPSCI367 - Artificial Intelligence/week05/Evolution as Search.md"
               }
             }
           },
@@ -333,6 +333,22 @@
   },
   "active": "78003ac2d0f27c16",
   "lastOpenFiles": [
+    "COMPSCI367 - Artificial Intelligence/week05/evolution.md",
+    "COMPSCI367 - Artificial Intelligence/week05/Complexity analysis.md",
+    "COMPSCI367 - Artificial Intelligence/week05/crossover operation.md",
+    "COMPSCI367 - Artificial Intelligence/week05/competitive multi-agent environment.md",
+    "COMPSCI367 - Artificial Intelligence/week05/candidate solution.md",
+    "COMPSCI367 - Artificial Intelligence/week05/Boltzmann distribution.md",
+    "COMPSCI367 - Artificial Intelligence/week05/Alpha-Beta Pruning.md",
+    "COMPSCI367 - Artificial Intelligence/week05/Adversarial Search.md",
+    "COMPSCI367 - Artificial Intelligence/week05/(partially) cooperative multi-agent environment.md",
+    "COMPSCI367 - Artificial Intelligence/week03/Variable Elimination.md",
+    "COMPSCI367 - Artificial Intelligence/week03/Trivial Heuristic; Dominance.md",
+    "COMPSCI367 - Artificial Intelligence/week03/Tree Search.md",
+    "COMPSCI367 - Artificial Intelligence/week03/successor(s).md",
+    "COMPSCI367 - Artificial Intelligence/week03/successor function.md",
+    "COMPSCI367 - Artificial Intelligence/week03/Stochastic Search.md",
+    "COMPSCI367 - Artificial Intelligence/week04/First Choice Hill-Climbing.md",
     "COMPSCI367 - Artificial Intelligence/week03/Path Search vs CSPs.md",
     "COMPSCI367 - Artificial Intelligence/week03/optimistic.md",
     "COMPSCI367 - Artificial Intelligence/week03/Minimum Remaining Values (MRV).md",
@@ -343,22 +359,6 @@
     "COMPSCI367 - Artificial Intelligence/week03/Goal test.md",
     "COMPSCI367 - Artificial Intelligence/week03/Forward Checking.md",
     "COMPSCI367 - Artificial Intelligence/week03/Constraint Satisfaction Problem (CSPs).md",
-    "COMPSCI367 - Artificial Intelligence/week03/branching factor(s).md",
-    "COMPSCI367 - Artificial Intelligence/week03/Backtracking Search.md",
-    "COMPSCI367 - Artificial Intelligence/week03/degree heuristic.md",
-    "COMPSCI367 - Artificial Intelligence/week03/Stochastic Search.md",
-    "COMPSCI367 - Artificial Intelligence/week02/Uninformed Search.md",
-    "COMPSCI367 - Artificial Intelligence/week02/Uniform-Cost Search (UCS) (Lowest-Cost-First Search).md",
-    "COMPSCI367 - Artificial Intelligence/week02/Time Complexity.md",
-    "COMPSCI367 - Artificial Intelligence/week02/suboptimal.md",
-    "COMPSCI367 - Artificial Intelligence/week02/State(s).md",
-    "COMPSCI367 - Artificial Intelligence/week02/State Space Problem.md",
-    "COMPSCI367 - Artificial Intelligence/week02/State Space Searching.md",
-    "COMPSCI367 - Artificial Intelligence/week02/State Space.md",
-    "COMPSCI367 - Artificial Intelligence/week02/Stack.md",
-    "COMPSCI367 - Artificial Intelligence/week02/Queue.md",
-    "COMPSCI367 - Artificial Intelligence/week02/Space Complexity.md",
-    "COMPSCI367 - Artificial Intelligence/week02/solution(s).md",
     "@images/COMPSCI3672022_S2W12Lecture35Decision2of2-23.jpg",
     "@images/COMPSCI3672022_S2W12Lecture35Decision2of2-22.jpg",
     "@images/Pasted image 20231026174833.png",
