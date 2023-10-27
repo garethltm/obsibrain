@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week10/Bayes Theorem.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week10/Why should you use NLP.md",
                 "mode": "source",
                 "source": false
               }
@@ -51,7 +51,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "COMPSCI367 - Artificial Intelligence/week10/Bayes Theorem.md",
+                    "file": "COMPSCI367 - Artificial Intelligence/week10/Why should you use NLP.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -86,7 +86,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "COMPSCI367 - Artificial Intelligence/week10/Bayes Theorem.md",
+                    "file": "COMPSCI367 - Artificial Intelligence/week10/Why should you use NLP.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -185,7 +185,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week10/Bayes Theorem.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week10/Why should you use NLP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -202,7 +202,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week10/Bayes Theorem.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week10/Why should you use NLP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -225,7 +225,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week10/Bayes Theorem.md"
+                "file": "COMPSCI367 - Artificial Intelligence/week10/Why should you use NLP.md"
               }
             }
           },
@@ -268,6 +268,21 @@
   },
   "active": "358f03c9716e94e8",
   "lastOpenFiles": [
+    "COMPSCI367 - Artificial Intelligence/week10/Zipf's law.md",
+    "COMPSCI367 - Artificial Intelligence/week10/The Noisy Channel Model.md",
+    "COMPSCI367 - Artificial Intelligence/week10/term specificity.md",
+    "COMPSCI367 - Artificial Intelligence/week10/Term Frequency (tf).md",
+    "COMPSCI367 - Artificial Intelligence/week10/Modern Problems - More subsequent lectures.md",
+    "COMPSCI367 - Artificial Intelligence/week10/Law of total probability.md",
+    "COMPSCI367 - Artificial Intelligence/week10/Laplace smoothing (add-one smoothing).md",
+    "COMPSCI367 - Artificial Intelligence/week10/Data compression.md",
+    "COMPSCI367 - Artificial Intelligence/week10/Bayes Theorem.md",
+    "COMPSCI367 - Artificial Intelligence/week10/Attention Weight.md",
+    "COMPSCI367 - Artificial Intelligence/week10/Applying Bayes Rule for class ranking.md",
+    "COMPSCI367 - Artificial Intelligence/week10/Additivity.md",
+    "COMPSCI367 - Artificial Intelligence/week10/Applying Bayes Rule.md",
+    "COMPSCI367 - Artificial Intelligence/week10/Attention Model.md",
+    "COMPSCI367 - Artificial Intelligence/week10/Autoregressive Language Models based on Deep Learning.md",
     "COMPSCI367 - Artificial Intelligence/week10/The vector space model.md",
     "COMPSCI367 - Artificial Intelligence/week10/Naïve Bayes classification.md",
     "COMPSCI367 - Artificial Intelligence/week10/Natural Language Processing (NLP).md",
@@ -277,23 +292,8 @@
     "COMPSCI367 - Artificial Intelligence/week10/Conditional Entropy.md",
     "COMPSCI367 - Artificial Intelligence/week10/Belief measure.md",
     "COMPSCI367 - Artificial Intelligence/week10/calculus of belief.md",
-    "COMPSCI367 - Artificial Intelligence/week10/Bayes Theorem.md",
     "COMPSCI367 - Artificial Intelligence/week10/Bayes Rule with Existing Evidence.md",
     "COMPSCI367 - Artificial Intelligence/week10/Bayes Classifier - Conditional Independence.md",
-    "COMPSCI367 - Artificial Intelligence/week10/Autoregressive Language Models based on Deep Learning.md",
-    "COMPSCI367 - Artificial Intelligence/week09/worlds.md",
-    "COMPSCI367 - Artificial Intelligence/week09/uncertainty.md",
-    "COMPSCI367 - Artificial Intelligence/week09/TranslateToSAT.md",
-    "COMPSCI367 - Artificial Intelligence/week09/Task description.md",
-    "COMPSCI367 - Artificial Intelligence/week09/Search-based Planning Algorithm.md",
-    "COMPSCI367 - Artificial Intelligence/week09/Search.md",
-    "COMPSCI367 - Artificial Intelligence/week09/SATPlan.md",
-    "COMPSCI367 - Artificial Intelligence/week09/Remote Agent.md",
-    "COMPSCI367 - Artificial Intelligence/week09/Problog.md",
-    "COMPSCI367 - Artificial Intelligence/week09/Problem file.md",
-    "COMPSCI367 - Artificial Intelligence/week09/Probability Theory.md",
-    "COMPSCI367 - Artificial Intelligence/week09/Probability.md",
-    "COMPSCI367 - Artificial Intelligence/week09/Probabilistic Reasoning.md",
     "@images/Pasted image 20231026174833.png",
     "@images/Pasted image 20231026174606.png",
     "@images/Pasted image 20231026170928.png",
