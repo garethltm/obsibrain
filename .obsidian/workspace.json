@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week05/Genetic Algorithm with 8-Queens.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week05/population.md",
                 "mode": "source",
                 "source": false
               }
@@ -51,7 +51,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "COMPSCI367 - Artificial Intelligence/week05/Genetic Algorithm with 8-Queens.md",
+                    "file": "COMPSCI367 - Artificial Intelligence/week05/population.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -86,7 +86,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "COMPSCI367 - Artificial Intelligence/week05/Genetic Algorithm with 8-Queens.md",
+                    "file": "COMPSCI367 - Artificial Intelligence/week05/population.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -148,7 +148,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "genetic",
+                "query": "popul",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -186,7 +186,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week05/Genetic Algorithm with 8-Queens.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week05/population.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -203,7 +203,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week05/Genetic Algorithm with 8-Queens.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week05/population.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -226,7 +226,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week05/Genetic Algorithm with 8-Queens.md"
+                "file": "COMPSCI367 - Artificial Intelligence/week05/population.md"
               }
             }
           },
@@ -269,11 +269,11 @@
   },
   "active": "358f03c9716e94e8",
   "lastOpenFiles": [
+    "COMPSCI367 - Artificial Intelligence/week05/Genetic Algorithm with 8-Queens.md",
     "COMPSCI367 - Artificial Intelligence/week06/Duality of Syntax vs Semantics.md",
     "COMPSCI367 - Artificial Intelligence/week05/evolution.md",
     "COMPSCI367 - Artificial Intelligence/week05/Genetic Algorithm (GA).md",
     "COMPSCI367 - Artificial Intelligence/week05/Genetic Algorithm with Travelling Salesman Problem.md",
-    "COMPSCI367 - Artificial Intelligence/week05/Genetic Algorithm with 8-Queens.md",
     "COMPSCI367 - Artificial Intelligence/week05/Population-based Search.md",
     "COMPSCI367 - Artificial Intelligence/week05/mutation operation.md",
     "COMPSCI367 - Artificial Intelligence/week05/genetics.md",
