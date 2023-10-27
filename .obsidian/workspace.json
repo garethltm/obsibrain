@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week09/TranslateToSAT.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week04/Greedy Descent.md",
                 "mode": "source",
                 "source": false
               }
@@ -51,7 +51,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "COMPSCI367 - Artificial Intelligence/week09/TranslateToSAT.md",
+                    "file": "COMPSCI367 - Artificial Intelligence/week04/Greedy Descent.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -86,7 +86,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "COMPSCI367 - Artificial Intelligence/week09/TranslateToSAT.md",
+                    "file": "COMPSCI367 - Artificial Intelligence/week04/Greedy Descent.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -148,7 +148,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "greedy",
+                "query": "greedy desc",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -186,7 +186,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week09/TranslateToSAT.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week04/Greedy Descent.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -203,7 +203,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week09/TranslateToSAT.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week04/Greedy Descent.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -226,7 +226,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week09/TranslateToSAT.md"
+                "file": "COMPSCI367 - Artificial Intelligence/week04/Greedy Descent.md"
               }
             }
           },
@@ -267,8 +267,11 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "a6e0090ac9cbd1f3",
+  "active": "358f03c9716e94e8",
   "lastOpenFiles": [
+    "COMPSCI367 - Artificial Intelligence/week04/Gradient descent.md",
+    "COMPSCI367 - Artificial Intelligence/week04/Greedy Descent.md",
+    "COMPSCI367 - Artificial Intelligence/week09/TranslateToSAT.md",
     "COMPSCI367 - Artificial Intelligence/week04/Hill-Climbing.md",
     "COMPSCI367 - Artificial Intelligence/week01/agent(s).md",
     "COMPSCI367 - Artificial Intelligence/week11/Additive independence property.md",
@@ -292,9 +295,6 @@
     "COMPSCI367 - Artificial Intelligence/week11/expected utility.md",
     "COMPSCI367 - Artificial Intelligence/week11/Multi-dimensional Utility.md",
     "COMPSCI367 - Artificial Intelligence/week11/Expected utility hypothesis.md",
-    "COMPSCI367 - Artificial Intelligence/week10/independent (independence).md",
-    "COMPSCI367 - Artificial Intelligence/week02/state(s).md",
-    "COMPSCI367 - Artificial Intelligence/week12/value of a decision network.md",
     "@images/Pasted image 20231026174833.png",
     "@images/Pasted image 20231026174606.png",
     "@images/Pasted image 20231026170928.png",
