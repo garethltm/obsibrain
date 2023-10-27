@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week05/population.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week10/Entropy (or self-information).md",
                 "mode": "source",
                 "source": false
               }
@@ -51,7 +51,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "COMPSCI367 - Artificial Intelligence/week05/population.md",
+                    "file": "COMPSCI367 - Artificial Intelligence/week10/Entropy (or self-information).md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -86,7 +86,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "COMPSCI367 - Artificial Intelligence/week05/population.md",
+                    "file": "COMPSCI367 - Artificial Intelligence/week10/Entropy (or self-information).md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -148,7 +148,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "popul",
+                "query": "weighted sum",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -186,7 +186,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week05/population.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week10/Entropy (or self-information).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -203,7 +203,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week05/population.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week10/Entropy (or self-information).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -226,7 +226,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week05/population.md"
+                "file": "COMPSCI367 - Artificial Intelligence/week10/Entropy (or self-information).md"
               }
             }
           },
@@ -269,6 +269,7 @@
   },
   "active": "358f03c9716e94e8",
   "lastOpenFiles": [
+    "COMPSCI367 - Artificial Intelligence/week05/population.md",
     "COMPSCI367 - Artificial Intelligence/week05/Genetic Algorithm with 8-Queens.md",
     "COMPSCI367 - Artificial Intelligence/week06/Duality of Syntax vs Semantics.md",
     "COMPSCI367 - Artificial Intelligence/week05/evolution.md",
@@ -294,7 +295,6 @@
     "COMPSCI367 - Artificial Intelligence/week03/Variable Elimination-GARETH.md",
     "COMPSCI367 - Artificial Intelligence/week11/von Neumann & Morgenstern (VNM)-GARETH.md",
     "COMPSCI367 - Artificial Intelligence/week01/World Model-GARETH.md",
-    "COMPSCI367 - Artificial Intelligence/week04/Annealing-GARETH.md",
     "@images/Pasted image 20231026174833.png",
     "@images/Pasted image 20231026174606.png",
     "@images/Pasted image 20231026170928.png",
