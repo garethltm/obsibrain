@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week04/Random-Restart Hill Climbing.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week05/Genetic Algorithm with Travelling Salesman Problem.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
       {
         "id": "992e264c1b226738",
         "type": "split",
-        "dimension": 12.690355329949236,
+        "dimension": 12.690355329949234,
         "children": [
           {
             "id": "8d459d1c85b8b9ed",
@@ -51,7 +51,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "COMPSCI367 - Artificial Intelligence/week04/Random-Restart Hill Climbing.md",
+                    "file": "COMPSCI367 - Artificial Intelligence/week05/Genetic Algorithm with Travelling Salesman Problem.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -86,7 +86,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "COMPSCI367 - Artificial Intelligence/week04/Random-Restart Hill Climbing.md",
+                    "file": "COMPSCI367 - Artificial Intelligence/week05/Genetic Algorithm with Travelling Salesman Problem.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -148,7 +148,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "greedy",
+                "query": "genetic",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -186,7 +186,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week04/Random-Restart Hill Climbing.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week05/Genetic Algorithm with Travelling Salesman Problem.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -203,7 +203,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week04/Random-Restart Hill Climbing.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week05/Genetic Algorithm with Travelling Salesman Problem.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -226,7 +226,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week04/Random-Restart Hill Climbing.md"
+                "file": "COMPSCI367 - Artificial Intelligence/week05/Genetic Algorithm with Travelling Salesman Problem.md"
               }
             }
           },
@@ -269,32 +269,32 @@
   },
   "active": "358f03c9716e94e8",
   "lastOpenFiles": [
-    "COMPSCI367 - Artificial Intelligence/week04/Probabilistic Hill-Climbing.md",
-    "COMPSCI367 - Artificial Intelligence/week04/Greedy Descent.md",
-    "COMPSCI367 - Artificial Intelligence/week04/Local Search in Continuous Space.md",
-    "COMPSCI367 - Artificial Intelligence/week04/Gradient descent.md",
-    "COMPSCI367 - Artificial Intelligence/week09/TranslateToSAT.md",
-    "COMPSCI367 - Artificial Intelligence/week04/Hill-Climbing.md",
-    "COMPSCI367 - Artificial Intelligence/week01/agent(s).md",
-    "COMPSCI367 - Artificial Intelligence/week11/Additive independence property.md",
-    "COMPSCI367 - Artificial Intelligence/week01/agent(s)-HP.md",
-    "INFOSYS222 - Database Systems/DQL - Data Query Language-HP.md",
-    "COMPSCI367 - Artificial Intelligence/week11/Expected utility hypothesis-HP.md",
-    "COMPSCI367 - Artificial Intelligence/week11/expected utility-HP.md",
-    "COMPSCI367 - Artificial Intelligence/week10/independent (independence)-HP.md",
-    "COMPSCI367 - Artificial Intelligence/week11/Multi-dimensional Utility-HP.md",
-    "COMPSCI367 - Artificial Intelligence/week11/One-off Decision-HP.md",
-    "INFOSYS222 - Database Systems/Relationship-HP.md",
-    "COMPSCI367 - Artificial Intelligence/week11/Additive independence property-HP.md",
-    "COMPSCI367 - Artificial Intelligence/week11/von Neumann & Morgenstern (VNM).md",
-    "COMPSCI367 - Artificial Intelligence/week11/One-off Decision.md",
-    "conflict-files-obsidian-git.md",
-    "COMPSCI367 - Artificial Intelligence/week11/Decision Trees.md",
-    "COMPSCI367 - Artificial Intelligence/week01/Environment.md",
-    "COMPSCI367 - Artificial Intelligence/week01/Goal(s) - Goal State(s).md",
-    "COMPSCI367 - Artificial Intelligence/week01/Multi-agent.md",
-    "COMPSCI367 - Artificial Intelligence/week01/Performance measure.md",
-    "COMPSCI367 - Artificial Intelligence/week11/expected utility.md",
+    "COMPSCI367 - Artificial Intelligence/week05/Genetic Algorithm with Travelling Salesman Problem.md",
+    "COMPSCI367 - Artificial Intelligence/week05/Genetic Algorithm with 8-Queens.md",
+    "COMPSCI367 - Artificial Intelligence/week05/Genetic Algorithm (GA).md",
+    "COMPSCI367 - Artificial Intelligence/week05/genetics.md",
+    "COMPSCI367 - Artificial Intelligence/week05/Solving Optimisation problems.md",
+    "COMPSCI367 - Artificial Intelligence/week05/reproduce.md",
+    "COMPSCI367 - Artificial Intelligence/week05/crossover operation.md",
+    "COMPSCI367 - Artificial Intelligence/week05/Local beam Search.md",
+    "COMPSCI367 - Artificial Intelligence/week05/Population-based Search.md",
+    "COMPSCI367 - Artificial Intelligence/week05/candidate solution.md",
+    "COMPSCI367 - Artificial Intelligence/week08/signature-GARETH.md",
+    "COMPSCI367 - Artificial Intelligence/week08/term(s)-GARETH.md",
+    "COMPSCI367 - Artificial Intelligence/week10/conditional probability.md",
+    "COMPSCI367 - Artificial Intelligence/week06/Structured Representation-GARETH.md",
+    "COMPSCI367 - Artificial Intelligence/week04/Systematic Search vs Local Search-GARETH.md",
+    "COMPSCI367 - Artificial Intelligence/week09/TranslateToSAT-GARETH.md",
+    "COMPSCI367 - Artificial Intelligence/week02/Uniform-Cost Search (UCS) (Lowest-Cost-First Search)-GARETH.md",
+    "COMPSCI367 - Artificial Intelligence/week08/Unification in queries-GARETH.md",
+    "COMPSCI367 - Artificial Intelligence/week08/Universal quantification-GARETH.md",
+    "COMPSCI367 - Artificial Intelligence/week03/Variable Elimination-GARETH.md",
+    "COMPSCI367 - Artificial Intelligence/week11/von Neumann & Morgenstern (VNM)-GARETH.md",
+    "COMPSCI367 - Artificial Intelligence/week01/World Model-GARETH.md",
+    "COMPSCI367 - Artificial Intelligence/week04/Annealing-GARETH.md",
+    "COMPSCI367 - Artificial Intelligence/week09/Annotated Disjunction-GARETH.md",
+    "COMPSCI367 - Artificial Intelligence/week05/Alpha-Beta Pruning-GARETH.md",
+    "COMPSCI367 - Artificial Intelligence/week06/Agents with a World Model-GARETH.md",
     "@images/Pasted image 20231026174833.png",
     "@images/Pasted image 20231026174606.png",
     "@images/Pasted image 20231026170928.png",
