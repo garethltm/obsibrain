@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week12/Decision-theoretic Expert Systems.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week10/Probability Distribution.md",
                 "mode": "source",
                 "source": false
               }
@@ -51,7 +51,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "COMPSCI367 - Artificial Intelligence/week12/Decision-theoretic Expert Systems.md",
+                    "file": "COMPSCI367 - Artificial Intelligence/week10/Probability Distribution.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -86,7 +86,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "COMPSCI367 - Artificial Intelligence/week12/Decision-theoretic Expert Systems.md",
+                    "file": "COMPSCI367 - Artificial Intelligence/week10/Probability Distribution.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -148,7 +148,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "selection",
+                "query": "distri",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -165,7 +165,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -185,7 +186,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week12/Decision-theoretic Expert Systems.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week10/Probability Distribution.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -202,7 +203,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week12/Decision-theoretic Expert Systems.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week10/Probability Distribution.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -225,7 +226,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week12/Decision-theoretic Expert Systems.md"
+                "file": "COMPSCI367 - Artificial Intelligence/week10/Probability Distribution.md"
               }
             }
           },
@@ -268,8 +269,12 @@
   },
   "active": "358f03c9716e94e8",
   "lastOpenFiles": [
-    "@images/COMPSCI3672022_S2W12Lecture35Decision2of2-23.jpg",
+    "COMPSCI367 - Artificial Intelligence/week05/Genetic Algorithm (GA).md",
+    "COMPSCI367 - Artificial Intelligence/week05/Boltzmann distribution.md",
+    "COMPSCI367 - Artificial Intelligence/week10/Conditional Probability Table (CPT).md",
+    "COMPSCI367 - Artificial Intelligence/week10/Compact Representation of Probability Distribution.md",
     "COMPSCI367 - Artificial Intelligence/week12/Decision-theoretic Expert Systems.md",
+    "@images/COMPSCI3672022_S2W12Lecture35Decision2of2-23.jpg",
     "COMPSCI367 - Artificial Intelligence/week12/Decision nodes.md",
     "COMPSCI367 - Artificial Intelligence/week12/Indefinite horizon or infinite horizon.md",
     "COMPSCI367 - Artificial Intelligence/week12/optimal policy.md",
@@ -288,12 +293,9 @@
     "COMPSCI367 - Artificial Intelligence/week05/Population-based Search.md",
     "COMPSCI367 - Artificial Intelligence/week05/Local beam Search.md",
     "COMPSCI367 - Artificial Intelligence/week05/Minmax Algorithm.md",
-    "COMPSCI367 - Artificial Intelligence/week05/Boltzmann distribution.md",
     "COMPSCI367 - Artificial Intelligence/week05/Complexity analysis.md",
-    "COMPSCI367 - Artificial Intelligence/week05/Genetic Algorithm (GA).md",
     "COMPSCI367 - Artificial Intelligence/week10/Why should you use NLP.md",
     "COMPSCI367 - Artificial Intelligence/week10/Zipf's law.md",
-    "COMPSCI367 - Artificial Intelligence/week10/The Noisy Channel Model.md",
     "@images/Pasted image 20231026174833.png",
     "@images/Pasted image 20231026174606.png",
     "@images/Pasted image 20231026170928.png",
@@ -303,7 +305,6 @@
     "@images/Pasted image 20231026165939.png",
     "@images/Pasted image 20231026165642.png",
     "@images/Pasted image 20231026165531.png",
-    "@images/Pasted image 20231026163536.png",
     "COMPSCI367 - Artificial Intelligence/week12",
     "COMPSCI367 - Artificial Intelligence/week11",
     "COMPSCI367 - Artificial Intelligence/week08",
