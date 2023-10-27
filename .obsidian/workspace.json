@@ -148,7 +148,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "weighted sum",
+                "query": "preferen",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -267,7 +267,7 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "358f03c9716e94e8",
+  "active": "a6e0090ac9cbd1f3",
   "lastOpenFiles": [
     "COMPSCI367 - Artificial Intelligence/week05/population.md",
     "COMPSCI367 - Artificial Intelligence/week05/Genetic Algorithm with 8-Queens.md",
