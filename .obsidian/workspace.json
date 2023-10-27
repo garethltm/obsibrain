@@ -19,19 +19,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "75089547954311ac",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "@images/COMPSCI3672022_S2W12Lecture35Decision2of2-23.jpg"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "992e264c1b226738",
@@ -62,7 +51,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "@images/COMPSCI3672022_S2W12Lecture35Decision2of2-23.jpg",
+                    "file": "COMPSCI367 - Artificial Intelligence/week12/Decision-theoretic Expert Systems.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -97,7 +86,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "@images/COMPSCI3672022_S2W12Lecture35Decision2of2-23.jpg",
+                    "file": "COMPSCI367 - Artificial Intelligence/week12/Decision-theoretic Expert Systems.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -196,7 +185,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "@images/COMPSCI3672022_S2W12Lecture35Decision2of2-23.jpg",
+                "file": "COMPSCI367 - Artificial Intelligence/week12/Decision-theoretic Expert Systems.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -213,7 +202,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "@images/COMPSCI3672022_S2W12Lecture35Decision2of2-23.jpg",
+                "file": "COMPSCI367 - Artificial Intelligence/week12/Decision-theoretic Expert Systems.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -236,7 +225,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "@images/COMPSCI3672022_S2W12Lecture35Decision2of2-23.jpg"
+                "file": "COMPSCI367 - Artificial Intelligence/week12/Decision-theoretic Expert Systems.md"
               }
             }
           },
@@ -277,8 +266,9 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "75089547954311ac",
+  "active": "358f03c9716e94e8",
   "lastOpenFiles": [
+    "@images/COMPSCI3672022_S2W12Lecture35Decision2of2-23.jpg",
     "COMPSCI367 - Artificial Intelligence/week12/Decision-theoretic Expert Systems.md",
     "COMPSCI367 - Artificial Intelligence/week12/Decision nodes.md",
     "COMPSCI367 - Artificial Intelligence/week12/Indefinite horizon or infinite horizon.md",
@@ -304,7 +294,6 @@
     "COMPSCI367 - Artificial Intelligence/week10/Why should you use NLP.md",
     "COMPSCI367 - Artificial Intelligence/week10/Zipf's law.md",
     "COMPSCI367 - Artificial Intelligence/week10/The Noisy Channel Model.md",
-    "COMPSCI367 - Artificial Intelligence/week10/term specificity.md",
     "@images/Pasted image 20231026174833.png",
     "@images/Pasted image 20231026174606.png",
     "@images/Pasted image 20231026170928.png",
