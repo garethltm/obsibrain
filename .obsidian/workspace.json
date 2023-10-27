@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week04/Random-Restart Hill Climbing.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week04/Stochastic Hill-Climbing.md",
                 "mode": "source",
                 "source": false
               }
@@ -51,7 +51,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "COMPSCI367 - Artificial Intelligence/week04/Random-Restart Hill Climbing.md",
+                    "file": "COMPSCI367 - Artificial Intelligence/week04/Stochastic Hill-Climbing.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -86,7 +86,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "COMPSCI367 - Artificial Intelligence/week04/Random-Restart Hill Climbing.md",
+                    "file": "COMPSCI367 - Artificial Intelligence/week04/Stochastic Hill-Climbing.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -165,8 +165,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -186,7 +185,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week04/Random-Restart Hill Climbing.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week04/Stochastic Hill-Climbing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -203,7 +202,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week04/Random-Restart Hill Climbing.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week04/Stochastic Hill-Climbing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -226,7 +225,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week04/Random-Restart Hill Climbing.md"
+                "file": "COMPSCI367 - Artificial Intelligence/week04/Stochastic Hill-Climbing.md"
               }
             }
           },
@@ -269,6 +268,17 @@
   },
   "active": "358f03c9716e94e8",
   "lastOpenFiles": [
+    "COMPSCI367 - Artificial Intelligence/week03/Stochastic Search.md",
+    "COMPSCI367 - Artificial Intelligence/week03/Backtracking Search-GARETH.md",
+    "COMPSCI367 - Artificial Intelligence/week02/Time Complexity.md",
+    "COMPSCI367 - Artificial Intelligence/week02/State Space Problem.md",
+    "COMPSCI367 - Artificial Intelligence/week02/Queue.md",
+    "COMPSCI367 - Artificial Intelligence/week02/Search Techniques (Search Strategy) (Search Algorithm).md",
+    "COMPSCI367 - Artificial Intelligence/week02/Search Tree.md",
+    "COMPSCI367 - Artificial Intelligence/week02/Priority Queue.md",
+    "COMPSCI367 - Artificial Intelligence/week02/Depth-First Search (DFS).md",
+    "COMPSCI367 - Artificial Intelligence/week01/Deterministic.md",
+    "COMPSCI367 - Artificial Intelligence/week04/Random-Restart Hill Climbing.md",
     "COMPSCI367 - Artificial Intelligence/week04/Probabilistic Hill-Climbing.md",
     "COMPSCI367 - Artificial Intelligence/week04/Greedy Descent.md",
     "COMPSCI367 - Artificial Intelligence/week04/Local Search in Continuous Space.md",
@@ -284,17 +294,6 @@
     "COMPSCI367 - Artificial Intelligence/week10/independent (independence)-HP.md",
     "COMPSCI367 - Artificial Intelligence/week11/Multi-dimensional Utility-HP.md",
     "COMPSCI367 - Artificial Intelligence/week11/One-off Decision-HP.md",
-    "INFOSYS222 - Database Systems/Relationship-HP.md",
-    "COMPSCI367 - Artificial Intelligence/week11/Additive independence property-HP.md",
-    "COMPSCI367 - Artificial Intelligence/week11/von Neumann & Morgenstern (VNM).md",
-    "COMPSCI367 - Artificial Intelligence/week11/One-off Decision.md",
-    "conflict-files-obsidian-git.md",
-    "COMPSCI367 - Artificial Intelligence/week11/Decision Trees.md",
-    "COMPSCI367 - Artificial Intelligence/week01/Environment.md",
-    "COMPSCI367 - Artificial Intelligence/week01/Goal(s) - Goal State(s).md",
-    "COMPSCI367 - Artificial Intelligence/week01/Multi-agent.md",
-    "COMPSCI367 - Artificial Intelligence/week01/Performance measure.md",
-    "COMPSCI367 - Artificial Intelligence/week11/expected utility.md",
     "@images/Pasted image 20231026174833.png",
     "@images/Pasted image 20231026174606.png",
     "@images/Pasted image 20231026170928.png",
