@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week12/Misaligned Intelligence Explosion.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week12/The Autonomous Vehicle Dilemma.md",
                 "mode": "source",
                 "source": false
               }
@@ -51,7 +51,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "COMPSCI367 - Artificial Intelligence/week12/Misaligned Intelligence Explosion.md",
+                    "file": "COMPSCI367 - Artificial Intelligence/week12/The Autonomous Vehicle Dilemma.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -86,7 +86,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "COMPSCI367 - Artificial Intelligence/week12/Misaligned Intelligence Explosion.md",
+                    "file": "COMPSCI367 - Artificial Intelligence/week12/The Autonomous Vehicle Dilemma.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -185,7 +185,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week12/Misaligned Intelligence Explosion.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week12/The Autonomous Vehicle Dilemma.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -202,7 +202,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week12/Misaligned Intelligence Explosion.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week12/The Autonomous Vehicle Dilemma.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -225,7 +225,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week12/Misaligned Intelligence Explosion.md"
+                "file": "COMPSCI367 - Artificial Intelligence/week12/The Autonomous Vehicle Dilemma.md"
               }
             }
           },
@@ -268,8 +268,9 @@
   },
   "active": "358f03c9716e94e8",
   "lastOpenFiles": [
-    "COMPSCI367 - Artificial Intelligence/week12/Artificial Intelligence's Grand Vision.md",
     "COMPSCI367 - Artificial Intelligence/week12/Misaligned Intelligence Explosion.md",
+    "COMPSCI367 - Artificial Intelligence/week12/The Autonomous Vehicle Dilemma.md",
+    "COMPSCI367 - Artificial Intelligence/week12/Artificial Intelligence's Grand Vision.md",
     "COMPSCI367 - Artificial Intelligence/week12/Darwin Among Machines.md",
     "COMPSCI367 - Artificial Intelligence/week10/Probability Distribution.md",
     "COMPSCI367 - Artificial Intelligence/week05/Genetic Algorithm (GA).md",
@@ -294,7 +295,6 @@
     "COMPSCI367 - Artificial Intelligence/week05/Evolution as Search.md",
     "COMPSCI367 - Artificial Intelligence/week05/genetics.md",
     "COMPSCI367 - Artificial Intelligence/week05/Population-based Search.md",
-    "COMPSCI367 - Artificial Intelligence/week05/Local beam Search.md",
     "@images/Pasted image 20231026174833.png",
     "@images/Pasted image 20231026174606.png",
     "@images/Pasted image 20231026170928.png",
