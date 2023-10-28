@@ -12,14 +12,11 @@
             "id": "358f03c9716e94e8",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/Untitled.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
-                }
+                "file": "COMPSCI367 - Artificial Intelligence/week05/Greedy descent with M random restarts vs Local beam Search.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -54,7 +51,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "COMPSCI367 - Artificial Intelligence/Untitled.canvas",
+                    "file": "COMPSCI367 - Artificial Intelligence/week05/Greedy descent with M random restarts vs Local beam Search.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -89,7 +86,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "COMPSCI367 - Artificial Intelligence/Untitled.canvas",
+                    "file": "COMPSCI367 - Artificial Intelligence/week05/Greedy descent with M random restarts vs Local beam Search.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -188,7 +185,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/Untitled.canvas",
+                "file": "COMPSCI367 - Artificial Intelligence/week05/Greedy descent with M random restarts vs Local beam Search.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -205,7 +202,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/Untitled.canvas",
+                "file": "COMPSCI367 - Artificial Intelligence/week05/Greedy descent with M random restarts vs Local beam Search.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -228,7 +225,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/Untitled.canvas"
+                "file": "COMPSCI367 - Artificial Intelligence/week05/Greedy descent with M random restarts vs Local beam Search.md"
               }
             }
           },
@@ -271,7 +268,11 @@
   },
   "active": "358f03c9716e94e8",
   "lastOpenFiles": [
+    "COMPSCI367 - Artificial Intelligence/week05/genetics.md",
+    "COMPSCI367 - Artificial Intelligence/week05/Genetic Algorithm with Travelling Salesman Problem.md",
+    "COMPSCI367 - Artificial Intelligence/week05/Genetic Algorithm with 8-Queens.md",
     "COMPSCI367 - Artificial Intelligence/week05/Genetic Algorithm (GA).md",
+    "COMPSCI367 - Artificial Intelligence/finals prep.canvas",
     "COMPSCI367 - Artificial Intelligence/week05/game tree.md",
     "COMPSCI367 - Artificial Intelligence/week05/game.md",
     "COMPSCI367 - Artificial Intelligence/week05/Evolutionary computation.md",
@@ -293,11 +294,7 @@
     "COMPSCI367 - Artificial Intelligence/week01/agent(s).md",
     "COMPSCI367 - Artificial Intelligence/week01/Actuators.md",
     "COMPSCI367 - Artificial Intelligence/week01/action(s).md",
-    "COMPSCI367 - Artificial Intelligence/Untitled.canvas",
     "COMPSCI367 - Artificial Intelligence/week09/Backward (Regression) planning.md",
-    "COMPSCI367 - Artificial Intelligence/week06/Wumpus World Agent.md",
-    "COMPSCI367 - Artificial Intelligence/week07/SLD Resolution (Backward chaining).md",
-    "COMPSCI367 - Artificial Intelligence/week06/Compound Propositions (Compound Entities).md",
     "@images/COMPSCI3672022_S2W09Lecture25AIinSociety28129-21.jpg",
     "@images/COMPSCI3672022_S2W12Lecture35Decision2of2-23.jpg",
     "@images/Pasted image 20231026174833.png",
