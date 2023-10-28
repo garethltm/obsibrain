@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week07/SLD Resolution (Backward chaining).md",
+                "file": "COMPSCI367 - Artificial Intelligence/week06/Wumpus World Agent.md",
                 "mode": "source",
                 "source": false
               }
@@ -51,7 +51,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "COMPSCI367 - Artificial Intelligence/week07/SLD Resolution (Backward chaining).md",
+                    "file": "COMPSCI367 - Artificial Intelligence/week06/Wumpus World Agent.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -86,7 +86,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "COMPSCI367 - Artificial Intelligence/week07/SLD Resolution (Backward chaining).md",
+                    "file": "COMPSCI367 - Artificial Intelligence/week06/Wumpus World Agent.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -185,7 +185,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week07/SLD Resolution (Backward chaining).md",
+                "file": "COMPSCI367 - Artificial Intelligence/week06/Wumpus World Agent.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -202,7 +202,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week07/SLD Resolution (Backward chaining).md",
+                "file": "COMPSCI367 - Artificial Intelligence/week06/Wumpus World Agent.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -225,7 +225,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week07/SLD Resolution (Backward chaining).md"
+                "file": "COMPSCI367 - Artificial Intelligence/week06/Wumpus World Agent.md"
               }
             }
           },
@@ -268,6 +268,7 @@
   },
   "active": "358f03c9716e94e8",
   "lastOpenFiles": [
+    "COMPSCI367 - Artificial Intelligence/week07/SLD Resolution (Backward chaining).md",
     "COMPSCI367 - Artificial Intelligence/week06/Compound Propositions (Compound Entities).md",
     "COMPSCI367 - Artificial Intelligence/week06/proposition.md",
     "COMPSCI367 - Artificial Intelligence/week06/Logic Inference Problem.md",
@@ -293,7 +294,6 @@
     "COMPSCI367 - Artificial Intelligence/week11/Bayesian Networks.md",
     "COMPSCI367 - Artificial Intelligence/week11/CPT Operation 3 - Normalisation.md",
     "COMPSCI367 - Artificial Intelligence/week11/CPT Operation 4 - Summation.md",
-    "COMPSCI367 - Artificial Intelligence/week11/CPT Operations.md",
     "@images/COMPSCI3672022_S2W09Lecture25AIinSociety28129-21.jpg",
     "@images/COMPSCI3672022_S2W12Lecture35Decision2of2-23.jpg",
     "@images/Pasted image 20231026174833.png",
