@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week08/Unification.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week06/logically equivalent (logical equivalence).md",
                 "mode": "source",
                 "source": false
               }
@@ -76,7 +76,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "COMPSCI367 - Artificial Intelligence/week08/Unification.md",
+                    "file": "COMPSCI367 - Artificial Intelligence/week06/logically equivalent (logical equivalence).md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -111,7 +111,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "COMPSCI367 - Artificial Intelligence/week08/Unification.md",
+                    "file": "COMPSCI367 - Artificial Intelligence/week06/logically equivalent (logical equivalence).md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -210,7 +210,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week08/Unification.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week06/logically equivalent (logical equivalence).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -227,7 +227,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week08/Unification.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week06/logically equivalent (logical equivalence).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -250,7 +250,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week08/Unification.md"
+                "file": "COMPSCI367 - Artificial Intelligence/week06/logically equivalent (logical equivalence).md"
               }
             }
           },
@@ -291,8 +291,25 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "3ad179677b7fba41",
+  "active": "5611a1c798c7a525",
   "lastOpenFiles": [
+    "COMPSCI367 - Artificial Intelligence/week06/logically implies.md",
+    "COMPSCI367 - Artificial Intelligence/week06/logically equivalent (logical equivalence).md",
+    "COMPSCI367 - Artificial Intelligence/week06/logical consequence.md",
+    "COMPSCI367 - Artificial Intelligence/week06/Logic Inference vs Constraint Satisfaction.md",
+    "COMPSCI367 - Artificial Intelligence/week06/Logic Inference Problem.md",
+    "COMPSCI367 - Artificial Intelligence/week06/literal(s).md",
+    "COMPSCI367 - Artificial Intelligence/week06/language(s).md",
+    "COMPSCI367 - Artificial Intelligence/week06/Knowledge-based Agents.md",
+    "COMPSCI367 - Artificial Intelligence/week06/Knowledge Base (KB).md",
+    "COMPSCI367 - Artificial Intelligence/week06/knowledge.md",
+    "COMPSCI367 - Artificial Intelligence/week06/Inference engines (IE).md",
+    "COMPSCI367 - Artificial Intelligence/week06/Equivalence between inference & satisfiability.md",
+    "COMPSCI367 - Artificial Intelligence/week06/connectives.md",
+    "COMPSCI367 - Artificial Intelligence/week06/Atomic Representation.md",
+    "COMPSCI367 - Artificial Intelligence/week08/Universal quantification.md",
+    "COMPSCI367 - Artificial Intelligence/week08/Unification in queries.md",
+    "COMPSCI367 - Artificial Intelligence/week08/Unification.md",
     "COMPSCI367 - Artificial Intelligence/week08/theorem.md",
     "COMPSCI367 - Artificial Intelligence/week08/term(s).md",
     "COMPSCI367 - Artificial Intelligence/week08/Skolem constant.md",
@@ -302,23 +319,6 @@
     "COMPSCI367 - Artificial Intelligence/week08/Propositionalization.md",
     "COMPSCI367 - Artificial Intelligence/week08/negation.md",
     "COMPSCI367 - Artificial Intelligence/week08/Ordering.md",
-    "COMPSCI367 - Artificial Intelligence/week08/model(s).md",
-    "COMPSCI367 - Artificial Intelligence/week08/Logic Programming.md",
-    "COMPSCI367 - Artificial Intelligence/week08/list operations.md",
-    "COMPSCI367 - Artificial Intelligence/week08/instantiation.md",
-    "COMPSCI367 - Artificial Intelligence/week08/Lifting.md",
-    "COMPSCI367 - Artificial Intelligence/week08/inductively.md",
-    "COMPSCI367 - Artificial Intelligence/week08/Imperative programming.md",
-    "COMPSCI367 - Artificial Intelligence/week08/Herbrand's Theorem.md",
-    "COMPSCI367 - Artificial Intelligence/week08/Grounding.md",
-    "COMPSCI367 - Artificial Intelligence/week08/Free variables.md",
-    "COMPSCI367 - Artificial Intelligence/week08/Generalised Modus Ponens (GMP).md",
-    "COMPSCI367 - Artificial Intelligence/week08/First-Order Logic Inference.md",
-    "COMPSCI367 - Artificial Intelligence/week08/First-Order Logic.md",
-    "COMPSCI367 - Artificial Intelligence/week08/First-Order KB.md",
-    "COMPSCI367 - Artificial Intelligence/week08/First-Order Interpretation.md",
-    "COMPSCI367 - Artificial Intelligence/week08/Existential quantification.md",
-    "COMPSCI367 - Artificial Intelligence/week08/First-Order Formulas.md",
     "COMPSCI367 - Artificial Intelligence/finals prep.canvas",
     "@images/COMPSCI3672022_S2W09Lecture25AIinSociety28129-21.jpg",
     "@images/COMPSCI3672022_S2W12Lecture35Decision2of2-23.jpg",
