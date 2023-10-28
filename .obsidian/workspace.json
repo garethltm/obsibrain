@@ -28,9 +28,9 @@
               "state": {
                 "file": "COMPSCI367 - Artificial Intelligence/finals prep.canvas",
                 "viewState": {
-                  "x": 974.9625328601512,
-                  "y": 1997.0732664273046,
-                  "zoom": -2.1345010355884115
+                  "x": 654.4667129651962,
+                  "y": 2533.943858779608,
+                  "zoom": -0.5914184832600309
                 }
               }
             }
@@ -67,7 +67,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "COMPSCI367 - Artificial Intelligence/week09/Backward (Regression) planning.md",
+                    "file": "COMPSCI367 - Artificial Intelligence/week09/Building a planner.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -102,7 +102,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "COMPSCI367 - Artificial Intelligence/week09/Backward (Regression) planning.md",
+                    "file": "COMPSCI367 - Artificial Intelligence/week09/Building a planner.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -201,7 +201,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week09/Backward (Regression) planning.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week09/Building a planner.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -218,7 +218,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week09/Backward (Regression) planning.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week09/Building a planner.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -241,7 +241,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week09/Backward (Regression) planning.md"
+                "file": "COMPSCI367 - Artificial Intelligence/week09/Building a planner.md"
               }
             }
           },
@@ -284,8 +284,13 @@
   },
   "active": "5611a1c798c7a525",
   "lastOpenFiles": [
-    "COMPSCI367 - Artificial Intelligence/week08/Generalised Modus Ponens (GMP).md",
+    "COMPSCI367 - Artificial Intelligence/week09/Building a planner.md",
+    "COMPSCI367 - Artificial Intelligence/week09/Classical Planning.md",
+    "COMPSCI367 - Artificial Intelligence/finals prep.canvas",
+    "COMPSCI367 - Artificial Intelligence/week09/Bayes Nets.md",
+    "COMPSCI367 - Artificial Intelligence/week09/Backward (Regression) planning.md",
     "COMPSCI367 - Artificial Intelligence/week08/First-Order Formulas.md",
+    "COMPSCI367 - Artificial Intelligence/week08/Generalised Modus Ponens (GMP).md",
     "COMPSCI367 - Artificial Intelligence/week08/First-Order Interpretation.md",
     "COMPSCI367 - Artificial Intelligence/week08/Existential quantification.md",
     "COMPSCI367 - Artificial Intelligence/week08/Domain-closure assumption.md",
@@ -296,8 +301,6 @@
     "COMPSCI367 - Artificial Intelligence/week08/axioms.md",
     "COMPSCI367 - Artificial Intelligence/week08/Arithmetic.md",
     "COMPSCI367 - Artificial Intelligence/week08/algorithm.md",
-    "COMPSCI367 - Artificial Intelligence/finals prep.canvas",
-    "COMPSCI367 - Artificial Intelligence/week09/Backward (Regression) planning.md",
     "COMPSCI367 - Artificial Intelligence/week09/Annotated Disjunction.md",
     "COMPSCI367 - Artificial Intelligence/week08/Unification in queries.md",
     "COMPSCI367 - Artificial Intelligence/week08/Unification.md",
@@ -308,9 +311,6 @@
     "COMPSCI367 - Artificial Intelligence/week08/signature.md",
     "COMPSCI367 - Artificial Intelligence/week08/Propositionalization.md",
     "COMPSCI367 - Artificial Intelligence/week08/quantifier(s).md",
-    "COMPSCI367 - Artificial Intelligence/week08/Prolog.md",
-    "COMPSCI367 - Artificial Intelligence/week08/Ordering.md",
-    "COMPSCI367 - Artificial Intelligence/week08/negation.md",
     "@images/COMPSCI3672022_S2W09Lecture25AIinSociety28129-21.jpg",
     "@images/COMPSCI3672022_S2W12Lecture35Decision2of2-23.jpg",
     "@images/Pasted image 20231026174833.png",
