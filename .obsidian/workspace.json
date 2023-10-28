@@ -24,8 +24,12 @@
             "id": "5611a1c798c7a525",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "COMPSCI367 - Artificial Intelligence/week10/Bayes Theorem.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -60,6 +64,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
+                    "file": "COMPSCI367 - Artificial Intelligence/week10/Bayes Theorem.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -94,6 +99,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
+                    "file": "COMPSCI367 - Artificial Intelligence/week10/Bayes Theorem.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -192,6 +198,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "COMPSCI367 - Artificial Intelligence/week10/Bayes Theorem.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -208,6 +215,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "COMPSCI367 - Artificial Intelligence/week10/Bayes Theorem.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -229,7 +237,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "COMPSCI367 - Artificial Intelligence/week10/Bayes Theorem.md"
+              }
             }
           },
           {
