@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week10/Applying Bayes Rule.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week10/Inference with Probability (Probabilistic Inference).md",
                 "mode": "source",
                 "source": false
               }
@@ -64,7 +64,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "COMPSCI367 - Artificial Intelligence/week10/Applying Bayes Rule.md",
+                    "file": "COMPSCI367 - Artificial Intelligence/week10/Inference with Probability (Probabilistic Inference).md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -99,7 +99,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "COMPSCI367 - Artificial Intelligence/week10/Applying Bayes Rule.md",
+                    "file": "COMPSCI367 - Artificial Intelligence/week10/Inference with Probability (Probabilistic Inference).md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -198,7 +198,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week10/Applying Bayes Rule.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week10/Inference with Probability (Probabilistic Inference).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -215,7 +215,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week10/Applying Bayes Rule.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week10/Inference with Probability (Probabilistic Inference).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -238,7 +238,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week10/Applying Bayes Rule.md"
+                "file": "COMPSCI367 - Artificial Intelligence/week10/Inference with Probability (Probabilistic Inference).md"
               }
             }
           },
@@ -281,8 +281,8 @@
   },
   "active": "5611a1c798c7a525",
   "lastOpenFiles": [
-    "COMPSCI367 - Artificial Intelligence/week10/prior evidence (prior probability).md",
     "COMPSCI367 - Artificial Intelligence/week10/Applying Bayes Rule.md",
+    "COMPSCI367 - Artificial Intelligence/week10/prior evidence (prior probability).md",
     "COMPSCI367 - Artificial Intelligence/week10/posterior evidence (posterior probability).md",
     "COMPSCI367 - Artificial Intelligence/week10/Bayes Rule with Existing Evidence.md",
     "COMPSCI367 - Artificial Intelligence/week10/Bayes Classifier - Conditional Independence.md",
