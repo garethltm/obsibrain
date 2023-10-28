@@ -28,9 +28,9 @@
               "state": {
                 "file": "COMPSCI367 - Artificial Intelligence/finals prep.canvas",
                 "viewState": {
-                  "x": -718.341024083326,
-                  "y": -737.9583777985351,
-                  "zoom": -0.9999999999999998
+                  "x": 568.4548443801962,
+                  "y": -517.8022244852253,
+                  "zoom": 0.6666666666666667
                 }
               }
             }
@@ -67,7 +67,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "COMPSCI367 - Artificial Intelligence/finals prep.canvas",
+                    "file": "COMPSCI367 - Artificial Intelligence/week05/Local beam Search.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -102,7 +102,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "COMPSCI367 - Artificial Intelligence/finals prep.canvas",
+                    "file": "COMPSCI367 - Artificial Intelligence/week05/Local beam Search.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -201,7 +201,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/finals prep.canvas",
+                "file": "COMPSCI367 - Artificial Intelligence/week05/Local beam Search.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -218,7 +218,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/finals prep.canvas",
+                "file": "COMPSCI367 - Artificial Intelligence/week05/Local beam Search.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -241,7 +241,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/finals prep.canvas"
+                "file": "COMPSCI367 - Artificial Intelligence/week05/Local beam Search.md"
               }
             }
           },
