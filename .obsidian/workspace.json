@@ -28,9 +28,9 @@
               "state": {
                 "file": "COMPSCI367 - Artificial Intelligence/finals prep.canvas",
                 "viewState": {
-                  "x": -653.9509611794235,
-                  "y": -1073.428389818309,
-                  "zoom": 0.1384063729951669
+                  "x": 1141.5406124498625,
+                  "y": -746.6631331969971,
+                  "zoom": -0.5282602936714997
                 }
               }
             }
@@ -185,8 +185,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 211.5,
-    "collapsed": true
+    "width": 211.5
   },
   "right": {
     "id": "29204b37fc003a9a",
