@@ -16,9 +16,9 @@
               "state": {
                 "file": "COMPSCI367 - Artificial Intelligence/finals prep.canvas",
                 "viewState": {
-                  "x": 570,
-                  "y": -426.312276694292,
-                  "zoom": -1.456429130475774
+                  "x": -1172.0726380231254,
+                  "y": -198.95066492170193,
+                  "zoom": -1.4546099408590012
                 }
               }
             }
@@ -54,7 +54,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "COMPSCI367 - Artificial Intelligence/week07/Modus Ponens (MP).md",
+                    "file": "COMPSCI367 - Artificial Intelligence/week07/SLD Resolution (Backward chaining).md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -89,7 +89,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "COMPSCI367 - Artificial Intelligence/week07/Modus Ponens (MP).md",
+                    "file": "COMPSCI367 - Artificial Intelligence/week07/SLD Resolution (Backward chaining).md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -188,7 +188,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week07/Modus Ponens (MP).md",
+                "file": "COMPSCI367 - Artificial Intelligence/week07/SLD Resolution (Backward chaining).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -205,7 +205,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week07/Modus Ponens (MP).md",
+                "file": "COMPSCI367 - Artificial Intelligence/week07/SLD Resolution (Backward chaining).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -228,7 +228,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week07/Modus Ponens (MP).md"
+                "file": "COMPSCI367 - Artificial Intelligence/week07/SLD Resolution (Backward chaining).md"
               }
             }
           },
@@ -271,6 +271,8 @@
   },
   "active": "358f03c9716e94e8",
   "lastOpenFiles": [
+    "COMPSCI367 - Artificial Intelligence/week07/Forward Chaining.md",
+    "COMPSCI367 - Artificial Intelligence/finals prep.canvas",
     "COMPSCI367 - Artificial Intelligence/week07/Modus Ponens (MP).md",
     "COMPSCI367 - Artificial Intelligence/week07/Completeness.md",
     "COMPSCI367 - Artificial Intelligence/week07/Expressive.md",
@@ -289,7 +291,6 @@
     "COMPSCI367 - Artificial Intelligence/week06/satisfiable.md",
     "COMPSCI367 - Artificial Intelligence/week06/Satisfiability Problem (SAT).md",
     "COMPSCI367 - Artificial Intelligence/week06/Propositional Logic with Wumpus World.md",
-    "COMPSCI367 - Artificial Intelligence/finals prep.canvas",
     "COMPSCI367 - Artificial Intelligence/week06/Logic Inference vs Constraint Satisfaction.md",
     "COMPSCI367 - Artificial Intelligence/week06/logical consequence.md",
     "COMPSCI367 - Artificial Intelligence/week06/language(s).md",
@@ -297,7 +298,6 @@
     "COMPSCI367 - Artificial Intelligence/week06/literal(s).md",
     "COMPSCI367 - Artificial Intelligence/week06/Knowledge Representation Language.md",
     "COMPSCI367 - Artificial Intelligence/week06/interpretation.md",
-    "COMPSCI367 - Artificial Intelligence/week06/Inference Engine Example.md",
     "@images/COMPSCI3672022_S2W09Lecture25AIinSociety28129-21.jpg",
     "@images/COMPSCI3672022_S2W12Lecture35Decision2of2-23.jpg",
     "@images/Pasted image 20231026174833.png",
