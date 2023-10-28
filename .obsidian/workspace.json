@@ -12,14 +12,11 @@
             "id": "358f03c9716e94e8",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/finals prep.canvas",
-                "viewState": {
-                  "x": -127.5,
-                  "y": 179.37170216695745,
-                  "zoom": -0.6666666666666666
-                }
+                "file": "COMPSCI367 - Artificial Intelligence/week05/Stochastic Beam Search (SBS).md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -54,7 +51,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "COMPSCI367 - Artificial Intelligence/week05/Population-based Search.md",
+                    "file": "COMPSCI367 - Artificial Intelligence/week05/Stochastic Beam Search (SBS).md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -89,7 +86,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "COMPSCI367 - Artificial Intelligence/week05/Population-based Search.md",
+                    "file": "COMPSCI367 - Artificial Intelligence/week05/Stochastic Beam Search (SBS).md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -188,7 +185,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week05/Population-based Search.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week05/Stochastic Beam Search (SBS).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -205,7 +202,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week05/Population-based Search.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week05/Stochastic Beam Search (SBS).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -228,7 +225,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week05/Population-based Search.md"
+                "file": "COMPSCI367 - Artificial Intelligence/week05/Stochastic Beam Search (SBS).md"
               }
             }
           },
@@ -271,19 +268,22 @@
   },
   "active": "358f03c9716e94e8",
   "lastOpenFiles": [
+    "COMPSCI367 - Artificial Intelligence/week05/Local beam Search.md",
+    "COMPSCI367 - Artificial Intelligence/week05/Stochastic Beam Search (SBS).md",
+    "COMPSCI367 - Artificial Intelligence/week05/Solving Optimisation problems.md",
+    "COMPSCI367 - Artificial Intelligence/week05/reproduce.md",
     "COMPSCI367 - Artificial Intelligence/week05/Population-based Search.md",
     "COMPSCI367 - Artificial Intelligence/week05/population.md",
     "COMPSCI367 - Artificial Intelligence/week05/mutation operation.md",
     "COMPSCI367 - Artificial Intelligence/week05/Multi-agent System.md",
     "COMPSCI367 - Artificial Intelligence/week05/Minmax Algorithm.md",
-    "COMPSCI367 - Artificial Intelligence/week05/Local beam Search.md",
-    "COMPSCI367 - Artificial Intelligence/week04/Iterative Best Improvement (IBI).md",
+    "COMPSCI367 - Artificial Intelligence/finals prep.canvas",
     "COMPSCI367 - Artificial Intelligence/week05/Greedy descent with M random restarts vs Local beam Search.md",
+    "COMPSCI367 - Artificial Intelligence/week04/Iterative Best Improvement (IBI).md",
     "COMPSCI367 - Artificial Intelligence/week05/genetics.md",
     "COMPSCI367 - Artificial Intelligence/week05/Genetic Algorithm with Travelling Salesman Problem.md",
     "COMPSCI367 - Artificial Intelligence/week05/Genetic Algorithm with 8-Queens.md",
     "COMPSCI367 - Artificial Intelligence/week05/Genetic Algorithm (GA).md",
-    "COMPSCI367 - Artificial Intelligence/finals prep.canvas",
     "COMPSCI367 - Artificial Intelligence/week05/game tree.md",
     "COMPSCI367 - Artificial Intelligence/week05/game.md",
     "COMPSCI367 - Artificial Intelligence/week05/Evolutionary computation.md",
@@ -295,9 +295,6 @@
     "COMPSCI367 - Artificial Intelligence/week05/competitive multi-agent environment.md",
     "COMPSCI367 - Artificial Intelligence/week05/candidate solution.md",
     "COMPSCI367 - Artificial Intelligence/week05/Boltzmann distribution.md",
-    "COMPSCI367 - Artificial Intelligence/week05/Alpha-Beta Pruning.md",
-    "COMPSCI367 - Artificial Intelligence/week05/(partially) cooperative multi-agent environment.md",
-    "COMPSCI367 - Artificial Intelligence/week05/Adversarial Search.md",
     "@images/COMPSCI3672022_S2W09Lecture25AIinSociety28129-21.jpg",
     "@images/COMPSCI3672022_S2W12Lecture35Decision2of2-23.jpg",
     "@images/Pasted image 20231026174833.png",

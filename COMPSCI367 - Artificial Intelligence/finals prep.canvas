@@ -1,7 +1,8 @@
 {
 	"nodes":[
 		{"id":"0f8e8374f8203bf6","type":"text","text":"### Summary\n- [[Population-based Search]] conducts search by maintaining & updating a collection of [[candidate solution]]\n- [[Local beam Search]] is an adaptation of [[Iterative Best Improvement (IBI)]] by maintaining M > 1 [[candidate solution]]\n- [[Stochastic Beam Search (SBS)]] aims to avoid [[Local beam Search]] concentration on a narrow [[path(s)]] by using [[Boltzmann distribution]]\n#### Framework\n- [[Genetic Algorithm (GA)]] maintains a [[population]] of [[candidate solution]]\n- Chromosomes are representations of [[candidate solution]] that determines [[fitness]]\n- [[crossover operation]] & [[mutation operation]] for generating offsprings","x":-540,"y":-260,"width":825,"height":430,"color":"1"},
-		{"id":"fbcde72febcf2aa2","x":-80,"y":-180,"width":960,"height":960,"type":"file","file":"COMPSCI367 - Artificial Intelligence/week05/Population-based Search.md"}
+		{"id":"fbcde72febcf2aa2","type":"file","file":"COMPSCI367 - Artificial Intelligence/week05/Population-based Search.md","x":-540,"y":300,"width":960,"height":960},
+		{"id":"e5e76957efe5bbbf","x":560,"y":300,"width":1120,"height":840,"type":"file","file":"COMPSCI367 - Artificial Intelligence/week05/Local beam Search.md"}
 	],
 	"edges":[]
 }
