@@ -6,26 +6,83 @@
       {
         "id": "e1ccbf259f6ba816",
         "type": "tabs",
-        "dimension": 87.30964467005076,
+        "dimension": 64.34010152284264,
         "children": [
+          {
+            "id": "bcc7a7b87dd8df83",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "COMPSCI367 - Artificial Intelligence/week05/Population-based Search.md",
+                "mode": "source",
+                "source": false
+              }
+            },
+            "group": "49e37924338b6c36"
+          },
+          {
+            "id": "9d16bf805036e931",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "COMPSCI367 - Artificial Intelligence/week02/State Space Problem.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
           {
             "id": "358f03c9716e94e8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week09/TranslateToSAT.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week04/Hill-Climbing.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f29b33f23d11f1cc",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "3babe86f90cab07f",
+            "type": "leaf",
+            "state": {
+              "type": "diff-view",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "staged": false
+              }
+            }
+          },
+          {
+            "id": "2602e13c15239a89",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "COMPSCI367 - Artificial Intelligence/week04/Enforced Hill-Climbing.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       },
       {
         "id": "992e264c1b226738",
         "type": "split",
-        "dimension": 12.690355329949236,
+        "dimension": 35.659898477157356,
         "children": [
           {
             "id": "8d459d1c85b8b9ed",
@@ -51,7 +108,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "COMPSCI367 - Artificial Intelligence/week09/TranslateToSAT.md",
+                    "file": "COMPSCI367 - Artificial Intelligence/week05/Population-based Search.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -78,7 +135,8 @@
                       "close": true
                     }
                   }
-                }
+                },
+                "group": "49e37924338b6c36"
               },
               {
                 "id": "a8b21011d3ee7aaa",
@@ -86,7 +144,6 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "COMPSCI367 - Artificial Intelligence/week09/TranslateToSAT.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -109,7 +166,7 @@
                       "repelStrength": 10,
                       "linkStrength": 1,
                       "linkDistance": 250,
-                      "scale": 0.3628873693012117,
+                      "scale": 0.38964468173478434,
                       "close": false
                     }
                   }
@@ -148,7 +205,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#Example",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -165,8 +222,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -186,7 +242,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week09/TranslateToSAT.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -203,7 +258,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week09/TranslateToSAT.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -225,9 +279,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week09/TranslateToSAT.md"
-              }
+              "state": {}
             }
           },
           {
@@ -241,7 +293,7 @@
             }
           },
           {
-            "id": "2e4c1b8f3e56d2af",
+            "id": "2462874ab3fccbcf",
             "type": "leaf",
             "state": {
               "type": "review-queue-list-view",
@@ -267,44 +319,44 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "2e4c1b8f3e56d2af",
+  "active": "f29b33f23d11f1cc",
   "lastOpenFiles": [
     "COMPSCI367 - Artificial Intelligence/week04/Hill-Climbing.md",
-    "COMPSCI367 - Artificial Intelligence/week01/agent(s).md",
-    "COMPSCI367 - Artificial Intelligence/week11/Additive independence property.md",
-    "COMPSCI367 - Artificial Intelligence/week01/agent(s)-HP.md",
-    "INFOSYS222 - Database Systems/DQL - Data Query Language-HP.md",
-    "COMPSCI367 - Artificial Intelligence/week11/Expected utility hypothesis-HP.md",
-    "COMPSCI367 - Artificial Intelligence/week11/expected utility-HP.md",
-    "COMPSCI367 - Artificial Intelligence/week10/independent (independence)-HP.md",
-    "COMPSCI367 - Artificial Intelligence/week11/Multi-dimensional Utility-HP.md",
-    "COMPSCI367 - Artificial Intelligence/week11/One-off Decision-HP.md",
-    "INFOSYS222 - Database Systems/Relationship-HP.md",
-    "COMPSCI367 - Artificial Intelligence/week11/Additive independence property-HP.md",
-    "COMPSCI367 - Artificial Intelligence/week11/von Neumann & Morgenstern (VNM).md",
-    "COMPSCI367 - Artificial Intelligence/week11/One-off Decision.md",
-    "conflict-files-obsidian-git.md",
-    "COMPSCI367 - Artificial Intelligence/week11/Decision Trees.md",
-    "COMPSCI367 - Artificial Intelligence/week01/Environment.md",
-    "COMPSCI367 - Artificial Intelligence/week01/Goal(s) - Goal State(s).md",
-    "COMPSCI367 - Artificial Intelligence/week01/Multi-agent.md",
-    "COMPSCI367 - Artificial Intelligence/week01/Performance measure.md",
-    "COMPSCI367 - Artificial Intelligence/week11/expected utility.md",
-    "COMPSCI367 - Artificial Intelligence/week11/Multi-dimensional Utility.md",
-    "COMPSCI367 - Artificial Intelligence/week11/Expected utility hypothesis.md",
-    "COMPSCI367 - Artificial Intelligence/week10/independent (independence).md",
+    "README.md",
+    "INFOSYS222 - Database Systems/Attribute(s).md",
     "COMPSCI367 - Artificial Intelligence/week02/state(s).md",
-    "COMPSCI367 - Artificial Intelligence/week12/value of a decision network.md",
-    "@images/Pasted image 20231026174833.png",
-    "@images/Pasted image 20231026174606.png",
-    "@images/Pasted image 20231026170928.png",
-    "@images/Pasted image 20231026170850.png",
-    "@images/Pasted image 20231026170612.png",
-    "@images/Pasted image 20231026170532.png",
-    "@images/Pasted image 20231026165939.png",
-    "@images/Pasted image 20231026165642.png",
-    "@images/Pasted image 20231026165531.png",
-    "@images/Pasted image 20231026163536.png",
+    "COMPSCI367 - Artificial Intelligence/week02/constraint(s).md",
+    "COMPSCI367 - Artificial Intelligence/week04/Hill-Climbing with 8-Queens.md",
+    "COMPSCI367 - Artificial Intelligence/week04/Greedy Descent.md",
+    "COMPSCI367 - Artificial Intelligence/week04/greedy choice.md",
+    "COMPSCI367 - Artificial Intelligence/week04/Gradient descent.md",
+    "COMPSCI367 - Artificial Intelligence/week04/First Choice Hill-Climbing.md",
+    "COMPSCI367 - Artificial Intelligence/week04/Enforced Hill-Climbing.md",
+    "COMPSCI367 - Artificial Intelligence/week04/Difference between Stochastic & First-Choice Hill-Climbing.md",
+    "COMPSCI367 - Artificial Intelligence/week04/Diagonal ridges.md",
+    "COMPSCI367 - Artificial Intelligence/week04/Continuous Space (Continuous Functions).md",
+    "COMPSCI367 - Artificial Intelligence/week04/Bernoulli random variable.md",
+    "COMPSCI367 - Artificial Intelligence/week04/Annealing.md",
+    "COMPSCI367 - Artificial Intelligence/week05/(partially) cooperative multi-agent environment.md",
+    "COMPSCI367 - Artificial Intelligence/week05/two-player zero-sum games.md",
+    "COMPSCI367 - Artificial Intelligence/week05/Stochastic Beam Search (SBS).md",
+    "COMPSCI367 - Artificial Intelligence/week05/Solving Optimisation problems.md",
+    "COMPSCI367 - Artificial Intelligence/week05/reproduce.md",
+    "COMPSCI367 - Artificial Intelligence/week05/Population-based Search.md",
+    "COMPSCI367 - Artificial Intelligence/week05/population.md",
+    "COMPSCI367 - Artificial Intelligence/week05/mutation operation.md",
+    "COMPSCI367 - Artificial Intelligence/week05/Multi-agent System.md",
+    "COMPSCI367 - Artificial Intelligence/week05/Minmax Algorithm.md",
+    "@images/Pasted image 20231026105122.png",
+    "@images/Pasted image 20231026105109.png",
+    "@images/Pasted image 20231026105052.png",
+    "@images/Pasted image 20231026104435.png",
+    "@images/Pasted image 20231026104238.png",
+    "@images/Pasted image 20231026104137.png",
+    "@images/Pasted image 20231026100336.png",
+    "@images/Pasted image 20231026010151.png",
+    "@images/Pasted image 20231026010018.png",
+    "@images/Pasted image 20231026005656.png",
     "COMPSCI367 - Artificial Intelligence/week12",
     "COMPSCI367 - Artificial Intelligence/week11",
     "COMPSCI367 - Artificial Intelligence/week08",
