@@ -14,13 +14,29 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week08/Declarative programming.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week08/First-Order Formulas.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "5611a1c798c7a525",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "COMPSCI367 - Artificial Intelligence/finals prep.canvas",
+                "viewState": {
+                  "x": -853.5115132341153,
+                  "y": -644.3408678712933,
+                  "zoom": -1.6170846378161063
+                }
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "992e264c1b226738",
@@ -51,7 +67,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "COMPSCI367 - Artificial Intelligence/week08/Declarative programming.md",
+                    "file": "COMPSCI367 - Artificial Intelligence/finals prep.canvas",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -86,7 +102,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "COMPSCI367 - Artificial Intelligence/week08/Declarative programming.md",
+                    "file": "COMPSCI367 - Artificial Intelligence/finals prep.canvas",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -185,7 +201,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week08/Declarative programming.md",
+                "file": "COMPSCI367 - Artificial Intelligence/finals prep.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -202,7 +218,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week08/Declarative programming.md",
+                "file": "COMPSCI367 - Artificial Intelligence/finals prep.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -225,7 +241,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week08/Declarative programming.md"
+                "file": "COMPSCI367 - Artificial Intelligence/finals prep.canvas"
               }
             }
           },
@@ -266,8 +282,15 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "358f03c9716e94e8",
+  "active": "5611a1c798c7a525",
   "lastOpenFiles": [
+    "COMPSCI367 - Artificial Intelligence/week08/Generalised Modus Ponens (GMP).md",
+    "COMPSCI367 - Artificial Intelligence/week08/First-Order Formulas.md",
+    "COMPSCI367 - Artificial Intelligence/week08/First-Order Interpretation.md",
+    "COMPSCI367 - Artificial Intelligence/week08/Existential quantification.md",
+    "COMPSCI367 - Artificial Intelligence/week08/Domain-closure assumption.md",
+    "COMPSCI367 - Artificial Intelligence/week08/definition (singular).md",
+    "COMPSCI367 - Artificial Intelligence/week08/Declarative programming.md",
     "COMPSCI367 - Artificial Intelligence/week08/Closed world assumption.md",
     "COMPSCI367 - Artificial Intelligence/week08/control.md",
     "COMPSCI367 - Artificial Intelligence/week08/axioms.md",
@@ -288,13 +311,6 @@
     "COMPSCI367 - Artificial Intelligence/week08/Prolog.md",
     "COMPSCI367 - Artificial Intelligence/week08/Ordering.md",
     "COMPSCI367 - Artificial Intelligence/week08/negation.md",
-    "COMPSCI367 - Artificial Intelligence/week08/model(s).md",
-    "COMPSCI367 - Artificial Intelligence/week08/Logic Programming.md",
-    "COMPSCI367 - Artificial Intelligence/week08/logic.md",
-    "COMPSCI367 - Artificial Intelligence/week08/list operations.md",
-    "COMPSCI367 - Artificial Intelligence/week08/Lifting.md",
-    "COMPSCI367 - Artificial Intelligence/week08/inductively.md",
-    "COMPSCI367 - Artificial Intelligence/week08/instantiation.md",
     "@images/COMPSCI3672022_S2W09Lecture25AIinSociety28129-21.jpg",
     "@images/COMPSCI3672022_S2W12Lecture35Decision2of2-23.jpg",
     "@images/Pasted image 20231026174833.png",
