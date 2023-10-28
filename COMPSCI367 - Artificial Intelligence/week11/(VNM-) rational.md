@@ -1,4 +1,4 @@
-an [[agent(s)]] is defined to be [[(VNM-) rational]] if it obeys the:
+an [[agent(s)]] is defined to be [[(VNM-) rational]] if it obeys the [[Axioms for Rationality]]:
 1. [[Axiom 1 - Completeness]]
 2. [[Axiom 2 - Transitivity]]
 3. [[Axiom 3 - Monotonicity]]
