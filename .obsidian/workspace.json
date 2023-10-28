@@ -28,8 +28,8 @@
               "state": {
                 "file": "COMPSCI367 - Artificial Intelligence/finals prep.canvas",
                 "viewState": {
-                  "x": 829.474476603076,
-                  "y": -561.3054965223721,
+                  "x": -341.0003450935632,
+                  "y": -567.8772381957124,
                   "zoom": 1.1102230246251565e-16
                 }
               }
@@ -67,7 +67,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "COMPSCI367 - Artificial Intelligence/week05/Local beam Search.md",
+                    "file": "COMPSCI367 - Artificial Intelligence/week05/Population-based Search.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -102,7 +102,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "COMPSCI367 - Artificial Intelligence/week05/Local beam Search.md",
+                    "file": "COMPSCI367 - Artificial Intelligence/week05/Population-based Search.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -201,7 +201,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week05/Local beam Search.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week05/Population-based Search.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -218,7 +218,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week05/Local beam Search.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week05/Population-based Search.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -241,7 +241,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week05/Local beam Search.md"
+                "file": "COMPSCI367 - Artificial Intelligence/week05/Population-based Search.md"
               }
             }
           },
