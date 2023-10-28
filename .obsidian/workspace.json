@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week11/Variable Elimination Algorithm (VE).md",
+                "file": "COMPSCI367 - Artificial Intelligence/week02/Uniform-Cost Search (UCS) (Lowest-Cost-First Search).md",
                 "mode": "source",
                 "source": false
               }
@@ -64,7 +64,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "COMPSCI367 - Artificial Intelligence/week11/Variable Elimination Algorithm (VE).md",
+                    "file": "COMPSCI367 - Artificial Intelligence/week02/Uniform-Cost Search (UCS) (Lowest-Cost-First Search).md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -99,7 +99,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "COMPSCI367 - Artificial Intelligence/week11/Variable Elimination Algorithm (VE).md",
+                    "file": "COMPSCI367 - Artificial Intelligence/week02/Uniform-Cost Search (UCS) (Lowest-Cost-First Search).md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -198,7 +198,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week11/Variable Elimination Algorithm (VE).md",
+                "file": "COMPSCI367 - Artificial Intelligence/week02/Uniform-Cost Search (UCS) (Lowest-Cost-First Search).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -215,7 +215,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week11/Variable Elimination Algorithm (VE).md",
+                "file": "COMPSCI367 - Artificial Intelligence/week02/Uniform-Cost Search (UCS) (Lowest-Cost-First Search).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -238,7 +238,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week11/Variable Elimination Algorithm (VE).md"
+                "file": "COMPSCI367 - Artificial Intelligence/week02/Uniform-Cost Search (UCS) (Lowest-Cost-First Search).md"
               }
             }
           },
@@ -281,6 +281,7 @@
   },
   "active": "5611a1c798c7a525",
   "lastOpenFiles": [
+    "COMPSCI367 - Artificial Intelligence/week11/Variable Elimination Algorithm (VE).md",
     "COMPSCI367 - Artificial Intelligence/week11/Bayesian Networks.md",
     "COMPSCI367 - Artificial Intelligence/week11/CPT Operation 4 - Summation.md",
     "COMPSCI367 - Artificial Intelligence/week11/CPT Operation 3 - Normalisation.md",
@@ -291,7 +292,6 @@
     "COMPSCI367 - Artificial Intelligence/week08/Generalised Modus Ponens (GMP).md",
     "COMPSCI367 - Artificial Intelligence/week08/Herbrand's Theorem.md",
     "COMPSCI367 - Artificial Intelligence/week12/no forgetting property.md",
-    "COMPSCI367 - Artificial Intelligence/week11/Variable Elimination Algorithm (VE).md",
     "COMPSCI367 - Artificial Intelligence/week11/von Neumann & Morgenstern (VNM).md",
     "COMPSCI367 - Artificial Intelligence/week03/Local Search.md",
     "COMPSCI367 - Artificial Intelligence/week11/CPT Operations.md",
