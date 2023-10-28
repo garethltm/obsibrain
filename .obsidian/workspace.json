@@ -24,9 +24,24 @@
             "id": "5611a1c798c7a525",
             "type": "leaf",
             "state": {
+              "type": "canvas",
+              "state": {
+                "file": "COMPSCI367 - Artificial Intelligence/finals prep.canvas",
+                "viewState": {
+                  "x": 2192.5711075446015,
+                  "y": -191.93892033437533,
+                  "zoom": -1.3333333333333328
+                }
+              }
+            }
+          },
+          {
+            "id": "b779875bbca9bc4f",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week06/clause(s).md",
+                "file": "COMPSCI367 - Artificial Intelligence/week06/Inference Engine Example.md",
                 "mode": "source",
                 "source": false
               }
@@ -64,7 +79,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "COMPSCI367 - Artificial Intelligence/week06/clause(s).md",
+                    "file": "COMPSCI367 - Artificial Intelligence/finals prep.canvas",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -99,7 +114,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "COMPSCI367 - Artificial Intelligence/week06/clause(s).md",
+                    "file": "COMPSCI367 - Artificial Intelligence/finals prep.canvas",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -178,8 +193,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -199,7 +213,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week06/clause(s).md",
+                "file": "COMPSCI367 - Artificial Intelligence/finals prep.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -216,7 +230,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week06/clause(s).md",
+                "file": "COMPSCI367 - Artificial Intelligence/finals prep.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -239,7 +253,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week06/clause(s).md"
+                "file": "COMPSCI367 - Artificial Intelligence/finals prep.canvas"
               }
             }
           },
@@ -282,8 +296,10 @@
   },
   "active": "5611a1c798c7a525",
   "lastOpenFiles": [
-    "COMPSCI367 - Artificial Intelligence/week05/fitness.md",
+    "COMPSCI367 - Artificial Intelligence/week06/Inference Engine Example.md",
     "COMPSCI367 - Artificial Intelligence/finals prep.canvas",
+    "COMPSCI367 - Artificial Intelligence/week06/clause(s).md",
+    "COMPSCI367 - Artificial Intelligence/week05/fitness.md",
     "COMPSCI367 - Artificial Intelligence/week05/Local beam Search.md",
     "COMPSCI367 - Artificial Intelligence/week04/Iterative Best Improvement (IBI).md",
     "COMPSCI367 - Artificial Intelligence/week02/Uniform-Cost Search (UCS) (Lowest-Cost-First Search).md",
@@ -307,8 +323,6 @@
     "COMPSCI367 - Artificial Intelligence/week09/Planning task.md",
     "COMPSCI367 - Artificial Intelligence/week09/Classical Planning.md",
     "COMPSCI367 - Artificial Intelligence/week09/First Order Bayes Nets.md",
-    "COMPSCI367 - Artificial Intelligence/week11/Decision Trees.md",
-    "COMPSCI367 - Artificial Intelligence/week10/Inference with Probability (Probabilistic Inference).md",
     "@images/COMPSCI3672022_S2W09Lecture25AIinSociety28129-21.jpg",
     "@images/COMPSCI3672022_S2W12Lecture35Decision2of2-23.jpg",
     "@images/Pasted image 20231026174833.png",
