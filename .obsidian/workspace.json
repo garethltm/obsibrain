@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week10/Machine Translation.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week10/Translation Model.md",
                 "mode": "source",
                 "source": false
               }
@@ -51,7 +51,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "COMPSCI367 - Artificial Intelligence/week10/Machine Translation.md",
+                    "file": "COMPSCI367 - Artificial Intelligence/week10/Translation Model.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -86,7 +86,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "COMPSCI367 - Artificial Intelligence/week10/Machine Translation.md",
+                    "file": "COMPSCI367 - Artificial Intelligence/week10/Translation Model.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -185,7 +185,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week10/Machine Translation.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week10/Translation Model.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -202,7 +202,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week10/Machine Translation.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week10/Translation Model.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -225,7 +225,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week10/Machine Translation.md"
+                "file": "COMPSCI367 - Artificial Intelligence/week10/Translation Model.md"
               }
             }
           },
@@ -268,6 +268,9 @@
   },
   "active": "358f03c9716e94e8",
   "lastOpenFiles": [
+    "COMPSCI367 - Artificial Intelligence/week06/Duality of Syntax vs Semantics.md",
+    "COMPSCI367 - Artificial Intelligence/week12/Lethal Autonomous Weapon.md",
+    "COMPSCI367 - Artificial Intelligence/week10/Machine Translation.md",
     "COMPSCI367 - Artificial Intelligence/week12/Artificial Intelligence's Grand Vision.md",
     "COMPSCI367 - Artificial Intelligence/week11/Axioms for Rationality.md",
     "COMPSCI367 - Artificial Intelligence/week11/(VNM-) rational.md",
@@ -291,9 +294,6 @@
     "COMPSCI367 - Artificial Intelligence/week11/Decision Trees.md",
     "COMPSCI367 - Artificial Intelligence/week11/Linear scalability.md",
     "COMPSCI367 - Artificial Intelligence/week11/Local Markov Property.md",
-    "COMPSCI367 - Artificial Intelligence/week11/lottery.md",
-    "COMPSCI367 - Artificial Intelligence/week11/Multi-dimensional Utility.md",
-    "COMPSCI367 - Artificial Intelligence/week11/One-off Decision.md",
     "@images/COMPSCI3672022_S2W09Lecture25AIinSociety28129-21.jpg",
     "@images/COMPSCI3672022_S2W12Lecture35Decision2of2-23.jpg",
     "@images/Pasted image 20231026174833.png",
