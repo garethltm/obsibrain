@@ -24,8 +24,12 @@
             "id": "5611a1c798c7a525",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "COMPSCI367 - Artificial Intelligence/week11/Bayesian Networks.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -60,6 +64,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
+                    "file": "COMPSCI367 - Artificial Intelligence/week11/Bayesian Networks.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -94,6 +99,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
+                    "file": "COMPSCI367 - Artificial Intelligence/week11/Bayesian Networks.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -192,6 +198,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "COMPSCI367 - Artificial Intelligence/week11/Bayesian Networks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -208,6 +215,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "COMPSCI367 - Artificial Intelligence/week11/Bayesian Networks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -229,7 +237,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "COMPSCI367 - Artificial Intelligence/week11/Bayesian Networks.md"
+              }
             }
           },
           {
@@ -271,10 +281,14 @@
   },
   "active": "5611a1c798c7a525",
   "lastOpenFiles": [
+    "COMPSCI367 - Artificial Intelligence/week11/CPT Operation 4 - Summation.md",
+    "COMPSCI367 - Artificial Intelligence/week11/CPT Operation 3 - Normalisation.md",
+    "COMPSCI367 - Artificial Intelligence/week11/CPT Operation 2 - Multiplication.md",
+    "COMPSCI367 - Artificial Intelligence/week11/CPT Operation 1 - Restriction.md",
+    "COMPSCI367 - Artificial Intelligence/week12/Decision network.md",
     "COMPSCI367 - Artificial Intelligence/week08/Unification.md",
     "COMPSCI367 - Artificial Intelligence/week08/Generalised Modus Ponens (GMP).md",
     "COMPSCI367 - Artificial Intelligence/week08/Herbrand's Theorem.md",
-    "COMPSCI367 - Artificial Intelligence/week12/Decision network.md",
     "COMPSCI367 - Artificial Intelligence/week12/no forgetting property.md",
     "COMPSCI367 - Artificial Intelligence/week11/Variable Elimination Algorithm (VE).md",
     "COMPSCI367 - Artificial Intelligence/week11/von Neumann & Morgenstern (VNM).md",
@@ -293,10 +307,6 @@
     "COMPSCI367 - Artificial Intelligence/week10/prior evidence (prior probability).md",
     "COMPSCI367 - Artificial Intelligence/week10/posterior evidence (posterior probability).md",
     "COMPSCI367 - Artificial Intelligence/week10/Bayes Rule with Existing Evidence.md",
-    "COMPSCI367 - Artificial Intelligence/week10/Bayes Classifier - Conditional Independence.md",
-    "COMPSCI367 - Artificial Intelligence/week10/Naïve Bayes classification.md",
-    "COMPSCI367 - Artificial Intelligence/week10/Naïve Bayes - Laplace smoothing.md",
-    "COMPSCI367 - Artificial Intelligence/week10/Mutual Information.md",
     "COMPSCI367 - Artificial Intelligence/finals prep.canvas",
     "@images/COMPSCI3672022_S2W09Lecture25AIinSociety28129-21.jpg",
     "@images/COMPSCI3672022_S2W12Lecture35Decision2of2-23.jpg",
