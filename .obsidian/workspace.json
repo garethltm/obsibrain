@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week09/Classical Planning.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week10/Conditional Probability Table (CPT).md",
                 "mode": "source",
                 "source": false
               }
@@ -64,7 +64,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "COMPSCI367 - Artificial Intelligence/week09/Classical Planning.md",
+                    "file": "COMPSCI367 - Artificial Intelligence/week10/Conditional Probability Table (CPT).md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -99,7 +99,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "COMPSCI367 - Artificial Intelligence/week09/Classical Planning.md",
+                    "file": "COMPSCI367 - Artificial Intelligence/week10/Conditional Probability Table (CPT).md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -198,7 +198,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week09/Classical Planning.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week10/Conditional Probability Table (CPT).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -215,7 +215,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week09/Classical Planning.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week10/Conditional Probability Table (CPT).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -238,7 +238,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week09/Classical Planning.md"
+                "file": "COMPSCI367 - Artificial Intelligence/week10/Conditional Probability Table (CPT).md"
               }
             }
           },
@@ -281,6 +281,9 @@
   },
   "active": "5611a1c798c7a525",
   "lastOpenFiles": [
+    "COMPSCI367 - Artificial Intelligence/week06/Propositional Knowledge Base.md",
+    "COMPSCI367 - Artificial Intelligence/week09/Planning task.md",
+    "COMPSCI367 - Artificial Intelligence/week09/Classical Planning.md",
     "COMPSCI367 - Artificial Intelligence/week09/First Order Bayes Nets.md",
     "COMPSCI367 - Artificial Intelligence/week11/Bayesian Networks.md",
     "COMPSCI367 - Artificial Intelligence/week11/Decision Trees.md",
@@ -305,9 +308,6 @@
     "COMPSCI367 - Artificial Intelligence/week09/TranslateToSAT.md",
     "COMPSCI367 - Artificial Intelligence/week09/Task description.md",
     "COMPSCI367 - Artificial Intelligence/week09/Search-based Planning Algorithm.md",
-    "COMPSCI367 - Artificial Intelligence/week09/Search.md",
-    "COMPSCI367 - Artificial Intelligence/week09/SATPlan.md",
-    "COMPSCI367 - Artificial Intelligence/week09/Remote Agent.md",
     "@images/COMPSCI3672022_S2W09Lecture25AIinSociety28129-21.jpg",
     "@images/COMPSCI3672022_S2W12Lecture35Decision2of2-23.jpg",
     "@images/Pasted image 20231026174833.png",
