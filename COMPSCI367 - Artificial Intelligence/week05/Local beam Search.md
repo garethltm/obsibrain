@@ -1,5 +1,8 @@
 - adaptation of [[Iterative Best Improvement (IBI)]] by maintaining M assignments
 	- where M ≥ 1 is a parameter
+- fixed size 
+	- therefore, memory s 
+
 
 ## Steps
 1. Initialise size-M [[population]] randomly $x1,...,xM$
