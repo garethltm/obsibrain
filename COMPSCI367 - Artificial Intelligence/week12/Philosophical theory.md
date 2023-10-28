@@ -1,0 +1,1 @@
+Every life entity is entitled to save themselves & protect themselves

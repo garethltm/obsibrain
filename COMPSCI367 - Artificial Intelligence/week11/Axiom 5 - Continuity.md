@@ -1,2 +1,3 @@
-Suppose $\huge o\tiny 1\normalsize > \huge o\tiny 2\normalsize > \huge o\tiny 3\normalsize$. Then there exists $p \in [0,1]$ such that $$\huge o\tiny 2\normalsize \sim [p:\huge o\tiny 1\normalsize ,(1-p):\huge o\tiny3\normalsize]$$
+Suppose $\huge o\tiny 1\normalsize > \huge o\tiny 2\normalsize > \huge o\tiny 3\normalsize$. ([[strict preference relation]]) Then there exists $p \in [0,1]$ such that $$\huge o\tiny 2\normalsize \sim [p:\huge o\tiny 1\normalsize ,(1-p):\huge o\tiny3\normalsize]$$
 For p above, by [[Axiom 3 - Monotonicity]] & [[Axiom 2 - Transitivity]], we have:![[Pasted image 20231026005102.png]]
+Related to: [[indifference relation (~)]]

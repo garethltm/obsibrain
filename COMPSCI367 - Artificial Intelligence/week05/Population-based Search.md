@@ -1,9 +1,12 @@
 - [[multi-agent]] [[environment]]
 - conducts search by maintaining a [[population]]
+- same as [[Local beam Search]] memory
+	- they are both fixed size
 
 ### Advantages
-- Search diversification
+- Search diversification - introduce randomness & can potentially lead to diverse outputs
 	- which may lead to a higher chance of finding a better [[solution(s)]]
+	- it does not inherently guarantee diversity due to its susceptibility to issues like local focus, unbalanced exploration, insufficient exploration & [[Dependency]] on the underlying model
 - Combination of promising traits in different [[candidate solution]]
 	- [[multi-agent]] may share the same information
 		> 1 [[agent(s)]] finds shit [[path(s)]]; Another one find a good [[path(s)]]
