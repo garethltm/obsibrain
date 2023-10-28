@@ -12,11 +12,14 @@
             "id": "358f03c9716e94e8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week06/Logic Inference vs Constraint Satisfaction.md",
-                "mode": "source",
-                "source": false
+                "file": "COMPSCI367 - Artificial Intelligence/finals prep.canvas",
+                "viewState": {
+                  "x": 570,
+                  "y": -954.744282744283,
+                  "zoom": -0.797466048310841
+                }
               }
             }
           }
@@ -51,7 +54,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "COMPSCI367 - Artificial Intelligence/week06/Logic Inference vs Constraint Satisfaction.md",
+                    "file": "COMPSCI367 - Artificial Intelligence/finals prep.canvas",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -86,7 +89,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "COMPSCI367 - Artificial Intelligence/week06/Logic Inference vs Constraint Satisfaction.md",
+                    "file": "COMPSCI367 - Artificial Intelligence/finals prep.canvas",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -185,7 +188,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week06/Logic Inference vs Constraint Satisfaction.md",
+                "file": "COMPSCI367 - Artificial Intelligence/finals prep.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -202,7 +205,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week06/Logic Inference vs Constraint Satisfaction.md",
+                "file": "COMPSCI367 - Artificial Intelligence/finals prep.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -225,7 +228,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week06/Logic Inference vs Constraint Satisfaction.md"
+                "file": "COMPSCI367 - Artificial Intelligence/finals prep.canvas"
               }
             }
           },
@@ -266,35 +269,35 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "358f03c9716e94e8",
+  "active": "3ad179677b7fba41",
   "lastOpenFiles": [
+    "COMPSCI367 - Artificial Intelligence/week06/Logic Inference vs Constraint Satisfaction.md",
+    "COMPSCI367 - Artificial Intelligence/week06/logical consequence.md",
+    "COMPSCI367 - Artificial Intelligence/week06/language(s).md",
     "COMPSCI367 - Artificial Intelligence/week06/Logic Inference Problem.md",
     "COMPSCI367 - Artificial Intelligence/week06/literal(s).md",
-    "COMPSCI367 - Artificial Intelligence/week06/language(s).md",
-    "COMPSCI367 - Artificial Intelligence/week06/Knowledge-based Agents.md",
-    "COMPSCI367 - Artificial Intelligence/week06/Knowledge Base (KB).md",
     "COMPSCI367 - Artificial Intelligence/week06/Knowledge Representation Language.md",
-    "COMPSCI367 - Artificial Intelligence/week06/knowledge.md",
     "COMPSCI367 - Artificial Intelligence/week06/interpretation.md",
-    "COMPSCI367 - Artificial Intelligence/week06/intelligent.md",
-    "COMPSCI367 - Artificial Intelligence/week06/Inference engines (IE).md",
     "COMPSCI367 - Artificial Intelligence/week06/Inference Engine Example.md",
+    "COMPSCI367 - Artificial Intelligence/week06/Inference engines (IE).md",
+    "COMPSCI367 - Artificial Intelligence/week06/inference(s).md",
+    "COMPSCI367 - Artificial Intelligence/week06/intelligent.md",
+    "COMPSCI367 - Artificial Intelligence/week06/knowledge.md",
+    "COMPSCI367 - Artificial Intelligence/week06/Knowledge Base (KB).md",
+    "COMPSCI367 - Artificial Intelligence/week06/Knowledge-based Agents.md",
+    "COMPSCI367 - Artificial Intelligence/week06/Offline.md",
+    "COMPSCI367 - Artificial Intelligence/week06/Online.md",
+    "COMPSCI367 - Artificial Intelligence/week06/percept atoms.md",
+    "COMPSCI367 - Artificial Intelligence/week06/proposition.md",
+    "COMPSCI367 - Artificial Intelligence/week06/Propositional Knowledge Base.md",
+    "COMPSCI367 - Artificial Intelligence/week06/Reasoning.md",
+    "COMPSCI367 - Artificial Intelligence/week06/SAT solvers.md",
+    "COMPSCI367 - Artificial Intelligence/week06/Satisfiability Problem (SAT).md",
     "COMPSCI367 - Artificial Intelligence/finals prep.canvas",
     "COMPSCI367 - Artificial Intelligence/week06/Factored Representation.md",
     "COMPSCI367 - Artificial Intelligence/week06/Equivalence between inference & satisfiability.md",
     "COMPSCI367 - Artificial Intelligence/week06/DPLL algorithm.md",
     "COMPSCI367 - Artificial Intelligence/week06/Duality of Syntax vs Semantics.md",
-    "COMPSCI367 - Artificial Intelligence/week06/Compound Propositions (Compound Entities).md",
-    "COMPSCI367 - Artificial Intelligence/week06/connectives.md",
-    "COMPSCI367 - Artificial Intelligence/week06/clause(s).md",
-    "COMPSCI367 - Artificial Intelligence/week06/Atomic Representation.md",
-    "COMPSCI367 - Artificial Intelligence/week06/Atomic Entities.md",
-    "COMPSCI367 - Artificial Intelligence/week06/Atomic Propositions (atoms).md",
-    "COMPSCI367 - Artificial Intelligence/week06/Agents with a World Model.md",
-    "COMPSCI367 - Artificial Intelligence/week05/two-player zero-sum games.md",
-    "COMPSCI367 - Artificial Intelligence/week05/Stochastic Beam Search (SBS).md",
-    "COMPSCI367 - Artificial Intelligence/week05/Local beam Search.md",
-    "COMPSCI367 - Artificial Intelligence/week05/Solving Optimisation problems.md",
     "@images/COMPSCI3672022_S2W09Lecture25AIinSociety28129-21.jpg",
     "@images/COMPSCI3672022_S2W12Lecture35Decision2of2-23.jpg",
     "@images/Pasted image 20231026174833.png",
