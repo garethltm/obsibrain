@@ -1,5 +1,6 @@
 - [[multi-agent]] [[environment]]
 - conducts search by maintaining a [[population]]
+- same as [[local]]
 
 ### Advantages
 - Search diversification
