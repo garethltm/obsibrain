@@ -7,4 +7,7 @@
 	6. [[Axiom 6 - Independence]]
 
 In relation to:
-1. 
+1. [[strict preference relation]]
+2. [[indifference relation (~)]]
+3. [[weak preference relation (≥)]]
+
