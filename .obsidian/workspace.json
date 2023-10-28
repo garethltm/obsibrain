@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week09/TranslateToSAT.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week12/value of a decision network.md",
                 "mode": "source",
                 "source": false
               }
@@ -51,7 +51,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "COMPSCI367 - Artificial Intelligence/week09/TranslateToSAT.md",
+                    "file": "COMPSCI367 - Artificial Intelligence/week12/value of a decision network.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -86,7 +86,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "COMPSCI367 - Artificial Intelligence/week09/TranslateToSAT.md",
+                    "file": "COMPSCI367 - Artificial Intelligence/week12/value of a decision network.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -165,8 +165,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -186,7 +185,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week09/TranslateToSAT.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week12/value of a decision network.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -203,7 +202,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week09/TranslateToSAT.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week12/value of a decision network.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -226,7 +225,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week09/TranslateToSAT.md"
+                "file": "COMPSCI367 - Artificial Intelligence/week12/value of a decision network.md"
               }
             }
           },
@@ -267,8 +266,16 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "2e4c1b8f3e56d2af",
+  "active": "358f03c9716e94e8",
   "lastOpenFiles": [
+    "COMPSCI367 - Artificial Intelligence/week12/SSDN-based one-off decision problem.md",
+    "COMPSCI367 - Artificial Intelligence/week12/policy.md",
+    "COMPSCI367 - Artificial Intelligence/week12/optimal policy.md",
+    "COMPSCI367 - Artificial Intelligence/week12/no forgetting property.md",
+    "COMPSCI367 - Artificial Intelligence/week12/Indefinite horizon or infinite horizon.md",
+    "COMPSCI367 - Artificial Intelligence/week12/Decision network.md",
+    "COMPSCI367 - Artificial Intelligence/week12/Chance nodes.md",
+    "COMPSCI367 - Artificial Intelligence/week09/TranslateToSAT.md",
     "COMPSCI367 - Artificial Intelligence/week04/Hill-Climbing.md",
     "COMPSCI367 - Artificial Intelligence/week01/agent(s).md",
     "COMPSCI367 - Artificial Intelligence/week11/Additive independence property.md",
@@ -287,14 +294,6 @@
     "COMPSCI367 - Artificial Intelligence/week11/Decision Trees.md",
     "COMPSCI367 - Artificial Intelligence/week01/Environment.md",
     "COMPSCI367 - Artificial Intelligence/week01/Goal(s) - Goal State(s).md",
-    "COMPSCI367 - Artificial Intelligence/week01/Multi-agent.md",
-    "COMPSCI367 - Artificial Intelligence/week01/Performance measure.md",
-    "COMPSCI367 - Artificial Intelligence/week11/expected utility.md",
-    "COMPSCI367 - Artificial Intelligence/week11/Multi-dimensional Utility.md",
-    "COMPSCI367 - Artificial Intelligence/week11/Expected utility hypothesis.md",
-    "COMPSCI367 - Artificial Intelligence/week10/independent (independence).md",
-    "COMPSCI367 - Artificial Intelligence/week02/state(s).md",
-    "COMPSCI367 - Artificial Intelligence/week12/value of a decision network.md",
     "@images/Pasted image 20231026174833.png",
     "@images/Pasted image 20231026174606.png",
     "@images/Pasted image 20231026170928.png",
