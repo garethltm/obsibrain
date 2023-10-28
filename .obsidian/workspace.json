@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week11/Bayesian Networks.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week11/Variable Elimination Algorithm (VE).md",
                 "mode": "source",
                 "source": false
               }
@@ -64,7 +64,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "COMPSCI367 - Artificial Intelligence/week11/Bayesian Networks.md",
+                    "file": "COMPSCI367 - Artificial Intelligence/week11/Variable Elimination Algorithm (VE).md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -99,7 +99,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "COMPSCI367 - Artificial Intelligence/week11/Bayesian Networks.md",
+                    "file": "COMPSCI367 - Artificial Intelligence/week11/Variable Elimination Algorithm (VE).md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -198,7 +198,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week11/Bayesian Networks.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week11/Variable Elimination Algorithm (VE).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -215,7 +215,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week11/Bayesian Networks.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week11/Variable Elimination Algorithm (VE).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -238,7 +238,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week11/Bayesian Networks.md"
+                "file": "COMPSCI367 - Artificial Intelligence/week11/Variable Elimination Algorithm (VE).md"
               }
             }
           },
@@ -281,6 +281,7 @@
   },
   "active": "5611a1c798c7a525",
   "lastOpenFiles": [
+    "COMPSCI367 - Artificial Intelligence/week11/Bayesian Networks.md",
     "COMPSCI367 - Artificial Intelligence/week11/CPT Operation 4 - Summation.md",
     "COMPSCI367 - Artificial Intelligence/week11/CPT Operation 3 - Normalisation.md",
     "COMPSCI367 - Artificial Intelligence/week11/CPT Operation 2 - Multiplication.md",
@@ -300,7 +301,6 @@
     "COMPSCI367 - Artificial Intelligence/week09/Planning task.md",
     "COMPSCI367 - Artificial Intelligence/week09/Classical Planning.md",
     "COMPSCI367 - Artificial Intelligence/week09/First Order Bayes Nets.md",
-    "COMPSCI367 - Artificial Intelligence/week11/Bayesian Networks.md",
     "COMPSCI367 - Artificial Intelligence/week11/Decision Trees.md",
     "COMPSCI367 - Artificial Intelligence/week10/Inference with Probability (Probabilistic Inference).md",
     "COMPSCI367 - Artificial Intelligence/week10/Applying Bayes Rule.md",
