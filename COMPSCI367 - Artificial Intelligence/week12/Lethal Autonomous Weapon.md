@@ -2,4 +2,4 @@ Any automated system that can initiate lethal force without specific, conscious 
 
 "weapon system[s] that, once activated, cam select & engage targets without further intervention by a human operator."
 
->	[[Artificial Intelligence (AI)]]
+Related to: [[Artificial Intelligence (AI)]]

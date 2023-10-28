@@ -4,3 +4,5 @@
 >	in [[genetics]]
 >	![[Pasted image 20231023204552.png]]in [[Artificial Intelligence (AI)]]
 >	![[Pasted image 20231023204633.png]]
+
+Related: [[semantics]], [[syntax]]

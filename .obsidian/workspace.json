@@ -12,12 +12,8 @@
             "id": "358f03c9716e94e8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week10/Language Model.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -51,7 +47,6 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "COMPSCI367 - Artificial Intelligence/week10/Language Model.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -86,7 +81,6 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "COMPSCI367 - Artificial Intelligence/week10/Language Model.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -185,7 +179,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week10/Language Model.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -202,7 +195,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week10/Language Model.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -224,9 +216,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week10/Language Model.md"
-              }
+              "state": {}
             }
           },
           {
@@ -268,12 +258,14 @@
   },
   "active": "358f03c9716e94e8",
   "lastOpenFiles": [
-    "COMPSCI367 - Artificial Intelligence/week10/Statistical Language Model.md",
-    "COMPSCI367 - Artificial Intelligence/week10/Machine Translation.md",
-    "COMPSCI367 - Artificial Intelligence/week10/Language Model.md",
-    "COMPSCI367 - Artificial Intelligence/week10/Translation Model.md",
-    "COMPSCI367 - Artificial Intelligence/week06/Duality of Syntax vs Semantics.md",
     "COMPSCI367 - Artificial Intelligence/week12/Lethal Autonomous Weapon.md",
+    "COMPSCI367 - Artificial Intelligence/week06/Duality of Syntax vs Semantics.md",
+    "COMPSCI367 - Artificial Intelligence/week06/Wumpus World Agent.md",
+    "COMPSCI367 - Artificial Intelligence/week06/Inference engines (IE).md",
+    "COMPSCI367 - Artificial Intelligence/week10/Translation Model.md",
+    "COMPSCI367 - Artificial Intelligence/week10/Statistical Language Model.md",
+    "COMPSCI367 - Artificial Intelligence/week10/Language Model.md",
+    "COMPSCI367 - Artificial Intelligence/week10/Machine Translation.md",
     "COMPSCI367 - Artificial Intelligence/week12/Artificial Intelligence's Grand Vision.md",
     "COMPSCI367 - Artificial Intelligence/week11/Axioms for Rationality.md",
     "COMPSCI367 - Artificial Intelligence/week11/(VNM-) rational.md",
@@ -292,8 +284,6 @@
     "COMPSCI367 - Artificial Intelligence/week11/weak preference relation (≥).md",
     "COMPSCI367 - Artificial Intelligence/week11/strict preference relation.md",
     "COMPSCI367 - Artificial Intelligence/week11/indifference relation (~).md",
-    "COMPSCI367 - Artificial Intelligence/week11/Axiom 2 - Transitivity.md",
-    "COMPSCI367 - Artificial Intelligence/week11/Axiom 3 - Monotonicity.md",
     "@images/COMPSCI3672022_S2W09Lecture25AIinSociety28129-21.jpg",
     "@images/COMPSCI3672022_S2W12Lecture35Decision2of2-23.jpg",
     "@images/Pasted image 20231026174833.png",
