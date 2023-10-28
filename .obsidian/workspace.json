@@ -28,9 +28,9 @@
               "state": {
                 "file": "COMPSCI367 - Artificial Intelligence/finals prep.canvas",
                 "viewState": {
-                  "x": 654.4667129651962,
-                  "y": 2533.943858779608,
-                  "zoom": -0.5914184832600309
+                  "x": 576.5700756645975,
+                  "y": 3579.649031737551,
+                  "zoom": -1.5914184832600307
                 }
               }
             }
@@ -67,7 +67,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "COMPSCI367 - Artificial Intelligence/week09/Building a planner.md",
+                    "file": "COMPSCI367 - Artificial Intelligence/week09/Forward (Progression) planning.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -102,7 +102,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "COMPSCI367 - Artificial Intelligence/week09/Building a planner.md",
+                    "file": "COMPSCI367 - Artificial Intelligence/week09/Forward (Progression) planning.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -201,7 +201,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week09/Building a planner.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week09/Forward (Progression) planning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -218,7 +218,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week09/Building a planner.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week09/Forward (Progression) planning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -241,7 +241,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week09/Building a planner.md"
+                "file": "COMPSCI367 - Artificial Intelligence/week09/Forward (Progression) planning.md"
               }
             }
           },
