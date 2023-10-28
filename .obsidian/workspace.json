@@ -24,14 +24,11 @@
             "id": "5611a1c798c7a525",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/finals prep.canvas",
-                "viewState": {
-                  "x": 2232.6683152728306,
-                  "y": 165.9108262629335,
-                  "zoom": -0.6666666666666663
-                }
+                "file": "COMPSCI367 - Artificial Intelligence/week08/Unification.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -79,7 +76,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "COMPSCI367 - Artificial Intelligence/finals prep.canvas",
+                    "file": "COMPSCI367 - Artificial Intelligence/week08/Unification.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -114,7 +111,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "COMPSCI367 - Artificial Intelligence/finals prep.canvas",
+                    "file": "COMPSCI367 - Artificial Intelligence/week08/Unification.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -197,8 +194,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 211.5,
-    "collapsed": true
+    "width": 211.5
   },
   "right": {
     "id": "29204b37fc003a9a",
@@ -214,7 +210,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/finals prep.canvas",
+                "file": "COMPSCI367 - Artificial Intelligence/week08/Unification.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -231,7 +227,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/finals prep.canvas",
+                "file": "COMPSCI367 - Artificial Intelligence/week08/Unification.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -254,7 +250,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/finals prep.canvas"
+                "file": "COMPSCI367 - Artificial Intelligence/week08/Unification.md"
               }
             }
           },
@@ -295,35 +291,35 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "5611a1c798c7a525",
+  "active": "3ad179677b7fba41",
   "lastOpenFiles": [
-    "COMPSCI367 - Artificial Intelligence/week06/Inference Engine Example.md",
-    "COMPSCI367 - Artificial Intelligence/finals prep.canvas",
-    "COMPSCI367 - Artificial Intelligence/week06/clause(s).md",
-    "COMPSCI367 - Artificial Intelligence/week05/fitness.md",
-    "COMPSCI367 - Artificial Intelligence/week05/Local beam Search.md",
-    "COMPSCI367 - Artificial Intelligence/week04/Iterative Best Improvement (IBI).md",
-    "COMPSCI367 - Artificial Intelligence/week02/Uniform-Cost Search (UCS) (Lowest-Cost-First Search).md",
-    "COMPSCI367 - Artificial Intelligence/week11/Variable Elimination Algorithm (VE).md",
-    "COMPSCI367 - Artificial Intelligence/week11/Bayesian Networks.md",
-    "COMPSCI367 - Artificial Intelligence/week11/CPT Operation 4 - Summation.md",
-    "COMPSCI367 - Artificial Intelligence/week11/CPT Operation 3 - Normalisation.md",
-    "COMPSCI367 - Artificial Intelligence/week11/CPT Operation 2 - Multiplication.md",
-    "COMPSCI367 - Artificial Intelligence/week11/CPT Operation 1 - Restriction.md",
-    "COMPSCI367 - Artificial Intelligence/week12/Decision network.md",
-    "COMPSCI367 - Artificial Intelligence/week08/Unification.md",
-    "COMPSCI367 - Artificial Intelligence/week08/Generalised Modus Ponens (GMP).md",
+    "COMPSCI367 - Artificial Intelligence/week08/theorem.md",
+    "COMPSCI367 - Artificial Intelligence/week08/term(s).md",
+    "COMPSCI367 - Artificial Intelligence/week08/Skolem constant.md",
+    "COMPSCI367 - Artificial Intelligence/week08/signature.md",
+    "COMPSCI367 - Artificial Intelligence/week08/Satisfaction relation.md",
+    "COMPSCI367 - Artificial Intelligence/week08/quantifier(s).md",
+    "COMPSCI367 - Artificial Intelligence/week08/Propositionalization.md",
+    "COMPSCI367 - Artificial Intelligence/week08/negation.md",
+    "COMPSCI367 - Artificial Intelligence/week08/Ordering.md",
+    "COMPSCI367 - Artificial Intelligence/week08/model(s).md",
+    "COMPSCI367 - Artificial Intelligence/week08/Logic Programming.md",
+    "COMPSCI367 - Artificial Intelligence/week08/list operations.md",
+    "COMPSCI367 - Artificial Intelligence/week08/instantiation.md",
+    "COMPSCI367 - Artificial Intelligence/week08/Lifting.md",
+    "COMPSCI367 - Artificial Intelligence/week08/inductively.md",
+    "COMPSCI367 - Artificial Intelligence/week08/Imperative programming.md",
     "COMPSCI367 - Artificial Intelligence/week08/Herbrand's Theorem.md",
-    "COMPSCI367 - Artificial Intelligence/week12/no forgetting property.md",
-    "COMPSCI367 - Artificial Intelligence/week11/von Neumann & Morgenstern (VNM).md",
-    "COMPSCI367 - Artificial Intelligence/week03/Local Search.md",
-    "COMPSCI367 - Artificial Intelligence/week11/CPT Operations.md",
-    "COMPSCI367 - Artificial Intelligence/week10/Conditional Probability Table (CPT).md",
-    "COMPSCI367 - Artificial Intelligence/week10/Probability Distribution.md",
-    "COMPSCI367 - Artificial Intelligence/week06/Propositional Knowledge Base.md",
-    "COMPSCI367 - Artificial Intelligence/week09/Planning task.md",
-    "COMPSCI367 - Artificial Intelligence/week09/Classical Planning.md",
-    "COMPSCI367 - Artificial Intelligence/week09/First Order Bayes Nets.md",
+    "COMPSCI367 - Artificial Intelligence/week08/Grounding.md",
+    "COMPSCI367 - Artificial Intelligence/week08/Free variables.md",
+    "COMPSCI367 - Artificial Intelligence/week08/Generalised Modus Ponens (GMP).md",
+    "COMPSCI367 - Artificial Intelligence/week08/First-Order Logic Inference.md",
+    "COMPSCI367 - Artificial Intelligence/week08/First-Order Logic.md",
+    "COMPSCI367 - Artificial Intelligence/week08/First-Order KB.md",
+    "COMPSCI367 - Artificial Intelligence/week08/First-Order Interpretation.md",
+    "COMPSCI367 - Artificial Intelligence/week08/Existential quantification.md",
+    "COMPSCI367 - Artificial Intelligence/week08/First-Order Formulas.md",
+    "COMPSCI367 - Artificial Intelligence/finals prep.canvas",
     "@images/COMPSCI3672022_S2W09Lecture25AIinSociety28129-21.jpg",
     "@images/COMPSCI3672022_S2W12Lecture35Decision2of2-23.jpg",
     "@images/Pasted image 20231026174833.png",
