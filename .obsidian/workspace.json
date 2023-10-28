@@ -12,14 +12,11 @@
             "id": "358f03c9716e94e8",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/finals prep.canvas",
-                "viewState": {
-                  "x": -1172.0726380231254,
-                  "y": -198.95066492170193,
-                  "zoom": -1.4546099408590012
-                }
+                "file": "COMPSCI367 - Artificial Intelligence/week08/Grounding.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -54,7 +51,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "COMPSCI367 - Artificial Intelligence/week07/SLD Resolution (Backward chaining).md",
+                    "file": "COMPSCI367 - Artificial Intelligence/week08/Grounding.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -89,7 +86,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "COMPSCI367 - Artificial Intelligence/week07/SLD Resolution (Backward chaining).md",
+                    "file": "COMPSCI367 - Artificial Intelligence/week08/Grounding.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -188,7 +185,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week07/SLD Resolution (Backward chaining).md",
+                "file": "COMPSCI367 - Artificial Intelligence/week08/Grounding.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -205,7 +202,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week07/SLD Resolution (Backward chaining).md",
+                "file": "COMPSCI367 - Artificial Intelligence/week08/Grounding.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -228,7 +225,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week07/SLD Resolution (Backward chaining).md"
+                "file": "COMPSCI367 - Artificial Intelligence/week08/Grounding.md"
               }
             }
           },
@@ -271,33 +268,33 @@
   },
   "active": "358f03c9716e94e8",
   "lastOpenFiles": [
-    "COMPSCI367 - Artificial Intelligence/week07/Forward Chaining.md",
-    "COMPSCI367 - Artificial Intelligence/finals prep.canvas",
-    "COMPSCI367 - Artificial Intelligence/week07/Modus Ponens (MP).md",
+    "COMPSCI367 - Artificial Intelligence/week08/First-Order Logic Inference.md",
+    "COMPSCI367 - Artificial Intelligence/week08/First-Order Logic.md",
+    "COMPSCI367 - Artificial Intelligence/week08/First-Order KB.md",
+    "COMPSCI367 - Artificial Intelligence/week08/First-Order Interpretation.md",
+    "COMPSCI367 - Artificial Intelligence/week08/First-Order Formulas.md",
+    "COMPSCI367 - Artificial Intelligence/week08/Existential quantification.md",
+    "COMPSCI367 - Artificial Intelligence/week08/Domain-closure assumption.md",
+    "COMPSCI367 - Artificial Intelligence/week08/definition (singular).md",
+    "COMPSCI367 - Artificial Intelligence/week08/Declarative programming.md",
+    "COMPSCI367 - Artificial Intelligence/week08/Closed world assumption.md",
+    "COMPSCI367 - Artificial Intelligence/week08/control.md",
+    "COMPSCI367 - Artificial Intelligence/week08/axioms.md",
+    "COMPSCI367 - Artificial Intelligence/week08/Arithmetic.md",
+    "COMPSCI367 - Artificial Intelligence/week08/algorithm.md",
+    "COMPSCI367 - Artificial Intelligence/week07/What logic needs to be.md",
+    "COMPSCI367 - Artificial Intelligence/week07/Verbose.md",
+    "COMPSCI367 - Artificial Intelligence/week07/subgoal.md",
+    "COMPSCI367 - Artificial Intelligence/week07/Soundness.md",
+    "COMPSCI367 - Artificial Intelligence/week07/SLD Resolution (Backward chaining).md",
+    "COMPSCI367 - Artificial Intelligence/week07/SLD derivation.md",
+    "COMPSCI367 - Artificial Intelligence/week07/rule of derivation.md",
     "COMPSCI367 - Artificial Intelligence/week07/Completeness.md",
-    "COMPSCI367 - Artificial Intelligence/week07/Expressive.md",
-    "COMPSCI367 - Artificial Intelligence/week07/entails.md",
-    "COMPSCI367 - Artificial Intelligence/week07/Definite Clause Inference Engine.md",
-    "COMPSCI367 - Artificial Intelligence/week07/Definite clause.md",
-    "COMPSCI367 - Artificial Intelligence/week07/Declarative.md",
     "COMPSCI367 - Artificial Intelligence/week07/Compositional.md",
-    "COMPSCI367 - Artificial Intelligence/week06/Wumpus World Agent.md",
-    "COMPSCI367 - Artificial Intelligence/week06/Truth table.md",
-    "COMPSCI367 - Artificial Intelligence/week06/syntax.md",
-    "COMPSCI367 - Artificial Intelligence/week06/Structured Representation.md",
-    "COMPSCI367 - Artificial Intelligence/week06/state transition.md",
-    "COMPSCI367 - Artificial Intelligence/week06/sentence.md",
-    "COMPSCI367 - Artificial Intelligence/week06/semantics.md",
-    "COMPSCI367 - Artificial Intelligence/week06/satisfiable.md",
-    "COMPSCI367 - Artificial Intelligence/week06/Satisfiability Problem (SAT).md",
-    "COMPSCI367 - Artificial Intelligence/week06/Propositional Logic with Wumpus World.md",
-    "COMPSCI367 - Artificial Intelligence/week06/Logic Inference vs Constraint Satisfaction.md",
-    "COMPSCI367 - Artificial Intelligence/week06/logical consequence.md",
-    "COMPSCI367 - Artificial Intelligence/week06/language(s).md",
-    "COMPSCI367 - Artificial Intelligence/week06/Logic Inference Problem.md",
-    "COMPSCI367 - Artificial Intelligence/week06/literal(s).md",
-    "COMPSCI367 - Artificial Intelligence/week06/Knowledge Representation Language.md",
-    "COMPSCI367 - Artificial Intelligence/week06/interpretation.md",
+    "COMPSCI367 - Artificial Intelligence/week07/Declarative.md",
+    "COMPSCI367 - Artificial Intelligence/week07/Definite clause.md",
+    "COMPSCI367 - Artificial Intelligence/week07/Definite Clause Inference Engine.md",
+    "COMPSCI367 - Artificial Intelligence/finals prep.canvas",
     "@images/COMPSCI3672022_S2W09Lecture25AIinSociety28129-21.jpg",
     "@images/COMPSCI3672022_S2W12Lecture35Decision2of2-23.jpg",
     "@images/Pasted image 20231026174833.png",
