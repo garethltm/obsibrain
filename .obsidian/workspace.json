@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week10/Probability Distribution.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week12/Artificial Intelligence's Grand Vision.md",
                 "mode": "source",
                 "source": false
               }
@@ -51,7 +51,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "COMPSCI367 - Artificial Intelligence/week10/Probability Distribution.md",
+                    "file": "COMPSCI367 - Artificial Intelligence/week12/Artificial Intelligence's Grand Vision.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -86,7 +86,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "COMPSCI367 - Artificial Intelligence/week10/Probability Distribution.md",
+                    "file": "COMPSCI367 - Artificial Intelligence/week12/Artificial Intelligence's Grand Vision.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -165,8 +165,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -186,7 +185,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week10/Probability Distribution.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week12/Artificial Intelligence's Grand Vision.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -203,7 +202,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week10/Probability Distribution.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week12/Artificial Intelligence's Grand Vision.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -226,7 +225,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week10/Probability Distribution.md"
+                "file": "COMPSCI367 - Artificial Intelligence/week12/Artificial Intelligence's Grand Vision.md"
               }
             }
           },
@@ -269,6 +268,9 @@
   },
   "active": "358f03c9716e94e8",
   "lastOpenFiles": [
+    "COMPSCI367 - Artificial Intelligence/week12/Darwin Among Machines.md",
+    "COMPSCI367 - Artificial Intelligence/week12/Artificial Intelligence's Grand Vision.md",
+    "COMPSCI367 - Artificial Intelligence/week10/Probability Distribution.md",
     "COMPSCI367 - Artificial Intelligence/week05/Genetic Algorithm (GA).md",
     "COMPSCI367 - Artificial Intelligence/week05/Boltzmann distribution.md",
     "COMPSCI367 - Artificial Intelligence/week10/Conditional Probability Table (CPT).md",
@@ -293,9 +295,6 @@
     "COMPSCI367 - Artificial Intelligence/week05/Population-based Search.md",
     "COMPSCI367 - Artificial Intelligence/week05/Local beam Search.md",
     "COMPSCI367 - Artificial Intelligence/week05/Minmax Algorithm.md",
-    "COMPSCI367 - Artificial Intelligence/week05/Complexity analysis.md",
-    "COMPSCI367 - Artificial Intelligence/week10/Why should you use NLP.md",
-    "COMPSCI367 - Artificial Intelligence/week10/Zipf's law.md",
     "@images/Pasted image 20231026174833.png",
     "@images/Pasted image 20231026174606.png",
     "@images/Pasted image 20231026170928.png",

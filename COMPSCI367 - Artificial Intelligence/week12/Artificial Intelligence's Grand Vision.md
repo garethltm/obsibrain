@@ -1,0 +1,1 @@
+Idea of Strong aI & Weak Ai
