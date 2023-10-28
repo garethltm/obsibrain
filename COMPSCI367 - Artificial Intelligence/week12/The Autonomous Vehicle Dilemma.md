@@ -6,4 +6,6 @@ Trolley problem - Range of ethical dilemmas
 3. [[Deontologist theory]]
 
 >	No code to save lives
->	Companies do not want to get sued for philo
+>	Companies do not want to get sued for philosophical reasons
+
+>	Sometimes you don't have time to think on what theories to implement
