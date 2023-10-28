@@ -1,6 +1,7 @@
 - [[multi-agent]] [[environment]]
 - conducts search by maintaining a [[population]]
-- same as [[local]]
+- same as [[Local beam Search]] memory
+	- they are both fixed size
 
 ### Advantages
 - Search diversification
