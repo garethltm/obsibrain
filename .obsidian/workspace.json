@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week06/Wumpus World Agent.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week09/Backward (Regression) planning.md",
                 "mode": "source",
                 "source": false
               }
@@ -51,7 +51,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "COMPSCI367 - Artificial Intelligence/week06/Wumpus World Agent.md",
+                    "file": "COMPSCI367 - Artificial Intelligence/week09/Backward (Regression) planning.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -86,7 +86,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "COMPSCI367 - Artificial Intelligence/week06/Wumpus World Agent.md",
+                    "file": "COMPSCI367 - Artificial Intelligence/week09/Backward (Regression) planning.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -148,7 +148,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "subg",
+                "query": "subgoal",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -186,7 +186,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week06/Wumpus World Agent.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week09/Backward (Regression) planning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -203,7 +203,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week06/Wumpus World Agent.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week09/Backward (Regression) planning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -226,7 +226,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week06/Wumpus World Agent.md"
+                "file": "COMPSCI367 - Artificial Intelligence/week09/Backward (Regression) planning.md"
               }
             }
           },
@@ -267,8 +267,9 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "a6e0090ac9cbd1f3",
+  "active": "358f03c9716e94e8",
   "lastOpenFiles": [
+    "COMPSCI367 - Artificial Intelligence/week06/Wumpus World Agent.md",
     "COMPSCI367 - Artificial Intelligence/week07/SLD Resolution (Backward chaining).md",
     "COMPSCI367 - Artificial Intelligence/week06/Compound Propositions (Compound Entities).md",
     "COMPSCI367 - Artificial Intelligence/week06/proposition.md",
@@ -281,7 +282,6 @@
     "COMPSCI367 - Artificial Intelligence/week10/Attention Mechanisms.md",
     "COMPSCI367 - Artificial Intelligence/week12/Lethal Autonomous Weapon.md",
     "COMPSCI367 - Artificial Intelligence/week06/Duality of Syntax vs Semantics.md",
-    "COMPSCI367 - Artificial Intelligence/week06/Wumpus World Agent.md",
     "COMPSCI367 - Artificial Intelligence/week06/Inference engines (IE).md",
     "COMPSCI367 - Artificial Intelligence/week10/Translation Model.md",
     "COMPSCI367 - Artificial Intelligence/week10/Statistical Language Model.md",
