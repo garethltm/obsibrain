@@ -1,5 +1,6 @@
 {
 	"nodes":[
+		{"id":"b93e599de8588955","x":-2740,"y":1600,"width":2121,"height":3400,"type":"group","label":"week08"},
 		{"id":"fbcde72febcf2aa2","type":"file","file":"COMPSCI367 - Artificial Intelligence/week05/Population-based Search.md","x":-540,"y":300,"width":960,"height":960},
 		{"id":"e5e76957efe5bbbf","type":"file","file":"COMPSCI367 - Artificial Intelligence/week05/Local beam Search.md","x":560,"y":300,"width":1120,"height":840},
 		{"id":"87676a80d54176c1","type":"file","file":"COMPSCI367 - Artificial Intelligence/week06/Inference engines (IE).md","x":560,"y":-260,"width":890,"height":245},
@@ -10,8 +11,9 @@
 		{"id":"726c94a8f89cf520","type":"file","file":"COMPSCI367 - Artificial Intelligence/week07/SLD Resolution (Backward chaining).md","x":-2720,"y":-780,"width":840,"height":1920},
 		{"id":"168ecaded8db3ab0","type":"file","file":"COMPSCI367 - Artificial Intelligence/week08/Grounding.md","x":-2720,"y":2320,"width":1080,"height":860},
 		{"id":"b517183b840ad49d","type":"file","file":"COMPSCI367 - Artificial Intelligence/week08/Lifting.md","x":-1520,"y":2320,"width":881,"height":228},
-		{"id":"e4722fc123d0fef9","x":-2720,"y":3500,"width":1440,"height":1480,"type":"file","file":"COMPSCI367 - Artificial Intelligence/week08/Unification.md"},
-		{"id":"21c3f5042ad67d16","x":-1820,"y":1620,"width":470,"height":238,"type":"file","file":"COMPSCI367 - Artificial Intelligence/week08/First-Order Logic Inference.md"}
+		{"id":"e4722fc123d0fef9","type":"file","file":"COMPSCI367 - Artificial Intelligence/week08/Unification.md","x":-2720,"y":3500,"width":1440,"height":1480},
+		{"id":"21c3f5042ad67d16","type":"file","file":"COMPSCI367 - Artificial Intelligence/week08/First-Order Logic Inference.md","x":-1820,"y":1620,"width":470,"height":238},
+		{"id":"1f53223437edcd0e","x":-40,"y":1658,"width":1280,"height":662,"type":"file","file":"COMPSCI367 - Artificial Intelligence/week09/Backward (Regression) planning.md"}
 	],
 	"edges":[
 		{"id":"58761566270d0cbd","fromNode":"21c3f5042ad67d16","fromSide":"bottom","toNode":"168ecaded8db3ab0","toSide":"top"},
