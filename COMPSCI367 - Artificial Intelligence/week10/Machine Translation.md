@@ -1,4 +1,4 @@
-
+[[Bayes Theorem]] 
 >	#Example
 >	*zh(mandarin) to mi(maori)*
 >	
