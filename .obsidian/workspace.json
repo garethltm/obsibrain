@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "gareth",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -166,7 +167,7 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "6687c04ac1db9dc0",
+  "active": "a6e0090ac9cbd1f3",
   "lastOpenFiles": [
     "COMPSCI367 - Artificial Intelligence/week01/Reflex (Model-Based) Agent-GARETH.md",
     "COMPSCI367 - Artificial Intelligence/week01/Multi-agent.md",
