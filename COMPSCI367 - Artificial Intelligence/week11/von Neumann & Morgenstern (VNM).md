@@ -13,7 +13,7 @@ finding out the most preferred [[outcome(s)]]
 
 
 - cannot just sum up 2 utilities of 2 different agents
-	- because if we have different [[agent]] in the system $\rightarrow$ they might have outcomes that cannot be compared because we don't know in what scale they are working
+	- because if we have different [[agent(s)]] in the system $\rightarrow$ they might have outcomes that cannot be compared because we don't know in what scale they are working
 =======
 - the [[utility]] of a [[Probability]] [[outcome(s)]] $\huge p\tiny 1\normalsize : u (\huge o\tiny 1\normalsize),\huge p\tiny 2\normalsize : u (\huge o\tiny 2\normalsize),...,\huge p\tiny k\normalsize : u (\huge o\tiny k\normalsize)$ can be described as the linear sum
 >		[[expected utility]]
