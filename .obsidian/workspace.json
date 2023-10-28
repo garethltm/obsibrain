@@ -28,9 +28,9 @@
               "state": {
                 "file": "COMPSCI367 - Artificial Intelligence/finals prep.canvas",
                 "viewState": {
-                  "x": 2192.5711075446015,
-                  "y": -191.93892033437533,
-                  "zoom": -1.3333333333333328
+                  "x": 2232.6683152728306,
+                  "y": -129.34576940315156,
+                  "zoom": -0.6666666666666663
                 }
               }
             }
@@ -79,7 +79,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "COMPSCI367 - Artificial Intelligence/finals prep.canvas",
+                    "file": "COMPSCI367 - Artificial Intelligence/week06/clause(s).md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -114,7 +114,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "COMPSCI367 - Artificial Intelligence/finals prep.canvas",
+                    "file": "COMPSCI367 - Artificial Intelligence/week06/clause(s).md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -197,7 +197,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 211.5
+    "width": 211.5,
+    "collapsed": true
   },
   "right": {
     "id": "29204b37fc003a9a",
@@ -213,7 +214,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/finals prep.canvas",
+                "file": "COMPSCI367 - Artificial Intelligence/week06/clause(s).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -230,7 +231,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/finals prep.canvas",
+                "file": "COMPSCI367 - Artificial Intelligence/week06/clause(s).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -253,7 +254,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/finals prep.canvas"
+                "file": "COMPSCI367 - Artificial Intelligence/week06/clause(s).md"
               }
             }
           },
