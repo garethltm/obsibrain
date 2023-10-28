@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week01/Reflex (Model-Based) Agent-GARETH.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week01/Multi-agent.md",
                 "mode": "source",
                 "source": false
               }
@@ -168,8 +168,9 @@
   },
   "active": "6687c04ac1db9dc0",
   "lastOpenFiles": [
-    "COMPSCI367 - Artificial Intelligence/week01/Reactive Agent-GARETH.md",
+    "COMPSCI367 - Artificial Intelligence/week01/Reflex (Model-Based) Agent-GARETH.md",
     "COMPSCI367 - Artificial Intelligence/week01/Multi-agent.md",
+    "COMPSCI367 - Artificial Intelligence/week01/Reactive Agent-GARETH.md",
     "COMPSCI367 - Artificial Intelligence/week01/Rationality-GARETH.md",
     "COMPSCI367 - Artificial Intelligence/week01/Planning Agent-GARETH.md",
     "COMPSCI367 - Artificial Intelligence/week01/Multi-agent-GARETH.md",
@@ -195,7 +196,6 @@
     "COMPSCI367 - Artificial Intelligence/week12/optimal policy.md",
     "COMPSCI367 - Artificial Intelligence/week12/no forgetting property.md",
     "COMPSCI367 - Artificial Intelligence/week12/Indefinite horizon or infinite horizon.md",
-    "COMPSCI367 - Artificial Intelligence/week12/Decision network.md",
     "@images/Pasted image 20231026174833.png",
     "@images/Pasted image 20231026174606.png",
     "@images/Pasted image 20231026170928.png",
