@@ -148,7 +148,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "distri",
+                "query": "weak ai",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -165,7 +165,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -266,7 +267,7 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "358f03c9716e94e8",
+  "active": "a6e0090ac9cbd1f3",
   "lastOpenFiles": [
     "COMPSCI367 - Artificial Intelligence/week12/Darwin Among Machines.md",
     "COMPSCI367 - Artificial Intelligence/week12/Artificial Intelligence's Grand Vision.md",
