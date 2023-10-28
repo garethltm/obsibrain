@@ -24,14 +24,11 @@
             "id": "5611a1c798c7a525",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/finals prep.canvas",
-                "viewState": {
-                  "x": 576.5700756645975,
-                  "y": 3579.649031737551,
-                  "zoom": -1.5914184832600307
-                }
+                "file": "COMPSCI367 - Artificial Intelligence/week09/Evidence - Calculate probabilities given prior evidence.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -67,7 +64,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "COMPSCI367 - Artificial Intelligence/week09/Forward (Progression) planning.md",
+                    "file": "COMPSCI367 - Artificial Intelligence/week09/Evidence - Calculate probabilities given prior evidence.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -102,7 +99,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "COMPSCI367 - Artificial Intelligence/week09/Forward (Progression) planning.md",
+                    "file": "COMPSCI367 - Artificial Intelligence/week09/Evidence - Calculate probabilities given prior evidence.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -201,7 +198,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week09/Forward (Progression) planning.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week09/Evidence - Calculate probabilities given prior evidence.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -218,7 +215,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week09/Forward (Progression) planning.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week09/Evidence - Calculate probabilities given prior evidence.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -241,7 +238,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week09/Forward (Progression) planning.md"
+                "file": "COMPSCI367 - Artificial Intelligence/week09/Evidence - Calculate probabilities given prior evidence.md"
               }
             }
           },
@@ -284,9 +281,11 @@
   },
   "active": "5611a1c798c7a525",
   "lastOpenFiles": [
-    "COMPSCI367 - Artificial Intelligence/week09/Building a planner.md",
-    "COMPSCI367 - Artificial Intelligence/week09/Classical Planning.md",
+    "COMPSCI367 - Artificial Intelligence/week09/domain-independent heuristic.md",
+    "COMPSCI367 - Artificial Intelligence/week09/Domain file.md",
     "COMPSCI367 - Artificial Intelligence/finals prep.canvas",
+    "COMPSCI367 - Artificial Intelligence/week09/Classical Planning.md",
+    "COMPSCI367 - Artificial Intelligence/week09/Building a planner.md",
     "COMPSCI367 - Artificial Intelligence/week09/Bayes Nets.md",
     "COMPSCI367 - Artificial Intelligence/week09/Backward (Regression) planning.md",
     "COMPSCI367 - Artificial Intelligence/week08/First-Order Formulas.md",
@@ -309,8 +308,6 @@
     "COMPSCI367 - Artificial Intelligence/week08/term(s).md",
     "COMPSCI367 - Artificial Intelligence/week08/Skolem constant.md",
     "COMPSCI367 - Artificial Intelligence/week08/signature.md",
-    "COMPSCI367 - Artificial Intelligence/week08/Propositionalization.md",
-    "COMPSCI367 - Artificial Intelligence/week08/quantifier(s).md",
     "@images/COMPSCI3672022_S2W09Lecture25AIinSociety28129-21.jpg",
     "@images/COMPSCI3672022_S2W12Lecture35Decision2of2-23.jpg",
     "@images/Pasted image 20231026174833.png",
