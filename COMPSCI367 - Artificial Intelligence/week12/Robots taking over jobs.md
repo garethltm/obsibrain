@@ -1,0 +1,2 @@
+- People need to adapt to the new world
+- [[Artificial Intelligence (AI)]] 
