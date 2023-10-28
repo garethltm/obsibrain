@@ -24,11 +24,14 @@
             "id": "5611a1c798c7a525",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week09/Evidence - Calculate probabilities given prior evidence.md",
-                "mode": "source",
-                "source": false
+                "file": "COMPSCI367 - Artificial Intelligence/finals prep.canvas",
+                "viewState": {
+                  "x": 2392.3221935573793,
+                  "y": 3844.029233711218,
+                  "zoom": -1.1756536174284349
+                }
               }
             }
           }
@@ -64,7 +67,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "COMPSCI367 - Artificial Intelligence/week09/Evidence - Calculate probabilities given prior evidence.md",
+                    "file": "COMPSCI367 - Artificial Intelligence/finals prep.canvas",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -99,7 +102,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "COMPSCI367 - Artificial Intelligence/week09/Evidence - Calculate probabilities given prior evidence.md",
+                    "file": "COMPSCI367 - Artificial Intelligence/finals prep.canvas",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -198,7 +201,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week09/Evidence - Calculate probabilities given prior evidence.md",
+                "file": "COMPSCI367 - Artificial Intelligence/finals prep.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -215,7 +218,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week09/Evidence - Calculate probabilities given prior evidence.md",
+                "file": "COMPSCI367 - Artificial Intelligence/finals prep.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -238,7 +241,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week09/Evidence - Calculate probabilities given prior evidence.md"
+                "file": "COMPSCI367 - Artificial Intelligence/finals prep.canvas"
               }
             }
           },
@@ -279,11 +282,20 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "5611a1c798c7a525",
+  "active": "3ad179677b7fba41",
   "lastOpenFiles": [
+    "COMPSCI367 - Artificial Intelligence/week09/Planning task.md",
+    "COMPSCI367 - Artificial Intelligence/week09/Planning.md",
+    "COMPSCI367 - Artificial Intelligence/week09/plan.md",
+    "COMPSCI367 - Artificial Intelligence/week09/PDDL.md",
+    "COMPSCI367 - Artificial Intelligence/week09/Noisy OR.md",
+    "COMPSCI367 - Artificial Intelligence/week09/Logic-based Planning algorithms.md",
+    "COMPSCI367 - Artificial Intelligence/finals prep.canvas",
+    "COMPSCI367 - Artificial Intelligence/week09/First Order Bayes Nets.md",
+    "COMPSCI367 - Artificial Intelligence/week09/ExtractPlan.md",
+    "COMPSCI367 - Artificial Intelligence/week09/Evidence - Calculate probabilities given prior evidence.md",
     "COMPSCI367 - Artificial Intelligence/week09/domain-independent heuristic.md",
     "COMPSCI367 - Artificial Intelligence/week09/Domain file.md",
-    "COMPSCI367 - Artificial Intelligence/finals prep.canvas",
     "COMPSCI367 - Artificial Intelligence/week09/Classical Planning.md",
     "COMPSCI367 - Artificial Intelligence/week09/Building a planner.md",
     "COMPSCI367 - Artificial Intelligence/week09/Bayes Nets.md",
@@ -299,15 +311,6 @@
     "COMPSCI367 - Artificial Intelligence/week08/control.md",
     "COMPSCI367 - Artificial Intelligence/week08/axioms.md",
     "COMPSCI367 - Artificial Intelligence/week08/Arithmetic.md",
-    "COMPSCI367 - Artificial Intelligence/week08/algorithm.md",
-    "COMPSCI367 - Artificial Intelligence/week09/Annotated Disjunction.md",
-    "COMPSCI367 - Artificial Intelligence/week08/Unification in queries.md",
-    "COMPSCI367 - Artificial Intelligence/week08/Unification.md",
-    "COMPSCI367 - Artificial Intelligence/week08/Universal quantification.md",
-    "COMPSCI367 - Artificial Intelligence/week08/theorem.md",
-    "COMPSCI367 - Artificial Intelligence/week08/term(s).md",
-    "COMPSCI367 - Artificial Intelligence/week08/Skolem constant.md",
-    "COMPSCI367 - Artificial Intelligence/week08/signature.md",
     "@images/COMPSCI3672022_S2W09Lecture25AIinSociety28129-21.jpg",
     "@images/COMPSCI3672022_S2W12Lecture35Decision2of2-23.jpg",
     "@images/Pasted image 20231026174833.png",
