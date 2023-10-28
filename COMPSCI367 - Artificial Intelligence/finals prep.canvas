@@ -6,8 +6,10 @@
 		{"id":"776f617db4924558","type":"file","file":"COMPSCI367 - Artificial Intelligence/week06/Logic Inference vs Constraint Satisfaction.md","x":560,"y":-1140,"width":1110,"height":760},
 		{"id":"3aad0f3398894130","type":"file","file":"COMPSCI367 - Artificial Intelligence/week07/Modus Ponens (MP).md","x":-540,"y":-780,"width":900,"height":400},
 		{"id":"0f8e8374f8203bf6","type":"text","text":"### Summary\n- [[Population-based Search]] conducts search by maintaining & updating a collection of [[candidate solution]]\n- [[Local beam Search]] is an adaptation of [[Iterative Best Improvement (IBI)]] by maintaining M > 1 [[candidate solution]]\n- [[Stochastic Beam Search (SBS)]] aims to avoid [[Local beam Search]] concentration on a narrow [[path(s)]] by using [[Boltzmann distribution]]\n#### Framework\n- [[Genetic Algorithm (GA)]] maintains a [[population]] of [[candidate solution]]\n- Chromosomes are representations of [[candidate solution]] that determines [[fitness]]\n- [[crossover operation]] & [[mutation operation]] for generating offsprings","x":-540,"y":-1760,"width":825,"height":430,"color":"1"},
-		{"id":"3f6a4b7a12420b88","x":-1760,"y":-780,"width":960,"height":1500,"type":"file","file":"COMPSCI367 - Artificial Intelligence/week07/Forward Chaining.md"},
-		{"id":"726c94a8f89cf520","x":-2720,"y":-780,"width":840,"height":1920,"type":"file","file":"COMPSCI367 - Artificial Intelligence/week07/SLD Resolution (Backward chaining).md"}
+		{"id":"3f6a4b7a12420b88","type":"file","file":"COMPSCI367 - Artificial Intelligence/week07/Forward Chaining.md","x":-1760,"y":-780,"width":960,"height":1500},
+		{"id":"726c94a8f89cf520","type":"file","file":"COMPSCI367 - Artificial Intelligence/week07/SLD Resolution (Backward chaining).md","x":-2720,"y":-780,"width":840,"height":1920},
+		{"id":"168ecaded8db3ab0","x":-2720,"y":1260,"width":1080,"height":860,"type":"file","file":"COMPSCI367 - Artificial Intelligence/week08/Grounding.md"},
+		{"id":"b517183b840ad49d","x":-1520,"y":1260,"width":881,"height":228,"type":"file","file":"COMPSCI367 - Artificial Intelligence/week08/Lifting.md"}
 	],
 	"edges":[]
 }

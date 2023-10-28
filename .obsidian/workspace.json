@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week08/Grounding.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week08/term(s).md",
                 "mode": "source",
                 "source": false
               }
@@ -51,7 +51,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "COMPSCI367 - Artificial Intelligence/week08/Grounding.md",
+                    "file": "COMPSCI367 - Artificial Intelligence/week08/term(s).md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -86,7 +86,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "COMPSCI367 - Artificial Intelligence/week08/Grounding.md",
+                    "file": "COMPSCI367 - Artificial Intelligence/week08/term(s).md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -185,7 +185,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week08/Grounding.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week08/term(s).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -202,7 +202,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week08/Grounding.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week08/term(s).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -225,7 +225,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week08/Grounding.md"
+                "file": "COMPSCI367 - Artificial Intelligence/week08/term(s).md"
               }
             }
           },
@@ -268,33 +268,33 @@
   },
   "active": "358f03c9716e94e8",
   "lastOpenFiles": [
+    "COMPSCI367 - Artificial Intelligence/week08/Skolem constant.md",
+    "COMPSCI367 - Artificial Intelligence/week08/signature.md",
+    "COMPSCI367 - Artificial Intelligence/week08/Propositionalization.md",
+    "COMPSCI367 - Artificial Intelligence/week08/quantifier(s).md",
+    "COMPSCI367 - Artificial Intelligence/week08/Prolog.md",
+    "COMPSCI367 - Artificial Intelligence/week08/Ordering.md",
+    "COMPSCI367 - Artificial Intelligence/week08/negation.md",
+    "COMPSCI367 - Artificial Intelligence/week08/model(s).md",
+    "COMPSCI367 - Artificial Intelligence/week08/Logic Programming.md",
+    "COMPSCI367 - Artificial Intelligence/week08/logic.md",
+    "COMPSCI367 - Artificial Intelligence/week08/list operations.md",
+    "COMPSCI367 - Artificial Intelligence/week08/Lifting.md",
+    "COMPSCI367 - Artificial Intelligence/week08/inductively.md",
+    "COMPSCI367 - Artificial Intelligence/week08/instantiation.md",
+    "COMPSCI367 - Artificial Intelligence/week08/Imperative programming.md",
+    "COMPSCI367 - Artificial Intelligence/week08/Herbrand's Theorem.md",
+    "COMPSCI367 - Artificial Intelligence/week08/Grounding.md",
+    "COMPSCI367 - Artificial Intelligence/week08/Generalised Modus Ponens (GMP).md",
+    "COMPSCI367 - Artificial Intelligence/week08/Free variables.md",
     "COMPSCI367 - Artificial Intelligence/week08/First-Order Logic Inference.md",
     "COMPSCI367 - Artificial Intelligence/week08/First-Order Logic.md",
-    "COMPSCI367 - Artificial Intelligence/week08/First-Order KB.md",
     "COMPSCI367 - Artificial Intelligence/week08/First-Order Interpretation.md",
+    "COMPSCI367 - Artificial Intelligence/week08/First-Order KB.md",
+    "COMPSCI367 - Artificial Intelligence/finals prep.canvas",
     "COMPSCI367 - Artificial Intelligence/week08/First-Order Formulas.md",
     "COMPSCI367 - Artificial Intelligence/week08/Existential quantification.md",
     "COMPSCI367 - Artificial Intelligence/week08/Domain-closure assumption.md",
-    "COMPSCI367 - Artificial Intelligence/week08/definition (singular).md",
-    "COMPSCI367 - Artificial Intelligence/week08/Declarative programming.md",
-    "COMPSCI367 - Artificial Intelligence/week08/Closed world assumption.md",
-    "COMPSCI367 - Artificial Intelligence/week08/control.md",
-    "COMPSCI367 - Artificial Intelligence/week08/axioms.md",
-    "COMPSCI367 - Artificial Intelligence/week08/Arithmetic.md",
-    "COMPSCI367 - Artificial Intelligence/week08/algorithm.md",
-    "COMPSCI367 - Artificial Intelligence/week07/What logic needs to be.md",
-    "COMPSCI367 - Artificial Intelligence/week07/Verbose.md",
-    "COMPSCI367 - Artificial Intelligence/week07/subgoal.md",
-    "COMPSCI367 - Artificial Intelligence/week07/Soundness.md",
-    "COMPSCI367 - Artificial Intelligence/week07/SLD Resolution (Backward chaining).md",
-    "COMPSCI367 - Artificial Intelligence/week07/SLD derivation.md",
-    "COMPSCI367 - Artificial Intelligence/week07/rule of derivation.md",
-    "COMPSCI367 - Artificial Intelligence/week07/Completeness.md",
-    "COMPSCI367 - Artificial Intelligence/week07/Compositional.md",
-    "COMPSCI367 - Artificial Intelligence/week07/Declarative.md",
-    "COMPSCI367 - Artificial Intelligence/week07/Definite clause.md",
-    "COMPSCI367 - Artificial Intelligence/week07/Definite Clause Inference Engine.md",
-    "COMPSCI367 - Artificial Intelligence/finals prep.canvas",
     "@images/COMPSCI3672022_S2W09Lecture25AIinSociety28129-21.jpg",
     "@images/COMPSCI3672022_S2W12Lecture35Decision2of2-23.jpg",
     "@images/Pasted image 20231026174833.png",
