@@ -204,6 +204,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "COMPSCI367 - Artificial Intelligence/week08/First-Order Formulas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -220,6 +221,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "COMPSCI367 - Artificial Intelligence/week08/First-Order Formulas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -241,7 +243,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "COMPSCI367 - Artificial Intelligence/week08/First-Order Formulas.md"
+              }
             }
           },
           {
