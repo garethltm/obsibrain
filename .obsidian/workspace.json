@@ -163,7 +163,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 211.5,
+    "collapsed": true
   },
   "right": {
     "id": "29204b37fc003a9a",
@@ -258,6 +259,7 @@
   },
   "active": "358f03c9716e94e8",
   "lastOpenFiles": [
+    "COMPSCI367 - Artificial Intelligence/week10/Attention Mechanisms.md",
     "COMPSCI367 - Artificial Intelligence/week12/Lethal Autonomous Weapon.md",
     "COMPSCI367 - Artificial Intelligence/week06/Duality of Syntax vs Semantics.md",
     "COMPSCI367 - Artificial Intelligence/week06/Wumpus World Agent.md",
@@ -283,7 +285,6 @@
     "COMPSCI367 - Artificial Intelligence/week11/Axiom 1 - Completeness.md",
     "COMPSCI367 - Artificial Intelligence/week11/weak preference relation (≥).md",
     "COMPSCI367 - Artificial Intelligence/week11/strict preference relation.md",
-    "COMPSCI367 - Artificial Intelligence/week11/indifference relation (~).md",
     "@images/COMPSCI3672022_S2W09Lecture25AIinSociety28129-21.jpg",
     "@images/COMPSCI3672022_S2W12Lecture35Decision2of2-23.jpg",
     "@images/Pasted image 20231026174833.png",
