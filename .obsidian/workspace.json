@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week11/Axiom 2 - Transitivity.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week11/Axiom 6 - Independence.md",
                 "mode": "source",
                 "source": false
               }
@@ -51,7 +51,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "COMPSCI367 - Artificial Intelligence/week11/Axiom 2 - Transitivity.md",
+                    "file": "COMPSCI367 - Artificial Intelligence/week11/Axiom 6 - Independence.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -86,7 +86,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "COMPSCI367 - Artificial Intelligence/week11/Axiom 2 - Transitivity.md",
+                    "file": "COMPSCI367 - Artificial Intelligence/week11/Axiom 6 - Independence.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -185,7 +185,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week11/Axiom 2 - Transitivity.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week11/Axiom 6 - Independence.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -202,7 +202,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week11/Axiom 2 - Transitivity.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week11/Axiom 6 - Independence.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -225,7 +225,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week11/Axiom 2 - Transitivity.md"
+                "file": "COMPSCI367 - Artificial Intelligence/week11/Axiom 6 - Independence.md"
               }
             }
           },
@@ -268,11 +268,14 @@
   },
   "active": "358f03c9716e94e8",
   "lastOpenFiles": [
-    "COMPSCI367 - Artificial Intelligence/week11/Axiom 4 - Decomposability.md",
-    "COMPSCI367 - Artificial Intelligence/week11/Axiom 3 - Monotonicity.md",
     "COMPSCI367 - Artificial Intelligence/week11/Axiom 5 - Continuity.md",
-    "COMPSCI367 - Artificial Intelligence/week11/Axiom 2 - Transitivity.md",
+    "COMPSCI367 - Artificial Intelligence/week11/Axiom 4 - Decomposability.md",
     "COMPSCI367 - Artificial Intelligence/week11/Axiom 1 - Completeness.md",
+    "COMPSCI367 - Artificial Intelligence/week11/weak preference relation (≥).md",
+    "COMPSCI367 - Artificial Intelligence/week11/strict preference relation.md",
+    "COMPSCI367 - Artificial Intelligence/week11/indifference relation (~).md",
+    "COMPSCI367 - Artificial Intelligence/week11/Axiom 2 - Transitivity.md",
+    "COMPSCI367 - Artificial Intelligence/week11/Axiom 3 - Monotonicity.md",
     "COMPSCI367 - Artificial Intelligence/week11/Axioms for Rationality.md",
     "COMPSCI367 - Artificial Intelligence/week11/Bayesian Network Inference.md",
     "COMPSCI367 - Artificial Intelligence/week11/CPT Operations.md",
@@ -280,7 +283,6 @@
     "COMPSCI367 - Artificial Intelligence/week11/evaluate desirability.md",
     "COMPSCI367 - Artificial Intelligence/week11/expected utility.md",
     "COMPSCI367 - Artificial Intelligence/week11/Expected utility hypothesis.md",
-    "COMPSCI367 - Artificial Intelligence/week11/indifference relation (~).md",
     "COMPSCI367 - Artificial Intelligence/week11/Linear scalability.md",
     "COMPSCI367 - Artificial Intelligence/week11/Local Markov Property.md",
     "COMPSCI367 - Artificial Intelligence/week11/lottery.md",
@@ -289,11 +291,9 @@
     "COMPSCI367 - Artificial Intelligence/week11/outcome(s).md",
     "COMPSCI367 - Artificial Intelligence/week11/Planning with Uncertainty.md",
     "COMPSCI367 - Artificial Intelligence/week11/Probabilistic Model.md",
-    "COMPSCI367 - Artificial Intelligence/week11/strict preference relation.md",
     "COMPSCI367 - Artificial Intelligence/week11/utility.md",
     "COMPSCI367 - Artificial Intelligence/week11/Utility function.md",
     "COMPSCI367 - Artificial Intelligence/week11/Utility theory.md",
-    "COMPSCI367 - Artificial Intelligence/week11/Variable Elimination Algorithm (VE).md",
     "@images/COMPSCI3672022_S2W09Lecture25AIinSociety28129-21.jpg",
     "@images/COMPSCI3672022_S2W12Lecture35Decision2of2-23.jpg",
     "@images/Pasted image 20231026174833.png",
