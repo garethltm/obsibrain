@@ -15,9 +15,9 @@
               "state": {
                 "file": "COMPSCI367 - Artificial Intelligence/finals prep.canvas",
                 "viewState": {
-                  "x": 9366.77035438314,
-                  "y": -4770.258085723587,
-                  "zoom": -1.666666666666666
+                  "x": 11457.644151343015,
+                  "y": -4105.614498083465,
+                  "zoom": -0.9999999999999996
                 }
               }
             }
@@ -88,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week10/Naïve Bayes - Laplace smoothing.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week10/posterior evidence (posterior probability).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week10/Naïve Bayes - Laplace smoothing.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week10/posterior evidence (posterior probability).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week10/Naïve Bayes - Laplace smoothing.md"
+                "file": "COMPSCI367 - Artificial Intelligence/week10/posterior evidence (posterior probability).md"
               }
             }
           },
@@ -156,7 +156,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week10/Naïve Bayes - Laplace smoothing.md"
+                "file": "COMPSCI367 - Artificial Intelligence/week10/posterior evidence (posterior probability).md"
               }
             }
           }

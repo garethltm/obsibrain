@@ -1,8 +1,8 @@
 {
 	"nodes":[
 		{"id":"09e4ad48cb61d99c","type":"group","x":-160,"y":-12480,"width":8800,"height":7440,"color":"1","label":"Logic"},
-		{"id":"284add145ab5f10f","type":"group","x":6571,"y":-4180,"width":6352,"height":4247,"color":"1","label":"Probability"},
 		{"id":"d5adc265cc797e1b","type":"group","x":-2320,"y":-4880,"width":7760,"height":7840,"color":"1","label":"Local Search"},
+		{"id":"284add145ab5f10f","type":"group","x":6571,"y":-4180,"width":6352,"height":4247,"color":"1","label":"Probability"},
 		{"id":"6d2365b44856105f","type":"group","x":-4960,"y":-9640,"width":4680,"height":3089,"color":"1","label":"Planner"},
 		{"id":"b0281d92c82035ae","type":"group","x":-9760,"y":-6240,"width":7080,"height":5035,"color":"1","label":"Systematic Search"},
 		{"id":"a0f7e424afa1db31","type":"file","file":"COMPSCI367 - Artificial Intelligence/week09/Building a planner.md","x":-3379,"y":-8953,"width":400,"height":159},
@@ -38,7 +38,6 @@
 		{"id":"6f5232cb8da01059","type":"file","file":"COMPSCI367 - Artificial Intelligence/week05/Stochastic Beam Search (SBS).md","x":4560,"y":-4080,"width":800,"height":640},
 		{"id":"a2bdab967b9d4ab3","type":"file","file":"COMPSCI367 - Artificial Intelligence/week05/Genetic Algorithm (GA).md","x":4560,"y":-4840,"width":640,"height":585},
 		{"id":"1565f3fa00bb00bc","type":"file","file":"COMPSCI367 - Artificial Intelligence/week05/Adversarial Search.md","x":4600,"y":-3279,"width":400,"height":239},
-		{"id":"dd235cb94f5d56c9","type":"file","file":"COMPSCI367 - Artificial Intelligence/week07/SLD Resolution (Backward chaining).md","x":6000,"y":-7700,"width":756,"height":605},
 		{"id":"0f8e8374f8203bf6","type":"text","text":"### Summary\n- [[Population-based Search]] conducts search by maintaining & updating a collection of [[candidate solution]]\n- [[Local beam Search]] is an adaptation of [[Iterative Best Improvement (IBI)]] by maintaining M > 1 [[candidate solution]]\n- [[Stochastic Beam Search (SBS)]] aims to avoid [[Local beam Search]] concentration on a narrow [[path(s)]] by using [[Boltzmann distribution]]\n#### Framework\n- [[Genetic Algorithm (GA)]] maintains a [[population]] of [[candidate solution]]\n- Chromosomes are representations of [[candidate solution]] that determines [[fitness]]\n- [[crossover operation]] & [[mutation operation]] for generating offsprings","x":2680,"y":-4840,"width":825,"height":430,"color":"1"},
 		{"id":"b2650430cc548d11","type":"file","file":"COMPSCI367 - Artificial Intelligence/week05/Greedy descent with M random restarts vs Local beam Search.md","x":2281,"y":-2946,"width":959,"height":440},
 		{"id":"fbcde72febcf2aa2","type":"file","file":"COMPSCI367 - Artificial Intelligence/week05/Population-based Search.md","x":2320,"y":-4080,"width":960,"height":1040},
@@ -91,7 +90,6 @@
 		{"id":"08f0737d4b4e5871","type":"file","file":"COMPSCI367 - Artificial Intelligence/week06/inference(s).md","x":4055,"y":-5400,"width":400,"height":170},
 		{"id":"87676a80d54176c1","type":"file","file":"COMPSCI367 - Artificial Intelligence/week06/Inference engines (IE).md","x":3533,"y":-6177,"width":890,"height":245},
 		{"id":"f73a0581ae7e9446","type":"file","file":"COMPSCI367 - Artificial Intelligence/week06/Propositional Logic Inference Engine.md","x":4560,"y":-5624,"width":400,"height":224},
-		{"id":"de2978997fe5539e","type":"file","file":"COMPSCI367 - Artificial Intelligence/week06/Propositional Logic.md","x":5160,"y":-5492,"width":540,"height":354},
 		{"id":"93e0e8dc1f7ee085","type":"file","file":"COMPSCI367 - Artificial Intelligence/week07/Definite Clause Inference Engine.md","x":4605,"y":-6415,"width":790,"height":360},
 		{"id":"a56cfb7df38bc48a","type":"file","file":"COMPSCI367 - Artificial Intelligence/week03/Path Search vs CSPs.md","x":-2280,"y":-4095,"width":1260,"height":570},
 		{"id":"ce0eed8b1334236a","type":"file","file":"COMPSCI367 - Artificial Intelligence/week09/Classical Planning.md","x":-2114,"y":-8633,"width":900,"height":840},
@@ -101,10 +99,6 @@
 		{"id":"1fc387d860b8ea01","type":"file","file":"COMPSCI367 - Artificial Intelligence/week10/Conditional Probability Table (CPT).md","x":12172,"y":-3476,"width":731,"height":587},
 		{"id":"96ff3d269306e9ff","type":"file","file":"COMPSCI367 - Artificial Intelligence/week10/Bayes Theorem.md","x":10201,"y":-3426,"width":680,"height":400},
 		{"id":"58a881b6f43c7af3","type":"file","file":"COMPSCI367 - Artificial Intelligence/week09/Evidence - Calculate probabilities given prior evidence.md","x":10292,"y":-2964,"width":767,"height":608},
-		{"id":"169d0feb6b8ce658","type":"file","file":"COMPSCI367 - Artificial Intelligence/week10/Information Retrieval (IR).md","x":9764,"y":-5475,"width":680,"height":480},
-		{"id":"214f6fcbda415a9a","type":"file","file":"COMPSCI367 - Artificial Intelligence/week10/Shallow NLP.md","x":10743,"y":-5912,"width":596,"height":400},
-		{"id":"6b03e4e73deffd16","type":"file","file":"COMPSCI367 - Artificial Intelligence/week10/Pipelined NLP.md","x":11624,"y":-5912,"width":400,"height":400},
-		{"id":"c81b38809b0f01f5","type":"file","file":"COMPSCI367 - Artificial Intelligence/week10/Inverse Document Frequency (idf).md","x":10773,"y":-5096,"width":400,"height":316},
 		{"id":"6f7428825cecc059","type":"file","file":"COMPSCI367 - Artificial Intelligence/week10/Language Model.md","x":11450,"y":-5303,"width":622,"height":583},
 		{"id":"68fa51375f6dbbba","type":"file","file":"COMPSCI367 - Artificial Intelligence/week10/Laplace smoothing (add-one smoothing).md","x":11446,"y":-4481,"width":400,"height":201},
 		{"id":"2088076f0e9f4d8a","type":"file","file":"COMPSCI367 - Artificial Intelligence/week09/Probability.md","x":8652,"y":-3025,"width":857,"height":400},
@@ -114,7 +108,6 @@
 		{"id":"c82ab232314ad0c8","type":"file","file":"COMPSCI367 - Artificial Intelligence/week10/Law of total probability.md","x":8892,"y":-3476,"width":400,"height":159},
 		{"id":"e551cb89d6e4ada4","type":"file","file":"COMPSCI367 - Artificial Intelligence/week10/Machine Translation.md","x":9364,"y":-4681,"width":400,"height":400},
 		{"id":"4d1d5b328323a41b","type":"file","file":"COMPSCI367 - Artificial Intelligence/week09/Probabilistic Logic.md","x":6591,"y":-3026,"width":941,"height":1079},
-		{"id":"4f4b509d41f568f3","type":"file","file":"COMPSCI367 - Artificial Intelligence/week10/Natural Language Processing (NLP).md","x":11264,"y":-6435,"width":616,"height":400},
 		{"id":"b48c37468ddf494c","type":"file","file":"COMPSCI367 - Artificial Intelligence/week10/degree of belief.md","x":7692,"y":-2722,"width":400,"height":244},
 		{"id":"8f465dce49d27b0f","type":"file","file":"COMPSCI367 - Artificial Intelligence/week10/calculus of belief.md","x":8132,"y":-2676,"width":400,"height":152},
 		{"id":"f75473f75e267d30","type":"file","file":"COMPSCI367 - Artificial Intelligence/week09/Probability Theory.md","x":7972,"y":-2356,"width":920,"height":972},
@@ -132,8 +125,17 @@
 		{"id":"1f10eceea50a5357","type":"file","file":"COMPSCI367 - Artificial Intelligence/week09/Probabilistic Reasoning.md","x":7372,"y":-1196,"width":400,"height":201},
 		{"id":"ca3c52732e90e667","type":"file","file":"COMPSCI367 - Artificial Intelligence/week10/Entropy (or self-information).md","x":9225,"y":-924,"width":707,"height":400},
 		{"id":"e7f28da489dc136c","type":"file","file":"COMPSCI367 - Artificial Intelligence/week10/H.md","x":10104,"y":-831,"width":400,"height":155},
-		{"id":"da3bb5ab8679ca8e","x":10176,"y":-1324,"width":656,"height":400,"type":"file","file":"COMPSCI367 - Artificial Intelligence/week10/Mutual Information.md"},
-		{"id":"17f5987527f09f69","x":8840,"y":-5138,"width":524,"height":400,"type":"file","file":"COMPSCI367 - Artificial Intelligence/week10/Naïve Bayes - Laplace smoothing.md"}
+		{"id":"da3bb5ab8679ca8e","type":"file","file":"COMPSCI367 - Artificial Intelligence/week10/Mutual Information.md","x":10176,"y":-1324,"width":656,"height":400},
+		{"id":"17f5987527f09f69","type":"file","file":"COMPSCI367 - Artificial Intelligence/week10/Naïve Bayes - Laplace smoothing.md","x":10481,"y":-4720,"width":524,"height":400},
+		{"id":"de2978997fe5539e","type":"file","file":"COMPSCI367 - Artificial Intelligence/week06/Propositional Logic.md","x":5160,"y":-5492,"width":540,"height":354},
+		{"id":"dd235cb94f5d56c9","type":"file","file":"COMPSCI367 - Artificial Intelligence/week07/SLD Resolution (Backward chaining).md","x":6000,"y":-7700,"width":756,"height":605},
+		{"id":"c81b38809b0f01f5","type":"file","file":"COMPSCI367 - Artificial Intelligence/week10/Inverse Document Frequency (idf).md","x":10805,"y":-5303,"width":400,"height":316},
+		{"id":"11061556db905de1","type":"file","file":"COMPSCI367 - Artificial Intelligence/week10/Naïve Bayes classification.md","x":9942,"y":-4611,"width":400,"height":331},
+		{"id":"4f4b509d41f568f3","type":"file","file":"COMPSCI367 - Artificial Intelligence/week10/Natural Language Processing (NLP).md","x":9634,"y":-6640,"width":616,"height":400},
+		{"id":"214f6fcbda415a9a","type":"file","file":"COMPSCI367 - Artificial Intelligence/week10/Shallow NLP.md","x":9346,"y":-6000,"width":596,"height":400},
+		{"id":"6b03e4e73deffd16","type":"file","file":"COMPSCI367 - Artificial Intelligence/week10/Pipelined NLP.md","x":10235,"y":-6000,"width":400,"height":400},
+		{"id":"169d0feb6b8ce658","type":"file","file":"COMPSCI367 - Artificial Intelligence/week10/Information Retrieval (IR).md","x":8964,"y":-5385,"width":680,"height":480},
+		{"id":"1e8abc3e5f5b21a1","x":11482,"y":-4077,"width":400,"height":197,"type":"file","file":"COMPSCI367 - Artificial Intelligence/week10/posterior evidence (posterior probability).md"}
 	],
 	"edges":[
 		{"id":"58761566270d0cbd","fromNode":"483c0f155182fe5d","fromSide":"bottom","toNode":"168ecaded8db3ab0","toSide":"top"},
@@ -268,6 +270,8 @@
 		{"id":"dd4f7f3e0cc9091d","fromNode":"c82ab232314ad0c8","fromSide":"bottom","toNode":"2088076f0e9f4d8a","toSide":"top"},
 		{"id":"1de5f223a20b6520","fromNode":"e551cb89d6e4ada4","fromSide":"bottom","toNode":"96ff3d269306e9ff","toSide":"left"},
 		{"id":"3ed7c68f3bc3058c","fromNode":"da3bb5ab8679ca8e","fromSide":"top","toNode":"612775c72d7ccfc8","toSide":"bottom"},
-		{"id":"2a1f231eb70af5f4","fromNode":"da3bb5ab8679ca8e","fromSide":"top","toNode":"3ecabdc6e8a4c095","toSide":"bottom"}
+		{"id":"2a1f231eb70af5f4","fromNode":"da3bb5ab8679ca8e","fromSide":"top","toNode":"3ecabdc6e8a4c095","toSide":"bottom"},
+		{"id":"2caef97ea9670618","fromNode":"68fa51375f6dbbba","fromSide":"left","toNode":"17f5987527f09f69","toSide":"right"},
+		{"id":"4d0c234294251e46","fromNode":"11061556db905de1","fromSide":"right","toNode":"17f5987527f09f69","toSide":"left"}
 	]
 }
