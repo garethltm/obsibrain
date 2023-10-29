@@ -15,8 +15,8 @@
               "state": {
                 "file": "COMPSCI367 - Artificial Intelligence/finals prep.canvas",
                 "viewState": {
-                  "x": 678.5978358915634,
-                  "y": 1673.4697615990501,
+                  "x": 1652.5455785620425,
+                  "y": -3289.320920409697,
                   "zoom": -1.666666666666666
                 }
               }
@@ -88,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week03/Tree Search.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week05/Adversarial Search.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week03/Tree Search.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week05/Adversarial Search.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week03/Tree Search.md"
+                "file": "COMPSCI367 - Artificial Intelligence/week05/Adversarial Search.md"
               }
             }
           },
