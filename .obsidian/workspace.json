@@ -15,9 +15,9 @@
               "state": {
                 "file": "COMPSCI367 - Artificial Intelligence/finals prep.canvas",
                 "viewState": {
-                  "x": 3581.7434731347894,
-                  "y": -3296.604708272438,
-                  "zoom": -2.666666666666666
+                  "x": 953.9987448973079,
+                  "y": -6158.577422947908,
+                  "zoom": -0.9999999999999996
                 }
               }
             }
@@ -88,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week06/Logic Inference Problem.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week06/model of a propositional KB.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week06/Logic Inference Problem.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week06/model of a propositional KB.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week06/Logic Inference Problem.md"
+                "file": "COMPSCI367 - Artificial Intelligence/week06/model of a propositional KB.md"
               }
             }
           },
@@ -171,12 +171,13 @@
   },
   "active": "2baf3d4d32bda653",
   "lastOpenFiles": [
+    "COMPSCI367 - Artificial Intelligence/week06/model of a propositional KB.md",
+    "COMPSCI367 - Artificial Intelligence/finals prep.canvas",
     "COMPSCI367 - Artificial Intelligence/week09/Backward (Regression) planning.md",
     "COMPSCI367 - Artificial Intelligence/week09/Annotated Disjunction.md",
     "COMPSCI367 - Artificial Intelligence/week09/Logic-based Planning algorithms.md",
     "COMPSCI367 - Artificial Intelligence/week09/Search-based Planning Algorithm.md",
     "COMPSCI367 - Artificial Intelligence/week09/Building a planner.md",
-    "COMPSCI367 - Artificial Intelligence/finals prep.canvas",
     "COMPSCI367 - Artificial Intelligence/week02/Systematic Search.md",
     "COMPSCI367 - Artificial Intelligence/week03/Tree Search.md",
     "COMPSCI367 - Artificial Intelligence/week03/Iterative Deepening A-Star Search (IDA).md",
@@ -197,7 +198,6 @@
     "COMPSCI367 - Artificial Intelligence/week12/The Autonomous Vehicle Dilemma.md",
     "COMPSCI367 - Artificial Intelligence/week12/value of a decision network.md",
     "COMPSCI367 - Artificial Intelligence/week12/Utilitarian theory.md",
-    "COMPSCI367 - Artificial Intelligence/week11/strict preference relation.md",
     "@images/COMPSCI3672022_S2W09Lecture25AIinSociety28129-21.jpg",
     "@images/Pasted image 20231026174833.png",
     "@images/Pasted image 20231026174606.png",

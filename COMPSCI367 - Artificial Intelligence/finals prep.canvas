@@ -1,12 +1,11 @@
 {
 	"nodes":[
 		{"id":"d5adc265cc797e1b","type":"group","x":-2320,"y":-4880,"width":7760,"height":7840,"color":"1","label":"Local Search"},
+		{"id":"09e4ad48cb61d99c","type":"group","x":-640,"y":-7040,"width":2800,"height":1890,"color":"1","label":"week06"},
 		{"id":"b0281d92c82035ae","type":"group","x":-9760,"y":-6240,"width":7080,"height":5035,"label":"Systematic Search"},
 		{"id":"6d2365b44856105f","type":"group","x":10720,"y":2240,"width":3856,"height":3377,"color":"1","label":"week09"},
 		{"id":"b93e599de8588955","type":"group","x":7040,"y":2720,"width":2121,"height":3400,"color":"1","label":"week08"},
-		{"id":"09e4ad48cb61d99c","type":"group","x":5720,"y":-4880,"width":2800,"height":1890,"color":"1","label":"week06"},
 		{"id":"6dbf009026f32e29","type":"group","x":10236,"y":-6560,"width":1960,"height":2080,"color":"1","label":"week07"},
-		{"id":"776f617db4924558","type":"file","file":"COMPSCI367 - Artificial Intelligence/week06/Logic Inference vs Constraint Satisfaction.md","x":5740,"y":-4860,"width":1110,"height":925},
 		{"id":"21c3f5042ad67d16","type":"file","file":"COMPSCI367 - Artificial Intelligence/week08/First-Order Logic Inference.md","x":7960,"y":2740,"width":470,"height":238},
 		{"id":"168ecaded8db3ab0","type":"file","file":"COMPSCI367 - Artificial Intelligence/week08/Grounding.md","x":7060,"y":3440,"width":1080,"height":860},
 		{"id":"b517183b840ad49d","type":"file","file":"COMPSCI367 - Artificial Intelligence/week08/Lifting.md","x":8260,"y":3440,"width":881,"height":228},
@@ -68,14 +67,16 @@
 		{"id":"528743b24317fbca","type":"file","file":"COMPSCI367 - Artificial Intelligence/week04/Stochastic Local Search (SLS).md","x":1920,"y":-4795,"width":678,"height":340},
 		{"id":"778ed930a7d2020d","type":"file","file":"COMPSCI367 - Artificial Intelligence/week03/Stochastic Search.md","x":2390,"y":-2258,"width":520,"height":240},
 		{"id":"b2650430cc548d11","type":"file","file":"COMPSCI367 - Artificial Intelligence/week05/Greedy descent with M random restarts vs Local beam Search.md","x":2281,"y":-2946,"width":959,"height":440},
-		{"id":"70ac12b60ba472e8","x":5758,"y":-3814,"width":537,"height":288,"type":"file","file":"COMPSCI367 - Artificial Intelligence/week06/Equivalence between inference & satisfiability.md"},
-		{"id":"ce771f3c0063fac8","x":6960,"y":-4480,"width":500,"height":320,"type":"file","file":"COMPSCI367 - Artificial Intelligence/week06/Knowledge Base (KB).md"},
-		{"id":"7869f15a756a4b6d","x":7520,"y":-4760,"width":400,"height":400,"type":"file","file":"COMPSCI367 - Artificial Intelligence/week06/Knowledge Representation Language.md"},
-		{"id":"4280e68001b8963f","x":8000,"y":-4760,"width":400,"height":400,"type":"file","file":"COMPSCI367 - Artificial Intelligence/week06/syntax.md"},
-		{"id":"7aa38305b72e704a","x":8000,"y":-4278,"width":400,"height":178,"type":"file","file":"COMPSCI367 - Artificial Intelligence/week06/semantics.md"},
-		{"id":"0d4085108c0afa89","type":"file","file":"COMPSCI367 - Artificial Intelligence/week06/clause(s).md","x":6960,"y":-3600,"width":890,"height":500},
-		{"id":"87676a80d54176c1","type":"file","file":"COMPSCI367 - Artificial Intelligence/week06/Inference engines (IE).md","x":6960,"y":-3960,"width":890,"height":245},
-		{"id":"935c99032e07f35b","x":6360,"y":-3765,"width":400,"height":190,"type":"file","file":"COMPSCI367 - Artificial Intelligence/week06/Logic Inference Problem.md"}
+		{"id":"5adaf225fc6f7645","x":660,"y":-6916,"width":400,"height":400,"type":"file","file":"COMPSCI367 - Artificial Intelligence/week06/model of a propositional KB.md"},
+		{"id":"70ac12b60ba472e8","type":"file","file":"COMPSCI367 - Artificial Intelligence/week06/Equivalence between inference & satisfiability.md","x":-602,"y":-5974,"width":537,"height":288},
+		{"id":"0d4085108c0afa89","type":"file","file":"COMPSCI367 - Artificial Intelligence/week06/clause(s).md","x":600,"y":-5760,"width":890,"height":500},
+		{"id":"87676a80d54176c1","type":"file","file":"COMPSCI367 - Artificial Intelligence/week06/Inference engines (IE).md","x":600,"y":-6120,"width":890,"height":245},
+		{"id":"776f617db4924558","type":"file","file":"COMPSCI367 - Artificial Intelligence/week06/Logic Inference vs Constraint Satisfaction.md","x":-620,"y":-7020,"width":1110,"height":925},
+		{"id":"935c99032e07f35b","type":"file","file":"COMPSCI367 - Artificial Intelligence/week06/Logic Inference Problem.md","x":0,"y":-5925,"width":400,"height":190},
+		{"id":"ce771f3c0063fac8","type":"file","file":"COMPSCI367 - Artificial Intelligence/week06/Knowledge Base (KB).md","x":600,"y":-6640,"width":500,"height":320},
+		{"id":"7869f15a756a4b6d","type":"file","file":"COMPSCI367 - Artificial Intelligence/week06/Knowledge Representation Language.md","x":1160,"y":-6920,"width":400,"height":400},
+		{"id":"4280e68001b8963f","type":"file","file":"COMPSCI367 - Artificial Intelligence/week06/syntax.md","x":1640,"y":-6920,"width":400,"height":400},
+		{"id":"7aa38305b72e704a","type":"file","file":"COMPSCI367 - Artificial Intelligence/week06/semantics.md","x":1640,"y":-6438,"width":400,"height":178}
 	],
 	"edges":[
 		{"id":"58761566270d0cbd","fromNode":"21c3f5042ad67d16","fromSide":"bottom","toNode":"168ecaded8db3ab0","toSide":"top"},
