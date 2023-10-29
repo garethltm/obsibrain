@@ -11,11 +11,14 @@
             "id": "2baf3d4d32bda653",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week08/First-Order Formulas.md",
-                "mode": "source",
-                "source": false
+                "file": "COMPSCI367 - Artificial Intelligence/finals prep.canvas",
+                "viewState": {
+                  "x": 7941.977511759955,
+                  "y": -5936.5013280390485,
+                  "zoom": 3.3306690738754696e-16
+                }
               }
             }
           }
@@ -85,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week08/First-Order Formulas.md",
+                "file": "COMPSCI367 - Artificial Intelligence/finals prep.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week08/First-Order Formulas.md",
+                "file": "COMPSCI367 - Artificial Intelligence/finals prep.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week08/First-Order Formulas.md"
+                "file": "COMPSCI367 - Artificial Intelligence/finals prep.canvas"
               }
             }
           },
@@ -168,6 +171,7 @@
   },
   "active": "2baf3d4d32bda653",
   "lastOpenFiles": [
+    "COMPSCI367 - Artificial Intelligence/week08/First-Order Formulas.md",
     "COMPSCI367 - Artificial Intelligence/finals prep.canvas",
     "COMPSCI367 - Artificial Intelligence/week08/First-Order Logic.md",
     "COMPSCI367 - Artificial Intelligence/week04/Greedy Descent.md",
@@ -184,7 +188,6 @@
     "COMPSCI367 - Artificial Intelligence/week08/First-Order Logic Inference.md",
     "COMPSCI367 - Artificial Intelligence/week08/First-Order KB.md",
     "COMPSCI367 - Artificial Intelligence/week08/First-Order Interpretation.md",
-    "COMPSCI367 - Artificial Intelligence/week08/First-Order Formulas.md",
     "COMPSCI367 - Artificial Intelligence/week08/Existential quantification.md",
     "COMPSCI367 - Artificial Intelligence/week08/Domain-closure assumption.md",
     "COMPSCI367 - Artificial Intelligence/week08/Closed world assumption.md",
