@@ -4,7 +4,6 @@
 		{"id":"09e4ad48cb61d99c","type":"group","x":-2400,"y":-12120,"width":8480,"height":6920,"color":"1","label":"Logic"},
 		{"id":"b0281d92c82035ae","type":"group","x":-9760,"y":-6240,"width":7080,"height":5035,"label":"Systematic Search"},
 		{"id":"6d2365b44856105f","type":"group","x":7040,"y":-2648,"width":3856,"height":3377,"color":"1","label":"week09"},
-		{"id":"7aa38305b72e704a","type":"file","file":"COMPSCI367 - Artificial Intelligence/week06/semantics.md","x":461,"y":-7119,"width":400,"height":178},
 		{"id":"935c99032e07f35b","type":"file","file":"COMPSCI367 - Artificial Intelligence/week06/Logic Inference Problem.md","x":-1231,"y":-6925,"width":400,"height":190},
 		{"id":"21c3f5042ad67d16","type":"file","file":"COMPSCI367 - Artificial Intelligence/week08/First-Order Logic Inference.md","x":2055,"y":-10880,"width":470,"height":238},
 		{"id":"0d4085108c0afa89","type":"file","file":"COMPSCI367 - Artificial Intelligence/week06/clause(s).md","x":2350,"y":-7720,"width":890,"height":500},
@@ -88,10 +87,11 @@
 		{"id":"1f53223437edcd0e","type":"file","file":"COMPSCI367 - Artificial Intelligence/week09/Backward (Regression) planning.md","x":7981,"y":-272,"width":1280,"height":662},
 		{"id":"7f23af8e914af1e0","type":"file","file":"COMPSCI367 - Artificial Intelligence/week08/Herbrand's Theorem.md","x":160,"y":-9320,"width":898,"height":253},
 		{"id":"b6f512ea706ca387","type":"file","file":"COMPSCI367 - Artificial Intelligence/week08/Generalised Modus Ponens (GMP).md","x":4040,"y":-10034,"width":400,"height":213},
-		{"id":"483c0f155182fe5d","x":2504,"y":-10166,"width":400,"height":206,"type":"file","file":"COMPSCI367 - Artificial Intelligence/week08/Propositionalization.md"}
+		{"id":"7aa38305b72e704a","type":"file","file":"COMPSCI367 - Artificial Intelligence/week06/semantics.md","x":461,"y":-7119,"width":400,"height":178},
+		{"id":"483c0f155182fe5d","x":1800,"y":-10440,"width":400,"height":206,"type":"file","file":"COMPSCI367 - Artificial Intelligence/week08/Propositionalization.md"}
 	],
 	"edges":[
-		{"id":"58761566270d0cbd","fromNode":"21c3f5042ad67d16","fromSide":"bottom","toNode":"168ecaded8db3ab0","toSide":"top"},
+		{"id":"58761566270d0cbd","fromNode":"483c0f155182fe5d","fromSide":"bottom","toNode":"168ecaded8db3ab0","toSide":"top"},
 		{"id":"93219d2fbc391d46","fromNode":"21c3f5042ad67d16","fromSide":"bottom","toNode":"b517183b840ad49d","toSide":"top"},
 		{"id":"08fd404d9c2a84d0","fromNode":"a0f7e424afa1db31","fromSide":"bottom","toNode":"b5726b70f90d8563","toSide":"top"},
 		{"id":"2754d0cfffc20b88","fromNode":"a0f7e424afa1db31","fromSide":"bottom","toNode":"fc2554959ad9e7c2","toSide":"top"},
@@ -173,6 +173,7 @@
 		{"id":"f85d1d310b863751","fromNode":"795e78e6e19e6267","fromSide":"bottom","toNode":"21c3f5042ad67d16","toSide":"top"},
 		{"id":"b72e19495c41e8ea","fromNode":"795e78e6e19e6267","fromSide":"right","toNode":"c0e39f305fedaef3","toSide":"left"},
 		{"id":"e10cf6f95f4c2b8a","fromNode":"168ecaded8db3ab0","fromSide":"left","toNode":"7f23af8e914af1e0","toSide":"top"},
-		{"id":"3445ead25e10c19e","fromNode":"b517183b840ad49d","fromSide":"right","toNode":"b6f512ea706ca387","toSide":"left"}
+		{"id":"3445ead25e10c19e","fromNode":"b517183b840ad49d","fromSide":"right","toNode":"b6f512ea706ca387","toSide":"left"},
+		{"id":"066312d1f6895462","fromNode":"21c3f5042ad67d16","fromSide":"bottom","toNode":"483c0f155182fe5d","toSide":"top"}
 	]
 }
