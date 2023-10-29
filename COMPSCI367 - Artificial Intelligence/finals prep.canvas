@@ -8,7 +8,6 @@
 		{"id":"776f617db4924558","type":"file","file":"COMPSCI367 - Artificial Intelligence/week06/Logic Inference vs Constraint Satisfaction.md","x":1580,"y":-1470,"width":1110,"height":760},
 		{"id":"87676a80d54176c1","type":"file","file":"COMPSCI367 - Artificial Intelligence/week06/Inference engines (IE).md","x":1580,"y":-590,"width":890,"height":245},
 		{"id":"726c94a8f89cf520","type":"file","file":"COMPSCI367 - Artificial Intelligence/week07/SLD Resolution (Backward chaining).md","x":2900,"y":-1470,"width":840,"height":1920},
-		{"id":"e5e76957efe5bbbf","type":"file","file":"COMPSCI367 - Artificial Intelligence/week05/Local beam Search.md","x":220,"y":-900,"width":1120,"height":840},
 		{"id":"0d4085108c0afa89","type":"file","file":"COMPSCI367 - Artificial Intelligence/week06/clause(s).md","x":1580,"y":-280,"width":890,"height":500},
 		{"id":"3f6a4b7a12420b88","type":"file","file":"COMPSCI367 - Artificial Intelligence/week07/Forward Chaining.md","x":3860,"y":-1470,"width":960,"height":1500},
 		{"id":"3aad0f3398894130","type":"file","file":"COMPSCI367 - Artificial Intelligence/week07/Modus Ponens (MP).md","x":3860,"y":110,"width":900,"height":400},
@@ -26,7 +25,6 @@
 		{"id":"3c050c5af3bc6673","type":"file","file":"COMPSCI367 - Artificial Intelligence/week09/First Order Bayes Nets.md","x":8466,"y":-940,"width":780,"height":230},
 		{"id":"1f53223437edcd0e","type":"file","file":"COMPSCI367 - Artificial Intelligence/week09/Backward (Regression) planning.md","x":8301,"y":886,"width":1280,"height":662},
 		{"id":"c4c577cbd367351e","type":"file","file":"COMPSCI367 - Artificial Intelligence/week09/TranslateToSAT.md","x":10206,"y":-1155,"width":680,"height":430},
-		{"id":"b96022ab55337dfc","type":"file","file":"COMPSCI367 - Artificial Intelligence/week02/Greedy (Best-First) Search.md","x":-6920,"y":-1520,"width":680,"height":1281},
 		{"id":"143c9b842b12e844","type":"file","file":"COMPSCI367 - Artificial Intelligence/week02/Informed Search.md","x":-6800,"y":-2559,"width":1000,"height":839},
 		{"id":"007a7c191eace211","type":"file","file":"COMPSCI367 - Artificial Intelligence/week02/heuristic(s).md","x":-5720,"y":-2559,"width":560,"height":400},
 		{"id":"943b888d61bee2c0","type":"file","file":"COMPSCI367 - Artificial Intelligence/week02/Informed Search Heuristic.md","x":-5720,"y":-2080,"width":680,"height":320},
@@ -36,9 +34,12 @@
 		{"id":"0f8e8374f8203bf6","type":"text","text":"### Summary\n- [[Population-based Search]] conducts search by maintaining & updating a collection of [[candidate solution]]\n- [[Local beam Search]] is an adaptation of [[Iterative Best Improvement (IBI)]] by maintaining M > 1 [[candidate solution]]\n- [[Stochastic Beam Search (SBS)]] aims to avoid [[Local beam Search]] concentration on a narrow [[path(s)]] by using [[Boltzmann distribution]]\n#### Framework\n- [[Genetic Algorithm (GA)]] maintains a [[population]] of [[candidate solution]]\n- Chromosomes are representations of [[candidate solution]] that determines [[fitness]]\n- [[crossover operation]] & [[mutation operation]] for generating offsprings","x":-860,"y":-1470,"width":825,"height":430,"color":"1"},
 		{"id":"454a575947cab4cd","type":"file","file":"COMPSCI367 - Artificial Intelligence/week02/Depth-Limited Search (DLS).md","x":-2360,"y":-1561,"width":900,"height":1081},
 		{"id":"c79ca9edda2270c6","type":"file","file":"COMPSCI367 - Artificial Intelligence/week02/Depth-First Search (DFS).md","x":-4220,"y":-1561,"width":860,"height":1921},
-		{"id":"f2079ce2321ffa76","x":-2400,"y":-3895,"width":1162,"height":2074,"type":"file","file":"COMPSCI367 - Artificial Intelligence/week02/Uniform-Cost Search (UCS) (Lowest-Cost-First Search).md"},
-		{"id":"efb5b101b707718b","type":"file","file":"COMPSCI367 - Artificial Intelligence/week02/Uninformed Search.md","x":-3553,"y":-4000,"width":980,"height":998},
-		{"id":"63d33bce851a4a99","type":"file","file":"COMPSCI367 - Artificial Intelligence/week02/Iterative-Deepening Search (IDS).md","x":-3360,"y":-2760,"width":787,"height":898}
+		{"id":"63d33bce851a4a99","type":"file","file":"COMPSCI367 - Artificial Intelligence/week02/Iterative-Deepening Search (IDS).md","x":-3360,"y":-2760,"width":787,"height":898},
+		{"id":"efb5b101b707718b","type":"file","file":"COMPSCI367 - Artificial Intelligence/week02/Uninformed Search.md","x":-3456,"y":-3895,"width":980,"height":998},
+		{"id":"e5e76957efe5bbbf","type":"file","file":"COMPSCI367 - Artificial Intelligence/week05/Local beam Search.md","x":220,"y":-900,"width":1120,"height":840},
+		{"id":"f2079ce2321ffa76","type":"file","file":"COMPSCI367 - Artificial Intelligence/week02/Uniform-Cost Search (UCS) (Lowest-Cost-First Search).md","x":-2280,"y":-3895,"width":1162,"height":2074},
+		{"id":"b96022ab55337dfc","type":"file","file":"COMPSCI367 - Artificial Intelligence/week02/Greedy (Best-First) Search.md","x":-6800,"y":-1540,"width":680,"height":1281},
+		{"id":"74c0acc3deeb1a71","type":"file","file":"COMPSCI367 - Artificial Intelligence/week02/A-Star Search.md","x":-7680,"y":-2139,"width":640,"height":3360}
 	],
 	"edges":[
 		{"id":"58761566270d0cbd","fromNode":"21c3f5042ad67d16","fromSide":"bottom","toNode":"168ecaded8db3ab0","toSide":"top"},
@@ -54,6 +55,7 @@
 		{"id":"377675cfd034141e","fromNode":"63d33bce851a4a99","fromSide":"bottom","toNode":"ebe9a962df6e0106","toSide":"top"},
 		{"id":"6cbd8b0e78eef568","fromNode":"63d33bce851a4a99","fromSide":"bottom","toNode":"c79ca9edda2270c6","toSide":"top"},
 		{"id":"5c3f926101522651","fromNode":"efb5b101b707718b","fromSide":"right","toNode":"f2079ce2321ffa76","toSide":"left"},
-		{"id":"7f3d843c8362a71a","fromNode":"efb5b101b707718b","fromSide":"bottom","toNode":"63d33bce851a4a99","toSide":"top"}
+		{"id":"7f3d843c8362a71a","fromNode":"efb5b101b707718b","fromSide":"bottom","toNode":"63d33bce851a4a99","toSide":"top"},
+		{"id":"48ea6caf52bf883d","fromNode":"143c9b842b12e844","fromSide":"left","toNode":"74c0acc3deeb1a71","toSide":"top"}
 	]
 }

@@ -15,9 +15,9 @@
               "state": {
                 "file": "COMPSCI367 - Artificial Intelligence/finals prep.canvas",
                 "viewState": {
-                  "x": -3036.6391923873657,
-                  "y": -2277.501284375186,
-                  "zoom": -1.4110274618479646
+                  "x": -6259.879898619945,
+                  "y": -1798.0796188452164,
+                  "zoom": -1.0776941285146313
                 }
               }
             }
@@ -88,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week02/Iterative-Deepening Search (IDS).md",
+                "file": "COMPSCI367 - Artificial Intelligence/week02/A-Star Search.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week02/Iterative-Deepening Search (IDS).md",
+                "file": "COMPSCI367 - Artificial Intelligence/week02/A-Star Search.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week02/Iterative-Deepening Search (IDS).md"
+                "file": "COMPSCI367 - Artificial Intelligence/week02/A-Star Search.md"
               }
             }
           },
