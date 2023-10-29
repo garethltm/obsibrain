@@ -15,9 +15,9 @@
               "state": {
                 "file": "COMPSCI367 - Artificial Intelligence/finals prep.canvas",
                 "viewState": {
-                  "x": -3545.212269600205,
-                  "y": -2004.1882977585553,
-                  "zoom": -0.744360795181298
+                  "x": -3036.6391923873657,
+                  "y": -2277.501284375186,
+                  "zoom": -1.4110274618479646
                 }
               }
             }
@@ -88,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week02/Uniform-Cost Search (UCS) (Lowest-Cost-First Search).md",
+                "file": "COMPSCI367 - Artificial Intelligence/week02/Iterative-Deepening Search (IDS).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week02/Uniform-Cost Search (UCS) (Lowest-Cost-First Search).md",
+                "file": "COMPSCI367 - Artificial Intelligence/week02/Iterative-Deepening Search (IDS).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week02/Uniform-Cost Search (UCS) (Lowest-Cost-First Search).md"
+                "file": "COMPSCI367 - Artificial Intelligence/week02/Iterative-Deepening Search (IDS).md"
               }
             }
           },
