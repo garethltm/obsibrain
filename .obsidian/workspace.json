@@ -15,8 +15,8 @@
               "state": {
                 "file": "COMPSCI367 - Artificial Intelligence/finals prep.canvas",
                 "viewState": {
-                  "x": 3447.4816313791844,
-                  "y": -6407.438618445441,
+                  "x": 2189.5142163216606,
+                  "y": -6688.751513382234,
                   "zoom": -1.666666666666666
                 }
               }
@@ -89,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week07/Definite Clause Inference Engine.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week06/Knowledge Base (KB).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week07/Definite Clause Inference Engine.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week06/Knowledge Base (KB).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week07/Definite Clause Inference Engine.md"
+                "file": "COMPSCI367 - Artificial Intelligence/week06/Knowledge Base (KB).md"
               }
             }
           },
