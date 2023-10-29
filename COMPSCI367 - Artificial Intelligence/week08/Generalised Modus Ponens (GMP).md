@@ -1,1 +1,3 @@
-- Idea of substituting constants into variables - [[Unification]] 
+- Idea of substituting constants into variables 
+
+Related to: [[Unification]] 
