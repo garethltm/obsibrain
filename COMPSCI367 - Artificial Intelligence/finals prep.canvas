@@ -2,7 +2,7 @@
 	"nodes":[
 		{"id":"d5adc265cc797e1b","type":"group","x":-2320,"y":-4880,"width":7760,"height":7840,"color":"1","label":"Local Search"},
 		{"id":"b0281d92c82035ae","type":"group","x":-9760,"y":-6240,"width":7080,"height":5035,"label":"Systematic Search"},
-		{"id":"09e4ad48cb61d99c","type":"group","x":-2680,"y":-8520,"width":8760,"height":3320,"color":"1","label":"week06"},
+		{"id":"09e4ad48cb61d99c","type":"group","x":-2400,"y":-8520,"width":8480,"height":3320,"color":"1","label":"week06"},
 		{"id":"6d2365b44856105f","type":"group","x":10720,"y":2240,"width":3856,"height":3377,"color":"1","label":"week09"},
 		{"id":"b93e599de8588955","type":"group","x":7040,"y":2720,"width":2121,"height":3400,"color":"1","label":"week08"},
 		{"id":"6dbf009026f32e29","type":"group","x":10236,"y":-6560,"width":1960,"height":2080,"color":"1","label":"week07"},
@@ -80,11 +80,11 @@
 		{"id":"dd235cb94f5d56c9","type":"file","file":"COMPSCI367 - Artificial Intelligence/week07/SLD Resolution (Backward chaining).md","x":3440,"y":-7340,"width":756,"height":400},
 		{"id":"0d4085108c0afa89","type":"file","file":"COMPSCI367 - Artificial Intelligence/week06/clause(s).md","x":2350,"y":-7720,"width":890,"height":500},
 		{"id":"ff91f131b5cd7f7d","type":"file","file":"COMPSCI367 - Artificial Intelligence/week07/Forward Chaining.md","x":3440,"y":-7892,"width":775,"height":422},
-		{"id":"776f617db4924558","type":"file","file":"COMPSCI367 - Artificial Intelligence/week06/Logic Inference vs Constraint Satisfaction.md","x":-1318,"y":-8525,"width":1110,"height":925},
-		{"id":"2bf31c7bc0b7d4ff","x":-52,"y":-8262,"width":913,"height":400,"type":"file","file":"COMPSCI367 - Artificial Intelligence/week06/SAT solvers.md"},
-		{"id":"ec6c6b03423f7c6b","type":"file","file":"COMPSCI367 - Artificial Intelligence/week06/Satisfiability Problem (SAT).md","x":-1898,"y":-7567,"width":580,"height":560},
-		{"id":"935c99032e07f35b","type":"file","file":"COMPSCI367 - Artificial Intelligence/week06/Logic Inference Problem.md","x":-963,"y":-7119,"width":400,"height":190},
-		{"id":"70ac12b60ba472e8","type":"file","file":"COMPSCI367 - Artificial Intelligence/week06/Equivalence between inference & satisfiability.md","x":-1031,"y":-5946,"width":537,"height":288}
+		{"id":"935c99032e07f35b","type":"file","file":"COMPSCI367 - Artificial Intelligence/week06/Logic Inference Problem.md","x":-1231,"y":-6925,"width":400,"height":190},
+		{"id":"ec6c6b03423f7c6b","type":"file","file":"COMPSCI367 - Artificial Intelligence/week06/Satisfiability Problem (SAT).md","x":-632,"y":-7410,"width":580,"height":560},
+		{"id":"776f617db4924558","type":"file","file":"COMPSCI367 - Artificial Intelligence/week06/Logic Inference vs Constraint Satisfaction.md","x":-1872,"y":-8324,"width":1110,"height":925},
+		{"id":"2bf31c7bc0b7d4ff","x":5,"y":-8120,"width":913,"height":400,"type":"file","file":"COMPSCI367 - Artificial Intelligence/week06/SAT solvers.md"},
+		{"id":"70ac12b60ba472e8","type":"file","file":"COMPSCI367 - Artificial Intelligence/week06/Equivalence between inference & satisfiability.md","x":-1299,"y":-6185,"width":537,"height":288}
 	],
 	"edges":[
 		{"id":"58761566270d0cbd","fromNode":"21c3f5042ad67d16","fromSide":"bottom","toNode":"168ecaded8db3ab0","toSide":"top"},
@@ -141,7 +141,7 @@
 		{"id":"bbdeab998a0ab92d","fromNode":"b2650430cc548d11","fromSide":"right","toNode":"e5e76957efe5bbbf","toSide":"bottom"},
 		{"id":"914acb7c7da45ac5","fromNode":"fbcde72febcf2aa2","fromSide":"right","toNode":"e5e76957efe5bbbf","toSide":"left"},
 		{"id":"35b30290865efce0","fromNode":"935c99032e07f35b","fromSide":"bottom","toNode":"70ac12b60ba472e8","toSide":"top"},
-		{"id":"7fadfca060d4611a","fromNode":"935c99032e07f35b","fromSide":"left","toNode":"ec6c6b03423f7c6b","toSide":"right"},
+		{"id":"7fadfca060d4611a","fromNode":"935c99032e07f35b","fromSide":"right","toNode":"ec6c6b03423f7c6b","toSide":"left"},
 		{"id":"4b588ba49ed132ac","fromNode":"776f617db4924558","fromSide":"bottom","toNode":"935c99032e07f35b","toSide":"top"},
 		{"id":"167248e707b56c98","fromNode":"ce771f3c0063fac8","fromSide":"bottom","toNode":"87676a80d54176c1","toSide":"top"},
 		{"id":"dbd5a94dc677fa85","fromNode":"ce771f3c0063fac8","fromSide":"top","toNode":"f378d6a63b5303bb","toSide":"bottom"},
@@ -156,6 +156,8 @@
 		{"id":"3d0cccde30d803b2","fromNode":"0d4085108c0afa89","fromSide":"right","toNode":"ff91f131b5cd7f7d","toSide":"left"},
 		{"id":"2ecd942ca26496a3","fromNode":"0d4085108c0afa89","fromSide":"right","toNode":"dd235cb94f5d56c9","toSide":"left"},
 		{"id":"3be7eea04a3c5389","fromNode":"f378d6a63b5303bb","fromSide":"top","toNode":"0d4085108c0afa89","toSide":"left"},
-		{"id":"c9114141409c2e26","fromNode":"2bf31c7bc0b7d4ff","fromSide":"right","toNode":"f378d6a63b5303bb","toSide":"top"}
+		{"id":"c9114141409c2e26","fromNode":"2bf31c7bc0b7d4ff","fromSide":"right","toNode":"f378d6a63b5303bb","toSide":"top"},
+		{"id":"8a13703a29942e55","fromNode":"ec6c6b03423f7c6b","fromSide":"top","toNode":"2bf31c7bc0b7d4ff","toSide":"left"},
+		{"id":"282d57c36b031372","fromNode":"70ac12b60ba472e8","fromSide":"bottom","toNode":"34429815292abef0","toSide":"top"}
 	]
 }

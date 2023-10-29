@@ -11,14 +11,11 @@
             "id": "2baf3d4d32bda653",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/finals prep.canvas",
-                "viewState": {
-                  "x": 201.45822331738384,
-                  "y": -6445.619706736533,
-                  "zoom": -1.666666666666666
-                }
+                "file": "COMPSCI367 - Artificial Intelligence/week07/Modus Ponens (MP).md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -88,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/finals prep.canvas",
+                "file": "COMPSCI367 - Artificial Intelligence/week07/Modus Ponens (MP).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/finals prep.canvas",
+                "file": "COMPSCI367 - Artificial Intelligence/week07/Modus Ponens (MP).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/finals prep.canvas"
+                "file": "COMPSCI367 - Artificial Intelligence/week07/Modus Ponens (MP).md"
               }
             }
           },
@@ -171,11 +168,16 @@
   },
   "active": "2baf3d4d32bda653",
   "lastOpenFiles": [
+    "COMPSCI367 - Artificial Intelligence/week07/Low expresiveness.md",
+    "COMPSCI367 - Artificial Intelligence/week07/Human languages are complex.md",
+    "COMPSCI367 - Artificial Intelligence/week07/entails.md",
     "COMPSCI367 - Artificial Intelligence/week07/Definite Clause Inference Engine.md",
     "COMPSCI367 - Artificial Intelligence/week07/Definite clause.md",
-    "COMPSCI367 - Artificial Intelligence/week06/clause(s).md",
-    "COMPSCI367 - Artificial Intelligence/finals prep.canvas",
+    "COMPSCI367 - Artificial Intelligence/week07/Compositional.md",
+    "COMPSCI367 - Artificial Intelligence/week07/Completeness.md",
     "COMPSCI367 - Artificial Intelligence/week06/Wumpus World Agent.md",
+    "COMPSCI367 - Artificial Intelligence/finals prep.canvas",
+    "COMPSCI367 - Artificial Intelligence/week06/clause(s).md",
     "COMPSCI367 - Artificial Intelligence/week06/Truth table.md",
     "COMPSCI367 - Artificial Intelligence/week06/syntax.md",
     "COMPSCI367 - Artificial Intelligence/week06/Structured Representation.md",
@@ -193,11 +195,6 @@
     "COMPSCI367 - Artificial Intelligence/week03/Tree Search.md",
     "COMPSCI367 - Artificial Intelligence/week03/Iterative Deepening A-Star Search (IDA).md",
     "COMPSCI367 - Artificial Intelligence/week03/Iterative Improvement.md",
-    "COMPSCI367 - Artificial Intelligence/week02/Optimal.md",
-    "COMPSCI367 - Artificial Intelligence/week12/Chance nodes.md",
-    "COMPSCI367 - Artificial Intelligence/week12/Decision network.md",
-    "COMPSCI367 - Artificial Intelligence/week12/Decision function.md",
-    "COMPSCI367 - Artificial Intelligence/Deontologist theory.md",
     "@images/COMPSCI3672022_S2W09Lecture25AIinSociety28129-21.jpg",
     "@images/Pasted image 20231026174833.png",
     "@images/Pasted image 20231026174606.png",
