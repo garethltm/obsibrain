@@ -15,9 +15,9 @@
               "state": {
                 "file": "COMPSCI367 - Artificial Intelligence/finals prep.canvas",
                 "viewState": {
-                  "x": 2634.187931754787,
-                  "y": -6974.687416624909,
-                  "zoom": -0.6666666666666663
+                  "x": 2173.3562783740563,
+                  "y": -6457.2724453550945,
+                  "zoom": -0.9999999999999996
                 }
               }
             }
@@ -88,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week06/Propositional Logic.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week07/Definite Clause Inference Engine.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week06/Propositional Logic.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week07/Definite Clause Inference Engine.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week06/Propositional Logic.md"
+                "file": "COMPSCI367 - Artificial Intelligence/week07/Definite Clause Inference Engine.md"
               }
             }
           },
