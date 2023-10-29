@@ -1,7 +1,7 @@
 {
 	"nodes":[
-		{"id":"d5adc265cc797e1b","type":"group","x":-2320,"y":-4880,"width":7760,"height":7840,"color":"1","label":"week05"},
-		{"id":"b0281d92c82035ae","type":"group","x":-9760,"y":-6240,"width":7080,"height":5035,"label":"week02"},
+		{"id":"d5adc265cc797e1b","type":"group","x":-2320,"y":-4880,"width":7760,"height":7840,"color":"1","label":"Local Search"},
+		{"id":"b0281d92c82035ae","type":"group","x":-9760,"y":-6240,"width":7080,"height":5035,"label":"Systematic Search"},
 		{"id":"6d2365b44856105f","type":"group","x":10720,"y":2240,"width":3856,"height":3377,"color":"1","label":"week09"},
 		{"id":"b93e599de8588955","type":"group","x":4960,"y":3680,"width":2121,"height":3400,"color":"1","label":"week08"},
 		{"id":"6dbf009026f32e29","type":"group","x":10236,"y":-6560,"width":1960,"height":2080,"color":"1","label":"week07"},
