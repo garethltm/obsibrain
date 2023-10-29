@@ -25,6 +25,6 @@ General-purpose methods can give huge gains in speed:
 - Can we detect inevitable failure early?
 #### Approaches:
 1. [[Minimum Remaining Values (MRV)]]
-2. [[Least Constrainting Value]]
+2. [[Least Constraining Value]]
 3. [[Forward Checking]]
 4. [[Variable Elimination]]]
