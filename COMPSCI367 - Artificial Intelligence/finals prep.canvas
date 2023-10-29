@@ -44,7 +44,6 @@
 		{"id":"838258289ddf421e","type":"file","file":"COMPSCI367 - Artificial Intelligence/week03/Backtracking Search.md","x":-479,"y":-2160,"width":1046,"height":2040},
 		{"id":"9ff4623e382f0278","type":"file","file":"COMPSCI367 - Artificial Intelligence/week03/Forward Checking.md","x":367,"y":240,"width":833,"height":2280},
 		{"id":"fbcde72febcf2aa2","type":"file","file":"COMPSCI367 - Artificial Intelligence/week05/Population-based Search.md","x":2320,"y":-4080,"width":960,"height":1040},
-		{"id":"778ed930a7d2020d","type":"file","file":"COMPSCI367 - Artificial Intelligence/week03/Stochastic Search.md","x":2360,"y":-2800,"width":520,"height":240},
 		{"id":"0f8e8374f8203bf6","type":"text","text":"### Summary\n- [[Population-based Search]] conducts search by maintaining & updating a collection of [[candidate solution]]\n- [[Local beam Search]] is an adaptation of [[Iterative Best Improvement (IBI)]] by maintaining M > 1 [[candidate solution]]\n- [[Stochastic Beam Search (SBS)]] aims to avoid [[Local beam Search]] concentration on a narrow [[path(s)]] by using [[Boltzmann distribution]]\n#### Framework\n- [[Genetic Algorithm (GA)]] maintains a [[population]] of [[candidate solution]]\n- Chromosomes are representations of [[candidate solution]] that determines [[fitness]]\n- [[crossover operation]] & [[mutation operation]] for generating offsprings","x":2680,"y":-4840,"width":825,"height":430,"color":"1"},
 		{"id":"e5e76957efe5bbbf","type":"file","file":"COMPSCI367 - Artificial Intelligence/week05/Local beam Search.md","x":3360,"y":-4080,"width":1120,"height":1040},
 		{"id":"7e5cf4ff1071e8f9","type":"file","file":"COMPSCI367 - Artificial Intelligence/week03/Minimum Remaining Values (MRV).md","x":-1440,"y":240,"width":680,"height":600},
@@ -58,12 +57,14 @@
 		{"id":"1565f3fa00bb00bc","x":4600,"y":-3279,"width":400,"height":239,"type":"file","file":"COMPSCI367 - Artificial Intelligence/week05/Adversarial Search.md"},
 		{"id":"a2bdab967b9d4ab3","x":4560,"y":-4840,"width":640,"height":585,"type":"file","file":"COMPSCI367 - Artificial Intelligence/week05/Genetic Algorithm (GA).md"},
 		{"id":"a2c6291e17219496","x":1120,"y":-2660,"width":720,"height":200,"type":"text","text":"## Summary\n- [[Hill-Climbing]] - choose best child\n- [[Hill-Climbing with side-way moves]] - choose best or equal child\n- [[Enforced Hill-Climbing]] - use [[Breadth-First Search (BFS)]] until you find a \"better\" node\n- [[Tabu Search]] - keeps a [[Tabu list]] of nodes you have been to & don't go back"},
-		{"id":"ec5a24935e85a435","x":704,"y":-2160,"width":796,"height":725,"type":"file","file":"COMPSCI367 - Artificial Intelligence/week04/Hill-Climbing.md"},
-		{"id":"f8db50f824a6d73a","x":1560,"y":-2160,"width":882,"height":658,"type":"file","file":"COMPSCI367 - Artificial Intelligence/week04/Hill-Climbing with side-way moves.md"},
-		{"id":"9ffafe470f394e19","x":2480,"y":-2160,"width":860,"height":1200,"type":"file","file":"COMPSCI367 - Artificial Intelligence/week04/Enforced Hill-Climbing.md"},
-		{"id":"fd0f4e70e58a04ea","x":3400,"y":-2160,"width":800,"height":600,"type":"file","file":"COMPSCI367 - Artificial Intelligence/week04/Tabu Search.md"},
-		{"id":"b3b17a63e58a3969","x":3500,"y":-2946,"width":840,"height":300,"type":"file","file":"COMPSCI367 - Artificial Intelligence/week04/First Choice Hill-Climbing.md"},
-		{"id":"d49ce6caecaf544b","x":3400,"y":-2560,"width":760,"height":280,"type":"file","file":"COMPSCI367 - Artificial Intelligence/week04/Stochastic Hill-Climbing.md"}
+		{"id":"778ed930a7d2020d","type":"file","file":"COMPSCI367 - Artificial Intelligence/week03/Stochastic Search.md","x":2490,"y":-2520,"width":520,"height":240},
+		{"id":"b3b17a63e58a3969","x":3920,"y":-2946,"width":840,"height":300,"type":"file","file":"COMPSCI367 - Artificial Intelligence/week04/First Choice Hill-Climbing.md"},
+		{"id":"ec5a24935e85a435","x":684,"y":-1000,"width":796,"height":725,"type":"file","file":"COMPSCI367 - Artificial Intelligence/week04/Hill-Climbing.md"},
+		{"id":"f8db50f824a6d73a","x":1399,"y":-1797,"width":882,"height":658,"type":"file","file":"COMPSCI367 - Artificial Intelligence/week04/Hill-Climbing with side-way moves.md"},
+		{"id":"9ffafe470f394e19","x":2420,"y":-1400,"width":860,"height":1200,"type":"file","file":"COMPSCI367 - Artificial Intelligence/week04/Enforced Hill-Climbing.md"},
+		{"id":"fd0f4e70e58a04ea","x":3440,"y":-1400,"width":800,"height":600,"type":"file","file":"COMPSCI367 - Artificial Intelligence/week04/Tabu Search.md"},
+		{"id":"d49ce6caecaf544b","x":3920,"y":-2560,"width":760,"height":280,"type":"file","file":"COMPSCI367 - Artificial Intelligence/week04/Stochastic Hill-Climbing.md"},
+		{"id":"725b870b52b50343","x":3920,"y":-2197,"width":400,"height":400,"type":"file","file":"COMPSCI367 - Artificial Intelligence/week04/Random Walk Hill-Climbing.md"}
 	],
 	"edges":[
 		{"id":"58761566270d0cbd","fromNode":"21c3f5042ad67d16","fromSide":"bottom","toNode":"168ecaded8db3ab0","toSide":"top"},
