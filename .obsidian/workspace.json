@@ -15,8 +15,8 @@
               "state": {
                 "file": "COMPSCI367 - Artificial Intelligence/finals prep.canvas",
                 "viewState": {
-                  "x": 10735.849003157555,
-                  "y": -3722.6809222105867,
+                  "x": 9497.640296073045,
+                  "y": -2574.2553723464393,
                   "zoom": -1.9999999999999993
                 }
               }
@@ -88,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week10/Law of total probability.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week10/Mutual Information.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week10/Law of total probability.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week10/Mutual Information.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week10/Law of total probability.md"
+                "file": "COMPSCI367 - Artificial Intelligence/week10/Mutual Information.md"
               }
             }
           },
@@ -156,7 +156,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week10/Law of total probability.md"
+                "file": "COMPSCI367 - Artificial Intelligence/week10/Mutual Information.md"
               }
             }
           }
@@ -181,8 +181,9 @@
   },
   "active": "766f3d6bf8798b3a",
   "lastOpenFiles": [
-    "COMPSCI367 - Artificial Intelligence/week12/Lethal Autonomous Weapon.md",
+    "COMPSCI367 - Artificial Intelligence/week10/Modern Problems - More subsequent lectures.md",
     "COMPSCI367 - Artificial Intelligence/finals prep.canvas",
+    "COMPSCI367 - Artificial Intelligence/week12/Lethal Autonomous Weapon.md",
     "COMPSCI367 - Artificial Intelligence/week08/First-Order Logic.md",
     "COMPSCI367 - Artificial Intelligence/week06/Propositional Logic.md",
     "COMPSCI367 - Artificial Intelligence/week08/Domain-closure assumption.md",
@@ -207,7 +208,6 @@
     "COMPSCI367 - Artificial Intelligence/week04/uninformed random walk.md",
     "COMPSCI367 - Artificial Intelligence/week05/population.md",
     "COMPSCI367 - Artificial Intelligence/week03/Iterative Improvement.md",
-    "COMPSCI367 - Artificial Intelligence/week04/Iterative Best Improvement (IBI).md",
     "@images/COMPSCI3672022_S2W09Lecture25AIinSociety28129-21.jpg",
     "@images/Pasted image 20231026174833.png",
     "@images/Pasted image 20231026174606.png",
