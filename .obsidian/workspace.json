@@ -15,9 +15,9 @@
               "state": {
                 "file": "COMPSCI367 - Artificial Intelligence/finals prep.canvas",
                 "viewState": {
-                  "x": 153.5390464202165,
-                  "y": -2448.145344526362,
-                  "zoom": -0.744360795181298
+                  "x": -640.9222277555914,
+                  "y": -4256.8785608878625,
+                  "zoom": -1.7443607951812978
                 }
               }
             }
@@ -88,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week03/Constraint Satisfaction Problem (CSPs).md",
+                "file": "COMPSCI367 - Artificial Intelligence/week03/Forward Checking.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week03/Constraint Satisfaction Problem (CSPs).md",
+                "file": "COMPSCI367 - Artificial Intelligence/week03/Forward Checking.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week03/Constraint Satisfaction Problem (CSPs).md"
+                "file": "COMPSCI367 - Artificial Intelligence/week03/Forward Checking.md"
               }
             }
           },

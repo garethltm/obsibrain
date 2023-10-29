@@ -6,8 +6,6 @@
 		{"id":"09e4ad48cb61d99c","type":"group","x":1560,"y":-1490,"width":1150,"height":1890,"color":"1","label":"week06"},
 		{"id":"6d2365b44856105f","type":"group","x":7360,"y":-1490,"width":3856,"height":3377,"color":"1","label":"week09"},
 		{"id":"b93e599de8588955","type":"group","x":4960,"y":-1490,"width":2121,"height":3400,"color":"1","label":"week08"},
-		{"id":"3f6a4b7a12420b88","type":"file","file":"COMPSCI367 - Artificial Intelligence/week07/Forward Chaining.md","x":3860,"y":-1470,"width":960,"height":1500},
-		{"id":"3aad0f3398894130","type":"file","file":"COMPSCI367 - Artificial Intelligence/week07/Modus Ponens (MP).md","x":3860,"y":110,"width":900,"height":400},
 		{"id":"168ecaded8db3ab0","type":"file","file":"COMPSCI367 - Artificial Intelligence/week08/Grounding.md","x":4980,"y":-770,"width":1080,"height":860},
 		{"id":"e4722fc123d0fef9","type":"file","file":"COMPSCI367 - Artificial Intelligence/week08/Unification.md","x":4980,"y":410,"width":1440,"height":1480},
 		{"id":"b517183b840ad49d","type":"file","file":"COMPSCI367 - Artificial Intelligence/week08/Lifting.md","x":6180,"y":-770,"width":881,"height":228},
@@ -43,7 +41,11 @@
 		{"id":"b96022ab55337dfc","type":"file","file":"COMPSCI367 - Artificial Intelligence/week02/Greedy (Best-First) Search.md","x":-6560,"y":-2080,"width":680,"height":1281},
 		{"id":"e82d2d6e297bac0b","x":-7960,"y":-3832,"width":800,"height":290,"type":"file","file":"COMPSCI367 - Artificial Intelligence/week03/Admissible heuristic.md"},
 		{"id":"5528bedefd876801","type":"file","file":"COMPSCI367 - Artificial Intelligence/week02/Consistent Heuristics.md","x":-7960,"y":-3082,"width":840,"height":1521},
-		{"id":"34429815292abef0","x":-647,"y":-3832,"width":1847,"height":2271,"type":"file","file":"COMPSCI367 - Artificial Intelligence/week03/Constraint Satisfaction Problem (CSPs).md"}
+		{"id":"3f6a4b7a12420b88","type":"file","file":"COMPSCI367 - Artificial Intelligence/week07/Forward Chaining.md","x":3860,"y":-1470,"width":960,"height":1500},
+		{"id":"3aad0f3398894130","type":"file","file":"COMPSCI367 - Artificial Intelligence/week07/Modus Ponens (MP).md","x":3860,"y":110,"width":900,"height":400},
+		{"id":"34429815292abef0","x":-823,"y":-3930,"width":1847,"height":2271,"type":"file","file":"COMPSCI367 - Artificial Intelligence/week03/Constraint Satisfaction Problem (CSPs).md"},
+		{"id":"ffeb2544dccef85a","x":-345,"y":-4460,"width":446,"height":178,"type":"file","file":"COMPSCI367 - Artificial Intelligence/week03/degree heuristic.md"},
+		{"id":"9ff4623e382f0278","x":320,"y":-4460,"width":400,"height":400,"type":"file","file":"COMPSCI367 - Artificial Intelligence/week03/Forward Checking.md"}
 	],
 	"edges":[
 		{"id":"58761566270d0cbd","fromNode":"21c3f5042ad67d16","fromSide":"bottom","toNode":"168ecaded8db3ab0","toSide":"top"},
