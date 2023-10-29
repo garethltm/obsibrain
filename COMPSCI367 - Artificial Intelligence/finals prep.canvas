@@ -128,8 +128,6 @@
 		{"id":"bcf06f432aaa7431","type":"file","file":"COMPSCI367 - Artificial Intelligence/week07/Modus Ponens (MP).md","x":7160,"y":-8280,"width":400,"height":400},
 		{"id":"7202e6a9f0e80d50","type":"file","file":"COMPSCI367 - Artificial Intelligence/week10/conditional probability.md","x":11292,"y":-3255,"width":780,"height":674},
 		{"id":"603eba6fdd5b88a2","type":"file","file":"COMPSCI367 - Artificial Intelligence/week10/Probability Distribution.md","x":12243,"y":-3208,"width":680,"height":400},
-		{"id":"68fa51375f6dbbba","type":"file","file":"COMPSCI367 - Artificial Intelligence/week10/Laplace smoothing (add-one smoothing).md","x":13475,"y":-5662,"width":400,"height":201},
-		{"id":"6f7428825cecc059","type":"file","file":"COMPSCI367 - Artificial Intelligence/week10/Language Model.md","x":13761,"y":-6598,"width":622,"height":583},
 		{"id":"81418ea76c342235","type":"file","file":"COMPSCI367 - Artificial Intelligence/week10/Smoothing.md","x":12837,"y":-5360,"width":400,"height":400},
 		{"id":"17f5987527f09f69","type":"file","file":"COMPSCI367 - Artificial Intelligence/week10/Naïve Bayes - Laplace smoothing.md","x":12144,"y":-5761,"width":524,"height":400},
 		{"id":"11061556db905de1","type":"file","file":"COMPSCI367 - Artificial Intelligence/week10/Naïve Bayes classification.md","x":11515,"y":-5526,"width":400,"height":331},
@@ -138,9 +136,14 @@
 		{"id":"e551cb89d6e4ada4","type":"file","file":"COMPSCI367 - Artificial Intelligence/week10/Machine Translation.md","x":11005,"y":-5395,"width":400,"height":400},
 		{"id":"4f4b509d41f568f3","type":"file","file":"COMPSCI367 - Artificial Intelligence/week10/Natural Language Processing (NLP).md","x":11515,"y":-6882,"width":616,"height":400},
 		{"id":"169d0feb6b8ce658","type":"file","file":"COMPSCI367 - Artificial Intelligence/week10/Information Retrieval (IR).md","x":10107,"y":-5526,"width":680,"height":480},
-		{"id":"749e94931a4a0c05","x":9546,"y":-6215,"width":693,"height":457,"type":"file","file":"COMPSCI367 - Artificial Intelligence/week10/The vector space model.md"},
-		{"id":"c81b38809b0f01f5","type":"file","file":"COMPSCI367 - Artificial Intelligence/week10/Inverse Document Frequency (idf).md","x":10146,"y":-6882,"width":400,"height":316},
-		{"id":"f0a572f684d1a761","x":9292,"y":-6924,"width":400,"height":400,"type":"file","file":"COMPSCI367 - Artificial Intelligence/week10/Term Frequency (tf).md"}
+		{"id":"749e94931a4a0c05","type":"file","file":"COMPSCI367 - Artificial Intelligence/week10/The vector space model.md","x":9546,"y":-6215,"width":693,"height":457},
+		{"id":"f0a572f684d1a761","type":"file","file":"COMPSCI367 - Artificial Intelligence/week10/Term Frequency (tf).md","x":9292,"y":-6924,"width":400,"height":400},
+		{"id":"c81b38809b0f01f5","type":"file","file":"COMPSCI367 - Artificial Intelligence/week10/Inverse Document Frequency (idf).md","x":9839,"y":-6840,"width":400,"height":316},
+		{"id":"5eac81d896d79fbe","type":"file","file":"COMPSCI367 - Artificial Intelligence/week10/term specificity.md","x":10494,"y":-6853,"width":400,"height":293},
+		{"id":"4dff1e0900772229","type":"file","file":"COMPSCI367 - Artificial Intelligence/week10/Translation Model.md","x":12560,"y":-6853,"width":400,"height":400},
+		{"id":"6f7428825cecc059","type":"file","file":"COMPSCI367 - Artificial Intelligence/week10/Language Model.md","x":11938,"y":-6400,"width":622,"height":583},
+		{"id":"68fa51375f6dbbba","type":"file","file":"COMPSCI367 - Artificial Intelligence/week10/Laplace smoothing (add-one smoothing).md","x":13237,"y":-5861,"width":400,"height":201},
+		{"id":"0b48a96e16bf4c08","x":13480,"y":-5361,"width":583,"height":400,"type":"file","file":"COMPSCI367 - Artificial Intelligence/week10/Value of smoothing.md"}
 	],
 	"edges":[
 		{"id":"58761566270d0cbd","fromNode":"483c0f155182fe5d","fromSide":"bottom","toNode":"168ecaded8db3ab0","toSide":"top"},
@@ -284,6 +287,9 @@
 		{"id":"d883d1749dd75a06","fromNode":"2dafb100aabf0902","fromSide":"top","toNode":"61b5fe0541423213","toSide":"bottom"},
 		{"id":"dedf0261c74c4d39","fromNode":"81418ea76c342235","fromSide":"left","toNode":"17f5987527f09f69","toSide":"bottom"},
 		{"id":"0e7cc04ada0e1909","fromNode":"749e94931a4a0c05","fromSide":"left","toNode":"f0a572f684d1a761","toSide":"bottom"},
-		{"id":"e07244ee2d8d6dff","fromNode":"749e94931a4a0c05","fromSide":"top","toNode":"c81b38809b0f01f5","toSide":"bottom"}
+		{"id":"e07244ee2d8d6dff","fromNode":"749e94931a4a0c05","fromSide":"top","toNode":"c81b38809b0f01f5","toSide":"bottom"},
+		{"id":"cfb80702dffbb4c7","fromNode":"5eac81d896d79fbe","fromSide":"left","toNode":"c81b38809b0f01f5","toSide":"right"},
+		{"id":"22bfc6bded572aa9","fromNode":"4dff1e0900772229","fromSide":"bottom","toNode":"6f7428825cecc059","toSide":"right"},
+		{"id":"3ebf64583337dc76","fromNode":"0b48a96e16bf4c08","fromSide":"left","toNode":"81418ea76c342235","toSide":"right"}
 	]
 }
