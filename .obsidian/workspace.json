@@ -15,8 +15,8 @@
               "state": {
                 "file": "COMPSCI367 - Artificial Intelligence/finals prep.canvas",
                 "viewState": {
-                  "x": -4354.418839860968,
-                  "y": -6699.549104239559,
+                  "x": -3751.7974501373014,
+                  "y": -7049.381725963095,
                   "zoom": 3.3306690738754696e-16
                 }
               }
@@ -89,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week09/Forward (Progression) planning.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week09/Backward (Regression) planning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week09/Forward (Progression) planning.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week09/Backward (Regression) planning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week09/Forward (Progression) planning.md"
+                "file": "COMPSCI367 - Artificial Intelligence/week09/Backward (Regression) planning.md"
               }
             }
           },
@@ -157,7 +157,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week09/Forward (Progression) planning.md"
+                "file": "COMPSCI367 - Artificial Intelligence/week09/Backward (Regression) planning.md"
               }
             }
           }
