@@ -15,8 +15,8 @@
               "state": {
                 "file": "COMPSCI367 - Artificial Intelligence/finals prep.canvas",
                 "viewState": {
-                  "x": 5.983396764546228,
-                  "y": -6497.889325524615,
+                  "x": 884.140409322321,
+                  "y": -6222.254247990179,
                   "zoom": -0.6666666666666663
                 }
               }
@@ -88,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week06/Satisfiability Problem (SAT).md",
+                "file": "COMPSCI367 - Artificial Intelligence/week06/Propositional Knowledge Base.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week06/Satisfiability Problem (SAT).md",
+                "file": "COMPSCI367 - Artificial Intelligence/week06/Propositional Knowledge Base.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week06/Satisfiability Problem (SAT).md"
+                "file": "COMPSCI367 - Artificial Intelligence/week06/Propositional Knowledge Base.md"
               }
             }
           },
