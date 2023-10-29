@@ -11,11 +11,14 @@
             "id": "2baf3d4d32bda653",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week09/Backward (Regression) planning.md",
-                "mode": "source",
-                "source": false
+                "file": "COMPSCI367 - Artificial Intelligence/finals prep.canvas",
+                "viewState": {
+                  "x": 2408,
+                  "y": -220,
+                  "zoom": -4
+                }
               }
             }
           }
@@ -85,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week09/Backward (Regression) planning.md",
+                "file": "COMPSCI367 - Artificial Intelligence/finals prep.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week09/Backward (Regression) planning.md",
+                "file": "COMPSCI367 - Artificial Intelligence/finals prep.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week09/Backward (Regression) planning.md"
+                "file": "COMPSCI367 - Artificial Intelligence/finals prep.canvas"
               }
             }
           },
@@ -168,11 +171,11 @@
   },
   "active": "2baf3d4d32bda653",
   "lastOpenFiles": [
+    "COMPSCI367 - Artificial Intelligence/week09/Backward (Regression) planning.md",
     "COMPSCI367 - Artificial Intelligence/week09/Annotated Disjunction.md",
     "COMPSCI367 - Artificial Intelligence/week09/Logic-based Planning algorithms.md",
     "COMPSCI367 - Artificial Intelligence/week09/Search-based Planning Algorithm.md",
     "COMPSCI367 - Artificial Intelligence/week09/Building a planner.md",
-    "COMPSCI367 - Artificial Intelligence/week09/Backward (Regression) planning.md",
     "COMPSCI367 - Artificial Intelligence/finals prep.canvas",
     "COMPSCI367 - Artificial Intelligence/week02/Systematic Search.md",
     "COMPSCI367 - Artificial Intelligence/week03/Tree Search.md",
