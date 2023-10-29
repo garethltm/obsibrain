@@ -11,11 +11,14 @@
             "id": "766f3d6bf8798b3a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week10/Recurrent Neural Network (RNN).md",
-                "mode": "source",
-                "source": false
+                "file": "COMPSCI367 - Artificial Intelligence/finals prep.canvas",
+                "viewState": {
+                  "x": 10710.033358609127,
+                  "y": -5439.9684559759635,
+                  "zoom": -1.3333333333333328
+                }
               }
             }
           }
@@ -85,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week10/Recurrent Neural Network (RNN).md",
+                "file": "COMPSCI367 - Artificial Intelligence/week10/Term Frequency (tf).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week10/Recurrent Neural Network (RNN).md",
+                "file": "COMPSCI367 - Artificial Intelligence/week10/Term Frequency (tf).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week10/Recurrent Neural Network (RNN).md"
+                "file": "COMPSCI367 - Artificial Intelligence/week10/Term Frequency (tf).md"
               }
             }
           },
@@ -153,7 +156,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week10/Recurrent Neural Network (RNN).md"
+                "file": "COMPSCI367 - Artificial Intelligence/week10/Term Frequency (tf).md"
               }
             }
           }
@@ -178,7 +181,10 @@
   },
   "active": "766f3d6bf8798b3a",
   "lastOpenFiles": [
+    "COMPSCI367 - Artificial Intelligence/week10/Laplace smoothing (add-one smoothing).md",
     "COMPSCI367 - Artificial Intelligence/finals prep.canvas",
+    "COMPSCI367 - Artificial Intelligence/Deontologist theory.md",
+    "COMPSCI367 - Artificial Intelligence/week10/Recurrent Neural Network (RNN).md",
     "COMPSCI367 - Artificial Intelligence/week10/Modern Problems - More subsequent lectures.md",
     "COMPSCI367 - Artificial Intelligence/week12/Lethal Autonomous Weapon.md",
     "COMPSCI367 - Artificial Intelligence/week08/First-Order Logic.md",
@@ -188,7 +194,6 @@
     "COMPSCI367 - Artificial Intelligence/week08/theorem.md",
     "COMPSCI367 - Artificial Intelligence/week08/Generalised Modus Ponens (GMP).md",
     "COMPSCI367 - Artificial Intelligence/week08/Unification.md",
-    "COMPSCI367 - Artificial Intelligence/Deontologist theory.md",
     "COMPSCI367 - Artificial Intelligence/week08/quantifier(s).md",
     "COMPSCI367 - Artificial Intelligence/week08/Free variables.md",
     "COMPSCI367 - Artificial Intelligence/week08/First-Order Interpretation.md",
@@ -203,7 +208,6 @@
     "COMPSCI367 - Artificial Intelligence/week07/Modus Ponens (MP).md",
     "COMPSCI367 - Artificial Intelligence/week04/Greedy Descent.md",
     "COMPSCI367 - Artificial Intelligence/week04/uninformed random walk.md",
-    "COMPSCI367 - Artificial Intelligence/week05/population.md",
     "@images/COMPSCI3672022_S2W09Lecture25AIinSociety28129-21.jpg",
     "@images/Pasted image 20231026174833.png",
     "@images/Pasted image 20231026174606.png",
