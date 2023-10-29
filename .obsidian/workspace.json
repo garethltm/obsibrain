@@ -15,9 +15,9 @@
               "state": {
                 "file": "COMPSCI367 - Artificial Intelligence/finals prep.canvas",
                 "viewState": {
-                  "x": 1387.9334917961794,
-                  "y": -2734.973868963698,
-                  "zoom": -2.077694128514631
+                  "x": 892.8550049957851,
+                  "y": -4162.68728583236,
+                  "zoom": -1.4110274618479646
                 }
               }
             }
@@ -88,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/finals prep.canvas",
+                "file": "COMPSCI367 - Artificial Intelligence/week03/Constraint Satisfaction Problem (CSPs).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/finals prep.canvas",
+                "file": "COMPSCI367 - Artificial Intelligence/week03/Constraint Satisfaction Problem (CSPs).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/finals prep.canvas"
+                "file": "COMPSCI367 - Artificial Intelligence/week03/Constraint Satisfaction Problem (CSPs).md"
               }
             }
           },
@@ -171,8 +171,9 @@
   },
   "active": "98da943ebf305f83",
   "lastOpenFiles": [
-    "COMPSCI367 - Artificial Intelligence/week03/Iterative Deepening A-Star Search (IDA).md",
+    "COMPSCI367 - Artificial Intelligence/week03/Tree Search.md",
     "COMPSCI367 - Artificial Intelligence/finals prep.canvas",
+    "COMPSCI367 - Artificial Intelligence/week03/Iterative Deepening A-Star Search (IDA).md",
     "COMPSCI367 - Artificial Intelligence/week03/Iterative Improvement.md",
     "COMPSCI367 - Artificial Intelligence/week02/Optimal.md",
     "COMPSCI367 - Artificial Intelligence/week12/Chance nodes.md",
@@ -197,7 +198,6 @@
     "COMPSCI367 - Artificial Intelligence/week01/Artificial Intelligence (AI).md",
     "COMPSCI367 - Artificial Intelligence/week01/goal(s) - goal state(s).md",
     "COMPSCI367 - Artificial Intelligence/week04/Probabilistic Approximately Complete (PAC).md",
-    "COMPSCI367 - Artificial Intelligence/week04/Random Walk Hill-Climbing.md",
     "@images/COMPSCI3672022_S2W09Lecture25AIinSociety28129-21.jpg",
     "@images/Pasted image 20231026174833.png",
     "@images/Pasted image 20231026174606.png",
