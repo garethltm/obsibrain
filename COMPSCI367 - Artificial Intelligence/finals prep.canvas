@@ -116,7 +116,6 @@
 		{"id":"9acfdc3f541eb40b","type":"file","file":"COMPSCI367 - Artificial Intelligence/week12/Indefinite horizon or infinite horizon.md","x":18200,"y":-1073,"width":400,"height":400},
 		{"id":"e37670669390e8c0","type":"file","file":"COMPSCI367 - Artificial Intelligence/week12/Finite horizon.md","x":19400,"y":-1021,"width":400,"height":240},
 		{"id":"69e4ed3ed8ded793","type":"file","file":"COMPSCI367 - Artificial Intelligence/week12/state (ω).md","x":18191,"y":-1545,"width":400,"height":222},
-		{"id":"28da8a9f7208b96f","type":"file","file":"COMPSCI367 - Artificial Intelligence/week12/value of a decision network.md","x":17743,"y":-1023,"width":400,"height":242},
 		{"id":"4a95fa87cb99f8e0","type":"file","file":"COMPSCI367 - Artificial Intelligence/week10/Why should you use NLP.md","x":11478,"y":-7740,"width":400,"height":400},
 		{"id":"bcf06f432aaa7431","type":"file","file":"COMPSCI367 - Artificial Intelligence/week07/Modus Ponens (MP).md","x":7160,"y":-8280,"width":400,"height":400},
 		{"id":"dd235cb94f5d56c9","type":"file","file":"COMPSCI367 - Artificial Intelligence/week07/SLD Resolution (Backward chaining).md","x":6000,"y":-7700,"width":756,"height":605},
@@ -202,9 +201,10 @@
 		{"id":"dd47ce30fb96ced8","type":"file","file":"COMPSCI367 - Artificial Intelligence/week12/Decision function.md","x":19560,"y":-2411,"width":400,"height":308},
 		{"id":"7fd1e5c4b5d9c24a","type":"file","file":"COMPSCI367 - Artificial Intelligence/week12/Chance nodes.md","x":19560,"y":-2738,"width":400,"height":209},
 		{"id":"eb36e2d7757091ef","type":"file","file":"COMPSCI367 - Artificial Intelligence/week12/SSDN-based one-off decision problem.md","x":19100,"y":-2004,"width":400,"height":297},
-		{"id":"b2cd08f5af0df044","type":"file","file":"COMPSCI367 - Artificial Intelligence/week12/optimal policy.md","x":17960,"y":-2328,"width":400,"height":161},
 		{"id":"0a2548512902bbc5","type":"file","file":"COMPSCI367 - Artificial Intelligence/week12/policy.md","x":18280,"y":-2656,"width":400,"height":200},
-		{"id":"63fac59b53f08e10","type":"file","file":"COMPSCI367 - Artificial Intelligence/week11/Decision Trees.md","x":17500,"y":-2653,"width":400,"height":400}
+		{"id":"63fac59b53f08e10","type":"file","file":"COMPSCI367 - Artificial Intelligence/week11/Decision Trees.md","x":17500,"y":-2653,"width":400,"height":400},
+		{"id":"b2cd08f5af0df044","type":"file","file":"COMPSCI367 - Artificial Intelligence/week12/optimal policy.md","x":17391,"y":-2143,"width":400,"height":161},
+		{"id":"28da8a9f7208b96f","type":"file","file":"COMPSCI367 - Artificial Intelligence/week12/value of a decision network.md","x":17960,"y":-2103,"width":360,"height":242}
 	],
 	"edges":[
 		{"id":"58761566270d0cbd","fromNode":"483c0f155182fe5d","fromSide":"bottom","toNode":"168ecaded8db3ab0","toSide":"top"},
@@ -408,6 +408,9 @@
 		{"id":"73d8d5b4a55fe80b","fromNode":"c4e9a1c1cff20eaa","fromSide":"right","toNode":"dd47ce30fb96ced8","toSide":"left"},
 		{"id":"388e7e548cd4a56c","fromNode":"eb36e2d7757091ef","fromSide":"top","toNode":"c4e9a1c1cff20eaa","toSide":"bottom"},
 		{"id":"2fe2307ecd80faa4","fromNode":"0a2548512902bbc5","fromSide":"right","toNode":"c4e9a1c1cff20eaa","toSide":"left"},
-		{"id":"861cb9fe8a0697e1","fromNode":"0a2548512902bbc5","fromSide":"left","toNode":"d136ec4d4e130d90","toSide":"right"}
+		{"id":"861cb9fe8a0697e1","fromNode":"0a2548512902bbc5","fromSide":"left","toNode":"d136ec4d4e130d90","toSide":"right"},
+		{"id":"3a4f5421e3ef013d","fromNode":"b2cd08f5af0df044","fromSide":"left","toNode":"d136ec4d4e130d90","toSide":"left"},
+		{"id":"c7e6f44c525e24cb","fromNode":"28da8a9f7208b96f","fromSide":"right","toNode":"a47be4cdbe374105","toSide":"left"},
+		{"id":"49de268204d9e221","fromNode":"28da8a9f7208b96f","fromSide":"left","toNode":"b2cd08f5af0df044","toSide":"right"}
 	]
 }
