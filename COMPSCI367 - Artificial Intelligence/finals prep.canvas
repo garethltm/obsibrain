@@ -151,7 +151,6 @@
 		{"id":"8779a6f9a1e8d67d","type":"file","file":"COMPSCI367 - Artificial Intelligence/week11/Local Markov Property.md","x":13540,"y":-2048,"width":400,"height":400},
 		{"id":"1d76bcff2123916d","type":"file","file":"COMPSCI367 - Artificial Intelligence/week11/Bayesian Networks.md","x":14100,"y":-2048,"width":860,"height":400},
 		{"id":"a0e79c2c4c8f3449","type":"file","file":"COMPSCI367 - Artificial Intelligence/week11/Linear scalability.md","x":17151,"y":-2397,"width":400,"height":400},
-		{"id":"63fac59b53f08e10","type":"file","file":"COMPSCI367 - Artificial Intelligence/week11/Decision Trees.md","x":17231,"y":-3033,"width":400,"height":400},
 		{"id":"fc487570b15063eb","type":"file","file":"COMPSCI367 - Artificial Intelligence/week11/Additive independence property.md","x":15951,"y":-3816,"width":600,"height":690},
 		{"id":"d86f33cc1887bfa7","type":"file","file":"COMPSCI367 - Artificial Intelligence/week11/von Neumann & Morgenstern (VNM).md","x":15980,"y":-2873,"width":731,"height":400},
 		{"id":"02fd7e6cb6354a32","type":"file","file":"COMPSCI367 - Artificial Intelligence/week11/Axiom 3 - Monotonicity.md","x":16311,"y":-1661,"width":400,"height":239},
@@ -177,10 +176,11 @@
 		{"id":"fb4b79a0ed070a7c","type":"file","file":"COMPSCI367 - Artificial Intelligence/week11/Probabilistic Model.md","x":14170,"y":-1499,"width":720,"height":547},
 		{"id":"73969e52ece94f5a","type":"file","file":"COMPSCI367 - Artificial Intelligence/week11/lottery.md","x":19720,"y":-3326,"width":400,"height":297},
 		{"id":"95e8e89abf7efdeb","type":"file","file":"COMPSCI367 - Artificial Intelligence/week11/Utility theory.md","x":19040,"y":-3326,"width":400,"height":400},
-		{"id":"e074f591dc04018d","type":"file","file":"COMPSCI367 - Artificial Intelligence/week11/utility.md","x":18060,"y":-3520,"width":400,"height":227},
-		{"id":"d136ec4d4e130d90","type":"file","file":"COMPSCI367 - Artificial Intelligence/week11/expected utility.md","x":17460,"y":-4080,"width":400,"height":143},
-		{"id":"f3bb8917dbbee0ca","type":"file","file":"COMPSCI367 - Artificial Intelligence/week11/Expected utility hypothesis.md","x":17460,"y":-3829,"width":400,"height":400},
-		{"id":"79ef0f5ba5b33afc","type":"file","file":"COMPSCI367 - Artificial Intelligence/week11/Utility function.md","x":17560,"y":-3199,"width":400,"height":147}
+		{"id":"63fac59b53f08e10","type":"file","file":"COMPSCI367 - Artificial Intelligence/week11/Decision Trees.md","x":17520,"y":-2873,"width":400,"height":400},
+		{"id":"d136ec4d4e130d90","type":"file","file":"COMPSCI367 - Artificial Intelligence/week11/expected utility.md","x":17300,"y":-3113,"width":300,"height":143},
+		{"id":"e074f591dc04018d","type":"file","file":"COMPSCI367 - Artificial Intelligence/week11/utility.md","x":18320,"y":-3429,"width":400,"height":227},
+		{"id":"f3bb8917dbbee0ca","type":"file","file":"COMPSCI367 - Artificial Intelligence/week11/Expected utility hypothesis.md","x":17840,"y":-3920,"width":400,"height":400},
+		{"id":"79ef0f5ba5b33afc","type":"file","file":"COMPSCI367 - Artificial Intelligence/week11/Utility function.md","x":17440,"y":-3429,"width":400,"height":147}
 	],
 	"edges":[
 		{"id":"58761566270d0cbd","fromNode":"483c0f155182fe5d","fromSide":"bottom","toNode":"168ecaded8db3ab0","toSide":"top"},
@@ -366,6 +366,10 @@
 		{"id":"f74202e2f900b3ff","fromNode":"5cb3512fe5e60f81","fromSide":"top","toNode":"0956bdaf39a126d0","toSide":"right"},
 		{"id":"696a88d07350ea8a","fromNode":"fb4b79a0ed070a7c","fromSide":"top","toNode":"1d76bcff2123916d","toSide":"bottom"},
 		{"id":"6784693bcc484a17","fromNode":"95e8e89abf7efdeb","fromSide":"left","toNode":"e074f591dc04018d","toSide":"right"},
-		{"id":"f12483c79cc2573c","fromNode":"f3bb8917dbbee0ca","fromSide":"bottom","toNode":"79ef0f5ba5b33afc","toSide":"left"}
+		{"id":"f12483c79cc2573c","fromNode":"1507a03cb473efaa","fromSide":"right","toNode":"79ef0f5ba5b33afc","toSide":"left"},
+		{"id":"b82e7b5b355455d8","fromNode":"f3bb8917dbbee0ca","fromSide":"bottom","toNode":"79ef0f5ba5b33afc","toSide":"top"},
+		{"id":"ba95c7245d7748be","fromNode":"63fac59b53f08e10","fromSide":"top","toNode":"79ef0f5ba5b33afc","toSide":"bottom"},
+		{"id":"2d9da083d92d16f8","fromNode":"63fac59b53f08e10","fromSide":"top","toNode":"d136ec4d4e130d90","toSide":"right"},
+		{"id":"9b27843e52d0c7a8","fromNode":"63fac59b53f08e10","fromSide":"top","toNode":"f3bb8917dbbee0ca","toSide":"bottom"}
 	]
 }
