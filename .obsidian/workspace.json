@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week07/SLD derivation.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week08/Free variables.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week07/SLD derivation.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week08/Free variables.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week07/SLD derivation.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week08/Free variables.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week07/SLD derivation.md"
+                "file": "COMPSCI367 - Artificial Intelligence/week08/Free variables.md"
               }
             }
           },
@@ -168,33 +168,33 @@
   },
   "active": "2baf3d4d32bda653",
   "lastOpenFiles": [
+    "COMPSCI367 - Artificial Intelligence/week08/First-Order Logic Inference.md",
+    "COMPSCI367 - Artificial Intelligence/week08/First-Order Logic.md",
+    "COMPSCI367 - Artificial Intelligence/week08/First-Order KB.md",
+    "COMPSCI367 - Artificial Intelligence/week08/First-Order Interpretation.md",
+    "COMPSCI367 - Artificial Intelligence/week08/First-Order Formulas.md",
+    "COMPSCI367 - Artificial Intelligence/week08/Existential quantification.md",
+    "COMPSCI367 - Artificial Intelligence/week08/Domain-closure assumption.md",
+    "COMPSCI367 - Artificial Intelligence/week08/Closed world assumption.md",
+    "COMPSCI367 - Artificial Intelligence/week08/control.md",
+    "COMPSCI367 - Artificial Intelligence/week08/Declarative programming.md",
+    "COMPSCI367 - Artificial Intelligence/week08/definition (singular).md",
+    "COMPSCI367 - Artificial Intelligence/week08/Arithmetic.md",
+    "COMPSCI367 - Artificial Intelligence/week08/axioms.md",
+    "COMPSCI367 - Artificial Intelligence/week08/algorithm.md",
+    "COMPSCI367 - Artificial Intelligence/week07/What logic needs to be.md",
+    "COMPSCI367 - Artificial Intelligence/week07/Verbose.md",
+    "COMPSCI367 - Artificial Intelligence/week07/subgoal.md",
+    "COMPSCI367 - Artificial Intelligence/week07/Soundness.md",
+    "COMPSCI367 - Artificial Intelligence/week07/SLD derivation.md",
     "COMPSCI367 - Artificial Intelligence/week07/rule of derivation.md",
     "COMPSCI367 - Artificial Intelligence/week07/Proof procedure.md",
     "COMPSCI367 - Artificial Intelligence/week07/Modus Ponens (MP).md",
     "COMPSCI367 - Artificial Intelligence/finals prep.canvas",
-    "COMPSCI367 - Artificial Intelligence/week07/SLD derivation.md",
     "COMPSCI367 - Artificial Intelligence/week07/Low expresiveness.md",
     "COMPSCI367 - Artificial Intelligence/week07/Human languages are complex.md",
     "COMPSCI367 - Artificial Intelligence/week07/entails.md",
     "COMPSCI367 - Artificial Intelligence/week07/Definite Clause Inference Engine.md",
-    "COMPSCI367 - Artificial Intelligence/week07/Definite clause.md",
-    "COMPSCI367 - Artificial Intelligence/week07/Compositional.md",
-    "COMPSCI367 - Artificial Intelligence/week07/Completeness.md",
-    "COMPSCI367 - Artificial Intelligence/week06/Wumpus World Agent.md",
-    "COMPSCI367 - Artificial Intelligence/week06/clause(s).md",
-    "COMPSCI367 - Artificial Intelligence/week06/Truth table.md",
-    "COMPSCI367 - Artificial Intelligence/week06/syntax.md",
-    "COMPSCI367 - Artificial Intelligence/week06/Structured Representation.md",
-    "COMPSCI367 - Artificial Intelligence/week06/state transition.md",
-    "COMPSCI367 - Artificial Intelligence/week06/sentence.md",
-    "COMPSCI367 - Artificial Intelligence/week06/semantics.md",
-    "COMPSCI367 - Artificial Intelligence/week06/satisfiable.md",
-    "COMPSCI367 - Artificial Intelligence/week06/model of a propositional KB.md",
-    "COMPSCI367 - Artificial Intelligence/week09/Backward (Regression) planning.md",
-    "COMPSCI367 - Artificial Intelligence/week09/Annotated Disjunction.md",
-    "COMPSCI367 - Artificial Intelligence/week09/Logic-based Planning algorithms.md",
-    "COMPSCI367 - Artificial Intelligence/week09/Search-based Planning Algorithm.md",
-    "COMPSCI367 - Artificial Intelligence/week09/Building a planner.md",
     "@images/COMPSCI3672022_S2W09Lecture25AIinSociety28129-21.jpg",
     "@images/Pasted image 20231026174833.png",
     "@images/Pasted image 20231026174606.png",
