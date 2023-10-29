@@ -111,10 +111,7 @@
 		{"id":"cd078bc9e5be02af","type":"file","file":"COMPSCI367 - Artificial Intelligence/week11/evaluate desirability.md","x":17250,"y":-4120,"width":400,"height":326},
 		{"id":"a47be4cdbe374105","type":"file","file":"COMPSCI367 - Artificial Intelligence/week12/Decision network.md","x":18545,"y":-2248,"width":400,"height":488},
 		{"id":"6cfbb834e1b19f89","type":"file","file":"COMPSCI367 - Artificial Intelligence/week12/no forgetting property.md","x":18880,"y":-1541,"width":400,"height":205},
-		{"id":"63fac59b53f08e10","type":"file","file":"COMPSCI367 - Artificial Intelligence/week11/Decision Trees.md","x":17560,"y":-2841,"width":400,"height":400},
-		{"id":"b2cd08f5af0df044","type":"file","file":"COMPSCI367 - Artificial Intelligence/week12/optimal policy.md","x":18040,"y":-2634,"width":400,"height":161},
 		{"id":"a0e79c2c4c8f3449","type":"file","file":"COMPSCI367 - Artificial Intelligence/week11/Linear scalability.md","x":17960,"y":-3283,"width":400,"height":400},
-		{"id":"0a2548512902bbc5","type":"file","file":"COMPSCI367 - Artificial Intelligence/week12/policy.md","x":18520,"y":-2753,"width":400,"height":200},
 		{"id":"aeb225ab8fe57153","type":"file","file":"COMPSCI367 - Artificial Intelligence/week12/Sequential Decision Problem.md","x":18880,"y":-1114,"width":400,"height":400},
 		{"id":"9acfdc3f541eb40b","type":"file","file":"COMPSCI367 - Artificial Intelligence/week12/Indefinite horizon or infinite horizon.md","x":18200,"y":-1073,"width":400,"height":400},
 		{"id":"e37670669390e8c0","type":"file","file":"COMPSCI367 - Artificial Intelligence/week12/Finite horizon.md","x":19400,"y":-1021,"width":400,"height":240},
@@ -202,9 +199,12 @@
 		{"id":"e82d2d6e297bac0b","type":"file","file":"COMPSCI367 - Artificial Intelligence/week03/Admissible heuristic.md","x":-9640,"y":-6157,"width":800,"height":290},
 		{"id":"5528bedefd876801","type":"file","file":"COMPSCI367 - Artificial Intelligence/week02/Consistent Heuristics.md","x":-9640,"y":-5407,"width":840,"height":1521},
 		{"id":"c4e9a1c1cff20eaa","type":"file","file":"COMPSCI367 - Artificial Intelligence/week12/Single-stage decision networks (SSDN).md","x":19040,"y":-2653,"width":400,"height":393},
-		{"id":"eb36e2d7757091ef","type":"file","file":"COMPSCI367 - Artificial Intelligence/week12/SSDN-based one-off decision problem.md","x":19480,"y":-1796,"width":400,"height":297},
 		{"id":"dd47ce30fb96ced8","type":"file","file":"COMPSCI367 - Artificial Intelligence/week12/Decision function.md","x":19560,"y":-2411,"width":400,"height":308},
-		{"id":"7fd1e5c4b5d9c24a","type":"file","file":"COMPSCI367 - Artificial Intelligence/week12/Chance nodes.md","x":19560,"y":-2738,"width":400,"height":209}
+		{"id":"7fd1e5c4b5d9c24a","type":"file","file":"COMPSCI367 - Artificial Intelligence/week12/Chance nodes.md","x":19560,"y":-2738,"width":400,"height":209},
+		{"id":"eb36e2d7757091ef","type":"file","file":"COMPSCI367 - Artificial Intelligence/week12/SSDN-based one-off decision problem.md","x":19100,"y":-2004,"width":400,"height":297},
+		{"id":"b2cd08f5af0df044","type":"file","file":"COMPSCI367 - Artificial Intelligence/week12/optimal policy.md","x":17960,"y":-2328,"width":400,"height":161},
+		{"id":"0a2548512902bbc5","type":"file","file":"COMPSCI367 - Artificial Intelligence/week12/policy.md","x":18280,"y":-2656,"width":400,"height":200},
+		{"id":"63fac59b53f08e10","type":"file","file":"COMPSCI367 - Artificial Intelligence/week11/Decision Trees.md","x":17500,"y":-2653,"width":400,"height":400}
 	],
 	"edges":[
 		{"id":"58761566270d0cbd","fromNode":"483c0f155182fe5d","fromSide":"bottom","toNode":"168ecaded8db3ab0","toSide":"top"},
@@ -403,6 +403,11 @@
 		{"id":"a6ea630c7568394d","fromNode":"b6cd2b7cb634eaa8","fromSide":"bottom","toNode":"9161436fb9d371d4","toSide":"top"},
 		{"id":"b9ca32226dca3fcf","fromNode":"b6cd2b7cb634eaa8","fromSide":"bottom","toNode":"9fefd8db58519a4c","toSide":"top"},
 		{"id":"afcffb86618cbb94","fromNode":"b6cd2b7cb634eaa8","fromSide":"bottom","toNode":"d56880ea8871c9c5","toSide":"top"},
-		{"id":"0247d28d1a35e982","fromNode":"a47be4cdbe374105","fromSide":"right","toNode":"c4e9a1c1cff20eaa","toSide":"left"}
+		{"id":"0247d28d1a35e982","fromNode":"a47be4cdbe374105","fromSide":"right","toNode":"c4e9a1c1cff20eaa","toSide":"left"},
+		{"id":"654b36989fdb17cb","fromNode":"c4e9a1c1cff20eaa","fromSide":"right","toNode":"7fd1e5c4b5d9c24a","toSide":"left"},
+		{"id":"73d8d5b4a55fe80b","fromNode":"c4e9a1c1cff20eaa","fromSide":"right","toNode":"dd47ce30fb96ced8","toSide":"left"},
+		{"id":"388e7e548cd4a56c","fromNode":"eb36e2d7757091ef","fromSide":"top","toNode":"c4e9a1c1cff20eaa","toSide":"bottom"},
+		{"id":"2fe2307ecd80faa4","fromNode":"0a2548512902bbc5","fromSide":"right","toNode":"c4e9a1c1cff20eaa","toSide":"left"},
+		{"id":"861cb9fe8a0697e1","fromNode":"0a2548512902bbc5","fromSide":"left","toNode":"d136ec4d4e130d90","toSide":"right"}
 	]
 }
