@@ -154,7 +154,6 @@
 		{"id":"63fac59b53f08e10","type":"file","file":"COMPSCI367 - Artificial Intelligence/week11/Decision Trees.md","x":17231,"y":-3033,"width":400,"height":400},
 		{"id":"d136ec4d4e130d90","type":"file","file":"COMPSCI367 - Artificial Intelligence/week11/expected utility.md","x":17380,"y":-3816,"width":400,"height":143},
 		{"id":"f3bb8917dbbee0ca","type":"file","file":"COMPSCI367 - Artificial Intelligence/week11/Expected utility hypothesis.md","x":17380,"y":-3526,"width":400,"height":400},
-		{"id":"e074f591dc04018d","type":"file","file":"COMPSCI367 - Artificial Intelligence/week11/utility.md","x":18104,"y":-3200,"width":400,"height":227},
 		{"id":"fc487570b15063eb","type":"file","file":"COMPSCI367 - Artificial Intelligence/week11/Additive independence property.md","x":15951,"y":-3816,"width":600,"height":690},
 		{"id":"d86f33cc1887bfa7","type":"file","file":"COMPSCI367 - Artificial Intelligence/week11/von Neumann & Morgenstern (VNM).md","x":15980,"y":-2873,"width":731,"height":400},
 		{"id":"02fd7e6cb6354a32","type":"file","file":"COMPSCI367 - Artificial Intelligence/week11/Axiom 3 - Monotonicity.md","x":16311,"y":-1661,"width":400,"height":239},
@@ -178,10 +177,11 @@
 		{"id":"c13f5ae2f4dc121e","type":"file","file":"COMPSCI367 - Artificial Intelligence/week11/CPT Operation 4 - Summation.md","x":15200,"y":-3794,"width":400,"height":356},
 		{"id":"ced01ca1127cbccc","type":"file","file":"COMPSCI367 - Artificial Intelligence/week11/Variable Elimination Algorithm (VE).md","x":14160,"y":-4520,"width":1120,"height":520},
 		{"id":"79ef0f5ba5b33afc","type":"file","file":"COMPSCI367 - Artificial Intelligence/week11/Utility function.md","x":18104,"y":-2820,"width":400,"height":147},
-		{"id":"73969e52ece94f5a","type":"file","file":"COMPSCI367 - Artificial Intelligence/week11/lottery.md","x":19781,"y":-1997,"width":400,"height":297},
-		{"id":"95e8e89abf7efdeb","type":"file","file":"COMPSCI367 - Artificial Intelligence/week11/Utility theory.md","x":19170,"y":-2128,"width":400,"height":400},
-		{"id":"a4c56a5dd688d99c","type":"file","file":"COMPSCI367 - Artificial Intelligence/week11/Expected utility hypothesis.md","x":18650,"y":-2128,"width":400,"height":366},
-		{"id":"fb4b79a0ed070a7c","type":"file","file":"COMPSCI367 - Artificial Intelligence/week11/Probabilistic Model.md","x":14170,"y":-1499,"width":720,"height":547}
+		{"id":"fb4b79a0ed070a7c","type":"file","file":"COMPSCI367 - Artificial Intelligence/week11/Probabilistic Model.md","x":14170,"y":-1499,"width":720,"height":547},
+		{"id":"73969e52ece94f5a","type":"file","file":"COMPSCI367 - Artificial Intelligence/week11/lottery.md","x":19720,"y":-3326,"width":400,"height":297},
+		{"id":"95e8e89abf7efdeb","type":"file","file":"COMPSCI367 - Artificial Intelligence/week11/Utility theory.md","x":19040,"y":-3326,"width":400,"height":400},
+		{"id":"a4c56a5dd688d99c","type":"file","file":"COMPSCI367 - Artificial Intelligence/week11/Expected utility hypothesis.md","x":19120,"y":-2816,"width":400,"height":366},
+		{"id":"e074f591dc04018d","type":"file","file":"COMPSCI367 - Artificial Intelligence/week11/utility.md","x":18504,"y":-3226,"width":400,"height":227}
 	],
 	"edges":[
 		{"id":"58761566270d0cbd","fromNode":"483c0f155182fe5d","fromSide":"bottom","toNode":"168ecaded8db3ab0","toSide":"top"},
@@ -366,6 +366,8 @@
 		{"id":"104b5b8e9639322e","fromNode":"9b4774be2ce523c3","fromSide":"top","toNode":"ced01ca1127cbccc","toSide":"bottom"},
 		{"id":"8d0c1dca80e02eb9","fromNode":"c13f5ae2f4dc121e","fromSide":"top","toNode":"ced01ca1127cbccc","toSide":"bottom"},
 		{"id":"f74202e2f900b3ff","fromNode":"5cb3512fe5e60f81","fromSide":"top","toNode":"0956bdaf39a126d0","toSide":"right"},
-		{"id":"696a88d07350ea8a","fromNode":"fb4b79a0ed070a7c","fromSide":"top","toNode":"1d76bcff2123916d","toSide":"bottom"}
+		{"id":"696a88d07350ea8a","fromNode":"fb4b79a0ed070a7c","fromSide":"top","toNode":"1d76bcff2123916d","toSide":"bottom"},
+		{"id":"ac38fedf8ba18d2a","fromNode":"a4c56a5dd688d99c","fromSide":"left","toNode":"79ef0f5ba5b33afc","toSide":"right"},
+		{"id":"6784693bcc484a17","fromNode":"95e8e89abf7efdeb","fromSide":"left","toNode":"e074f591dc04018d","toSide":"right"}
 	]
 }
