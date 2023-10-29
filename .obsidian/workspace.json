@@ -11,14 +11,11 @@
             "id": "6687c04ac1db9dc0",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/finals prep.canvas",
-                "viewState": {
-                  "x": 3892.370658866039,
-                  "y": -527.7220162887797,
-                  "zoom": -1.0776941285146313
-                }
+                "file": "COMPSCI367 - Artificial Intelligence/week02/Informed Search.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -51,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ida",
+                "query": "informed",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -89,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/finals prep.canvas",
+                "file": "COMPSCI367 - Artificial Intelligence/week02/Informed Search.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/finals prep.canvas",
+                "file": "COMPSCI367 - Artificial Intelligence/week02/Informed Search.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/finals prep.canvas"
+                "file": "COMPSCI367 - Artificial Intelligence/week02/Informed Search.md"
               }
             }
           },
@@ -170,8 +167,10 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "a6e0090ac9cbd1f3",
+  "active": "6687c04ac1db9dc0",
   "lastOpenFiles": [
+    "COMPSCI367 - Artificial Intelligence/week03/Iterative Deepening A-Star Search (IDA).md",
+    "COMPSCI367 - Artificial Intelligence/finals prep.canvas",
     "COMPSCI367 - Artificial Intelligence/week01/Multi-agent.md",
     "COMPSCI367 - Artificial Intelligence/week08/Existential quantification-GARETH.md",
     "COMPSCI367 - Artificial Intelligence/week11/(VNM-) rational-GARETH.md",
@@ -195,11 +194,9 @@
     "COMPSCI367 - Artificial Intelligence/week12/How we can resolve the problems of robots taking over jobs.md",
     "COMPSCI367 - Artificial Intelligence/week12/Explainable AI (XAI).md",
     "COMPSCI367 - Artificial Intelligence/week05/Complexity analysis of Alpha-Beta pruning.md",
-    "COMPSCI367 - Artificial Intelligence/finals prep.canvas",
     "@images/COMPSCI3672022_S2W09Lecture25AIinSociety28129-21.jpg",
     "COMPSCI367 - Artificial Intelligence/week12/SSDN-based one-off decision problem.md",
     "COMPSCI367 - Artificial Intelligence/week12/policy.md",
-    "COMPSCI367 - Artificial Intelligence/week12/optimal policy.md",
     "@images/Pasted image 20231026174833.png",
     "@images/Pasted image 20231026174606.png",
     "@images/Pasted image 20231026170928.png",
