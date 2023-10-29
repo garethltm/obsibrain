@@ -78,7 +78,6 @@
 		{"id":"143c9b842b12e844","type":"file","file":"COMPSCI367 - Artificial Intelligence/week02/Informed Search.md","x":-8400,"y":-5475,"width":1000,"height":875},
 		{"id":"b96022ab55337dfc","type":"file","file":"COMPSCI367 - Artificial Intelligence/week02/Greedy (Best-First) Search.md","x":-8240,"y":-4405,"width":680,"height":1281},
 		{"id":"4a95fa87cb99f8e0","type":"file","file":"COMPSCI367 - Artificial Intelligence/week10/Why should you use NLP.md","x":11478,"y":-7740,"width":400,"height":400},
-		{"id":"895e3912f462b7f7","x":19282,"y":-2114,"width":400,"height":400,"type":"file","file":"COMPSCI367 - Artificial Intelligence/week12/Explainable AI (XAI).md"},
 		{"id":"2bf508af660757a0","type":"file","file":"COMPSCI367 - Artificial Intelligence/week10/Information Theory.md","x":8895,"y":-353,"width":660,"height":400},
 		{"id":"ca3c52732e90e667","type":"file","file":"COMPSCI367 - Artificial Intelligence/week10/Entropy (or self-information).md","x":9225,"y":-924,"width":707,"height":400},
 		{"id":"2dafb100aabf0902","type":"file","file":"COMPSCI367 - Artificial Intelligence/week10/Reason with Uncertainty.md","x":7112,"y":-1080,"width":400,"height":400},
@@ -184,7 +183,16 @@
 		{"id":"cd078bc9e5be02af","type":"file","file":"COMPSCI367 - Artificial Intelligence/week11/evaluate desirability.md","x":17250,"y":-4120,"width":400,"height":326},
 		{"id":"7fd1e5c4b5d9c24a","type":"file","file":"COMPSCI367 - Artificial Intelligence/week12/Chance nodes.md","x":17560,"y":-2257,"width":400,"height":209},
 		{"id":"dd47ce30fb96ced8","type":"file","file":"COMPSCI367 - Artificial Intelligence/week12/Decision function.md","x":18080,"y":-2257,"width":400,"height":308},
-		{"id":"a47be4cdbe374105","type":"file","file":"COMPSCI367 - Artificial Intelligence/week12/Decision network.md","x":18545,"y":-2248,"width":400,"height":488}
+		{"id":"a47be4cdbe374105","type":"file","file":"COMPSCI367 - Artificial Intelligence/week12/Decision network.md","x":18545,"y":-2248,"width":400,"height":488},
+		{"id":"895e3912f462b7f7","x":15086,"y":-5840,"width":400,"height":453,"type":"file","file":"COMPSCI367 - Artificial Intelligence/week12/Explainable AI (XAI).md"},
+		{"id":"e37670669390e8c0","x":19120,"y":-2223,"width":400,"height":240,"type":"file","file":"COMPSCI367 - Artificial Intelligence/week12/Finite horizon.md"},
+		{"id":"7cc0be4f5b90fd71","x":15580,"y":-5840,"width":400,"height":400,"type":"file","file":"COMPSCI367 - Artificial Intelligence/week12/How we can resolve the problems of robots taking over jobs.md"},
+		{"id":"6586d7bfe8fcb15a","x":16904,"y":-5459,"width":400,"height":400,"type":"file","file":"COMPSCI367 - Artificial Intelligence/week12/Lethal Autonomous Weapon.md"},
+		{"id":"786cac7d155462de","x":16744,"y":-6499,"width":400,"height":400,"type":"file","file":"COMPSCI367 - Artificial Intelligence/week12/Misaligned Intelligence Explosion.md"},
+		{"id":"8a9944f80cb5630b","x":15716,"y":-6563,"width":400,"height":400,"type":"file","file":"COMPSCI367 - Artificial Intelligence/week12/moral responsibility.md"},
+		{"id":"9acfdc3f541eb40b","x":18345,"y":-1674,"width":400,"height":400,"type":"file","file":"COMPSCI367 - Artificial Intelligence/week12/Indefinite horizon or infinite horizon.md"},
+		{"id":"6cfbb834e1b19f89","x":18880,"y":-1541,"width":400,"height":205,"type":"file","file":"COMPSCI367 - Artificial Intelligence/week12/no forgetting property.md"},
+		{"id":"b2cd08f5af0df044","x":18145,"y":-2641,"width":400,"height":161,"type":"file","file":"COMPSCI367 - Artificial Intelligence/week12/optimal policy.md"}
 	],
 	"edges":[
 		{"id":"58761566270d0cbd","fromNode":"483c0f155182fe5d","fromSide":"bottom","toNode":"168ecaded8db3ab0","toSide":"top"},
