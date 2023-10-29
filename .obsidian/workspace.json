@@ -4,18 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "fbf9db0964ae76a9",
+        "id": "f40726a3795c7bc9",
         "type": "tabs",
         "children": [
           {
-            "id": "98da943ebf305f83",
+            "id": "2baf3d4d32bda653",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week02/Systematic Search.md",
-                "mode": "source",
-                "source": false
+                "file": "COMPSCI367 - Artificial Intelligence/finals prep.canvas",
+                "viewState": {
+                  "x": 4072.6361351418436,
+                  "y": -609.2316507507564,
+                  "zoom": -1.3333333333333328
+                }
               }
             }
           }
@@ -85,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week02/Systematic Search.md",
+                "file": "COMPSCI367 - Artificial Intelligence/finals prep.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week02/Systematic Search.md",
+                "file": "COMPSCI367 - Artificial Intelligence/finals prep.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week02/Systematic Search.md"
+                "file": "COMPSCI367 - Artificial Intelligence/finals prep.canvas"
               }
             }
           },
@@ -166,10 +169,10 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "98da943ebf305f83",
+  "active": "2baf3d4d32bda653",
   "lastOpenFiles": [
-    "COMPSCI367 - Artificial Intelligence/finals prep.canvas",
     "COMPSCI367 - Artificial Intelligence/week02/Systematic Search.md",
+    "COMPSCI367 - Artificial Intelligence/finals prep.canvas",
     "COMPSCI367 - Artificial Intelligence/week03/Tree Search.md",
     "COMPSCI367 - Artificial Intelligence/week03/Iterative Deepening A-Star Search (IDA).md",
     "COMPSCI367 - Artificial Intelligence/week03/Iterative Improvement.md",

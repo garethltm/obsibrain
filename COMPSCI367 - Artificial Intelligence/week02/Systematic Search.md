@@ -5,3 +5,4 @@
 - [[Iterative-Deepening Search (IDS)]]
 - [[Uniform-Cost Search (UCS) (Lowest-Cost-First Search)]]
 - [[A-Star Search]]
+- [[Bidirectional Search]]
