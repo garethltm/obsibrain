@@ -15,9 +15,9 @@
               "state": {
                 "file": "COMPSCI367 - Artificial Intelligence/finals prep.canvas",
                 "viewState": {
-                  "x": 10710.033358609127,
-                  "y": -5439.9684559759635,
-                  "zoom": -1.3333333333333328
+                  "x": 10456.273780445656,
+                  "y": -6205.796145894878,
+                  "zoom": -0.9999999999999996
                 }
               }
             }
@@ -88,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week10/Term Frequency (tf).md",
+                "file": "COMPSCI367 - Artificial Intelligence/week10/The vector space model.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week10/Term Frequency (tf).md",
+                "file": "COMPSCI367 - Artificial Intelligence/week10/The vector space model.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week10/Term Frequency (tf).md"
+                "file": "COMPSCI367 - Artificial Intelligence/week10/The vector space model.md"
               }
             }
           },
@@ -156,7 +156,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week10/Term Frequency (tf).md"
+                "file": "COMPSCI367 - Artificial Intelligence/week10/The vector space model.md"
               }
             }
           }
