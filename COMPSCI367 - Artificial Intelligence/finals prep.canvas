@@ -158,23 +158,23 @@
 		{"id":"5cb3512fe5e60f81","type":"file","file":"COMPSCI367 - Artificial Intelligence/week11/Bayesian Network Inference.md","x":14880,"y":-2025,"width":691,"height":400},
 		{"id":"b7c81615e2f10c16","type":"file","file":"COMPSCI367 - Artificial Intelligence/week11/Axiom 1 - Completeness.md","x":15171,"y":-1308,"width":400,"height":254},
 		{"id":"1d76bcff2123916d","type":"file","file":"COMPSCI367 - Artificial Intelligence/week11/Bayesian Networks.md","x":13840,"y":-1695,"width":860,"height":400},
-		{"id":"4b23b84c61f41c56","type":"file","file":"COMPSCI367 - Artificial Intelligence/week11/CPT Operation 1 - Restriction.md","x":14198,"y":-3077,"width":400,"height":400},
-		{"id":"07cc337f6e4ac08f","type":"file","file":"COMPSCI367 - Artificial Intelligence/week11/CPT Operation 2 - Multiplication.md","x":14660,"y":-3077,"width":400,"height":400},
-		{"id":"9b4774be2ce523c3","type":"file","file":"COMPSCI367 - Artificial Intelligence/week11/CPT Operation 3 - Normalisation.md","x":15120,"y":-3077,"width":400,"height":400},
-		{"id":"c13f5ae2f4dc121e","type":"file","file":"COMPSCI367 - Artificial Intelligence/week11/CPT Operation 4 - Summation.md","x":15611,"y":-3077,"width":400,"height":400},
-		{"id":"0956bdaf39a126d0","type":"file","file":"COMPSCI367 - Artificial Intelligence/week11/CPT Operations.md","x":14860,"y":-3640,"width":400,"height":360},
-		{"id":"63fac59b53f08e10","type":"file","file":"COMPSCI367 - Artificial Intelligence/week11/Decision Trees.md","x":16156,"y":-2520,"width":400,"height":400},
-		{"id":"d86f33cc1887bfa7","type":"file","file":"COMPSCI367 - Artificial Intelligence/week11/von Neumann & Morgenstern (VNM).md","x":15520,"y":-2520,"width":400,"height":400},
 		{"id":"cd078bc9e5be02af","type":"file","file":"COMPSCI367 - Artificial Intelligence/week11/evaluate desirability.md","x":14317,"y":-2238,"width":400,"height":400},
-		{"id":"ad6404f310b2728d","type":"file","file":"COMPSCI367 - Artificial Intelligence/week11/expected utility.md","x":14800,"y":-2458,"width":400,"height":138},
 		{"id":"a4c56a5dd688d99c","type":"file","file":"COMPSCI367 - Artificial Intelligence/week11/Expected utility hypothesis.md","x":13694,"y":-2280,"width":400,"height":366},
 		{"id":"53e701feac37a6cf","type":"file","file":"COMPSCI367 - Artificial Intelligence/week11/strict preference relation.md","x":16013,"y":-761,"width":400,"height":241},
 		{"id":"929a1484a4a860d5","type":"file","file":"COMPSCI367 - Artificial Intelligence/week11/indifference relation (~).md","x":16531,"y":-800,"width":400,"height":252},
 		{"id":"cb4153ee48f42ca5","type":"file","file":"COMPSCI367 - Artificial Intelligence/week11/weak preference relation (≥).md","x":15956,"y":0,"width":400,"height":400},
 		{"id":"a0e79c2c4c8f3449","type":"file","file":"COMPSCI367 - Artificial Intelligence/week11/Linear scalability.md","x":16891,"y":-2044,"width":400,"height":400},
 		{"id":"73969e52ece94f5a","type":"file","file":"COMPSCI367 - Artificial Intelligence/week11/lottery.md","x":14971,"y":-909,"width":400,"height":297},
-		{"id":"1507a03cb473efaa","x":14962,"y":-317,"width":400,"height":400,"type":"file","file":"COMPSCI367 - Artificial Intelligence/week11/One-off Decision.md"},
-		{"id":"fc487570b15063eb","type":"file","file":"COMPSCI367 - Artificial Intelligence/week11/Additive independence property.md","x":14100,"y":-371,"width":600,"height":771}
+		{"id":"63fac59b53f08e10","type":"file","file":"COMPSCI367 - Artificial Intelligence/week11/Decision Trees.md","x":16971,"y":-2680,"width":400,"height":400},
+		{"id":"d86f33cc1887bfa7","type":"file","file":"COMPSCI367 - Artificial Intelligence/week11/von Neumann & Morgenstern (VNM).md","x":15720,"y":-2520,"width":731,"height":400},
+		{"id":"4b23b84c61f41c56","type":"file","file":"COMPSCI367 - Artificial Intelligence/week11/CPT Operation 1 - Restriction.md","x":13738,"y":-3676,"width":400,"height":400},
+		{"id":"07cc337f6e4ac08f","type":"file","file":"COMPSCI367 - Artificial Intelligence/week11/CPT Operation 2 - Multiplication.md","x":14200,"y":-3676,"width":400,"height":400},
+		{"id":"0956bdaf39a126d0","type":"file","file":"COMPSCI367 - Artificial Intelligence/week11/CPT Operations.md","x":14400,"y":-4239,"width":400,"height":360},
+		{"id":"9b4774be2ce523c3","type":"file","file":"COMPSCI367 - Artificial Intelligence/week11/CPT Operation 3 - Normalisation.md","x":14660,"y":-3676,"width":400,"height":400},
+		{"id":"c13f5ae2f4dc121e","type":"file","file":"COMPSCI367 - Artificial Intelligence/week11/CPT Operation 4 - Summation.md","x":15151,"y":-3676,"width":400,"height":400},
+		{"id":"1507a03cb473efaa","x":16553,"y":-3476,"width":400,"height":716,"type":"file","file":"COMPSCI367 - Artificial Intelligence/week11/One-off Decision.md"},
+		{"id":"fc487570b15063eb","type":"file","file":"COMPSCI367 - Artificial Intelligence/week11/Additive independence property.md","x":15691,"y":-3463,"width":600,"height":690},
+		{"id":"d136ec4d4e130d90","x":17120,"y":-3463,"width":400,"height":143,"type":"file","file":"COMPSCI367 - Artificial Intelligence/week11/expected utility.md"}
 	],
 	"edges":[
 		{"id":"58761566270d0cbd","fromNode":"483c0f155182fe5d","fromSide":"bottom","toNode":"168ecaded8db3ab0","toSide":"top"},
@@ -348,6 +348,8 @@
 		{"id":"f203d97fd28dc8bf","fromNode":"40c6ebbcffb6944e","fromSide":"bottom","toNode":"cb4153ee48f42ca5","toSide":"top"},
 		{"id":"a9623a8e8a1624b5","fromNode":"02fd7e6cb6354a32","fromSide":"bottom","toNode":"53e701feac37a6cf","toSide":"top"},
 		{"id":"06e326895c5a5b9b","fromNode":"133e2b713e0ceaed","fromSide":"bottom","toNode":"cb4153ee48f42ca5","toSide":"top"},
-		{"id":"3e03cb1aeadb4d01","fromNode":"1507a03cb473efaa","fromSide":"left","toNode":"fc487570b15063eb","toSide":"right"}
+		{"id":"3e03cb1aeadb4d01","fromNode":"1507a03cb473efaa","fromSide":"left","toNode":"fc487570b15063eb","toSide":"right"},
+		{"id":"6576ca3d5b4953f4","fromNode":"1507a03cb473efaa","fromSide":"bottom","toNode":"d86f33cc1887bfa7","toSide":"top"},
+		{"id":"0b2012f606ce52a3","fromNode":"1507a03cb473efaa","fromSide":"right","toNode":"d136ec4d4e130d90","toSide":"left"}
 	]
 }

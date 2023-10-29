@@ -15,9 +15,9 @@
               "state": {
                 "file": "COMPSCI367 - Artificial Intelligence/finals prep.canvas",
                 "viewState": {
-                  "x": 15363.933956474728,
-                  "y": -1529.2412285272403,
-                  "zoom": -1.6666666666666663
+                  "x": 17299.34053582835,
+                  "y": -2868.4837879521688,
+                  "zoom": -0.6666666666666667
                 }
               }
             }
@@ -88,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week11/Additive independence property.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week11/Expected utility hypothesis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week11/Additive independence property.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week11/Expected utility hypothesis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week11/Additive independence property.md"
+                "file": "COMPSCI367 - Artificial Intelligence/week11/Expected utility hypothesis.md"
               }
             }
           },
@@ -156,7 +156,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week11/Additive independence property.md"
+                "file": "COMPSCI367 - Artificial Intelligence/week11/Expected utility hypothesis.md"
               }
             }
           }
