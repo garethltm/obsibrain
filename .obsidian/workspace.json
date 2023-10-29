@@ -15,9 +15,9 @@
               "state": {
                 "file": "COMPSCI367 - Artificial Intelligence/finals prep.canvas",
                 "viewState": {
-                  "x": 1652.5455785620425,
-                  "y": -3289.320920409697,
-                  "zoom": -1.666666666666666
+                  "x": 3909.1317395612377,
+                  "y": -3376.386099685774,
+                  "zoom": -0.9999999999999996
                 }
               }
             }
@@ -88,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week05/Adversarial Search.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week05/Stochastic Beam Search (SBS).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week05/Adversarial Search.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week05/Stochastic Beam Search (SBS).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week05/Adversarial Search.md"
+                "file": "COMPSCI367 - Artificial Intelligence/week05/Stochastic Beam Search (SBS).md"
               }
             }
           },
