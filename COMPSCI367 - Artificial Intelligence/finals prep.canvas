@@ -102,9 +102,11 @@
 		{"id":"c731350ccb739874","type":"file","file":"COMPSCI367 - Artificial Intelligence/week09/Noisy OR.md","x":5699,"y":-3559,"width":400,"height":400},
 		{"id":"61b5fe0541423213","type":"file","file":"COMPSCI367 - Artificial Intelligence/week09/uncertainty.md","x":6220,"y":-3524,"width":520,"height":331},
 		{"id":"08f0737d4b4e5871","type":"file","file":"COMPSCI367 - Artificial Intelligence/week06/inference(s).md","x":4760,"y":-5560,"width":400,"height":170},
-		{"id":"58a881b6f43c7af3","type":"file","file":"COMPSCI367 - Artificial Intelligence/week09/Evidence - Calculate probabilities given prior evidence.md","x":8400,"y":-4869,"width":767,"height":608},
 		{"id":"08c47b055f30ba2a","type":"file","file":"COMPSCI367 - Artificial Intelligence/week09/Bayes Nets.md","x":8120,"y":-4154,"width":860,"height":440},
-		{"id":"3c050c5af3bc6673","type":"file","file":"COMPSCI367 - Artificial Intelligence/week09/First Order Bayes Nets.md","x":8228,"y":-3474,"width":780,"height":230}
+		{"id":"3c050c5af3bc6673","type":"file","file":"COMPSCI367 - Artificial Intelligence/week09/First Order Bayes Nets.md","x":8120,"y":-3580,"width":780,"height":230},
+		{"id":"58a881b6f43c7af3","type":"file","file":"COMPSCI367 - Artificial Intelligence/week09/Evidence - Calculate probabilities given prior evidence.md","x":8550,"y":-4869,"width":767,"height":608},
+		{"id":"612775c72d7ccfc8","type":"file","file":"COMPSCI367 - Artificial Intelligence/week10/Applying Bayes Rule.md","x":9160,"y":-4134,"width":599,"height":400},
+		{"id":"56d9c683763cadf0","x":9908,"y":-4037,"width":532,"height":400,"type":"file","file":"COMPSCI367 - Artificial Intelligence/week10/Applying Bayes Rule for class ranking.md"}
 	],
 	"edges":[
 		{"id":"58761566270d0cbd","fromNode":"483c0f155182fe5d","fromSide":"bottom","toNode":"168ecaded8db3ab0","toSide":"top"},
@@ -210,6 +212,8 @@
 		{"id":"ac67c6d081d64d16","fromNode":"c731350ccb739874","fromSide":"top","toNode":"4d1d5b328323a41b","toSide":"bottom"},
 		{"id":"4ca44735437d6453","fromNode":"795e78e6e19e6267","fromSide":"left","toNode":"ee62e7412ef3d470","toSide":"right"},
 		{"id":"487ad86553ccca6d","fromNode":"61b5fe0541423213","fromSide":"right","toNode":"f75473f75e267d30","toSide":"left"},
-		{"id":"485ad0e9be3222f3","fromNode":"58a881b6f43c7af3","fromSide":"left","toNode":"2088076f0e9f4d8a","toSide":"right"}
+		{"id":"485ad0e9be3222f3","fromNode":"58a881b6f43c7af3","fromSide":"left","toNode":"2088076f0e9f4d8a","toSide":"right"},
+		{"id":"2981077da2e83e1b","fromNode":"08c47b055f30ba2a","fromSide":"top","toNode":"2088076f0e9f4d8a","toSide":"bottom"},
+		{"id":"3687fdfe0244fa9d","fromNode":"58a881b6f43c7af3","fromSide":"bottom","toNode":"612775c72d7ccfc8","toSide":"top"}
 	]
 }
