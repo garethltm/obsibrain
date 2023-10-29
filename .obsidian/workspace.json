@@ -51,7 +51,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "gareth",
+                "query": "most",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -68,7 +68,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -169,7 +170,7 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "6687c04ac1db9dc0",
+  "active": "a6e0090ac9cbd1f3",
   "lastOpenFiles": [
     "COMPSCI367 - Artificial Intelligence/week01/Multi-agent.md",
     "COMPSCI367 - Artificial Intelligence/week08/Existential quantification-GARETH.md",
