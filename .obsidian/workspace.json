@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week11/strict preference relation.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week12/The Autonomous Vehicle Dilemma.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week11/strict preference relation.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week12/The Autonomous Vehicle Dilemma.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week11/strict preference relation.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week12/The Autonomous Vehicle Dilemma.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week11/strict preference relation.md"
+                "file": "COMPSCI367 - Artificial Intelligence/week12/The Autonomous Vehicle Dilemma.md"
               }
             }
           },
@@ -168,6 +168,11 @@
   },
   "active": "6687c04ac1db9dc0",
   "lastOpenFiles": [
+    "COMPSCI367 - Artificial Intelligence/week12/value of a decision network.md",
+    "COMPSCI367 - Artificial Intelligence/week12/Utilitarian theory.md",
+    "Deontologist theory.md",
+    "COMPSCI367 - Artificial Intelligence/week11/strict preference relation.md",
+    "COMPSCI367 - Artificial Intelligence/week11/Axioms for Rationality.md",
     "COMPSCI367 - Artificial Intelligence/week01/agent(s).md",
     "COMPSCI367 - Artificial Intelligence/week01/Actuators.md",
     "COMPSCI367 - Artificial Intelligence/week01/Artificial Intelligence (AI).md",
@@ -188,13 +193,8 @@
     "COMPSCI367 - Artificial Intelligence/week01/Multi-agent-GARETH.md",
     "COMPSCI367 - Artificial Intelligence/week01/Goal(s) - Goal State(s)-GARETH.md",
     "COMPSCI367 - Artificial Intelligence/week01/Actuators-GARETH.md",
-    "COMPSCI367 - Artificial Intelligence/week12/Utilitarian theory.md",
     "conflict-files-obsidian-git.md",
     "COMPSCI367 - Artificial Intelligence/week06/Wumpus World Agent.md",
-    "COMPSCI367 - Artificial Intelligence/week12/value of a decision network.md",
-    "COMPSCI367 - Artificial Intelligence/week12/moral responsibility.md",
-    "COMPSCI367 - Artificial Intelligence/week12/The Autonomous Vehicle Dilemma.md",
-    "COMPSCI367 - Artificial Intelligence/week12/Robots taking over jobs.md",
     "@images/COMPSCI3672022_S2W09Lecture25AIinSociety28129-21.jpg",
     "@images/Pasted image 20231026174833.png",
     "@images/Pasted image 20231026174606.png",
