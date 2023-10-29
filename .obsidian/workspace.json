@@ -11,11 +11,14 @@
             "id": "766f3d6bf8798b3a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week08/Domain-closure assumption.md",
-                "mode": "source",
-                "source": false
+                "file": "COMPSCI367 - Artificial Intelligence/finals prep.canvas",
+                "viewState": {
+                  "x": -2480.8501351582636,
+                  "y": -9083.377352617366,
+                  "zoom": -0.6666666666666663
+                }
               }
             }
           }
@@ -85,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week08/Domain-closure assumption.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week09/Planning task.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week08/Domain-closure assumption.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week09/Planning task.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week08/Domain-closure assumption.md"
+                "file": "COMPSCI367 - Artificial Intelligence/week09/Planning task.md"
               }
             }
           },
@@ -153,7 +156,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week08/Domain-closure assumption.md"
+                "file": "COMPSCI367 - Artificial Intelligence/week09/Planning task.md"
               }
             }
           }
@@ -178,6 +181,7 @@
   },
   "active": "766f3d6bf8798b3a",
   "lastOpenFiles": [
+    "COMPSCI367 - Artificial Intelligence/week08/Domain-closure assumption.md",
     "COMPSCI367 - Artificial Intelligence/finals prep.canvas",
     "COMPSCI367 - Artificial Intelligence/week08/First-Order Logic.md",
     "COMPSCI367 - Artificial Intelligence/week09/Classical Planning.md",
@@ -195,7 +199,6 @@
     "COMPSCI367 - Artificial Intelligence/week06/Propositional Knowledge Base.md",
     "COMPSCI367 - Artificial Intelligence/week08/axioms.md",
     "COMPSCI367 - Artificial Intelligence/week08/model(s).md",
-    "COMPSCI367 - Artificial Intelligence/week08/Domain-closure assumption.md",
     "COMPSCI367 - Artificial Intelligence/week08/Closed world assumption.md",
     "COMPSCI367 - Artificial Intelligence/week07/Modus Ponens (MP).md",
     "COMPSCI367 - Artificial Intelligence/week04/Greedy Descent.md",

@@ -1,9 +1,9 @@
 {
 	"nodes":[
 		{"id":"09e4ad48cb61d99c","type":"group","x":-160,"y":-12480,"width":8800,"height":6920,"color":"1","label":"Logic"},
+		{"id":"6d2365b44856105f","type":"group","x":-4960,"y":-10400,"width":4680,"height":3849,"color":"1","label":"week09"},
 		{"id":"d5adc265cc797e1b","type":"group","x":-2320,"y":-4880,"width":7760,"height":7840,"color":"1","label":"Local Search"},
 		{"id":"b0281d92c82035ae","type":"group","x":-9760,"y":-6240,"width":7080,"height":5035,"label":"Systematic Search"},
-		{"id":"6d2365b44856105f","type":"group","x":-4960,"y":-10400,"width":4680,"height":3849,"color":"1","label":"week09"},
 		{"id":"e82d2d6e297bac0b","type":"file","file":"COMPSCI367 - Artificial Intelligence/week03/Admissible heuristic.md","x":-9640,"y":-6157,"width":800,"height":290},
 		{"id":"5528bedefd876801","type":"file","file":"COMPSCI367 - Artificial Intelligence/week02/Consistent Heuristics.md","x":-9640,"y":-5407,"width":840,"height":1521},
 		{"id":"6f5232cb8da01059","type":"file","file":"COMPSCI367 - Artificial Intelligence/week05/Stochastic Beam Search (SBS).md","x":4560,"y":-4080,"width":800,"height":640},
@@ -78,19 +78,21 @@
 		{"id":"0d4085108c0afa89","type":"file","file":"COMPSCI367 - Artificial Intelligence/week06/clause(s).md","x":4910,"y":-8080,"width":890,"height":500},
 		{"id":"ffeb2544dccef85a","type":"file","file":"COMPSCI367 - Artificial Intelligence/week03/degree heuristic.md","x":-1440,"y":951,"width":446,"height":178},
 		{"id":"228a7ab4be6bdef1","type":"file","file":"COMPSCI367 - Artificial Intelligence/week03/Tree Search.md","x":-880,"y":1160,"width":1080,"height":1360},
-		{"id":"1f53223437edcd0e","type":"file","file":"COMPSCI367 - Artificial Intelligence/week09/Backward (Regression) planning.md","x":-4019,"y":-7552,"width":840,"height":712},
+		{"id":"776f617db4924558","type":"file","file":"COMPSCI367 - Artificial Intelligence/week06/Logic Inference vs Constraint Satisfaction.md","x":25,"y":-6800,"width":1110,"height":925},
 		{"id":"08c47b055f30ba2a","type":"file","file":"COMPSCI367 - Artificial Intelligence/week09/Bayes Nets.md","x":-3894,"y":-10000,"width":860,"height":440},
 		{"id":"3c050c5af3bc6673","type":"file","file":"COMPSCI367 - Artificial Intelligence/week09/First Order Bayes Nets.md","x":-3854,"y":-9378,"width":780,"height":230},
 		{"id":"a0f7e424afa1db31","type":"file","file":"COMPSCI367 - Artificial Intelligence/week09/Building a planner.md","x":-3379,"y":-8953,"width":400,"height":159},
 		{"id":"fc2554959ad9e7c2","type":"file","file":"COMPSCI367 - Artificial Intelligence/week09/Logic-based Planning algorithms.md","x":-3124,"y":-8633,"width":800,"height":960},
 		{"id":"ce0eed8b1334236a","type":"file","file":"COMPSCI367 - Artificial Intelligence/week09/Classical Planning.md","x":-2114,"y":-8633,"width":900,"height":840},
-		{"id":"8f06822f33c6be7d","x":-1000,"y":-8680,"width":400,"height":440,"type":"file","file":"COMPSCI367 - Artificial Intelligence/week09/SATPlan.md"},
-		{"id":"8279376100a5cd45","type":"file","file":"COMPSCI367 - Artificial Intelligence/week09/Forward (Progression) planning.md","x":-4940,"y":-7552,"width":856,"height":981},
+		{"id":"8f06822f33c6be7d","type":"file","file":"COMPSCI367 - Artificial Intelligence/week09/SATPlan.md","x":-1000,"y":-8680,"width":400,"height":440},
 		{"id":"b5726b70f90d8563","type":"file","file":"COMPSCI367 - Artificial Intelligence/week09/Search-based Planning Algorithm.md","x":-4084,"y":-8633,"width":820,"height":920},
-		{"id":"776f617db4924558","type":"file","file":"COMPSCI367 - Artificial Intelligence/week06/Logic Inference vs Constraint Satisfaction.md","x":25,"y":-6800,"width":1110,"height":925},
 		{"id":"ee71447003fed49a","type":"file","file":"COMPSCI367 - Artificial Intelligence/week09/TranslateToSAT.md","x":-1124,"y":-8153,"width":680,"height":430},
-		{"id":"f6b3acc959bff629","x":-984,"y":-9160,"width":400,"height":360,"type":"file","file":"COMPSCI367 - Artificial Intelligence/week09/ExtractPlan.md"},
-		{"id":"a13ee0bdd07e8d35","x":-2580,"y":-9194,"width":961,"height":400,"type":"file","file":"COMPSCI367 - Artificial Intelligence/week09/Planning task.md"}
+		{"id":"f6b3acc959bff629","type":"file","file":"COMPSCI367 - Artificial Intelligence/week09/ExtractPlan.md","x":-984,"y":-9160,"width":400,"height":360},
+		{"id":"a13ee0bdd07e8d35","type":"file","file":"COMPSCI367 - Artificial Intelligence/week09/Planning task.md","x":-2580,"y":-9194,"width":961,"height":400},
+		{"id":"1f53223437edcd0e","type":"file","file":"COMPSCI367 - Artificial Intelligence/week09/Backward (Regression) planning.md","x":-4019,"y":-7552,"width":840,"height":712},
+		{"id":"8279376100a5cd45","type":"file","file":"COMPSCI367 - Artificial Intelligence/week09/Forward (Progression) planning.md","x":-4940,"y":-7552,"width":856,"height":981},
+		{"id":"3fc05267110262a7","x":-2620,"y":-9500,"width":400,"height":131,"type":"file","file":"COMPSCI367 - Artificial Intelligence/week08/Closed world assumption.md"},
+		{"id":"da6d952e58226169","x":-2019,"y":-9535,"width":400,"height":201,"type":"file","file":"COMPSCI367 - Artificial Intelligence/week08/Domain-closure assumption.md"}
 	],
 	"edges":[
 		{"id":"58761566270d0cbd","fromNode":"483c0f155182fe5d","fromSide":"bottom","toNode":"168ecaded8db3ab0","toSide":"top"},
@@ -182,6 +184,8 @@
 		{"id":"d3e771abe42bef8c","fromNode":"8f06822f33c6be7d","fromSide":"right","toNode":"2bf31c7bc0b7d4ff","toSide":"left"},
 		{"id":"73e3007b87e38068","fromNode":"8f06822f33c6be7d","fromSide":"top","toNode":"f6b3acc959bff629","toSide":"bottom"},
 		{"id":"65c9f5511563e4ac","fromNode":"fc2554959ad9e7c2","fromSide":"top","toNode":"a13ee0bdd07e8d35","toSide":"left"},
-		{"id":"88b59e11cc875ca3","fromNode":"a13ee0bdd07e8d35","fromSide":"bottom","toNode":"ce0eed8b1334236a","toSide":"top"}
+		{"id":"88b59e11cc875ca3","fromNode":"a13ee0bdd07e8d35","fromSide":"bottom","toNode":"ce0eed8b1334236a","toSide":"top"},
+		{"id":"a4419cdc56546f4d","fromNode":"3fc05267110262a7","fromSide":"bottom","toNode":"a13ee0bdd07e8d35","toSide":"top"},
+		{"id":"2a2e3c5217f59c90","fromNode":"da6d952e58226169","fromSide":"bottom","toNode":"a13ee0bdd07e8d35","toSide":"top"}
 	]
 }
