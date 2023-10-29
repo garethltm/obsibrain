@@ -103,7 +103,8 @@
 		{"id":"2e0832f26689d18a","type":"file","file":"COMPSCI367 - Artificial Intelligence/week09/Probabilistic Parsing.md","x":6880,"y":-4800,"width":400,"height":203},
 		{"id":"1f10eceea50a5357","type":"file","file":"COMPSCI367 - Artificial Intelligence/week09/Probabilistic Reasoning.md","x":6480,"y":-3040,"width":400,"height":201},
 		{"id":"c731350ccb739874","type":"file","file":"COMPSCI367 - Artificial Intelligence/week09/Noisy OR.md","x":5699,"y":-3559,"width":400,"height":400},
-		{"id":"ee62e7412ef3d470","x":3935,"y":-11840,"width":400,"height":400,"type":"file","file":"COMPSCI367 - Artificial Intelligence/week09/Task description.md"}
+		{"id":"ee62e7412ef3d470","type":"file","file":"COMPSCI367 - Artificial Intelligence/week09/Task description.md","x":3935,"y":-11840,"width":400,"height":400},
+		{"id":"61b5fe0541423213","x":6280,"y":-3559,"width":400,"height":400,"type":"file","file":"COMPSCI367 - Artificial Intelligence/week09/uncertainty.md"}
 	],
 	"edges":[
 		{"id":"58761566270d0cbd","fromNode":"483c0f155182fe5d","fromSide":"bottom","toNode":"168ecaded8db3ab0","toSide":"top"},
