@@ -15,9 +15,9 @@
               "state": {
                 "file": "COMPSCI367 - Artificial Intelligence/finals prep.canvas",
                 "viewState": {
-                  "x": 9673.33936896127,
-                  "y": -4052.188481928791,
-                  "zoom": -0.6666666666666663
+                  "x": 9373.054124592543,
+                  "y": -4108.180095349667,
+                  "zoom": -1.3333333333333328
                 }
               }
             }
@@ -88,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week10/Applying Bayes Rule for class ranking.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week10/Bayes Rule with Existing Evidence.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week10/Applying Bayes Rule for class ranking.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week10/Bayes Rule with Existing Evidence.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week10/Applying Bayes Rule for class ranking.md"
+                "file": "COMPSCI367 - Artificial Intelligence/week10/Bayes Rule with Existing Evidence.md"
               }
             }
           },
@@ -156,7 +156,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week10/Applying Bayes Rule for class ranking.md"
+                "file": "COMPSCI367 - Artificial Intelligence/week10/Bayes Rule with Existing Evidence.md"
               }
             }
           }

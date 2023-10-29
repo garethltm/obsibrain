@@ -87,6 +87,7 @@
 		{"id":"96646a99754ecdd5","type":"file","file":"COMPSCI367 - Artificial Intelligence/week08/First-Order Formulas.md","x":6131,"y":-11040,"width":644,"height":480},
 		{"id":"b6f512ea706ca387","type":"file","file":"COMPSCI367 - Artificial Intelligence/week08/Generalised Modus Ponens (GMP).md","x":6756,"y":-9956,"width":400,"height":213},
 		{"id":"c0e39f305fedaef3","type":"file","file":"COMPSCI367 - Artificial Intelligence/week08/First-Order Interpretation.md","x":5401,"y":-11761,"width":640,"height":640},
+		{"id":"bd7fffb028bd0d64","x":9015,"y":-4386,"width":400,"height":400,"type":"file","file":"COMPSCI367 - Artificial Intelligence/week10/Bayes Rule with Existing Evidence.md"},
 		{"id":"e5e76957efe5bbbf","type":"file","file":"COMPSCI367 - Artificial Intelligence/week05/Local beam Search.md","x":3360,"y":-4080,"width":1120,"height":1040},
 		{"id":"b3b17a63e58a3969","type":"file","file":"COMPSCI367 - Artificial Intelligence/week04/First Choice Hill-Climbing.md","x":3920,"y":-2946,"width":840,"height":300},
 		{"id":"d49ce6caecaf544b","type":"file","file":"COMPSCI367 - Artificial Intelligence/week04/Stochastic Hill-Climbing.md","x":3920,"y":-2560,"width":760,"height":280},
@@ -94,7 +95,6 @@
 		{"id":"6f5232cb8da01059","type":"file","file":"COMPSCI367 - Artificial Intelligence/week05/Stochastic Beam Search (SBS).md","x":4560,"y":-4080,"width":800,"height":640},
 		{"id":"a2bdab967b9d4ab3","type":"file","file":"COMPSCI367 - Artificial Intelligence/week05/Genetic Algorithm (GA).md","x":4560,"y":-4840,"width":640,"height":585},
 		{"id":"1565f3fa00bb00bc","type":"file","file":"COMPSCI367 - Artificial Intelligence/week05/Adversarial Search.md","x":4600,"y":-3279,"width":400,"height":239},
-		{"id":"f75473f75e267d30","type":"file","file":"COMPSCI367 - Artificial Intelligence/week09/Probability Theory.md","x":7040,"y":-4200,"width":920,"height":972},
 		{"id":"2e0832f26689d18a","type":"file","file":"COMPSCI367 - Artificial Intelligence/week09/Probabilistic Parsing.md","x":6880,"y":-4800,"width":400,"height":203},
 		{"id":"2088076f0e9f4d8a","type":"file","file":"COMPSCI367 - Artificial Intelligence/week09/Probability.md","x":7371,"y":-4869,"width":857,"height":400},
 		{"id":"4d1d5b328323a41b","type":"file","file":"COMPSCI367 - Artificial Intelligence/week09/Probabilistic Logic.md","x":5699,"y":-4870,"width":941,"height":1079},
@@ -104,9 +104,11 @@
 		{"id":"08f0737d4b4e5871","type":"file","file":"COMPSCI367 - Artificial Intelligence/week06/inference(s).md","x":4760,"y":-5560,"width":400,"height":170},
 		{"id":"08c47b055f30ba2a","type":"file","file":"COMPSCI367 - Artificial Intelligence/week09/Bayes Nets.md","x":8120,"y":-4154,"width":860,"height":440},
 		{"id":"3c050c5af3bc6673","type":"file","file":"COMPSCI367 - Artificial Intelligence/week09/First Order Bayes Nets.md","x":8120,"y":-3580,"width":780,"height":230},
-		{"id":"58a881b6f43c7af3","type":"file","file":"COMPSCI367 - Artificial Intelligence/week09/Evidence - Calculate probabilities given prior evidence.md","x":8550,"y":-4869,"width":767,"height":608},
-		{"id":"612775c72d7ccfc8","type":"file","file":"COMPSCI367 - Artificial Intelligence/week10/Applying Bayes Rule.md","x":9160,"y":-4134,"width":599,"height":400},
-		{"id":"56d9c683763cadf0","x":9908,"y":-4037,"width":532,"height":400,"type":"file","file":"COMPSCI367 - Artificial Intelligence/week10/Applying Bayes Rule for class ranking.md"}
+		{"id":"f75473f75e267d30","type":"file","file":"COMPSCI367 - Artificial Intelligence/week09/Probability Theory.md","x":7080,"y":-4200,"width":920,"height":972},
+		{"id":"58a881b6f43c7af3","type":"file","file":"COMPSCI367 - Artificial Intelligence/week09/Evidence - Calculate probabilities given prior evidence.md","x":10189,"y":-5174,"width":767,"height":608},
+		{"id":"56d9c683763cadf0","type":"file","file":"COMPSCI367 - Artificial Intelligence/week10/Applying Bayes Rule for class ranking.md","x":10690,"y":-3951,"width":532,"height":474},
+		{"id":"612775c72d7ccfc8","type":"file","file":"COMPSCI367 - Artificial Intelligence/week10/Applying Bayes Rule.md","x":9945,"y":-3837,"width":599,"height":514},
+		{"id":"cea8830123f2270b","x":9120,"y":-4200,"width":560,"height":620,"type":"file","file":"COMPSCI367 - Artificial Intelligence/week10/Bayes Classifier - Conditional Independence.md"}
 	],
 	"edges":[
 		{"id":"58761566270d0cbd","fromNode":"483c0f155182fe5d","fromSide":"bottom","toNode":"168ecaded8db3ab0","toSide":"top"},
@@ -214,6 +216,8 @@
 		{"id":"487ad86553ccca6d","fromNode":"61b5fe0541423213","fromSide":"right","toNode":"f75473f75e267d30","toSide":"left"},
 		{"id":"485ad0e9be3222f3","fromNode":"58a881b6f43c7af3","fromSide":"left","toNode":"2088076f0e9f4d8a","toSide":"right"},
 		{"id":"2981077da2e83e1b","fromNode":"08c47b055f30ba2a","fromSide":"top","toNode":"2088076f0e9f4d8a","toSide":"bottom"},
-		{"id":"3687fdfe0244fa9d","fromNode":"58a881b6f43c7af3","fromSide":"bottom","toNode":"612775c72d7ccfc8","toSide":"top"}
+		{"id":"3687fdfe0244fa9d","fromNode":"58a881b6f43c7af3","fromSide":"bottom","toNode":"612775c72d7ccfc8","toSide":"top"},
+		{"id":"2f0e638350195a00","fromNode":"58a881b6f43c7af3","fromSide":"bottom","toNode":"56d9c683763cadf0","toSide":"top"},
+		{"id":"237969d906591752","fromNode":"cea8830123f2270b","fromSide":"top","toNode":"2088076f0e9f4d8a","toSide":"right"}
 	]
 }
