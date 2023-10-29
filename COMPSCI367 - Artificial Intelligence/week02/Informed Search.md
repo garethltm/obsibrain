@@ -9,6 +9,8 @@
 
 # Types of Informed Search
 - [[Greedy (Best-First) Search]]
+- [[A-Star Search]]
+- [[Iterative Deepening A-Star Search (IDA)]]
 
 ## Summary: Informed Search
 - All of them uses [[heuristic(s)]].
