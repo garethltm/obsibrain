@@ -60,7 +60,10 @@
 		{"id":"a2c6291e17219496","x":1120,"y":-2660,"width":720,"height":200,"type":"text","text":"## Summary\n- [[Hill-Climbing]] - choose best child\n- [[Hill-Climbing with side-way moves]] - choose best or equal child\n- [[Enforced Hill-Climbing]] - use [[Breadth-First Search (BFS)]] until you find a \"better\" node\n- [[Tabu Search]] - keeps a [[Tabu list]] of nodes you have been to & don't go back"},
 		{"id":"ec5a24935e85a435","x":704,"y":-2160,"width":796,"height":725,"type":"file","file":"COMPSCI367 - Artificial Intelligence/week04/Hill-Climbing.md"},
 		{"id":"f8db50f824a6d73a","x":1560,"y":-2160,"width":882,"height":658,"type":"file","file":"COMPSCI367 - Artificial Intelligence/week04/Hill-Climbing with side-way moves.md"},
-		{"id":"9ffafe470f394e19","x":2480,"y":-2160,"width":860,"height":1200,"type":"file","file":"COMPSCI367 - Artificial Intelligence/week04/Enforced Hill-Climbing.md"}
+		{"id":"9ffafe470f394e19","x":2480,"y":-2160,"width":860,"height":1200,"type":"file","file":"COMPSCI367 - Artificial Intelligence/week04/Enforced Hill-Climbing.md"},
+		{"id":"fd0f4e70e58a04ea","x":3400,"y":-2160,"width":800,"height":600,"type":"file","file":"COMPSCI367 - Artificial Intelligence/week04/Tabu Search.md"},
+		{"id":"b3b17a63e58a3969","x":3500,"y":-2946,"width":840,"height":300,"type":"file","file":"COMPSCI367 - Artificial Intelligence/week04/First Choice Hill-Climbing.md"},
+		{"id":"d49ce6caecaf544b","x":3400,"y":-2560,"width":760,"height":280,"type":"file","file":"COMPSCI367 - Artificial Intelligence/week04/Stochastic Hill-Climbing.md"}
 	],
 	"edges":[
 		{"id":"58761566270d0cbd","fromNode":"21c3f5042ad67d16","fromSide":"bottom","toNode":"168ecaded8db3ab0","toSide":"top"},
@@ -104,6 +107,9 @@
 		{"id":"4153072597fa76d2","fromNode":"d5adc265cc797e1b","fromSide":"top","toNode":"a2c6291e17219496","toSide":"top"},
 		{"id":"d17d1e67933f377c","fromNode":"a2c6291e17219496","fromSide":"bottom","toNode":"ec5a24935e85a435","toSide":"top"},
 		{"id":"2a1780c43df13ddf","fromNode":"a2c6291e17219496","fromSide":"bottom","toNode":"f8db50f824a6d73a","toSide":"top"},
-		{"id":"ebc7c84077ad58e7","fromNode":"a2c6291e17219496","fromSide":"bottom","toNode":"9ffafe470f394e19","toSide":"top"}
+		{"id":"ebc7c84077ad58e7","fromNode":"a2c6291e17219496","fromSide":"bottom","toNode":"9ffafe470f394e19","toSide":"top"},
+		{"id":"a2cde96688e197ec","fromNode":"a2c6291e17219496","fromSide":"bottom","toNode":"fd0f4e70e58a04ea","toSide":"right"},
+		{"id":"e8a68c0000f4f414","fromNode":"778ed930a7d2020d","fromSide":"right","toNode":"b3b17a63e58a3969","toSide":"left"},
+		{"id":"10335fa1e962428a","fromNode":"778ed930a7d2020d","fromSide":"right","toNode":"d49ce6caecaf544b","toSide":"left"}
 	]
 }
