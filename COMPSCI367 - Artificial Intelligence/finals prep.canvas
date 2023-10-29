@@ -83,6 +83,7 @@
 		{"id":"143c9b842b12e844","type":"file","file":"COMPSCI367 - Artificial Intelligence/week02/Informed Search.md","x":-8400,"y":-5475,"width":1000,"height":875},
 		{"id":"b96022ab55337dfc","type":"file","file":"COMPSCI367 - Artificial Intelligence/week02/Greedy (Best-First) Search.md","x":-8240,"y":-4405,"width":680,"height":1281},
 		{"id":"4a95fa87cb99f8e0","type":"file","file":"COMPSCI367 - Artificial Intelligence/week10/Why should you use NLP.md","x":11478,"y":-7740,"width":400,"height":400},
+		{"id":"fb4b79a0ed070a7c","x":14928,"y":-2270,"width":400,"height":400,"type":"file","file":"COMPSCI367 - Artificial Intelligence/week11/Probabilistic Model.md"},
 		{"id":"2bf508af660757a0","type":"file","file":"COMPSCI367 - Artificial Intelligence/week10/Information Theory.md","x":8895,"y":-353,"width":660,"height":400},
 		{"id":"ca3c52732e90e667","type":"file","file":"COMPSCI367 - Artificial Intelligence/week10/Entropy (or self-information).md","x":9225,"y":-924,"width":707,"height":400},
 		{"id":"2dafb100aabf0902","type":"file","file":"COMPSCI367 - Artificial Intelligence/week10/Reason with Uncertainty.md","x":7112,"y":-1080,"width":400,"height":400},
@@ -171,15 +172,15 @@
 		{"id":"07cc337f6e4ac08f","type":"file","file":"COMPSCI367 - Artificial Intelligence/week11/CPT Operation 2 - Multiplication.md","x":14200,"y":-3676,"width":400,"height":400},
 		{"id":"0956bdaf39a126d0","type":"file","file":"COMPSCI367 - Artificial Intelligence/week11/CPT Operations.md","x":14400,"y":-4239,"width":400,"height":360},
 		{"id":"9b4774be2ce523c3","type":"file","file":"COMPSCI367 - Artificial Intelligence/week11/CPT Operation 3 - Normalisation.md","x":14660,"y":-3676,"width":400,"height":400},
-		{"id":"c13f5ae2f4dc121e","type":"file","file":"COMPSCI367 - Artificial Intelligence/week11/CPT Operation 4 - Summation.md","x":15151,"y":-3676,"width":400,"height":400},
-		{"id":"1507a03cb473efaa","x":16553,"y":-3476,"width":400,"height":716,"type":"file","file":"COMPSCI367 - Artificial Intelligence/week11/One-off Decision.md"},
+		{"id":"c13f5ae2f4dc121e","type":"file","file":"COMPSCI367 - Artificial Intelligence/week11/CPT Operation 4 - Summation.md","x":15151,"y":-3676,"width":400,"height":356},
+		{"id":"1507a03cb473efaa","type":"file","file":"COMPSCI367 - Artificial Intelligence/week11/One-off Decision.md","x":16553,"y":-3476,"width":400,"height":716},
 		{"id":"fc487570b15063eb","type":"file","file":"COMPSCI367 - Artificial Intelligence/week11/Additive independence property.md","x":15691,"y":-3463,"width":600,"height":690},
-		{"id":"d136ec4d4e130d90","x":17120,"y":-3463,"width":400,"height":143,"type":"file","file":"COMPSCI367 - Artificial Intelligence/week11/expected utility.md"},
-		{"id":"f3bb8917dbbee0ca","x":17120,"y":-3173,"width":400,"height":400,"type":"file","file":"COMPSCI367 - Artificial Intelligence/week11/Expected utility hypothesis.md"},
-		{"id":"e074f591dc04018d","x":17844,"y":-2847,"width":400,"height":227,"type":"file","file":"COMPSCI367 - Artificial Intelligence/week11/utility.md"},
-		{"id":"79ef0f5ba5b33afc","x":17699,"y":-2347,"width":400,"height":147,"type":"file","file":"COMPSCI367 - Artificial Intelligence/week11/Utility function.md"},
-		{"id":"95e8e89abf7efdeb","x":14360,"y":-1040,"width":400,"height":400,"type":"file","file":"COMPSCI367 - Artificial Intelligence/week11/Utility theory.md"},
-		{"id":"ced01ca1127cbccc","x":14400,"y":-3080,"width":1120,"height":400,"type":"file","file":"COMPSCI367 - Artificial Intelligence/week11/Variable Elimination Algorithm (VE).md"}
+		{"id":"d136ec4d4e130d90","type":"file","file":"COMPSCI367 - Artificial Intelligence/week11/expected utility.md","x":17120,"y":-3463,"width":400,"height":143},
+		{"id":"f3bb8917dbbee0ca","type":"file","file":"COMPSCI367 - Artificial Intelligence/week11/Expected utility hypothesis.md","x":17120,"y":-3173,"width":400,"height":400},
+		{"id":"e074f591dc04018d","type":"file","file":"COMPSCI367 - Artificial Intelligence/week11/utility.md","x":17844,"y":-2847,"width":400,"height":227},
+		{"id":"79ef0f5ba5b33afc","type":"file","file":"COMPSCI367 - Artificial Intelligence/week11/Utility function.md","x":17699,"y":-2347,"width":400,"height":147},
+		{"id":"95e8e89abf7efdeb","type":"file","file":"COMPSCI367 - Artificial Intelligence/week11/Utility theory.md","x":14360,"y":-1040,"width":400,"height":400},
+		{"id":"ced01ca1127cbccc","type":"file","file":"COMPSCI367 - Artificial Intelligence/week11/Variable Elimination Algorithm (VE).md","x":14300,"y":-2960,"width":1120,"height":520}
 	],
 	"edges":[
 		{"id":"58761566270d0cbd","fromNode":"483c0f155182fe5d","fromSide":"bottom","toNode":"168ecaded8db3ab0","toSide":"top"},
@@ -358,6 +359,10 @@
 		{"id":"0b2012f606ce52a3","fromNode":"1507a03cb473efaa","fromSide":"right","toNode":"d136ec4d4e130d90","toSide":"left"},
 		{"id":"8d94515133e108b3","fromNode":"1507a03cb473efaa","fromSide":"right","toNode":"f3bb8917dbbee0ca","toSide":"left"},
 		{"id":"3806caa2a9d91891","fromNode":"f3bb8917dbbee0ca","fromSide":"right","toNode":"e074f591dc04018d","toSide":"left"},
-		{"id":"faa5007391fa4a2d","fromNode":"95e8e89abf7efdeb","fromSide":"right","toNode":"73969e52ece94f5a","toSide":"left"}
+		{"id":"faa5007391fa4a2d","fromNode":"95e8e89abf7efdeb","fromSide":"right","toNode":"73969e52ece94f5a","toSide":"left"},
+		{"id":"4a0f529f17529ba8","fromNode":"4b23b84c61f41c56","fromSide":"bottom","toNode":"ced01ca1127cbccc","toSide":"top"},
+		{"id":"09e0bc34d75b7e36","fromNode":"07cc337f6e4ac08f","fromSide":"bottom","toNode":"ced01ca1127cbccc","toSide":"top"},
+		{"id":"87b6a0bef3ad7f66","fromNode":"9b4774be2ce523c3","fromSide":"bottom","toNode":"ced01ca1127cbccc","toSide":"top"},
+		{"id":"f91117df5e77d8ae","fromNode":"c13f5ae2f4dc121e","fromSide":"bottom","toNode":"ced01ca1127cbccc","toSide":"top"}
 	]
 }
