@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week07/Modus Ponens (MP).md",
+                "file": "COMPSCI367 - Artificial Intelligence/week07/SLD derivation.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week07/Modus Ponens (MP).md",
+                "file": "COMPSCI367 - Artificial Intelligence/week07/SLD derivation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week07/Modus Ponens (MP).md",
+                "file": "COMPSCI367 - Artificial Intelligence/week07/SLD derivation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week07/Modus Ponens (MP).md"
+                "file": "COMPSCI367 - Artificial Intelligence/week07/SLD derivation.md"
               }
             }
           },
@@ -168,6 +168,11 @@
   },
   "active": "2baf3d4d32bda653",
   "lastOpenFiles": [
+    "COMPSCI367 - Artificial Intelligence/week07/rule of derivation.md",
+    "COMPSCI367 - Artificial Intelligence/week07/Proof procedure.md",
+    "COMPSCI367 - Artificial Intelligence/week07/Modus Ponens (MP).md",
+    "COMPSCI367 - Artificial Intelligence/finals prep.canvas",
+    "COMPSCI367 - Artificial Intelligence/week07/SLD derivation.md",
     "COMPSCI367 - Artificial Intelligence/week07/Low expresiveness.md",
     "COMPSCI367 - Artificial Intelligence/week07/Human languages are complex.md",
     "COMPSCI367 - Artificial Intelligence/week07/entails.md",
@@ -176,7 +181,6 @@
     "COMPSCI367 - Artificial Intelligence/week07/Compositional.md",
     "COMPSCI367 - Artificial Intelligence/week07/Completeness.md",
     "COMPSCI367 - Artificial Intelligence/week06/Wumpus World Agent.md",
-    "COMPSCI367 - Artificial Intelligence/finals prep.canvas",
     "COMPSCI367 - Artificial Intelligence/week06/clause(s).md",
     "COMPSCI367 - Artificial Intelligence/week06/Truth table.md",
     "COMPSCI367 - Artificial Intelligence/week06/syntax.md",
@@ -191,10 +195,6 @@
     "COMPSCI367 - Artificial Intelligence/week09/Logic-based Planning algorithms.md",
     "COMPSCI367 - Artificial Intelligence/week09/Search-based Planning Algorithm.md",
     "COMPSCI367 - Artificial Intelligence/week09/Building a planner.md",
-    "COMPSCI367 - Artificial Intelligence/week02/Systematic Search.md",
-    "COMPSCI367 - Artificial Intelligence/week03/Tree Search.md",
-    "COMPSCI367 - Artificial Intelligence/week03/Iterative Deepening A-Star Search (IDA).md",
-    "COMPSCI367 - Artificial Intelligence/week03/Iterative Improvement.md",
     "@images/COMPSCI3672022_S2W09Lecture25AIinSociety28129-21.jpg",
     "@images/Pasted image 20231026174833.png",
     "@images/Pasted image 20231026174606.png",
