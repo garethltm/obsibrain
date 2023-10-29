@@ -11,14 +11,11 @@
             "id": "766f3d6bf8798b3a",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/finals prep.canvas",
-                "viewState": {
-                  "x": 2576.714009566544,
-                  "y": -9252.181220557353,
-                  "zoom": -1.3333333333333328
-                }
+                "file": "COMPSCI367 - Artificial Intelligence/week08/Generalised Modus Ponens (GMP).md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -169,12 +166,12 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "766f3d6bf8798b3a",
+  "active": "3ad179677b7fba41",
   "lastOpenFiles": [
+    "COMPSCI367 - Artificial Intelligence/finals prep.canvas",
     "COMPSCI367 - Artificial Intelligence/Deontologist theory.md",
     "COMPSCI367 - Artificial Intelligence/week08/quantifier(s).md",
     "COMPSCI367 - Artificial Intelligence/week08/Free variables.md",
-    "COMPSCI367 - Artificial Intelligence/finals prep.canvas",
     "COMPSCI367 - Artificial Intelligence/week08/First-Order Interpretation.md",
     "COMPSCI367 - Artificial Intelligence/week08/First-Order Logic.md",
     "COMPSCI367 - Artificial Intelligence/week08/First-Order Formulas.md",
@@ -197,7 +194,6 @@
     "COMPSCI367 - Artificial Intelligence/week08/Lifting.md",
     "COMPSCI367 - Artificial Intelligence/week08/inductively.md",
     "COMPSCI367 - Artificial Intelligence/week08/Imperative programming.md",
-    "COMPSCI367 - Artificial Intelligence/week08/Grounding.md",
     "@images/COMPSCI3672022_S2W09Lecture25AIinSociety28129-21.jpg",
     "@images/Pasted image 20231026174833.png",
     "@images/Pasted image 20231026174606.png",
