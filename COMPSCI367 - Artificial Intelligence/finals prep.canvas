@@ -106,17 +106,19 @@
 		{"id":"cea8830123f2270b","type":"file","file":"COMPSCI367 - Artificial Intelligence/week10/Bayes Classifier - Conditional Independence.md","x":9120,"y":-4024,"width":560,"height":620},
 		{"id":"2e0832f26689d18a","type":"file","file":"COMPSCI367 - Artificial Intelligence/week09/Probabilistic Parsing.md","x":6840,"y":-4920,"width":400,"height":203},
 		{"id":"2088076f0e9f4d8a","type":"file","file":"COMPSCI367 - Artificial Intelligence/week09/Probability.md","x":7760,"y":-4869,"width":857,"height":400},
-		{"id":"8f465dce49d27b0f","x":7240,"y":-4520,"width":400,"height":152,"type":"file","file":"COMPSCI367 - Artificial Intelligence/week10/calculus of belief.md"},
-		{"id":"b48c37468ddf494c","x":6800,"y":-4566,"width":400,"height":244,"type":"file","file":"COMPSCI367 - Artificial Intelligence/week10/degree of belief.md"},
+		{"id":"8f465dce49d27b0f","type":"file","file":"COMPSCI367 - Artificial Intelligence/week10/calculus of belief.md","x":7240,"y":-4520,"width":400,"height":152},
+		{"id":"b48c37468ddf494c","type":"file","file":"COMPSCI367 - Artificial Intelligence/week10/degree of belief.md","x":6800,"y":-4566,"width":400,"height":244},
 		{"id":"08c47b055f30ba2a","type":"file","file":"COMPSCI367 - Artificial Intelligence/week09/Bayes Nets.md","x":8080,"y":-4134,"width":430,"height":334},
 		{"id":"3c050c5af3bc6673","type":"file","file":"COMPSCI367 - Artificial Intelligence/week09/First Order Bayes Nets.md","x":8080,"y":-3694,"width":430,"height":230},
-		{"id":"3ecabdc6e8a4c095","x":8593,"y":-4094,"width":487,"height":774,"type":"file","file":"COMPSCI367 - Artificial Intelligence/week10/Chain Rule.md"},
-		{"id":"de2c1a149eac1a71","x":8209,"y":-3186,"width":400,"height":306,"type":"file","file":"COMPSCI367 - Artificial Intelligence/week10/Conditional Entropy.md"},
-		{"id":"7989216ac57262f7","x":8720,"y":-3186,"width":400,"height":306,"type":"file","file":"COMPSCI367 - Artificial Intelligence/week10/Joint Entropy.md"},
+		{"id":"3ecabdc6e8a4c095","type":"file","file":"COMPSCI367 - Artificial Intelligence/week10/Chain Rule.md","x":8593,"y":-4094,"width":487,"height":774},
+		{"id":"de2c1a149eac1a71","type":"file","file":"COMPSCI367 - Artificial Intelligence/week10/Conditional Entropy.md","x":8209,"y":-3186,"width":400,"height":306},
+		{"id":"7989216ac57262f7","type":"file","file":"COMPSCI367 - Artificial Intelligence/week10/Joint Entropy.md","x":8720,"y":-3186,"width":400,"height":306},
 		{"id":"96ff3d269306e9ff","type":"file","file":"COMPSCI367 - Artificial Intelligence/week10/Bayes Theorem.md","x":9309,"y":-5270,"width":680,"height":400},
 		{"id":"58a881b6f43c7af3","type":"file","file":"COMPSCI367 - Artificial Intelligence/week09/Evidence - Calculate probabilities given prior evidence.md","x":9400,"y":-4808,"width":767,"height":608},
-		{"id":"1fc387d860b8ea01","x":11480,"y":-5270,"width":731,"height":400,"type":"file","file":"COMPSCI367 - Artificial Intelligence/week10/Conditional Probability Table (CPT).md"},
-		{"id":"7202e6a9f0e80d50","x":10400,"y":-5407,"width":780,"height":674,"type":"file","file":"COMPSCI367 - Artificial Intelligence/week10/conditional probability.md"}
+		{"id":"7202e6a9f0e80d50","type":"file","file":"COMPSCI367 - Artificial Intelligence/week10/conditional probability.md","x":10400,"y":-5407,"width":780,"height":674},
+		{"id":"1fc387d860b8ea01","type":"file","file":"COMPSCI367 - Artificial Intelligence/week10/Conditional Probability Table (CPT).md","x":11280,"y":-5320,"width":731,"height":587},
+		{"id":"3ff46860745eb7e3","x":9309,"y":-5690,"width":400,"height":283,"type":"file","file":"COMPSCI367 - Artificial Intelligence/week10/Deriving Bayes Rule.md"},
+		{"id":"ca3c52732e90e667","x":8333,"y":-2768,"width":707,"height":400,"type":"file","file":"COMPSCI367 - Artificial Intelligence/week10/Entropy (or self-information).md"}
 	],
 	"edges":[
 		{"id":"58761566270d0cbd","fromNode":"483c0f155182fe5d","fromSide":"bottom","toNode":"168ecaded8db3ab0","toSide":"top"},
@@ -235,6 +237,11 @@
 		{"id":"fbd1b2706c8fd0da","fromNode":"2088076f0e9f4d8a","fromSide":"bottom","toNode":"3ecabdc6e8a4c095","toSide":"top"},
 		{"id":"97cc899b97d20319","fromNode":"3ecabdc6e8a4c095","fromSide":"bottom","toNode":"de2c1a149eac1a71","toSide":"top"},
 		{"id":"12dadbbe6c8d17e1","fromNode":"3ecabdc6e8a4c095","fromSide":"bottom","toNode":"7989216ac57262f7","toSide":"top"},
-		{"id":"e7a081fa02e03e75","fromNode":"96ff3d269306e9ff","fromSide":"right","toNode":"7202e6a9f0e80d50","toSide":"left"}
+		{"id":"e7a081fa02e03e75","fromNode":"96ff3d269306e9ff","fromSide":"right","toNode":"7202e6a9f0e80d50","toSide":"left"},
+		{"id":"fbddcb68562e54e9","fromNode":"7202e6a9f0e80d50","fromSide":"left","toNode":"58a881b6f43c7af3","toSide":"right"},
+		{"id":"b40a3cc847137fe4","fromNode":"1fc387d860b8ea01","fromSide":"left","toNode":"7202e6a9f0e80d50","toSide":"right"},
+		{"id":"02658c064d6b4c3c","fromNode":"3ff46860745eb7e3","fromSide":"bottom","toNode":"96ff3d269306e9ff","toSide":"top"},
+		{"id":"5eaca5fb259d5971","fromNode":"ca3c52732e90e667","fromSide":"top","toNode":"de2c1a149eac1a71","toSide":"bottom"},
+		{"id":"2b6c1efaafb7ed45","fromNode":"ca3c52732e90e667","fromSide":"top","toNode":"7989216ac57262f7","toSide":"bottom"}
 	]
 }

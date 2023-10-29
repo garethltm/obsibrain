@@ -15,9 +15,9 @@
               "state": {
                 "file": "COMPSCI367 - Artificial Intelligence/finals prep.canvas",
                 "viewState": {
-                  "x": 10483.176263511094,
-                  "y": -5005.804717367237,
-                  "zoom": -0.9999999999999996
+                  "x": 8774.128623442475,
+                  "y": -3059.178863683078,
+                  "zoom": -0.6666666666666663
                 }
               }
             }
@@ -88,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week10/Conditional Probability Table (CPT).md",
+                "file": "COMPSCI367 - Artificial Intelligence/week10/Entropy (or self-information).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week10/Conditional Probability Table (CPT).md",
+                "file": "COMPSCI367 - Artificial Intelligence/week10/Entropy (or self-information).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week10/Conditional Probability Table (CPT).md"
+                "file": "COMPSCI367 - Artificial Intelligence/week10/Entropy (or self-information).md"
               }
             }
           },
@@ -156,7 +156,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week10/Conditional Probability Table (CPT).md"
+                "file": "COMPSCI367 - Artificial Intelligence/week10/Entropy (or self-information).md"
               }
             }
           }
