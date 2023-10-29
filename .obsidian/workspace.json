@@ -15,9 +15,9 @@
               "state": {
                 "file": "COMPSCI367 - Artificial Intelligence/finals prep.canvas",
                 "viewState": {
-                  "x": 3393.894098417252,
-                  "y": -5659.802078954326,
-                  "zoom": -0.9999999999999996
+                  "x": 3447.4816313791844,
+                  "y": -6407.438618445441,
+                  "zoom": -1.666666666666666
                 }
               }
             }
@@ -89,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week07/Forward Chaining.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week07/Definite Clause Inference Engine.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week07/Forward Chaining.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week07/Definite Clause Inference Engine.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week07/Forward Chaining.md"
+                "file": "COMPSCI367 - Artificial Intelligence/week07/Definite Clause Inference Engine.md"
               }
             }
           },
