@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week12/The Autonomous Vehicle Dilemma.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week12/Explainable AI (XAI).md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week12/The Autonomous Vehicle Dilemma.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week12/Explainable AI (XAI).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week12/The Autonomous Vehicle Dilemma.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week12/Explainable AI (XAI).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week12/The Autonomous Vehicle Dilemma.md"
+                "file": "COMPSCI367 - Artificial Intelligence/week12/Explainable AI (XAI).md"
               }
             }
           },
@@ -168,6 +168,13 @@
   },
   "active": "6687c04ac1db9dc0",
   "lastOpenFiles": [
+    "COMPSCI367 - Artificial Intelligence/week12/Decision-theoretic Expert Systems.md",
+    "COMPSCI367 - Artificial Intelligence/week12/Philosophical theory.md",
+    "COMPSCI367 - Artificial Intelligence/week12/Decision function.md",
+    "COMPSCI367 - Artificial Intelligence/week12/Decision nodes.md",
+    "COMPSCI367 - Artificial Intelligence/week12/Single-stage decision networks (SSDN).md",
+    "COMPSCI367 - Artificial Intelligence/week12/state (ω).md",
+    "COMPSCI367 - Artificial Intelligence/week12/The Autonomous Vehicle Dilemma.md",
     "COMPSCI367 - Artificial Intelligence/week12/value of a decision network.md",
     "COMPSCI367 - Artificial Intelligence/week12/Utilitarian theory.md",
     "Deontologist theory.md",
@@ -188,13 +195,6 @@
     "COMPSCI367 - Artificial Intelligence/week11/(VNM-) rational-GARETH.md",
     "COMPSCI367 - Artificial Intelligence/week01/Reflex (Model-Based) Agent-GARETH.md",
     "COMPSCI367 - Artificial Intelligence/week01/Reactive Agent-GARETH.md",
-    "COMPSCI367 - Artificial Intelligence/week01/Rationality-GARETH.md",
-    "COMPSCI367 - Artificial Intelligence/week01/Planning Agent-GARETH.md",
-    "COMPSCI367 - Artificial Intelligence/week01/Multi-agent-GARETH.md",
-    "COMPSCI367 - Artificial Intelligence/week01/Goal(s) - Goal State(s)-GARETH.md",
-    "COMPSCI367 - Artificial Intelligence/week01/Actuators-GARETH.md",
-    "conflict-files-obsidian-git.md",
-    "COMPSCI367 - Artificial Intelligence/week06/Wumpus World Agent.md",
     "@images/COMPSCI3672022_S2W09Lecture25AIinSociety28129-21.jpg",
     "@images/Pasted image 20231026174833.png",
     "@images/Pasted image 20231026174606.png",
