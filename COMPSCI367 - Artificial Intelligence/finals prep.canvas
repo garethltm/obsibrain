@@ -1,9 +1,9 @@
 {
 	"nodes":[
 		{"id":"d5adc265cc797e1b","type":"group","x":-2320,"y":-4880,"width":7760,"height":7840,"color":"1","label":"Local Search"},
+		{"id":"6d2365b44856105f","type":"group","x":7040,"y":-3120,"width":4560,"height":3849,"color":"1","label":"week09"},
 		{"id":"09e4ad48cb61d99c","type":"group","x":-2400,"y":-12120,"width":8480,"height":6920,"color":"1","label":"Logic"},
 		{"id":"b0281d92c82035ae","type":"group","x":-9760,"y":-6240,"width":7080,"height":5035,"label":"Systematic Search"},
-		{"id":"6d2365b44856105f","type":"group","x":7040,"y":-2648,"width":3856,"height":3377,"color":"1","label":"week09"},
 		{"id":"0d4085108c0afa89","type":"file","file":"COMPSCI367 - Artificial Intelligence/week06/clause(s).md","x":2350,"y":-7720,"width":890,"height":500},
 		{"id":"327a0f9f504b2b77","type":"file","file":"COMPSCI367 - Artificial Intelligence/week08/First-Order KB.md","x":1175,"y":-10820,"width":400,"height":253},
 		{"id":"e4722fc123d0fef9","type":"file","file":"COMPSCI367 - Artificial Intelligence/week08/Unification.md","x":2401,"y":-9680,"width":1040,"height":1120},
@@ -58,7 +58,6 @@
 		{"id":"228a7ab4be6bdef1","type":"file","file":"COMPSCI367 - Artificial Intelligence/week03/Tree Search.md","x":-880,"y":1160,"width":1080,"height":1360},
 		{"id":"63d33bce851a4a99","type":"file","file":"COMPSCI367 - Artificial Intelligence/week02/Iterative-Deepening Search (IDS).md","x":-3983,"y":-4996,"width":787,"height":898},
 		{"id":"454a575947cab4cd","type":"file","file":"COMPSCI367 - Artificial Intelligence/week02/Depth-Limited Search (DLS).md","x":-4040,"y":-3886,"width":900,"height":1081},
-		{"id":"08c47b055f30ba2a","type":"file","file":"COMPSCI367 - Artificial Intelligence/week09/Bayes Nets.md","x":8106,"y":-2628,"width":860,"height":260},
 		{"id":"e8034e3171110743","type":"file","file":"COMPSCI367 - Artificial Intelligence/week03/Iterative Deepening A-Star Search (IDA).md","x":-7240,"y":-2485,"width":860,"height":1139},
 		{"id":"943b888d61bee2c0","type":"file","file":"COMPSCI367 - Artificial Intelligence/week02/Informed Search Heuristic.md","x":-7740,"y":-6157,"width":680,"height":320},
 		{"id":"143c9b842b12e844","type":"file","file":"COMPSCI367 - Artificial Intelligence/week02/Informed Search.md","x":-8400,"y":-5475,"width":1000,"height":875},
@@ -69,26 +68,28 @@
 		{"id":"a2bdab967b9d4ab3","type":"file","file":"COMPSCI367 - Artificial Intelligence/week05/Genetic Algorithm (GA).md","x":4560,"y":-4840,"width":640,"height":585},
 		{"id":"6f5232cb8da01059","type":"file","file":"COMPSCI367 - Artificial Intelligence/week05/Stochastic Beam Search (SBS).md","x":4560,"y":-4080,"width":800,"height":640},
 		{"id":"1565f3fa00bb00bc","type":"file","file":"COMPSCI367 - Artificial Intelligence/week05/Adversarial Search.md","x":4600,"y":-3279,"width":400,"height":239},
-		{"id":"3c050c5af3bc6673","type":"file","file":"COMPSCI367 - Artificial Intelligence/week09/First Order Bayes Nets.md","x":8146,"y":-2098,"width":780,"height":230},
-		{"id":"a0f7e424afa1db31","type":"file","file":"COMPSCI367 - Artificial Intelligence/week09/Building a planner.md","x":8621,"y":-1673,"width":400,"height":159},
-		{"id":"b5726b70f90d8563","type":"file","file":"COMPSCI367 - Artificial Intelligence/week09/Search-based Planning Algorithm.md","x":7916,"y":-1353,"width":820,"height":920},
-		{"id":"fc2554959ad9e7c2","type":"file","file":"COMPSCI367 - Artificial Intelligence/week09/Logic-based Planning algorithms.md","x":8876,"y":-1353,"width":800,"height":960},
-		{"id":"ce0eed8b1334236a","type":"file","file":"COMPSCI367 - Artificial Intelligence/week09/Classical Planning.md","x":9886,"y":-1353,"width":900,"height":840},
-		{"id":"2a3091c7c3297c41","type":"file","file":"COMPSCI367 - Artificial Intelligence/week09/Planning task.md","x":9886,"y":-393,"width":990,"height":400},
 		{"id":"0b6442dd25fd5b40","type":"file","file":"COMPSCI367 - Artificial Intelligence/week04/Random-Restart Hill Climbing.md","x":3920,"y":-1745,"width":860,"height":277},
 		{"id":"77857bdae781fee6","type":"file","file":"COMPSCI367 - Artificial Intelligence/week04/Simulated Annealing.md","x":4160,"y":-1400,"width":920,"height":400},
 		{"id":"fd0f4e70e58a04ea","type":"file","file":"COMPSCI367 - Artificial Intelligence/week04/Tabu Search.md","x":3280,"y":-1237,"width":800,"height":600},
 		{"id":"0f8e8374f8203bf6","type":"text","text":"### Summary\n- [[Population-based Search]] conducts search by maintaining & updating a collection of [[candidate solution]]\n- [[Local beam Search]] is an adaptation of [[Iterative Best Improvement (IBI)]] by maintaining M > 1 [[candidate solution]]\n- [[Stochastic Beam Search (SBS)]] aims to avoid [[Local beam Search]] concentration on a narrow [[path(s)]] by using [[Boltzmann distribution]]\n#### Framework\n- [[Genetic Algorithm (GA)]] maintains a [[population]] of [[candidate solution]]\n- Chromosomes are representations of [[candidate solution]] that determines [[fitness]]\n- [[crossover operation]] & [[mutation operation]] for generating offsprings","x":2680,"y":-4840,"width":825,"height":430,"color":"1"},
 		{"id":"725b870b52b50343","type":"file","file":"COMPSCI367 - Artificial Intelligence/week04/Random Walk Hill-Climbing.md","x":3920,"y":-2197,"width":760,"height":357},
-		{"id":"8279376100a5cd45","type":"file","file":"COMPSCI367 - Artificial Intelligence/week09/Forward (Progression) planning.md","x":7060,"y":-272,"width":856,"height":981},
-		{"id":"1f53223437edcd0e","type":"file","file":"COMPSCI367 - Artificial Intelligence/week09/Backward (Regression) planning.md","x":7981,"y":-272,"width":840,"height":712},
 		{"id":"7f23af8e914af1e0","type":"file","file":"COMPSCI367 - Artificial Intelligence/week08/Herbrand's Theorem.md","x":160,"y":-9320,"width":898,"height":253},
 		{"id":"b6f512ea706ca387","type":"file","file":"COMPSCI367 - Artificial Intelligence/week08/Generalised Modus Ponens (GMP).md","x":4040,"y":-10034,"width":400,"height":213},
 		{"id":"7aa38305b72e704a","type":"file","file":"COMPSCI367 - Artificial Intelligence/week06/semantics.md","x":461,"y":-7119,"width":400,"height":178},
 		{"id":"483c0f155182fe5d","type":"file","file":"COMPSCI367 - Artificial Intelligence/week08/Propositionalization.md","x":1800,"y":-10440,"width":400,"height":206},
 		{"id":"935c99032e07f35b","type":"file","file":"COMPSCI367 - Artificial Intelligence/week06/Logic Inference Problem.md","x":-1231,"y":-6925,"width":400,"height":190},
 		{"id":"21c3f5042ad67d16","type":"file","file":"COMPSCI367 - Artificial Intelligence/week08/First-Order Logic Inference.md","x":2055,"y":-10880,"width":470,"height":238},
-		{"id":"ee71447003fed49a","type":"file","file":"COMPSCI367 - Artificial Intelligence/week09/TranslateToSAT.md","x":-560,"y":-6560,"width":680,"height":430}
+		{"id":"ee71447003fed49a","type":"file","file":"COMPSCI367 - Artificial Intelligence/week09/TranslateToSAT.md","x":-600,"y":-6256,"width":680,"height":430},
+		{"id":"3c050c5af3bc6673","type":"file","file":"COMPSCI367 - Artificial Intelligence/week09/First Order Bayes Nets.md","x":8146,"y":-2098,"width":780,"height":230},
+		{"id":"a0f7e424afa1db31","type":"file","file":"COMPSCI367 - Artificial Intelligence/week09/Building a planner.md","x":8621,"y":-1673,"width":400,"height":159},
+		{"id":"08c47b055f30ba2a","type":"file","file":"COMPSCI367 - Artificial Intelligence/week09/Bayes Nets.md","x":8106,"y":-2720,"width":860,"height":440},
+		{"id":"b5726b70f90d8563","type":"file","file":"COMPSCI367 - Artificial Intelligence/week09/Search-based Planning Algorithm.md","x":7916,"y":-1353,"width":820,"height":920},
+		{"id":"fc2554959ad9e7c2","type":"file","file":"COMPSCI367 - Artificial Intelligence/week09/Logic-based Planning algorithms.md","x":8876,"y":-1353,"width":800,"height":960},
+		{"id":"ce0eed8b1334236a","type":"file","file":"COMPSCI367 - Artificial Intelligence/week09/Classical Planning.md","x":9886,"y":-1353,"width":900,"height":840},
+		{"id":"2a3091c7c3297c41","type":"file","file":"COMPSCI367 - Artificial Intelligence/week09/Planning task.md","x":9886,"y":-393,"width":990,"height":400},
+		{"id":"1f53223437edcd0e","type":"file","file":"COMPSCI367 - Artificial Intelligence/week09/Backward (Regression) planning.md","x":7981,"y":-272,"width":840,"height":712},
+		{"id":"8279376100a5cd45","type":"file","file":"COMPSCI367 - Artificial Intelligence/week09/Forward (Progression) planning.md","x":7060,"y":-272,"width":856,"height":981},
+		{"id":"8f06822f33c6be7d","x":11000,"y":-1400,"width":400,"height":400,"type":"file","file":"COMPSCI367 - Artificial Intelligence/week09/SATPlan.md"}
 	],
 	"edges":[
 		{"id":"58761566270d0cbd","fromNode":"483c0f155182fe5d","fromSide":"bottom","toNode":"168ecaded8db3ab0","toSide":"top"},
@@ -175,6 +176,7 @@
 		{"id":"e10cf6f95f4c2b8a","fromNode":"168ecaded8db3ab0","fromSide":"left","toNode":"7f23af8e914af1e0","toSide":"top"},
 		{"id":"3445ead25e10c19e","fromNode":"b517183b840ad49d","fromSide":"right","toNode":"b6f512ea706ca387","toSide":"left"},
 		{"id":"066312d1f6895462","fromNode":"21c3f5042ad67d16","fromSide":"bottom","toNode":"483c0f155182fe5d","toSide":"top"},
-		{"id":"0d9cdafcfbeabb32","fromNode":"ee71447003fed49a","fromSide":"top","toNode":"ec6c6b03423f7c6b","toSide":"bottom"}
+		{"id":"0d9cdafcfbeabb32","fromNode":"ee71447003fed49a","fromSide":"top","toNode":"ec6c6b03423f7c6b","toSide":"bottom"},
+		{"id":"5cca60b4bbbcfcf3","fromNode":"ce0eed8b1334236a","fromSide":"right","toNode":"8f06822f33c6be7d","toSide":"left"}
 	]
 }
