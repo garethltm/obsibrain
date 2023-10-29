@@ -15,9 +15,9 @@
               "state": {
                 "file": "COMPSCI367 - Artificial Intelligence/finals prep.canvas",
                 "viewState": {
-                  "x": 892.8550049957851,
-                  "y": -4162.68728583236,
-                  "zoom": -1.4110274618479646
+                  "x": 2105.8686388822207,
+                  "y": -3502.220977728979,
+                  "zoom": -1.0776941285146313
                 }
               }
             }
@@ -88,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week03/Constraint Satisfaction Problem (CSPs).md",
+                "file": "COMPSCI367 - Artificial Intelligence/week03/Stochastic Search.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week03/Constraint Satisfaction Problem (CSPs).md",
+                "file": "COMPSCI367 - Artificial Intelligence/week03/Stochastic Search.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week03/Constraint Satisfaction Problem (CSPs).md"
+                "file": "COMPSCI367 - Artificial Intelligence/week03/Stochastic Search.md"
               }
             }
           },
