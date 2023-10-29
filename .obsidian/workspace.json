@@ -15,9 +15,9 @@
               "state": {
                 "file": "COMPSCI367 - Artificial Intelligence/finals prep.canvas",
                 "viewState": {
-                  "x": 10235.229809723587,
-                  "y": -7752.257414425197,
-                  "zoom": -0.3333333333333334
+                  "x": 11072.235933310381,
+                  "y": -7738.914801720122,
+                  "zoom": -1
                 }
               }
             }
@@ -88,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/finals prep.canvas",
+                "file": "COMPSCI367 - Artificial Intelligence/week08/First-Order Formulas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/finals prep.canvas",
+                "file": "COMPSCI367 - Artificial Intelligence/week08/First-Order Formulas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/finals prep.canvas"
+                "file": "COMPSCI367 - Artificial Intelligence/week08/First-Order Formulas.md"
               }
             }
           },
@@ -171,8 +171,9 @@
   },
   "active": "2baf3d4d32bda653",
   "lastOpenFiles": [
-    "COMPSCI367 - Artificial Intelligence/week08/First-Order KB.md",
+    "COMPSCI367 - Artificial Intelligence/week08/First-Order Formulas.md",
     "COMPSCI367 - Artificial Intelligence/finals prep.canvas",
+    "COMPSCI367 - Artificial Intelligence/week08/First-Order KB.md",
     "COMPSCI367 - Artificial Intelligence/week08/instantiation.md",
     "COMPSCI367 - Artificial Intelligence/week08/Skolem constant.md",
     "COMPSCI367 - Artificial Intelligence/week06/Propositional Knowledge Base.md",
@@ -183,7 +184,6 @@
     "COMPSCI367 - Artificial Intelligence/week08/Closed world assumption.md",
     "COMPSCI367 - Artificial Intelligence/week08/Unification.md",
     "COMPSCI367 - Artificial Intelligence/week07/Modus Ponens (MP).md",
-    "COMPSCI367 - Artificial Intelligence/week08/First-Order Formulas.md",
     "COMPSCI367 - Artificial Intelligence/week08/First-Order Logic.md",
     "COMPSCI367 - Artificial Intelligence/week04/Greedy Descent.md",
     "COMPSCI367 - Artificial Intelligence/week04/uninformed random walk.md",
