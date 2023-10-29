@@ -205,7 +205,7 @@
 		{"id":"1565f3fa00bb00bc","type":"file","file":"COMPSCI367 - Artificial Intelligence/week05/Adversarial Search.md","x":4600,"y":-3279,"width":400,"height":239},
 		{"id":"603eba6fdd5b88a2","type":"file","file":"COMPSCI367 - Artificial Intelligence/week10/Probability Distribution.md","x":12243,"y":-3208,"width":680,"height":400},
 		{"id":"1fc387d860b8ea01","type":"file","file":"COMPSCI367 - Artificial Intelligence/week10/Conditional Probability Table (CPT).md","x":12240,"y":-4063,"width":731,"height":587},
-		{"id":"bd7fffb028bd0d64","type":"file","file":"COMPSCI367 - Artificial Intelligence/week10/Bayes Rule with Existing Evidence.md","x":11900,"y":-2080,"width":520,"height":400}
+		{"id":"bd7fffb028bd0d64","type":"file","file":"COMPSCI367 - Artificial Intelligence/week10/Bayes Rule with Existing Evidence.md","x":11900,"y":-2080,"width":520,"height":540}
 	],
 	"edges":[
 		{"id":"58761566270d0cbd","fromNode":"483c0f155182fe5d","fromSide":"bottom","toNode":"168ecaded8db3ab0","toSide":"top"},
