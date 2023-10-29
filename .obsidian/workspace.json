@@ -15,9 +15,9 @@
               "state": {
                 "file": "COMPSCI367 - Artificial Intelligence/finals prep.canvas",
                 "viewState": {
-                  "x": 12133.73571257626,
-                  "y": -1091.8899012755346,
-                  "zoom": -0.3333333333333334
+                  "x": 13877.727888070483,
+                  "y": -1844.0184129929225,
+                  "zoom": -1.1102230246251565e-16
                 }
               }
             }
@@ -89,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week11/Local Markov Property.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week11/Bayesian Networks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week11/Local Markov Property.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week11/Bayesian Networks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week11/Local Markov Property.md"
+                "file": "COMPSCI367 - Artificial Intelligence/week11/Bayesian Networks.md"
               }
             }
           },
@@ -157,7 +157,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week11/Local Markov Property.md"
+                "file": "COMPSCI367 - Artificial Intelligence/week11/Bayesian Networks.md"
               }
             }
           }

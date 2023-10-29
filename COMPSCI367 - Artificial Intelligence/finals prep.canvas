@@ -166,8 +166,7 @@
 		{"id":"603eba6fdd5b88a2","type":"file","file":"COMPSCI367 - Artificial Intelligence/week10/Probability Distribution.md","x":12240,"y":-2729,"width":680,"height":400},
 		{"id":"1fc387d860b8ea01","type":"file","file":"COMPSCI367 - Artificial Intelligence/week10/Conditional Probability Table (CPT).md","x":12189,"y":-3616,"width":731,"height":587},
 		{"id":"5cb3512fe5e60f81","type":"file","file":"COMPSCI367 - Artificial Intelligence/week11/Bayesian Network Inference.md","x":14300,"y":-2633,"width":691,"height":400},
-		{"id":"1d76bcff2123916d","type":"file","file":"COMPSCI367 - Artificial Intelligence/week11/Bayesian Networks.md","x":13310,"y":-2480,"width":860,"height":400},
-		{"id":"fb4b79a0ed070a7c","type":"file","file":"COMPSCI367 - Artificial Intelligence/week11/Probabilistic Model.md","x":13534,"y":-1834,"width":720,"height":547},
+		{"id":"1d76bcff2123916d","type":"file","file":"COMPSCI367 - Artificial Intelligence/week11/Bayesian Networks.md","x":13310,"y":-2480,"width":860,"height":860},
 		{"id":"79ef0f5ba5b33afc","type":"file","file":"COMPSCI367 - Artificial Intelligence/week11/Utility function.md","x":17480,"y":-3463,"width":400,"height":147},
 		{"id":"63fac59b53f08e10","type":"file","file":"COMPSCI367 - Artificial Intelligence/week11/Decision Trees.md","x":17540,"y":-2687,"width":400,"height":400},
 		{"id":"f3bb8917dbbee0ca","type":"file","file":"COMPSCI367 - Artificial Intelligence/week11/Expected utility hypothesis.md","x":17880,"y":-3954,"width":400,"height":400},
@@ -205,7 +204,8 @@
 		{"id":"eb36e2d7757091ef","type":"file","file":"COMPSCI367 - Artificial Intelligence/week12/SSDN-based one-off decision problem.md","x":19140,"y":-2038,"width":400,"height":297},
 		{"id":"e52e708863d6e3ca","type":"file","file":"COMPSCI367 - Artificial Intelligence/week12/policy (π).md","x":19600,"y":-1775,"width":400,"height":471},
 		{"id":"fc487570b15063eb","type":"file","file":"COMPSCI367 - Artificial Intelligence/week11/Additive independence property.md","x":15991,"y":-3850,"width":600,"height":690},
-		{"id":"8779a6f9a1e8d67d","type":"file","file":"COMPSCI367 - Artificial Intelligence/week11/Local Markov Property.md","x":12580,"y":-1287,"width":400,"height":247}
+		{"id":"8779a6f9a1e8d67d","type":"file","file":"COMPSCI367 - Artificial Intelligence/week11/Local Markov Property.md","x":12000,"y":-1240,"width":400,"height":547},
+		{"id":"fb4b79a0ed070a7c","type":"file","file":"COMPSCI367 - Artificial Intelligence/week11/Probabilistic Model.md","x":14100,"y":-1480,"width":720,"height":547}
 	],
 	"edges":[
 		{"id":"58761566270d0cbd","fromNode":"483c0f155182fe5d","fromSide":"bottom","toNode":"168ecaded8db3ab0","toSide":"top"},
