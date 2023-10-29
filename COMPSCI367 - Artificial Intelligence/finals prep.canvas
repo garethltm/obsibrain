@@ -1,7 +1,7 @@
 {
 	"nodes":[
 		{"id":"d5adc265cc797e1b","type":"group","x":-2320,"y":-4880,"width":7760,"height":7840,"color":"1","label":"Local Search"},
-		{"id":"09e4ad48cb61d99c","type":"group","x":-2400,"y":-11040,"width":8480,"height":5840,"color":"1","label":"week06"},
+		{"id":"09e4ad48cb61d99c","type":"group","x":-2400,"y":-12120,"width":8480,"height":6920,"color":"1","label":"week06"},
 		{"id":"b0281d92c82035ae","type":"group","x":-9760,"y":-6240,"width":7080,"height":5035,"label":"Systematic Search"},
 		{"id":"6d2365b44856105f","type":"group","x":7040,"y":-2648,"width":3856,"height":3377,"color":"1","label":"week09"},
 		{"id":"93e0e8dc1f7ee085","type":"file","file":"COMPSCI367 - Artificial Intelligence/week07/Definite Clause Inference Engine.md","x":2005,"y":-6830,"width":790,"height":360},
@@ -11,7 +11,6 @@
 		{"id":"935c99032e07f35b","type":"file","file":"COMPSCI367 - Artificial Intelligence/week06/Logic Inference Problem.md","x":-1231,"y":-6925,"width":400,"height":190},
 		{"id":"70ac12b60ba472e8","type":"file","file":"COMPSCI367 - Artificial Intelligence/week06/Equivalence between inference & satisfiability.md","x":-1299,"y":-6185,"width":537,"height":288},
 		{"id":"21c3f5042ad67d16","type":"file","file":"COMPSCI367 - Artificial Intelligence/week08/First-Order Logic Inference.md","x":2055,"y":-10880,"width":470,"height":238},
-		{"id":"168ecaded8db3ab0","type":"file","file":"COMPSCI367 - Artificial Intelligence/week08/Grounding.md","x":1195,"y":-10180,"width":1040,"height":860},
 		{"id":"96646a99754ecdd5","type":"file","file":"COMPSCI367 - Artificial Intelligence/week08/First-Order Formulas.md","x":4478,"y":-10400,"width":644,"height":480},
 		{"id":"b517183b840ad49d","type":"file","file":"COMPSCI367 - Artificial Intelligence/week08/Lifting.md","x":3000,"y":-10148,"width":881,"height":228},
 		{"id":"bcf06f432aaa7431","type":"file","file":"COMPSCI367 - Artificial Intelligence/week07/Modus Ponens (MP).md","x":4600,"y":-7920,"width":400,"height":400},
@@ -84,7 +83,9 @@
 		{"id":"007a7c191eace211","type":"file","file":"COMPSCI367 - Artificial Intelligence/week02/heuristic(s).md","x":-8400,"y":-6157,"width":560,"height":400},
 		{"id":"e82d2d6e297bac0b","type":"file","file":"COMPSCI367 - Artificial Intelligence/week03/Admissible heuristic.md","x":-9640,"y":-6157,"width":800,"height":290},
 		{"id":"5528bedefd876801","type":"file","file":"COMPSCI367 - Artificial Intelligence/week02/Consistent Heuristics.md","x":-9640,"y":-5407,"width":840,"height":1521},
-		{"id":"795e78e6e19e6267","x":4777,"y":-6863,"width":400,"height":400,"type":"file","file":"COMPSCI367 - Artificial Intelligence/week08/First-Order Logic.md"}
+		{"id":"168ecaded8db3ab0","type":"file","file":"COMPSCI367 - Artificial Intelligence/week08/Grounding.md","x":1195,"y":-10148,"width":1040,"height":860},
+		{"id":"795e78e6e19e6267","x":2073,"y":-11480,"width":435,"height":400,"type":"file","file":"COMPSCI367 - Artificial Intelligence/week08/First-Order Logic.md"},
+		{"id":"c0e39f305fedaef3","x":2720,"y":-11440,"width":640,"height":640,"type":"file","file":"COMPSCI367 - Artificial Intelligence/week08/First-Order Interpretation.md"}
 	],
 	"edges":[
 		{"id":"58761566270d0cbd","fromNode":"21c3f5042ad67d16","fromSide":"bottom","toNode":"168ecaded8db3ab0","toSide":"top"},
@@ -166,6 +167,7 @@
 		{"id":"80d570778d70abac","fromNode":"168ecaded8db3ab0","fromSide":"bottom","toNode":"f378d6a63b5303bb","toSide":"top"},
 		{"id":"08742a631606f95f","fromNode":"168ecaded8db3ab0","fromSide":"left","toNode":"a1f94e6c8934bc62","toSide":"right"},
 		{"id":"7f0d422c6fb303bf","fromNode":"b517183b840ad49d","fromSide":"bottom","toNode":"bcf06f432aaa7431","toSide":"top"},
-		{"id":"0275f5d8ca882f70","fromNode":"dd235cb94f5d56c9","fromSide":"right","toNode":"795e78e6e19e6267","toSide":"left"}
+		{"id":"f85d1d310b863751","fromNode":"795e78e6e19e6267","fromSide":"bottom","toNode":"21c3f5042ad67d16","toSide":"top"},
+		{"id":"b72e19495c41e8ea","fromNode":"795e78e6e19e6267","fromSide":"right","toNode":"c0e39f305fedaef3","toSide":"left"}
 	]
 }
