@@ -151,7 +151,7 @@
 		{"id":"40c6ebbcffb6944e","type":"file","file":"COMPSCI367 - Artificial Intelligence/week11/Axiom 2 - Transitivity.md","x":15611,"y":-1308,"width":400,"height":323},
 		{"id":"2ac7f8b9b1399188","type":"file","file":"COMPSCI367 - Artificial Intelligence/week11/(VNM-) rational.md","x":15691,"y":-1914,"width":465,"height":140},
 		{"id":"02fd7e6cb6354a32","type":"file","file":"COMPSCI367 - Artificial Intelligence/week11/Axiom 3 - Monotonicity.md","x":16051,"y":-1308,"width":400,"height":239},
-		{"id":"50330854fb12092b","type":"file","file":"COMPSCI367 - Artificial Intelligence/week11/Axioms for Rationality.md","x":16371,"y":-1974,"width":400,"height":400},
+		{"id":"50330854fb12092b","type":"file","file":"COMPSCI367 - Artificial Intelligence/week11/Axioms for Rationality.md","x":16371,"y":-1974,"width":400,"height":454},
 		{"id":"edabd6900f8cfd05","type":"file","file":"COMPSCI367 - Artificial Intelligence/week11/Axiom 4 - Decomposability.md","x":16491,"y":-1308,"width":400,"height":374},
 		{"id":"984a8889dfd6b994","type":"file","file":"COMPSCI367 - Artificial Intelligence/week11/Axiom 5 - Continuity.md","x":16931,"y":-1308,"width":400,"height":374},
 		{"id":"133e2b713e0ceaed","type":"file","file":"COMPSCI367 - Artificial Intelligence/week11/Axiom 6 - Independence.md","x":17371,"y":-1308,"width":400,"height":338},
@@ -168,7 +168,10 @@
 		{"id":"cd078bc9e5be02af","x":14317,"y":-2238,"width":400,"height":400,"type":"file","file":"COMPSCI367 - Artificial Intelligence/week11/evaluate desirability.md"},
 		{"id":"ad6404f310b2728d","x":14800,"y":-2458,"width":400,"height":138,"type":"file","file":"COMPSCI367 - Artificial Intelligence/week11/expected utility.md"},
 		{"id":"a4c56a5dd688d99c","x":13694,"y":-2280,"width":400,"height":366,"type":"file","file":"COMPSCI367 - Artificial Intelligence/week11/Expected utility hypothesis.md"},
-		{"id":"fc487570b15063eb","type":"file","file":"COMPSCI367 - Artificial Intelligence/week11/Additive independence property.md","x":14217,"y":-934,"width":600,"height":771}
+		{"id":"fc487570b15063eb","type":"file","file":"COMPSCI367 - Artificial Intelligence/week11/Additive independence property.md","x":14217,"y":-934,"width":600,"height":771},
+		{"id":"53e701feac37a6cf","x":16013,"y":-761,"width":400,"height":241,"type":"file","file":"COMPSCI367 - Artificial Intelligence/week11/strict preference relation.md"},
+		{"id":"929a1484a4a860d5","x":16531,"y":-800,"width":400,"height":252,"type":"file","file":"COMPSCI367 - Artificial Intelligence/week11/indifference relation (~).md"},
+		{"id":"cb4153ee48f42ca5","x":15956,"y":0,"width":400,"height":400,"type":"file","file":"COMPSCI367 - Artificial Intelligence/week11/weak preference relation (≥).md"}
 	],
 	"edges":[
 		{"id":"58761566270d0cbd","fromNode":"483c0f155182fe5d","fromSide":"bottom","toNode":"168ecaded8db3ab0","toSide":"top"},
@@ -335,6 +338,12 @@
 		{"id":"f39b0642ae0d12d4","fromNode":"0956bdaf39a126d0","fromSide":"bottom","toNode":"9b4774be2ce523c3","toSide":"top"},
 		{"id":"a9bac7dc3be36a52","fromNode":"0956bdaf39a126d0","fromSide":"bottom","toNode":"c13f5ae2f4dc121e","toSide":"top"},
 		{"id":"9ddefd04b7ea222e","fromNode":"63fac59b53f08e10","fromSide":"left","toNode":"d86f33cc1887bfa7","toSide":"right"},
-		{"id":"d7bd719299e63caf","fromNode":"d86f33cc1887bfa7","fromSide":"bottom","toNode":"2ac7f8b9b1399188","toSide":"top"}
+		{"id":"d7bd719299e63caf","fromNode":"d86f33cc1887bfa7","fromSide":"bottom","toNode":"2ac7f8b9b1399188","toSide":"top"},
+		{"id":"c03ef89fd0e32448","fromNode":"edabd6900f8cfd05","fromSide":"bottom","toNode":"929a1484a4a860d5","toSide":"top"},
+		{"id":"5c01589ceb683fcd","fromNode":"984a8889dfd6b994","fromSide":"bottom","toNode":"929a1484a4a860d5","toSide":"top"},
+		{"id":"d70cd6e65457d6e4","fromNode":"b7c81615e2f10c16","fromSide":"bottom","toNode":"cb4153ee48f42ca5","toSide":"top"},
+		{"id":"f203d97fd28dc8bf","fromNode":"40c6ebbcffb6944e","fromSide":"bottom","toNode":"cb4153ee48f42ca5","toSide":"top"},
+		{"id":"a9623a8e8a1624b5","fromNode":"02fd7e6cb6354a32","fromSide":"bottom","toNode":"53e701feac37a6cf","toSide":"top"},
+		{"id":"06e326895c5a5b9b","fromNode":"133e2b713e0ceaed","fromSide":"bottom","toNode":"cb4153ee48f42ca5","toSide":"top"}
 	]
 }
