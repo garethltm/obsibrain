@@ -56,7 +56,6 @@
 		{"id":"96646a99754ecdd5","type":"file","file":"COMPSCI367 - Artificial Intelligence/week08/First-Order Formulas.md","x":6131,"y":-11040,"width":644,"height":480},
 		{"id":"b6f512ea706ca387","type":"file","file":"COMPSCI367 - Artificial Intelligence/week08/Generalised Modus Ponens (GMP).md","x":6756,"y":-9956,"width":400,"height":213},
 		{"id":"c0e39f305fedaef3","type":"file","file":"COMPSCI367 - Artificial Intelligence/week08/First-Order Interpretation.md","x":5401,"y":-11761,"width":640,"height":640},
-		{"id":"012818191bb1a10e","x":9683,"y":-4107,"width":400,"height":400,"type":"file","file":"COMPSCI367 - Artificial Intelligence/week10/Belief measure.md"},
 		{"id":"e5e76957efe5bbbf","type":"file","file":"COMPSCI367 - Artificial Intelligence/week05/Local beam Search.md","x":3360,"y":-4080,"width":1120,"height":1040},
 		{"id":"b3b17a63e58a3969","type":"file","file":"COMPSCI367 - Artificial Intelligence/week04/First Choice Hill-Climbing.md","x":3920,"y":-2946,"width":840,"height":300},
 		{"id":"d49ce6caecaf544b","type":"file","file":"COMPSCI367 - Artificial Intelligence/week04/Stochastic Hill-Climbing.md","x":3920,"y":-2560,"width":760,"height":280},
@@ -64,8 +63,6 @@
 		{"id":"6f5232cb8da01059","type":"file","file":"COMPSCI367 - Artificial Intelligence/week05/Stochastic Beam Search (SBS).md","x":4560,"y":-4080,"width":800,"height":640},
 		{"id":"a2bdab967b9d4ab3","type":"file","file":"COMPSCI367 - Artificial Intelligence/week05/Genetic Algorithm (GA).md","x":4560,"y":-4840,"width":640,"height":585},
 		{"id":"1565f3fa00bb00bc","type":"file","file":"COMPSCI367 - Artificial Intelligence/week05/Adversarial Search.md","x":4600,"y":-3279,"width":400,"height":239},
-		{"id":"2e0832f26689d18a","type":"file","file":"COMPSCI367 - Artificial Intelligence/week09/Probabilistic Parsing.md","x":6880,"y":-4800,"width":400,"height":203},
-		{"id":"2088076f0e9f4d8a","type":"file","file":"COMPSCI367 - Artificial Intelligence/week09/Probability.md","x":7371,"y":-4869,"width":857,"height":400},
 		{"id":"4d1d5b328323a41b","type":"file","file":"COMPSCI367 - Artificial Intelligence/week09/Probabilistic Logic.md","x":5699,"y":-4870,"width":941,"height":1079},
 		{"id":"1f10eceea50a5357","type":"file","file":"COMPSCI367 - Artificial Intelligence/week09/Probabilistic Reasoning.md","x":6480,"y":-3040,"width":400,"height":201},
 		{"id":"c731350ccb739874","type":"file","file":"COMPSCI367 - Artificial Intelligence/week09/Noisy OR.md","x":5699,"y":-3559,"width":400,"height":400},
@@ -110,7 +107,11 @@
 		{"id":"ff91f131b5cd7f7d","type":"file","file":"COMPSCI367 - Artificial Intelligence/week07/Forward Chaining.md","x":6000,"y":-8252,"width":775,"height":422},
 		{"id":"bcf06f432aaa7431","type":"file","file":"COMPSCI367 - Artificial Intelligence/week07/Modus Ponens (MP).md","x":7160,"y":-8280,"width":400,"height":400},
 		{"id":"cea8830123f2270b","type":"file","file":"COMPSCI367 - Artificial Intelligence/week10/Bayes Classifier - Conditional Independence.md","x":9120,"y":-4024,"width":560,"height":620},
-		{"id":"96ff3d269306e9ff","type":"file","file":"COMPSCI367 - Artificial Intelligence/week10/Bayes Theorem.md","x":9200,"y":-4669,"width":680,"height":400}
+		{"id":"96ff3d269306e9ff","type":"file","file":"COMPSCI367 - Artificial Intelligence/week10/Bayes Theorem.md","x":9200,"y":-4669,"width":680,"height":400},
+		{"id":"2e0832f26689d18a","type":"file","file":"COMPSCI367 - Artificial Intelligence/week09/Probabilistic Parsing.md","x":6840,"y":-4920,"width":400,"height":203},
+		{"id":"2088076f0e9f4d8a","type":"file","file":"COMPSCI367 - Artificial Intelligence/week09/Probability.md","x":7760,"y":-4869,"width":857,"height":400},
+		{"id":"8f465dce49d27b0f","x":7240,"y":-4520,"width":400,"height":152,"type":"file","file":"COMPSCI367 - Artificial Intelligence/week10/calculus of belief.md"},
+		{"id":"b48c37468ddf494c","x":6800,"y":-4566,"width":400,"height":244,"type":"file","file":"COMPSCI367 - Artificial Intelligence/week10/degree of belief.md"}
 	],
 	"edges":[
 		{"id":"58761566270d0cbd","fromNode":"483c0f155182fe5d","fromSide":"bottom","toNode":"168ecaded8db3ab0","toSide":"top"},
@@ -222,6 +223,9 @@
 		{"id":"2f0e638350195a00","fromNode":"58a881b6f43c7af3","fromSide":"bottom","toNode":"56d9c683763cadf0","toSide":"top"},
 		{"id":"237969d906591752","fromNode":"cea8830123f2270b","fromSide":"top","toNode":"2088076f0e9f4d8a","toSide":"right"},
 		{"id":"253de50b3711ff03","fromNode":"58a881b6f43c7af3","fromSide":"bottom","toNode":"bd7fffb028bd0d64","toSide":"top"},
-		{"id":"6fcfd631f63c212f","fromNode":"96ff3d269306e9ff","fromSide":"left","toNode":"2088076f0e9f4d8a","toSide":"right"}
+		{"id":"6fcfd631f63c212f","fromNode":"96ff3d269306e9ff","fromSide":"left","toNode":"2088076f0e9f4d8a","toSide":"right"},
+		{"id":"c6efae23f85a5697","fromNode":"8f465dce49d27b0f","fromSide":"top","toNode":"2088076f0e9f4d8a","toSide":"left"},
+		{"id":"6084cca487b790b8","fromNode":"f75473f75e267d30","fromSide":"top","toNode":"8f465dce49d27b0f","toSide":"bottom"},
+		{"id":"395ae24b0fbe2718","fromNode":"8f465dce49d27b0f","fromSide":"left","toNode":"b48c37468ddf494c","toSide":"right"}
 	]
 }
