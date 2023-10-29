@@ -15,9 +15,9 @@
               "state": {
                 "file": "COMPSCI367 - Artificial Intelligence/finals prep.canvas",
                 "viewState": {
-                  "x": 17150.78887611387,
-                  "y": -2324.837836842339,
-                  "zoom": -0.3333333333333334
+                  "x": 15701.260486636078,
+                  "y": -2418.806916816553,
+                  "zoom": -2.333333333333333
                 }
               }
             }
@@ -88,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week11/Utility function.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week11/evaluate desirability.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week11/Utility function.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week11/evaluate desirability.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week11/Utility function.md"
+                "file": "COMPSCI367 - Artificial Intelligence/week11/evaluate desirability.md"
               }
             }
           },
@@ -156,7 +156,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week11/Utility function.md"
+                "file": "COMPSCI367 - Artificial Intelligence/week11/evaluate desirability.md"
               }
             }
           }
