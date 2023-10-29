@@ -93,14 +93,16 @@
 		{"id":"c79ca9edda2270c6","type":"file","file":"COMPSCI367 - Artificial Intelligence/week02/Depth-First Search (DFS).md","x":-5900,"y":-3879,"width":860,"height":2166},
 		{"id":"e4ee9f022b0e9774","x":-4040,"y":-9000,"width":400,"height":178,"type":"file","file":"COMPSCI367 - Artificial Intelligence/week09/plan.md"},
 		{"id":"810505ea6f9f90c5","x":-3579,"y":-9380,"width":400,"height":198,"type":"file","file":"COMPSCI367 - Artificial Intelligence/week09/Planning.md"},
-		{"id":"c731350ccb739874","x":7210,"y":-2868,"width":400,"height":400,"type":"file","file":"COMPSCI367 - Artificial Intelligence/week09/Noisy OR.md"},
-		{"id":"f75473f75e267d30","x":7340,"y":-4229,"width":920,"height":972,"type":"file","file":"COMPSCI367 - Artificial Intelligence/week09/Probability Theory.md"},
 		{"id":"2088076f0e9f4d8a","x":7371,"y":-4869,"width":857,"height":400,"type":"file","file":"COMPSCI367 - Artificial Intelligence/week09/Probability.md"},
 		{"id":"58a881b6f43c7af3","x":8371,"y":-3676,"width":767,"height":608,"type":"file","file":"COMPSCI367 - Artificial Intelligence/week09/Evidence - Calculate probabilities given prior evidence.md"},
 		{"id":"08f0737d4b4e5871","x":4760,"y":-5560,"width":400,"height":170,"type":"file","file":"COMPSCI367 - Artificial Intelligence/week06/inference(s).md"},
 		{"id":"08c47b055f30ba2a","type":"file","file":"COMPSCI367 - Artificial Intelligence/week09/Bayes Nets.md","x":8880,"y":-4695,"width":860,"height":440},
 		{"id":"3c050c5af3bc6673","type":"file","file":"COMPSCI367 - Artificial Intelligence/week09/First Order Bayes Nets.md","x":9520,"y":-3791,"width":780,"height":230},
-		{"id":"4d1d5b328323a41b","x":5699,"y":-4870,"width":941,"height":1079,"type":"file","file":"COMPSCI367 - Artificial Intelligence/week09/Probabilistic Logic.md"}
+		{"id":"4d1d5b328323a41b","x":5699,"y":-4870,"width":941,"height":1079,"type":"file","file":"COMPSCI367 - Artificial Intelligence/week09/Probabilistic Logic.md"},
+		{"id":"f75473f75e267d30","x":7040,"y":-4200,"width":920,"height":972,"type":"file","file":"COMPSCI367 - Artificial Intelligence/week09/Probability Theory.md"},
+		{"id":"2e0832f26689d18a","x":6880,"y":-4800,"width":400,"height":203,"type":"file","file":"COMPSCI367 - Artificial Intelligence/week09/Probabilistic Parsing.md"},
+		{"id":"1f10eceea50a5357","x":6480,"y":-3040,"width":400,"height":201,"type":"file","file":"COMPSCI367 - Artificial Intelligence/week09/Probabilistic Reasoning.md"},
+		{"id":"c731350ccb739874","x":5699,"y":-3559,"width":400,"height":400,"type":"file","file":"COMPSCI367 - Artificial Intelligence/week09/Noisy OR.md"}
 	],
 	"edges":[
 		{"id":"58761566270d0cbd","fromNode":"483c0f155182fe5d","fromSide":"bottom","toNode":"168ecaded8db3ab0","toSide":"top"},
@@ -200,6 +202,9 @@
 		{"id":"092a5d2d45753f6d","fromNode":"e4ee9f022b0e9774","fromSide":"right","toNode":"a0f7e424afa1db31","toSide":"left"},
 		{"id":"6d1064b572b2fe59","fromNode":"810505ea6f9f90c5","fromSide":"bottom","toNode":"a0f7e424afa1db31","toSide":"top"},
 		{"id":"6ebe963022b225e3","fromNode":"08f0737d4b4e5871","fromSide":"left","toNode":"87676a80d54176c1","toSide":"bottom"},
-		{"id":"6f3b5ef0dafd75cb","fromNode":"4d1d5b328323a41b","fromSide":"top","toNode":"08f0737d4b4e5871","toSide":"bottom"}
+		{"id":"6f3b5ef0dafd75cb","fromNode":"4d1d5b328323a41b","fromSide":"top","toNode":"08f0737d4b4e5871","toSide":"bottom"},
+		{"id":"e6b805f01350efde","fromNode":"4d1d5b328323a41b","fromSide":"right","toNode":"f75473f75e267d30","toSide":"left"},
+		{"id":"da85b45099cbd47c","fromNode":"2e0832f26689d18a","fromSide":"left","toNode":"4d1d5b328323a41b","toSide":"right"},
+		{"id":"ac67c6d081d64d16","fromNode":"c731350ccb739874","fromSide":"top","toNode":"4d1d5b328323a41b","toSide":"bottom"}
 	]
 }
