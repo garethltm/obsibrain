@@ -16,8 +16,8 @@
                 "file": "COMPSCI367 - Artificial Intelligence/finals prep.canvas",
                 "viewState": {
                   "x": 3909.1317395612377,
-                  "y": -3376.386099685774,
-                  "zoom": -0.9999999999999996
+                  "y": -2011.2782621617566,
+                  "zoom": -1.3333333333333328
                 }
               }
             }
@@ -88,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week05/Stochastic Beam Search (SBS).md",
+                "file": "COMPSCI367 - Artificial Intelligence/week04/Hill-Climbing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week05/Stochastic Beam Search (SBS).md",
+                "file": "COMPSCI367 - Artificial Intelligence/week04/Hill-Climbing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week05/Stochastic Beam Search (SBS).md"
+                "file": "COMPSCI367 - Artificial Intelligence/week04/Hill-Climbing.md"
               }
             }
           },

@@ -6,7 +6,6 @@
 		{"id":"b93e599de8588955","type":"group","x":4960,"y":3680,"width":2121,"height":3400,"color":"1","label":"week08"},
 		{"id":"6dbf009026f32e29","type":"group","x":10236,"y":-6560,"width":1960,"height":2080,"color":"1","label":"week07"},
 		{"id":"09e4ad48cb61d99c","type":"group","x":5931,"y":-5510,"width":1150,"height":1890,"color":"1","label":"week06"},
-		{"id":"6f5232cb8da01059","x":4961,"y":-3965,"width":400,"height":400,"type":"file","file":"COMPSCI367 - Artificial Intelligence/week05/Stochastic Beam Search (SBS).md"},
 		{"id":"e82d2d6e297bac0b","type":"file","file":"COMPSCI367 - Artificial Intelligence/week03/Admissible heuristic.md","x":-9640,"y":-6157,"width":800,"height":290},
 		{"id":"007a7c191eace211","type":"file","file":"COMPSCI367 - Artificial Intelligence/week02/heuristic(s).md","x":-8400,"y":-6157,"width":560,"height":400},
 		{"id":"143c9b842b12e844","type":"file","file":"COMPSCI367 - Artificial Intelligence/week02/Informed Search.md","x":-8400,"y":-5475,"width":1000,"height":839},
@@ -55,8 +54,10 @@
 		{"id":"228a7ab4be6bdef1","x":-880,"y":1160,"width":1080,"height":1360,"type":"file","file":"COMPSCI367 - Artificial Intelligence/week03/Tree Search.md"},
 		{"id":"a56cfb7df38bc48a","type":"file","file":"COMPSCI367 - Artificial Intelligence/week03/Path Search vs CSPs.md","x":-2280,"y":-4095,"width":1260,"height":570},
 		{"id":"bcc09f909c02ac0b","type":"file","file":"COMPSCI367 - Artificial Intelligence/week03/Local Search.md","x":1120,"y":-4556,"width":760,"height":1760},
-		{"id":"1565f3fa00bb00bc","x":4880,"y":-4744,"width":400,"height":239,"type":"file","file":"COMPSCI367 - Artificial Intelligence/week05/Adversarial Search.md"},
-		{"id":"a2bdab967b9d4ab3","x":3680,"y":-4825,"width":640,"height":585,"type":"file","file":"COMPSCI367 - Artificial Intelligence/week05/Genetic Algorithm (GA).md"}
+		{"id":"6f5232cb8da01059","x":4560,"y":-4080,"width":800,"height":640,"type":"file","file":"COMPSCI367 - Artificial Intelligence/week05/Stochastic Beam Search (SBS).md"},
+		{"id":"1565f3fa00bb00bc","x":4600,"y":-3279,"width":400,"height":239,"type":"file","file":"COMPSCI367 - Artificial Intelligence/week05/Adversarial Search.md"},
+		{"id":"a2bdab967b9d4ab3","x":4560,"y":-4840,"width":640,"height":585,"type":"file","file":"COMPSCI367 - Artificial Intelligence/week05/Genetic Algorithm (GA).md"},
+		{"id":"ec5a24935e85a435","x":2364,"y":-2317,"width":796,"height":400,"type":"file","file":"COMPSCI367 - Artificial Intelligence/week04/Hill-Climbing.md"}
 	],
 	"edges":[
 		{"id":"58761566270d0cbd","fromNode":"21c3f5042ad67d16","fromSide":"bottom","toNode":"168ecaded8db3ab0","toSide":"top"},
@@ -94,6 +95,8 @@
 		{"id":"57c8e340d518f33b","fromNode":"838258289ddf421e","fromSide":"bottom","toNode":"94e105409c6cb11f","toSide":"top"},
 		{"id":"76a121e7501c2a34","fromNode":"7e5cf4ff1071e8f9","fromSide":"bottom","toNode":"ffeb2544dccef85a","toSide":"top"},
 		{"id":"0f7c95301df76bb2","fromNode":"9ff4623e382f0278","fromSide":"left","toNode":"228a7ab4be6bdef1","toSide":"right"},
-		{"id":"d7fc157554cdad89","fromNode":"34429815292abef0","fromSide":"left","toNode":"a56cfb7df38bc48a","toSide":"right"}
+		{"id":"d7fc157554cdad89","fromNode":"34429815292abef0","fromSide":"left","toNode":"a56cfb7df38bc48a","toSide":"right"},
+		{"id":"623aceabafa201d3","fromNode":"e5e76957efe5bbbf","fromSide":"right","toNode":"6f5232cb8da01059","toSide":"left"},
+		{"id":"1c117b4197dd296d","fromNode":"6f5232cb8da01059","fromSide":"top","toNode":"a2bdab967b9d4ab3","toSide":"bottom"}
 	]
 }
