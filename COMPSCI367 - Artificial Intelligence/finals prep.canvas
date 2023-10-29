@@ -78,7 +78,6 @@
 		{"id":"143c9b842b12e844","type":"file","file":"COMPSCI367 - Artificial Intelligence/week02/Informed Search.md","x":-8400,"y":-5475,"width":1000,"height":875},
 		{"id":"b96022ab55337dfc","type":"file","file":"COMPSCI367 - Artificial Intelligence/week02/Greedy (Best-First) Search.md","x":-8240,"y":-4405,"width":680,"height":1281},
 		{"id":"4a95fa87cb99f8e0","type":"file","file":"COMPSCI367 - Artificial Intelligence/week10/Why should you use NLP.md","x":11478,"y":-7740,"width":400,"height":400},
-		{"id":"9161436fb9d371d4","x":16318,"y":-5701,"width":400,"height":400,"type":"file","file":"COMPSCI367 - Artificial Intelligence/week12/Philosophical theory.md"},
 		{"id":"2bf508af660757a0","type":"file","file":"COMPSCI367 - Artificial Intelligence/week10/Information Theory.md","x":8895,"y":-353,"width":660,"height":400},
 		{"id":"ca3c52732e90e667","type":"file","file":"COMPSCI367 - Artificial Intelligence/week10/Entropy (or self-information).md","x":9225,"y":-924,"width":707,"height":400},
 		{"id":"2dafb100aabf0902","type":"file","file":"COMPSCI367 - Artificial Intelligence/week10/Reason with Uncertainty.md","x":7112,"y":-1080,"width":400,"height":400},
@@ -184,18 +183,26 @@
 		{"id":"dd47ce30fb96ced8","type":"file","file":"COMPSCI367 - Artificial Intelligence/week12/Decision function.md","x":18080,"y":-2257,"width":400,"height":308},
 		{"id":"a47be4cdbe374105","type":"file","file":"COMPSCI367 - Artificial Intelligence/week12/Decision network.md","x":18545,"y":-2248,"width":400,"height":488},
 		{"id":"895e3912f462b7f7","type":"file","file":"COMPSCI367 - Artificial Intelligence/week12/Explainable AI (XAI).md","x":15086,"y":-5840,"width":400,"height":453},
-		{"id":"e37670669390e8c0","type":"file","file":"COMPSCI367 - Artificial Intelligence/week12/Finite horizon.md","x":19120,"y":-2223,"width":400,"height":240},
 		{"id":"7cc0be4f5b90fd71","type":"file","file":"COMPSCI367 - Artificial Intelligence/week12/How we can resolve the problems of robots taking over jobs.md","x":15580,"y":-5840,"width":400,"height":400},
 		{"id":"6586d7bfe8fcb15a","type":"file","file":"COMPSCI367 - Artificial Intelligence/week12/Lethal Autonomous Weapon.md","x":16904,"y":-5459,"width":400,"height":400},
 		{"id":"786cac7d155462de","type":"file","file":"COMPSCI367 - Artificial Intelligence/week12/Misaligned Intelligence Explosion.md","x":16744,"y":-6499,"width":400,"height":400},
 		{"id":"8a9944f80cb5630b","type":"file","file":"COMPSCI367 - Artificial Intelligence/week12/moral responsibility.md","x":15716,"y":-6563,"width":400,"height":400},
-		{"id":"9acfdc3f541eb40b","type":"file","file":"COMPSCI367 - Artificial Intelligence/week12/Indefinite horizon or infinite horizon.md","x":18345,"y":-1674,"width":400,"height":400},
 		{"id":"6cfbb834e1b19f89","type":"file","file":"COMPSCI367 - Artificial Intelligence/week12/no forgetting property.md","x":18880,"y":-1541,"width":400,"height":205},
 		{"id":"63fac59b53f08e10","type":"file","file":"COMPSCI367 - Artificial Intelligence/week11/Decision Trees.md","x":17560,"y":-2841,"width":400,"height":400},
 		{"id":"b2cd08f5af0df044","type":"file","file":"COMPSCI367 - Artificial Intelligence/week12/optimal policy.md","x":18040,"y":-2634,"width":400,"height":161},
 		{"id":"a0e79c2c4c8f3449","type":"file","file":"COMPSCI367 - Artificial Intelligence/week11/Linear scalability.md","x":17960,"y":-3283,"width":400,"height":400},
 		{"id":"0a2548512902bbc5","type":"file","file":"COMPSCI367 - Artificial Intelligence/week12/policy.md","x":18520,"y":-2753,"width":400,"height":200},
-		{"id":"c4e9a1c1cff20eaa","type":"file","file":"COMPSCI367 - Artificial Intelligence/week12/Single-stage decision networks (SSDN).md","x":19000,"y":-2753,"width":400,"height":393}
+		{"id":"c4e9a1c1cff20eaa","type":"file","file":"COMPSCI367 - Artificial Intelligence/week12/Single-stage decision networks (SSDN).md","x":19000,"y":-2753,"width":400,"height":393},
+		{"id":"9161436fb9d371d4","x":16318,"y":-5701,"width":400,"height":400,"type":"file","file":"COMPSCI367 - Artificial Intelligence/week12/Philosophical theory.md"},
+		{"id":"09f775e25ed09ea4","x":16254,"y":-6290,"width":400,"height":400,"type":"file","file":"COMPSCI367 - Artificial Intelligence/week12/Robots taking over jobs.md"},
+		{"id":"aeb225ab8fe57153","x":18880,"y":-1114,"width":400,"height":400,"type":"file","file":"COMPSCI367 - Artificial Intelligence/week12/Sequential Decision Problem.md"},
+		{"id":"9acfdc3f541eb40b","type":"file","file":"COMPSCI367 - Artificial Intelligence/week12/Indefinite horizon or infinite horizon.md","x":18200,"y":-1073,"width":400,"height":400},
+		{"id":"e37670669390e8c0","type":"file","file":"COMPSCI367 - Artificial Intelligence/week12/Finite horizon.md","x":19400,"y":-1021,"width":400,"height":240},
+		{"id":"eb36e2d7757091ef","x":19124,"y":-2097,"width":400,"height":297,"type":"file","file":"COMPSCI367 - Artificial Intelligence/week12/SSDN-based one-off decision problem.md"},
+		{"id":"69e4ed3ed8ded793","x":18191,"y":-1545,"width":400,"height":222,"type":"file","file":"COMPSCI367 - Artificial Intelligence/week12/state (ω).md"},
+		{"id":"b6cd2b7cb634eaa8","x":17587,"y":-5854,"width":400,"height":400,"type":"file","file":"COMPSCI367 - Artificial Intelligence/week12/The Autonomous Vehicle Dilemma.md"},
+		{"id":"9fefd8db58519a4c","x":16944,"y":-5960,"width":400,"height":400,"type":"file","file":"COMPSCI367 - Artificial Intelligence/week12/Utilitarian theory.md"},
+		{"id":"28da8a9f7208b96f","x":17743,"y":-1023,"width":400,"height":242,"type":"file","file":"COMPSCI367 - Artificial Intelligence/week12/value of a decision network.md"}
 	],
 	"edges":[
 		{"id":"58761566270d0cbd","fromNode":"483c0f155182fe5d","fromSide":"bottom","toNode":"168ecaded8db3ab0","toSide":"top"},
@@ -389,6 +396,8 @@
 		{"id":"a803cb194b852cba","fromNode":"a0e79c2c4c8f3449","fromSide":"right","toNode":"e074f591dc04018d","toSide":"left"},
 		{"id":"f4d7d6af672cec6a","fromNode":"a0e79c2c4c8f3449","fromSide":"left","toNode":"79ef0f5ba5b33afc","toSide":"bottom"},
 		{"id":"5a68d66b9a55d4e3","fromNode":"cd078bc9e5be02af","fromSide":"bottom","toNode":"79ef0f5ba5b33afc","toSide":"top"},
-		{"id":"16804f73f3dd86a7","fromNode":"63fac59b53f08e10","fromSide":"left","toNode":"d136ec4d4e130d90","toSide":"bottom"}
+		{"id":"16804f73f3dd86a7","fromNode":"63fac59b53f08e10","fromSide":"left","toNode":"d136ec4d4e130d90","toSide":"bottom"},
+		{"id":"93f33e5f12126e62","fromNode":"aeb225ab8fe57153","fromSide":"left","toNode":"9acfdc3f541eb40b","toSide":"right"},
+		{"id":"bec6c36d6ee0ba86","fromNode":"aeb225ab8fe57153","fromSide":"right","toNode":"e37670669390e8c0","toSide":"left"}
 	]
 }
