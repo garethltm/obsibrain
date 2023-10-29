@@ -59,7 +59,6 @@
 		{"id":"63d33bce851a4a99","type":"file","file":"COMPSCI367 - Artificial Intelligence/week02/Iterative-Deepening Search (IDS).md","x":-3983,"y":-4996,"width":787,"height":898},
 		{"id":"454a575947cab4cd","type":"file","file":"COMPSCI367 - Artificial Intelligence/week02/Depth-Limited Search (DLS).md","x":-4040,"y":-3886,"width":900,"height":1081},
 		{"id":"08c47b055f30ba2a","type":"file","file":"COMPSCI367 - Artificial Intelligence/week09/Bayes Nets.md","x":8106,"y":-2628,"width":860,"height":260},
-		{"id":"c4c577cbd367351e","type":"file","file":"COMPSCI367 - Artificial Intelligence/week09/TranslateToSAT.md","x":9886,"y":-2313,"width":680,"height":430},
 		{"id":"e8034e3171110743","type":"file","file":"COMPSCI367 - Artificial Intelligence/week03/Iterative Deepening A-Star Search (IDA).md","x":-7240,"y":-2485,"width":860,"height":1139},
 		{"id":"943b888d61bee2c0","type":"file","file":"COMPSCI367 - Artificial Intelligence/week02/Informed Search Heuristic.md","x":-7740,"y":-6157,"width":680,"height":320},
 		{"id":"143c9b842b12e844","type":"file","file":"COMPSCI367 - Artificial Intelligence/week02/Informed Search.md","x":-8400,"y":-5475,"width":1000,"height":875},
@@ -88,7 +87,8 @@
 		{"id":"7aa38305b72e704a","type":"file","file":"COMPSCI367 - Artificial Intelligence/week06/semantics.md","x":461,"y":-7119,"width":400,"height":178},
 		{"id":"483c0f155182fe5d","type":"file","file":"COMPSCI367 - Artificial Intelligence/week08/Propositionalization.md","x":1800,"y":-10440,"width":400,"height":206},
 		{"id":"935c99032e07f35b","type":"file","file":"COMPSCI367 - Artificial Intelligence/week06/Logic Inference Problem.md","x":-1231,"y":-6925,"width":400,"height":190},
-		{"id":"21c3f5042ad67d16","type":"file","file":"COMPSCI367 - Artificial Intelligence/week08/First-Order Logic Inference.md","x":2055,"y":-10880,"width":470,"height":238}
+		{"id":"21c3f5042ad67d16","type":"file","file":"COMPSCI367 - Artificial Intelligence/week08/First-Order Logic Inference.md","x":2055,"y":-10880,"width":470,"height":238},
+		{"id":"ee71447003fed49a","type":"file","file":"COMPSCI367 - Artificial Intelligence/week09/TranslateToSAT.md","x":-560,"y":-6560,"width":680,"height":430}
 	],
 	"edges":[
 		{"id":"58761566270d0cbd","fromNode":"483c0f155182fe5d","fromSide":"bottom","toNode":"168ecaded8db3ab0","toSide":"top"},
@@ -174,6 +174,7 @@
 		{"id":"b72e19495c41e8ea","fromNode":"795e78e6e19e6267","fromSide":"right","toNode":"c0e39f305fedaef3","toSide":"left"},
 		{"id":"e10cf6f95f4c2b8a","fromNode":"168ecaded8db3ab0","fromSide":"left","toNode":"7f23af8e914af1e0","toSide":"top"},
 		{"id":"3445ead25e10c19e","fromNode":"b517183b840ad49d","fromSide":"right","toNode":"b6f512ea706ca387","toSide":"left"},
-		{"id":"066312d1f6895462","fromNode":"21c3f5042ad67d16","fromSide":"bottom","toNode":"483c0f155182fe5d","toSide":"top"}
+		{"id":"066312d1f6895462","fromNode":"21c3f5042ad67d16","fromSide":"bottom","toNode":"483c0f155182fe5d","toSide":"top"},
+		{"id":"0d9cdafcfbeabb32","fromNode":"ee71447003fed49a","fromSide":"top","toNode":"ec6c6b03423f7c6b","toSide":"bottom"}
 	]
 }
