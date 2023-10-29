@@ -15,9 +15,9 @@
               "state": {
                 "file": "COMPSCI367 - Artificial Intelligence/finals prep.canvas",
                 "viewState": {
-                  "x": -1859.4020797917208,
-                  "y": -8753.589543099897,
-                  "zoom": -1.3333333333333328
+                  "x": -2067.951453951661,
+                  "y": -8737.839013873756,
+                  "zoom": -0.333333333333333
                 }
               }
             }
@@ -89,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week06/SAT solvers.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week09/Planning task.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week06/SAT solvers.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week09/Planning task.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week06/SAT solvers.md"
+                "file": "COMPSCI367 - Artificial Intelligence/week09/Planning task.md"
               }
             }
           },
@@ -157,7 +157,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week06/SAT solvers.md"
+                "file": "COMPSCI367 - Artificial Intelligence/week09/Planning task.md"
               }
             }
           }
