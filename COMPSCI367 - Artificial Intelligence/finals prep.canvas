@@ -90,7 +90,8 @@
 		{"id":"b5726b70f90d8563","type":"file","file":"COMPSCI367 - Artificial Intelligence/week09/Search-based Planning Algorithm.md","x":-4084,"y":-8633,"width":820,"height":920},
 		{"id":"776f617db4924558","type":"file","file":"COMPSCI367 - Artificial Intelligence/week06/Logic Inference vs Constraint Satisfaction.md","x":25,"y":-6800,"width":1110,"height":925},
 		{"id":"ee71447003fed49a","type":"file","file":"COMPSCI367 - Artificial Intelligence/week09/TranslateToSAT.md","x":-1124,"y":-8153,"width":680,"height":430},
-		{"id":"f6b3acc959bff629","x":-984,"y":-9160,"width":400,"height":360,"type":"file","file":"COMPSCI367 - Artificial Intelligence/week09/ExtractPlan.md"}
+		{"id":"f6b3acc959bff629","x":-984,"y":-9160,"width":400,"height":360,"type":"file","file":"COMPSCI367 - Artificial Intelligence/week09/ExtractPlan.md"},
+		{"id":"a13ee0bdd07e8d35","x":-2580,"y":-9194,"width":961,"height":400,"type":"file","file":"COMPSCI367 - Artificial Intelligence/week09/Planning task.md"}
 	],
 	"edges":[
 		{"id":"58761566270d0cbd","fromNode":"483c0f155182fe5d","fromSide":"bottom","toNode":"168ecaded8db3ab0","toSide":"top"},
@@ -181,6 +182,8 @@
 		{"id":"5cca60b4bbbcfcf3","fromNode":"ce0eed8b1334236a","fromSide":"right","toNode":"8f06822f33c6be7d","toSide":"left"},
 		{"id":"4194b878bd9ecb17","fromNode":"8f06822f33c6be7d","fromSide":"bottom","toNode":"ee71447003fed49a","toSide":"top"},
 		{"id":"d3e771abe42bef8c","fromNode":"8f06822f33c6be7d","fromSide":"right","toNode":"2bf31c7bc0b7d4ff","toSide":"left"},
-		{"id":"73e3007b87e38068","fromNode":"8f06822f33c6be7d","fromSide":"top","toNode":"f6b3acc959bff629","toSide":"bottom"}
+		{"id":"73e3007b87e38068","fromNode":"8f06822f33c6be7d","fromSide":"top","toNode":"f6b3acc959bff629","toSide":"bottom"},
+		{"id":"65c9f5511563e4ac","fromNode":"fc2554959ad9e7c2","fromSide":"top","toNode":"a13ee0bdd07e8d35","toSide":"left"},
+		{"id":"88b59e11cc875ca3","fromNode":"a13ee0bdd07e8d35","fromSide":"bottom","toNode":"ce0eed8b1334236a","toSide":"top"}
 	]
 }
