@@ -170,7 +170,6 @@
 		{"id":"79ef0f5ba5b33afc","type":"file","file":"COMPSCI367 - Artificial Intelligence/week11/Utility function.md","x":17480,"y":-3463,"width":400,"height":147},
 		{"id":"63fac59b53f08e10","type":"file","file":"COMPSCI367 - Artificial Intelligence/week11/Decision Trees.md","x":17540,"y":-2687,"width":400,"height":400},
 		{"id":"f3bb8917dbbee0ca","type":"file","file":"COMPSCI367 - Artificial Intelligence/week11/Expected utility hypothesis.md","x":17880,"y":-3954,"width":400,"height":400},
-		{"id":"a0e79c2c4c8f3449","type":"file","file":"COMPSCI367 - Artificial Intelligence/week11/Linear scalability.md","x":18000,"y":-3317,"width":400,"height":400},
 		{"id":"0a2548512902bbc5","type":"file","file":"COMPSCI367 - Artificial Intelligence/week12/policy.md","x":18320,"y":-2690,"width":400,"height":200},
 		{"id":"b2cd08f5af0df044","type":"file","file":"COMPSCI367 - Artificial Intelligence/week12/optimal policy.md","x":17431,"y":-2177,"width":400,"height":161},
 		{"id":"28da8a9f7208b96f","type":"file","file":"COMPSCI367 - Artificial Intelligence/week12/value of a decision network.md","x":18000,"y":-2137,"width":360,"height":242},
@@ -205,7 +204,8 @@
 		{"id":"e52e708863d6e3ca","type":"file","file":"COMPSCI367 - Artificial Intelligence/week12/policy (π).md","x":19600,"y":-1775,"width":400,"height":471},
 		{"id":"fc487570b15063eb","type":"file","file":"COMPSCI367 - Artificial Intelligence/week11/Additive independence property.md","x":15991,"y":-3850,"width":600,"height":690},
 		{"id":"8779a6f9a1e8d67d","type":"file","file":"COMPSCI367 - Artificial Intelligence/week11/Local Markov Property.md","x":12000,"y":-1240,"width":400,"height":547},
-		{"id":"fb4b79a0ed070a7c","type":"file","file":"COMPSCI367 - Artificial Intelligence/week11/Probabilistic Model.md","x":14100,"y":-1480,"width":720,"height":480}
+		{"id":"fb4b79a0ed070a7c","type":"file","file":"COMPSCI367 - Artificial Intelligence/week11/Probabilistic Model.md","x":14100,"y":-1480,"width":720,"height":480},
+		{"id":"a0e79c2c4c8f3449","type":"file","file":"COMPSCI367 - Artificial Intelligence/week11/Linear scalability.md","x":18000,"y":-3231,"width":400,"height":400}
 	],
 	"edges":[
 		{"id":"58761566270d0cbd","fromNode":"483c0f155182fe5d","fromSide":"bottom","toNode":"168ecaded8db3ab0","toSide":"top"},
@@ -415,6 +415,7 @@
 		{"id":"49de268204d9e221","fromNode":"28da8a9f7208b96f","fromSide":"left","toNode":"b2cd08f5af0df044","toSide":"right"},
 		{"id":"53221d1d1d6b5c46","fromNode":"e52e708863d6e3ca","fromSide":"top","toNode":"dd47ce30fb96ced8","toSide":"bottom"},
 		{"id":"df2fd3882222cfe7","fromNode":"69e4ed3ed8ded793","fromSide":"right","toNode":"e52e708863d6e3ca","toSide":"left"},
-		{"id":"21fc0e6d4e010176","fromNode":"a47be4cdbe374105","fromSide":"bottom","toNode":"6cfbb834e1b19f89","toSide":"top"}
+		{"id":"21fc0e6d4e010176","fromNode":"a47be4cdbe374105","fromSide":"bottom","toNode":"6cfbb834e1b19f89","toSide":"top"},
+		{"id":"ef0b071a2bcbdf34","fromNode":"d86f33cc1887bfa7","fromSide":"right","toNode":"a0e79c2c4c8f3449","toSide":"left"}
 	]
 }
