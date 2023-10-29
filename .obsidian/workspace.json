@@ -15,9 +15,9 @@
               "state": {
                 "file": "COMPSCI367 - Artificial Intelligence/finals prep.canvas",
                 "viewState": {
-                  "x": -4735.476403467306,
-                  "y": -752.3622363923398,
-                  "zoom": -1.4110274618479646
+                  "x": -5312.172809352878,
+                  "y": -1849.6978646982461,
+                  "zoom": -1.0776941285146313
                 }
               }
             }
@@ -88,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week02/Greedy (Best-First) Search.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week02/heuristic(s).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week02/Greedy (Best-First) Search.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week02/heuristic(s).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week02/Greedy (Best-First) Search.md"
+                "file": "COMPSCI367 - Artificial Intelligence/week02/heuristic(s).md"
               }
             }
           },
