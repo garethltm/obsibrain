@@ -32,7 +32,6 @@
 		{"id":"776f617db4924558","type":"file","file":"COMPSCI367 - Artificial Intelligence/week06/Logic Inference vs Constraint Satisfaction.md","x":-1872,"y":-8324,"width":1110,"height":925},
 		{"id":"a1f94e6c8934bc62","type":"file","file":"COMPSCI367 - Artificial Intelligence/week08/Skolem constant.md","x":469,"y":-10264,"width":400,"height":344},
 		{"id":"74c0acc3deeb1a71","type":"file","file":"COMPSCI367 - Artificial Intelligence/week02/A-Star Search.md","x":-6960,"y":-6157,"width":640,"height":3352},
-		{"id":"121ab53d948313a7","type":"file","file":"COMPSCI367 - Artificial Intelligence/week08/Free variables.md","x":469,"y":-9600,"width":400,"height":147},
 		{"id":"e5e76957efe5bbbf","type":"file","file":"COMPSCI367 - Artificial Intelligence/week05/Local beam Search.md","x":3360,"y":-4080,"width":1120,"height":1040},
 		{"id":"b2650430cc548d11","type":"file","file":"COMPSCI367 - Artificial Intelligence/week05/Greedy descent with M random restarts vs Local beam Search.md","x":2281,"y":-2946,"width":959,"height":440},
 		{"id":"fbcde72febcf2aa2","type":"file","file":"COMPSCI367 - Artificial Intelligence/week05/Population-based Search.md","x":2320,"y":-4080,"width":960,"height":1040},
@@ -86,7 +85,9 @@
 		{"id":"0f8e8374f8203bf6","type":"text","text":"### Summary\n- [[Population-based Search]] conducts search by maintaining & updating a collection of [[candidate solution]]\n- [[Local beam Search]] is an adaptation of [[Iterative Best Improvement (IBI)]] by maintaining M > 1 [[candidate solution]]\n- [[Stochastic Beam Search (SBS)]] aims to avoid [[Local beam Search]] concentration on a narrow [[path(s)]] by using [[Boltzmann distribution]]\n#### Framework\n- [[Genetic Algorithm (GA)]] maintains a [[population]] of [[candidate solution]]\n- Chromosomes are representations of [[candidate solution]] that determines [[fitness]]\n- [[crossover operation]] & [[mutation operation]] for generating offsprings","x":2680,"y":-4840,"width":825,"height":430,"color":"1"},
 		{"id":"725b870b52b50343","type":"file","file":"COMPSCI367 - Artificial Intelligence/week04/Random Walk Hill-Climbing.md","x":3920,"y":-2197,"width":760,"height":357},
 		{"id":"8279376100a5cd45","type":"file","file":"COMPSCI367 - Artificial Intelligence/week09/Forward (Progression) planning.md","x":7060,"y":-272,"width":856,"height":981},
-		{"id":"1f53223437edcd0e","type":"file","file":"COMPSCI367 - Artificial Intelligence/week09/Backward (Regression) planning.md","x":7981,"y":-272,"width":1280,"height":662}
+		{"id":"1f53223437edcd0e","type":"file","file":"COMPSCI367 - Artificial Intelligence/week09/Backward (Regression) planning.md","x":7981,"y":-272,"width":1280,"height":662},
+		{"id":"7f23af8e914af1e0","type":"file","file":"COMPSCI367 - Artificial Intelligence/week08/Herbrand's Theorem.md","x":160,"y":-9320,"width":898,"height":253},
+		{"id":"b6f512ea706ca387","x":4040,"y":-10034,"width":400,"height":213,"type":"file","file":"COMPSCI367 - Artificial Intelligence/week08/Generalised Modus Ponens (GMP).md"}
 	],
 	"edges":[
 		{"id":"58761566270d0cbd","fromNode":"21c3f5042ad67d16","fromSide":"bottom","toNode":"168ecaded8db3ab0","toSide":"top"},
@@ -169,6 +170,8 @@
 		{"id":"08742a631606f95f","fromNode":"168ecaded8db3ab0","fromSide":"left","toNode":"a1f94e6c8934bc62","toSide":"right"},
 		{"id":"7f0d422c6fb303bf","fromNode":"b517183b840ad49d","fromSide":"bottom","toNode":"bcf06f432aaa7431","toSide":"top"},
 		{"id":"f85d1d310b863751","fromNode":"795e78e6e19e6267","fromSide":"bottom","toNode":"21c3f5042ad67d16","toSide":"top"},
-		{"id":"b72e19495c41e8ea","fromNode":"795e78e6e19e6267","fromSide":"right","toNode":"c0e39f305fedaef3","toSide":"left"}
+		{"id":"b72e19495c41e8ea","fromNode":"795e78e6e19e6267","fromSide":"right","toNode":"c0e39f305fedaef3","toSide":"left"},
+		{"id":"e10cf6f95f4c2b8a","fromNode":"168ecaded8db3ab0","fromSide":"left","toNode":"7f23af8e914af1e0","toSide":"top"},
+		{"id":"3e37f599298a9ab5","fromNode":"b517183b840ad49d","fromSide":"right","toNode":"b6f512ea706ca387","toSide":"bottom"}
 	]
 }
