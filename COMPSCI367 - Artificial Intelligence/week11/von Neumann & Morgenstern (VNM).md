@@ -19,4 +19,3 @@ finding out the most preferred [[outcome(s)]]
 
 >	#Example 
 >	![[Pasted image 20231026100336.png]]
->>>>>>> origin/main

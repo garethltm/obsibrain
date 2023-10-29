@@ -11,12 +11,8 @@
             "id": "98da943ebf305f83",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week11/von Neumann & Morgenstern (VNM).md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week11/von Neumann & Morgenstern (VNM).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week11/von Neumann & Morgenstern (VNM).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week11/von Neumann & Morgenstern (VNM).md"
-              }
+              "state": {}
             }
           },
           {
@@ -168,6 +160,7 @@
   },
   "active": "98da943ebf305f83",
   "lastOpenFiles": [
+    "COMPSCI367 - Artificial Intelligence/week11/von Neumann & Morgenstern (VNM).md",
     "Deontologist theory.md",
     "COMPSCI367 - Artificial Intelligence/week12/Chance nodes.md",
     "README.md",
@@ -194,7 +187,6 @@
     "COMPSCI367 - Artificial Intelligence/week02/Informed Search.md",
     "COMPSCI367 - Artificial Intelligence/finals prep.canvas",
     "COMPSCI367 - Artificial Intelligence/week01/Multi-agent.md",
-    "COMPSCI367 - Artificial Intelligence/week08/Existential quantification-GARETH.md",
     "@images/COMPSCI3672022_S2W09Lecture25AIinSociety28129-21.jpg",
     "@images/Pasted image 20231026174833.png",
     "@images/Pasted image 20231026174606.png",
