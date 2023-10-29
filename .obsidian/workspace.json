@@ -15,9 +15,9 @@
               "state": {
                 "file": "COMPSCI367 - Artificial Intelligence/finals prep.canvas",
                 "viewState": {
-                  "x": 15318.563696031948,
-                  "y": -3953.0702014090566,
-                  "zoom": -1.3333333333333333
+                  "x": 18411.61452377261,
+                  "y": -2496.959081753709,
+                  "zoom": -1.6666666666666665
                 }
               }
             }
@@ -88,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week11/Variable Elimination Algorithm (VE).md",
+                "file": "COMPSCI367 - Artificial Intelligence/week11/Probabilistic Model.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week11/Variable Elimination Algorithm (VE).md",
+                "file": "COMPSCI367 - Artificial Intelligence/week11/Probabilistic Model.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week11/Variable Elimination Algorithm (VE).md"
+                "file": "COMPSCI367 - Artificial Intelligence/week11/Probabilistic Model.md"
               }
             }
           },
@@ -156,7 +156,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week11/Variable Elimination Algorithm (VE).md"
+                "file": "COMPSCI367 - Artificial Intelligence/week11/Probabilistic Model.md"
               }
             }
           }

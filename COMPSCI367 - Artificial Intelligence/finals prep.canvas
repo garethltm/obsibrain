@@ -148,7 +148,6 @@
 		{"id":"0f8e8374f8203bf6","type":"text","text":"### Summary\n- [[Population-based Search]] conducts search by maintaining & updating a collection of [[candidate solution]]\n- [[Local beam Search]] is an adaptation of [[Iterative Best Improvement (IBI)]] by maintaining M > 1 [[candidate solution]]\n- [[Stochastic Beam Search (SBS)]] aims to avoid [[Local beam Search]] concentration on a narrow [[path(s)]] by using [[Boltzmann distribution]]\n#### Framework\n- [[Genetic Algorithm (GA)]] maintains a [[population]] of [[candidate solution]]\n- Chromosomes are representations of [[candidate solution]] that determines [[fitness]]\n- [[crossover operation]] & [[mutation operation]] for generating offsprings","x":2680,"y":-4840,"width":825,"height":430,"color":"1"},
 		{"id":"fbcde72febcf2aa2","type":"file","file":"COMPSCI367 - Artificial Intelligence/week05/Population-based Search.md","x":2320,"y":-4080,"width":960,"height":1040},
 		{"id":"08f0737d4b4e5871","type":"file","file":"COMPSCI367 - Artificial Intelligence/week06/inference(s).md","x":4055,"y":-5400,"width":400,"height":170},
-		{"id":"a4c56a5dd688d99c","type":"file","file":"COMPSCI367 - Artificial Intelligence/week11/Expected utility hypothesis.md","x":13954,"y":-2633,"width":400,"height":366},
 		{"id":"8779a6f9a1e8d67d","type":"file","file":"COMPSCI367 - Artificial Intelligence/week11/Local Markov Property.md","x":13540,"y":-2048,"width":400,"height":400},
 		{"id":"1d76bcff2123916d","type":"file","file":"COMPSCI367 - Artificial Intelligence/week11/Bayesian Networks.md","x":14100,"y":-2048,"width":860,"height":400},
 		{"id":"a0e79c2c4c8f3449","type":"file","file":"COMPSCI367 - Artificial Intelligence/week11/Linear scalability.md","x":17151,"y":-2397,"width":400,"height":400},
@@ -156,7 +155,6 @@
 		{"id":"d136ec4d4e130d90","type":"file","file":"COMPSCI367 - Artificial Intelligence/week11/expected utility.md","x":17380,"y":-3816,"width":400,"height":143},
 		{"id":"f3bb8917dbbee0ca","type":"file","file":"COMPSCI367 - Artificial Intelligence/week11/Expected utility hypothesis.md","x":17380,"y":-3526,"width":400,"height":400},
 		{"id":"e074f591dc04018d","type":"file","file":"COMPSCI367 - Artificial Intelligence/week11/utility.md","x":18104,"y":-3200,"width":400,"height":227},
-		{"id":"79ef0f5ba5b33afc","type":"file","file":"COMPSCI367 - Artificial Intelligence/week11/Utility function.md","x":17959,"y":-2700,"width":400,"height":147},
 		{"id":"fc487570b15063eb","type":"file","file":"COMPSCI367 - Artificial Intelligence/week11/Additive independence property.md","x":15951,"y":-3816,"width":600,"height":690},
 		{"id":"d86f33cc1887bfa7","type":"file","file":"COMPSCI367 - Artificial Intelligence/week11/von Neumann & Morgenstern (VNM).md","x":15980,"y":-2873,"width":731,"height":400},
 		{"id":"02fd7e6cb6354a32","type":"file","file":"COMPSCI367 - Artificial Intelligence/week11/Axiom 3 - Monotonicity.md","x":16311,"y":-1661,"width":400,"height":239},
@@ -168,20 +166,22 @@
 		{"id":"929a1484a4a860d5","type":"file","file":"COMPSCI367 - Artificial Intelligence/week11/indifference relation (~).md","x":16791,"y":-1153,"width":400,"height":252},
 		{"id":"53e701feac37a6cf","type":"file","file":"COMPSCI367 - Artificial Intelligence/week11/strict preference relation.md","x":16273,"y":-1114,"width":400,"height":241},
 		{"id":"cb4153ee48f42ca5","type":"file","file":"COMPSCI367 - Artificial Intelligence/week11/weak preference relation (≥).md","x":16216,"y":-353,"width":400,"height":400},
-		{"id":"73969e52ece94f5a","type":"file","file":"COMPSCI367 - Artificial Intelligence/week11/lottery.md","x":15231,"y":-1262,"width":400,"height":297},
 		{"id":"b7c81615e2f10c16","type":"file","file":"COMPSCI367 - Artificial Intelligence/week11/Axiom 1 - Completeness.md","x":15431,"y":-1661,"width":400,"height":254},
 		{"id":"40c6ebbcffb6944e","type":"file","file":"COMPSCI367 - Artificial Intelligence/week11/Axiom 2 - Transitivity.md","x":15871,"y":-1661,"width":400,"height":323},
 		{"id":"2ac7f8b9b1399188","type":"file","file":"COMPSCI367 - Artificial Intelligence/week11/(VNM-) rational.md","x":15951,"y":-2267,"width":465,"height":140},
 		{"id":"cd078bc9e5be02af","type":"file","file":"COMPSCI367 - Artificial Intelligence/week11/evaluate desirability.md","x":14577,"y":-2591,"width":400,"height":400},
-		{"id":"95e8e89abf7efdeb","type":"file","file":"COMPSCI367 - Artificial Intelligence/week11/Utility theory.md","x":14620,"y":-1393,"width":400,"height":400},
-		{"id":"fb4b79a0ed070a7c","type":"file","file":"COMPSCI367 - Artificial Intelligence/week11/Probabilistic Model.md","x":13554,"y":-1513,"width":400,"height":400},
 		{"id":"5cb3512fe5e60f81","type":"file","file":"COMPSCI367 - Artificial Intelligence/week11/Bayesian Network Inference.md","x":15140,"y":-2673,"width":691,"height":400},
 		{"id":"0956bdaf39a126d0","type":"file","file":"COMPSCI367 - Artificial Intelligence/week11/CPT Operations.md","x":14520,"y":-3200,"width":400,"height":434},
 		{"id":"4b23b84c61f41c56","type":"file","file":"COMPSCI367 - Artificial Intelligence/week11/CPT Operation 1 - Restriction.md","x":13754,"y":-3816,"width":400,"height":400},
 		{"id":"07cc337f6e4ac08f","type":"file","file":"COMPSCI367 - Artificial Intelligence/week11/CPT Operation 2 - Multiplication.md","x":14240,"y":-3816,"width":400,"height":400},
 		{"id":"9b4774be2ce523c3","type":"file","file":"COMPSCI367 - Artificial Intelligence/week11/CPT Operation 3 - Normalisation.md","x":14720,"y":-3816,"width":400,"height":400},
 		{"id":"c13f5ae2f4dc121e","type":"file","file":"COMPSCI367 - Artificial Intelligence/week11/CPT Operation 4 - Summation.md","x":15200,"y":-3794,"width":400,"height":356},
-		{"id":"ced01ca1127cbccc","type":"file","file":"COMPSCI367 - Artificial Intelligence/week11/Variable Elimination Algorithm (VE).md","x":14160,"y":-4520,"width":1120,"height":520}
+		{"id":"ced01ca1127cbccc","type":"file","file":"COMPSCI367 - Artificial Intelligence/week11/Variable Elimination Algorithm (VE).md","x":14160,"y":-4520,"width":1120,"height":520},
+		{"id":"79ef0f5ba5b33afc","type":"file","file":"COMPSCI367 - Artificial Intelligence/week11/Utility function.md","x":18104,"y":-2820,"width":400,"height":147},
+		{"id":"73969e52ece94f5a","type":"file","file":"COMPSCI367 - Artificial Intelligence/week11/lottery.md","x":19781,"y":-1997,"width":400,"height":297},
+		{"id":"95e8e89abf7efdeb","type":"file","file":"COMPSCI367 - Artificial Intelligence/week11/Utility theory.md","x":19170,"y":-2128,"width":400,"height":400},
+		{"id":"a4c56a5dd688d99c","type":"file","file":"COMPSCI367 - Artificial Intelligence/week11/Expected utility hypothesis.md","x":18650,"y":-2128,"width":400,"height":366},
+		{"id":"fb4b79a0ed070a7c","type":"file","file":"COMPSCI367 - Artificial Intelligence/week11/Probabilistic Model.md","x":14170,"y":-1499,"width":720,"height":547}
 	],
 	"edges":[
 		{"id":"58761566270d0cbd","fromNode":"483c0f155182fe5d","fromSide":"bottom","toNode":"168ecaded8db3ab0","toSide":"top"},
@@ -361,6 +361,11 @@
 		{"id":"a136d21b69f3fe9c","fromNode":"0956bdaf39a126d0","fromSide":"top","toNode":"07cc337f6e4ac08f","toSide":"bottom"},
 		{"id":"3dd521fa576e124f","fromNode":"0956bdaf39a126d0","fromSide":"top","toNode":"9b4774be2ce523c3","toSide":"bottom"},
 		{"id":"69d96dccf1faf5d7","fromNode":"0956bdaf39a126d0","fromSide":"top","toNode":"c13f5ae2f4dc121e","toSide":"bottom"},
-		{"id":"c07975cc1d931432","fromNode":"4b23b84c61f41c56","fromSide":"top","toNode":"ced01ca1127cbccc","toSide":"bottom"}
+		{"id":"c07975cc1d931432","fromNode":"4b23b84c61f41c56","fromSide":"top","toNode":"ced01ca1127cbccc","toSide":"bottom"},
+		{"id":"5ec5fe709354dabb","fromNode":"07cc337f6e4ac08f","fromSide":"top","toNode":"ced01ca1127cbccc","toSide":"bottom"},
+		{"id":"104b5b8e9639322e","fromNode":"9b4774be2ce523c3","fromSide":"top","toNode":"ced01ca1127cbccc","toSide":"bottom"},
+		{"id":"8d0c1dca80e02eb9","fromNode":"c13f5ae2f4dc121e","fromSide":"top","toNode":"ced01ca1127cbccc","toSide":"bottom"},
+		{"id":"f74202e2f900b3ff","fromNode":"5cb3512fe5e60f81","fromSide":"top","toNode":"0956bdaf39a126d0","toSide":"right"},
+		{"id":"696a88d07350ea8a","fromNode":"fb4b79a0ed070a7c","fromSide":"top","toNode":"1d76bcff2123916d","toSide":"bottom"}
 	]
 }
