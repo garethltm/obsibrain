@@ -4,20 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "f40726a3795c7bc9",
+        "id": "58e79cdc4d223f80",
         "type": "tabs",
         "children": [
           {
-            "id": "2baf3d4d32bda653",
+            "id": "766f3d6bf8798b3a",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
                 "file": "COMPSCI367 - Artificial Intelligence/finals prep.canvas",
                 "viewState": {
-                  "x": 1714.863006877868,
-                  "y": -10000.394651108,
-                  "zoom": -0.333333333333333
+                  "x": 336.9989539780919,
+                  "y": -10808.1176634782,
+                  "zoom": -2.3333333333333326
                 }
               }
             }
@@ -169,11 +169,14 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "2baf3d4d32bda653",
+  "active": "766f3d6bf8798b3a",
   "lastOpenFiles": [
+    "COMPSCI367 - Artificial Intelligence/Deontologist theory.md",
+    "COMPSCI367 - Artificial Intelligence/week08/quantifier(s).md",
+    "COMPSCI367 - Artificial Intelligence/week08/Free variables.md",
+    "COMPSCI367 - Artificial Intelligence/finals prep.canvas",
     "COMPSCI367 - Artificial Intelligence/week08/First-Order Interpretation.md",
     "COMPSCI367 - Artificial Intelligence/week08/First-Order Logic.md",
-    "COMPSCI367 - Artificial Intelligence/finals prep.canvas",
     "COMPSCI367 - Artificial Intelligence/week08/First-Order Formulas.md",
     "COMPSCI367 - Artificial Intelligence/week08/First-Order KB.md",
     "COMPSCI367 - Artificial Intelligence/week08/instantiation.md",
@@ -195,9 +198,6 @@
     "COMPSCI367 - Artificial Intelligence/week08/inductively.md",
     "COMPSCI367 - Artificial Intelligence/week08/Imperative programming.md",
     "COMPSCI367 - Artificial Intelligence/week08/Grounding.md",
-    "COMPSCI367 - Artificial Intelligence/week08/Generalised Modus Ponens (GMP).md",
-    "COMPSCI367 - Artificial Intelligence/week08/Free variables.md",
-    "COMPSCI367 - Artificial Intelligence/week08/First-Order Logic Inference.md",
     "@images/COMPSCI3672022_S2W09Lecture25AIinSociety28129-21.jpg",
     "@images/Pasted image 20231026174833.png",
     "@images/Pasted image 20231026174606.png",
