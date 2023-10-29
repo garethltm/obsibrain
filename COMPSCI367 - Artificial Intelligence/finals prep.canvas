@@ -80,14 +80,9 @@
 		{"id":"228a7ab4be6bdef1","type":"file","file":"COMPSCI367 - Artificial Intelligence/week03/Tree Search.md","x":-880,"y":1160,"width":1080,"height":1360},
 		{"id":"de2978997fe5539e","type":"file","file":"COMPSCI367 - Artificial Intelligence/week06/Propositional Logic.md","x":5159,"y":-6643,"width":540,"height":354},
 		{"id":"21c3f5042ad67d16","type":"file","file":"COMPSCI367 - Artificial Intelligence/week08/First-Order Logic Inference.md","x":4615,"y":-11240,"width":470,"height":238},
-		{"id":"e4722fc123d0fef9","type":"file","file":"COMPSCI367 - Artificial Intelligence/week08/Unification.md","x":4961,"y":-10040,"width":1040,"height":1120},
 		{"id":"0d4085108c0afa89","type":"file","file":"COMPSCI367 - Artificial Intelligence/week06/clause(s).md","x":4910,"y":-8080,"width":890,"height":500},
-		{"id":"c0e39f305fedaef3","type":"file","file":"COMPSCI367 - Artificial Intelligence/week08/First-Order Interpretation.md","x":5280,"y":-11800,"width":640,"height":640},
-		{"id":"b517183b840ad49d","type":"file","file":"COMPSCI367 - Artificial Intelligence/week08/Lifting.md","x":5560,"y":-10508,"width":881,"height":228},
 		{"id":"ff91f131b5cd7f7d","type":"file","file":"COMPSCI367 - Artificial Intelligence/week07/Forward Chaining.md","x":6000,"y":-8252,"width":775,"height":422},
 		{"id":"dd235cb94f5d56c9","type":"file","file":"COMPSCI367 - Artificial Intelligence/week07/SLD Resolution (Backward chaining).md","x":6000,"y":-7700,"width":756,"height":1820},
-		{"id":"96646a99754ecdd5","type":"file","file":"COMPSCI367 - Artificial Intelligence/week08/First-Order Formulas.md","x":6119,"y":-11533,"width":644,"height":480},
-		{"id":"b6f512ea706ca387","type":"file","file":"COMPSCI367 - Artificial Intelligence/week08/Generalised Modus Ponens (GMP).md","x":6600,"y":-10394,"width":400,"height":213},
 		{"id":"bcf06f432aaa7431","type":"file","file":"COMPSCI367 - Artificial Intelligence/week07/Modus Ponens (MP).md","x":7160,"y":-8280,"width":400,"height":400},
 		{"id":"838258289ddf421e","type":"file","file":"COMPSCI367 - Artificial Intelligence/week03/Backtracking Search.md","x":-1266,"y":-2120,"width":1046,"height":2040},
 		{"id":"c79ca9edda2270c6","type":"file","file":"COMPSCI367 - Artificial Intelligence/week02/Depth-First Search (DFS).md","x":-5900,"y":-3879,"width":860,"height":2166},
@@ -104,7 +99,12 @@
 		{"id":"1f10eceea50a5357","type":"file","file":"COMPSCI367 - Artificial Intelligence/week09/Probabilistic Reasoning.md","x":6480,"y":-3040,"width":400,"height":201},
 		{"id":"c731350ccb739874","type":"file","file":"COMPSCI367 - Artificial Intelligence/week09/Noisy OR.md","x":5699,"y":-3559,"width":400,"height":400},
 		{"id":"ee62e7412ef3d470","type":"file","file":"COMPSCI367 - Artificial Intelligence/week09/Task description.md","x":3935,"y":-11840,"width":400,"height":400},
-		{"id":"61b5fe0541423213","x":6280,"y":-3559,"width":400,"height":400,"type":"file","file":"COMPSCI367 - Artificial Intelligence/week09/uncertainty.md"}
+		{"id":"e4722fc123d0fef9","type":"file","file":"COMPSCI367 - Artificial Intelligence/week08/Unification.md","x":4760,"y":-9427,"width":1040,"height":1120},
+		{"id":"b517183b840ad49d","type":"file","file":"COMPSCI367 - Artificial Intelligence/week08/Lifting.md","x":5280,"y":-10078,"width":881,"height":228},
+		{"id":"96646a99754ecdd5","type":"file","file":"COMPSCI367 - Artificial Intelligence/week08/First-Order Formulas.md","x":6131,"y":-11040,"width":644,"height":480},
+		{"id":"b6f512ea706ca387","type":"file","file":"COMPSCI367 - Artificial Intelligence/week08/Generalised Modus Ponens (GMP).md","x":6756,"y":-9956,"width":400,"height":213},
+		{"id":"c0e39f305fedaef3","type":"file","file":"COMPSCI367 - Artificial Intelligence/week08/First-Order Interpretation.md","x":5401,"y":-11761,"width":640,"height":640},
+		{"id":"61b5fe0541423213","x":6220,"y":-3524,"width":520,"height":331,"type":"file","file":"COMPSCI367 - Artificial Intelligence/week09/uncertainty.md"}
 	],
 	"edges":[
 		{"id":"58761566270d0cbd","fromNode":"483c0f155182fe5d","fromSide":"bottom","toNode":"168ecaded8db3ab0","toSide":"top"},
@@ -208,6 +208,7 @@
 		{"id":"e6b805f01350efde","fromNode":"4d1d5b328323a41b","fromSide":"right","toNode":"f75473f75e267d30","toSide":"left"},
 		{"id":"da85b45099cbd47c","fromNode":"2e0832f26689d18a","fromSide":"left","toNode":"4d1d5b328323a41b","toSide":"right"},
 		{"id":"ac67c6d081d64d16","fromNode":"c731350ccb739874","fromSide":"top","toNode":"4d1d5b328323a41b","toSide":"bottom"},
-		{"id":"4ca44735437d6453","fromNode":"795e78e6e19e6267","fromSide":"left","toNode":"ee62e7412ef3d470","toSide":"right"}
+		{"id":"4ca44735437d6453","fromNode":"795e78e6e19e6267","fromSide":"left","toNode":"ee62e7412ef3d470","toSide":"right"},
+		{"id":"487ad86553ccca6d","fromNode":"61b5fe0541423213","fromSide":"right","toNode":"f75473f75e267d30","toSide":"left"}
 	]
 }
