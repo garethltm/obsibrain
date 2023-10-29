@@ -15,9 +15,9 @@
               "state": {
                 "file": "COMPSCI367 - Artificial Intelligence/finals prep.canvas",
                 "viewState": {
-                  "x": 11072.235933310381,
-                  "y": -7738.914801720122,
-                  "zoom": -1
+                  "x": 1539.3536181078507,
+                  "y": -9656.728038502784,
+                  "zoom": -0.9999999999999996
                 }
               }
             }
@@ -88,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week08/First-Order Formulas.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week08/Skolem constant.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week08/First-Order Formulas.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week08/Skolem constant.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week08/First-Order Formulas.md"
+                "file": "COMPSCI367 - Artificial Intelligence/week08/Skolem constant.md"
               }
             }
           },
