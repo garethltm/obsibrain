@@ -11,14 +11,11 @@
             "id": "766f3d6bf8798b3a",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/finals prep.canvas",
-                "viewState": {
-                  "x": 9963.906719518809,
-                  "y": -1940.0070387520059,
-                  "zoom": -2.3333333333333326
-                }
+                "file": "COMPSCI367 - Artificial Intelligence/week10/Recurrent Neural Network (RNN).md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -88,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week10/Reason with Uncertainty.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week10/Recurrent Neural Network (RNN).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week10/Reason with Uncertainty.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week10/Recurrent Neural Network (RNN).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week10/Reason with Uncertainty.md"
+                "file": "COMPSCI367 - Artificial Intelligence/week10/Recurrent Neural Network (RNN).md"
               }
             }
           },
@@ -156,7 +153,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week10/Reason with Uncertainty.md"
+                "file": "COMPSCI367 - Artificial Intelligence/week10/Recurrent Neural Network (RNN).md"
               }
             }
           }
@@ -181,8 +178,8 @@
   },
   "active": "766f3d6bf8798b3a",
   "lastOpenFiles": [
-    "COMPSCI367 - Artificial Intelligence/week10/Modern Problems - More subsequent lectures.md",
     "COMPSCI367 - Artificial Intelligence/finals prep.canvas",
+    "COMPSCI367 - Artificial Intelligence/week10/Modern Problems - More subsequent lectures.md",
     "COMPSCI367 - Artificial Intelligence/week12/Lethal Autonomous Weapon.md",
     "COMPSCI367 - Artificial Intelligence/week08/First-Order Logic.md",
     "COMPSCI367 - Artificial Intelligence/week06/Propositional Logic.md",
@@ -207,7 +204,6 @@
     "COMPSCI367 - Artificial Intelligence/week04/Greedy Descent.md",
     "COMPSCI367 - Artificial Intelligence/week04/uninformed random walk.md",
     "COMPSCI367 - Artificial Intelligence/week05/population.md",
-    "COMPSCI367 - Artificial Intelligence/week03/Iterative Improvement.md",
     "@images/COMPSCI3672022_S2W09Lecture25AIinSociety28129-21.jpg",
     "@images/Pasted image 20231026174833.png",
     "@images/Pasted image 20231026174606.png",
