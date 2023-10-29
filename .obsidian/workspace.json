@@ -11,16 +11,56 @@
             "id": "2baf3d4d32bda653",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/finals prep.canvas",
-                "viewState": {
-                  "x": 1824.2753346459212,
-                  "y": -9460.637472737475,
-                  "zoom": -1.3333333333333328
+                "file": "COMPSCI367 - Artificial Intelligence/week08/First-Order Logic.md",
+                "mode": "source",
+                "source": false
+              }
+            },
+            "group": "2fe457b8b1d4e7f4"
+          }
+        ]
+      },
+      {
+        "id": "b4dc4f54f3bb6870",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "06f5b4a89eed8d66",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "COMPSCI367 - Artificial Intelligence/week08/First-Order Logic.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1,
+                  "close": false
                 }
               }
-            }
+            },
+            "group": "2fe457b8b1d4e7f4"
           }
         ]
       }
@@ -88,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week08/Unification.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week08/First-Order Logic.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week08/Unification.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week08/First-Order Logic.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week08/Unification.md"
+                "file": "COMPSCI367 - Artificial Intelligence/week08/First-Order Logic.md"
               }
             }
           },
@@ -171,8 +211,9 @@
   },
   "active": "2baf3d4d32bda653",
   "lastOpenFiles": [
-    "COMPSCI367 - Artificial Intelligence/week08/First-Order Formulas.md",
+    "COMPSCI367 - Artificial Intelligence/week08/First-Order Interpretation.md",
     "COMPSCI367 - Artificial Intelligence/finals prep.canvas",
+    "COMPSCI367 - Artificial Intelligence/week08/First-Order Formulas.md",
     "COMPSCI367 - Artificial Intelligence/week08/First-Order KB.md",
     "COMPSCI367 - Artificial Intelligence/week08/instantiation.md",
     "COMPSCI367 - Artificial Intelligence/week08/Skolem constant.md",
