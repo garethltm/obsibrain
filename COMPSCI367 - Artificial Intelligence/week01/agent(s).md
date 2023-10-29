@@ -12,7 +12,7 @@ Comprises of
 3. Acting
 
 ## Agent Mapping
-An agent can be seen as a mapping between [[COMPSCI367 - Artificial Intelligence/week01/Percepts]] and [[action(s)]]
+An [[agent(s)]] can be seen as a mapping between [[Percepts]] and [[action(s)]]
 > Vacuum Cleaner
 
 

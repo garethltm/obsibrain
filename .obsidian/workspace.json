@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week01/agent(s).md",
+                "file": "COMPSCI367 - Artificial Intelligence/week11/strict preference relation.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week01/agent(s).md",
+                "file": "COMPSCI367 - Artificial Intelligence/week11/strict preference relation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week01/agent(s).md",
+                "file": "COMPSCI367 - Artificial Intelligence/week11/strict preference relation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week01/agent(s).md"
+                "file": "COMPSCI367 - Artificial Intelligence/week11/strict preference relation.md"
               }
             }
           },
@@ -168,8 +168,8 @@
   },
   "active": "6687c04ac1db9dc0",
   "lastOpenFiles": [
-    "COMPSCI367 - Artificial Intelligence/week01/Actuators.md",
     "COMPSCI367 - Artificial Intelligence/week01/agent(s).md",
+    "COMPSCI367 - Artificial Intelligence/week01/Actuators.md",
     "COMPSCI367 - Artificial Intelligence/week01/Artificial Intelligence (AI).md",
     "COMPSCI367 - Artificial Intelligence/week01/goal(s) - goal state(s).md",
     "COMPSCI367 - Artificial Intelligence/week04/Probabilistic Approximately Complete (PAC).md",
