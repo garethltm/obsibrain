@@ -78,12 +78,12 @@
 		{"id":"ffeb2544dccef85a","type":"file","file":"COMPSCI367 - Artificial Intelligence/week03/degree heuristic.md","x":-1440,"y":951,"width":446,"height":178},
 		{"id":"228a7ab4be6bdef1","type":"file","file":"COMPSCI367 - Artificial Intelligence/week03/Tree Search.md","x":-880,"y":1160,"width":1080,"height":1360},
 		{"id":"21c3f5042ad67d16","type":"file","file":"COMPSCI367 - Artificial Intelligence/week08/First-Order Logic Inference.md","x":2055,"y":-10880,"width":470,"height":238},
-		{"id":"e4722fc123d0fef9","type":"file","file":"COMPSCI367 - Artificial Intelligence/week08/Unification.md","x":2290,"y":-9600,"width":1440,"height":1480},
-		{"id":"b517183b840ad49d","type":"file","file":"COMPSCI367 - Artificial Intelligence/week08/Lifting.md","x":2355,"y":-10180,"width":881,"height":228},
 		{"id":"327a0f9f504b2b77","type":"file","file":"COMPSCI367 - Artificial Intelligence/week08/First-Order KB.md","x":1175,"y":-10820,"width":400,"height":253},
 		{"id":"168ecaded8db3ab0","type":"file","file":"COMPSCI367 - Artificial Intelligence/week08/Grounding.md","x":1195,"y":-10180,"width":1040,"height":860},
-		{"id":"96646a99754ecdd5","x":3451,"y":-10432,"width":644,"height":480,"type":"file","file":"COMPSCI367 - Artificial Intelligence/week08/First-Order Formulas.md"},
-		{"id":"a1f94e6c8934bc62","x":469,"y":-10264,"width":400,"height":344,"type":"file","file":"COMPSCI367 - Artificial Intelligence/week08/Skolem constant.md"}
+		{"id":"a1f94e6c8934bc62","type":"file","file":"COMPSCI367 - Artificial Intelligence/week08/Skolem constant.md","x":469,"y":-10264,"width":400,"height":344},
+		{"id":"96646a99754ecdd5","type":"file","file":"COMPSCI367 - Artificial Intelligence/week08/First-Order Formulas.md","x":4478,"y":-10400,"width":644,"height":480},
+		{"id":"b517183b840ad49d","type":"file","file":"COMPSCI367 - Artificial Intelligence/week08/Lifting.md","x":3000,"y":-10148,"width":881,"height":228},
+		{"id":"e4722fc123d0fef9","type":"file","file":"COMPSCI367 - Artificial Intelligence/week08/Unification.md","x":2401,"y":-9680,"width":1040,"height":1120}
 	],
 	"edges":[
 		{"id":"58761566270d0cbd","fromNode":"21c3f5042ad67d16","fromSide":"bottom","toNode":"168ecaded8db3ab0","toSide":"top"},
@@ -163,6 +163,7 @@
 		{"id":"e2a848b7266b6963","fromNode":"168ecaded8db3ab0","fromSide":"top","toNode":"327a0f9f504b2b77","toSide":"right"},
 		{"id":"b69bc43c89d7d240","fromNode":"b517183b840ad49d","fromSide":"right","toNode":"96646a99754ecdd5","toSide":"left"},
 		{"id":"80d570778d70abac","fromNode":"168ecaded8db3ab0","fromSide":"bottom","toNode":"f378d6a63b5303bb","toSide":"top"},
-		{"id":"08742a631606f95f","fromNode":"168ecaded8db3ab0","fromSide":"left","toNode":"a1f94e6c8934bc62","toSide":"right"}
+		{"id":"08742a631606f95f","fromNode":"168ecaded8db3ab0","fromSide":"left","toNode":"a1f94e6c8934bc62","toSide":"right"},
+		{"id":"7f0d422c6fb303bf","fromNode":"b517183b840ad49d","fromSide":"bottom","toNode":"bcf06f432aaa7431","toSide":"top"}
 	]
 }
