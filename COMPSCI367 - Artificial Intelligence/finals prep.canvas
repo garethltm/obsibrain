@@ -147,7 +147,13 @@
 		{"id":"6b03e4e73deffd16","type":"file","file":"COMPSCI367 - Artificial Intelligence/week10/Pipelined NLP.md","x":11078,"y":-6438,"width":400,"height":400},
 		{"id":"4f4b509d41f568f3","type":"file","file":"COMPSCI367 - Artificial Intelligence/week10/Natural Language Processing (NLP).md","x":11203,"y":-7162,"width":616,"height":400},
 		{"id":"81418ea76c342235","type":"file","file":"COMPSCI367 - Artificial Intelligence/week10/Smoothing.md","x":12525,"y":-5640,"width":400,"height":400},
-		{"id":"2ac7f8b9b1399188","x":8495,"y":640,"width":465,"height":320,"type":"file","file":"COMPSCI367 - Artificial Intelligence/week11/(VNM-) rational.md"}
+		{"id":"2ac7f8b9b1399188","x":8663,"y":600,"width":465,"height":320,"type":"file","file":"COMPSCI367 - Artificial Intelligence/week11/(VNM-) rational.md"},
+		{"id":"fc487570b15063eb","x":7360,"y":709,"width":600,"height":771,"type":"file","file":"COMPSCI367 - Artificial Intelligence/week11/Additive independence property.md"},
+		{"id":"b7c81615e2f10c16","x":8120,"y":1226,"width":400,"height":254,"type":"file","file":"COMPSCI367 - Artificial Intelligence/week11/Axiom 1 - Completeness.md"},
+		{"id":"40c6ebbcffb6944e","x":8560,"y":1226,"width":400,"height":323,"type":"file","file":"COMPSCI367 - Artificial Intelligence/week11/Axiom 2 - Transitivity.md"},
+		{"id":"02fd7e6cb6354a32","x":9000,"y":1226,"width":400,"height":239,"type":"file","file":"COMPSCI367 - Artificial Intelligence/week11/Axiom 3 - Monotonicity.md"},
+		{"id":"edabd6900f8cfd05","x":9440,"y":1226,"width":400,"height":374,"type":"file","file":"COMPSCI367 - Artificial Intelligence/week11/Axiom 4 - Decomposability.md"},
+		{"id":"984a8889dfd6b994","x":9880,"y":1226,"width":400,"height":400,"type":"file","file":"COMPSCI367 - Artificial Intelligence/week11/Axiom 5 - Continuity.md"}
 	],
 	"edges":[
 		{"id":"58761566270d0cbd","fromNode":"483c0f155182fe5d","fromSide":"bottom","toNode":"168ecaded8db3ab0","toSide":"top"},
