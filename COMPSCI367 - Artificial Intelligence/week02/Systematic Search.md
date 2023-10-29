@@ -1,0 +1,7 @@
+- [[Breadth-First Search (BFS)]]
+- [[Depth-First Search (DFS)]]
+- [[Depth-Limited Search (DLS)]]
+- [[Greedy (Best-First) Search]]
+- [[Iterative-Deepening Search (IDS)]]
+- [[Uniform-Cost Search (UCS) (Lowest-Cost-First Search)]]
+- [[A-Star Search]]
