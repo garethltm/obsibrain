@@ -69,7 +69,6 @@
 		{"id":"61b5fe0541423213","type":"file","file":"COMPSCI367 - Artificial Intelligence/week09/uncertainty.md","x":6220,"y":-3524,"width":520,"height":331},
 		{"id":"08f0737d4b4e5871","type":"file","file":"COMPSCI367 - Artificial Intelligence/week06/inference(s).md","x":4760,"y":-5560,"width":400,"height":170},
 		{"id":"f75473f75e267d30","type":"file","file":"COMPSCI367 - Artificial Intelligence/week09/Probability Theory.md","x":7080,"y":-4200,"width":920,"height":972},
-		{"id":"58a881b6f43c7af3","type":"file","file":"COMPSCI367 - Artificial Intelligence/week09/Evidence - Calculate probabilities given prior evidence.md","x":10189,"y":-5174,"width":767,"height":608},
 		{"id":"612775c72d7ccfc8","type":"file","file":"COMPSCI367 - Artificial Intelligence/week10/Applying Bayes Rule.md","x":9760,"y":-3951,"width":599,"height":514},
 		{"id":"56d9c683763cadf0","type":"file","file":"COMPSCI367 - Artificial Intelligence/week10/Applying Bayes Rule for class ranking.md","x":10424,"y":-3951,"width":532,"height":474},
 		{"id":"bd7fffb028bd0d64","type":"file","file":"COMPSCI367 - Artificial Intelligence/week10/Bayes Rule with Existing Evidence.md","x":11000,"y":-3934,"width":520,"height":400},
@@ -114,8 +113,10 @@
 		{"id":"3ecabdc6e8a4c095","x":8593,"y":-4094,"width":487,"height":774,"type":"file","file":"COMPSCI367 - Artificial Intelligence/week10/Chain Rule.md"},
 		{"id":"de2c1a149eac1a71","x":8209,"y":-3186,"width":400,"height":306,"type":"file","file":"COMPSCI367 - Artificial Intelligence/week10/Conditional Entropy.md"},
 		{"id":"7989216ac57262f7","x":8720,"y":-3186,"width":400,"height":306,"type":"file","file":"COMPSCI367 - Artificial Intelligence/week10/Joint Entropy.md"},
-		{"id":"7202e6a9f0e80d50","x":9245,"y":-3081,"width":400,"height":1561,"type":"file","file":"COMPSCI367 - Artificial Intelligence/week10/conditional probability.md"},
-		{"id":"96ff3d269306e9ff","type":"file","file":"COMPSCI367 - Artificial Intelligence/week10/Bayes Theorem.md","x":9320,"y":-4669,"width":680,"height":400}
+		{"id":"96ff3d269306e9ff","type":"file","file":"COMPSCI367 - Artificial Intelligence/week10/Bayes Theorem.md","x":9309,"y":-5270,"width":680,"height":400},
+		{"id":"58a881b6f43c7af3","type":"file","file":"COMPSCI367 - Artificial Intelligence/week09/Evidence - Calculate probabilities given prior evidence.md","x":9400,"y":-4808,"width":767,"height":608},
+		{"id":"1fc387d860b8ea01","x":11480,"y":-5270,"width":731,"height":400,"type":"file","file":"COMPSCI367 - Artificial Intelligence/week10/Conditional Probability Table (CPT).md"},
+		{"id":"7202e6a9f0e80d50","x":10400,"y":-5407,"width":780,"height":674,"type":"file","file":"COMPSCI367 - Artificial Intelligence/week10/conditional probability.md"}
 	],
 	"edges":[
 		{"id":"58761566270d0cbd","fromNode":"483c0f155182fe5d","fromSide":"bottom","toNode":"168ecaded8db3ab0","toSide":"top"},
@@ -233,6 +234,7 @@
 		{"id":"395ae24b0fbe2718","fromNode":"8f465dce49d27b0f","fromSide":"left","toNode":"b48c37468ddf494c","toSide":"right"},
 		{"id":"fbd1b2706c8fd0da","fromNode":"2088076f0e9f4d8a","fromSide":"bottom","toNode":"3ecabdc6e8a4c095","toSide":"top"},
 		{"id":"97cc899b97d20319","fromNode":"3ecabdc6e8a4c095","fromSide":"bottom","toNode":"de2c1a149eac1a71","toSide":"top"},
-		{"id":"12dadbbe6c8d17e1","fromNode":"3ecabdc6e8a4c095","fromSide":"bottom","toNode":"7989216ac57262f7","toSide":"top"}
+		{"id":"12dadbbe6c8d17e1","fromNode":"3ecabdc6e8a4c095","fromSide":"bottom","toNode":"7989216ac57262f7","toSide":"top"},
+		{"id":"e7a081fa02e03e75","fromNode":"96ff3d269306e9ff","fromSide":"right","toNode":"7202e6a9f0e80d50","toSide":"left"}
 	]
 }
