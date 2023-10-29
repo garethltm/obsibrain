@@ -3,4 +3,4 @@
 
 ![[Pasted image 20231023211733.png]]
 
-Related to: 
+Related to: [[Definite clause]]
