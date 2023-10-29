@@ -78,12 +78,12 @@
 		{"id":"4280e68001b8963f","type":"file","file":"COMPSCI367 - Artificial Intelligence/week06/syntax.md","x":3339,"y":-6760,"width":400,"height":400},
 		{"id":"7869f15a756a4b6d","type":"file","file":"COMPSCI367 - Artificial Intelligence/week06/Knowledge Representation Language.md","x":2200,"y":-6760,"width":625,"height":400},
 		{"id":"7aa38305b72e704a","type":"file","file":"COMPSCI367 - Artificial Intelligence/week06/semantics.md","x":3139,"y":-7080,"width":400,"height":178},
-		{"id":"f73a0581ae7e9446","type":"file","file":"COMPSCI367 - Artificial Intelligence/week06/Propositional Logic Inference Engine.md","x":2000,"y":-5924,"width":400,"height":224},
 		{"id":"de2978997fe5539e","type":"file","file":"COMPSCI367 - Artificial Intelligence/week06/Propositional Logic.md","x":2599,"y":-6283,"width":540,"height":354},
 		{"id":"0d4085108c0afa89","type":"file","file":"COMPSCI367 - Artificial Intelligence/week06/clause(s).md","x":2154,"y":-8269,"width":890,"height":500},
 		{"id":"ff91f131b5cd7f7d","x":3200,"y":-8480,"width":775,"height":422,"type":"file","file":"COMPSCI367 - Artificial Intelligence/week07/Forward Chaining.md"},
 		{"id":"dd235cb94f5d56c9","x":3210,"y":-7969,"width":756,"height":400,"type":"file","file":"COMPSCI367 - Artificial Intelligence/week07/SLD Resolution (Backward chaining).md"},
-		{"id":"ce771f3c0063fac8","type":"file","file":"COMPSCI367 - Artificial Intelligence/week06/Knowledge Base (KB).md","x":1500,"y":-6680,"width":500,"height":320}
+		{"id":"ce771f3c0063fac8","type":"file","file":"COMPSCI367 - Artificial Intelligence/week06/Knowledge Base (KB).md","x":1150,"y":-6720,"width":500,"height":320},
+		{"id":"f73a0581ae7e9446","type":"file","file":"COMPSCI367 - Artificial Intelligence/week06/Propositional Logic Inference Engine.md","x":2000,"y":-6041,"width":400,"height":224}
 	],
 	"edges":[
 		{"id":"58761566270d0cbd","fromNode":"21c3f5042ad67d16","fromSide":"bottom","toNode":"168ecaded8db3ab0","toSide":"top"},
@@ -150,9 +150,10 @@
 		{"id":"3d5e9243713340b5","fromNode":"f73a0581ae7e9446","fromSide":"right","toNode":"de2978997fe5539e","toSide":"left"},
 		{"id":"17c721441ec80558","fromNode":"7869f15a756a4b6d","fromSide":"top","toNode":"7aa38305b72e704a","toSide":"left"},
 		{"id":"2c922ce4544b966b","fromNode":"7869f15a756a4b6d","fromSide":"right","toNode":"4280e68001b8963f","toSide":"left"},
-		{"id":"8711419ef2d8a8b9","fromNode":"87676a80d54176c1","fromSide":"top","toNode":"93e0e8dc1f7ee085","toSide":"left"},
+		{"id":"8711419ef2d8a8b9","fromNode":"87676a80d54176c1","fromSide":"right","toNode":"93e0e8dc1f7ee085","toSide":"left"},
 		{"id":"66575061e0a0700d","fromNode":"93e0e8dc1f7ee085","fromSide":"left","toNode":"0d4085108c0afa89","toSide":"left"},
-		{"id":"3d0cccde30d803b2","fromNode":"0d4085108c0afa89","fromSide":"top","toNode":"ff91f131b5cd7f7d","toSide":"left"},
-		{"id":"2ecd942ca26496a3","fromNode":"0d4085108c0afa89","fromSide":"right","toNode":"dd235cb94f5d56c9","toSide":"left"}
+		{"id":"3d0cccde30d803b2","fromNode":"0d4085108c0afa89","fromSide":"right","toNode":"ff91f131b5cd7f7d","toSide":"left"},
+		{"id":"2ecd942ca26496a3","fromNode":"0d4085108c0afa89","fromSide":"right","toNode":"dd235cb94f5d56c9","toSide":"left"},
+		{"id":"3be7eea04a3c5389","fromNode":"f378d6a63b5303bb","fromSide":"top","toNode":"0d4085108c0afa89","toSide":"left"}
 	]
 }
