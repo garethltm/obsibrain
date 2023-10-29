@@ -120,7 +120,10 @@
 		{"id":"3ff46860745eb7e3","type":"file","file":"COMPSCI367 - Artificial Intelligence/week10/Deriving Bayes Rule.md","x":9309,"y":-5690,"width":400,"height":283},
 		{"id":"ca3c52732e90e667","type":"file","file":"COMPSCI367 - Artificial Intelligence/week10/Entropy (or self-information).md","x":8333,"y":-2768,"width":707,"height":400},
 		{"id":"e7f28da489dc136c","type":"file","file":"COMPSCI367 - Artificial Intelligence/week10/H.md","x":9212,"y":-2675,"width":400,"height":155},
-		{"id":"05235a0fc7cb1d59","x":9798,"y":-5890,"width":892,"height":400,"type":"file","file":"COMPSCI367 - Artificial Intelligence/week10/Inference with Probability (Probabilistic Inference).md"}
+		{"id":"05235a0fc7cb1d59","type":"file","file":"COMPSCI367 - Artificial Intelligence/week10/Inference with Probability (Probabilistic Inference).md","x":9798,"y":-5890,"width":892,"height":400},
+		{"id":"4f4b509d41f568f3","x":10880,"y":-3120,"width":616,"height":400,"type":"file","file":"COMPSCI367 - Artificial Intelligence/week10/Natural Language Processing (NLP).md"},
+		{"id":"169d0feb6b8ce658","x":9380,"y":-2160,"width":680,"height":480,"type":"file","file":"COMPSCI367 - Artificial Intelligence/week10/Information Retrieval (IR).md"},
+		{"id":"214f6fcbda415a9a","x":10359,"y":-2597,"width":596,"height":400,"type":"file","file":"COMPSCI367 - Artificial Intelligence/week10/Shallow NLP.md"}
 	],
 	"edges":[
 		{"id":"58761566270d0cbd","fromNode":"483c0f155182fe5d","fromSide":"bottom","toNode":"168ecaded8db3ab0","toSide":"top"},
@@ -246,6 +249,8 @@
 		{"id":"77818635c92d5687","fromNode":"de2c1a149eac1a71","fromSide":"bottom","toNode":"ca3c52732e90e667","toSide":"top"},
 		{"id":"6219f8483fd4e1b0","fromNode":"7989216ac57262f7","fromSide":"bottom","toNode":"ca3c52732e90e667","toSide":"top"},
 		{"id":"21c35587c03bff7d","fromNode":"e7f28da489dc136c","fromSide":"left","toNode":"ca3c52732e90e667","toSide":"right"},
-		{"id":"db66612ac2212dc8","fromNode":"05235a0fc7cb1d59","fromSide":"bottom","toNode":"96ff3d269306e9ff","toSide":"top"}
+		{"id":"db66612ac2212dc8","fromNode":"05235a0fc7cb1d59","fromSide":"bottom","toNode":"96ff3d269306e9ff","toSide":"top"},
+		{"id":"bb065d64ffb18713","fromNode":"169d0feb6b8ce658","fromSide":"top","toNode":"214f6fcbda415a9a","toSide":"bottom"},
+		{"id":"58b06cfe125de2e7","fromNode":"4f4b509d41f568f3","fromSide":"bottom","toNode":"214f6fcbda415a9a","toSide":"top"}
 	]
 }
