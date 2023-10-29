@@ -1,5 +1,5 @@
 - Selective Linear [[Definite clause]]
-- iteratively replace [[Goal(s) - Goal State(s)]] with [[subgoal]]; try to get head with an empty body
+- iteratively replace [[goal(s) - goal state(s)]] with [[subgoal]]; try to get head with an empty body
 - [[SLD Resolution (Backward chaining)]] can be performed using a [[Search Techniques (Search Strategy) (Search Algorithm)]]
 ![[Pasted image 20231024005327.png]]
 ## Main Idea

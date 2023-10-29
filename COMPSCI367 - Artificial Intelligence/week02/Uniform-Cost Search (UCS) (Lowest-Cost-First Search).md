@@ -12,7 +12,7 @@
 1. Expand root first, 
 2. Expand least-cost unexpanded node
 3. Reduces to [[Breadth-First Search (BFS)]] when all [[action(s)]] have same cost
-4. Finds the cheapest [[Goal(s) - Goal State(s)]] provided [[path cost]] is monotonically increasing along each [[path(s)]] 
+4. Finds the cheapest [[goal(s) - goal state(s)]] provided [[path cost]] is monotonically increasing along each [[path(s)]] 
 > (no negative-cost steps)
 > Also, sorting whenever we add a node
 
