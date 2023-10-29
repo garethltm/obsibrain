@@ -15,9 +15,9 @@
               "state": {
                 "file": "COMPSCI367 - Artificial Intelligence/finals prep.canvas",
                 "viewState": {
-                  "x": 4272.723753439701,
-                  "y": -2107.7654452105944,
-                  "zoom": -0.333333333333333
+                  "x": 4386.080871530482,
+                  "y": -2071.5853436858124,
+                  "zoom": 0.33333333333333365
                 }
               }
             }
@@ -88,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week04/Random Walk Hill-Climbing.md",
+                "file": "COMPSCI367 - Artificial Intelligence/finals prep.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week04/Random Walk Hill-Climbing.md",
+                "file": "COMPSCI367 - Artificial Intelligence/finals prep.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week04/Random Walk Hill-Climbing.md"
+                "file": "COMPSCI367 - Artificial Intelligence/finals prep.canvas"
               }
             }
           },
@@ -171,8 +171,9 @@
   },
   "active": "2baf3d4d32bda653",
   "lastOpenFiles": [
-    "COMPSCI367 - Artificial Intelligence/week05/population.md",
+    "COMPSCI367 - Artificial Intelligence/week04/uninformed random walk.md",
     "COMPSCI367 - Artificial Intelligence/finals prep.canvas",
+    "COMPSCI367 - Artificial Intelligence/week05/population.md",
     "COMPSCI367 - Artificial Intelligence/week03/Iterative Improvement.md",
     "COMPSCI367 - Artificial Intelligence/week04/Iterative Best Improvement (IBI).md",
     "COMPSCI367 - Artificial Intelligence/week08/Lifting.md",
@@ -197,7 +198,6 @@
     "COMPSCI367 - Artificial Intelligence/week08/algorithm.md",
     "COMPSCI367 - Artificial Intelligence/week07/What logic needs to be.md",
     "COMPSCI367 - Artificial Intelligence/week07/Verbose.md",
-    "COMPSCI367 - Artificial Intelligence/week07/subgoal.md",
     "@images/COMPSCI3672022_S2W09Lecture25AIinSociety28129-21.jpg",
     "@images/Pasted image 20231026174833.png",
     "@images/Pasted image 20231026174606.png",
