@@ -205,7 +205,7 @@
 		{"id":"eb36e2d7757091ef","type":"file","file":"COMPSCI367 - Artificial Intelligence/week12/SSDN-based one-off decision problem.md","x":19140,"y":-2038,"width":400,"height":297},
 		{"id":"e52e708863d6e3ca","type":"file","file":"COMPSCI367 - Artificial Intelligence/week12/policy (π).md","x":19600,"y":-1775,"width":400,"height":471},
 		{"id":"fc487570b15063eb","type":"file","file":"COMPSCI367 - Artificial Intelligence/week11/Additive independence property.md","x":15991,"y":-3850,"width":600,"height":690},
-		{"id":"8779a6f9a1e8d67d","type":"file","file":"COMPSCI367 - Artificial Intelligence/week11/Local Markov Property.md","x":12580,"y":-1287,"width":400,"height":400}
+		{"id":"8779a6f9a1e8d67d","type":"file","file":"COMPSCI367 - Artificial Intelligence/week11/Local Markov Property.md","x":12580,"y":-1287,"width":400,"height":247}
 	],
 	"edges":[
 		{"id":"58761566270d0cbd","fromNode":"483c0f155182fe5d","fromSide":"bottom","toNode":"168ecaded8db3ab0","toSide":"top"},
