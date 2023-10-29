@@ -32,8 +32,6 @@
 		{"id":"ebe9a962df6e0106","type":"file","file":"COMPSCI367 - Artificial Intelligence/week02/Breadth-First Search (BFS).md","x":-4960,"y":-3886,"width":867,"height":1921},
 		{"id":"e8034e3171110743","type":"file","file":"COMPSCI367 - Artificial Intelligence/week03/Iterative Deepening A-Star Search (IDA).md","x":-7240,"y":-2485,"width":860,"height":1139},
 		{"id":"c79ca9edda2270c6","type":"file","file":"COMPSCI367 - Artificial Intelligence/week02/Depth-First Search (DFS).md","x":-5900,"y":-3879,"width":860,"height":2166},
-		{"id":"58a881b6f43c7af3","type":"file","file":"COMPSCI367 - Artificial Intelligence/week09/Evidence - Calculate probabilities given prior evidence.md","x":10292,"y":-2964,"width":767,"height":608},
-		{"id":"2088076f0e9f4d8a","type":"file","file":"COMPSCI367 - Artificial Intelligence/week09/Probability.md","x":8652,"y":-3025,"width":857,"height":400},
 		{"id":"08c47b055f30ba2a","type":"file","file":"COMPSCI367 - Artificial Intelligence/week09/Bayes Nets.md","x":8972,"y":-2290,"width":430,"height":334},
 		{"id":"3ecabdc6e8a4c095","type":"file","file":"COMPSCI367 - Artificial Intelligence/week10/Chain Rule.md","x":9485,"y":-2250,"width":487,"height":774},
 		{"id":"cea8830123f2270b","type":"file","file":"COMPSCI367 - Artificial Intelligence/week10/Bayes Classifier - Conditional Independence.md","x":10012,"y":-2180,"width":560,"height":620},
@@ -45,7 +43,6 @@
 		{"id":"f75473f75e267d30","type":"file","file":"COMPSCI367 - Artificial Intelligence/week09/Probability Theory.md","x":7972,"y":-2356,"width":920,"height":972},
 		{"id":"612775c72d7ccfc8","type":"file","file":"COMPSCI367 - Artificial Intelligence/week10/Applying Bayes Rule.md","x":10652,"y":-2107,"width":599,"height":514},
 		{"id":"3c050c5af3bc6673","type":"file","file":"COMPSCI367 - Artificial Intelligence/week09/First Order Bayes Nets.md","x":8972,"y":-1850,"width":430,"height":230},
-		{"id":"2e0832f26689d18a","type":"file","file":"COMPSCI367 - Artificial Intelligence/week09/Probabilistic Parsing.md","x":7732,"y":-3076,"width":400,"height":203},
 		{"id":"4d1d5b328323a41b","type":"file","file":"COMPSCI367 - Artificial Intelligence/week09/Probabilistic Logic.md","x":6591,"y":-3026,"width":941,"height":1079},
 		{"id":"b48c37468ddf494c","type":"file","file":"COMPSCI367 - Artificial Intelligence/week10/degree of belief.md","x":7692,"y":-2722,"width":400,"height":244},
 		{"id":"56d9c683763cadf0","type":"file","file":"COMPSCI367 - Artificial Intelligence/week10/Applying Bayes Rule for class ranking.md","x":11316,"y":-2107,"width":532,"height":474},
@@ -140,10 +137,15 @@
 		{"id":"f0a572f684d1a761","type":"file","file":"COMPSCI367 - Artificial Intelligence/week10/Term Frequency (tf).md","x":9292,"y":-6924,"width":400,"height":400},
 		{"id":"c81b38809b0f01f5","type":"file","file":"COMPSCI367 - Artificial Intelligence/week10/Inverse Document Frequency (idf).md","x":9839,"y":-6840,"width":400,"height":316},
 		{"id":"5eac81d896d79fbe","type":"file","file":"COMPSCI367 - Artificial Intelligence/week10/term specificity.md","x":10494,"y":-6853,"width":400,"height":293},
-		{"id":"4dff1e0900772229","type":"file","file":"COMPSCI367 - Artificial Intelligence/week10/Translation Model.md","x":12560,"y":-6853,"width":400,"height":400},
-		{"id":"6f7428825cecc059","type":"file","file":"COMPSCI367 - Artificial Intelligence/week10/Language Model.md","x":11938,"y":-6400,"width":622,"height":583},
 		{"id":"68fa51375f6dbbba","type":"file","file":"COMPSCI367 - Artificial Intelligence/week10/Laplace smoothing (add-one smoothing).md","x":13237,"y":-5861,"width":400,"height":201},
-		{"id":"0b48a96e16bf4c08","x":13480,"y":-5361,"width":583,"height":400,"type":"file","file":"COMPSCI367 - Artificial Intelligence/week10/Value of smoothing.md"}
+		{"id":"0b48a96e16bf4c08","x":13480,"y":-5361,"width":583,"height":400,"type":"file","file":"COMPSCI367 - Artificial Intelligence/week10/Value of smoothing.md"},
+		{"id":"4a95fa87cb99f8e0","x":11790,"y":-7460,"width":400,"height":400,"type":"file","file":"COMPSCI367 - Artificial Intelligence/week10/Why should you use NLP.md"},
+		{"id":"4dff1e0900772229","type":"file","file":"COMPSCI367 - Artificial Intelligence/week10/Translation Model.md","x":13400,"y":-7173,"width":400,"height":400},
+		{"id":"6f7428825cecc059","type":"file","file":"COMPSCI367 - Artificial Intelligence/week10/Language Model.md","x":12406,"y":-7065,"width":622,"height":583},
+		{"id":"58a881b6f43c7af3","type":"file","file":"COMPSCI367 - Artificial Intelligence/week09/Evidence - Calculate probabilities given prior evidence.md","x":10292,"y":-2964,"width":767,"height":608},
+		{"id":"2088076f0e9f4d8a","type":"file","file":"COMPSCI367 - Artificial Intelligence/week09/Probability.md","x":8652,"y":-3025,"width":857,"height":400},
+		{"id":"2e0832f26689d18a","type":"file","file":"COMPSCI367 - Artificial Intelligence/week09/Probabilistic Parsing.md","x":7732,"y":-3076,"width":400,"height":203},
+		{"id":"b492a2aa6283a26f","x":12160,"y":-6300,"width":400,"height":400,"type":"file","file":"COMPSCI367 - Artificial Intelligence/week10/Zipf's law.md"}
 	],
 	"edges":[
 		{"id":"58761566270d0cbd","fromNode":"483c0f155182fe5d","fromSide":"bottom","toNode":"168ecaded8db3ab0","toSide":"top"},
@@ -289,7 +291,10 @@
 		{"id":"0e7cc04ada0e1909","fromNode":"749e94931a4a0c05","fromSide":"left","toNode":"f0a572f684d1a761","toSide":"bottom"},
 		{"id":"e07244ee2d8d6dff","fromNode":"749e94931a4a0c05","fromSide":"top","toNode":"c81b38809b0f01f5","toSide":"bottom"},
 		{"id":"cfb80702dffbb4c7","fromNode":"5eac81d896d79fbe","fromSide":"left","toNode":"c81b38809b0f01f5","toSide":"right"},
-		{"id":"22bfc6bded572aa9","fromNode":"4dff1e0900772229","fromSide":"bottom","toNode":"6f7428825cecc059","toSide":"right"},
-		{"id":"3ebf64583337dc76","fromNode":"0b48a96e16bf4c08","fromSide":"left","toNode":"81418ea76c342235","toSide":"right"}
+		{"id":"22bfc6bded572aa9","fromNode":"4dff1e0900772229","fromSide":"left","toNode":"6f7428825cecc059","toSide":"right"},
+		{"id":"3ebf64583337dc76","fromNode":"0b48a96e16bf4c08","fromSide":"left","toNode":"81418ea76c342235","toSide":"right"},
+		{"id":"d5c88852d4d8103b","fromNode":"4a95fa87cb99f8e0","fromSide":"bottom","toNode":"4f4b509d41f568f3","toSide":"top"},
+		{"id":"ff0f8fc2e7cf79b5","fromNode":"4a95fa87cb99f8e0","fromSide":"right","toNode":"6f7428825cecc059","toSide":"top"},
+		{"id":"42e97d0b00464773","fromNode":"17f5987527f09f69","fromSide":"top","toNode":"b492a2aa6283a26f","toSide":"bottom"}
 	]
 }
