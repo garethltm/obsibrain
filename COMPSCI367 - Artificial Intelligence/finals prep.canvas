@@ -4,6 +4,7 @@
 		{"id":"d5adc265cc797e1b","type":"group","x":-2320,"y":-4880,"width":7760,"height":7840,"color":"1","label":"Local Search"},
 		{"id":"b0281d92c82035ae","type":"group","x":-9760,"y":-6240,"width":7080,"height":5035,"color":"1","label":"Systematic Search"},
 		{"id":"6d2365b44856105f","type":"group","x":-4960,"y":-9640,"width":4680,"height":3089,"color":"1","label":"Planner"},
+		{"id":"c731350ccb739874","x":-7801,"y":-8359,"width":400,"height":400,"type":"file","file":"COMPSCI367 - Artificial Intelligence/week09/Noisy OR.md"},
 		{"id":"776f617db4924558","type":"file","file":"COMPSCI367 - Artificial Intelligence/week06/Logic Inference vs Constraint Satisfaction.md","x":25,"y":-6800,"width":1110,"height":925},
 		{"id":"a0f7e424afa1db31","type":"file","file":"COMPSCI367 - Artificial Intelligence/week09/Building a planner.md","x":-3379,"y":-8953,"width":400,"height":159},
 		{"id":"fc2554959ad9e7c2","type":"file","file":"COMPSCI367 - Artificial Intelligence/week09/Logic-based Planning algorithms.md","x":-3124,"y":-8633,"width":800,"height":960},
@@ -44,7 +45,6 @@
 		{"id":"e82d2d6e297bac0b","type":"file","file":"COMPSCI367 - Artificial Intelligence/week03/Admissible heuristic.md","x":-9640,"y":-6157,"width":800,"height":290},
 		{"id":"2088076f0e9f4d8a","x":-7640,"y":-10360,"width":857,"height":400,"type":"file","file":"COMPSCI367 - Artificial Intelligence/week09/Probability.md"},
 		{"id":"08c47b055f30ba2a","type":"file","file":"COMPSCI367 - Artificial Intelligence/week09/Bayes Nets.md","x":-9000,"y":-9960,"width":860,"height":440},
-		{"id":"3c050c5af3bc6673","type":"file","file":"COMPSCI367 - Artificial Intelligence/week09/First Order Bayes Nets.md","x":-9000,"y":-8863,"width":780,"height":230},
 		{"id":"58a881b6f43c7af3","x":-6640,"y":-9167,"width":767,"height":608,"type":"file","file":"COMPSCI367 - Artificial Intelligence/week09/Evidence - Calculate probabilities given prior evidence.md"},
 		{"id":"f75473f75e267d30","x":-7671,"y":-9720,"width":920,"height":972,"type":"file","file":"COMPSCI367 - Artificial Intelligence/week09/Probability Theory.md"},
 		{"id":"143c9b842b12e844","type":"file","file":"COMPSCI367 - Artificial Intelligence/week02/Informed Search.md","x":-8400,"y":-5475,"width":1000,"height":875},
@@ -53,7 +53,6 @@
 		{"id":"a56cfb7df38bc48a","type":"file","file":"COMPSCI367 - Artificial Intelligence/week03/Path Search vs CSPs.md","x":-2280,"y":-4095,"width":1260,"height":570},
 		{"id":"454a575947cab4cd","type":"file","file":"COMPSCI367 - Artificial Intelligence/week02/Depth-Limited Search (DLS).md","x":-4040,"y":-3886,"width":900,"height":1081},
 		{"id":"ebe9a962df6e0106","type":"file","file":"COMPSCI367 - Artificial Intelligence/week02/Breadth-First Search (BFS).md","x":-4960,"y":-3886,"width":867,"height":1921},
-		{"id":"c79ca9edda2270c6","type":"file","file":"COMPSCI367 - Artificial Intelligence/week02/Depth-First Search (DFS).md","x":-5900,"y":-3886,"width":860,"height":2166},
 		{"id":"e8034e3171110743","type":"file","file":"COMPSCI367 - Artificial Intelligence/week03/Iterative Deepening A-Star Search (IDA).md","x":-7240,"y":-2485,"width":860,"height":1139},
 		{"id":"f8db50f824a6d73a","type":"file","file":"COMPSCI367 - Artificial Intelligence/week04/Hill-Climbing with side-way moves.md","x":1399,"y":-1797,"width":882,"height":658},
 		{"id":"a2c6291e17219496","type":"text","text":"## Summary\n- [[Hill-Climbing]] - choose best child\n- [[Hill-Climbing with side-way moves]] - choose best or equal child\n- [[Enforced Hill-Climbing]] - use [[Breadth-First Search (BFS)]] until you find a \"better\" node\n- [[Tabu Search]] - keeps a [[Tabu list]] of nodes you have been to & don't go back","x":1120,"y":-2660,"width":720,"height":200},
@@ -95,7 +94,9 @@
 		{"id":"96646a99754ecdd5","type":"file","file":"COMPSCI367 - Artificial Intelligence/week08/First-Order Formulas.md","x":6119,"y":-11533,"width":644,"height":480},
 		{"id":"b6f512ea706ca387","type":"file","file":"COMPSCI367 - Artificial Intelligence/week08/Generalised Modus Ponens (GMP).md","x":6600,"y":-10394,"width":400,"height":213},
 		{"id":"bcf06f432aaa7431","type":"file","file":"COMPSCI367 - Artificial Intelligence/week07/Modus Ponens (MP).md","x":7160,"y":-8280,"width":400,"height":400},
-		{"id":"838258289ddf421e","type":"file","file":"COMPSCI367 - Artificial Intelligence/week03/Backtracking Search.md","x":-1266,"y":-2120,"width":1046,"height":2040}
+		{"id":"838258289ddf421e","type":"file","file":"COMPSCI367 - Artificial Intelligence/week03/Backtracking Search.md","x":-1266,"y":-2120,"width":1046,"height":2040},
+		{"id":"c79ca9edda2270c6","type":"file","file":"COMPSCI367 - Artificial Intelligence/week02/Depth-First Search (DFS).md","x":-5900,"y":-3879,"width":860,"height":2166},
+		{"id":"3c050c5af3bc6673","type":"file","file":"COMPSCI367 - Artificial Intelligence/week09/First Order Bayes Nets.md","x":-8960,"y":-9282,"width":780,"height":230}
 	],
 	"edges":[
 		{"id":"58761566270d0cbd","fromNode":"483c0f155182fe5d","fromSide":"bottom","toNode":"168ecaded8db3ab0","toSide":"top"},
