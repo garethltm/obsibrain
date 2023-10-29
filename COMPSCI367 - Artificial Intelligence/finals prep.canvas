@@ -86,7 +86,6 @@
 		{"id":"935c99032e07f35b","type":"file","file":"COMPSCI367 - Artificial Intelligence/week06/Logic Inference Problem.md","x":1329,"y":-7285,"width":400,"height":190},
 		{"id":"f6b3acc959bff629","type":"file","file":"COMPSCI367 - Artificial Intelligence/week09/ExtractPlan.md","x":-984,"y":-9160,"width":400,"height":360},
 		{"id":"7f23af8e914af1e0","type":"file","file":"COMPSCI367 - Artificial Intelligence/week08/Herbrand's Theorem.md","x":2720,"y":-9680,"width":898,"height":253},
-		{"id":"603eba6fdd5b88a2","type":"file","file":"COMPSCI367 - Artificial Intelligence/week10/Probability Distribution.md","x":12243,"y":-3208,"width":680,"height":400},
 		{"id":"0b48a96e16bf4c08","type":"file","file":"COMPSCI367 - Artificial Intelligence/week10/Value of smoothing.md","x":13168,"y":-5641,"width":583,"height":400},
 		{"id":"81418ea76c342235","type":"file","file":"COMPSCI367 - Artificial Intelligence/week10/Smoothing.md","x":12525,"y":-5640,"width":400,"height":400},
 		{"id":"68fa51375f6dbbba","type":"file","file":"COMPSCI367 - Artificial Intelligence/week10/Laplace smoothing (add-one smoothing).md","x":12925,"y":-6141,"width":400,"height":201},
@@ -123,7 +122,6 @@
 		{"id":"74c0acc3deeb1a71","type":"file","file":"COMPSCI367 - Artificial Intelligence/week02/A-Star Search.md","x":-6960,"y":-6157,"width":640,"height":3352},
 		{"id":"e8034e3171110743","type":"file","file":"COMPSCI367 - Artificial Intelligence/week03/Iterative Deepening A-Star Search (IDA).md","x":-7240,"y":-2485,"width":860,"height":1139},
 		{"id":"943b888d61bee2c0","type":"file","file":"COMPSCI367 - Artificial Intelligence/week02/Informed Search Heuristic.md","x":-7740,"y":-6157,"width":680,"height":320},
-		{"id":"1fc387d860b8ea01","type":"file","file":"COMPSCI367 - Artificial Intelligence/week10/Conditional Probability Table (CPT).md","x":12240,"y":-4063,"width":731,"height":587},
 		{"id":"6f7428825cecc059","type":"file","file":"COMPSCI367 - Artificial Intelligence/week10/Language Model.md","x":12094,"y":-7345,"width":622,"height":583},
 		{"id":"4dff1e0900772229","type":"file","file":"COMPSCI367 - Artificial Intelligence/week10/Translation Model.md","x":13088,"y":-7453,"width":400,"height":400},
 		{"id":"8779a6f9a1e8d67d","type":"file","file":"COMPSCI367 - Artificial Intelligence/week11/Local Markov Property.md","x":13540,"y":-2048,"width":400,"height":400},
@@ -205,7 +203,9 @@
 		{"id":"9cb0ff8fbc160a65","type":"file","file":"COMPSCI367 - Artificial Intelligence/week10/overfitting.md","x":8452,"y":-4481,"width":400,"height":282},
 		{"id":"77857bdae781fee6","type":"file","file":"COMPSCI367 - Artificial Intelligence/week04/Simulated Annealing.md","x":4160,"y":-1400,"width":920,"height":400},
 		{"id":"1565f3fa00bb00bc","type":"file","file":"COMPSCI367 - Artificial Intelligence/week05/Adversarial Search.md","x":4600,"y":-3279,"width":400,"height":239},
-		{"id":"bd7fffb028bd0d64","type":"file","file":"COMPSCI367 - Artificial Intelligence/week10/Bayes Rule with Existing Evidence.md","x":11892,"y":-2090,"width":520,"height":400}
+		{"id":"603eba6fdd5b88a2","type":"file","file":"COMPSCI367 - Artificial Intelligence/week10/Probability Distribution.md","x":12243,"y":-3208,"width":680,"height":400},
+		{"id":"1fc387d860b8ea01","type":"file","file":"COMPSCI367 - Artificial Intelligence/week10/Conditional Probability Table (CPT).md","x":12240,"y":-4063,"width":731,"height":587},
+		{"id":"bd7fffb028bd0d64","type":"file","file":"COMPSCI367 - Artificial Intelligence/week10/Bayes Rule with Existing Evidence.md","x":11900,"y":-2080,"width":520,"height":400}
 	],
 	"edges":[
 		{"id":"58761566270d0cbd","fromNode":"483c0f155182fe5d","fromSide":"bottom","toNode":"168ecaded8db3ab0","toSide":"top"},
