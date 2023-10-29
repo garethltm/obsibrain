@@ -85,11 +85,12 @@
 		{"id":"a0f7e424afa1db31","type":"file","file":"COMPSCI367 - Artificial Intelligence/week09/Building a planner.md","x":-3379,"y":-8953,"width":400,"height":159},
 		{"id":"fc2554959ad9e7c2","type":"file","file":"COMPSCI367 - Artificial Intelligence/week09/Logic-based Planning algorithms.md","x":-3124,"y":-8633,"width":800,"height":960},
 		{"id":"ce0eed8b1334236a","type":"file","file":"COMPSCI367 - Artificial Intelligence/week09/Classical Planning.md","x":-2114,"y":-8633,"width":900,"height":840},
-		{"id":"8f06822f33c6be7d","x":-1000,"y":-8680,"width":400,"height":400,"type":"file","file":"COMPSCI367 - Artificial Intelligence/week09/SATPlan.md"},
+		{"id":"8f06822f33c6be7d","x":-1000,"y":-8680,"width":400,"height":440,"type":"file","file":"COMPSCI367 - Artificial Intelligence/week09/SATPlan.md"},
 		{"id":"8279376100a5cd45","type":"file","file":"COMPSCI367 - Artificial Intelligence/week09/Forward (Progression) planning.md","x":-4940,"y":-7552,"width":856,"height":981},
 		{"id":"b5726b70f90d8563","type":"file","file":"COMPSCI367 - Artificial Intelligence/week09/Search-based Planning Algorithm.md","x":-4084,"y":-8633,"width":820,"height":920},
 		{"id":"776f617db4924558","type":"file","file":"COMPSCI367 - Artificial Intelligence/week06/Logic Inference vs Constraint Satisfaction.md","x":25,"y":-6800,"width":1110,"height":925},
-		{"id":"ee71447003fed49a","type":"file","file":"COMPSCI367 - Artificial Intelligence/week09/TranslateToSAT.md","x":-1124,"y":-8153,"width":680,"height":430}
+		{"id":"ee71447003fed49a","type":"file","file":"COMPSCI367 - Artificial Intelligence/week09/TranslateToSAT.md","x":-1124,"y":-8153,"width":680,"height":430},
+		{"id":"f6b3acc959bff629","x":-984,"y":-9160,"width":400,"height":360,"type":"file","file":"COMPSCI367 - Artificial Intelligence/week09/ExtractPlan.md"}
 	],
 	"edges":[
 		{"id":"58761566270d0cbd","fromNode":"483c0f155182fe5d","fromSide":"bottom","toNode":"168ecaded8db3ab0","toSide":"top"},
@@ -177,6 +178,9 @@
 		{"id":"3445ead25e10c19e","fromNode":"b517183b840ad49d","fromSide":"right","toNode":"b6f512ea706ca387","toSide":"left"},
 		{"id":"066312d1f6895462","fromNode":"21c3f5042ad67d16","fromSide":"bottom","toNode":"483c0f155182fe5d","toSide":"top"},
 		{"id":"0d9cdafcfbeabb32","fromNode":"ee71447003fed49a","fromSide":"right","toNode":"ec6c6b03423f7c6b","toSide":"left"},
-		{"id":"5cca60b4bbbcfcf3","fromNode":"ce0eed8b1334236a","fromSide":"right","toNode":"8f06822f33c6be7d","toSide":"left"}
+		{"id":"5cca60b4bbbcfcf3","fromNode":"ce0eed8b1334236a","fromSide":"right","toNode":"8f06822f33c6be7d","toSide":"left"},
+		{"id":"4194b878bd9ecb17","fromNode":"8f06822f33c6be7d","fromSide":"bottom","toNode":"ee71447003fed49a","toSide":"top"},
+		{"id":"d3e771abe42bef8c","fromNode":"8f06822f33c6be7d","fromSide":"right","toNode":"2bf31c7bc0b7d4ff","toSide":"left"},
+		{"id":"73e3007b87e38068","fromNode":"8f06822f33c6be7d","fromSide":"top","toNode":"f6b3acc959bff629","toSide":"bottom"}
 	]
 }
