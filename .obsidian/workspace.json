@@ -11,14 +11,11 @@
             "id": "2baf3d4d32bda653",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/finals prep.canvas",
-                "viewState": {
-                  "x": 7423.044424536345,
-                  "y": -6792.0282005558265,
-                  "zoom": -0.6666666666666663
-                }
+                "file": "COMPSCI367 - Artificial Intelligence/week08/instantiation.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -88,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/finals prep.canvas",
+                "file": "COMPSCI367 - Artificial Intelligence/week08/instantiation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/finals prep.canvas",
+                "file": "COMPSCI367 - Artificial Intelligence/week08/instantiation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/finals prep.canvas"
+                "file": "COMPSCI367 - Artificial Intelligence/week08/instantiation.md"
               }
             }
           },
@@ -171,10 +168,10 @@
   },
   "active": "2baf3d4d32bda653",
   "lastOpenFiles": [
-    "COMPSCI367 - Artificial Intelligence/week08/Skolem constant.md",
     "COMPSCI367 - Artificial Intelligence/finals prep.canvas",
-    "COMPSCI367 - Artificial Intelligence/week06/Propositional Knowledge Base.md",
     "COMPSCI367 - Artificial Intelligence/week08/First-Order KB.md",
+    "COMPSCI367 - Artificial Intelligence/week08/Skolem constant.md",
+    "COMPSCI367 - Artificial Intelligence/week06/Propositional Knowledge Base.md",
     "COMPSCI367 - Artificial Intelligence/week08/theorem.md",
     "COMPSCI367 - Artificial Intelligence/week08/axioms.md",
     "COMPSCI367 - Artificial Intelligence/week08/model(s).md",
