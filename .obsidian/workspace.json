@@ -11,14 +11,11 @@
             "id": "2baf3d4d32bda653",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/finals prep.canvas",
-                "viewState": {
-                  "x": 884.140409322321,
-                  "y": -6222.254247990179,
-                  "zoom": -0.6666666666666663
-                }
+                "file": "COMPSCI367 - Artificial Intelligence/week06/clause(s).md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -88,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week06/Propositional Knowledge Base.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week06/clause(s).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week06/Propositional Knowledge Base.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week06/clause(s).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week06/Propositional Knowledge Base.md"
+                "file": "COMPSCI367 - Artificial Intelligence/week06/clause(s).md"
               }
             }
           },
@@ -171,6 +168,7 @@
   },
   "active": "2baf3d4d32bda653",
   "lastOpenFiles": [
+    "COMPSCI367 - Artificial Intelligence/finals prep.canvas",
     "COMPSCI367 - Artificial Intelligence/week06/Wumpus World Agent.md",
     "COMPSCI367 - Artificial Intelligence/week06/Truth table.md",
     "COMPSCI367 - Artificial Intelligence/week06/syntax.md",
@@ -179,7 +177,6 @@
     "COMPSCI367 - Artificial Intelligence/week06/sentence.md",
     "COMPSCI367 - Artificial Intelligence/week06/semantics.md",
     "COMPSCI367 - Artificial Intelligence/week06/satisfiable.md",
-    "COMPSCI367 - Artificial Intelligence/finals prep.canvas",
     "COMPSCI367 - Artificial Intelligence/week06/model of a propositional KB.md",
     "COMPSCI367 - Artificial Intelligence/week09/Backward (Regression) planning.md",
     "COMPSCI367 - Artificial Intelligence/week09/Annotated Disjunction.md",
@@ -197,7 +194,6 @@
     "COMPSCI367 - Artificial Intelligence/Deontologist theory.md",
     "COMPSCI367 - Artificial Intelligence/week11/von Neumann & Morgenstern (VNM).md",
     "README.md",
-    "COMPSCI367 - Artificial Intelligence/week12/Explainable AI (XAI).md",
     "@images/COMPSCI3672022_S2W09Lecture25AIinSociety28129-21.jpg",
     "@images/Pasted image 20231026174833.png",
     "@images/Pasted image 20231026174606.png",
