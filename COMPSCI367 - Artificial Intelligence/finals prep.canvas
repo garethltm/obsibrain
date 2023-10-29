@@ -6,7 +6,7 @@
 		{"id":"b93e599de8588955","type":"group","x":7040,"y":2720,"width":2121,"height":3400,"color":"1","label":"week08"},
 		{"id":"09e4ad48cb61d99c","type":"group","x":5720,"y":-4880,"width":2800,"height":1890,"color":"1","label":"week06"},
 		{"id":"6dbf009026f32e29","type":"group","x":10236,"y":-6560,"width":1960,"height":2080,"color":"1","label":"week07"},
-		{"id":"776f617db4924558","type":"file","file":"COMPSCI367 - Artificial Intelligence/week06/Logic Inference vs Constraint Satisfaction.md","x":5740,"y":-4860,"width":1110,"height":760},
+		{"id":"776f617db4924558","type":"file","file":"COMPSCI367 - Artificial Intelligence/week06/Logic Inference vs Constraint Satisfaction.md","x":5740,"y":-4860,"width":1110,"height":925},
 		{"id":"21c3f5042ad67d16","type":"file","file":"COMPSCI367 - Artificial Intelligence/week08/First-Order Logic Inference.md","x":7960,"y":2740,"width":470,"height":238},
 		{"id":"168ecaded8db3ab0","type":"file","file":"COMPSCI367 - Artificial Intelligence/week08/Grounding.md","x":7060,"y":3440,"width":1080,"height":860},
 		{"id":"b517183b840ad49d","type":"file","file":"COMPSCI367 - Artificial Intelligence/week08/Lifting.md","x":8260,"y":3440,"width":881,"height":228},
@@ -73,9 +73,9 @@
 		{"id":"7869f15a756a4b6d","x":7520,"y":-4760,"width":400,"height":400,"type":"file","file":"COMPSCI367 - Artificial Intelligence/week06/Knowledge Representation Language.md"},
 		{"id":"4280e68001b8963f","x":8000,"y":-4760,"width":400,"height":400,"type":"file","file":"COMPSCI367 - Artificial Intelligence/week06/syntax.md"},
 		{"id":"7aa38305b72e704a","x":8000,"y":-4278,"width":400,"height":178,"type":"file","file":"COMPSCI367 - Artificial Intelligence/week06/semantics.md"},
-		{"id":"935c99032e07f35b","x":6001,"y":-3390,"width":400,"height":190,"type":"file","file":"COMPSCI367 - Artificial Intelligence/week06/Logic Inference Problem.md"},
 		{"id":"0d4085108c0afa89","type":"file","file":"COMPSCI367 - Artificial Intelligence/week06/clause(s).md","x":6960,"y":-3600,"width":890,"height":500},
-		{"id":"87676a80d54176c1","type":"file","file":"COMPSCI367 - Artificial Intelligence/week06/Inference engines (IE).md","x":6960,"y":-3960,"width":890,"height":245}
+		{"id":"87676a80d54176c1","type":"file","file":"COMPSCI367 - Artificial Intelligence/week06/Inference engines (IE).md","x":6960,"y":-3960,"width":890,"height":245},
+		{"id":"935c99032e07f35b","x":6360,"y":-3765,"width":400,"height":190,"type":"file","file":"COMPSCI367 - Artificial Intelligence/week06/Logic Inference Problem.md"}
 	],
 	"edges":[
 		{"id":"58761566270d0cbd","fromNode":"21c3f5042ad67d16","fromSide":"bottom","toNode":"168ecaded8db3ab0","toSide":"top"},
