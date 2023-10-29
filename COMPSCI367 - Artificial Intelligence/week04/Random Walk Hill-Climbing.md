@@ -1,5 +1,5 @@
 - assuming that adding randomisation may avoid the search from getting stuck in a local optimal.
-	- Pick a parameter (walk probability) $p ∈ [0,1]$
+	- Pick a parameter (walk [[Probability]]) $p ∈ [0,1]$
 	- At every step:
 		- With probability $p$, make an [[uninformed random walk]]
 		- With probability $1-p$, make a [[greedy choice]]: choose the successor that has the least loss
