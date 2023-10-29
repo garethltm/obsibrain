@@ -67,7 +67,8 @@
 		{"id":"fd0f4e70e58a04ea","type":"file","file":"COMPSCI367 - Artificial Intelligence/week04/Tabu Search.md","x":3280,"y":-1237,"width":800,"height":600},
 		{"id":"77857bdae781fee6","type":"file","file":"COMPSCI367 - Artificial Intelligence/week04/Simulated Annealing.md","x":4140,"y":-1437,"width":920,"height":400},
 		{"id":"0b6442dd25fd5b40","type":"file","file":"COMPSCI367 - Artificial Intelligence/week04/Random-Restart Hill Climbing.md","x":3920,"y":-1745,"width":860,"height":277},
-		{"id":"528743b24317fbca","type":"file","file":"COMPSCI367 - Artificial Intelligence/week04/Stochastic Local Search (SLS).md","x":1981,"y":-4795,"width":678,"height":340}
+		{"id":"528743b24317fbca","type":"file","file":"COMPSCI367 - Artificial Intelligence/week04/Stochastic Local Search (SLS).md","x":1920,"y":-4795,"width":678,"height":340},
+		{"id":"c47490b00a7e0c6d","x":1558,"y":-937,"width":644,"height":400,"type":"file","file":"COMPSCI367 - Artificial Intelligence/week04/Probabilistic Hill-Climbing.md"}
 	],
 	"edges":[
 		{"id":"58761566270d0cbd","fromNode":"21c3f5042ad67d16","fromSide":"bottom","toNode":"168ecaded8db3ab0","toSide":"top"},
@@ -118,6 +119,7 @@
 		{"id":"5cad06012f8805da","fromNode":"778ed930a7d2020d","fromSide":"right","toNode":"77857bdae781fee6","toSide":"left"},
 		{"id":"6f6f4485b4764e63","fromNode":"778ed930a7d2020d","fromSide":"right","toNode":"0b6442dd25fd5b40","toSide":"left"},
 		{"id":"287e2d9ee950d86a","fromNode":"bcc09f909c02ac0b","fromSide":"bottom","toNode":"a2c6291e17219496","toSide":"top"},
-		{"id":"e4a3938e823afb2b","fromNode":"bcc09f909c02ac0b","fromSide":"top","toNode":"528743b24317fbca","toSide":"left"}
+		{"id":"e4a3938e823afb2b","fromNode":"bcc09f909c02ac0b","fromSide":"top","toNode":"528743b24317fbca","toSide":"left"},
+		{"id":"3a6c062176ddbbf2","fromNode":"ec5a24935e85a435","fromSide":"right","toNode":"c47490b00a7e0c6d","toSide":"left"}
 	]
 }
