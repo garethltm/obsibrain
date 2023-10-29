@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week07/Modus Ponens (MP).md",
+                "file": "COMPSCI367 - Artificial Intelligence/week08/Unification.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week07/Modus Ponens (MP).md",
+                "file": "COMPSCI367 - Artificial Intelligence/week08/Unification.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week07/Modus Ponens (MP).md",
+                "file": "COMPSCI367 - Artificial Intelligence/week08/Unification.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week07/Modus Ponens (MP).md"
+                "file": "COMPSCI367 - Artificial Intelligence/week08/Unification.md"
               }
             }
           },
@@ -169,6 +169,7 @@
   "active": "2baf3d4d32bda653",
   "lastOpenFiles": [
     "COMPSCI367 - Artificial Intelligence/finals prep.canvas",
+    "COMPSCI367 - Artificial Intelligence/week07/Modus Ponens (MP).md",
     "COMPSCI367 - Artificial Intelligence/week08/First-Order Formulas.md",
     "COMPSCI367 - Artificial Intelligence/week08/First-Order Logic.md",
     "COMPSCI367 - Artificial Intelligence/week04/Greedy Descent.md",
@@ -193,7 +194,6 @@
     "COMPSCI367 - Artificial Intelligence/week08/definition (singular).md",
     "COMPSCI367 - Artificial Intelligence/week08/Arithmetic.md",
     "COMPSCI367 - Artificial Intelligence/week08/axioms.md",
-    "COMPSCI367 - Artificial Intelligence/week08/algorithm.md",
     "@images/COMPSCI3672022_S2W09Lecture25AIinSociety28129-21.jpg",
     "@images/Pasted image 20231026174833.png",
     "@images/Pasted image 20231026174606.png",
