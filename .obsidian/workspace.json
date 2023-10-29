@@ -15,9 +15,9 @@
               "state": {
                 "file": "COMPSCI367 - Artificial Intelligence/finals prep.canvas",
                 "viewState": {
-                  "x": 18731.336190586448,
-                  "y": -1461.2387752015788,
-                  "zoom": -0.6666666666666663
+                  "x": -2356.5142717302238,
+                  "y": -8296.638978830159,
+                  "zoom": -1.3333333333333328
                 }
               }
             }
@@ -72,7 +72,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "29204b37fc003a9a",
@@ -179,7 +180,7 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "766f3d6bf8798b3a",
+  "active": "3ad179677b7fba41",
   "lastOpenFiles": [
     "COMPSCI367 - Artificial Intelligence/week12/no forgetting property.md",
     "COMPSCI367 - Artificial Intelligence/finals prep.canvas",
