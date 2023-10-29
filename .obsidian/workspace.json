@@ -15,9 +15,9 @@
               "state": {
                 "file": "COMPSCI367 - Artificial Intelligence/finals prep.canvas",
                 "viewState": {
-                  "x": 2105.8686388822207,
-                  "y": -3502.220977728979,
-                  "zoom": -1.0776941285146313
+                  "x": 1806.8325293853793,
+                  "y": -3798.2387074004637,
+                  "zoom": -0.744360795181298
                 }
               }
             }
@@ -88,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week03/Stochastic Search.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week05/Population-based Search.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week03/Stochastic Search.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week05/Population-based Search.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week03/Stochastic Search.md"
+                "file": "COMPSCI367 - Artificial Intelligence/week05/Population-based Search.md"
               }
             }
           },
