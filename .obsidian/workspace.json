@@ -15,9 +15,9 @@
               "state": {
                 "file": "COMPSCI367 - Artificial Intelligence/finals prep.canvas",
                 "viewState": {
-                  "x": -6050.219677296019,
-                  "y": 962.4346101943894,
-                  "zoom": -0.07769412851463142
+                  "x": -5745.031530889554,
+                  "y": -1080.534949431047,
+                  "zoom": -1.0776941285146313
                 }
               }
             }
@@ -171,8 +171,10 @@
   },
   "active": "98da943ebf305f83",
   "lastOpenFiles": [
-    "COMPSCI367 - Artificial Intelligence/week02/Optimal.md",
+    "COMPSCI367 - Artificial Intelligence/week03/Iterative Deepening A-Star Search (IDA).md",
     "COMPSCI367 - Artificial Intelligence/finals prep.canvas",
+    "COMPSCI367 - Artificial Intelligence/week03/Iterative Improvement.md",
+    "COMPSCI367 - Artificial Intelligence/week02/Optimal.md",
     "COMPSCI367 - Artificial Intelligence/week12/Chance nodes.md",
     "COMPSCI367 - Artificial Intelligence/week12/Decision network.md",
     "COMPSCI367 - Artificial Intelligence/week12/Decision function.md",
@@ -196,8 +198,6 @@
     "COMPSCI367 - Artificial Intelligence/week01/goal(s) - goal state(s).md",
     "COMPSCI367 - Artificial Intelligence/week04/Probabilistic Approximately Complete (PAC).md",
     "COMPSCI367 - Artificial Intelligence/week04/Random Walk Hill-Climbing.md",
-    "COMPSCI367 - Artificial Intelligence/week02/A-Star Search.md",
-    "COMPSCI367 - Artificial Intelligence/week03/Iterative Deepening A-Star Search (IDA).md",
     "@images/COMPSCI3672022_S2W09Lecture25AIinSociety28129-21.jpg",
     "@images/Pasted image 20231026174833.png",
     "@images/Pasted image 20231026174606.png",
