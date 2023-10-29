@@ -7,7 +7,6 @@
 		{"id":"b0281d92c82035ae","type":"group","x":-9760,"y":-6240,"width":7080,"height":5035,"color":"1","label":"Systematic Search"},
 		{"id":"a0f7e424afa1db31","type":"file","file":"COMPSCI367 - Artificial Intelligence/week09/Building a planner.md","x":-3379,"y":-8953,"width":400,"height":159},
 		{"id":"fc2554959ad9e7c2","type":"file","file":"COMPSCI367 - Artificial Intelligence/week09/Logic-based Planning algorithms.md","x":-3124,"y":-8633,"width":800,"height":960},
-		{"id":"ce0eed8b1334236a","type":"file","file":"COMPSCI367 - Artificial Intelligence/week09/Classical Planning.md","x":-2114,"y":-8633,"width":900,"height":840},
 		{"id":"b5726b70f90d8563","type":"file","file":"COMPSCI367 - Artificial Intelligence/week09/Search-based Planning Algorithm.md","x":-4084,"y":-8633,"width":820,"height":920},
 		{"id":"a13ee0bdd07e8d35","type":"file","file":"COMPSCI367 - Artificial Intelligence/week09/Planning task.md","x":-2580,"y":-9194,"width":961,"height":400},
 		{"id":"1f53223437edcd0e","type":"file","file":"COMPSCI367 - Artificial Intelligence/week09/Backward (Regression) planning.md","x":-4019,"y":-7552,"width":840,"height":712},
@@ -24,17 +23,14 @@
 		{"id":"143c9b842b12e844","type":"file","file":"COMPSCI367 - Artificial Intelligence/week02/Informed Search.md","x":-8400,"y":-5475,"width":1000,"height":875},
 		{"id":"5528bedefd876801","type":"file","file":"COMPSCI367 - Artificial Intelligence/week02/Consistent Heuristics.md","x":-9640,"y":-5407,"width":840,"height":1521},
 		{"id":"b96022ab55337dfc","type":"file","file":"COMPSCI367 - Artificial Intelligence/week02/Greedy (Best-First) Search.md","x":-8240,"y":-4405,"width":680,"height":1281},
-		{"id":"a56cfb7df38bc48a","type":"file","file":"COMPSCI367 - Artificial Intelligence/week03/Path Search vs CSPs.md","x":-2280,"y":-4095,"width":1260,"height":570},
 		{"id":"454a575947cab4cd","type":"file","file":"COMPSCI367 - Artificial Intelligence/week02/Depth-Limited Search (DLS).md","x":-4040,"y":-3886,"width":900,"height":1081},
 		{"id":"ebe9a962df6e0106","type":"file","file":"COMPSCI367 - Artificial Intelligence/week02/Breadth-First Search (BFS).md","x":-4960,"y":-3886,"width":867,"height":1921},
 		{"id":"e8034e3171110743","type":"file","file":"COMPSCI367 - Artificial Intelligence/week03/Iterative Deepening A-Star Search (IDA).md","x":-7240,"y":-2485,"width":860,"height":1139},
 		{"id":"7e5cf4ff1071e8f9","type":"file","file":"COMPSCI367 - Artificial Intelligence/week03/Minimum Remaining Values (MRV).md","x":-1440,"y":240,"width":680,"height":600},
-		{"id":"795e78e6e19e6267","type":"file","file":"COMPSCI367 - Artificial Intelligence/week08/First-Order Logic.md","x":4633,"y":-11840,"width":435,"height":400},
 		{"id":"ffeb2544dccef85a","type":"file","file":"COMPSCI367 - Artificial Intelligence/week03/degree heuristic.md","x":-1440,"y":951,"width":446,"height":178},
 		{"id":"c79ca9edda2270c6","type":"file","file":"COMPSCI367 - Artificial Intelligence/week02/Depth-First Search (DFS).md","x":-5900,"y":-3879,"width":860,"height":2166},
 		{"id":"e4ee9f022b0e9774","type":"file","file":"COMPSCI367 - Artificial Intelligence/week09/plan.md","x":-4040,"y":-9000,"width":400,"height":178},
 		{"id":"810505ea6f9f90c5","type":"file","file":"COMPSCI367 - Artificial Intelligence/week09/Planning.md","x":-3579,"y":-9380,"width":400,"height":198},
-		{"id":"ee62e7412ef3d470","type":"file","file":"COMPSCI367 - Artificial Intelligence/week09/Task description.md","x":3935,"y":-11840,"width":400,"height":400},
 		{"id":"e5e76957efe5bbbf","type":"file","file":"COMPSCI367 - Artificial Intelligence/week05/Local beam Search.md","x":3360,"y":-4080,"width":1120,"height":1040},
 		{"id":"b3b17a63e58a3969","type":"file","file":"COMPSCI367 - Artificial Intelligence/week04/First Choice Hill-Climbing.md","x":3920,"y":-2946,"width":840,"height":300},
 		{"id":"d49ce6caecaf544b","type":"file","file":"COMPSCI367 - Artificial Intelligence/week04/Stochastic Hill-Climbing.md","x":3920,"y":-2560,"width":760,"height":280},
@@ -126,7 +122,15 @@
 		{"id":"87676a80d54176c1","type":"file","file":"COMPSCI367 - Artificial Intelligence/week06/Inference engines (IE).md","x":3533,"y":-6177,"width":890,"height":245},
 		{"id":"f73a0581ae7e9446","type":"file","file":"COMPSCI367 - Artificial Intelligence/week06/Propositional Logic Inference Engine.md","x":4560,"y":-5624,"width":400,"height":224},
 		{"id":"de2978997fe5539e","type":"file","file":"COMPSCI367 - Artificial Intelligence/week06/Propositional Logic.md","x":5160,"y":-5492,"width":540,"height":354},
-		{"id":"93e0e8dc1f7ee085","type":"file","file":"COMPSCI367 - Artificial Intelligence/week07/Definite Clause Inference Engine.md","x":4605,"y":-6415,"width":790,"height":360}
+		{"id":"93e0e8dc1f7ee085","type":"file","file":"COMPSCI367 - Artificial Intelligence/week07/Definite Clause Inference Engine.md","x":4605,"y":-6415,"width":790,"height":360},
+		{"id":"a56cfb7df38bc48a","type":"file","file":"COMPSCI367 - Artificial Intelligence/week03/Path Search vs CSPs.md","x":-2280,"y":-4095,"width":1260,"height":570},
+		{"id":"ce0eed8b1334236a","type":"file","file":"COMPSCI367 - Artificial Intelligence/week09/Classical Planning.md","x":-2114,"y":-8633,"width":900,"height":840},
+		{"id":"795e78e6e19e6267","type":"file","file":"COMPSCI367 - Artificial Intelligence/week08/First-Order Logic.md","x":4633,"y":-11840,"width":435,"height":400},
+		{"id":"ee62e7412ef3d470","type":"file","file":"COMPSCI367 - Artificial Intelligence/week09/Task description.md","x":3935,"y":-11840,"width":400,"height":400},
+		{"id":"c81b38809b0f01f5","x":10773,"y":-5096,"width":400,"height":316,"type":"file","file":"COMPSCI367 - Artificial Intelligence/week10/Inverse Document Frequency (idf).md"},
+		{"id":"6f7428825cecc059","x":11450,"y":-5303,"width":622,"height":583,"type":"file","file":"COMPSCI367 - Artificial Intelligence/week10/Language Model.md"},
+		{"id":"68fa51375f6dbbba","x":11446,"y":-4481,"width":400,"height":201,"type":"file","file":"COMPSCI367 - Artificial Intelligence/week10/Laplace smoothing (add-one smoothing).md"},
+		{"id":"c82ab232314ad0c8","x":10201,"y":-4640,"width":400,"height":159,"type":"file","file":"COMPSCI367 - Artificial Intelligence/week10/Law of total probability.md"}
 	],
 	"edges":[
 		{"id":"58761566270d0cbd","fromNode":"483c0f155182fe5d","fromSide":"bottom","toNode":"168ecaded8db3ab0","toSide":"top"},
@@ -256,6 +260,7 @@
 		{"id":"bb065d64ffb18713","fromNode":"169d0feb6b8ce658","fromSide":"top","toNode":"214f6fcbda415a9a","toSide":"bottom"},
 		{"id":"58b06cfe125de2e7","fromNode":"4f4b509d41f568f3","fromSide":"bottom","toNode":"214f6fcbda415a9a","toSide":"top"},
 		{"id":"2006af0b009b4b46","fromNode":"4f4b509d41f568f3","fromSide":"bottom","toNode":"6b03e4e73deffd16","toSide":"top"},
-		{"id":"8d82a8827e4595b9","fromNode":"2bf508af660757a0","fromSide":"top","toNode":"ca3c52732e90e667","toSide":"bottom"}
+		{"id":"8d82a8827e4595b9","fromNode":"2bf508af660757a0","fromSide":"top","toNode":"ca3c52732e90e667","toSide":"bottom"},
+		{"id":"d5904a69c9f5627e","fromNode":"169d0feb6b8ce658","fromSide":"left","toNode":"ce771f3c0063fac8","toSide":"right"}
 	]
 }

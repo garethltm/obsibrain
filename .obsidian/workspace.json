@@ -15,9 +15,9 @@
               "state": {
                 "file": "COMPSCI367 - Artificial Intelligence/finals prep.canvas",
                 "viewState": {
-                  "x": 6362.758274304139,
-                  "y": -6901.081176783754,
-                  "zoom": -2.3333333333333326
+                  "x": 10735.849003157555,
+                  "y": -3722.6809222105867,
+                  "zoom": -1.9999999999999993
                 }
               }
             }
@@ -88,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week07/Definite Clause Inference Engine.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week10/Law of total probability.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week07/Definite Clause Inference Engine.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week10/Law of total probability.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week07/Definite Clause Inference Engine.md"
+                "file": "COMPSCI367 - Artificial Intelligence/week10/Law of total probability.md"
               }
             }
           },
@@ -156,7 +156,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week07/Definite Clause Inference Engine.md"
+                "file": "COMPSCI367 - Artificial Intelligence/week10/Law of total probability.md"
               }
             }
           }
