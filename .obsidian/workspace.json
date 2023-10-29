@@ -15,9 +15,9 @@
               "state": {
                 "file": "COMPSCI367 - Artificial Intelligence/finals prep.canvas",
                 "viewState": {
-                  "x": -7600.674887323419,
-                  "y": -8182.797991959491,
-                  "zoom": -1.3333333333333328
+                  "x": 4629.122707703141,
+                  "y": -7315.316611489586,
+                  "zoom": -3.333333333333333
                 }
               }
             }
@@ -88,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week09/Noisy OR.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week09/Probabilistic Logic.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week09/Noisy OR.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week09/Probabilistic Logic.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week09/Noisy OR.md"
+                "file": "COMPSCI367 - Artificial Intelligence/week09/Probabilistic Logic.md"
               }
             }
           },
@@ -156,7 +156,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week09/Noisy OR.md"
+                "file": "COMPSCI367 - Artificial Intelligence/week09/Probabilistic Logic.md"
               }
             }
           }

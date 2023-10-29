@@ -4,7 +4,6 @@
 		{"id":"d5adc265cc797e1b","type":"group","x":-2320,"y":-4880,"width":7760,"height":7840,"color":"1","label":"Local Search"},
 		{"id":"b0281d92c82035ae","type":"group","x":-9760,"y":-6240,"width":7080,"height":5035,"color":"1","label":"Systematic Search"},
 		{"id":"6d2365b44856105f","type":"group","x":-4960,"y":-9640,"width":4680,"height":3089,"color":"1","label":"Planner"},
-		{"id":"c731350ccb739874","x":-7801,"y":-8359,"width":400,"height":400,"type":"file","file":"COMPSCI367 - Artificial Intelligence/week09/Noisy OR.md"},
 		{"id":"776f617db4924558","type":"file","file":"COMPSCI367 - Artificial Intelligence/week06/Logic Inference vs Constraint Satisfaction.md","x":25,"y":-6800,"width":1110,"height":925},
 		{"id":"a0f7e424afa1db31","type":"file","file":"COMPSCI367 - Artificial Intelligence/week09/Building a planner.md","x":-3379,"y":-8953,"width":400,"height":159},
 		{"id":"fc2554959ad9e7c2","type":"file","file":"COMPSCI367 - Artificial Intelligence/week09/Logic-based Planning algorithms.md","x":-3124,"y":-8633,"width":800,"height":960},
@@ -96,7 +95,11 @@
 		{"id":"bcf06f432aaa7431","type":"file","file":"COMPSCI367 - Artificial Intelligence/week07/Modus Ponens (MP).md","x":7160,"y":-8280,"width":400,"height":400},
 		{"id":"838258289ddf421e","type":"file","file":"COMPSCI367 - Artificial Intelligence/week03/Backtracking Search.md","x":-1266,"y":-2120,"width":1046,"height":2040},
 		{"id":"c79ca9edda2270c6","type":"file","file":"COMPSCI367 - Artificial Intelligence/week02/Depth-First Search (DFS).md","x":-5900,"y":-3879,"width":860,"height":2166},
-		{"id":"3c050c5af3bc6673","type":"file","file":"COMPSCI367 - Artificial Intelligence/week09/First Order Bayes Nets.md","x":-8960,"y":-9282,"width":780,"height":230}
+		{"id":"3c050c5af3bc6673","type":"file","file":"COMPSCI367 - Artificial Intelligence/week09/First Order Bayes Nets.md","x":-8960,"y":-9282,"width":780,"height":230},
+		{"id":"c731350ccb739874","x":-7801,"y":-8359,"width":400,"height":400,"type":"file","file":"COMPSCI367 - Artificial Intelligence/week09/Noisy OR.md"},
+		{"id":"e4ee9f022b0e9774","x":-4040,"y":-9000,"width":400,"height":178,"type":"file","file":"COMPSCI367 - Artificial Intelligence/week09/plan.md"},
+		{"id":"810505ea6f9f90c5","x":-3579,"y":-9380,"width":400,"height":198,"type":"file","file":"COMPSCI367 - Artificial Intelligence/week09/Planning.md"},
+		{"id":"4d1d5b328323a41b","x":-8740,"y":-8759,"width":740,"height":1079,"type":"file","file":"COMPSCI367 - Artificial Intelligence/week09/Probabilistic Logic.md"}
 	],
 	"edges":[
 		{"id":"58761566270d0cbd","fromNode":"483c0f155182fe5d","fromSide":"bottom","toNode":"168ecaded8db3ab0","toSide":"top"},
@@ -192,6 +195,8 @@
 		{"id":"a4419cdc56546f4d","fromNode":"3fc05267110262a7","fromSide":"bottom","toNode":"a13ee0bdd07e8d35","toSide":"top"},
 		{"id":"2a2e3c5217f59c90","fromNode":"da6d952e58226169","fromSide":"bottom","toNode":"a13ee0bdd07e8d35","toSide":"top"},
 		{"id":"3a73d7d1f0c7b30a","fromNode":"2088076f0e9f4d8a","fromSide":"bottom","toNode":"f75473f75e267d30","toSide":"top"},
-		{"id":"e70548064737ec03","fromNode":"838258289ddf421e","fromSide":"left","toNode":"c79ca9edda2270c6","toSide":"bottom"}
+		{"id":"e70548064737ec03","fromNode":"838258289ddf421e","fromSide":"left","toNode":"c79ca9edda2270c6","toSide":"bottom"},
+		{"id":"092a5d2d45753f6d","fromNode":"e4ee9f022b0e9774","fromSide":"right","toNode":"a0f7e424afa1db31","toSide":"left"},
+		{"id":"6d1064b572b2fe59","fromNode":"810505ea6f9f90c5","fromSide":"bottom","toNode":"a0f7e424afa1db31","toSide":"top"}
 	]
 }
