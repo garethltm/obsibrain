@@ -3,8 +3,7 @@
 		{"id":"09e4ad48cb61d99c","type":"group","x":-160,"y":-12480,"width":8800,"height":6920,"color":"1","label":"Logic"},
 		{"id":"d5adc265cc797e1b","type":"group","x":-2320,"y":-4880,"width":7760,"height":7840,"color":"1","label":"Local Search"},
 		{"id":"b0281d92c82035ae","type":"group","x":-9760,"y":-6240,"width":7080,"height":5035,"label":"Systematic Search"},
-		{"id":"6d2365b44856105f","type":"group","x":-4960,"y":-9640,"width":4680,"height":3089,"color":"1","label":"week09"},
-		{"id":"e82d2d6e297bac0b","type":"file","file":"COMPSCI367 - Artificial Intelligence/week03/Admissible heuristic.md","x":-9640,"y":-6157,"width":800,"height":290},
+		{"id":"6d2365b44856105f","type":"group","x":-4960,"y":-9640,"width":4680,"height":3089,"color":"1","label":"Planner"},
 		{"id":"5528bedefd876801","type":"file","file":"COMPSCI367 - Artificial Intelligence/week02/Consistent Heuristics.md","x":-9640,"y":-5407,"width":840,"height":1521},
 		{"id":"6f5232cb8da01059","type":"file","file":"COMPSCI367 - Artificial Intelligence/week05/Stochastic Beam Search (SBS).md","x":4560,"y":-4080,"width":800,"height":640},
 		{"id":"b3b17a63e58a3969","type":"file","file":"COMPSCI367 - Artificial Intelligence/week04/First Choice Hill-Climbing.md","x":3920,"y":-2946,"width":840,"height":300},
@@ -33,12 +32,9 @@
 		{"id":"454a575947cab4cd","type":"file","file":"COMPSCI367 - Artificial Intelligence/week02/Depth-Limited Search (DLS).md","x":-4040,"y":-3886,"width":900,"height":1081},
 		{"id":"ebe9a962df6e0106","type":"file","file":"COMPSCI367 - Artificial Intelligence/week02/Breadth-First Search (BFS).md","x":-4960,"y":-3886,"width":867,"height":2433},
 		{"id":"c79ca9edda2270c6","type":"file","file":"COMPSCI367 - Artificial Intelligence/week02/Depth-First Search (DFS).md","x":-5900,"y":-3886,"width":860,"height":1921},
-		{"id":"74c0acc3deeb1a71","type":"file","file":"COMPSCI367 - Artificial Intelligence/week02/A-Star Search.md","x":-6960,"y":-6157,"width":640,"height":3352},
 		{"id":"e8034e3171110743","type":"file","file":"COMPSCI367 - Artificial Intelligence/week03/Iterative Deepening A-Star Search (IDA).md","x":-7240,"y":-2485,"width":860,"height":1139},
-		{"id":"943b888d61bee2c0","type":"file","file":"COMPSCI367 - Artificial Intelligence/week02/Informed Search Heuristic.md","x":-7740,"y":-6157,"width":680,"height":320},
 		{"id":"143c9b842b12e844","type":"file","file":"COMPSCI367 - Artificial Intelligence/week02/Informed Search.md","x":-8400,"y":-5475,"width":1000,"height":875},
 		{"id":"b96022ab55337dfc","type":"file","file":"COMPSCI367 - Artificial Intelligence/week02/Greedy (Best-First) Search.md","x":-8240,"y":-4405,"width":680,"height":1281},
-		{"id":"007a7c191eace211","type":"file","file":"COMPSCI367 - Artificial Intelligence/week02/heuristic(s).md","x":-8400,"y":-6157,"width":560,"height":400},
 		{"id":"b6f512ea706ca387","type":"file","file":"COMPSCI367 - Artificial Intelligence/week08/Generalised Modus Ponens (GMP).md","x":6600,"y":-10394,"width":400,"height":213},
 		{"id":"bcf06f432aaa7431","type":"file","file":"COMPSCI367 - Artificial Intelligence/week07/Modus Ponens (MP).md","x":7160,"y":-8280,"width":400,"height":400},
 		{"id":"483c0f155182fe5d","type":"file","file":"COMPSCI367 - Artificial Intelligence/week08/Propositionalization.md","x":4360,"y":-10800,"width":400,"height":206},
@@ -91,8 +87,15 @@
 		{"id":"ce771f3c0063fac8","type":"file","file":"COMPSCI367 - Artificial Intelligence/week06/Knowledge Base (KB).md","x":3710,"y":-7080,"width":500,"height":320},
 		{"id":"168ecaded8db3ab0","type":"file","file":"COMPSCI367 - Artificial Intelligence/week08/Grounding.md","x":3755,"y":-10508,"width":1040,"height":860},
 		{"id":"327a0f9f504b2b77","type":"file","file":"COMPSCI367 - Artificial Intelligence/week08/First-Order KB.md","x":3735,"y":-11180,"width":400,"height":253},
-		{"id":"08c47b055f30ba2a","type":"file","file":"COMPSCI367 - Artificial Intelligence/week09/Bayes Nets.md","x":-6480,"y":-9940,"width":860,"height":440},
-		{"id":"3c050c5af3bc6673","type":"file","file":"COMPSCI367 - Artificial Intelligence/week09/First Order Bayes Nets.md","x":-6440,"y":-9318,"width":780,"height":230}
+		{"id":"74c0acc3deeb1a71","type":"file","file":"COMPSCI367 - Artificial Intelligence/week02/A-Star Search.md","x":-6960,"y":-6157,"width":640,"height":3352},
+		{"id":"943b888d61bee2c0","type":"file","file":"COMPSCI367 - Artificial Intelligence/week02/Informed Search Heuristic.md","x":-7740,"y":-6157,"width":680,"height":320},
+		{"id":"007a7c191eace211","type":"file","file":"COMPSCI367 - Artificial Intelligence/week02/heuristic(s).md","x":-8400,"y":-6157,"width":560,"height":400},
+		{"id":"e82d2d6e297bac0b","type":"file","file":"COMPSCI367 - Artificial Intelligence/week03/Admissible heuristic.md","x":-9640,"y":-6157,"width":800,"height":290},
+		{"id":"2088076f0e9f4d8a","x":-7640,"y":-10360,"width":857,"height":400,"type":"file","file":"COMPSCI367 - Artificial Intelligence/week09/Probability.md"},
+		{"id":"08c47b055f30ba2a","type":"file","file":"COMPSCI367 - Artificial Intelligence/week09/Bayes Nets.md","x":-9000,"y":-9960,"width":860,"height":440},
+		{"id":"3c050c5af3bc6673","type":"file","file":"COMPSCI367 - Artificial Intelligence/week09/First Order Bayes Nets.md","x":-9000,"y":-8863,"width":780,"height":230},
+		{"id":"58a881b6f43c7af3","x":-6640,"y":-9167,"width":767,"height":608,"type":"file","file":"COMPSCI367 - Artificial Intelligence/week09/Evidence - Calculate probabilities given prior evidence.md"},
+		{"id":"f75473f75e267d30","x":-7671,"y":-9720,"width":920,"height":972,"type":"file","file":"COMPSCI367 - Artificial Intelligence/week09/Probability Theory.md"}
 	],
 	"edges":[
 		{"id":"58761566270d0cbd","fromNode":"483c0f155182fe5d","fromSide":"bottom","toNode":"168ecaded8db3ab0","toSide":"top"},
@@ -186,6 +189,7 @@
 		{"id":"65c9f5511563e4ac","fromNode":"fc2554959ad9e7c2","fromSide":"top","toNode":"a13ee0bdd07e8d35","toSide":"left"},
 		{"id":"88b59e11cc875ca3","fromNode":"a13ee0bdd07e8d35","fromSide":"bottom","toNode":"ce0eed8b1334236a","toSide":"top"},
 		{"id":"a4419cdc56546f4d","fromNode":"3fc05267110262a7","fromSide":"bottom","toNode":"a13ee0bdd07e8d35","toSide":"top"},
-		{"id":"2a2e3c5217f59c90","fromNode":"da6d952e58226169","fromSide":"bottom","toNode":"a13ee0bdd07e8d35","toSide":"top"}
+		{"id":"2a2e3c5217f59c90","fromNode":"da6d952e58226169","fromSide":"bottom","toNode":"a13ee0bdd07e8d35","toSide":"top"},
+		{"id":"3a73d7d1f0c7b30a","fromNode":"2088076f0e9f4d8a","fromSide":"bottom","toNode":"f75473f75e267d30","toSide":"top"}
 	]
 }
