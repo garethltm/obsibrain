@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week02/solution(s).md",
+                "file": "COMPSCI367 - Artificial Intelligence/week01/PEAS.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week02/solution(s).md",
+                "file": "COMPSCI367 - Artificial Intelligence/week01/PEAS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week02/solution(s).md",
+                "file": "COMPSCI367 - Artificial Intelligence/week01/PEAS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week02/solution(s).md"
+                "file": "COMPSCI367 - Artificial Intelligence/week01/PEAS.md"
               }
             }
           },
@@ -153,7 +153,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week02/solution(s).md"
+                "file": "COMPSCI367 - Artificial Intelligence/week01/PEAS.md"
               }
             }
           }
@@ -178,6 +178,12 @@
   },
   "active": "766f3d6bf8798b3a",
   "lastOpenFiles": [
+    "COMPSCI367 - Artificial Intelligence/week01/Performance measure.md",
+    "COMPSCI367 - Artificial Intelligence/week01/PEAS.md",
+    "COMPSCI367 - Artificial Intelligence/week01/PAGE.md",
+    "COMPSCI367 - Artificial Intelligence/week01/Percepts.md",
+    "COMPSCI367 - Artificial Intelligence/week01/Reactive Agent.md",
+    "COMPSCI367 - Artificial Intelligence/week02/solution(s).md",
     "COMPSCI367 - Artificial Intelligence/week02/State Space.md",
     "COMPSCI367 - Artificial Intelligence/week02/State Space Searching.md",
     "COMPSCI367 - Artificial Intelligence/week02/State Space Problem.md",
@@ -200,12 +206,6 @@
     "COMPSCI367 - Artificial Intelligence/week06/Propositional Logic.md",
     "COMPSCI367 - Artificial Intelligence/week08/Domain-closure assumption.md",
     "COMPSCI367 - Artificial Intelligence/week09/Classical Planning.md",
-    "COMPSCI367 - Artificial Intelligence/week08/theorem.md",
-    "COMPSCI367 - Artificial Intelligence/week08/Generalised Modus Ponens (GMP).md",
-    "COMPSCI367 - Artificial Intelligence/week08/Unification.md",
-    "COMPSCI367 - Artificial Intelligence/week08/quantifier(s).md",
-    "COMPSCI367 - Artificial Intelligence/week08/Free variables.md",
-    "COMPSCI367 - Artificial Intelligence/week08/First-Order Interpretation.md",
     "@images/COMPSCI3672022_S2W09Lecture25AIinSociety28129-21.jpg",
     "@images/Pasted image 20231026174833.png",
     "@images/Pasted image 20231026174606.png",

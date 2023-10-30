@@ -1,4 +1,4 @@
-- [[agent(s)|agent(s)]] chose next [[action(s)]] based on their current [[COMPSCI367 - Artificial Intelligence/week01/Percepts]] - using a set of rules which are simple to apply
+- [[agent(s)|agent(s)]] chose next [[action(s)]] based on their current [[Percepts]] - using a set of rules which are simple to apply
 ![[Pasted image 20231012004441.png]]
 
 1. they have no memory/[[state(s)]]
