@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week07/Untitled.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week07/Definite Clause Inference Engine.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week07/Untitled.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week07/Definite Clause Inference Engine.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week07/Untitled.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week07/Definite Clause Inference Engine.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week07/Untitled.md"
+                "file": "COMPSCI367 - Artificial Intelligence/week07/Definite Clause Inference Engine.md"
               }
             }
           },
@@ -153,7 +153,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week07/Untitled.md"
+                "file": "COMPSCI367 - Artificial Intelligence/week07/Definite Clause Inference Engine.md"
               }
             }
           }
@@ -178,8 +178,8 @@
   },
   "active": "766f3d6bf8798b3a",
   "lastOpenFiles": [
-    "COMPSCI367 - Artificial Intelligence/week07/Definite clause.md",
-    "COMPSCI367 - Artificial Intelligence/week07/Untitled.md",
+    "COMPSCI367 - Artificial Intelligence/week07/Definite Clause Knowledge Base.md",
+    "COMPSCI367 - Artificial Intelligence/week07/definite clause(s).md",
     "COMPSCI367 - Artificial Intelligence/week07/Definite Clause Inference Engine.md",
     "COMPSCI367 - Artificial Intelligence/week06/Propositional Logic Inference Engine.md",
     "COMPSCI367 - Artificial Intelligence/week06/logical consequence.md",

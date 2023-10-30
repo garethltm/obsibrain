@@ -8,7 +8,7 @@ Use a [[rule of derivation]] for [[inference(s)]]
 >	![[Pasted image 20231024002237.png]]![[Pasted image 20231024002255.png]]
 
 - [[Soundness]] of [[Forward Chaining]]:
-	- For any [[Definite clause]] [[Knowledge Base (KB)]], [[Percepts]] & query g
+	- For any [[definite clause(s)]] [[Knowledge Base (KB)]], [[Percepts]] & query g
 		- $KB\ \cup Percepts\ \vdash g$ ([[Proof procedure]])
 		implies that
 		- $KB\ \cup Percepts\ \vDash g$ ([[entails]])

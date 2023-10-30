@@ -1,0 +1,1 @@
+a [[Knowledge Base (KB)]] that contains only [[definite clause(s)]] 

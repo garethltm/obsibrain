@@ -4,4 +4,4 @@
 
 ![[Pasted image 20231023211733.png]]
 
-Related to: [[Definite clause]]
+Related to: [[definite clause(s)]]
