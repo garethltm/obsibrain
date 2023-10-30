@@ -8,7 +8,7 @@
 		- [[Hill-Climbing with side-way moves]]
 		- [[Tabu Search]]
 		- [[Enforced Hill-Climbing]]
-	- [[Stochastic Local Search (SLS)]] (Simulated annealing & other [[Stochastic]] methods)
+	- [[Stochastic Local Search (SLS)]] ([[Stochastic Search]])
 		- [[First Choice Hill-Climbing]]
 		- [[Stochastic Hill-Climbing]]
 		- [[Random Walk Hill-Climbing]]

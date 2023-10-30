@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week04/Local Search.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week03/Stochastic Search.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week04/Local Search.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week03/Stochastic Search.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week04/Local Search.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week03/Stochastic Search.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week04/Local Search.md"
+                "file": "COMPSCI367 - Artificial Intelligence/week03/Stochastic Search.md"
               }
             }
           },
@@ -153,7 +153,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week04/Local Search.md"
+                "file": "COMPSCI367 - Artificial Intelligence/week03/Stochastic Search.md"
               }
             }
           }
@@ -178,6 +178,9 @@
   },
   "active": "766f3d6bf8798b3a",
   "lastOpenFiles": [
+    "COMPSCI367 - Artificial Intelligence/week04/Local Search.md",
+    "COMPSCI367 - Artificial Intelligence/week04/Stochastic Local Search (SLS).md",
+    "COMPSCI367 - Artificial Intelligence/week03/Stochastic Search.md",
     "COMPSCI367 - Artificial Intelligence/week04/Continuous Space (Continuous Functions).md",
     "COMPSCI367 - Artificial Intelligence/week04/Gradient descent.md",
     "COMPSCI367 - Artificial Intelligence/week04/gradient.md",
@@ -196,15 +199,12 @@
     "COMPSCI367 - Artificial Intelligence/week04/Random Walk Hill-Climbing.md",
     "COMPSCI367 - Artificial Intelligence/week04/Stochastic Hill-Climbing.md",
     "COMPSCI367 - Artificial Intelligence/week04/First Choice Hill-Climbing.md",
-    "COMPSCI367 - Artificial Intelligence/week04/Stochastic Local Search (SLS).md",
     "COMPSCI367 - Artificial Intelligence/week04/Tabu Search.md",
     "COMPSCI367 - Artificial Intelligence/week04/Tabu list.md",
     "COMPSCI367 - Artificial Intelligence/week04/Enforced Hill-Climbing.md",
     "COMPSCI367 - Artificial Intelligence/week04/Hill-Climbing with side-way moves.md",
     "COMPSCI367 - Artificial Intelligence/week04/Hill-Climbing with side-way moves on the 8-Queens.md",
     "COMPSCI367 - Artificial Intelligence/week04/Diagonal ridges.md",
-    "COMPSCI367 - Artificial Intelligence/week04/Iterative Best Improvement (IBI).md",
-    "COMPSCI367 - Artificial Intelligence/week04/greedy choice.md",
     "@images/Pasted image 20231030220007.png",
     "@images/Pasted image 20231030215934.png",
     "COMPSCI367 - Artificial Intelligence/finals prep.canvas",
