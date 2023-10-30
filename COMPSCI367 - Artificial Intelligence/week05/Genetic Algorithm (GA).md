@@ -22,4 +22,5 @@
 What are the weakness of [[Local beam Search]] algorithm?
 - sometimes the search would only concentrate on a certain solution's neighbour depending on the fitness values
 
-What modification to the algo
+What modification to the algorithm you can do to mitigate this problem?
+- adding some randomness to the search
