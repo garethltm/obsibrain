@@ -1,8 +1,9 @@
 ![[Pasted image 20231022032622.png]]
 - Last In First Out
 - expands one of the nodes at the deepest level of the tree
-- implementation:
-    - implementing the [[frontier (open list, fringe)]] as a [[stack]]
+
+## Implementation
+- implementing the [[frontier (open list, fringe)]] as a [[stack]]
     - can alternatively be implemented by recursive function calls
 - in [[Depth-First Search (DFS)]], like [[Breadth-First Search (BFS)]], the order in which the [[path(s)]] are expanded does not depend on the [[goal(s) - goal state(s)]]
 
