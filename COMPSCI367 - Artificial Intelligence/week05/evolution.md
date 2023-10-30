@@ -1,6 +1,6 @@
 ![[Pasted image 20231023180933.png]]
 ### The idea of [[evolution]]
-- every individual of a given species is evaluated based on how hit they are to the [[environment]]
+- every individual of a given species is evaluated based on how fit([[fitness]]) they are to the [[environment]]
 #### Necessary conditions of [[evolution]]
 - a [[population]] of individuals
 - Variety among individuals
