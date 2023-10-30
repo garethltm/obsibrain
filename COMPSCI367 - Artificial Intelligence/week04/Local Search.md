@@ -1,6 +1,6 @@
 ### Summary
 - returns a [[solution(s)]]
-	- doesn't maintain a path
+	- doesn't maintain a path ("only a current [[state(s)]]")
 - Many [[Constraint Satisfaction Problem (CSPs)]] can be formulated as [[Local Search]]
 - General families of algorithms:
 	- [[Local Search]] + [[Gradient descent]]
