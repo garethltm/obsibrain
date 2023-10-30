@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week03/Backtracking Search.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week03/Minimum Remaining Values (MRV).md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week03/Backtracking Search.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week03/Minimum Remaining Values (MRV).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week03/Backtracking Search.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week03/Minimum Remaining Values (MRV).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week03/Backtracking Search.md"
+                "file": "COMPSCI367 - Artificial Intelligence/week03/Minimum Remaining Values (MRV).md"
               }
             }
           },
@@ -153,7 +153,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week03/Backtracking Search.md"
+                "file": "COMPSCI367 - Artificial Intelligence/week03/Minimum Remaining Values (MRV).md"
               }
             }
           }
@@ -178,6 +178,9 @@
   },
   "active": "766f3d6bf8798b3a",
   "lastOpenFiles": [
+    "COMPSCI367 - Artificial Intelligence/week03/Backtracking Search.md",
+    "COMPSCI367 - Artificial Intelligence/week03/Forward Checking.md",
+    "COMPSCI367 - Artificial Intelligence/week03/Arc Consistency.md",
     "COMPSCI367 - Artificial Intelligence/week03/Path Search vs CSPs.md",
     "COMPSCI367 - Artificial Intelligence/week02/constraint(s).md",
     "COMPSCI367 - Artificial Intelligence/week03/Binary CSP.md",
@@ -203,9 +206,6 @@
     "COMPSCI367 - Artificial Intelligence/week02/Depth-Limited Search (DLS).md",
     "COMPSCI367 - Artificial Intelligence/week02/Depth-First Search (DFS).md",
     "COMPSCI367 - Artificial Intelligence/week02/Stack.md",
-    "COMPSCI367 - Artificial Intelligence/week01/Reflex (Model-Based) Agent.md",
-    "COMPSCI367 - Artificial Intelligence/week01/Reactive Agent.md",
-    "COMPSCI367 - Artificial Intelligence/week01/Planning Agent.md",
     "COMPSCI367 - Artificial Intelligence/finals prep.canvas",
     "@images/Markov_vs_Bayes_(adapted_in_part_from_Koller_and_Friedman_2009)_(smaller).png",
     "@images/COMPSCI3672022_S2W09Lecture25AIinSociety28129-21.jpg",
