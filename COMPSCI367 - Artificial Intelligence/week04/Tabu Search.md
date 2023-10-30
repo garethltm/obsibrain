@@ -1,5 +1,5 @@
 - A resolution to the problem of [[Hill-Climbing]] not remembering (because it can end up in the same [[state(s)]] again)
-	- it stores a certain amount of states that we visited then adding the ==most recent & removing the oldest one==
+	- it stores a certain amount of [[state(s)]] that we visited then adding the ==most recent & removing the oldest one==
 		- which helps to avoid the same [[state(s)]] twice
 - Prevents returning quickly to the same [[state(s)]]
 	-  implements a [[Tabu list]]
