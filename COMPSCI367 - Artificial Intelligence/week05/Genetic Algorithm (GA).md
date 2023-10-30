@@ -17,4 +17,9 @@
 #### Framework
 - [[Genetic Algorithm (GA)]] maintains a [[population]] of [[candidate solution]]
 - Chromosomes are representations of [[candidate solution]] that determines [[fitness]]
-- [[crossover operation]] & [[mutation operation]] for generating offsprings
+- [[crossover operation]] & [[mutation operation]] for generating offspring
+
+What are the weakness of [[Local beam Search]] algorithm?
+- sometimes the search would only concentrate on a certain solution's neighbour depending on the fitness values
+
+What modification to the algo
