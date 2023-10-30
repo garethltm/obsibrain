@@ -1,5 +1,5 @@
 - solves the infinite loop **problem** of [[Depth-First Search (DFS)]]
-	- expands nodes like [[Depth-First Search (DFS)]] but cutoff  at maxium
+	- expands nodes like [[Depth-First Search (DFS)]] but cutoff at maximum depth of [[path(s)]]
 
 ## Properties
 - [[Complete]]
