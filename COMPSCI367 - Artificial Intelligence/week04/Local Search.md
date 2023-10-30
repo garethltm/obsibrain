@@ -47,6 +47,8 @@ In many optimisation problems:
 - number of runs
 	- specify when to stop
 		- Travelling Salesperson Problem
+## [[heuristic(s)]] 
+- this allows the algo
 
 ## Steps
 1. we start from some [[initial state (start state)]]
