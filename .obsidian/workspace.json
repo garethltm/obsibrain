@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week04/Local Search in Continuous Space.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week04/Local Search.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week04/Local Search in Continuous Space.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week04/Local Search.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week04/Local Search in Continuous Space.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week04/Local Search.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week04/Local Search in Continuous Space.md"
+                "file": "COMPSCI367 - Artificial Intelligence/week04/Local Search.md"
               }
             }
           },
@@ -153,7 +153,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week04/Local Search in Continuous Space.md"
+                "file": "COMPSCI367 - Artificial Intelligence/week04/Local Search.md"
               }
             }
           }
@@ -176,8 +176,9 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "3ad179677b7fba41",
+  "active": "766f3d6bf8798b3a",
   "lastOpenFiles": [
+    "COMPSCI367 - Artificial Intelligence/week04/Local Search in Continuous Space.md",
     "COMPSCI367 - Artificial Intelligence/week03/Constraint Satisfaction Problem (CSPs).md",
     "COMPSCI367 - Artificial Intelligence/week03/Backtracking Search.md",
     "COMPSCI367 - Artificial Intelligence/week03/branching factor(s).md",
@@ -205,7 +206,6 @@
     "COMPSCI367 - Artificial Intelligence/week02/Informed Search.md",
     "COMPSCI367 - Artificial Intelligence/week02/heuristic(s).md",
     "COMPSCI367 - Artificial Intelligence/week03/Iterative Deepening A-Star Search (IDA).md",
-    "COMPSCI367 - Artificial Intelligence/week03/Iterative Improvement.md",
     "COMPSCI367 - Artificial Intelligence/finals prep.canvas",
     "@images/Markov_vs_Bayes_(adapted_in_part_from_Koller_and_Friedman_2009)_(smaller).png",
     "@images/COMPSCI3672022_S2W09Lecture25AIinSociety28129-21.jpg",

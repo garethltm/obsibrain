@@ -3,6 +3,7 @@
 - Start from some [[state(s)]] & "move" from present location(s) to neighbouring location(s). 
 	- These moves are determined by the present location(s).
 - Not guaranteed to be [[complete]]
+	- can go from 1 neighbour to another then get stuck
 - [[Single-agent]] environment
 - designed to solve large complex search problems with small memory ([[Space Complexity]])
 	- small memory because you only need to know the [[current state]]
