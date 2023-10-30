@@ -2,7 +2,7 @@
 	- similar to [[Breadth-First Search (BFS)]] but it selects a [[path(s)]] with the ==lowest cost==
 	- the [[frontier (open list, fringe)]] is implemented as a [[Priority Queue]] ordered by the ==cost function==
 
-[[Uniform-Cost Search (UCS) (Lowest-Cost-First Search)]] is basically ==[[Breadth-First Search (BFS)]]== but with cost associated with its arcs
+[[Uniform-Cost Search (UCS) (Lowest-Cost-First Search)]] is basically ==[[Breadth-First Search (BFS)]]== but sorts [[Queue]] using the [[path cost]]
 - if all costs are the same, then use [[Breadth-First Search (BFS)]]
 
 **Sometimes there are cost associated with [[arc]]. The cost of a [[path(s)]] is the sum of the cost of its [[arc]]**
