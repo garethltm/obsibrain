@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week08/axioms.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week08/First-Order Formulas.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week08/axioms.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week08/First-Order Formulas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week08/axioms.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week08/First-Order Formulas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week08/axioms.md"
+                "file": "COMPSCI367 - Artificial Intelligence/week08/First-Order Formulas.md"
               }
             }
           },
@@ -153,7 +153,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week08/axioms.md"
+                "file": "COMPSCI367 - Artificial Intelligence/week08/First-Order Formulas.md"
               }
             }
           }
@@ -178,15 +178,16 @@
   },
   "active": "766f3d6bf8798b3a",
   "lastOpenFiles": [
+    "COMPSCI367 - Artificial Intelligence/week08/First-Order Interpretation.md",
+    "COMPSCI367 - Artificial Intelligence/week08/First-Order Logic.md",
+    "COMPSCI367 - Artificial Intelligence/week08/axioms.md",
+    "@images/Pasted image 20231031114623.png",
     "COMPSCI367 - Artificial Intelligence/week08/theorem.md",
     "@images/Pasted image 20231031114600.png",
-    "COMPSCI367 - Artificial Intelligence/week08/axioms.md",
     "COMPSCI367 - Artificial Intelligence/week06/sentence(s).md",
     "COMPSCI367 - Artificial Intelligence/week08/Free variables.md",
     "COMPSCI367 - Artificial Intelligence/week08/term(s).md",
     "COMPSCI367 - Artificial Intelligence/week08/signature.md",
-    "COMPSCI367 - Artificial Intelligence/week08/First-Order Logic.md",
-    "COMPSCI367 - Artificial Intelligence/week08/First-Order Interpretation.md",
     "COMPSCI367 - Artificial Intelligence/week08/First-Order Logic Inference.md",
     "COMPSCI367 - Artificial Intelligence/week08/alphabet.md",
     "@images/Pasted image 20231031113518.png",
@@ -205,7 +206,6 @@
     "COMPSCI367 - Artificial Intelligence/week06/Equivalence between inference & satisfiability.md",
     "COMPSCI367 - Artificial Intelligence/week06/DPLL algorithm.md",
     "COMPSCI367 - Artificial Intelligence/week06/Logic Inference vs Constraint Satisfaction.md",
-    "COMPSCI367 - Artificial Intelligence/week06/Inference engines (IE).md",
     "@images/Pasted image 20231031015949.png",
     "@images/Pasted image 20231031015932.png",
     "@images/Pasted image 20231031015925.png",
@@ -214,7 +214,6 @@
     "@images/Pasted image 20231030220007.png",
     "@images/Pasted image 20231030215934.png",
     "COMPSCI367 - Artificial Intelligence/finals prep.canvas",
-    "@images/Markov_vs_Bayes_(adapted_in_part_from_Koller_and_Friedman_2009)_(smaller).png",
     "COMPSCI367 - Artificial Intelligence/week12",
     "COMPSCI367 - Artificial Intelligence/week11",
     "COMPSCI367 - Artificial Intelligence/week08",
