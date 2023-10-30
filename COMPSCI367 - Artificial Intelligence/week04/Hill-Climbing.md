@@ -17,6 +17,8 @@
 - Main problem: depending on [[initial state (start state)]], can get stuck in local maxima
 ![[Pasted image 20231022160343.png]]
 > Note: these difficulties apply to all [[Local Search]] algorithms, and usually becomes much worse as the search space becomes higher dimensional
+
+### Problems
 1. Local maxima
 2. Plateaus
 3. [[Diagonal ridges]]
