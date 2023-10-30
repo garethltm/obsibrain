@@ -26,5 +26,8 @@ The search space for this [[Depth-First Search (DFS)]] has certain very specific
 ### Improvements to Backtracking Search
 General-purpose methods can give huge gains in speed:
 - Which variable should be assigned next?
+	- [[Minimum Remaining Values (MRV)]] + [[degree heuristic]]
 - In what order should its values be tried?
+	- [[Least Constraining Value]]
 - Can we detect inevitable failure early?
+	- [[Forward Checking]] with Arc consistency
