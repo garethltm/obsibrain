@@ -17,5 +17,5 @@
     - $O(b^d)$ nodes at the top level are expanded once, nodes at the next level twice,...
 - [[Space Complexity]]
     - $O(bd)$
-- [[Optimal]]
+- [[optimal]]
     - Yes, if step costs are identical

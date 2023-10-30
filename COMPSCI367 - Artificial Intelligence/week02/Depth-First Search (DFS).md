@@ -24,7 +24,7 @@
 3. [[Space Complexity]]
     - $O(bm)$
 	    - linear space
-4. [[Optimal]]
+4. [[optimal]]
     - No, can be [[suboptimal]] [[solution(s)]] first
 	    - there is a chance that [[Depth-First Search (DFS)]] can hit a [[goal(s) - goal state(s)]] due to random chance as [[Breadth-First Search (BFS)]] would systematically go through the search by levels
 

@@ -23,18 +23,18 @@
 **Heuristic estimate f(n)** of the cost of the cheapest paths from s to t via n:
 **f(n)** = **g(n)** + **h(n)**
 - **g(n)** is the **cost of an optimal path** from s to n
-- **h(n)** is an **estimate of the cost of an [[Optimal]] path** from n to t
+- **h(n)** is an **estimate of the cost of an [[optimal]] path** from n to t
 
-#### Is [[A-Star Search]] [[Optimal]] & [[Complete]]?
+#### Is [[A-Star Search]] [[optimal]] & [[Complete]]?
 - Yes, provided h(n) is [[Admissible heuristic]] 
-- ##### Conditions for [[Optimal]]
+- ##### Conditions for [[optimal]]
 	- $∀n h(n) ≤ y(n)$
 		- where y(n) is the true cost from n to the [[goal(s) - goal state(s)]]
 	- If h is [[Admissible heuristic]] then **f(n)** **never overestimates** the actual cost of the best solution through n
 	- Theorem: [[A-Star Search]] finds optimal solution if **h(n)** is [[Admissible heuristic]]
 
 Hence, the theorem:
-**_If h(n) is [[Consistent Heuristics]], [[A-Star Search]] is [[Optimal]]***
+**_If h(n) is [[Consistent Heuristics]], [[A-Star Search]] is [[optimal]]***
 
 ### A-Star Graph Search gone WRONG
 ![[Pasted image 20231023155524.png]]
@@ -51,7 +51,7 @@ Hence, the theorem:
     - $O(b^d)$ 
 - [[Space Complexity]]
     - $O(b^d)$ - Keeps all nodes in memory
-- [[Optimal]]
+- [[optimal]]
     - Yes (assuming h is [[Admissible heuristic]])
 
 ## Summary:

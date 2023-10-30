@@ -37,6 +37,6 @@
 	-  $+ b^2+b^3+…+b^d = O(b^d)$
 3. [[Space Complexity]]
 	- $O(b^d)$ - as it keeps every node in memory, where it generates all the nodes up to level d
-4. [[Optimal]]
+4. [[optimal]]
 	- Yes - only if all the [[action(s)]] have the same cost
 

@@ -17,7 +17,7 @@ The threshold is steadily increased with each successive search. It starts at th
 - [[Space Complexity]] (similar to [[Depth-First Search (DFS)]])
 	- $O(bd)$ 
 		- it need only store a [[stack]] of nodes which represents the branch of the tree it is expanding
-- [[Optimal]]
+- [[optimal]]
 	- Yes 
 		- (assuming $h(n)$ is [[Admissible heuristic]])
 

@@ -11,7 +11,7 @@
 - [[Space Complexity]]
     - $O(bk)$ 
 	    - linear space similar to [[Depth-First Search (DFS)]]
-- [[Optimal]]
+- [[optimal]]
     - No, can find [[suboptimal]] [[solution(s)]] first
 	1. If u set the limit at the level of the [[solution(s)]] 
 		- it is supposed to find it at the shallowest level. 

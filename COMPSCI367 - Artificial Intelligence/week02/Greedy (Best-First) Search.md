@@ -19,7 +19,7 @@
 	- $O(b^m)$, where m is the maximum depth in search space
 - [[Space Complexity]]
 	- $O(b^m)$ (retains all nodes in memory)
-- [[Optimal]]
+- [[optimal]]
 	- No!
 
 >[[Greedy (Best-First) Search]] has the same time deficits as [[Depth-First Search (DFS)]]. 

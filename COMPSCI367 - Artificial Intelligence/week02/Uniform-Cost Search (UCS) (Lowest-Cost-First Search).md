@@ -30,7 +30,7 @@
 	-  $O(b^[1+\frac C ε])$
 		- number will depend on that minimum cost associated to an [[arc]] to that ε
 		- smaller the ε means more nodes we might need to store in our [[frontier (open list, fringe)]]
-4. [[Optimal]]
+4. [[optimal]]
 	- Yes, if nodes expanded in increasing order of `g(n)`![[Pasted image 20231022030918.png]]
 > ε (epsilon) - least-cost [[action(s)]] 
 > C - cost of the optimal [[solution(s)]]
