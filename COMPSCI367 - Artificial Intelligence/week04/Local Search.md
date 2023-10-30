@@ -41,7 +41,12 @@ In many optimisation problems:
 	- you can use the [[heuristic(s)]] value as a termination test in some problems
 		- n-queens
 - [[Goal test]] 
-	- you can use a [[Goal test]] like in [[system]]
+	- you can use a [[Goal test]] like in [[Systematic Search]].
+		- this will work in sudoku or n-queens
+		- cannot have a "complete [[goal(s) - goal state(s)]]" because the problem will already be solved
+- number of runs
+	- specify when to stop
+		- Travelling Salesperson Problem
 
 ## Steps
 1. we start from some [[initial state (start state)]]
