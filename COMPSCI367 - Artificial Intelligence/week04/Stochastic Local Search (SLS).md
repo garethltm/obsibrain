@@ -2,6 +2,6 @@
 	- Initialisation: Random start
 	- Tie breaking: Random tie breaking
 	- Step function:
-		> random ordering of successors (first-choice [[Hill-Climbing]]), random [[Tabu Search]] tenure
+		> random ordering of successors ([[First Choice Hill-Climbing]]), random [[Tabu Search]] tenure
 - [[Local Search]] strategies introduced earlier can all be extended by [[Stochastic Local Search (SLS)]]
 
