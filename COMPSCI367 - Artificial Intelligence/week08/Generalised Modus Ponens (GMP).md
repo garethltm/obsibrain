@@ -1,3 +1,3 @@
 - Idea of substituting constants into variables 
 
-Related to: [[Unification]] 
+Related to: [[Unification]], [[First-Order Logic]]
