@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week08/Generalised Modus Ponens (GMP).md",
+                "file": "COMPSCI367 - Artificial Intelligence/week08/Unification.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week08/Generalised Modus Ponens (GMP).md",
+                "file": "COMPSCI367 - Artificial Intelligence/week08/Unification.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week08/Generalised Modus Ponens (GMP).md",
+                "file": "COMPSCI367 - Artificial Intelligence/week08/Unification.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week08/Generalised Modus Ponens (GMP).md"
+                "file": "COMPSCI367 - Artificial Intelligence/week08/Unification.md"
               }
             }
           },
@@ -153,7 +153,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week08/Generalised Modus Ponens (GMP).md"
+                "file": "COMPSCI367 - Artificial Intelligence/week08/Unification.md"
               }
             }
           }
@@ -178,6 +178,7 @@
   },
   "active": "766f3d6bf8798b3a",
   "lastOpenFiles": [
+    "COMPSCI367 - Artificial Intelligence/week08/Generalised Modus Ponens (GMP).md",
     "COMPSCI367 - Artificial Intelligence/week08/First-Order KB.md",
     "COMPSCI367 - Artificial Intelligence/week08/Satisfaction relation.md",
     "COMPSCI367 - Artificial Intelligence/367 summary.md",
@@ -206,7 +207,6 @@
     "COMPSCI367 - Artificial Intelligence/week07/Definite Clause Inference Engine.md",
     "COMPSCI367 - Artificial Intelligence/week07/Definite Clause Knowledge Base.md",
     "COMPSCI367 - Artificial Intelligence/week06/Propositional Logic Inference Engine.md",
-    "COMPSCI367 - Artificial Intelligence/week06/logical consequence.md",
     "@images/Pasted image 20231031015949.png",
     "@images/Pasted image 20231031015932.png",
     "@images/Pasted image 20231031015925.png",
