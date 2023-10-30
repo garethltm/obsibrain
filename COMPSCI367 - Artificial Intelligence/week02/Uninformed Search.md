@@ -1,3 +1,4 @@
+can only distinguish between [[Goal(s) - Goal State(s)]] 
 # Types of Uninformed Search
 - [[Breadth-First Search (BFS)]]
 - [[Uniform-Cost Search (UCS) (Lowest-Cost-First Search)]]
