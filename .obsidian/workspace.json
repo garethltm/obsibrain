@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/Untitled.md",
+                "file": "COMPSCI367 - Artificial Intelligence/367 summary.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/Untitled.md",
+                "file": "COMPSCI367 - Artificial Intelligence/367 summary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/Untitled.md",
+                "file": "COMPSCI367 - Artificial Intelligence/367 summary.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/Untitled.md"
+                "file": "COMPSCI367 - Artificial Intelligence/367 summary.md"
               }
             }
           },
@@ -153,7 +153,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/Untitled.md"
+                "file": "COMPSCI367 - Artificial Intelligence/367 summary.md"
               }
             }
           }
@@ -178,9 +178,12 @@
   },
   "active": "766f3d6bf8798b3a",
   "lastOpenFiles": [
-    "COMPSCI367 - Artificial Intelligence/week05/(partially) cooperative multi-agent environment.md",
-    "COMPSCI367 - Artificial Intelligence/Untitled.md",
+    "COMPSCI367 - Artificial Intelligence/week04/Local Search.md",
+    "COMPSCI367 - Artificial Intelligence/week04/Annealing.md",
+    "COMPSCI367 - Artificial Intelligence/week04/Bernoulli random variable.md",
+    "COMPSCI367 - Artificial Intelligence/367 summary.md",
     "COMPSCI367 - Artificial Intelligence/week05/Genetic Algorithm (GA).md",
+    "COMPSCI367 - Artificial Intelligence/week05/(partially) cooperative multi-agent environment.md",
     "COMPSCI367 - Artificial Intelligence/week05/Stochastic Beam Search (SBS).md",
     "COMPSCI367 - Artificial Intelligence/week05/fitness.md",
     "COMPSCI367 - Artificial Intelligence/week05/Boltzmann distribution.md",
@@ -193,7 +196,6 @@
     "COMPSCI367 - Artificial Intelligence/week02/Time Complexity.md",
     "COMPSCI367 - Artificial Intelligence/week02/Space Complexity.md",
     "COMPSCI367 - Artificial Intelligence/week04/Stochastic Local Search (SLS).md",
-    "COMPSCI367 - Artificial Intelligence/week04/Local Search.md",
     "COMPSCI367 - Artificial Intelligence/week03/Stochastic Search.md",
     "COMPSCI367 - Artificial Intelligence/week04/Continuous Space (Continuous Functions).md",
     "COMPSCI367 - Artificial Intelligence/week04/Gradient descent.md",
@@ -203,8 +205,6 @@
     "COMPSCI367 - Artificial Intelligence/week04/Optimisation of Continuous Functions.md",
     "@images/Pasted image 20231031003708.png",
     "COMPSCI367 - Artificial Intelligence/week04/Random Walk & Random Restart Hill-Climbing.md",
-    "COMPSCI367 - Artificial Intelligence/week04/Probabilistic Approximately Complete (PAC).md",
-    "COMPSCI367 - Artificial Intelligence/week11/Local Markov Property.md",
     "@images/Pasted image 20231030220007.png",
     "@images/Pasted image 20231030215934.png",
     "COMPSCI367 - Artificial Intelligence/finals prep.canvas",
