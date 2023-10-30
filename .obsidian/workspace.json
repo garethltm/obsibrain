@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week05/Genetic Algorithm (GA).md",
+                "file": "COMPSCI367 - Artificial Intelligence/week05/Stochastic Beam Search (SBS).md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week05/Genetic Algorithm (GA).md",
+                "file": "COMPSCI367 - Artificial Intelligence/week05/Stochastic Beam Search (SBS).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week05/Genetic Algorithm (GA).md",
+                "file": "COMPSCI367 - Artificial Intelligence/week05/Stochastic Beam Search (SBS).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week05/Genetic Algorithm (GA).md"
+                "file": "COMPSCI367 - Artificial Intelligence/week05/Stochastic Beam Search (SBS).md"
               }
             }
           },
@@ -153,7 +153,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week05/Genetic Algorithm (GA).md"
+                "file": "COMPSCI367 - Artificial Intelligence/week05/Stochastic Beam Search (SBS).md"
               }
             }
           }
@@ -178,8 +178,8 @@
   },
   "active": "766f3d6bf8798b3a",
   "lastOpenFiles": [
-    "COMPSCI367 - Artificial Intelligence/week05/Stochastic Beam Search (SBS).md",
     "COMPSCI367 - Artificial Intelligence/week05/Genetic Algorithm (GA).md",
+    "COMPSCI367 - Artificial Intelligence/week05/Stochastic Beam Search (SBS).md",
     "COMPSCI367 - Artificial Intelligence/367 summary.md",
     "COMPSCI367 - Artificial Intelligence/week05/chromosomes.md",
     "COMPSCI367 - Artificial Intelligence/week05/mutation operation.md",

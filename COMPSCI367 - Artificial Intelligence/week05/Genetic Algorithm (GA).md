@@ -1,7 +1,7 @@
 - [[Search Techniques (Search Strategy) (Search Algorithm)]] inspired by [[genetics]] & [[evolution]] in biology
 - a variation of [[Stochastic Beam Search (SBS)]] that generates every [[successor(s)]] using 2 [[candidate solution]]
 - [[Genetic Algorithm (GA)]] does not converge quickly because of the amount of diversity
-- [[Genetic Algorithm (GA)]] 
+- [[Genetic Algorithm (GA)]] does not have memory as it is a fixed-size of [[population]] M
 
 ![[Pasted image 20231023181930.png]]
 
