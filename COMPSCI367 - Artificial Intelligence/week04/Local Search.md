@@ -36,8 +36,12 @@ In many optimisation problems:
 	>- We can use [[Iterative Improvement]] [[algorithm]] to keep a single "current" state, try to improve it
 	>- Constant space, suitable for online as well as offline search
 
-## Algorithms
-- [[Hill-Climbing]]
+## Stopping Criteria
+- [[heuristic(s)]]
+	- you can use the [[heuristic(s)]] value as a termination test in some problems
+		- n-queens
+- [[Goal test]] 
+	- you can use a [[Goal test]] like in [[system]]
 
 ## Steps
 1. we start from some [[initial state (start state)]]
