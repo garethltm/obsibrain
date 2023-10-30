@@ -10,6 +10,14 @@
 - [[A-Star Search]]
 - [[Iterative Deepening A-Star Search (IDA)]]
 
+## Constraint Satisfaction Problems
+1. [[Backtracking Search]] 
+	- [[Minimum Remaining Values (MRV)]]
+	- [[Least Constraining Value]]
+	- [[Forward Checking]]
+	- [[Variable Elimination]]
+
+
 - Many configuration & optimisation problems ([[Constraint Satisfaction Problem (CSPs)]]) can be formulated as [[Local Search]]
 - General families of [[algorithm]]:
 	- [[Local Search]] + [[Gradient descent]]
@@ -23,10 +31,9 @@
 		- [[Random Walk Hill-Climbing]]
 		- [[Random-Restart Hill Climbing]]
 		- [[Simulated Annealing]]
-	- [[Population-based Search]]
 > Many machine learning algorithms are [[Local Search]]- 
 
-## Population-based Algorithms
+## Population-based Search
 - [[Population-based Search]] conducts search by maintaining & updating a collection of [[candidate solution]]
 - [[Local beam Search]] is an adaptation of [[Iterative Best Improvement (IBI)]] by maintaining M > 1 [[candidate solution]]
 - [[Stochastic Beam Search (SBS)]] aims to avoid [[Local beam Search]] concentration on a narrow [[path(s)]] by using [[Boltzmann distribution]]
