@@ -7,5 +7,5 @@
 
 - a [[World Model]] that describes the [[world(s)]] using variables, while capturing the following:
 	- [[knowledge]] - connection between 2 variables
-	- [[Reasoning]]
+	- [[Reasoning]] - derive value of other variables
 ![[Pasted image 20231023202816.png]]
