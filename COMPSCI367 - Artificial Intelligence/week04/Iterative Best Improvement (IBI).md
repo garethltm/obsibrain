@@ -10,4 +10,4 @@
 
 ## Algorithms
 1. [[Hill-Climbing]]
-2. [[greed]]
+2. [[Greedy Descent]]

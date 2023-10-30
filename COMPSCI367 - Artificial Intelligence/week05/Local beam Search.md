@@ -1,4 +1,4 @@
-- adaptation of [[Iterative Best Improvement (IBI)]] by maintaining M assignments
+- adaptation of [[Iterative Best Improvement (IBI)]] by maintaining ==M assignments==
 	- where M ≥ 1 is a parameter
 - fixed size 
 	- therefore, memory is not needed
