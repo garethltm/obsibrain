@@ -6,9 +6,9 @@
 - ==[[Local Search]] strategies== introduced earlier ==can all be extended== by [[Stochastic Local Search (SLS)]]
 
 ## Types
-- [[First Choice Hill-Climbing]]
-- [[Stochastic Hill-Climbing]]
-- [[Random Walk Hill-Climbing]]
-- [[Random-Restart Hill Climbing]]
+- [[First Choice Hill-Climbing]] - choose first better random child
+- [[Stochastic Hill-Climbing]] - choose probabilistically from among better children based on their [[fitness]]
+- [[Random Walk Hill-Climbing]] - choose probabilistically between best child & random child
+- [[Random-Restart Hill Climbing]] - do any 
 - [[Simulated Annealing]]
 
