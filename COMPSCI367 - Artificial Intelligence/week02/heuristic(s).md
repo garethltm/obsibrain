@@ -1,4 +1,4 @@
-- a function that **estimates** how close a [[state(s)]] is to a [[goal(s) - goal state(s)]]
+- a function that ==**estimates**== how close a [[state(s)]] is to a [[goal(s) - goal state(s)]]
 - a [[solution(s)]] to relaxed problems, where some of the [[constraint(s)]] of the original problem have been removed
 - Heuristics are “rules of thumb”
 - Heuristics are criteria, methods or principles for deciding which among several alternative courses of [[action(s)]] promises to be the most effective in order to achieve some [[goal(s) - goal state(s)]]
