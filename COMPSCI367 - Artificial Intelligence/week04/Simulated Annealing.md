@@ -17,10 +17,10 @@
 Depending on your problem, your convergence can be very slow. If you have a "big drop" in your temperature scale
 	What if you have a lot of local minima on the way?
 	You overcome the 1st local minima
-		You will start generating a lot of states that won't be accepted - gets lower & lower you can get stuck in a local minima
+		You will start generating a lot of states that won't be accepted - gets lower & lower = you can get stuck in a local minima
 ## Properties
 - convergence might take a VERY long time
 - often works very well in practice
 	- but usually VERY slow
-		- slowness comes about because [[temperature T]] must be decreased very gradually to retain optimality
+		- ==slowness comes about because [[temperature T]] must be decreased very gradually to retain optimality==
 - [[Simulated Annealing]] & its relatives are a key workhorse in VLSI layout & other [[optimal]] configuration problems
