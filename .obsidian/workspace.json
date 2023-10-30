@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week08/First-Order Interpretation.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week08/alphabet.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week08/First-Order Interpretation.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week08/alphabet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week08/First-Order Interpretation.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week08/alphabet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week08/First-Order Interpretation.md"
+                "file": "COMPSCI367 - Artificial Intelligence/week08/alphabet.md"
               }
             }
           },
@@ -153,7 +153,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week08/First-Order Interpretation.md"
+                "file": "COMPSCI367 - Artificial Intelligence/week08/alphabet.md"
               }
             }
           }
@@ -178,6 +178,8 @@
   },
   "active": "766f3d6bf8798b3a",
   "lastOpenFiles": [
+    "COMPSCI367 - Artificial Intelligence/week08/First-Order Interpretation.md",
+    "COMPSCI367 - Artificial Intelligence/week08/alphabet.md",
     "COMPSCI367 - Artificial Intelligence/week06/sentence(s).md",
     "COMPSCI367 - Artificial Intelligence/week08/model(s).md",
     "COMPSCI367 - Artificial Intelligence/week06/Knowledge Base (KB).md",
@@ -202,8 +204,6 @@
     "COMPSCI367 - Artificial Intelligence/week06/Knowledge Representation Language.md",
     "COMPSCI367 - Artificial Intelligence/week06/Structured Representation.md",
     "COMPSCI367 - Artificial Intelligence/week06/Compound Propositions (Compound Entities).md",
-    "COMPSCI367 - Artificial Intelligence/week06/proposition(s).md",
-    "COMPSCI367 - Artificial Intelligence/week06/Atomic Entities.md",
     "@images/Pasted image 20231031015949.png",
     "@images/Pasted image 20231031015932.png",
     "@images/Pasted image 20231031015925.png",
