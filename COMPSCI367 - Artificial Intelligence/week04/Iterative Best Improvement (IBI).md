@@ -7,3 +7,7 @@
 
 ### Characteristic:
 - Tie break is typically random
+
+## Algorithms
+1. [[Hill-Climbing]]
+2. [[greed]]
