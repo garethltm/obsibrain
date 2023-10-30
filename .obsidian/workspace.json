@@ -11,12 +11,8 @@
             "id": "766f3d6bf8798b3a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week01/PEAS.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -69,7 +65,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "29204b37fc003a9a",
@@ -85,7 +82,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week01/PEAS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +98,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week01/PEAS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +119,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week01/PEAS.md"
-              }
+              "state": {}
             }
           },
           {
@@ -152,9 +145,7 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week01/PEAS.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -176,10 +167,11 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "766f3d6bf8798b3a",
+  "active": "3ad179677b7fba41",
   "lastOpenFiles": [
-    "COMPSCI367 - Artificial Intelligence/week01/Performance measure.md",
+    "COMPSCI367 - Artificial Intelligence/week01/Partially Observable.md",
     "COMPSCI367 - Artificial Intelligence/week01/PEAS.md",
+    "COMPSCI367 - Artificial Intelligence/week01/Performance measure.md",
     "COMPSCI367 - Artificial Intelligence/week01/PAGE.md",
     "COMPSCI367 - Artificial Intelligence/week01/Percepts.md",
     "COMPSCI367 - Artificial Intelligence/week01/Reactive Agent.md",
@@ -205,7 +197,6 @@
     "COMPSCI367 - Artificial Intelligence/week08/First-Order Logic.md",
     "COMPSCI367 - Artificial Intelligence/week06/Propositional Logic.md",
     "COMPSCI367 - Artificial Intelligence/week08/Domain-closure assumption.md",
-    "COMPSCI367 - Artificial Intelligence/week09/Classical Planning.md",
     "@images/COMPSCI3672022_S2W09Lecture25AIinSociety28129-21.jpg",
     "@images/Pasted image 20231026174833.png",
     "@images/Pasted image 20231026174606.png",
