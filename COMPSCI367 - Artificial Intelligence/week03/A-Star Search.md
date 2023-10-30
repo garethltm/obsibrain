@@ -3,6 +3,7 @@
 **[[Greedy (Best-First) Search]]** 
 - orders by **goal proximity** or forward cost: **h(n)**
 *A-Star Search orders by the sum:* f(n) = **g(n)** + **h(n)**
+- Order [[priority queue]] using function **f(n)** = **g(n)** + **h(n)**
 
 [[Uniform-Cost Search (UCS) (Lowest-Cost-First Search)]] minimizes **g(n)**
 - [[optimal]] & [[complete]] but not efficient
@@ -12,13 +13,6 @@
 - combination of both [[Uniform-Cost Search (UCS) (Lowest-Cost-First Search)]] & [[Greedy (Best-First) Search]]
 ### Additional Information
 - preserve efficiency of [[Greedy (Best-First) Search]] but avoid expanding [[path(s)]] that are already expensive
-
-- Use both cost of [[path(s)]] generated & estimate to goal to order nodes on the [[frontier (open list, fringe)]]
-- **f(n)** is the **estimated cost** of the **cheapest solution** extending this [[path(s)]] (through node n)
-- **g(n) = cost of [[path(s)]] from [[initial state (start state)]] to n**; 
-- **h(n) = estimate from n to [[goal(s) - goal state(s)]]**
-- Order [[priority queue]] using function **f(n)** = **g(n)** + **h(n)**
-
 ### Heuristic Function
 ![[Pasted image 20231023151300.png]]
 **Heuristic estimate f(n)** of the cost of the cheapest paths from s to t via n:
