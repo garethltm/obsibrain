@@ -8,7 +8,12 @@
 		- [[Hill-Climbing with side-way moves]]
 		- [[Tabu Search]]
 		- [[Enforced Hill-Climbing]]
-	- [[Stochastic Search]] (Simulated annealing & other [[Stochastic]] methods)
+	- [[Stochastic Local Search (SLS)]] (Simulated annealing & other [[Stochastic]] methods)
+		- [[First Choice Hill-Climbing]]
+		- [[Stochastic Hill-Climbing]]
+		- [[Random Walk Hill-Climbing]]
+		- [[Random-Restart Hill Climbing]]
+		- [[Simulated Annealing]]
 	- [[Population-based Search]]
 > Many machine learning algorithms are [[Local Search]]
 
