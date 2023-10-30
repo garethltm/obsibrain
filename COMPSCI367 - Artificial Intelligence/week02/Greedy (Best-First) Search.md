@@ -4,7 +4,7 @@
     - `h(n)=0` → n is a [[goal(s) - goal state(s)]]
 >	#Example 
 >	[[Greedy (Best-First) Search]] **minimises the estimated cost to the [[goal(s) - goal state(s)]]**; it expands whichever node n is estimated to be closest to the [[goal(s) - goal state(s)]]
-- It treats the [[frontier (open list, fringe)]] as a [[priority queue]] ordered by h
+- It treats the [[frontier (open list, fringe)]] as a [[priority queue]] ordered by [[heuristic(s)]]
 ![[Pasted image 20231023145952.png]]
 ## Properties
 - [[Complete]]
