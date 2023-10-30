@@ -9,4 +9,7 @@
 
 ## Handling a Continuous State/Action Space
 1. [[Discretisation]]
-2. Choose random pertur
+2. Choose random perturbations to the [[state(s)]]
+	- [[First Choice Hill-Climbing]]: keep trying until something improves the [[state(s)]]
+	- [[Simulated Annealing]]
+3. Compute [[gradient]] of f(x) analytically
