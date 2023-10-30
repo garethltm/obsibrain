@@ -1,4 +1,4 @@
-- A [[proposition]] g is called a [[logical consequence]] of a [[Knowledge Base (KB)]] written as
+- A [[proposition(s)]] g is called a [[logical consequence]] of a [[Knowledge Base (KB)]] written as
 $$KB\ \vDash g$$
 		if g is true in every [[model of a propositional KB]]
 

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week06/proposition.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week06/Knowledge Representation Language.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week06/proposition.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week06/Knowledge Representation Language.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week06/proposition.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week06/Knowledge Representation Language.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week06/proposition.md"
+                "file": "COMPSCI367 - Artificial Intelligence/week06/Knowledge Representation Language.md"
               }
             }
           },
@@ -153,7 +153,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week06/proposition.md"
+                "file": "COMPSCI367 - Artificial Intelligence/week06/Knowledge Representation Language.md"
               }
             }
           }
@@ -178,7 +178,9 @@
   },
   "active": "766f3d6bf8798b3a",
   "lastOpenFiles": [
+    "COMPSCI367 - Artificial Intelligence/week06/Structured Representation.md",
     "COMPSCI367 - Artificial Intelligence/week06/Compound Propositions (Compound Entities).md",
+    "COMPSCI367 - Artificial Intelligence/week06/proposition(s).md",
     "COMPSCI367 - Artificial Intelligence/week06/Atomic Entities.md",
     "COMPSCI367 - Artificial Intelligence/week06/Knowledge-based Agents.md",
     "COMPSCI367 - Artificial Intelligence/week06/Knowledge Representation Language.md",
@@ -186,7 +188,6 @@
     "COMPSCI367 - Artificial Intelligence/week06/Offline.md",
     "COMPSCI367 - Artificial Intelligence/week06/Online.md",
     "COMPSCI367 - Artificial Intelligence/week06/Inference Engine Example.md",
-    "COMPSCI367 - Artificial Intelligence/week06/Structured Representation.md",
     "COMPSCI367 - Artificial Intelligence/week06/Reasoning.md",
     "COMPSCI367 - Artificial Intelligence/week02/constraint(s).md",
     "COMPSCI367 - Artificial Intelligence/week06/knowledge.md",
@@ -207,7 +208,6 @@
     "COMPSCI367 - Artificial Intelligence/week05/crossover operation.md",
     "COMPSCI367 - Artificial Intelligence/week05/fitness.md",
     "COMPSCI367 - Artificial Intelligence/week05/Evolution as Search.md",
-    "COMPSCI367 - Artificial Intelligence/week05/evolution.md",
     "@images/Pasted image 20231031003708.png",
     "@images/Pasted image 20231030220007.png",
     "@images/Pasted image 20231030215934.png",

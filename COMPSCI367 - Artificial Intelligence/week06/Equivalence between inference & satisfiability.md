@@ -1,4 +1,4 @@
 - [[Logic Inference Problem]] & [[Constraint Satisfaction Problem (CSPs)]]
-- for [[proposition]] $\alpha$ & $\beta$, 
+- for [[proposition(s)]] $\alpha$ & $\beta$, 
 	- $\alpha \vDash \beta$ if & only if $\alpha \land \neg \beta$ is not [[satisfiable]]
 - Thus, techniques for [[Constraint Satisfaction Problem (CSPs)]] can be used for [[Satisfiability Problem (SAT)]] 

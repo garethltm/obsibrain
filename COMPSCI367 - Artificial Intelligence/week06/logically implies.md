@@ -1,4 +1,4 @@
-A [[proposition]] A [[logically implies]], written as 
+A [[proposition(s)]] A [[logically implies]], written as 
 - A $\implies$ B, if for any [[interpretation]] $\pi$,
 	- if $\pi$(A) = true then $\pi$(B) = true
 >	#Example 

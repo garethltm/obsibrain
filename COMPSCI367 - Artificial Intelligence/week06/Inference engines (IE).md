@@ -1,5 +1,5 @@
 - algorithms that generate new [[constraint(s)]]/facts from [[COMPSCI367 - Artificial Intelligence/week01/Percepts|Percepts]] & [[Knowledge Base (KB)]]
-- decides for any [[Knowledge Base (KB)]], a set of [[percept atoms]], & [[proposition]] g, whether
+- decides for any [[Knowledge Base (KB)]], a set of [[percept atoms]], & [[proposition(s)]] g, whether
 $$ KB\ \cup Percepts\ \vDash g$$
-	The [[proposition]] g is called a query where it is the [[logical consequence]] of $KB \cup Percepts$ 
+	The [[proposition(s)]] g is called a query where it is the [[logical consequence]] of $KB \cup Percepts$ 
 		using the algorithm to help make [[inference(s)]] of the world
