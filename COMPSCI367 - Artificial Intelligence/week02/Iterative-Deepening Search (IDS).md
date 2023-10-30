@@ -5,6 +5,7 @@
 	- **[[Breadth-First Search (BFS)]] ([[optimal]] and [[complete]])** 
 	==by doing a series of **[[Depth-Limited Search (DLS)]]** to depth 1,2,3, etc.==
 - early [[state(s)]] will be expanded multiple times, but that might not matter too much because most of the nodes are near the leaves
+- similar to [[Depth-Limited Search (DLS)]] in terms of 
 ## Finding max path cost
 - Diameter of the [[state space]] - the maximum [[path cost]] between any 2 nodes
 	- this would be a good candidate for a depth limit but it may be difficult to determine in advance
