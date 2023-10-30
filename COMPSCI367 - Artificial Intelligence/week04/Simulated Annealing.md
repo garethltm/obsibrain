@@ -14,7 +14,9 @@
 
 ![[Pasted image 20231023173131.png]]
 ![[Pasted image 20231023173208.png]]
-
+Depending on your problem, your convergence can be very slow. If you have a "big drop" in your temperature scale
+	What if you have a lot of local minima on the way?
+	You overcome the 1st local minima 
 ## Properties
 - convergence might take a VERY long time
 - often works very well in practice
