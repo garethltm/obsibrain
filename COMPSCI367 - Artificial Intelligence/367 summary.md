@@ -40,6 +40,7 @@
 - [[Stochastic Beam Search (SBS)]] aims to avoid [[Local beam Search]] concentration on a narrow [[path(s)]] by using [[Boltzmann distribution]]
 
 ## Genetic Algorithm
+- a variation of [[Stochastic Beam Search (SBS)]] that generates every [[successor(s)]] using 2 [[candidate solution]]
 - to apply the [[evolution]] paradigm as a [[Search Techniques (Search Strategy) (Search Algorithm)]], we need:
 	1. [[candidate solution]] representation: 
 		- the most common representation of a [[candidate solution]] in S (where S is our search space) is [[chromosomes]]
