@@ -1,6 +1,3 @@
-![[Pasted image 20231023150701.png]]
-- combination of both [[Uniform-Cost Search (UCS) (Lowest-Cost-First Search)]] & [[Greedy (Best-First) Search]]
-
 **[[Uniform-Cost Search (UCS) (Lowest-Cost-First Search)]]** 
 - orders by [[path cost]] or backward cost: **g(n)**
 **[[Greedy (Best-First) Search]]** 
@@ -11,7 +8,8 @@
 - [[optimal]] & [[complete]] but not efficient
 [[Greedy (Best-First) Search]] minimizes **h(n)**
 - efficient but not [[optimal]] or [[complete]]
-
+![[Pasted image 20231023150701.png]]
+- combination of both [[Uniform-Cost Search (UCS) (Lowest-Cost-First Search)]] & [[Greedy (Best-First) Search]]
 ### Additional Information
 - preserve efficiency of [[Greedy (Best-First) Search]] but avoid expanding [[path(s)]] that are already expensive
 - Use both cost of [[path(s)]] generated & estimate to goal to order nodes on the [[frontier (open list, fringe)]]
@@ -25,7 +23,7 @@
 **Heuristic estimate f(n)** of the cost of the cheapest paths from s to t via n:
 **f(n)** = **g(n)** + **h(n)**
 - **g(n)** is the **cost of an optimal path** from s to n
-- **h(n)** is an **estimate of the cost of an optimal path** from n to t
+- **h(n)** is an **estimate of the cost of an [[Optimal]] path** from n to t
 
 #### Is [[A-Star Search]] [[Optimal]] & [[Complete]]?
 - Yes, provided h(n) is [[Admissible heuristic]] 
