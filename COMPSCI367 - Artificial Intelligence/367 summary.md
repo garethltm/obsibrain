@@ -47,3 +47,7 @@
 	2. [[fitness]]
 	3. [[crossover operation]] & [[mutation operation]]
 		- these are for generating offsprings
+
+![[First-Order Interpretation]]
+
+![[First-Order Formulas]]
