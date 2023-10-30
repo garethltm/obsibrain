@@ -1,4 +1,4 @@
-can only distinguish between [[Goal(s) - Goal State(s)]] 
+can only distinguish between [[goal(s) - goal state(s)]] from non-goal states
 # Types of Uninformed Search
 - [[Breadth-First Search (BFS)]]
 - [[Uniform-Cost Search (UCS) (Lowest-Cost-First Search)]]
