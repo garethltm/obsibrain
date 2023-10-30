@@ -1,5 +1,5 @@
 - [[Definite Clause Inference Engine]] need to handle queries of form `ask b` where b is an [[Atomic Propositions (atoms)]]
-	- only asking True/False of just one [[atiom]]
+	- only asking True/False of just one [[Atomic Propositions (atoms)]]
 
 ## Implementing a definite clause inference engine
 - [[Inference engines (IE)]] produces a PROOF

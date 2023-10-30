@@ -5,3 +5,4 @@ H = HEAD
 - *can only have 1 [[Atomic Propositions (atoms)]]*
 ROOT
 - no negation allowed
+- ***AND** statements only*
