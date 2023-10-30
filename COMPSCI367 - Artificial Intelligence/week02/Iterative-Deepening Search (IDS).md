@@ -1,9 +1,6 @@
 ### Summary
 - try all possible depth limits in turn
-- combines benefits of [[Depth-First Search (DFS)]] and [[Breadth-First Search (BFS)]]
-
-
-- **Combines** the benefits of 
+- **Combines** benefits of [[Depth-First Search (DFS)]] and [[Breadth-First Search (BFS)]]
 	- **[[Depth-First Search (DFS)]] (low memory - [[Space Complexity]])** 
 	- **[[Breadth-First Search (BFS)]] ([[optimal]] and [[complete]])** 
 	==by doing a series of **[[Depth-Limited Search (DLS)]]** to depth 1,2,3, etc.==
