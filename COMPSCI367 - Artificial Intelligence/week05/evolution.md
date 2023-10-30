@@ -10,7 +10,6 @@
 	- different levels of [[fitness]]
 - individuals are able to [[reproduce]]
 	- we don't want offspring to be randomly generated - you might loose some good traits
-- an offspring inherits features for the parents, with potential mutations
-
+		- an offspring inherits features for the parents, with potential mutations
 
 Related to: [[genetics]]
