@@ -1,3 +1,18 @@
+### Summary
+- returns a [[solution(s)]]
+	- doesn't maintain a path
+- Many [[Constraint Satisfaction Problem (CSPs)]] can be formulated as [[Local Search]]
+- General families of algorithms:
+	- [[Local Search]] + [[Gradient descent]]
+		- [[Hill-Climbing]]
+		- [[Hill-Climbing with side-way moves]]
+		- [[Tabu Search]]
+		- [[Enforced Hill-Climbing]]
+	- [[Stochastic Search]]
+	- [[Population-based Search]]
+> Many machine learning algorithms are [[Local Search]]
+
+### Additional Information
 - Also known as [[iterative improvement]]
 - [[frontier (open list, fringe)]] maintains some unexpanded [[successor(s)]] of expanded nodes
 - Start from some [[state(s)]] & "move" from present location(s) to neighbouring location(s). 
@@ -34,15 +49,3 @@ In many optimisation problems:
 
 ## Problem
 - could lead to a [[path(s)]] without an [[optimal]] solution
-
-### Summary
-- Many [[Constraint Satisfaction Problem (CSPs)]] can be formulated as [[Local Search]]
-- General families of algorithms:
-	- [[Local Search]] + [[Gradient descent]]
-		- [[Hill-Climbing]]
-		- [[Hill-Climbing with side-way moves]]
-		- [[Tabu Search]]
-		- [[Enforced Hill-Climbing]]
-	- [[Stochastic Search]]
-	- [[Population-based Search]]
-> Many machine learning algorithms are [[Local Search]]
