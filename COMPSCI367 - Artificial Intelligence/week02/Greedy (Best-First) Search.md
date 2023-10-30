@@ -1,4 +1,7 @@
 ### Summary
+- tries to minimise [[path cost]] from current node n to [[goal(s) - goal state(s)]]
+
+### Additional Information
 - select the [[path(s)]] whose end is closest to a [[goal(s) - goal state(s)]] according to the [[heuristic(s)]] function
 - selects the next node for expansion using the [[heuristic(s)]] function for its evaluation function, ie. `f(n) = h(n)`
     - `h(n)=0` → n is a [[goal(s) - goal state(s)]]
