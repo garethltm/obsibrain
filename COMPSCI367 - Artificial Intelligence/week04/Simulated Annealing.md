@@ -9,6 +9,9 @@
 ![[Pasted image 20231023172403.png]]
 ![[Pasted image 20231023172426.png]]
 
+### Probability of accepting a worse [[successor(s)]]
+![[Pasted image 20231031003708.png]]
+
 ![[Pasted image 20231023173131.png]]
 ![[Pasted image 20231023173208.png]]
 

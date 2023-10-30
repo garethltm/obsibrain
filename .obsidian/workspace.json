@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week04/Random Walk & Random Restart Hill-Climbing.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week04/Simulated Annealing.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week04/Random Walk & Random Restart Hill-Climbing.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week04/Simulated Annealing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week04/Random Walk & Random Restart Hill-Climbing.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week04/Simulated Annealing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week04/Random Walk & Random Restart Hill-Climbing.md"
+                "file": "COMPSCI367 - Artificial Intelligence/week04/Simulated Annealing.md"
               }
             }
           },
@@ -153,7 +153,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week04/Random Walk & Random Restart Hill-Climbing.md"
+                "file": "COMPSCI367 - Artificial Intelligence/week04/Simulated Annealing.md"
               }
             }
           }
@@ -178,6 +178,8 @@
   },
   "active": "766f3d6bf8798b3a",
   "lastOpenFiles": [
+    "@images/Pasted image 20231031003708.png",
+    "COMPSCI367 - Artificial Intelligence/week04/Random Walk & Random Restart Hill-Climbing.md",
     "COMPSCI367 - Artificial Intelligence/week04/Probabilistic Approximately Complete (PAC).md",
     "COMPSCI367 - Artificial Intelligence/week11/Local Markov Property.md",
     "COMPSCI367 - Artificial Intelligence/week04/Difference between Stochastic & First-Choice Hill-Climbing.md",
@@ -202,8 +204,6 @@
     "COMPSCI367 - Artificial Intelligence/week02/Consistent heuristic.md",
     "COMPSCI367 - Artificial Intelligence/week03/Path Search vs CSPs.md",
     "COMPSCI367 - Artificial Intelligence/week04/Local Search in Continuous Space.md",
-    "COMPSCI367 - Artificial Intelligence/week03/Constraint Satisfaction Problem (CSPs).md",
-    "COMPSCI367 - Artificial Intelligence/week03/Backtracking Search.md",
     "@images/Pasted image 20231030220007.png",
     "@images/Pasted image 20231030215934.png",
     "COMPSCI367 - Artificial Intelligence/finals prep.canvas",
