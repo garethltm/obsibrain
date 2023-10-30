@@ -22,8 +22,9 @@
 
 #### Is [[A-Star Search]] [[optimal]] & [[Complete]]?
 - Yes, provided h(n) is [[Admissible heuristic]] 
-- ##### Conditions for [[optimal]]
-	- $∀n h(n) ≤ y(n)$
+
+##### Conditions for [[optimal]]
+	 $∀n h(n) ≤ y(n)$
 		- where y(n) is the true cost from n to the [[goal(s) - goal state(s)]]
 	- If h is [[Admissible heuristic]] then **f(n)** **never overestimates** the actual cost of the best solution through n
 	- Theorem: [[A-Star Search]] finds optimal solution if **h(n)** is [[Admissible heuristic]]
