@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week04/Discretisation.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week04/Continuous Space (Continuous Functions).md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week04/Discretisation.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week04/Continuous Space (Continuous Functions).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week04/Discretisation.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week04/Continuous Space (Continuous Functions).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week04/Discretisation.md"
+                "file": "COMPSCI367 - Artificial Intelligence/week04/Continuous Space (Continuous Functions).md"
               }
             }
           },
@@ -153,7 +153,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week04/Discretisation.md"
+                "file": "COMPSCI367 - Artificial Intelligence/week04/Continuous Space (Continuous Functions).md"
               }
             }
           }
@@ -178,8 +178,8 @@
   },
   "active": "766f3d6bf8798b3a",
   "lastOpenFiles": [
-    "COMPSCI367 - Artificial Intelligence/week04/Continuous Space (Continuous Functions).md",
     "COMPSCI367 - Artificial Intelligence/week04/Discretisation.md",
+    "COMPSCI367 - Artificial Intelligence/week04/Continuous Space (Continuous Functions).md",
     "COMPSCI367 - Artificial Intelligence/week04/Simulated Annealing.md",
     "COMPSCI367 - Artificial Intelligence/week04/Optimisation of Continuous Functions.md",
     "@images/Pasted image 20231031003708.png",
