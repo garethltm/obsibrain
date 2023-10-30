@@ -1,4 +1,4 @@
-- some sort of limitation
+- some sort of limitation/rules
 
 ## Types of Constraints
 ### Hard Constraints 

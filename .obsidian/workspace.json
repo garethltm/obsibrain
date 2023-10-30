@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week03/Binary CSP.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week02/constraint(s).md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week03/Binary CSP.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week02/constraint(s).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week03/Binary CSP.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week02/constraint(s).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week03/Binary CSP.md"
+                "file": "COMPSCI367 - Artificial Intelligence/week02/constraint(s).md"
               }
             }
           },
@@ -153,7 +153,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week03/Binary CSP.md"
+                "file": "COMPSCI367 - Artificial Intelligence/week02/constraint(s).md"
               }
             }
           }
@@ -178,9 +178,9 @@
   },
   "active": "766f3d6bf8798b3a",
   "lastOpenFiles": [
+    "COMPSCI367 - Artificial Intelligence/week03/Binary CSP.md",
     "@images/Pasted image 20231030220007.png",
     "COMPSCI367 - Artificial Intelligence/week03/Constraint Graph.md",
-    "COMPSCI367 - Artificial Intelligence/week03/Binary CSP.md",
     "@images/Pasted image 20231030215934.png",
     "COMPSCI367 - Artificial Intelligence/week03/A-Star Search.md",
     "COMPSCI367 - Artificial Intelligence/week02/Consistent Heuristics.md",
@@ -214,7 +214,6 @@
     "@images/Pasted image 20231026170850.png",
     "@images/Pasted image 20231026170612.png",
     "@images/Pasted image 20231026170532.png",
-    "@images/Pasted image 20231026165939.png",
     "COMPSCI367 - Artificial Intelligence/week12",
     "COMPSCI367 - Artificial Intelligence/week11",
     "COMPSCI367 - Artificial Intelligence/week08",
