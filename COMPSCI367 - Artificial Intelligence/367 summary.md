@@ -1,22 +1,23 @@
-# Types of Uninformed Search
+# Systematic Search
+### Types of Uninformed Search
 - [[Breadth-First Search (BFS)]]
 - [[Uniform-Cost Search (UCS) (Lowest-Cost-First Search)]]
 - [[Depth-First Search (DFS)]]
 - [[Depth-Limited Search (DLS)]]
 - [[Iterative-Deepening Search (IDS)]]
 - [[Bidirectional Search]]
-# Types of Informed Search
+### Types of Informed Search
 - [[Greedy (Best-First) Search]]
 - [[A-Star Search]]
 - [[Iterative Deepening A-Star Search (IDA)]]
 
+# Local Search
 ## Constraint Satisfaction Problems
 1. [[Backtracking Search]] 
 	- [[Minimum Remaining Values (MRV)]]
 	- [[Least Constraining Value]]
 	- [[Forward Checking]]
 	- [[Variable Elimination]]
-
 
 - Many configuration & optimisation problems ([[Constraint Satisfaction Problem (CSPs)]]) can be formulated as [[Local Search]]
 - General families of [[algorithm]]:
