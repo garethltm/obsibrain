@@ -1,5 +1,0 @@
-- [[First Choice Hill-Climbing]]
-- [[Stochastic Hill-Climbing]]
-- [[Random Walk Hill-Climbing]]
-- [[Random-Restart Hill Climbing]]
-- [[Simulated Annealing]]
