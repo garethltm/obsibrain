@@ -6,3 +6,5 @@ H = HEAD
 ROOT
 - no negation allowed
 - ***AND** statements only*
+
+slightly different from [[clause(s)]]
