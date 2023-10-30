@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week04/Hill-Climbing.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week04/Hill-Climbing with side-way moves.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week04/Hill-Climbing.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week04/Hill-Climbing with side-way moves.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week04/Hill-Climbing.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week04/Hill-Climbing with side-way moves.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week04/Hill-Climbing.md"
+                "file": "COMPSCI367 - Artificial Intelligence/week04/Hill-Climbing with side-way moves.md"
               }
             }
           },
@@ -153,7 +153,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week04/Hill-Climbing.md"
+                "file": "COMPSCI367 - Artificial Intelligence/week04/Hill-Climbing with side-way moves.md"
               }
             }
           }
@@ -178,6 +178,10 @@
   },
   "active": "766f3d6bf8798b3a",
   "lastOpenFiles": [
+    "COMPSCI367 - Artificial Intelligence/week04/Hill-Climbing with side-way moves on the 8-Queens.md",
+    "COMPSCI367 - Artificial Intelligence/week04/Hill-Climbing with side-way moves.md",
+    "COMPSCI367 - Artificial Intelligence/week04/Diagonal ridges.md",
+    "COMPSCI367 - Artificial Intelligence/week04/Hill-Climbing.md",
     "COMPSCI367 - Artificial Intelligence/week04/Iterative Best Improvement (IBI).md",
     "COMPSCI367 - Artificial Intelligence/week04/greedy choice.md",
     "COMPSCI367 - Artificial Intelligence/week04/Local Search.md",
@@ -202,10 +206,6 @@
     "COMPSCI367 - Artificial Intelligence/week03/A-Star Search.md",
     "COMPSCI367 - Artificial Intelligence/week03/optimistic.md",
     "COMPSCI367 - Artificial Intelligence/week03/Admissible heuristic.md",
-    "COMPSCI367 - Artificial Intelligence/week02/path(s).md",
-    "COMPSCI367 - Artificial Intelligence/week02/optimal.md",
-    "COMPSCI367 - Artificial Intelligence/week02/Greedy (Best-First) Search.md",
-    "COMPSCI367 - Artificial Intelligence/week02/Uniform-Cost Search (UCS) (Lowest-Cost-First Search).md",
     "COMPSCI367 - Artificial Intelligence/finals prep.canvas",
     "@images/Markov_vs_Bayes_(adapted_in_part_from_Koller_and_Friedman_2009)_(smaller).png",
     "@images/COMPSCI3672022_S2W09Lecture25AIinSociety28129-21.jpg",
