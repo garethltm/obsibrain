@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week06/knowledge.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week06/Knowledge Base (KB).md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week06/knowledge.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week06/Knowledge Base (KB).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week06/knowledge.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week06/Knowledge Base (KB).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week06/knowledge.md"
+                "file": "COMPSCI367 - Artificial Intelligence/week06/Knowledge Base (KB).md"
               }
             }
           },
@@ -153,7 +153,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week06/knowledge.md"
+                "file": "COMPSCI367 - Artificial Intelligence/week06/Knowledge Base (KB).md"
               }
             }
           }
@@ -178,6 +178,8 @@
   },
   "active": "766f3d6bf8798b3a",
   "lastOpenFiles": [
+    "COMPSCI367 - Artificial Intelligence/week06/Propositional Knowledge Base.md",
+    "COMPSCI367 - Artificial Intelligence/week06/knowledge.md",
     "COMPSCI367 - Artificial Intelligence/week06/clause(s).md",
     "COMPSCI367 - Artificial Intelligence/week06/logically implies.md",
     "COMPSCI367 - Artificial Intelligence/week06/Knowledge Representation Language.md",
@@ -192,7 +194,6 @@
     "COMPSCI367 - Artificial Intelligence/week06/Inference Engine Example.md",
     "COMPSCI367 - Artificial Intelligence/week06/Reasoning.md",
     "COMPSCI367 - Artificial Intelligence/week02/constraint(s).md",
-    "COMPSCI367 - Artificial Intelligence/week06/knowledge.md",
     "COMPSCI367 - Artificial Intelligence/week05/Alpha-Beta Pruning.md",
     "@images/Pasted image 20231031015949.png",
     "@images/Pasted image 20231031015932.png",
@@ -207,7 +208,6 @@
     "COMPSCI367 - Artificial Intelligence/week05/Genetic Algorithm (GA).md",
     "COMPSCI367 - Artificial Intelligence/week05/chromosomes.md",
     "COMPSCI367 - Artificial Intelligence/week05/mutation operation.md",
-    "COMPSCI367 - Artificial Intelligence/week05/crossover operation.md",
     "@images/Pasted image 20231031003708.png",
     "@images/Pasted image 20231030220007.png",
     "@images/Pasted image 20231030215934.png",
