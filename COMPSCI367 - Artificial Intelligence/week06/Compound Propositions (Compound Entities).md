@@ -1,2 +1,2 @@
 - [[syntax]]: a [[proposition]] can be made up from the [[Atomic Propositions (atoms)]] in the form![[Pasted image 20231023205601.png]]A, B = [[proposition]], $\neg , \vee, \wedge, \rightarrow$ = [[connectives]]
-- [[semantics]]: an [[interpretation]] determines the truth value of all [[proposition]]s in a [[Truth table]]
+- [[semantics]]: an [[interpretation]] determines the truth value of all [[proposition]] in a [[Truth table]]
