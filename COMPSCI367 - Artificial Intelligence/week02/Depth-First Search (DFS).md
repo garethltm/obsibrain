@@ -7,7 +7,6 @@
 ![[Pasted image 20231022032622.png]]
 - Last In First Out
 - expands one of the nodes at the deepest level of the tree
-
 ## Implementation
 - implementing the [[frontier (open list, fringe)]] as a [[stack]]
     - can alternatively be implemented by recursive function calls

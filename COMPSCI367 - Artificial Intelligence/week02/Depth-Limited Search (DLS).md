@@ -1,4 +1,5 @@
-- solves the infinite loop **problem**
+- solves the infinite loop **problem** of [[Depth-First Search (DFS)]]
+	- expands nodes like [[Depth-First Search (DFS)]] but cutoff  at maxium
 
 ## Properties
 - [[Complete]]
