@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week06/sentence(s).md",
+                "file": "COMPSCI367 - Artificial Intelligence/week08/axioms.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week06/sentence(s).md",
+                "file": "COMPSCI367 - Artificial Intelligence/week08/axioms.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week06/sentence(s).md",
+                "file": "COMPSCI367 - Artificial Intelligence/week08/axioms.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week06/sentence(s).md"
+                "file": "COMPSCI367 - Artificial Intelligence/week08/axioms.md"
               }
             }
           },
@@ -153,7 +153,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week06/sentence(s).md"
+                "file": "COMPSCI367 - Artificial Intelligence/week08/axioms.md"
               }
             }
           }
@@ -178,6 +178,7 @@
   },
   "active": "766f3d6bf8798b3a",
   "lastOpenFiles": [
+    "COMPSCI367 - Artificial Intelligence/week06/sentence(s).md",
     "COMPSCI367 - Artificial Intelligence/week08/Free variables.md",
     "COMPSCI367 - Artificial Intelligence/week08/term(s).md",
     "COMPSCI367 - Artificial Intelligence/week08/signature.md",
@@ -186,7 +187,6 @@
     "COMPSCI367 - Artificial Intelligence/week08/First-Order Logic Inference.md",
     "COMPSCI367 - Artificial Intelligence/week08/alphabet.md",
     "@images/Pasted image 20231031113518.png",
-    "COMPSCI367 - Artificial Intelligence/week06/sentence(s).md",
     "COMPSCI367 - Artificial Intelligence/week08/model(s).md",
     "COMPSCI367 - Artificial Intelligence/week06/Knowledge Base (KB).md",
     "COMPSCI367 - Artificial Intelligence/week06/model of a propositional KB.md",
