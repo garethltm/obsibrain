@@ -12,6 +12,7 @@
 - combination of both [[Uniform-Cost Search (UCS) (Lowest-Cost-First Search)]] & [[Greedy (Best-First) Search]]
 ### Additional Information
 - preserve efficiency of [[Greedy (Best-First) Search]] but avoid expanding [[path(s)]] that are already expensive
+
 - Use both cost of [[path(s)]] generated & estimate to goal to order nodes on the [[frontier (open list, fringe)]]
 - **f(n)** is the **estimated cost** of the **cheapest solution** extending this [[path(s)]] (through node n)
 - **g(n) = cost of [[path(s)]] from [[initial state (start state)]] to n**; 
