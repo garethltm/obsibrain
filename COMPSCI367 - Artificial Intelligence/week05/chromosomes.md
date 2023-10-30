@@ -1,1 +1,2 @@
-a (fixed-length) string of characters in a finite alphabet.
+- representations of [[candidate solution]] that determines [[fitness]]
+- a (fixed-length) string of characters in a finite alphabet.

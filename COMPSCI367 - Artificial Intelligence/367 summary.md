@@ -45,5 +45,5 @@
 	1. [[candidate solution]] representation: 
 		- the most common representation of a [[candidate solution]] in S (where S is our search space) is [[chromosomes]]
 	2. [[fitness]]
-	3. [[crossover operation]]
-	4. [[mutation operation]]
+	3. [[crossover operation]] & [[mutation operation]]
+		- these are for generating offsprings
