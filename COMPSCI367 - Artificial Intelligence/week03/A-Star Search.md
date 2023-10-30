@@ -12,7 +12,7 @@
 [[Greedy (Best-First) Search]] minimizes **h(n)**
 - efficient but not [[optimal]] or [[complete]]
 
-## Main Idea
+### Additional Information
 - preserve efficiency of [[Greedy (Best-First) Search]] but avoid expanding [[path(s)]] that are already expensive
 - Use both cost of [[path(s)]] generated & estimate to goal to order nodes on the [[frontier (open list, fringe)]]
 - **f(n)** is the **estimated cost** of the **cheapest solution** extending this [[path(s)]] (through node n)
