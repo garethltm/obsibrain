@@ -1,6 +1,9 @@
 ## Summary
 - [[Space Complexity]] is a big problem - it grows exponentially with depth
 - Good for fewest [[arc]]
+	- find shortest [[path(s)]] in terms of number of [[action(s)]]. 
+		- IT DOES NOT FIND THE LEAST-COST PATH
+		- use [[Uniform-Cost Search (UCS) (Lowest-Cost-First Search)]] instead if interested in least-cost [[path(s)]]
 - We will be searching till the reaching depth of our [[solution(s)]]
 ![[Pasted image 20231022023607.png]]
 ![[Pasted image 20231022021423.png]]
