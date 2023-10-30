@@ -3,5 +3,5 @@
 	- At every step:
 		- With probability $p$, make an [[uninformed random walk]]
 		- With probability $1-p$, make a [[greedy choice]]: choose the [[successor(s)]] that has the least loss
-- If the set of states S is finite & every state is reachable from every other state by the step function
+- If the set of [[state(s)]] S is finite & every state is reachable from every other state by the step function
 	- Then [[Random Walk Hill-Climbing]] is [[Probabilistic Approximately Complete (PAC)]]
