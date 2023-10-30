@@ -48,7 +48,9 @@ In many optimisation problems:
 	- specify when to stop
 		- Travelling Salesperson Problem
 ## [[heuristic(s)]] 
-- this allows the algo
+- this allows the algorithm to make moves maximising or minimising the value
+	- doesn't have to be [[Admissible heuristic]] or [[Consistent heuristic]]
+- can be involved in the [[Goal test]] or termination condition or not
 
 ## Steps
 1. we start from some [[initial state (start state)]]

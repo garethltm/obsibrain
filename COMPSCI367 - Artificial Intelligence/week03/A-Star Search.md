@@ -30,13 +30,13 @@
 	- Theorem: [[A-Star Search]] finds optimal solution if **h(n)** is [[Admissible heuristic]]
 
 Hence, the theorem:
-**_If h(n) is [[Consistent Heuristics]], [[A-Star Search]] is [[optimal]]***
+**_If h(n) is [[Consistent heuristic]], [[A-Star Search]] is [[optimal]]***
 
 ### A-Star Graph Search gone WRONG
 ![[Pasted image 20231023155524.png]]
 
 ### A* - What to do if h is NOT CONSISTENT
-- So far, we have assumed that h is [[Consistent Heuristics]] (thus [[Admissible heuristic]]); but what if h is not [[Consistent Heuristics]] (but still [[Admissible heuristic]])
+- So far, we have assumed that h is [[Consistent heuristic]] (thus [[Admissible heuristic]]); but what if h is not [[Consistent heuristic]] (but still [[Admissible heuristic]])
 - If **h is not consistent** then we have **no guarantee** that the 1st time **[[state(s)]] s** is picked to be expanded that its **cheapest path from i has been found**
 - This means that if s is already in the [[closed list]], a cheaper [[path(s)]] may be found & this new [[path(s)]] will need to “replace” the old one
 	- if we meet that [[state(s)]] again & the evaluation value is smaller then you will need to reopen
@@ -52,5 +52,5 @@ Hence, the theorem:
 
 ## Summary:
 - [[A-Star Search]] uses both backward cost g & (estimates of) forward costs h
-- [[A-Star Search]] is [[optimal]] with [[Admissible heuristic]]/[[Consistent Heuristics]]
+- [[A-Star Search]] is [[optimal]] with [[Admissible heuristic]]/[[Consistent heuristic]]
 - [[heuristic(s)]] design is key: often use relaxed problems
