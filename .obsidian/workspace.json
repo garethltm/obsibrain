@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week07/resolution.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week08/model(s).md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week07/resolution.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week08/model(s).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week07/resolution.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week08/model(s).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week07/resolution.md"
+                "file": "COMPSCI367 - Artificial Intelligence/week08/model(s).md"
               }
             }
           },
@@ -153,7 +153,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week07/resolution.md"
+                "file": "COMPSCI367 - Artificial Intelligence/week08/model(s).md"
               }
             }
           }
@@ -178,6 +178,9 @@
   },
   "active": "766f3d6bf8798b3a",
   "lastOpenFiles": [
+    "COMPSCI367 - Artificial Intelligence/week06/Knowledge Base (KB).md",
+    "COMPSCI367 - Artificial Intelligence/week06/model of a propositional KB.md",
+    "COMPSCI367 - Artificial Intelligence/week07/resolution.md",
     "COMPSCI367 - Artificial Intelligence/week07/Forward Chaining.md",
     "COMPSCI367 - Artificial Intelligence/week07/entails.md",
     "COMPSCI367 - Artificial Intelligence/week07/definite clause(s).md",
@@ -191,8 +194,6 @@
     "COMPSCI367 - Artificial Intelligence/week06/Logic Inference vs Constraint Satisfaction.md",
     "COMPSCI367 - Artificial Intelligence/week06/Inference engines (IE).md",
     "COMPSCI367 - Artificial Intelligence/week06/query.md",
-    "COMPSCI367 - Artificial Intelligence/week06/model of a propositional KB.md",
-    "COMPSCI367 - Artificial Intelligence/week06/Knowledge Base (KB).md",
     "COMPSCI367 - Artificial Intelligence/week06/Propositional Knowledge Base.md",
     "COMPSCI367 - Artificial Intelligence/week06/knowledge.md",
     "COMPSCI367 - Artificial Intelligence/week06/logically implies.md",
@@ -203,7 +204,6 @@
     "COMPSCI367 - Artificial Intelligence/week06/Atomic Entities.md",
     "COMPSCI367 - Artificial Intelligence/week06/Knowledge-based Agents.md",
     "COMPSCI367 - Artificial Intelligence/week06/Offline.md",
-    "COMPSCI367 - Artificial Intelligence/week06/Online.md",
     "@images/Pasted image 20231031015949.png",
     "@images/Pasted image 20231031015932.png",
     "@images/Pasted image 20231031015925.png",
