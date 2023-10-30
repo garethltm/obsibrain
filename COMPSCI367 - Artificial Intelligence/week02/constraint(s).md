@@ -1,3 +1,4 @@
+- logical relationship
 - some sort of limitation/rules
 
 ## Types of Constraints
