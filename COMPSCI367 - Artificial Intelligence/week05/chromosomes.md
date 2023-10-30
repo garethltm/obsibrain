@@ -1,0 +1,1 @@
+a (fixed-length) string of characters in a finite alphabet.
