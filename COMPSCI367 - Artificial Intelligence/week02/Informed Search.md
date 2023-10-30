@@ -12,9 +12,6 @@
 	- Much research has gone into [[Admissible heuristic]]
 	    - Even on the automatic generation of [[Admissible heuristic]]
 
-- [[Uninformed Search]] algorithms - algorithms that are given **no information** about the problem other than its definition
-    - some of these algorithms can solve any solvable problem, but none of them can do it efficiently
-
 - [[Informed Search]] strategy
     - one that uses problem-specific knowledge beyond the definition of the problem itself
     - can find solutions more efficiently than uninformed strategy
