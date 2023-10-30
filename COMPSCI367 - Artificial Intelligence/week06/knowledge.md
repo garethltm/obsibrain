@@ -1,2 +1,3 @@
 - [[constraint(s)]] (logical relationship) on variables
 	- a connection between 2 variables
+- a set of [[clause(s)]] can be regarded as [[knowledge]] about the [[Atomic Propositions (atoms)]]
