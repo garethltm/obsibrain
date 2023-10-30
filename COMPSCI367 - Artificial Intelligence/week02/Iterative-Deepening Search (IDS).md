@@ -8,7 +8,7 @@
 ## Finding max path cost
 - Diameter of the [[state space]] - the maximum [[path cost]] between any 2 nodes
 	- this would be a good candidate for a depth limit but it may be difficult to determine in advance
-- Therefore, it can be very difficult to decide upon a depth limit for search
+- Therefore, it can be very difficult to decide upon a [[Depth-Limited Search (DLS)]] for search
 ## Properties
 - [[Complete]]
     - Yes
