@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week04/Simulated Annealing.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week04/Optimisation of Continuous Functions.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week04/Simulated Annealing.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week04/Optimisation of Continuous Functions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week04/Simulated Annealing.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week04/Optimisation of Continuous Functions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week04/Simulated Annealing.md"
+                "file": "COMPSCI367 - Artificial Intelligence/week04/Optimisation of Continuous Functions.md"
               }
             }
           },
@@ -153,7 +153,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week04/Simulated Annealing.md"
+                "file": "COMPSCI367 - Artificial Intelligence/week04/Optimisation of Continuous Functions.md"
               }
             }
           }
@@ -178,6 +178,8 @@
   },
   "active": "766f3d6bf8798b3a",
   "lastOpenFiles": [
+    "COMPSCI367 - Artificial Intelligence/week04/Simulated Annealing.md",
+    "COMPSCI367 - Artificial Intelligence/week04/Optimisation of Continuous Functions.md",
     "@images/Pasted image 20231031003708.png",
     "COMPSCI367 - Artificial Intelligence/week04/Random Walk & Random Restart Hill-Climbing.md",
     "COMPSCI367 - Artificial Intelligence/week04/Probabilistic Approximately Complete (PAC).md",
@@ -203,7 +205,6 @@
     "COMPSCI367 - Artificial Intelligence/week03/Iterative Improvement.md",
     "COMPSCI367 - Artificial Intelligence/week02/Consistent heuristic.md",
     "COMPSCI367 - Artificial Intelligence/week03/Path Search vs CSPs.md",
-    "COMPSCI367 - Artificial Intelligence/week04/Local Search in Continuous Space.md",
     "@images/Pasted image 20231030220007.png",
     "@images/Pasted image 20231030215934.png",
     "COMPSCI367 - Artificial Intelligence/finals prep.canvas",
@@ -214,7 +215,6 @@
     "@images/Pasted image 20231026170928.png",
     "@images/Pasted image 20231026170850.png",
     "@images/Pasted image 20231026170612.png",
-    "@images/Pasted image 20231026170532.png",
     "COMPSCI367 - Artificial Intelligence/week12",
     "COMPSCI367 - Artificial Intelligence/week11",
     "COMPSCI367 - Artificial Intelligence/week08",
