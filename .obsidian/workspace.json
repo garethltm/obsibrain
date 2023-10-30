@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week06/Knowledge Base (KB).md",
+                "file": "COMPSCI367 - Artificial Intelligence/week06/Inference engines (IE).md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week06/Knowledge Base (KB).md",
+                "file": "COMPSCI367 - Artificial Intelligence/week06/Inference engines (IE).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week06/Knowledge Base (KB).md",
+                "file": "COMPSCI367 - Artificial Intelligence/week06/Inference engines (IE).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week06/Knowledge Base (KB).md"
+                "file": "COMPSCI367 - Artificial Intelligence/week06/Inference engines (IE).md"
               }
             }
           },
@@ -153,7 +153,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week06/Knowledge Base (KB).md"
+                "file": "COMPSCI367 - Artificial Intelligence/week06/Inference engines (IE).md"
               }
             }
           }
@@ -178,6 +178,8 @@
   },
   "active": "766f3d6bf8798b3a",
   "lastOpenFiles": [
+    "COMPSCI367 - Artificial Intelligence/week06/model of a propositional KB.md",
+    "COMPSCI367 - Artificial Intelligence/week06/Knowledge Base (KB).md",
     "COMPSCI367 - Artificial Intelligence/week06/Propositional Knowledge Base.md",
     "COMPSCI367 - Artificial Intelligence/week06/knowledge.md",
     "COMPSCI367 - Artificial Intelligence/week06/clause(s).md",
@@ -188,7 +190,6 @@
     "COMPSCI367 - Artificial Intelligence/week06/proposition(s).md",
     "COMPSCI367 - Artificial Intelligence/week06/Atomic Entities.md",
     "COMPSCI367 - Artificial Intelligence/week06/Knowledge-based Agents.md",
-    "COMPSCI367 - Artificial Intelligence/week06/Knowledge Base (KB).md",
     "COMPSCI367 - Artificial Intelligence/week06/Offline.md",
     "COMPSCI367 - Artificial Intelligence/week06/Online.md",
     "COMPSCI367 - Artificial Intelligence/week06/Inference Engine Example.md",
@@ -207,7 +208,6 @@
     "COMPSCI367 - Artificial Intelligence/week05/Stochastic Beam Search (SBS).md",
     "COMPSCI367 - Artificial Intelligence/week05/Genetic Algorithm (GA).md",
     "COMPSCI367 - Artificial Intelligence/week05/chromosomes.md",
-    "COMPSCI367 - Artificial Intelligence/week05/mutation operation.md",
     "@images/Pasted image 20231031003708.png",
     "@images/Pasted image 20231030220007.png",
     "@images/Pasted image 20231030215934.png",
