@@ -1,11 +1,14 @@
 - Have no Frontier
 - Will just STOP
-
+### Summary
+- [[Hill-Climbing]] - choose best child
+- [[Hill-Climbing with side-way moves]] - choose best or equal child
+- [[Enforced Hill-Climbing]] - use [[Breadth-First Search (BFS)]] until you find a "better" node
+- [[Tabu Search]] - keeps a [[Tabu list]] of nodes you have been to & don't go back
 ## Steps
 - Start wherever
 - Repeat: move to the best neighbouring [[state(s)]]
 - If no neighbours better than current → QUIT
-
 
 *"Like climbing Everest in thick fog with amnesia"*
 - algorithm doesn't know what happened before that - NO MEMORY
@@ -22,9 +25,3 @@
 1. Local maxima
 2. Plateaus
 3. [[Diagonal ridges]]
-
-### Summary
-- [[Hill-Climbing]] - choose best child
-- [[Hill-Climbing with side-way moves]] - choose best or equal child
-- [[Enforced Hill-Climbing]] - use [[Breadth-First Search (BFS)]] until you find a "better" node
-- [[Tabu Search]] - keeps a [[Tabu list]] of nodes you have been to & don't go back
