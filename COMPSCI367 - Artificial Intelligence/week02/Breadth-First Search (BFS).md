@@ -1,3 +1,8 @@
+## Summary
+- [[Space Complexity]] is a big problem - it grows exponentially with depth
+- Good for fewest [[arc]]
+- We will be searching till the reaching depth of our [[solution(s)]]
+![[Pasted image 20231022023607.png]]
 ![[Pasted image 20231022021423.png]]
 - First in First Out
 - [[frontier (open list, fringe)]] = [[Queue]]
@@ -32,8 +37,3 @@
 4. [[Optimal]]
 	- Yes - only if all the [[action(s)]] have the same cost
 
-## Summary
-- Space is a big problem - it grows exponentially with depth
-- Good for fewest [[arc]]
-- We will be searching till the reaching depth of our [[solution(s)]]
-![[Pasted image 20231022023607.png]]
