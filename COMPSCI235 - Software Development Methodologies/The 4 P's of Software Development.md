@@ -7,10 +7,13 @@
 2. Product - The artifacts produced 
 	- Software you are creating
 
-1. Process - The manner it's done
+3. Process - The manner it's done
 	- What type of software did you use in your Software Development process
-2. Project
+
+4. Project
 	- Overall management
 	- Planning, Resource-allocation, Budget-allocation
 >	#Example 
 >	Hiring people, developers, etc.
+
+![[Pasted image 20231031234245.png]]
