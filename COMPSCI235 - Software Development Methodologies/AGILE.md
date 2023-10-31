@@ -53,4 +53,5 @@ which are:
 1. [[AGILE]] Management Model
 	- Scrum
 	- Kanban
-2. 
+2. [[AGILE]] Development Model
+	- eXtreme Programming (XP)

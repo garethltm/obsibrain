@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/AGILE.md",
+                "file": "COMPSCI235 - Software Development Methodologies/released product.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/AGILE.md",
+                "file": "COMPSCI235 - Software Development Methodologies/released product.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/AGILE.md",
+                "file": "COMPSCI235 - Software Development Methodologies/released product.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/AGILE.md"
+                "file": "COMPSCI235 - Software Development Methodologies/released product.md"
               }
             }
           },
@@ -153,7 +153,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/AGILE.md"
+                "file": "COMPSCI235 - Software Development Methodologies/released product.md"
               }
             }
           }
@@ -178,8 +178,8 @@
   },
   "active": "9ab2d4079996b929",
   "lastOpenFiles": [
-    "COMPSCI235 - Software Development Methodologies/Untitled.md",
     "COMPSCI235 - Software Development Methodologies/AGILE.md",
+    "COMPSCI235 - Software Development Methodologies/Untitled.md",
     "COMPSCI235 - Software Development Methodologies/software.md",
     "@images/Pasted image 20231101003219.png",
     "@images/Pasted image 20231101002841.png",
