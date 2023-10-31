@@ -35,4 +35,5 @@ which are:
 8. [[AGILE]] processes promote sustainable development. The sponsors, developers & users should be able to maintain a constant pace indefinitely
 9. Continuous attention to technical excellence & good design enhances agility
 10. Simplicity - the art of maximizing the amount of work not done is essential
-11. 
+11. The best architectures, requirements & designs emerge from self-organizing teams
+12. At regular intervals, the team reflects on how to become more effective, then tunes & adjusts its behaviour accordingly
