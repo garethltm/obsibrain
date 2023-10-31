@@ -20,6 +20,13 @@
         "a": 1,
         "rgb": 14725458
       }
+    },
+    {
+      "query": "path:\"COMPSCI235 - Software Development Methodologies\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 5431511
+      }
     }
   ],
   "collapse-display": false,
@@ -32,6 +39,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 1.6147456683154626,
+  "scale": 0.8215210509431182,
   "close": true
 }
