@@ -3,8 +3,9 @@
 - No (visible) loops here
 	- no visible feedback because it follows the waterfall approach
 - Increments range from a ==core product== (initial increment) to a more ==advanced product== (subsequent increments)
-- Useful:
-	- when there is dearth (lack) of resources early on in the [[process]]
+
+### Useful:
+- when there is dearth (lack) of resources early on in the [[process]]
 
 >	#Example 
 >	Incremental Model

@@ -1,6 +1,6 @@
 - **can't go back** to previous phases once committed
 
-### Useful when
+### Useful:
 - ==requirements are quite clear & are not prone to changes==
 - ==teams are experienced== in developing the kind of projects at hand
 
