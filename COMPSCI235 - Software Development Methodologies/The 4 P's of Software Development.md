@@ -15,7 +15,7 @@
 	- A [[process]]
 
 4. **Project (manage this all)** - Overall management
-	- The organi
+	- The organizational element through which software development is managed
 	- Planning, Resource-allocation, Budget-allocation
 >	#Example 
 >	Hiring people, developers, etc.
