@@ -4,22 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "58e79cdc4d223f80",
+        "id": "24965b6a76a90602",
         "type": "tabs",
         "children": [
           {
-            "id": "766f3d6bf8798b3a",
+            "id": "05f29dc71d7629c1",
             "type": "leaf",
             "state": {
-              "type": "canvas",
-              "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/finals prep.canvas",
-                "viewState": {
-                  "x": 5240,
-                  "y": -4760,
-                  "zoom": -4
-                }
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -88,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/finals prep.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/finals prep.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/finals prep.canvas"
-              }
+              "state": {}
             }
           },
           {
@@ -155,9 +144,7 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/finals prep.canvas"
-              }
+              "state": {}
             }
           }
         ],
@@ -179,9 +166,10 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "3ad179677b7fba41",
+  "active": "05f29dc71d7629c1",
   "lastOpenFiles": [
-    "COMPSCI235",
+    "COMPSCI367 - Artificial Intelligence/finals prep.canvas",
+    "COMPSCI235 - Software Development Methodologies",
     "COMPSCI367 - Artificial Intelligence/367 summary.md",
     "COMPSCI367 - Artificial Intelligence/week08/First-Order Definite clauses.md",
     "@images/Pasted image 20231031120054.png",
@@ -217,7 +205,6 @@
     "@images/Pasted image 20231031015925.png",
     "@images/Pasted image 20231031014357.png",
     "@images/Pasted image 20231031003708.png",
-    "COMPSCI367 - Artificial Intelligence/finals prep.canvas",
     "COMPSCI367 - Artificial Intelligence/week12",
     "COMPSCI367 - Artificial Intelligence/week11",
     "COMPSCI367 - Artificial Intelligence/week08",
@@ -226,7 +213,6 @@
     "COMPSCI367 - Artificial Intelligence/week03",
     "COMPSCI367 - Artificial Intelligence/week04",
     "COMPSCI367 - Artificial Intelligence/week05",
-    "COMPSCI367 - Artificial Intelligence/week02",
-    "Untitle"
+    "COMPSCI367 - Artificial Intelligence/week02"
   ]
 }
