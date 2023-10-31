@@ -1,1 +1,6 @@
-- effe
+- effective (rapid & adaptive) response to change
+- effective communication among all [[stakeholders]]
+- drawing customer onto the team
+	- continuous feedback
+- deliver multiple [[software]] increments, in an iterative fashion
+- [[AGILE]] is basically both
