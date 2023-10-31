@@ -1,0 +1,1 @@
+**a person, group or organization with a vested interest, or stake, in the decision-making and activities of a business, organization or project**

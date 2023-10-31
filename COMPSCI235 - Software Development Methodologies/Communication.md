@@ -1,1 +1,1 @@
-Gathering requirements from the stakeholders
+Gathering requirements from the [[stakeholders]]

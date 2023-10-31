@@ -2,7 +2,7 @@
 	- Anyone who is involved in [[Software Development]]
 	- People are actual human beings, as opposed to abstract construct of workers
 >	#Example 
->	Developers, Stakeholders, Users, Customers, Investors, etc
+>	Developers, [[Stakeholders]], Users, Customers, Investors, etc
 		- Generally anyone that has interest
 
 2. **Product (what?)** - The artifacts produced 
