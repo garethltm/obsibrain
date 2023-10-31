@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "INFOSYS222 - Database Systems/Database Management System (DBMS).md",
+                "file": "COMPSCI235 - Software Development Methodologies/Linear Approach.md",
                 "mode": "source",
                 "source": false
               }
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "INFOSYS222 - Database Systems/Database Management System (DBMS).md",
+                "file": "COMPSCI235 - Software Development Methodologies/Linear Approach.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "INFOSYS222 - Database Systems/Database Management System (DBMS).md",
+                "file": "COMPSCI235 - Software Development Methodologies/Linear Approach.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "INFOSYS222 - Database Systems/Database Management System (DBMS).md"
+                "file": "COMPSCI235 - Software Development Methodologies/Linear Approach.md"
               }
             }
           },
@@ -154,7 +153,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "INFOSYS222 - Database Systems/Database Management System (DBMS).md"
+                "file": "COMPSCI235 - Software Development Methodologies/Linear Approach.md"
               }
             }
           }
@@ -179,11 +178,14 @@
   },
   "active": "05f29dc71d7629c1",
   "lastOpenFiles": [
+    "COMPSCI235 - Software Development Methodologies/Software Process Models.md",
+    "COMPSCI235 - Software Development Methodologies/Linear Approach.md",
+    "COMPSCI235 - Software Development Methodologies/software development.md",
+    "COMPSCI235 - Software Development Methodologies/software engineering process.md",
+    "INFOSYS222 - Database Systems/Database Management System (DBMS).md",
     "COMPSCI235 - Software Development Methodologies/The 4 P's of Software Development.md",
     "COMPSCI235 - Software Development Methodologies/Planning.md",
     "COMPSCI235 - Software Development Methodologies/Deployment.md",
-    "COMPSCI235 - Software Development Methodologies/software development.md",
-    "COMPSCI235 - Software Development Methodologies/Software Process Models.md",
     "COMPSCI235 - Software Development Methodologies/Software vs Program.md",
     "COMPSCI235 - Software Development Methodologies/software.md",
     "@images/Pasted image 20231101000506.png",
@@ -193,7 +195,6 @@
     "COMPSCI235 - Software Development Methodologies/Communication.md",
     "COMPSCI235 - Software Development Methodologies/Systematic Development Process.md",
     "COMPSCI235 - Software Development Methodologies/stakeholders.md",
-    "COMPSCI235 - Software Development Methodologies/software engineering process.md",
     "COMPSCI235 - Software Development Methodologies/requirements gathering.md",
     "COMPSCI235 - Software Development Methodologies/released product.md",
     "COMPSCI235 - Software Development Methodologies/process.md",
@@ -209,8 +210,6 @@
     "COMPSCI367 - Artificial Intelligence/week08/First-Order Definite clauses.md",
     "@images/Pasted image 20231031120054.png",
     "COMPSCI367 - Artificial Intelligence/week08/First-Order Formulas.md",
-    "COMPSCI367 - Artificial Intelligence/week08/First-Order Interpretation.md",
-    "COMPSCI367 - Artificial Intelligence/week08/First-Order KB.md",
     "@images/Pasted image 20231031115913.png",
     "@images/Pasted image 20231031114623.png",
     "@images/Pasted image 20231031114600.png",
