@@ -11,11 +11,14 @@
             "id": "766f3d6bf8798b3a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week08/First-Order Definite clauses.md",
-                "mode": "source",
-                "source": false
+                "file": "COMPSCI367 - Artificial Intelligence/finals prep.canvas",
+                "viewState": {
+                  "x": 5240,
+                  "y": -4760,
+                  "zoom": -4
+                }
               }
             }
           }
@@ -85,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week08/First-Order Definite clauses.md",
+                "file": "COMPSCI367 - Artificial Intelligence/finals prep.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week08/First-Order Definite clauses.md",
+                "file": "COMPSCI367 - Artificial Intelligence/finals prep.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week08/First-Order Definite clauses.md"
+                "file": "COMPSCI367 - Artificial Intelligence/finals prep.canvas"
               }
             }
           },
@@ -153,7 +156,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week08/First-Order Definite clauses.md"
+                "file": "COMPSCI367 - Artificial Intelligence/finals prep.canvas"
               }
             }
           }
@@ -176,21 +179,22 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "766f3d6bf8798b3a",
+  "active": "3ad179677b7fba41",
   "lastOpenFiles": [
+    "COMPSCI235",
+    "COMPSCI367 - Artificial Intelligence/367 summary.md",
+    "COMPSCI367 - Artificial Intelligence/week08/First-Order Definite clauses.md",
     "@images/Pasted image 20231031120054.png",
     "COMPSCI367 - Artificial Intelligence/week08/First-Order Formulas.md",
     "COMPSCI367 - Artificial Intelligence/week08/First-Order Interpretation.md",
     "COMPSCI367 - Artificial Intelligence/week08/First-Order KB.md",
     "COMPSCI367 - Artificial Intelligence/week08/First-Order Logic Inference.md",
     "COMPSCI367 - Artificial Intelligence/week08/First-Order Logic.md",
-    "COMPSCI367 - Artificial Intelligence/week08/First-Order Definite clauses.md",
     "COMPSCI367 - Artificial Intelligence/week08/Generalised Modus Ponens (GMP).md",
     "@images/Pasted image 20231031115913.png",
     "COMPSCI367 - Artificial Intelligence/week08/Lifting.md",
     "COMPSCI367 - Artificial Intelligence/week08/Unification.md",
     "COMPSCI367 - Artificial Intelligence/week08/Satisfaction relation.md",
-    "COMPSCI367 - Artificial Intelligence/367 summary.md",
     "COMPSCI367 - Artificial Intelligence/week08/axioms.md",
     "@images/Pasted image 20231031114623.png",
     "COMPSCI367 - Artificial Intelligence/week08/theorem.md",
@@ -213,7 +217,6 @@
     "@images/Pasted image 20231031015925.png",
     "@images/Pasted image 20231031014357.png",
     "@images/Pasted image 20231031003708.png",
-    "@images/Pasted image 20231030220007.png",
     "COMPSCI367 - Artificial Intelligence/finals prep.canvas",
     "COMPSCI367 - Artificial Intelligence/week12",
     "COMPSCI367 - Artificial Intelligence/week11",
