@@ -15,4 +15,5 @@
 ### Git Basic Workflow
 ![[Pasted image 20231101023759.png]]
 
-### Git Branc
+### Git Branching Workflow
+![[Pasted image 20231101024003.png]]
