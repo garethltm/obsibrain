@@ -1,4 +1,5 @@
+- combines waterfall ([[]])
 
 >	#Example 
 >	Incremental Model
->	Ra
+>	Rapid Application Development (RAD) Model
