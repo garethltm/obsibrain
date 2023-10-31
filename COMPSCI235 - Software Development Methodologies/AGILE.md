@@ -25,7 +25,7 @@ which are:
 - Responding to Change
 
 ## 12 principles of [[AGILE]] [[software]]
-1. Our highest priority is to satisfy customer through **early & continuous delivery** of valuable [[software]]
+1. Our highest priority is to satisfy customer through <mark style="background: #D2B3FFA6;">early & continuous delivery</mark> of valuable [[software]]
 2. Welcoming **changing requirements**, even late in development. [[AGILE]] processes harness change for the customer's competitive advantage
 3. Deliver **working [[software]] frequently**, from a couple of weeks to a couple of month - with a preference to the shorter timescale
 4. Business people & developers must **work together daily** throughout the project
