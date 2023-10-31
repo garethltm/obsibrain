@@ -3,6 +3,7 @@
 - drawing customer onto the team
 	- continuous feedback
 - deliver multiple [[software]] increments, in an iterative fashion
+
 - [[AGILE]] is basically both [[Evolutionary (Iterative) Approach]] & [[Incremental Approach]]
 	- [[Incremental Approach]] - breaks up a project into specific areas of functionality (modules) & attempts to completely develop & test that module
 	- [[Evolutionary (Iterative) Approach]] - progressively refines the functionality or capability based on user feedback & inputs
@@ -25,5 +26,5 @@ which are:
 
 ## 12 principles of [[AGILE]] [[software]]
 1. Our highest priority is to satisfy customer through **early & continuous delivery** of valuable [[software]]
-2. Welcoming changing requirements, even late in development. [[AGILE]] processes harness change for the customer's competitive advantage
-3. Deliver working software frequently, from a couple of weeks to a couple of month - 
+2. Welcoming **changing requirements**, even late in development. [[AGILE]] processes harness change for the customer's competitive advantage
+3. Deliver **working [[software]] frequently**, from a couple of weeks to a couple of month - with a preference to the shorter timescale
