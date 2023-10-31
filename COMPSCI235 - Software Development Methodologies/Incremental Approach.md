@@ -9,3 +9,5 @@
 >	#Example 
 >	Incremental Model
 >	Rapid Application Development (RAD) Model
+
+![[Pasted image 20231101001724.png]]
