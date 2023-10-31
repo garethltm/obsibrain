@@ -1,5 +1,7 @@
 [
   "obsidian-minimal-settings",
   "obsidian-git",
-  "obsidian-spaced-repetition"
+  "obsidian-spaced-repetition",
+  "cm-editor-syntax-highlight-obsidian",
+  "highlightr-plugin"
 ]
