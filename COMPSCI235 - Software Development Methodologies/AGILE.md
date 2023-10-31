@@ -4,4 +4,6 @@
 	- continuous feedback
 - deliver multiple [[software]] increments, in an iterative fashion
 - [[AGILE]] is basically both [[Evolutionary (Iterative) Approach]] & [[Incremental Approach]]
-	- [[Incremental Approach]] - breaks up a project into specific areas of functionality (modules) & attempts to completely develop 
+	- [[Incremental Approach]] - breaks up a project into specific areas of functionality (modules) & attempts to completely develop & test that module
+	- [[Evolutionary (Iterative) Approach]] - progressively refines the functionality or capability based on user feedback & inputs
+	- which all leads to the speedy development of [[Minimum Viable Product (MVP)]]
