@@ -10,3 +10,6 @@
     - Chronological chain of commits
     - **Main**: the main/default branch used to refer to the final version (previously called Master)
     - When one wants to add a new feature or fix a bug, one **creates a new branch**, dedicated to these changes
+    - This helps to **avoid merging any unstable changes into the main code base** & gives the opportunity to clean up changes before merging them to the main or parent branch
+
+### Git Basic Workflow
