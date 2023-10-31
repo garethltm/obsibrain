@@ -7,10 +7,11 @@
 
 2. **Product (what?)** - The artifacts produced 
 	- Software you are creating
-	- Artifacts that are created during the li
+	- Artifacts that are created during the life of the project, such as, ==models, source code, executables & documentation==
 
-3. Process - The manner it's done
+3. **Process (how?)** - The manner it's done
 	- What type of software did you use in your Software Development process
+	- A software engineering process is a 
 
 4. Project
 	- Overall management
