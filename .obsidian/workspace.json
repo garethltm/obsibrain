@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "24965b6a76a90602",
+        "id": "72190e76bd6ffe21",
         "type": "tabs",
         "children": [
           {
-            "id": "05f29dc71d7629c1",
+            "id": "9ab2d4079996b929",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -176,10 +176,11 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "05f29dc71d7629c1",
+  "active": "9ab2d4079996b929",
   "lastOpenFiles": [
-    "COMPSCI235 - Software Development Methodologies/software.md",
+    "COMPSCI235 - Software Development Methodologies/Untitled.md",
     "COMPSCI235 - Software Development Methodologies/AGILE.md",
+    "COMPSCI235 - Software Development Methodologies/software.md",
     "@images/Pasted image 20231101003219.png",
     "@images/Pasted image 20231101002841.png",
     "@images/Pasted image 20231101002623.png",
