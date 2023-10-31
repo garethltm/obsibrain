@@ -32,4 +32,7 @@ which are:
 5. Build projects around **motivated individuals**. Give them the environment & support they need, & trust them to get the job done
 6. The most efficient & effective method of conveying information to & within a development team is **face-to-face conversation**
 7. Working software is the primary measure of progress
-8. [[AGILE]] processes promote sustainable development. The sponsors, developers & users should be able to maintain a constant pace 
+8. [[AGILE]] processes promote sustainable development. The sponsors, developers & users should be able to maintain a constant pace indefinitely
+9. Continuous attention to technical excellence & good design enhances agility
+10. Simplicity - the art of maximizing the amount of work not done is essential
+11. 
