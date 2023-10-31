@@ -20,3 +20,4 @@
 ![[Pasted image 20231101024036.png]]
 
 ### Git Team Workflow
+![[Pasted image 20231101024142.png]]
