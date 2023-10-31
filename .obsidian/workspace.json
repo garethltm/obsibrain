@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Linear Approach.md",
+                "file": "COMPSCI235 - Software Development Methodologies/Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Linear Approach.md",
+                "file": "COMPSCI235 - Software Development Methodologies/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Linear Approach.md",
+                "file": "COMPSCI235 - Software Development Methodologies/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Linear Approach.md"
+                "file": "COMPSCI235 - Software Development Methodologies/Untitled.md"
               }
             }
           },
@@ -153,7 +153,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Linear Approach.md"
+                "file": "COMPSCI235 - Software Development Methodologies/Untitled.md"
               }
             }
           }
@@ -178,11 +178,13 @@
   },
   "active": "05f29dc71d7629c1",
   "lastOpenFiles": [
-    "@images/Pasted image 20231101000937.png",
     "COMPSCI235 - Software Development Methodologies/Software Process Models.md",
-    "COMPSCI235 - Software Development Methodologies/Linear Approach.md",
-    "COMPSCI235 - Software Development Methodologies/software development.md",
+    "COMPSCI235 - Software Development Methodologies/Untitled.md",
+    "COMPSCI235 - Software Development Methodologies/Incremental Approach.md",
     "COMPSCI235 - Software Development Methodologies/software engineering process.md",
+    "COMPSCI235 - Software Development Methodologies/software development.md",
+    "COMPSCI235 - Software Development Methodologies/Linear Approach.md",
+    "@images/Pasted image 20231101000937.png",
     "INFOSYS222 - Database Systems/Database Management System (DBMS).md",
     "COMPSCI235 - Software Development Methodologies/The 4 P's of Software Development.md",
     "COMPSCI235 - Software Development Methodologies/Planning.md",
@@ -208,14 +210,12 @@
     "COMPSCI367 - Artificial Intelligence/finals prep.canvas",
     "COMPSCI235 - Software Development Methodologies",
     "COMPSCI367 - Artificial Intelligence/367 summary.md",
-    "COMPSCI367 - Artificial Intelligence/week08/First-Order Definite clauses.md",
     "@images/Pasted image 20231031120054.png",
     "@images/Pasted image 20231031115913.png",
     "@images/Pasted image 20231031114623.png",
     "@images/Pasted image 20231031114600.png",
     "@images/Pasted image 20231031113518.png",
     "@images/Pasted image 20231031015949.png",
-    "@images/Pasted image 20231031015932.png",
     "COMPSCI367 - Artificial Intelligence/week12",
     "COMPSCI367 - Artificial Intelligence/week11",
     "COMPSCI367 - Artificial Intelligence/week08",

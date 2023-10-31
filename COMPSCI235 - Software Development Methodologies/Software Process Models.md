@@ -3,3 +3,5 @@
 ![[Pasted image 20231101000506.png]]
 
 1. [[Linear Approach]]
+2. [[Incremental Approach]]
+3. [[Evolutionary (Iterative) Approach]]
