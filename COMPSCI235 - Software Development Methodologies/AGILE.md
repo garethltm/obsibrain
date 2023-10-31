@@ -3,4 +3,5 @@
 - drawing customer onto the team
 	- continuous feedback
 - deliver multiple [[software]] increments, in an iterative fashion
-- [[AGILE]] is basically both
+- [[AGILE]] is basically both [[Evolutionary (Iterative) Approach]] & [[Incremental Approach]]
+	- [[Incremental Approach]] - breaks up a project into specific areas of functionality (modules) & attempts to completely develop 
