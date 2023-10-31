@@ -1,2 +1,3 @@
-- [[Instructions]] that when 
-- Data structures
+- [[Instructions (computer programs)]]
+- [[Data structures]]
+- [[Documents]]

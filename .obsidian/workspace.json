@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Instruction.md",
+                "file": "COMPSCI235 - Software Development Methodologies/Documents.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Instruction.md",
+                "file": "COMPSCI235 - Software Development Methodologies/Documents.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Instruction.md",
+                "file": "COMPSCI235 - Software Development Methodologies/Documents.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Instruction.md"
+                "file": "COMPSCI235 - Software Development Methodologies/Documents.md"
               }
             }
           },
@@ -153,7 +153,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Instruction.md"
+                "file": "COMPSCI235 - Software Development Methodologies/Documents.md"
               }
             }
           }
@@ -179,7 +179,9 @@
   "active": "05f29dc71d7629c1",
   "lastOpenFiles": [
     "COMPSCI235 - Software Development Methodologies/Software vs Program.md",
-    "COMPSCI235 - Software Development Methodologies/Instruction.md",
+    "COMPSCI235 - Software Development Methodologies/Documents.md",
+    "COMPSCI235 - Software Development Methodologies/Instructions (computer programs).md",
+    "COMPSCI235 - Software Development Methodologies/Data structures.md",
     "COMPSCI367 - Artificial Intelligence/finals prep.canvas",
     "COMPSCI235 - Software Development Methodologies",
     "COMPSCI367 - Artificial Intelligence/367 summary.md",
@@ -209,8 +211,6 @@
     "COMPSCI367 - Artificial Intelligence/week06/Knowledge Base (KB).md",
     "COMPSCI367 - Artificial Intelligence/week06/model of a propositional KB.md",
     "COMPSCI367 - Artificial Intelligence/week07/resolution.md",
-    "COMPSCI367 - Artificial Intelligence/week07/Forward Chaining.md",
-    "COMPSCI367 - Artificial Intelligence/week07/entails.md",
     "@images/Pasted image 20231031015949.png",
     "@images/Pasted image 20231031015932.png",
     "@images/Pasted image 20231031015925.png",
