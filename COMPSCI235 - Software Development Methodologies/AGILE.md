@@ -38,11 +38,13 @@ which are:
 11. The best architectures, requirements & designs emerge from **self-organizing teams**
 12. At regular intervals, the **team reflects on how to become more effective**, then tunes & adjusts its behaviour accordingly
 
-### [[AGILE]] [[software development]] methologies
+### [[AGILE]] [[software development]] methodologies
 - eXtreme Programming (XP)
 - Feature-Driven Development (FDD)
 - Scrum
 - Lean Software Development
 - Kanban
 - Test Driven Development
-- Adaptive Software
+- Adaptive Software Development (ASD)
+- Crystal Clear & Other Crystal Methodologies
+- Dynamic System Development Method (DSDM)
