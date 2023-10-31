@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Deployment.md",
+                "file": "COMPSCI235 - Software Development Methodologies/Software Process Models.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Deployment.md",
+                "file": "COMPSCI235 - Software Development Methodologies/Software Process Models.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Deployment.md",
+                "file": "COMPSCI235 - Software Development Methodologies/Software Process Models.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Deployment.md"
+                "file": "COMPSCI235 - Software Development Methodologies/Software Process Models.md"
               }
             }
           },
@@ -153,7 +153,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Deployment.md"
+                "file": "COMPSCI235 - Software Development Methodologies/Software Process Models.md"
               }
             }
           }
@@ -178,6 +178,9 @@
   },
   "active": "05f29dc71d7629c1",
   "lastOpenFiles": [
+    "COMPSCI235 - Software Development Methodologies/Deployment.md",
+    "COMPSCI235 - Software Development Methodologies/Software Process Models.md",
+    "COMPSCI235 - Software Development Methodologies/maintenance phase.md",
     "COMPSCI235 - Software Development Methodologies/Construction (Code, Test).md",
     "COMPSCI235 - Software Development Methodologies/Modelling (Analyze, Design).md",
     "COMPSCI235 - Software Development Methodologies/Planning.md",
@@ -190,11 +193,9 @@
     "COMPSCI235 - Software Development Methodologies/requirements gathering.md",
     "COMPSCI235 - Software Development Methodologies/released product.md",
     "COMPSCI235 - Software Development Methodologies/process.md",
-    "COMPSCI235 - Software Development Methodologies/maintenance phase.md",
     "COMPSCI235 - Software Development Methodologies/Instructions (computer programs).md",
     "COMPSCI235 - Software Development Methodologies/Generic Software Development Process Framework.md",
     "COMPSCI235 - Software Development Methodologies/Documents.md",
-    "COMPSCI235 - Software Development Methodologies/Deployment.md",
     "COMPSCI235 - Software Development Methodologies/Data structures.md",
     "@images/Pasted image 20231031235041.png",
     "COMPSCI235 - Software Development Methodologies/Software vs Program.md",
@@ -208,7 +209,6 @@
     "COMPSCI367 - Artificial Intelligence/week08/First-Order Interpretation.md",
     "COMPSCI367 - Artificial Intelligence/week08/First-Order KB.md",
     "COMPSCI367 - Artificial Intelligence/week08/First-Order Logic Inference.md",
-    "COMPSCI367 - Artificial Intelligence/week08/First-Order Logic.md",
     "@images/Pasted image 20231031115913.png",
     "@images/Pasted image 20231031114623.png",
     "@images/Pasted image 20231031114600.png",
