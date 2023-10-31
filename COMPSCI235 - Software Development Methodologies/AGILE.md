@@ -48,3 +48,9 @@ which are:
 - Adaptive Software Development (ASD)
 - Crystal Clear & Other Crystal Methodologies
 - Dynamic System Development Method (DSDM)
+
+## [[AGILE]] Process Models
+1. [[AGILE]] Management Model
+	- Scrum
+	- Kanban
+2. 
