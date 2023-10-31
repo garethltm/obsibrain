@@ -11,8 +11,12 @@
             "id": "05f29dc71d7629c1",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "COMPSCI235 - Software Development Methodologies/requirements gathering.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "COMPSCI235 - Software Development Methodologies/requirements gathering.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "COMPSCI235 - Software Development Methodologies/requirements gathering.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "COMPSCI235 - Software Development Methodologies/requirements gathering.md"
+              }
             }
           },
           {
@@ -144,7 +152,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {}
+              "state": {
+                "file": "COMPSCI235 - Software Development Methodologies/requirements gathering.md"
+              }
             }
           }
         ],
@@ -168,6 +178,8 @@
   },
   "active": "05f29dc71d7629c1",
   "lastOpenFiles": [
+    "COMPSCI235 - Software Development Methodologies/Communication.md",
+    "COMPSCI235 - Software Development Methodologies/requirements gathering.md",
     "COMPSCI235 - Software Development Methodologies/Generic Software Development Process Framework.md",
     "COMPSCI235 - Software Development Methodologies/maintenance phase.md",
     "COMPSCI235 - Software Development Methodologies/Deployment.md",
@@ -178,7 +190,6 @@
     "COMPSCI235 - Software Development Methodologies/software engineering process.md",
     "COMPSCI235 - Software Development Methodologies/The 4 P's of Software Development.md",
     "COMPSCI235 - Software Development Methodologies/Instructions (computer programs).md",
-    "COMPSCI235 - Software Development Methodologies/Communication.md",
     "COMPSCI235 - Software Development Methodologies/Systematic Development Process.md",
     "COMPSCI235 - Software Development Methodologies/stakeholders.md",
     "@images/Pasted image 20231031235041.png",
@@ -198,7 +209,6 @@
     "COMPSCI367 - Artificial Intelligence/week08/First-Order KB.md",
     "COMPSCI367 - Artificial Intelligence/week08/First-Order Logic Inference.md",
     "COMPSCI367 - Artificial Intelligence/week08/First-Order Logic.md",
-    "COMPSCI367 - Artificial Intelligence/week08/Generalised Modus Ponens (GMP).md",
     "@images/Pasted image 20231031115913.png",
     "@images/Pasted image 20231031114623.png",
     "@images/Pasted image 20231031114600.png",
