@@ -13,3 +13,4 @@
     - This helps to **avoid merging any unstable changes into the main code base** & gives the opportunity to clean up changes before merging them to the main or parent branch
 
 ### Git Basic Workflow
+![[Pasted image 20231101023759.png]]
