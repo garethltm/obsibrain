@@ -1,5 +1,6 @@
 ## Why Version Control
 
+![[Pasted image 20231101023014.png]]
 
 
 ## Version Control Systems (VCS)
