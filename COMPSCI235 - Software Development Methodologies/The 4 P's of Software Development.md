@@ -12,10 +12,10 @@
 3. **Process (how?)** - The manner it's done
 	- What type of software did you use in your Software Development process
 	- A [[software engineering process]]
-	- A process
+	- A [[process]]
 
-4. Project
-	- Overall management
+4. **Project (manage this all)** - Overall management
+	- The organi
 	- Planning, Resource-allocation, Budget-allocation
 >	#Example 
 >	Hiring people, developers, etc.
