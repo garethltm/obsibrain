@@ -23,4 +23,6 @@ which are:
 - Customer Collaboration
 - Responding to Change
 
-## 12 princi
+## 12 principles of [[AGILE]] [[software]]
+1. Our highest priority is to satisfy customer through **early & continuous delivery** of valuable [[software]]
+2. Welcoming changing requirements
