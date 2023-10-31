@@ -13,4 +13,6 @@
 
 
 ## Manifesto for [[AGILE]] [[software development]]
-"We are uncovering "
+*"We are uncovering better ways of developing [[software]] by doing it & helping others to do it"*
+
+![[Pasted image 20231101002841.png]]
