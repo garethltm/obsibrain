@@ -10,3 +10,7 @@
 
 ![[Pasted image 20231101002623.png]]
 >[[AGILE]] is a mindset
+
+
+## Manifesto for [[AGILE]] [[software development]]
+"We are uncovering "
