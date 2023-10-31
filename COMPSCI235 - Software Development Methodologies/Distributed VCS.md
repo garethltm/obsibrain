@@ -5,3 +5,7 @@
 - Allow one to set up several types of workflows that are not available in centralized systems
     
     > Example: branching to fix bugs, implement features
+    
+![[Pasted image 20231101023324.png]]
+
+Related: [[vcs]]
