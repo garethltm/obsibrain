@@ -31,4 +31,4 @@ which are:
 4. Business people & developers must **work together daily** throughout the project
 5. Build projects around **motivated individuals**. Give them the environment & support they need, & trust them to get the job done
 6. The most efficient & effective method of conveying information to & within a development team is **face-to-face conversation**
-7. 
+7. Working software is the primary measure of progress
