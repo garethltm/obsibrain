@@ -22,4 +22,4 @@
 ### Git Team Workflow
 ![[Pasted image 20231101024142.png]]
 
->	GitHub is a web-based [[Git VCS Introduction]]
+>	[[GitHub]]
