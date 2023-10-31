@@ -16,3 +16,11 @@
 *"We are uncovering better ways of developing [[software]] by doing it & helping others to do it"*
 
 ![[Pasted image 20231101002841.png]]
+Valuing the items on the LEFT more than the RIGHT
+which are:
+- Individuals & Interactions
+- Working Software
+- Customer Collaboration
+- Responding to Change
+
+## 12 princi
