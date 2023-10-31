@@ -6,7 +6,7 @@
 		- Generally anyone that has interest
 
 2. **Product (what?)** - The artifacts produced 
-	- Software you are creating
+	- [[Software]] you are creating
 	- Artifacts that are created during the life of the project, such as, ==models, source code, executables & documentation==
 
 3. **Process (how?)** - The manner it's done

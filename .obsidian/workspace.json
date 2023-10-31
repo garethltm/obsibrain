@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Software Process Models.md",
+                "file": "INFOSYS222 - Database Systems/Database Management System (DBMS).md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "software",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Software Process Models.md",
+                "file": "INFOSYS222 - Database Systems/Database Management System (DBMS).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Software Process Models.md",
+                "file": "INFOSYS222 - Database Systems/Database Management System (DBMS).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Software Process Models.md"
+                "file": "INFOSYS222 - Database Systems/Database Management System (DBMS).md"
               }
             }
           },
@@ -153,7 +154,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Software Process Models.md"
+                "file": "INFOSYS222 - Database Systems/Database Management System (DBMS).md"
               }
             }
           }
@@ -178,19 +179,21 @@
   },
   "active": "05f29dc71d7629c1",
   "lastOpenFiles": [
-    "@images/Pasted image 20231101000506.png",
+    "COMPSCI235 - Software Development Methodologies/The 4 P's of Software Development.md",
+    "COMPSCI235 - Software Development Methodologies/Planning.md",
     "COMPSCI235 - Software Development Methodologies/Deployment.md",
+    "COMPSCI235 - Software Development Methodologies/software development.md",
     "COMPSCI235 - Software Development Methodologies/Software Process Models.md",
+    "COMPSCI235 - Software Development Methodologies/Software vs Program.md",
+    "COMPSCI235 - Software Development Methodologies/software.md",
+    "@images/Pasted image 20231101000506.png",
     "COMPSCI235 - Software Development Methodologies/maintenance phase.md",
     "COMPSCI235 - Software Development Methodologies/Construction (Code, Test).md",
     "COMPSCI235 - Software Development Methodologies/Modelling (Analyze, Design).md",
-    "COMPSCI235 - Software Development Methodologies/Planning.md",
     "COMPSCI235 - Software Development Methodologies/Communication.md",
-    "COMPSCI235 - Software Development Methodologies/The 4 P's of Software Development.md",
     "COMPSCI235 - Software Development Methodologies/Systematic Development Process.md",
     "COMPSCI235 - Software Development Methodologies/stakeholders.md",
     "COMPSCI235 - Software Development Methodologies/software engineering process.md",
-    "COMPSCI235 - Software Development Methodologies/software development.md",
     "COMPSCI235 - Software Development Methodologies/requirements gathering.md",
     "COMPSCI235 - Software Development Methodologies/released product.md",
     "COMPSCI235 - Software Development Methodologies/process.md",
@@ -199,7 +202,6 @@
     "COMPSCI235 - Software Development Methodologies/Documents.md",
     "COMPSCI235 - Software Development Methodologies/Data structures.md",
     "@images/Pasted image 20231031235041.png",
-    "COMPSCI235 - Software Development Methodologies/Software vs Program.md",
     "@images/Pasted image 20231031234245.png",
     "COMPSCI367 - Artificial Intelligence/finals prep.canvas",
     "COMPSCI235 - Software Development Methodologies",
@@ -215,7 +217,6 @@
     "@images/Pasted image 20231031113518.png",
     "@images/Pasted image 20231031015949.png",
     "@images/Pasted image 20231031015932.png",
-    "@images/Pasted image 20231031015925.png",
     "COMPSCI367 - Artificial Intelligence/week12",
     "COMPSCI367 - Artificial Intelligence/week11",
     "COMPSCI367 - Artificial Intelligence/week08",
