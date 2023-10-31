@@ -11,7 +11,8 @@
 
 3. **Process (how?)** - The manner it's done
 	- What type of software did you use in your Software Development process
-	- A software engineering process is a 
+	- A [[software engineering process]]
+	- A process
 
 4. Project
 	- Overall management

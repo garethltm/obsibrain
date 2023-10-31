@@ -1,0 +1,1 @@
+a definition of the complete set of activities needed to transform users' requirements into a product
