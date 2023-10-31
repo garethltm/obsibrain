@@ -1,0 +1,1 @@
+Gathering requirements from the stakeholders

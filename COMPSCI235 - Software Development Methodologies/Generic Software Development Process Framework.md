@@ -2,5 +2,7 @@
 
 [[software engineering process]]
 1. [[Communication]]
-2. [[planning]]
-3. 
+2. [[COMPSCI235 - Software Development Methodologies/Planning|Planning]]
+3. [[Modelling]]
+4. [[Construction]]
+5. Deployment
