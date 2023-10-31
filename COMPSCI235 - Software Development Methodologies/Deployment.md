@@ -1,1 +1,3 @@
-- deployed in the production en
+- deployed in the production environment
+	- even if deployed the job is still not finished
+		- there is still the [[maintenance phase]]
