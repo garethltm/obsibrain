@@ -1,15 +1,7 @@
-## Why Version Control
-
-![[Pasted image 20231101023014.png]]
-![[Pasted image 20231101023116.png]]
-
-
-## Version Control Systems (VCS)
 - Also known as source code management systems or revision control systems
 - A system that records changes to a data file or set of data files over time so that one can recall and compare specific versions later
 >	#Example 
 >	Git, Subversion (SVN), Mercurial, etc.
-
 
 - Data can be:
     - text
@@ -36,4 +28,8 @@
 💡 Olden days concept of local VCS: 
 	the idea of having one central server and people going to commit changes to that one central system
 	Disadvantage: if that server dies down, you won’t have access to your repositories
+## Why Version Control
+
+![[Pasted image 20231101023014.png]]
+![[Pasted image 20231101023116.png]]
 

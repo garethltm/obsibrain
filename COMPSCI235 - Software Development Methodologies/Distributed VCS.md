@@ -8,4 +8,4 @@
     
 ![[Pasted image 20231101023324.png]]
 
-Related: [[vcs]]
+Related: [[Version Control Systems (VCS)]]
