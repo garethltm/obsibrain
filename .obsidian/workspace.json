@@ -12,9 +12,20 @@
             "id": "358f03c9716e94e8",
             "type": "leaf",
             "state": {
+              "type": "diff-view",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "staged": false
+              }
+            }
+          },
+          {
+            "id": "a68305eeca05db73",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/WTForms.md",
+                "file": "conflict-files-obsidian-git.md",
                 "mode": "source",
                 "source": false
               }
@@ -51,7 +62,6 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "COMPSCI235 - Software Development Methodologies/WTForms.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -86,7 +96,6 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "COMPSCI235 - Software Development Methodologies/WTForms.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -185,7 +194,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/WTForms.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -202,7 +210,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/WTForms.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -224,9 +231,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/WTForms.md"
-              }
+              "state": {}
             }
           },
           {
@@ -270,12 +275,12 @@
   "lastOpenFiles": [
     "COMPSCI235 - Software Development Methodologies/Combating CSRF.md",
     "COMPSCI235 - Software Development Methodologies/WTForms.md",
+    "conflict-files-obsidian-git.md",
     "COMPSCI235 - Software Development Methodologies/Version Control Systems (VCS).md",
     "COMPSCI235 - Software Development Methodologies/Dependencies.md",
     "COMPSCI235 - Software Development Methodologies/Dependency Inversion Principle (DIP).md",
     "COMPSCI235 - Software Development Methodologies/Web application architecture.md",
     "COMPSCI367 - Artificial Intelligence/week12/Decision function.md",
-    "conflict-files-obsidian-git.md",
     "COMPSCI235 - Software Development Methodologies/White Box Testing.md",
     "COMPSCI235 - Software Development Methodologies/Web-based Systems.md",
     "COMPSCI235 - Software Development Methodologies/URL Building.md",
