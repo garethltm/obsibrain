@@ -148,4 +148,8 @@ tags that apply at a given point
 2. images `<img>`
 	- pages may contain images
 		- but images are not plain text
-		- can't be insert
+		- can't be inserted directly into HTML page
+	- SOLUTION
+		- store the image on the internet (or locally on disk)
+		- `<tag>` contains the address of the image
+		- web browser loads image when required
