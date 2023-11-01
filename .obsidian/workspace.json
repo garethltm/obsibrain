@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Testing.md",
+                "file": "COMPSCI235 - Software Development Methodologies/Acceptance Testing.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Testing.md",
+                "file": "COMPSCI235 - Software Development Methodologies/Acceptance Testing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Testing.md",
+                "file": "COMPSCI235 - Software Development Methodologies/Acceptance Testing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Testing.md"
+                "file": "COMPSCI235 - Software Development Methodologies/Acceptance Testing.md"
               }
             }
           },
@@ -166,7 +166,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Testing.md"
+                "file": "COMPSCI235 - Software Development Methodologies/Acceptance Testing.md"
               }
             }
           }
@@ -191,13 +191,15 @@
   },
   "active": "de2e79bafafac181",
   "lastOpenFiles": [
+    "COMPSCI235 - Software Development Methodologies/requirements gathering.md",
+    "COMPSCI235 - Software Development Methodologies/Acceptance Testing.md",
+    "COMPSCI235 - Software Development Methodologies/Testing.md",
     "COMPSCI235 - Software Development Methodologies/Unit Testing.md",
     "COMPSCI235 - Software Development Methodologies/Deployment.md",
     "COMPSCI235 - Software Development Methodologies/System testing.md",
     "@images/Pasted image 20231101152421.png",
     "COMPSCI235 - Software Development Methodologies/non-functional.md",
     "COMPSCI235 - Software Development Methodologies/functional.md",
-    "COMPSCI235 - Software Development Methodologies/Testing.md",
     "COMPSCI235 - Software Development Methodologies/Gray Box Testing.md",
     "COMPSCI235 - Software Development Methodologies/Black Box Testing.md",
     "COMPSCI235 - Software Development Methodologies/Integration Testing.md",
@@ -225,8 +227,6 @@
     "@images/Pasted image 20231101145646.png",
     "INFOSYS222 - Database Systems/Dependency.md",
     "COMPSCI235 - Software Development Methodologies/Structural elements.md",
-    "COMPSCI235 - Software Development Methodologies/requirements gathering.md",
-    "COMPSCI235 - Software Development Methodologies/Systematic Development Process.md",
     "COMPSCI367 - Artificial Intelligence/finals prep.canvas",
     "COMPSCI235 - Software Development Methodologies",
     "COMPSCI367 - Artificial Intelligence/week12",
