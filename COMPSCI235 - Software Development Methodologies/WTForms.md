@@ -11,3 +11,6 @@ a simple framework that simplifies working with [[Hypertext Markup Language (HTM
 	- String, Date/Time field
 - Validators
 	- Length should be, ..., 
+
+### Configuration
+![[Pasted image 20231102102459.png]]
