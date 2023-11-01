@@ -1,4 +1,4 @@
-
+![[Pasted image 20231102005437.png]]
 - Python's `abc` module provides infrastructure for defining abstract classes
 - To use `abc` (Abstract Base Class)
 	- Make `AbstractRepository` a subclass of ABC
