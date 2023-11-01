@@ -3,6 +3,8 @@
 
 - [[Middleware]] is a layer of [[software]] that sits between application code & the operating system
 	- acting like an interface
-	- provides some sort of programming abstraction (issues are usually hidden from application developer)
+	- provides some sort of **programming abstraction** (issues & complexity are usually hidden from application developer)
 	>	#Example 
-	>	remote method invocation, web frameworks
+	>	remote method invocation, web frameworks, etc.
+
+	- Hides complexity from application dev
