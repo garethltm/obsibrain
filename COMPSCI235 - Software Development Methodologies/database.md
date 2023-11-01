@@ -26,8 +26,10 @@ A [[COMPSCI235 - Software Development Methodologies/database|database]] is an or
 - Other Problems:
 	- Redundancies
 		- You need to update more columns when you want to make some changes
-		- which leads to
-	- Inconsistencies
+	- Inconsistencies - potentially caused by Redundancies
+		- some places are not the same
 	- Security - Who has access?
 	- Isolation - When there is concurrent multi-user access
+	- Atomicity of updates
+	- Durability
 
