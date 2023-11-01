@@ -41,3 +41,11 @@ can be embedded in [[Hyper Text Markup Language (HTML)]] document or placed into
 
 ## Properties for fonts
 ![[Pasted image 20231101174212.png]]![[Pasted image 20231101174226.png]]
+
+## Properties for text
+![[Pasted image 20231101174249.png]]
+
+## Properties for list
+![[Pasted image 20231101174315.png]]
+
+## Properties for borders
