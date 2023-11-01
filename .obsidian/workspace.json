@@ -57,7 +57,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "gareth",
+                "query": "ser",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +74,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -175,7 +176,7 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "df54043e914f1e1e",
+  "active": "a6e0090ac9cbd1f3",
   "lastOpenFiles": [
     "COMPSCI235 - Software Development Methodologies/Unit Testing.md",
     "COMPSCI235 - Software Development Methodologies/Unit Testing - Service Layer.md",
