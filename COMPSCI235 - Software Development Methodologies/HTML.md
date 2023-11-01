@@ -26,4 +26,9 @@ Elements are the building blocks of web pages
 - Designators that define the content & the structure of objects in a page
 
 Markup achieved with "tags"
-- enclosed with angle brackets <...>
+- enclosed with angle brackets `<...>`
+- use lower case
+
+![[Pasted image 20231101162122.png]]
+
+### Attributes
