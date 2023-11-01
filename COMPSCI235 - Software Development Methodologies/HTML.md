@@ -158,7 +158,7 @@ tags that apply at a given point
 >			GIF, JPG, PNG
 ![[Pasted image 20231101170453.png]]![[Pasted image 20231101170827.png]]
 
-# Hypertext reference
+#### Hypertext reference
 a link to another resource on the WorldWideWeb
 - references to other documents
 - pages, images, files, sections
@@ -167,3 +167,6 @@ a link to another resource on the WorldWideWeb
 		- attribute used to specify the destination of the link
 		- URL![[Pasted image 20231101171113.png]]
 
+#### emphasis & strong
+`<em>` & `<strong>` are meant to indicate meaning through style
+- if you want to have ita
