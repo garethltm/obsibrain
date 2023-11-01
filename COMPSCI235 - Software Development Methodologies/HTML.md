@@ -74,14 +74,9 @@ define the structure of a "block"
 - #### Paragraphs `<p>`
 	- defines a paragraph of text![[Pasted image 20231101163424.png]]
 
-- #### Headings `<h1>,<h2>`![[Pasted image 20231101163552.png]]
-	
-	
-	`<h3>`
-	`<h4>`
-	`<h5>`
-	`<h6>`
+- #### Headings `<h1>,<h2>,<h3>,<h4>,<h5>,<h6>`![[Pasted image 20231101163552.png]]
 	- 6 levels of headings![[Pasted image 20231101163627.png]]
 - #### Lists
+	1. Ordered Lists 
 
 - Tables
