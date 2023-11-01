@@ -7,4 +7,6 @@ Bundle multiple [[COMPSCI235 - Software Development Methodologies/database|datab
 
 >	#Example 
 >	2 customers want to book a seat in a flight using a flight reservation system
->	They 
+>	They both try to book the same seat at the same time
+>	- Problem: Concurrent multi-user access![[Pasted image 20231102105423.png]]
+
