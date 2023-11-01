@@ -4,11 +4,16 @@ Run on a web browser, no need for local installation
 
 ### Components of [[Web-based Systems]]
 1. Client-side Scripting
+
 	- HTML
 	- CSS
 	- JavaScript
-2. Server-side Scripting
+3. Server-side Scripting
 	- PHP
-	- Python
+	- Python (we will be using [[Flask]] framework)
+		- servers sends back a [[Hypertext Markup Language (HTML)]] page to user
 	- Node.js
-3. Data
+4. Database technologies
+	- MySQL
+	- PostgreSQL
+	- MongoDB
