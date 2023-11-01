@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Relational DBMS (RDBMS).md",
+                "file": "COMPSCI235 - Software Development Methodologies/NoSQL.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Relational DBMS (RDBMS).md",
+                "file": "COMPSCI235 - Software Development Methodologies/NoSQL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Relational DBMS (RDBMS).md",
+                "file": "COMPSCI235 - Software Development Methodologies/NoSQL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Relational DBMS (RDBMS).md"
+                "file": "COMPSCI235 - Software Development Methodologies/NoSQL.md"
               }
             }
           },
@@ -177,8 +177,8 @@
   },
   "active": "df54043e914f1e1e",
   "lastOpenFiles": [
-    "COMPSCI235 - Software Development Methodologies/NoSQL.md",
     "COMPSCI235 - Software Development Methodologies/Relational DBMS (RDBMS).md",
+    "COMPSCI235 - Software Development Methodologies/NoSQL.md",
     "COMPSCI235 - Software Development Methodologies/Database Management System (DBMS).md",
     "COMPSCI235 - Software Development Methodologies/database.md",
     "@images/Pasted image 20231102120828.png",
