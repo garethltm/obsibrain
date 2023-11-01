@@ -8,4 +8,9 @@ Units may be:
 - Individual functions/methods within an object
 - Object classes with several attributes & methds
 	- Complete test coverage of a class involves
-		- [[Testing]] all operation
+		- [[Testing]] all operations associated with an object
+		- Setting & interrogating all object attributes
+		- Exercising the object in all possible states
+>	#Example 
+>	`class Publisher`
+>	test
