@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/database.md",
+                "file": "COMPSCI235 - Software Development Methodologies/Relational database.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/database.md",
+                "file": "COMPSCI235 - Software Development Methodologies/Relational database.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/database.md",
+                "file": "COMPSCI235 - Software Development Methodologies/Relational database.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/database.md"
+                "file": "COMPSCI235 - Software Development Methodologies/Relational database.md"
               }
             }
           },
@@ -153,7 +153,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/database.md"
+                "file": "COMPSCI235 - Software Development Methodologies/Relational database.md"
               }
             }
           }
@@ -178,8 +178,9 @@
   },
   "active": "449af76cbbab7809",
   "lastOpenFiles": [
-    "COMPSCI235 - Software Development Methodologies/Minimum Viable Product (MVP).md",
     "COMPSCI235 - Software Development Methodologies/database.md",
+    "COMPSCI235 - Software Development Methodologies/Relational database.md",
+    "COMPSCI235 - Software Development Methodologies/Minimum Viable Product (MVP).md",
     "@images/Pasted image 20231102003319.png",
     "COMPSCI235 - Software Development Methodologies/Application Architecture.md",
     "COMPSCI235 - Software Development Methodologies/Domain Modeling.md",
@@ -213,7 +214,6 @@
     "COMPSCI235 - Software Development Methodologies/selector.md",
     "COMPSCI235 - Software Development Methodologies/non-functional.md",
     "COMPSCI235 - Software Development Methodologies/model.md",
-    "COMPSCI235 - Software Development Methodologies/functional.md",
     "COMPSCI367 - Artificial Intelligence/finals prep.canvas",
     "COMPSCI235 - Software Development Methodologies",
     "COMPSCI367 - Artificial Intelligence/week12",
