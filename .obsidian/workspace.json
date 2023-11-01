@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Domain Modeling.md",
+                "file": "COMPSCI235 - Software Development Methodologies/Unified Modeling Language (UML).md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Domain Modeling.md",
+                "file": "COMPSCI235 - Software Development Methodologies/Unified Modeling Language (UML).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Domain Modeling.md",
+                "file": "COMPSCI235 - Software Development Methodologies/Unified Modeling Language (UML).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Domain Modeling.md"
+                "file": "COMPSCI235 - Software Development Methodologies/Unified Modeling Language (UML).md"
               }
             }
           },
@@ -153,7 +153,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Domain Modeling.md"
+                "file": "COMPSCI235 - Software Development Methodologies/Unified Modeling Language (UML).md"
               }
             }
           }
@@ -178,8 +178,9 @@
   },
   "active": "9ab2d4079996b929",
   "lastOpenFiles": [
-    "COMPSCI235 - Software Development Methodologies/Modelling (Analyze, Design).md",
     "COMPSCI235 - Software Development Methodologies/Domain Modeling.md",
+    "COMPSCI235 - Software Development Methodologies/Unified Modeling Language (UML).md",
+    "COMPSCI235 - Software Development Methodologies/Modelling (Analyze, Design).md",
     "COMPSCI235 - Software Development Methodologies/requirements gathering.md",
     "COMPSCI235 - Software Development Methodologies/design(s).md",
     "COMPSCI235 - Software Development Methodologies/Evolutionary (Iterative) Approach.md",
@@ -213,7 +214,6 @@
     "@images/Pasted image 20231101024036.png",
     "@images/Pasted image 20231101024003.png",
     "@images/Pasted image 20231101023759.png",
-    "COMPSCI235 - Software Development Methodologies/Minimum Viable Product (MVP).md",
     "COMPSCI367 - Artificial Intelligence/finals prep.canvas",
     "COMPSCI235 - Software Development Methodologies",
     "COMPSCI367 - Artificial Intelligence/week12",
