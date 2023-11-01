@@ -130,4 +130,14 @@ define the structure of a "block"
 	- is an example of a [[semantic]] element![[Pasted image 20231101165631.png]]
 
 # Inline tags
-appear within the blo
+appear within the blocks
+- apply to words within paragraphs etc.
+
+common inline tags
+- Images
+- Hypertext References
+
+# Empty tags
+tags that apply at a given point
+- do not format content
+- only opening tag is required
