@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/AGILE.md",
+                "file": "COMPSCI235 - Software Development Methodologies/Modelling (Analyze, Design).md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/AGILE.md",
+                "file": "COMPSCI235 - Software Development Methodologies/Modelling (Analyze, Design).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/AGILE.md",
+                "file": "COMPSCI235 - Software Development Methodologies/Modelling (Analyze, Design).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/AGILE.md"
+                "file": "COMPSCI235 - Software Development Methodologies/Modelling (Analyze, Design).md"
               }
             }
           },
@@ -154,7 +154,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/AGILE.md"
+                "file": "COMPSCI235 - Software Development Methodologies/Modelling (Analyze, Design).md"
               }
             }
           }
@@ -179,8 +179,11 @@
   },
   "active": "9ab2d4079996b929",
   "lastOpenFiles": [
-    "design.md",
+    "COMPSCI235 - Software Development Methodologies/Evolutionary (Iterative) Approach.md",
+    "COMPSCI235 - Software Development Methodologies/Deployment.md",
+    "COMPSCI235 - Software Development Methodologies/design(s).md",
     "COMPSCI235 - Software Development Methodologies/AGILE.md",
+    "design.md",
     "COMPSCI235 - Software Development Methodologies/process.md",
     "COMPSCI235 - Software Development Methodologies/Planning.md",
     "COMPSCI235 - Software Development Methodologies/software.md",
@@ -193,8 +196,6 @@
     "COMPSCI235 - Software Development Methodologies/Generic Software Development Process Framework.md",
     "COMPSCI235 - Software Development Methodologies/Documents.md",
     "COMPSCI235 - Software Development Methodologies/Distributed VCS.md",
-    "COMPSCI235 - Software Development Methodologies/design.md",
-    "COMPSCI235 - Software Development Methodologies/Deployment.md",
     "COMPSCI235 - Software Development Methodologies/Data structures.md",
     "COMPSCI235 - Software Development Methodologies/Construction (Code, Test).md",
     "COMPSCI235 - Software Development Methodologies/analysis.md",
@@ -214,7 +215,6 @@
     "@images/Pasted image 20231101023759.png",
     "COMPSCI235 - Software Development Methodologies/Minimum Viable Product (MVP).md",
     "COMPSCI235 - Software Development Methodologies/maintenance phase.md",
-    "COMPSCI235 - Software Development Methodologies/released product.md",
     "COMPSCI367 - Artificial Intelligence/finals prep.canvas",
     "COMPSCI235 - Software Development Methodologies",
     "COMPSCI367 - Artificial Intelligence/week12",
