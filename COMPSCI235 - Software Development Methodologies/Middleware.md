@@ -7,4 +7,9 @@
 	>	#Example 
 	>	remote method invocation, web frameworks, etc.
 
-	- Hides complexity from application dev
+	- Provides infrastructure to take care of the low-level concerns
+	>	#Example 
+	>	protocols, sockets or process/thread management
+	
+	- Masks [[hert]]
+	>	
