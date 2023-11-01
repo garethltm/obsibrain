@@ -1,4 +1,4 @@
-![[Pasted image 20231101142840.png]]
+![[Pasted image 20231101143224.png]]
 1. Activity Diagram
 2. Use Case Diagram
 3. State Machine Diagram
