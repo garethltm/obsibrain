@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Templating.md",
+                "file": "COMPSCI235 - Software Development Methodologies/Jinja.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Templating.md",
+                "file": "COMPSCI235 - Software Development Methodologies/Jinja.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Templating.md",
+                "file": "COMPSCI235 - Software Development Methodologies/Jinja.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Templating.md"
+                "file": "COMPSCI235 - Software Development Methodologies/Jinja.md"
               }
             }
           },
@@ -153,7 +153,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Templating.md"
+                "file": "COMPSCI235 - Software Development Methodologies/Jinja.md"
               }
             }
           }
@@ -176,12 +176,13 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "449af76cbbab7809",
+  "active": "3ad179677b7fba41",
   "lastOpenFiles": [
+    "COMPSCI235 - Software Development Methodologies/Templating.md",
+    "COMPSCI235 - Software Development Methodologies/Jinja.md",
     "@images/Pasted image 20231101232004.png",
     "@images/Pasted image 20231101231947.png",
     "COMPSCI235 - Software Development Methodologies/Flask.md",
-    "COMPSCI235 - Software Development Methodologies/Templating.md",
     "@images/Pasted image 20231101231220.png",
     "@images/Pasted image 20231101231147.png",
     "COMPSCI235 - Software Development Methodologies/Middleware.md",
@@ -213,7 +214,6 @@
     "COMPSCI235 - Software Development Methodologies/Pytest.md",
     "COMPSCI235 - Software Development Methodologies/Networked.md",
     "COMPSCI235 - Software Development Methodologies/Inline styles.md",
-    "@images/Pasted image 20231101182430.png",
     "COMPSCI367 - Artificial Intelligence/finals prep.canvas",
     "COMPSCI235 - Software Development Methodologies",
     "COMPSCI367 - Artificial Intelligence/week12",
