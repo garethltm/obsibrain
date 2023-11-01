@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Hypertext Transfer Protocol (HTTP).md",
+                "file": "COMPSCI235 - Software Development Methodologies/Middleware.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Hypertext Transfer Protocol (HTTP).md",
+                "file": "COMPSCI235 - Software Development Methodologies/Middleware.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Hypertext Transfer Protocol (HTTP).md",
+                "file": "COMPSCI235 - Software Development Methodologies/Middleware.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Hypertext Transfer Protocol (HTTP).md"
+                "file": "COMPSCI235 - Software Development Methodologies/Middleware.md"
               }
             }
           },
@@ -153,7 +153,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Hypertext Transfer Protocol (HTTP).md"
+                "file": "COMPSCI235 - Software Development Methodologies/Middleware.md"
               }
             }
           }
@@ -178,14 +178,14 @@
   },
   "active": "449af76cbbab7809",
   "lastOpenFiles": [
+    "COMPSCI235 - Software Development Methodologies/Hypertext Transfer Protocol (HTTP).md",
+    "COMPSCI235 - Software Development Methodologies/Middleware.md",
     "@images/Pasted image 20231101230040.png",
     "@images/Pasted image 20231101230006.png",
     "@images/Pasted image 20231101225811.png",
     "@images/Pasted image 20231101224730.png",
     "@images/Pasted image 20231101224705.png",
     "COMPSCI235 - Software Development Methodologies/standard protocol.md",
-    "COMPSCI235 - Software Development Methodologies/Untitled.md",
-    "COMPSCI235 - Software Development Methodologies/Hypertext Transfer Protocol (HTTP).md",
     "COMPSCI235 - Software Development Methodologies/open protocol.md",
     "COMPSCI235 - Software Development Methodologies/GitHub.md",
     "conflict-files-obsidian-git.md",
@@ -213,7 +213,6 @@
     "@images/Pasted image 20231101181810.png",
     "@images/Pasted image 20231101181741.png",
     "@images/Pasted image 20231101181322.png",
-    "@images/Pasted image 20231101181132.png",
     "COMPSCI367 - Artificial Intelligence/finals prep.canvas",
     "COMPSCI235 - Software Development Methodologies",
     "COMPSCI367 - Artificial Intelligence/week12",

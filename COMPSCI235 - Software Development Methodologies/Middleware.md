@@ -1,0 +1,2 @@
+- As an app developer, we want to only focus on the logic rather than getting stuck with hardware/low level details
+	- we'd like some help in t
