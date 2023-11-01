@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "29204b37fc003a9a",
@@ -182,6 +181,7 @@
   },
   "active": "de2e79bafafac181",
   "lastOpenFiles": [
+    "COMPSCI235 - Software Development Methodologies/Git VCS.md",
     "COMPSCI235 - Software Development Methodologies/Test-driven development (AGILE practice).md",
     "COMPSCI235 - Software Development Methodologies/AGILE.md",
     "COMPSCI235 - Software Development Methodologies/released product.md",
@@ -213,7 +213,6 @@
     "COMPSCI235 - Software Development Methodologies/White Box Testing.md",
     "COMPSCI235 - Software Development Methodologies/Classes.md",
     "@images/Pasted image 20231101150459.png",
-    "COMPSCI235 - Software Development Methodologies/Construction (Code, Test).md",
     "@images/Pasted image 20231101150231.png",
     "@images/Pasted image 20231101150153.png",
     "@images/Pasted image 20231101150030.png",
