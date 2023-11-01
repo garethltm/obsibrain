@@ -11,4 +11,8 @@ Key environment variables include:
 			- Any exceptions raised to be displayed in the Web browser
 			- The app to be reloaded automatically after you have edited the code
 - `SECRET_KEY` - doing one way hash - secret is usually on the server side
-- 
+	- Used by [[Flask]] & associated plug-ins to perform encryption
+>	#Example 
+>	signing cookies & tokens
+
+- TESTING - Ensures that exceptions are propagated rather than handled by any application error handlers
