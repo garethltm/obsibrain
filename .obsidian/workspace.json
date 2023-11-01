@@ -18,6 +18,16 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d3364b512079b666",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "@images/L08Web-basedSystems1-03.jpg"
+              }
+            }
           }
         ]
       }
@@ -178,8 +188,9 @@
   },
   "active": "9ab2d4079996b929",
   "lastOpenFiles": [
-    "COMPSCI235 - Software Development Methodologies/Web-based Systems.md",
+    "@images/L08Web-basedSystems1-03.jpg",
     "COMPSCI235 - Software Development Methodologies/Modern software systems.md",
+    "COMPSCI235 - Software Development Methodologies/Web-based Systems.md",
     "COMPSCI235 - Software Development Methodologies/Scalability.md",
     "COMPSCI235 - Software Development Methodologies/Maintenance.md",
     "COMPSCI235 - Software Development Methodologies/Accessibility.md",
@@ -201,7 +212,6 @@
     "@images/Pasted image 20231101174109.png",
     "COMPSCI235 - Software Development Methodologies/Inline styles.md",
     "@images/Pasted image 20231101174042.png",
-    "@images/Pasted image 20231101173833.png",
     "COMPSCI235 - Software Development Methodologies/External style sheet.md",
     "COMPSCI235 - Software Development Methodologies/selector.md",
     "COMPSCI235 - Software Development Methodologies/Class selectors.md",
@@ -213,7 +223,6 @@
     "COMPSCI235 - Software Development Methodologies/Git VCS.md",
     "COMPSCI235 - Software Development Methodologies/Test-driven development (AGILE practice).md",
     "COMPSCI235 - Software Development Methodologies/AGILE.md",
-    "COMPSCI235 - Software Development Methodologies/released product.md",
     "COMPSCI367 - Artificial Intelligence/finals prep.canvas",
     "COMPSCI235 - Software Development Methodologies",
     "COMPSCI367 - Artificial Intelligence/week12",
