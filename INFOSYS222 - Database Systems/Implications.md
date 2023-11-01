@@ -7,7 +7,7 @@
 [[1NF - 1st Normal Form]] DB with simple [[Attribute(s)]] & a PK
 	this is already [[2NF - 2nd Normal Form]]
 
-[[2NF - 2nd Normal Form]] DB with no transitive [[Dependency]]
+[[2NF - 2nd Normal Form]] DB with no transitive [[INFOSYS222 - Database Systems/Dependency]]
 	this is already [[3NF - 3rd Normal Form]]
 
 No room for composite & derived [[Attribute(s)]]

@@ -7,7 +7,8 @@
 
 2. **Product (what?)** - The artifacts produced 
 	- [[Software]] you are creating
-	- Artifacts that are created during the life of the project, such as, ==models, source code, executables & documentation==
+	- [[released product]]
+	- Artifacts that are created during the life of the project, such as, ==[[model]], source code, executables & documentation==
 
 3. **Process (how?)** - The manner it's done
 	- What type of software did you use in your [[Software Development]] process

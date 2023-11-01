@@ -1,0 +1,1 @@
+- combination of [[White Box Testing]] & [[Black Box Testing]]

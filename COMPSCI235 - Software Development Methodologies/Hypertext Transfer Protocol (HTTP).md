@@ -1,0 +1,1 @@
+[[Hypertext Transfer Protocol (HTTP)]] is a text-based protocol with character content of [[Hypertext Transfer Protocol (HTTP)]] messages being encoded using the [[open protocol]] & [[standard protocol]] UTF-8 encoding format

@@ -1,0 +1,1 @@
+A [[standard protocol]] is the one that is agreed upon & adopted for communication

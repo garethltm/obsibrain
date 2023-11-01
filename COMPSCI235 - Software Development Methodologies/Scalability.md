@@ -1,0 +1,1 @@
+Can handle an increase in user load by adjusting server capabilities

@@ -23,3 +23,5 @@
 ![[Pasted image 20231101024142.png]]
 
 >	[[GitHub]]
+
+Related to: [[Version Control Systems (VCS)]]

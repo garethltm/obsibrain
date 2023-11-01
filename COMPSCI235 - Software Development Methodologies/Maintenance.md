@@ -1,0 +1,1 @@
+Easy updates & bug fixes since changes are made directly on the server

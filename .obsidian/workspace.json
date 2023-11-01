@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "c223c2dd609c3bc6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -48,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "released",
+                "query": "hp",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +78,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/GitHub.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/GitHub.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/GitHub.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -153,7 +167,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/GitHub.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           }
@@ -176,44 +190,44 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "9ab2d4079996b929",
+  "active": "a6e0090ac9cbd1f3",
   "lastOpenFiles": [
-    "@images/Pasted image 20231101025006.png",
-    "@images/Pasted image 20231101024928.png",
-    "@images/Pasted image 20231101024900.png",
-    "@images/Pasted image 20231101024813.png",
-    "@images/Pasted image 20231101024741.png",
-    "COMPSCI235 - Software Development Methodologies/Git VCS.md",
     "COMPSCI235 - Software Development Methodologies/GitHub.md",
-    "@images/Pasted image 20231101024304.png",
-    "@images/Pasted image 20231101024259.png",
-    "@images/Pasted image 20231101024254.png",
-    "@images/Pasted image 20231101024142.png",
-    "@images/Pasted image 20231101024036.png",
-    "@images/Pasted image 20231101024003.png",
-    "COMPSCI235 - Software Development Methodologies/Version Control Systems (VCS).md",
-    "COMPSCI235 - Software Development Methodologies/Distributed VCS.md",
-    "COMPSCI235 - Software Development Methodologies/Systematic Development Process.md",
-    "COMPSCI235 - Software Development Methodologies/stakeholders.md",
-    "COMPSCI235 - Software Development Methodologies/Modelling (Analyze, Design).md",
-    "COMPSCI235 - Software Development Methodologies/Minimum Viable Product (MVP).md",
-    "COMPSCI235 - Software Development Methodologies/maintenance phase.md",
-    "COMPSCI235 - Software Development Methodologies/released product.md",
-    "COMPSCI235 - Software Development Methodologies/AGILE.md",
-    "COMPSCI235 - Software Development Methodologies/software.md",
-    "COMPSCI235 - Software Development Methodologies/Evolutionary (Iterative) Approach.md",
-    "COMPSCI235 - Software Development Methodologies/Linear Approach.md",
-    "COMPSCI235 - Software Development Methodologies/Incremental Approach.md",
-    "COMPSCI235 - Software Development Methodologies/process.md",
-    "COMPSCI235 - Software Development Methodologies/Generic Software Development Process Framework.md",
-    "COMPSCI235 - Software Development Methodologies/Software Process Models.md",
-    "COMPSCI235 - Software Development Methodologies/software engineering process.md",
-    "COMPSCI235 - Software Development Methodologies/software development.md",
-    "INFOSYS222 - Database Systems/Database Management System (DBMS).md",
-    "COMPSCI235 - Software Development Methodologies/The 4 P's of Software Development.md",
-    "COMPSCI235 - Software Development Methodologies/Planning.md",
-    "COMPSCI235 - Software Development Methodologies/Deployment.md",
-    "COMPSCI235 - Software Development Methodologies/Software vs Program.md",
+    "conflict-files-obsidian-git.md",
+    "COMPSCI235 - Software Development Methodologies/semantic.md",
+    "COMPSCI235 - Software Development Methodologies/selector.md",
+    "COMPSCI235 - Software Development Methodologies/open protocol.md",
+    "COMPSCI235 - Software Development Methodologies/non-functional.md",
+    "COMPSCI235 - Software Development Methodologies/model.md",
+    "COMPSCI235 - Software Development Methodologies/functional.md",
+    "COMPSCI235 - Software Development Methodologies/fault-tolerance.md",
+    "COMPSCI235 - Software Development Methodologies/design(s).md",
+    "COMPSCI235 - Software Development Methodologies/analysis.md",
+    "COMPSCI235 - Software Development Methodologies/acceptance criteria.md",
+    "COMPSCI235 - Software Development Methodologies/White Box Testing.md",
+    "COMPSCI235 - Software Development Methodologies/Web-based Systems.md",
+    "COMPSCI235 - Software Development Methodologies/Structural Diagrams.md",
+    "COMPSCI235 - Software Development Methodologies/Scalability.md",
+    "COMPSCI235 - Software Development Methodologies/Relationships.md",
+    "COMPSCI235 - Software Development Methodologies/Pytest.md",
+    "COMPSCI235 - Software Development Methodologies/Networked.md",
+    "COMPSCI235 - Software Development Methodologies/Inline styles.md",
+    "COMPSCI235 - Software Development Methodologies/ID selectors.md",
+    "COMPSCI235 - Software Development Methodologies/Hypertext Transfer Protocol (HTTP).md",
+    "COMPSCI235 - Software Development Methodologies/Hypertext Markup Language (HTML).md",
+    "COMPSCI235 - Software Development Methodologies/How to deal with dependencies in testing.md",
+    "COMPSCI235 - Software Development Methodologies/Heterogeneous.md",
+    "COMPSCI235 - Software Development Methodologies/Gray Box Testing.md",
+    "@images/Pasted image 20231101182430.png",
+    "@images/Pasted image 20231101181925.png",
+    "@images/Pasted image 20231101181810.png",
+    "@images/Pasted image 20231101181741.png",
+    "@images/Pasted image 20231101181322.png",
+    "@images/Pasted image 20231101181132.png",
+    "@images/Pasted image 20231101180701.png",
+    "@images/Pasted image 20231101180627.png",
+    "@images/Pasted image 20231101174358.png",
+    "@images/Pasted image 20231101174337.png",
     "COMPSCI367 - Artificial Intelligence/finals prep.canvas",
     "COMPSCI235 - Software Development Methodologies",
     "COMPSCI367 - Artificial Intelligence/week12",

@@ -14,7 +14,7 @@ Entity Set:
 >[[Keys]]: Candidate, Primary, Composite
 
 [[Relationship]]
->[[Dependency]], Cardinality, Degree
+>[[INFOSYS222 - Database Systems/Dependency]], Cardinality, Degree
 
 [[Entity Specialisation]]
 >Hierarchy, Inheritance, Participation, Constraint
