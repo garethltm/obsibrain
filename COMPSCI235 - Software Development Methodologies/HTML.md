@@ -157,3 +157,9 @@ tags that apply at a given point
 >			#Example 
 >			GIF, JPG, PNG
 ![[Pasted image 20231101170453.png]]![[Pasted image 20231101170827.png]]
+
+# Hypertext reference
+a link to another resource on the WorldWideWeb
+- references to other documents
+- pages, images, files, sections
+	
