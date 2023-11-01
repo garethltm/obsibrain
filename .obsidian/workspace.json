@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/transaction(s).md",
+                "file": "COMPSCI235 - Software Development Methodologies/Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/transaction(s).md",
+                "file": "COMPSCI235 - Software Development Methodologies/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/transaction(s).md",
+                "file": "COMPSCI235 - Software Development Methodologies/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/transaction(s).md"
+                "file": "COMPSCI235 - Software Development Methodologies/Untitled.md"
               }
             }
           },
@@ -177,9 +177,11 @@
   },
   "active": "df54043e914f1e1e",
   "lastOpenFiles": [
+    "COMPSCI235 - Software Development Methodologies/transaction(s).md",
+    "COMPSCI235 - Software Development Methodologies/Untitled.md",
+    "@images/Pasted image 20231102105731.png",
     "@images/Pasted image 20231102105423.png",
     "COMPSCI235 - Software Development Methodologies/database.md",
-    "COMPSCI235 - Software Development Methodologies/transaction(s).md",
     "COMPSCI235 - Software Development Methodologies/Web application architecture.md",
     "@images/Pasted image 20231102104455.png",
     "COMPSCI235 - Software Development Methodologies/Repository.md",
@@ -196,11 +198,9 @@
     "COMPSCI235 - Software Development Methodologies/WTForms.md",
     "@images/Pasted image 20231102102610.png",
     "@images/Pasted image 20231102102541.png",
-    "@images/Pasted image 20231102102459.png",
     "COMPSCI235 - Software Development Methodologies/Flask Configuration.md",
     "COMPSCI235 - Software Development Methodologies/Flask.md",
     "COMPSCI235 - Software Development Methodologies/Flask WTF.md",
-    "@images/Pasted image 20231102101253.png",
     "COMPSCI235 - Software Development Methodologies/Combating CSRF.md",
     "conflict-files-obsidian-git.md",
     "COMPSCI235 - Software Development Methodologies/Classes.md",

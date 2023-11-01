@@ -13,4 +13,5 @@ Bundle multiple [[COMPSCI235 - Software Development Methodologies/database|datab
 >	#Example 
 >	You want to transfer $10,000 from your cheque account to your savings account but there is hardware or software "crash" while the operation is executing
 >	- Problem: Atomicity of updates
->		- they are 
+>		- they are atomic in nature; which basically means that it cannot be broken down
+>	- DBMS guarantees stability as they are using the concept of transactions![[Pasted image 20231102105731.png]]
