@@ -6,13 +6,16 @@
 
 ### Method types
 - [[Hypertext Transfer Protocol (HTTP)]] defines a set of methods, one of which is specified in a request message:
-	- GET (Retrieve information)
-		- requests a specified resource
-	- HEAD (Not returning actual resource but all meta data related to the resource)
+	- `GET` (Retrieve information)
+		- REQUESTS a specified resource
+	- `HEAD` (Not returning actual resource but all meta data related to the resource)
 		- similar to GET, only returns meta data for the resource
 		> #Example 
 		> 		modification time, size, type
-	- POST (Putting data to the server/Grant access to users) $\rightarrow$ register someone
-		- requests that the named resource processes data
+	- `POST` (Putting data to the server/Grant access to users) $\rightarrow$ register someone
+		- REQUESTS that the named resource processes data
 		- typically used to process form data
-	- PUT (Not creating new resource; changing/updat)
+	- `PUT` (Not creating new resource; changing/updating details of an information)
+		- REQUESTS that the named resource is replaced with data contained in the message body
+	- DELETE
+		- Re
