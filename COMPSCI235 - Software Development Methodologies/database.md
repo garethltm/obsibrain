@@ -21,5 +21,9 @@ A [[COMPSCI235 - Software Development Methodologies/database|database]] is an or
 - Read & Writes to flat files are non-trivial
 	- We need to parse the files each time we want to read/update records
 		- you also need to know the structure of the file
-		- parse the whole file, where you need to bring the entire file to memory 
+		- parse the whole file, where you need to bring the entire file to memory - make changes & write back to file
+- Storage of data in files
+- Other Problems:
+	- Redundancies
+		- You need to update more columns when you want to make some chag
 
