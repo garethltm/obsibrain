@@ -16,6 +16,9 @@
 
 ### `app.run()`
 - [[Flask]] application gets started by calling run() method.
-- app.run(host, port, options)
+- `app.run(host, port, options)`
 	- host - hostname to listen on (default - 127.0.0.1 (localhost))
 	- port - (default - 5000)
+- to start in debug mode - `app.run(debug=True)`
+	- only in [[Testing]] environment
+	- if you make changes, it would automatically stop & restart the server
