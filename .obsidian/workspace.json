@@ -11,8 +11,12 @@
             "id": "33a55b9766be070c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "COMPSCI235 - Software Development Methodologies/Authentication.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "COMPSCI235 - Software Development Methodologies/Authentication.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "COMPSCI235 - Software Development Methodologies/Authentication.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "COMPSCI235 - Software Development Methodologies/Authentication.md"
+              }
             }
           },
           {
@@ -144,7 +152,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {}
+              "state": {
+                "file": "COMPSCI235 - Software Development Methodologies/Authentication.md"
+              }
             }
           }
         ],
@@ -166,8 +176,10 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "3ad179677b7fba41",
+  "active": "33a55b9766be070c",
   "lastOpenFiles": [
+    "COMPSCI235 - Software Development Methodologies/Security concerns.md",
+    "COMPSCI235 - Software Development Methodologies/Authentication.md",
     "COMPSCI235 - Software Development Methodologies/Python's support for abstract base classes.md",
     "@images/Pasted image 20231102005437.png",
     "COMPSCI235 - Software Development Methodologies/The Repository pattern.md",
@@ -202,7 +214,6 @@
     "COMPSCI235 - Software Development Methodologies/Template containment.md",
     "COMPSCI235 - Software Development Methodologies/Template inheritance.md",
     "COMPSCI235 - Software Development Methodologies/Templating.md",
-    "COMPSCI235 - Software Development Methodologies/Jinja.md",
     "COMPSCI367 - Artificial Intelligence/finals prep.canvas",
     "COMPSCI235 - Software Development Methodologies",
     "COMPSCI367 - Artificial Intelligence/week12",
