@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Element selector.md",
+                "file": "COMPSCI235 - Software Development Methodologies/Class selectors.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Element selector.md",
+                "file": "COMPSCI235 - Software Development Methodologies/Class selectors.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Element selector.md",
+                "file": "COMPSCI235 - Software Development Methodologies/Class selectors.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Element selector.md"
+                "file": "COMPSCI235 - Software Development Methodologies/Class selectors.md"
               }
             }
           },
@@ -166,7 +166,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Element selector.md"
+                "file": "COMPSCI235 - Software Development Methodologies/Class selectors.md"
               }
             }
           }
@@ -191,8 +191,11 @@
   },
   "active": "de2e79bafafac181",
   "lastOpenFiles": [
+    "@images/Pasted image 20231101172708.png",
     "COMPSCI235 - Software Development Methodologies/selector.md",
+    "COMPSCI235 - Software Development Methodologies/Class selectors.md",
     "COMPSCI235 - Software Development Methodologies/Element selector.md",
+    "@images/Pasted image 20231101172541.png",
     "COMPSCI235 - Software Development Methodologies/Cascading Style Sheets (CSS).md",
     "@images/Pasted image 20231101172223.png",
     "@images/Pasted image 20231101172211.png",
@@ -204,7 +207,6 @@
     "@images/Pasted image 20231101171445.png",
     "@images/Pasted image 20231101171302.png",
     "@images/Pasted image 20231101171113.png",
-    "@images/Pasted image 20231101170827.png",
     "COMPSCI235 - Software Development Methodologies/semantic.md",
     "COMPSCI235 - Software Development Methodologies/The 4 P's of Software Development.md",
     "COMPSCI235 - Software Development Methodologies/software engineering process.md",
@@ -225,8 +227,6 @@
     "COMPSCI235 - Software Development Methodologies/System testing.md",
     "COMPSCI235 - Software Development Methodologies/non-functional.md",
     "COMPSCI235 - Software Development Methodologies/functional.md",
-    "COMPSCI235 - Software Development Methodologies/Gray Box Testing.md",
-    "COMPSCI235 - Software Development Methodologies/Black Box Testing.md",
     "COMPSCI367 - Artificial Intelligence/finals prep.canvas",
     "COMPSCI235 - Software Development Methodologies",
     "COMPSCI367 - Artificial Intelligence/week12",
