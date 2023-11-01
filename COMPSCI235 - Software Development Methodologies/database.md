@@ -33,3 +33,7 @@ A [[COMPSCI235 - Software Development Methodologies/database|database]] is an or
 	- Atomicity of updates
 	- Durability
 
+Databases solves these problems
+- [[Transactions]]
+	- Commit & Rollback
+

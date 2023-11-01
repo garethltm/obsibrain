@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/database.md",
+                "file": "COMPSCI235 - Software Development Methodologies/Transactions.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/database.md",
+                "file": "COMPSCI235 - Software Development Methodologies/Transactions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/database.md",
+                "file": "COMPSCI235 - Software Development Methodologies/Transactions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/database.md"
+                "file": "COMPSCI235 - Software Development Methodologies/Transactions.md"
               }
             }
           },
@@ -177,6 +177,8 @@
   },
   "active": "df54043e914f1e1e",
   "lastOpenFiles": [
+    "COMPSCI235 - Software Development Methodologies/database.md",
+    "COMPSCI235 - Software Development Methodologies/Transactions.md",
     "COMPSCI235 - Software Development Methodologies/Web application architecture.md",
     "@images/Pasted image 20231102104455.png",
     "COMPSCI235 - Software Development Methodologies/Repository.md",
@@ -211,7 +213,6 @@
     "COMPSCI235 - Software Development Methodologies/Unified Modeling Language (UML).md",
     "COMPSCI235 - Software Development Methodologies/Transport protocols.md",
     "COMPSCI235 - Software Development Methodologies/thread.md",
-    "COMPSCI235 - Software Development Methodologies/thread pools.md",
     "COMPSCI235 - Software Development Methodologies",
     "COMPSCI367 - Artificial Intelligence/finals prep.canvas",
     "COMPSCI367 - Artificial Intelligence/week12",
