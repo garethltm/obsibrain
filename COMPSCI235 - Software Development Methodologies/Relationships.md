@@ -1,8 +1,10 @@
 ![[Pasted image 20231101144620.png]]
 #### Generalization: an inheritance
-- Inheritance
-- Implements
+- Inheritance between [[Classes]]
+- Realization/Implement (for [[Interfaces]])
 
-#### Association: 
+#### Association: a usage relationship
+if not sure, use association in general
 - Dependency
 - Association
+- Composition
