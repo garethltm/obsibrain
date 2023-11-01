@@ -26,9 +26,11 @@
 		- REQUESTS that the server simply sends back the request message
 
 ### Status codes
-- 1xx - informationala
+- 1xx - informational
 - 2xx - success
 	- server received the REQUEST & successfully carried it out
 - 3xx - redirection
 	- login page: checking if user exists/verified $\rightarrow$ redirect to another page
-- 4xx - client error, tpy
+- 4xx - client error (PAGE NOT FOUND/Incorrect URL), typically used to represent:
+	- a malfunctioned URL supplied by the client
+	- an attempt to access a resource which isn't held by the server
