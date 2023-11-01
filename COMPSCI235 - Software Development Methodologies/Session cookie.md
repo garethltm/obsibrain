@@ -11,4 +11,5 @@ temporary [[cookie]]; only there while the [[session]] exists
 	- creates a temporary user [[session]]
 	- issues the [[cookie]] with a sessionID
 
-3. User
+3. User sends the [[cookie]] with each subsequent request
+4. Server validates the sessionID against the 
