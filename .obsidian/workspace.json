@@ -19,8 +19,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "e4371036ca7665f4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "992e264c1b226738",
@@ -51,7 +64,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "COMPSCI235 - Software Development Methodologies/Combating CSRF.md",
+                    "file": "conflict-files-obsidian-git.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -86,7 +99,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "COMPSCI235 - Software Development Methodologies/Combating CSRF.md",
+                    "file": "conflict-files-obsidian-git.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -185,7 +198,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Combating CSRF.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -202,7 +215,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Combating CSRF.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -225,7 +238,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Combating CSRF.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -266,17 +279,18 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "358f03c9716e94e8",
+  "active": "e4371036ca7665f4",
   "lastOpenFiles": [
+    "COMPSCI235 - Software Development Methodologies/Combating CSRF.md",
+    "conflict-files-obsidian-git.md",
+    "COMPSCI235 - Software Development Methodologies/WTForms.md",
     "@images/Pasted image 20231102095650.png",
     "COMPSCI235 - Software Development Methodologies/Classes.md",
-    "COMPSCI235 - Software Development Methodologies/Combating CSRF.md",
     "COMPSCI235 - Software Development Methodologies/Version Control Systems (VCS).md",
     "COMPSCI235 - Software Development Methodologies/Dependencies.md",
     "COMPSCI235 - Software Development Methodologies/Dependency Inversion Principle (DIP).md",
     "COMPSCI235 - Software Development Methodologies/Web application architecture.md",
     "COMPSCI367 - Artificial Intelligence/week12/Decision function.md",
-    "conflict-files-obsidian-git.md",
     "COMPSCI235 - Software Development Methodologies/White Box Testing.md",
     "COMPSCI235 - Software Development Methodologies/Web-based Systems.md",
     "COMPSCI235 - Software Development Methodologies/URL Building.md",
@@ -304,7 +318,6 @@
     "@images/Pasted image 20231102004834.png",
     "@images/Pasted image 20231102004211.png",
     "@images/Pasted image 20231102004109.png",
-    "@images/Pasted image 20231102003319.png",
     "COMPSCI367 - Artificial Intelligence/finals prep.canvas",
     "COMPSCI367 - Artificial Intelligence/week12",
     "COMPSCI367 - Artificial Intelligence/week11",
