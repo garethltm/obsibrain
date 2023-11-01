@@ -48,5 +48,8 @@ tags must be correctly nested
 	- `lang` attribute is used to specify the primary language of a webpage
 		- `en` is the code for English
 ![[Pasted image 20231101162504.png]]
-2. <head>
--
+2. `<head>`
+- contains information for the browser
+>	#Example 
+>	character encoding used
+- doesn't contain any content to be displayed on the page
