@@ -6,4 +6,6 @@ Key environment variables include:
 	- Specifies the app to run when issuing a '`flask run`' command from the terminal
 - FLASK_ENV - what environment we want to run at the moment
 	- Set to either 'development' or 'production'
-		- 
+		- 'development', switches on debugging mode - which is very useful when developing an app
+		- Debugging mode causes:
+			- Any exceptions raised to be displayed
