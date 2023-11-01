@@ -1,4 +1,4 @@
-- asks for a [[satisfiable]] [[interpretation]] of a [[proposition]]
+- asks for a [[satisfiable]] [[interpretation]] of a [[proposition(s)]]
 - a special case of [[Constraint Satisfaction Problem (CSPs)]]
 - a well known [[NP]]-complete problem
 

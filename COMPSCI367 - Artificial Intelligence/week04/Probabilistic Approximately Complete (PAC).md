@@ -1,2 +1,2 @@
 - if the probability that a [[try]] fails to find an optimal solution can be made arbitrarily small when the search runs for sufficiently long
-- sooner or later there is a chance there is a sequence that leads to the goal state
+- sooner or later there is a chance there is a sequence that leads to the [[goal(s) - goal state(s)]] state

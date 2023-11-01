@@ -1,3 +1,4 @@
+- can use [[Search Techniques (Search Strategy) (Search Algorithm)]] to plan several steps ahead in order to achieve its [[goal(s) - goal state(s)]]
 - decision making made by this [[agent(s)]] if fundamentally different from the condition-action rules
 - involves consideration of the future
 	> What will happen if I do this [[action(s)]]

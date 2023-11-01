@@ -1,7 +1,8 @@
-- solves the infinite loop **problem**
+- solves the infinite loop **problem** of [[Depth-First Search (DFS)]]
+	- expands nodes like [[Depth-First Search (DFS)]] but cutoff at maximum depth of [[path(s)]]
 
 ## Properties
-- [[COMPSCI367 - Artificial Intelligence/week02/Complete]]
+- [[Complete]]
     - Yes - no infinite loops anymore
 	- Even if there is loops in the graph, it can’t go infinitely as it would cycle within the limit of the maximum number of steps but will still need to go back and traverse to other parts of the graph
 - [[Time Complexity]]
@@ -10,7 +11,7 @@
 - [[Space Complexity]]
     - $O(bk)$ 
 	    - linear space similar to [[Depth-First Search (DFS)]]
-- [[Optimal]]
+- [[optimal]]
     - No, can find [[suboptimal]] [[solution(s)]] first
 	1. If u set the limit at the level of the [[solution(s)]] 
 		- it is supposed to find it at the shallowest level. 

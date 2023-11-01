@@ -6,3 +6,5 @@
 
 ### Semantics of [[First-Order Logic]]
 - [[First-Order Interpretation]]
+
+Related to: [[First-Order Logic Inference]]

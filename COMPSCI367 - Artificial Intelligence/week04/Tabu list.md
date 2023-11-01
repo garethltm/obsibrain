@@ -1,1 +1,1 @@
-- Keep fixed length queue
+- Keep fixed length [[Queue]]

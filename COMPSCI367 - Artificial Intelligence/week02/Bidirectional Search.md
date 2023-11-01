@@ -17,7 +17,7 @@
     - $O(b^\frac d2)$
 - [[Space Complexity]]
     -  $O(b^\frac d2)$
-- [[Optimal]]
+- [[optimal]]
     - Depends on the [[Search Techniques (Search Strategy) (Search Algorithm)]] used
 
 >Bidirectional search is [[Uninformed Search]] strategy as it only uses the information provided by the [[State Space]]. 

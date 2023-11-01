@@ -6,7 +6,7 @@
       {
         "id": "e1ccbf259f6ba816",
         "type": "tabs",
-        "dimension": 87.30964467005077,
+        "dimension": 71.7005076142132,
         "children": [
           {
             "id": "358f03c9716e94e8",
@@ -15,13 +15,26 @@
               "type": "graph",
               "state": {}
             }
+          },
+          {
+            "id": "5eead39936a83d85",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "992e264c1b226738",
         "type": "split",
-        "dimension": 12.690355329949234,
+        "dimension": 28.299492385786802,
         "children": [
           {
             "id": "8d459d1c85b8b9ed",
@@ -47,6 +60,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
+                    "file": "conflict-files-obsidian-git.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -81,6 +95,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
+                    "file": "conflict-files-obsidian-git.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -179,6 +194,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,6 +211,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -216,7 +233,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "conflict-files-obsidian-git.md"
+              }
             }
           },
           {
@@ -256,8 +275,19 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "358f03c9716e94e8",
+  "active": "5eead39936a83d85",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "COMPSCI367 - Artificial Intelligence/week12/moral responsibility.md",
+    "COMPSCI367 - Artificial Intelligence/week05/chromosomes.md",
+    "COMPSCI367 - Artificial Intelligence/week04/gradient.md",
+    "COMPSCI367 - Artificial Intelligence/week03/Least Constraining Value.md",
+    "COMPSCI367 - Artificial Intelligence/week03/Constraint Graph.md",
+    "COMPSCI367 - Artificial Intelligence/week03/Binary CSP.md",
+    "COMPSCI367 - Artificial Intelligence/week03/Arc Consistency.md",
+    "COMPSCI367 - Artificial Intelligence/week03/A-Star Search.md",
+    "COMPSCI367 - Artificial Intelligence/week02/monotonically.md",
+    "COMPSCI367 - Artificial Intelligence/finals prep.canvas",
     "COMPSCI367 - Artificial Intelligence/week04/trivially complete.md",
     "COMPSCI367 - Artificial Intelligence/week04/Typical Annealing Schedule.md",
     "COMPSCI367 - Artificial Intelligence/week04/Hill-Climbing.md",
@@ -274,16 +304,6 @@
     "COMPSCI367 - Artificial Intelligence/week02/Priority Queue.md",
     "COMPSCI367 - Artificial Intelligence/week02/Depth-First Search (DFS).md",
     "COMPSCI367 - Artificial Intelligence/week01/Deterministic.md",
-    "COMPSCI367 - Artificial Intelligence/week04/Random-Restart Hill Climbing.md",
-    "COMPSCI367 - Artificial Intelligence/week04/Probabilistic Hill-Climbing.md",
-    "COMPSCI367 - Artificial Intelligence/week04/Greedy Descent.md",
-    "COMPSCI367 - Artificial Intelligence/week04/Gradient descent.md",
-    "COMPSCI367 - Artificial Intelligence/week09/TranslateToSAT.md",
-    "COMPSCI367 - Artificial Intelligence/week01/agent(s).md",
-    "COMPSCI367 - Artificial Intelligence/week11/Additive independence property.md",
-    "COMPSCI367 - Artificial Intelligence/week01/agent(s)-HP.md",
-    "INFOSYS222 - Database Systems/DQL - Data Query Language-HP.md",
-    "COMPSCI367 - Artificial Intelligence/week11/Expected utility hypothesis-HP.md",
     "@images/Pasted image 20231026174833.png",
     "@images/Pasted image 20231026174606.png",
     "@images/Pasted image 20231026170928.png",

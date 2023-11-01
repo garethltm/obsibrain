@@ -11,8 +11,8 @@
 - Words
 - Phrases
 - [[clause(s)]]
-- [[sentence]]
-> Transforming [[clause(s)]] & [[sentence]] into [[First-Order Logic]]
+- [[sentence(s)]]
+> Transforming [[clause(s)]] & [[sentence(s)]] into [[First-Order Logic]]
 > Language can be broken down from documents into smaller fragments 
 > > Sentences, words
 

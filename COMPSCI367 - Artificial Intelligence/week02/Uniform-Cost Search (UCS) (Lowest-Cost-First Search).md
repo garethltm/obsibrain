@@ -2,19 +2,22 @@
 	- similar to [[Breadth-First Search (BFS)]] but it selects a [[path(s)]] with the ==lowest cost==
 	- the [[frontier (open list, fringe)]] is implemented as a [[Priority Queue]] ordered by the ==cost function==
 
+[[Uniform-Cost Search (UCS) (Lowest-Cost-First Search)]] is basically ==[[Breadth-First Search (BFS)]]== but sorts [[Priority Queue]] using the [[path cost]]
+- if all costs are the same, then use [[Breadth-First Search (BFS)]]
+
+### Additional Information
 **Sometimes there are cost associated with [[arc]]. The cost of a [[path(s)]] is the sum of the cost of its [[arc]]**
 - an optimal [[solution(s)]] is one with minimum cost
 - for many domains, [[arc]] have non-unit costs, the aim is to find an optimal [[solution(s)]], a [[solution(s)]] such that no other [[solution(s)]] has a lower total cost
-
 ## Steps
  Implementation: [[priority queue]] = insert nodes in order of increasing [[path cost]]
 	(`lowest path cost g(n)`)
 1. Expand root first, 
 2. Expand least-cost unexpanded node
 3. Reduces to [[Breadth-First Search (BFS)]] when all [[action(s)]] have same cost
-4. Finds the cheapest [[Goal(s) - Goal State(s)]] provided [[path cost]] is monotonically increasing along each [[path(s)]] 
-> (no negative-cost steps)
-> Also, sorting whenever we add a node
+4. ==Finds the cheapest [[goal(s) - goal state(s)]] provided [[path cost]] is [[monotonically]] increasing along each [[path(s)]] ==
+	- (no negative-cost steps)
+	- Also, sorting whenever we add a node
 
 ## Properties
 1. [[Complete]]
@@ -27,7 +30,7 @@
 	-  $O(b^[1+\frac C ε])$
 		- number will depend on that minimum cost associated to an [[arc]] to that ε
 		- smaller the ε means more nodes we might need to store in our [[frontier (open list, fringe)]]
-4. [[Optimal]]
+4. [[optimal]]
 	- Yes, if nodes expanded in increasing order of `g(n)`![[Pasted image 20231022030918.png]]
 > ε (epsilon) - least-cost [[action(s)]] 
 > C - cost of the optimal [[solution(s)]]

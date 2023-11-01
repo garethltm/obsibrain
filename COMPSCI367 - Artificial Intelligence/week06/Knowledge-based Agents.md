@@ -1,7 +1,7 @@
-- [[Inference Engine Example]] world scenario needs a [[Structured Representation]] to code [[constraint(s)]] & [[Percepts]], & to perform [[inference(s)]]
+- [[Inference Engine Example]] scenario needs a [[Structured Representation]] to code [[constraint(s)]] & [[Percepts]], & to perform [[inference(s)]]
 ## Consists
-1. [[Offline]]
-2. [[Online]]
+1. [[Offline]] - stores previously held [[constraint(s)]]
+2. [[Online]] - generate new [[constraint(s)]] from [[Percepts]] & [[Knowledge Base (KB)]]
 
 ## Implements
 1. [[Knowledge Base (KB)]]

@@ -1,0 +1,2 @@
+- People need to adapt to the new world
+- [[Artificial Intelligence (AI)]] being more efficient & taking over simple mundane tasks

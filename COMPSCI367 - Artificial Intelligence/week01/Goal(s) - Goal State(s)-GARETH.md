@@ -1,2 +1,0 @@
-- What the [[agent(s)]] hopes to achieve
-- Can be specified as a Boolean function

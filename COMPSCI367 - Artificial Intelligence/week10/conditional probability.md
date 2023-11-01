@@ -1,9 +1,9 @@
 $P(A\ |\ B)$ is the conditional [[probability]] that A will occur, given that B has already occurred
 
-The [[belief measure]] in hypothesis $h$ based on [[proposition]] $e$ is called the [[conditional probability]] of $h$ given $e$, written $P(h\ |\ e)$
+The [[belief measure]] in hypothesis $h$ based on [[proposition(s)]] $e$ is called the [[conditional probability]] of $h$ given $e$, written $P(h\ |\ e)$
 - [[probability]] of $h$ given $e$
 
-The [[proposition]] e represents certain given experience
+The [[proposition(s)]] e represents certain given experience
 
 The [[conditional probability]] $P(h\ |\ e)=\frac {P(h \land e)}{P(e)}=\frac {hypothesis\ and\ evidence\ TRUE}{prior\ probability\ of\ evidence}$ is the [[agent(s)]]'s [[posterior evidence (posterior probability)]] of $h$.
 - $prior\ probability\ of\ evidence$ $\rightarrow$ should be larger
@@ -17,7 +17,7 @@ The [[conditional probability]] $P(h\ |\ e)=\frac {P(h \land e)}{P(e)}=\frac {hy
 >		Belief that it is going to be Sunny is going to drop
 
 ## Properties
-The following holds for all [[proposition]] $a$ & $b$ & $e$:
+The following holds for all [[proposition(s)]] $a$ & $b$ & $e$:
 - $P(e\ |\ e)=1$
 - If $a \land b$ is a contradiction
 	- $P(a\ |\ e) + P(b\ |\ e) = P(a\lor b\ |\ e)$

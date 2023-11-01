@@ -1,4 +1,5 @@
-- some sort of limitation
+- logical relationship
+- some sort of limitation/rules
 
 ## Types of Constraints
 ### Hard Constraints 

@@ -1,11 +1,11 @@
-- Also known as Model-Based [[agent(s)]]
+- can choose their [[action(s)]] based only on what their current [[Percepts]] or have perceived in the past
 - most effective way to handle [[Partially Observable]] is for the [[agent(s)]] to keep track of the part of the [[world(s)]] it can't see
 - [[agent(s)]] should maintain some sort of internal [[state(s)]]
 - Knowledge about "how the [[world(s)]] works" - is called the model of the [[world(s)]]
 ![[Pasted image 20231012005149.png]]
 
 ## Simple Reflex Agent
-- they respond directly to [[COMPSCI367 - Artificial Intelligence/week01/Percepts]]
+- they respond directly to [[Percepts]]
 
 ## Limitations
 - [[agent(s)]] with a [[world model]] but no planning can look into the past but not the future

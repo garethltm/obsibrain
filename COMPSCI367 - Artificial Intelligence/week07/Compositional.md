@@ -1,1 +1,1 @@
-Composing different [[proposition]] together to make a longer [[proposition]]
+Composing different [[proposition(s)]] together to make a longer [[proposition(s)]]

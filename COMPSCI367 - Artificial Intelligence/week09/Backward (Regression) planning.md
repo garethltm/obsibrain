@@ -1,4 +1,4 @@
-start from [[goal(s) - goal state(s)]] & finding a sequene of steps that reaches the [[initial state (start state)]] by iteratively applying [[action(s)]] in the backward direction
+start from [[goal(s) - goal state(s)]] & finding a sequence of steps that reaches the [[initial state (start state)]] by iteratively applying [[action(s)]] in the backward direction
 ### Action Scheme
 1. `action a` is relevant to `goal g` if it satisfies **one or both** of these conditions:
     - at least 1 of `action a` ’s effects (can be + or -) unifies with an element of `goal g`

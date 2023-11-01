@@ -4,3 +4,5 @@
 >	$p(mi)$ $\rightarrow$ [[Language Model]]
 >	This is what makes this case hard (how to estimate $p(zh|mi)$)
 >	But $p(mi)$ is hard enough
+
+Related to: [[Translation Model]], [[Language Model]]

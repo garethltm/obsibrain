@@ -1,0 +1,3 @@
+- Ethical
+	- you need to think about everything from the terms of [[utility]] 
+		- How much can you contribute to society

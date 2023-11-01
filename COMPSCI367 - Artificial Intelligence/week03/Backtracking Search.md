@@ -1,3 +1,8 @@
+#### Approaches:
+1. [[Minimum Remaining Values (MRV)]]
+2. [[Least Constraining Value]]
+3. [[Forward Checking]]
+4. [[Variable Elimination]]
 ![[Pasted image 20231023161228.png]]
 - [[Constraint Satisfaction Problem (CSPs)]] can be solved by assigning values to variables one by one, in different combinations.
 - Whenever a [[constraint(s)]] is violated, we go back to the most recently assigned variable & assign it a new value.
@@ -21,10 +26,8 @@ The search space for this [[Depth-First Search (DFS)]] has certain very specific
 ### Improvements to Backtracking Search
 General-purpose methods can give huge gains in speed:
 - Which variable should be assigned next?
+	- [[Minimum Remaining Values (MRV)]] + [[degree heuristic]]
 - In what order should its values be tried?
+	- [[Least Constraining Value]]
 - Can we detect inevitable failure early?
-#### Approaches:
-1. [[Minimum Remaining Values (MRV)]]
-2. [[Least Constrainting Value]]
-3. [[Forward Checking]]
-4. [[Variable Elimination]]]
+	- [[Forward Checking]] with Arc consistency
