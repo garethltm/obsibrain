@@ -8,3 +8,5 @@
 	- processing requests using the data
 	- updating repository data
 		- FORM, login...
+
+![[Pasted image 20231102000143.png]]
