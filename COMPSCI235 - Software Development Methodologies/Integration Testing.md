@@ -1,6 +1,14 @@
 making sure that the 2 functions are working well together (basically checking connections)
 
 testing independent modules together
+
+We have written unit tests for several components
+- Domain model
+- Repository
+- Service layer
+
+We now want to test that the components work together & that the Web application as a whole behaves as expected
+- this involve
 >	#Example 
 >	password > 8 char
 >	
