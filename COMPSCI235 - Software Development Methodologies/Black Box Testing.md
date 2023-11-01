@@ -1,0 +1,1 @@
+no knowledge of internal structure
