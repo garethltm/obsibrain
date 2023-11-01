@@ -54,3 +54,9 @@ tags must be correctly nested
 	>	#Example 
 	>	character encoding used
 ![[Pasted image 20231101162635.png]]
+
+3. `<body>`
+	- contains all the content that will appear on the page
+![[Pasted image 20231101162926.png]]
+
+4. 
