@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Authentication.md",
+                "file": "COMPSCI235 - Software Development Methodologies/Security concerns.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Authentication.md",
+                "file": "COMPSCI235 - Software Development Methodologies/Security concerns.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Authentication.md",
+                "file": "COMPSCI235 - Software Development Methodologies/Security concerns.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Authentication.md"
+                "file": "COMPSCI235 - Software Development Methodologies/Security concerns.md"
               }
             }
           },
@@ -153,7 +153,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Authentication.md"
+                "file": "COMPSCI235 - Software Development Methodologies/Security concerns.md"
               }
             }
           }
@@ -178,6 +178,7 @@
   },
   "active": "33a55b9766be070c",
   "lastOpenFiles": [
+    "COMPSCI235 - Software Development Methodologies/Access control.md",
     "COMPSCI235 - Software Development Methodologies/Security concerns.md",
     "COMPSCI235 - Software Development Methodologies/Authentication.md",
     "COMPSCI235 - Software Development Methodologies/Python's support for abstract base classes.md",
@@ -213,7 +214,6 @@
     "COMPSCI235 - Software Development Methodologies/Template inheritance & containment.md",
     "COMPSCI235 - Software Development Methodologies/Template containment.md",
     "COMPSCI235 - Software Development Methodologies/Template inheritance.md",
-    "COMPSCI235 - Software Development Methodologies/Templating.md",
     "COMPSCI367 - Artificial Intelligence/finals prep.canvas",
     "COMPSCI235 - Software Development Methodologies",
     "COMPSCI367 - Artificial Intelligence/week12",
