@@ -4,5 +4,5 @@ contains Blueprint
 	- converting conceptual to components
 - this results in an analysis/design model that developers can unambiguously interpret. [[Specification]] gets structured & formalized (uses UML)
 - used to translate the requirements of a project into software components of a solution
-- 
+- not only useful for analysis but is often a good conceptual model for system design
 
