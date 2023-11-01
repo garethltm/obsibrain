@@ -19,6 +19,8 @@
 		- REQUESTS that the named resource is replaced with data contained in the message body
 	- DELETE
 		- REQUESTS that a resource be deleted
-	### Diagnostic methods
-	- OPTION
-		- 
+	### **Diagnostic methods** (not so much in this course)
+	- OPTIONS
+		- REQUESTS the methods that are applicable to the named resource
+	- TRACE
+		- REQUESTS that the server simply sends back the request message
