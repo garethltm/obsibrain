@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Authentication vulnerability.md",
+                "file": "COMPSCI235 - Software Development Methodologies/Signed cookies.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Authentication vulnerability.md",
+                "file": "COMPSCI235 - Software Development Methodologies/Signed cookies.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Authentication vulnerability.md",
+                "file": "COMPSCI235 - Software Development Methodologies/Signed cookies.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Authentication vulnerability.md"
+                "file": "COMPSCI235 - Software Development Methodologies/Signed cookies.md"
               }
             }
           },
@@ -153,7 +153,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Authentication vulnerability.md"
+                "file": "COMPSCI235 - Software Development Methodologies/Signed cookies.md"
               }
             }
           }
@@ -178,9 +178,10 @@
   },
   "active": "33a55b9766be070c",
   "lastOpenFiles": [
+    "@images/Pasted image 20231102011452.png",
     "@images/Pasted image 20231102011313.png",
     "COMPSCI235 - Software Development Methodologies/Session cookie.md",
-    "COMPSCI235 - Software Development Methodologies/Authentication vulnerability.md",
+    "COMPSCI235 - Software Development Methodologies/Signed cookies.md",
     "@images/Pasted image 20231102011233.png",
     "COMPSCI235 - Software Development Methodologies/session.md",
     "COMPSCI235 - Software Development Methodologies/cookie.md",
@@ -211,7 +212,6 @@
     "COMPSCI235 - Software Development Methodologies/Application Architecture.md",
     "COMPSCI235 - Software Development Methodologies/Domain Modeling.md",
     "@images/Pasted image 20231102000143.png",
-    "@images/Pasted image 20231102000133.png",
     "COMPSCI235 - Software Development Methodologies/Flask.md",
     "COMPSCI235 - Software Development Methodologies/Flask Blueprint.md",
     "COMPSCI367 - Artificial Intelligence/finals prep.canvas",
