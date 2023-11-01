@@ -13,4 +13,7 @@
 ![[Pasted image 20231102000143.png]]
 
 ### Benefits from the [[Application Architecture]]
-- The view layer has no dependency on the domain model
+The `view layer` has no dependency on the domain model
+- certain changes to the implementation of the domain model won't necessitate change to the view layer
+
+[[bl]]
