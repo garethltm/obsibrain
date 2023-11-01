@@ -26,7 +26,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "COMPSCI235 - Software Development Methodologies/WTForms.md",
+                    "file": "COMPSCI235 - Software Development Methodologies/Flask WTF.md",
                     "mode": "source",
                     "source": false
                   }
@@ -46,7 +46,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "COMPSCI235 - Software Development Methodologies/WTForms.md",
+                    "file": "COMPSCI235 - Software Development Methodologies/Flask WTF.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -81,7 +81,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "COMPSCI235 - Software Development Methodologies/WTForms.md",
+                    "file": "COMPSCI235 - Software Development Methodologies/Flask WTF.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -180,7 +180,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/WTForms.md",
+                "file": "COMPSCI235 - Software Development Methodologies/Flask WTF.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -197,7 +197,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/WTForms.md",
+                "file": "COMPSCI235 - Software Development Methodologies/Flask WTF.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -220,7 +220,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/WTForms.md"
+                "file": "COMPSCI235 - Software Development Methodologies/Flask WTF.md"
               }
             }
           },
@@ -263,12 +263,13 @@
   },
   "active": "df54043e914f1e1e",
   "lastOpenFiles": [
+    "COMPSCI235 - Software Development Methodologies/WTForms.md",
+    "COMPSCI235 - Software Development Methodologies/Flask WTF.md",
     "@images/Pasted image 20231102100746.png",
     "COMPSCI235 - Software Development Methodologies/Combating CSRF.md",
     "conflict-files-obsidian-git.md",
     "@images/Pasted image 20231102095650.png",
     "COMPSCI235 - Software Development Methodologies/Classes.md",
-    "COMPSCI235 - Software Development Methodologies/WTForms.md",
     "COMPSCI235 - Software Development Methodologies/Version Control Systems (VCS).md",
     "COMPSCI235 - Software Development Methodologies/Dependencies.md",
     "COMPSCI235 - Software Development Methodologies/Dependency Inversion Principle (DIP).md",
@@ -299,7 +300,6 @@
     "@images/Pasted image 20231102004918.png",
     "@images/Pasted image 20231102004834.png",
     "@images/Pasted image 20231102004211.png",
-    "@images/Pasted image 20231102004109.png",
     "COMPSCI367 - Artificial Intelligence/finals prep.canvas",
     "COMPSCI367 - Artificial Intelligence/week12",
     "COMPSCI367 - Artificial Intelligence/week11",
