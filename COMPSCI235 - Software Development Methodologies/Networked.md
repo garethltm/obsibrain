@@ -1,0 +1,1 @@
+Systems interact with each other over a network, enabling data sharing & communication
