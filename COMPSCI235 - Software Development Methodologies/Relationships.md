@@ -12,3 +12,6 @@ if not sure, use association in general
 
 ##### Inheritance & Realization [[Relationships]]
 ![[Pasted image 20231101144822.png]]![[Pasted image 20231101144845.png]]
+
+##### [[Aggregation]] & [[Composition]] [[Relationships]]
+![[Pasted image 20231101150231.png]]
