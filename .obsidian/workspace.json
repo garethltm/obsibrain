@@ -4,117 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "992e264c1b226738",
-        "type": "split",
+        "id": "8d459d1c85b8b9ed",
+        "type": "tabs",
         "children": [
           {
-            "id": "8d459d1c85b8b9ed",
-            "type": "tabs",
-            "dimension": 63.541666666666664,
-            "children": [
-              {
-                "id": "874de3ab24aec93a",
-                "type": "leaf",
-                "state": {
-                  "type": "git-view",
-                  "state": {}
-                }
-              },
-              {
-                "id": "df54043e914f1e1e",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "COMPSCI235 - Software Development Methodologies/Flask WTF.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              }
-            ],
-            "currentTab": 1
+            "id": "874de3ab24aec93a",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           },
           {
-            "id": "d9a730eda40123bb",
-            "type": "tabs",
-            "dimension": 36.45833333333333,
-            "children": [
-              {
-                "id": "7430a6c810762936",
-                "type": "leaf",
-                "state": {
-                  "type": "localgraph",
-                  "state": {
-                    "file": "COMPSCI235 - Software Development Methodologies/Flask WTF.md",
-                    "options": {
-                      "collapse-filter": true,
-                      "search": "",
-                      "localJumps": 1,
-                      "localBacklinks": true,
-                      "localForelinks": true,
-                      "localInterlinks": false,
-                      "showTags": false,
-                      "showAttachments": false,
-                      "hideUnresolved": false,
-                      "collapse-color-groups": true,
-                      "colorGroups": [],
-                      "collapse-display": true,
-                      "showArrow": false,
-                      "textFadeMultiplier": 0,
-                      "nodeSizeMultiplier": 1,
-                      "lineSizeMultiplier": 1,
-                      "collapse-forces": true,
-                      "centerStrength": 0.518713248970312,
-                      "repelStrength": 10,
-                      "linkStrength": 1,
-                      "linkDistance": 250,
-                      "scale": 0.7356825628249143,
-                      "close": true
-                    }
-                  }
-                }
-              },
-              {
-                "id": "a8b21011d3ee7aaa",
-                "type": "leaf",
-                "state": {
-                  "type": "localgraph",
-                  "state": {
-                    "file": "COMPSCI235 - Software Development Methodologies/Flask WTF.md",
-                    "options": {
-                      "collapse-filter": true,
-                      "search": "",
-                      "localJumps": 1,
-                      "localBacklinks": true,
-                      "localForelinks": true,
-                      "localInterlinks": false,
-                      "showTags": false,
-                      "showAttachments": false,
-                      "hideUnresolved": false,
-                      "collapse-color-groups": true,
-                      "colorGroups": [],
-                      "collapse-display": true,
-                      "showArrow": false,
-                      "textFadeMultiplier": 0,
-                      "nodeSizeMultiplier": 1,
-                      "lineSizeMultiplier": 1,
-                      "collapse-forces": true,
-                      "centerStrength": 0.518713248970312,
-                      "repelStrength": 10,
-                      "linkStrength": 1,
-                      "linkDistance": 250,
-                      "scale": 0.3628873693012117,
-                      "close": false
-                    }
-                  }
-                }
+            "id": "df54043e914f1e1e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "COMPSCI235 - Software Development Methodologies/Flask Configuration.md",
+                "mode": "source",
+                "source": false
               }
-            ],
-            "currentTab": 1
+            }
           }
         ],
-        "direction": "horizontal"
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -180,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Flask WTF.md",
+                "file": "COMPSCI235 - Software Development Methodologies/Flask Configuration.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -197,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Flask WTF.md",
+                "file": "COMPSCI235 - Software Development Methodologies/Flask Configuration.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -220,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Flask WTF.md"
+                "file": "COMPSCI235 - Software Development Methodologies/Flask Configuration.md"
               }
             }
           },
@@ -263,9 +177,11 @@
   },
   "active": "df54043e914f1e1e",
   "lastOpenFiles": [
+    "COMPSCI235 - Software Development Methodologies/Flask.md",
+    "COMPSCI235 - Software Development Methodologies/Flask Configuration.md",
+    "COMPSCI235 - Software Development Methodologies/Flask WTF.md",
     "@images/Pasted image 20231102101253.png",
     "COMPSCI235 - Software Development Methodologies/WTForms.md",
-    "COMPSCI235 - Software Development Methodologies/Flask WTF.md",
     "@images/Pasted image 20231102100746.png",
     "COMPSCI235 - Software Development Methodologies/Combating CSRF.md",
     "conflict-files-obsidian-git.md",
@@ -290,7 +206,6 @@
     "COMPSCI235 - Software Development Methodologies/Test-driven development (AGILE practice).md",
     "COMPSCI235 - Software Development Methodologies/test suite.md",
     "COMPSCI235 - Software Development Methodologies/Templating.md",
-    "COMPSCI235 - Software Development Methodologies/Template inheritance.md",
     "COMPSCI235 - Software Development Methodologies",
     "@images/Pasted image 20231102011452.png",
     "@images/Pasted image 20231102011313.png",
@@ -299,7 +214,6 @@
     "@images/Pasted image 20231102005010.png",
     "@images/Pasted image 20231102004918.png",
     "@images/Pasted image 20231102004834.png",
-    "@images/Pasted image 20231102004211.png",
     "COMPSCI367 - Artificial Intelligence/finals prep.canvas",
     "COMPSCI367 - Artificial Intelligence/week12",
     "COMPSCI367 - Artificial Intelligence/week11",
