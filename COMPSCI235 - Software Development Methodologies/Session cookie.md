@@ -2,11 +2,13 @@ temporary [[cookie]]; only there while the [[session]] exists
 - a time where the user is interacting with the server
 	- when user logs in/out; open/close browser
 
-User submits login credentials
+1. User submits login credentials
 >	#Example 
 >	username & password
 
-Server:
-- verifies the credentials from the [[COMPSCI235 - Software Development Methodologies/database|database]]
-- creates a temporary user [[session]]
-- issue
+2. Server:
+	- verifies the credentials from the [[COMPSCI235 - Software Development Methodologies/database|database]]
+	- creates a temporary user [[session]]
+	- issues the [[cookie]] with a sessionID
+
+3. User
