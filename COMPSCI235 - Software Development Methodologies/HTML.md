@@ -108,4 +108,5 @@ define the structure of a "block"
 		`<th>`
 		- each heading in the header row
 		`<td>`
-		- each element/cell of data in the 
+		- each element/cell of data in the row![[Pasted image 20231101164755.png]]
+- #### Divider <
