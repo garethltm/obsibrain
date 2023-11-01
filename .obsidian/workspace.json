@@ -19,8 +19,10 @@
             "id": "df54043e914f1e1e",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "image",
+              "state": {
+                "file": "@images/Pasted image 20231102103106.png"
+              }
             }
           }
         ],
@@ -90,6 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "@images/Pasted image 20231102103106.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,6 +109,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "@images/Pasted image 20231102103106.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +131,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "@images/Pasted image 20231102103106.png"
+              }
             }
           },
           {
@@ -169,22 +175,25 @@
   },
   "active": "df54043e914f1e1e",
   "lastOpenFiles": [
+    "@images/Pasted image 20231102103928.png",
+    "@images/Pasted image 20231102104412.png",
+    "@images/Pasted image 20231102105423.png",
+    "@images/Pasted image 20231102105731.png",
+    "@images/Pasted image 20231102120828.png",
+    "@images/Pasted image 20231023172403.png",
+    "COMPSCI235 - Software Development Methodologies/Cascading Style Sheets (CSS).md",
+    "COMPSCI235 - Software Development Methodologies/Element selectors.md",
     "COMPSCI235 - Software Development Methodologies/NoSQL.md",
     "COMPSCI235 - Software Development Methodologies/Relational DBMS (RDBMS).md",
     "COMPSCI235 - Software Development Methodologies/Database Management System (DBMS).md",
     "COMPSCI235 - Software Development Methodologies/database.md",
-    "@images/Pasted image 20231102120828.png",
     "COMPSCI235 - Software Development Methodologies/ACID.md",
     "COMPSCI235 - Software Development Methodologies/transaction(s).md",
-    "@images/Pasted image 20231102105731.png",
-    "@images/Pasted image 20231102105423.png",
     "COMPSCI235 - Software Development Methodologies/Web application architecture.md",
     "@images/Pasted image 20231102104455.png",
     "COMPSCI235 - Software Development Methodologies/Repository.md",
-    "@images/Pasted image 20231102104412.png",
     "COMPSCI235 - Software Development Methodologies/Minimum Viable Product (MVP).md",
     "COMPSCI235 - Software Development Methodologies/Integration Testing.md",
-    "@images/Pasted image 20231102103928.png",
     "COMPSCI235 - Software Development Methodologies/Unit Testing - Memory Repository.md",
     "@images/Pasted image 20231102103629.png",
     "@images/Pasted image 20231102103106.png",
@@ -202,9 +211,6 @@
     "COMPSCI235 - Software Development Methodologies/Version Control Systems (VCS).md",
     "COMPSCI235 - Software Development Methodologies/Dependencies.md",
     "COMPSCI235 - Software Development Methodologies/Dependency Inversion Principle (DIP).md",
-    "COMPSCI367 - Artificial Intelligence/week12/Decision function.md",
-    "COMPSCI235 - Software Development Methodologies/White Box Testing.md",
-    "COMPSCI235 - Software Development Methodologies/Web-based Systems.md",
     "COMPSCI235 - Software Development Methodologies",
     "COMPSCI367 - Artificial Intelligence/finals prep.canvas",
     "COMPSCI367 - Artificial Intelligence/week12",
