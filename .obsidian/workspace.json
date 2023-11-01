@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/How to deal with dependencies in testing.md",
+                "file": "COMPSCI235 - Software Development Methodologies/Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/How to deal with dependencies in testing.md",
+                "file": "COMPSCI235 - Software Development Methodologies/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/How to deal with dependencies in testing.md",
+                "file": "COMPSCI235 - Software Development Methodologies/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/How to deal with dependencies in testing.md"
+                "file": "COMPSCI235 - Software Development Methodologies/Untitled.md"
               }
             }
           },
@@ -153,7 +153,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/How to deal with dependencies in testing.md"
+                "file": "COMPSCI235 - Software Development Methodologies/Untitled.md"
               }
             }
           }
@@ -178,13 +178,15 @@
   },
   "active": "9ab2d4079996b929",
   "lastOpenFiles": [
+    "COMPSCI235 - Software Development Methodologies/Testing.md",
+    "COMPSCI235 - Software Development Methodologies/Untitled.md",
     "COMPSCI235 - Software Development Methodologies/stub.md",
     "COMPSCI235 - Software Development Methodologies/How to deal with dependencies in testing.md",
+    "@images/Pasted image 20231101151442.png",
     "COMPSCI235 - Software Development Methodologies/Dependency.md",
     "COMPSCI235 - Software Development Methodologies/External Dependency.md",
     "COMPSCI235 - Software Development Methodologies/Unit Testing.md",
     "COMPSCI235 - Software Development Methodologies/White Box Testing.md",
-    "COMPSCI235 - Software Development Methodologies/Testing.md",
     "COMPSCI235 - Software Development Methodologies/Classes.md",
     "@images/Pasted image 20231101150459.png",
     "COMPSCI235 - Software Development Methodologies/Construction (Code, Test).md",
@@ -202,7 +204,6 @@
     "@images/Pasted image 20231101145733.png",
     "@images/Pasted image 20231101145646.png",
     "@images/Pasted image 20231101145542.png",
-    "@images/Pasted image 20231101145422.png",
     "INFOSYS222 - Database Systems/Dependency.md",
     "COMPSCI235 - Software Development Methodologies/Structural elements.md",
     "COMPSCI235 - Software Development Methodologies/requirements gathering.md",
@@ -213,7 +214,6 @@
     "COMPSCI235 - Software Development Methodologies/maintenance phase.md",
     "COMPSCI235 - Software Development Methodologies/Behavioral Diagrams.md",
     "COMPSCI235 - Software Development Methodologies/Interaction Diagram.md",
-    "COMPSCI235 - Software Development Methodologies/process.md",
     "COMPSCI367 - Artificial Intelligence/finals prep.canvas",
     "COMPSCI235 - Software Development Methodologies",
     "COMPSCI367 - Artificial Intelligence/week12",
