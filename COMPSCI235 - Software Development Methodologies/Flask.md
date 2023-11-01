@@ -10,4 +10,6 @@
 ### `route()` decorator & views
 - `route()` decorator is used to bind a function (a view) to a URL
 - route(rules, options):
-	- rule - URL binding
+	- rule - URL binding with the function
+	- list of parameters to be forwarded to the Rule object
+- allows to add variable sections to URL using angled brackets '<>'.
