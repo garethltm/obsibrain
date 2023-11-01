@@ -17,4 +17,7 @@ The `view layer` has no dependency on the domain model
 - certain changes to the implementation of the domain model won't necessitate change to the view layer
 
 [[Flask Blueprint]] implementations maintain a separation of `view layer` & `service layer` concerns
-- The 
+- The service component of a [[Flask Blueprint]] can be reused with different views
+>	#Example 
+>	views that generate JSON or XML instead of HTML would reuse the service components
+>	(you can basically just change the view layer & it would*)
