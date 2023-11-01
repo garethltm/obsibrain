@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/WTForms.md",
+                "file": "COMPSCI235 - Software Development Methodologies/Unit Testing - Service Layer.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/WTForms.md",
+                "file": "COMPSCI235 - Software Development Methodologies/Unit Testing - Service Layer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/WTForms.md",
+                "file": "COMPSCI235 - Software Development Methodologies/Unit Testing - Service Layer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/WTForms.md"
+                "file": "COMPSCI235 - Software Development Methodologies/Unit Testing - Service Layer.md"
               }
             }
           },
@@ -177,12 +177,16 @@
   },
   "active": "df54043e914f1e1e",
   "lastOpenFiles": [
+    "COMPSCI235 - Software Development Methodologies/Unit Testing.md",
+    "COMPSCI235 - Software Development Methodologies/Unit Testing - Service Layer.md",
+    "COMPSCI235 - Software Development Methodologies/WTForms.md",
+    "@images/Pasted image 20231102102610.png",
+    "@images/Pasted image 20231102102541.png",
     "@images/Pasted image 20231102102459.png",
     "COMPSCI235 - Software Development Methodologies/Flask Configuration.md",
     "COMPSCI235 - Software Development Methodologies/Flask.md",
     "COMPSCI235 - Software Development Methodologies/Flask WTF.md",
     "@images/Pasted image 20231102101253.png",
-    "COMPSCI235 - Software Development Methodologies/WTForms.md",
     "@images/Pasted image 20231102100746.png",
     "COMPSCI235 - Software Development Methodologies/Combating CSRF.md",
     "conflict-files-obsidian-git.md",
@@ -196,7 +200,6 @@
     "COMPSCI235 - Software Development Methodologies/White Box Testing.md",
     "COMPSCI235 - Software Development Methodologies/Web-based Systems.md",
     "COMPSCI235 - Software Development Methodologies/URL Building.md",
-    "COMPSCI235 - Software Development Methodologies/Unit Testing.md",
     "COMPSCI235 - Software Development Methodologies/Unified Modeling Language (UML).md",
     "COMPSCI235 - Software Development Methodologies/Transport protocols.md",
     "COMPSCI235 - Software Development Methodologies/thread.md",
@@ -211,9 +214,6 @@
     "@images/Pasted image 20231102011313.png",
     "@images/Pasted image 20231102011233.png",
     "@images/Pasted image 20231102005437.png",
-    "@images/Pasted image 20231102005010.png",
-    "@images/Pasted image 20231102004918.png",
-    "@images/Pasted image 20231102004834.png",
     "COMPSCI367 - Artificial Intelligence/finals prep.canvas",
     "COMPSCI367 - Artificial Intelligence/week12",
     "COMPSCI367 - Artificial Intelligence/week11",

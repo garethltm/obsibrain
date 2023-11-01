@@ -13,4 +13,4 @@ a simple framework that simplifies working with [[Hypertext Markup Language (HTM
 	- Length should be, ..., 
 
 ### Configuration
-![[Pasted image 20231102102459.png]]
+![[Pasted image 20231102102459.png]]![[Pasted image 20231102102541.png]]![[Pasted image 20231102102610.png]]
