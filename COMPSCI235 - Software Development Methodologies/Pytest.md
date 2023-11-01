@@ -1,1 +1,2 @@
-allows you to conveni
+allows you to conveniently code unit tests using Python's `assert` statement
+- the approach in [[Pytest]] is to write test cases that cause can object to change its state, and then assert that the object's actual state matches with what's ex
