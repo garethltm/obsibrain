@@ -1,4 +1,6 @@
 making sure that the 2 functions are working well together (basically checking connections)
+
+testing independent modules together
 >	#Example 
 >	password > 8 char
 >	
