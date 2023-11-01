@@ -36,4 +36,8 @@ can be embedded in [[Hyper Text Markup Language (HTML)]] document or placed into
 3. [[Inline styles]]
 ![[Pasted image 20231101174109.png]]
 
-## Properties fo
+## Properties for colors
+![[Pasted image 20231101174145.png]]
+
+## Properties for fonts
+![[Pasted image 20231101174212.png]]![[Pasted image 20231101174226.png]]
