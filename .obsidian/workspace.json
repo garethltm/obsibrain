@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Web-based Systems.md",
+                "file": "COMPSCI235 - Software Development Methodologies/Maintenance.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Web-based Systems.md",
+                "file": "COMPSCI235 - Software Development Methodologies/Maintenance.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Web-based Systems.md",
+                "file": "COMPSCI235 - Software Development Methodologies/Maintenance.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Web-based Systems.md"
+                "file": "COMPSCI235 - Software Development Methodologies/Maintenance.md"
               }
             }
           },
@@ -153,7 +153,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Web-based Systems.md"
+                "file": "COMPSCI235 - Software Development Methodologies/Maintenance.md"
               }
             }
           }
@@ -178,10 +178,12 @@
   },
   "active": "9ab2d4079996b929",
   "lastOpenFiles": [
+    "COMPSCI235 - Software Development Methodologies/Web-based Systems.md",
+    "COMPSCI235 - Software Development Methodologies/Maintenance.md",
+    "COMPSCI235 - Software Development Methodologies/Accessibility.md",
     "COMPSCI235 - Software Development Methodologies/Hypertext Transfer Protocol (HTTP).md",
     "COMPSCI235 - Software Development Methodologies/ID selectors.md",
     "COMPSCI235 - Software Development Methodologies/Hypertext Markup Language (HTML).md",
-    "COMPSCI235 - Software Development Methodologies/Web-based Systems.md",
     "COMPSCI235 - Software Development Methodologies/System testing.md",
     "COMPSCI367 - Artificial Intelligence/week10/Bayes Theorem.md",
     "COMPSCI235 - Software Development Methodologies/Automated Testing.md",
@@ -212,8 +214,6 @@
     "COMPSCI235 - Software Development Methodologies/released product.md",
     "COMPSCI235 - Software Development Methodologies/Systematic Development Process.md",
     "COMPSCI235 - Software Development Methodologies/Pytest.md",
-    "COMPSCI235 - Software Development Methodologies/test suite.md",
-    "COMPSCI235 - Software Development Methodologies/Testing.md",
     "COMPSCI367 - Artificial Intelligence/finals prep.canvas",
     "COMPSCI235 - Software Development Methodologies",
     "COMPSCI367 - Artificial Intelligence/week12",

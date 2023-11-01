@@ -17,4 +17,6 @@ Run on a web browser, no need for local installation
 	- MongoDB
 
 ### Advantages
-1. Accessbili
+1. [[Accessibility]]
+2. [[Maintenance]]
+3. Scalability
