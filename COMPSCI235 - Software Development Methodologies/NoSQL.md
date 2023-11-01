@@ -9,3 +9,6 @@ an umbrella term for all [[COMPSCI235 - Software Development Methodologies/datab
 - [[Relational DBMS (RDBMS)]] assume that data is:
 	- dense
 	- largely uniform (structured data)
+- Data coming from the Internet is
+	- Massive & sparse
+	- Semi
