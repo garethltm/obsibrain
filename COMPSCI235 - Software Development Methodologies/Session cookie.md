@@ -6,4 +6,6 @@ User submits login credentials
 >	#Example 
 >	username & password
 
-Server verfies
+Server:
+- verifies the credentials from the [[COMPSCI235 - Software Development Methodologies/database|database]]
+- creates a 
