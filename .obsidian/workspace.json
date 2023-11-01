@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Microservices.md",
+                "file": "COMPSCI235 - Software Development Methodologies/fault-tolerance.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Microservices.md",
+                "file": "COMPSCI235 - Software Development Methodologies/fault-tolerance.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Microservices.md",
+                "file": "COMPSCI235 - Software Development Methodologies/fault-tolerance.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Microservices.md"
+                "file": "COMPSCI235 - Software Development Methodologies/fault-tolerance.md"
               }
             }
           },
@@ -163,7 +163,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Microservices.md"
+                "file": "COMPSCI235 - Software Development Methodologies/fault-tolerance.md"
               }
             }
           }
@@ -189,6 +189,7 @@
   "active": "9ab2d4079996b929",
   "lastOpenFiles": [
     "COMPSCI235 - Software Development Methodologies/Modern software systems.md",
+    "COMPSCI235 - Software Development Methodologies/fault-tolerance.md",
     "COMPSCI235 - Software Development Methodologies/Microservices.md",
     "COMPSCI235 - Software Development Methodologies/Monolithic.md",
     "@images/L08Web-basedSystems1-04.jpg",
@@ -223,7 +224,6 @@
     "COMPSCI235 - Software Development Methodologies/The 4 P's of Software Development.md",
     "COMPSCI235 - Software Development Methodologies/software engineering process.md",
     "COMPSCI235 - Software Development Methodologies/Git VCS.md",
-    "COMPSCI235 - Software Development Methodologies/Test-driven development (AGILE practice).md",
     "COMPSCI367 - Artificial Intelligence/finals prep.canvas",
     "COMPSCI235 - Software Development Methodologies",
     "COMPSCI367 - Artificial Intelligence/week12",
