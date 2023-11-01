@@ -37,3 +37,7 @@
 - `5xx` - server error
 
 ### Non-idempotent requests
+![[Pasted image 20231101225811.png]]
+- don't want to add the same stuff again when refreshed
+### Stateless protocol
+![[Pasted image 20231101230006.png]]
