@@ -1,0 +1,1 @@
+Define a style that can be applied to a single tag

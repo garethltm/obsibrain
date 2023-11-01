@@ -7,4 +7,4 @@ A [[selector]] specifies where in a web page [[Cascading Style Sheets (CSS)]] st
 >	`<body>`,`<p>`,`<h1>`
 - There are 2 types of user specified [[selector]] as well
 1. [[Class selectors]] - [[Hyper Text Markup Language (HTML)]] form example
-2. id selectors
+2. [[ID selectors]]
