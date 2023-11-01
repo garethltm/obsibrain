@@ -1,0 +1,1 @@
+concerned with **deriving a conceptual [[design]]** of the system, based on the requirements

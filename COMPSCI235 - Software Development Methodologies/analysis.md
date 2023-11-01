@@ -1,1 +1,1 @@
-concerned with defining the system and its requirements
+concerned with **defining** the system and its requirements
