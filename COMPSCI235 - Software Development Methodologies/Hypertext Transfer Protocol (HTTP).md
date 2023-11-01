@@ -17,10 +17,15 @@
 		- typically used to process form data
 	- `PUT` (Not creating new resource; changing/updating details of an information)
 		- REQUESTS that the named resource is replaced with data contained in the message body
-	- DELETE
+	- `DELETE`
 		- REQUESTS that a resource be deleted
 	### **Diagnostic methods** (not so much in this course)
-	- OPTIONS
+	- `OPTIONS`
 		- REQUESTS the methods that are applicable to the named resource
-	- TRACE
+	- `TRACE`
 		- REQUESTS that the server simply sends back the request message
+
+### Status codes
+- 1xx - informationala
+- 2xx - success
+	- server received request
