@@ -13,4 +13,4 @@ Units may be:
 		- Exercising the object in all possible states
 >	#Example 
 >	`class Publisher`
->	test
+>	- complete test coverage, where all attributes/methods of the publisher class are being tested
