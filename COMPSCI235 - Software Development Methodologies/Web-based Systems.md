@@ -19,4 +19,4 @@ Run on a web browser, no need for local installation
 ### Advantages
 1. [[Accessibility]]
 2. [[Maintenance]]
-3. Scalability
+3. [[Scalability]]
