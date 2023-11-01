@@ -2,6 +2,7 @@
 - contains hypertext information (links)
 - written in ASCII/Unicode
 - embedded format codes (tags)
+![[Pasted image 20231101161908.png]]
 
 ### Document Type
 defines which standard is being used for the page
@@ -18,4 +19,4 @@ different character sets used to encode the page
 Need to tell the browser which encoding is used
 
 `<meta charset="UTF-8">`
-- located in the `head` of the document
+- located in the `<HEAD>` of the document
