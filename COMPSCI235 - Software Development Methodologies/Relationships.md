@@ -5,7 +5,7 @@
 
 #### Association: a usage relationship
 if not sure, use association in general
-- [[INFOSYS222 - Database Systems/Dependency]]
+- [[de
 - Association
 - Composition
 
