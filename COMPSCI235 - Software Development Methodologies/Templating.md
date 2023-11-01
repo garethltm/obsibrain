@@ -1,3 +1,4 @@
+![[Pasted image 20231101232250.png]]
 Key reasons for using [[Hypertext Markup Language (HTML)]] templating include:
 - ensuring **consistency** among pages of a multi-page application
 - simplifying development of **dynamic** Web applications
