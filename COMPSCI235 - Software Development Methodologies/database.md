@@ -34,6 +34,6 @@ A [[COMPSCI235 - Software Development Methodologies/database|database]] is an or
 	- Durability
 
 Databases solves these problems
-- [[Transactions]]
+- [[transaction(s)]]
 	- Commit & Rollback
 

@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Transactions.md",
+                "file": "COMPSCI235 - Software Development Methodologies/transaction(s).md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Transactions.md",
+                "file": "COMPSCI235 - Software Development Methodologies/transaction(s).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Transactions.md",
+                "file": "COMPSCI235 - Software Development Methodologies/transaction(s).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Transactions.md"
+                "file": "COMPSCI235 - Software Development Methodologies/transaction(s).md"
               }
             }
           },
@@ -178,7 +178,7 @@
   "active": "df54043e914f1e1e",
   "lastOpenFiles": [
     "COMPSCI235 - Software Development Methodologies/database.md",
-    "COMPSCI235 - Software Development Methodologies/Transactions.md",
+    "COMPSCI235 - Software Development Methodologies/transaction(s).md",
     "COMPSCI235 - Software Development Methodologies/Web application architecture.md",
     "@images/Pasted image 20231102104455.png",
     "COMPSCI235 - Software Development Methodologies/Repository.md",
