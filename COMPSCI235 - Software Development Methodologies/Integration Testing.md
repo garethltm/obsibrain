@@ -3,12 +3,13 @@ making sure that the 2 functions are working well together (basically checking c
 testing independent modules together
 
 We have written unit tests for several components
-- Domain model
-- Repository
-- Service layer
+- `Domain model`
+- `Repository`
+- `Service layer`
+![[Pasted image 20231102103928.png]]
 
 We now want to test that the components work together & that the Web application as a whole behaves as expected
-- this involve
+- this involves writing integration tests
 >	#Example 
 >	password > 8 char
 >	
