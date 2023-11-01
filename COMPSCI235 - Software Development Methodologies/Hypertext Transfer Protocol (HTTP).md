@@ -41,7 +41,8 @@
 - don't want to add the same stuff again when refreshed
 ### Stateless protocol
 ![[Pasted image 20231101230006.png]]
+- server doesn't hold any state information
 
 ### Negotiable content
 ![[Pasted image 20231101230040.png]]
-- q-value priorit
+- q-value priority
