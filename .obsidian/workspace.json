@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Combating CSRF.md",
+                "file": "COMPSCI235 - Software Development Methodologies/WTForms.md",
                 "mode": "source",
                 "source": false
               }
@@ -51,7 +51,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "COMPSCI235 - Software Development Methodologies/Combating CSRF.md",
+                    "file": "COMPSCI235 - Software Development Methodologies/WTForms.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -86,7 +86,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "COMPSCI235 - Software Development Methodologies/Combating CSRF.md",
+                    "file": "COMPSCI235 - Software Development Methodologies/WTForms.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -110,7 +110,7 @@
                       "linkStrength": 1,
                       "linkDistance": 250,
                       "scale": 0.3628873693012117,
-                      "close": true
+                      "close": false
                     }
                   }
                 }
@@ -185,7 +185,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Combating CSRF.md",
+                "file": "COMPSCI235 - Software Development Methodologies/WTForms.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -202,7 +202,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Combating CSRF.md",
+                "file": "COMPSCI235 - Software Development Methodologies/WTForms.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -225,7 +225,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Combating CSRF.md"
+                "file": "COMPSCI235 - Software Development Methodologies/WTForms.md"
               }
             }
           },
@@ -266,8 +266,10 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "a8b21011d3ee7aaa",
+  "active": "358f03c9716e94e8",
   "lastOpenFiles": [
+    "COMPSCI235 - Software Development Methodologies/Combating CSRF.md",
+    "COMPSCI235 - Software Development Methodologies/WTForms.md",
     "COMPSCI235 - Software Development Methodologies/Version Control Systems (VCS).md",
     "COMPSCI235 - Software Development Methodologies/Dependencies.md",
     "COMPSCI235 - Software Development Methodologies/Dependency Inversion Principle (DIP).md",
@@ -292,8 +294,6 @@
     "COMPSCI235 - Software Development Methodologies/Template containment.md",
     "COMPSCI235 - Software Development Methodologies/Template inheritance & containment.md",
     "COMPSCI235 - Software Development Methodologies/Systematic Development Process.md",
-    "COMPSCI235 - Software Development Methodologies/Structural elements.md",
-    "COMPSCI235 - Software Development Methodologies/System testing.md",
     "COMPSCI235 - Software Development Methodologies",
     "@images/Pasted image 20231102011452.png",
     "@images/Pasted image 20231102011313.png",
