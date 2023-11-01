@@ -101,4 +101,11 @@ define the structure of a "block"
 	- used to format tables of information
 	- by default, there are no borders shown
 	- ###### Tags
-		<table>
+		`<table>`
+		- surrounds the entire table
+		`<tr>`
+		- identifies a row in the table
+		`<th>`
+		- each heading in the header row
+		`<td>`
+		- each element/cell of data in the 
