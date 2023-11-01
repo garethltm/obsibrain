@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -179,9 +178,10 @@
   },
   "active": "9ab2d4079996b929",
   "lastOpenFiles": [
+    "COMPSCI235 - Software Development Methodologies/design(s).md",
+    "COMPSCI235 - Software Development Methodologies/Modelling (Analyze, Design).md",
     "COMPSCI235 - Software Development Methodologies/Evolutionary (Iterative) Approach.md",
     "COMPSCI235 - Software Development Methodologies/Deployment.md",
-    "COMPSCI235 - Software Development Methodologies/design(s).md",
     "COMPSCI235 - Software Development Methodologies/AGILE.md",
     "design.md",
     "COMPSCI235 - Software Development Methodologies/process.md",
@@ -192,7 +192,6 @@
     "COMPSCI235 - Software Development Methodologies/Version Control Systems (VCS).md",
     "COMPSCI235 - Software Development Methodologies/Systematic Development Process.md",
     "COMPSCI235 - Software Development Methodologies/requirements gathering.md",
-    "COMPSCI235 - Software Development Methodologies/Modelling (Analyze, Design).md",
     "COMPSCI235 - Software Development Methodologies/Generic Software Development Process Framework.md",
     "COMPSCI235 - Software Development Methodologies/Documents.md",
     "COMPSCI235 - Software Development Methodologies/Distributed VCS.md",
