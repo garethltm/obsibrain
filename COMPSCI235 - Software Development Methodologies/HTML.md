@@ -67,3 +67,11 @@ tags must be correctly nested
 	>	#Example 
 	>	bookmarks, history, etc.
 ![[Pasted image 20231101163110.png]]
+
+## Block-level tags
+define the structure of a "block"
+- Paragraphs
+- Headings
+- Lists
+- Tables
+![[Pasted image 20231101163215.png]]
