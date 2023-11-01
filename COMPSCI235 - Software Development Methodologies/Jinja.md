@@ -8,3 +8,6 @@
 
 #### [[Flask]] with [[Jinja]]
 ![[Pasted image 20231101232333.png]]
+
+### [[Jinja]] expressions
+![[Pasted image 20231101233049.png]]
