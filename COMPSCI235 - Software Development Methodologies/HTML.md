@@ -87,5 +87,8 @@ define the structure of a "block"
 	- bullet points
 		`<ul>`
 		- contains the entire list
-<li>
+		`<li>`
+		- used for each list item![[Pasted image 20231101164211.png]]
+	3. Description Lists
+	- 
 - Tables
