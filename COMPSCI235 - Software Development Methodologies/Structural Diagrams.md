@@ -3,4 +3,6 @@
 2. Deployment Diagram
 3. Package Diagram
 4. Profile Diagram
-5. Class
+5. [[Class Diagram]]
+6. Object Diagram
+7. Component Diagram
