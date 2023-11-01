@@ -1,0 +1,1 @@
+[[Hypertext Transfer Protocol (HTTP)]] is a stateless protocol -
