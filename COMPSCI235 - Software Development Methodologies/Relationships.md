@@ -8,9 +8,7 @@ if not sure, use association in general
 - [[COMPSCI235 - Software Development Methodologies/Dependency|Dependency]]
 - [[Association]]
 - [[Aggregation]]
-- Composition
+- [[Composition]]
 
 ##### Inheritance & Realization [[Relationships]]
 ![[Pasted image 20231101144822.png]]![[Pasted image 20231101144845.png]]
-
-##### Aggregation & Composition [[Relationships]]

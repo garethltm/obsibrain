@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Aggregation.md",
+                "file": "COMPSCI235 - Software Development Methodologies/Composition.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Aggregation.md",
+                "file": "COMPSCI235 - Software Development Methodologies/Composition.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Aggregation.md",
+                "file": "COMPSCI235 - Software Development Methodologies/Composition.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Aggregation.md"
+                "file": "COMPSCI235 - Software Development Methodologies/Composition.md"
               }
             }
           },
@@ -153,7 +153,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Aggregation.md"
+                "file": "COMPSCI235 - Software Development Methodologies/Composition.md"
               }
             }
           }
@@ -178,9 +178,10 @@
   },
   "active": "9ab2d4079996b929",
   "lastOpenFiles": [
-    "@images/Pasted image 20231101150030.png",
     "COMPSCI235 - Software Development Methodologies/Relationships.md",
     "COMPSCI235 - Software Development Methodologies/Aggregation.md",
+    "COMPSCI235 - Software Development Methodologies/Composition.md",
+    "@images/Pasted image 20231101150030.png",
     "COMPSCI235 - Software Development Methodologies/Association.md",
     "COMPSCI235 - Software Development Methodologies/Class Diagram.md",
     "@images/Pasted image 20231101145828.png",
@@ -194,7 +195,6 @@
     "INFOSYS222 - Database Systems/Dependency.md",
     "@images/Pasted image 20231101145154.png",
     "@images/Pasted image 20231101144845.png",
-    "@images/Pasted image 20231101144822.png",
     "COMPSCI235 - Software Development Methodologies/Structural elements.md",
     "COMPSCI235 - Software Development Methodologies/Interfaces.md",
     "COMPSCI235 - Software Development Methodologies/Classes.md",
