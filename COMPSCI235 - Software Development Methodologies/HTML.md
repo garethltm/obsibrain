@@ -42,8 +42,11 @@ tags must be correctly nested
 ![[Pasted image 20231101162311.png]]
 
 ### Essential Tags
-`<html lang="en">`
-- encloses the entire document
-- specifies that the document uses html
-- lang attribute is used to specify the primary language of a webpage
-	- en is the 
+1. `<html lang="en">`
+	- encloses the entire document
+	- specifies that the document uses `html`
+	- `lang` attribute is used to specify the primary language of a webpage
+		- `en` is the code for English
+![[Pasted image 20231101162504.png]]
+2. <head>
+-
