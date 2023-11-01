@@ -163,3 +163,7 @@ a link to another resource on the WorldWideWeb
 - references to other documents
 - pages, images, files, sections
 	- #### Anchor tag `<a>`
+	- `<href>`
+		- attribute used to specify the destination of the link
+		- URL![[Pasted image 20231101171113.png]]
+
