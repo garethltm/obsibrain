@@ -1,0 +1,1 @@
+a unit test is a piece of code that invokes the method/[[Classes]] being tested & then checks some assumptions about the logical behaviour of that method/[[Classes]]
