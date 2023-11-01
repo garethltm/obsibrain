@@ -65,8 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "29204b37fc003a9a",
@@ -169,6 +168,8 @@
   },
   "active": "320a8835ac91be87",
   "lastOpenFiles": [
+    "COMPSCI235 - Software Development Methodologies/Element selectors.md",
+    "COMPSCI235 - Software Development Methodologies/selector.md",
     "COMPSCI235 - Software Development Methodologies/Hypertext Transfer Protocol (HTTP).md",
     "COMPSCI235 - Software Development Methodologies/Heterogeneous.md",
     "@images/Pasted image 20231101182430.png",
@@ -203,7 +204,6 @@
     "COMPSCI235 - Software Development Methodologies/System testing.md",
     "COMPSCI367 - Artificial Intelligence/week10/Bayes Theorem.md",
     "COMPSCI235 - Software Development Methodologies/Automated Testing.md",
-    "COMPSCI235 - Software Development Methodologies/Cascading Style Sheets (CSS).md",
     "COMPSCI367 - Artificial Intelligence/finals prep.canvas",
     "COMPSCI235 - Software Development Methodologies",
     "COMPSCI367 - Artificial Intelligence/week12",
