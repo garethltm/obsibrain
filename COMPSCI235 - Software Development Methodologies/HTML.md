@@ -73,7 +73,9 @@ tags must be correctly nested
 define the structure of a "block"
 - Paragraphs
 	`<p>`
-	- defines a paragraph of text
+	- defines a paragraph of text![[Pasted image 20231101163424.png]]
+
 - Headings
+	<h1>,<h2>,
 - Lists
 - Tables
