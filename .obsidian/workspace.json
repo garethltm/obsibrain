@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/acceptance criteria.md",
+                "file": "COMPSCI235 - Software Development Methodologies/Test-driven development (AGILE practice).md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/acceptance criteria.md",
+                "file": "COMPSCI235 - Software Development Methodologies/Test-driven development (AGILE practice).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/acceptance criteria.md",
+                "file": "COMPSCI235 - Software Development Methodologies/Test-driven development (AGILE practice).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/acceptance criteria.md"
+                "file": "COMPSCI235 - Software Development Methodologies/Test-driven development (AGILE practice).md"
               }
             }
           },
@@ -166,7 +166,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/acceptance criteria.md"
+                "file": "COMPSCI235 - Software Development Methodologies/Test-driven development (AGILE practice).md"
               }
             }
           }
@@ -191,8 +191,9 @@
   },
   "active": "de2e79bafafac181",
   "lastOpenFiles": [
-    "COMPSCI235 - Software Development Methodologies/Acceptance Testing.md",
     "COMPSCI235 - Software Development Methodologies/acceptance criteria.md",
+    "COMPSCI235 - Software Development Methodologies/Test-driven development (AGILE practice).md",
+    "COMPSCI235 - Software Development Methodologies/Acceptance Testing.md",
     "COMPSCI235 - Software Development Methodologies/requirements gathering.md",
     "COMPSCI235 - Software Development Methodologies/Testing.md",
     "COMPSCI235 - Software Development Methodologies/Unit Testing.md",
@@ -226,7 +227,6 @@
     "@images/Pasted image 20231101145810.png",
     "@images/Pasted image 20231101145733.png",
     "@images/Pasted image 20231101145646.png",
-    "INFOSYS222 - Database Systems/Dependency.md",
     "COMPSCI367 - Artificial Intelligence/finals prep.canvas",
     "COMPSCI235 - Software Development Methodologies",
     "COMPSCI367 - Artificial Intelligence/week12",
