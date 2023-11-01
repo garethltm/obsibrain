@@ -32,3 +32,8 @@ Markup achieved with "tags"
 ![[Pasted image 20231101162122.png]]
 
 ### Attributes
+some tags require additional information
+- properties or attributes of the tag
+`<tag property = "value"></tag>`
+
+### Nested Tags
