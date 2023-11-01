@@ -29,3 +29,8 @@ can be embedded in [[Hyper Text Markup Language (HTML)]] document or placed into
 
 #### Conflicting styles
 ![[Pasted image 20231101173328.png]]
+
+#### Location of the styles
+1. [[External style sheet]]
+2. Internal style sheet
+3. Inline styles

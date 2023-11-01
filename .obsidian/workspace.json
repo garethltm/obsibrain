@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Cascading Style Sheets (CSS).md",
+                "file": "COMPSCI235 - Software Development Methodologies/External style sheet.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Cascading Style Sheets (CSS).md",
+                "file": "COMPSCI235 - Software Development Methodologies/External style sheet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Cascading Style Sheets (CSS).md",
+                "file": "COMPSCI235 - Software Development Methodologies/External style sheet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Cascading Style Sheets (CSS).md"
+                "file": "COMPSCI235 - Software Development Methodologies/External style sheet.md"
               }
             }
           },
@@ -166,7 +166,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Cascading Style Sheets (CSS).md"
+                "file": "COMPSCI235 - Software Development Methodologies/External style sheet.md"
               }
             }
           }
@@ -191,10 +191,11 @@
   },
   "active": "de2e79bafafac181",
   "lastOpenFiles": [
+    "COMPSCI235 - Software Development Methodologies/Cascading Style Sheets (CSS).md",
+    "COMPSCI235 - Software Development Methodologies/External style sheet.md",
     "@images/Pasted image 20231101173328.png",
     "@images/Pasted image 20231101173134.png",
     "COMPSCI235 - Software Development Methodologies/selector.md",
-    "COMPSCI235 - Software Development Methodologies/Cascading Style Sheets (CSS).md",
     "COMPSCI235 - Software Development Methodologies/Class selectors.md",
     "@images/Pasted image 20231101173018.png",
     "COMPSCI235 - Software Development Methodologies/ID selectors.md",
@@ -207,7 +208,6 @@
     "COMPSCI235 - Software Development Methodologies/Element selector.md",
     "@images/Pasted image 20231101172541.png",
     "@images/Pasted image 20231101172223.png",
-    "@images/Pasted image 20231101172211.png",
     "COMPSCI235 - Software Development Methodologies/Hyper Text Markup Language (HTML).md",
     "COMPSCI235 - Software Development Methodologies/semantic.md",
     "COMPSCI235 - Software Development Methodologies/The 4 P's of Software Development.md",
