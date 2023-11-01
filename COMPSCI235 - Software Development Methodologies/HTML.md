@@ -59,4 +59,10 @@ tags must be correctly nested
 	- contains all the content that will appear on the page
 ![[Pasted image 20231101162926.png]]
 
-4. 
+4. `<title>`
+- part of the `head`
+- specifies the title to be used by the browser
+- name of the window
+- used in navigation
+>	#Example 
+>	bookmarks, history, etc.
