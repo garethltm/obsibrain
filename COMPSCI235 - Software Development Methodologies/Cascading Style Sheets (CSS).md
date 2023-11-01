@@ -34,3 +34,6 @@ can be embedded in [[Hyper Text Markup Language (HTML)]] document or placed into
 1. [[External style sheet]]
 2. [[Internal style sheet]]
 3. [[Inline styles]]
+![[Pasted image 20231101174109.png]]
+
+## Properties fo
