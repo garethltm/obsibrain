@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Modelling (Analyze, Design).md",
+                "file": "COMPSCI235 - Software Development Methodologies/Domain Modeling.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Modelling (Analyze, Design).md",
+                "file": "COMPSCI235 - Software Development Methodologies/Domain Modeling.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Modelling (Analyze, Design).md",
+                "file": "COMPSCI235 - Software Development Methodologies/Domain Modeling.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Modelling (Analyze, Design).md"
+                "file": "COMPSCI235 - Software Development Methodologies/Domain Modeling.md"
               }
             }
           },
@@ -153,7 +153,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Modelling (Analyze, Design).md"
+                "file": "COMPSCI235 - Software Development Methodologies/Domain Modeling.md"
               }
             }
           }
@@ -178,9 +178,9 @@
   },
   "active": "9ab2d4079996b929",
   "lastOpenFiles": [
+    "COMPSCI235 - Software Development Methodologies/Modelling (Analyze, Design).md",
     "COMPSCI235 - Software Development Methodologies/Domain Modeling.md",
     "COMPSCI235 - Software Development Methodologies/requirements gathering.md",
-    "COMPSCI235 - Software Development Methodologies/Modelling (Analyze, Design).md",
     "COMPSCI235 - Software Development Methodologies/design(s).md",
     "COMPSCI235 - Software Development Methodologies/Evolutionary (Iterative) Approach.md",
     "COMPSCI235 - Software Development Methodologies/Deployment.md",
