@@ -19,6 +19,9 @@
 			- Add an article
 			- Return the number of articles stored
 			- Retrieve an article by id
-			- Retrieve
+			- Retrieve a list of articles corresponding a list of article ids
+			- Retrieve the first & last articles stored
+			- Return an empty list when asked for articles on a date for which there are no articles
+			- Retrieve a list of article ids for articles tagg
 
 Related to: [[Unit Testing]]
