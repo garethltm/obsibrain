@@ -82,6 +82,10 @@ define the structure of a "block"
 		`<ol>`
 		- contains the entire list
 		`<li>`
-		- used for each list item
-
+		- used for each list item![[Pasted image 20231101164037.png]]
+	2. Unordered Lists
+	- bullet points
+		`<ul>`
+		- contains the entire list
+<li>
 - Tables
