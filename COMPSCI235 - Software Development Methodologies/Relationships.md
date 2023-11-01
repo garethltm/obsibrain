@@ -8,3 +8,6 @@ if not sure, use association in general
 - Dependency
 - Association
 - Composition
+
+##### Inheritance & Realization [[Relationships]]
+![[Pasted image 20231101144822.png]]
