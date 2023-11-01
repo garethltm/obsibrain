@@ -1,12 +1,12 @@
 **describes the appearance**, layout & presentation of information on a webpage
-- [[Hyper Text Markup Language (HTML)]] describes the content of the page
+- [[Hypertext Markup Language (HTML)]] describes the content of the page
 
 describes *how information is to be displayed*, not what is being displayed
 
-can be embedded in [[Hyper Text Markup Language (HTML)]] document or placed into separate `.css` file
+can be embedded in [[Hypertext Markup Language (HTML)]] document or placed into separate `.css` file
 
 # Styles
-- a style changes the way [[Hyper Text Markup Language (HTML)]] code is displayed
+- a style changes the way [[Hypertext Markup Language (HTML)]] code is displayed
 
 #### Defining a style
 - Styles are defined using rules
@@ -22,9 +22,9 @@ can be embedded in [[Hyper Text Markup Language (HTML)]] document or placed into
 
 ### CSS comments `/*...*/`
 ![[Pasted image 20231101173134.png]]
-- [[Cascading Style Sheets (CSS)]] (like [[Hyper Text Markup Language (HTML)]]) is usually not commented as rigorously as programming languages such as Java
+- [[Cascading Style Sheets (CSS)]] (like [[Hypertext Markup Language (HTML)]]) is usually not commented as rigorously as programming languages such as Java
 - The `//` single-line comment style is NOT supported in [[Cascading Style Sheets (CSS)]]
-- The `<!--...-->` [[Hyper Text Markup Language (HTML)]] comment style is NOT supported in [[Cascading Style Sheets (CSS)]]
+- The `<!--...-->` [[Hypertext Markup Language (HTML)]] comment style is NOT supported in [[Cascading Style Sheets (CSS)]]
 
 
 #### Conflicting styles

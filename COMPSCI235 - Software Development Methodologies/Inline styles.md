@@ -1,4 +1,4 @@
-Styles that are applied directly to a specific [[Hyper Text Markup Language (HTML)]] element within the [[Hyper Text Markup Language (HTML)]] tag itself.
+Styles that are applied directly to a specific [[Hypertext Markup Language (HTML)]] element within the [[Hypertext Markup Language (HTML)]] tag itself.
 - used to apply unique style to a single element that isn't used anywhere else
 
 `style attribute`
