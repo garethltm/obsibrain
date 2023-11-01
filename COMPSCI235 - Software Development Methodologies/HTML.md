@@ -13,4 +13,9 @@ defines which standard is being used for the page
 ### Encoding methods
 different character sets used to encode the page
 - ASCII
-- U
+- UTF-8
+- Unicode
+Need to tell the browser which encoding is used
+
+`<meta charset="UTF-8">`
+- located in the `head` of the document
