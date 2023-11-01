@@ -21,7 +21,7 @@ Need to tell the browser which encoding is used
 `<meta charset="UTF-8">`
 - located in the `<HEAD>` of the document
 
-### Tags
+# Tags
 Elements are the building blocks of web pages
 - Designators that define the content & the structure of objects in a page
 
@@ -36,12 +36,12 @@ some tags require additional information
 - properties or attributes of the tag
 `<tag property = "value"></tag>`
 
-### Nested Tags
+## Nested Tags
 tags must be correctly nested
 - cannot close an open tag until all the open tags that it affects are also closed
 ![[Pasted image 20231101162311.png]]
 
-### Essential Tags
+## Essential Tags
 1. `<html lang="en">`
 	- encloses the entire document
 	- specifies that the document uses `html`
@@ -97,5 +97,5 @@ define the structure of a "block"
 		- defines a term in a description list
 		`<dd>`	
 		- is used to describe a term in a description list![[Pasted image 20231101164411.png]]
-
-- Tables
+- #### Tables `<table>`
+	- used to format 
