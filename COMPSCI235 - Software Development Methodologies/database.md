@@ -25,5 +25,9 @@ A [[COMPSCI235 - Software Development Methodologies/database|database]] is an or
 - Storage of data in files
 - Other Problems:
 	- Redundancies
-		- You need to update more columns when you want to make some chag
+		- You need to update more columns when you want to make some changes
+		- which leads to
+	- Inconsistencies
+	- Security - Who has access?
+	- Isolation - When there is concurrent multi-user access
 
