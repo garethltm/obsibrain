@@ -109,4 +109,9 @@ define the structure of a "block"
 		- each heading in the header row
 		`<td>`
 		- each element/cell of data in the row![[Pasted image 20231101164755.png]]
-- #### Divider <
+- #### Divider `<div>`
+	- block level element
+	- each new div is rendered on a new line
+	- a division, or section of content within a HTML page
+		<div>
+					
