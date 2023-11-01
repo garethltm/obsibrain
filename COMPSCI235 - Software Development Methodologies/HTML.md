@@ -116,5 +116,9 @@ define the structure of a "block"
 		`<div>`
 			`<p>Content<p>`
 			`<p>Content<p>`
-		`</div>`![[Pasted image 20231101165117.png]]
-		![[Pasted image 20231101165130.png]]
+		`</div>`
+		![[Pasted image 20231101165130.png]]![[Pasted image 20231101165117.png]]
+
+### New HTML5 elements
+- HTML5 offers new elements for better document structure & semantics
+- some of the most commonly used tags includes
