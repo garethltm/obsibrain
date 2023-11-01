@@ -1,0 +1,1 @@
+an object in your system that your code under test interacts with & over which you have no control
