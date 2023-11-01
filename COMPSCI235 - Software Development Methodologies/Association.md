@@ -13,3 +13,7 @@ a key dynamic relationship between objects & is represented on a [[Class Diagram
 
 - [[Association]] can be given a role name for each participating class
 	- Roles are usually nouns or noun phrases
+![[Pasted image 20231101145733.png]]
+
+### Specifying [[Association]] multiplicities
+![[Pasted image 20231101145810.png]]![[Pasted image 20231101145828.png]]
