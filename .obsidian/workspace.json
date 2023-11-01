@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Access Modifiers.md",
+                "file": "COMPSCI235 - Software Development Methodologies/Class Diagram.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Access Modifiers.md",
+                "file": "COMPSCI235 - Software Development Methodologies/Class Diagram.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Access Modifiers.md",
+                "file": "COMPSCI235 - Software Development Methodologies/Class Diagram.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Access Modifiers.md"
+                "file": "COMPSCI235 - Software Development Methodologies/Class Diagram.md"
               }
             }
           },
@@ -153,7 +153,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Access Modifiers.md"
+                "file": "COMPSCI235 - Software Development Methodologies/Class Diagram.md"
               }
             }
           }
@@ -178,8 +178,11 @@
   },
   "active": "9ab2d4079996b929",
   "lastOpenFiles": [
+    "COMPSCI235 - Software Development Methodologies/Systematic Development Process.md",
     "COMPSCI235 - Software Development Methodologies/Class Diagram.md",
+    "COMPSCI235 - Software Development Methodologies/Generic Software Development Process Framework.md",
     "COMPSCI235 - Software Development Methodologies/Access Modifiers.md",
+    "@images/Pasted image 20231101143837.png",
     "COMPSCI235 - Software Development Methodologies/Annotation.md",
     "@images/Pasted image 20231101143749.png",
     "COMPSCI235 - Software Development Methodologies/Relationships.md",
@@ -210,10 +213,7 @@
     "design.md",
     "COMPSCI235 - Software Development Methodologies/Planning.md",
     "COMPSCI235 - Software Development Methodologies/software.md",
-    "COMPSCI235 - Software Development Methodologies/stakeholders.md",
-    "COMPSCI235 - Software Development Methodologies/Version Control Systems (VCS).md",
     "@images/Pasted image 20231101024900.png",
-    "@images/Pasted image 20231101024813.png",
     "COMPSCI367 - Artificial Intelligence/finals prep.canvas",
     "COMPSCI235 - Software Development Methodologies",
     "COMPSCI367 - Artificial Intelligence/week12",
