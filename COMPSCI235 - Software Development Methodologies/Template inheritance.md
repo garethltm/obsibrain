@@ -1,2 +1,4 @@
+![[Pasted image 20231101233558.png]]
 allows one template to inherit from another
-- the parent template typically defines a common structure (layout) that the child
+- parent template typically defines a common structure (layout) that the child reuses
+- child template typically override parts of the inherited structure to provide their own content

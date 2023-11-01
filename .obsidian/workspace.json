@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Template inheritance.md",
+                "file": "COMPSCI235 - Software Development Methodologies/Template inheritance & containment.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Template inheritance.md",
+                "file": "COMPSCI235 - Software Development Methodologies/Template inheritance & containment.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Template inheritance.md",
+                "file": "COMPSCI235 - Software Development Methodologies/Template inheritance & containment.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Template inheritance.md"
+                "file": "COMPSCI235 - Software Development Methodologies/Template inheritance & containment.md"
               }
             }
           },
@@ -153,7 +153,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Template inheritance.md"
+                "file": "COMPSCI235 - Software Development Methodologies/Template inheritance & containment.md"
               }
             }
           }
@@ -178,8 +178,9 @@
   },
   "active": "449af76cbbab7809",
   "lastOpenFiles": [
-    "COMPSCI235 - Software Development Methodologies/Template inheritance & containment.md",
     "COMPSCI235 - Software Development Methodologies/Template inheritance.md",
+    "@images/Pasted image 20231101233558.png",
+    "COMPSCI235 - Software Development Methodologies/Template inheritance & containment.md",
     "COMPSCI235 - Software Development Methodologies/Templating.md",
     "COMPSCI235 - Software Development Methodologies/Jinja.md",
     "@images/Pasted image 20231101233221.png",
@@ -192,7 +193,6 @@
     "@images/Pasted image 20231101231947.png",
     "COMPSCI235 - Software Development Methodologies/Flask.md",
     "@images/Pasted image 20231101231220.png",
-    "@images/Pasted image 20231101231147.png",
     "COMPSCI235 - Software Development Methodologies/Middleware.md",
     "COMPSCI235 - Software Development Methodologies/Hypertext Transfer Protocol (HTTP).md",
     "COMPSCI235 - Software Development Methodologies/standard protocol.md",
@@ -213,7 +213,6 @@
     "COMPSCI235 - Software Development Methodologies/Structural Diagrams.md",
     "COMPSCI235 - Software Development Methodologies/Scalability.md",
     "COMPSCI235 - Software Development Methodologies/Relationships.md",
-    "COMPSCI235 - Software Development Methodologies/Pytest.md",
     "COMPSCI367 - Artificial Intelligence/finals prep.canvas",
     "COMPSCI235 - Software Development Methodologies",
     "COMPSCI367 - Artificial Intelligence/week12",
