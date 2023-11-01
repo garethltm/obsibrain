@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/GitHub.md",
+                "file": "COMPSCI235 - Software Development Methodologies/Hypertext Transfer Protocol (HTTP).md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "open proto",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/GitHub.md",
+                "file": "COMPSCI235 - Software Development Methodologies/Hypertext Transfer Protocol (HTTP).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/GitHub.md",
+                "file": "COMPSCI235 - Software Development Methodologies/Hypertext Transfer Protocol (HTTP).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/GitHub.md"
+                "file": "COMPSCI235 - Software Development Methodologies/Hypertext Transfer Protocol (HTTP).md"
               }
             }
           },
@@ -153,7 +154,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/GitHub.md"
+                "file": "COMPSCI235 - Software Development Methodologies/Hypertext Transfer Protocol (HTTP).md"
               }
             }
           }
@@ -178,11 +179,12 @@
   },
   "active": "9ab2d4079996b929",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
+    "COMPSCI235 - Software Development Methodologies/open protocol.md",
+    "COMPSCI235 - Software Development Methodologies/Hypertext Transfer Protocol (HTTP).md",
     "COMPSCI235 - Software Development Methodologies/GitHub.md",
+    "conflict-files-obsidian-git.md",
     "COMPSCI235 - Software Development Methodologies/semantic.md",
     "COMPSCI235 - Software Development Methodologies/selector.md",
-    "COMPSCI235 - Software Development Methodologies/open protocol.md",
     "COMPSCI235 - Software Development Methodologies/non-functional.md",
     "COMPSCI235 - Software Development Methodologies/model.md",
     "COMPSCI235 - Software Development Methodologies/functional.md",
@@ -199,7 +201,6 @@
     "COMPSCI235 - Software Development Methodologies/Networked.md",
     "COMPSCI235 - Software Development Methodologies/Inline styles.md",
     "COMPSCI235 - Software Development Methodologies/ID selectors.md",
-    "COMPSCI235 - Software Development Methodologies/Hypertext Transfer Protocol (HTTP).md",
     "COMPSCI235 - Software Development Methodologies/Hypertext Markup Language (HTML).md",
     "COMPSCI235 - Software Development Methodologies/How to deal with dependencies in testing.md",
     "COMPSCI235 - Software Development Methodologies/Heterogeneous.md",
