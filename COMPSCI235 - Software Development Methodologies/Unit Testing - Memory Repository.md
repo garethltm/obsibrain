@@ -8,6 +8,11 @@
 	- Can the repository:
 		- Add a tag
 		- Retrieve all tags
-23
+3. Comments
+	- Can the repository:
+		- Add a comment
+		- Reject a comment that's not correctly associated with a `User` & an `Article`
+		- Retrieve all comments
+4. 
 
 Related to: [[Unit Testing]]
