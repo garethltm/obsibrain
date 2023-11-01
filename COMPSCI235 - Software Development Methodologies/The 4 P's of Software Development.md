@@ -7,6 +7,7 @@
 
 2. **Product (what?)** - The artifacts produced 
 	- [[Software]] you are creating
+	- [[released product]]
 	- Artifacts that are created during the life of the project, such as, ==[[model]], source code, executables & documentation==
 
 3. **Process (how?)** - The manner it's done

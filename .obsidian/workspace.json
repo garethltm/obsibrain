@@ -57,7 +57,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "testing",
+                "query": "product",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "29204b37fc003a9a",
@@ -181,6 +182,8 @@
   },
   "active": "de2e79bafafac181",
   "lastOpenFiles": [
+    "COMPSCI235 - Software Development Methodologies/The 4 P's of Software Development.md",
+    "COMPSCI235 - Software Development Methodologies/software engineering process.md",
     "COMPSCI235 - Software Development Methodologies/Git VCS.md",
     "COMPSCI235 - Software Development Methodologies/Test-driven development (AGILE practice).md",
     "COMPSCI235 - Software Development Methodologies/AGILE.md",
@@ -210,8 +213,6 @@
     "@images/Pasted image 20231101151442.png",
     "COMPSCI235 - Software Development Methodologies/Dependency.md",
     "COMPSCI235 - Software Development Methodologies/External Dependency.md",
-    "COMPSCI235 - Software Development Methodologies/White Box Testing.md",
-    "COMPSCI235 - Software Development Methodologies/Classes.md",
     "@images/Pasted image 20231101150459.png",
     "@images/Pasted image 20231101150231.png",
     "@images/Pasted image 20231101150153.png",
