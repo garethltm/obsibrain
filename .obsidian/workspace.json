@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Session cookie.md",
+                "file": "COMPSCI235 - Software Development Methodologies/Authentication vulnerability.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Session cookie.md",
+                "file": "COMPSCI235 - Software Development Methodologies/Authentication vulnerability.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Session cookie.md",
+                "file": "COMPSCI235 - Software Development Methodologies/Authentication vulnerability.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Session cookie.md"
+                "file": "COMPSCI235 - Software Development Methodologies/Authentication vulnerability.md"
               }
             }
           },
@@ -153,7 +153,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Session cookie.md"
+                "file": "COMPSCI235 - Software Development Methodologies/Authentication vulnerability.md"
               }
             }
           }
@@ -178,8 +178,11 @@
   },
   "active": "33a55b9766be070c",
   "lastOpenFiles": [
-    "COMPSCI235 - Software Development Methodologies/session.md",
+    "@images/Pasted image 20231102011313.png",
     "COMPSCI235 - Software Development Methodologies/Session cookie.md",
+    "COMPSCI235 - Software Development Methodologies/Authentication vulnerability.md",
+    "@images/Pasted image 20231102011233.png",
+    "COMPSCI235 - Software Development Methodologies/session.md",
     "COMPSCI235 - Software Development Methodologies/cookie.md",
     "COMPSCI235 - Software Development Methodologies/Hypertext Transfer Protocol (HTTP).md",
     "COMPSCI235 - Software Development Methodologies/stateless.md",
@@ -211,9 +214,6 @@
     "@images/Pasted image 20231102000133.png",
     "COMPSCI235 - Software Development Methodologies/Flask.md",
     "COMPSCI235 - Software Development Methodologies/Flask Blueprint.md",
-    "@images/Pasted image 20231102000044.png",
-    "COMPSCI235 - Software Development Methodologies/Single Responsibility Principle (SRP).md",
-    "COMPSCI235 - Software Development Methodologies/Creating responses.md",
     "COMPSCI367 - Artificial Intelligence/finals prep.canvas",
     "COMPSCI235 - Software Development Methodologies",
     "COMPSCI367 - Artificial Intelligence/week12",
