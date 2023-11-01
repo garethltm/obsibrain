@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Association.md",
+                "file": "COMPSCI235 - Software Development Methodologies/Relationships.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Association.md",
+                "file": "COMPSCI235 - Software Development Methodologies/Relationships.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Association.md",
+                "file": "COMPSCI235 - Software Development Methodologies/Relationships.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Association.md"
+                "file": "COMPSCI235 - Software Development Methodologies/Relationships.md"
               }
             }
           },
@@ -153,7 +153,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Association.md"
+                "file": "COMPSCI235 - Software Development Methodologies/Relationships.md"
               }
             }
           }
@@ -178,6 +178,8 @@
   },
   "active": "9ab2d4079996b929",
   "lastOpenFiles": [
+    "COMPSCI235 - Software Development Methodologies/Class Diagram.md",
+    "COMPSCI235 - Software Development Methodologies/Association.md",
     "@images/Pasted image 20231101145828.png",
     "@images/Pasted image 20231101145810.png",
     "@images/Pasted image 20231101145733.png",
@@ -186,14 +188,11 @@
     "@images/Pasted image 20231101145422.png",
     "@images/Pasted image 20231101145404.png",
     "COMPSCI235 - Software Development Methodologies/Relationships.md",
-    "COMPSCI235 - Software Development Methodologies/Association.md",
     "COMPSCI235 - Software Development Methodologies/Dependency.md",
     "INFOSYS222 - Database Systems/Dependency.md",
     "@images/Pasted image 20231101145154.png",
     "@images/Pasted image 20231101144845.png",
     "@images/Pasted image 20231101144822.png",
-    "@images/Pasted image 20231101144620.png",
-    "COMPSCI235 - Software Development Methodologies/Class Diagram.md",
     "COMPSCI235 - Software Development Methodologies/Structural elements.md",
     "COMPSCI235 - Software Development Methodologies/Interfaces.md",
     "COMPSCI235 - Software Development Methodologies/Classes.md",
