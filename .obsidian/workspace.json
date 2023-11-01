@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/URL Building.md",
+                "file": "COMPSCI235 - Software Development Methodologies/Handling requests.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/URL Building.md",
+                "file": "COMPSCI235 - Software Development Methodologies/Handling requests.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/URL Building.md",
+                "file": "COMPSCI235 - Software Development Methodologies/Handling requests.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/URL Building.md"
+                "file": "COMPSCI235 - Software Development Methodologies/Handling requests.md"
               }
             }
           },
@@ -153,7 +153,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/URL Building.md"
+                "file": "COMPSCI235 - Software Development Methodologies/Handling requests.md"
               }
             }
           }
@@ -178,9 +178,11 @@
   },
   "active": "449af76cbbab7809",
   "lastOpenFiles": [
+    "COMPSCI235 - Software Development Methodologies/URL Building.md",
+    "COMPSCI235 - Software Development Methodologies/Handling requests.md",
+    "@images/Pasted image 20231101234904.png",
     "@images/Pasted image 20231101234846.png",
     "COMPSCI235 - Software Development Methodologies/Template inheritance & containment.md",
-    "COMPSCI235 - Software Development Methodologies/URL Building.md",
     "COMPSCI235 - Software Development Methodologies/Template containment.md",
     "COMPSCI235 - Software Development Methodologies/Template inheritance.md",
     "@images/Pasted image 20231101234028.png",
@@ -193,8 +195,6 @@
     "COMPSCI235 - Software Development Methodologies/Jinja.md",
     "@images/Pasted image 20231101233221.png",
     "@images/Pasted image 20231101233121.png",
-    "@images/Pasted image 20231101233049.png",
-    "@images/Pasted image 20231101233047.png",
     "COMPSCI235 - Software Development Methodologies/Flask.md",
     "COMPSCI235 - Software Development Methodologies/Middleware.md",
     "COMPSCI235 - Software Development Methodologies/Hypertext Transfer Protocol (HTTP).md",
