@@ -1,0 +1,2 @@
+- Python's abc module provides infrastructure for defining abstract classes
+- To use abc (Abstract Base C)
