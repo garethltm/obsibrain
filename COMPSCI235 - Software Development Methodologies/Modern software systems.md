@@ -1,4 +1,5 @@
-1. 
+1. [[Monolithic]]
+2. [[Microservices]]
 ![[L08Web-basedSystems1-03.jpg]]
 ### Distributed system
 **Spreading services across different servers**
