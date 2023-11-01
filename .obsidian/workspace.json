@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Interfaces.md",
+                "file": "COMPSCI235 - Software Development Methodologies/Construction (Code, Test).md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "dependency",
+                "query": "testing",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Interfaces.md",
+                "file": "COMPSCI235 - Software Development Methodologies/Construction (Code, Test).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Interfaces.md",
+                "file": "COMPSCI235 - Software Development Methodologies/Construction (Code, Test).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Interfaces.md"
+                "file": "COMPSCI235 - Software Development Methodologies/Construction (Code, Test).md"
               }
             }
           },
@@ -153,7 +154,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Interfaces.md"
+                "file": "COMPSCI235 - Software Development Methodologies/Construction (Code, Test).md"
               }
             }
           }
@@ -178,6 +179,7 @@
   },
   "active": "9ab2d4079996b929",
   "lastOpenFiles": [
+    "COMPSCI235 - Software Development Methodologies/Interfaces.md",
     "COMPSCI235 - Software Development Methodologies/Relationships.md",
     "@images/Pasted image 20231101150231.png",
     "COMPSCI235 - Software Development Methodologies/Composition.md",
@@ -196,7 +198,6 @@
     "COMPSCI235 - Software Development Methodologies/Dependency.md",
     "INFOSYS222 - Database Systems/Dependency.md",
     "COMPSCI235 - Software Development Methodologies/Structural elements.md",
-    "COMPSCI235 - Software Development Methodologies/Interfaces.md",
     "COMPSCI235 - Software Development Methodologies/Classes.md",
     "COMPSCI235 - Software Development Methodologies/requirements gathering.md",
     "COMPSCI235 - Software Development Methodologies/Systematic Development Process.md",
