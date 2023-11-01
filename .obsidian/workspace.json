@@ -110,7 +110,7 @@
                       "linkStrength": 1,
                       "linkDistance": 250,
                       "scale": 0.3628873693012117,
-                      "close": false
+                      "close": true
                     }
                   }
                 }
@@ -266,7 +266,7 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "358f03c9716e94e8",
+  "active": "a8b21011d3ee7aaa",
   "lastOpenFiles": [
     "COMPSCI235 - Software Development Methodologies/Version Control Systems (VCS).md",
     "COMPSCI235 - Software Development Methodologies/Dependencies.md",
