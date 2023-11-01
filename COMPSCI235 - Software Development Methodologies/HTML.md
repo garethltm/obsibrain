@@ -68,7 +68,7 @@ tags must be correctly nested
 	>	bookmarks, history, etc.
 ![[Pasted image 20231101163110.png]]
 
-## Block-level tags
+# Block-level tags
 ![[Pasted image 20231101163215.png]]
 define the structure of a "block"
 - #### Paragraphs `<p>`
@@ -94,5 +94,8 @@ define the structure of a "block"
 		`<dl>`
 		- contains the entire list
 		`<dt>`
+		- defines a term in a description list
 		`<dd>`	
+		- is used to describe a term in a description list![[Pasted image 20231101164411.png]]
+
 - Tables
