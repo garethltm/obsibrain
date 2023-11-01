@@ -14,5 +14,10 @@ Databases come in many forms
 
 - [[COMPSCI235 - Software Development Methodologies/Relational database|Relational database]]
 
-A [[COMPSCI235 - Software Development Methodologies/database|database]] is an organized collection of inter-relat
+A [[COMPSCI235 - Software Development Methodologies/database|database]] is an organized collection of inter-related data that models some aspect of the real-world
+
+#### Why databases?
+- Store our data in flat files - persistent storage
+- Read & Writes to flat f
+
 
