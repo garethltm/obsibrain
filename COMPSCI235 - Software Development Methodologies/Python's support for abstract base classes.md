@@ -1,2 +1,5 @@
 - Python's abc module provides infrastructure for defining abstract classes
-- To use abc (Abstract Base C)
+- To use abc (Abstract Base Class)
+	- Make AbstractRepository a subclass of ABC
+	- Tag all methods that AbstractRepository subclasses must implement with `@abstractmethod`
+- At run-time, any attempt
