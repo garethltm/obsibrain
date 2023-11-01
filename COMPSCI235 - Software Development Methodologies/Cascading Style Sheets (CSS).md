@@ -11,4 +11,6 @@ can be embedded in [[Hyper Text Markup Language (HTML)]] document or placed into
 #### Defining a style
 - Styles are defined using rules
 	- Selector - determines what the rule applies to
-	- Property - the thing t
+	- Property - the thing that will be changed
+	- Value - the value that will be used![[Pasted image 20231101171952.png]]![[Pasted image 20231101172023.png]]
+	- A [[Cascading Style Sheets (CSS)]] file
