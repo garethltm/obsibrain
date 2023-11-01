@@ -1,0 +1,1 @@
+An [[Minimum Viable Product (MVP)]] is a version of a product with just enough features (focus on main key things) to satisfy
