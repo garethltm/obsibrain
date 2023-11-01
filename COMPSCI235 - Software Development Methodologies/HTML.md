@@ -20,3 +20,10 @@ Need to tell the browser which encoding is used
 
 `<meta charset="UTF-8">`
 - located in the `<HEAD>` of the document
+
+### Tags
+Elements are the building blocks of web pages
+- Designators that define the content & the structure of objects in a page
+
+Markup achieved with "tags"
+- enclosed with angle brackets <...>
