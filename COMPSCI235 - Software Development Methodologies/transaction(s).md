@@ -10,3 +10,7 @@ Bundle multiple [[COMPSCI235 - Software Development Methodologies/database|datab
 >	They both try to book the same seat at the same time
 >	- Problem: Concurrent multi-user access![[Pasted image 20231102105423.png]]
 
+>	#Example 
+>	You want to transfer $10,000 from your cheque account to your savings account but there is hardware or software "crash" while the operation is executing
+>	- Problem: Atomicity of updates
+>		- they are 
