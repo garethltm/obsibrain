@@ -125,4 +125,7 @@ define the structure of a "block"
 ![[Pasted image 20231101165328.png]]
 
 - #### Sections `<section>`
+	- defines a section in a HTML5 docuent
+		- can be used to split a web page into different sections
+	- is an example of a [[semantic]] element
 
