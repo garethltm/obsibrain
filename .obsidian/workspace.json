@@ -19,10 +19,8 @@
             "id": "df54043e914f1e1e",
             "type": "leaf",
             "state": {
-              "type": "image",
-              "state": {
-                "file": "@images/Pasted image 20231102103106.png"
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ],
@@ -92,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "@images/Pasted image 20231102103106.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +106,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "@images/Pasted image 20231102103106.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,9 +127,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "@images/Pasted image 20231102103106.png"
-              }
+              "state": {}
             }
           },
           {
@@ -175,12 +169,17 @@
   },
   "active": "df54043e914f1e1e",
   "lastOpenFiles": [
-    "@images/Pasted image 20231102103928.png",
-    "@images/Pasted image 20231102104412.png",
-    "@images/Pasted image 20231102105423.png",
-    "@images/Pasted image 20231102105731.png",
-    "@images/Pasted image 20231102120828.png",
-    "@images/Pasted image 20231023172403.png",
+    "COMPSCI367 - Artificial Intelligence/week04/Local Search.md",
+    "@images/Pasted image 20231101180627.png",
+    "@images/Pasted image 20231101172223.png",
+    "@images/Pasted image 20231101172211.png",
+    "@images/Pasted image 20231101172023.png",
+    "@images/Pasted image 20231101171849.png",
+    "@images/Pasted image 20231101171445.png",
+    "@images/Pasted image 20231101181925.png",
+    "@images/Pasted image 20231101224730.png",
+    "@images/Pasted image 20231101232250.png",
+    "@images/Pasted image 20231101233049.png",
     "COMPSCI235 - Software Development Methodologies/Cascading Style Sheets (CSS).md",
     "COMPSCI235 - Software Development Methodologies/Element selectors.md",
     "COMPSCI235 - Software Development Methodologies/NoSQL.md",
@@ -190,18 +189,13 @@
     "COMPSCI235 - Software Development Methodologies/ACID.md",
     "COMPSCI235 - Software Development Methodologies/transaction(s).md",
     "COMPSCI235 - Software Development Methodologies/Web application architecture.md",
-    "@images/Pasted image 20231102104455.png",
     "COMPSCI235 - Software Development Methodologies/Repository.md",
     "COMPSCI235 - Software Development Methodologies/Minimum Viable Product (MVP).md",
     "COMPSCI235 - Software Development Methodologies/Integration Testing.md",
     "COMPSCI235 - Software Development Methodologies/Unit Testing - Memory Repository.md",
-    "@images/Pasted image 20231102103629.png",
-    "@images/Pasted image 20231102103106.png",
     "COMPSCI235 - Software Development Methodologies/Unit Testing - Service Layer.md",
-    "@images/Pasted image 20231102103021.png",
     "COMPSCI235 - Software Development Methodologies/Unit Testing.md",
     "COMPSCI235 - Software Development Methodologies/WTForms.md",
-    "@images/Pasted image 20231102102610.png",
     "COMPSCI235 - Software Development Methodologies/Flask Configuration.md",
     "COMPSCI235 - Software Development Methodologies/Flask.md",
     "COMPSCI235 - Software Development Methodologies/Flask WTF.md",
