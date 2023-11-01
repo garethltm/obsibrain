@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Hypertext Transfer Protocol (HTTP).md",
+                "file": "COMPSCI235 - Software Development Methodologies/Heterogeneous.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Hypertext Transfer Protocol (HTTP).md",
+                "file": "COMPSCI235 - Software Development Methodologies/Heterogeneous.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Hypertext Transfer Protocol (HTTP).md",
+                "file": "COMPSCI235 - Software Development Methodologies/Heterogeneous.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Hypertext Transfer Protocol (HTTP).md"
+                "file": "COMPSCI235 - Software Development Methodologies/Heterogeneous.md"
               }
             }
           },
@@ -163,7 +163,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Hypertext Transfer Protocol (HTTP).md"
+                "file": "COMPSCI235 - Software Development Methodologies/Heterogeneous.md"
               }
             }
           }
@@ -188,6 +188,8 @@
   },
   "active": "9ab2d4079996b929",
   "lastOpenFiles": [
+    "@images/Pasted image 20231101182430.png",
+    "COMPSCI235 - Software Development Methodologies/Hypertext Transfer Protocol (HTTP).md",
     "COMPSCI235 - Software Development Methodologies/Heterogeneous.md",
     "COMPSCI235 - Software Development Methodologies/standard protocol.md",
     "COMPSCI235 - Software Development Methodologies/open protocol.md",
@@ -215,7 +217,6 @@
     "COMPSCI235 - Software Development Methodologies/Scalability.md",
     "COMPSCI235 - Software Development Methodologies/Maintenance.md",
     "COMPSCI235 - Software Development Methodologies/Accessibility.md",
-    "COMPSCI235 - Software Development Methodologies/Hypertext Transfer Protocol (HTTP).md",
     "COMPSCI235 - Software Development Methodologies/ID selectors.md",
     "COMPSCI235 - Software Development Methodologies/Hypertext Markup Language (HTML).md",
     "COMPSCI235 - Software Development Methodologies/System testing.md",
@@ -223,7 +224,6 @@
     "COMPSCI235 - Software Development Methodologies/Automated Testing.md",
     "COMPSCI235 - Software Development Methodologies/Cascading Style Sheets (CSS).md",
     "@images/Pasted image 20231101174358.png",
-    "COMPSCI235 - Software Development Methodologies/Internal style sheet.md",
     "COMPSCI367 - Artificial Intelligence/finals prep.canvas",
     "COMPSCI235 - Software Development Methodologies",
     "COMPSCI367 - Artificial Intelligence/week12",
