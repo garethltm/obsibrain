@@ -21,3 +21,7 @@ can be embedded in [[Hyper Text Markup Language (HTML)]] document or placed into
 ![[Pasted image 20231101172223.png]]
 
 ### CSS comments `/*...*/`
+![[Pasted image 20231101173134.png]]
+- [[Cascading Style Sheets (CSS)]] (like [[Hyper Text Markup Language (HTML)]]) is usually not commented as rigorously as programming languages such as Java
+- The `//` single-line comment style is NOT supported in [[Cascading Style Sheets (CSS)]]
+- The M
