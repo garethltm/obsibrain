@@ -143,4 +143,9 @@ tags that apply at a given point
 - only opening tag is required
 
 1. line breaks `<br>`
+	- breaks a line
+	- same as hitting the Enter key![[Pasted image 20231101170003.png]]
 2. images `<img>`
+	- pages may contain images
+		- but images are not plain text
+		- can't be insert
