@@ -23,12 +23,8 @@
             "id": "de2e79bafafac181",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Pytest.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ],
@@ -82,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "29204b37fc003a9a",
@@ -98,7 +95,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Pytest.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +111,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Pytest.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,9 +132,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Pytest.md"
-              }
+              "state": {}
             }
           },
           {
@@ -165,9 +158,7 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Pytest.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -191,11 +182,13 @@
   },
   "active": "de2e79bafafac181",
   "lastOpenFiles": [
+    "COMPSCI235 - Software Development Methodologies/released product.md",
+    "COMPSCI235 - Software Development Methodologies/Systematic Development Process.md",
+    "COMPSCI235 - Software Development Methodologies/Pytest.md",
     "@images/Pasted image 20231101153449.png",
     "COMPSCI235 - Software Development Methodologies/Automated Testing.md",
     "@images/Pasted image 20231101153321.png",
     "COMPSCI235 - Software Development Methodologies/test suite.md",
-    "COMPSCI235 - Software Development Methodologies/Pytest.md",
     "COMPSCI235 - Software Development Methodologies/Testing.md",
     "COMPSCI235 - Software Development Methodologies/Unit Testing.md",
     "COMPSCI235 - Software Development Methodologies/Test-driven development (AGILE practice).md",
@@ -221,12 +214,10 @@
     "@images/Pasted image 20231101150459.png",
     "COMPSCI235 - Software Development Methodologies/Construction (Code, Test).md",
     "COMPSCI235 - Software Development Methodologies/Interfaces.md",
-    "COMPSCI235 - Software Development Methodologies/Relationships.md",
     "@images/Pasted image 20231101150231.png",
     "@images/Pasted image 20231101150153.png",
     "@images/Pasted image 20231101150030.png",
     "@images/Pasted image 20231101145828.png",
-    "@images/Pasted image 20231101145810.png",
     "COMPSCI367 - Artificial Intelligence/finals prep.canvas",
     "COMPSCI235 - Software Development Methodologies",
     "COMPSCI367 - Artificial Intelligence/week12",
