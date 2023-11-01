@@ -13,4 +13,5 @@ can be embedded in [[Hyper Text Markup Language (HTML)]] document or placed into
 	- Selector - determines what the rule applies to
 	- Property - the thing that will be changed
 	- Value - the value that will be used![[Pasted image 20231101171952.png]]![[Pasted image 20231101172023.png]]
-	- A [[Cascading Style Sheets (CSS)]] file
+	- A [[Cascading Style Sheets (CSS)]] file contains 1 or more rules
+		- each rule starts with a [[selector]]
