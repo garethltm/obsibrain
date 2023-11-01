@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Web application architecture.md",
+                "file": "COMPSCI235 - Software Development Methodologies/Dependency Inversion Principle (DIP).md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Web application architecture.md",
+                "file": "COMPSCI235 - Software Development Methodologies/Dependency Inversion Principle (DIP).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Web application architecture.md",
+                "file": "COMPSCI235 - Software Development Methodologies/Dependency Inversion Principle (DIP).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Web application architecture.md"
+                "file": "COMPSCI235 - Software Development Methodologies/Dependency Inversion Principle (DIP).md"
               }
             }
           },
@@ -153,7 +153,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Web application architecture.md"
+                "file": "COMPSCI235 - Software Development Methodologies/Dependency Inversion Principle (DIP).md"
               }
             }
           }
@@ -178,9 +178,10 @@
   },
   "active": "449af76cbbab7809",
   "lastOpenFiles": [
+    "COMPSCI235 - Software Development Methodologies/Web application architecture.md",
+    "COMPSCI235 - Software Development Methodologies/Dependency Inversion Principle (DIP).md",
     "@images/Pasted image 20231102004211.png",
     "COMPSCI235 - Software Development Methodologies/Persisting a simple domain model.md",
-    "COMPSCI235 - Software Development Methodologies/Web application architecture.md",
     "@images/Pasted image 20231102004109.png",
     "COMPSCI235 - Software Development Methodologies/Relational database.md",
     "COMPSCI235 - Software Development Methodologies/database.md",
@@ -200,7 +201,6 @@
     "@images/Pasted image 20231101235314.png",
     "COMPSCI235 - Software Development Methodologies/Handling requests.md",
     "@images/Pasted image 20231101235116.png",
-    "@images/Pasted image 20231101235058.png",
     "COMPSCI235 - Software Development Methodologies/URL Building.md",
     "COMPSCI235 - Software Development Methodologies/Template inheritance & containment.md",
     "COMPSCI235 - Software Development Methodologies/Template containment.md",
