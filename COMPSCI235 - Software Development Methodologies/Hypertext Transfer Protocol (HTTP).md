@@ -18,4 +18,7 @@
 	- `PUT` (Not creating new resource; changing/updating details of an information)
 		- REQUESTS that the named resource is replaced with data contained in the message body
 	- DELETE
-		- Re
+		- REQUESTS that a resource be deleted
+	### Diagnostic methods
+	- OPTION
+		- 
