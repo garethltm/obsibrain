@@ -98,4 +98,7 @@ define the structure of a "block"
 		`<dd>`	
 		- is used to describe a term in a description list![[Pasted image 20231101164411.png]]
 - #### Tables `<table>`
-	- used to format 
+	- used to format tables of information
+	- by default, there are no borders shown
+	- ###### Tags
+		<table>
