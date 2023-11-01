@@ -1,0 +1,1 @@
+[[Cookie]]-based [[Authentication]] does not have solid protection 

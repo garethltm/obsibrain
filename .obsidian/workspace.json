@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Signed cookies.md",
+                "file": "COMPSCI235 - Software Development Methodologies/Cross-site Request Forgery (CSRF).md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Signed cookies.md",
+                "file": "COMPSCI235 - Software Development Methodologies/Cross-site Request Forgery (CSRF).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Signed cookies.md",
+                "file": "COMPSCI235 - Software Development Methodologies/Cross-site Request Forgery (CSRF).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Signed cookies.md"
+                "file": "COMPSCI235 - Software Development Methodologies/Cross-site Request Forgery (CSRF).md"
               }
             }
           },
@@ -153,7 +153,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Signed cookies.md"
+                "file": "COMPSCI235 - Software Development Methodologies/Cross-site Request Forgery (CSRF).md"
               }
             }
           }
@@ -178,11 +178,12 @@
   },
   "active": "33a55b9766be070c",
   "lastOpenFiles": [
+    "COMPSCI235 - Software Development Methodologies/Signed cookies.md",
+    "COMPSCI235 - Software Development Methodologies/Cross-site Request Forgery (CSRF).md",
     "@images/Pasted image 20231102011820.png",
     "@images/Pasted image 20231102011452.png",
     "@images/Pasted image 20231102011313.png",
     "COMPSCI235 - Software Development Methodologies/Session cookie.md",
-    "COMPSCI235 - Software Development Methodologies/Signed cookies.md",
     "@images/Pasted image 20231102011233.png",
     "COMPSCI235 - Software Development Methodologies/session.md",
     "COMPSCI235 - Software Development Methodologies/cookie.md",
@@ -209,7 +210,6 @@
     "COMPSCI235 - Software Development Methodologies/Relational database.md",
     "COMPSCI235 - Software Development Methodologies/database.md",
     "COMPSCI235 - Software Development Methodologies/Minimum Viable Product (MVP).md",
-    "@images/Pasted image 20231102003319.png",
     "COMPSCI235 - Software Development Methodologies/Application Architecture.md",
     "COMPSCI235 - Software Development Methodologies/Domain Modeling.md",
     "COMPSCI235 - Software Development Methodologies/Flask.md",
