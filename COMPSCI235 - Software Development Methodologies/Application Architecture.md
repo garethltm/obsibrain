@@ -1,0 +1,2 @@
+- Each module has a well-defined responsibility
+- Request handlers (views)

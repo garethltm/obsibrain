@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Single Responsibility Principle (SRP).md",
+                "file": "COMPSCI235 - Software Development Methodologies/Application Architecture.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Single Responsibility Principle (SRP).md",
+                "file": "COMPSCI235 - Software Development Methodologies/Application Architecture.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Single Responsibility Principle (SRP).md",
+                "file": "COMPSCI235 - Software Development Methodologies/Application Architecture.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Single Responsibility Principle (SRP).md"
+                "file": "COMPSCI235 - Software Development Methodologies/Application Architecture.md"
               }
             }
           },
@@ -153,7 +153,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Single Responsibility Principle (SRP).md"
+                "file": "COMPSCI235 - Software Development Methodologies/Application Architecture.md"
               }
             }
           }
@@ -178,8 +178,9 @@
   },
   "active": "449af76cbbab7809",
   "lastOpenFiles": [
-    "COMPSCI235 - Software Development Methodologies/Creating responses.md",
     "COMPSCI235 - Software Development Methodologies/Single Responsibility Principle (SRP).md",
+    "COMPSCI235 - Software Development Methodologies/Application Architecture.md",
+    "COMPSCI235 - Software Development Methodologies/Creating responses.md",
     "@images/Pasted image 20231101235314.png",
     "COMPSCI235 - Software Development Methodologies/Handling requests.md",
     "@images/Pasted image 20231101235116.png",
@@ -213,7 +214,6 @@
     "COMPSCI235 - Software Development Methodologies/design(s).md",
     "COMPSCI235 - Software Development Methodologies/analysis.md",
     "COMPSCI235 - Software Development Methodologies/acceptance criteria.md",
-    "COMPSCI235 - Software Development Methodologies/White Box Testing.md",
     "COMPSCI367 - Artificial Intelligence/finals prep.canvas",
     "COMPSCI235 - Software Development Methodologies",
     "COMPSCI367 - Artificial Intelligence/week12",
