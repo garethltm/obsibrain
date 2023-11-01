@@ -6,5 +6,8 @@
 
 ### Method types
 - [[Hypertext Transfer Protocol (HTTP)]] defines a set of methods, one of which is specified in a request message:
-	- GET
-	- 
+	- GET (Retrieve information)
+		- requests a specified resource
+	- HEAD (Not returning actual resource but all meta data related to the resource)
+		- similar to GET, only returns meta data for the resource
+		>mo
