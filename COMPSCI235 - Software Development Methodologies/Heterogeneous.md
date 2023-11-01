@@ -1,0 +1,1 @@
+Systems that user more than one kind of processor or cores for diverse computational tasks

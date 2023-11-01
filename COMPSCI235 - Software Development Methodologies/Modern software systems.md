@@ -10,4 +10,4 @@
 1. [[Networked]] - working independently at the same time
 2. [[Concurrent]] - handle multiple client requests at the same time (multithreading)
 3. [[Heterogeneous]] - interoperate (using different OS, hardware & data format)
- 
+ ![[Pasted image 20231101180627.png]]
