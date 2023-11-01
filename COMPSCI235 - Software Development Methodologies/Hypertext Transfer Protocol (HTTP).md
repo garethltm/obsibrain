@@ -28,4 +28,7 @@
 ### Status codes
 - 1xx - informationala
 - 2xx - success
-	- server received request
+	- server received the REQUEST & successfully carried it out
+- 3xx - redirection
+	- login page: checking if user exists/verified $\rightarrow$ redirect to another page
+- 4xx - client error, tpy
