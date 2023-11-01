@@ -5,3 +5,7 @@ A [[COMPSCI235 - Software Development Methodologies/database|database]] stores d
 
 Databases come in many forms
 1. Structural relational database
+>	#Example 
+>	MySQL, Postgres, SQLite
+
+2. Unstructured 
