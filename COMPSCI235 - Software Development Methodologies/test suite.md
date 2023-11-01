@@ -1,2 +1,2 @@
-
-one or more tests
+- one or more tests
+- a module whose name either begins or ends with `test`
