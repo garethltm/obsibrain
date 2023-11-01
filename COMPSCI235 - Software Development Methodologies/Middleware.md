@@ -11,5 +11,10 @@
 	>	#Example 
 	>	protocols, sockets or process/thread management
 	
-	- Masks [[hert]]
-	>	
+	- Masks [[Heterogeneous]]
+		- as we know that there are different types of hardware (using [[Middleware]] usually prevents this)
+
+## Benefits
+- Reuse
+- Portability
+- Interoperability - [[Middleware]] acting as 
