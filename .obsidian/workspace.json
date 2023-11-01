@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Behavioral Diagrams.md",
+                "file": "COMPSCI235 - Software Development Methodologies/Interaction Diagram.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Behavioral Diagrams.md",
+                "file": "COMPSCI235 - Software Development Methodologies/Interaction Diagram.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Behavioral Diagrams.md",
+                "file": "COMPSCI235 - Software Development Methodologies/Interaction Diagram.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Behavioral Diagrams.md"
+                "file": "COMPSCI235 - Software Development Methodologies/Interaction Diagram.md"
               }
             }
           },
@@ -153,7 +153,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Behavioral Diagrams.md"
+                "file": "COMPSCI235 - Software Development Methodologies/Interaction Diagram.md"
               }
             }
           }
@@ -178,9 +178,10 @@
   },
   "active": "9ab2d4079996b929",
   "lastOpenFiles": [
+    "COMPSCI235 - Software Development Methodologies/Behavioral Diagrams.md",
+    "COMPSCI235 - Software Development Methodologies/Interaction Diagram.md",
     "@images/Pasted image 20231101142840.png",
     "COMPSCI235 - Software Development Methodologies/process.md",
-    "COMPSCI235 - Software Development Methodologies/Behavioral Diagrams.md",
     "COMPSCI235 - Software Development Methodologies/Unified Modeling Language (UML).md",
     "COMPSCI235 - Software Development Methodologies/Structural Diagrams.md",
     "COMPSCI235 - Software Development Methodologies/Class Diagram.md",
@@ -213,7 +214,6 @@
     "@images/Pasted image 20231101024259.png",
     "@images/Pasted image 20231101024254.png",
     "@images/Pasted image 20231101024142.png",
-    "@images/Pasted image 20231101024036.png",
     "COMPSCI367 - Artificial Intelligence/finals prep.canvas",
     "COMPSCI235 - Software Development Methodologies",
     "COMPSCI367 - Artificial Intelligence/week12",
