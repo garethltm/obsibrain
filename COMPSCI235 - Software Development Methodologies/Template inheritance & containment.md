@@ -5,7 +5,9 @@
 Template can declare content blocks
 - `{% block name %}...{% endblock %}`
 [[Template inheritance]] is facilitated by the extends declaration
-- {% extends name %}
+- `{% extends name %}`
 	- Sub-templates inherits the structure, content blocks & expressions of their super-template
 	- Sub-templates can override inherited content blocks & provide their own content
-	- Sub-template
+	- Sub-templates can inherit & extend inherited content blocks via the `super()` declaration
+[[Template containment]] is provided by the include declaration
+- {% inclu}
