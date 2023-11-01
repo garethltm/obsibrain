@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week12/Decision function.md",
+                "file": "COMPSCI235 - Software Development Methodologies/Dependencies.md",
                 "mode": "source",
                 "source": false
               }
@@ -51,7 +51,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "COMPSCI367 - Artificial Intelligence/week12/Decision function.md",
+                    "file": "COMPSCI235 - Software Development Methodologies/Dependencies.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -86,7 +86,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "COMPSCI367 - Artificial Intelligence/week12/Decision function.md",
+                    "file": "COMPSCI235 - Software Development Methodologies/Dependencies.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -185,7 +185,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week12/Decision function.md",
+                "file": "COMPSCI235 - Software Development Methodologies/Dependencies.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -202,7 +202,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week12/Decision function.md",
+                "file": "COMPSCI235 - Software Development Methodologies/Dependencies.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -225,7 +225,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week12/Decision function.md"
+                "file": "COMPSCI235 - Software Development Methodologies/Dependencies.md"
               }
             }
           },
@@ -266,12 +266,14 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "3ad179677b7fba41",
+  "active": "358f03c9716e94e8",
   "lastOpenFiles": [
+    "COMPSCI235 - Software Development Methodologies/Dependency Inversion Principle (DIP).md",
+    "COMPSCI235 - Software Development Methodologies/Web application architecture.md",
+    "COMPSCI367 - Artificial Intelligence/week12/Decision function.md",
     "conflict-files-obsidian-git.md",
     "COMPSCI235 - Software Development Methodologies/White Box Testing.md",
     "COMPSCI235 - Software Development Methodologies/Web-based Systems.md",
-    "COMPSCI235 - Software Development Methodologies/Web application architecture.md",
     "COMPSCI235 - Software Development Methodologies/Version Control Systems (VCS).md",
     "COMPSCI235 - Software Development Methodologies/URL Building.md",
     "COMPSCI235 - Software Development Methodologies/Unit Testing.md",
@@ -292,8 +294,6 @@
     "COMPSCI235 - Software Development Methodologies/Structural elements.md",
     "COMPSCI235 - Software Development Methodologies/System testing.md",
     "COMPSCI235 - Software Development Methodologies/stub.md",
-    "COMPSCI235 - Software Development Methodologies/Structural Diagrams.md",
-    "COMPSCI235 - Software Development Methodologies/stateless.md",
     "COMPSCI235 - Software Development Methodologies",
     "@images/Pasted image 20231102011452.png",
     "@images/Pasted image 20231102011313.png",
