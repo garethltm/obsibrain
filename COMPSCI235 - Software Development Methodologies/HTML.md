@@ -49,8 +49,8 @@ tags must be correctly nested
 		- `en` is the code for English
 ![[Pasted image 20231101162504.png]]
 2. `<head>`
+	- doesn't contain any content to be displayed on the page	
 	- contains information for the browser
 	>	#Example 
 	>	character encoding used
-	- doesn't contain any content to be displayed on the page
 ![[Pasted image 20231101162635.png]]
