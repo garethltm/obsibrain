@@ -10,4 +10,6 @@ makes a better user experience
 
 - Has several applications
 >	#Example 
->	user tracking, personali
+>	user tracking, personalization & most importantly, [[Authentication]]
+
+- A web server can "set" a [[cookie]] into the client using the "`Set-Cookie`" response header & the browser then sends this cookie to
