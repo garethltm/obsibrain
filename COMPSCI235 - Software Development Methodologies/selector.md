@@ -2,8 +2,9 @@ A [[selector]] specifies a [[Hyper Text Markup Language (HTML)]] element(s) & th
 - a [[selector]] of `*` selects all elements
 
 A [[selector]] specifies where in a web page [[Cascading Style Sheets (CSS)]] styles will be applied
-- **Element selectors** are typically names of `tags`
+- **[[Element selectors]]** are typically names of `tags`
 >	#Example 
 >	`<body>`,`<p>`,`<h1>`
 - There are 2 types of user specified [[selector]] as well
-- 
+1. class selectors - [[Hyper Text Markup Language (HTML)]] form example
+2. id selectors

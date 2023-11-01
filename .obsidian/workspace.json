@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/selector.md",
+                "file": "COMPSCI235 - Software Development Methodologies/Element selector.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/selector.md",
+                "file": "COMPSCI235 - Software Development Methodologies/Element selector.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/selector.md",
+                "file": "COMPSCI235 - Software Development Methodologies/Element selector.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/selector.md"
+                "file": "COMPSCI235 - Software Development Methodologies/Element selector.md"
               }
             }
           },
@@ -166,7 +166,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/selector.md"
+                "file": "COMPSCI235 - Software Development Methodologies/Element selector.md"
               }
             }
           }
@@ -191,10 +191,11 @@
   },
   "active": "de2e79bafafac181",
   "lastOpenFiles": [
+    "COMPSCI235 - Software Development Methodologies/selector.md",
+    "COMPSCI235 - Software Development Methodologies/Element selector.md",
     "COMPSCI235 - Software Development Methodologies/Cascading Style Sheets (CSS).md",
     "@images/Pasted image 20231101172223.png",
     "@images/Pasted image 20231101172211.png",
-    "COMPSCI235 - Software Development Methodologies/selector.md",
     "@images/Pasted image 20231101172023.png",
     "@images/Pasted image 20231101171952.png",
     "@images/Pasted image 20231101171849.png",
