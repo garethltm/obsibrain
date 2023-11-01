@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Class Diagram.md",
+                "file": "COMPSCI235 - Software Development Methodologies/Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Class Diagram.md",
+                "file": "COMPSCI235 - Software Development Methodologies/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Class Diagram.md",
+                "file": "COMPSCI235 - Software Development Methodologies/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Class Diagram.md"
+                "file": "COMPSCI235 - Software Development Methodologies/Untitled.md"
               }
             }
           },
@@ -153,7 +153,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Class Diagram.md"
+                "file": "COMPSCI235 - Software Development Methodologies/Untitled.md"
               }
             }
           }
@@ -178,6 +178,9 @@
   },
   "active": "9ab2d4079996b929",
   "lastOpenFiles": [
+    "COMPSCI235 - Software Development Methodologies/Class Diagram.md",
+    "COMPSCI235 - Software Development Methodologies/Untitled.md",
+    "COMPSCI235 - Software Development Methodologies/maintenance phase.md",
     "COMPSCI235 - Software Development Methodologies/Behavioral Diagrams.md",
     "@images/Pasted image 20231101143224.png",
     "COMPSCI235 - Software Development Methodologies/Interaction Diagram.md",
@@ -185,7 +188,6 @@
     "COMPSCI235 - Software Development Methodologies/process.md",
     "COMPSCI235 - Software Development Methodologies/Unified Modeling Language (UML).md",
     "COMPSCI235 - Software Development Methodologies/Structural Diagrams.md",
-    "COMPSCI235 - Software Development Methodologies/Class Diagram.md",
     "@images/Pasted image 20231101142607.png",
     "@images/Pasted image 20231101142452.png",
     "COMPSCI235 - Software Development Methodologies/The 4 P's of Software Development.md",
@@ -206,7 +208,6 @@
     "COMPSCI235 - Software Development Methodologies/Systematic Development Process.md",
     "COMPSCI235 - Software Development Methodologies/Generic Software Development Process Framework.md",
     "COMPSCI235 - Software Development Methodologies/Documents.md",
-    "COMPSCI235 - Software Development Methodologies/Distributed VCS.md",
     "@images/Pasted image 20231101024900.png",
     "@images/Pasted image 20231101024813.png",
     "@images/Pasted image 20231101024741.png",
