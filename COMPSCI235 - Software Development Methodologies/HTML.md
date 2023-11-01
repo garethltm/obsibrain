@@ -78,7 +78,10 @@ define the structure of a "block"
 	- 6 levels of headings![[Pasted image 20231101163627.png]]
 - #### Lists
 	1. Ordered Lists 
+	- automatically numbered
 		`<ol>`
-		- contains the entire
+		- contains the entire list
+		`<li>`
+		- used for each list item
 
 - Tables
