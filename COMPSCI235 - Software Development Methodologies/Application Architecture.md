@@ -1,9 +1,9 @@
 ![[Pasted image 20231101235727.png]]
 - Each module has a well-defined responsibility ([[Single Responsibility Principle (SRP)]])
-- Request handlers (views) are concerned with:
+- Request handlers (`view layer`) are concerned with:
 	- extracting information from [[Hypertext Transfer Protocol (HTTP)]] requests
 	- creating [[Hypertext Markup Language (HTML)]]
-- The service layer is responsible for:
+- The `service layer` is responsible for:
 	- fetching data from the repository
 	- processing requests using the data
 	- updating repository data
@@ -16,4 +16,5 @@
 The `view layer` has no dependency on the domain model
 - certain changes to the implementation of the domain model won't necessitate change to the view layer
 
-[[bl]]
+[[Flask Blueprint]] implementations maintain a separation of `view layer` & `service layer` concerns
+- The 
