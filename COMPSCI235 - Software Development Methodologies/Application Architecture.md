@@ -9,4 +9,8 @@
 	- updating repository data
 		- FORM, login...
 
+## Full Architecture
 ![[Pasted image 20231102000143.png]]
+
+### Benefits from the [[Application Architecture]]
+- The view layer has no dependency on the domain model
