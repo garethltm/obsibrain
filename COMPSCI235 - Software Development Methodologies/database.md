@@ -8,4 +8,7 @@ Databases come in many forms
 >	#Example 
 >	MySQL, Postgres, SQLite
 
-2. Unstructured 
+2. Unstructured 'NoSQL' databases
+>	#Example 
+>	MongoDB, Redis (no SQL queries)
+
