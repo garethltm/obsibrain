@@ -10,4 +10,7 @@
 ![[Pasted image 20231101232333.png]]
 
 ### [[Jinja]] expressions
-![[Pasted image 20231101233049.png]]
+![[Pasted image 20231101233049.png]]![[Pasted image 20231101233121.png]]
+
+### [[Jinja]] statements
+- [[Jinja]] provides for both iteration & selection
