@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/non-functional.md",
+                "file": "COMPSCI235 - Software Development Methodologies/System testing.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "de2e79bafafac181",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "COMPSCI235 - Software Development Methodologies/Testing.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/non-functional.md",
+                "file": "COMPSCI235 - Software Development Methodologies/Testing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/non-functional.md",
+                "file": "COMPSCI235 - Software Development Methodologies/Testing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/non-functional.md"
+                "file": "COMPSCI235 - Software Development Methodologies/Testing.md"
               }
             }
           },
@@ -153,7 +166,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/non-functional.md"
+                "file": "COMPSCI235 - Software Development Methodologies/Testing.md"
               }
             }
           }
@@ -176,9 +189,12 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "9ab2d4079996b929",
+  "active": "de2e79bafafac181",
   "lastOpenFiles": [
+    "COMPSCI235 - Software Development Methodologies/Unit Testing.md",
+    "COMPSCI235 - Software Development Methodologies/Deployment.md",
     "COMPSCI235 - Software Development Methodologies/System testing.md",
+    "@images/Pasted image 20231101152421.png",
     "COMPSCI235 - Software Development Methodologies/non-functional.md",
     "COMPSCI235 - Software Development Methodologies/functional.md",
     "COMPSCI235 - Software Development Methodologies/Testing.md",
@@ -190,7 +206,6 @@
     "@images/Pasted image 20231101151442.png",
     "COMPSCI235 - Software Development Methodologies/Dependency.md",
     "COMPSCI235 - Software Development Methodologies/External Dependency.md",
-    "COMPSCI235 - Software Development Methodologies/Unit Testing.md",
     "COMPSCI235 - Software Development Methodologies/White Box Testing.md",
     "COMPSCI235 - Software Development Methodologies/Classes.md",
     "@images/Pasted image 20231101150459.png",
@@ -208,12 +223,10 @@
     "@images/Pasted image 20231101145810.png",
     "@images/Pasted image 20231101145733.png",
     "@images/Pasted image 20231101145646.png",
-    "@images/Pasted image 20231101145542.png",
     "INFOSYS222 - Database Systems/Dependency.md",
     "COMPSCI235 - Software Development Methodologies/Structural elements.md",
     "COMPSCI235 - Software Development Methodologies/requirements gathering.md",
     "COMPSCI235 - Software Development Methodologies/Systematic Development Process.md",
-    "COMPSCI235 - Software Development Methodologies/Generic Software Development Process Framework.md",
     "COMPSCI367 - Artificial Intelligence/finals prep.canvas",
     "COMPSCI235 - Software Development Methodologies",
     "COMPSCI367 - Artificial Intelligence/week12",
