@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/ID selectors.md",
+                "file": "COMPSCI235 - Software Development Methodologies/Cascading Style Sheets (CSS).md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/ID selectors.md",
+                "file": "COMPSCI235 - Software Development Methodologies/Cascading Style Sheets (CSS).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/ID selectors.md",
+                "file": "COMPSCI235 - Software Development Methodologies/Cascading Style Sheets (CSS).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/ID selectors.md"
+                "file": "COMPSCI235 - Software Development Methodologies/Cascading Style Sheets (CSS).md"
               }
             }
           },
@@ -166,7 +166,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/ID selectors.md"
+                "file": "COMPSCI235 - Software Development Methodologies/Cascading Style Sheets (CSS).md"
               }
             }
           }
@@ -191,9 +191,11 @@
   },
   "active": "de2e79bafafac181",
   "lastOpenFiles": [
-    "@images/Pasted image 20231101172930.png",
     "COMPSCI235 - Software Development Methodologies/Class selectors.md",
+    "@images/Pasted image 20231101173018.png",
     "COMPSCI235 - Software Development Methodologies/ID selectors.md",
+    "@images/Pasted image 20231101172954.png",
+    "@images/Pasted image 20231101172930.png",
     "@images/Pasted image 20231101172849.png",
     "COMPSCI235 - Software Development Methodologies/Class Diagram.md",
     "COMPSCI235 - Software Development Methodologies/selector.md",
@@ -205,9 +207,6 @@
     "@images/Pasted image 20231101172223.png",
     "@images/Pasted image 20231101172211.png",
     "@images/Pasted image 20231101172023.png",
-    "@images/Pasted image 20231101171952.png",
-    "@images/Pasted image 20231101171849.png",
-    "@images/Pasted image 20231101171825.png",
     "COMPSCI235 - Software Development Methodologies/Hyper Text Markup Language (HTML).md",
     "COMPSCI235 - Software Development Methodologies/semantic.md",
     "COMPSCI235 - Software Development Methodologies/The 4 P's of Software Development.md",
