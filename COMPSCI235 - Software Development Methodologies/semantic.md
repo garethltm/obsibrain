@@ -1,0 +1,1 @@
+an element that clearly defines its content to both the browser & developer

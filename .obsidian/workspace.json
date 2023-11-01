@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Untitled.md",
+                "file": "COMPSCI235 - Software Development Methodologies/HTML.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Untitled.md",
+                "file": "COMPSCI235 - Software Development Methodologies/HTML.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Untitled.md",
+                "file": "COMPSCI235 - Software Development Methodologies/HTML.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Untitled.md"
+                "file": "COMPSCI235 - Software Development Methodologies/HTML.md"
               }
             }
           },
@@ -166,7 +166,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Untitled.md"
+                "file": "COMPSCI235 - Software Development Methodologies/HTML.md"
               }
             }
           }
@@ -191,8 +191,9 @@
   },
   "active": "de2e79bafafac181",
   "lastOpenFiles": [
+    "@images/Pasted image 20231101165631.png",
+    "COMPSCI235 - Software Development Methodologies/semantic.md",
     "COMPSCI235 - Software Development Methodologies/HTML.md",
-    "COMPSCI235 - Software Development Methodologies/Untitled.md",
     "@images/Pasted image 20231101165328.png",
     "@images/Pasted image 20231101165130.png",
     "@images/Pasted image 20231101165117.png",
@@ -226,7 +227,6 @@
     "COMPSCI235 - Software Development Methodologies/Black Box Testing.md",
     "COMPSCI235 - Software Development Methodologies/Integration Testing.md",
     "COMPSCI235 - Software Development Methodologies/stub.md",
-    "COMPSCI235 - Software Development Methodologies/How to deal with dependencies in testing.md",
     "COMPSCI367 - Artificial Intelligence/finals prep.canvas",
     "COMPSCI235 - Software Development Methodologies",
     "COMPSCI367 - Artificial Intelligence/week12",

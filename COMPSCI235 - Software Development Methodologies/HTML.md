@@ -120,12 +120,12 @@ define the structure of a "block"
 		![[Pasted image 20231101165130.png]]![[Pasted image 20231101165117.png]]
 
 ### New HTML5 elements
-- HTML5 offers new elements for better document structure & semantics
+- HTML5 offers new elements for better document structure & [[semantic]]
 - some of the most commonly used tags include:
 ![[Pasted image 20231101165328.png]]
 
 - #### Sections `<section>`
-	- defines a section in a HTML5 docuent
+	- defines a section in a HTML5 document
 		- can be used to split a web page into different sections
-	- is an example of a [[semantic]] element
+	- is an example of a [[semantic]] element![[Pasted image 20231101165631.png]]
 
