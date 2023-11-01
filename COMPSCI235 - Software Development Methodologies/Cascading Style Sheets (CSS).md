@@ -49,3 +49,7 @@ can be embedded in [[Hyper Text Markup Language (HTML)]] document or placed into
 ![[Pasted image 20231101174315.png]]
 
 ## Properties for borders
+![[Pasted image 20231101174337.png]]
+
+## Properties for table borders
+![[Pasted image 20231101174358.png]]
