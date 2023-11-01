@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Low-level modules.md",
+                "file": "COMPSCI235 - Software Development Methodologies/Dependency Inversion Principle (DIP).md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Low-level modules.md",
+                "file": "COMPSCI235 - Software Development Methodologies/Dependency Inversion Principle (DIP).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Low-level modules.md",
+                "file": "COMPSCI235 - Software Development Methodologies/Dependency Inversion Principle (DIP).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Low-level modules.md"
+                "file": "COMPSCI235 - Software Development Methodologies/Dependency Inversion Principle (DIP).md"
               }
             }
           },
@@ -153,7 +153,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Low-level modules.md"
+                "file": "COMPSCI235 - Software Development Methodologies/Dependency Inversion Principle (DIP).md"
               }
             }
           }
@@ -178,8 +178,8 @@
   },
   "active": "449af76cbbab7809",
   "lastOpenFiles": [
-    "COMPSCI235 - Software Development Methodologies/Dependency Inversion Principle (DIP).md",
     "COMPSCI235 - Software Development Methodologies/Low-level modules.md",
+    "COMPSCI235 - Software Development Methodologies/Dependency Inversion Principle (DIP).md",
     "COMPSCI235 - Software Development Methodologies/High-level modules.md",
     "COMPSCI235 - Software Development Methodologies/Web application architecture.md",
     "@images/Pasted image 20231102004211.png",
