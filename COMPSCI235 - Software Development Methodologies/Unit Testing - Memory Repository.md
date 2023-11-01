@@ -22,6 +22,8 @@
 			- Retrieve a list of articles corresponding a list of article ids
 			- Retrieve the first & last articles stored
 			- Return an empty list when asked for articles on a date for which there are no articles
-			- Retrieve a list of article ids for articles tagg
+			- Retrieve a list of article ids for articles tagged with a particular tag
+			- Given an article, return the closes preceding date that has articles
+			- Given an article, return close successive date that has articles![[Pasted image 20231102103629.png]]
 
 Related to: [[Unit Testing]]
