@@ -1,0 +1,3 @@
+- [[Flask]] is a Web application (web-based [[Middleware]]) framework
+	- collection of packages & modules
+	- simplifies dev

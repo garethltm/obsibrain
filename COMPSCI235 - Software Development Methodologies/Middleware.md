@@ -12,9 +12,9 @@
 	>	protocols, sockets or process/thread management
 	
 	- Masks [[Heterogeneous]]
-		- as we know that there are different types of hardware (using [[Middleware]] usually prevents this)
+		- as we know that there are different types of hardware we will be running our application on (using [[Middleware]] usually prevents this)
 
 ## Benefits
 - Reuse
 - Portability
-- Interoperability - [[Middleware]] acting as 
+- Interoperability - [[Middleware]] acting as an interface
