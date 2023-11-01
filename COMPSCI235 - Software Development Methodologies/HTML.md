@@ -153,3 +153,6 @@ tags that apply at a given point
 		- store the image on the internet (or locally on disk)
 		- `<tag>` contains the address of the image
 		- web browser loads image when required
+		- only use images the browser understands
+	>		#Example 
+?GIF, JPG, PNG
