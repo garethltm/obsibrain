@@ -1,0 +1,1 @@
+[[Dependency Inversion Principle (DIP)]] is an important design principle that states:
