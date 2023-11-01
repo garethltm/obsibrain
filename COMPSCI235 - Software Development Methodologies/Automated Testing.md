@@ -4,3 +4,5 @@ not doing it manually
 - [[Pytest]]
 
 ![[Pasted image 20231101153321.png]]
+
+Related to: [[Testing]]
