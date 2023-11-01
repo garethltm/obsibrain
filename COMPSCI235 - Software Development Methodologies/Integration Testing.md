@@ -6,6 +6,8 @@ making sure that the 2 functions are working well together (basically checking c
 >		if the car moves, all of the necessary components work
 
 - Individual units are combined & tested to verify if they are working as they intend to when integrated
+- Main aim here is to test the [[Interfaces]] between the modules
+- Test drivers & test [[stub]]
 - testing 2 or more [[INFOSYS222 - Database Systems/Dependency|Dependency]] [[software]] components as a group
 - a [[software]] application can be tested by similarly running it, inputting values & seeing if it behaves as expected
 - [[Integration Testing]] is useful but it is only complimentary to [[Unit Testing]] - where [[Unit Testing]] tests individual components in isolation
