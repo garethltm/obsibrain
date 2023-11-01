@@ -1,0 +1,1 @@
+- View functions return response that are processed by the p

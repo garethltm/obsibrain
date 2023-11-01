@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Handling requests.md",
+                "file": "COMPSCI235 - Software Development Methodologies/Creating responses.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Handling requests.md",
+                "file": "COMPSCI235 - Software Development Methodologies/Creating responses.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Handling requests.md",
+                "file": "COMPSCI235 - Software Development Methodologies/Creating responses.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Handling requests.md"
+                "file": "COMPSCI235 - Software Development Methodologies/Creating responses.md"
               }
             }
           },
@@ -153,7 +153,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Handling requests.md"
+                "file": "COMPSCI235 - Software Development Methodologies/Creating responses.md"
               }
             }
           }
@@ -178,8 +178,11 @@
   },
   "active": "449af76cbbab7809",
   "lastOpenFiles": [
-    "COMPSCI235 - Software Development Methodologies/URL Building.md",
     "COMPSCI235 - Software Development Methodologies/Handling requests.md",
+    "COMPSCI235 - Software Development Methodologies/Creating responses.md",
+    "@images/Pasted image 20231101235116.png",
+    "@images/Pasted image 20231101235058.png",
+    "COMPSCI235 - Software Development Methodologies/URL Building.md",
     "@images/Pasted image 20231101234904.png",
     "@images/Pasted image 20231101234846.png",
     "COMPSCI235 - Software Development Methodologies/Template inheritance & containment.md",
@@ -193,8 +196,6 @@
     "@images/Pasted image 20231101233558.png",
     "COMPSCI235 - Software Development Methodologies/Templating.md",
     "COMPSCI235 - Software Development Methodologies/Jinja.md",
-    "@images/Pasted image 20231101233221.png",
-    "@images/Pasted image 20231101233121.png",
     "COMPSCI235 - Software Development Methodologies/Flask.md",
     "COMPSCI235 - Software Development Methodologies/Middleware.md",
     "COMPSCI235 - Software Development Methodologies/Hypertext Transfer Protocol (HTTP).md",
@@ -213,7 +214,6 @@
     "COMPSCI235 - Software Development Methodologies/acceptance criteria.md",
     "COMPSCI235 - Software Development Methodologies/White Box Testing.md",
     "COMPSCI235 - Software Development Methodologies/Web-based Systems.md",
-    "COMPSCI235 - Software Development Methodologies/Structural Diagrams.md",
     "COMPSCI367 - Artificial Intelligence/finals prep.canvas",
     "COMPSCI235 - Software Development Methodologies",
     "COMPSCI367 - Artificial Intelligence/week12",

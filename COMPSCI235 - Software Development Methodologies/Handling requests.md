@@ -2,4 +2,4 @@
 
 The object can be accessed in a view method (or test method) to extract request properties
 
-`test_request_context()` causes [[Flask]] to behave as if it's handling a [[Hypertext Transfer Protocol (HTTP)]] request
+`test_request_context()` causes [[Flask]] to behave as if it's handling a [[Hypertext Transfer Protocol (HTTP)]] request![[Pasted image 20231101235058.png]]![[Pasted image 20231101235116.png]]
