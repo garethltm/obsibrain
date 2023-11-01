@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Classes.md",
+                "file": "COMPSCI235 - Software Development Methodologies/Interfaces.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Classes.md",
+                "file": "COMPSCI235 - Software Development Methodologies/Interfaces.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Classes.md",
+                "file": "COMPSCI235 - Software Development Methodologies/Interfaces.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Classes.md"
+                "file": "COMPSCI235 - Software Development Methodologies/Interfaces.md"
               }
             }
           },
@@ -153,7 +153,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Classes.md"
+                "file": "COMPSCI235 - Software Development Methodologies/Interfaces.md"
               }
             }
           }
@@ -178,10 +178,11 @@
   },
   "active": "9ab2d4079996b929",
   "lastOpenFiles": [
-    "COMPSCI235 - Software Development Methodologies/requirements gathering.md",
-    "COMPSCI235 - Software Development Methodologies/Classes.md",
-    "@images/Pasted image 20231101144006.png",
     "COMPSCI235 - Software Development Methodologies/Structural elements.md",
+    "COMPSCI235 - Software Development Methodologies/Interfaces.md",
+    "COMPSCI235 - Software Development Methodologies/Classes.md",
+    "COMPSCI235 - Software Development Methodologies/requirements gathering.md",
+    "@images/Pasted image 20231101144006.png",
     "COMPSCI235 - Software Development Methodologies/Class Diagram.md",
     "COMPSCI235 - Software Development Methodologies/Systematic Development Process.md",
     "COMPSCI235 - Software Development Methodologies/Generic Software Development Process Framework.md",
