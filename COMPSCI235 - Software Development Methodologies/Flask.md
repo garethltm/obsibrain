@@ -8,4 +8,6 @@
 		- lightweight & easy to use![[Pasted image 20231101231147.png]]![[Pasted image 20231101231220.png]]
 
 ### `route()` decorator & views
-- route() decorator is use
+- `route()` decorator is used to bind a function (a view) to a URL
+- route(rules, options):
+	- rule - URL binding
