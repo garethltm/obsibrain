@@ -5,5 +5,5 @@
 
 ### Types of [[Unified Modeling Language (UML)]] Diagrams
 ![[Pasted image 20231101142452.png]]
-1. Structural Diagrams
-2. Behavioral Diagrams
+1. [[Structural Diagrams]]
+2. [[Behavioral Diagrams]]
