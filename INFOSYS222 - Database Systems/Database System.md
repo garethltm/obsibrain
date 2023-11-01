@@ -1,4 +1,4 @@
-- [[Database]] + [[Database Management System (DBMS)]]
+- [[INFOSYS222 - Database Systems/Database]] + [[Database Management System (DBMS)]]
 
 - DB2 (IBM)
 - Oracle (Oracle)

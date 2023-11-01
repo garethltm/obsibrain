@@ -1,13 +1,13 @@
-- process of organising data in a [[Database]]
+- process of organising data in a [[INFOSYS222 - Database Systems/Database]]
 - rules to eliminate redundancy & inconsistency
 - enforce [[INFOSYS222 - Database Systems/Dependency]] & improve data integrity
 - reduce disk space need & maintenance issues
-- minimise redesign effort when extending [[Database]]
+- minimise redesign effort when extending [[INFOSYS222 - Database Systems/Database]]
 
 ## Downside
 1. Expectation
 	- eliminate redundancy
-	- reduce [[Database]] size
+	- reduce [[INFOSYS222 - Database Systems/Database]] size
 	- ensure consistency
 2. Reality
 	- more tables

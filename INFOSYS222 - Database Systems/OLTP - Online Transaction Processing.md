@@ -1,4 +1,4 @@
-## [[Database]]
+## [[INFOSYS222 - Database Systems/Database]]
 - designed for day-to-day, real-time transactional [[operations]]
 - routine tasks
 

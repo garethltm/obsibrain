@@ -1,4 +1,4 @@
-## [[Database]]
+## [[INFOSYS222 - Database Systems/Database]]
 - designed for complex querying & reporting tasks
 - [[Analytics]] tasks
 

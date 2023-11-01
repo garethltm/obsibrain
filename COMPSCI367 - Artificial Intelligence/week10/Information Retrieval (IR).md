@@ -2,7 +2,7 @@
 
 1. think of a document as an exported memory
 	- useful for preserving [[knowledge]] across generations
-2. just as with natural thought, [[Artificial Intelligence (AI)]] systems need to access memories ([[Database]] in terms of [[Artificial Intelligence (AI)]]) relevant to a problem
+2. just as with natural thought, [[Artificial Intelligence (AI)]] systems need to access memories ([[INFOSYS222 - Database Systems/Database]] in terms of [[Artificial Intelligence (AI)]]) relevant to a problem
 	- where you use [[Knowledge Base (KB)]]/Training data to process problems
 
 ## Main Idea
