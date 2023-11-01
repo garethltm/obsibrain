@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Modern software systems.md",
+                "file": "COMPSCI235 - Software Development Methodologies/Networked.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Modern software systems.md",
+                "file": "COMPSCI235 - Software Development Methodologies/Networked.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Modern software systems.md",
+                "file": "COMPSCI235 - Software Development Methodologies/Networked.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Modern software systems.md"
+                "file": "COMPSCI235 - Software Development Methodologies/Networked.md"
               }
             }
           },
@@ -163,7 +163,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Modern software systems.md"
+                "file": "COMPSCI235 - Software Development Methodologies/Networked.md"
               }
             }
           }
@@ -188,9 +188,10 @@
   },
   "active": "9ab2d4079996b929",
   "lastOpenFiles": [
+    "@images/Pasted image 20231101180701.png",
+    "COMPSCI235 - Software Development Methodologies/Modern software systems.md",
     "@images/Pasted image 20231101180627.png",
     "COMPSCI235 - Software Development Methodologies/Heterogeneous.md",
-    "COMPSCI235 - Software Development Methodologies/Modern software systems.md",
     "COMPSCI235 - Software Development Methodologies/Concurrent.md",
     "COMPSCI235 - Software Development Methodologies/Networked.md",
     "COMPSCI235 - Software Development Methodologies/fault-tolerance.md",
@@ -217,7 +218,6 @@
     "@images/Pasted image 20231101174212.png",
     "@images/Pasted image 20231101174145.png",
     "COMPSCI235 - Software Development Methodologies/Internal style sheet.md",
-    "@images/Pasted image 20231101174109.png",
     "COMPSCI235 - Software Development Methodologies/Inline styles.md",
     "COMPSCI235 - Software Development Methodologies/External style sheet.md",
     "COMPSCI235 - Software Development Methodologies/selector.md",
