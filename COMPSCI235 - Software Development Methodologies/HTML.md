@@ -36,12 +36,12 @@ some tags require additional information
 - properties or attributes of the tag
 `<tag property = "value"></tag>`
 
-## Nested Tags
+# Nested Tags
 tags must be correctly nested
 - cannot close an open tag until all the open tags that it affects are also closed
 ![[Pasted image 20231101162311.png]]
 
-## Essential Tags
+# Essential Tags
 1. `<html lang="en">`
 	- encloses the entire document
 	- specifies that the document uses `html`
@@ -129,3 +129,5 @@ define the structure of a "block"
 		- can be used to split a web page into different sections
 	- is an example of a [[semantic]] element![[Pasted image 20231101165631.png]]
 
+# Inline tags
+appear within the blo
