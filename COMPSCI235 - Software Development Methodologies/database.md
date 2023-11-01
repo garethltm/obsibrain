@@ -12,4 +12,7 @@ Databases come in many forms
 >	#Example 
 >	MongoDB, Redis (no SQL queries)
 
-- [[INFOSYS222 - Database Systems/Relational Database]]
+- [[COMPSCI235 - Software Development Methodologies/Relational database|Relational database]]
+
+A [[COMPSCI235 - Software Development Methodologies/database|database]] is an organized collection of inter-relat
+
