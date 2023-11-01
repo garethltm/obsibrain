@@ -1,6 +1,6 @@
 A [[COMPSCI235 - Software Development Methodologies/database|database]] is a collection of data that captures an abstract representation of the domain of an application
 
-A [[COMPSCI235 - Software Development Methodologies/database|database]] is managed by a [[Data]]
+A [[COMPSCI235 - Software Development Methodologies/database|database]] is managed by a [[dbms]]
 
 A [[COMPSCI235 - Software Development Methodologies/database|database]] stores data persistently
 - any change to the [[COMPSCI235 - Software Development Methodologies/database|database]] is permanent - it is going to stay somewhere
