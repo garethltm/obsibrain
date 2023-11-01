@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Cross-site Request Forgery (CSRF).md",
+                "file": "COMPSCI235 - Software Development Methodologies/Combating CSRF.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Cross-site Request Forgery (CSRF).md",
+                "file": "COMPSCI235 - Software Development Methodologies/Combating CSRF.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Cross-site Request Forgery (CSRF).md",
+                "file": "COMPSCI235 - Software Development Methodologies/Combating CSRF.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Cross-site Request Forgery (CSRF).md"
+                "file": "COMPSCI235 - Software Development Methodologies/Combating CSRF.md"
               }
             }
           },
@@ -153,7 +153,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Cross-site Request Forgery (CSRF).md"
+                "file": "COMPSCI235 - Software Development Methodologies/Combating CSRF.md"
               }
             }
           }
@@ -176,10 +176,12 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "33a55b9766be070c",
+  "active": "3ad179677b7fba41",
   "lastOpenFiles": [
-    "COMPSCI235 - Software Development Methodologies/Signed cookies.md",
     "COMPSCI235 - Software Development Methodologies/Cross-site Request Forgery (CSRF).md",
+    "COMPSCI235 - Software Development Methodologies/Combating CSRF.md",
+    "@images/Pasted image 20231102012329.png",
+    "COMPSCI235 - Software Development Methodologies/Signed cookies.md",
     "@images/Pasted image 20231102011820.png",
     "@images/Pasted image 20231102011452.png",
     "@images/Pasted image 20231102011313.png",
@@ -206,14 +208,12 @@
     "COMPSCI235 - Software Development Methodologies/Web application architecture.md",
     "@images/Pasted image 20231102004211.png",
     "COMPSCI235 - Software Development Methodologies/Persisting a simple domain model.md",
-    "@images/Pasted image 20231102004109.png",
     "COMPSCI235 - Software Development Methodologies/Relational database.md",
     "COMPSCI235 - Software Development Methodologies/database.md",
     "COMPSCI235 - Software Development Methodologies/Minimum Viable Product (MVP).md",
     "COMPSCI235 - Software Development Methodologies/Application Architecture.md",
     "COMPSCI235 - Software Development Methodologies/Domain Modeling.md",
     "COMPSCI235 - Software Development Methodologies/Flask.md",
-    "COMPSCI235 - Software Development Methodologies/Flask Blueprint.md",
     "COMPSCI367 - Artificial Intelligence/finals prep.canvas",
     "COMPSCI235 - Software Development Methodologies",
     "COMPSCI367 - Artificial Intelligence/week12",
