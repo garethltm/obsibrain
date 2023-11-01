@@ -8,4 +8,4 @@ an umbrella term for all [[COMPSCI235 - Software Development Methodologies/datab
 [[NoSQL]] comes from the Internet, thus it is often related to the "big data" concept
 - [[Relational DBMS (RDBMS)]] assume that data is:
 	- dense
-	- largely uniform ()
+	- largely uniform (structured data)
