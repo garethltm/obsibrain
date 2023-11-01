@@ -2,6 +2,7 @@ Systems interact with each other over a network, enabling data sharing & communi
 - can get packet loss
 
 Network protocols fixes the packet loss problem
+![[Pasted image 20231101181132.png]]
 
 Network protocols are organised into layers that separate concerns
 - [[Application layer protocols]]
