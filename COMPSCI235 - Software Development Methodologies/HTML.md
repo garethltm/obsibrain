@@ -75,13 +75,13 @@ define the structure of a "block"
 	`<p>`
 	- defines a paragraph of text![[Pasted image 20231101163424.png]]
 
-- Headings
+- Headings![[Pasted image 20231101163552.png]]
 	`<h1>`
 	`<h2>`
 	`<h3>`
 	`<h4>`
 	`<h5>`
 	`<h6>`
-	- 6 levels of headings
+	- 6 levels of headings![[Pasted image 20231101163627.png]]
 - Lists
 - Tables
