@@ -13,4 +13,5 @@
 ![[Pasted image 20231101233049.png]]![[Pasted image 20231101233121.png]]
 
 ### [[Jinja]] statements
-- [[Jinja]] provides for both iteration & selection
+- [[Jinja]] provides for both iteration & selection![[Pasted image 20231101233221.png]]
+- Statements are delimited by {% %} & executed by the preprocessor to build the resul
