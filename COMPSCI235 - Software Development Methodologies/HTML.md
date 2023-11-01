@@ -121,4 +121,5 @@ define the structure of a "block"
 
 ### New HTML5 elements
 - HTML5 offers new elements for better document structure & semantics
-- some of the most commonly used tags includes
+- some of the most commonly used tags include:
+	- ![[Pasted image 20231101165328.png]]
