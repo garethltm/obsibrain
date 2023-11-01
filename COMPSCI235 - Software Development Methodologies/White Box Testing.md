@@ -1,1 +1,1 @@
-a [[software]] [[Testing]] 
+a [[software]] [[Testing]] method in which the internal structure/[[design(s)]]/implementation of the item being tested is known to the tester
