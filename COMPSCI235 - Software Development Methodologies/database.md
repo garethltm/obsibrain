@@ -2,10 +2,12 @@ A [[COMPSCI235 - Software Development Methodologies/database|database]] is a col
 
 A [[COMPSCI235 - Software Development Methodologies/database|database]] is managed by a [[COMPSCI235 - Software Development Methodologies/Database Management System (DBMS)|Database Management System (DBMS)]], consisting of:
 - set of programs to access the data ([[COMPSCI235 - Software Development Methodologies/database|database]] engine)
+![[Pasted image 20231102120828.png]]
+
 - convenient & efficient environment to use the [[COMPSCI235 - Software Development Methodologies/database|database]]
 >	#Example 
 >	OS = manages hardware
->	Hardware = 
+>	Hardware = standalone
 
 A [[COMPSCI235 - Software Development Methodologies/database|database]] stores data persistently
 - any change to the [[COMPSCI235 - Software Development Methodologies/database|database]] is permanent - it is going to stay somewhere

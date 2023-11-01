@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/database.md",
+                "file": "COMPSCI235 - Software Development Methodologies/Database Management System (DBMS).md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/database.md",
+                "file": "COMPSCI235 - Software Development Methodologies/Database Management System (DBMS).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/database.md",
+                "file": "COMPSCI235 - Software Development Methodologies/Database Management System (DBMS).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/database.md"
+                "file": "COMPSCI235 - Software Development Methodologies/Database Management System (DBMS).md"
               }
             }
           },
@@ -175,10 +175,11 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "df54043e914f1e1e",
+  "active": "3ad179677b7fba41",
   "lastOpenFiles": [
-    "COMPSCI235 - Software Development Methodologies/Database Management System (DBMS).md",
     "COMPSCI235 - Software Development Methodologies/database.md",
+    "@images/Pasted image 20231102120828.png",
+    "COMPSCI235 - Software Development Methodologies/Database Management System (DBMS).md",
     "COMPSCI235 - Software Development Methodologies/ACID.md",
     "COMPSCI235 - Software Development Methodologies/transaction(s).md",
     "@images/Pasted image 20231102105731.png",
@@ -198,7 +199,6 @@
     "COMPSCI235 - Software Development Methodologies/Unit Testing.md",
     "COMPSCI235 - Software Development Methodologies/WTForms.md",
     "@images/Pasted image 20231102102610.png",
-    "@images/Pasted image 20231102102541.png",
     "COMPSCI235 - Software Development Methodologies/Flask Configuration.md",
     "COMPSCI235 - Software Development Methodologies/Flask.md",
     "COMPSCI235 - Software Development Methodologies/Flask WTF.md",
@@ -212,7 +212,6 @@
     "COMPSCI235 - Software Development Methodologies/White Box Testing.md",
     "COMPSCI235 - Software Development Methodologies/Web-based Systems.md",
     "COMPSCI235 - Software Development Methodologies/URL Building.md",
-    "COMPSCI235 - Software Development Methodologies/Unified Modeling Language (UML).md",
     "COMPSCI235 - Software Development Methodologies",
     "COMPSCI367 - Artificial Intelligence/finals prep.canvas",
     "COMPSCI367 - Artificial Intelligence/week12",
