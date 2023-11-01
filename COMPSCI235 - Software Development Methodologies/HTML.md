@@ -1,0 +1,4 @@
+- used to format web pages
+- contains hypertext information (links)
+- written in ASCII/Unicode
+- embedded format codes (ta)

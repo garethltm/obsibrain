@@ -23,8 +23,12 @@
             "id": "de2e79bafafac181",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "COMPSCI235 - Software Development Methodologies/HTML.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -94,6 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "COMPSCI235 - Software Development Methodologies/HTML.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,6 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "COMPSCI235 - Software Development Methodologies/HTML.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +137,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "COMPSCI235 - Software Development Methodologies/HTML.md"
+              }
             }
           },
           {
@@ -157,7 +165,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {}
+              "state": {
+                "file": "COMPSCI235 - Software Development Methodologies/HTML.md"
+              }
             }
           }
         ],
@@ -181,6 +191,7 @@
   },
   "active": "de2e79bafafac181",
   "lastOpenFiles": [
+    "COMPSCI235 - Software Development Methodologies/HTML.md",
     "COMPSCI235 - Software Development Methodologies/The 4 P's of Software Development.md",
     "COMPSCI235 - Software Development Methodologies/software engineering process.md",
     "COMPSCI235 - Software Development Methodologies/Git VCS.md",
@@ -211,7 +222,6 @@
     "COMPSCI235 - Software Development Methodologies/How to deal with dependencies in testing.md",
     "@images/Pasted image 20231101151442.png",
     "COMPSCI235 - Software Development Methodologies/Dependency.md",
-    "COMPSCI235 - Software Development Methodologies/External Dependency.md",
     "@images/Pasted image 20231101150459.png",
     "@images/Pasted image 20231101150231.png",
     "@images/Pasted image 20231101150153.png",
