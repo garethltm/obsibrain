@@ -76,6 +76,12 @@ define the structure of a "block"
 	- defines a paragraph of text![[Pasted image 20231101163424.png]]
 
 - Headings
-	<h1>,<h2>,
+	`<h1>`
+	`<h2>`
+	`<h3>`
+	`<h4>`
+	`<h5>`
+	`<h6>`
+	- 6 levels of headings
 - Lists
 - Tables
