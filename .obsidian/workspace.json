@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Dependencies.md",
+                "file": "COMPSCI235 - Software Development Methodologies/Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Dependencies.md",
+                "file": "COMPSCI235 - Software Development Methodologies/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Dependencies.md",
+                "file": "COMPSCI235 - Software Development Methodologies/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Dependencies.md"
+                "file": "COMPSCI235 - Software Development Methodologies/Untitled.md"
               }
             }
           },
@@ -153,7 +153,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Dependencies.md"
+                "file": "COMPSCI235 - Software Development Methodologies/Untitled.md"
               }
             }
           }
@@ -178,9 +178,12 @@
   },
   "active": "449af76cbbab7809",
   "lastOpenFiles": [
+    "COMPSCI235 - Software Development Methodologies/The Repository pattern.md",
+    "COMPSCI235 - Software Development Methodologies/Untitled.md",
+    "@images/Pasted image 20231102005010.png",
+    "COMPSCI235 - Software Development Methodologies/Dependencies.md",
     "@images/Pasted image 20231102004918.png",
     "COMPSCI235 - Software Development Methodologies/Dependency.md",
-    "COMPSCI235 - Software Development Methodologies/Dependencies.md",
     "COMPSCI235 - Software Development Methodologies/Dependency Inversion Principle (DIP).md",
     "@images/Pasted image 20231102004834.png",
     "COMPSCI235 - Software Development Methodologies/Low-level modules.md",
@@ -201,10 +204,8 @@
     "COMPSCI235 - Software Development Methodologies/Flask Blueprint.md",
     "@images/Pasted image 20231102000044.png",
     "@images/Pasted image 20231102000042.png",
-    "@images/Pasted image 20231101235727.png",
     "COMPSCI235 - Software Development Methodologies/Single Responsibility Principle (SRP).md",
     "COMPSCI235 - Software Development Methodologies/Creating responses.md",
-    "@images/Pasted image 20231101235314.png",
     "COMPSCI235 - Software Development Methodologies/Handling requests.md",
     "COMPSCI235 - Software Development Methodologies/URL Building.md",
     "COMPSCI235 - Software Development Methodologies/Template inheritance & containment.md",
@@ -213,7 +214,6 @@
     "COMPSCI235 - Software Development Methodologies/Templating.md",
     "COMPSCI235 - Software Development Methodologies/Jinja.md",
     "COMPSCI235 - Software Development Methodologies/Middleware.md",
-    "COMPSCI235 - Software Development Methodologies/Hypertext Transfer Protocol (HTTP).md",
     "COMPSCI367 - Artificial Intelligence/finals prep.canvas",
     "COMPSCI235 - Software Development Methodologies",
     "COMPSCI367 - Artificial Intelligence/week12",
