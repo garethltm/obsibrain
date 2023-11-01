@@ -57,7 +57,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ser",
+                "query": "service",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
