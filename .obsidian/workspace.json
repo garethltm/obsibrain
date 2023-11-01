@@ -61,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "product",
+                "query": "tag:#Example",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,7 +78,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -189,8 +190,9 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "de2e79bafafac181",
+  "active": "a6e0090ac9cbd1f3",
   "lastOpenFiles": [
+    "@images/Pasted image 20231101162635.png",
     "@images/Pasted image 20231101162633.png",
     "@images/Pasted image 20231101162504.png",
     "@images/Pasted image 20231101162311.png",
@@ -226,7 +228,6 @@
     "COMPSCI235 - Software Development Methodologies/stub.md",
     "COMPSCI235 - Software Development Methodologies/How to deal with dependencies in testing.md",
     "@images/Pasted image 20231101151442.png",
-    "@images/Pasted image 20231101150459.png",
     "COMPSCI367 - Artificial Intelligence/finals prep.canvas",
     "COMPSCI235 - Software Development Methodologies",
     "COMPSCI367 - Artificial Intelligence/week12",
