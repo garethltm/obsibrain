@@ -1,0 +1,4 @@
+- used to show that one class uses another class
+- uses "temporarily"
+	- symbolized by the dotted line
+	- often is an implementation detail 
