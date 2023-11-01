@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/model.md",
+                "file": "COMPSCI235 - Software Development Methodologies/Modelling (Analyze, Design).md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "design",
+                "query": "model path:\"COMPSCI235 - Software Development Methodologies\"  ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/model.md",
+                "file": "COMPSCI235 - Software Development Methodologies/Modelling (Analyze, Design).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/model.md",
+                "file": "COMPSCI235 - Software Development Methodologies/Modelling (Analyze, Design).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/model.md"
+                "file": "COMPSCI235 - Software Development Methodologies/Modelling (Analyze, Design).md"
               }
             }
           },
@@ -153,7 +154,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/model.md"
+                "file": "COMPSCI235 - Software Development Methodologies/Modelling (Analyze, Design).md"
               }
             }
           }
@@ -178,9 +179,10 @@
   },
   "active": "9ab2d4079996b929",
   "lastOpenFiles": [
+    "COMPSCI235 - Software Development Methodologies/Incremental Approach.md",
+    "COMPSCI235 - Software Development Methodologies/Domain Modeling.md",
     "COMPSCI235 - Software Development Methodologies/Unified Modeling Language (UML).md",
     "COMPSCI235 - Software Development Methodologies/model.md",
-    "COMPSCI235 - Software Development Methodologies/Domain Modeling.md",
     "COMPSCI235 - Software Development Methodologies/Modelling (Analyze, Design).md",
     "COMPSCI235 - Software Development Methodologies/requirements gathering.md",
     "COMPSCI235 - Software Development Methodologies/design(s).md",
@@ -203,7 +205,6 @@
     "COMPSCI235 - Software Development Methodologies/analysis.md",
     "INFOSYS222 - Database Systems/Requirements.md",
     "COMPSCI235 - Software Development Methodologies/specification.md",
-    "COMPSCI235 - Software Development Methodologies/GitHub.md",
     "@images/Pasted image 20231101024900.png",
     "@images/Pasted image 20231101024813.png",
     "@images/Pasted image 20231101024741.png",

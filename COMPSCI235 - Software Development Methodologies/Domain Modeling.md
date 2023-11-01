@@ -1,5 +1,5 @@
 - used to translate the requirements of a project into software components of a solution
-- not only useful for [[analysis]] but is often a good conceptual model for system [[design(s)]]
+- not only useful for [[analysis]] but is often a good conceptual [[model]] for system [[design(s)]]
 - provides a static structure of the [[software]] system
 >	#Example 
 >	What classes will we need to implement to the system in order to meet our requirements?

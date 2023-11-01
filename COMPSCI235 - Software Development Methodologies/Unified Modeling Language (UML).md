@@ -1,3 +1,3 @@
 - a standard notation for writing [[software]] blueprints
-- used to construct a model of a [[software]] system
+- used to construct a [[model]] of a [[software]] system
 - 
