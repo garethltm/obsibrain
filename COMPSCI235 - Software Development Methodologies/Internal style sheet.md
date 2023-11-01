@@ -1,4 +1,4 @@
-Styles are defined in the head of the page
+**Styles are defined in the head of the page**
 - Used when styles apply to only the 1 web page
 - Keeps all visual formatting located in the same place
 `<style>`
