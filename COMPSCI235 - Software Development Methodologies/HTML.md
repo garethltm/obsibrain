@@ -156,7 +156,4 @@ tags that apply at a given point
 		- only use images the browser understands
 >			#Example 
 >			GIF, JPG, PNG
-
-			`<img>`
-				- insert an image at this location
-![[Pasted image 20231101170453.png]]
+![[Pasted image 20231101170453.png]]![[Pasted image 20231101170827.png]]
