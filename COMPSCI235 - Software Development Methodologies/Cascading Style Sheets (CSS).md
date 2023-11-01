@@ -1,2 +1,4 @@
 describes the appearance, layout & presentation of information on a webpage
-- [[HTML]] de
+- [[Hyper Text Markup Language (HTML)]] describes the content of the page
+
+describes how information is to be displayed, not what is being displayed
