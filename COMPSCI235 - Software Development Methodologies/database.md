@@ -17,7 +17,9 @@ Databases come in many forms
 A [[COMPSCI235 - Software Development Methodologies/database|database]] is an organized collection of inter-related data that models some aspect of the real-world
 
 #### Why databases?
-- Store our data in flat files - persistent storage
-- Read & Writes to flat f
-
+- Store our data in flat files
+- Read & Writes to flat files are non-trivial
+	- We need to parse the files each time we want to read/update records
+		- you also need to know the structure of the file
+		- parse the whole file, where you need to bring the entire file to memory 
 
