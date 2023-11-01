@@ -69,9 +69,11 @@ tags must be correctly nested
 ![[Pasted image 20231101163110.png]]
 
 ## Block-level tags
+![[Pasted image 20231101163215.png]]
 define the structure of a "block"
 - Paragraphs
+	`<p>`
+	- defines a paragraph of text
 - Headings
 - Lists
 - Tables
-![[Pasted image 20231101163215.png]]
