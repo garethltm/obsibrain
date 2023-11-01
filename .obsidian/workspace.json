@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Minimum Viable Product (MVP).md",
+                "file": "COMPSCI235 - Software Development Methodologies/Web application architecture.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Minimum Viable Product (MVP).md",
+                "file": "COMPSCI235 - Software Development Methodologies/Web application architecture.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Minimum Viable Product (MVP).md",
+                "file": "COMPSCI235 - Software Development Methodologies/Web application architecture.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Minimum Viable Product (MVP).md"
+                "file": "COMPSCI235 - Software Development Methodologies/Web application architecture.md"
               }
             }
           },
@@ -177,6 +177,9 @@
   },
   "active": "df54043e914f1e1e",
   "lastOpenFiles": [
+    "COMPSCI235 - Software Development Methodologies/Repository.md",
+    "@images/Pasted image 20231102104412.png",
+    "COMPSCI235 - Software Development Methodologies/Minimum Viable Product (MVP).md",
     "COMPSCI235 - Software Development Methodologies/Integration Testing.md",
     "@images/Pasted image 20231102103928.png",
     "COMPSCI235 - Software Development Methodologies/Unit Testing - Memory Repository.md",
@@ -196,7 +199,6 @@
     "@images/Pasted image 20231102100746.png",
     "COMPSCI235 - Software Development Methodologies/Combating CSRF.md",
     "conflict-files-obsidian-git.md",
-    "@images/Pasted image 20231102095650.png",
     "COMPSCI235 - Software Development Methodologies/Classes.md",
     "COMPSCI235 - Software Development Methodologies/Version Control Systems (VCS).md",
     "COMPSCI235 - Software Development Methodologies/Dependencies.md",
@@ -210,9 +212,6 @@
     "COMPSCI235 - Software Development Methodologies/Transport protocols.md",
     "COMPSCI235 - Software Development Methodologies/thread.md",
     "COMPSCI235 - Software Development Methodologies/thread pools.md",
-    "COMPSCI235 - Software Development Methodologies/The Repository pattern.md",
-    "COMPSCI235 - Software Development Methodologies/The 4 P's of Software Development.md",
-    "COMPSCI235 - Software Development Methodologies/Testing.md",
     "COMPSCI235 - Software Development Methodologies",
     "COMPSCI367 - Artificial Intelligence/finals prep.canvas",
     "COMPSCI367 - Artificial Intelligence/week12",
