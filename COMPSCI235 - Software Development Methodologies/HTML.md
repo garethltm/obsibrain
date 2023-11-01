@@ -137,7 +137,10 @@ common inline tags
 - Images
 - Hypertext References
 
-# Empty tags
+#### Empty tags
 tags that apply at a given point
 - do not format content
 - only opening tag is required
+
+1. line breaks `<br>`
+2. images `<img>`
