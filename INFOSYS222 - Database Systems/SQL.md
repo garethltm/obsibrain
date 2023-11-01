@@ -1,5 +1,5 @@
 - Structured Query Language
-- Language to converse with [[Database]]
+- Language to converse with [[INFOSYS222 - Database Systems/Database]]
 
 ## SQL Commands
 1. [[DDL - Data Definition Language]]

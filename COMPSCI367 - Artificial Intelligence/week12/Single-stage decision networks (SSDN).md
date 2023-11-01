@@ -1,4 +1,4 @@
-A [[Structured Representation]] which represents [[Dependency]] relations among (decision & random variables)
+A [[Structured Representation]] which represents [[INFOSYS222 - Database Systems/Dependency]] relations among (decision & random variables)
 	- reflecting everything in a graph
 
 An extension of a [[Bayesian Networks]] with 3 nodes:

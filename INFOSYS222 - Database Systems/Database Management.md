@@ -1,9 +1,9 @@
-- process is designed to manage the [[Database]]
+- process is designed to manage the [[INFOSYS222 - Database Systems/Database]]
 
-1. Store data in a [[database]]
-2. Retrieve data from the [[database]]
-3. Update data from the [[database]]
-4. Control access to the [[database]]
+1. Store data in a [[INFOSYS222 - Database Systems/Database]]
+2. Retrieve data from the [[INFOSYS222 - Database Systems/Database]]
+3. Update data from the [[INFOSYS222 - Database Systems/Database]]
+4. Control access to the [[INFOSYS222 - Database Systems/Database]]
 5. Ensure data is valid & consistent
 6. Service multiple users simultaneously
 

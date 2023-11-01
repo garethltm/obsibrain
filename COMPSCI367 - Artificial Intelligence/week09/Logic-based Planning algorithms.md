@@ -14,7 +14,7 @@ description language to specify [[Planning task]]
 >> [[Knowledge Base (KB)]] φ (related to [[Logic Inference Problem]]) 
 >> φ = [[initial state (start state)]] ∧ [[action(s)]] descriptions ∧ [[goal(s) - goal state(s)]]
 >> 
->> [[Planning]] is equivalent to checking the [[satisfiable]] of φ (satisfies the [[Knowledge Base (KB)]])
+>> [[COMPSCI367 - Artificial Intelligence/week09/Planning]] is equivalent to checking the [[satisfiable]] of φ (satisfies the [[Knowledge Base (KB)]])
 
 >	#Example 
 >	finding an [[interpretation]] π such that: π ⊧ φ

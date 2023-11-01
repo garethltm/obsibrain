@@ -1,10 +1,10 @@
 - [[State Space]]
 - [[plan]] are [[path(s)]] from [[initial state (start state)]] to [[goal(s) - goal state(s)]]
 
-## [[planning]] vs [[search]]
+## [[COMPSCI367 - Artificial Intelligence/week09/Planning]] vs [[search]]
 >	main difference = [[state(s)]] representation
-- [[planning]] 
-	- [[state(s)]] (typically the [[Structured Representation]]): structural information used by [[planning]] [[algorithm]]
+- [[COMPSCI367 - Artificial Intelligence/week09/Planning]] 
+	- [[state(s)]] (typically the [[Structured Representation]]): structural information used by [[COMPSCI367 - Artificial Intelligence/week09/Planning]] [[algorithm]]
 - [[search]]  
 	- [[state(s)]] (typically the [[Atomic Representation]]): single entity used by the [[search]] [[algorithm]]
 ![[Untitled 5.png]]

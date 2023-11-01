@@ -1,0 +1,1 @@
+A [[session]] represents an exchange between a browser & Web server where the requests can be attributed to a particular user

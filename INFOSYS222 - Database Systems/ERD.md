@@ -9,7 +9,7 @@ Related to: [[Binary]]
 - [[Entity]] are abstract or concrete - typical nouns
 - [[Attribute(s)]] are facts about or properties of an [[Entity]]
 - [[Relationship]] are typically verbs connecting [[Entity]]
-	- Identify [[Dependency]]/Cardinality/Degree
+	- Identify [[INFOSYS222 - Database Systems/Dependency]]/Cardinality/Degree
 - Stick to specifications
 	- Make assumptions IFF specifications are silent
 - Keep it simple & elegant

@@ -1,0 +1,1 @@
+enable the programs to adequately manipulate information

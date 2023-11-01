@@ -1,0 +1,1 @@
+The outcome of a project is a [[released product]]

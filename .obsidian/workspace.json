@@ -34,8 +34,21 @@
                   "type": "git-view",
                   "state": {}
                 }
+              },
+              {
+                "id": "59ba03b486112365",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "conflict-files-obsidian-git.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
               }
-            ]
+            ],
+            "currentTab": 1
           },
           {
             "id": "d9a730eda40123bb",
@@ -142,7 +155,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "gareth",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -257,45 +270,46 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "a6e0090ac9cbd1f3",
+  "active": "358f03c9716e94e8",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
-    "COMPSCI367 - Artificial Intelligence/week12/moral responsibility.md",
-    "COMPSCI367 - Artificial Intelligence/week05/chromosomes.md",
-    "COMPSCI367 - Artificial Intelligence/week04/gradient.md",
-    "COMPSCI367 - Artificial Intelligence/week03/Least Constraining Value.md",
-    "COMPSCI367 - Artificial Intelligence/week03/Constraint Graph.md",
-    "COMPSCI367 - Artificial Intelligence/week03/Binary CSP.md",
-    "COMPSCI367 - Artificial Intelligence/week03/Arc Consistency.md",
-    "COMPSCI367 - Artificial Intelligence/week03/A-Star Search.md",
-    "COMPSCI367 - Artificial Intelligence/week02/monotonically.md",
+    "COMPSCI235 - Software Development Methodologies/White Box Testing.md",
+    "COMPSCI235 - Software Development Methodologies/Web-based Systems.md",
+    "COMPSCI235 - Software Development Methodologies/Web application architecture.md",
+    "COMPSCI235 - Software Development Methodologies/Version Control Systems (VCS).md",
+    "COMPSCI235 - Software Development Methodologies/URL Building.md",
+    "COMPSCI235 - Software Development Methodologies/Unit Testing.md",
+    "COMPSCI235 - Software Development Methodologies/Unified Modeling Language (UML).md",
+    "COMPSCI235 - Software Development Methodologies/Transport protocols.md",
+    "COMPSCI235 - Software Development Methodologies/thread.md",
+    "COMPSCI235 - Software Development Methodologies/thread pools.md",
+    "COMPSCI235 - Software Development Methodologies/The Repository pattern.md",
+    "COMPSCI235 - Software Development Methodologies/The 4 P's of Software Development.md",
+    "COMPSCI235 - Software Development Methodologies/Testing.md",
+    "COMPSCI235 - Software Development Methodologies/Test-driven development (AGILE practice).md",
+    "COMPSCI235 - Software Development Methodologies/test suite.md",
+    "COMPSCI235 - Software Development Methodologies/Templating.md",
+    "COMPSCI235 - Software Development Methodologies/Template inheritance.md",
+    "COMPSCI235 - Software Development Methodologies/Template containment.md",
+    "COMPSCI235 - Software Development Methodologies/Template inheritance & containment.md",
+    "COMPSCI235 - Software Development Methodologies/Systematic Development Process.md",
+    "COMPSCI235 - Software Development Methodologies/Structural elements.md",
+    "COMPSCI235 - Software Development Methodologies/System testing.md",
+    "COMPSCI235 - Software Development Methodologies/stub.md",
+    "COMPSCI235 - Software Development Methodologies/Structural Diagrams.md",
+    "COMPSCI235 - Software Development Methodologies/stateless.md",
+    "COMPSCI235 - Software Development Methodologies",
+    "@images/Pasted image 20231102011452.png",
+    "@images/Pasted image 20231102011313.png",
+    "@images/Pasted image 20231102011233.png",
+    "@images/Pasted image 20231102005437.png",
+    "@images/Pasted image 20231102005010.png",
+    "@images/Pasted image 20231102004918.png",
+    "@images/Pasted image 20231102004834.png",
+    "@images/Pasted image 20231102004211.png",
+    "@images/Pasted image 20231102004109.png",
+    "@images/Pasted image 20231102003319.png",
     "COMPSCI367 - Artificial Intelligence/finals prep.canvas",
-    "COMPSCI367 - Artificial Intelligence/week04/trivially complete.md",
-    "COMPSCI367 - Artificial Intelligence/week04/Typical Annealing Schedule.md",
-    "COMPSCI367 - Artificial Intelligence/week04/Hill-Climbing.md",
-    "COMPSCI367 - Artificial Intelligence/week04/Local Search in Continuous Space.md",
-    "COMPSCI367 - Artificial Intelligence/week04/Local Optima.md",
-    "COMPSCI367 - Artificial Intelligence/week04/Stochastic Hill-Climbing.md",
-    "COMPSCI367 - Artificial Intelligence/week03/Stochastic Search.md",
-    "COMPSCI367 - Artificial Intelligence/week03/Backtracking Search-GARETH.md",
-    "COMPSCI367 - Artificial Intelligence/week02/Time Complexity.md",
-    "COMPSCI367 - Artificial Intelligence/week02/State Space Problem.md",
-    "COMPSCI367 - Artificial Intelligence/week02/Queue.md",
-    "COMPSCI367 - Artificial Intelligence/week02/Search Techniques (Search Strategy) (Search Algorithm).md",
-    "COMPSCI367 - Artificial Intelligence/week02/Search Tree.md",
-    "COMPSCI367 - Artificial Intelligence/week02/Priority Queue.md",
-    "COMPSCI367 - Artificial Intelligence/week02/Depth-First Search (DFS).md",
-    "COMPSCI367 - Artificial Intelligence/week01/Deterministic.md",
-    "@images/Pasted image 20231026174833.png",
-    "@images/Pasted image 20231026174606.png",
-    "@images/Pasted image 20231026170928.png",
-    "@images/Pasted image 20231026170850.png",
-    "@images/Pasted image 20231026170612.png",
-    "@images/Pasted image 20231026170532.png",
-    "@images/Pasted image 20231026165939.png",
-    "@images/Pasted image 20231026165642.png",
-    "@images/Pasted image 20231026165531.png",
-    "@images/Pasted image 20231026163536.png",
     "COMPSCI367 - Artificial Intelligence/week12",
     "COMPSCI367 - Artificial Intelligence/week11",
     "COMPSCI367 - Artificial Intelligence/week08",
@@ -304,7 +318,6 @@
     "COMPSCI367 - Artificial Intelligence/week03",
     "COMPSCI367 - Artificial Intelligence/week04",
     "COMPSCI367 - Artificial Intelligence/week05",
-    "COMPSCI367 - Artificial Intelligence/week02",
-    "Untitle"
+    "COMPSCI367 - Artificial Intelligence/week02"
   ]
 }

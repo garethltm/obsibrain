@@ -40,7 +40,7 @@ DROP VIEW <view>
 ## INDEX
 - more efficient way of looking for data - limiting your scope of search by splitting your data (like merge sort, finding the midpoint)
 - they are usually sorted
-- every time you create an index, you have to create another space in the DB to store the sorted list - which takes up [[database]] space
+- every time you create an index, you have to create another space in the DB to store the sorted list - which takes up [[INFOSYS222 - Database Systems/Database]] space
 
 <aside> 💡 useful for large table/frequently used columns </aside>
 

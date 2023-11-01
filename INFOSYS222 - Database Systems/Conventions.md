@@ -9,5 +9,5 @@
 
 ## [[Relationship]]
 - Verb-Noun pairing (X does Y)
-- Show [[Dependency]]
+- Show [[INFOSYS222 - Database Systems/Dependency]]
 - Show cardinality

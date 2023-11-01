@@ -1,0 +1,1 @@
+provide for process-to-process communication
