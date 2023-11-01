@@ -60,9 +60,10 @@ tags must be correctly nested
 ![[Pasted image 20231101162926.png]]
 
 4. `<title>`
-- part of the `head`
-- specifies the title to be used by the browser
-- name of the window
-- used in navigation
->	#Example 
->	bookmarks, history, etc.
+	- part of the `head`
+	- specifies the title to be used by the browser
+	- name of the window
+	- used in navigation
+	>	#Example 
+	>	bookmarks, history, etc.
+![[Pasted image 20231101163110.png]]
