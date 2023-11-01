@@ -1,3 +1,5 @@
+A [[COMPSCI235 - Software Development Methodologies/database|database]] is a collection of data that captures an abstra
+
 A [[COMPSCI235 - Software Development Methodologies/database|database]] stores data persistently
 - any change to the [[COMPSCI235 - Software Development Methodologies/database|database]] is permanent - it is going to stay somewhere
 >	#Example 
