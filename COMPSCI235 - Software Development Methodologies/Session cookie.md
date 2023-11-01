@@ -8,4 +8,5 @@ User submits login credentials
 
 Server:
 - verifies the credentials from the [[COMPSCI235 - Software Development Methodologies/database|database]]
-- creates a 
+- creates a temporary user [[session]]
+- issue
