@@ -16,4 +16,6 @@
 
 ### `app.run()`
 - [[Flask]] application gets started by calling run() method.
-- ap
+- app.run(host, port, options)
+	- host - hostname to listen on (default - 127.0.0.1 (localhost))
+	- port - (default - 5000)
