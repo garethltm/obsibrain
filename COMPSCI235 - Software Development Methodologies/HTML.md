@@ -113,7 +113,8 @@ define the structure of a "block"
 	- block level element
 	- each new div is rendered on a new line
 	- a division, or section of content within a HTML page
-		`<div>
-			<p>Content<p>
-					<p>Content<p>
-				</div>``
+		`<div>`
+			`<p>Content<p>`
+			`<p>Content<p>`
+		`</div>`![[Pasted image 20231101165117.png]]
+		![[Pasted image 20231101165130.png]]
