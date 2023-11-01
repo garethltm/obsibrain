@@ -4,8 +4,8 @@ Systems that user more than one kind of processor or cores for diverse computati
 	- Data representation
 	- Data typing system used in programming languages
 	- Operating system interfaces
+		- Hardware differences
 	- Network protocols
 - Despite these differences, there is a need for systems to interoperate
-
-
 ![[Pasted image 20231101181925.png]]
+- if they send those information to each other - they need to translate before sending
