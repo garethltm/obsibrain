@@ -12,4 +12,7 @@
 		- similar to GET, only returns meta data for the resource
 		> #Example 
 		> 		modification time, size, type
-	- POST (Putting data )
+	- POST (Putting data to the server/Grant access to users) $\rightarrow$ register someone
+		- requests that the named resource processes data
+		- typically used to process form data
+	- PUT (Not creating new resource; changing/updat)
