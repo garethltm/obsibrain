@@ -154,9 +154,9 @@ tags that apply at a given point
 		- `<tag>` contains the address of the image
 		- web browser loads image when required
 		- only use images the browser understands
-		- #Example 
-> 			GIF, JPG, PNG
+>			#Example 
+>			GIF, JPG, PNG
 
 			`<img>`
-						
+				- insert an image at this location
 ![[Pasted image 20231101170453.png]]
