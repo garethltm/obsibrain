@@ -1,6 +1,7 @@
 a simple framework that simplifies working with [[Hypertext Markup Language (HTML)]] forms
 
 ### Key concepts provided by [[WTForms]]:
+![[Pasted image 20231102100746.png]]
 - Forms
 - Field
 	- String, Date/Time field
