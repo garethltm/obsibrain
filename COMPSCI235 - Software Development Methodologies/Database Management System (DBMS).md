@@ -6,7 +6,7 @@
 	- MySQL
 	- PostgreSQL
 	- Oracle
-- ### Document based (NoSQL) - document based: JSON/XML
+- ### Document based ([[NoSQL]]) - document based: JSON/XML
 	- CouchDB
 	- MongoDB
 	- RavenDB

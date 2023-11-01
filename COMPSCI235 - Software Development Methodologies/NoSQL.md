@@ -1,0 +1,1 @@
+an umbrella term for all [[COMPSCI235 - Software Development Methodologies/database|database]] & data stores that don't follow the [[relationa]]
