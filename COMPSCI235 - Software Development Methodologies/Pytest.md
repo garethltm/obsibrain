@@ -10,3 +10,4 @@
 ### [[Pytest]] fixtures
 - good for writing multiple tests
 - [[Pytest]] provides the fixture decorator that can be used to supply tests with a freshly initialised object to test
+![[Pasted image 20231101153449.png]]
