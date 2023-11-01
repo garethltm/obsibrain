@@ -1,0 +1,1 @@
+- You can deal with [[External Dependency]] by using a [[stub]]
