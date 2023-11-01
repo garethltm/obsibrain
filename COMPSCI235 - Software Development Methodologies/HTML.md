@@ -37,3 +37,8 @@ some tags require additional information
 `<tag property = "value"></tag>`
 
 ### Nested Tags
+tags must be correctly nested
+- cannot close an open tag until all the open tags that it affects are also closed
+![[Pasted image 20231101162311.png]]
+
+### Essential Tags
