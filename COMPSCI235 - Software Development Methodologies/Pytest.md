@@ -6,3 +6,7 @@
 3. relies on naming conventions to discover tests
 	- [[test suite]]
 	- an individual test is implemented as a function whose name begins with `test_`
+
+### [[Pytest]] fixtures
+- good for writing multiple tests
+- [[Pytest]] provides the fixture decorator that can be used to supply tests with a freshly initialised object to test
