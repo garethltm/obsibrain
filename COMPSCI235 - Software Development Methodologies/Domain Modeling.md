@@ -2,7 +2,11 @@
 - not only useful for [[analysis]] but is often a good conceptual model for system [[design(s)]]
 - provides a static structure of the [[software]] system
 >	#Example 
->	What class
+>	What classes will we need to implement to the system in order to meet our requirements?
+>	What fields & methods will each class have?
+>	How the classes interrelate & how they interact with each other?
+
+- 
 
 >	#Example 
 >	Library Management System
