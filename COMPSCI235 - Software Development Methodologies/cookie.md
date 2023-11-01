@@ -12,4 +12,4 @@ makes a better user experience
 >	#Example 
 >	user tracking, personalization & most importantly, [[Authentication]]
 
-- A web server can "set" a [[cookie]] into the client using the "`Set-Cookie`" response header & the browser then sends this cookie to
+- A web server can "set" a [[cookie]] into the client using the "`Set-Cookie`" response header (sending stuff in the header) & the browser then sends this [[cookie]] to the server with each subsequent [[Hypertext Transfer Protocol (HTTP)]] request using the "[[Cookie]]" request header
