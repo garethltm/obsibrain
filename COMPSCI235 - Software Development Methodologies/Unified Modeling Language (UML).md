@@ -1,1 +1,3 @@
-- a standard notation for writi
+- a standard notation for writing [[software]] blueprints
+- used to construct a model of a [[software]] system
+- 
