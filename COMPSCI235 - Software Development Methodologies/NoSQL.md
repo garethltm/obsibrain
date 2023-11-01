@@ -2,4 +2,5 @@ an umbrella term for all [[COMPSCI235 - Software Development Methodologies/datab
 
 [[NoSQL]] stands for:
 - No Relational
-- No 
+- No [[Relational DBMS (RDBMS)]]
+- Not Only [[SQL]]
