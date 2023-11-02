@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "8d459d1c85b8b9ed",
+        "id": "2f62bfae1d3370c8",
         "type": "tabs",
         "children": [
           {
-            "id": "f81b568f787efc04",
+            "id": "33a55b9766be070c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Pending.md",
+                "file": "COMPSCI235 - Software Development Methodologies/Combating CSRF.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "standard protoc",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Pending.md",
+                "file": "COMPSCI235 - Software Development Methodologies/Combating CSRF.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Pending.md",
+                "file": "COMPSCI235 - Software Development Methodologies/Combating CSRF.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Pending.md"
+                "file": "COMPSCI235 - Software Development Methodologies/Combating CSRF.md"
               }
             }
           },
@@ -140,15 +140,25 @@
             }
           },
           {
-            "id": "280cbfb2d481e903",
+            "id": "2e4c1b8f3e56d2af",
             "type": "leaf",
             "state": {
               "type": "review-queue-list-view",
               "state": {}
             }
+          },
+          {
+            "id": "f6eacc6fe3f53242",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "COMPSCI235 - Software Development Methodologies/Combating CSRF.md"
+              }
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -166,46 +176,46 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "f81b568f787efc04",
+  "active": "3ad179677b7fba41",
   "lastOpenFiles": [
-    "@images/Pasted image 20231102171212.png",
-    "COMPSCI235 - Software Development Methodologies/Transient.md",
-    "@images/Pasted image 20231102171056.png",
-    "COMPSCI235 - Software Development Methodologies/Persistent.md",
-    "COMPSCI235 - Software Development Methodologies/Expired.md",
-    "COMPSCI235 - Software Development Methodologies/Pending.md",
-    "COMPSCI235 - Software Development Methodologies/SQLAlchemy Session.md",
-    "@images/Pasted image 20231102170744.png",
-    "COMPSCI235 - Software Development Methodologies/Many-to-many Relation.md",
-    "COMPSCI235 - Software Development Methodologies/Flushing.md",
+    "COMPSCI235 - Software Development Methodologies/transaction(s).md",
+    "COMPSCI235 - Software Development Methodologies/object data model.md",
+    "COMPSCI235 - Software Development Methodologies/Object Relation Mapping (ORM).md",
+    "COMPSCI235 - Software Development Methodologies/Object Oriented Databases (OOD).md",
+    "COMPSCI235 - Software Development Methodologies/Object ID (OID).md",
+    "COMPSCI235 - Software Development Methodologies/ORM & Associations.md",
+    "COMPSCI235 - Software Development Methodologies/NoSQL.md",
+    "COMPSCI235 - Software Development Methodologies/Modeling (Analyze, Design).md",
     "COMPSCI235 - Software Development Methodologies/Mapping Styles.md",
-    "COMPSCI235 - Software Development Methodologies/Declarative Mapping.md",
+    "COMPSCI235 - Software Development Methodologies/Many-to-many Relation.md",
+    "COMPSCI235 - Software Development Methodologies/Languages.md",
+    "COMPSCI235 - Software Development Methodologies/Imperative (or Classical) Mapping.md",
+    "COMPSCI235 - Software Development Methodologies/Impedence.md",
+    "COMPSCI235 - Software Development Methodologies/Flushing.md",
+    "COMPSCI235 - Software Development Methodologies/Flask WTF.md",
+    "COMPSCI235 - Software Development Methodologies/Flask Configuration.md",
+    "COMPSCI235 - Software Development Methodologies/ACID.md",
+    "@images/Pasted image 20231102171212.png",
+    "@images/Pasted image 20231102171056.png",
+    "@images/Pasted image 20231102170744.png",
     "@images/Pasted image 20231102165944.png",
     "@images/Pasted image 20231102165935.png",
-    "COMPSCI235 - Software Development Methodologies/transaction(s).md",
     "@images/Pasted image 20231102165146.png",
     "@images/Pasted image 20231102165121.png",
     "@images/Pasted image 20231102164624.png",
-    "COMPSCI235 - Software Development Methodologies/One-to-many Relation.md",
     "@images/Pasted image 20231102164531.png",
     "@images/Pasted image 20231102164435.png",
-    "@images/Pasted image 20231102164406.png",
-    "COMPSCI235 - Software Development Methodologies/ORM & Associations.md",
-    "COMPSCI235 - Software Development Methodologies/Repository.md",
-    "COMPSCI235 - Software Development Methodologies/Imperative (or Classical) Mapping.md",
-    "COMPSCI235 - Software Development Methodologies/SQLAlchemy.md",
-    "COMPSCI235 - Software Development Methodologies/Object Relation Mapping (ORM).md",
-    "COMPSCI235 - Software Development Methodologies/Object-Relational Database Management System (ORDBMS).md",
+    "COMPSCI235 - Software Development Methodologies/Cross-site Request Forgery (CSRF).md",
+    "COMPSCI235 - Software Development Methodologies/Combating CSRF.md",
+    "COMPSCI235 - Software Development Methodologies/Signed cookies.md",
+    "COMPSCI235 - Software Development Methodologies/Session cookie.md",
     "COMPSCI235 - Software Development Methodologies/session.md",
-    "COMPSCI235 - Software Development Methodologies/Single Responsibility Principle (SRP).md",
-    "COMPSCI235 - Software Development Methodologies/Object-Oriented Database Management System (OODBMS).md",
-    "COMPSCI235 - Software Development Methodologies/Object Oriented Databases (OOD).md",
-    "COMPSCI235 - Software Development Methodologies/object data model.md",
-    "COMPSCI235 - Software Development Methodologies/Object ID (OID).md",
-    "COMPSCI235 - Software Development Methodologies/Relationship(s).md",
-    "COMPSCI235 - Software Development Methodologies/Impedence.md",
-    "COMPSCI235 - Software Development Methodologies",
+    "COMPSCI235 - Software Development Methodologies/cookie.md",
+    "COMPSCI235 - Software Development Methodologies/Hypertext Transfer Protocol (HTTP).md",
+    "COMPSCI235 - Software Development Methodologies/stateless.md",
+    "COMPSCI235 - Software Development Methodologies/Security concerns.md",
     "COMPSCI367 - Artificial Intelligence/finals prep.canvas",
+    "COMPSCI235 - Software Development Methodologies",
     "COMPSCI367 - Artificial Intelligence/week12",
     "COMPSCI367 - Artificial Intelligence/week11",
     "COMPSCI367 - Artificial Intelligence/week08",
