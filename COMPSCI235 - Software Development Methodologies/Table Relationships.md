@@ -7,4 +7,10 @@ Shown using solid connector lines
 >	#Example 
 >	"One person can have one passport"
 - One-to-many
-	- Where a row from one table can h
+	- Where a row from one table can have multiple matching rows in another table
+>	#Example 
+>	"A publisher can publish multiple books"
+- Many-to-many
+	- Break into 2 one-to-many relationships
+>	#Example 
+>	"Books & authors"
