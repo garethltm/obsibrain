@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Handling requests.md",
+                "file": "COMPSCI235 - Software Development Methodologies/Flask Blueprint.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Handling requests.md",
+                "file": "COMPSCI235 - Software Development Methodologies/Flask Blueprint.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Handling requests.md",
+                "file": "COMPSCI235 - Software Development Methodologies/Flask Blueprint.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Handling requests.md"
+                "file": "COMPSCI235 - Software Development Methodologies/Flask Blueprint.md"
               }
             }
           },
@@ -175,8 +175,15 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "3ad179677b7fba41",
+  "active": "df54043e914f1e1e",
   "lastOpenFiles": [
+    "COMPSCI235 - Software Development Methodologies/Flask Configuration.md",
+    "COMPSCI235 - Software Development Methodologies/Heterogeneous.md",
+    "COMPSCI235 - Software Development Methodologies/Handling requests.md",
+    "COMPSCI235 - Software Development Methodologies/High-level modules.md",
+    "COMPSCI235 - Software Development Methodologies/How to deal with dependencies in testing.md",
+    "COMPSCI235 - Software Development Methodologies/Inline styles.md",
+    "COMPSCI235 - Software Development Methodologies/Unit Testing.md",
     "COMPSCI235 - Software Development Methodologies/Relational DBMS (RDBMS).md",
     "@images/Pasted image 20231102132025.png",
     "COMPSCI235 - Software Development Methodologies/NoSQL.md",
@@ -202,16 +209,10 @@
     "COMPSCI235 - Software Development Methodologies/Integration Testing.md",
     "COMPSCI235 - Software Development Methodologies/Unit Testing - Memory Repository.md",
     "COMPSCI235 - Software Development Methodologies/Unit Testing - Service Layer.md",
-    "COMPSCI235 - Software Development Methodologies/Unit Testing.md",
     "COMPSCI235 - Software Development Methodologies/WTForms.md",
-    "COMPSCI235 - Software Development Methodologies/Flask Configuration.md",
     "COMPSCI235 - Software Development Methodologies/Flask.md",
     "COMPSCI235 - Software Development Methodologies/Flask WTF.md",
     "COMPSCI235 - Software Development Methodologies/Combating CSRF.md",
-    "conflict-files-obsidian-git.md",
-    "COMPSCI235 - Software Development Methodologies/Classes.md",
-    "COMPSCI235 - Software Development Methodologies/Version Control Systems (VCS).md",
-    "COMPSCI235 - Software Development Methodologies/Dependencies.md",
     "COMPSCI235 - Software Development Methodologies",
     "COMPSCI367 - Artificial Intelligence/finals prep.canvas",
     "COMPSCI367 - Artificial Intelligence/week12",
