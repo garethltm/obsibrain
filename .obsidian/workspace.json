@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Impedence.md",
+                "file": "COMPSCI235 - Software Development Methodologies/Object Oriented Databases (.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Impedence.md",
+                "file": "COMPSCI235 - Software Development Methodologies/Object Oriented Databases (.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Impedence.md",
+                "file": "COMPSCI235 - Software Development Methodologies/Object Oriented Databases (.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Impedence.md"
+                "file": "COMPSCI235 - Software Development Methodologies/Object Oriented Databases (.md"
               }
             }
           },
@@ -168,8 +168,11 @@
   },
   "active": "f81b568f787efc04",
   "lastOpenFiles": [
-    "COMPSCI235 - Software Development Methodologies/Access control.md",
     "COMPSCI235 - Software Development Methodologies/Impedence.md",
+    "COMPSCI235 - Software Development Methodologies/Object Oriented Databases (.md",
+    "@images/Pasted image 20231102154414.png",
+    "@images/Pasted image 20231102154328.png",
+    "COMPSCI235 - Software Development Methodologies/Access control.md",
     "COMPSCI235 - Software Development Methodologies/Persistence.md",
     "@images/Pasted image 20231102153859.png",
     "@images/Pasted image 20231102153010.png",
@@ -185,8 +188,6 @@
     "@images/Pasted image 20231102151726.png",
     "COMPSCI235 - Software Development Methodologies/Database schema.md",
     "@images/Pasted image 20231102151242.png",
-    "@images/Pasted image 20231102150731.png",
-    "@images/Pasted image 20231102150658.png",
     "COMPSCI235 - Software Development Methodologies/Database instance.md",
     "COMPSCI235 - Software Development Methodologies/Languages.md",
     "COMPSCI235 - Software Development Methodologies/Data Query Language (DQL).md",
@@ -203,7 +204,6 @@
     "COMPSCI235 - Software Development Methodologies/Session cookie.md",
     "COMPSCI235 - Software Development Methodologies/Relationships.md",
     "COMPSCI235 - Software Development Methodologies/Repository.md",
-    "COMPSCI235 - Software Development Methodologies/released product.md",
     "COMPSCI235 - Software Development Methodologies",
     "COMPSCI367 - Artificial Intelligence/finals prep.canvas",
     "COMPSCI367 - Artificial Intelligence/week12",
