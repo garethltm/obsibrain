@@ -21,4 +21,4 @@ Building tasks in motion, from building [[software]] to deploying it
 ![[Pasted image 20231103120001.png]]
 
 ### Ultimate goal:
-- Anyone should be able to bri
+- Anyone should be able to bring in a virgin machine, check out the source code & other nece
