@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/SQLAlchemy Session.md",
+                "file": "COMPSCI235 - Software Development Methodologies/Persistent.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "dictionary",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,12 +65,12 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "29204b37fc003a9a",
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/SQLAlchemy Session.md",
+                "file": "COMPSCI235 - Software Development Methodologies/Persistent.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/SQLAlchemy Session.md",
+                "file": "COMPSCI235 - Software Development Methodologies/Persistent.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/SQLAlchemy Session.md"
+                "file": "COMPSCI235 - Software Development Methodologies/Persistent.md"
               }
             }
           },
@@ -167,18 +167,19 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "a6e0090ac9cbd1f3",
+  "active": "f81b568f787efc04",
   "lastOpenFiles": [
+    "COMPSCI235 - Software Development Methodologies/Many-to-many Relation.md",
+    "COMPSCI235 - Software Development Methodologies/SQLAlchemy Session.md",
+    "COMPSCI235 - Software Development Methodologies/Flushing.md",
     "COMPSCI235 - Software Development Methodologies/Mapping Styles.md",
     "COMPSCI235 - Software Development Methodologies/Declarative Mapping.md",
-    "COMPSCI235 - Software Development Methodologies/SQLAlchemy Session.md",
     "COMPSCI235 - Software Development Methodologies/Persistent.md",
     "@images/Pasted image 20231102165944.png",
     "@images/Pasted image 20231102165935.png",
     "COMPSCI235 - Software Development Methodologies/transaction(s).md",
     "@images/Pasted image 20231102165146.png",
     "@images/Pasted image 20231102165121.png",
-    "COMPSCI235 - Software Development Methodologies/Many-to-many Relation.md",
     "@images/Pasted image 20231102164624.png",
     "COMPSCI235 - Software Development Methodologies/One-to-many Relation.md",
     "@images/Pasted image 20231102164531.png",
