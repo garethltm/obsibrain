@@ -14,6 +14,6 @@ In Python, we can use `Pickle` library
 - `object - pickle.load(infile)`
 	- deserializing
 	- Serializing/deserialzing $\rightarrow$ trivial
-		- Not effective: doesn't conform to the [[ACID]] properties
+		- Not effective: file doesn't conform to the [[ACID]] properties
 
 [[COMPSCI235 - Software Development Methodologies/database|database]] storage via a [[Relational DBMS (RDBMS)]]
