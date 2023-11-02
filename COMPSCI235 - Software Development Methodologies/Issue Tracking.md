@@ -24,4 +24,6 @@ to streamline to process of tracking/reporting/assigning issues
 >	#Example 
 >	status, resolution
 - improve communication in the team & to customers
-	- increase
+	- increase productivity of the team
+	- reduce expenses
+All these improves overall quality of [[software development]]
