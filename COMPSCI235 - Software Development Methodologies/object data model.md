@@ -6,5 +6,7 @@ The [[object data model]] is the basis of [[Object-Oriented Database Management 
 - Relationships?
 	- In an [[Relational DBMS (RDBMS)]] relationships are established through matching primary key & foreign key
 - Unlike relational model, in [[object data model]] multi-valued [[Attribute(s)]] are allowed (sets)
-- Class at "one" end of the [[Relationship(s)]]
-Related to: [[COMPSCI235 - Software Development Methodologies/Relational database|Relational database]], [[Object ID]]
+- Class at "one" end of the [[Relationship(s)]] must hold a set of related [[Object ID (OID)]]s
+- Class at "many" end of the [[Relationship(s)]] must hold [[Object ID (OID)]] of parent
+- Direct extension to "many-to-many"
+Related to: [[COMPSCI235 - Software Development Methodologies/Relational database|Relational database]], [[Object ID (OID)]]
