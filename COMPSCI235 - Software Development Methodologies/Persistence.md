@@ -13,7 +13,8 @@ In Python, we can use `Pickle` library
 - `pickle.dump(object, outfile)`
 - `object - pickle.load(infile)`
 	- deserializing
-	- Serializing/deserialzing $\rightarrow$ trivial
+	- Serializing/deserializing $\rightarrow$ trivial
 		- Not effective: file doesn't conform to the [[ACID]] properties
 
-[[COMPSCI235 - Software Development Methodologies/database|database]] storage via a [[Relational DBMS (RDBMS)]]
+[[COMPSCI235 - Software Development Methodologies/database|database]] storage via a [[Relational DBMS (RDBMS)]]:![[Pasted image 20231102153859.png]]
+- Client-server applications with concurrent (parall)
