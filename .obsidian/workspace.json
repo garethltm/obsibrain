@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Flask Blueprint.md",
+                "file": "COMPSCI235 - Software Development Methodologies/Aggregation.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Flask Blueprint.md",
+                "file": "COMPSCI235 - Software Development Methodologies/Aggregation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Flask Blueprint.md",
+                "file": "COMPSCI235 - Software Development Methodologies/Aggregation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Flask Blueprint.md"
+                "file": "COMPSCI235 - Software Development Methodologies/Aggregation.md"
               }
             }
           },
@@ -177,18 +177,33 @@
   },
   "active": "df54043e914f1e1e",
   "lastOpenFiles": [
+    "COMPSCI235 - Software Development Methodologies/ACID.md",
+    "COMPSCI235 - Software Development Methodologies/Accessibility.md",
+    "COMPSCI235 - Software Development Methodologies/Access control.md",
+    "COMPSCI235 - Software Development Methodologies/Acceptance Testing.md",
+    "COMPSCI235 - Software Development Methodologies/Access Modifiers.md",
+    "COMPSCI235 - Software Development Methodologies/Behavioral Diagrams.md",
+    "COMPSCI235 - Software Development Methodologies/Class Diagram.md",
+    "COMPSCI235 - Software Development Methodologies/Concurrent.md",
+    "COMPSCI235 - Software Development Methodologies/Construction (Code, Test).md",
+    "COMPSCI235 - Software Development Methodologies/cookie.md",
+    "COMPSCI235 - Software Development Methodologies/Creating responses.md",
+    "COMPSCI235 - Software Development Methodologies/Cross-site Request Forgery (CSRF).md",
+    "COMPSCI235 - Software Development Methodologies/Data structures.md",
+    "COMPSCI235 - Software Development Methodologies/Dependency Inversion Principle (DIP).md",
+    "COMPSCI235 - Software Development Methodologies/Dependency.md",
+    "COMPSCI235 - Software Development Methodologies/design(s).md",
+    "COMPSCI235 - Software Development Methodologies/Distributed VCS.md",
+    "COMPSCI235 - Software Development Methodologies/fault-tolerance.md",
+    "COMPSCI235 - Software Development Methodologies/Flask.md",
+    "COMPSCI235 - Software Development Methodologies/Flask Blueprint.md",
+    "COMPSCI235 - Software Development Methodologies/Gray Box Testing.md",
+    "COMPSCI235 - Software Development Methodologies/Generic Software Development Process Framework.md",
     "COMPSCI235 - Software Development Methodologies/Flask Configuration.md",
     "COMPSCI235 - Software Development Methodologies/Heterogeneous.md",
     "COMPSCI235 - Software Development Methodologies/Handling requests.md",
     "COMPSCI235 - Software Development Methodologies/High-level modules.md",
-    "COMPSCI235 - Software Development Methodologies/How to deal with dependencies in testing.md",
-    "COMPSCI235 - Software Development Methodologies/Inline styles.md",
-    "COMPSCI235 - Software Development Methodologies/Unit Testing.md",
-    "COMPSCI235 - Software Development Methodologies/Relational DBMS (RDBMS).md",
     "@images/Pasted image 20231102132025.png",
-    "COMPSCI235 - Software Development Methodologies/NoSQL.md",
-    "COMPSCI235 - Software Development Methodologies/Cascading Style Sheets (CSS).md",
-    "COMPSCI367 - Artificial Intelligence/week04/Local Search.md",
     "@images/Pasted image 20231101180627.png",
     "@images/Pasted image 20231101172223.png",
     "@images/Pasted image 20231101172211.png",
@@ -198,21 +213,6 @@
     "@images/Pasted image 20231101181925.png",
     "@images/Pasted image 20231101224730.png",
     "@images/Pasted image 20231101232250.png",
-    "COMPSCI235 - Software Development Methodologies/Element selectors.md",
-    "COMPSCI235 - Software Development Methodologies/Database Management System (DBMS).md",
-    "COMPSCI235 - Software Development Methodologies/database.md",
-    "COMPSCI235 - Software Development Methodologies/ACID.md",
-    "COMPSCI235 - Software Development Methodologies/transaction(s).md",
-    "COMPSCI235 - Software Development Methodologies/Web application architecture.md",
-    "COMPSCI235 - Software Development Methodologies/Repository.md",
-    "COMPSCI235 - Software Development Methodologies/Minimum Viable Product (MVP).md",
-    "COMPSCI235 - Software Development Methodologies/Integration Testing.md",
-    "COMPSCI235 - Software Development Methodologies/Unit Testing - Memory Repository.md",
-    "COMPSCI235 - Software Development Methodologies/Unit Testing - Service Layer.md",
-    "COMPSCI235 - Software Development Methodologies/WTForms.md",
-    "COMPSCI235 - Software Development Methodologies/Flask.md",
-    "COMPSCI235 - Software Development Methodologies/Flask WTF.md",
-    "COMPSCI235 - Software Development Methodologies/Combating CSRF.md",
     "COMPSCI235 - Software Development Methodologies",
     "COMPSCI367 - Artificial Intelligence/finals prep.canvas",
     "COMPSCI367 - Artificial Intelligence/week12",
