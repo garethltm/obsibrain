@@ -1,4 +1,4 @@
-![[Pasted image 20231102160053.png]]
+![[Pasted image 20231102160053.png]]![[Pasted image 20231102160128.png]]
 ### [[Relational DBMS (RDBMS)]]
 - [[Entity]] are uniquely defined by Primary Keys (visible)
 >	#Example 
