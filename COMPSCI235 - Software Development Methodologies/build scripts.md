@@ -11,4 +11,8 @@ Python:
 
 Java:
 - `Ant/Gradle/Maven`
-	- Create `build.xml` for a project (a Java '')
+	- Create `build.xml` for a project (a Java `Makefile`)
+		- Type command `ant` in the project folder
+
+C++:
+- `CMake`
