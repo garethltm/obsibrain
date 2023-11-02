@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Persistent.md",
+                "file": "COMPSCI235 - Software Development Methodologies/SQLAlchemy Session.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "29204b37fc003a9a",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Persistent.md",
+                "file": "COMPSCI235 - Software Development Methodologies/SQLAlchemy Session.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Persistent.md",
+                "file": "COMPSCI235 - Software Development Methodologies/SQLAlchemy Session.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Persistent.md"
+                "file": "COMPSCI235 - Software Development Methodologies/SQLAlchemy Session.md"
               }
             }
           },
@@ -168,10 +169,10 @@
   },
   "active": "f81b568f787efc04",
   "lastOpenFiles": [
+    "COMPSCI235 - Software Development Methodologies/Persistent.md",
     "@images/Pasted image 20231102165944.png",
     "@images/Pasted image 20231102165935.png",
     "COMPSCI235 - Software Development Methodologies/transaction(s).md",
-    "COMPSCI235 - Software Development Methodologies/Persistent.md",
     "COMPSCI235 - Software Development Methodologies/SQLAlchemy Session.md",
     "@images/Pasted image 20231102165146.png",
     "@images/Pasted image 20231102165121.png",
@@ -185,7 +186,6 @@
     "COMPSCI235 - Software Development Methodologies/ORM & Associations.md",
     "@images/Pasted image 20231102164208.png",
     "COMPSCI235 - Software Development Methodologies/Repository.md",
-    "@images/Pasted image 20231102164105.png",
     "COMPSCI235 - Software Development Methodologies/Mapping Styles.md",
     "COMPSCI235 - Software Development Methodologies/Imperative (or Classical) Mapping.md",
     "COMPSCI235 - Software Development Methodologies/Declarative Mapping.md",
