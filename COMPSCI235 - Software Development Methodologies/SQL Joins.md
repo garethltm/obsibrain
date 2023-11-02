@@ -7,3 +7,4 @@
 	- returns all records from the right table, & the matched records from the left table
 - FULL (OUTER) JOIN
 	- returns all records when there is a match either left or right table
+![[Pasted image 20231102152320.png]]
