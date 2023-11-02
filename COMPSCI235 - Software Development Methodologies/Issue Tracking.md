@@ -9,3 +9,5 @@ Team member register & raise issues
 - the one who raises the issue will describe the issue in [[detail of issue]]
 	- such that people can easy reproduce the bug/issue
 - other team members can comment & work collaboratively towards resolving the issue raised
+
+### Why do we need an issue tra

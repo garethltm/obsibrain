@@ -19,4 +19,6 @@
 		- verified
 4. the strategies 
 	- what:
-		- 
+		- led to the decision to choose one way of fixing instead of another
+		- changes in code were made
+	- how long it took to handle the request

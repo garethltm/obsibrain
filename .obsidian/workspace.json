@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/detail of issue.md",
+                "file": "COMPSCI235 - Software Development Methodologies/Issue Tracking.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/detail of issue.md",
+                "file": "COMPSCI235 - Software Development Methodologies/Issue Tracking.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/detail of issue.md",
+                "file": "COMPSCI235 - Software Development Methodologies/Issue Tracking.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/detail of issue.md"
+                "file": "COMPSCI235 - Software Development Methodologies/Issue Tracking.md"
               }
             }
           },
@@ -168,8 +168,8 @@
   },
   "active": "f81b568f787efc04",
   "lastOpenFiles": [
-    "COMPSCI235 - Software Development Methodologies/Issue Tracking.md",
     "COMPSCI235 - Software Development Methodologies/detail of issue.md",
+    "COMPSCI235 - Software Development Methodologies/Issue Tracking.md",
     "@images/Pasted image 20231103100621.png",
     "COMPSCI235 - Software Development Methodologies/SQLAlchemy Session.md",
     "conflict-files-obsidian-git.md",
