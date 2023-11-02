@@ -27,3 +27,11 @@ to streamline to process of tracking/reporting/assigning issues
 	- increase productivity of the team
 	- reduce expenses
 All these improves overall quality of [[software development]]
+
+### Issue Life Cycle & States
+![[Pasted image 20231103102903.png]]
+
+## Types of Issues
+- [[Bug reports]]
+- Feature requests
+- Patches

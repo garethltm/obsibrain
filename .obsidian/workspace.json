@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Issue Tracking.md",
+                "file": "COMPSCI235 - Software Development Methodologies/Bug reports.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Issue Tracking.md",
+                "file": "COMPSCI235 - Software Development Methodologies/Bug reports.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Issue Tracking.md",
+                "file": "COMPSCI235 - Software Development Methodologies/Bug reports.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Issue Tracking.md"
+                "file": "COMPSCI235 - Software Development Methodologies/Bug reports.md"
               }
             }
           },
@@ -168,8 +168,10 @@
   },
   "active": "f81b568f787efc04",
   "lastOpenFiles": [
-    "COMPSCI235 - Software Development Methodologies/detail of issue.md",
     "COMPSCI235 - Software Development Methodologies/Issue Tracking.md",
+    "COMPSCI235 - Software Development Methodologies/Bug reports.md",
+    "@images/Pasted image 20231103102903.png",
+    "COMPSCI235 - Software Development Methodologies/detail of issue.md",
     "@images/Pasted image 20231103100621.png",
     "COMPSCI235 - Software Development Methodologies/SQLAlchemy Session.md",
     "conflict-files-obsidian-git.md",
@@ -193,7 +195,6 @@
     "@images/Pasted image 20231102165121.png",
     "@images/Pasted image 20231102164624.png",
     "COMPSCI235 - Software Development Methodologies/One-to-many Relation.md",
-    "@images/Pasted image 20231102164531.png",
     "COMPSCI235 - Software Development Methodologies/ORM & Associations.md",
     "COMPSCI235 - Software Development Methodologies/Repository.md",
     "COMPSCI235 - Software Development Methodologies/Imperative (or Classical) Mapping.md",
