@@ -1,0 +1,3 @@
+- Process of:
+	- capturing
+	- reporti

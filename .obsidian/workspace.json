@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Patches.md",
+                "file": "COMPSCI235 - Software Development Methodologies/Bug Tracking.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Patches.md",
+                "file": "COMPSCI235 - Software Development Methodologies/Bug Tracking.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Patches.md",
+                "file": "COMPSCI235 - Software Development Methodologies/Bug Tracking.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Patches.md"
+                "file": "COMPSCI235 - Software Development Methodologies/Bug Tracking.md"
               }
             }
           },
@@ -168,8 +168,10 @@
   },
   "active": "f81b568f787efc04",
   "lastOpenFiles": [
-    "COMPSCI235 - Software Development Methodologies/Issue Tracking.md",
     "COMPSCI235 - Software Development Methodologies/Patches.md",
+    "COMPSCI235 - Software Development Methodologies/Bug Tracking.md",
+    "@images/Pasted image 20231103111600.png",
+    "COMPSCI235 - Software Development Methodologies/Issue Tracking.md",
     "COMPSCI235 - Software Development Methodologies/Feature requests.md",
     "@images/Pasted image 20231103111356.png",
     "COMPSCI235 - Software Development Methodologies/Bug reports.md",
@@ -195,7 +197,6 @@
     "@images/Pasted image 20231102165944.png",
     "@images/Pasted image 20231102165935.png",
     "COMPSCI235 - Software Development Methodologies/transaction(s).md",
-    "@images/Pasted image 20231102165146.png",
     "COMPSCI235 - Software Development Methodologies/One-to-many Relation.md",
     "COMPSCI235 - Software Development Methodologies/ORM & Associations.md",
     "COMPSCI235 - Software Development Methodologies/Repository.md",
@@ -203,7 +204,6 @@
     "COMPSCI235 - Software Development Methodologies/Object Relation Mapping (ORM).md",
     "COMPSCI235 - Software Development Methodologies/Object-Relational Database Management System (ORDBMS).md",
     "COMPSCI235 - Software Development Methodologies/session.md",
-    "COMPSCI235 - Software Development Methodologies/Single Responsibility Principle (SRP).md",
     "COMPSCI235 - Software Development Methodologies",
     "COMPSCI367 - Artificial Intelligence/finals prep.canvas",
     "COMPSCI367 - Artificial Intelligence/week12",

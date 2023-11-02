@@ -1,3 +1,4 @@
+![[Pasted image 20231103111600.png]]
 typically for security vulnerability
 
 - a fix to the [[software]]
