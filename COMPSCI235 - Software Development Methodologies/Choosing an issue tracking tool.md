@@ -1,0 +1,7 @@
+- Ease of use
+- Customization options
+- Integration capabilities
+- Reporting & analytics
+	- keeping track of bug trends, progress, performance
+- Accessibility & collaboration
+	- tag team members, use mentions to send notifications so that everything is done on the same platform
