@@ -8,4 +8,12 @@
 		- [[Feature requests]]: discuss with colleagues on whether to accommodate the request & implement the feature
 		- [[Patches]]: validate the patch
 - Closed
-	- When
+	- When the decision on the issue is made in any way
+		- Fixed - usually accompanied with code commits
+		- Reject - invalid
+		- Deferred
+- Reopened
+	- After the issue is closed, something happens & the issue becomes active again
+		- incomplete fix
+		- start to implement a postponed feature
+		- revoke any wrong dev
