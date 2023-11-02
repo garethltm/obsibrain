@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/One-to-many Relation.md",
+                "file": "COMPSCI235 - Software Development Methodologies/Many-to-many Relation.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/One-to-many Relation.md",
+                "file": "COMPSCI235 - Software Development Methodologies/Many-to-many Relation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/One-to-many Relation.md",
+                "file": "COMPSCI235 - Software Development Methodologies/Many-to-many Relation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/One-to-many Relation.md"
+                "file": "COMPSCI235 - Software Development Methodologies/Many-to-many Relation.md"
               }
             }
           },
@@ -168,10 +168,12 @@
   },
   "active": "f81b568f787efc04",
   "lastOpenFiles": [
+    "COMPSCI235 - Software Development Methodologies/One-to-many Relation.md",
+    "COMPSCI235 - Software Development Methodologies/Many-to-many Relation.md",
+    "@images/Pasted image 20231102164435.png",
     "@images/Pasted image 20231102164406.png",
     "@images/Pasted image 20231102164309.png",
     "COMPSCI235 - Software Development Methodologies/ORM & Associations.md",
-    "COMPSCI235 - Software Development Methodologies/One-to-many Relation.md",
     "@images/Pasted image 20231102164208.png",
     "COMPSCI235 - Software Development Methodologies/Repository.md",
     "@images/Pasted image 20231102164105.png",
@@ -190,9 +192,7 @@
     "COMPSCI235 - Software Development Methodologies/Object-Oriented Database Management System (OODBMS).md",
     "@images/Pasted image 20231102161727.png",
     "COMPSCI235 - Software Development Methodologies/Object Oriented Databases (OOD).md",
-    "@images/Pasted image 20231102161210.png",
     "COMPSCI235 - Software Development Methodologies/object data model.md",
-    "@images/Pasted image 20231102160612.png",
     "COMPSCI235 - Software Development Methodologies/Object ID (OID).md",
     "COMPSCI235 - Software Development Methodologies/Relationship(s).md",
     "COMPSCI235 - Software Development Methodologies/Impedence.md",
