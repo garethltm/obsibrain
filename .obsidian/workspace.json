@@ -8,27 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "874de3ab24aec93a",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {}
-            }
-          },
-          {
             "id": "f81b568f787efc04",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/SQL Joins.md",
+                "file": "COMPSCI235 - Software Development Methodologies/Untitled.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/SQL Joins.md",
+                "file": "COMPSCI235 - Software Development Methodologies/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/SQL Joins.md",
+                "file": "COMPSCI235 - Software Development Methodologies/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/SQL Joins.md"
+                "file": "COMPSCI235 - Software Development Methodologies/Untitled.md"
               }
             }
           },
@@ -177,9 +168,10 @@
   },
   "active": "f81b568f787efc04",
   "lastOpenFiles": [
+    "COMPSCI235 - Software Development Methodologies/SQL Joins.md",
+    "COMPSCI235 - Software Development Methodologies/Untitled.md",
     "@images/Pasted image 20231102152320.png",
     "COMPSCI235 - Software Development Methodologies/Table Relationships.md",
-    "COMPSCI235 - Software Development Methodologies/SQL Joins.md",
     "@images/Pasted image 20231102152008.png",
     "@images/Pasted image 20231102151932.png",
     "@images/Pasted image 20231102151808.png",
@@ -212,7 +204,6 @@
     "COMPSCI235 - Software Development Methodologies/Relational database.md",
     "COMPSCI235 - Software Development Methodologies/Python's support for abstract base classes.md",
     "COMPSCI235 - Software Development Methodologies/Pytest.md",
-    "@images/Pasted image 20231102132025.png",
     "COMPSCI235 - Software Development Methodologies",
     "COMPSCI367 - Artificial Intelligence/finals prep.canvas",
     "COMPSCI367 - Artificial Intelligence/week12",
