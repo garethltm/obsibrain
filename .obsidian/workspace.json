@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/SQLAlchemy Session.md",
+                "file": "COMPSCI235 - Software Development Methodologies/Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "COMPSCI235 - Software Development Methodologies/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "COMPSCI235 - Software Development Methodologies/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "COMPSCI235 - Software Development Methodologies/Untitled.md"
               }
             }
           },
@@ -164,10 +166,11 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "3ad179677b7fba41",
+  "active": "f81b568f787efc04",
   "lastOpenFiles": [
-    "COMPSCI235 - Software Development Methodologies/SQLAlchemy Session.md",
     "conflict-files-obsidian-git.md",
+    "COMPSCI235 - Software Development Methodologies/Untitled.md",
+    "COMPSCI235 - Software Development Methodologies/SQLAlchemy Session.md",
     "COMPSCI235 - Software Development Methodologies/Issue Tracking.md",
     "COMPSCI235 - Software Development Methodologies/Choosing an issue tracking tool.md",
     "COMPSCI235 - Software Development Methodologies/SQLAlchemy.md",
@@ -201,7 +204,6 @@
     "COMPSCI235 - Software Development Methodologies/Object-Oriented Database Management System (OODBMS).md",
     "COMPSCI235 - Software Development Methodologies/Object Oriented Databases (OOD).md",
     "COMPSCI235 - Software Development Methodologies/object data model.md",
-    "COMPSCI235 - Software Development Methodologies/Object ID (OID).md",
     "COMPSCI235 - Software Development Methodologies",
     "COMPSCI367 - Artificial Intelligence/finals prep.canvas",
     "COMPSCI367 - Artificial Intelligence/week12",
