@@ -16,5 +16,9 @@ A schema represents any kind of structure that we are defining around the data
 >	#Example 
 >	records in a table
 >		{ID, Title} for `Book`
->		{Name, Address, Website} for `Publisher`
-- Candidate Key: A minimal super key is called a candidate key. An entity set may have more than one candidate key
+>		{Name, Address, Website} for `Publisher`![[Pasted image 20231102151242.png]]
+- Candidate Key: A minimal super key is called a candidate key. An entity set may have more than one candidate key.
+>	#Example 
+>	{ID} for `Book`
+>	{Name, Address} for `Publisher`
+>	
