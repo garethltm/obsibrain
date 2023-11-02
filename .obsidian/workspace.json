@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/ORM & Associations.md",
+                "file": "COMPSCI235 - Software Development Methodologies/One-to-many Relation.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/ORM & Associations.md",
+                "file": "COMPSCI235 - Software Development Methodologies/One-to-many Relation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/ORM & Associations.md",
+                "file": "COMPSCI235 - Software Development Methodologies/One-to-many Relation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/ORM & Associations.md"
+                "file": "COMPSCI235 - Software Development Methodologies/One-to-many Relation.md"
               }
             }
           },
@@ -168,9 +168,11 @@
   },
   "active": "f81b568f787efc04",
   "lastOpenFiles": [
+    "@images/Pasted image 20231102164309.png",
+    "COMPSCI235 - Software Development Methodologies/ORM & Associations.md",
+    "COMPSCI235 - Software Development Methodologies/One-to-many Relation.md",
     "@images/Pasted image 20231102164208.png",
     "COMPSCI235 - Software Development Methodologies/Repository.md",
-    "COMPSCI235 - Software Development Methodologies/ORM & Associations.md",
     "@images/Pasted image 20231102164105.png",
     "COMPSCI235 - Software Development Methodologies/Mapping Styles.md",
     "COMPSCI235 - Software Development Methodologies/Imperative (or Classical) Mapping.md",
@@ -193,7 +195,6 @@
     "COMPSCI235 - Software Development Methodologies/Object ID (OID).md",
     "COMPSCI235 - Software Development Methodologies/Relationship(s).md",
     "@images/Pasted image 20231102160128.png",
-    "@images/Pasted image 20231102160053.png",
     "COMPSCI235 - Software Development Methodologies/Impedence.md",
     "COMPSCI235 - Software Development Methodologies/Access control.md",
     "COMPSCI235 - Software Development Methodologies/Persistence.md",
@@ -203,7 +204,6 @@
     "COMPSCI235 - Software Development Methodologies/SQL Joins.md",
     "COMPSCI235 - Software Development Methodologies/Table Relationships.md",
     "COMPSCI235 - Software Development Methodologies/Database schema.md",
-    "COMPSCI235 - Software Development Methodologies/Database instance.md",
     "COMPSCI235 - Software Development Methodologies",
     "COMPSCI367 - Artificial Intelligence/finals prep.canvas",
     "COMPSCI367 - Artificial Intelligence/week12",
