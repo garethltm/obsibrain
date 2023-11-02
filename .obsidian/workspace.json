@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Table Relationships.md",
+                "file": "COMPSCI235 - Software Development Methodologies/SQL Joins.md",
                 "mode": "source",
                 "source": false
               }
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "29204b37fc003a9a",
@@ -95,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Table Relationships.md",
+                "file": "COMPSCI235 - Software Development Methodologies/SQL Joins.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Table Relationships.md",
+                "file": "COMPSCI235 - Software Development Methodologies/SQL Joins.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Table Relationships.md"
+                "file": "COMPSCI235 - Software Development Methodologies/SQL Joins.md"
               }
             }
           },
@@ -178,12 +177,13 @@
   },
   "active": "f81b568f787efc04",
   "lastOpenFiles": [
+    "COMPSCI235 - Software Development Methodologies/Table Relationships.md",
+    "COMPSCI235 - Software Development Methodologies/SQL Joins.md",
     "@images/Pasted image 20231102152008.png",
     "@images/Pasted image 20231102151932.png",
     "@images/Pasted image 20231102151808.png",
     "@images/Pasted image 20231102151726.png",
     "COMPSCI235 - Software Development Methodologies/Database schema.md",
-    "COMPSCI235 - Software Development Methodologies/Table Relationships.md",
     "@images/Pasted image 20231102151242.png",
     "@images/Pasted image 20231102150731.png",
     "@images/Pasted image 20231102150658.png",
@@ -213,7 +213,6 @@
     "COMPSCI235 - Software Development Methodologies/Pytest.md",
     "COMPSCI235 - Software Development Methodologies/process.md",
     "@images/Pasted image 20231102132025.png",
-    "@images/Pasted image 20231101180627.png",
     "COMPSCI235 - Software Development Methodologies",
     "COMPSCI367 - Artificial Intelligence/finals prep.canvas",
     "COMPSCI367 - Artificial Intelligence/week12",
