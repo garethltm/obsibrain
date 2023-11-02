@@ -1,1 +1,3 @@
-- The Session object is the public interface fo
+- The Session object is the public interface for the [[Object Relation Mapping (ORM)]]
+- Establishes all [[COMPSCI235 - Software Development Methodologies/database|database]] conversations through internal explicit [[transaction(s)]]
+	- what a Session does
