@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Object Relation Mapping (ORM).md",
+                "file": "COMPSCI235 - Software Development Methodologies/Single Responsibility Principle (SRP).md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Object Relation Mapping (ORM).md",
+                "file": "COMPSCI235 - Software Development Methodologies/Single Responsibility Principle (SRP).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Object Relation Mapping (ORM).md",
+                "file": "COMPSCI235 - Software Development Methodologies/Single Responsibility Principle (SRP).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Object Relation Mapping (ORM).md"
+                "file": "COMPSCI235 - Software Development Methodologies/Single Responsibility Principle (SRP).md"
               }
             }
           },
@@ -166,12 +166,13 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "f81b568f787efc04",
+  "active": "3ad179677b7fba41",
   "lastOpenFiles": [
-    "COMPSCI235 - Software Development Methodologies/Object Oriented Databases (OOD).md",
-    "COMPSCI235 - Software Development Methodologies/Object Relation Mapping (ORM).md",
-    "COMPSCI235 - Software Development Methodologies/Object-Relational Database Management System (ORDBMS).md",
     "COMPSCI235 - Software Development Methodologies/Object-Oriented Database Management System (OODBMS).md",
+    "COMPSCI235 - Software Development Methodologies/Object-Relational Database Management System (ORDBMS).md",
+    "COMPSCI235 - Software Development Methodologies/Object Relation Mapping (ORM).md",
+    "@images/Pasted image 20231102161727.png",
+    "COMPSCI235 - Software Development Methodologies/Object Oriented Databases (OOD).md",
     "@images/Pasted image 20231102161210.png",
     "COMPSCI235 - Software Development Methodologies/object data model.md",
     "@images/Pasted image 20231102160612.png",
@@ -185,7 +186,6 @@
     "@images/Pasted image 20231102154936.png",
     "COMPSCI235 - Software Development Methodologies/Impedence.md",
     "@images/Pasted image 20231102154414.png",
-    "@images/Pasted image 20231102154328.png",
     "COMPSCI235 - Software Development Methodologies/Access control.md",
     "COMPSCI235 - Software Development Methodologies/Persistence.md",
     "COMPSCI235 - Software Development Methodologies/The 4 P's of Software Development.md",
@@ -203,7 +203,6 @@
     "COMPSCI235 - Software Development Methodologies/Hypertext Transfer Protocol (HTTP).md",
     "COMPSCI367 - Artificial Intelligence/week02/state(s).md",
     "COMPSCI235 - Software Development Methodologies/AGILE.md",
-    "COMPSCI235 - Software Development Methodologies/Dependency Inversion Principle (DIP).md",
     "COMPSCI235 - Software Development Methodologies",
     "COMPSCI367 - Artificial Intelligence/finals prep.canvas",
     "COMPSCI367 - Artificial Intelligence/week12",
