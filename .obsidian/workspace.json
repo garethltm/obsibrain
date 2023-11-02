@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Database schema.md",
+                "file": "COMPSCI235 - Software Development Methodologies/Database instance.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Database schema.md",
+                "file": "COMPSCI235 - Software Development Methodologies/Database instance.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Database schema.md",
+                "file": "COMPSCI235 - Software Development Methodologies/Database instance.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Database schema.md"
+                "file": "COMPSCI235 - Software Development Methodologies/Database instance.md"
               }
             }
           },
@@ -178,9 +178,11 @@
   },
   "active": "f81b568f787efc04",
   "lastOpenFiles": [
+    "COMPSCI235 - Software Development Methodologies/Database schema.md",
+    "COMPSCI235 - Software Development Methodologies/Database instance.md",
+    "@images/Pasted image 20231102140555.png",
     "@images/Pasted image 20231102140522.png",
     "COMPSCI235 - Software Development Methodologies/Acceptance Testing.md",
-    "COMPSCI235 - Software Development Methodologies/Database schema.md",
     "COMPSCI235 - Software Development Methodologies/Hypertext Transfer Protocol (HTTP).md",
     "COMPSCI367 - Artificial Intelligence/week02/state(s).md",
     "COMPSCI235 - Software Development Methodologies/AGILE.md",
@@ -212,8 +214,6 @@
     "@images/Pasted image 20231101171849.png",
     "@images/Pasted image 20231101171445.png",
     "@images/Pasted image 20231101181925.png",
-    "@images/Pasted image 20231101224730.png",
-    "@images/Pasted image 20231101232250.png",
     "COMPSCI235 - Software Development Methodologies",
     "COMPSCI367 - Artificial Intelligence/finals prep.canvas",
     "COMPSCI367 - Artificial Intelligence/week12",
