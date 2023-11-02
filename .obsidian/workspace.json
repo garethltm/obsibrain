@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/AGILE.md",
+                "file": "COMPSCI235 - Software Development Methodologies/Composition.md",
                 "mode": "source",
                 "source": false
               }
@@ -57,7 +57,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "service",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/AGILE.md",
+                "file": "COMPSCI235 - Software Development Methodologies/Composition.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/AGILE.md",
+                "file": "COMPSCI235 - Software Development Methodologies/Composition.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/AGILE.md"
+                "file": "COMPSCI235 - Software Development Methodologies/Composition.md"
               }
             }
           },
@@ -175,8 +175,15 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "df54043e914f1e1e",
+  "active": "3ad179677b7fba41",
   "lastOpenFiles": [
+    "COMPSCI235 - Software Development Methodologies/Communication.md",
+    "COMPSCI235 - Software Development Methodologies/Combating CSRF.md",
+    "COMPSCI235 - Software Development Methodologies/Classes.md",
+    "COMPSCI235 - Software Development Methodologies/Cascading Style Sheets (CSS).md",
+    "COMPSCI235 - Software Development Methodologies/Class selectors.md",
+    "COMPSCI235 - Software Development Methodologies/Hypertext Transfer Protocol (HTTP).md",
+    "COMPSCI235 - Software Development Methodologies/AGILE.md",
     "COMPSCI235 - Software Development Methodologies/Aggregation.md",
     "COMPSCI235 - Software Development Methodologies/ACID.md",
     "COMPSCI235 - Software Development Methodologies/Accessibility.md",
@@ -196,13 +203,6 @@
     "COMPSCI235 - Software Development Methodologies/design(s).md",
     "COMPSCI235 - Software Development Methodologies/Distributed VCS.md",
     "COMPSCI235 - Software Development Methodologies/fault-tolerance.md",
-    "COMPSCI235 - Software Development Methodologies/Flask.md",
-    "COMPSCI235 - Software Development Methodologies/Flask Blueprint.md",
-    "COMPSCI235 - Software Development Methodologies/Gray Box Testing.md",
-    "COMPSCI235 - Software Development Methodologies/Generic Software Development Process Framework.md",
-    "COMPSCI235 - Software Development Methodologies/Flask Configuration.md",
-    "COMPSCI235 - Software Development Methodologies/Heterogeneous.md",
-    "COMPSCI235 - Software Development Methodologies/Handling requests.md",
     "@images/Pasted image 20231102132025.png",
     "@images/Pasted image 20231101180627.png",
     "@images/Pasted image 20231101172223.png",
