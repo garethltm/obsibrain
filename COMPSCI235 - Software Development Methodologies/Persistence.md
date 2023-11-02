@@ -17,4 +17,4 @@ In Python, we can use `Pickle` library
 		- Not effective: file doesn't conform to the [[ACID]] properties
 
 [[COMPSCI235 - Software Development Methodologies/database|database]] storage via a [[Relational DBMS (RDBMS)]]:![[Pasted image 20231102153859.png]]
-- Client-server applications with concurrent (parall)
+- Client-server applications with concurrent (parallel) read/write access of different clients (users)use a [[COMPSCI235 - Software Development Methodologies/database|database]] approach

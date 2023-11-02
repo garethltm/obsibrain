@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Persistence.md",
+                "file": "COMPSCI235 - Software Development Methodologies/Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "29204b37fc003a9a",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Persistence.md",
+                "file": "COMPSCI235 - Software Development Methodologies/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Persistence.md",
+                "file": "COMPSCI235 - Software Development Methodologies/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Persistence.md"
+                "file": "COMPSCI235 - Software Development Methodologies/Untitled.md"
               }
             }
           },
@@ -169,12 +168,14 @@
   },
   "active": "f81b568f787efc04",
   "lastOpenFiles": [
+    "COMPSCI235 - Software Development Methodologies/Access control.md",
+    "COMPSCI235 - Software Development Methodologies/Untitled.md",
+    "COMPSCI235 - Software Development Methodologies/Persistence.md",
     "@images/Pasted image 20231102153859.png",
     "@images/Pasted image 20231102153010.png",
     "COMPSCI235 - Software Development Methodologies/The 4 P's of Software Development.md",
     "COMPSCI235 - Software Development Methodologies/ACID.md",
     "COMPSCI235 - Software Development Methodologies/Aggregation.md",
-    "COMPSCI235 - Software Development Methodologies/Persistence.md",
     "COMPSCI235 - Software Development Methodologies/SQL Joins.md",
     "@images/Pasted image 20231102152320.png",
     "COMPSCI235 - Software Development Methodologies/Table Relationships.md",
@@ -191,7 +192,6 @@
     "COMPSCI235 - Software Development Methodologies/Data Query Language (DQL).md",
     "COMPSCI235 - Software Development Methodologies/Data Definition Language (DDL).md",
     "COMPSCI235 - Software Development Methodologies/Data Manipulation Language (DML).md",
-    "@images/Pasted image 20231102140555.png",
     "COMPSCI235 - Software Development Methodologies/Acceptance Testing.md",
     "COMPSCI235 - Software Development Methodologies/Hypertext Transfer Protocol (HTTP).md",
     "COMPSCI367 - Artificial Intelligence/week02/state(s).md",
@@ -204,7 +204,6 @@
     "COMPSCI235 - Software Development Methodologies/Relationships.md",
     "COMPSCI235 - Software Development Methodologies/Repository.md",
     "COMPSCI235 - Software Development Methodologies/released product.md",
-    "COMPSCI235 - Software Development Methodologies/Relational DBMS (RDBMS).md",
     "COMPSCI235 - Software Development Methodologies",
     "COMPSCI367 - Artificial Intelligence/finals prep.canvas",
     "COMPSCI367 - Artificial Intelligence/week12",
