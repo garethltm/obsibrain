@@ -16,7 +16,9 @@ The [[object data model]] is the basis of [[Object-Oriented Database Management 
 2. class hierarchies, inheritance
 3. no impedance mismatch
 4. no need for primary keys
-5. no need for query language ([[s
-6. 
+5. no need for query language ([[SQL]]), use of one programming language
+6. high performance for tasks fitting the "navigational" class hierarchy
+	- 1 class references another class
+		- a graph of interconnected objects
 
 Related to: [[COMPSCI235 - Software Development Methodologies/Relational database|Relational database]], [[Object ID (OID)]]
