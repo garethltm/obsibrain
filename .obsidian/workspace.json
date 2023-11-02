@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Bug reports.md",
+                "file": "COMPSCI235 - Software Development Methodologies/Bug Tracking.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "type of  tracking",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Bug reports.md",
+                "file": "COMPSCI235 - Software Development Methodologies/Bug Tracking.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Bug reports.md",
+                "file": "COMPSCI235 - Software Development Methodologies/Bug Tracking.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Bug reports.md"
+                "file": "COMPSCI235 - Software Development Methodologies/Bug Tracking.md"
               }
             }
           },
@@ -168,16 +169,16 @@
   },
   "active": "f81b568f787efc04",
   "lastOpenFiles": [
+    "COMPSCI235 - Software Development Methodologies/Issue Tracking.md",
     "COMPSCI235 - Software Development Methodologies/Bug Tracking.md",
+    "COMPSCI235 - Software Development Methodologies/detail of issue.md",
+    "COMPSCI235 - Software Development Methodologies/Bug reports.md",
     "COMPSCI235 - Software Development Methodologies/Patches.md",
     "@images/Pasted image 20231103111600.png",
-    "COMPSCI235 - Software Development Methodologies/Issue Tracking.md",
     "COMPSCI235 - Software Development Methodologies/Feature requests.md",
     "@images/Pasted image 20231103111356.png",
-    "COMPSCI235 - Software Development Methodologies/Bug reports.md",
     "@images/Pasted image 20231103103119.png",
     "@images/Pasted image 20231103102903.png",
-    "COMPSCI235 - Software Development Methodologies/detail of issue.md",
     "@images/Pasted image 20231103100621.png",
     "COMPSCI235 - Software Development Methodologies/SQLAlchemy Session.md",
     "conflict-files-obsidian-git.md",
