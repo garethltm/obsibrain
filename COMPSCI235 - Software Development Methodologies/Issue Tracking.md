@@ -10,4 +10,11 @@ Team member register & raise issues
 	- such that people can easy reproduce the bug/issue
 - other team members can comment & work collaboratively towards resolving the issue raised
 
-### Why do we need an issue tra
+### Why do we need an issue tracking tool?
+to streamline to process of tracking/
+- provides structure to describe issues
+	- components
+	- assignees
+	- schedules
+	- status
+	- Customizable per context
