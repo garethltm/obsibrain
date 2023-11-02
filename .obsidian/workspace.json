@@ -16,11 +16,15 @@
             }
           },
           {
-            "id": "814adb180f9a25bc",
+            "id": "f81b568f787efc04",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "COMPSCI235 - Software Development Methodologies/Hypertext Transfer Protocol (HTTP).md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -74,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "29204b37fc003a9a",
@@ -91,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "COMPSCI235 - Software Development Methodologies/Hypertext Transfer Protocol (HTTP).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,6 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "COMPSCI235 - Software Development Methodologies/Hypertext Transfer Protocol (HTTP).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +133,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "COMPSCI235 - Software Development Methodologies/Hypertext Transfer Protocol (HTTP).md"
+              }
             }
           },
           {
@@ -168,8 +175,9 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "814adb180f9a25bc",
+  "active": "f81b568f787efc04",
   "lastOpenFiles": [
+    "COMPSCI367 - Artificial Intelligence/week02/state(s).md",
     "COMPSCI235 - Software Development Methodologies/AGILE.md",
     "COMPSCI235 - Software Development Methodologies/Aggregation.md",
     "COMPSCI235 - Software Development Methodologies/Acceptance Testing.md",
@@ -195,7 +203,6 @@
     "COMPSCI235 - Software Development Methodologies/model.md",
     "COMPSCI235 - Software Development Methodologies/Modeling (Analyze, Design).md",
     "COMPSCI235 - Software Development Methodologies/Modern software systems.md",
-    "COMPSCI235 - Software Development Methodologies/Monolithic.md",
     "@images/Pasted image 20231102132025.png",
     "@images/Pasted image 20231101180627.png",
     "@images/Pasted image 20231101172223.png",
