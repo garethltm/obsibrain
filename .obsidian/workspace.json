@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Mapping Styles.md",
+                "file": "COMPSCI235 - Software Development Methodologies/Repository.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Mapping Styles.md",
+                "file": "COMPSCI235 - Software Development Methodologies/Repository.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Mapping Styles.md",
+                "file": "COMPSCI235 - Software Development Methodologies/Repository.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Mapping Styles.md"
+                "file": "COMPSCI235 - Software Development Methodologies/Repository.md"
               }
             }
           },
@@ -168,9 +168,11 @@
   },
   "active": "f81b568f787efc04",
   "lastOpenFiles": [
+    "COMPSCI235 - Software Development Methodologies/Mapping Styles.md",
+    "COMPSCI235 - Software Development Methodologies/Imperative (or Classical) Mapping.md",
+    "@images/Pasted image 20231102163934.png",
     "COMPSCI235 - Software Development Methodologies/Declarative Mapping.md",
     "@images/Pasted image 20231102163841.png",
-    "COMPSCI235 - Software Development Methodologies/Mapping Styles.md",
     "@images/Pasted image 20231102163831.png",
     "COMPSCI235 - Software Development Methodologies/SQLAlchemy.md",
     "COMPSCI235 - Software Development Methodologies/Object Relation Mapping (ORM).md",
@@ -189,7 +191,6 @@
     "@images/Pasted image 20231102160128.png",
     "@images/Pasted image 20231102160053.png",
     "@images/Pasted image 20231102155442.png",
-    "@images/Pasted image 20231102155334.png",
     "COMPSCI235 - Software Development Methodologies/Impedence.md",
     "COMPSCI235 - Software Development Methodologies/Access control.md",
     "COMPSCI235 - Software Development Methodologies/Persistence.md",
@@ -202,7 +203,6 @@
     "COMPSCI235 - Software Development Methodologies/Database instance.md",
     "COMPSCI235 - Software Development Methodologies/Languages.md",
     "COMPSCI235 - Software Development Methodologies/Data Query Language (DQL).md",
-    "COMPSCI235 - Software Development Methodologies/Data Definition Language (DDL).md",
     "COMPSCI235 - Software Development Methodologies",
     "COMPSCI367 - Artificial Intelligence/finals prep.canvas",
     "COMPSCI367 - Artificial Intelligence/week12",
