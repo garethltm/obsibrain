@@ -5,5 +5,7 @@ The object relational model offers some of the advantages of both the relational
 
 Has the commercial advantage of being supported by some of the major [[Relational DBMS (RDBMS)]] vendors
 >	#Example 
->	Orac
+>	Oracle, also PostgreSQL
+
+An [[Object-Relational Database Management System (ORDBMS)]] is sometimes referred to as a hybrid [[COMPSCI235 - Software Development Methodologies/Database Management System (DBMS)|Database Management System (DBMS)]]
 ![[Pasted image 20231102161210.png]]
