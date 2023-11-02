@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Untitled.md",
+                "file": "COMPSCI235 - Software Development Methodologies/Data Manipulation Language (DML).md",
                 "mode": "source",
                 "source": false
               }
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "29204b37fc003a9a",
@@ -94,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Untitled.md",
+                "file": "COMPSCI235 - Software Development Methodologies/Data Manipulation Language (DML).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Untitled.md",
+                "file": "COMPSCI235 - Software Development Methodologies/Data Manipulation Language (DML).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Untitled.md"
+                "file": "COMPSCI235 - Software Development Methodologies/Data Manipulation Language (DML).md"
               }
             }
           },
@@ -178,7 +179,7 @@
   "active": "f81b568f787efc04",
   "lastOpenFiles": [
     "COMPSCI235 - Software Development Methodologies/Data Definition Language (DDL).md",
-    "COMPSCI235 - Software Development Methodologies/Untitled.md",
+    "COMPSCI235 - Software Development Methodologies/Data Manipulation Language (DML).md",
     "COMPSCI235 - Software Development Methodologies/Languages.md",
     "COMPSCI235 - Software Development Methodologies/Database instance.md",
     "COMPSCI235 - Software Development Methodologies/Database schema.md",
