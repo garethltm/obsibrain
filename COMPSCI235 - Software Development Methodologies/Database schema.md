@@ -14,4 +14,7 @@ A schema represents any kind of structure that we are defining around the data
 #### Special keys in a table
 - Super Key: A set of [[Attribute(s)]] (1 or more columns) that collectively identify an [[Entity]] in an entity set
 >	#Example 
->	
+>	records in a table
+>		{ID, Title} for `Book`
+>		{Name, Address, Website} for `Publisher`
+- Candidate Key: A minimal super key is called a candidate key. An entity set may have more than one candidate ke
