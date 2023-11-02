@@ -16,3 +16,9 @@ Java:
 
 C++:
 - `CMake`
+
+Building tasks in motion, from building [[software]] to deploying it
+![[Pasted image 20231103120001.png]]
+
+Ultimate goal:
+- Anyone
