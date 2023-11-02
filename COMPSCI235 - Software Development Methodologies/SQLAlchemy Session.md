@@ -9,5 +9,6 @@
 	- holding zones are placeholders where the [[Object Relation Mapping (ORM)]] fetches table rows & places them into [[SQLAlchemy Session]] object
 - Unit of Work:
 	- lazily flushes (when you commit an optimisation feature) only those rows/columns that have changed, ordering them to maintain consistency
+- Objects, when associated with a Session are proxies for rows, re
 
 ![[Pasted image 20231102165146.png]]
