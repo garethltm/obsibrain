@@ -14,15 +14,18 @@
 			- a feature is added
 			- a patch is applied
 		- Reject - invalid
-			-  bug cannot be reproduced
+			- bug cannot be reproduced
 			- feature does not make sense
 			- request may not be understandable
 			- patch is not correct
+				- Won't fix (Rejected)
+					- the developers decide not to fix the bug/implement the new feature
+					- limited human resources, or new version is about to be released
 		- Duplicate
 			- the issue is a duplicate of an existing issue
 			- Often happens for a user raised issues
 			- Usually a [[Bug reports]]/[[Feature requests]]
-			- sometimes [[Issue Tracking]] systems will allow merge 
+			- sometimes [[Issue Tracking]] systems will allow merge duplicate issues
 		- Deferred
 	- Invalid (Rejected)
 
