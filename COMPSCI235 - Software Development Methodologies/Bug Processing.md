@@ -16,4 +16,13 @@
 	- After the issue is closed, something happens & the issue becomes active again
 		- incomplete fix
 		- start to implement a postponed feature
-		- revoke any wrong dev
+		- revoke any wrong decision taken earlier
+- Fixed
+	- a bug is fixed
+	- a feature is added
+	- a patch is applied
+- Invalid (Rejected)
+	- bug cannot be reproduced
+	- feature does not make sense
+		- request may not be understandable
+	- patc
