@@ -16,3 +16,6 @@ Shown using solid connector lines
 >	"Books & authors"
 >![[Pasted image 20231102151808.png]]
 
+- [[Relationships]] are implemented using Foreign Keys
+- The Foreign Key is a constraint
+	- makes sure that a value in one relation MUST appear in another relation
