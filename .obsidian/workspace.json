@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Issue Tracking.md",
+                "file": "COMPSCI235 - Software Development Methodologies/detail of issue.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Issue Tracking.md",
+                "file": "COMPSCI235 - Software Development Methodologies/detail of issue.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Issue Tracking.md",
+                "file": "COMPSCI235 - Software Development Methodologies/detail of issue.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Issue Tracking.md"
+                "file": "COMPSCI235 - Software Development Methodologies/detail of issue.md"
               }
             }
           },
@@ -168,11 +168,11 @@
   },
   "active": "f81b568f787efc04",
   "lastOpenFiles": [
+    "COMPSCI235 - Software Development Methodologies/Issue Tracking.md",
+    "COMPSCI235 - Software Development Methodologies/detail of issue.md",
     "@images/Pasted image 20231103100621.png",
     "COMPSCI235 - Software Development Methodologies/SQLAlchemy Session.md",
-    "COMPSCI235 - Software Development Methodologies/Untitled.md",
     "conflict-files-obsidian-git.md",
-    "COMPSCI235 - Software Development Methodologies/Issue Tracking.md",
     "COMPSCI235 - Software Development Methodologies/Choosing an issue tracking tool.md",
     "COMPSCI235 - Software Development Methodologies/SQLAlchemy.md",
     "COMPSCI235 - Software Development Methodologies/Pending.md",
@@ -194,7 +194,6 @@
     "@images/Pasted image 20231102164624.png",
     "COMPSCI235 - Software Development Methodologies/One-to-many Relation.md",
     "@images/Pasted image 20231102164531.png",
-    "@images/Pasted image 20231102164435.png",
     "COMPSCI235 - Software Development Methodologies/ORM & Associations.md",
     "COMPSCI235 - Software Development Methodologies/Repository.md",
     "COMPSCI235 - Software Development Methodologies/Imperative (or Classical) Mapping.md",
