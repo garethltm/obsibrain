@@ -1,0 +1,4 @@
+One of the most critical tasks [[software]] applications must perform is to save & restore data
+
+[[Persistence]] is the storage of data from working memory so that it can be restored when the application is running again
+

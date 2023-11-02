@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/ACID.md",
+                "file": "COMPSCI235 - Software Development Methodologies/Persistence.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "29204b37fc003a9a",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/ACID.md",
+                "file": "COMPSCI235 - Software Development Methodologies/Persistence.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/ACID.md",
+                "file": "COMPSCI235 - Software Development Methodologies/Persistence.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/ACID.md"
+                "file": "COMPSCI235 - Software Development Methodologies/Persistence.md"
               }
             }
           },
@@ -166,8 +167,9 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "3ad179677b7fba41",
+  "active": "f81b568f787efc04",
   "lastOpenFiles": [
+    "COMPSCI235 - Software Development Methodologies/ACID.md",
     "COMPSCI235 - Software Development Methodologies/Persistence.md",
     "COMPSCI235 - Software Development Methodologies/SQL Joins.md",
     "@images/Pasted image 20231102152320.png",
@@ -203,7 +205,6 @@
     "COMPSCI235 - Software Development Methodologies/Relational DBMS (RDBMS).md",
     "COMPSCI235 - Software Development Methodologies/Relational database.md",
     "COMPSCI235 - Software Development Methodologies/Python's support for abstract base classes.md",
-    "COMPSCI235 - Software Development Methodologies/Pytest.md",
     "COMPSCI235 - Software Development Methodologies",
     "COMPSCI367 - Artificial Intelligence/finals prep.canvas",
     "COMPSCI367 - Artificial Intelligence/week12",
