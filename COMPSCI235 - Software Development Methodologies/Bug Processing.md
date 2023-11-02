@@ -10,17 +10,20 @@
 - Closed
 	- When the decision on the issue is made in any way
 		- Fixed - usually accompanied with code commits
+			- a bug is fixed
+			- a feature is added
+			- a patch is applied
 		- Reject - invalid
-		- Deferred
-	- Fixed
-		- a bug is fixed
-		- a feature is added
-		- a patch is applied
-	- Invalid (Rejected)
-		- bug cannot be reproduced
-		- feature does not make sense
+			-  bug cannot be reproduced
+			- feature does not make sense
 			- request may not be understandable
-		- patch is not correct
+			- patch is not correct
+		- Duplicate
+			- the issue is a duplicate of an existing issue
+			- 
+		- Deferred
+	- Invalid (Rejected)
+
 	- 
 - Reopened
 	- After the issue is closed, something happens & the issue becomes active again
