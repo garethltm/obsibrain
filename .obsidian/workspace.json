@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Pending.md",
+                "file": "COMPSCI235 - Software Development Methodologies/SQLAlchemy Session.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Pending.md",
+                "file": "COMPSCI235 - Software Development Methodologies/SQLAlchemy Session.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Pending.md",
+                "file": "COMPSCI235 - Software Development Methodologies/SQLAlchemy Session.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Pending.md"
+                "file": "COMPSCI235 - Software Development Methodologies/SQLAlchemy Session.md"
               }
             }
           },
@@ -168,13 +168,14 @@
   },
   "active": "f81b568f787efc04",
   "lastOpenFiles": [
+    "COMPSCI235 - Software Development Methodologies/SQLAlchemy.md",
+    "COMPSCI235 - Software Development Methodologies/SQLAlchemy Session.md",
+    "COMPSCI235 - Software Development Methodologies/Pending.md",
     "@images/Pasted image 20231102171212.png",
     "COMPSCI235 - Software Development Methodologies/Transient.md",
     "@images/Pasted image 20231102171056.png",
     "COMPSCI235 - Software Development Methodologies/Persistent.md",
     "COMPSCI235 - Software Development Methodologies/Expired.md",
-    "COMPSCI235 - Software Development Methodologies/Pending.md",
-    "COMPSCI235 - Software Development Methodologies/SQLAlchemy Session.md",
     "@images/Pasted image 20231102170744.png",
     "COMPSCI235 - Software Development Methodologies/Many-to-many Relation.md",
     "COMPSCI235 - Software Development Methodologies/Flushing.md",
@@ -189,11 +190,9 @@
     "COMPSCI235 - Software Development Methodologies/One-to-many Relation.md",
     "@images/Pasted image 20231102164531.png",
     "@images/Pasted image 20231102164435.png",
-    "@images/Pasted image 20231102164406.png",
     "COMPSCI235 - Software Development Methodologies/ORM & Associations.md",
     "COMPSCI235 - Software Development Methodologies/Repository.md",
     "COMPSCI235 - Software Development Methodologies/Imperative (or Classical) Mapping.md",
-    "COMPSCI235 - Software Development Methodologies/SQLAlchemy.md",
     "COMPSCI235 - Software Development Methodologies/Object Relation Mapping (ORM).md",
     "COMPSCI235 - Software Development Methodologies/Object-Relational Database Management System (ORDBMS).md",
     "COMPSCI235 - Software Development Methodologies/session.md",
