@@ -1,0 +1,1 @@
+A [[database instance]] is a state of operational 
