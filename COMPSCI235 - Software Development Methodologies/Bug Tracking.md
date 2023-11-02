@@ -12,8 +12,8 @@ These are all critical to the [[software development]] life cycle
 ### System
 - is a software application that keeps track of reported [[software]] bugs in [[software development]]
 - is regarded as a type of [[issue tracking]] system
-- allows developers/end-users to enter bug reports
+- allows developers/end-users to enter [[bug reports]]
 - is typically integrated with other project management software
-- consistent use of a bug/issue tracking system is **considered important** for the development of high-quality [[software]]
+- consistent use of a bug/[[issue tracking]] system is **considered important** for the development of high-quality [[software]]
 
 Related to: [[Issue Tracking]]

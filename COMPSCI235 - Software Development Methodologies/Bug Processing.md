@@ -1,0 +1,5 @@
+- Open/New
+	- bug issue was raised
+	- nobody in the project has looked at it yet
+- Assigned
+	- a
