@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/SQLAlchemy.md",
+                "file": "COMPSCI235 - Software Development Methodologies/Mapping Styles.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "29204b37fc003a9a",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/SQLAlchemy.md",
+                "file": "COMPSCI235 - Software Development Methodologies/Mapping Styles.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/SQLAlchemy.md",
+                "file": "COMPSCI235 - Software Development Methodologies/Mapping Styles.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/SQLAlchemy.md"
+                "file": "COMPSCI235 - Software Development Methodologies/Mapping Styles.md"
               }
             }
           },
@@ -169,8 +168,9 @@
   },
   "active": "f81b568f787efc04",
   "lastOpenFiles": [
-    "COMPSCI235 - Software Development Methodologies/Object Relation Mapping (ORM).md",
     "COMPSCI235 - Software Development Methodologies/SQLAlchemy.md",
+    "COMPSCI235 - Software Development Methodologies/Mapping Styles.md",
+    "COMPSCI235 - Software Development Methodologies/Object Relation Mapping (ORM).md",
     "COMPSCI235 - Software Development Methodologies/Object-Relational Database Management System (ORDBMS).md",
     "COMPSCI235 - Software Development Methodologies/session.md",
     "@images/Pasted image 20231102162306.png",
@@ -204,7 +204,6 @@
     "COMPSCI235 - Software Development Methodologies/Data Definition Language (DDL).md",
     "COMPSCI235 - Software Development Methodologies/Data Manipulation Language (DML).md",
     "COMPSCI235 - Software Development Methodologies/Acceptance Testing.md",
-    "COMPSCI235 - Software Development Methodologies/Hypertext Transfer Protocol (HTTP).md",
     "COMPSCI235 - Software Development Methodologies",
     "COMPSCI367 - Artificial Intelligence/finals prep.canvas",
     "COMPSCI367 - Artificial Intelligence/week12",

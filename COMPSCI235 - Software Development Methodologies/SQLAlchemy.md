@@ -8,4 +8,4 @@ It provides a high-level, Pythonic interface to [[COMPSCI235 - Software Developm
 
 To use the [[SQLAlchemy]] [[Object Relation Mapping (ORM)]], we need to specify a mapping between our domain model classes & tables in the [[Relational DBMS (RDBMS)]]
 
-Once the mapping has been defined
+Once the mapping has been defined, we can then read & write our domain model objects to the [[COMPSCI235 - Software Development Methodologies/database|database]] using the [[SQLAlchemy]] provided [[Object Relation Mapping (ORM)]] API
