@@ -1,0 +1,6 @@
+- Ease of use
+- Customization options
+- Integration capabilities
+- Reporting & analytics
+	- keeping track ofbug trends, progress, performance
+- Accessibility & collaboration
