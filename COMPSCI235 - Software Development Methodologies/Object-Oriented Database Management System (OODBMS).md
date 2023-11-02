@@ -1,1 +1,1 @@
-- Use an object data model like those used by object-oriented programm
+- Use an [[object data model]] like those used by object-oriented programming languages![[Pasted image 20231102154936.png]]
