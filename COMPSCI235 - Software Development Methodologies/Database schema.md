@@ -11,4 +11,7 @@ A schema represents any kind of structure that we are defining around the data
 ### KEYS in [[INFOSYS222 - Database Systems/Database Management System (DBMS)|Database Management System (DBMS)]]
 - this is an [[Attribute(s)]] (column) or set of [[Attribute(s)]] (columns), which help you to uniquely identify row (tuple) in table (relation).
 
-
+#### Special keys in a table
+- Super Key: A set of [[Attribute(s)]] (1 or more columns) that collectively identify an [[Entity]] in an entity set
+>	#Example 
+>	
