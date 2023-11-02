@@ -12,11 +12,11 @@
 ![[Pasted image 20231102165146.png]]
 
 - Objects, when associated with a [[SQLAlchemy Session]] are proxies for rows, represented uniquely on primary key identity
-	- Identity Mapping pattern, a dictionary in practice
+	- Identity Mapping pattern, a dictionary in practice (similar to [[Session cookie]])
 >	#Example 
 >	Dictionary:
 >	PrimaryKey, Value: Reference to object in memory
-- Changes to objects maintained by Session are tracked
+- Changes to objects maintained by [[SQLAlchemy Session]] are tracked
 	- We have to frequently push out changes of objects to the [[COMPSCI235 - Software Development Methodologies/database|database]]
 		- Before we do a query
 			- So that we get the latest data from the [[COMPSCI235 - Software Development Methodologies/database|database]]
