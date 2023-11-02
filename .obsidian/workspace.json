@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Untitled.md",
+                "file": "COMPSCI235 - Software Development Methodologies/ACID.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Untitled.md",
+                "file": "COMPSCI235 - Software Development Methodologies/ACID.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Untitled.md",
+                "file": "COMPSCI235 - Software Development Methodologies/ACID.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Untitled.md"
+                "file": "COMPSCI235 - Software Development Methodologies/ACID.md"
               }
             }
           },
@@ -166,10 +166,10 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "f81b568f787efc04",
+  "active": "3ad179677b7fba41",
   "lastOpenFiles": [
+    "COMPSCI235 - Software Development Methodologies/Persistence.md",
     "COMPSCI235 - Software Development Methodologies/SQL Joins.md",
-    "COMPSCI235 - Software Development Methodologies/Untitled.md",
     "@images/Pasted image 20231102152320.png",
     "COMPSCI235 - Software Development Methodologies/Table Relationships.md",
     "@images/Pasted image 20231102152008.png",
