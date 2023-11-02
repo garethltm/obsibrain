@@ -11,4 +11,12 @@ The [[object data model]] is the basis of [[Object-Oriented Database Management 
 - Class at "many" end of the [[Relationship(s)]] must hold [[Object ID (OID)]] of parent
 - Direct extension to "many-to-many" (sets in both)![[Pasted image 20231102160612.png]]
 
+## Advantages
+1. complex objects & relationships
+2. class hierarchies, inheritance
+3. no impedance mismatch
+4. no need for primary keys
+5. no need for query language ([[s
+6. 
+
 Related to: [[COMPSCI235 - Software Development Methodologies/Relational database|Relational database]], [[Object ID (OID)]]
