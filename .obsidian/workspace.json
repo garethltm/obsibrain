@@ -16,15 +16,11 @@
             }
           },
           {
-            "id": "df54043e914f1e1e",
+            "id": "814adb180f9a25bc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/AGILE.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ],
@@ -78,7 +74,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "29204b37fc003a9a",
@@ -94,7 +91,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/AGILE.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +107,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/AGILE.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,9 +128,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/AGILE.md"
-              }
+              "state": {}
             }
           },
           {
@@ -175,8 +168,9 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "df54043e914f1e1e",
+  "active": "814adb180f9a25bc",
   "lastOpenFiles": [
+    "COMPSCI235 - Software Development Methodologies/AGILE.md",
     "COMPSCI235 - Software Development Methodologies/Aggregation.md",
     "COMPSCI235 - Software Development Methodologies/Acceptance Testing.md",
     "COMPSCI235 - Software Development Methodologies/Dependency Inversion Principle (DIP).md",
@@ -202,7 +196,6 @@
     "COMPSCI235 - Software Development Methodologies/Modeling (Analyze, Design).md",
     "COMPSCI235 - Software Development Methodologies/Modern software systems.md",
     "COMPSCI235 - Software Development Methodologies/Monolithic.md",
-    "COMPSCI235 - Software Development Methodologies/Middleware.md",
     "@images/Pasted image 20231102132025.png",
     "@images/Pasted image 20231101180627.png",
     "@images/Pasted image 20231101172223.png",
