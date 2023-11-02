@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Software Build.md",
+                "file": "COMPSCI235 - Software Development Methodologies/Automated Build.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Software Build.md",
+                "file": "COMPSCI235 - Software Development Methodologies/Automated Build.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Software Build.md",
+                "file": "COMPSCI235 - Software Development Methodologies/Automated Build.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Software Build.md"
+                "file": "COMPSCI235 - Software Development Methodologies/Automated Build.md"
               }
             }
           },
@@ -168,8 +168,8 @@
   },
   "active": "f81b568f787efc04",
   "lastOpenFiles": [
-    "COMPSCI235 - Software Development Methodologies/Automated Builds.md",
     "COMPSCI235 - Software Development Methodologies/Software Build.md",
+    "COMPSCI235 - Software Development Methodologies/Automated Build.md",
     "COMPSCI235 - Software Development Methodologies/Bug Processing.md",
     "@images/Pasted image 20231103112625.png",
     "COMPSCI235 - Software Development Methodologies/triager.md",
