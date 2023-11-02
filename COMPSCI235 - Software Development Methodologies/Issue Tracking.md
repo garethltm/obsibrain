@@ -11,10 +11,17 @@ Team member register & raise issues
 - other team members can comment & work collaboratively towards resolving the issue raised
 
 ### Why do we need an issue tracking tool?
-to streamline to process of tracking/
+to streamline to process of tracking/reporting/assigning issues
 - provides structure to describe issues
 	- components
+		- huge project may have different components
 	- assignees
 	- schedules
 	- status
 	- Customizable per context
+- ensure requests accountability
+	- change contents while progress is made
+>	#Example 
+>	status, resolution
+- improve communication in the team & to customers
+	- increase
