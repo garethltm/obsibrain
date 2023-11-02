@@ -7,5 +7,11 @@ Translate between domain object & table row![[Pasted image 20231102162306.png]]
 - Selected objects are initially marked as being persistent, after that changes in those objects are transparently synchronized with the [[COMPSCI235 - Software Development Methodologies/database|database]] without or with minimal explicit code being written
 	- concept of [[session]]
 - Framework handles the mapping of objects to the [[COMPSCI235 - Software Development Methodologies/Relational database|Relational database]] tables, where data from the objects are actually being stored
-- One wa
+- One way of mapping through XML descriptor files
+>	#Example 
+>	Java Hibernate
+
+- Python [[SQLalchemy]] uses explicit mapping code in Python
+	- Mapper
+		- what class maps to what table in [[data]]
 ![[Pasted image 20231102161727.png]]
