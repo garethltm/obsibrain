@@ -4,4 +4,6 @@
 - "Holding zone" for objects during the Session's lifespan
 	- maintains an active reference to the set of all mapped entities which are present in memory
 		- why it is done
-- 
+- The session objects are proxies for table rows
+	- holding zones are placeholders where the [[Object Relation Mapping (ORM)]] fetches table rows & places them into [[SQLAlchemy Session]] object
+- Unit of Work:
