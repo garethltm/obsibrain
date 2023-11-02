@@ -1,0 +1,1 @@
+- a person that assigns an issue to a developer(s)

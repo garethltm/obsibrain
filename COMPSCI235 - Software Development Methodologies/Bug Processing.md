@@ -2,4 +2,6 @@
 	- bug issue was raised
 	- nobody in the project has looked at it yet
 - Assigned
-	- a
+	- [[triager]]
+		- [[Bug reports]]: the developer will first reproduce the bug & then try to fix
+		- [[Feature requests]]: discuss with colleagues on whether to acco
