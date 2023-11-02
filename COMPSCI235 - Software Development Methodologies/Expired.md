@@ -1,0 +1,1 @@
+The object as row proxy:
