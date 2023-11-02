@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Untitled.md",
+                "file": "COMPSCI235 - Software Development Methodologies/Issue Tracking.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Untitled.md",
+                "file": "COMPSCI235 - Software Development Methodologies/Issue Tracking.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Untitled.md",
+                "file": "COMPSCI235 - Software Development Methodologies/Issue Tracking.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Untitled.md"
+                "file": "COMPSCI235 - Software Development Methodologies/Issue Tracking.md"
               }
             }
           },
@@ -168,9 +168,9 @@
   },
   "active": "f81b568f787efc04",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
-    "COMPSCI235 - Software Development Methodologies/Untitled.md",
     "COMPSCI235 - Software Development Methodologies/SQLAlchemy Session.md",
+    "COMPSCI235 - Software Development Methodologies/Untitled.md",
+    "conflict-files-obsidian-git.md",
     "COMPSCI235 - Software Development Methodologies/Issue Tracking.md",
     "COMPSCI235 - Software Development Methodologies/Choosing an issue tracking tool.md",
     "COMPSCI235 - Software Development Methodologies/SQLAlchemy.md",
