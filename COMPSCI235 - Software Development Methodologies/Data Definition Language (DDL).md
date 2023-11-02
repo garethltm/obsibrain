@@ -1,2 +1,4 @@
 - Language to define database schema
-- That is, CREATE/ALTER/DELETE tables & other object
+- That is, CREATE/ALTER/DELETE tables & other objects in the database
+- Does only create the structure, no data is filled into the tables
+- Create [[COMPSCI235 - Software Development Methodologies/database|database]] objects such tables, keys, indexes
