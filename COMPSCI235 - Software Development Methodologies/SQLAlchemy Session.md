@@ -1,3 +1,4 @@
+![[Pasted image 20231102165121.png]]
 - The Session object is the public interface for the [[Object Relation Mapping (ORM)]]
 - Establishes all [[COMPSCI235 - Software Development Methodologies/database|database]] conversations through internal explicit [[transaction(s)]]
 	- what a Session does
@@ -7,3 +8,4 @@
 - The session objects are proxies for table rows
 	- holding zones are placeholders where the [[Object Relation Mapping (ORM)]] fetches table rows & places them into [[SQLAlchemy Session]] object
 - Unit of Work:
+	- lazily flushes (when you commit an optimisation feature) only those rows/columns that have changed, ordering them to maintain consistency
