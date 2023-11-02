@@ -6,4 +6,4 @@ Most of the time, applications work with object-oriented systems
 
 Object-oriented Models & Serialization![[Pasted image 20231102153010.png]]
 
-
+Read or write whole objects from or to a stream of bytes, which is suitable to be streamed to a file on dis
