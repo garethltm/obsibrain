@@ -24,4 +24,8 @@
 	- This is called **flushing** of pending changes
 		- `autoflush = True`
 - Several possible Session object states:
-	1. [[Persistent]], [[Expired]], [[Transient]], [[Pending]], (Detached)
+	1. [[Persistent]]
+	2. [[Expired]] 
+	3. [[Transient]] 
+	4. [[Pending]]
+	5. (Detached)
