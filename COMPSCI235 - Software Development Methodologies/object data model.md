@@ -28,5 +28,7 @@ The [[object data model]] is the basis of [[Object-Oriented Database Management 
 		- `CREATE`/`DROP` tables
 2. lack of agreed standards
 	- [[Relational DBMS (RDBMS)]] have a [[SQL]] as a standard query language
+3. lack of ad-hoc querying
+4. Not many programming languages support object [[COMPSCI235 - Software Development Methodologies/database|database]]
 
 Related to: [[COMPSCI235 - Software Development Methodologies/Relational database|Relational database]], [[Object ID (OID)]]

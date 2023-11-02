@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/object data model.md",
+                "file": "COMPSCI235 - Software Development Methodologies/Object-Oriented Database Management System (OODBMS).md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/object data model.md",
+                "file": "COMPSCI235 - Software Development Methodologies/Object-Oriented Database Management System (OODBMS).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/object data model.md",
+                "file": "COMPSCI235 - Software Development Methodologies/Object-Oriented Database Management System (OODBMS).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/object data model.md"
+                "file": "COMPSCI235 - Software Development Methodologies/Object-Oriented Database Management System (OODBMS).md"
               }
             }
           },
@@ -169,17 +169,18 @@
   },
   "active": "f81b568f787efc04",
   "lastOpenFiles": [
+    "COMPSCI235 - Software Development Methodologies/Object-Relational Database Management System (ORDBMS).md",
+    "COMPSCI235 - Software Development Methodologies/Object Oriented Databases (OOD).md",
+    "COMPSCI235 - Software Development Methodologies/Object-Oriented Database Management System (OODBMS).md",
+    "COMPSCI235 - Software Development Methodologies/object data model.md",
     "@images/Pasted image 20231102160612.png",
     "COMPSCI235 - Software Development Methodologies/Object ID (OID).md",
-    "COMPSCI235 - Software Development Methodologies/object data model.md",
     "COMPSCI235 - Software Development Methodologies/Relationship(s).md",
     "@images/Pasted image 20231102160128.png",
     "@images/Pasted image 20231102160053.png",
     "@images/Pasted image 20231102155442.png",
     "@images/Pasted image 20231102155334.png",
     "@images/Pasted image 20231102155316.png",
-    "COMPSCI235 - Software Development Methodologies/Object-Oriented Database Management System (OODBMS).md",
-    "COMPSCI235 - Software Development Methodologies/Object Oriented Databases (OOD).md",
     "@images/Pasted image 20231102154936.png",
     "COMPSCI235 - Software Development Methodologies/Impedence.md",
     "@images/Pasted image 20231102154414.png",
@@ -187,7 +188,6 @@
     "COMPSCI235 - Software Development Methodologies/Access control.md",
     "COMPSCI235 - Software Development Methodologies/Persistence.md",
     "@images/Pasted image 20231102153859.png",
-    "@images/Pasted image 20231102153010.png",
     "COMPSCI235 - Software Development Methodologies/The 4 P's of Software Development.md",
     "COMPSCI235 - Software Development Methodologies/ACID.md",
     "COMPSCI235 - Software Development Methodologies/Aggregation.md",
