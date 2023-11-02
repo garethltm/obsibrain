@@ -1,1 +1,1 @@
-The [[object data model]] is the basis of [[Object-Oriented Database Management System (OODBMS)]]
+The [[object data model]] is the basis of [[Object-Oriented Database Management System (OODBMS)]]![[Pasted image 20231102155316.png]]
