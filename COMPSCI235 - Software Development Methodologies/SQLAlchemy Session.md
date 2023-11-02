@@ -22,4 +22,6 @@
 			- So that we get the latest data from the [[COMPSCI235 - Software Development Methodologies/database|database]]
 		- When the user issues an explicit commit or a [[transaction(s)]] finishes
 	- This is called **flushing** of pending changes
-	- 
+		- `autoflush = True`
+- Several possible Session object states:
+	1. [[Persistent]], [[Expired]], [[Transient]], [[Pending]], (Detached)
