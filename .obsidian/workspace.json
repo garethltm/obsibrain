@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Composition.md",
+                "file": "COMPSCI235 - Software Development Methodologies/Session cookie.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Composition.md",
+                "file": "COMPSCI235 - Software Development Methodologies/Session cookie.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Composition.md",
+                "file": "COMPSCI235 - Software Development Methodologies/Session cookie.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Composition.md"
+                "file": "COMPSCI235 - Software Development Methodologies/Session cookie.md"
               }
             }
           },
@@ -177,32 +177,32 @@
   },
   "active": "3ad179677b7fba41",
   "lastOpenFiles": [
-    "COMPSCI235 - Software Development Methodologies/Communication.md",
-    "COMPSCI235 - Software Development Methodologies/Combating CSRF.md",
-    "COMPSCI235 - Software Development Methodologies/Classes.md",
-    "COMPSCI235 - Software Development Methodologies/Cascading Style Sheets (CSS).md",
-    "COMPSCI235 - Software Development Methodologies/Class selectors.md",
-    "COMPSCI235 - Software Development Methodologies/Hypertext Transfer Protocol (HTTP).md",
-    "COMPSCI235 - Software Development Methodologies/AGILE.md",
-    "COMPSCI235 - Software Development Methodologies/Aggregation.md",
-    "COMPSCI235 - Software Development Methodologies/ACID.md",
-    "COMPSCI235 - Software Development Methodologies/Accessibility.md",
-    "COMPSCI235 - Software Development Methodologies/Access control.md",
-    "COMPSCI235 - Software Development Methodologies/Acceptance Testing.md",
-    "COMPSCI235 - Software Development Methodologies/Access Modifiers.md",
-    "COMPSCI235 - Software Development Methodologies/Behavioral Diagrams.md",
-    "COMPSCI235 - Software Development Methodologies/Class Diagram.md",
-    "COMPSCI235 - Software Development Methodologies/Concurrent.md",
-    "COMPSCI235 - Software Development Methodologies/Construction (Code, Test).md",
-    "COMPSCI235 - Software Development Methodologies/cookie.md",
-    "COMPSCI235 - Software Development Methodologies/Creating responses.md",
-    "COMPSCI235 - Software Development Methodologies/Cross-site Request Forgery (CSRF).md",
-    "COMPSCI235 - Software Development Methodologies/Data structures.md",
-    "COMPSCI235 - Software Development Methodologies/Dependency Inversion Principle (DIP).md",
-    "COMPSCI235 - Software Development Methodologies/Dependency.md",
-    "COMPSCI235 - Software Development Methodologies/design(s).md",
-    "COMPSCI235 - Software Development Methodologies/Distributed VCS.md",
-    "COMPSCI235 - Software Development Methodologies/fault-tolerance.md",
+    "COMPSCI235 - Software Development Methodologies/Relationships.md",
+    "COMPSCI235 - Software Development Methodologies/Repository.md",
+    "COMPSCI235 - Software Development Methodologies/released product.md",
+    "COMPSCI235 - Software Development Methodologies/Relational DBMS (RDBMS).md",
+    "COMPSCI235 - Software Development Methodologies/Relational database.md",
+    "COMPSCI235 - Software Development Methodologies/Python's support for abstract base classes.md",
+    "COMPSCI235 - Software Development Methodologies/Pytest.md",
+    "COMPSCI235 - Software Development Methodologies/process.md",
+    "COMPSCI235 - Software Development Methodologies/Planning.md",
+    "COMPSCI235 - Software Development Methodologies/Persisting a simple domain model.md",
+    "COMPSCI235 - Software Development Methodologies/open protocol.md",
+    "COMPSCI235 - Software Development Methodologies/NoSQL.md",
+    "COMPSCI235 - Software Development Methodologies/Network layer protocols.md",
+    "COMPSCI235 - Software Development Methodologies/Minimum Viable Product (MVP).md",
+    "COMPSCI235 - Software Development Methodologies/model.md",
+    "COMPSCI235 - Software Development Methodologies/Modeling (Analyze, Design).md",
+    "COMPSCI235 - Software Development Methodologies/Modern software systems.md",
+    "COMPSCI235 - Software Development Methodologies/Monolithic.md",
+    "COMPSCI235 - Software Development Methodologies/Middleware.md",
+    "COMPSCI235 - Software Development Methodologies/Microservices.md",
+    "COMPSCI235 - Software Development Methodologies/Low-level modules.md",
+    "COMPSCI235 - Software Development Methodologies/Linear Approach.md",
+    "COMPSCI235 - Software Development Methodologies/Jinja.md",
+    "COMPSCI235 - Software Development Methodologies/Internal style sheet.md",
+    "COMPSCI235 - Software Development Methodologies/ID selectors.md",
+    "COMPSCI235 - Software Development Methodologies/Incremental Approach.md",
     "@images/Pasted image 20231102132025.png",
     "@images/Pasted image 20231101180627.png",
     "@images/Pasted image 20231101172223.png",
