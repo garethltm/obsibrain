@@ -12,3 +12,7 @@ In Python, we can use `Pickle` library
 - `pickle.dump(object, outfile)`
 - `object - pickle.load(infile)`
 	- deserializing
+	- Serializing/deserialzing $\rightarrow$ trivial
+		- Not effective: doesn't conform to the [[ACID]] properties
+
+[[COMPSCI235 - Software Development Methodologies/database|database]] storage via a [[Relational DBMS (RDBMS)]]
