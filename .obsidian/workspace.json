@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "29204b37fc003a9a",
@@ -169,10 +168,10 @@
   },
   "active": "f81b568f787efc04",
   "lastOpenFiles": [
-    "COMPSCI235 - Software Development Methodologies/session.md",
-    "COMPSCI235 - Software Development Methodologies/Object Relation Mapping (ORM).md",
-    "@images/Pasted image 20231102162306.png",
     "COMPSCI235 - Software Development Methodologies/Object-Relational Database Management System (ORDBMS).md",
+    "COMPSCI235 - Software Development Methodologies/Object Relation Mapping (ORM).md",
+    "COMPSCI235 - Software Development Methodologies/session.md",
+    "@images/Pasted image 20231102162306.png",
     "COMPSCI235 - Software Development Methodologies/Single Responsibility Principle (SRP).md",
     "COMPSCI235 - Software Development Methodologies/Object-Oriented Database Management System (OODBMS).md",
     "@images/Pasted image 20231102161727.png",

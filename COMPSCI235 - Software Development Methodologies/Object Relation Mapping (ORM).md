@@ -13,5 +13,7 @@ Translate between domain object & table row![[Pasted image 20231102162306.png]]
 
 - Python [[SQLalchemy]] uses explicit mapping code in Python
 	- Mapper
-		- what class maps to what table in [[data]]
+		- what class maps to what table in [[COMPSCI235 - Software Development Methodologies/database|database]]
+		- what [[Attribute(s)]] maps to what column in [[COMPSCI235 - Software Development Methodologies/database|database]]
+
 ![[Pasted image 20231102161727.png]]
