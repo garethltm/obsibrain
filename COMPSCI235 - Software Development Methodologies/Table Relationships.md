@@ -9,12 +9,11 @@ Shown using solid connector lines
 - One-to-many
 	- Where a row from one table can have multiple matching rows in another table
 >	#Example 
->	"A publisher can publish multiple books"
+>	"A publisher can publish multiple books"![[Pasted image 20231102151932.png]]
 - Many-to-many
 	- Break into 2 one-to-many relationships
 >	#Example 
->	"Books & authors"
->![[Pasted image 20231102151808.png]]
+>	"Books & authors"![[Pasted image 20231102151808.png]]![[Pasted image 20231102152008.png]]
 
 - [[Relationships]] are implemented using Foreign Keys
 - The Foreign Key is a constraint
