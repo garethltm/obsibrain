@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Object Oriented Databases (OOD).md",
+                "file": "COMPSCI235 - Software Development Methodologies/Object-Oriented Database Management System (OODBMS).md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Object Oriented Databases (OOD).md",
+                "file": "COMPSCI235 - Software Development Methodologies/Object-Oriented Database Management System (OODBMS).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Object Oriented Databases (OOD).md",
+                "file": "COMPSCI235 - Software Development Methodologies/Object-Oriented Database Management System (OODBMS).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Object Oriented Databases (OOD).md"
+                "file": "COMPSCI235 - Software Development Methodologies/Object-Oriented Database Management System (OODBMS).md"
               }
             }
           },
@@ -168,8 +168,9 @@
   },
   "active": "f81b568f787efc04",
   "lastOpenFiles": [
-    "COMPSCI235 - Software Development Methodologies/Impedence.md",
     "COMPSCI235 - Software Development Methodologies/Object Oriented Databases (OOD).md",
+    "COMPSCI235 - Software Development Methodologies/Object-Oriented Database Management System (OODBMS).md",
+    "COMPSCI235 - Software Development Methodologies/Impedence.md",
     "@images/Pasted image 20231102154414.png",
     "@images/Pasted image 20231102154328.png",
     "COMPSCI235 - Software Development Methodologies/Access control.md",
@@ -203,7 +204,6 @@
     "COMPSCI235 - Software Development Methodologies/Single Responsibility Principle (SRP).md",
     "COMPSCI235 - Software Development Methodologies/Session cookie.md",
     "COMPSCI235 - Software Development Methodologies/Relationships.md",
-    "COMPSCI235 - Software Development Methodologies/Repository.md",
     "COMPSCI235 - Software Development Methodologies",
     "COMPSCI367 - Artificial Intelligence/finals prep.canvas",
     "COMPSCI367 - Artificial Intelligence/week12",
