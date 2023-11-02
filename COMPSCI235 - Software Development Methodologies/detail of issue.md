@@ -1,6 +1,8 @@
 1. the issue
-	- what should be fixed or created
-	- what the bug symptoms are, what actually doesn't work
+	- what:
+		- should be fixed or created
+		- the bug symptoms are
+		- actually doesn't work
 	- how it should work the right way
 2. the people involved
 	- who:
@@ -13,4 +15,8 @@
 	- when:
 		- the request was reported
 			- gives visibility of where we are at
+		- it was fixed
+		- verified
+4. the strategies 
+	- what:
 		- 
