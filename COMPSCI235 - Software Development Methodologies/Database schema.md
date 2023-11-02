@@ -21,4 +21,5 @@ A schema represents any kind of structure that we are defining around the data
 >	#Example 
 >	{ID} for `Book`
 >	{Name, Address} for `Publisher`
->	
+>	- However, ID is 
+- Primary Key: A primary key is one of the candidate keys chosen by the [[COMPSCI235 - Software Development Methodologies/database|database]] designer to uniquely identify the entity set
