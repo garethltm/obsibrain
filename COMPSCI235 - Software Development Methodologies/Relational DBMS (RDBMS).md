@@ -1,0 +1,1 @@
+- Store data in tables, where each row is an entity & each column is an attribute
