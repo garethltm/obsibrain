@@ -9,11 +9,12 @@
 	- holding zones are placeholders where the [[Object Relation Mapping (ORM)]] fetches table rows & places them into [[SQLAlchemy Session]] object
 - Unit of Work:
 	- lazily flushes (when you commit an optimisation feature) only those rows/columns that have changed, ordering them to maintain consistency
-	- Objects, when associated with a Session are proxies for rows, represented uniquely on primary key identity
-		- Identity Mapping pattern, a dictionary in practice
+![[Pasted image 20231102165146.png]]
+
+- Objects, when associated with a Session are proxies for rows, represented uniquely on primary key identity
+	- Identity Mapping pattern, a dictionary in practice
 >	#Example 
 >	Dictionary:
 >	PrimaryKey, Value: Reference to object in memory
-- Changes to objec
-
-![[Pasted image 20231102165146.png]]
+- Changes to objects maintained by Session are tracked
+	- We have to frequently push out changes of objects to the [[]]
