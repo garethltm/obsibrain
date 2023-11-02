@@ -17,7 +17,7 @@
 >	Dictionary:
 >	PrimaryKey, Value: Reference to object in memory
 - Changes to objects maintained by [[SQLAlchemy Session]] are tracked
-	- [[Flushing]]
+	- 
 - Several possible Session object states:
 	1. [[Persistent]]
 	2. [[Expired]] 
