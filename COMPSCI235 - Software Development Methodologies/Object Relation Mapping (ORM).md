@@ -11,7 +11,7 @@ Translate between domain object & table row![[Pasted image 20231102162306.png]]
 >	#Example 
 >	Java Hibernate
 
-- Python [[SQLalchemy]] uses explicit mapping code in Python
+- Python [[SQLAlchemy]] uses explicit mapping code in Python
 	- Mapper
 		- what class maps to what table in [[COMPSCI235 - Software Development Methodologies/database|database]]
 		- what [[Attribute(s)]] maps to what column in [[COMPSCI235 - Software Development Methodologies/database|database]]

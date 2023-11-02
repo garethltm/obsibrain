@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Object Relation Mapping (ORM).md",
+                "file": "COMPSCI235 - Software Development Methodologies/SQLAlchemy.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Object Relation Mapping (ORM).md",
+                "file": "COMPSCI235 - Software Development Methodologies/SQLAlchemy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Object Relation Mapping (ORM).md",
+                "file": "COMPSCI235 - Software Development Methodologies/SQLAlchemy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Object Relation Mapping (ORM).md"
+                "file": "COMPSCI235 - Software Development Methodologies/SQLAlchemy.md"
               }
             }
           },
@@ -168,8 +168,9 @@
   },
   "active": "f81b568f787efc04",
   "lastOpenFiles": [
-    "COMPSCI235 - Software Development Methodologies/Object-Relational Database Management System (ORDBMS).md",
     "COMPSCI235 - Software Development Methodologies/Object Relation Mapping (ORM).md",
+    "COMPSCI235 - Software Development Methodologies/SQLAlchemy.md",
+    "COMPSCI235 - Software Development Methodologies/Object-Relational Database Management System (ORDBMS).md",
     "COMPSCI235 - Software Development Methodologies/session.md",
     "@images/Pasted image 20231102162306.png",
     "COMPSCI235 - Software Development Methodologies/Single Responsibility Principle (SRP).md",
@@ -203,7 +204,6 @@
     "COMPSCI235 - Software Development Methodologies/Data Manipulation Language (DML).md",
     "COMPSCI235 - Software Development Methodologies/Acceptance Testing.md",
     "COMPSCI235 - Software Development Methodologies/Hypertext Transfer Protocol (HTTP).md",
-    "COMPSCI367 - Artificial Intelligence/week02/state(s).md",
     "COMPSCI235 - Software Development Methodologies",
     "COMPSCI367 - Artificial Intelligence/finals prep.canvas",
     "COMPSCI367 - Artificial Intelligence/week12",
