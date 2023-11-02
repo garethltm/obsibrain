@@ -4,4 +4,6 @@
 - LEFT (OUTER) JOIN
 	- returns from the left table, & the matched records the right table
 - RIGHT (OUTER) JOIN
-	- returns all records from th
+	- returns all records from the right table, & the matched records from the left table
+- FULL (OUTER) JOIN
+	- returns all records when there is a match either left or right table
