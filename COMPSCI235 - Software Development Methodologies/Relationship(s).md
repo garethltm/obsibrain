@@ -10,8 +10,8 @@ if not sure, use association in general
 - [[Aggregation]]
 - [[Composition]]
 
-##### Inheritance & Realization [[Relationships]]
+##### Inheritance & Realization [[Relationship(s)]]
 ![[Pasted image 20231101144822.png]]![[Pasted image 20231101144845.png]]
 
-##### [[Aggregation]] & [[Composition]] [[Relationships]]
+##### [[Aggregation]] & [[Composition]] [[Relationship(s)]]
 ![[Pasted image 20231101150231.png]]
