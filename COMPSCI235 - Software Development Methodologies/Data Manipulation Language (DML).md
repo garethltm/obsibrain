@@ -1,1 +1,4 @@
-- Language to define 
+- Language to manipulate data
+- That is, insert data in the tables, update it, delete it
+- Fills the [[COMPSCI235 - Software Development Methodologies/database|database]] with content, creates different instances
+
