@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Feature requests.md",
+                "file": "COMPSCI235 - Software Development Methodologies/Patches.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Feature requests.md",
+                "file": "COMPSCI235 - Software Development Methodologies/Patches.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Feature requests.md",
+                "file": "COMPSCI235 - Software Development Methodologies/Patches.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Feature requests.md"
+                "file": "COMPSCI235 - Software Development Methodologies/Patches.md"
               }
             }
           },
@@ -169,7 +169,9 @@
   "active": "f81b568f787efc04",
   "lastOpenFiles": [
     "COMPSCI235 - Software Development Methodologies/Issue Tracking.md",
+    "COMPSCI235 - Software Development Methodologies/Patches.md",
     "COMPSCI235 - Software Development Methodologies/Feature requests.md",
+    "@images/Pasted image 20231103111356.png",
     "COMPSCI235 - Software Development Methodologies/Bug reports.md",
     "@images/Pasted image 20231103103119.png",
     "@images/Pasted image 20231103102903.png",
@@ -194,7 +196,6 @@
     "@images/Pasted image 20231102165935.png",
     "COMPSCI235 - Software Development Methodologies/transaction(s).md",
     "@images/Pasted image 20231102165146.png",
-    "@images/Pasted image 20231102165121.png",
     "COMPSCI235 - Software Development Methodologies/One-to-many Relation.md",
     "COMPSCI235 - Software Development Methodologies/ORM & Associations.md",
     "COMPSCI235 - Software Development Methodologies/Repository.md",
@@ -203,7 +204,6 @@
     "COMPSCI235 - Software Development Methodologies/Object-Relational Database Management System (ORDBMS).md",
     "COMPSCI235 - Software Development Methodologies/session.md",
     "COMPSCI235 - Software Development Methodologies/Single Responsibility Principle (SRP).md",
-    "COMPSCI235 - Software Development Methodologies/Object-Oriented Database Management System (OODBMS).md",
     "COMPSCI235 - Software Development Methodologies",
     "COMPSCI367 - Artificial Intelligence/finals prep.canvas",
     "COMPSCI367 - Artificial Intelligence/week12",

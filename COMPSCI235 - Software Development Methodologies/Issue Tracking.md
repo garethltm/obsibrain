@@ -34,4 +34,4 @@ All these improves overall quality of [[software development]]
 ## Types of Issues
 - [[Bug reports]]
 - [[Feature requests]]
-- Patches
+- [[Patches]]
