@@ -7,4 +7,9 @@
 - Software projects grow in complexity as they grow in features
 	- The time taken to discover & fix them becomes crucial to the product's stability & the whole business success
 
-These are all critical to the [[sdl]]
+These are all critical to the [[software development]] life cycle
+
+### System
+- is a soft
+
+Related to: [[Issue Tracking]]
