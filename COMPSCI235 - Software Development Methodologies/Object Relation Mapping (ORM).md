@@ -4,5 +4,6 @@ Translate between domain object & table row![[Pasted image 20231102162306.png]]
 - Programmer can work only with objects, no [[SQL]] statements in the code
 	- Raw [[SQL]] queries which are written as strings that are inside the Python code
 - Allows querying [[COMPSCI235 - Software Development Methodologies/database|database]] in terms of domain model structure
-- Selected ob
+- Selected objects are initially marked as being persistent, after that changes in those objects are transparently synchronized with the [[COMPSCI235 - Software Development Methodologies/database|database]] without or with minimal explicit code being written
+	- concept of [[session]]
 ![[Pasted image 20231102161727.png]]
