@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Languages.md",
+                "file": "COMPSCI235 - Software Development Methodologies/Data Definition Language (DDL).md",
                 "mode": "source",
                 "source": false
               }
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "29204b37fc003a9a",
@@ -95,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Languages.md",
+                "file": "COMPSCI235 - Software Development Methodologies/Data Definition Language (DDL).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Languages.md",
+                "file": "COMPSCI235 - Software Development Methodologies/Data Definition Language (DDL).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Languages.md"
+                "file": "COMPSCI235 - Software Development Methodologies/Data Definition Language (DDL).md"
               }
             }
           },
@@ -176,10 +175,11 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "3ad179677b7fba41",
+  "active": "f81b568f787efc04",
   "lastOpenFiles": [
-    "COMPSCI235 - Software Development Methodologies/Database instance.md",
     "COMPSCI235 - Software Development Methodologies/Languages.md",
+    "COMPSCI235 - Software Development Methodologies/Data Definition Language (DDL).md",
+    "COMPSCI235 - Software Development Methodologies/Database instance.md",
     "COMPSCI235 - Software Development Methodologies/Database schema.md",
     "@images/Pasted image 20231102140555.png",
     "@images/Pasted image 20231102140522.png",
@@ -205,7 +205,6 @@
     "COMPSCI235 - Software Development Methodologies/Persisting a simple domain model.md",
     "COMPSCI235 - Software Development Methodologies/open protocol.md",
     "COMPSCI235 - Software Development Methodologies/NoSQL.md",
-    "COMPSCI235 - Software Development Methodologies/Network layer protocols.md",
     "@images/Pasted image 20231102132025.png",
     "@images/Pasted image 20231101180627.png",
     "@images/Pasted image 20231101172223.png",

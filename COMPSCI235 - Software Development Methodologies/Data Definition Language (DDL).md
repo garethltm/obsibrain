@@ -1,0 +1,2 @@
+- Language to define database schema
+- That is, CREATE/ALTER/DELETE tables & other object
