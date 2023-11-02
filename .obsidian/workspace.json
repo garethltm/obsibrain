@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Data Query Language (DQL).md",
+                "file": "COMPSCI235 - Software Development Methodologies/Database schema.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Data Query Language (DQL).md",
+                "file": "COMPSCI235 - Software Development Methodologies/Database schema.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Data Query Language (DQL).md",
+                "file": "COMPSCI235 - Software Development Methodologies/Database schema.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Data Query Language (DQL).md"
+                "file": "COMPSCI235 - Software Development Methodologies/Database schema.md"
               }
             }
           },
@@ -178,11 +178,11 @@
   },
   "active": "f81b568f787efc04",
   "lastOpenFiles": [
+    "COMPSCI235 - Software Development Methodologies/Database instance.md",
     "COMPSCI235 - Software Development Methodologies/Languages.md",
     "COMPSCI235 - Software Development Methodologies/Data Query Language (DQL).md",
     "COMPSCI235 - Software Development Methodologies/Data Definition Language (DDL).md",
     "COMPSCI235 - Software Development Methodologies/Data Manipulation Language (DML).md",
-    "COMPSCI235 - Software Development Methodologies/Database instance.md",
     "COMPSCI235 - Software Development Methodologies/Database schema.md",
     "@images/Pasted image 20231102140555.png",
     "@images/Pasted image 20231102140522.png",
