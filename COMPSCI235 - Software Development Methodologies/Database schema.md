@@ -1,0 +1,1 @@
+A schema represents any kind of structure that b
