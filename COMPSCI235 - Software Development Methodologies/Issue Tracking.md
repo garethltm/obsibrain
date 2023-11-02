@@ -1,3 +1,4 @@
+![[Pasted image 20231103100621.png]]
 *Any program is never truly finished*
 
 Bugs & issue tracking tools to streamline the process of finding, recording & tracking bugs
@@ -6,4 +7,5 @@ Bugs & issue tracking tools to streamline the process of finding, recording & tr
 
 Team member register & raise issues
 - the one who raises the issue will describe the issue in detail
-	- such that people can easy reproduce the bug
+	- such that people can easy reproduce the bug/issue
+- other team members can comment & work collaboratively towards resolving the issue raised
