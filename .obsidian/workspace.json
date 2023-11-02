@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Session cookie.md",
+                "file": "COMPSCI235 - Software Development Methodologies/stub.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Session cookie.md",
+                "file": "COMPSCI235 - Software Development Methodologies/stub.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Session cookie.md",
+                "file": "COMPSCI235 - Software Development Methodologies/stub.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Session cookie.md"
+                "file": "COMPSCI235 - Software Development Methodologies/stub.md"
               }
             }
           },
@@ -175,8 +175,10 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "3ad179677b7fba41",
+  "active": "df54043e914f1e1e",
   "lastOpenFiles": [
+    "COMPSCI235 - Software Development Methodologies/Single Responsibility Principle (SRP).md",
+    "COMPSCI235 - Software Development Methodologies/Session cookie.md",
     "COMPSCI235 - Software Development Methodologies/Relationships.md",
     "COMPSCI235 - Software Development Methodologies/Repository.md",
     "COMPSCI235 - Software Development Methodologies/released product.md",
@@ -201,8 +203,6 @@
     "COMPSCI235 - Software Development Methodologies/Linear Approach.md",
     "COMPSCI235 - Software Development Methodologies/Jinja.md",
     "COMPSCI235 - Software Development Methodologies/Internal style sheet.md",
-    "COMPSCI235 - Software Development Methodologies/ID selectors.md",
-    "COMPSCI235 - Software Development Methodologies/Incremental Approach.md",
     "@images/Pasted image 20231102132025.png",
     "@images/Pasted image 20231101180627.png",
     "@images/Pasted image 20231101172223.png",
