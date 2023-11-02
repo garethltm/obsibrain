@@ -11,4 +11,4 @@ Read or write whole objects from or to a stream of bytes, which is suitable to b
 In Python, we can use `Pickle` library
 - `pickle.dump(object, outfile)`
 - `object - pickle.load(infile)`
-	- 
+	- deserializing
