@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Relational DBMS (RDBMS).md",
+                "file": "COMPSCI235 - Software Development Methodologies/Handling requests.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Relational DBMS (RDBMS).md",
+                "file": "COMPSCI235 - Software Development Methodologies/Handling requests.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Relational DBMS (RDBMS).md",
+                "file": "COMPSCI235 - Software Development Methodologies/Handling requests.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Relational DBMS (RDBMS).md"
+                "file": "COMPSCI235 - Software Development Methodologies/Handling requests.md"
               }
             }
           },
@@ -175,8 +175,9 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "df54043e914f1e1e",
+  "active": "3ad179677b7fba41",
   "lastOpenFiles": [
+    "COMPSCI235 - Software Development Methodologies/Relational DBMS (RDBMS).md",
     "@images/Pasted image 20231102132025.png",
     "COMPSCI235 - Software Development Methodologies/NoSQL.md",
     "COMPSCI235 - Software Development Methodologies/Cascading Style Sheets (CSS).md",
@@ -190,9 +191,7 @@
     "@images/Pasted image 20231101181925.png",
     "@images/Pasted image 20231101224730.png",
     "@images/Pasted image 20231101232250.png",
-    "@images/Pasted image 20231101233049.png",
     "COMPSCI235 - Software Development Methodologies/Element selectors.md",
-    "COMPSCI235 - Software Development Methodologies/Relational DBMS (RDBMS).md",
     "COMPSCI235 - Software Development Methodologies/Database Management System (DBMS).md",
     "COMPSCI235 - Software Development Methodologies/database.md",
     "COMPSCI235 - Software Development Methodologies/ACID.md",
