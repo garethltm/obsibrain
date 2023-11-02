@@ -20,7 +20,9 @@
 			- patch is not correct
 		- Duplicate
 			- the issue is a duplicate of an existing issue
-			- 
+			- Often happens for a user raised issues
+			- Usually a [[Bug reports]]/[[Feature requests]]
+			- sometimes [[Issue Tracking]] systems will allow merge 
 		- Deferred
 	- Invalid (Rejected)
 
