@@ -2,6 +2,8 @@
 - working towards a collaborative goal (SPRINT goal)
 	- which involves people from different teams
 
+Successful project is one that optimises the value of the product for which it is being developed
+
 [[Scrum]] is [[empirical]]
 - learn & improve upon past mistakes & experiences
 - it allows teams to incorporate practices from other frameworks
