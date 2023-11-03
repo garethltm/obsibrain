@@ -22,4 +22,6 @@ core values that you think that are most important for your team to deliver the 
 #### Main focus
 ![[Pasted image 20231103170153.png]]
 1. Testing (Test are written prior to code)
-	- the developers continually write u
+	- the developers continually write [[Unit Testing]] code, which need to pass for the development to continue
+	- the customers write tests to verify that the features are implemented
+	- tests are automated so that they become part of the system can be 
