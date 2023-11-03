@@ -14,6 +14,4 @@
 
 ### Main roles
 1. [[Product Owner]]
-2. [[Scrum]] Master
-	- a team facilitator (NOT A LEADER)
-	- 
+2. [[Scrum Master]]
