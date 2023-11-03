@@ -41,4 +41,4 @@ Tools used:
 
 - it is better to involve the customer in the team on deciding on what to build & include frequent opportunities for customer feedback
 	- more feedback $\rightarrow$ more negotiations $\rightarrow$ more changes $\rightarrow$ increased business value
-	- [[Waterfall Model]] would ask for customer requirements upfront instead.
+	- [[Waterfall Model]] would instead ask for customer requirements upfront
