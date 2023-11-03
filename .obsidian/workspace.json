@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/build scripts.md",
+                "file": "COMPSCI235 - Software Development Methodologies/Build Environments.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "29204b37fc003a9a",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/build scripts.md",
+                "file": "COMPSCI235 - Software Development Methodologies/Build Environments.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/build scripts.md",
+                "file": "COMPSCI235 - Software Development Methodologies/Build Environments.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/build scripts.md"
+                "file": "COMPSCI235 - Software Development Methodologies/Build Environments.md"
               }
             }
           },
@@ -169,11 +168,12 @@
   },
   "active": "e3a0dec6ad66be55",
   "lastOpenFiles": [
+    "COMPSCI235 - Software Development Methodologies/build scripts.md",
+    "COMPSCI235 - Software Development Methodologies/Build Environments.md",
     "COMPSCI235 - Software Development Methodologies/AGILE.md",
     "COMPSCI235 - Software Development Methodologies/The 4 P's of Software Development.md",
     "COMPSCI367 - Artificial Intelligence/week11/Variable Elimination Algorithm (VE).md",
     "COMPSCI367 - Artificial Intelligence/week06/NP.md",
-    "COMPSCI235 - Software Development Methodologies/build scripts.md",
     "@images/Pasted image 20231103120001.png",
     "COMPSCI235 - Software Development Methodologies/Automated Build.md",
     "COMPSCI235 - Software Development Methodologies/Software Build.md",
@@ -204,7 +204,6 @@
     "@images/Pasted image 20231102170744.png",
     "COMPSCI235 - Software Development Methodologies/Many-to-many Relation.md",
     "COMPSCI235 - Software Development Methodologies/Flushing.md",
-    "COMPSCI235 - Software Development Methodologies/Mapping Styles.md",
     "COMPSCI235 - Software Development Methodologies",
     "COMPSCI367 - Artificial Intelligence/finals prep.canvas",
     "COMPSCI367 - Artificial Intelligence/week12",

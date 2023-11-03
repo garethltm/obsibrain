@@ -21,4 +21,5 @@ Building tasks in motion, from building [[software]] to deploying it
 ![[Pasted image 20231103120001.png]]
 
 ### Ultimate goal:
-- Anyone should be able to bring in a virgin machine, check out the source code & other necessary resources from the repository, ideally issue a single command & have a running 
+- Anyone should be able to bring in a virgin machine, check out the source code & other necessary resources from the repository, ideally issue a single command & have a running [[software]] package on their machine
+	- no need of using an IDE to run your application
