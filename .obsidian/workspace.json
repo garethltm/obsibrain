@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Application Architecture.md",
+                "file": "COMPSCI235 - Software Development Methodologies/Scrum.md",
                 "mode": "source",
                 "source": false
               }
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Application Architecture.md",
+                "file": "COMPSCI235 - Software Development Methodologies/Scrum.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Application Architecture.md",
+                "file": "COMPSCI235 - Software Development Methodologies/Scrum.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Application Architecture.md"
+                "file": "COMPSCI235 - Software Development Methodologies/Scrum.md"
               }
             }
           },
@@ -154,7 +153,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Application Architecture.md"
+                "file": "COMPSCI235 - Software Development Methodologies/Scrum.md"
               }
             }
           }
@@ -179,6 +178,9 @@
   },
   "active": "33a55b9766be070c",
   "lastOpenFiles": [
+    "COMPSCI235 - Software Development Methodologies/Scrum Master.md",
+    "COMPSCI235 - Software Development Methodologies/Scrum.md",
+    "COMPSCI235 - Software Development Methodologies/Application Architecture.md",
     "COMPSCI235 - Software Development Methodologies/Template inheritance.md",
     "COMPSCI235 - Software Development Methodologies/Jinja.md",
     "COMPSCI235 - Software Development Methodologies/Template containment.md",
@@ -203,9 +205,6 @@
     "COMPSCI235 - Software Development Methodologies/acceptance criteria.md",
     "COMPSCI235 - Software Development Methodologies/Acceptance Testing.md",
     "INFOSYS222 - Database Systems/Data Quality.md",
-    "COMPSCI235 - Software Development Methodologies/Declarative Mapping.md",
-    "COMPSCI235 - Software Development Methodologies/Mapping Styles.md",
-    "COMPSCI235 - Software Development Methodologies/Imperative (or Classical) Mapping.md",
     "@images/Pasted image 20231104020521.png",
     "@images/Pasted image 20231104015543.png",
     "@images/Pasted image 20231104015416.png",
