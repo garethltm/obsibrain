@@ -48,7 +48,7 @@ core values that you think that are most important for your team to deliver the 
 	- After the first increment "project velocity" is used to help define subsequent delivery dates for other increments
 2. Design
 	- Follows the "keep it simple" principle
-	- Encourage the use of Class Responsibility Collaborator (CRC) cards
+	- Encourage the use of [[Class Responsibility Collaborator (CRC) cards]]
 	- For difficult design problems, suggests the creation of "spike solutions" - a design prototype
 	- Encourages "[[Refactoring]]"
 	- Design occurs both before & after coding commences
