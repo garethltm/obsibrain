@@ -7,4 +7,5 @@
 ### [[technical debt]] & [[AGILE]]
 Agility in [[AGILE]] is more about sustainable pace & lateral nimbleness rather than hasty development
 - slowing things down to speed them up
-	- from [[AGILE]] principles:
+	- from 12 principles of [[AGILE]] :
+		8. 
