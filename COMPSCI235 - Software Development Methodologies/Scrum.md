@@ -6,3 +6,8 @@
 - learn & improve upon past mistakes & experiences
 - it allows teams to incorporate practices from other frameworks
 	- adapting your process based on your learnings
+
+![[Pasted image 20231103160821.png]]
+- [[Transparency]]
+- Inspection
+- Adaptation
