@@ -29,5 +29,8 @@ An approach to developing a single application as a suite of small services, eac
 
 ### Challenges
 - Increased complexity
-	- not always teh
+	- not always the best solution for an application
+		- if simple/small user base $\rightarrow$ [[Monolithic]] might be better
+	- hard to divide them to smaller [[Microservices]]
+- Data consistency
 
