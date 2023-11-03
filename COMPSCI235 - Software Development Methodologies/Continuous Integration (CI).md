@@ -23,4 +23,8 @@ Each integration is verified by an [[Automated Build]] (including [[Testing]]) t
 1. Integrated Development Environments (IDE)
 	- PyCharm, Eclipse, NetBeans, IntelliJ IDEA
 2. [[Version Control Systems (VCS)]]
-	- [[Git VCS]]
+	- [[Git VCS]], SVN, Mercurial
+3. Build Tools
+	- Ant, Maven, Gradle, PyBuilder, CMake
+4. Continuous Build/Integration Systems
+	- Jenk
