@@ -13,11 +13,54 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Microservices.md",
+                "file": "COMPSCI235 - Software Development Methodologies/Monolithic.md",
                 "mode": "source",
                 "source": false
               }
-            }
+            },
+            "group": "82e2de99345a14b5"
+          }
+        ]
+      },
+      {
+        "id": "86b0db4ed9221cec",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6a58bf796d543896",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "COMPSCI235 - Software Development Methodologies/Monolithic.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1,
+                  "close": false
+                }
+              }
+            },
+            "group": "82e2de99345a14b5"
           }
         ]
       }
@@ -85,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Microservices.md",
+                "file": "COMPSCI235 - Software Development Methodologies/Monolithic.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Microservices.md",
+                "file": "COMPSCI235 - Software Development Methodologies/Monolithic.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Microservices.md"
+                "file": "COMPSCI235 - Software Development Methodologies/Monolithic.md"
               }
             }
           },
@@ -153,7 +196,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Microservices.md"
+                "file": "COMPSCI235 - Software Development Methodologies/Monolithic.md"
               }
             }
           }
@@ -178,8 +221,11 @@
   },
   "active": "33a55b9766be070c",
   "lastOpenFiles": [
-    "COMPSCI235 - Software Development Methodologies/Architectural Pattern.md",
+    "COMPSCI235 - Software Development Methodologies/Modern software systems.md",
+    "COMPSCI235 - Software Development Methodologies/Monolithic.md",
     "COMPSCI235 - Software Development Methodologies/Microservices Architectural Pattern.md",
+    "COMPSCI235 - Software Development Methodologies/Microservices.md",
+    "COMPSCI235 - Software Development Methodologies/Architectural Pattern.md",
     "COMPSCI235 - Software Development Methodologies/Monolithic Architectural Pattern.md",
     "COMPSCI235 - Software Development Methodologies/Software Architecture.md",
     "COMPSCI235 - Software Development Methodologies/Quality Attributes.md",
@@ -211,9 +257,6 @@
     "@images/Pasted image 20231104002351.png",
     "@images/Pasted image 20231104002300.png",
     "COMPSCI235 - Software Development Methodologies/Work Item Age.md",
-    "COMPSCI235 - Software Development Methodologies/Cycle Time.md",
-    "COMPSCI235 - Software Development Methodologies/Throughput.md",
-    "COMPSCI235 - Software Development Methodologies/Work In Progress (WIP).md",
     "COMPSCI367 - Artificial Intelligence/finals prep.canvas",
     "COMPSCI235 - Software Development Methodologies",
     "COMPSCI367 - Artificial Intelligence/week12",
