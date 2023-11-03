@@ -15,4 +15,6 @@ Each integration is verified by an [[Automated Build]] (including [[Testing]]) t
 - Update (merge)
 	- Retest if the mainline shows deviation from the working copy
 - Commit changes
-- Trigger [[Continuous Integration (CI)]] server 
+- Trigger [[Continuous Integration (CI)]] server for commit builds
+- Inform developers about [[build scripts]] results
+- 
