@@ -1,1 +1,1 @@
-[[Scrum]] 
+[[Scrum]] is an [[AGILE]] framework for [[Evolutionary (Iterative) Approach]], [[Incremental Approach]] [[software development]] that emphasizes collabora
