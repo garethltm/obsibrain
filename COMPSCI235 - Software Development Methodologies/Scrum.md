@@ -29,4 +29,4 @@ Successful project is one that optimises the value of the product for which it i
 	- [[SPRINT (iteration)]]
 	- [[Incremental Development]]
 3. Definition of Done ([[acceptance criteria]])
-	- 
+	- The definition of done is an agreed upon list of the activities deemed necessary to get a product increment, usually represented by a [[user story]] to a done state by the end of 
