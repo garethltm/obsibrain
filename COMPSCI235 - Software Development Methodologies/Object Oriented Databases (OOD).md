@@ -5,4 +5,4 @@ There essentially 3 approaches which have been developed for the management of o
 	- storing objects in tables
 2. [[Object Relation Mapping (ORM)]]
 	- automatically mapped
-	- SQLalchemy
+	- [[SQLalchemy]]

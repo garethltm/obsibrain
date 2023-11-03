@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Software Architecture.md",
+                "file": "COMPSCI235 - Software Development Methodologies/NoSQL.md",
                 "mode": "source",
                 "source": false
               }
@@ -32,7 +32,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Software Architecture.md",
+                "file": "COMPSCI235 - Software Development Methodologies/NoSQL.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -128,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Software Architecture.md",
+                "file": "COMPSCI235 - Software Development Methodologies/NoSQL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Software Architecture.md",
+                "file": "COMPSCI235 - Software Development Methodologies/NoSQL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Software Architecture.md"
+                "file": "COMPSCI235 - Software Development Methodologies/NoSQL.md"
               }
             }
           },
@@ -196,7 +196,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Software Architecture.md"
+                "file": "COMPSCI235 - Software Development Methodologies/NoSQL.md"
               }
             }
           }
@@ -221,32 +221,32 @@
   },
   "active": "33a55b9766be070c",
   "lastOpenFiles": [
-    "COMPSCI235 - Software Development Methodologies/Quality Attributes.md",
+    "COMPSCI235 - Software Development Methodologies/object data model.md",
+    "COMPSCI235 - Software Development Methodologies/Object ID (OID).md",
+    "COMPSCI235 - Software Development Methodologies/Object Oriented Databases (OOD).md",
+    "COMPSCI235 - Software Development Methodologies/Object Relation Mapping (ORM).md",
+    "COMPSCI235 - Software Development Methodologies/Object-Oriented Database Management System (OODBMS).md",
+    "COMPSCI235 - Software Development Methodologies/One-to-many Relation.md",
+    "COMPSCI235 - Software Development Methodologies/Object-Relational Database Management System (ORDBMS).md",
+    "COMPSCI235 - Software Development Methodologies/open protocol.md",
+    "COMPSCI235 - Software Development Methodologies/ORM & Associations.md",
+    "COMPSCI235 - Software Development Methodologies/pair programming.md",
+    "COMPSCI235 - Software Development Methodologies/Patches.md",
+    "COMPSCI235 - Software Development Methodologies/Pending.md",
+    "COMPSCI235 - Software Development Methodologies/Persistence.md",
+    "COMPSCI235 - Software Development Methodologies/Persistent.md",
+    "COMPSCI235 - Software Development Methodologies/Persisting a simple domain model.md",
+    "COMPSCI235 - Software Development Methodologies/Planning.md",
+    "COMPSCI235 - Software Development Methodologies/process.md",
+    "COMPSCI235 - Software Development Methodologies/product backlog.md",
+    "COMPSCI235 - Software Development Methodologies/product backlog refinement.md",
+    "COMPSCI235 - Software Development Methodologies/Product Owner.md",
+    "COMPSCI235 - Software Development Methodologies/Pytest.md",
+    "COMPSCI235 - Software Development Methodologies/Python's support for abstract base classes.md",
     "COMPSCI235 - Software Development Methodologies/Qualitative metrics.md",
-    "COMPSCI235 - Software Development Methodologies/Quantitative metrics.md",
-    "COMPSCI235 - Software Development Methodologies/Refactoring.md",
-    "COMPSCI235 - Software Development Methodologies/Relational database.md",
-    "COMPSCI235 - Software Development Methodologies/Relational DBMS (RDBMS).md",
-    "COMPSCI235 - Software Development Methodologies/released product.md",
-    "COMPSCI235 - Software Development Methodologies/Repository.md",
-    "COMPSCI235 - Software Development Methodologies/requirements gathering.md",
-    "COMPSCI235 - Software Development Methodologies/Scrum.md",
-    "COMPSCI235 - Software Development Methodologies/Scalability.md",
-    "COMPSCI235 - Software Development Methodologies/Scrum Master.md",
-    "COMPSCI235 - Software Development Methodologies/selector.md",
-    "COMPSCI235 - Software Development Methodologies/Security concerns.md",
-    "COMPSCI235 - Software Development Methodologies/semantic.md",
-    "COMPSCI235 - Software Development Methodologies/session.md",
-    "COMPSCI235 - Software Development Methodologies/Session cookie.md",
-    "COMPSCI235 - Software Development Methodologies/shared understanding.md",
-    "COMPSCI235 - Software Development Methodologies/Signed cookies.md",
-    "COMPSCI235 - Software Development Methodologies/Single Responsibility Principle (SRP).md",
+    "COMPSCI235 - Software Development Methodologies/Quality Attributes.md",
     "COMPSCI235 - Software Development Methodologies/Software Architecture.md",
-    "COMPSCI235 - Software Development Methodologies/WTForms.md",
-    "COMPSCI235 - Software Development Methodologies/Work Item Age.md",
-    "COMPSCI235 - Software Development Methodologies/Work In Progress (WIP).md",
-    "COMPSCI235 - Software Development Methodologies/White Box Testing.md",
-    "COMPSCI235 - Software Development Methodologies/Web-based Systems.md",
+    "COMPSCI235 - Software Development Methodologies/Architectural Pattern.md",
     "@images/1 TYRSuON0vVxy8olllrBVEw.png",
     "@images/Pasted image 20231104020521.png",
     "@images/Pasted image 20231104015543.png",
