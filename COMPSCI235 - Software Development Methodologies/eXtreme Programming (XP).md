@@ -10,4 +10,9 @@ core values that you think that are most important for your team to deliver the 
 2. Simplicity
 	- Build what is NEEDED
 3. Feedback
-	- Custoe
+	- Customer Onsite
+4. Courage
+	- to adapt to change
+5. Respect
+	- open to taking criticism & resolving conflicts in a respectful manner
+
