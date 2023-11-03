@@ -22,7 +22,7 @@ Successful project is one that optimises the value of the product for which it i
 
 ### [[AGILE]] terms
 1. Requirements
-	- [[User story]]
+	- [[user story]]
 	- [[product backlog]]
-	- [product backlog refinement]]
+	- [[product backlog refinement]]
 2. Development flow
