@@ -24,6 +24,6 @@ An approach to developing a single application as a suite of small services, eac
 	- Use same web service in multiple apps
 - [[Support separate team development]]
 	- Pick boundaries that match team responsibilities
-- [[Design/Support for failure]]
+- [[Design or Support for failure]]
 	- one complexity to handle with [[Microservices]]
 
