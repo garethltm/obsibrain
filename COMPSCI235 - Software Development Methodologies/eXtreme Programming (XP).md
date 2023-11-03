@@ -49,4 +49,6 @@ core values that you think that are most important for your team to deliver the 
 2. Design
 	- Follows the "keep it simple" principle
 	- Encourage the use of Class-Responsibility-Collaborator (CRC) cards
-	- For difficult design problems, suggests the creation of "spike "
+	- For difficult design problems, suggests the creation of "spike solutions" - a design prototype
+	- Encourages "[[Refactoring]]"
+	- Design occurs both before & after coding commences
