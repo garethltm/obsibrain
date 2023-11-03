@@ -1,1 +1,2 @@
 - also known as Release Development
+- In an [[AGILE]] context, [[Incremental Development]] is wh
