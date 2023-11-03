@@ -22,7 +22,7 @@ which are:
 - **Individuals & Interactions** over processes & tools
 - **Working Software** over comprehensive documentation
 - **Customer Collaboration** over contract negotiation
-- Responding to Change
+- **Responding to Change** over following a plan
 
 ## 12 principles of [[AGILE]] [[software]]
 1. Our highest priority is to satisfy customer through **early & continuous delivery of valuable [[software]]
@@ -54,4 +54,4 @@ which are:
 	- Scrum
 	- Kanban
 2. [[AGILE]] Development Model
-	- eXtreme Programming (XP)
+	- [[eXtreme Programming (XP)]]
