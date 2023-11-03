@@ -5,4 +5,4 @@ How should the system do it?
 >	3. The system should be able to handle a concurrent user load of at least 1000 users without a significant performance degradation (**Performance**)
 >	4. Regular automated backups of user data should be performed & stored securely to prevent data loss. (**Reliability**)
 
-[[Non-functional Requirements (NFR)]]
+[[Non-functional Requirements (NFR)]] are system-level [[constraint(s)]] that can impact 
