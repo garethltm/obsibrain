@@ -1,5 +1,7 @@
+![[Pasted image 20231103234234.png]]
 - Aim:
 	- to organise & decompose [[user stories]] from the perspective of users' workflows
 
 ## 2 types of approaches
-1. topd
+1. top-down
+2. bottom-up
