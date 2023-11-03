@@ -36,4 +36,7 @@ core values that you think that are most important for your team to deliver the 
 	- put a simple system into production quickly & then release new versions in very short cycles
 6. Coding Standards (Code is consistent)
 	- follow a common coding standard, so that all the code in the system looks as if it was written by a single (competent) individual
+
 ![[Pasted image 20231103170921.png]]
+1. Planning
+	- Begins with the creation of
