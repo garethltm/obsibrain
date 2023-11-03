@@ -18,3 +18,4 @@ A required sign-off from another team member before a developer is permitted to 
 - when:
 	- when code author has finished a coherent system change that is otherwise ready for check-in
 		- change shouldn't be too large/too small
+		- before committing the code to the repository or incorporating it into the new build
