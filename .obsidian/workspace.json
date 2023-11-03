@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Issue Tracking.md",
+                "file": "COMPSCI235 - Software Development Methodologies/Declarative Mapping.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Issue Tracking.md",
+                "file": "COMPSCI235 - Software Development Methodologies/Declarative Mapping.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Issue Tracking.md",
+                "file": "COMPSCI235 - Software Development Methodologies/Declarative Mapping.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Issue Tracking.md"
+                "file": "COMPSCI235 - Software Development Methodologies/Declarative Mapping.md"
               }
             }
           },
@@ -153,7 +153,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Issue Tracking.md"
+                "file": "COMPSCI235 - Software Development Methodologies/Declarative Mapping.md"
               }
             }
           }
@@ -178,6 +178,9 @@
   },
   "active": "33a55b9766be070c",
   "lastOpenFiles": [
+    "COMPSCI235 - Software Development Methodologies/Mapping Styles.md",
+    "COMPSCI235 - Software Development Methodologies/Architectural Pattern.md",
+    "COMPSCI235 - Software Development Methodologies/Issue Tracking.md",
     "COMPSCI235 - Software Development Methodologies/Choosing an issue tracking tool.md",
     "COMPSCI235 - Software Development Methodologies/SQLAlchemy.md",
     "COMPSCI235 - Software Development Methodologies/Persisting a simple domain model.md",
@@ -205,15 +208,12 @@
     "COMPSCI235 - Software Development Methodologies/core service.md",
     "COMPSCI235 - Software Development Methodologies/Support for change.md",
     "COMPSCI235 - Software Development Methodologies/Untitled",
-    "COMPSCI235 - Software Development Methodologies/Support for scaling & development.md",
     "@images/Pasted image 20231104013713.png",
-    "COMPSCI235 - Software Development Methodologies/Monolithic.md",
     "@images/Pasted image 20231104013217.png",
     "@images/Pasted image 20231104013215.png",
     "@images/Pasted image 20231104013117.png",
     "@images/Pasted image 20231104012836.png",
     "@images/Pasted image 20231104012805.png",
-    "COMPSCI235 - Software Development Methodologies/Modern software systems.md",
     "@images/Pasted image 20231104011548.png",
     "COMPSCI367 - Artificial Intelligence/finals prep.canvas",
     "COMPSCI235 - Software Development Methodologies",
