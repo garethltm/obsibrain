@@ -46,4 +46,7 @@ is an [[AGILE]] process model that is used to optimize the flow of work in a tea
 3. Team members should always have something to work on
 4. The goal should be sustainable [[software]] engineering culture that delivers value to the customer (should also **RESPECT** developers, one of the 5 core values of [[eXtreme Programming (XP)]])
 
->3
+>	#Example 
+>	![[Pasted image 20231104001923.png]]![[Pasted image 20231104001949.png]]
+
+### 4 
