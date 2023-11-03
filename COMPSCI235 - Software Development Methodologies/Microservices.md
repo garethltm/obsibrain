@@ -6,3 +6,7 @@ splitting services into smaller modules
 
 An approach to developing a single application as a suite of small services, each running its own process & communicating with lightweight mechanisms, often an [[Hypertext Transfer Protocol (HTTP)]] resource API (RESTful API)
 - they are not running on the same machine
+
+### Architectural Pattern
+![[Pasted image 20231104013217.png]]
+- [[Single Responsibility Principle (SRP)]]
