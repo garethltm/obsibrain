@@ -11,12 +11,8 @@
             "id": "33a55b9766be070c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Declarative Mapping.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Declarative Mapping.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Declarative Mapping.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Declarative Mapping.md"
-              }
+              "state": {}
             }
           },
           {
@@ -152,9 +144,7 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Declarative Mapping.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -178,7 +168,9 @@
   },
   "active": "33a55b9766be070c",
   "lastOpenFiles": [
+    "COMPSCI235 - Software Development Methodologies/Declarative Mapping.md",
     "COMPSCI235 - Software Development Methodologies/Mapping Styles.md",
+    "COMPSCI235 - Software Development Methodologies/Imperative (or Classical) Mapping.md",
     "COMPSCI235 - Software Development Methodologies/Architectural Pattern.md",
     "COMPSCI235 - Software Development Methodologies/Issue Tracking.md",
     "COMPSCI235 - Software Development Methodologies/Choosing an issue tracking tool.md",
@@ -205,8 +197,6 @@
     "@images/Pasted image 20231104015543.png",
     "COMPSCI235 - Software Development Methodologies/Support for reuse.md",
     "@images/Pasted image 20231104015416.png",
-    "COMPSCI235 - Software Development Methodologies/core service.md",
-    "COMPSCI235 - Software Development Methodologies/Support for change.md",
     "COMPSCI235 - Software Development Methodologies/Untitled",
     "@images/Pasted image 20231104013713.png",
     "@images/Pasted image 20231104013217.png",
