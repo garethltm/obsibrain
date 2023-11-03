@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "INFOSYS222 - Database Systems/DML - Data Manipulation Language.md",
+                "file": "COMPSCI235 - Software Development Methodologies/Impedence.md",
                 "mode": "source",
                 "source": false
               }
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "INFOSYS222 - Database Systems/DML - Data Manipulation Language.md",
+                "file": "COMPSCI235 - Software Development Methodologies/Impedence.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "INFOSYS222 - Database Systems/DML - Data Manipulation Language.md",
+                "file": "COMPSCI235 - Software Development Methodologies/Impedence.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "INFOSYS222 - Database Systems/DML - Data Manipulation Language.md"
+                "file": "COMPSCI235 - Software Development Methodologies/Impedence.md"
               }
             }
           },
@@ -154,7 +153,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "INFOSYS222 - Database Systems/DML - Data Manipulation Language.md"
+                "file": "COMPSCI235 - Software Development Methodologies/Impedence.md"
               }
             }
           }
@@ -179,6 +178,7 @@
   },
   "active": "33a55b9766be070c",
   "lastOpenFiles": [
+    "INFOSYS222 - Database Systems/DML - Data Manipulation Language.md",
     "COMPSCI235 - Software Development Methodologies/Data Manipulation Language (DML).md",
     "INFOSYS222 - Database Systems/DDL - Data Definition Language.md",
     "COMPSCI235 - Software Development Methodologies/Kanban.md",
@@ -205,7 +205,6 @@
     "@images/1 TYRSuON0vVxy8olllrBVEw.png",
     "COMPSCI235 - Software Development Methodologies/Unified Modeling Language (UML).md",
     "COMPSCI235 - Software Development Methodologies/Generic Software Development Process Framework.md",
-    "COMPSCI235 - Software Development Methodologies/ACID.md",
     "@images/Pasted image 20231104020521.png",
     "@images/Pasted image 20231104015543.png",
     "@images/Pasted image 20231104015416.png",
