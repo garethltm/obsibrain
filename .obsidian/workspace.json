@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Types of Requirements.md",
+                "file": "COMPSCI235 - Software Development Methodologies/Functional Requirements (FR).md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Types of Requirements.md",
+                "file": "COMPSCI235 - Software Development Methodologies/Functional Requirements (FR).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Types of Requirements.md",
+                "file": "COMPSCI235 - Software Development Methodologies/Functional Requirements (FR).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Types of Requirements.md"
+                "file": "COMPSCI235 - Software Development Methodologies/Functional Requirements (FR).md"
               }
             }
           },
@@ -153,7 +153,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Types of Requirements.md"
+                "file": "COMPSCI235 - Software Development Methodologies/Functional Requirements (FR).md"
               }
             }
           }
@@ -178,8 +178,10 @@
   },
   "active": "33a55b9766be070c",
   "lastOpenFiles": [
-    "COMPSCI235 - Software Development Methodologies/AGILE.md",
     "COMPSCI235 - Software Development Methodologies/Types of Requirements.md",
+    "COMPSCI235 - Software Development Methodologies/Non-functional Requirements (NFR).md",
+    "COMPSCI235 - Software Development Methodologies/Functional Requirements (FR).md",
+    "COMPSCI235 - Software Development Methodologies/AGILE.md",
     "COMPSCI235 - Software Development Methodologies/Waterfall Model.md",
     "@images/Pasted image 20231103230401.png",
     "@images/Pasted image 20231103230032.png",
@@ -204,8 +206,6 @@
     "COMPSCI235 - Software Development Methodologies/Scrum Master.md",
     "COMPSCI235 - Software Development Methodologies/SPRINT (iteration).md",
     "COMPSCI235 - Software Development Methodologies/Product Owner.md",
-    "COMPSCI235 - Software Development Methodologies/Pending.md",
-    "COMPSCI235 - Software Development Methodologies/Continuous Delivery (CD).md",
     "@images/Pasted image 20231103170921.png",
     "@images/Pasted image 20231103170153.png",
     "@images/Pasted image 20231103170120.png",
