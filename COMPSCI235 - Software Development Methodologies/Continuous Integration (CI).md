@@ -17,4 +17,4 @@ Each integration is verified by an [[Automated Build]] (including [[Testing]]) t
 - Commit changes
 - Trigger [[Continuous Integration (CI)]] server for commit builds
 - Inform developers about [[build scripts]] results
-- Immediately fix [[]]
+- Immediately fix [[b]]
