@@ -1,4 +1,4 @@
-- [[gi]]
+- [[GitHub]] Repository is a type of [[Version Control Systems (VCS)]]
 - Also known as source code management systems or revision control systems
 - A system that records changes to a data file or set of data files over time so that one can recall and compare specific versions later
 >	#Example 
