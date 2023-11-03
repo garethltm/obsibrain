@@ -23,6 +23,8 @@ If not [[Refactoring]], you are incurring a [[technical debt]] which would cost 
 - Repeat the simplify/test cycle until the smell is gone
 
 ## Performing [[Refactoring]]
-- consider a [[code smell]] 
->	#Example 
+>	#Example consider a [[code smell]] 
 >	duplicate code - code repeated in multiple places
+>	It can be removed using the following [[Refactoring]] activities
+>	- Extract Method
+>	- 
