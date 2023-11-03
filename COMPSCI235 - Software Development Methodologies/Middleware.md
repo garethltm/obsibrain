@@ -5,7 +5,7 @@
 	- acting like an interface
 	- provides some sort of **programming abstraction** (issues & complexity are usually hidden from application developer)
 	>	#Example 
-	>	remote method invocation, web frameworks, etc.
+	>	remote method invocation, web frameworks, etc.![[1 EhvAMPfmS5Rw5rBFkrFBjg 1.png]]
 
 	- Provides infrastructure to take care of the low-level concerns
 	>	#Example 
