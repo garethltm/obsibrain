@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Data Manipulation Language (DML).md",
+                "file": "COMPSCI235 - Software Development Methodologies/Construction (Code, Test).md",
                 "mode": "source",
                 "source": false
               }
@@ -32,7 +32,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Data Manipulation Language (DML).md",
+                "file": "COMPSCI235 - Software Development Methodologies/Construction (Code, Test).md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -128,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Data Manipulation Language (DML).md",
+                "file": "COMPSCI235 - Software Development Methodologies/Construction (Code, Test).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Data Manipulation Language (DML).md",
+                "file": "COMPSCI235 - Software Development Methodologies/Construction (Code, Test).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Data Manipulation Language (DML).md"
+                "file": "COMPSCI235 - Software Development Methodologies/Construction (Code, Test).md"
               }
             }
           },
@@ -196,7 +196,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Data Manipulation Language (DML).md"
+                "file": "COMPSCI235 - Software Development Methodologies/Construction (Code, Test).md"
               }
             }
           }
@@ -219,8 +219,21 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "3ad179677b7fba41",
+  "active": "33a55b9766be070c",
   "lastOpenFiles": [
+    "COMPSCI235 - Software Development Methodologies/Concurrent.md",
+    "COMPSCI235 - Software Development Methodologies/Construction (Code, Test).md",
+    "COMPSCI235 - Software Development Methodologies/Continuous Delivery (CD).md",
+    "COMPSCI235 - Software Development Methodologies/Continuous Deployment.md",
+    "COMPSCI235 - Software Development Methodologies/Continuous Integration (CI).md",
+    "COMPSCI235 - Software Development Methodologies/cookie.md",
+    "COMPSCI235 - Software Development Methodologies/core service.md",
+    "COMPSCI235 - Software Development Methodologies/Creating responses.md",
+    "COMPSCI235 - Software Development Methodologies/Cross-site Request Forgery (CSRF).md",
+    "COMPSCI235 - Software Development Methodologies/Cycle Time.md",
+    "COMPSCI235 - Software Development Methodologies/cyclomatic complexity.md",
+    "COMPSCI235 - Software Development Methodologies/Data Definition Language (DDL).md",
+    "COMPSCI235 - Software Development Methodologies/Data Manipulation Language (DML).md",
     "COMPSCI235 - Software Development Methodologies/Data Query Language (DQL).md",
     "COMPSCI235 - Software Development Methodologies/Data structures.md",
     "COMPSCI235 - Software Development Methodologies/database.md",
@@ -234,19 +247,6 @@
     "COMPSCI235 - Software Development Methodologies/Deployment.md",
     "COMPSCI235 - Software Development Methodologies/Design or Support for failure.md",
     "COMPSCI235 - Software Development Methodologies/detail of issue.md",
-    "COMPSCI235 - Software Development Methodologies/design(s).md",
-    "COMPSCI235 - Software Development Methodologies/Development team.md",
-    "COMPSCI235 - Software Development Methodologies/Distributed VCS.md",
-    "COMPSCI235 - Software Development Methodologies/Documents.md",
-    "COMPSCI235 - Software Development Methodologies/Domain Modeling.md",
-    "COMPSCI235 - Software Development Methodologies/Element selectors.md",
-    "COMPSCI235 - Software Development Methodologies/empirical.md",
-    "COMPSCI235 - Software Development Methodologies/Evolutionary (Iterative) Approach.md",
-    "COMPSCI235 - Software Development Methodologies/Expired.md",
-    "COMPSCI235 - Software Development Methodologies/External Dependency.md",
-    "COMPSCI235 - Software Development Methodologies/External style sheet.md",
-    "COMPSCI235 - Software Development Methodologies/eXtreme Programming (XP).md",
-    "COMPSCI235 - Software Development Methodologies/fault-tolerance.md",
     "@images/1 TYRSuON0vVxy8olllrBVEw.png",
     "@images/Pasted image 20231104020521.png",
     "@images/Pasted image 20231104015543.png",
