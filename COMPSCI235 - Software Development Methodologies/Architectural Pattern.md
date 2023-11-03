@@ -1,9 +1,9 @@
 An [[Architectural Pattern]] helps breaks a large system into chunks manageable for human programmers to understand, implement & maintain
 
 ## Types
-- [[Monolithic Architectural Pattern]]
-- [[Microservices Architectural Pattern]]
+- [[Monolithic]] Architectural Pattern
+- [[Microservices]] Architectural Pattern
 - Service-oriented Architecture (SoA)
-	- a type of [[Microservices Architectural Pattern]]
+	- a type of [p]
 - Serverless Architecture
 	- Cloud
