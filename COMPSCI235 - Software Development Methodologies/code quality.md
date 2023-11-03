@@ -32,4 +32,8 @@ Quality code should always be:
 	2. Short methods, smaller classes,... ([[Refactoring]])
 	3. Learn by reading good code
 4. Write tests with high coverage
-5. 
+	- test should cover new functionalities that are just newly added
+5. Run all your test before check-in
+6. Check-in frequently
+	- [[Continuous Integration (CI)]]
+7. 
