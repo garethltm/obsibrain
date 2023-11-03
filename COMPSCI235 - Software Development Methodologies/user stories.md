@@ -26,4 +26,6 @@ WHO, WHAT & WHY
 		- Release [[COMPSCI235 - Software Development Methodologies/Planning|Planning]] by Project Owner
 		- [[SPRINT (iteration)]] planning by development team
 		- Usually quite hard to estimate
-	- allo
+	- progressive refinement of requirements
+		- just enough, just-in-time
+![[Pasted image 20231103232537.png]]
