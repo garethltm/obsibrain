@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Kanban.md",
+                "file": "INFOSYS222 - Database Systems/DDL - Data Definition Language.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "artifac",
+                "query": "ddl",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Kanban.md",
+                "file": "INFOSYS222 - Database Systems/DDL - Data Definition Language.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Kanban.md",
+                "file": "INFOSYS222 - Database Systems/DDL - Data Definition Language.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Kanban.md"
+                "file": "INFOSYS222 - Database Systems/DDL - Data Definition Language.md"
               }
             }
           },
@@ -153,7 +154,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Kanban.md"
+                "file": "INFOSYS222 - Database Systems/DDL - Data Definition Language.md"
               }
             }
           }
@@ -178,6 +179,7 @@
   },
   "active": "33a55b9766be070c",
   "lastOpenFiles": [
+    "COMPSCI235 - Software Development Methodologies/Kanban.md",
     "COMPSCI235 - Software Development Methodologies/Scrum.md",
     "COMPSCI235 - Software Development Methodologies/Development team.md",
     "COMPSCI235 - Software Development Methodologies/Scrum Master.md",
@@ -203,7 +205,6 @@
     "COMPSCI235 - Software Development Methodologies/Generic Software Development Process Framework.md",
     "COMPSCI235 - Software Development Methodologies/ACID.md",
     "COMPSCI235 - Software Development Methodologies/requirements gathering.md",
-    "COMPSCI235 - Software Development Methodologies/Kanban.md",
     "COMPSCI235 - Software Development Methodologies/acceptance criteria.md",
     "@images/Pasted image 20231104020521.png",
     "@images/Pasted image 20231104015543.png",
