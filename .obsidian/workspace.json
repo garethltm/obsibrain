@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Kanban.md",
+                "file": "COMPSCI235 - Software Development Methodologies/Cascading Style Sheets (CSS).md",
                 "mode": "source",
                 "source": false
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Kanban.md",
+                "file": "COMPSCI235 - Software Development Methodologies/Cascading Style Sheets (CSS).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -158,7 +158,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Kanban.md",
+                "file": "COMPSCI235 - Software Development Methodologies/Cascading Style Sheets (CSS).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -181,7 +181,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Kanban.md"
+                "file": "COMPSCI235 - Software Development Methodologies/Cascading Style Sheets (CSS).md"
               }
             }
           },
@@ -209,7 +209,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Kanban.md"
+                "file": "COMPSCI235 - Software Development Methodologies/Cascading Style Sheets (CSS).md"
               }
             }
           }
@@ -234,6 +234,10 @@
   },
   "active": "95c985d8e33e2311",
   "lastOpenFiles": [
+    "COMPSCI235 - Software Development Methodologies/Internal style sheet.md",
+    "COMPSCI235 - Software Development Methodologies/Cascading Style Sheets (CSS).md",
+    "COMPSCI235 - Software Development Methodologies/Inline styles.md",
+    "COMPSCI235 - Software Development Methodologies/Kanban.md",
     "COMPSCI235 - Software Development Methodologies/AGILE.md",
     "COMPSCI235 - Software Development Methodologies/External Dependency.md",
     "COMPSCI235 - Software Development Methodologies/Evolutionary (Iterative) Approach.md",
@@ -256,10 +260,6 @@
     "COMPSCI235 - Software Development Methodologies/Architectural Pattern.md",
     "COMPSCI235 - Software Development Methodologies/Association.md",
     "COMPSCI235 - Software Development Methodologies/Authentication.md",
-    "COMPSCI235 - Software Development Methodologies/Automated Build.md",
-    "COMPSCI235 - Software Development Methodologies/Automated Testing.md",
-    "COMPSCI235 - Software Development Methodologies/Behavioral Diagrams.md",
-    "COMPSCI235 - Software Development Methodologies/Black Box Testing.md",
     "@images/1 TYRSuON0vVxy8olllrBVEw.png",
     "@images/Pasted image 20231104020521.png",
     "@images/Pasted image 20231104015543.png",
