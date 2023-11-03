@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Template containment.md",
+                "file": "COMPSCI235 - Software Development Methodologies/Template inheritance.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Template containment.md",
+                "file": "COMPSCI235 - Software Development Methodologies/Template inheritance.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Template containment.md",
+                "file": "COMPSCI235 - Software Development Methodologies/Template inheritance.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Template containment.md"
+                "file": "COMPSCI235 - Software Development Methodologies/Template inheritance.md"
               }
             }
           },
@@ -154,7 +154,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Template containment.md"
+                "file": "COMPSCI235 - Software Development Methodologies/Template inheritance.md"
               }
             }
           }
@@ -180,6 +180,7 @@
   "active": "33a55b9766be070c",
   "lastOpenFiles": [
     "COMPSCI235 - Software Development Methodologies/Jinja.md",
+    "COMPSCI235 - Software Development Methodologies/Template containment.md",
     "COMPSCI235 - Software Development Methodologies/Template inheritance & containment.md",
     "COMPSCI235 - Software Development Methodologies/Networked.md",
     "COMPSCI235 - Software Development Methodologies/Distributed VCS.md",
@@ -205,7 +206,6 @@
     "COMPSCI235 - Software Development Methodologies/Mapping Styles.md",
     "COMPSCI235 - Software Development Methodologies/Imperative (or Classical) Mapping.md",
     "COMPSCI235 - Software Development Methodologies/Architectural Pattern.md",
-    "COMPSCI235 - Software Development Methodologies/Issue Tracking.md",
     "@images/Pasted image 20231104020521.png",
     "@images/Pasted image 20231104015543.png",
     "@images/Pasted image 20231104015416.png",
