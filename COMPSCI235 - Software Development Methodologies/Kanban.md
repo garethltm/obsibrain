@@ -20,4 +20,6 @@ think of a factory thing where there is continuous movement in a production of a
 
 >	#Example 
 >	![[Pasted image 20231103235440.png]]
->	- when 1 is done with `testing` TGB it then moves to the done area
+>	- At Testing, when developer1 is done with `ongoing` TGB it then moves to the `done` area
+>	![[Pasted image 20231103235609.png]]
+>	- At Selecteddeveloper1 then goes to the selected
