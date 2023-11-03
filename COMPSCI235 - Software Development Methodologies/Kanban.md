@@ -5,4 +5,6 @@ is an [[AGILE]] process model that is used to optimize the flow of work in a tea
 ![[Pasted image 20231103234722.png]]
 
 ### Characteristics
-1. [[Kanban]] facilitates a ""
+1. [[Kanban]] facilitates a "[[lean pull system]]" & not a "wasteful push system"
+	- no delegation of tasks
+2. [[Kanban]] uses 
