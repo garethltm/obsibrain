@@ -15,3 +15,8 @@ WHO, WHAT & WHY
 	- Discuss your ideas with others to build a [[shared understanding]]
 3. Confirmation
 	- Work towards agreement on what to build. Record that agreement as a set of [[acceptance criteria]]
+![[Pasted image 20231103232116.png]]
+
+## Different sizes
+- [[user story]] have multiple levels of abstractions/granularity
+	- Epics, []
