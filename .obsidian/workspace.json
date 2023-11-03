@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Hypertext Markup Language (HTML).md",
+                "file": "COMPSCI235 - Software Development Methodologies/user stories.md",
                 "mode": "source",
                 "source": false
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Hypertext Markup Language (HTML).md",
+                "file": "COMPSCI235 - Software Development Methodologies/user stories.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -158,7 +158,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Hypertext Markup Language (HTML).md",
+                "file": "COMPSCI235 - Software Development Methodologies/user stories.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -181,7 +181,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Hypertext Markup Language (HTML).md"
+                "file": "COMPSCI235 - Software Development Methodologies/user stories.md"
               }
             }
           },
@@ -209,7 +209,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Hypertext Markup Language (HTML).md"
+                "file": "COMPSCI235 - Software Development Methodologies/user stories.md"
               }
             }
           }
@@ -234,6 +234,7 @@
   },
   "active": "95c985d8e33e2311",
   "lastOpenFiles": [
+    "COMPSCI235 - Software Development Methodologies/Hypertext Markup Language (HTML).md",
     "COMPSCI235 - Software Development Methodologies/selector.md",
     "COMPSCI235 - Software Development Methodologies/Class selectors.md",
     "COMPSCI235 - Software Development Methodologies/Element selectors.md",
@@ -259,7 +260,6 @@
     "COMPSCI235 - Software Development Methodologies/Aggregation.md",
     "COMPSCI235 - Software Development Methodologies/analysis.md",
     "COMPSCI235 - Software Development Methodologies/Annotation.md",
-    "COMPSCI235 - Software Development Methodologies/Application layer protocols.md",
     "@images/1 TYRSuON0vVxy8olllrBVEw.png",
     "@images/Pasted image 20231104020521.png",
     "@images/Pasted image 20231104015543.png",
