@@ -55,3 +55,5 @@ is an [[AGILE]] process model that is used to optimize the flow of work in a tea
 	- should be as high as possible
 3. [[Cycle Time]]
 4. [[Work Item Age]]
+>	#Example 
+>	![[Pasted image 20231104002300.png]]
