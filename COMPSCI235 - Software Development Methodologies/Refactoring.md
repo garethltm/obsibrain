@@ -22,4 +22,7 @@ If not [[Refactoring]], you are incurring a [[technical debt]] which would cost 
 - Run test to ensure things still work correctly
 - Repeat the simplify/test cycle until the smell is gone
 
-## Performing 
+## Performing [[Refactoring]]
+- consider a [[code smell]] 
+>	#Example 
+>	duplicate code - code repeated in multiple places
