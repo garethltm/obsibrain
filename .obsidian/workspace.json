@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Design or Support for failure.md",
+                "file": "COMPSCI235 - Software Development Methodologies/Microservices.md",
                 "mode": "source",
                 "source": false
               }
@@ -32,7 +32,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Design or Support for failure.md",
+                "file": "COMPSCI235 - Software Development Methodologies/Microservices.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -128,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Design or Support for failure.md",
+                "file": "COMPSCI235 - Software Development Methodologies/Microservices.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Design or Support for failure.md",
+                "file": "COMPSCI235 - Software Development Methodologies/Microservices.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Design or Support for failure.md"
+                "file": "COMPSCI235 - Software Development Methodologies/Microservices.md"
               }
             }
           },
@@ -196,7 +196,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Design or Support for failure.md"
+                "file": "COMPSCI235 - Software Development Methodologies/Microservices.md"
               }
             }
           }
@@ -221,6 +221,7 @@
   },
   "active": "33a55b9766be070c",
   "lastOpenFiles": [
+    "COMPSCI235 - Software Development Methodologies/Design or Support for failure.md",
     "COMPSCI235 - Software Development Methodologies/Microservices.md",
     "COMPSCI235 - Software Development Methodologies/Support separate team development.md",
     "@images/Pasted image 20231104015543.png",
@@ -228,7 +229,6 @@
     "@images/Pasted image 20231104015416.png",
     "COMPSCI235 - Software Development Methodologies/core service.md",
     "COMPSCI235 - Software Development Methodologies/Support for change.md",
-    "COMPSCI235 - Software Development Methodologies/Design or Support for failure.md",
     "COMPSCI235 - Software Development Methodologies/Untitled",
     "COMPSCI235 - Software Development Methodologies/Support for scaling & development.md",
     "@images/Pasted image 20231104013713.png",

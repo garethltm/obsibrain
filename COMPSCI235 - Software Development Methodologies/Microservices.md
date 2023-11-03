@@ -27,3 +27,7 @@ An approach to developing a single application as a suite of small services, eac
 - [[Design or Support for failure]]
 	- one complexity to handle with [[Microservices]]
 
+### Challenges
+- Increased complexity
+	- not always teh
+

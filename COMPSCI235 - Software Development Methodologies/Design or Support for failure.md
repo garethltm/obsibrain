@@ -13,4 +13,4 @@ Key:
 
 >	#Example 
 >	Netflix uses "ChaosMonkey"
->	- w
+>	- which is responsible for randomly terminating instances in production to ensure that engineers implement their services to be resilient to instance failures
