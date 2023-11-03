@@ -104,7 +104,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "issue",
+                "query": "travis",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -121,7 +121,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -232,7 +233,7 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "95c985d8e33e2311",
+  "active": "a6e0090ac9cbd1f3",
   "lastOpenFiles": [
     "COMPSCI235 - Software Development Methodologies/Object Relation Mapping (ORM).md",
     "COMPSCI235 - Software Development Methodologies/Persistent.md",
