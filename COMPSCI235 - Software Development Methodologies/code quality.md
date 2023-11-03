@@ -24,4 +24,12 @@ Quality code should always be:
 1. [[Qualitative metrics]]
 2. [[Quantitative metrics]]
 
-### Impro
+### Improving [[code quality]] 
+1. Keep it simple
+2. Avoid shortcuts
+3. Care about design of your code:
+	1. Good names for variables, methods,...
+	2. Short methods, smaller classes,... ([[Refactoring]])
+	3. Learn by reading good code
+4. Write tests with high coverage
+5. 
