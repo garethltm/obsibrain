@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Continuous Deployment.md",
+                "file": "COMPSCI235 - Software Development Methodologies/AGILE.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "single source",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Continuous Deployment.md",
+                "file": "COMPSCI235 - Software Development Methodologies/AGILE.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Continuous Deployment.md",
+                "file": "COMPSCI235 - Software Development Methodologies/AGILE.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Continuous Deployment.md"
+                "file": "COMPSCI235 - Software Development Methodologies/AGILE.md"
               }
             }
           },
@@ -167,10 +166,10 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "a6e0090ac9cbd1f3",
+  "active": "ce23f5b49e0fddd1",
   "lastOpenFiles": [
-    "COMPSCI235 - Software Development Methodologies/Dependency Inversion Principle (DIP).md",
     "COMPSCI235 - Software Development Methodologies/Continuous Deployment.md",
+    "COMPSCI235 - Software Development Methodologies/Dependency Inversion Principle (DIP).md",
     "@images/Pasted image 20231103155017.png",
     "@images/Pasted image 20231103155015.png",
     "@images/Pasted image 20231103154925.png",
