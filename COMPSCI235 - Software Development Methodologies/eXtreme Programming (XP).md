@@ -57,4 +57,5 @@ core values that you think that are most important for your team to deliver the 
 	- Encourages "[[pair programming]]"
 	- Need continuous integration with other portions (stories) of the [[software]], which provides a "smoke testing" environment
 4. Testing
-	- [[Unit Testing]] should be implemented us
+	- [[Unit Testing]] should be implemented using a framework to make testing automated ([[Automated Testing]]). This encourages a regression testing strategy
+	- [[Integration Testing]] & Validation Te
