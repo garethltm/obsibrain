@@ -13,54 +13,11 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Microservices.md",
+                "file": "COMPSCI235 - Software Development Methodologies/Low-level modules.md",
                 "mode": "source",
                 "source": false
               }
-            },
-            "group": "82e2de99345a14b5"
-          }
-        ]
-      },
-      {
-        "id": "86b0db4ed9221cec",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "6a58bf796d543896",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Microservices.md",
-                "options": {
-                  "collapse-filter": true,
-                  "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": true,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 1,
-                  "close": false
-                }
-              }
-            },
-            "group": "82e2de99345a14b5"
+            }
           }
         ]
       }
@@ -128,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Microservices.md",
+                "file": "COMPSCI235 - Software Development Methodologies/Low-level modules.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Microservices.md",
+                "file": "COMPSCI235 - Software Development Methodologies/Low-level modules.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Microservices.md"
+                "file": "COMPSCI235 - Software Development Methodologies/Low-level modules.md"
               }
             }
           },
@@ -196,7 +153,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Microservices.md"
+                "file": "COMPSCI235 - Software Development Methodologies/Low-level modules.md"
               }
             }
           }
@@ -221,8 +178,11 @@
   },
   "active": "33a55b9766be070c",
   "lastOpenFiles": [
-    "COMPSCI235 - Software Development Methodologies/Design or Support for failure.md",
+    "COMPSCI235 - Software Development Methodologies/Dependency Inversion Principle (DIP).md",
+    "COMPSCI235 - Software Development Methodologies/High-level modules.md",
     "COMPSCI235 - Software Development Methodologies/Microservices.md",
+    "@images/Pasted image 20231104020521.png",
+    "COMPSCI235 - Software Development Methodologies/Design or Support for failure.md",
     "COMPSCI235 - Software Development Methodologies/Support separate team development.md",
     "@images/Pasted image 20231104015543.png",
     "COMPSCI235 - Software Development Methodologies/Support for reuse.md",
@@ -250,13 +210,11 @@
     "COMPSCI235 - Software Development Methodologies/The Repository pattern.md",
     "COMPSCI235 - Software Development Methodologies/Refactoring.md",
     "@images/Pasted image 20231104011548.png",
-    "@images/Pasted image 20231104011517.png",
     "COMPSCI235 - Software Development Methodologies/General Refactoring Process.md",
     "COMPSCI235 - Software Development Methodologies/Generic Software Development Process Framework.md",
     "COMPSCI235 - Software Development Methodologies/Test-driven development (AGILE practice).md",
     "COMPSCI235 - Software Development Methodologies/AGILE.md",
     "COMPSCI235 - Software Development Methodologies/code smell.md",
-    "COMPSCI235 - Software Development Methodologies/code review.md",
     "COMPSCI367 - Artificial Intelligence/finals prep.canvas",
     "COMPSCI235 - Software Development Methodologies",
     "COMPSCI367 - Artificial Intelligence/week12",

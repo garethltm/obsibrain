@@ -45,11 +45,15 @@ An approach to developing a single application as a suite of small services, eac
 		- it basically takes time to get/fetch data it needs from other [[Microservices]] to achieve its goal
 
 # Conclusion
+![[Pasted image 20231104020521.png]]
 [[Monolithic]] architecture is a traditional solution for building applications
 
 There are various reasons for using [[Microservices]] architecture - but there are limitations & downsides to consider as well
 
 [[Microservices]] architecture requires:
 - careful planning
-- enormous effo
+- enormous effort
+- team resources
+- skills
+
 
