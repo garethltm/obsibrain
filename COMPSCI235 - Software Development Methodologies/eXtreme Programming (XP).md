@@ -33,4 +33,6 @@ core values that you think that are most important for your team to deliver the 
 4. Refactoring (Code is continuously refactored)
 	- iterative refinement of the internal program design
 5. Short Releases (Release new versions in short cycles)
-	- put a simple system into production quickly
+	- put a simple system into production quickly & then release new versions in very short cycles
+6. Coding Standards (Code is consistent)
+	- follow a common coding standard, so that all the code in the system looks as if it was written by a single (competent) individual
