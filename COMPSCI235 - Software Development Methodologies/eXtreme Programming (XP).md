@@ -29,4 +29,8 @@ core values that you think that are most important for your team to deliver the 
 	- all production [[software]] is built by 2 programmers, sitting side by side & performing [[code quality]] checks, at the same machine
 3. [[Continuous Integration]] (committing to the main line)
 	- keep system fully integrated at all times by committing multiple builds each day
-		- not deviating from
+		- not deviating from the main line
+4. Refactoring (Code is continuously refactored)
+	- iterative refinement of the internal program design
+5. Short Releases (Release new versions in short cycles)
+	- put a simple system into production quickly
