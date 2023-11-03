@@ -15,3 +15,5 @@
 ### [[Jinja]] statements
 - [[Jinja]] provides for both iteration & selection![[Pasted image 20231101233221.png]]
 - Statements are delimited by {% %} & executed by the preprocessor to build the resulting [[Hypertext Markup Language (HTML)]] page
+
+![[Template inheritance & containment]]
