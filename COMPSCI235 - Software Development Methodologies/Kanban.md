@@ -20,6 +20,8 @@ think of a factory thing where there is continuous movement in a production of a
 
 >	#Example 
 >	![[Pasted image 20231103235440.png]]
->	- At Testing, when developer1 is done with `ongoing` TGB it then moves to the `done` area
+>	- At Testing, when developer1 is done with `ongoing` TGB it then moves to the `done` 
 >	![[Pasted image 20231103235741.png]]
->	- At Selected, developer1 then grabs a new story to work on which moves to  Development
+>	- At Selected, developer1 then grabs a new story to work on which moves to Development `ongoing`
+
+## Benefits
