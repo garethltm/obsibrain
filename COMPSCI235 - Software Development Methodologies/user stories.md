@@ -21,4 +21,6 @@ WHO, WHAT & WHY
 - [[user stories]] have multiple levels of abstractions/granularity
 	- Epics, [[user stories]], Themes
 	- Helps to address the different needs/stages of the development process
-- Differe
+- Different sized stories allow for different types of [[COMPSCI235 - Software Development Methodologies/Planning|Planning]]
+	- Release [[COMPSCI235 - Software Development Methodologies/Planning|Planning]] by Project Owner
+	- [[SPRINT (iteration)]] planning by development team
