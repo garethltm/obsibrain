@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Application Architecture.md",
+                "file": "COMPSCI235 - Software Development Methodologies/Continuous Integration (CI).md",
                 "mode": "source",
                 "source": false
               }
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Application Architecture.md",
+                "file": "COMPSCI235 - Software Development Methodologies/Continuous Integration (CI).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Application Architecture.md",
+                "file": "COMPSCI235 - Software Development Methodologies/Continuous Integration (CI).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Application Architecture.md"
+                "file": "COMPSCI235 - Software Development Methodologies/Continuous Integration (CI).md"
               }
             }
           },
@@ -167,8 +166,10 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "e3a0dec6ad66be55",
+  "active": "3ad179677b7fba41",
   "lastOpenFiles": [
+    "COMPSCI235 - Software Development Methodologies/cookie.md",
+    "COMPSCI235 - Software Development Methodologies/Application Architecture.md",
     "COMPSCI235 - Software Development Methodologies/Single Responsibility Principle (SRP).md",
     "COMPSCI235 - Software Development Methodologies/Continuous Integration (CI).md",
     "COMPSCI235 - Software Development Methodologies/Version Control Systems (VCS).md",
@@ -203,8 +204,6 @@
     "COMPSCI235 - Software Development Methodologies/SQLAlchemy Session.md",
     "conflict-files-obsidian-git.md",
     "COMPSCI235 - Software Development Methodologies/Choosing an issue tracking tool.md",
-    "COMPSCI235 - Software Development Methodologies/SQLAlchemy.md",
-    "COMPSCI235 - Software Development Methodologies/Pending.md",
     "COMPSCI235 - Software Development Methodologies",
     "COMPSCI367 - Artificial Intelligence/finals prep.canvas",
     "COMPSCI367 - Artificial Intelligence/week12",
