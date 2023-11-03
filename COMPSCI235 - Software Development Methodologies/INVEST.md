@@ -23,6 +23,7 @@
 >	days
 
 - Testable
-	- it should be clear whether a story 
+	- it should be clear whether a story passes its specified tests or not
+		- list of [[acceptance criteria]] clearly identified & written on story card
 
 ![[Pasted image 20231103232733.png]]

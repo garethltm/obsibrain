@@ -31,4 +31,7 @@ WHO, WHAT & WHY
 ![[Pasted image 20231103232537.png]]
 
 ## What are GOOD [[user stories]]?
-[[INVEST]]
+![[INVEST]]
+
+## Gathering [[user stories]]
+1. User 
