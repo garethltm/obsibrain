@@ -33,4 +33,10 @@ An approach to developing a single application as a suite of small services, eac
 		- if simple/small user base $\rightarrow$ [[Monolithic]] might be better
 	- hard to divide them to smaller [[Microservices]]
 - Data consistency
+	- due to each service having its own [[COMPSCI235 - Software Development Methodologies/database|database]]
+		- potential redundancy - duplicates
+- Greater security risks
+	- more APIs which can lead to more open ports
+- Different programming languages
+	- different languages make deployment/maintena
 
