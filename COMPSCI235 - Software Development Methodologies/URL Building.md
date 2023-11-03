@@ -2,4 +2,4 @@
 
 >	#Example ![[Pasted image 20231101234846.png]]![[Pasted image 20231101234904.png]]
 
-Related to: 
+Related to: [[Flask]]

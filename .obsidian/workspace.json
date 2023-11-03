@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/URL Building.md",
+                "file": "COMPSCI235 - Software Development Methodologies/Repository.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "design",
+                "query": "url",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/URL Building.md",
+                "file": "COMPSCI235 - Software Development Methodologies/Repository.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/URL Building.md",
+                "file": "COMPSCI235 - Software Development Methodologies/Repository.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/URL Building.md"
+                "file": "COMPSCI235 - Software Development Methodologies/Repository.md"
               }
             }
           },
@@ -153,7 +154,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/URL Building.md"
+                "file": "COMPSCI235 - Software Development Methodologies/Repository.md"
               }
             }
           }
@@ -178,6 +179,8 @@
   },
   "active": "33a55b9766be070c",
   "lastOpenFiles": [
+    "COMPSCI235 - Software Development Methodologies/Python's support for abstract base classes.md",
+    "COMPSCI235 - Software Development Methodologies/URL Building.md",
     "COMPSCI235 - Software Development Methodologies/Dependency Inversion Principle (DIP).md",
     "COMPSCI235 - Software Development Methodologies/AGILE.md",
     "COMPSCI235 - Software Development Methodologies/Low-level modules.md",
@@ -213,8 +216,6 @@
     "COMPSCI235 - Software Development Methodologies/Refactoring.md",
     "@images/Pasted image 20231104011548.png",
     "COMPSCI235 - Software Development Methodologies/General Refactoring Process.md",
-    "COMPSCI235 - Software Development Methodologies/Generic Software Development Process Framework.md",
-    "COMPSCI235 - Software Development Methodologies/Test-driven development (AGILE practice).md",
     "COMPSCI367 - Artificial Intelligence/finals prep.canvas",
     "COMPSCI235 - Software Development Methodologies",
     "COMPSCI367 - Artificial Intelligence/week12",
