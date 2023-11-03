@@ -1,6 +1,6 @@
 making sure that the 2 functions are working well together (basically checking connections)
 
-testing independent modules together
+[[testing]] independent modules together
 
 We have written unit tests for several components
 - `Domain model`
