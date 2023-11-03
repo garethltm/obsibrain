@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/acceptance criteria.md",
+                "file": "COMPSCI235 - Software Development Methodologies/Bug Tracking.md",
                 "mode": "source",
                 "source": false
               }
@@ -32,7 +32,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/acceptance criteria.md",
+                "file": "COMPSCI235 - Software Development Methodologies/Bug Tracking.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -91,7 +91,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "equal",
+                "query": "issue",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -108,7 +108,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -128,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/acceptance criteria.md",
+                "file": "COMPSCI235 - Software Development Methodologies/Bug Tracking.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/acceptance criteria.md",
+                "file": "COMPSCI235 - Software Development Methodologies/Bug Tracking.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +169,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/acceptance criteria.md"
+                "file": "COMPSCI235 - Software Development Methodologies/Bug Tracking.md"
               }
             }
           },
@@ -196,7 +197,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/acceptance criteria.md"
+                "file": "COMPSCI235 - Software Development Methodologies/Bug Tracking.md"
               }
             }
           }
@@ -221,6 +222,9 @@
   },
   "active": "33a55b9766be070c",
   "lastOpenFiles": [
+    "COMPSCI235 - Software Development Methodologies/Continuous Integration (CI).md",
+    "COMPSCI235 - Software Development Methodologies/Continuous Deployment.md",
+    "COMPSCI235 - Software Development Methodologies/acceptance criteria.md",
     "COMPSCI235 - Software Development Methodologies/Acceptance Testing.md",
     "COMPSCI235 - Software Development Methodologies/Access control.md",
     "COMPSCI235 - Software Development Methodologies/Access Modifiers.md",
@@ -244,9 +248,6 @@
     "COMPSCI235 - Software Development Methodologies/Bug reports.md",
     "COMPSCI235 - Software Development Methodologies/Bug Tracking.md",
     "COMPSCI235 - Software Development Methodologies/build scripts.md",
-    "COMPSCI235 - Software Development Methodologies/Burn-up charts.md",
-    "COMPSCI235 - Software Development Methodologies/Class Diagram.md",
-    "COMPSCI235 - Software Development Methodologies/Class Responsibility Collaborator (CRC) cards.md",
     "@images/1 TYRSuON0vVxy8olllrBVEw.png",
     "@images/Pasted image 20231104020521.png",
     "@images/Pasted image 20231104015543.png",
