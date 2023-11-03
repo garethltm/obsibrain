@@ -32,4 +32,6 @@ Successful project is one that optimises the value of the product for which it i
 	- The definition of done is an agreed upon list of the activities deemed necessary to get a product increment, usually represented by a [[user story]] to a done state by the end of [[SPRINT (iteration)]]. 
 	- **"Done" means "implemented & tested"**
 4. Project Tracking (Metrics)
-	- The team displays, somewhere on a wall of the project room, a large graph relating the quantity of work remaining (on the vertical axis) & the time elapsed since the start of project (on the horizontal, showing future as w)
+	1. [[Burn-up charts]]
+	2. [[Burn-down charts]]
+	- The team displays, somewhere on a wall of the project room, a large graph relating the quantity of work remaining (on the vertical axis) & the time elapsed since the start of project (on the horizontal, showing future as well as past).
