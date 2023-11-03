@@ -4,3 +4,4 @@ Goal
 		- you can plug/unplug without breaking the application (replacing 1 part without affecting the others)
 
 - Large organizations may have many internal products that all depend on a similar [[core service]]
+- Would like to be able to build functionality once, reuse in many places

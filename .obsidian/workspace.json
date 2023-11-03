@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/core service.md",
+                "file": "COMPSCI235 - Software Development Methodologies/Support for reuse.md",
                 "mode": "source",
                 "source": false
               }
@@ -32,7 +32,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/core service.md",
+                "file": "COMPSCI235 - Software Development Methodologies/Support for reuse.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -128,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/core service.md",
+                "file": "COMPSCI235 - Software Development Methodologies/Support for reuse.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/core service.md",
+                "file": "COMPSCI235 - Software Development Methodologies/Support for reuse.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/core service.md"
+                "file": "COMPSCI235 - Software Development Methodologies/Support for reuse.md"
               }
             }
           },
@@ -196,7 +196,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/core service.md"
+                "file": "COMPSCI235 - Software Development Methodologies/Support for reuse.md"
               }
             }
           }
@@ -221,8 +221,8 @@
   },
   "active": "33a55b9766be070c",
   "lastOpenFiles": [
-    "COMPSCI235 - Software Development Methodologies/Support for reuse.md",
     "COMPSCI235 - Software Development Methodologies/core service.md",
+    "COMPSCI235 - Software Development Methodologies/Support for reuse.md",
     "COMPSCI235 - Software Development Methodologies/Microservices.md",
     "COMPSCI235 - Software Development Methodologies/Support for change.md",
     "COMPSCI235 - Software Development Methodologies/Design or Support for failure.md",

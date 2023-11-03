@@ -1,3 +1,4 @@
-- user account storage
-- serving static assets
-	- photos
+>	#Example 
+>	- user account storage
+>	- serving static assets
+>		- photos
