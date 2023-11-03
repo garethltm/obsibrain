@@ -9,5 +9,9 @@ WHO, WHAT & WHY
 ***Shared documents are not [[shared understanding]]***
 
 #### How to write user stories
-1. Card (C)
+1. Card ([[Class Responsibility Collaborator (CRC) cards]])
 	- Write your product ideas on cards, one per card
+2. Conversation
+	- Discuss your ideas with others to build a [[shared understanding]]
+3. Confirmation
+	- Work towards agreement on what to build. Record that agreement as a set of [[acceptance criteria]]
