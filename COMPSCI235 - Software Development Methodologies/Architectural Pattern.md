@@ -1,4 +1,5 @@
 An [[Architectural Pattern]] helps breaks a large system into chunks manageable for human programmers to understand, implement & maintain
 
 ## Types
-- [[Monolithic Ari]]
+- [[Monolithic Architectural Pattern]]
+- Microservices Architectural Pattern
