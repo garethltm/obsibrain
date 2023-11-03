@@ -27,7 +27,14 @@ to streamline to process of tracking/reporting/assigning issues
 	- increase productivity of the team
 	- reduce expenses
 All these improves overall quality of [[software development]]
-
+### Choosing an [[Issue Tracking]] tool
+- Ease of use
+- Customization options
+- Integration capabilities
+- Reporting & analytics
+	- keeping track of bug trends, progress, performance
+- Accessibility & collaboration
+	- tag team members, use mentions to send notifications so that everything is done on the same platform
 ### Issue Life Cycle & States
 ![[Pasted image 20231103102903.png]]
 
