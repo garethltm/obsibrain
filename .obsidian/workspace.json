@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Cycle Time.md",
+                "file": "COMPSCI235 - Software Development Methodologies/acceptance criteria.md",
                 "mode": "source",
                 "source": false
               }
@@ -32,7 +32,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Cycle Time.md",
+                "file": "COMPSCI235 - Software Development Methodologies/acceptance criteria.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -128,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Cycle Time.md",
+                "file": "COMPSCI235 - Software Development Methodologies/acceptance criteria.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Cycle Time.md",
+                "file": "COMPSCI235 - Software Development Methodologies/acceptance criteria.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Cycle Time.md"
+                "file": "COMPSCI235 - Software Development Methodologies/acceptance criteria.md"
               }
             }
           },
@@ -196,7 +196,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Cycle Time.md"
+                "file": "COMPSCI235 - Software Development Methodologies/acceptance criteria.md"
               }
             }
           }
@@ -221,32 +221,32 @@
   },
   "active": "33a55b9766be070c",
   "lastOpenFiles": [
-    "COMPSCI235 - Software Development Methodologies/Data Query Language (DQL).md",
-    "COMPSCI235 - Software Development Methodologies/Data Manipulation Language (DML).md",
-    "COMPSCI235 - Software Development Methodologies/Data structures.md",
-    "COMPSCI235 - Software Development Methodologies/database.md",
-    "COMPSCI235 - Software Development Methodologies/Database instance.md",
-    "COMPSCI235 - Software Development Methodologies/Database Management System (DBMS).md",
-    "COMPSCI235 - Software Development Methodologies/Database schema.md",
-    "COMPSCI235 - Software Development Methodologies/Declarative Mapping.md",
-    "COMPSCI235 - Software Development Methodologies/definition of done.md",
-    "COMPSCI235 - Software Development Methodologies/Dependency.md",
-    "COMPSCI235 - Software Development Methodologies/Dependency Inversion Principle (DIP).md",
-    "COMPSCI235 - Software Development Methodologies/Deployment.md",
-    "COMPSCI235 - Software Development Methodologies/Design or Support for failure.md",
-    "COMPSCI235 - Software Development Methodologies/design(s).md",
-    "COMPSCI235 - Software Development Methodologies/detail of issue.md",
-    "COMPSCI235 - Software Development Methodologies/Development team.md",
-    "COMPSCI235 - Software Development Methodologies/Distributed VCS.md",
-    "COMPSCI235 - Software Development Methodologies/Documents.md",
-    "COMPSCI235 - Software Development Methodologies/Domain Modeling.md",
-    "COMPSCI235 - Software Development Methodologies/Element selectors.md",
-    "COMPSCI235 - Software Development Methodologies/empirical.md",
-    "COMPSCI235 - Software Development Methodologies/Evolutionary (Iterative) Approach.md",
-    "COMPSCI235 - Software Development Methodologies/Expired.md",
-    "COMPSCI235 - Software Development Methodologies/External Dependency.md",
-    "COMPSCI235 - Software Development Methodologies/External style sheet.md",
-    "COMPSCI235 - Software Development Methodologies/eXtreme Programming (XP).md",
+    "COMPSCI235 - Software Development Methodologies/Acceptance Testing.md",
+    "COMPSCI235 - Software Development Methodologies/Access control.md",
+    "COMPSCI235 - Software Development Methodologies/Access Modifiers.md",
+    "COMPSCI235 - Software Development Methodologies/Adaptation.md",
+    "COMPSCI235 - Software Development Methodologies/ACID.md",
+    "COMPSCI235 - Software Development Methodologies/Aggregation.md",
+    "COMPSCI235 - Software Development Methodologies/AGILE.md",
+    "COMPSCI235 - Software Development Methodologies/analysis.md",
+    "COMPSCI235 - Software Development Methodologies/Annotation.md",
+    "COMPSCI235 - Software Development Methodologies/Application layer protocols.md",
+    "COMPSCI235 - Software Development Methodologies/Application Architecture.md",
+    "COMPSCI235 - Software Development Methodologies/Architectural Pattern.md",
+    "COMPSCI235 - Software Development Methodologies/Association.md",
+    "COMPSCI235 - Software Development Methodologies/Authentication.md",
+    "COMPSCI235 - Software Development Methodologies/Automated Build.md",
+    "COMPSCI235 - Software Development Methodologies/Automated Testing.md",
+    "COMPSCI235 - Software Development Methodologies/Behavioral Diagrams.md",
+    "COMPSCI235 - Software Development Methodologies/Black Box Testing.md",
+    "COMPSCI235 - Software Development Methodologies/broken build.md",
+    "COMPSCI235 - Software Development Methodologies/Bug Processing.md",
+    "COMPSCI235 - Software Development Methodologies/Bug reports.md",
+    "COMPSCI235 - Software Development Methodologies/Bug Tracking.md",
+    "COMPSCI235 - Software Development Methodologies/build scripts.md",
+    "COMPSCI235 - Software Development Methodologies/Burn-up charts.md",
+    "COMPSCI235 - Software Development Methodologies/Class Diagram.md",
+    "COMPSCI235 - Software Development Methodologies/Class Responsibility Collaborator (CRC) cards.md",
     "@images/1 TYRSuON0vVxy8olllrBVEw.png",
     "@images/Pasted image 20231104020521.png",
     "@images/Pasted image 20231104015543.png",
