@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Untitled.md",
+                "file": "COMPSCI235 - Software Development Methodologies/Heterogeneous.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "broken",
+                "query": "translate",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Untitled.md",
+                "file": "COMPSCI235 - Software Development Methodologies/Heterogeneous.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Untitled.md",
+                "file": "COMPSCI235 - Software Development Methodologies/Heterogeneous.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Untitled.md"
+                "file": "COMPSCI235 - Software Development Methodologies/Heterogeneous.md"
               }
             }
           },
@@ -168,8 +169,10 @@
   },
   "active": "e3a0dec6ad66be55",
   "lastOpenFiles": [
-    "COMPSCI235 - Software Development Methodologies/Continuous Delivery (CD).md",
+    "COMPSCI235 - Software Development Methodologies/Networked.md",
+    "COMPSCI235 - Software Development Methodologies/Transport protocols.md",
     "COMPSCI235 - Software Development Methodologies/Untitled.md",
+    "COMPSCI235 - Software Development Methodologies/Continuous Delivery (CD).md",
     "@images/Pasted image 20231103153336.png",
     "@images/Pasted image 20231103153300.png",
     "@images/Pasted image 20231103153210.png",
@@ -179,7 +182,6 @@
     "COMPSCI235 - Software Development Methodologies/build scripts.md",
     "COMPSCI235 - Software Development Methodologies/Automated Build.md",
     "COMPSCI235 - Software Development Methodologies/Application layer protocols.md",
-    "COMPSCI235 - Software Development Methodologies/Networked.md",
     "COMPSCI235 - Software Development Methodologies/cookie.md",
     "COMPSCI235 - Software Development Methodologies/Application Architecture.md",
     "COMPSCI235 - Software Development Methodologies/Single Responsibility Principle (SRP).md",
@@ -202,7 +204,6 @@
     "COMPSCI235 - Software Development Methodologies/Bug Tracking.md",
     "COMPSCI235 - Software Development Methodologies/Issue Tracking.md",
     "COMPSCI235 - Software Development Methodologies/detail of issue.md",
-    "COMPSCI235 - Software Development Methodologies/Bug reports.md",
     "@images/Pasted image 20231103111600.png",
     "COMPSCI235 - Software Development Methodologies",
     "COMPSCI367 - Artificial Intelligence/finals prep.canvas",
