@@ -18,7 +18,11 @@
 >	size, time taken
 
 - Sized Appropriately (Small)
-	- it should be clear whether a story pass
+	- they ought to be sized appropriately. By the time they reach [[SPRINT (iteration)]] planning, they should be small (early stages)
+>	#Example 
+>	days
+
 - Testable
+	- it should be clear whether a story 
 
 ![[Pasted image 20231103232733.png]]
