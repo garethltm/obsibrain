@@ -29,3 +29,6 @@ WHO, WHAT & WHY
 	- progressive refinement of requirements
 		- just enough, just-in-time
 ![[Pasted image 20231103232537.png]]
+
+## What are GOOD [[user stories]]?
+[[INVEST]]
