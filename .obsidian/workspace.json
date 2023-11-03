@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/acceptance criteria.md",
+                "file": "COMPSCI235 - Software Development Methodologies/requirements gathering.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "user st",
+                "query": "user stor",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/acceptance criteria.md",
+                "file": "COMPSCI235 - Software Development Methodologies/requirements gathering.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/acceptance criteria.md",
+                "file": "COMPSCI235 - Software Development Methodologies/requirements gathering.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/acceptance criteria.md"
+                "file": "COMPSCI235 - Software Development Methodologies/requirements gathering.md"
               }
             }
           },
@@ -154,7 +154,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/acceptance criteria.md"
+                "file": "COMPSCI235 - Software Development Methodologies/requirements gathering.md"
               }
             }
           }
@@ -177,10 +177,11 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "a6e0090ac9cbd1f3",
+  "active": "33a55b9766be070c",
   "lastOpenFiles": [
-    "COMPSCI235 - Software Development Methodologies/Acceptance Testing.md",
+    "COMPSCI235 - Software Development Methodologies/Kanban.md",
     "COMPSCI235 - Software Development Methodologies/acceptance criteria.md",
+    "COMPSCI235 - Software Development Methodologies/Acceptance Testing.md",
     "INFOSYS222 - Database Systems/Data Quality.md",
     "COMPSCI235 - Software Development Methodologies/Declarative Mapping.md",
     "COMPSCI235 - Software Development Methodologies/Mapping Styles.md",
@@ -204,7 +205,6 @@
     "COMPSCI235 - Software Development Methodologies/AGILE.md",
     "COMPSCI235 - Software Development Methodologies/Low-level modules.md",
     "COMPSCI235 - Software Development Methodologies/High-level modules.md",
-    "COMPSCI235 - Software Development Methodologies/Microservices.md",
     "@images/Pasted image 20231104020521.png",
     "@images/Pasted image 20231104015543.png",
     "@images/Pasted image 20231104015416.png",

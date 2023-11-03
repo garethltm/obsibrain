@@ -2,5 +2,5 @@
 - this results in the [[specification]] of the system that the client/users can understand
 
 >	#Example 
->	RDR - Requirement Definition Report
->		- User stories
+>	 Requirement Definition Report (RDR)
+>		- [[User stories]]
