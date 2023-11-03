@@ -38,4 +38,6 @@ Tools used:
 1. User-Story-Writing workshops
 2. User Story Mapping
 
-- it is better to involve the customer in the team on deciding on what to build & include frequent 
+- it is better to involve the customer in the team on deciding on what to build & include frequent opportunities for customer feedback
+	- more feedback $\rightarrow$ more negotiations $\rightarrow$ more changes $\rightarrow$ increased business value
+	- [[Waterfall Model]] would ask for cut
