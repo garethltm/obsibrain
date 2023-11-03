@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Scrum Master.md",
+                "file": "COMPSCI235 - Software Development Methodologies/Scrum.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Scrum Master.md",
+                "file": "COMPSCI235 - Software Development Methodologies/Scrum.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Scrum Master.md",
+                "file": "COMPSCI235 - Software Development Methodologies/Scrum.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Scrum Master.md"
+                "file": "COMPSCI235 - Software Development Methodologies/Scrum.md"
               }
             }
           },
@@ -168,9 +168,9 @@
   },
   "active": "ce23f5b49e0fddd1",
   "lastOpenFiles": [
+    "COMPSCI235 - Software Development Methodologies/Scrum Master.md",
     "COMPSCI235 - Software Development Methodologies/Scrum.md",
     "COMPSCI235 - Software Development Methodologies/triager.md",
-    "COMPSCI235 - Software Development Methodologies/Scrum Master.md",
     "COMPSCI235 - Software Development Methodologies/Product Owner.md",
     "COMPSCI235 - Software Development Methodologies/product backlog.md",
     "COMPSCI235 - Software Development Methodologies/Adaptation.md",
