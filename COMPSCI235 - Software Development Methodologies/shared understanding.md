@@ -1,3 +1,3 @@
 When we all read the same document or hear the same discussion - we often imagine different things (different interpretation).
 
-It's describing our understanding with words & pictures & then combining & refining our ideas that leads to a [[shared understanding]]
+It's describing our understanding with words & pictures & then combining & refining our ideas that leads to a [[shared understanding]]![[Pasted image 20231103231739.png]]
