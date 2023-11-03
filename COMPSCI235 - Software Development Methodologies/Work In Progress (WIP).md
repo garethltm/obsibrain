@@ -5,5 +5,7 @@
 - [[Work In Progress (WIP)]] limits should not promote having team members working multiple tasks at the same time
 - Setting [[Work In Progress (WIP)]] limits lower than the number of team members allows for room for [[AGILE]] practices
 >	#Example 
->	extra time for [[code]]
+>	extra time for [[code review]], [[pair programming]]
+- One suggestion is to measure the average number of items over multiple [[SPRINT (iteration)]] & use this as information to initialize [[Work In Progress (WIP)]] limits.
+	- velocity 
 
