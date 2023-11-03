@@ -52,4 +52,6 @@ is an [[AGILE]] process model that is used to optimize the flow of work in a tea
 ### 4 [[Kanban]] Flow Metrics
 1. [[Work In Progress (WIP)]]
 2. [[Throughput]]
-	- 
+	- should be as high as possible
+3. [[Cycle Time]]
+4. [[Work Item Age]]

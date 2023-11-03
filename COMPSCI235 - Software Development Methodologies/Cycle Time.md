@@ -1,0 +1,1 @@
+The amount of elapsed time between when a work item "starts" & finishes
