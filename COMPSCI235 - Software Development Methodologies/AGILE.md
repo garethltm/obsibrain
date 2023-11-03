@@ -19,9 +19,9 @@
 ![[Pasted image 20231101002841.png]]
 Valuing the items on the LEFT more than the RIGHT
 which are:
-- Individuals & Interactions
-- Working Software
-- Customer Collaboration
+- **Individuals & Interactions** over processes & tools
+- **Working Software** over comprehensive documentation
+- **Customer Collaboration** over contract negotiation
 - Responding to Change
 
 ## 12 principles of [[AGILE]] [[software]]
