@@ -37,7 +37,7 @@ WHO, WHAT & WHY
 ![[Pasted image 20231103233842.png]]
 Tools used:
 1. [[User-Story-Writing workshop]]
-2. User Story Mapping
+2. [[User Story Mapping]]
 
 - it is better to involve the customer in the team on deciding on what to build & include frequent opportunities for customer feedback
 	- more feedback $\rightarrow$ more negotiations $\rightarrow$ more changes $\rightarrow$ increased business value

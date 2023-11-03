@@ -5,6 +5,8 @@
 - Duration
 	- a few hours to a few days
 
-It is useful to know user roles ("As a <user role>, I want to...") or use personas
+It is useful to know user roles ("As a `<user role>`, I want to...") or use personas
 
->	
+>	#Example 
+>	![[Pasted image 20231103234111.png]]
+
