@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/code quality.md",
+                "file": "COMPSCI235 - Software Development Methodologies/technical debt.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/code quality.md",
+                "file": "COMPSCI235 - Software Development Methodologies/technical debt.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/code quality.md",
+                "file": "COMPSCI235 - Software Development Methodologies/technical debt.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/code quality.md"
+                "file": "COMPSCI235 - Software Development Methodologies/technical debt.md"
               }
             }
           },
@@ -153,7 +153,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/code quality.md"
+                "file": "COMPSCI235 - Software Development Methodologies/technical debt.md"
               }
             }
           }
@@ -178,11 +178,12 @@
   },
   "active": "33a55b9766be070c",
   "lastOpenFiles": [
+    "COMPSCI235 - Software Development Methodologies/code quality.md",
+    "COMPSCI235 - Software Development Methodologies/technical debt.md",
     "@images/Pasted image 20231104003427.png",
     "COMPSCI235 - Software Development Methodologies/Quantitative metrics.md",
     "COMPSCI235 - Software Development Methodologies/cyclomatic complexity.md",
     "COMPSCI235 - Software Development Methodologies/Refactoring.md",
-    "COMPSCI235 - Software Development Methodologies/code quality.md",
     "COMPSCI235 - Software Development Methodologies/Qualitative metrics.md",
     "COMPSCI235 - Software Development Methodologies/Kanban.md",
     "@images/Pasted image 20231104002540.png",
@@ -213,7 +214,6 @@
     "COMPSCI235 - Software Development Methodologies/Acceptance Testing.md",
     "@images/Pasted image 20231103235741.png",
     "@images/Pasted image 20231103235609.png",
-    "@images/Pasted image 20231103235440.png",
     "COMPSCI367 - Artificial Intelligence/finals prep.canvas",
     "COMPSCI235 - Software Development Methodologies",
     "COMPSCI367 - Artificial Intelligence/week12",

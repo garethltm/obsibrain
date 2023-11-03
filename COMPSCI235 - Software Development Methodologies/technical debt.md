@@ -1,0 +1,1 @@
+[[technical debt]] are like activities (like [[Refactoring]], upgrading a library, conforming to some UI or coding standard, ,...) 

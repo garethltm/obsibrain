@@ -41,5 +41,5 @@ Quality code should always be:
 8. Use a coding standard
 	- good variable names
 9. Analyze code - before code reviews
-10. Schedule time to lower your technical debt
-11. Constant co
+10. Schedule time to lower your [[technical debt]]
+11. Constant code review
