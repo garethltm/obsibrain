@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/AGILE.md",
+                "file": "COMPSCI235 - Software Development Methodologies/Types of Requirements.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/AGILE.md",
+                "file": "COMPSCI235 - Software Development Methodologies/Types of Requirements.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/AGILE.md",
+                "file": "COMPSCI235 - Software Development Methodologies/Types of Requirements.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/AGILE.md"
+                "file": "COMPSCI235 - Software Development Methodologies/Types of Requirements.md"
               }
             }
           },
@@ -153,7 +153,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/AGILE.md"
+                "file": "COMPSCI235 - Software Development Methodologies/Types of Requirements.md"
               }
             }
           }
@@ -178,8 +178,10 @@
   },
   "active": "33a55b9766be070c",
   "lastOpenFiles": [
-    "COMPSCI235 - Software Development Methodologies/Waterfall Model.md",
     "COMPSCI235 - Software Development Methodologies/AGILE.md",
+    "COMPSCI235 - Software Development Methodologies/Types of Requirements.md",
+    "COMPSCI235 - Software Development Methodologies/Waterfall Model.md",
+    "@images/Pasted image 20231103230401.png",
     "@images/Pasted image 20231103230032.png",
     "COMPSCI235 - Software Development Methodologies/eXtreme Programming (XP).md",
     "COMPSCI235 - Software Development Methodologies/Acceptance Testing.md",
@@ -204,7 +206,6 @@
     "COMPSCI235 - Software Development Methodologies/Product Owner.md",
     "COMPSCI235 - Software Development Methodologies/Pending.md",
     "COMPSCI235 - Software Development Methodologies/Continuous Delivery (CD).md",
-    "COMPSCI235 - Software Development Methodologies/Burn-up charts.md",
     "@images/Pasted image 20231103170921.png",
     "@images/Pasted image 20231103170153.png",
     "@images/Pasted image 20231103170120.png",
@@ -213,7 +214,6 @@
     "@images/Pasted image 20231103165235.png",
     "@images/Pasted image 20231103165200.png",
     "@images/Pasted image 20231103163808.png",
-    "@images/Pasted image 20231103163607.png",
     "COMPSCI367 - Artificial Intelligence/finals prep.canvas",
     "COMPSCI235 - Software Development Methodologies",
     "COMPSCI367 - Artificial Intelligence/week12",
