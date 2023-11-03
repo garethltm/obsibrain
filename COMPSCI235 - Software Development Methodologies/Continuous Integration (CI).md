@@ -1,6 +1,6 @@
 [[Automated Build]] enables [[Continuous Integration (CI)]]
 
-Designed as part of [[extre]]
+Designed as part of [[eXtreme Programming (XP)]] practices
 
 ![[Pasted image 20231103145831.png]]![[Pasted image 20231103145854.png]]
 >	#Example 

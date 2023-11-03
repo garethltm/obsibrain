@@ -39,7 +39,7 @@ which are:
 12. At regular intervals, the **team reflects on how to become more effective**, then tunes & adjusts its behaviour accordingly
 
 ### [[AGILE]] [[software development]] methodologies
-- eXtreme Programming (XP)
+- [[eXtreme Programming (XP)]]
 - Feature-Driven Development (FDD)
 - Scrum
 - Lean Software Development

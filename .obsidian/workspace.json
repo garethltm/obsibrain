@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "np",
+                "query": "extre",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -168,13 +168,14 @@
   },
   "active": "e3a0dec6ad66be55",
   "lastOpenFiles": [
+    "COMPSCI235 - Software Development Methodologies/eXtreme Programming (XP).md",
+    "COMPSCI235 - Software Development Methodologies/AGILE.md",
+    "COMPSCI235 - Software Development Methodologies/Continuous Integration (CI).md",
     "@images/Pasted image 20231103145854.png",
     "@images/Pasted image 20231103145831.png",
     "COMPSCI235 - Software Development Methodologies/Build Environments.md",
-    "COMPSCI235 - Software Development Methodologies/Continuous Integration (CI).md",
     "@images/Pasted image 20231103145640.png",
     "COMPSCI235 - Software Development Methodologies/build scripts.md",
-    "COMPSCI235 - Software Development Methodologies/AGILE.md",
     "COMPSCI235 - Software Development Methodologies/The 4 P's of Software Development.md",
     "COMPSCI367 - Artificial Intelligence/week11/Variable Elimination Algorithm (VE).md",
     "COMPSCI367 - Artificial Intelligence/week06/NP.md",
@@ -200,7 +201,6 @@
     "COMPSCI235 - Software Development Methodologies/Choosing an issue tracking tool.md",
     "COMPSCI235 - Software Development Methodologies/SQLAlchemy.md",
     "COMPSCI235 - Software Development Methodologies/Pending.md",
-    "@images/Pasted image 20231102171212.png",
     "COMPSCI235 - Software Development Methodologies/Transient.md",
     "COMPSCI235 - Software Development Methodologies/Persistent.md",
     "COMPSCI235 - Software Development Methodologies/Expired.md",
