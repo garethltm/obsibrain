@@ -8,3 +8,8 @@ A required sign-off from another team member before a developer is permitted to 
 [[code review]] helps to reduce code defects & improve [[code quality]]
 
 ### Mechanics
+- who:
+	- Original developer & reviewer
+		- sometimes together in person, sometimes offline
+- what:
+	- Reviewer gives suggestions for improvement on a logical and/or structural level, to conform to previoy
