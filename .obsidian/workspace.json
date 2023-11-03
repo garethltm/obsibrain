@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/General Refactoring Process.md",
+                "file": "COMPSCI235 - Software Development Methodologies/Refactoring.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/General Refactoring Process.md",
+                "file": "COMPSCI235 - Software Development Methodologies/Refactoring.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/General Refactoring Process.md",
+                "file": "COMPSCI235 - Software Development Methodologies/Refactoring.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/General Refactoring Process.md"
+                "file": "COMPSCI235 - Software Development Methodologies/Refactoring.md"
               }
             }
           },
@@ -153,7 +153,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/General Refactoring Process.md"
+                "file": "COMPSCI235 - Software Development Methodologies/Refactoring.md"
               }
             }
           }
@@ -178,14 +178,14 @@
   },
   "active": "33a55b9766be070c",
   "lastOpenFiles": [
+    "COMPSCI235 - Software Development Methodologies/General Refactoring Process.md",
+    "COMPSCI235 - Software Development Methodologies/Refactoring.md",
     "@images/Pasted image 20231104010830.png",
     "COMPSCI235 - Software Development Methodologies/Generic Software Development Process Framework.md",
     "COMPSCI235 - Software Development Methodologies/Test-driven development (AGILE practice).md",
     "COMPSCI235 - Software Development Methodologies/AGILE.md",
-    "COMPSCI235 - Software Development Methodologies/General Refactoring Process.md",
     "COMPSCI235 - Software Development Methodologies/code smell.md",
     "@images/Pasted image 20231104010558.png",
-    "COMPSCI235 - Software Development Methodologies/Refactoring.md",
     "COMPSCI235 - Software Development Methodologies/code review.md",
     "COMPSCI235 - Software Development Methodologies/code quality.md",
     "COMPSCI235 - Software Development Methodologies/technical debt.md",
@@ -208,7 +208,6 @@
     "COMPSCI235 - Software Development Methodologies/eXtreme Programming (XP).md",
     "COMPSCI235 - Software Development Methodologies/INVEST.md",
     "COMPSCI235 - Software Development Methodologies/Application layer protocols.md",
-    "@images/Pasted image 20231104001436.png",
     "COMPSCI235 - Software Development Methodologies/Association.md",
     "COMPSCI235 - Software Development Methodologies/Application Architecture.md",
     "COMPSCI235 - Software Development Methodologies/Annotation.md",
