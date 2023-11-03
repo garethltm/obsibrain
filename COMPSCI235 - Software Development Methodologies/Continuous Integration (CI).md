@@ -17,4 +17,10 @@ Each integration is verified by an [[Automated Build]] (including [[Testing]]) t
 - Commit changes
 - Trigger [[Continuous Integration (CI)]] server for commit builds
 - Inform developers about [[build scripts]] results
-- Immediately fix [[b]]
+- Immediately fix [[broken build]]
+
+### Tools
+1. Integrated Development Environments (IDE)
+	- PyCharm, Eclipse, NetBeans, IntelliJ IDEA
+2. [[Version Control Systems (VCS)]]
+	- [[Git VCS]]
