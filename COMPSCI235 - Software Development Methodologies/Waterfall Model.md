@@ -1,5 +1,5 @@
-- Plan-driven
-	- Sequential/Linear Stages
+Plan-driven
+- Sequential/Linear Stages
 	- Upfront Planning
 		- Best for simple, unchanging projects
 

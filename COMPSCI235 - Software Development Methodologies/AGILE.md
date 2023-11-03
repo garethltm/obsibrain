@@ -1,3 +1,4 @@
+Incremental & Iterative
 - effective (rapid & adaptive) response to change
 - effective communication among all [[stakeholders]]
 - drawing customer onto the team
