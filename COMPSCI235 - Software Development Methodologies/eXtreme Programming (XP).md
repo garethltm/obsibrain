@@ -24,4 +24,6 @@ core values that you think that are most important for your team to deliver the 
 1. Testing (Test are written prior to code)
 	- the developers continually write [[Unit Testing]] code, which need to pass for the development to continue
 	- the customers write tests to verify that the features are implemented
-	- tests are automated so that they become part of the system can be 
+	- tests are automated ([[Automated Testing]]) so that they become part of the system can be continuously run to ensure the working of the system
+2. Pair programming (Driver & Passenger roles)
+3. 
