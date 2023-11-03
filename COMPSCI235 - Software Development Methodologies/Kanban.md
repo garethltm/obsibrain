@@ -24,9 +24,13 @@ think of a factory thing where there is continuous movement in a production of a
 >	![[Pasted image 20231103235741.png]]
 >	- At Selected, developer1 then grabs a new story to work on which moves to Development `ongoing`
 
-## Benefits
+## Benefits of [[Kanban]] boards
 1. [[Kanban]] boards are information hubs
 2. Reduce the need for status meetings
 3. Simple to maintain & low overhead
 4. Improve transparency of the work process
 	- basically everyone can see what you are doing
+
+## Benefits of [[Kanban]]
+1. The amount of work that is "nearly done" is constrained. This minimizes potential waste.
+	- basically making sure that a "nearly done"
