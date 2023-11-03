@@ -11,12 +11,8 @@
             "id": "f81b568f787efc04",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week11/Variable Elimination Algorithm (VE).md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -65,8 +61,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week11/Variable Elimination Algorithm (VE).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week11/Variable Elimination Algorithm (VE).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week11/Variable Elimination Algorithm (VE).md"
-              }
+              "state": {}
             }
           },
           {
@@ -169,6 +160,7 @@
   },
   "active": "f81b568f787efc04",
   "lastOpenFiles": [
+    "COMPSCI367 - Artificial Intelligence/week11/Variable Elimination Algorithm (VE).md",
     "COMPSCI367 - Artificial Intelligence/week06/NP.md",
     "COMPSCI235 - Software Development Methodologies/build scripts.md",
     "@images/Pasted image 20231103120001.png",
@@ -204,7 +196,6 @@
     "COMPSCI235 - Software Development Methodologies/Mapping Styles.md",
     "COMPSCI235 - Software Development Methodologies/Declarative Mapping.md",
     "COMPSCI235 - Software Development Methodologies/transaction(s).md",
-    "COMPSCI235 - Software Development Methodologies/One-to-many Relation.md",
     "COMPSCI235 - Software Development Methodologies",
     "COMPSCI367 - Artificial Intelligence/finals prep.canvas",
     "COMPSCI367 - Artificial Intelligence/week12",
