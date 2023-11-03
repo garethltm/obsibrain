@@ -41,4 +41,8 @@ core values that you think that are most important for your team to deliver the 
 1. Planning
 	- Begins with the creation of a set of stories ([[user story]])
 	- each story is written by the customer & is placed on an index card
-	- the customer assigns a value
+	- the customer assigns a value (priority) to the story
+	- [[AGILE]] team assesses each story & assigns a cost
+	- Stories are grouped for a deliverable increment
+	- A commitment is made on delivery date
+	- After the fi
