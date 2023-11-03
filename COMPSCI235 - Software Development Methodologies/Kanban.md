@@ -59,4 +59,7 @@ is an [[AGILE]] process model that is used to optimize the flow of work in a tea
 >	![[Pasted image 20231104002300.png]]![[Pasted image 20231104002351.png]]
 
 ### [[Scrum]] with [[Kanban]]
-![[Pasted image 20231104002512.png]]![[Pasted image 20231104002540.png]]
+![[Pasted image 20231104002512.png]]
+
+## [[Kanban]] metrics used in [[Scrum]]e
+![[Pasted image 20231104002540.png]]
