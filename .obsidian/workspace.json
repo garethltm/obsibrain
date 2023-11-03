@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/user story.md",
+                "file": "COMPSCI235 - Software Development Methodologies/user stories.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/user story.md",
+                "file": "COMPSCI235 - Software Development Methodologies/user stories.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/user story.md",
+                "file": "COMPSCI235 - Software Development Methodologies/user stories.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/user story.md"
+                "file": "COMPSCI235 - Software Development Methodologies/user stories.md"
               }
             }
           },
@@ -153,7 +153,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/user story.md"
+                "file": "COMPSCI235 - Software Development Methodologies/user stories.md"
               }
             }
           }
@@ -184,7 +184,7 @@
     "COMPSCI235 - Software Development Methodologies/eXtreme Programming (XP).md",
     "COMPSCI235 - Software Development Methodologies/Class Responsibility Collaborator (CRC) cards.md",
     "@images/Pasted image 20231103231915.png",
-    "COMPSCI235 - Software Development Methodologies/user story.md",
+    "COMPSCI235 - Software Development Methodologies/user stories.md",
     "COMPSCI235 - Software Development Methodologies/shared understanding.md",
     "@images/Pasted image 20231103231739.png",
     "@images/Pasted image 20231103231431.png",
