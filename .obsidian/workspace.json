@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Class Diagram.md",
+                "file": "COMPSCI235 - Software Development Methodologies/Unified Modeling Language (UML).md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "user stor",
+                "query": "class dia",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Class Diagram.md",
+                "file": "COMPSCI235 - Software Development Methodologies/Unified Modeling Language (UML).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Class Diagram.md",
+                "file": "COMPSCI235 - Software Development Methodologies/Unified Modeling Language (UML).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Class Diagram.md"
+                "file": "COMPSCI235 - Software Development Methodologies/Unified Modeling Language (UML).md"
               }
             }
           },
@@ -153,7 +154,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Class Diagram.md"
+                "file": "COMPSCI235 - Software Development Methodologies/Unified Modeling Language (UML).md"
               }
             }
           }
@@ -178,8 +179,12 @@
   },
   "active": "33a55b9766be070c",
   "lastOpenFiles": [
-    "COMPSCI235 - Software Development Methodologies/Generic Software Development Process Framework.md",
     "COMPSCI235 - Software Development Methodologies/Class Diagram.md",
+    "COMPSCI235 - Software Development Methodologies/Access Modifiers.md",
+    "COMPSCI235 - Software Development Methodologies/Annotation.md",
+    "COMPSCI235 - Software Development Methodologies/Relationship(s).md",
+    "COMPSCI235 - Software Development Methodologies/Structural elements.md",
+    "COMPSCI235 - Software Development Methodologies/Generic Software Development Process Framework.md",
     "COMPSCI235 - Software Development Methodologies/ACID.md",
     "COMPSCI235 - Software Development Methodologies/requirements gathering.md",
     "COMPSCI235 - Software Development Methodologies/Kanban.md",
@@ -200,10 +205,6 @@
     "COMPSCI235 - Software Development Methodologies/Template inheritance & containment.md",
     "COMPSCI235 - Software Development Methodologies/Web application architecture.md",
     "COMPSCI235 - Software Development Methodologies/Web-based Systems.md",
-    "COMPSCI235 - Software Development Methodologies/Domain Modeling.md",
-    "COMPSCI235 - Software Development Methodologies/Repository.md",
-    "COMPSCI235 - Software Development Methodologies/Python's support for abstract base classes.md",
-    "COMPSCI235 - Software Development Methodologies/URL Building.md",
     "@images/Pasted image 20231104020521.png",
     "@images/Pasted image 20231104015543.png",
     "@images/Pasted image 20231104015416.png",
