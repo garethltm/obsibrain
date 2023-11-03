@@ -1,1 +1,1 @@
-related to user stories ([[requirements gathering]]) criteria listing
+related to [[user stories]] ([[requirements gathering]]) criteria listing

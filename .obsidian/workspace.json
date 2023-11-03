@@ -11,8 +11,12 @@
             "id": "33a55b9766be070c",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "COMPSCI235 - Software Development Methodologies/acceptance criteria.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -44,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "sql",
+                "query": "user st",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -61,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -81,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "COMPSCI235 - Software Development Methodologies/acceptance criteria.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "COMPSCI235 - Software Development Methodologies/acceptance criteria.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "COMPSCI235 - Software Development Methodologies/acceptance criteria.md"
+              }
             }
           },
           {
@@ -144,7 +153,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {}
+              "state": {
+                "file": "COMPSCI235 - Software Development Methodologies/acceptance criteria.md"
+              }
             }
           }
         ],
@@ -166,8 +177,11 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "33a55b9766be070c",
+  "active": "a6e0090ac9cbd1f3",
   "lastOpenFiles": [
+    "COMPSCI235 - Software Development Methodologies/Acceptance Testing.md",
+    "COMPSCI235 - Software Development Methodologies/acceptance criteria.md",
+    "INFOSYS222 - Database Systems/Data Quality.md",
     "COMPSCI235 - Software Development Methodologies/Declarative Mapping.md",
     "COMPSCI235 - Software Development Methodologies/Mapping Styles.md",
     "COMPSCI235 - Software Development Methodologies/Imperative (or Classical) Mapping.md",
@@ -192,10 +206,7 @@
     "COMPSCI235 - Software Development Methodologies/High-level modules.md",
     "COMPSCI235 - Software Development Methodologies/Microservices.md",
     "@images/Pasted image 20231104020521.png",
-    "COMPSCI235 - Software Development Methodologies/Design or Support for failure.md",
-    "COMPSCI235 - Software Development Methodologies/Support separate team development.md",
     "@images/Pasted image 20231104015543.png",
-    "COMPSCI235 - Software Development Methodologies/Support for reuse.md",
     "@images/Pasted image 20231104015416.png",
     "COMPSCI235 - Software Development Methodologies/Untitled",
     "@images/Pasted image 20231104013713.png",
