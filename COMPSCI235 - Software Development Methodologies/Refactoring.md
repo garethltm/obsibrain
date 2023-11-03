@@ -25,10 +25,14 @@ If not [[Refactoring]], you are incurring a [[technical debt]] which would cost 
 ## Performing [[Refactoring]]
 >	#Example consider a [[code smell]]; ***Duplicate code*** - code repeated in multiple places
 >	
->	It can be removed using the following [[Refactoring]] activities
+>	It can be removed using the following [[Refactoring]] activities:
 >	- Extract Method
 >	- Extract Class
 >	- Pull Up Method
 >	- Form Template Method
 
->	#Example another [[code smell]]; Feature enc
+>	#Example another [[code smell]]; ***Feature envy*** - a method making more use of another class than the one it is in
+>	It can be removed using the following [[Refactoring]] activities:
+>	- Move method
+>	- Move field
+>	- Extract Method
