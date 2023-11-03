@@ -8,3 +8,6 @@ this carry different information depending on:
 2. [[Relationship(s)]]
 3. [[Annotation]]
 4. [[Access Modifiers]]
+
+>	#Example 
+>	![[1 TYRSuON0vVxy8olllrBVEw.png]]
