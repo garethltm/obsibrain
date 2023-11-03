@@ -35,4 +35,5 @@ think of a factory thing where there is continuous movement in a production of a
 1. The amount of work that is "nearly done" is constrained $\rightarrow$ This minimizes potential waste.
 	- basically making sure that a "nearly done" doesn't clog up space
 2. The development team focus on getting work to a "done" state $\rightarrow$ This generates greater customer value
-	- ra
+	- complete tasks fully
+3. Bottlenecks are more easily identified. $\rightarrow$ This encourages the team to work to progress these items (swarming)
