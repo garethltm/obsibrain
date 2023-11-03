@@ -1,4 +1,7 @@
 Incremental & Iterative
+- Continuous Cycles
+- Flexible/Continuous Evolution
+	- Changing Requirements/Design
 - effective (rapid & adaptive) response to change
 - effective communication among all [[stakeholders]]
 - drawing customer onto the team
