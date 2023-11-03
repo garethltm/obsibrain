@@ -38,4 +38,8 @@ Quality code should always be:
 	- [[Continuous Integration (CI)]]
 7. Learn your language
 	- If you're switching languages or using multiple languages; know the difference
-8. 
+8. Use a coding standard
+	- good variable names
+9. Analyze code - before code reviews
+10. Schedule time to lower your technical debt
+11. Constant co
