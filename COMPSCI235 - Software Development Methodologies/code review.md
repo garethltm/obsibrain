@@ -12,4 +12,8 @@ A required sign-off from another team member before a developer is permitted to 
 	- Original developer & reviewer
 		- sometimes together in person, sometimes offline
 - what:
-	- Reviewer gives suggestions for improvement on a logical and/or structural level, to conform to previoy
+	- Reviewer gives suggestions for improvement on a logical and/or structural level, to conform to previously agreed up set of quality standards.
+		- feedback leads to [[Refactoring]], followed by a 2nd [[code review]]
+		- Eventually reviewer approves code
+- when:
+- 
