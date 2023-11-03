@@ -36,4 +36,6 @@ Quality code should always be:
 5. Run all your test before check-in
 6. Check-in frequently
 	- [[Continuous Integration (CI)]]
-7. 
+7. Learn your language
+	- If you're switching languages or using multiple languages; know the difference
+8. 
