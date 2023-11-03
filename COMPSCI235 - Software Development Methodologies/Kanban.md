@@ -40,7 +40,8 @@ is an [[AGILE]] process model that is used to optimize the flow of work in a tea
 3. Bottlenecks are more easily identified. $\rightarrow$ This encourages the team to work to progress these items (swarming) & to improve engineering process, which leads to benefit (1) & (2)
 
 ## Best practices for [[Kanban]] teams
-[[INVEST]] acronym
 1. Size work items in small, consistent sizes
+	- [[INVEST]] acronym
 2. Set the [[Work In Progress (WIP)]] limits in a way that is proportional to the team member's skill sets
-3. Team members sh
+3. Team members should always have something to work on
+4. The goal should be sustainable [[software]] engineering culture that delivers value to the customer (should also **respect** developers, )
