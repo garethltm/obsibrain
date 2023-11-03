@@ -12,7 +12,6 @@
 ![[Pasted image 20231101002623.png]]
 >[[AGILE]] is a mindset
 
-
 ## Manifesto for [[AGILE]] [[software development]]
 *"We are uncovering better ways of developing [[software]] by doing it & helping others to do it"*
 

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Waterfall Model.md",
+                "file": "COMPSCI235 - Software Development Methodologies/AGILE.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Waterfall Model.md",
+                "file": "COMPSCI235 - Software Development Methodologies/AGILE.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Waterfall Model.md",
+                "file": "COMPSCI235 - Software Development Methodologies/AGILE.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Waterfall Model.md"
+                "file": "COMPSCI235 - Software Development Methodologies/AGILE.md"
               }
             }
           },
@@ -153,7 +153,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Waterfall Model.md"
+                "file": "COMPSCI235 - Software Development Methodologies/AGILE.md"
               }
             }
           }
@@ -178,9 +178,9 @@
   },
   "active": "33a55b9766be070c",
   "lastOpenFiles": [
+    "COMPSCI235 - Software Development Methodologies/Waterfall Model.md",
     "@images/Pasted image 20231103230032.png",
     "COMPSCI235 - Software Development Methodologies/eXtreme Programming (XP).md",
-    "COMPSCI235 - Software Development Methodologies/Waterfall Model.md",
     "COMPSCI235 - Software Development Methodologies/Acceptance Testing.md",
     "COMPSCI235 - Software Development Methodologies/pair programming.md",
     "COMPSCI235 - Software Development Methodologies/Refactoring.md",
@@ -213,7 +213,6 @@
     "@images/Pasted image 20231103165200.png",
     "@images/Pasted image 20231103163808.png",
     "@images/Pasted image 20231103163607.png",
-    "@images/Pasted image 20231103162819.png",
     "COMPSCI367 - Artificial Intelligence/finals prep.canvas",
     "COMPSCI235 - Software Development Methodologies",
     "COMPSCI367 - Artificial Intelligence/week12",
