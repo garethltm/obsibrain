@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Kanban.md",
+                "file": "COMPSCI235 - Software Development Methodologies/Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Kanban.md",
+                "file": "COMPSCI235 - Software Development Methodologies/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Kanban.md",
+                "file": "COMPSCI235 - Software Development Methodologies/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Kanban.md"
+                "file": "COMPSCI235 - Software Development Methodologies/Untitled.md"
               }
             }
           },
@@ -153,7 +153,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Kanban.md"
+                "file": "COMPSCI235 - Software Development Methodologies/Untitled.md"
               }
             }
           }
@@ -178,12 +178,13 @@
   },
   "active": "33a55b9766be070c",
   "lastOpenFiles": [
+    "COMPSCI235 - Software Development Methodologies/Kanban.md",
+    "COMPSCI235 - Software Development Methodologies/Untitled.md",
     "@images/Pasted image 20231103235741.png",
     "@images/Pasted image 20231103235609.png",
     "@images/Pasted image 20231103235440.png",
     "@images/Pasted image 20231103235319.png",
     "COMPSCI235 - Software Development Methodologies/Work In Progress (WIP).md",
-    "COMPSCI235 - Software Development Methodologies/Kanban.md",
     "COMPSCI235 - Software Development Methodologies/lean pull system.md",
     "COMPSCI235 - Software Development Methodologies/Scrum.md",
     "COMPSCI235 - Software Development Methodologies/SPRINT (iteration).md",
@@ -197,7 +198,6 @@
     "COMPSCI235 - Software Development Methodologies/User-Story-Writing workshop.md",
     "@images/Pasted image 20231103234234.png",
     "@images/Pasted image 20231103234111.png",
-    "@images/Pasted image 20231103233842.png",
     "COMPSCI235 - Software Development Methodologies/INVEST.md",
     "COMPSCI235 - Software Development Methodologies/Dependency Inversion Principle (DIP).md",
     "COMPSCI235 - Software Development Methodologies/Dependency.md",
