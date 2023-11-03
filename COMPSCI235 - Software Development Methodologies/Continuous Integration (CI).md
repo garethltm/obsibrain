@@ -27,4 +27,5 @@ Each integration is verified by an [[Automated Build]] (including [[Testing]]) t
 3. Build Tools
 	- Ant, Maven, Gradle, PyBuilder, CMake
 4. Continuous Build/Integration Systems
-	- Jenkins 
+	- Jenkins, Bamboo, CruiseControl, Travis CI
+	- GitHub Actions

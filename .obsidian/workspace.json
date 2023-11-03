@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Continuous Integration (CI).md",
+                "file": "COMPSCI235 - Software Development Methodologies/Continuous Delivery (CD).md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Continuous Integration (CI).md",
+                "file": "COMPSCI235 - Software Development Methodologies/Continuous Delivery (CD).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Continuous Integration (CI).md",
+                "file": "COMPSCI235 - Software Development Methodologies/Continuous Delivery (CD).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Continuous Integration (CI).md"
+                "file": "COMPSCI235 - Software Development Methodologies/Continuous Delivery (CD).md"
               }
             }
           },
@@ -168,9 +168,10 @@
   },
   "active": "e3a0dec6ad66be55",
   "lastOpenFiles": [
+    "COMPSCI235 - Software Development Methodologies/Continuous Integration (CI).md",
+    "COMPSCI235 - Software Development Methodologies/Continuous Delivery (CD).md",
     "COMPSCI235 - Software Development Methodologies/Build Environments.md",
     "COMPSCI235 - Software Development Methodologies/broken build.md",
-    "COMPSCI235 - Software Development Methodologies/Continuous Integration (CI).md",
     "COMPSCI235 - Software Development Methodologies/build scripts.md",
     "COMPSCI235 - Software Development Methodologies/Automated Build.md",
     "COMPSCI235 - Software Development Methodologies/Application layer protocols.md",
@@ -200,7 +201,6 @@
     "COMPSCI235 - Software Development Methodologies/Bug reports.md",
     "COMPSCI235 - Software Development Methodologies/Patches.md",
     "@images/Pasted image 20231103111600.png",
-    "COMPSCI235 - Software Development Methodologies/Feature requests.md",
     "@images/Pasted image 20231103111356.png",
     "@images/Pasted image 20231103103119.png",
     "@images/Pasted image 20231103102903.png",
