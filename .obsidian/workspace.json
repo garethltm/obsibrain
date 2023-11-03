@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/User Story Mapping.md",
+                "file": "COMPSCI235 - Software Development Methodologies/Kanban.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/User Story Mapping.md",
+                "file": "COMPSCI235 - Software Development Methodologies/Kanban.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/User Story Mapping.md",
+                "file": "COMPSCI235 - Software Development Methodologies/Kanban.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/User Story Mapping.md"
+                "file": "COMPSCI235 - Software Development Methodologies/Kanban.md"
               }
             }
           },
@@ -153,7 +153,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/User Story Mapping.md"
+                "file": "COMPSCI235 - Software Development Methodologies/Kanban.md"
               }
             }
           }
@@ -178,11 +178,13 @@
   },
   "active": "33a55b9766be070c",
   "lastOpenFiles": [
+    "COMPSCI235 - Software Development Methodologies/AGILE.md",
+    "COMPSCI235 - Software Development Methodologies/Kanban.md",
+    "COMPSCI235 - Software Development Methodologies/User Story Mapping.md",
     "@images/Pasted image 20231103234523.png",
     "@images/Pasted image 20231103234518.png",
     "@images/Pasted image 20231103234400.png",
     "COMPSCI235 - Software Development Methodologies/user stories.md",
-    "COMPSCI235 - Software Development Methodologies/User Story Mapping.md",
     "COMPSCI235 - Software Development Methodologies/User-Story-Writing workshop.md",
     "@images/Pasted image 20231103234234.png",
     "@images/Pasted image 20231103234111.png",
@@ -196,7 +198,6 @@
     "COMPSCI235 - Software Development Methodologies/Planning.md",
     "@images/Pasted image 20231103232116.png",
     "@images/Pasted image 20231103232115.png",
-    "@images/Pasted image 20231103232111.png",
     "COMPSCI235 - Software Development Methodologies/eXtreme Programming (XP).md",
     "COMPSCI235 - Software Development Methodologies/Class Responsibility Collaborator (CRC) cards.md",
     "COMPSCI235 - Software Development Methodologies/shared understanding.md",
@@ -209,7 +210,6 @@
     "COMPSCI235 - Software Development Methodologies/non-functional.md",
     "COMPSCI235 - Software Development Methodologies/Types of Requirements.md",
     "COMPSCI235 - Software Development Methodologies/Functional Requirements (FR).md",
-    "COMPSCI235 - Software Development Methodologies/AGILE.md",
     "COMPSCI235 - Software Development Methodologies/Waterfall Model.md",
     "COMPSCI235 - Software Development Methodologies/Acceptance Testing.md",
     "COMPSCI235 - Software Development Methodologies/pair programming.md",

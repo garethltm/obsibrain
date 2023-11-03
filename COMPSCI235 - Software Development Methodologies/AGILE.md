@@ -58,6 +58,6 @@ which are:
 ![[Pasted image 20231103160109.png]]
 1. [[AGILE]] Management Model
 	- [[Scrum]]
-	- Kanban
+	- [[Kanban]]
 2. [[AGILE]] Development Model
 	- [[eXtreme Programming (XP)]]

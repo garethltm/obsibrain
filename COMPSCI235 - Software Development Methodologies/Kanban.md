@@ -1,0 +1,1 @@
+is an [[AGILE]] process model that is used to optimize the flow of work in a team
