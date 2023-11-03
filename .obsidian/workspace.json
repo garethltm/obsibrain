@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/user story.md",
+                "file": "COMPSCI235 - Software Development Methodologies/shared understanding.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/user story.md",
+                "file": "COMPSCI235 - Software Development Methodologies/shared understanding.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/user story.md",
+                "file": "COMPSCI235 - Software Development Methodologies/shared understanding.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/user story.md"
+                "file": "COMPSCI235 - Software Development Methodologies/shared understanding.md"
               }
             }
           },
@@ -153,7 +153,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/user story.md"
+                "file": "COMPSCI235 - Software Development Methodologies/shared understanding.md"
               }
             }
           }
@@ -178,6 +178,8 @@
   },
   "active": "33a55b9766be070c",
   "lastOpenFiles": [
+    "COMPSCI235 - Software Development Methodologies/user story.md",
+    "COMPSCI235 - Software Development Methodologies/shared understanding.md",
     "@images/Pasted image 20231103231431.png",
     "COMPSCI235 - Software Development Methodologies/Non-functional Requirements (NFR).md",
     "COMPSCI235 - Software Development Methodologies/Scrum.md",
@@ -199,7 +201,6 @@
     "COMPSCI235 - Software Development Methodologies/fault-tolerance.md",
     "COMPSCI235 - Software Development Methodologies/Continuous Deployment.md",
     "COMPSCI235 - Software Development Methodologies/Continuous Integration (CI).md",
-    "COMPSCI235 - Software Development Methodologies/user story.md",
     "COMPSCI235 - Software Development Methodologies/triager.md",
     "COMPSCI235 - Software Development Methodologies/product backlog.md",
     "COMPSCI235 - Software Development Methodologies/product backlog refinement.md",
@@ -213,7 +214,6 @@
     "@images/Pasted image 20231103165506.png",
     "@images/Pasted image 20231103165235.png",
     "@images/Pasted image 20231103165200.png",
-    "@images/Pasted image 20231103163808.png",
     "COMPSCI367 - Artificial Intelligence/finals prep.canvas",
     "COMPSCI235 - Software Development Methodologies",
     "COMPSCI367 - Artificial Intelligence/week12",

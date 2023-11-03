@@ -1,0 +1,1 @@
+When we all read the same document or hear the same
