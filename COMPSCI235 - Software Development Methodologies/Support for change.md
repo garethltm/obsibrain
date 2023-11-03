@@ -6,4 +6,5 @@ Ease of change
 >	#Example 
 >	User wants to buy stuff
 >	- so you put the user & the catalogue together
-- [[n]]
+- [[Monolithic]] - change cycles are tied together
+	- a change made to a small part to the application, requires the entire monolith to be rebuilt & redeployed
