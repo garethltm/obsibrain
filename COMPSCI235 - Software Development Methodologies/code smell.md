@@ -11,4 +11,4 @@ a surface indication that usually corresponds to a deeper problem in the system
 - design pattern overuse
 - tight coupling
 
-This would indicate that the code needs either [[Refactoring]] or some serious redesign
+This would indicate that the code needs either [[Refactoring]] or some serious redesign![[Pasted image 20231104010558.png]]

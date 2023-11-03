@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/code smell.md",
+                "file": "COMPSCI235 - Software Development Methodologies/Test-driven development (AGILE practice).md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/code smell.md",
+                "file": "COMPSCI235 - Software Development Methodologies/Test-driven development (AGILE practice).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/code smell.md",
+                "file": "COMPSCI235 - Software Development Methodologies/Test-driven development (AGILE practice).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/code smell.md"
+                "file": "COMPSCI235 - Software Development Methodologies/Test-driven development (AGILE practice).md"
               }
             }
           },
@@ -153,7 +153,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/code smell.md"
+                "file": "COMPSCI235 - Software Development Methodologies/Test-driven development (AGILE practice).md"
               }
             }
           }
@@ -178,8 +178,10 @@
   },
   "active": "33a55b9766be070c",
   "lastOpenFiles": [
-    "COMPSCI235 - Software Development Methodologies/Refactoring.md",
+    "COMPSCI235 - Software Development Methodologies/General Refactoring Process.md",
     "COMPSCI235 - Software Development Methodologies/code smell.md",
+    "@images/Pasted image 20231104010558.png",
+    "COMPSCI235 - Software Development Methodologies/Refactoring.md",
     "COMPSCI235 - Software Development Methodologies/code review.md",
     "COMPSCI235 - Software Development Methodologies/code quality.md",
     "COMPSCI235 - Software Development Methodologies/technical debt.md",
@@ -212,8 +214,6 @@
     "COMPSCI235 - Software Development Methodologies/Adaptation.md",
     "COMPSCI235 - Software Development Methodologies/ACID.md",
     "COMPSCI235 - Software Development Methodologies/Accessibility.md",
-    "COMPSCI235 - Software Development Methodologies/Access Modifiers.md",
-    "@images/Pasted image 20231103235741.png",
     "COMPSCI367 - Artificial Intelligence/finals prep.canvas",
     "COMPSCI235 - Software Development Methodologies",
     "COMPSCI367 - Artificial Intelligence/week12",
