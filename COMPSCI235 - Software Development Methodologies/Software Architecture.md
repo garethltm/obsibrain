@@ -1,0 +1,1 @@
+describes how different elements of an application will be arranged/organized, how they interact with each other & what are the constraints the whole system is ruled by.
