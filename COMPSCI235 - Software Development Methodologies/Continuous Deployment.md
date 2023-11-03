@@ -1,0 +1,1 @@
+[[Continuous Delivery (CD)]] means every chan

@@ -11,8 +11,12 @@
             "id": "ce23f5b49e0fddd1",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "COMPSCI235 - Software Development Methodologies/Continuous Deployment.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Middleware.md",
+                "file": "COMPSCI235 - Software Development Methodologies/Continuous Deployment.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Middleware.md",
+                "file": "COMPSCI235 - Software Development Methodologies/Continuous Deployment.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Middleware.md"
+                "file": "COMPSCI235 - Software Development Methodologies/Continuous Deployment.md"
               }
             }
           },
@@ -162,12 +166,13 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "3ad179677b7fba41",
+  "active": "ce23f5b49e0fddd1",
   "lastOpenFiles": [
+    "COMPSCI235 - Software Development Methodologies/Middleware.md",
+    "COMPSCI235 - Software Development Methodologies/Continuous Deployment.md",
     "@images/1 EhvAMPfmS5Rw5rBFkrFBjg 1.png",
     "@images/1 EhvAMPfmS5Rw5rBFkrFBjg.png",
     "COMPSCI235 - Software Development Methodologies/Concurrent.md",
-    "COMPSCI235 - Software Development Methodologies/Middleware.md",
     "COMPSCI235 - Software Development Methodologies/Heterogeneous.md",
     "COMPSCI235 - Software Development Methodologies/Networked.md",
     "COMPSCI235 - Software Development Methodologies/Transport protocols.md",
@@ -199,7 +204,6 @@
     "@images/Pasted image 20231103120001.png",
     "COMPSCI235 - Software Development Methodologies/Software Build.md",
     "COMPSCI235 - Software Development Methodologies/Bug Processing.md",
-    "@images/Pasted image 20231103112625.png",
     "COMPSCI235 - Software Development Methodologies",
     "COMPSCI367 - Artificial Intelligence/finals prep.canvas",
     "COMPSCI367 - Artificial Intelligence/week12",
