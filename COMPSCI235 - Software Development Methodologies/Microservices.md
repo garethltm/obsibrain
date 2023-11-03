@@ -38,5 +38,9 @@ An approach to developing a single application as a suite of small services, eac
 - Greater security risks
 	- more APIs which can lead to more open ports
 - Different programming languages
-	- different languages make deployment/maintena
+	- different languages make deployment/maintenance more difficult
+		- different [[Microservices]] generally have different languages used to communicate with each other
+- Performance (one of the major drawbacks)
+	- remote procedure call
+		- it basically takes time to 
 
