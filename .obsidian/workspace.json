@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Software Architecture.md",
+                "file": "COMPSCI235 - Software Development Methodologies/Architectural Pattern.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Software Architecture.md",
+                "file": "COMPSCI235 - Software Development Methodologies/Architectural Pattern.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Software Architecture.md",
+                "file": "COMPSCI235 - Software Development Methodologies/Architectural Pattern.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Software Architecture.md"
+                "file": "COMPSCI235 - Software Development Methodologies/Architectural Pattern.md"
               }
             }
           },
@@ -153,7 +153,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Software Architecture.md"
+                "file": "COMPSCI235 - Software Development Methodologies/Architectural Pattern.md"
               }
             }
           }
@@ -178,8 +178,8 @@
   },
   "active": "33a55b9766be070c",
   "lastOpenFiles": [
-    "COMPSCI235 - Software Development Methodologies/Quality Attributes.md",
     "COMPSCI235 - Software Development Methodologies/Software Architecture.md",
+    "COMPSCI235 - Software Development Methodologies/Quality Attributes.md",
     "COMPSCI235 - Software Development Methodologies/System Integration.md",
     "COMPSCI235 - Software Development Methodologies/acceptance criteria.md",
     "COMPSCI235 - Software Development Methodologies/Architectural Pattern.md",
