@@ -5,4 +5,6 @@
 - These will hamper your progress if left undone for a longer time
 
 ### [[technical debt]] & [[AGILE]]
-Agility in [[ag]]
+Agility in [[AGILE]] is more about sustainable pace & lateral nimbleness rather than hasty development
+- slowing things down to speed them up
+	- from [[AGILE]] principles:
