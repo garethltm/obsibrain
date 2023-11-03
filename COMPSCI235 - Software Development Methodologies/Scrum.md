@@ -3,3 +3,6 @@
 	- which involves people from different teams
 
 [[Scrum]] is [[empirical]]
+- learn & improve upon past mistakes & experiences
+- it allows teams to incorporate practices from other frameworks
+	- adapting your process based on your learnings
