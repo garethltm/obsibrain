@@ -15,4 +15,6 @@
 ### Main roles
 1. Product Owner
 	- a role created by the [[Scrum]] Framework responsible for making sure the team delivers the desired outcome
-	- responsible for managing the [[product backlog]]
+	- responsible for managing the [[product backlog]] in order to achieve the desired outcome that a product development team seeks to accomplish
+2. [[Scrum]] Master
+	- team
