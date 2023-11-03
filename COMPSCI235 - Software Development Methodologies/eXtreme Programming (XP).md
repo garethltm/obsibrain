@@ -26,4 +26,4 @@ core values that you think that are most important for your team to deliver the 
 	- the customers write tests to verify that the features are implemented
 	- tests are automated ([[Automated Testing]]) so that they become part of the system can be continuously run to ensure the working of the system
 2. Pair programming (Driver & Passenger roles)
-3. 
+	- all production [[software]] is built by 2 programmers, sitting side by side & performing [[code quality]] checks, at the same
