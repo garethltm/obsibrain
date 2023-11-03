@@ -5,4 +5,10 @@ a surface indication that usually corresponds to a deeper problem in the system
 - long methods
 - large classes
 	- do [[Single Responsibility Principle (SRP)]]
-- 
+- temporary field
+- switch statements
+- parallel inheritance hierarchies
+- design pattern overuse
+- tight coupling
+
+This would indicate that the code needs either [[Refactoring]] or some serious redesign
