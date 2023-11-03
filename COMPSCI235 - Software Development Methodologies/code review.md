@@ -29,4 +29,5 @@ A required sign-off from another team member before a developer is permitted to 
 2. Ad-hoc (over-the-shoulder):
 	- one developer looks over the author's should as the author walks through the code, lightweight approach
 		- [[pair programming]]
-3.
+3. Tool-based:
+	- author & reviewers use specialized tools designed for peer [[code review]]

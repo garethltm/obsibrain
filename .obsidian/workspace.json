@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/code review.md",
+                "file": "COMPSCI235 - Software Development Methodologies/Refactoring.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/code review.md",
+                "file": "COMPSCI235 - Software Development Methodologies/Refactoring.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/code review.md",
+                "file": "COMPSCI235 - Software Development Methodologies/Refactoring.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/code review.md"
+                "file": "COMPSCI235 - Software Development Methodologies/Refactoring.md"
               }
             }
           },
@@ -153,7 +153,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/code review.md"
+                "file": "COMPSCI235 - Software Development Methodologies/Refactoring.md"
               }
             }
           }
@@ -178,8 +178,8 @@
   },
   "active": "33a55b9766be070c",
   "lastOpenFiles": [
-    "COMPSCI235 - Software Development Methodologies/code quality.md",
     "COMPSCI235 - Software Development Methodologies/code review.md",
+    "COMPSCI235 - Software Development Methodologies/code quality.md",
     "COMPSCI235 - Software Development Methodologies/technical debt.md",
     "@images/Pasted image 20231104004553.png",
     "COMPSCI235 - Software Development Methodologies/AGILE.md",
