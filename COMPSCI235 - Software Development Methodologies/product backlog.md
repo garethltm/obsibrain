@@ -1,3 +1,4 @@
+![[Pasted image 20231103163607.png]]
 contains all the task needed to be done in a project
 - usually listed by its order of priority
 
@@ -10,3 +11,4 @@ contains all the task needed to be done in a project
 1. product backlog
 2. sprint backlog
 
+Any feature that needs to be done, bugs solved, Non-Functional Requirements to be done
