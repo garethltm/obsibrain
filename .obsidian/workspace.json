@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "dml",
+                "query": "equal",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -176,7 +177,7 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "33a55b9766be070c",
+  "active": "a6e0090ac9cbd1f3",
   "lastOpenFiles": [
     "COMPSCI235 - Software Development Methodologies/Object-Oriented Database Management System (OODBMS).md",
     "COMPSCI235 - Software Development Methodologies/Object Oriented Databases (OOD).md",
