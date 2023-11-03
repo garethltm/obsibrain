@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Integration Testing.md",
+                "file": "COMPSCI235 - Software Development Methodologies/Cycle Time.md",
                 "mode": "source",
                 "source": false
               }
@@ -32,7 +32,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Integration Testing.md",
+                "file": "COMPSCI235 - Software Development Methodologies/Cycle Time.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -128,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Integration Testing.md",
+                "file": "COMPSCI235 - Software Development Methodologies/Cycle Time.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Integration Testing.md",
+                "file": "COMPSCI235 - Software Development Methodologies/Cycle Time.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Integration Testing.md"
+                "file": "COMPSCI235 - Software Development Methodologies/Cycle Time.md"
               }
             }
           },
@@ -196,7 +196,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Integration Testing.md"
+                "file": "COMPSCI235 - Software Development Methodologies/Cycle Time.md"
               }
             }
           }
@@ -221,32 +221,32 @@
   },
   "active": "33a55b9766be070c",
   "lastOpenFiles": [
-    "COMPSCI235 - Software Development Methodologies/Interaction Diagram.md",
-    "COMPSCI235 - Software Development Methodologies/Interfaces.md",
-    "COMPSCI235 - Software Development Methodologies/lean pull system.md",
-    "COMPSCI235 - Software Development Methodologies/Linear Approach.md",
-    "COMPSCI235 - Software Development Methodologies/Low-level modules.md",
-    "COMPSCI235 - Software Development Methodologies/Maintenance.md",
-    "COMPSCI235 - Software Development Methodologies/maintenance phase.md",
-    "COMPSCI235 - Software Development Methodologies/Mapping Styles.md",
-    "COMPSCI235 - Software Development Methodologies/Many-to-many Relation.md",
-    "COMPSCI235 - Software Development Methodologies/Minimum Viable Product (MVP).md",
-    "COMPSCI235 - Software Development Methodologies/Product Owner.md",
-    "COMPSCI235 - Software Development Methodologies/Pytest.md",
-    "COMPSCI235 - Software Development Methodologies/Python's support for abstract base classes.md",
-    "COMPSCI235 - Software Development Methodologies/Quantitative metrics.md",
-    "COMPSCI235 - Software Development Methodologies/Qualitative metrics.md",
-    "COMPSCI235 - Software Development Methodologies/Refactoring.md",
-    "COMPSCI235 - Software Development Methodologies/Relational database.md",
-    "COMPSCI235 - Software Development Methodologies/software.md",
-    "COMPSCI235 - Software Development Methodologies/Single Responsibility Principle (SRP).md",
-    "COMPSCI235 - Software Development Methodologies/Session cookie.md",
-    "COMPSCI235 - Software Development Methodologies/semantic.md",
-    "COMPSCI235 - Software Development Methodologies/Security concerns.md",
-    "COMPSCI235 - Software Development Methodologies/Scalability.md",
-    "COMPSCI235 - Software Development Methodologies/Scrum.md",
-    "COMPSCI235 - Software Development Methodologies/Scrum Master.md",
-    "COMPSCI235 - Software Development Methodologies/selector.md",
+    "COMPSCI235 - Software Development Methodologies/Data Query Language (DQL).md",
+    "COMPSCI235 - Software Development Methodologies/Data Manipulation Language (DML).md",
+    "COMPSCI235 - Software Development Methodologies/Data structures.md",
+    "COMPSCI235 - Software Development Methodologies/database.md",
+    "COMPSCI235 - Software Development Methodologies/Database instance.md",
+    "COMPSCI235 - Software Development Methodologies/Database Management System (DBMS).md",
+    "COMPSCI235 - Software Development Methodologies/Database schema.md",
+    "COMPSCI235 - Software Development Methodologies/Declarative Mapping.md",
+    "COMPSCI235 - Software Development Methodologies/definition of done.md",
+    "COMPSCI235 - Software Development Methodologies/Dependency.md",
+    "COMPSCI235 - Software Development Methodologies/Dependency Inversion Principle (DIP).md",
+    "COMPSCI235 - Software Development Methodologies/Deployment.md",
+    "COMPSCI235 - Software Development Methodologies/Design or Support for failure.md",
+    "COMPSCI235 - Software Development Methodologies/design(s).md",
+    "COMPSCI235 - Software Development Methodologies/detail of issue.md",
+    "COMPSCI235 - Software Development Methodologies/Development team.md",
+    "COMPSCI235 - Software Development Methodologies/Distributed VCS.md",
+    "COMPSCI235 - Software Development Methodologies/Documents.md",
+    "COMPSCI235 - Software Development Methodologies/Domain Modeling.md",
+    "COMPSCI235 - Software Development Methodologies/Element selectors.md",
+    "COMPSCI235 - Software Development Methodologies/empirical.md",
+    "COMPSCI235 - Software Development Methodologies/Evolutionary (Iterative) Approach.md",
+    "COMPSCI235 - Software Development Methodologies/Expired.md",
+    "COMPSCI235 - Software Development Methodologies/External Dependency.md",
+    "COMPSCI235 - Software Development Methodologies/External style sheet.md",
+    "COMPSCI235 - Software Development Methodologies/eXtreme Programming (XP).md",
     "@images/1 TYRSuON0vVxy8olllrBVEw.png",
     "@images/Pasted image 20231104020521.png",
     "@images/Pasted image 20231104015543.png",
