@@ -24,4 +24,6 @@ A required sign-off from another team member before a developer is permitted to 
 >	Pull request on [[GitHub]] $\rightarrow$ prevents code from being pushed to main without [[code review]] first
 
 ### How are [[code review]] performed?
-1. Meeting 
+1. Meeting-based:
+	- coders complete their work & meeting is called for [[code review]]
+	- 
