@@ -8,4 +8,4 @@ How should the system do it?
 [[Non-functional Requirements (NFR)]] are system-level [[constraint(s)]] that can impact on the design & testing of many features.
 >	#Example 
 >	any features that are added to our webapp must work in a specified list of browsers like Google Chrome, Mozilla, Safari,...
-- It may be better to include [[Non-functional Requirements (NFR)]] in the definition of done 
+- It may be better to include [[Non-functional Requirements (NFR)]] in the [[definition of done]] to ensure timely feedback about whether new features satisfy those system-level [[constraint(s)]].

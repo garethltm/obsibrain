@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Scrum.md",
+                "file": "COMPSCI235 - Software Development Methodologies/user story.md",
                 "mode": "source",
                 "source": false
               }
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Scrum.md",
+                "file": "COMPSCI235 - Software Development Methodologies/user story.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Scrum.md",
+                "file": "COMPSCI235 - Software Development Methodologies/user story.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Scrum.md"
+                "file": "COMPSCI235 - Software Development Methodologies/user story.md"
               }
             }
           },
@@ -154,7 +153,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Scrum.md"
+                "file": "COMPSCI235 - Software Development Methodologies/user story.md"
               }
             }
           }
@@ -180,6 +179,8 @@
   "active": "33a55b9766be070c",
   "lastOpenFiles": [
     "COMPSCI235 - Software Development Methodologies/Non-functional Requirements (NFR).md",
+    "COMPSCI235 - Software Development Methodologies/Scrum.md",
+    "COMPSCI235 - Software Development Methodologies/definition of done.md",
     "COMPSCI367 - Artificial Intelligence/week02/constraint(s).md",
     "COMPSCI235 - Software Development Methodologies/System testing.md",
     "COMPSCI235 - Software Development Methodologies/functional.md",
@@ -205,8 +206,6 @@
     "COMPSCI235 - Software Development Methodologies/detail of issue.md",
     "COMPSCI235 - Software Development Methodologies/build scripts.md",
     "COMPSCI235 - Software Development Methodologies/broken build.md",
-    "COMPSCI235 - Software Development Methodologies/Transparency.md",
-    "COMPSCI235 - Software Development Methodologies/Software Build.md",
     "@images/Pasted image 20231103170921.png",
     "@images/Pasted image 20231103170153.png",
     "@images/Pasted image 20231103170120.png",
