@@ -20,4 +20,4 @@ think of a factory thing where there is continuous movement in a production of a
 
 >	#Example 
 >	![[Pasted image 20231103235440.png]]
->	- when 1 is done with t
+>	- when 1 is done with `testing` TGB it then moves to the done area
