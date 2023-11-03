@@ -18,7 +18,7 @@ An approach to developing a single application as a suite of small services, eac
 >	you want to implement a certain new feature at a different section of the application
 >	
 >	you don't need to shut down the entire server to do so
-- Support for change
+- [[Support for change]]
 	- Support hot deployment of updates
 - Support for reuse
 	- Use same web service in multiple apps

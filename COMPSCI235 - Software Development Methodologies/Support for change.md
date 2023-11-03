@@ -8,3 +8,5 @@ Ease of change
 >	- so you put the user & the catalogue together
 - [[Monolithic]] - change cycles are tied together
 	- a change made to a small part to the application, requires the entire monolith to be rebuilt & redeployed
+		- might require whole website to shutdown
+		- updates for 1 module would mean the entire website would be down
