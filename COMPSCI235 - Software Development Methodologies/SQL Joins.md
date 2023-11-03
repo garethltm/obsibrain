@@ -8,3 +8,4 @@
 - `FULL (OUTER) JOIN`
 	- returns all records when there is a match either left or right table
 ![[Pasted image 20231102152320.png]]
+

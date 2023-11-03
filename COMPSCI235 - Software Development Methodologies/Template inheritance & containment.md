@@ -12,3 +12,5 @@ Template can declare content blocks
 [[Template containment]] is provided by the include declaration
 - `{% include name %}`
 	- values for expressions defined in the 'whole' template are accessible to its 'part' templates using the same expression name
+
+Related to: [[Jinja]]
