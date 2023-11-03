@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Continuous Deployment.md",
+                "file": "COMPSCI235 - Software Development Methodologies/Incremental Approach.md",
                 "mode": "source",
                 "source": false
               }
@@ -32,7 +32,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Continuous Deployment.md",
+                "file": "COMPSCI235 - Software Development Methodologies/Incremental Approach.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -128,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Continuous Deployment.md",
+                "file": "COMPSCI235 - Software Development Methodologies/Incremental Approach.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Continuous Deployment.md",
+                "file": "COMPSCI235 - Software Development Methodologies/Incremental Approach.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Continuous Deployment.md"
+                "file": "COMPSCI235 - Software Development Methodologies/Incremental Approach.md"
               }
             }
           },
@@ -196,7 +196,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Continuous Deployment.md"
+                "file": "COMPSCI235 - Software Development Methodologies/Incremental Approach.md"
               }
             }
           }
@@ -221,10 +221,11 @@
   },
   "active": "33a55b9766be070c",
   "lastOpenFiles": [
+    "COMPSCI235 - Software Development Methodologies/Evolutionary (Iterative) Approach.md",
+    "COMPSCI235 - Software Development Methodologies/Continuous Deployment.md",
     "COMPSCI235 - Software Development Methodologies/Issue Tracking.md",
     "COMPSCI235 - Software Development Methodologies/Bug Tracking.md",
     "COMPSCI235 - Software Development Methodologies/Continuous Integration (CI).md",
-    "COMPSCI235 - Software Development Methodologies/Continuous Deployment.md",
     "COMPSCI235 - Software Development Methodologies/acceptance criteria.md",
     "COMPSCI235 - Software Development Methodologies/Acceptance Testing.md",
     "COMPSCI235 - Software Development Methodologies/Access control.md",
@@ -246,7 +247,6 @@
     "COMPSCI235 - Software Development Methodologies/Black Box Testing.md",
     "COMPSCI235 - Software Development Methodologies/broken build.md",
     "COMPSCI235 - Software Development Methodologies/Bug Processing.md",
-    "COMPSCI235 - Software Development Methodologies/Bug reports.md",
     "@images/1 TYRSuON0vVxy8olllrBVEw.png",
     "@images/Pasted image 20231104020521.png",
     "@images/Pasted image 20231104015543.png",
