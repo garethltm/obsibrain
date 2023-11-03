@@ -29,10 +29,10 @@ If not [[Refactoring]], you are incurring a [[technical debt]] which would cost 
 >	- Extract Method
 >	- Extract Class
 >	- Pull Up Method
->	- Form Template Method
+>	- Form Template Method![[Pasted image 20231104011548.png]]
 
 >	#Example another [[code smell]]; ***Feature envy*** - a method making more use of another class than the one it is in
 >	It can be removed using the following [[Refactoring]] activities:
->	- Move method
->	- Move field
->	- Extract Method
+>	- Move Method
+>	- Move Field
+>	- Extract Method![[Pasted image 20231104011517.png]]
