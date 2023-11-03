@@ -18,7 +18,10 @@ Quality code should always be:
 	- well-documented
 - Easy to chance
 	- maintainability
-	- extens
-### Measuring code quality
+	- extensibility
+![[Pasted image 20231104003427.png]]
+### Measuring [[code quality]]
 1. [[Qualitative metrics]]
 2. [[Quantitative metrics]]
+
+### Impro
