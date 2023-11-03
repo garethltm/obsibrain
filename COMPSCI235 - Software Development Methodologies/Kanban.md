@@ -61,5 +61,5 @@ is an [[AGILE]] process model that is used to optimize the flow of work in a tea
 ### [[Scrum]] with [[Kanban]]
 ![[Pasted image 20231104002512.png]]
 
-## [[Kanban]] metrics used in [[Scrum]]e
+## [[Kanban]] metrics used in [[Scrum]] events
 ![[Pasted image 20231104002540.png]]
