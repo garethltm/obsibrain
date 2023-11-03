@@ -1,1 +1,1 @@
-Timely checks on the progress toward a SPRINT goal to detect undesirable variances
+Timely checks on the progress toward a [[SPRINT (iteration)]] goal to detect undesirable variances

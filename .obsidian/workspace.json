@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/SPRINT (iteration).md",
+                "file": "COMPSCI235 - Software Development Methodologies/Inspection.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "sprint",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/SPRINT (iteration).md",
+                "file": "COMPSCI235 - Software Development Methodologies/Inspection.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/SPRINT (iteration).md",
+                "file": "COMPSCI235 - Software Development Methodologies/Inspection.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/SPRINT (iteration).md"
+                "file": "COMPSCI235 - Software Development Methodologies/Inspection.md"
               }
             }
           },
@@ -168,8 +169,8 @@
   },
   "active": "ce23f5b49e0fddd1",
   "lastOpenFiles": [
-    "COMPSCI235 - Software Development Methodologies/Scrum.md",
     "COMPSCI235 - Software Development Methodologies/SPRINT (iteration).md",
+    "COMPSCI235 - Software Development Methodologies/Scrum.md",
     "COMPSCI235 - Software Development Methodologies/Incremental Development.md",
     "COMPSCI235 - Software Development Methodologies/product backlog refinement.md",
     "@images/Pasted image 20231103163808.png",
