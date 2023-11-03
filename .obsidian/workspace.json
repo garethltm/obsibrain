@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Test-driven development (AGILE practice).md",
+                "file": "COMPSCI235 - Software Development Methodologies/Generic Software Development Process Framework.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Test-driven development (AGILE practice).md",
+                "file": "COMPSCI235 - Software Development Methodologies/Generic Software Development Process Framework.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Test-driven development (AGILE practice).md",
+                "file": "COMPSCI235 - Software Development Methodologies/Generic Software Development Process Framework.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Test-driven development (AGILE practice).md"
+                "file": "COMPSCI235 - Software Development Methodologies/Generic Software Development Process Framework.md"
               }
             }
           },
@@ -153,7 +153,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Test-driven development (AGILE practice).md"
+                "file": "COMPSCI235 - Software Development Methodologies/Generic Software Development Process Framework.md"
               }
             }
           }
@@ -178,6 +178,8 @@
   },
   "active": "33a55b9766be070c",
   "lastOpenFiles": [
+    "COMPSCI235 - Software Development Methodologies/Test-driven development (AGILE practice).md",
+    "COMPSCI235 - Software Development Methodologies/AGILE.md",
     "COMPSCI235 - Software Development Methodologies/General Refactoring Process.md",
     "COMPSCI235 - Software Development Methodologies/code smell.md",
     "@images/Pasted image 20231104010558.png",
@@ -186,7 +188,6 @@
     "COMPSCI235 - Software Development Methodologies/code quality.md",
     "COMPSCI235 - Software Development Methodologies/technical debt.md",
     "@images/Pasted image 20231104004553.png",
-    "COMPSCI235 - Software Development Methodologies/AGILE.md",
     "@images/Pasted image 20231104003427.png",
     "COMPSCI235 - Software Development Methodologies/Quantitative metrics.md",
     "COMPSCI235 - Software Development Methodologies/cyclomatic complexity.md",
@@ -213,7 +214,6 @@
     "COMPSCI235 - Software Development Methodologies/Aggregation.md",
     "COMPSCI235 - Software Development Methodologies/Adaptation.md",
     "COMPSCI235 - Software Development Methodologies/ACID.md",
-    "COMPSCI235 - Software Development Methodologies/Accessibility.md",
     "COMPSCI367 - Artificial Intelligence/finals prep.canvas",
     "COMPSCI235 - Software Development Methodologies",
     "COMPSCI367 - Artificial Intelligence/week12",
