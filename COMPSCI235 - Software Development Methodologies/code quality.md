@@ -42,4 +42,4 @@ Quality code should always be:
 	- good variable names
 9. Analyze code - before code reviews
 10. Schedule time to lower your [[technical debt]]
-11. Constant code review
+11. Constant [[code review]]
