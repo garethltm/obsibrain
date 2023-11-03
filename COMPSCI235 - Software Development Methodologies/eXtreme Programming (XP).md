@@ -55,3 +55,4 @@ core values that you think that are most important for your team to deliver the 
 3. Coding
 	- Recommends the construction of a series of [[Unit Testing]] codes for each of the stories before coding commences
 	- Encourages "[[pair programming]]"
+	- Need continuous integration with other portions )stories) of the software
