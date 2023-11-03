@@ -1,4 +1,6 @@
+the amount of work being done
 
+![[Pasted image 20231104001436.png]]
 
 ## [[Work In Progress (WIP)]] limits
 ### Initializing
@@ -15,4 +17,4 @@
 
 An inability to stay within [[Work In Progress (WIP)]] limits can mean:
 1. The [[Work In Progress (WIP)]] is too low which leads to overflowing
-2. The [[Work In Progress (WIP)]] limit is highlighting inefficiencies that can provide possible room for improve
+2. The [[Work In Progress (WIP)]] limit is highlighting inefficiencies that can provide possible room for improvement
