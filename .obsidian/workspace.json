@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/product backlog refinement.md",
+                "file": "COMPSCI235 - Software Development Methodologies/Incremental Development.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/product backlog refinement.md",
+                "file": "COMPSCI235 - Software Development Methodologies/Incremental Development.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/product backlog refinement.md",
+                "file": "COMPSCI235 - Software Development Methodologies/Incremental Development.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/product backlog refinement.md"
+                "file": "COMPSCI235 - Software Development Methodologies/Incremental Development.md"
               }
             }
           },
@@ -168,12 +168,13 @@
   },
   "active": "ce23f5b49e0fddd1",
   "lastOpenFiles": [
-    "@images/Pasted image 20231103163808.png",
     "COMPSCI235 - Software Development Methodologies/Scrum.md",
+    "COMPSCI235 - Software Development Methodologies/Incremental Development.md",
+    "COMPSCI235 - Software Development Methodologies/product backlog refinement.md",
+    "@images/Pasted image 20231103163808.png",
     "COMPSCI235 - Software Development Methodologies/product backlog.md",
     "@images/Pasted image 20231103163607.png",
     "COMPSCI235 - Software Development Methodologies/user story.md",
-    "COMPSCI235 - Software Development Methodologies/product backlog refinement.md",
     "@images/Pasted image 20231103162819.png",
     "COMPSCI235 - Software Development Methodologies/Development team.md",
     "COMPSCI235 - Software Development Methodologies/Scrum Master.md",
@@ -195,7 +196,6 @@
     "@images/Pasted image 20231103154925.png",
     "COMPSCI235 - Software Development Methodologies/Middleware.md",
     "@images/1 EhvAMPfmS5Rw5rBFkrFBjg 1.png",
-    "@images/1 EhvAMPfmS5Rw5rBFkrFBjg.png",
     "COMPSCI235 - Software Development Methodologies/Concurrent.md",
     "COMPSCI235 - Software Development Methodologies/Heterogeneous.md",
     "COMPSCI235 - Software Development Methodologies/Networked.md",

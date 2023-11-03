@@ -26,3 +26,5 @@ Successful project is one that optimises the value of the product for which it i
 	- [[product backlog]]
 	- [[product backlog refinement]]
 2. Development flow
+	- [[SPRINT (iteration)]]
+	- [[Incremental/Release Development]]
