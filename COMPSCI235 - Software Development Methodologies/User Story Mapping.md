@@ -7,4 +7,6 @@
 2. bottom-up
 
 >	#Example 
->	
+>	![[Pasted image 20231103234400.png]]
+
+Related to: [[Minimum Viable Product (MVP)]], [[SPRINT (iteration)]], [[requirements gathering]]
