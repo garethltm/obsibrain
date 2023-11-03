@@ -38,3 +38,6 @@ is an [[AGILE]] process model that is used to optimize the flow of work in a tea
 2. The development team focus on getting work to a "done" state $\rightarrow$ This generates greater customer value
 	- complete tasks fully
 3. Bottlenecks are more easily identified. $\rightarrow$ This encourages the team to work to progress these items (swarming) & to improve engineering process, which leads to benefit (1) & (2)
+
+## Best practices for [[Kanban]] teams
+1. Size work items in small, consistent si
