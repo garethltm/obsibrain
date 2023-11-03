@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/requirements gathering.md",
+                "file": "COMPSCI235 - Software Development Methodologies/ACID.md",
                 "mode": "source",
                 "source": false
               }
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/requirements gathering.md",
+                "file": "COMPSCI235 - Software Development Methodologies/ACID.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/requirements gathering.md",
+                "file": "COMPSCI235 - Software Development Methodologies/ACID.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/requirements gathering.md"
+                "file": "COMPSCI235 - Software Development Methodologies/ACID.md"
               }
             }
           },
@@ -154,7 +153,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/requirements gathering.md"
+                "file": "COMPSCI235 - Software Development Methodologies/ACID.md"
               }
             }
           }
@@ -179,6 +178,7 @@
   },
   "active": "33a55b9766be070c",
   "lastOpenFiles": [
+    "COMPSCI235 - Software Development Methodologies/requirements gathering.md",
     "COMPSCI235 - Software Development Methodologies/Kanban.md",
     "COMPSCI235 - Software Development Methodologies/acceptance criteria.md",
     "COMPSCI235 - Software Development Methodologies/Acceptance Testing.md",
@@ -204,7 +204,6 @@
     "COMPSCI235 - Software Development Methodologies/Dependency Inversion Principle (DIP).md",
     "COMPSCI235 - Software Development Methodologies/AGILE.md",
     "COMPSCI235 - Software Development Methodologies/Low-level modules.md",
-    "COMPSCI235 - Software Development Methodologies/High-level modules.md",
     "@images/Pasted image 20231104020521.png",
     "@images/Pasted image 20231104015543.png",
     "@images/Pasted image 20231104015416.png",
