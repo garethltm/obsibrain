@@ -20,10 +20,10 @@ An approach to developing a single application as a suite of small services, eac
 >	you don't need to shut down the entire server to do so
 - [[Support for change]]
 	- Support hot deployment of updates
-- Support for reuse
+- [[Support for reuse]]
 	- Use same web service in multiple apps
-- Support separate team development
+- [[Support separate team development]]
 	- Pick boundaries that match team responsibilities
-- Design/Support for failure
+- [[Design/Support for failure]]
 	- one complexity to handle with [[Microservices]]
 
