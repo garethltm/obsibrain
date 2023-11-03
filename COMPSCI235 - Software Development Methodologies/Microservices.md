@@ -10,3 +10,7 @@ An approach to developing a single application as a suite of small services, eac
 ### Architectural Pattern
 ![[Pasted image 20231104013217.png]]
 - [[Single Responsibility Principle (SRP)]]
+
+### Advantages over [[Monolithic]]
+- Support for scaling & development
+	- [[Microservices]] are independently deployable & scalable
