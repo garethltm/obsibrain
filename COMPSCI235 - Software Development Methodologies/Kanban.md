@@ -1,6 +1,7 @@
 is an [[AGILE]] process model that is used to optimize the flow of work in a team
 
-think of a factory thing where there is continuous movement in a production of a car or something
+>	#Example 
+>	think of a factory thing where there is continuous movement in a production of a car or something
 
 ***Kanban is all about visualizing your work, limiting work in progress & maximizing efficiency (or flow). Kanban teams focus on reducing the time it takes to take a project (or user story) from start to finish.***
 
