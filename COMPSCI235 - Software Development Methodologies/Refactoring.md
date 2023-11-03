@@ -23,13 +23,14 @@ If not [[Refactoring]], you are incurring a [[technical debt]] which would cost 
 - Repeat the simplify/test cycle until the smell is gone
 
 ## Performing [[Refactoring]]
+![[Pasted image 20231104011548.png]]
 >	#Example consider a [[code smell]]; ***Duplicate code*** - code repeated in multiple places
 >	
 >	It can be removed using the following [[Refactoring]] activities:
 >	- Extract Method
 >	- Extract Class
 >	- Pull Up Method
->	- Form Template Method![[Pasted image 20231104011548.png]]
+>	- Form Template Method
 
 >	#Example another [[code smell]]; ***Feature envy*** - a method making more use of another class than the one it is in
 >	It can be removed using the following [[Refactoring]] activities:
