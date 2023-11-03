@@ -9,3 +9,6 @@
 		- there should be a release version for customers which is stable
 
 **Should be fixed immediately**
+
+A computer system in which a computer program/[[software]] component is developed &/or deployed & exectued
+![[Pasted image 20231103145640.png]]
