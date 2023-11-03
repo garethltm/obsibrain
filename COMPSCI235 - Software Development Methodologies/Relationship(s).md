@@ -5,7 +5,7 @@
 
 #### Association: a usage relationship
 if not sure, use association in general
-- [[COMPSCI235 - Software Development Methodologies/Dependency|Dependency]]
+- [[Dependency (relationship)|Dependency (relationship)]]
 - [[Association]]
 - [[Aggregation]]
 - [[Composition]]
