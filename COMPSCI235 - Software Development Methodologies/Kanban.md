@@ -49,4 +49,7 @@ is an [[AGILE]] process model that is used to optimize the flow of work in a tea
 >	#Example 
 >	![[Pasted image 20231104001923.png]]![[Pasted image 20231104001949.png]]
 
-### 4 
+### 4 [[Kanban]] Flow Metrics
+1. [[Work In Progress (WIP)]]
+2. [[Throughput]]
+	- 

@@ -1,4 +1,4 @@
-the amount of work being done
+The number of work items started but not finished
 
 ![[Pasted image 20231104001436.png]]
 
