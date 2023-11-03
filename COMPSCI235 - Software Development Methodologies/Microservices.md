@@ -42,5 +42,8 @@ An approach to developing a single application as a suite of small services, eac
 		- different [[Microservices]] generally have different languages used to communicate with each other
 - Performance (one of the major drawbacks)
 	- remote procedure call
-		- it basically takes time to 
+		- it basically takes time to get/fetch data it needs from other [[Microservices]] to achieve its goal
+
+# Conclusion
+[[Monolithic]] architec
 
