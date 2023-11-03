@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Untitled.md",
+                "file": "COMPSCI235 - Software Development Methodologies/Microservices.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Untitled.md",
+                "file": "COMPSCI235 - Software Development Methodologies/Microservices.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Untitled.md",
+                "file": "COMPSCI235 - Software Development Methodologies/Microservices.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Untitled.md"
+                "file": "COMPSCI235 - Software Development Methodologies/Microservices.md"
               }
             }
           },
@@ -153,7 +153,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Untitled.md"
+                "file": "COMPSCI235 - Software Development Methodologies/Microservices.md"
               }
             }
           }
@@ -179,7 +179,8 @@
   "active": "33a55b9766be070c",
   "lastOpenFiles": [
     "COMPSCI235 - Software Development Methodologies/Architectural Pattern.md",
-    "COMPSCI235 - Software Development Methodologies/Untitled.md",
+    "COMPSCI235 - Software Development Methodologies/Microservices Architectural Pattern.md",
+    "COMPSCI235 - Software Development Methodologies/Monolithic Architectural Pattern.md",
     "COMPSCI235 - Software Development Methodologies/Software Architecture.md",
     "COMPSCI235 - Software Development Methodologies/Quality Attributes.md",
     "COMPSCI235 - Software Development Methodologies/System Integration.md",
@@ -213,7 +214,6 @@
     "COMPSCI235 - Software Development Methodologies/Cycle Time.md",
     "COMPSCI235 - Software Development Methodologies/Throughput.md",
     "COMPSCI235 - Software Development Methodologies/Work In Progress (WIP).md",
-    "COMPSCI235 - Software Development Methodologies/eXtreme Programming (XP).md",
     "COMPSCI367 - Artificial Intelligence/finals prep.canvas",
     "COMPSCI235 - Software Development Methodologies",
     "COMPSCI367 - Artificial Intelligence/week12",
