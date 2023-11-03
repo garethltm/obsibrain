@@ -26,4 +26,7 @@ A required sign-off from another team member before a developer is permitted to 
 ### How are [[code review]] performed?
 1. Meeting-based:
 	- coders complete their work & meeting is called for [[code review]]
-	- 
+2. Ad-hoc (over-the-shoulder):
+	- one developer looks over the author's should as the author walks through the code, lightweight approach
+		- [[pair programming]]
+3.
