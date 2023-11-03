@@ -17,3 +17,7 @@ think of a factory thing where there is continuous movement in a production of a
 
 >	#Example 
 >	![[Pasted image 20231103235319.png]]
+
+>	#Example 
+>	![[Pasted image 20231103235440.png]]
+>	- when 1 is done with t
