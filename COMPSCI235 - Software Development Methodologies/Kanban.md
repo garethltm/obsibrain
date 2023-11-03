@@ -32,5 +32,7 @@ think of a factory thing where there is continuous movement in a production of a
 	- basically everyone can see what you are doing
 
 ## Benefits of [[Kanban]]
-1. The amount of work that is "nearly done" is constrained. This minimizes potential waste.
-	- basically making sure that a "nearly done"
+1. The amount of work that is "nearly done" is constrained $\rightarrow$ This minimizes potential waste.
+	- basically making sure that a "nearly done" doesn't clog up space
+2. The development team focus on getting work to a "done" state $\rightarrow$ This generates greater customer value
+	- ra
