@@ -12,6 +12,7 @@
 - [[Inspection]]
 - [[Adaptation]]
 
+![[Pasted image 20231103162819.png]]
 ### Main roles
 1. [[Product Owner]]
 2. [[Scrum Master]]
