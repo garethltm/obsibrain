@@ -19,3 +19,8 @@ Successful project is one that optimises the value of the product for which it i
 1. [[Product Owner]]
 2. [[Scrum Master]]
 3. [[Development team]]
+
+### [[AGILE]] terms
+1. Requirements
+	- [[User story]]
+	- [[Produc]]
