@@ -1,2 +1,2 @@
 - also known as Release Development
-- In an [[AGILE]] context, [[Incremental Development]] is wh
+- In an [[AGILE]] context, [[Incremental Development]] is when each successive version of a product is usable & each builds upon the previous version by adding user-visible functionality

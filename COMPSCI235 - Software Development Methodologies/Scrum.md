@@ -28,3 +28,5 @@ Successful project is one that optimises the value of the product for which it i
 2. Development flow
 	- [[SPRINT (iteration)]]
 	- [[Incremental Development]]
+3. Definition of Done ([[acceptance criteria]])
+	- 
