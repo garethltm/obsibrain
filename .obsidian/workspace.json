@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Inspection.md",
+                "file": "COMPSCI235 - Software Development Methodologies/SPRINT (iteration).md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Inspection.md",
+                "file": "COMPSCI235 - Software Development Methodologies/SPRINT (iteration).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Inspection.md",
+                "file": "COMPSCI235 - Software Development Methodologies/SPRINT (iteration).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Inspection.md"
+                "file": "COMPSCI235 - Software Development Methodologies/SPRINT (iteration).md"
               }
             }
           },
@@ -169,8 +169,9 @@
   },
   "active": "ce23f5b49e0fddd1",
   "lastOpenFiles": [
-    "COMPSCI235 - Software Development Methodologies/SPRINT (iteration).md",
     "COMPSCI235 - Software Development Methodologies/Scrum.md",
+    "COMPSCI235 - Software Development Methodologies/Inspection.md",
+    "COMPSCI235 - Software Development Methodologies/SPRINT (iteration).md",
     "COMPSCI235 - Software Development Methodologies/Incremental Development.md",
     "COMPSCI235 - Software Development Methodologies/product backlog refinement.md",
     "@images/Pasted image 20231103163808.png",
@@ -183,7 +184,6 @@
     "COMPSCI235 - Software Development Methodologies/triager.md",
     "COMPSCI235 - Software Development Methodologies/Product Owner.md",
     "COMPSCI235 - Software Development Methodologies/Adaptation.md",
-    "COMPSCI235 - Software Development Methodologies/Inspection.md",
     "COMPSCI235 - Software Development Methodologies/Transparency.md",
     "@images/Pasted image 20231103160821.png",
     "COMPSCI235 - Software Development Methodologies/empirical.md",
