@@ -10,4 +10,4 @@
 ![[Pasted image 20231103160821.png]]
 - [[Transparency]]
 - [[Inspection]]
-- Adaptation
+- [[Adaptation]]
