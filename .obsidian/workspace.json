@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/One-to-many Relation.md",
+                "file": "COMPSCI235 - Software Development Methodologies/Session cookie.md",
                 "mode": "source",
                 "source": false
               }
@@ -32,7 +32,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/One-to-many Relation.md",
+                "file": "COMPSCI235 - Software Development Methodologies/Session cookie.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -128,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/One-to-many Relation.md",
+                "file": "COMPSCI235 - Software Development Methodologies/Session cookie.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/One-to-many Relation.md",
+                "file": "COMPSCI235 - Software Development Methodologies/Session cookie.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/One-to-many Relation.md"
+                "file": "COMPSCI235 - Software Development Methodologies/Session cookie.md"
               }
             }
           },
@@ -196,7 +196,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/One-to-many Relation.md"
+                "file": "COMPSCI235 - Software Development Methodologies/Session cookie.md"
               }
             }
           }
@@ -221,32 +221,32 @@
   },
   "active": "33a55b9766be070c",
   "lastOpenFiles": [
-    "COMPSCI235 - Software Development Methodologies/Object-Relational Database Management System (ORDBMS).md",
-    "COMPSCI235 - Software Development Methodologies/Object-Oriented Database Management System (OODBMS).md",
-    "COMPSCI235 - Software Development Methodologies/Object Oriented Databases (OOD).md",
+    "COMPSCI235 - Software Development Methodologies/session.md",
+    "COMPSCI235 - Software Development Methodologies/selector.md",
+    "COMPSCI235 - Software Development Methodologies/semantic.md",
+    "COMPSCI235 - Software Development Methodologies/Session cookie.md",
+    "COMPSCI235 - Software Development Methodologies/Scrum Master.md",
+    "COMPSCI235 - Software Development Methodologies/Scrum.md",
+    "COMPSCI235 - Software Development Methodologies/Scalability.md",
+    "COMPSCI235 - Software Development Methodologies/Repository.md",
+    "COMPSCI235 - Software Development Methodologies/Relational database.md",
+    "COMPSCI235 - Software Development Methodologies/Relational DBMS (RDBMS).md",
+    "COMPSCI235 - Software Development Methodologies/Relationship(s).md",
+    "COMPSCI235 - Software Development Methodologies/software.md",
+    "COMPSCI235 - Software Development Methodologies/Signed cookies.md",
+    "COMPSCI235 - Software Development Methodologies/Software Architecture.md",
+    "COMPSCI235 - Software Development Methodologies/software development.md",
+    "COMPSCI235 - Software Development Methodologies/software engineering process.md",
+    "COMPSCI235 - Software Development Methodologies/Software Process Models.md",
+    "COMPSCI235 - Software Development Methodologies/Software vs Program.md",
+    "COMPSCI235 - Software Development Methodologies/specification.md",
     "COMPSCI235 - Software Development Methodologies/object data model.md",
-    "COMPSCI235 - Software Development Methodologies/Object ID (OID).md",
-    "COMPSCI235 - Software Development Methodologies/acceptance criteria.md",
-    "COMPSCI235 - Software Development Methodologies/Acceptance Testing.md",
-    "COMPSCI235 - Software Development Methodologies/Access control.md",
-    "COMPSCI235 - Software Development Methodologies/Access Modifiers.md",
-    "COMPSCI235 - Software Development Methodologies/Accessibility.md",
-    "COMPSCI235 - Software Development Methodologies/ACID.md",
-    "COMPSCI235 - Software Development Methodologies/Adaptation.md",
-    "COMPSCI235 - Software Development Methodologies/AGILE.md",
-    "COMPSCI235 - Software Development Methodologies/analysis.md",
-    "COMPSCI235 - Software Development Methodologies/Annotation.md",
-    "COMPSCI235 - Software Development Methodologies/Application layer protocols.md",
-    "COMPSCI235 - Software Development Methodologies/Architectural Pattern.md",
-    "COMPSCI235 - Software Development Methodologies/Application Architecture.md",
-    "COMPSCI235 - Software Development Methodologies/Association.md",
-    "COMPSCI235 - Software Development Methodologies/Authentication.md",
-    "COMPSCI235 - Software Development Methodologies/Automated Build.md",
-    "COMPSCI235 - Software Development Methodologies/Automated Testing.md",
-    "COMPSCI235 - Software Development Methodologies/Behavioral Diagrams.md",
-    "COMPSCI235 - Software Development Methodologies/Black Box Testing.md",
-    "COMPSCI235 - Software Development Methodologies/broken build.md",
-    "COMPSCI235 - Software Development Methodologies/Bug Processing.md",
+    "COMPSCI235 - Software Development Methodologies/Non-functional Requirements (NFR).md",
+    "COMPSCI235 - Software Development Methodologies/Object-Oriented Database Management System (OODBMS).md",
+    "COMPSCI235 - Software Development Methodologies/One-to-many Relation.md",
+    "COMPSCI235 - Software Development Methodologies/pair programming.md",
+    "COMPSCI235 - Software Development Methodologies/ORM & Associations.md",
+    "COMPSCI235 - Software Development Methodologies/open protocol.md",
     "@images/1 TYRSuON0vVxy8olllrBVEw.png",
     "@images/Pasted image 20231104020521.png",
     "@images/Pasted image 20231104015543.png",
