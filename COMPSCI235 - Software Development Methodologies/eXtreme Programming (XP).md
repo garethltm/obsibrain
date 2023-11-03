@@ -19,4 +19,7 @@ core values that you think that are most important for your team to deliver the 
 ## 12 Principles
 ![[Pasted image 20231103170120.png]]
 
-#### Main foxu
+#### Main focus
+![[Pasted image 20231103170153.png]]
+1. Testing (Test are written prior to code)
+	- the developers continually write u
