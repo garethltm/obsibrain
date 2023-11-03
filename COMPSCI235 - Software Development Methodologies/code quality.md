@@ -12,4 +12,4 @@ A good quality code is one that is:
 
 ### Measuring code quality
 1. [[Qualitative metrics]]
-2. Quantitative metrics
+2. [[Quantitative metrics]]
