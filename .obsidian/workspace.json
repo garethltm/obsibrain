@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Scrum.md",
+                "file": "COMPSCI235 - Software Development Methodologies/eXtreme Programming (XP).md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Scrum.md",
+                "file": "COMPSCI235 - Software Development Methodologies/eXtreme Programming (XP).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Scrum.md",
+                "file": "COMPSCI235 - Software Development Methodologies/eXtreme Programming (XP).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Scrum.md"
+                "file": "COMPSCI235 - Software Development Methodologies/eXtreme Programming (XP).md"
               }
             }
           },
@@ -168,8 +168,9 @@
   },
   "active": "ce23f5b49e0fddd1",
   "lastOpenFiles": [
-    "COMPSCI235 - Software Development Methodologies/Burn-up charts.md",
     "COMPSCI235 - Software Development Methodologies/Scrum.md",
+    "@images/Pasted image 20231103165506.png",
+    "COMPSCI235 - Software Development Methodologies/Burn-up charts.md",
     "COMPSCI235 - Software Development Methodologies/Burn-down charts.md",
     "@images/Pasted image 20231103165235.png",
     "@images/Pasted image 20231103165200.png",
@@ -197,7 +198,6 @@
     "COMPSCI235 - Software Development Methodologies/Continuous Deployment.md",
     "COMPSCI235 - Software Development Methodologies/Dependency Inversion Principle (DIP).md",
     "@images/Pasted image 20231103155017.png",
-    "@images/Pasted image 20231103155015.png",
     "COMPSCI235 - Software Development Methodologies/Middleware.md",
     "COMPSCI235 - Software Development Methodologies/Concurrent.md",
     "COMPSCI235 - Software Development Methodologies/Heterogeneous.md",

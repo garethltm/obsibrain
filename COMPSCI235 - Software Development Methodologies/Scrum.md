@@ -1,3 +1,4 @@
+![[Pasted image 20231103165506.png]]
 [[Scrum]] is an [[AGILE]] framework for [[Evolutionary (Iterative) Approach]], [[Incremental Approach]] [[software development]] that emphasizes collaboration, adaptability & delivery of value to customers in short, ***time-boxed iterations*** called [[SPRINT (iteration)]]
 - working towards a collaborative goal ([[SPRINT (iteration)]] goal)
 	- which involves people from different teams
