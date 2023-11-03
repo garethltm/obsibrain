@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Object-Oriented Database Management System (OODBMS).md",
+                "file": "COMPSCI235 - Software Development Methodologies/SQLAlchemy Session.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Object-Oriented Database Management System (OODBMS).md",
+                "file": "COMPSCI235 - Software Development Methodologies/SQLAlchemy Session.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Object-Oriented Database Management System (OODBMS).md",
+                "file": "COMPSCI235 - Software Development Methodologies/SQLAlchemy Session.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Object-Oriented Database Management System (OODBMS).md"
+                "file": "COMPSCI235 - Software Development Methodologies/SQLAlchemy Session.md"
               }
             }
           },
@@ -153,7 +153,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Object-Oriented Database Management System (OODBMS).md"
+                "file": "COMPSCI235 - Software Development Methodologies/SQLAlchemy Session.md"
               }
             }
           }
@@ -178,11 +178,11 @@
   },
   "active": "33a55b9766be070c",
   "lastOpenFiles": [
+    "COMPSCI235 - Software Development Methodologies/Object-Oriented Database Management System (OODBMS).md",
     "COMPSCI235 - Software Development Methodologies/Object Oriented Databases (OOD).md",
     "COMPSCI235 - Software Development Methodologies/Object Relation Mapping (ORM).md",
     "COMPSCI235 - Software Development Methodologies/Relational database.md",
     "COMPSCI235 - Software Development Methodologies/Object-Relational Database Management System (ORDBMS).md",
-    "COMPSCI235 - Software Development Methodologies/Object-Oriented Database Management System (OODBMS).md",
     "COMPSCI235 - Software Development Methodologies/Impedence.md",
     "INFOSYS222 - Database Systems/DML - Data Manipulation Language.md",
     "COMPSCI235 - Software Development Methodologies/Data Manipulation Language (DML).md",
