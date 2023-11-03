@@ -14,3 +14,9 @@ An approach to developing a single application as a suite of small services, eac
 ### Advantages over [[Monolithic]]
 - Support for scaling & development
 	- [[Microservices]] are independently deployable & scalable
+>	#Example 
+>	you want to implement a certain new feature at a different section of the application
+>	
+>	you don't need to shut down the entire server to do so
+- Support for change
+	- Suport hot deployment of 
