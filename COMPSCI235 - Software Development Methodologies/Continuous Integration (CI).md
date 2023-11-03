@@ -10,4 +10,9 @@ Designed as part of [[eXtreme Programming (XP)]] practices
 
 Each integration is verified by an [[Automated Build]] (including [[Testing]]) to detect any integration errors as quickly as possible![[Pasted image 20231103150659.png]]
 - Checkout code
-- Write
+- Write/change code
+- Build & test locally
+- Update (merge)
+	- Retest if the mainline shows deviation from the working copy
+- Commit changes
+- Trigger [[Continuous Integration (CI)]]
