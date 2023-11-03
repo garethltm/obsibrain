@@ -6,4 +6,9 @@
 ### Tools
 - Test Frameworks
 	- JUnit, Cucumber, CppUnit, unittest, pytest
-	- Selenium IDE: allow prerecording of user interactions & pla
+	- Selenium IDE: allow prerecording of user interactions & "play" them as test, open source
+- Build Repositories
+	- Nexus, Artifactory, Archiva
+- Deployment Servers
+	- Salt, Ansible, Puppet, Jenkins
+
