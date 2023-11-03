@@ -34,4 +34,8 @@ WHO, WHAT & WHY
 ![[INVEST]]
 
 ## Gathering [[user stories]]
-1. User 
+Tools used:
+1. User-Story-Writing workshops
+2. User Story Mapping
+
+- it is better to involve the customer in the team on deciding on what to build & include frequent 
