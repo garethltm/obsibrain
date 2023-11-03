@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "1b8747720159e437",
+        "id": "a2bbc451e11b67f7",
         "type": "tabs",
         "children": [
           {
-            "id": "e3a0dec6ad66be55",
+            "id": "ce23f5b49e0fddd1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Middleware.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -65,8 +61,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -167,7 +162,7 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "e3a0dec6ad66be55",
+  "active": "3ad179677b7fba41",
   "lastOpenFiles": [
     "@images/1 EhvAMPfmS5Rw5rBFkrFBjg 1.png",
     "@images/1 EhvAMPfmS5Rw5rBFkrFBjg.png",
