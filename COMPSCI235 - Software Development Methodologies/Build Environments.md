@@ -6,5 +6,6 @@
 	- failed test/inspection
 	- problem with the [[COMPSCI235 - Software Development Methodologies/database|database]]
 	- Deployment problem (missing dependency)
+		- there should be a release version for customers which is stable
 
 **Should be fixed immediately**
