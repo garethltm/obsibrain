@@ -1,1 +1,3 @@
-user account storage, 
+- user account storage
+- serving static assets
+	- photos
