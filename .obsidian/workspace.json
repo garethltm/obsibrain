@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Pending.md",
+                "file": "COMPSCI235 - Software Development Methodologies/Object Relation Mapping (ORM).md",
                 "mode": "source",
                 "source": false
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Pending.md",
+                "file": "COMPSCI235 - Software Development Methodologies/Object Relation Mapping (ORM).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -158,7 +158,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Pending.md",
+                "file": "COMPSCI235 - Software Development Methodologies/Object Relation Mapping (ORM).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -181,7 +181,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Pending.md"
+                "file": "COMPSCI235 - Software Development Methodologies/Object Relation Mapping (ORM).md"
               }
             }
           },
@@ -209,7 +209,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Pending.md"
+                "file": "COMPSCI235 - Software Development Methodologies/Object Relation Mapping (ORM).md"
               }
             }
           }
@@ -234,6 +234,7 @@
   },
   "active": "95c985d8e33e2311",
   "lastOpenFiles": [
+    "COMPSCI235 - Software Development Methodologies/Pending.md",
     "COMPSCI235 - Software Development Methodologies/Transient.md",
     "COMPSCI235 - Software Development Methodologies/ACID.md",
     "COMPSCI235 - Software Development Methodologies/Persistent.md",
@@ -259,7 +260,6 @@
     "COMPSCI235 - Software Development Methodologies/Inline styles.md",
     "COMPSCI235 - Software Development Methodologies/Kanban.md",
     "COMPSCI235 - Software Development Methodologies/AGILE.md",
-    "COMPSCI235 - Software Development Methodologies/External Dependency.md",
     "@images/1 TYRSuON0vVxy8olllrBVEw.png",
     "@images/Pasted image 20231104020521.png",
     "@images/Pasted image 20231104015543.png",
