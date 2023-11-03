@@ -11,3 +11,7 @@
 - [[Transparency]]
 - [[Inspection]]
 - [[Adaptation]]
+
+### Main roles
+1. Product Owner
+	- a role created by the [[Scrum]] Framwork

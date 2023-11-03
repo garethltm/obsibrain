@@ -1,1 +1,1 @@
-Adjusting a process as soon as possible 
+Adjusting a process as soon as possible to minimize any further deviation or issues
