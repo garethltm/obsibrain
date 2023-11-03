@@ -50,8 +50,9 @@ which are:
 - Dynamic System Development Method (DSDM)
 
 ## [[AGILE]] Process Models
+![[Pasted image 20231103160109.png]]
 1. [[AGILE]] Management Model
-	- Scrum
+	- [[Scrum]]
 	- Kanban
 2. [[AGILE]] Development Model
 	- [[eXtreme Programming (XP)]]
