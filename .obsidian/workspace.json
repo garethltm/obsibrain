@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Microservices.md",
+                "file": "COMPSCI235 - Software Development Methodologies/Support for scaling & development.md",
                 "mode": "source",
                 "source": false
               }
@@ -32,7 +32,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Microservices.md",
+                "file": "COMPSCI235 - Software Development Methodologies/Support for scaling & development.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -128,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Microservices.md",
+                "file": "COMPSCI235 - Software Development Methodologies/Support for scaling & development.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Microservices.md",
+                "file": "COMPSCI235 - Software Development Methodologies/Support for scaling & development.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Microservices.md"
+                "file": "COMPSCI235 - Software Development Methodologies/Support for scaling & development.md"
               }
             }
           },
@@ -196,7 +196,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Microservices.md"
+                "file": "COMPSCI235 - Software Development Methodologies/Support for scaling & development.md"
               }
             }
           }
@@ -221,8 +221,9 @@
   },
   "active": "33a55b9766be070c",
   "lastOpenFiles": [
-    "COMPSCI235 - Software Development Methodologies/Monolithic.md",
     "COMPSCI235 - Software Development Methodologies/Microservices.md",
+    "COMPSCI235 - Software Development Methodologies/Support for scaling & development.md",
+    "COMPSCI235 - Software Development Methodologies/Monolithic.md",
     "@images/Pasted image 20231104013217.png",
     "@images/Pasted image 20231104013215.png",
     "@images/Pasted image 20231104013117.png",

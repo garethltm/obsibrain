@@ -12,7 +12,7 @@ An approach to developing a single application as a suite of small services, eac
 - [[Single Responsibility Principle (SRP)]]
 
 ### Advantages over [[Monolithic]]
-- Support for scaling & development
+- [[Support for scaling & development]]
 	- [[Microservices]] are independently deployable & scalable
 >	#Example 
 >	you want to implement a certain new feature at a different section of the application
@@ -25,3 +25,5 @@ An approach to developing a single application as a suite of small services, eac
 - Support separate team development
 	- Pick boundaries that match team responsibilities
 - Design/Support for failure
+	- one complexity to handle with [[Microservices]]
+
