@@ -7,6 +7,7 @@
 - Test Frameworks
 	- JUnit, Cucumber, CppUnit, unittest, pytest
 	- Selenium IDE: allow prerecording of user interactions & "play" them as test, open source
+		- replaying user interaction
 - Build Repositories
 	- Nexus, Artifactory, Archiva
 - Deployment Servers
