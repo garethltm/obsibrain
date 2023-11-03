@@ -11,6 +11,8 @@
 	- velocity $\rightarrow$ to determine how capable a team performance is
 
 ### Optimizing
-The main aim of [[Work In Progress (WIP)]] limits is to optimize the flow of work
+***The main aim of [[Work In Progress (WIP)]] limits is to optimize the flow of work***
 
-
+An inability to stay within [[Work In Progress (WIP)]] limits can mean:
+1. The [[Work In Progress (WIP)]] is too low which leads to overflowing
+2. The [[Work In Progress (WIP)]] limit is highlighting inefficiencies that can provide possible room for improve
