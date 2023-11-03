@@ -27,12 +27,13 @@ core values that you think that are most important for your team to deliver the 
 	- tests are automated ([[Automated Testing]]) so that they become part of the system can be continuously run to ensure the working of the system
 2. Pair programming (Driver & Passenger roles)
 	- all production [[software]] is built by 2 programmers, sitting side by side & performing [[code quality]] checks, at the same machine
-3. [[Continuous Integration]] (committing to the main line)
+3. [[Continuous Integration (CI)]] (committing to the main line)
 	- keep system fully integrated at all times by committing multiple builds each day
 		- not deviating from the main line
-4. Refactoring (Code is continuously refactored)
+4. [[Refactoring]] (Code is continuously refactored)
 	- iterative refinement of the internal program design
 5. Short Releases (Release new versions in short cycles)
 	- put a simple system into production quickly & then release new versions in very short cycles
 6. Coding Standards (Code is consistent)
 	- follow a common coding standard, so that all the code in the system looks as if it was written by a single (competent) individual
+![[Pasted image 20231103170921.png]]
