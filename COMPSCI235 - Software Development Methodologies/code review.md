@@ -19,3 +19,9 @@ A required sign-off from another team member before a developer is permitted to 
 	- when code author has finished a coherent system change that is otherwise ready for check-in
 		- change shouldn't be too large/too small
 		- before committing the code to the repository or incorporating it into the new build
+
+>	#Example 
+>	Pull request on [[GitHub]] $\rightarrow$ prevents code from being pushed to main without [[code review]] first
+
+### How are [[code review]] performed?
+1. Meeting 
