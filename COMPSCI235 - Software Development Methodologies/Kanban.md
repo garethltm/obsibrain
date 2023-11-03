@@ -14,3 +14,6 @@ think of a factory thing where there is continuous movement in a production of a
 2. [[Kanban]] uses visual cues
 	- like a signboard kinda thing literally translates to signboard
 3. To increase efficiency, limit [[Work In Progress (WIP)]]
+
+>	#Example 
+>	![[Pasted image 20231103235319.png]]
