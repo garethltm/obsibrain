@@ -7,4 +7,6 @@ is an [[AGILE]] process model that is used to optimize the flow of work in a tea
 ### Characteristics
 1. [[Kanban]] facilitates a "[[lean pull system]]" & not a "wasteful push system"
 	- no delegation of tasks
-2. [[Kanban]] uses 
+2. [[Kanban]] uses visual cues
+	- like a signboard kinda thing literally translates to signboard
+3. To increase efficiency, limit [[Work In Progress (WIP)]]
