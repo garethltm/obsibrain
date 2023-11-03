@@ -3,5 +3,5 @@ The [[Software Build]] is automated when the tasks defined in the build:
 - are repeatable
 - can be performed at any time with no information other than what is stored in the source code control repository
 >	#Example 
->	a remote VCS like GitHub
+>	a remote VCS like [[GitHub]]
 - to automate builds we use "[[build scripts]]"

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Behavioral Diagrams.md",
+                "file": "COMPSCI235 - Software Development Methodologies/One-to-many Relation.md",
                 "mode": "source",
                 "source": false
               }
@@ -32,7 +32,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Behavioral Diagrams.md",
+                "file": "COMPSCI235 - Software Development Methodologies/One-to-many Relation.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -128,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Behavioral Diagrams.md",
+                "file": "COMPSCI235 - Software Development Methodologies/One-to-many Relation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Behavioral Diagrams.md",
+                "file": "COMPSCI235 - Software Development Methodologies/One-to-many Relation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Behavioral Diagrams.md"
+                "file": "COMPSCI235 - Software Development Methodologies/One-to-many Relation.md"
               }
             }
           },
@@ -196,7 +196,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Behavioral Diagrams.md"
+                "file": "COMPSCI235 - Software Development Methodologies/One-to-many Relation.md"
               }
             }
           }
@@ -219,34 +219,34 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "3ad179677b7fba41",
+  "active": "33a55b9766be070c",
   "lastOpenFiles": [
+    "COMPSCI235 - Software Development Methodologies/Object-Relational Database Management System (ORDBMS).md",
+    "COMPSCI235 - Software Development Methodologies/Object-Oriented Database Management System (OODBMS).md",
+    "COMPSCI235 - Software Development Methodologies/Object Oriented Databases (OOD).md",
+    "COMPSCI235 - Software Development Methodologies/object data model.md",
+    "COMPSCI235 - Software Development Methodologies/Object ID (OID).md",
+    "COMPSCI235 - Software Development Methodologies/acceptance criteria.md",
+    "COMPSCI235 - Software Development Methodologies/Acceptance Testing.md",
+    "COMPSCI235 - Software Development Methodologies/Access control.md",
+    "COMPSCI235 - Software Development Methodologies/Access Modifiers.md",
+    "COMPSCI235 - Software Development Methodologies/Accessibility.md",
+    "COMPSCI235 - Software Development Methodologies/ACID.md",
+    "COMPSCI235 - Software Development Methodologies/Adaptation.md",
+    "COMPSCI235 - Software Development Methodologies/AGILE.md",
+    "COMPSCI235 - Software Development Methodologies/analysis.md",
+    "COMPSCI235 - Software Development Methodologies/Annotation.md",
+    "COMPSCI235 - Software Development Methodologies/Application layer protocols.md",
+    "COMPSCI235 - Software Development Methodologies/Architectural Pattern.md",
+    "COMPSCI235 - Software Development Methodologies/Application Architecture.md",
+    "COMPSCI235 - Software Development Methodologies/Association.md",
+    "COMPSCI235 - Software Development Methodologies/Authentication.md",
+    "COMPSCI235 - Software Development Methodologies/Automated Build.md",
     "COMPSCI235 - Software Development Methodologies/Automated Testing.md",
     "COMPSCI235 - Software Development Methodologies/Behavioral Diagrams.md",
     "COMPSCI235 - Software Development Methodologies/Black Box Testing.md",
     "COMPSCI235 - Software Development Methodologies/broken build.md",
     "COMPSCI235 - Software Development Methodologies/Bug Processing.md",
-    "COMPSCI235 - Software Development Methodologies/Bug reports.md",
-    "COMPSCI235 - Software Development Methodologies/Bug Tracking.md",
-    "COMPSCI235 - Software Development Methodologies/Build Environments.md",
-    "COMPSCI235 - Software Development Methodologies/build scripts.md",
-    "COMPSCI235 - Software Development Methodologies/Burn-down charts.md",
-    "COMPSCI235 - Software Development Methodologies/Burn-up charts.md",
-    "COMPSCI235 - Software Development Methodologies/Class Diagram.md",
-    "COMPSCI235 - Software Development Methodologies/Class Responsibility Collaborator (CRC) cards.md",
-    "COMPSCI235 - Software Development Methodologies/Class selectors.md",
-    "COMPSCI235 - Software Development Methodologies/Classes.md",
-    "COMPSCI235 - Software Development Methodologies/code quality.md",
-    "COMPSCI235 - Software Development Methodologies/code review.md",
-    "COMPSCI235 - Software Development Methodologies/code smell.md",
-    "COMPSCI235 - Software Development Methodologies/Combating CSRF.md",
-    "COMPSCI235 - Software Development Methodologies/Communication.md",
-    "COMPSCI235 - Software Development Methodologies/Composition.md",
-    "COMPSCI235 - Software Development Methodologies/Concurrent.md",
-    "COMPSCI235 - Software Development Methodologies/Construction (Code, Test).md",
-    "COMPSCI235 - Software Development Methodologies/Continuous Delivery (CD).md",
-    "COMPSCI235 - Software Development Methodologies/Continuous Deployment.md",
-    "COMPSCI235 - Software Development Methodologies/Continuous Integration (CI).md",
     "@images/1 TYRSuON0vVxy8olllrBVEw.png",
     "@images/Pasted image 20231104020521.png",
     "@images/Pasted image 20231104015543.png",
