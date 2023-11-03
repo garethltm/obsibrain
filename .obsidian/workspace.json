@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/eXtreme Programming (XP).md",
+                "file": "COMPSCI235 - Software Development Methodologies/pair programming.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/eXtreme Programming (XP).md",
+                "file": "COMPSCI235 - Software Development Methodologies/pair programming.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/eXtreme Programming (XP).md",
+                "file": "COMPSCI235 - Software Development Methodologies/pair programming.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/eXtreme Programming (XP).md"
+                "file": "COMPSCI235 - Software Development Methodologies/pair programming.md"
               }
             }
           },
@@ -153,7 +153,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/eXtreme Programming (XP).md"
+                "file": "COMPSCI235 - Software Development Methodologies/pair programming.md"
               }
             }
           }
@@ -178,8 +178,9 @@
   },
   "active": "33a55b9766be070c",
   "lastOpenFiles": [
-    "COMPSCI235 - Software Development Methodologies/Refactoring.md",
     "COMPSCI235 - Software Development Methodologies/eXtreme Programming (XP).md",
+    "COMPSCI235 - Software Development Methodologies/pair programming.md",
+    "COMPSCI235 - Software Development Methodologies/Refactoring.md",
     "COMPSCI235 - Software Development Methodologies/fault-tolerance.md",
     "COMPSCI235 - Software Development Methodologies/Continuous Deployment.md",
     "COMPSCI235 - Software Development Methodologies/Continuous Integration (CI).md",
@@ -203,7 +204,6 @@
     "COMPSCI235 - Software Development Methodologies/Burn-up charts.md",
     "COMPSCI235 - Software Development Methodologies/Burn-down charts.md",
     "COMPSCI235 - Software Development Methodologies/Build Environments.md",
-    "COMPSCI235 - Software Development Methodologies/Bug reports.md",
     "@images/Pasted image 20231103170921.png",
     "@images/Pasted image 20231103170153.png",
     "@images/Pasted image 20231103170120.png",
