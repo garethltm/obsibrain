@@ -1,6 +1,8 @@
 How should the system do it?
 >	#Example 
->	1. The home page should load within 2 seconds (Performance)
->	2. Passwords should be encrypted using level 4 encryption standards (Security)
->	3. The system should be able to handle a concurrent user load of at least 1000 users without a significant performance degradation (Performance)
->	4. Regular automated backups of user data should be performed & stored securely to preve
+>	1. The home page should load within 2 seconds (**Performance**)
+>	2. Passwords should be encrypted using level 4 encryption standards (**Security**)
+>	3. The system should be able to handle a concurrent user load of at least 1000 users without a significant performance degradation (**Performance**)
+>	4. Regular automated backups of user data should be performed & stored securely to prevent data loss. (**Reliability**)
+
+[[Non-functional Requirements (NFR)]]

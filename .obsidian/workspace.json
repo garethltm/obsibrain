@@ -13,11 +13,54 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Non-functional Requirements (NFR).md",
+                "file": "COMPSCI235 - Software Development Methodologies/functional.md",
                 "mode": "source",
                 "source": false
               }
-            }
+            },
+            "group": "ea6aea094e32c4c7"
+          }
+        ]
+      },
+      {
+        "id": "96eaafba31746953",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3d95b13eaa8ba416",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "COMPSCI235 - Software Development Methodologies/functional.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1,
+                  "close": false
+                }
+              }
+            },
+            "group": "ea6aea094e32c4c7"
           }
         ]
       }
@@ -85,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Non-functional Requirements (NFR).md",
+                "file": "COMPSCI235 - Software Development Methodologies/functional.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Non-functional Requirements (NFR).md",
+                "file": "COMPSCI235 - Software Development Methodologies/functional.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Non-functional Requirements (NFR).md"
+                "file": "COMPSCI235 - Software Development Methodologies/functional.md"
               }
             }
           },
@@ -153,7 +196,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Non-functional Requirements (NFR).md"
+                "file": "COMPSCI235 - Software Development Methodologies/functional.md"
               }
             }
           }
@@ -178,9 +221,11 @@
   },
   "active": "33a55b9766be070c",
   "lastOpenFiles": [
+    "COMPSCI235 - Software Development Methodologies/System testing.md",
+    "COMPSCI235 - Software Development Methodologies/non-functional.md",
+    "COMPSCI235 - Software Development Methodologies/Non-functional Requirements (NFR).md",
     "COMPSCI235 - Software Development Methodologies/Types of Requirements.md",
     "COMPSCI235 - Software Development Methodologies/Functional Requirements (FR).md",
-    "COMPSCI235 - Software Development Methodologies/Non-functional Requirements (NFR).md",
     "COMPSCI235 - Software Development Methodologies/AGILE.md",
     "COMPSCI235 - Software Development Methodologies/Waterfall Model.md",
     "@images/Pasted image 20231103230401.png",
@@ -204,8 +249,6 @@
     "COMPSCI235 - Software Development Methodologies/Software Build.md",
     "COMPSCI235 - Software Development Methodologies/Scrum.md",
     "COMPSCI235 - Software Development Methodologies/Scrum Master.md",
-    "COMPSCI235 - Software Development Methodologies/SPRINT (iteration).md",
-    "COMPSCI235 - Software Development Methodologies/Product Owner.md",
     "@images/Pasted image 20231103170921.png",
     "@images/Pasted image 20231103170153.png",
     "@images/Pasted image 20231103170120.png",
