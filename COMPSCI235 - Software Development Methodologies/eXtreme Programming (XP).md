@@ -45,4 +45,6 @@ core values that you think that are most important for your team to deliver the 
 	- [[AGILE]] team assesses each story & assigns a cost
 	- Stories are grouped for a deliverable increment
 	- A commitment is made on delivery date
-	- After the fi
+	- After the first increment "project velocity" is used to help define subsequent delivery dates for other increments
+2. Design
+	- 
