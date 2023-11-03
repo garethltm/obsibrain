@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/user stories.md",
+                "file": "COMPSCI235 - Software Development Methodologies/User-Story-Writing workshop.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/user stories.md",
+                "file": "COMPSCI235 - Software Development Methodologies/User-Story-Writing workshop.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/user stories.md",
+                "file": "COMPSCI235 - Software Development Methodologies/User-Story-Writing workshop.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/user stories.md"
+                "file": "COMPSCI235 - Software Development Methodologies/User-Story-Writing workshop.md"
               }
             }
           },
@@ -153,7 +153,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/user stories.md"
+                "file": "COMPSCI235 - Software Development Methodologies/User-Story-Writing workshop.md"
               }
             }
           }
@@ -178,13 +178,14 @@
   },
   "active": "33a55b9766be070c",
   "lastOpenFiles": [
+    "COMPSCI235 - Software Development Methodologies/user stories.md",
+    "COMPSCI235 - Software Development Methodologies/User-Story-Writing workshop.md",
     "@images/Pasted image 20231103233842.png",
     "COMPSCI235 - Software Development Methodologies/INVEST.md",
     "COMPSCI235 - Software Development Methodologies/Dependency Inversion Principle (DIP).md",
     "COMPSCI235 - Software Development Methodologies/Dependency.md",
     "COMPSCI235 - Software Development Methodologies/Framework of dependencies.md",
     "@images/Pasted image 20231103232733.png",
-    "COMPSCI235 - Software Development Methodologies/user stories.md",
     "@images/Pasted image 20231103232537.png",
     "COMPSCI235 - Software Development Methodologies/Planning.md",
     "@images/Pasted image 20231103232116.png",
@@ -208,7 +209,6 @@
     "COMPSCI235 - Software Development Methodologies/AGILE.md",
     "COMPSCI235 - Software Development Methodologies/Waterfall Model.md",
     "@images/Pasted image 20231103230401.png",
-    "@images/Pasted image 20231103230032.png",
     "COMPSCI235 - Software Development Methodologies/Acceptance Testing.md",
     "COMPSCI235 - Software Development Methodologies/pair programming.md",
     "COMPSCI235 - Software Development Methodologies/Refactoring.md",
