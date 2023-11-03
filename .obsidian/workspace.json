@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Impedence.md",
+                "file": "COMPSCI235 - Software Development Methodologies/Object Oriented Databases (OOD).md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Impedence.md",
+                "file": "COMPSCI235 - Software Development Methodologies/Object Oriented Databases (OOD).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Impedence.md",
+                "file": "COMPSCI235 - Software Development Methodologies/Object Oriented Databases (OOD).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Impedence.md"
+                "file": "COMPSCI235 - Software Development Methodologies/Object Oriented Databases (OOD).md"
               }
             }
           },
@@ -153,7 +153,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Impedence.md"
+                "file": "COMPSCI235 - Software Development Methodologies/Object Oriented Databases (OOD).md"
               }
             }
           }
@@ -178,6 +178,11 @@
   },
   "active": "33a55b9766be070c",
   "lastOpenFiles": [
+    "COMPSCI235 - Software Development Methodologies/Object Relation Mapping (ORM).md",
+    "COMPSCI235 - Software Development Methodologies/Object Oriented Databases (OOD).md",
+    "COMPSCI235 - Software Development Methodologies/Object-Relational Database Management System (ORDBMS).md",
+    "COMPSCI235 - Software Development Methodologies/Object-Oriented Database Management System (OODBMS).md",
+    "COMPSCI235 - Software Development Methodologies/Impedence.md",
     "INFOSYS222 - Database Systems/DML - Data Manipulation Language.md",
     "COMPSCI235 - Software Development Methodologies/Data Manipulation Language (DML).md",
     "INFOSYS222 - Database Systems/DDL - Data Definition Language.md",
@@ -199,12 +204,7 @@
     "COMPSCI235 - Software Development Methodologies/Testing.md",
     "COMPSCI235 - Software Development Methodologies/Class Diagram.md",
     "COMPSCI235 - Software Development Methodologies/Structural elements.md",
-    "COMPSCI235 - Software Development Methodologies/Annotation.md",
-    "COMPSCI235 - Software Development Methodologies/Relationship(s).md",
-    "COMPSCI235 - Software Development Methodologies/Access Modifiers.md",
     "@images/1 TYRSuON0vVxy8olllrBVEw.png",
-    "COMPSCI235 - Software Development Methodologies/Unified Modeling Language (UML).md",
-    "COMPSCI235 - Software Development Methodologies/Generic Software Development Process Framework.md",
     "@images/Pasted image 20231104020521.png",
     "@images/Pasted image 20231104015543.png",
     "@images/Pasted image 20231104015416.png",
