@@ -9,3 +9,5 @@ WHO, WHAT & WHY
 ***Shared documents are not [[shared understanding]]***
 
 #### How to write user stories
+1. Card (C)
+	- Write your product ideas on cards, one per card

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/user story.md",
+                "file": "COMPSCI235 - Software Development Methodologies/eXtreme Programming (XP).md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "definition of done",
+                "query": "card",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/user story.md",
+                "file": "COMPSCI235 - Software Development Methodologies/eXtreme Programming (XP).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/user story.md",
+                "file": "COMPSCI235 - Software Development Methodologies/eXtreme Programming (XP).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/user story.md"
+                "file": "COMPSCI235 - Software Development Methodologies/eXtreme Programming (XP).md"
               }
             }
           },
@@ -153,7 +154,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/user story.md"
+                "file": "COMPSCI235 - Software Development Methodologies/eXtreme Programming (XP).md"
               }
             }
           }
@@ -178,9 +179,9 @@
   },
   "active": "33a55b9766be070c",
   "lastOpenFiles": [
+    "COMPSCI235 - Software Development Methodologies/user story.md",
     "COMPSCI235 - Software Development Methodologies/shared understanding.md",
     "@images/Pasted image 20231103231739.png",
-    "COMPSCI235 - Software Development Methodologies/user story.md",
     "@images/Pasted image 20231103231431.png",
     "COMPSCI235 - Software Development Methodologies/Non-functional Requirements (NFR).md",
     "COMPSCI235 - Software Development Methodologies/Scrum.md",
