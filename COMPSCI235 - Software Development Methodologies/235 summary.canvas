@@ -17,18 +17,12 @@
 		{"id":"fca5d5a890343e37","type":"file","file":"COMPSCI235 - Software Development Methodologies/Integration Testing.md","x":-1840,"y":-260,"width":400,"height":400},
 		{"id":"c6eeb4eecbd6fda4","type":"file","file":"COMPSCI235 - Software Development Methodologies/Middleware.md","x":-4940,"y":709,"width":400,"height":400},
 		{"id":"5b4bbb7c204a28ee","type":"file","file":"COMPSCI235 - Software Development Methodologies/Modern software systems.md","x":-4593,"y":1341,"width":400,"height":400},
-		{"id":"04a3847918d5aeb5","type":"file","file":"COMPSCI235 - Software Development Methodologies/Microservices.md","x":-4940,"y":1839,"width":400,"height":400},
 		{"id":"af7c6fe1f78d713c","type":"file","file":"COMPSCI235 - Software Development Methodologies/Networked.md","x":-4320,"y":793,"width":400,"height":400},
-		{"id":"3a980237e4e09669","type":"file","file":"COMPSCI235 - Software Development Methodologies/product backlog.md","x":-5751,"y":866,"width":400,"height":400},
-		{"id":"bf1e09c976dc4ee2","type":"file","file":"COMPSCI235 - Software Development Methodologies/product backlog refinement.md","x":-5730,"y":1439,"width":400,"height":400},
-		{"id":"e22e459b9a174938","type":"file","file":"COMPSCI235 - Software Development Methodologies/Product Owner.md","x":-6260,"y":1066,"width":400,"height":400},
 		{"id":"b035213fd6bdaf96","type":"file","file":"COMPSCI235 - Software Development Methodologies/Pending.md","x":-6218,"y":3614,"width":400,"height":400},
 		{"id":"8c24641f4572de8c","type":"file","file":"COMPSCI235 - Software Development Methodologies/Persistence.md","x":-6760,"y":3702,"width":400,"height":750},
 		{"id":"73cbdf51402df4f1","type":"file","file":"COMPSCI235 - Software Development Methodologies/Persistent.md","x":-6218,"y":4077,"width":400,"height":771},
-		{"id":"9b258f49a9b2805e","type":"file","file":"COMPSCI235 - Software Development Methodologies/Impedence.md","x":-4360,"y":2140,"width":400,"height":400},
 		{"id":"68668411d6812aa5","type":"file","file":"COMPSCI235 - Software Development Methodologies/Relational database.md","x":-5720,"y":2786,"width":400,"height":400},
 		{"id":"5165902baa3f4011","type":"file","file":"COMPSCI235 - Software Development Methodologies/Relational DBMS (RDBMS).md","x":-5120,"y":2786,"width":400,"height":400},
-		{"id":"d8831e70f180edba","type":"file","file":"COMPSCI235 - Software Development Methodologies/Refactoring.md","x":-5328,"y":4638,"width":400,"height":400},
 		{"id":"7753f2cc1371d7e4","type":"file","file":"COMPSCI235 - Software Development Methodologies/Session cookie.md","x":-6218,"y":3160,"width":400,"height":400},
 		{"id":"ab9f7d4d89635b5e","type":"file","file":"COMPSCI235 - Software Development Methodologies/Signed cookies.md","x":-6200,"y":2672,"width":400,"height":400},
 		{"id":"7e39254a94e2d0fd","type":"file","file":"COMPSCI235 - Software Development Methodologies/Software Architecture.md","x":-1160,"y":2340,"width":400,"height":400},
@@ -61,7 +55,13 @@
 		{"id":"581793d62d5bce29","x":-3552,"y":7680,"width":935,"height":3884,"type":"file","file":"COMPSCI235 - Software Development Methodologies/user stories.md"},
 		{"id":"21ad1b40a6043003","type":"file","file":"COMPSCI235 - Software Development Methodologies/INVEST.md","x":-1992,"y":8873,"width":814,"height":1499},
 		{"id":"1484a25fb5371506","type":"file","file":"COMPSCI235 - Software Development Methodologies/Scrum Master.md","x":-4560,"y":5440,"width":400,"height":261},
-		{"id":"db383e99511e9c8d","type":"file","file":"COMPSCI235 - Software Development Methodologies/Single Responsibility Principle (SRP).md","x":-6960,"y":2935,"width":400,"height":400}
+		{"id":"db383e99511e9c8d","type":"file","file":"COMPSCI235 - Software Development Methodologies/Single Responsibility Principle (SRP).md","x":-6960,"y":2935,"width":400,"height":400},
+		{"id":"9b258f49a9b2805e","type":"file","file":"COMPSCI235 - Software Development Methodologies/Impedence.md","x":-5730,"y":2239,"width":400,"height":400},
+		{"id":"04a3847918d5aeb5","type":"file","file":"COMPSCI235 - Software Development Methodologies/Microservices.md","x":-4920,"y":1439,"width":400,"height":400},
+		{"id":"e22e459b9a174938","type":"file","file":"COMPSCI235 - Software Development Methodologies/Product Owner.md","x":-5128,"y":5440,"width":400,"height":400},
+		{"id":"bf1e09c976dc4ee2","type":"file","file":"COMPSCI235 - Software Development Methodologies/product backlog refinement.md","x":-5228,"y":6499,"width":600,"height":480},
+		{"id":"3a980237e4e09669","type":"file","file":"COMPSCI235 - Software Development Methodologies/product backlog.md","x":-5128,"y":5979,"width":400,"height":400},
+		{"id":"d8831e70f180edba","type":"file","file":"COMPSCI235 - Software Development Methodologies/Refactoring.md","x":-5628,"y":4160,"width":400,"height":400}
 	],
 	"edges":[
 		{"id":"e2651a3e146f3635","fromNode":"5f370702693bc675","fromSide":"bottom","toNode":"7bc50db6e8bf54a4","toSide":"top"},
@@ -69,6 +69,9 @@
 		{"id":"ee8fd4a723103941","fromNode":"581793d62d5bce29","fromSide":"right","toNode":"21ad1b40a6043003","toSide":"left"},
 		{"id":"986f5dc9e1facf1e","fromNode":"73d240d299679e76","fromSide":"bottom","toNode":"581793d62d5bce29","toSide":"top"},
 		{"id":"d9b7c8ff4045a26b","fromNode":"38cc1c31b01fc116","fromSide":"bottom","toNode":"581793d62d5bce29","toSide":"top"},
-		{"id":"44239ab40f381db4","fromNode":"38cc1c31b01fc116","fromSide":"left","toNode":"1484a25fb5371506","toSide":"top"}
+		{"id":"44239ab40f381db4","fromNode":"38cc1c31b01fc116","fromSide":"left","toNode":"1484a25fb5371506","toSide":"top"},
+		{"id":"8ba4b4ccb61f7e04","fromNode":"e22e459b9a174938","fromSide":"bottom","toNode":"3a980237e4e09669","toSide":"top"},
+		{"id":"343d46d390660f6f","fromNode":"3a980237e4e09669","fromSide":"bottom","toNode":"bf1e09c976dc4ee2","toSide":"top"},
+		{"id":"405546fd89d60b4d","fromNode":"38cc1c31b01fc116","fromSide":"left","toNode":"e22e459b9a174938","toSide":"top"}
 	]
 }

@@ -15,9 +15,9 @@
               "state": {
                 "file": "COMPSCI235 - Software Development Methodologies/235 summary.canvas",
                 "viewState": {
-                  "x": -4343.310800758795,
-                  "y": 2512.555084856346,
-                  "zoom": -1.4643953977427788
+                  "x": -3807.005225719016,
+                  "y": 5514.498667614517,
+                  "zoom": -1.1310620644094456
                 }
               }
             }
@@ -88,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Single Responsibility Principle (SRP).md",
+                "file": "COMPSCI235 - Software Development Methodologies/Refactoring.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Single Responsibility Principle (SRP).md",
+                "file": "COMPSCI235 - Software Development Methodologies/Refactoring.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Single Responsibility Principle (SRP).md"
+                "file": "COMPSCI235 - Software Development Methodologies/Refactoring.md"
               }
             }
           },
@@ -156,7 +156,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Single Responsibility Principle (SRP).md"
+                "file": "COMPSCI235 - Software Development Methodologies/Refactoring.md"
               }
             }
           }
