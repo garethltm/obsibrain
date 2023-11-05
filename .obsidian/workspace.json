@@ -23,11 +23,14 @@
             "id": "95c985d8e33e2311",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Acceptance Testing.md",
-                "mode": "source",
-                "source": false
+                "file": "COMPSCI235 - Software Development Methodologies/235 summary.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 311.9909081748931,
+                  "zoom": -0.6666666666666666
+                }
               }
             }
           }
@@ -98,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Acceptance Testing.md",
+                "file": "COMPSCI235 - Software Development Methodologies/Application layer protocols.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Acceptance Testing.md",
+                "file": "COMPSCI235 - Software Development Methodologies/Application layer protocols.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Acceptance Testing.md"
+                "file": "COMPSCI235 - Software Development Methodologies/Application layer protocols.md"
               }
             }
           },
@@ -166,7 +169,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Acceptance Testing.md"
+                "file": "COMPSCI235 - Software Development Methodologies/Application layer protocols.md"
               }
             }
           }
@@ -191,8 +194,14 @@
   },
   "active": "95c985d8e33e2311",
   "lastOpenFiles": [
-    "COMPSCI235 - Software Development Methodologies/acceptance criteria.md",
+    "COMPSCI235 - Software Development Methodologies/analysis.md",
     "COMPSCI235 - Software Development Methodologies/235 summary.canvas",
+    "COMPSCI235 - Software Development Methodologies/ACID.md",
+    "COMPSCI235 - Software Development Methodologies/Accessibility.md",
+    "COMPSCI235 - Software Development Methodologies/Access Modifiers.md",
+    "COMPSCI235 - Software Development Methodologies/Access control.md",
+    "COMPSCI235 - Software Development Methodologies/Acceptance Testing.md",
+    "COMPSCI235 - Software Development Methodologies/acceptance criteria.md",
     "COMPSCI235 - Software Development Methodologies/Scrum.md",
     "COMPSCI235 - Software Development Methodologies/Burn-down charts.md",
     "COMPSCI235 - Software Development Methodologies/Burn-up charts.md",
@@ -212,12 +221,6 @@
     "COMPSCI235 - Software Development Methodologies/Patches.md",
     "COMPSCI235 - Software Development Methodologies/Hypertext Transfer Protocol (HTTP).md",
     "COMPSCI235 - Software Development Methodologies/Generic Software Development Process Framework.md",
-    "COMPSCI235 - Software Development Methodologies/eXtreme Programming (XP).md",
-    "COMPSCI235 - Software Development Methodologies/Construction (Code, Test).md",
-    "COMPSCI235 - Software Development Methodologies/code smell.md",
-    "COMPSCI235 - Software Development Methodologies/code review.md",
-    "COMPSCI235 - Software Development Methodologies/code quality.md",
-    "COMPSCI235 - Software Development Methodologies/Template containment.md",
     "@images/1 TYRSuON0vVxy8olllrBVEw.png",
     "@images/Pasted image 20231104020521.png",
     "@images/Pasted image 20231104015543.png",

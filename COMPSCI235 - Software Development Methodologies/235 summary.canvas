@@ -1,1 +1,10 @@
-{}
+{
+	"nodes":[
+		{"id":"ee7dbb282c941b90","type":"file","file":"COMPSCI235 - Software Development Methodologies/Aggregation.md","x":540,"y":-360,"width":400,"height":400},
+		{"id":"a0790e8e723cdf61","type":"file","file":"COMPSCI235 - Software Development Methodologies/ACID.md","x":-820,"y":-320,"width":400,"height":400},
+		{"id":"7bc50db6e8bf54a4","type":"file","file":"COMPSCI235 - Software Development Methodologies/AGILE.md","x":-820,"y":-840,"width":400,"height":400},
+		{"id":"a9d67f096a4887a5","x":-360,"y":220,"width":494,"height":400,"type":"file","file":"COMPSCI235 - Software Development Methodologies/Application Architecture.md"},
+		{"id":"91c026accfe8ace8","x":-138,"y":-463,"width":400,"height":223,"type":"file","file":"COMPSCI235 - Software Development Methodologies/Application layer protocols.md"}
+	],
+	"edges":[]
+}
