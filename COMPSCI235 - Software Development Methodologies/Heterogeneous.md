@@ -11,4 +11,5 @@ Systems that user more than one kind of processor or cores for diverse computati
 - if they send those information to each other - they need to translate before sending
 
 Network protocols that are [[open protocol]] & [[standard protocol]] help to achieve interoperability
-- [[Hypertext Transfer Protocol (HTTP)]] is an [[open protocol]] & [[standard protocol]]![[Pasted image 20231101182430.png]]
+- [[Hypertext Transfer Protocol (HTTP)]] is an [[open protocol]] & [[standard protocol]]
+	![[Pasted image 20231101182430.png]]
