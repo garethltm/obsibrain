@@ -17,12 +17,10 @@
 		{"id":"ab9f7d4d89635b5e","type":"file","file":"COMPSCI235 - Software Development Methodologies/Signed cookies.md","x":-5520,"y":1284,"width":400,"height":991},
 		{"id":"7753f2cc1371d7e4","type":"file","file":"COMPSCI235 - Software Development Methodologies/Session cookie.md","x":-7504,"y":3781,"width":798,"height":920},
 		{"id":"5d211a13e7cfeee7","type":"file","file":"COMPSCI235 - Software Development Methodologies/session.md","x":-7584,"y":4861,"width":400,"height":223},
-		{"id":"92217e99b7a4368f","type":"file","file":"COMPSCI235 - Software Development Methodologies/cookie.md","x":-7105,"y":4861,"width":681,"height":400},
+		{"id":"92217e99b7a4368f","type":"file","file":"COMPSCI235 - Software Development Methodologies/cookie.md","x":-7105,"y":4861,"width":681,"height":600},
 		{"id":"d19df21b4a514b2b","type":"file","file":"COMPSCI235 - Software Development Methodologies/Cross-site Request Forgery (CSRF).md","x":-6616,"y":3261,"width":620,"height":708},
 		{"id":"598ec4860e233c19","type":"file","file":"COMPSCI235 - Software Development Methodologies/Persistent.md","x":-9104,"y":5461,"width":560,"height":640},
 		{"id":"4e857dce59ee5c11","type":"file","file":"COMPSCI235 - Software Development Methodologies/Expired.md","x":-8484,"y":5461,"width":620,"height":680},
-		{"id":"0d1603a745b5a234","type":"file","file":"COMPSCI235 - Software Development Methodologies/Transient.md","x":-7784,"y":5461,"width":460,"height":400},
-		{"id":"0f00c0da3304b53d","type":"file","file":"COMPSCI235 - Software Development Methodologies/Pending.md","x":-7224,"y":5461,"width":600,"height":480},
 		{"id":"667d8204c6dc2ffe","type":"file","file":"COMPSCI235 - Software Development Methodologies/SQLAlchemy Session.md","x":-8424,"y":3261,"width":680,"height":1960},
 		{"id":"f1a604c43fcb2c69","type":"file","file":"COMPSCI235 - Software Development Methodologies/Flask WTF.md","x":-6506,"y":2801,"width":400,"height":361},
 		{"id":"ca346252f8709114","type":"file","file":"COMPSCI235 - Software Development Methodologies/Flask.md","x":-6616,"y":1836,"width":736,"height":684},
@@ -67,7 +65,9 @@
 		{"id":"515eec9f03453a29","x":480,"y":-160,"width":680,"height":880,"type":"file","file":"COMPSCI235 - Software Development Methodologies/Continuous Integration (CI).md"},
 		{"id":"ce062ff38aa3dd3b","x":1280,"y":-80,"width":720,"height":720,"type":"file","file":"COMPSCI235 - Software Development Methodologies/Continuous Delivery (CD).md"},
 		{"id":"21fb6e6107f68238","x":1760,"y":-1280,"width":920,"height":960,"type":"file","file":"COMPSCI235 - Software Development Methodologies/Continuous Deployment.md"},
-		{"id":"3d325416bf1610cd","type":"file","file":"COMPSCI235 - Software Development Methodologies/Dependency Inversion Principle (DIP).md","x":-7880,"y":-2976,"width":400,"height":440}
+		{"id":"3d325416bf1610cd","type":"file","file":"COMPSCI235 - Software Development Methodologies/Dependency Inversion Principle (DIP).md","x":-7880,"y":-2976,"width":400,"height":440},
+		{"id":"0f00c0da3304b53d","type":"file","file":"COMPSCI235 - Software Development Methodologies/Pending.md","x":-7306,"y":5561,"width":600,"height":480},
+		{"id":"0d1603a745b5a234","type":"file","file":"COMPSCI235 - Software Development Methodologies/Transient.md","x":-7814,"y":5561,"width":460,"height":400}
 	],
 	"edges":[
 		{"id":"e2651a3e146f3635","fromNode":"5f370702693bc675","fromSide":"bottom","toNode":"7bc50db6e8bf54a4","toSide":"top"},
