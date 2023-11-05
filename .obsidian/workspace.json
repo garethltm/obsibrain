@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Burn-up charts.md",
+                "file": "COMPSCI235 - Software Development Methodologies/Acceptance Testing.md",
                 "mode": "source",
                 "source": false
               }
@@ -78,8 +78,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -99,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Burn-up charts.md",
+                "file": "COMPSCI235 - Software Development Methodologies/Acceptance Testing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Burn-up charts.md",
+                "file": "COMPSCI235 - Software Development Methodologies/Acceptance Testing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Burn-up charts.md"
+                "file": "COMPSCI235 - Software Development Methodologies/Acceptance Testing.md"
               }
             }
           },
@@ -167,7 +166,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Burn-up charts.md"
+                "file": "COMPSCI235 - Software Development Methodologies/Acceptance Testing.md"
               }
             }
           }
@@ -192,7 +191,11 @@
   },
   "active": "95c985d8e33e2311",
   "lastOpenFiles": [
+    "COMPSCI235 - Software Development Methodologies/acceptance criteria.md",
+    "COMPSCI235 - Software Development Methodologies/235 summary.canvas",
     "COMPSCI235 - Software Development Methodologies/Scrum.md",
+    "COMPSCI235 - Software Development Methodologies/Burn-down charts.md",
+    "COMPSCI235 - Software Development Methodologies/Burn-up charts.md",
     "COMPSCI235 - Software Development Methodologies/SPRINT (iteration).md",
     "COMPSCI235 - Software Development Methodologies/Incremental Development.md",
     "COMPSCI235 - Software Development Methodologies/AGILE.md",
@@ -215,9 +218,6 @@
     "COMPSCI235 - Software Development Methodologies/code review.md",
     "COMPSCI235 - Software Development Methodologies/code quality.md",
     "COMPSCI235 - Software Development Methodologies/Template containment.md",
-    "COMPSCI235 - Software Development Methodologies/Template inheritance & containment.md",
-    "COMPSCI235 - Software Development Methodologies/Template inheritance.md",
-    "COMPSCI235 - Software Development Methodologies/Continuous Deployment.md",
     "@images/1 TYRSuON0vVxy8olllrBVEw.png",
     "@images/Pasted image 20231104020521.png",
     "@images/Pasted image 20231104015543.png",
