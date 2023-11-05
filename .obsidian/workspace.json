@@ -16,9 +16,9 @@
               "state": {
                 "file": "COMPSCI235 - Software Development Methodologies/235 summary.canvas",
                 "viewState": {
-                  "x": -7923.703059189829,
-                  "y": 4028.8756145046896,
-                  "zoom": -0.333333333333333
+                  "x": -11562.444815099096,
+                  "y": 5262.512903241814,
+                  "zoom": -3.333333333333333
                 }
               }
             }
@@ -29,7 +29,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Flask WTF.md",
+                "file": "COMPSCI235 - Software Development Methodologies/Relational DBMS (RDBMS).md",
                 "mode": "source",
                 "source": false
               }
@@ -49,7 +49,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Flask WTF.md",
+                "file": "COMPSCI235 - Software Development Methodologies/Relational DBMS (RDBMS).md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -145,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/transaction(s).md",
+                "file": "COMPSCI235 - Software Development Methodologies/235 summary.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/transaction(s).md",
+                "file": "COMPSCI235 - Software Development Methodologies/235 summary.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -185,7 +185,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/transaction(s).md"
+                "file": "COMPSCI235 - Software Development Methodologies/235 summary.canvas"
               }
             }
           },
@@ -213,7 +213,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/transaction(s).md"
+                "file": "COMPSCI235 - Software Development Methodologies/235 summary.canvas"
               }
             }
           }
@@ -238,9 +238,11 @@
   },
   "active": "33a55b9766be070c",
   "lastOpenFiles": [
+    "COMPSCI235 - Software Development Methodologies/Relational DBMS (RDBMS).md",
+    "COMPSCI235 - Software Development Methodologies/Persistence.md",
     "COMPSCI235 - Software Development Methodologies/Flask WTF.md",
-    "COMPSCI235 - Software Development Methodologies/Cross-site Request Forgery (CSRF).md",
     "COMPSCI235 - Software Development Methodologies/235 summary.canvas",
+    "COMPSCI235 - Software Development Methodologies/Cross-site Request Forgery (CSRF).md",
     "COMPSCI235 - Software Development Methodologies/Session cookie.md",
     "COMPSCI235 - Software Development Methodologies/SQLAlchemy Session.md",
     "COMPSCI235 - Software Development Methodologies/Object Relation Mapping (ORM).md",
@@ -263,8 +265,6 @@
     "COMPSCI235 - Software Development Methodologies/Scrum.md",
     "COMPSCI235 - Software Development Methodologies/Burn-down charts.md",
     "COMPSCI235 - Software Development Methodologies/Burn-up charts.md",
-    "COMPSCI235 - Software Development Methodologies/SPRINT (iteration).md",
-    "COMPSCI235 - Software Development Methodologies/Incremental Development.md",
     "@images/1 TYRSuON0vVxy8olllrBVEw.png",
     "@images/Pasted image 20231104020521.png",
     "@images/Pasted image 20231104015543.png",
