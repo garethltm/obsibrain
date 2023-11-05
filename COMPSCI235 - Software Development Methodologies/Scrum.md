@@ -27,11 +27,11 @@
 	- [[product backlog]]
 	- [[product backlog refinement]]
 2. Development flow
-	- [[SPRINT (iteration)]]
-	- [[Incremental Development]]
+	- ![[SPRINT (iteration)]]
+	- ![[Incremental Development]]
 3. Definition of Done ([[acceptance criteria]])
 	- **"Done" means "implemented & tested"**
 4. Project Tracking (Metrics)
 	1. [[Burn-up charts]]
 	2. [[Burn-down charts]]
-	- The team displays, somewhere on a wall of the project room, a large graph relating the quantity of work remaining (on the vertical axis) & the time elapsed since the start of project (on the horizontal, showing future as well as past).
+	- The team displays, somewher e on a wall of the project room, a large graph relating the quantity of work remaining (on the vertical axis) & the time elapsed since the start of project (on the horizontal, showing future as well as past).
