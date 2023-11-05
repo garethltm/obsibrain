@@ -1,5 +1,6 @@
 {
 	"nodes":[
+		{"id":"ccd813a380431fb6","x":-5234,"y":3530,"width":400,"height":400,"type":"file","file":"COMPSCI235 - Software Development Methodologies/Relationship(s).md"},
 		{"id":"21ad1b40a6043003","type":"file","file":"COMPSCI235 - Software Development Methodologies/INVEST.md","x":-814,"y":1604,"width":400,"height":400},
 		{"id":"3d325416bf1610cd","type":"file","file":"COMPSCI235 - Software Development Methodologies/Dependency Inversion Principle (DIP).md","x":-2509,"y":1639,"width":400,"height":400},
 		{"id":"c45f9379f7fec3dc","type":"file","file":"COMPSCI235 - Software Development Methodologies/cookie.md","x":-2442,"y":1066,"width":400,"height":400},
@@ -39,18 +40,20 @@
 		{"id":"5b4bbb7c204a28ee","type":"file","file":"COMPSCI235 - Software Development Methodologies/Modern software systems.md","x":-4593,"y":1341,"width":400,"height":400},
 		{"id":"04a3847918d5aeb5","type":"file","file":"COMPSCI235 - Software Development Methodologies/Microservices.md","x":-4940,"y":1839,"width":400,"height":400},
 		{"id":"af7c6fe1f78d713c","type":"file","file":"COMPSCI235 - Software Development Methodologies/Networked.md","x":-4320,"y":793,"width":400,"height":400},
-		{"id":"9b258f49a9b2805e","type":"file","file":"COMPSCI235 - Software Development Methodologies/Impedence.md","x":-4520,"y":2340,"width":400,"height":400},
-		{"id":"1af78e8d0317d2a1","type":"file","file":"COMPSCI235 - Software Development Methodologies/Object Oriented Databases (OOD).md","x":-4539,"y":2869,"width":400,"height":463},
-		{"id":"b035213fd6bdaf96","type":"file","file":"COMPSCI235 - Software Development Methodologies/Pending.md","x":-5409,"y":3162,"width":400,"height":400},
-		{"id":"8c24641f4572de8c","type":"file","file":"COMPSCI235 - Software Development Methodologies/Persistence.md","x":-5951,"y":3250,"width":400,"height":750},
-		{"id":"73cbdf51402df4f1","type":"file","file":"COMPSCI235 - Software Development Methodologies/Persistent.md","x":-5409,"y":3625,"width":400,"height":771},
 		{"id":"3a980237e4e09669","type":"file","file":"COMPSCI235 - Software Development Methodologies/product backlog.md","x":-5751,"y":866,"width":400,"height":400},
 		{"id":"73d240d299679e76","type":"file","file":"COMPSCI235 - Software Development Methodologies/Kanban.md","x":-6260,"y":-400,"width":1060,"height":1193},
 		{"id":"bf1e09c976dc4ee2","type":"file","file":"COMPSCI235 - Software Development Methodologies/product backlog refinement.md","x":-5730,"y":1439,"width":400,"height":400},
 		{"id":"e22e459b9a174938","type":"file","file":"COMPSCI235 - Software Development Methodologies/Product Owner.md","x":-6260,"y":1066,"width":400,"height":400},
-		{"id":"ecdadfb7f7df1134","type":"file","file":"COMPSCI235 - Software Development Methodologies/Object Relation Mapping (ORM).md","x":-4120,"y":3625,"width":1153,"height":1298},
-		{"id":"76ddb14df3f5e966","type":"file","file":"COMPSCI235 - Software Development Methodologies/Object-Relational Database Management System (ORDBMS).md","x":-2840,"y":3625,"width":1393,"height":788},
-		{"id":"64d0ba95044a7145","type":"file","file":"COMPSCI235 - Software Development Methodologies/Object-Oriented Database Management System (OODBMS).md","x":-4800,"y":3625,"width":560,"height":400}
+		{"id":"ecdadfb7f7df1134","type":"file","file":"COMPSCI235 - Software Development Methodologies/Object Relation Mapping (ORM).md","x":-4120,"y":3625,"width":800,"height":1375},
+		{"id":"64d0ba95044a7145","type":"file","file":"COMPSCI235 - Software Development Methodologies/Object-Oriented Database Management System (OODBMS).md","x":-4800,"y":3625,"width":560,"height":400},
+		{"id":"76ddb14df3f5e966","type":"file","file":"COMPSCI235 - Software Development Methodologies/Object-Relational Database Management System (ORDBMS).md","x":-3240,"y":3631,"width":960,"height":765},
+		{"id":"b035213fd6bdaf96","type":"file","file":"COMPSCI235 - Software Development Methodologies/Pending.md","x":-6218,"y":3614,"width":400,"height":400},
+		{"id":"8c24641f4572de8c","type":"file","file":"COMPSCI235 - Software Development Methodologies/Persistence.md","x":-6760,"y":3702,"width":400,"height":750},
+		{"id":"73cbdf51402df4f1","type":"file","file":"COMPSCI235 - Software Development Methodologies/Persistent.md","x":-6218,"y":4077,"width":400,"height":771},
+		{"id":"1af78e8d0317d2a1","type":"file","file":"COMPSCI235 - Software Development Methodologies/Object Oriented Databases (OOD).md","x":-3960,"y":2840,"width":400,"height":463},
+		{"id":"9b258f49a9b2805e","type":"file","file":"COMPSCI235 - Software Development Methodologies/Impedence.md","x":-4360,"y":2140,"width":400,"height":400},
+		{"id":"68668411d6812aa5","x":-5720,"y":2786,"width":400,"height":400,"type":"file","file":"COMPSCI235 - Software Development Methodologies/Relational database.md"},
+		{"id":"5165902baa3f4011","type":"file","file":"COMPSCI235 - Software Development Methodologies/Relational DBMS (RDBMS).md","x":-5120,"y":2786,"width":400,"height":400}
 	],
 	"edges":[]
 }
