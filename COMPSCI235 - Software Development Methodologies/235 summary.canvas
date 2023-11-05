@@ -59,15 +59,15 @@
 		{"id":"93be25677b443309","type":"file","file":"COMPSCI235 - Software Development Methodologies/Software Process Models.md","x":-2099,"y":-7546,"width":1095,"height":760},
 		{"id":"7bc50db6e8bf54a4","type":"file","file":"COMPSCI235 - Software Development Methodologies/AGILE.md","x":-1857,"y":-5440,"width":1211,"height":3600},
 		{"id":"5f370702693bc675","type":"file","file":"COMPSCI235 - Software Development Methodologies/Incremental Approach.md","x":-1852,"y":-6466,"width":600,"height":760},
-		{"id":"3d325416bf1610cd","type":"file","file":"COMPSCI235 - Software Development Methodologies/Dependency Inversion Principle (DIP).md","x":-1281,"y":-2867,"width":400,"height":400},
 		{"id":"e68e3e8b4ad09c22","type":"file","file":"COMPSCI235 - Software Development Methodologies/Evolutionary (Iterative) Approach.md","x":-1172,"y":-6466,"width":600,"height":640},
 		{"id":"72e00ad8eb005db9","type":"file","file":"COMPSCI235 - Software Development Methodologies/User Story Mapping.md","x":-2600,"y":8880,"width":400,"height":400},
 		{"id":"dcac09e4e544911d","type":"file","file":"COMPSCI235 - Software Development Methodologies/User-Story-Writing workshop.md","x":-2080,"y":8880,"width":600,"height":400},
 		{"id":"bb338a3737747758","x":440,"y":1320,"width":920,"height":1040,"type":"file","file":"COMPSCI235 - Software Development Methodologies/Refactoring.md"},
 		{"id":"ba10bee6b69561da","x":480,"y":800,"width":400,"height":320,"type":"file","file":"COMPSCI235 - Software Development Methodologies/pair programming.md"},
 		{"id":"515eec9f03453a29","x":480,"y":-160,"width":680,"height":880,"type":"file","file":"COMPSCI235 - Software Development Methodologies/Continuous Integration (CI).md"},
-		{"id":"ce062ff38aa3dd3b","x":1280,"y":-80,"width":720,"height":800,"type":"file","file":"COMPSCI235 - Software Development Methodologies/Continuous Delivery (CD).md"},
-		{"id":"21fb6e6107f68238","x":1760,"y":-1280,"width":920,"height":960,"type":"file","file":"COMPSCI235 - Software Development Methodologies/Continuous Deployment.md"}
+		{"id":"ce062ff38aa3dd3b","x":1280,"y":-80,"width":720,"height":720,"type":"file","file":"COMPSCI235 - Software Development Methodologies/Continuous Delivery (CD).md"},
+		{"id":"21fb6e6107f68238","x":1760,"y":-1280,"width":920,"height":960,"type":"file","file":"COMPSCI235 - Software Development Methodologies/Continuous Deployment.md"},
+		{"id":"3d325416bf1610cd","type":"file","file":"COMPSCI235 - Software Development Methodologies/Dependency Inversion Principle (DIP).md","x":-7880,"y":-2976,"width":400,"height":440}
 	],
 	"edges":[
 		{"id":"e2651a3e146f3635","fromNode":"5f370702693bc675","fromSide":"bottom","toNode":"7bc50db6e8bf54a4","toSide":"top"},
@@ -138,6 +138,7 @@
 		{"id":"191994a99373c19a","fromNode":"2f19d3ea0e21eb2c","fromSide":"right","toNode":"bb338a3737747758","toSide":"left"},
 		{"id":"51c1f888ce60f1a5","fromNode":"2f19d3ea0e21eb2c","fromSide":"right","toNode":"515eec9f03453a29","toSide":"left"},
 		{"id":"4fd5f8f7047dad91","fromNode":"ce062ff38aa3dd3b","fromSide":"left","toNode":"515eec9f03453a29","toSide":"right"},
-		{"id":"f959c7dfd12b1cec","fromNode":"21fb6e6107f68238","fromSide":"bottom","toNode":"ce062ff38aa3dd3b","toSide":"right"}
+		{"id":"f959c7dfd12b1cec","fromNode":"21fb6e6107f68238","fromSide":"bottom","toNode":"ce062ff38aa3dd3b","toSide":"right"},
+		{"id":"2715941fc74589b9","fromNode":"a9d67f096a4887a5","fromSide":"right","toNode":"3d325416bf1610cd","toSide":"left"}
 	]
 }
