@@ -16,8 +16,8 @@
               "state": {
                 "file": "COMPSCI235 - Software Development Methodologies/235 summary.canvas",
                 "viewState": {
-                  "x": -1224.3520056534762,
-                  "y": 4534.692817092063,
+                  "x": -2005.1481862035453,
+                  "y": 1173.6494285932688,
                   "zoom": -1.3333333333333328
                 }
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/235 summary.canvas",
+                "file": "COMPSCI235 - Software Development Methodologies/user stories.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/235 summary.canvas",
+                "file": "COMPSCI235 - Software Development Methodologies/user stories.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -185,7 +185,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/235 summary.canvas"
+                "file": "COMPSCI235 - Software Development Methodologies/user stories.md"
               }
             }
           },
@@ -213,7 +213,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/235 summary.canvas"
+                "file": "COMPSCI235 - Software Development Methodologies/user stories.md"
               }
             }
           }

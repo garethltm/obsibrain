@@ -53,14 +53,16 @@
 		{"id":"e22e459b9a174938","type":"file","file":"COMPSCI235 - Software Development Methodologies/Product Owner.md","x":-3900,"y":934,"width":400,"height":400},
 		{"id":"3a980237e4e09669","type":"file","file":"COMPSCI235 - Software Development Methodologies/product backlog.md","x":-3900,"y":1473,"width":400,"height":400},
 		{"id":"1484a25fb5371506","type":"file","file":"COMPSCI235 - Software Development Methodologies/Scrum Master.md","x":-3332,"y":934,"width":400,"height":261},
-		{"id":"581793d62d5bce29","type":"file","file":"COMPSCI235 - Software Development Methodologies/user stories.md","x":-2532,"y":4094,"width":935,"height":3884},
+		{"id":"581793d62d5bce29","type":"file","file":"COMPSCI235 - Software Development Methodologies/user stories.md","x":-2532,"y":4094,"width":935,"height":4586},
 		{"id":"21ad1b40a6043003","type":"file","file":"COMPSCI235 - Software Development Methodologies/INVEST.md","x":-1460,"y":5014,"width":814,"height":1499},
 		{"id":"b4b2b11b0312dcb0","type":"file","file":"COMPSCI235 - Software Development Methodologies/Linear Approach.md","x":-2612,"y":-6466,"width":680,"height":680},
 		{"id":"93be25677b443309","type":"file","file":"COMPSCI235 - Software Development Methodologies/Software Process Models.md","x":-2099,"y":-7546,"width":1095,"height":760},
 		{"id":"7bc50db6e8bf54a4","type":"file","file":"COMPSCI235 - Software Development Methodologies/AGILE.md","x":-1857,"y":-5440,"width":1211,"height":3600},
 		{"id":"5f370702693bc675","type":"file","file":"COMPSCI235 - Software Development Methodologies/Incremental Approach.md","x":-1852,"y":-6466,"width":600,"height":760},
 		{"id":"3d325416bf1610cd","type":"file","file":"COMPSCI235 - Software Development Methodologies/Dependency Inversion Principle (DIP).md","x":-1281,"y":-2867,"width":400,"height":400},
-		{"id":"e68e3e8b4ad09c22","type":"file","file":"COMPSCI235 - Software Development Methodologies/Evolutionary (Iterative) Approach.md","x":-1172,"y":-6466,"width":600,"height":640}
+		{"id":"e68e3e8b4ad09c22","type":"file","file":"COMPSCI235 - Software Development Methodologies/Evolutionary (Iterative) Approach.md","x":-1172,"y":-6466,"width":600,"height":640},
+		{"id":"72e00ad8eb005db9","x":-2600,"y":8880,"width":400,"height":400,"type":"file","file":"COMPSCI235 - Software Development Methodologies/User Story Mapping.md"},
+		{"id":"dcac09e4e544911d","x":-2080,"y":8880,"width":600,"height":400,"type":"file","file":"COMPSCI235 - Software Development Methodologies/User-Story-Writing workshop.md"}
 	],
 	"edges":[
 		{"id":"e2651a3e146f3635","fromNode":"5f370702693bc675","fromSide":"bottom","toNode":"7bc50db6e8bf54a4","toSide":"top"},
@@ -123,6 +125,8 @@
 		{"id":"a33ebb22a90c6b75","fromNode":"eed78310e93a7d56","fromSide":"left","toNode":"68668411d6812aa5","toSide":"right"},
 		{"id":"67adfda6d2371cdd","fromNode":"8c24641f4572de8c","fromSide":"right","toNode":"b097236a69a05947","toSide":"left"},
 		{"id":"37a81e06c2899f95","fromNode":"68668411d6812aa5","fromSide":"bottom","toNode":"b097236a69a05947","toSide":"top"},
-		{"id":"860a49da6b1854ad","fromNode":"8c24641f4572de8c","fromSide":"bottom","toNode":"a0790e8e723cdf61","toSide":"left"}
+		{"id":"860a49da6b1854ad","fromNode":"8c24641f4572de8c","fromSide":"bottom","toNode":"a0790e8e723cdf61","toSide":"left"},
+		{"id":"535459c69d04c34e","fromNode":"581793d62d5bce29","fromSide":"bottom","toNode":"72e00ad8eb005db9","toSide":"top"},
+		{"id":"fe8f37afdb2da619","fromNode":"581793d62d5bce29","fromSide":"bottom","toNode":"dcac09e4e544911d","toSide":"top"}
 	]
 }
