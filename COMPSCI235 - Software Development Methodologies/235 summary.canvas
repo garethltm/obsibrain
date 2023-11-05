@@ -63,7 +63,9 @@
 		{"id":"e68e3e8b4ad09c22","type":"file","file":"COMPSCI235 - Software Development Methodologies/Evolutionary (Iterative) Approach.md","x":-1172,"y":-6466,"width":600,"height":640},
 		{"id":"72e00ad8eb005db9","type":"file","file":"COMPSCI235 - Software Development Methodologies/User Story Mapping.md","x":-2600,"y":8880,"width":400,"height":400},
 		{"id":"dcac09e4e544911d","type":"file","file":"COMPSCI235 - Software Development Methodologies/User-Story-Writing workshop.md","x":-2080,"y":8880,"width":600,"height":400},
-		{"id":"ba10bee6b69561da","x":440,"y":920,"width":400,"height":320,"type":"file","file":"COMPSCI235 - Software Development Methodologies/pair programming.md"}
+		{"id":"bb338a3737747758","x":440,"y":1320,"width":920,"height":1040,"type":"file","file":"COMPSCI235 - Software Development Methodologies/Refactoring.md"},
+		{"id":"ba10bee6b69561da","x":480,"y":800,"width":400,"height":320,"type":"file","file":"COMPSCI235 - Software Development Methodologies/pair programming.md"},
+		{"id":"515eec9f03453a29","x":500,"y":-243,"width":400,"height":400,"type":"file","file":"COMPSCI235 - Software Development Methodologies/Continuous Integration (CI).md"}
 	],
 	"edges":[
 		{"id":"e2651a3e146f3635","fromNode":"5f370702693bc675","fromSide":"bottom","toNode":"7bc50db6e8bf54a4","toSide":"top"},
@@ -130,6 +132,7 @@
 		{"id":"535459c69d04c34e","fromNode":"581793d62d5bce29","fromSide":"bottom","toNode":"72e00ad8eb005db9","toSide":"top"},
 		{"id":"fe8f37afdb2da619","fromNode":"581793d62d5bce29","fromSide":"bottom","toNode":"dcac09e4e544911d","toSide":"top"},
 		{"id":"6ff8856640fd7308","fromNode":"73d240d299679e76","fromSide":"right","toNode":"2f19d3ea0e21eb2c","toSide":"left"},
-		{"id":"1f665882fecd955c","fromNode":"2f19d3ea0e21eb2c","fromSide":"right","toNode":"ba10bee6b69561da","toSide":"left"}
+		{"id":"1f665882fecd955c","fromNode":"2f19d3ea0e21eb2c","fromSide":"right","toNode":"ba10bee6b69561da","toSide":"left"},
+		{"id":"191994a99373c19a","fromNode":"2f19d3ea0e21eb2c","fromSide":"right","toNode":"bb338a3737747758","toSide":"left"}
 	]
 }

@@ -16,9 +16,9 @@
               "state": {
                 "file": "COMPSCI235 - Software Development Methodologies/235 summary.canvas",
                 "viewState": {
-                  "x": -111.95546822081582,
-                  "y": 2806.8649337728084,
-                  "zoom": 3.3306690738754696e-16
+                  "x": 607.9947350581799,
+                  "y": 144.67717955692365,
+                  "zoom": -1.3333333333333328
                 }
               }
             }
@@ -145,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/pair programming.md",
+                "file": "COMPSCI235 - Software Development Methodologies/Continuous Integration (CI).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/pair programming.md",
+                "file": "COMPSCI235 - Software Development Methodologies/Continuous Integration (CI).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -185,7 +185,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/pair programming.md"
+                "file": "COMPSCI235 - Software Development Methodologies/Continuous Integration (CI).md"
               }
             }
           },
@@ -213,7 +213,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/pair programming.md"
+                "file": "COMPSCI235 - Software Development Methodologies/Continuous Integration (CI).md"
               }
             }
           }
