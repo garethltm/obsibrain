@@ -25,11 +25,9 @@
 		{"id":"83bbe932d4641fd1","type":"file","file":"COMPSCI235 - Software Development Methodologies/Cross-site Request Forgery (CSRF).md","x":-2442,"y":593,"width":400,"height":400},
 		{"id":"d5abf1230783dbe2","type":"file","file":"COMPSCI235 - Software Development Methodologies/Distributed VCS.md","x":-1900,"y":1940,"width":400,"height":400},
 		{"id":"a0790e8e723cdf61","type":"file","file":"COMPSCI235 - Software Development Methodologies/ACID.md","x":-2309,"y":-839,"width":400,"height":400},
-		{"id":"e68e3e8b4ad09c22","type":"file","file":"COMPSCI235 - Software Development Methodologies/Evolutionary (Iterative) Approach.md","x":-1840,"y":-839,"width":400,"height":400},
 		{"id":"2f19d3ea0e21eb2c","type":"file","file":"COMPSCI235 - Software Development Methodologies/eXtreme Programming (XP).md","x":-2442,"y":-60,"width":400,"height":400},
 		{"id":"ca346252f8709114","type":"file","file":"COMPSCI235 - Software Development Methodologies/Flask.md","x":-2760,"y":-560,"width":400,"height":400},
 		{"id":"11d29931a65e1588","type":"file","file":"COMPSCI235 - Software Development Methodologies/Hypertext Transfer Protocol (HTTP).md","x":-3525,"y":709,"width":400,"height":400},
-		{"id":"a5cbe9139b648ec5","type":"file","file":"COMPSCI235 - Software Development Methodologies/Incremental Development.md","x":-1905,"y":-1331,"width":400,"height":400},
 		{"id":"fca5d5a890343e37","type":"file","file":"COMPSCI235 - Software Development Methodologies/Integration Testing.md","x":-1840,"y":-260,"width":400,"height":400},
 		{"id":"e8206692a4526a39","type":"file","file":"COMPSCI235 - Software Development Methodologies/Jinja.md","x":-3525,"y":1320,"width":400,"height":400},
 		{"id":"cba89f17fc79ea3a","type":"file","file":"COMPSCI235 - Software Development Methodologies/Hypertext Markup Language (HTML).md","x":-3427,"y":1883,"width":400,"height":400},
@@ -59,8 +57,10 @@
 		{"id":"ab9f7d4d89635b5e","type":"file","file":"COMPSCI235 - Software Development Methodologies/Signed cookies.md","x":-6200,"y":2672,"width":400,"height":400},
 		{"id":"db383e99511e9c8d","type":"file","file":"COMPSCI235 - Software Development Methodologies/Single Responsibility Principle (SRP).md","x":-4480,"y":2872,"width":400,"height":400},
 		{"id":"7e39254a94e2d0fd","type":"file","file":"COMPSCI235 - Software Development Methodologies/Software Architecture.md","x":-1160,"y":2340,"width":400,"height":400},
-		{"id":"93be25677b443309","type":"file","file":"COMPSCI235 - Software Development Methodologies/Software Process Models.md","x":-3000,"y":-3120,"width":1095,"height":760},
-		{"id":"b4b2b11b0312dcb0","type":"file","file":"COMPSCI235 - Software Development Methodologies/Linear Approach.md","x":-3840,"y":-1960,"width":680,"height":680}
+		{"id":"b4b2b11b0312dcb0","type":"file","file":"COMPSCI235 - Software Development Methodologies/Linear Approach.md","x":-3840,"y":-1960,"width":680,"height":680},
+		{"id":"e68e3e8b4ad09c22","type":"file","file":"COMPSCI235 - Software Development Methodologies/Evolutionary (Iterative) Approach.md","x":-2400,"y":-1960,"width":600,"height":640},
+		{"id":"a5cbe9139b648ec5","type":"file","file":"COMPSCI235 - Software Development Methodologies/Incremental Development.md","x":-3000,"y":-1960,"width":440,"height":240},
+		{"id":"93be25677b443309","type":"file","file":"COMPSCI235 - Software Development Methodologies/Software Process Models.md","x":-3307,"y":-3040,"width":1095,"height":760}
 	],
 	"edges":[]
 }
