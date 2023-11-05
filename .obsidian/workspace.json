@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/AGILE.md",
+                "file": "COMPSCI235 - Software Development Methodologies/Association.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/AGILE.md",
+                "file": "COMPSCI235 - Software Development Methodologies/Association.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/AGILE.md",
+                "file": "COMPSCI235 - Software Development Methodologies/Association.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/AGILE.md"
+                "file": "COMPSCI235 - Software Development Methodologies/Association.md"
               }
             }
           },
@@ -153,7 +153,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/AGILE.md"
+                "file": "COMPSCI235 - Software Development Methodologies/Association.md"
               }
             }
           }
@@ -178,6 +178,12 @@
   },
   "active": "aadfb509c77e20f4",
   "lastOpenFiles": [
+    "COMPSCI235 - Software Development Methodologies/Architectural Pattern.md",
+    "COMPSCI235 - Software Development Methodologies/Application layer protocols.md",
+    "COMPSCI235 - Software Development Methodologies/Application Architecture.md",
+    "COMPSCI235 - Software Development Methodologies/Annotation.md",
+    "COMPSCI235 - Software Development Methodologies/analysis.md",
+    "COMPSCI235 - Software Development Methodologies/AGILE.md",
     "COMPSCI235 - Software Development Methodologies/Aggregation.md",
     "COMPSCI235 - Software Development Methodologies/Adaptation.md",
     "COMPSCI235 - Software Development Methodologies/ACID.md",
@@ -190,7 +196,6 @@
     "COMPSCI235 - Software Development Methodologies/Structural elements.md",
     "COMPSCI235 - Software Development Methodologies/Version Control Systems (VCS).md",
     "COMPSCI235 - Software Development Methodologies/Software Architecture.md",
-    "COMPSCI235 - Software Development Methodologies/Architectural Pattern.md",
     "COMPSCI235 - Software Development Methodologies/System Integration.md",
     "COMPSCI235 - Software Development Methodologies/Software Build.md",
     "COMPSCI235 - Software Development Methodologies/software development.md",
@@ -200,11 +205,6 @@
     "COMPSCI235 - Software Development Methodologies/specification.md",
     "COMPSCI235 - Software Development Methodologies/SPRINT (iteration).md",
     "COMPSCI235 - Software Development Methodologies/SQL Joins.md",
-    "COMPSCI235 - Software Development Methodologies/SQLAlchemy.md",
-    "COMPSCI235 - Software Development Methodologies/SQLAlchemy Session.md",
-    "COMPSCI235 - Software Development Methodologies/stakeholders.md",
-    "COMPSCI235 - Software Development Methodologies/standard protocol.md",
-    "COMPSCI235 - Software Development Methodologies/stateless.md",
     "@images/1 TYRSuON0vVxy8olllrBVEw.png",
     "@images/Pasted image 20231104020521.png",
     "@images/Pasted image 20231104015543.png",
