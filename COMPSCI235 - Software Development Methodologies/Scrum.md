@@ -17,9 +17,9 @@ Successful project is one that optimises the value of the product for which it i
 
 ![[Pasted image 20231103162819.png]]
 ### Main roles
-1. [[Product Owner]]
-2. [[Scrum Master]]
-3. [[Development team]]
+1. ![[Product Owner]]
+2. ![[Scrum Master]]
+3. ![[Development team]]
 
 ### [[AGILE]] terms
 1. Requirements
