@@ -44,7 +44,7 @@
 		{"id":"e8206692a4526a39","type":"file","file":"COMPSCI235 - Software Development Methodologies/Jinja.md","x":-11800,"y":-4443,"width":1665,"height":2220},
 		{"id":"db383e99511e9c8d","type":"file","file":"COMPSCI235 - Software Development Methodologies/Single Responsibility Principle (SRP).md","x":-8904,"y":-4443,"width":577,"height":348},
 		{"id":"74dd66f0e37ff070","x":-7520,"y":4289,"width":720,"height":720,"type":"file","file":"COMPSCI235 - Software Development Methodologies/Persistent.md"},
-		{"id":"667d8204c6dc2ffe","x":-8360,"y":4840,"width":680,"height":1900,"type":"file","file":"COMPSCI235 - Software Development Methodologies/SQLAlchemy Session.md"},
+		{"id":"667d8204c6dc2ffe","x":-8360,"y":4840,"width":680,"height":1960,"type":"file","file":"COMPSCI235 - Software Development Methodologies/SQLAlchemy Session.md"},
 		{"id":"ab9f7d4d89635b5e","type":"file","file":"COMPSCI235 - Software Development Methodologies/Signed cookies.md","x":-6242,"y":3617,"width":400,"height":400},
 		{"id":"7753f2cc1371d7e4","type":"file","file":"COMPSCI235 - Software Development Methodologies/Session cookie.md","x":-5926,"y":4189,"width":798,"height":920},
 		{"id":"5d211a13e7cfeee7","x":-6560,"y":4426,"width":400,"height":223,"type":"file","file":"COMPSCI235 - Software Development Methodologies/session.md"},
@@ -52,7 +52,8 @@
 		{"id":"8c24641f4572de8c","type":"file","file":"COMPSCI235 - Software Development Methodologies/Persistence.md","x":-10543,"y":3891,"width":820,"height":1118},
 		{"id":"121f1287823ebeee","x":-8360,"y":4289,"width":600,"height":431,"type":"file","file":"COMPSCI235 - Software Development Methodologies/transaction(s).md"},
 		{"id":"68668411d6812aa5","type":"file","file":"COMPSCI235 - Software Development Methodologies/Relational database.md","x":-6642,"y":3241,"width":400,"height":400},
-		{"id":"9b258f49a9b2805e","type":"file","file":"COMPSCI235 - Software Development Methodologies/Impedence.md","x":-6042,"y":2816,"width":818,"height":801}
+		{"id":"9b258f49a9b2805e","type":"file","file":"COMPSCI235 - Software Development Methodologies/Impedence.md","x":-6042,"y":2816,"width":818,"height":801},
+		{"id":"598ec4860e233c19","x":-8600,"y":6960,"width":560,"height":640,"type":"file","file":"COMPSCI235 - Software Development Methodologies/Persistent.md"}
 	],
 	"edges":[
 		{"id":"e2651a3e146f3635","fromNode":"5f370702693bc675","fromSide":"bottom","toNode":"7bc50db6e8bf54a4","toSide":"top"},
