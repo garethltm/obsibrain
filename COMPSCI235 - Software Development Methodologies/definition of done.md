@@ -1,1 +1,1 @@
-The [[definition of done]] is an agreed upon list of the activities deemed necessary to get a product increment, usually represented by a [[user stories]] to a done state by the end of [[SPRINT (iteration)]]. 
+The [[definition of done]] is an agreed upon list of the activities deemed necessary to get a **product increment**, usually represented by a [[user stories]] to a done state by the end of [[SPRINT (iteration)]]. 

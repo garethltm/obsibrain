@@ -13,56 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Database schema.md",
+                "file": "COMPSCI235 - Software Development Methodologies/Dependency Inversion Principle (DIP).md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ]
-      },
-      {
-        "id": "6db2e3f2fb34f1ff",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "888535d260616ccc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "INFOSYS222 - Database Systems/Database Management System (DBMS).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "34fde9f2642ebce5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "INFOSYS222 - Database Systems/Relational Database.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2647d3f5071d8c44",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "INFOSYS222 - Database Systems/Keys.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ],
-        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -128,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Database schema.md",
+                "file": "COMPSCI235 - Software Development Methodologies/Dependency Inversion Principle (DIP).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Database schema.md",
+                "file": "COMPSCI235 - Software Development Methodologies/Dependency Inversion Principle (DIP).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Database schema.md"
+                "file": "COMPSCI235 - Software Development Methodologies/Dependency Inversion Principle (DIP).md"
               }
             }
           },
@@ -196,7 +153,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Database schema.md"
+                "file": "COMPSCI235 - Software Development Methodologies/Dependency Inversion Principle (DIP).md"
               }
             }
           }
@@ -221,16 +178,18 @@
   },
   "active": "8e28f081a24b1afd",
   "lastOpenFiles": [
+    "COMPSCI235 - Software Development Methodologies/High-level modules.md",
+    "COMPSCI235 - Software Development Methodologies/Dependency Inversion Principle (DIP).md",
+    "COMPSCI235 - Software Development Methodologies/Low-level modules.md",
+    "COMPSCI235 - Software Development Methodologies/Dependency.md",
+    "COMPSCI235 - Software Development Methodologies/definition of done.md",
+    "COMPSCI235 - Software Development Methodologies/Declarative Mapping.md",
+    "COMPSCI235 - Software Development Methodologies/Database schema.md",
     "INFOSYS222 - Database Systems/Keys.md",
     "INFOSYS222 - Database Systems/Relational Database.md",
     "INFOSYS222 - Database Systems/Database Management System (DBMS).md",
-    "COMPSCI235 - Software Development Methodologies/Database schema.md",
-    "COMPSCI235 - Software Development Methodologies/definition of done.md",
-    "COMPSCI235 - Software Development Methodologies/Dependency.md",
-    "COMPSCI235 - Software Development Methodologies/Declarative Mapping.md",
     "COMPSCI235 - Software Development Methodologies/Database instance.md",
     "COMPSCI235 - Software Development Methodologies/Database Management System (DBMS).md",
-    "COMPSCI235 - Software Development Methodologies/Dependency Inversion Principle (DIP).md",
     "COMPSCI235 - Software Development Methodologies/database.md",
     "COMPSCI235 - Software Development Methodologies/Relational database.md",
     "COMPSCI235 - Software Development Methodologies/Data structures.md",
@@ -245,8 +204,6 @@
     "COMPSCI235 - Software Development Methodologies/cookie.md",
     "COMPSCI235 - Software Development Methodologies/Continuous Integration (CI).md",
     "COMPSCI235 - Software Development Methodologies/Continuous Delivery (CD).md",
-    "COMPSCI235 - Software Development Methodologies/Continuous Deployment.md",
-    "COMPSCI235 - Software Development Methodologies/Construction (Code, Test).md",
     "COMPSCI235 - Software Development Methodologies/235 summary.canvas",
     "@images/1 TYRSuON0vVxy8olllrBVEw.png",
     "@images/Pasted image 20231104020521.png",
