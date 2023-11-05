@@ -15,7 +15,6 @@
 		{"id":"582370e009734836","type":"file","file":"COMPSCI235 - Software Development Methodologies/code quality.md","x":-1360,"y":993,"width":400,"height":400},
 		{"id":"fca5d5a890343e37","type":"file","file":"COMPSCI235 - Software Development Methodologies/Integration Testing.md","x":-1840,"y":-260,"width":400,"height":400},
 		{"id":"c6eeb4eecbd6fda4","type":"file","file":"COMPSCI235 - Software Development Methodologies/Middleware.md","x":-4940,"y":709,"width":400,"height":400},
-		{"id":"5b4bbb7c204a28ee","type":"file","file":"COMPSCI235 - Software Development Methodologies/Modern software systems.md","x":-4593,"y":1341,"width":400,"height":400},
 		{"id":"af7c6fe1f78d713c","type":"file","file":"COMPSCI235 - Software Development Methodologies/Networked.md","x":-4320,"y":793,"width":400,"height":400},
 		{"id":"b035213fd6bdaf96","type":"file","file":"COMPSCI235 - Software Development Methodologies/Pending.md","x":-6218,"y":3614,"width":400,"height":400},
 		{"id":"8c24641f4572de8c","type":"file","file":"COMPSCI235 - Software Development Methodologies/Persistence.md","x":-6760,"y":3702,"width":400,"height":750},
@@ -28,7 +27,7 @@
 		{"id":"b4b2b11b0312dcb0","type":"file","file":"COMPSCI235 - Software Development Methodologies/Linear Approach.md","x":-3840,"y":-1960,"width":680,"height":680},
 		{"id":"e68e3e8b4ad09c22","type":"file","file":"COMPSCI235 - Software Development Methodologies/Evolutionary (Iterative) Approach.md","x":-2400,"y":-1960,"width":600,"height":640},
 		{"id":"93be25677b443309","type":"file","file":"COMPSCI235 - Software Development Methodologies/Software Process Models.md","x":-3307,"y":-3040,"width":1095,"height":760},
-		{"id":"5f370702693bc675","x":-3080,"y":-1960,"width":600,"height":760,"type":"file","file":"COMPSCI235 - Software Development Methodologies/Incremental Approach.md"},
+		{"id":"5f370702693bc675","type":"file","file":"COMPSCI235 - Software Development Methodologies/Incremental Approach.md","x":-3080,"y":-1960,"width":600,"height":760},
 		{"id":"a0790e8e723cdf61","type":"file","file":"COMPSCI235 - Software Development Methodologies/ACID.md","x":-960,"y":-1600,"width":400,"height":400},
 		{"id":"ca346252f8709114","type":"file","file":"COMPSCI235 - Software Development Methodologies/Flask.md","x":-1120,"y":-880,"width":400,"height":400},
 		{"id":"83bbe932d4641fd1","type":"file","file":"COMPSCI235 - Software Development Methodologies/Cross-site Request Forgery (CSRF).md","x":-5120,"y":-1280,"width":400,"height":400},
@@ -50,7 +49,7 @@
 		{"id":"38cc1c31b01fc116","type":"file","file":"COMPSCI235 - Software Development Methodologies/Scrum.md","x":-3930,"y":2904,"width":845,"height":3117},
 		{"id":"73d240d299679e76","type":"file","file":"COMPSCI235 - Software Development Methodologies/Kanban.md","x":-3005,"y":2904,"width":1060,"height":3557},
 		{"id":"46d04d896c883479","type":"file","file":"COMPSCI235 - Software Development Methodologies/code review.md","x":-1320,"y":1439,"width":400,"height":400},
-		{"id":"581793d62d5bce29","x":-3552,"y":7680,"width":935,"height":3884,"type":"file","file":"COMPSCI235 - Software Development Methodologies/user stories.md"},
+		{"id":"581793d62d5bce29","type":"file","file":"COMPSCI235 - Software Development Methodologies/user stories.md","x":-3552,"y":7680,"width":935,"height":3884},
 		{"id":"21ad1b40a6043003","type":"file","file":"COMPSCI235 - Software Development Methodologies/INVEST.md","x":-1992,"y":8873,"width":814,"height":1499},
 		{"id":"1484a25fb5371506","type":"file","file":"COMPSCI235 - Software Development Methodologies/Scrum Master.md","x":-4560,"y":5440,"width":400,"height":261},
 		{"id":"db383e99511e9c8d","type":"file","file":"COMPSCI235 - Software Development Methodologies/Single Responsibility Principle (SRP).md","x":-6960,"y":2935,"width":400,"height":400},
@@ -60,8 +59,9 @@
 		{"id":"3a980237e4e09669","type":"file","file":"COMPSCI235 - Software Development Methodologies/product backlog.md","x":-5128,"y":5979,"width":400,"height":400},
 		{"id":"d8831e70f180edba","type":"file","file":"COMPSCI235 - Software Development Methodologies/Refactoring.md","x":-6120,"y":5501,"width":400,"height":400},
 		{"id":"d5abf1230783dbe2","type":"file","file":"COMPSCI235 - Software Development Methodologies/Distributed VCS.md","x":-8427,"y":993,"width":960,"height":1000},
-		{"id":"04a3847918d5aeb5","type":"file","file":"COMPSCI235 - Software Development Methodologies/Microservices.md","x":-6400,"y":1193,"width":960,"height":3007},
-		{"id":"c37563a8ab967bfd","type":"file","file":"COMPSCI235 - Software Development Methodologies/Architectural Pattern.md","x":-6400,"y":346,"width":400,"height":520}
+		{"id":"04a3847918d5aeb5","type":"file","file":"COMPSCI235 - Software Development Methodologies/Microservices.md","x":-12160,"y":427,"width":960,"height":3007},
+		{"id":"c37563a8ab967bfd","type":"file","file":"COMPSCI235 - Software Development Methodologies/Architectural Pattern.md","x":-11400,"y":-360,"width":400,"height":520},
+		{"id":"5b4bbb7c204a28ee","type":"file","file":"COMPSCI235 - Software Development Methodologies/Modern software systems.md","x":-10880,"y":-1843,"width":1080,"height":2003}
 	],
 	"edges":[
 		{"id":"e2651a3e146f3635","fromNode":"5f370702693bc675","fromSide":"bottom","toNode":"7bc50db6e8bf54a4","toSide":"top"},
