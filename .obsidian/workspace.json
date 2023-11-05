@@ -15,9 +15,9 @@
               "state": {
                 "file": "COMPSCI235 - Software Development Methodologies/235 summary.canvas",
                 "viewState": {
-                  "x": -3895.654869471992,
-                  "y": 5441.032529562306,
-                  "zoom": -0.9999999999999996
+                  "x": -7734.754577070611,
+                  "y": -1367.119503325135,
+                  "zoom": -1.666666666666666
                 }
               }
             }
@@ -88,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/235 summary.canvas",
+                "file": "COMPSCI235 - Software Development Methodologies/Cross-site Request Forgery (CSRF).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/235 summary.canvas",
+                "file": "COMPSCI235 - Software Development Methodologies/Cross-site Request Forgery (CSRF).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/235 summary.canvas"
+                "file": "COMPSCI235 - Software Development Methodologies/Cross-site Request Forgery (CSRF).md"
               }
             }
           },
@@ -156,7 +156,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/235 summary.canvas"
+                "file": "COMPSCI235 - Software Development Methodologies/Cross-site Request Forgery (CSRF).md"
               }
             }
           }

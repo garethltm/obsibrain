@@ -24,7 +24,6 @@
 		{"id":"2f19d3ea0e21eb2c","type":"file","file":"COMPSCI235 - Software Development Methodologies/eXtreme Programming (XP).md","x":-1874,"y":2904,"width":960,"height":4936},
 		{"id":"12dd385c166111cc","type":"file","file":"COMPSCI235 - Software Development Methodologies/Software Architecture.md","x":-11600,"y":-900,"width":680,"height":321},
 		{"id":"93be25677b443309","type":"file","file":"COMPSCI235 - Software Development Methodologies/Software Process Models.md","x":-3327,"y":-3040,"width":1095,"height":760},
-		{"id":"91c026accfe8ace8","type":"file","file":"COMPSCI235 - Software Development Methodologies/Application layer protocols.md","x":-5160,"y":1940,"width":400,"height":223},
 		{"id":"8c24641f4572de8c","type":"file","file":"COMPSCI235 - Software Development Methodologies/Persistence.md","x":-6280,"y":3814,"width":820,"height":1118},
 		{"id":"a0790e8e723cdf61","type":"file","file":"COMPSCI235 - Software Development Methodologies/ACID.md","x":-5340,"y":4240,"width":400,"height":500},
 		{"id":"edb27f15326a97d5","type":"file","file":"COMPSCI235 - Software Development Methodologies/Acceptance Testing.md","x":-2281,"y":8200,"width":762,"height":400},
@@ -50,9 +49,9 @@
 		{"id":"0d6c306d5cb8094b","type":"file","file":"COMPSCI235 - Software Development Methodologies/Hypertext Markup Language (HTML).md","x":-9200,"y":-4200,"width":400,"height":400},
 		{"id":"db383e99511e9c8d","type":"file","file":"COMPSCI235 - Software Development Methodologies/Single Responsibility Principle (SRP).md","x":-8400,"y":-5680,"width":577,"height":348},
 		{"id":"af7c6fe1f78d713c","type":"file","file":"COMPSCI235 - Software Development Methodologies/Networked.md","x":-8457,"y":-2910,"width":880,"height":1260},
-		{"id":"83bbe932d4641fd1","type":"file","file":"COMPSCI235 - Software Development Methodologies/Cross-site Request Forgery (CSRF).md","x":-8600,"y":-1241,"width":400,"height":400},
 		{"id":"eb02b4d8cbed3eb7","type":"file","file":"COMPSCI235 - Software Development Methodologies/Burn-up charts.md","x":-4720,"y":3617,"width":400,"height":400},
-		{"id":"d2ec5f1d975043dd","type":"file","file":"COMPSCI235 - Software Development Methodologies/Burn-down charts.md","x":-4720,"y":4063,"width":400,"height":400}
+		{"id":"d2ec5f1d975043dd","type":"file","file":"COMPSCI235 - Software Development Methodologies/Burn-down charts.md","x":-4720,"y":4063,"width":400,"height":400},
+		{"id":"91c026accfe8ace8","type":"file","file":"COMPSCI235 - Software Development Methodologies/Application layer protocols.md","x":-8017,"y":-1180,"width":400,"height":223}
 	],
 	"edges":[
 		{"id":"e2651a3e146f3635","fromNode":"5f370702693bc675","fromSide":"bottom","toNode":"7bc50db6e8bf54a4","toSide":"top"},
