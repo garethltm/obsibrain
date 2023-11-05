@@ -27,9 +27,9 @@
               "state": {
                 "file": "COMPSCI235 - Software Development Methodologies/235 summary.canvas",
                 "viewState": {
-                  "x": -1604.3300494982216,
-                  "y": -40.33640263940788,
-                  "zoom": -1.3333333333333333
+                  "x": -2165.189968859961,
+                  "y": -310.1847559802184,
+                  "zoom": -1.6666666666666665
                 }
               }
             }
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/eXtreme Programming (XP).md",
+                "file": "COMPSCI235 - Software Development Methodologies/235 summary.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/eXtreme Programming (XP).md",
+                "file": "COMPSCI235 - Software Development Methodologies/235 summary.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/eXtreme Programming (XP).md"
+                "file": "COMPSCI235 - Software Development Methodologies/235 summary.canvas"
               }
             }
           },
@@ -169,7 +169,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/eXtreme Programming (XP).md"
+                "file": "COMPSCI235 - Software Development Methodologies/235 summary.canvas"
               }
             }
           }
