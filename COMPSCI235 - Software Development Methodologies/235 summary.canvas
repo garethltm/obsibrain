@@ -52,14 +52,14 @@
 		{"id":"121f1287823ebeee","type":"file","file":"COMPSCI235 - Software Development Methodologies/transaction(s).md","x":-9350,"y":4241,"width":600,"height":1010},
 		{"id":"04a3847918d5aeb5","type":"file","file":"COMPSCI235 - Software Development Methodologies/Microservices.md","x":-12720,"y":-1603,"width":960,"height":3007},
 		{"id":"64d0ba95044a7145","type":"file","file":"COMPSCI235 - Software Development Methodologies/Object-Oriented Database Management System (OODBMS).md","x":-11680,"y":1524,"width":560,"height":400},
-		{"id":"68668411d6812aa5","type":"file","file":"COMPSCI235 - Software Development Methodologies/Relational database.md","x":-9119,"y":2120,"width":400,"height":305},
-		{"id":"9b258f49a9b2805e","type":"file","file":"COMPSCI235 - Software Development Methodologies/Impedence.md","x":-8519,"y":1600,"width":818,"height":801},
 		{"id":"76ddb14df3f5e966","type":"file","file":"COMPSCI235 - Software Development Methodologies/Object-Relational Database Management System (ORDBMS).md","x":-11077,"y":1537,"width":960,"height":765},
 		{"id":"ecdadfb7f7df1134","type":"file","file":"COMPSCI235 - Software Development Methodologies/Object Relation Mapping (ORM).md","x":-10037,"y":1537,"width":800,"height":1375},
 		{"id":"1af78e8d0317d2a1","type":"file","file":"COMPSCI235 - Software Development Methodologies/Object Oriented Databases (OOD).md","x":-10847,"y":944,"width":607,"height":380},
 		{"id":"eed78310e93a7d56","type":"file","file":"COMPSCI235 - Software Development Methodologies/SQLAlchemy.md","x":-9119,"y":2592,"width":1159,"height":419},
-		{"id":"a0790e8e723cdf61","type":"file","file":"COMPSCI235 - Software Development Methodologies/ACID.md","x":-9997,"y":3365,"width":400,"height":500},
-		{"id":"8c24641f4572de8c","type":"file","file":"COMPSCI235 - Software Development Methodologies/Persistence.md","x":-10937,"y":2939,"width":820,"height":1118}
+		{"id":"a0790e8e723cdf61","type":"file","file":"COMPSCI235 - Software Development Methodologies/ACID.md","x":-10067,"y":4667,"width":400,"height":500},
+		{"id":"8c24641f4572de8c","type":"file","file":"COMPSCI235 - Software Development Methodologies/Persistence.md","x":-10277,"y":3440,"width":820,"height":1118},
+		{"id":"68668411d6812aa5","type":"file","file":"COMPSCI235 - Software Development Methodologies/Relational database.md","x":-9867,"y":3011,"width":400,"height":305},
+		{"id":"9b258f49a9b2805e","type":"file","file":"COMPSCI235 - Software Development Methodologies/Impedence.md","x":-10935,"y":2592,"width":818,"height":801}
 	],
 	"edges":[
 		{"id":"e2651a3e146f3635","fromNode":"5f370702693bc675","fromSide":"bottom","toNode":"7bc50db6e8bf54a4","toSide":"top"},
@@ -75,7 +75,6 @@
 		{"id":"a481242185b4442e","fromNode":"93be25677b443309","fromSide":"bottom","toNode":"b4b2b11b0312dcb0","toSide":"top"},
 		{"id":"5527aca376c443c0","fromNode":"93be25677b443309","fromSide":"bottom","toNode":"5f370702693bc675","toSide":"top"},
 		{"id":"9811e0c7c4809ab6","fromNode":"93be25677b443309","fromSide":"bottom","toNode":"e68e3e8b4ad09c22","toSide":"top"},
-		{"id":"7385ef91d1b7a6f3","fromNode":"8c24641f4572de8c","fromSide":"right","toNode":"a0790e8e723cdf61","toSide":"left"},
 		{"id":"1ea51222d69bd06c","fromNode":"2f19d3ea0e21eb2c","fromSide":"bottom","toNode":"68bd299004a23cb9","toSide":"top"},
 		{"id":"854cb8dcde398bb1","fromNode":"2f19d3ea0e21eb2c","fromSide":"bottom","toNode":"fca5d5a890343e37","toSide":"top"},
 		{"id":"def7beaa1c773bea","fromNode":"68bd299004a23cb9","fromSide":"right","toNode":"5ace2510d690f835","toSide":"left"},
@@ -104,8 +103,6 @@
 		{"id":"da868cb4903060cd","fromNode":"7bc50db6e8bf54a4","fromSide":"bottom","toNode":"73d240d299679e76","toSide":"top"},
 		{"id":"4daca7eaf2dbe9b2","fromNode":"7bc50db6e8bf54a4","fromSide":"bottom","toNode":"2f19d3ea0e21eb2c","toSide":"top"},
 		{"id":"1550726bfe2698f9","fromNode":"7753f2cc1371d7e4","fromSide":"left","toNode":"667d8204c6dc2ffe","toSide":"right"},
-		{"id":"0ba43dd14e0610a0","fromNode":"ecdadfb7f7df1134","fromSide":"right","toNode":"68668411d6812aa5","toSide":"left"},
-		{"id":"70379b044e43e23b","fromNode":"68668411d6812aa5","fromSide":"right","toNode":"9b258f49a9b2805e","toSide":"left"},
 		{"id":"2204d09f9c25e2f2","fromNode":"667d8204c6dc2ffe","fromSide":"bottom","toNode":"598ec4860e233c19","toSide":"top"},
 		{"id":"a511467447452ce5","fromNode":"667d8204c6dc2ffe","fromSide":"bottom","toNode":"4e857dce59ee5c11","toSide":"top"},
 		{"id":"02e522b8622e6d08","fromNode":"667d8204c6dc2ffe","fromSide":"bottom","toNode":"0d1603a745b5a234","toSide":"top"},
@@ -119,6 +116,9 @@
 		{"id":"457473235574d57a","fromNode":"667d8204c6dc2ffe","fromSide":"left","toNode":"121f1287823ebeee","toSide":"right"},
 		{"id":"d010ff1be8c0d17b","fromNode":"c37563a8ab967bfd","fromSide":"left","toNode":"04a3847918d5aeb5","toSide":"right"},
 		{"id":"314aa6477c462965","fromNode":"667d8204c6dc2ffe","fromSide":"top","toNode":"eed78310e93a7d56","toSide":"bottom"},
-		{"id":"e9ec5429378aff38","fromNode":"eed78310e93a7d56","fromSide":"top","toNode":"68668411d6812aa5","toSide":"bottom"}
+		{"id":"e9ec5429378aff38","fromNode":"eed78310e93a7d56","fromSide":"top","toNode":"68668411d6812aa5","toSide":"bottom"},
+		{"id":"55cf23dc8b067c1f","fromNode":"a0790e8e723cdf61","fromSide":"right","toNode":"121f1287823ebeee","toSide":"left"},
+		{"id":"adeca3eb9b80d478","fromNode":"ecdadfb7f7df1134","fromSide":"bottom","toNode":"68668411d6812aa5","toSide":"top"},
+		{"id":"22678dd390c1f2e8","fromNode":"68668411d6812aa5","fromSide":"left","toNode":"9b258f49a9b2805e","toSide":"right"}
 	]
 }
