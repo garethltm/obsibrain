@@ -43,20 +43,22 @@
 		{"id":"a9d67f096a4887a5","type":"file","file":"COMPSCI235 - Software Development Methodologies/Application Architecture.md","x":-9370,"y":-3956,"width":1205,"height":2120},
 		{"id":"e8206692a4526a39","type":"file","file":"COMPSCI235 - Software Development Methodologies/Jinja.md","x":-11800,"y":-4443,"width":1665,"height":2220},
 		{"id":"db383e99511e9c8d","type":"file","file":"COMPSCI235 - Software Development Methodologies/Single Responsibility Principle (SRP).md","x":-8904,"y":-4443,"width":577,"height":348},
-		{"id":"74dd66f0e37ff070","x":-7520,"y":4289,"width":720,"height":720,"type":"file","file":"COMPSCI235 - Software Development Methodologies/Persistent.md"},
-		{"id":"667d8204c6dc2ffe","x":-8360,"y":4840,"width":680,"height":1960,"type":"file","file":"COMPSCI235 - Software Development Methodologies/SQLAlchemy Session.md"},
+		{"id":"74dd66f0e37ff070","type":"file","file":"COMPSCI235 - Software Development Methodologies/Persistent.md","x":-7520,"y":4289,"width":720,"height":720},
+		{"id":"667d8204c6dc2ffe","type":"file","file":"COMPSCI235 - Software Development Methodologies/SQLAlchemy Session.md","x":-8360,"y":4840,"width":680,"height":1960},
 		{"id":"ab9f7d4d89635b5e","type":"file","file":"COMPSCI235 - Software Development Methodologies/Signed cookies.md","x":-6242,"y":3617,"width":400,"height":400},
 		{"id":"a0790e8e723cdf61","type":"file","file":"COMPSCI235 - Software Development Methodologies/ACID.md","x":-9603,"y":4317,"width":400,"height":500},
 		{"id":"8c24641f4572de8c","type":"file","file":"COMPSCI235 - Software Development Methodologies/Persistence.md","x":-10543,"y":3891,"width":820,"height":1118},
-		{"id":"121f1287823ebeee","x":-8360,"y":4289,"width":600,"height":431,"type":"file","file":"COMPSCI235 - Software Development Methodologies/transaction(s).md"},
+		{"id":"121f1287823ebeee","type":"file","file":"COMPSCI235 - Software Development Methodologies/transaction(s).md","x":-8360,"y":4289,"width":600,"height":431},
 		{"id":"68668411d6812aa5","type":"file","file":"COMPSCI235 - Software Development Methodologies/Relational database.md","x":-6642,"y":3241,"width":400,"height":400},
 		{"id":"9b258f49a9b2805e","type":"file","file":"COMPSCI235 - Software Development Methodologies/Impedence.md","x":-6042,"y":2816,"width":818,"height":801},
-		{"id":"598ec4860e233c19","x":-9040,"y":7040,"width":560,"height":640,"type":"file","file":"COMPSCI235 - Software Development Methodologies/Persistent.md"},
-		{"id":"4e857dce59ee5c11","x":-8420,"y":7040,"width":620,"height":680,"type":"file","file":"COMPSCI235 - Software Development Methodologies/Expired.md"},
-		{"id":"0d1603a745b5a234","x":-7720,"y":7040,"width":460,"height":400,"type":"file","file":"COMPSCI235 - Software Development Methodologies/Transient.md"},
-		{"id":"0f00c0da3304b53d","x":-7160,"y":7040,"width":600,"height":480,"type":"file","file":"COMPSCI235 - Software Development Methodologies/Pending.md"},
+		{"id":"598ec4860e233c19","type":"file","file":"COMPSCI235 - Software Development Methodologies/Persistent.md","x":-9040,"y":7040,"width":560,"height":640},
+		{"id":"4e857dce59ee5c11","type":"file","file":"COMPSCI235 - Software Development Methodologies/Expired.md","x":-8420,"y":7040,"width":620,"height":680},
+		{"id":"0d1603a745b5a234","type":"file","file":"COMPSCI235 - Software Development Methodologies/Transient.md","x":-7720,"y":7040,"width":460,"height":400},
+		{"id":"0f00c0da3304b53d","type":"file","file":"COMPSCI235 - Software Development Methodologies/Pending.md","x":-7160,"y":7040,"width":600,"height":480},
 		{"id":"7753f2cc1371d7e4","type":"file","file":"COMPSCI235 - Software Development Methodologies/Session cookie.md","x":-7440,"y":5360,"width":798,"height":920},
-		{"id":"5d211a13e7cfeee7","x":-6500,"y":5480,"width":400,"height":223,"type":"file","file":"COMPSCI235 - Software Development Methodologies/session.md"}
+		{"id":"5d211a13e7cfeee7","type":"file","file":"COMPSCI235 - Software Development Methodologies/session.md","x":-7520,"y":6440,"width":400,"height":223},
+		{"id":"92217e99b7a4368f","x":-7041,"y":6440,"width":681,"height":400,"type":"file","file":"COMPSCI235 - Software Development Methodologies/cookie.md"},
+		{"id":"d19df21b4a514b2b","x":-6552,"y":4840,"width":620,"height":708,"type":"file","file":"COMPSCI235 - Software Development Methodologies/Cross-site Request Forgery (CSRF).md"}
 	],
 	"edges":[
 		{"id":"e2651a3e146f3635","fromNode":"5f370702693bc675","fromSide":"bottom","toNode":"7bc50db6e8bf54a4","toSide":"top"},
@@ -110,6 +112,8 @@
 		{"id":"a511467447452ce5","fromNode":"667d8204c6dc2ffe","fromSide":"bottom","toNode":"4e857dce59ee5c11","toSide":"top"},
 		{"id":"02e522b8622e6d08","fromNode":"667d8204c6dc2ffe","fromSide":"bottom","toNode":"0d1603a745b5a234","toSide":"top"},
 		{"id":"57faf6efeea50d5b","fromNode":"667d8204c6dc2ffe","fromSide":"bottom","toNode":"0f00c0da3304b53d","toSide":"top"},
-		{"id":"920873f5ba6fa62f","fromNode":"5d211a13e7cfeee7","fromSide":"left","toNode":"7753f2cc1371d7e4","toSide":"right"}
+		{"id":"a30c5322781a8043","fromNode":"d19df21b4a514b2b","fromSide":"left","toNode":"7753f2cc1371d7e4","toSide":"top"},
+		{"id":"e4d6e01a2a40e6ba","fromNode":"7753f2cc1371d7e4","fromSide":"bottom","toNode":"5d211a13e7cfeee7","toSide":"top"},
+		{"id":"058edfc1456e1138","fromNode":"7753f2cc1371d7e4","fromSide":"bottom","toNode":"92217e99b7a4368f","toSide":"top"}
 	]
 }
