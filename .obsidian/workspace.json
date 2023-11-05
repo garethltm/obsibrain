@@ -15,9 +15,9 @@
               "state": {
                 "file": "COMPSCI235 - Software Development Methodologies/235 summary.canvas",
                 "viewState": {
-                  "x": 3744.9347698866195,
-                  "y": -1879.8860271588455,
-                  "zoom": -1.3333333333333333
+                  "x": 5856.465085635028,
+                  "y": -4862.114222940683,
+                  "zoom": -3
                 }
               }
             }
@@ -88,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Test-driven development (AGILE practice).md",
+                "file": "COMPSCI235 - Software Development Methodologies/Templating.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Test-driven development (AGILE practice).md",
+                "file": "COMPSCI235 - Software Development Methodologies/Templating.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Test-driven development (AGILE practice).md"
+                "file": "COMPSCI235 - Software Development Methodologies/Templating.md"
               }
             }
           },
@@ -156,7 +156,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Test-driven development (AGILE practice).md"
+                "file": "COMPSCI235 - Software Development Methodologies/Templating.md"
               }
             }
           }
