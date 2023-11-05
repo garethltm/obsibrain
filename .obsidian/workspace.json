@@ -15,14 +15,82 @@
               "state": {
                 "file": "COMPSCI235 - Software Development Methodologies/235 summary.canvas",
                 "viewState": {
-                  "x": 2140.6304260020233,
-                  "y": 4689.05846443777,
-                  "zoom": -0.3333333333333334
+                  "x": 1600.8652243662802,
+                  "y": 229.47017100760968,
+                  "zoom": -1.3333333333333333
                 }
               }
             }
           }
         ]
+      },
+      {
+        "id": "78c6f365867d2674",
+        "type": "split",
+        "children": [
+          {
+            "id": "7920652722738122",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "f64afc33235b503a",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "COMPSCI235 - Software Development Methodologies/Version Control Systems (VCS).md",
+                    "mode": "source",
+                    "source": false
+                  }
+                },
+                "group": "e6f9f2bb3b901abf"
+              }
+            ]
+          },
+          {
+            "id": "80499f2f2ae88472",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "4f3c551a151a2cde",
+                "type": "leaf",
+                "state": {
+                  "type": "localgraph",
+                  "state": {
+                    "file": "COMPSCI235 - Software Development Methodologies/Version Control Systems (VCS).md",
+                    "options": {
+                      "collapse-filter": true,
+                      "search": "",
+                      "localJumps": 1,
+                      "localBacklinks": true,
+                      "localForelinks": true,
+                      "localInterlinks": false,
+                      "showTags": false,
+                      "showAttachments": false,
+                      "hideUnresolved": false,
+                      "collapse-color-groups": true,
+                      "colorGroups": [],
+                      "collapse-display": true,
+                      "showArrow": false,
+                      "textFadeMultiplier": 0,
+                      "nodeSizeMultiplier": 1,
+                      "lineSizeMultiplier": 1,
+                      "collapse-forces": true,
+                      "centerStrength": 0.518713248970312,
+                      "repelStrength": 10,
+                      "linkStrength": 1,
+                      "linkDistance": 250,
+                      "scale": 0.713275462622442,
+                      "close": true
+                    }
+                  }
+                },
+                "group": "e6f9f2bb3b901abf"
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -88,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Version Control Systems (VCS).md",
+                "file": "COMPSCI235 - Software Development Methodologies/Continuous Deployment.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +173,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Version Control Systems (VCS).md",
+                "file": "COMPSCI235 - Software Development Methodologies/Continuous Deployment.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +196,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Version Control Systems (VCS).md"
+                "file": "COMPSCI235 - Software Development Methodologies/Continuous Deployment.md"
               }
             }
           },
@@ -156,7 +224,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Version Control Systems (VCS).md"
+                "file": "COMPSCI235 - Software Development Methodologies/Continuous Deployment.md"
               }
             }
           }
@@ -181,6 +249,8 @@
   },
   "active": "aadfb509c77e20f4",
   "lastOpenFiles": [
+    "COMPSCI235 - Software Development Methodologies/Version Control Systems (VCS).md",
+    "COMPSCI235 - Software Development Methodologies/235 summary.canvas",
     "COMPSCI235 - Software Development Methodologies/ACID.md",
     "COMPSCI235 - Software Development Methodologies/Software Architecture.md",
     "COMPSCI235 - Software Development Methodologies/Architectural Pattern.md",
@@ -206,8 +276,6 @@
     "COMPSCI235 - Software Development Methodologies/Support for scaling & development.md",
     "COMPSCI235 - Software Development Methodologies/Support separate team development.md",
     "COMPSCI235 - Software Development Methodologies/System testing.md",
-    "COMPSCI235 - Software Development Methodologies/Systematic Development Process.md",
-    "COMPSCI235 - Software Development Methodologies/235 summary.canvas",
     "@images/1 TYRSuON0vVxy8olllrBVEw.png",
     "@images/Pasted image 20231104020521.png",
     "@images/Pasted image 20231104015543.png",

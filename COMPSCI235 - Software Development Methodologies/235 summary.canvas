@@ -62,7 +62,6 @@
 		{"id":"4e857dce59ee5c11","type":"file","file":"COMPSCI235 - Software Development Methodologies/Expired.md","x":7436,"y":3910,"width":620,"height":680},
 		{"id":"667d8204c6dc2ffe","type":"file","file":"COMPSCI235 - Software Development Methodologies/SQLAlchemy Session.md","x":7496,"y":1710,"width":680,"height":1960},
 		{"id":"eed78310e93a7d56","type":"file","file":"COMPSCI235 - Software Development Methodologies/SQLAlchemy.md","x":6917,"y":1152,"width":1159,"height":419},
-		{"id":"21fb6e6107f68238","type":"file","file":"COMPSCI235 - Software Development Methodologies/Continuous Deployment.md","x":1720,"y":-1160,"width":920,"height":960},
 		{"id":"8cb62d5f17436286","type":"file","file":"COMPSCI235 - Software Development Methodologies/technical debt.md","x":1520,"y":1600,"width":800,"height":1160},
 		{"id":"121f1287823ebeee","type":"file","file":"COMPSCI235 - Software Development Methodologies/transaction(s).md","x":6516,"y":2826,"width":600,"height":790},
 		{"id":"68668411d6812aa5","type":"file","file":"COMPSCI235 - Software Development Methodologies/Relational database.md","x":5725,"y":1710,"width":400,"height":305},
@@ -80,7 +79,8 @@
 		{"id":"5db9cd00aa825336","type":"file","file":"COMPSCI235 - Software Development Methodologies/Template containment.md","x":2085,"y":-4876,"width":501,"height":662},
 		{"id":"088eb6a4b1a43428","type":"file","file":"COMPSCI235 - Software Development Methodologies/Template inheritance.md","x":2085,"y":-4087,"width":501,"height":680},
 		{"id":"7301441fc827fe6a","type":"file","file":"COMPSCI235 - Software Development Methodologies/Templating.md","x":5080,"y":-4840,"width":720,"height":973},
-		{"id":"d94027485fb4f6b1","x":1006,"y":4849,"width":1314,"height":890,"type":"file","file":"COMPSCI235 - Software Development Methodologies/Version Control Systems (VCS).md"}
+		{"id":"21fb6e6107f68238","type":"file","file":"COMPSCI235 - Software Development Methodologies/Continuous Deployment.md","x":1960,"y":-1160,"width":920,"height":960},
+		{"id":"d94027485fb4f6b1","x":480,"y":-1160,"width":1314,"height":890,"type":"file","file":"COMPSCI235 - Software Development Methodologies/Version Control Systems (VCS).md"}
 	],
 	"edges":[
 		{"id":"e2651a3e146f3635","fromNode":"5f370702693bc675","fromSide":"bottom","toNode":"7bc50db6e8bf54a4","toSide":"top"},
