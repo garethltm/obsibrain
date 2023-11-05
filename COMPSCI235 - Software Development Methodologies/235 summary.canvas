@@ -30,7 +30,6 @@
 		{"id":"76ddb14df3f5e966","type":"file","file":"COMPSCI235 - Software Development Methodologies/Object-Relational Database Management System (ORDBMS).md","x":-11077,"y":1537,"width":960,"height":765},
 		{"id":"ecdadfb7f7df1134","type":"file","file":"COMPSCI235 - Software Development Methodologies/Object Relation Mapping (ORM).md","x":-10037,"y":1537,"width":800,"height":1375},
 		{"id":"1af78e8d0317d2a1","type":"file","file":"COMPSCI235 - Software Development Methodologies/Object Oriented Databases (OOD).md","x":-10847,"y":944,"width":607,"height":380},
-		{"id":"eed78310e93a7d56","type":"file","file":"COMPSCI235 - Software Development Methodologies/SQLAlchemy.md","x":-9119,"y":2592,"width":1159,"height":419},
 		{"id":"a0790e8e723cdf61","type":"file","file":"COMPSCI235 - Software Development Methodologies/ACID.md","x":-10067,"y":4667,"width":400,"height":500},
 		{"id":"68668411d6812aa5","type":"file","file":"COMPSCI235 - Software Development Methodologies/Relational database.md","x":-9867,"y":3011,"width":400,"height":305},
 		{"id":"9b258f49a9b2805e","type":"file","file":"COMPSCI235 - Software Development Methodologies/Impedence.md","x":-10935,"y":2592,"width":818,"height":801},
@@ -70,7 +69,8 @@
 		{"id":"0d1603a745b5a234","type":"file","file":"COMPSCI235 - Software Development Methodologies/Transient.md","x":-7814,"y":5561,"width":460,"height":400},
 		{"id":"3356865db47b84fa","x":-3080,"y":6160,"width":400,"height":254,"type":"file","file":"COMPSCI235 - Software Development Methodologies/SPRINT (iteration).md"},
 		{"id":"05626e9a409bdef6","x":1360,"y":4360,"width":400,"height":260,"type":"file","file":"COMPSCI235 - Software Development Methodologies/White Box Testing.md"},
-		{"id":"5c41b0de59be4ddb","x":-5920,"y":3261,"width":480,"height":439,"type":"file","file":"COMPSCI235 - Software Development Methodologies/WTForms.md"}
+		{"id":"5c41b0de59be4ddb","x":-5920,"y":3261,"width":480,"height":439,"type":"file","file":"COMPSCI235 - Software Development Methodologies/WTForms.md"},
+		{"id":"eed78310e93a7d56","type":"file","file":"COMPSCI235 - Software Development Methodologies/SQLAlchemy.md","x":-9003,"y":2703,"width":1159,"height":419}
 	],
 	"edges":[
 		{"id":"e2651a3e146f3635","fromNode":"5f370702693bc675","fromSide":"bottom","toNode":"7bc50db6e8bf54a4","toSide":"top"},
@@ -145,6 +145,7 @@
 		{"id":"6f97dcbbd3967416","fromNode":"73d240d299679e76","fromSide":"left","toNode":"38cc1c31b01fc116","toSide":"right"},
 		{"id":"81cc4820df20d054","fromNode":"68bd299004a23cb9","fromSide":"bottom","toNode":"05626e9a409bdef6","toSide":"left"},
 		{"id":"b5e854e3b059805b","fromNode":"f1a604c43fcb2c69","fromSide":"top","toNode":"ca346252f8709114","toSide":"bottom"},
-		{"id":"962d95b0968c53b9","fromNode":"f1a604c43fcb2c69","fromSide":"right","toNode":"5c41b0de59be4ddb","toSide":"top"}
+		{"id":"962d95b0968c53b9","fromNode":"f1a604c43fcb2c69","fromSide":"right","toNode":"5c41b0de59be4ddb","toSide":"top"},
+		{"id":"5b31339a0f8a6b14","fromNode":"667d8204c6dc2ffe","fromSide":"right","toNode":"7753f2cc1371d7e4","toSide":"left"}
 	]
 }
