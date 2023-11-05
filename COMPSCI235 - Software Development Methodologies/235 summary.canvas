@@ -75,7 +75,9 @@
 		{"id":"3a980237e4e09669","type":"file","file":"COMPSCI235 - Software Development Methodologies/product backlog.md","x":-3900,"y":1315,"width":400,"height":400},
 		{"id":"bf1e09c976dc4ee2","type":"file","file":"COMPSCI235 - Software Development Methodologies/product backlog refinement.md","x":-4000,"y":1835,"width":600,"height":480},
 		{"id":"1dd3253e49dec13e","type":"file","file":"COMPSCI235 - Software Development Methodologies/The 4 P's of Software Development.md","x":-2200,"y":-8880,"width":1266,"height":1206},
-		{"id":"5db9cd00aa825336","type":"file","file":"COMPSCI235 - Software Development Methodologies/Template containment.md","x":3160,"y":-4884,"width":501,"height":662}
+		{"id":"2149a1203498a1cf","x":3680,"y":-5120,"width":611,"height":868,"type":"file","file":"COMPSCI235 - Software Development Methodologies/Template inheritance & containment.md"},
+		{"id":"5db9cd00aa825336","type":"file","file":"COMPSCI235 - Software Development Methodologies/Template containment.md","x":2950,"y":-5189,"width":501,"height":662},
+		{"id":"088eb6a4b1a43428","x":2950,"y":-4400,"width":501,"height":680,"type":"file","file":"COMPSCI235 - Software Development Methodologies/Template inheritance.md"}
 	],
 	"edges":[
 		{"id":"e2651a3e146f3635","fromNode":"5f370702693bc675","fromSide":"bottom","toNode":"7bc50db6e8bf54a4","toSide":"top"},
@@ -155,6 +157,9 @@
 		{"id":"4824611fc4dd9cdd","fromNode":"cc9bd268c69abe2b","fromSide":"right","toNode":"9b258f49a9b2805e","toSide":"left"},
 		{"id":"e0e19919e1bf70bf","fromNode":"9b258f49a9b2805e","fromSide":"right","toNode":"68668411d6812aa5","toSide":"left"},
 		{"id":"0aa11d008007660c","fromNode":"cc9bd268c69abe2b","fromSide":"left","toNode":"89a7d135834fe555","toSide":"right"},
-		{"id":"02c0df8d056162e7","fromNode":"1dd3253e49dec13e","fromSide":"bottom","toNode":"93be25677b443309","toSide":"top"}
+		{"id":"02c0df8d056162e7","fromNode":"1dd3253e49dec13e","fromSide":"bottom","toNode":"93be25677b443309","toSide":"top"},
+		{"id":"65e6460eb38f7250","fromNode":"e8206692a4526a39","fromSide":"left","toNode":"2149a1203498a1cf","toSide":"right"},
+		{"id":"e3dea6a9e1c0d39c","fromNode":"2149a1203498a1cf","fromSide":"left","toNode":"5db9cd00aa825336","toSide":"right"},
+		{"id":"5927c68064b6974e","fromNode":"2149a1203498a1cf","fromSide":"left","toNode":"088eb6a4b1a43428","toSide":"right"}
 	]
 }
