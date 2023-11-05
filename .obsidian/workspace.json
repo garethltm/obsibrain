@@ -23,14 +23,11 @@
             "id": "95c985d8e33e2311",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/235 summary.canvas",
-                "viewState": {
-                  "x": -3378.6597978699706,
-                  "y": -235.78284183689297,
-                  "zoom": -2.333333333333333
-                }
+                "file": "COMPSCI235 - Software Development Methodologies/technical debt.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -101,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Software Process Models.md",
+                "file": "COMPSCI235 - Software Development Methodologies/technical debt.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Software Process Models.md",
+                "file": "COMPSCI235 - Software Development Methodologies/technical debt.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Software Process Models.md"
+                "file": "COMPSCI235 - Software Development Methodologies/technical debt.md"
               }
             }
           },
@@ -169,7 +166,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Software Process Models.md"
+                "file": "COMPSCI235 - Software Development Methodologies/technical debt.md"
               }
             }
           }
@@ -194,8 +191,8 @@
   },
   "active": "95c985d8e33e2311",
   "lastOpenFiles": [
-    "COMPSCI235 - Software Development Methodologies/Security concerns.md",
     "COMPSCI235 - Software Development Methodologies/235 summary.canvas",
+    "COMPSCI235 - Software Development Methodologies/Security concerns.md",
     "COMPSCI235 - Software Development Methodologies/analysis.md",
     "COMPSCI235 - Software Development Methodologies/ACID.md",
     "COMPSCI235 - Software Development Methodologies/Accessibility.md",
@@ -220,7 +217,6 @@
     "COMPSCI235 - Software Development Methodologies/Quantitative metrics.md",
     "COMPSCI235 - Software Development Methodologies/pair programming.md",
     "COMPSCI235 - Software Development Methodologies/Patches.md",
-    "COMPSCI235 - Software Development Methodologies/Hypertext Transfer Protocol (HTTP).md",
     "@images/1 TYRSuON0vVxy8olllrBVEw.png",
     "@images/Pasted image 20231104020521.png",
     "@images/Pasted image 20231104015543.png",
