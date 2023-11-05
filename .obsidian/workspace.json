@@ -27,9 +27,9 @@
               "state": {
                 "file": "COMPSCI235 - Software Development Methodologies/235 summary.canvas",
                 "viewState": {
-                  "x": -2536.4826351631887,
-                  "y": 1184.283925298255,
-                  "zoom": -1.3333333333333333
+                  "x": -3669.6126222765215,
+                  "y": 1495.042005473052,
+                  "zoom": -1
                 }
               }
             }
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Linear Approach.md",
+                "file": "COMPSCI235 - Software Development Methodologies/Networked.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Linear Approach.md",
+                "file": "COMPSCI235 - Software Development Methodologies/Networked.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Linear Approach.md"
+                "file": "COMPSCI235 - Software Development Methodologies/Networked.md"
               }
             }
           },
@@ -169,7 +169,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Linear Approach.md"
+                "file": "COMPSCI235 - Software Development Methodologies/Networked.md"
               }
             }
           }
