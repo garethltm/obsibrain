@@ -15,10 +15,17 @@
       }
     },
     {
-      "query": "path:\"INFOSYS222 - Database Systems\"  ",
+      "query": "path:\"path:",
       "color": {
         "a": 1,
         "rgb": 14725458
+      }
+    },
+    {
+      "query": "",
+      "color": {
+        "a": 1,
+        "rgb": 11657298
       }
     }
   ],
@@ -32,6 +39,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.17357729449718984,
-  "close": true
+  "scale": 0.47832277775728815,
+  "close": false
 }
