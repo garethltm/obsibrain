@@ -1,17 +1,23 @@
 {
 	"nodes":[
-		{"id":"ea1a209da5b6dc76","x":-1170,"y":875,"width":400,"height":400,"type":"file","file":"COMPSCI235 - Software Development Methodologies/Bug reports.md"},
+		{"id":"c5275d21ef50c5d1","x":-904,"y":1809,"width":400,"height":400,"type":"file","file":"COMPSCI235 - Software Development Methodologies/code smell.md"},
 		{"id":"ee7dbb282c941b90","type":"file","file":"COMPSCI235 - Software Development Methodologies/Aggregation.md","x":540,"y":-360,"width":400,"height":400},
 		{"id":"a0790e8e723cdf61","type":"file","file":"COMPSCI235 - Software Development Methodologies/ACID.md","x":-820,"y":-320,"width":400,"height":400},
 		{"id":"7bc50db6e8bf54a4","type":"file","file":"COMPSCI235 - Software Development Methodologies/AGILE.md","x":-820,"y":-840,"width":400,"height":400},
 		{"id":"a9d67f096a4887a5","type":"file","file":"COMPSCI235 - Software Development Methodologies/Application Architecture.md","x":-360,"y":220,"width":494,"height":400},
-		{"id":"c37563a8ab967bfd","type":"file","file":"COMPSCI235 - Software Development Methodologies/Architectural Pattern.md","x":-880,"y":220,"width":400,"height":400},
 		{"id":"895f090e1f23f68c","type":"file","file":"COMPSCI235 - Software Development Methodologies/Association.md","x":540,"y":-840,"width":400,"height":400},
 		{"id":"f0b744e84fcaad88","type":"file","file":"COMPSCI235 - Software Development Methodologies/Automated Build.md","x":-313,"y":-260,"width":400,"height":400},
 		{"id":"91c026accfe8ace8","type":"file","file":"COMPSCI235 - Software Development Methodologies/Application layer protocols.md","x":-313,"y":-751,"width":400,"height":223},
 		{"id":"5ace2510d690f835","type":"file","file":"COMPSCI235 - Software Development Methodologies/Automated Testing.md","x":-1320,"y":-320,"width":400,"height":400},
 		{"id":"d51024225fdca15f","type":"file","file":"COMPSCI235 - Software Development Methodologies/Behavioral Diagrams.md","x":-1320,"y":220,"width":400,"height":400},
-		{"id":"717762b89f722f79","x":-1840,"y":720,"width":400,"height":400,"type":"file","file":"COMPSCI235 - Software Development Methodologies/Bug Processing.md"}
+		{"id":"717762b89f722f79","type":"file","file":"COMPSCI235 - Software Development Methodologies/Bug Processing.md","x":-1840,"y":720,"width":400,"height":400},
+		{"id":"d2ec5f1d975043dd","x":-888,"y":993,"width":400,"height":400,"type":"file","file":"COMPSCI235 - Software Development Methodologies/Burn-down charts.md"},
+		{"id":"eb02b4d8cbed3eb7","x":-313,"y":993,"width":400,"height":400,"type":"file","file":"COMPSCI235 - Software Development Methodologies/Burn-up charts.md"},
+		{"id":"c0f152cffcfc82e2","x":-1840,"y":220,"width":400,"height":400,"type":"file","file":"COMPSCI235 - Software Development Methodologies/Class Diagram.md"},
+		{"id":"c37563a8ab967bfd","type":"file","file":"COMPSCI235 - Software Development Methodologies/Architectural Pattern.md","x":-820,"y":220,"width":400,"height":400},
+		{"id":"777c72221795cb2d","x":518,"y":857,"width":400,"height":400,"type":"file","file":"COMPSCI235 - Software Development Methodologies/Class selectors.md"},
+		{"id":"582370e009734836","x":-1360,"y":993,"width":400,"height":400,"type":"file","file":"COMPSCI235 - Software Development Methodologies/code quality.md"},
+		{"id":"46d04d896c883479","x":-1796,"y":1425,"width":400,"height":400,"type":"file","file":"COMPSCI235 - Software Development Methodologies/code review.md"}
 	],
 	"edges":[]
 }

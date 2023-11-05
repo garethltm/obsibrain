@@ -28,7 +28,7 @@
                 "file": "COMPSCI235 - Software Development Methodologies/235 summary.canvas",
                 "viewState": {
                   "x": -507.92469433763085,
-                  "y": 735.7308948637528,
+                  "y": 1293.7308948637528,
                   "zoom": -1
                 }
               }
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Bug reports.md",
+                "file": "COMPSCI235 - Software Development Methodologies/code smell.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Bug reports.md",
+                "file": "COMPSCI235 - Software Development Methodologies/code smell.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Bug reports.md"
+                "file": "COMPSCI235 - Software Development Methodologies/code smell.md"
               }
             }
           },
@@ -169,7 +169,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Bug reports.md"
+                "file": "COMPSCI235 - Software Development Methodologies/code smell.md"
               }
             }
           }
