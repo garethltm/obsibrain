@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Template containment.md",
+                "file": "COMPSCI235 - Software Development Methodologies/code quality.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "salt",
+                "query": "code",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,7 +78,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -98,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Template containment.md",
+                "file": "COMPSCI235 - Software Development Methodologies/code quality.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Template containment.md",
+                "file": "COMPSCI235 - Software Development Methodologies/code quality.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Template containment.md"
+                "file": "COMPSCI235 - Software Development Methodologies/code quality.md"
               }
             }
           },
@@ -166,7 +167,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Template containment.md"
+                "file": "COMPSCI235 - Software Development Methodologies/code quality.md"
               }
             }
           }
@@ -191,8 +192,13 @@
   },
   "active": "95c985d8e33e2311",
   "lastOpenFiles": [
-    "COMPSCI235 - Software Development Methodologies/Template inheritance & containment.md",
+    "COMPSCI235 - Software Development Methodologies/Refactoring.md",
+    "COMPSCI235 - Software Development Methodologies/code quality.md",
+    "COMPSCI235 - Software Development Methodologies/Qualitative metrics.md",
+    "COMPSCI235 - Software Development Methodologies/Quantitative metrics.md",
+    "COMPSCI235 - Software Development Methodologies/code review.md",
     "COMPSCI235 - Software Development Methodologies/Template containment.md",
+    "COMPSCI235 - Software Development Methodologies/Template inheritance & containment.md",
     "COMPSCI235 - Software Development Methodologies/Template inheritance.md",
     "COMPSCI235 - Software Development Methodologies/Continuous Deployment.md",
     "COMPSCI235 - Software Development Methodologies/Continuous Integration (CI).md",
@@ -212,11 +218,6 @@
     "COMPSCI235 - Software Development Methodologies/Dependency.md",
     "COMPSCI235 - Software Development Methodologies/user stories.md",
     "COMPSCI235 - Software Development Methodologies/acceptance criteria.md",
-    "COMPSCI235 - Software Development Methodologies/Hypertext Markup Language (HTML).md",
-    "COMPSCI235 - Software Development Methodologies/selector.md",
-    "COMPSCI235 - Software Development Methodologies/Class selectors.md",
-    "COMPSCI235 - Software Development Methodologies/Element selectors.md",
-    "COMPSCI235 - Software Development Methodologies/Cascading Style Sheets (CSS).md",
     "@images/1 TYRSuON0vVxy8olllrBVEw.png",
     "@images/Pasted image 20231104020521.png",
     "@images/Pasted image 20231104015543.png",
