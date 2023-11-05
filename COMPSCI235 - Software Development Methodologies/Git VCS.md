@@ -1,4 +1,4 @@
-- Git is a free & open source distributed version control system
+- Git is a free & open source [[Distributed VCS]]
 - Primarily used for source code management
 - It was created by Linus Trovalds in 2005 for development of the Linux kernel
 - It is freely distributed under the terms of the GNU General Public License version 2

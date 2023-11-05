@@ -4,7 +4,7 @@ is a web-based [[Git VCS]] control repository-hosting service
 - Interface (graphical) for exploring git repositories
 - Handles server aspects of git
 - Provides:
-	- issue/bug tracking
+	- [[Issue Tracking]]/[[Bug Tracking]]
 	- project analytics
 	- user access control,...
 - Boost team collaboration
