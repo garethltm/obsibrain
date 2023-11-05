@@ -1,7 +1,6 @@
 {
 	"nodes":[
 		{"id":"1484a25fb5371506","type":"file","file":"COMPSCI235 - Software Development Methodologies/Scrum Master.md","x":-5562,"y":4202,"width":400,"height":400},
-		{"id":"21ad1b40a6043003","type":"file","file":"COMPSCI235 - Software Development Methodologies/INVEST.md","x":-814,"y":1604,"width":400,"height":400},
 		{"id":"3d325416bf1610cd","type":"file","file":"COMPSCI235 - Software Development Methodologies/Dependency Inversion Principle (DIP).md","x":-2509,"y":1639,"width":400,"height":400},
 		{"id":"ee7dbb282c941b90","type":"file","file":"COMPSCI235 - Software Development Methodologies/Aggregation.md","x":540,"y":-360,"width":400,"height":400},
 		{"id":"a9d67f096a4887a5","type":"file","file":"COMPSCI235 - Software Development Methodologies/Application Architecture.md","x":-360,"y":220,"width":494,"height":400},
@@ -60,10 +59,13 @@
 		{"id":"1af78e8d0317d2a1","type":"file","file":"COMPSCI235 - Software Development Methodologies/Object Oriented Databases (OOD).md","x":-7965,"y":2672,"width":400,"height":463},
 		{"id":"38cc1c31b01fc116","type":"file","file":"COMPSCI235 - Software Development Methodologies/Scrum.md","x":-3930,"y":2904,"width":845,"height":3117},
 		{"id":"73d240d299679e76","type":"file","file":"COMPSCI235 - Software Development Methodologies/Kanban.md","x":-3005,"y":2904,"width":1060,"height":3557},
-		{"id":"46d04d896c883479","type":"file","file":"COMPSCI235 - Software Development Methodologies/code review.md","x":-1320,"y":1439,"width":400,"height":400}
+		{"id":"46d04d896c883479","type":"file","file":"COMPSCI235 - Software Development Methodologies/code review.md","x":-1320,"y":1439,"width":400,"height":400},
+		{"id":"581793d62d5bce29","x":-4480,"y":7256,"width":935,"height":3884,"type":"file","file":"COMPSCI235 - Software Development Methodologies/user stories.md"},
+		{"id":"21ad1b40a6043003","type":"file","file":"COMPSCI235 - Software Development Methodologies/INVEST.md","x":-2920,"y":8449,"width":814,"height":1499}
 	],
 	"edges":[
 		{"id":"e2651a3e146f3635","fromNode":"5f370702693bc675","fromSide":"bottom","toNode":"7bc50db6e8bf54a4","toSide":"top"},
-		{"id":"2d7eb5856e5d1364","fromNode":"e68e3e8b4ad09c22","fromSide":"bottom","toNode":"7bc50db6e8bf54a4","toSide":"top"}
+		{"id":"2d7eb5856e5d1364","fromNode":"e68e3e8b4ad09c22","fromSide":"bottom","toNode":"7bc50db6e8bf54a4","toSide":"top"},
+		{"id":"ee8fd4a723103941","fromNode":"581793d62d5bce29","fromSide":"right","toNode":"21ad1b40a6043003","toSide":"left"}
 	]
 }
