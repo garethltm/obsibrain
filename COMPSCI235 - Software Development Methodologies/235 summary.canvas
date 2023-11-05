@@ -46,14 +46,14 @@
 		{"id":"a9d67f096a4887a5","type":"file","file":"COMPSCI235 - Software Development Methodologies/Application Architecture.md","x":-9370,"y":-3956,"width":1205,"height":2120},
 		{"id":"e8206692a4526a39","type":"file","file":"COMPSCI235 - Software Development Methodologies/Jinja.md","x":-11800,"y":-4443,"width":1665,"height":2220},
 		{"id":"db383e99511e9c8d","type":"file","file":"COMPSCI235 - Software Development Methodologies/Single Responsibility Principle (SRP).md","x":-8904,"y":-4443,"width":577,"height":348},
-		{"id":"a0790e8e723cdf61","type":"file","file":"COMPSCI235 - Software Development Methodologies/ACID.md","x":-6642,"y":5946,"width":400,"height":500},
-		{"id":"8c24641f4572de8c","type":"file","file":"COMPSCI235 - Software Development Methodologies/Persistence.md","x":-7582,"y":5520,"width":820,"height":1118},
-		{"id":"ab9f7d4d89635b5e","type":"file","file":"COMPSCI235 - Software Development Methodologies/Signed cookies.md","x":-8280,"y":5600,"width":400,"height":400},
-		{"id":"7753f2cc1371d7e4","type":"file","file":"COMPSCI235 - Software Development Methodologies/Session cookie.md","x":-6442,"y":4680,"width":798,"height":920},
 		{"id":"74dd66f0e37ff070","x":-7520,"y":4289,"width":720,"height":720,"type":"file","file":"COMPSCI235 - Software Development Methodologies/Persistent.md"},
-		{"id":"5d211a13e7cfeee7","x":-8880,"y":4289,"width":400,"height":223,"type":"file","file":"COMPSCI235 - Software Development Methodologies/session.md"},
 		{"id":"121f1287823ebeee","x":-8040,"y":4360,"width":400,"height":400,"type":"file","file":"COMPSCI235 - Software Development Methodologies/transaction(s).md"},
-		{"id":"667d8204c6dc2ffe","x":-8080,"y":4840,"width":400,"height":400,"type":"file","file":"COMPSCI235 - Software Development Methodologies/SQLAlchemy Session.md"}
+		{"id":"667d8204c6dc2ffe","x":-8080,"y":4840,"width":400,"height":1900,"type":"file","file":"COMPSCI235 - Software Development Methodologies/SQLAlchemy Session.md"},
+		{"id":"ab9f7d4d89635b5e","type":"file","file":"COMPSCI235 - Software Development Methodologies/Signed cookies.md","x":-6242,"y":3617,"width":400,"height":400},
+		{"id":"7753f2cc1371d7e4","type":"file","file":"COMPSCI235 - Software Development Methodologies/Session cookie.md","x":-5926,"y":4189,"width":798,"height":920},
+		{"id":"5d211a13e7cfeee7","x":-6560,"y":4426,"width":400,"height":223,"type":"file","file":"COMPSCI235 - Software Development Methodologies/session.md"},
+		{"id":"a0790e8e723cdf61","type":"file","file":"COMPSCI235 - Software Development Methodologies/ACID.md","x":-9603,"y":4317,"width":400,"height":500},
+		{"id":"8c24641f4572de8c","type":"file","file":"COMPSCI235 - Software Development Methodologies/Persistence.md","x":-10543,"y":3891,"width":820,"height":1118}
 	],
 	"edges":[
 		{"id":"e2651a3e146f3635","fromNode":"5f370702693bc675","fromSide":"bottom","toNode":"7bc50db6e8bf54a4","toSide":"top"},
