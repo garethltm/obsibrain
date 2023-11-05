@@ -1,4 +1,4 @@
-
+used to store data in a 
 ### Types
 - ### Relational (Structured) - data is structured as tables; rows & columns
 	- SQLite
