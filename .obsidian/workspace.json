@@ -18,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "95c985d8e33e2311",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/technical debt.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/technical debt.md",
+                "file": "COMPSCI235 - Software Development Methodologies/Evolutionary (Iterative) Approach.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/technical debt.md",
+                "file": "COMPSCI235 - Software Development Methodologies/Evolutionary (Iterative) Approach.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/technical debt.md"
+                "file": "COMPSCI235 - Software Development Methodologies/Evolutionary (Iterative) Approach.md"
               }
             }
           },
@@ -166,7 +153,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/technical debt.md"
+                "file": "COMPSCI235 - Software Development Methodologies/Evolutionary (Iterative) Approach.md"
               }
             }
           }
@@ -189,8 +176,9 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "95c985d8e33e2311",
+  "active": "33a55b9766be070c",
   "lastOpenFiles": [
+    "COMPSCI235 - Software Development Methodologies/technical debt.md",
     "COMPSCI235 - Software Development Methodologies/235 summary.canvas",
     "COMPSCI235 - Software Development Methodologies/Security concerns.md",
     "COMPSCI235 - Software Development Methodologies/analysis.md",
@@ -208,7 +196,6 @@
     "COMPSCI235 - Software Development Methodologies/AGILE.md",
     "COMPSCI235 - Software Development Methodologies/Transparency.md",
     "COMPSCI235 - Software Development Methodologies/Product Owner.md",
-    "COMPSCI235 - Software Development Methodologies/technical debt.md",
     "COMPSCI235 - Software Development Methodologies/stub.md",
     "COMPSCI367 - Artificial Intelligence/week06/Structured Representation.md",
     "COMPSCI235 - Software Development Methodologies/Software Build.md",
