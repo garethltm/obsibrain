@@ -1,12 +1,7 @@
 {
 	"nodes":[
+		{"id":"a597f2b705424be2","x":-8780,"y":-3548,"width":400,"height":400,"type":"file","file":"COMPSCI235 - Software Development Methodologies/Application layer protocols.md"},
 		{"id":"3d325416bf1610cd","type":"file","file":"COMPSCI235 - Software Development Methodologies/Dependency Inversion Principle (DIP).md","x":-2509,"y":1639,"width":400,"height":400},
-		{"id":"ee7dbb282c941b90","type":"file","file":"COMPSCI235 - Software Development Methodologies/Aggregation.md","x":540,"y":-360,"width":400,"height":400},
-		{"id":"895f090e1f23f68c","type":"file","file":"COMPSCI235 - Software Development Methodologies/Association.md","x":540,"y":-840,"width":400,"height":400},
-		{"id":"d51024225fdca15f","type":"file","file":"COMPSCI235 - Software Development Methodologies/Behavioral Diagrams.md","x":-1320,"y":220,"width":400,"height":500},
-		{"id":"717762b89f722f79","type":"file","file":"COMPSCI235 - Software Development Methodologies/Bug Processing.md","x":-1840,"y":720,"width":400,"height":400},
-		{"id":"c0f152cffcfc82e2","type":"file","file":"COMPSCI235 - Software Development Methodologies/Class Diagram.md","x":-1840,"y":220,"width":400,"height":620},
-		{"id":"582370e009734836","type":"file","file":"COMPSCI235 - Software Development Methodologies/code quality.md","x":-1360,"y":993,"width":400,"height":400},
 		{"id":"68668411d6812aa5","type":"file","file":"COMPSCI235 - Software Development Methodologies/Relational database.md","x":-5720,"y":2786,"width":400,"height":400},
 		{"id":"5165902baa3f4011","type":"file","file":"COMPSCI235 - Software Development Methodologies/Relational DBMS (RDBMS).md","x":-5120,"y":2786,"width":400,"height":400},
 		{"id":"7753f2cc1371d7e4","type":"file","file":"COMPSCI235 - Software Development Methodologies/Session cookie.md","x":-6218,"y":3160,"width":400,"height":400},
@@ -18,7 +13,6 @@
 		{"id":"7bc50db6e8bf54a4","type":"file","file":"COMPSCI235 - Software Development Methodologies/AGILE.md","x":-3085,"y":-934,"width":1211,"height":3600},
 		{"id":"38cc1c31b01fc116","type":"file","file":"COMPSCI235 - Software Development Methodologies/Scrum.md","x":-3930,"y":2904,"width":845,"height":3117},
 		{"id":"73d240d299679e76","type":"file","file":"COMPSCI235 - Software Development Methodologies/Kanban.md","x":-3005,"y":2904,"width":1060,"height":3557},
-		{"id":"46d04d896c883479","type":"file","file":"COMPSCI235 - Software Development Methodologies/code review.md","x":-1320,"y":1439,"width":400,"height":400},
 		{"id":"1484a25fb5371506","type":"file","file":"COMPSCI235 - Software Development Methodologies/Scrum Master.md","x":-4560,"y":5440,"width":400,"height":261},
 		{"id":"9b258f49a9b2805e","type":"file","file":"COMPSCI235 - Software Development Methodologies/Impedence.md","x":-5730,"y":2239,"width":400,"height":400},
 		{"id":"e22e459b9a174938","type":"file","file":"COMPSCI235 - Software Development Methodologies/Product Owner.md","x":-5128,"y":5440,"width":400,"height":400},
@@ -36,9 +30,7 @@
 		{"id":"eb586b34de96f082","type":"file","file":"COMPSCI235 - Software Development Methodologies/Continuous Deployment.md","x":-5720,"y":-1304,"width":400,"height":400},
 		{"id":"83bbe932d4641fd1","type":"file","file":"COMPSCI235 - Software Development Methodologies/Cross-site Request Forgery (CSRF).md","x":-6640,"y":420,"width":400,"height":400},
 		{"id":"af7c6fe1f78d713c","type":"file","file":"COMPSCI235 - Software Development Methodologies/Networked.md","x":-6040,"y":20,"width":400,"height":400},
-		{"id":"a9d67f096a4887a5","type":"file","file":"COMPSCI235 - Software Development Methodologies/Application Architecture.md","x":-5160,"y":363,"width":494,"height":1460},
 		{"id":"93be25677b443309","type":"file","file":"COMPSCI235 - Software Development Methodologies/Software Process Models.md","x":-3327,"y":-3040,"width":1095,"height":760},
-		{"id":"f0b744e84fcaad88","type":"file","file":"COMPSCI235 - Software Development Methodologies/Automated Build.md","x":-313,"y":-180,"width":400,"height":400},
 		{"id":"91c026accfe8ace8","type":"file","file":"COMPSCI235 - Software Development Methodologies/Application layer protocols.md","x":-5160,"y":1940,"width":400,"height":223},
 		{"id":"b035213fd6bdaf96","type":"file","file":"COMPSCI235 - Software Development Methodologies/Pending.md","x":-7160,"y":5501,"width":400,"height":400},
 		{"id":"73cbdf51402df4f1","type":"file","file":"COMPSCI235 - Software Development Methodologies/Persistent.md","x":-7765,"y":5516,"width":400,"height":771},
@@ -54,17 +46,18 @@
 		{"id":"76ddb14df3f5e966","type":"file","file":"COMPSCI235 - Software Development Methodologies/Object-Relational Database Management System (ORDBMS).md","x":-8600,"y":2753,"width":960,"height":765},
 		{"id":"ecdadfb7f7df1134","type":"file","file":"COMPSCI235 - Software Development Methodologies/Object Relation Mapping (ORM).md","x":-7560,"y":2753,"width":800,"height":1375},
 		{"id":"1af78e8d0317d2a1","type":"file","file":"COMPSCI235 - Software Development Methodologies/Object Oriented Databases (OOD).md","x":-8370,"y":2160,"width":607,"height":380},
-		{"id":"11d29931a65e1588","type":"file","file":"COMPSCI235 - Software Development Methodologies/Hypertext Transfer Protocol (HTTP).md","x":-9200,"y":-1620,"width":1235,"height":2740},
 		{"id":"fca5d5a890343e37","type":"file","file":"COMPSCI235 - Software Development Methodologies/Integration Testing.md","x":-1474,"y":8220,"width":760,"height":1046},
 		{"id":"27a1f17bc5d7d439","type":"file","file":"COMPSCI235 - Software Development Methodologies/How to deal with dependencies in testing.md","x":-960,"y":9400,"width":400,"height":400},
 		{"id":"eb02b4d8cbed3eb7","type":"file","file":"COMPSCI235 - Software Development Methodologies/Burn-up charts.md","x":-10560,"y":3318,"width":400,"height":400},
 		{"id":"d2ec5f1d975043dd","type":"file","file":"COMPSCI235 - Software Development Methodologies/Burn-down charts.md","x":-10560,"y":3764,"width":400,"height":400},
 		{"id":"e8206692a4526a39","type":"file","file":"COMPSCI235 - Software Development Methodologies/Jinja.md","x":-13920,"y":321,"width":905,"height":2220},
 		{"id":"cba89f17fc79ea3a","type":"file","file":"COMPSCI235 - Software Development Methodologies/Hypertext Markup Language (HTML).md","x":-13667,"y":-300,"width":400,"height":400},
-		{"id":"c6eeb4eecbd6fda4","type":"file","file":"COMPSCI235 - Software Development Methodologies/Middleware.md","x":-8982,"y":1292,"width":800,"height":760},
-		{"id":"ca346252f8709114","type":"file","file":"COMPSCI235 - Software Development Methodologies/Flask.md","x":-7965,"y":1540,"width":400,"height":400},
 		{"id":"db383e99511e9c8d","type":"file","file":"COMPSCI235 - Software Development Methodologies/Single Responsibility Principle (SRP).md","x":-6840,"y":-450,"width":400,"height":400},
-		{"id":"c45f9379f7fec3dc","type":"file","file":"COMPSCI235 - Software Development Methodologies/cookie.md","x":-7760,"y":-560,"width":600,"height":700}
+		{"id":"c6eeb4eecbd6fda4","type":"file","file":"COMPSCI235 - Software Development Methodologies/Middleware.md","x":-6400,"y":-2660,"width":800,"height":760},
+		{"id":"ca346252f8709114","type":"file","file":"COMPSCI235 - Software Development Methodologies/Flask.md","x":-5383,"y":-2412,"width":400,"height":400},
+		{"id":"c45f9379f7fec3dc","type":"file","file":"COMPSCI235 - Software Development Methodologies/cookie.md","x":-5178,"y":-4512,"width":600,"height":700},
+		{"id":"11d29931a65e1588","type":"file","file":"COMPSCI235 - Software Development Methodologies/Hypertext Transfer Protocol (HTTP).md","x":-6618,"y":-5572,"width":1235,"height":2740},
+		{"id":"a9d67f096a4887a5","type":"file","file":"COMPSCI235 - Software Development Methodologies/Application Architecture.md","x":-8240,"y":-5160,"width":1205,"height":2120}
 	],
 	"edges":[
 		{"id":"e2651a3e146f3635","fromNode":"5f370702693bc675","fromSide":"bottom","toNode":"7bc50db6e8bf54a4","toSide":"top"},
@@ -95,6 +88,7 @@
 		{"id":"3e898dba50f9cc5b","fromNode":"cba89f17fc79ea3a","fromSide":"bottom","toNode":"e8206692a4526a39","toSide":"top"},
 		{"id":"3eba16299e4a90bd","fromNode":"c6eeb4eecbd6fda4","fromSide":"right","toNode":"ca346252f8709114","toSide":"left"},
 		{"id":"de1e57c6b35f5997","fromNode":"11d29931a65e1588","fromSide":"bottom","toNode":"c6eeb4eecbd6fda4","toSide":"top"},
-		{"id":"f4080bdfdd0d0740","fromNode":"11d29931a65e1588","fromSide":"right","toNode":"c45f9379f7fec3dc","toSide":"left"}
+		{"id":"f4080bdfdd0d0740","fromNode":"11d29931a65e1588","fromSide":"right","toNode":"c45f9379f7fec3dc","toSide":"left"},
+		{"id":"7497da8c08623cd1","fromNode":"a9d67f096a4887a5","fromSide":"right","toNode":"11d29931a65e1588","toSide":"left"}
 	]
 }
