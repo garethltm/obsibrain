@@ -6,63 +6,14 @@
       {
         "id": "c1851618869d71b1",
         "type": "tabs",
-        "dimension": 70.68527918781726,
         "children": [
           {
             "id": "aadfb509c77e20f4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Software Architecture.md",
-                "mode": "source",
-                "source": false
-              }
-            },
-            "group": "689ee5561dcab658"
-          }
-        ]
-      },
-      {
-        "id": "6783a5eb50a2cbbb",
-        "type": "tabs",
-        "dimension": 29.314720812182742,
-        "children": [
-          {
-            "id": "bdedc8c0edeb896a",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Software Architecture.md",
-                "options": {
-                  "collapse-filter": true,
-                  "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": true,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 1,
-                  "close": false
-                }
-              }
-            },
-            "group": "689ee5561dcab658"
+              "type": "graph",
+              "state": {}
+            }
           }
         ]
       }
@@ -110,12 +61,12 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "29204b37fc003a9a",
@@ -131,7 +82,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Software Architecture.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +98,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Software Architecture.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,9 +119,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Software Architecture.md"
-              }
+              "state": {}
             }
           },
           {
@@ -198,9 +145,7 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Software Architecture.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -222,10 +167,10 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "a6e0090ac9cbd1f3",
+  "active": "aadfb509c77e20f4",
   "lastOpenFiles": [
-    "COMPSCI235 - Software Development Methodologies/Architectural Pattern.md",
     "COMPSCI235 - Software Development Methodologies/Software Architecture.md",
+    "COMPSCI235 - Software Development Methodologies/Architectural Pattern.md",
     "COMPSCI235 - Software Development Methodologies/System Integration.md",
     "COMPSCI235 - Software Development Methodologies/Software Build.md",
     "COMPSCI235 - Software Development Methodologies/software development.md",
