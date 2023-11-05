@@ -6,21 +6,63 @@
       {
         "id": "c1851618869d71b1",
         "type": "tabs",
+        "dimension": 70.68527918781726,
         "children": [
           {
             "id": "aadfb509c77e20f4",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/235 summary.canvas",
-                "viewState": {
-                  "x": 4145.350170694957,
-                  "y": 131.48298832909302,
-                  "zoom": -2.9999999999999996
+                "file": "COMPSCI235 - Software Development Methodologies/Support separate team development.md",
+                "mode": "source",
+                "source": false
+              }
+            },
+            "group": "689ee5561dcab658"
+          }
+        ]
+      },
+      {
+        "id": "6783a5eb50a2cbbb",
+        "type": "tabs",
+        "dimension": 29.314720812182742,
+        "children": [
+          {
+            "id": "bdedc8c0edeb896a",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "COMPSCI235 - Software Development Methodologies/Support separate team development.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1,
+                  "close": false
                 }
               }
-            }
+            },
+            "group": "689ee5561dcab658"
           }
         ]
       }
@@ -88,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/technical debt.md",
+                "file": "COMPSCI235 - Software Development Methodologies/Support separate team development.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/technical debt.md",
+                "file": "COMPSCI235 - Software Development Methodologies/Support separate team development.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/technical debt.md"
+                "file": "COMPSCI235 - Software Development Methodologies/Support separate team development.md"
               }
             }
           },
@@ -156,7 +198,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/technical debt.md"
+                "file": "COMPSCI235 - Software Development Methodologies/Support separate team development.md"
               }
             }
           }
@@ -181,15 +223,20 @@
   },
   "active": "aadfb509c77e20f4",
   "lastOpenFiles": [
+    "COMPSCI235 - Software Development Methodologies/Support for scaling & development.md",
+    "COMPSCI235 - Software Development Methodologies/Support separate team development.md",
+    "COMPSCI235 - Software Development Methodologies/System Integration.md",
+    "COMPSCI235 - Software Development Methodologies/System testing.md",
+    "COMPSCI235 - Software Development Methodologies/Systematic Development Process.md",
+    "COMPSCI235 - Software Development Methodologies/Table Relationships.md",
+    "COMPSCI235 - Software Development Methodologies/235 summary.canvas",
     "COMPSCI235 - Software Development Methodologies/cyclomatic complexity.md",
     "COMPSCI235 - Software Development Methodologies/Quantitative metrics.md",
     "COMPSCI235 - Software Development Methodologies/Qualitative metrics.md",
     "COMPSCI235 - Software Development Methodologies/thread pools.md",
     "COMPSCI235 - Software Development Methodologies/Throughput.md",
     "COMPSCI235 - Software Development Methodologies/database.md",
-    "COMPSCI235 - Software Development Methodologies/System Integration.md",
     "COMPSCI235 - Software Development Methodologies/Construction (Code, Test).md",
-    "COMPSCI235 - Software Development Methodologies/235 summary.canvas",
     "COMPSCI235 - Software Development Methodologies/SQLAlchemy.md",
     "COMPSCI235 - Software Development Methodologies/Object Oriented Databases (OOD).md",
     "COMPSCI235 - Software Development Methodologies/Relational DBMS (RDBMS).md",
@@ -203,11 +250,6 @@
     "COMPSCI235 - Software Development Methodologies/Modern software systems.md",
     "COMPSCI235 - Software Development Methodologies/Networked.md",
     "COMPSCI235 - Software Development Methodologies/External Dependency.md",
-    "COMPSCI235 - Software Development Methodologies/How to deal with dependencies in testing.md",
-    "COMPSCI235 - Software Development Methodologies/Evolutionary (Iterative) Approach.md",
-    "COMPSCI235 - Software Development Methodologies/technical debt.md",
-    "COMPSCI235 - Software Development Methodologies/Security concerns.md",
-    "COMPSCI235 - Software Development Methodologies/analysis.md",
     "@images/1 TYRSuON0vVxy8olllrBVEw.png",
     "@images/Pasted image 20231104020521.png",
     "@images/Pasted image 20231104015543.png",
