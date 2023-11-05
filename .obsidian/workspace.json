@@ -15,9 +15,9 @@
               "state": {
                 "file": "COMPSCI235 - Software Development Methodologies/235 summary.canvas",
                 "viewState": {
-                  "x": -6787.98261269109,
-                  "y": 1245.4499705015887,
-                  "zoom": -1.9999999999999993
+                  "x": -4888.084815894198,
+                  "y": -5173.0490124689095,
+                  "zoom": -0.9999999999999996
                 }
               }
             }
@@ -88,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Networked.md",
+                "file": "COMPSCI235 - Software Development Methodologies/Hypertext Transfer Protocol (HTTP).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Networked.md",
+                "file": "COMPSCI235 - Software Development Methodologies/Hypertext Transfer Protocol (HTTP).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Networked.md"
+                "file": "COMPSCI235 - Software Development Methodologies/Hypertext Transfer Protocol (HTTP).md"
               }
             }
           },
@@ -156,7 +156,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Networked.md"
+                "file": "COMPSCI235 - Software Development Methodologies/Hypertext Transfer Protocol (HTTP).md"
               }
             }
           }
