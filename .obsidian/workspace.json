@@ -6,7 +6,6 @@
       {
         "id": "2f62bfae1d3370c8",
         "type": "tabs",
-        "dimension": 68.84517766497463,
         "children": [
           {
             "id": "33a55b9766be070c",
@@ -16,9 +15,9 @@
               "state": {
                 "file": "COMPSCI235 - Software Development Methodologies/235 summary.canvas",
                 "viewState": {
-                  "x": -1377.678050109996,
-                  "y": -1236.094190301961,
-                  "zoom": -0.9999999999999996
+                  "x": 886.9392486872404,
+                  "y": 4447.143274340445,
+                  "zoom": -0.6666666666666663
                 }
               }
             }
@@ -33,51 +32,7 @@
                 "mode": "source",
                 "source": false
               }
-            },
-            "group": "b382938195071782"
-          }
-        ]
-      },
-      {
-        "id": "15b65e5b4085fe29",
-        "type": "tabs",
-        "dimension": 31.15482233502538,
-        "children": [
-          {
-            "id": "efdad923c731952b",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/SQLAlchemy.md",
-                "options": {
-                  "collapse-filter": true,
-                  "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": true,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 0.713275462622442,
-                  "close": false
-                }
-              }
-            },
-            "group": "b382938195071782"
+            }
           }
         ]
       }
