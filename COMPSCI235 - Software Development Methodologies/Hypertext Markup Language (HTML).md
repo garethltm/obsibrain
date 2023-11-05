@@ -39,7 +39,7 @@ some tags require additional information
 # Nested Tags
 tags must be correctly nested
 - cannot close an open tag until all the open tags that it affects are also closed
-![[Pasted image 20231101162311.png]]
+	![[Pasted image 20231101162311.png]]
 
 # Essential Tags
 1. `<html lang="en">`
@@ -47,17 +47,17 @@ tags must be correctly nested
 	- specifies that the document uses `html`
 	- `lang` attribute is used to specify the primary language of a webpage
 		- `en` is the code for English
-![[Pasted image 20231101162504.png]]
-2. `<head>`
+	![[Pasted image 20231101162504.png]]
+1. `<head>`
 	- doesn't contain any content to be displayed on the page	
 	- contains information for the browser
 	>	#Example 
 	>	character encoding used
-![[Pasted image 20231101162635.png]]
+	![[Pasted image 20231101162635.png]]
 
 3. `<body>`
 	- contains all the content that will appear on the page
-![[Pasted image 20231101162926.png]]
+	![[Pasted image 20231101162926.png]]
 
 4. `<title>`
 	- part of the `head`
@@ -66,7 +66,7 @@ tags must be correctly nested
 	- used in navigation
 	>	#Example 
 	>	bookmarks, history, etc.
-![[Pasted image 20231101163110.png]]
+	![[Pasted image 20231101163110.png]]
 
 # Block-level tags
 ![[Pasted image 20231101163215.png]]
@@ -74,8 +74,10 @@ define the structure of a "block"
 - #### Paragraphs `<p>`
 	- defines a paragraph of text![[Pasted image 20231101163424.png]]
 
-- #### Headings `<h1>,<h2>,<h3>,<h4>,<h5>,<h6>`![[Pasted image 20231101163552.png]]
-	- 6 levels of headings![[Pasted image 20231101163627.png]]
+- #### Headings `<h1>,<h2>,<h3>,<h4>,<h5>,<h6>`
+	![[Pasted image 20231101163552.png]]
+	- 6 levels of headings
+	![[Pasted image 20231101163627.png]]
 - #### Lists
 	1. Ordered Lists 
 	- automatically numbered
