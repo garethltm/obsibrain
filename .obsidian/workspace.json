@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Construction (Code, Test).md",
+                "file": "COMPSCI235 - Software Development Methodologies/database.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Construction (Code, Test).md",
+                "file": "COMPSCI235 - Software Development Methodologies/database.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Construction (Code, Test).md",
+                "file": "COMPSCI235 - Software Development Methodologies/database.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Construction (Code, Test).md"
+                "file": "COMPSCI235 - Software Development Methodologies/database.md"
               }
             }
           },
@@ -154,7 +154,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Construction (Code, Test).md"
+                "file": "COMPSCI235 - Software Development Methodologies/database.md"
               }
             }
           }
@@ -179,6 +179,8 @@
   },
   "active": "33a55b9766be070c",
   "lastOpenFiles": [
+    "COMPSCI235 - Software Development Methodologies/System Integration.md",
+    "COMPSCI235 - Software Development Methodologies/Construction (Code, Test).md",
     "COMPSCI235 - Software Development Methodologies/235 summary.canvas",
     "COMPSCI235 - Software Development Methodologies/SQLAlchemy.md",
     "COMPSCI235 - Software Development Methodologies/Object Oriented Databases (OOD).md",
@@ -192,7 +194,6 @@
     "COMPSCI235 - Software Development Methodologies/session.md",
     "COMPSCI235 - Software Development Methodologies/Modern software systems.md",
     "COMPSCI235 - Software Development Methodologies/Networked.md",
-    "COMPSCI235 - Software Development Methodologies/System Integration.md",
     "COMPSCI235 - Software Development Methodologies/External Dependency.md",
     "COMPSCI235 - Software Development Methodologies/How to deal with dependencies in testing.md",
     "COMPSCI235 - Software Development Methodologies/Evolutionary (Iterative) Approach.md",
