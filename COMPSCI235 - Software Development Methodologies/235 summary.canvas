@@ -32,7 +32,6 @@
 		{"id":"64d0ba95044a7145","type":"file","file":"COMPSCI235 - Software Development Methodologies/Object-Oriented Database Management System (OODBMS).md","x":4240,"y":-27,"width":560,"height":400},
 		{"id":"12dd385c166111cc","type":"file","file":"COMPSCI235 - Software Development Methodologies/Software Architecture.md","x":4320,"y":-2451,"width":680,"height":321},
 		{"id":"c37563a8ab967bfd","type":"file","file":"COMPSCI235 - Software Development Methodologies/Architectural Pattern.md","x":4520,"y":-1911,"width":400,"height":520},
-		{"id":"e8206692a4526a39","type":"file","file":"COMPSCI235 - Software Development Methodologies/Jinja.md","x":4400,"y":-5994,"width":1385,"height":2220},
 		{"id":"db383e99511e9c8d","type":"file","file":"COMPSCI235 - Software Development Methodologies/Single Responsibility Principle (SRP).md","x":7016,"y":-5994,"width":577,"height":348},
 		{"id":"a9d67f096a4887a5","type":"file","file":"COMPSCI235 - Software Development Methodologies/Application Architecture.md","x":6550,"y":-5507,"width":1205,"height":2120},
 		{"id":"0d6c306d5cb8094b","type":"file","file":"COMPSCI235 - Software Development Methodologies/Hypertext Markup Language (HTML).md","x":5970,"y":-4527,"width":400,"height":400},
@@ -75,11 +74,13 @@
 		{"id":"3a980237e4e09669","type":"file","file":"COMPSCI235 - Software Development Methodologies/product backlog.md","x":-3900,"y":1315,"width":400,"height":400},
 		{"id":"bf1e09c976dc4ee2","type":"file","file":"COMPSCI235 - Software Development Methodologies/product backlog refinement.md","x":-4000,"y":1835,"width":600,"height":480},
 		{"id":"1dd3253e49dec13e","type":"file","file":"COMPSCI235 - Software Development Methodologies/The 4 P's of Software Development.md","x":-2200,"y":-8880,"width":1266,"height":1206},
-		{"id":"2149a1203498a1cf","type":"file","file":"COMPSCI235 - Software Development Methodologies/Template inheritance & containment.md","x":3680,"y":-5120,"width":611,"height":868},
-		{"id":"5db9cd00aa825336","type":"file","file":"COMPSCI235 - Software Development Methodologies/Template containment.md","x":2950,"y":-5189,"width":501,"height":662},
-		{"id":"088eb6a4b1a43428","type":"file","file":"COMPSCI235 - Software Development Methodologies/Template inheritance.md","x":2950,"y":-4400,"width":501,"height":680},
-		{"id":"1eb454875e70b4cf","x":-366,"y":-3720,"width":846,"height":600,"type":"file","file":"COMPSCI235 - Software Development Methodologies/Test-driven development (AGILE practice).md"},
-		{"id":"7301441fc827fe6a","x":5160,"y":-7120,"width":720,"height":920,"type":"file","file":"COMPSCI235 - Software Development Methodologies/Templating.md"}
+		{"id":"1eb454875e70b4cf","type":"file","file":"COMPSCI235 - Software Development Methodologies/Test-driven development (AGILE practice).md","x":-366,"y":-3720,"width":846,"height":600},
+		{"id":"e8206692a4526a39","type":"file","file":"COMPSCI235 - Software Development Methodologies/Jinja.md","x":3535,"y":-5681,"width":1385,"height":2220},
+		{"id":"2149a1203498a1cf","type":"file","file":"COMPSCI235 - Software Development Methodologies/Template inheritance & containment.md","x":2815,"y":-4807,"width":611,"height":868},
+		{"id":"5db9cd00aa825336","type":"file","file":"COMPSCI235 - Software Development Methodologies/Template containment.md","x":2085,"y":-4876,"width":501,"height":662},
+		{"id":"088eb6a4b1a43428","type":"file","file":"COMPSCI235 - Software Development Methodologies/Template inheritance.md","x":2085,"y":-4087,"width":501,"height":680},
+		{"id":"7301441fc827fe6a","type":"file","file":"COMPSCI235 - Software Development Methodologies/Templating.md","x":5080,"y":-4840,"width":720,"height":973},
+		{"id":"d94027485fb4f6b1","x":1006,"y":4849,"width":1314,"height":890,"type":"file","file":"COMPSCI235 - Software Development Methodologies/Version Control Systems (VCS).md"}
 	],
 	"edges":[
 		{"id":"e2651a3e146f3635","fromNode":"5f370702693bc675","fromSide":"bottom","toNode":"7bc50db6e8bf54a4","toSide":"top"},
@@ -118,7 +119,6 @@
 		{"id":"5dca2aaf3b9d6b2e","fromNode":"af7c6fe1f78d713c","fromSide":"bottom","toNode":"a597f2b705424be2","toSide":"top"},
 		{"id":"973788b5c93e5c99","fromNode":"a9d67f096a4887a5","fromSide":"bottom","toNode":"af7c6fe1f78d713c","toSide":"top"},
 		{"id":"ff63134c7bdf889d","fromNode":"5b4bbb7c204a28ee","fromSide":"right","toNode":"af7c6fe1f78d713c","toSide":"left"},
-		{"id":"ac84f2f58930d347","fromNode":"0d6c306d5cb8094b","fromSide":"left","toNode":"e8206692a4526a39","toSide":"right"},
 		{"id":"7cf878246da23ea1","fromNode":"7bc50db6e8bf54a4","fromSide":"bottom","toNode":"38cc1c31b01fc116","toSide":"top"},
 		{"id":"da868cb4903060cd","fromNode":"7bc50db6e8bf54a4","fromSide":"bottom","toNode":"73d240d299679e76","toSide":"top"},
 		{"id":"4daca7eaf2dbe9b2","fromNode":"7bc50db6e8bf54a4","fromSide":"bottom","toNode":"2f19d3ea0e21eb2c","toSide":"top"},
@@ -164,6 +164,7 @@
 		{"id":"e3dea6a9e1c0d39c","fromNode":"2149a1203498a1cf","fromSide":"left","toNode":"5db9cd00aa825336","toSide":"right"},
 		{"id":"5927c68064b6974e","fromNode":"2149a1203498a1cf","fromSide":"left","toNode":"088eb6a4b1a43428","toSide":"right"},
 		{"id":"05c7ce020af9b6ce","fromNode":"1eb454875e70b4cf","fromSide":"left","toNode":"7bc50db6e8bf54a4","toSide":"right"},
-		{"id":"6272decb2cbbefe3","fromNode":"e8206692a4526a39","fromSide":"top","toNode":"7301441fc827fe6a","toSide":"bottom"}
+		{"id":"a129dcfec7c0e040","fromNode":"7301441fc827fe6a","fromSide":"right","toNode":"0d6c306d5cb8094b","toSide":"left"},
+		{"id":"79f0231a02f87fba","fromNode":"e8206692a4526a39","fromSide":"right","toNode":"7301441fc827fe6a","toSide":"left"}
 	]
 }
