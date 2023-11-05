@@ -61,8 +61,8 @@
 		{"id":"a0790e8e723cdf61","type":"file","file":"COMPSCI235 - Software Development Methodologies/ACID.md","x":-5360,"y":3414,"width":400,"height":400},
 		{"id":"f0b744e84fcaad88","type":"file","file":"COMPSCI235 - Software Development Methodologies/Automated Build.md","x":-313,"y":-180,"width":400,"height":400},
 		{"id":"91c026accfe8ace8","type":"file","file":"COMPSCI235 - Software Development Methodologies/Application layer protocols.md","x":-5160,"y":1940,"width":400,"height":223},
-		{"id":"b035213fd6bdaf96","type":"file","file":"COMPSCI235 - Software Development Methodologies/Pending.md","x":-6618,"y":4483,"width":400,"height":400},
-		{"id":"73cbdf51402df4f1","type":"file","file":"COMPSCI235 - Software Development Methodologies/Persistent.md","x":-5120,"y":4200,"width":400,"height":771}
+		{"id":"b035213fd6bdaf96","type":"file","file":"COMPSCI235 - Software Development Methodologies/Pending.md","x":-7160,"y":5501,"width":400,"height":400},
+		{"id":"73cbdf51402df4f1","type":"file","file":"COMPSCI235 - Software Development Methodologies/Persistent.md","x":-7765,"y":5516,"width":400,"height":771}
 	],
 	"edges":[
 		{"id":"e2651a3e146f3635","fromNode":"5f370702693bc675","fromSide":"bottom","toNode":"7bc50db6e8bf54a4","toSide":"top"},
