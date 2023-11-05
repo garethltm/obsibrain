@@ -1,4 +1,3 @@
-
 - **A**tomic - "all or nothing"
 	- all actions in the [[transaction(s)]] happen or none happen
 - **C**onsistent - "looks correct" - no in valid data

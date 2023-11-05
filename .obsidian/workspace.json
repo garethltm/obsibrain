@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Acceptance Testing.md",
+                "file": "COMPSCI235 - Software Development Methodologies/AGILE.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Acceptance Testing.md",
+                "file": "COMPSCI235 - Software Development Methodologies/AGILE.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Acceptance Testing.md",
+                "file": "COMPSCI235 - Software Development Methodologies/AGILE.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Acceptance Testing.md"
+                "file": "COMPSCI235 - Software Development Methodologies/AGILE.md"
               }
             }
           },
@@ -153,7 +153,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Acceptance Testing.md"
+                "file": "COMPSCI235 - Software Development Methodologies/AGILE.md"
               }
             }
           }
@@ -178,11 +178,17 @@
   },
   "active": "aadfb509c77e20f4",
   "lastOpenFiles": [
+    "COMPSCI235 - Software Development Methodologies/Aggregation.md",
+    "COMPSCI235 - Software Development Methodologies/Adaptation.md",
+    "COMPSCI235 - Software Development Methodologies/ACID.md",
+    "COMPSCI235 - Software Development Methodologies/Accessibility.md",
+    "COMPSCI235 - Software Development Methodologies/Access Modifiers.md",
+    "COMPSCI235 - Software Development Methodologies/Access control.md",
+    "COMPSCI235 - Software Development Methodologies/Acceptance Testing.md",
     "COMPSCI235 - Software Development Methodologies/acceptance criteria.md",
     "COMPSCI235 - Software Development Methodologies/235 summary.canvas",
     "COMPSCI235 - Software Development Methodologies/Structural elements.md",
     "COMPSCI235 - Software Development Methodologies/Version Control Systems (VCS).md",
-    "COMPSCI235 - Software Development Methodologies/ACID.md",
     "COMPSCI235 - Software Development Methodologies/Software Architecture.md",
     "COMPSCI235 - Software Development Methodologies/Architectural Pattern.md",
     "COMPSCI235 - Software Development Methodologies/System Integration.md",
@@ -199,12 +205,6 @@
     "COMPSCI235 - Software Development Methodologies/stakeholders.md",
     "COMPSCI235 - Software Development Methodologies/standard protocol.md",
     "COMPSCI235 - Software Development Methodologies/stateless.md",
-    "COMPSCI235 - Software Development Methodologies/Structural Diagrams.md",
-    "COMPSCI235 - Software Development Methodologies/stub.md",
-    "COMPSCI235 - Software Development Methodologies/Support for change.md",
-    "COMPSCI235 - Software Development Methodologies/Support for reuse.md",
-    "COMPSCI235 - Software Development Methodologies/Support for scaling & development.md",
-    "COMPSCI235 - Software Development Methodologies/Support separate team development.md",
     "@images/1 TYRSuON0vVxy8olllrBVEw.png",
     "@images/Pasted image 20231104020521.png",
     "@images/Pasted image 20231104015543.png",
