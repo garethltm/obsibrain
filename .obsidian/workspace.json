@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/technical debt.md",
+                "file": "COMPSCI235 - Software Development Methodologies/AGILE.md",
                 "mode": "source",
                 "source": false
               }
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/technical debt.md",
+                "file": "COMPSCI235 - Software Development Methodologies/AGILE.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/technical debt.md",
+                "file": "COMPSCI235 - Software Development Methodologies/AGILE.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/technical debt.md"
+                "file": "COMPSCI235 - Software Development Methodologies/AGILE.md"
               }
             }
           },
@@ -167,7 +167,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/technical debt.md"
+                "file": "COMPSCI235 - Software Development Methodologies/AGILE.md"
               }
             }
           }
@@ -192,6 +192,7 @@
   },
   "active": "95c985d8e33e2311",
   "lastOpenFiles": [
+    "COMPSCI235 - Software Development Methodologies/technical debt.md",
     "COMPSCI235 - Software Development Methodologies/stub.md",
     "COMPSCI367 - Artificial Intelligence/week06/Structured Representation.md",
     "COMPSCI235 - Software Development Methodologies/Software Build.md",
@@ -217,7 +218,6 @@
     "COMPSCI235 - Software Development Methodologies/Persistent.md",
     "COMPSCI235 - Software Development Methodologies/Pending.md",
     "COMPSCI235 - Software Development Methodologies/Transient.md",
-    "COMPSCI235 - Software Development Methodologies/ACID.md",
     "@images/1 TYRSuON0vVxy8olllrBVEw.png",
     "@images/Pasted image 20231104020521.png",
     "@images/Pasted image 20231104015543.png",
