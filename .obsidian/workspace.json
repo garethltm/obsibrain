@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Build Environments.md",
+                "file": "COMPSCI235 - Software Development Methodologies/Dependency.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "quality",
+                "query": "dependency",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Build Environments.md",
+                "file": "COMPSCI235 - Software Development Methodologies/Dependency.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Build Environments.md",
+                "file": "COMPSCI235 - Software Development Methodologies/Dependency.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Build Environments.md"
+                "file": "COMPSCI235 - Software Development Methodologies/Dependency.md"
               }
             }
           },
@@ -153,7 +154,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Build Environments.md"
+                "file": "COMPSCI235 - Software Development Methodologies/Dependency.md"
               }
             }
           }
@@ -176,8 +177,11 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "aadfb509c77e20f4",
+  "active": "a6e0090ac9cbd1f3",
   "lastOpenFiles": [
+    "COMPSCI235 - Software Development Methodologies/Build Environments.md",
+    "COMPSCI235 - Software Development Methodologies/External Dependency.md",
+    "COMPSCI235 - Software Development Methodologies/Dependency.md",
     "COMPSCI235 - Software Development Methodologies/Bug Tracking.md",
     "COMPSCI235 - Software Development Methodologies/software development.md",
     "COMPSCI235 - Software Development Methodologies/Bug reports.md",
@@ -201,9 +205,6 @@
     "COMPSCI235 - Software Development Methodologies/ACID.md",
     "COMPSCI235 - Software Development Methodologies/Accessibility.md",
     "COMPSCI235 - Software Development Methodologies/Access Modifiers.md",
-    "COMPSCI235 - Software Development Methodologies/Access control.md",
-    "COMPSCI235 - Software Development Methodologies/Acceptance Testing.md",
-    "COMPSCI235 - Software Development Methodologies/acceptance criteria.md",
     "COMPSCI235 - Software Development Methodologies/235 summary.canvas",
     "@images/1 TYRSuON0vVxy8olllrBVEw.png",
     "@images/Pasted image 20231104020521.png",
