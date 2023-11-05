@@ -5,7 +5,7 @@
 For [[Cross-site Request Forgery (CSRF)]] to occur, 3 conditions must hold:
 1. Relevant action - malicious user needs to have some intention of doing something to you
 	- an often-privileged action the attack has reason to induce
-2. Cookie-based session handling - what we just seen
+2. Cookie-based [[session]] handling - what we just seen
 	- [[Session cookie]] are used to identify the user of a request
 3. No unpredictable request parameters - nothing unpredictable that the server is requiring
 	- there are no parameters that the hacker doesn't know or can't guess
