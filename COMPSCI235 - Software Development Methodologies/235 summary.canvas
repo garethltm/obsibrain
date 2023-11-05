@@ -46,8 +46,6 @@
 		{"id":"74dd66f0e37ff070","x":-7520,"y":4289,"width":720,"height":720,"type":"file","file":"COMPSCI235 - Software Development Methodologies/Persistent.md"},
 		{"id":"667d8204c6dc2ffe","x":-8360,"y":4840,"width":680,"height":1960,"type":"file","file":"COMPSCI235 - Software Development Methodologies/SQLAlchemy Session.md"},
 		{"id":"ab9f7d4d89635b5e","type":"file","file":"COMPSCI235 - Software Development Methodologies/Signed cookies.md","x":-6242,"y":3617,"width":400,"height":400},
-		{"id":"7753f2cc1371d7e4","type":"file","file":"COMPSCI235 - Software Development Methodologies/Session cookie.md","x":-5926,"y":4189,"width":798,"height":920},
-		{"id":"5d211a13e7cfeee7","x":-6560,"y":4426,"width":400,"height":223,"type":"file","file":"COMPSCI235 - Software Development Methodologies/session.md"},
 		{"id":"a0790e8e723cdf61","type":"file","file":"COMPSCI235 - Software Development Methodologies/ACID.md","x":-9603,"y":4317,"width":400,"height":500},
 		{"id":"8c24641f4572de8c","type":"file","file":"COMPSCI235 - Software Development Methodologies/Persistence.md","x":-10543,"y":3891,"width":820,"height":1118},
 		{"id":"121f1287823ebeee","x":-8360,"y":4289,"width":600,"height":431,"type":"file","file":"COMPSCI235 - Software Development Methodologies/transaction(s).md"},
@@ -56,7 +54,9 @@
 		{"id":"598ec4860e233c19","x":-9040,"y":7040,"width":560,"height":640,"type":"file","file":"COMPSCI235 - Software Development Methodologies/Persistent.md"},
 		{"id":"4e857dce59ee5c11","x":-8420,"y":7040,"width":620,"height":680,"type":"file","file":"COMPSCI235 - Software Development Methodologies/Expired.md"},
 		{"id":"0d1603a745b5a234","x":-7720,"y":7040,"width":460,"height":400,"type":"file","file":"COMPSCI235 - Software Development Methodologies/Transient.md"},
-		{"id":"0f00c0da3304b53d","x":-7160,"y":7040,"width":600,"height":480,"type":"file","file":"COMPSCI235 - Software Development Methodologies/Pending.md"}
+		{"id":"0f00c0da3304b53d","x":-7160,"y":7040,"width":600,"height":480,"type":"file","file":"COMPSCI235 - Software Development Methodologies/Pending.md"},
+		{"id":"7753f2cc1371d7e4","type":"file","file":"COMPSCI235 - Software Development Methodologies/Session cookie.md","x":-7440,"y":5360,"width":798,"height":920},
+		{"id":"5d211a13e7cfeee7","x":-6500,"y":5480,"width":400,"height":223,"type":"file","file":"COMPSCI235 - Software Development Methodologies/session.md"}
 	],
 	"edges":[
 		{"id":"e2651a3e146f3635","fromNode":"5f370702693bc675","fromSide":"bottom","toNode":"7bc50db6e8bf54a4","toSide":"top"},
@@ -103,12 +103,13 @@
 		{"id":"4daca7eaf2dbe9b2","fromNode":"7bc50db6e8bf54a4","fromSide":"bottom","toNode":"2f19d3ea0e21eb2c","toSide":"top"},
 		{"id":"de527e0f09cf243f","fromNode":"ecdadfb7f7df1134","fromSide":"bottom","toNode":"74dd66f0e37ff070","toSide":"top"},
 		{"id":"65cc81e573da8695","fromNode":"74dd66f0e37ff070","fromSide":"left","toNode":"121f1287823ebeee","toSide":"right"},
-		{"id":"1550726bfe2698f9","fromNode":"74dd66f0e37ff070","fromSide":"left","toNode":"667d8204c6dc2ffe","toSide":"right"},
+		{"id":"1550726bfe2698f9","fromNode":"7753f2cc1371d7e4","fromSide":"left","toNode":"667d8204c6dc2ffe","toSide":"right"},
 		{"id":"0ba43dd14e0610a0","fromNode":"ecdadfb7f7df1134","fromSide":"right","toNode":"68668411d6812aa5","toSide":"left"},
 		{"id":"70379b044e43e23b","fromNode":"68668411d6812aa5","fromSide":"right","toNode":"9b258f49a9b2805e","toSide":"left"},
 		{"id":"2204d09f9c25e2f2","fromNode":"667d8204c6dc2ffe","fromSide":"bottom","toNode":"598ec4860e233c19","toSide":"top"},
 		{"id":"a511467447452ce5","fromNode":"667d8204c6dc2ffe","fromSide":"bottom","toNode":"4e857dce59ee5c11","toSide":"top"},
 		{"id":"02e522b8622e6d08","fromNode":"667d8204c6dc2ffe","fromSide":"bottom","toNode":"0d1603a745b5a234","toSide":"top"},
-		{"id":"57faf6efeea50d5b","fromNode":"667d8204c6dc2ffe","fromSide":"bottom","toNode":"0f00c0da3304b53d","toSide":"top"}
+		{"id":"57faf6efeea50d5b","fromNode":"667d8204c6dc2ffe","fromSide":"bottom","toNode":"0f00c0da3304b53d","toSide":"top"},
+		{"id":"920873f5ba6fa62f","fromNode":"5d211a13e7cfeee7","fromSide":"left","toNode":"7753f2cc1371d7e4","toSide":"right"}
 	]
 }
