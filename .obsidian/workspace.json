@@ -27,9 +27,9 @@
               "state": {
                 "file": "COMPSCI235 - Software Development Methodologies/235 summary.canvas",
                 "viewState": {
-                  "x": -1442.6405012908353,
-                  "y": 789.3090196490443,
-                  "zoom": -1.6666666666666665
+                  "x": -2536.4826351631887,
+                  "y": 1184.283925298255,
+                  "zoom": -1.3333333333333333
                 }
               }
             }
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Interaction Diagram.md",
+                "file": "COMPSCI235 - Software Development Methodologies/Linear Approach.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Interaction Diagram.md",
+                "file": "COMPSCI235 - Software Development Methodologies/Linear Approach.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Interaction Diagram.md"
+                "file": "COMPSCI235 - Software Development Methodologies/Linear Approach.md"
               }
             }
           },
@@ -169,7 +169,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Interaction Diagram.md"
+                "file": "COMPSCI235 - Software Development Methodologies/Linear Approach.md"
               }
             }
           }
