@@ -10,7 +10,7 @@ A good quality code is one that is:
 [[code quality]] can have a major impact on [[software]] quality, on the productivity of [[software]] teams & their ability to collaborate
 - Better quality $\rightarrow$ Better customer trust
 
-Quality code should always be:
+## Quality code should always be:
 - Easy to understand
 	- readability
 	- formatting
