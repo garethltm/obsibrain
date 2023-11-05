@@ -8,7 +8,6 @@
 		{"id":"b4b2b11b0312dcb0","type":"file","file":"COMPSCI235 - Software Development Methodologies/Linear Approach.md","x":-3840,"y":-1960,"width":680,"height":680},
 		{"id":"e68e3e8b4ad09c22","type":"file","file":"COMPSCI235 - Software Development Methodologies/Evolutionary (Iterative) Approach.md","x":-2400,"y":-1960,"width":600,"height":640},
 		{"id":"5f370702693bc675","type":"file","file":"COMPSCI235 - Software Development Methodologies/Incremental Approach.md","x":-3080,"y":-1960,"width":600,"height":760},
-		{"id":"ceae846c6ad4fbd0","type":"file","file":"COMPSCI235 - Software Development Methodologies/Interaction Diagram.md","x":-7282,"y":-1620,"width":400,"height":440},
 		{"id":"7bc50db6e8bf54a4","type":"file","file":"COMPSCI235 - Software Development Methodologies/AGILE.md","x":-3085,"y":-934,"width":1211,"height":3600},
 		{"id":"38cc1c31b01fc116","type":"file","file":"COMPSCI235 - Software Development Methodologies/Scrum.md","x":-3930,"y":2904,"width":845,"height":3117},
 		{"id":"73d240d299679e76","type":"file","file":"COMPSCI235 - Software Development Methodologies/Kanban.md","x":-3005,"y":2904,"width":1060,"height":3557},
@@ -48,10 +47,12 @@
 		{"id":"a9d67f096a4887a5","type":"file","file":"COMPSCI235 - Software Development Methodologies/Application Architecture.md","x":-8620,"y":-5180,"width":1205,"height":2120},
 		{"id":"0d6c306d5cb8094b","type":"file","file":"COMPSCI235 - Software Development Methodologies/Hypertext Markup Language (HTML).md","x":-9200,"y":-4200,"width":400,"height":400},
 		{"id":"db383e99511e9c8d","type":"file","file":"COMPSCI235 - Software Development Methodologies/Single Responsibility Principle (SRP).md","x":-8400,"y":-5680,"width":577,"height":348},
-		{"id":"af7c6fe1f78d713c","type":"file","file":"COMPSCI235 - Software Development Methodologies/Networked.md","x":-8457,"y":-2910,"width":880,"height":1260},
+		{"id":"af7c6fe1f78d713c","type":"file","file":"COMPSCI235 - Software Development Methodologies/Networked.md","x":-8457,"y":-2910,"width":880,"height":1290},
 		{"id":"eb02b4d8cbed3eb7","type":"file","file":"COMPSCI235 - Software Development Methodologies/Burn-up charts.md","x":-4720,"y":3617,"width":400,"height":400},
 		{"id":"d2ec5f1d975043dd","type":"file","file":"COMPSCI235 - Software Development Methodologies/Burn-down charts.md","x":-4720,"y":4063,"width":400,"height":400},
-		{"id":"91c026accfe8ace8","type":"file","file":"COMPSCI235 - Software Development Methodologies/Application layer protocols.md","x":-8017,"y":-1180,"width":400,"height":223}
+		{"id":"91c026accfe8ace8","type":"file","file":"COMPSCI235 - Software Development Methodologies/Application layer protocols.md","x":-8657,"y":-1337,"width":400,"height":223},
+		{"id":"db84906d0024d60e","x":-8160,"y":-1337,"width":400,"height":157,"type":"file","file":"COMPSCI235 - Software Development Methodologies/Transport protocols.md"},
+		{"id":"ba5e70305e9d9d09","x":-7680,"y":-1323,"width":400,"height":195,"type":"file","file":"COMPSCI235 - Software Development Methodologies/Network layer protocols.md"}
 	],
 	"edges":[
 		{"id":"e2651a3e146f3635","fromNode":"5f370702693bc675","fromSide":"bottom","toNode":"7bc50db6e8bf54a4","toSide":"top"},
@@ -88,6 +89,9 @@
 		{"id":"cafb83b51b34c835","fromNode":"a9d67f096a4887a5","fromSide":"left","toNode":"0d6c306d5cb8094b","toSide":"right"},
 		{"id":"2fe51a186ced6c33","fromNode":"a9d67f096a4887a5","fromSide":"top","toNode":"db383e99511e9c8d","toSide":"bottom"},
 		{"id":"c0c68670bf84a81f","fromNode":"38cc1c31b01fc116","fromSide":"left","toNode":"eb02b4d8cbed3eb7","toSide":"right"},
-		{"id":"ad927bb4d81701e2","fromNode":"38cc1c31b01fc116","fromSide":"left","toNode":"d2ec5f1d975043dd","toSide":"right"}
+		{"id":"ad927bb4d81701e2","fromNode":"38cc1c31b01fc116","fromSide":"left","toNode":"d2ec5f1d975043dd","toSide":"right"},
+		{"id":"3f82c035bbd53726","fromNode":"af7c6fe1f78d713c","fromSide":"bottom","toNode":"91c026accfe8ace8","toSide":"top"},
+		{"id":"86378bc168139b26","fromNode":"af7c6fe1f78d713c","fromSide":"bottom","toNode":"db84906d0024d60e","toSide":"top"},
+		{"id":"7b66c4d7e50c9e2c","fromNode":"af7c6fe1f78d713c","fromSide":"bottom","toNode":"ba5e70305e9d9d09","toSide":"top"}
 	]
 }
