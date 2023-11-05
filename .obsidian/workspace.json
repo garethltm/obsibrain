@@ -4,18 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "2f62bfae1d3370c8",
+        "id": "c1851618869d71b1",
         "type": "tabs",
         "children": [
           {
-            "id": "33a55b9766be070c",
+            "id": "aadfb509c77e20f4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/database.md",
-                "mode": "source",
-                "source": false
+                "file": "COMPSCI235 - Software Development Methodologies/235 summary.canvas",
+                "viewState": {
+                  "x": -6039.791455015442,
+                  "y": 96.79339416321983,
+                  "zoom": -2.9999999999999996
+                }
               }
             }
           }
@@ -65,8 +68,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/database.md",
+                "file": "COMPSCI235 - Software Development Methodologies/235 summary.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/database.md",
+                "file": "COMPSCI235 - Software Development Methodologies/235 summary.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/database.md"
+                "file": "COMPSCI235 - Software Development Methodologies/235 summary.canvas"
               }
             }
           },
@@ -154,7 +156,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/database.md"
+                "file": "COMPSCI235 - Software Development Methodologies/235 summary.canvas"
               }
             }
           }
@@ -177,8 +179,14 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "33a55b9766be070c",
+  "active": "aadfb509c77e20f4",
   "lastOpenFiles": [
+    "COMPSCI235 - Software Development Methodologies/cyclomatic complexity.md",
+    "COMPSCI235 - Software Development Methodologies/Quantitative metrics.md",
+    "COMPSCI235 - Software Development Methodologies/Qualitative metrics.md",
+    "COMPSCI235 - Software Development Methodologies/thread pools.md",
+    "COMPSCI235 - Software Development Methodologies/Throughput.md",
+    "COMPSCI235 - Software Development Methodologies/database.md",
     "COMPSCI235 - Software Development Methodologies/System Integration.md",
     "COMPSCI235 - Software Development Methodologies/Construction (Code, Test).md",
     "COMPSCI235 - Software Development Methodologies/235 summary.canvas",
@@ -200,12 +208,6 @@
     "COMPSCI235 - Software Development Methodologies/technical debt.md",
     "COMPSCI235 - Software Development Methodologies/Security concerns.md",
     "COMPSCI235 - Software Development Methodologies/analysis.md",
-    "COMPSCI235 - Software Development Methodologies/ACID.md",
-    "COMPSCI235 - Software Development Methodologies/Accessibility.md",
-    "COMPSCI235 - Software Development Methodologies/Access Modifiers.md",
-    "COMPSCI235 - Software Development Methodologies/Access control.md",
-    "COMPSCI235 - Software Development Methodologies/Acceptance Testing.md",
-    "COMPSCI235 - Software Development Methodologies/acceptance criteria.md",
     "@images/1 TYRSuON0vVxy8olllrBVEw.png",
     "@images/Pasted image 20231104020521.png",
     "@images/Pasted image 20231104015543.png",
