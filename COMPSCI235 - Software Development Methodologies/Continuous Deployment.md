@@ -1,4 +1,4 @@
-[[Continuous Delivery (CD)]] means every change goes through the pipeline & automatically gets put into production
+[[Continuous Delivery (CD)]] means **every change goes through the pipeline & automatically gets put into production**
 >	#Example 
 >	deployed at a server or even a user, resulting in potentially many production deployments per day
 
