@@ -45,7 +45,6 @@
 		{"id":"db383e99511e9c8d","type":"file","file":"COMPSCI235 - Software Development Methodologies/Single Responsibility Principle (SRP).md","x":-8904,"y":-4443,"width":577,"height":348},
 		{"id":"74dd66f0e37ff070","type":"file","file":"COMPSCI235 - Software Development Methodologies/Persistent.md","x":-7520,"y":4289,"width":720,"height":720},
 		{"id":"667d8204c6dc2ffe","type":"file","file":"COMPSCI235 - Software Development Methodologies/SQLAlchemy Session.md","x":-8360,"y":4840,"width":680,"height":1960},
-		{"id":"ab9f7d4d89635b5e","type":"file","file":"COMPSCI235 - Software Development Methodologies/Signed cookies.md","x":-6242,"y":3617,"width":400,"height":400},
 		{"id":"a0790e8e723cdf61","type":"file","file":"COMPSCI235 - Software Development Methodologies/ACID.md","x":-9603,"y":4317,"width":400,"height":500},
 		{"id":"8c24641f4572de8c","type":"file","file":"COMPSCI235 - Software Development Methodologies/Persistence.md","x":-10543,"y":3891,"width":820,"height":1118},
 		{"id":"121f1287823ebeee","type":"file","file":"COMPSCI235 - Software Development Methodologies/transaction(s).md","x":-8360,"y":4289,"width":600,"height":431},
@@ -58,7 +57,9 @@
 		{"id":"7753f2cc1371d7e4","type":"file","file":"COMPSCI235 - Software Development Methodologies/Session cookie.md","x":-7440,"y":5360,"width":798,"height":920},
 		{"id":"5d211a13e7cfeee7","type":"file","file":"COMPSCI235 - Software Development Methodologies/session.md","x":-7520,"y":6440,"width":400,"height":223},
 		{"id":"92217e99b7a4368f","x":-7041,"y":6440,"width":681,"height":400,"type":"file","file":"COMPSCI235 - Software Development Methodologies/cookie.md"},
-		{"id":"d19df21b4a514b2b","x":-6552,"y":4840,"width":620,"height":708,"type":"file","file":"COMPSCI235 - Software Development Methodologies/Cross-site Request Forgery (CSRF).md"}
+		{"id":"d19df21b4a514b2b","x":-6552,"y":4840,"width":620,"height":708,"type":"file","file":"COMPSCI235 - Software Development Methodologies/Cross-site Request Forgery (CSRF).md"},
+		{"id":"f1a604c43fcb2c69","x":-6442,"y":4380,"width":400,"height":361,"type":"file","file":"COMPSCI235 - Software Development Methodologies/Flask WTF.md"},
+		{"id":"ab9f7d4d89635b5e","type":"file","file":"COMPSCI235 - Software Development Methodologies/Signed cookies.md","x":-5520,"y":1284,"width":400,"height":991}
 	],
 	"edges":[
 		{"id":"e2651a3e146f3635","fromNode":"5f370702693bc675","fromSide":"bottom","toNode":"7bc50db6e8bf54a4","toSide":"top"},
@@ -103,7 +104,6 @@
 		{"id":"7cf878246da23ea1","fromNode":"7bc50db6e8bf54a4","fromSide":"bottom","toNode":"38cc1c31b01fc116","toSide":"top"},
 		{"id":"da868cb4903060cd","fromNode":"7bc50db6e8bf54a4","fromSide":"bottom","toNode":"73d240d299679e76","toSide":"top"},
 		{"id":"4daca7eaf2dbe9b2","fromNode":"7bc50db6e8bf54a4","fromSide":"bottom","toNode":"2f19d3ea0e21eb2c","toSide":"top"},
-		{"id":"de527e0f09cf243f","fromNode":"ecdadfb7f7df1134","fromSide":"bottom","toNode":"74dd66f0e37ff070","toSide":"top"},
 		{"id":"65cc81e573da8695","fromNode":"74dd66f0e37ff070","fromSide":"left","toNode":"121f1287823ebeee","toSide":"right"},
 		{"id":"1550726bfe2698f9","fromNode":"7753f2cc1371d7e4","fromSide":"left","toNode":"667d8204c6dc2ffe","toSide":"right"},
 		{"id":"0ba43dd14e0610a0","fromNode":"ecdadfb7f7df1134","fromSide":"right","toNode":"68668411d6812aa5","toSide":"left"},
@@ -114,6 +114,7 @@
 		{"id":"57faf6efeea50d5b","fromNode":"667d8204c6dc2ffe","fromSide":"bottom","toNode":"0f00c0da3304b53d","toSide":"top"},
 		{"id":"a30c5322781a8043","fromNode":"d19df21b4a514b2b","fromSide":"left","toNode":"7753f2cc1371d7e4","toSide":"top"},
 		{"id":"e4d6e01a2a40e6ba","fromNode":"7753f2cc1371d7e4","fromSide":"bottom","toNode":"5d211a13e7cfeee7","toSide":"top"},
-		{"id":"058edfc1456e1138","fromNode":"7753f2cc1371d7e4","fromSide":"bottom","toNode":"92217e99b7a4368f","toSide":"top"}
+		{"id":"058edfc1456e1138","fromNode":"7753f2cc1371d7e4","fromSide":"bottom","toNode":"92217e99b7a4368f","toSide":"top"},
+		{"id":"0cdf2eed57afb9e5","fromNode":"f1a604c43fcb2c69","fromSide":"bottom","toNode":"d19df21b4a514b2b","toSide":"top"}
 	]
 }

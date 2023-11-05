@@ -16,9 +16,9 @@
               "state": {
                 "file": "COMPSCI235 - Software Development Methodologies/235 summary.canvas",
                 "viewState": {
-                  "x": -6822.886593024836,
-                  "y": 5155.625637658728,
-                  "zoom": -1.6666666666666665
+                  "x": -6166.434986993892,
+                  "y": 2830.3734936008113,
+                  "zoom": -2.333333333333333
                 }
               }
             }
@@ -29,7 +29,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Cross-site Request Forgery (CSRF).md",
+                "file": "COMPSCI235 - Software Development Methodologies/Flask WTF.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,7 +49,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Cross-site Request Forgery (CSRF).md",
+                "file": "COMPSCI235 - Software Development Methodologies/Flask WTF.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -145,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/235 summary.canvas",
+                "file": "COMPSCI235 - Software Development Methodologies/Signed cookies.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/235 summary.canvas",
+                "file": "COMPSCI235 - Software Development Methodologies/Signed cookies.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -185,7 +185,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/235 summary.canvas"
+                "file": "COMPSCI235 - Software Development Methodologies/Signed cookies.md"
               }
             }
           },
@@ -213,7 +213,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/235 summary.canvas"
+                "file": "COMPSCI235 - Software Development Methodologies/Signed cookies.md"
               }
             }
           }
@@ -238,9 +238,10 @@
   },
   "active": "33a55b9766be070c",
   "lastOpenFiles": [
+    "COMPSCI235 - Software Development Methodologies/Flask WTF.md",
     "COMPSCI235 - Software Development Methodologies/Cross-site Request Forgery (CSRF).md",
-    "COMPSCI235 - Software Development Methodologies/Session cookie.md",
     "COMPSCI235 - Software Development Methodologies/235 summary.canvas",
+    "COMPSCI235 - Software Development Methodologies/Session cookie.md",
     "COMPSCI235 - Software Development Methodologies/SQLAlchemy Session.md",
     "COMPSCI235 - Software Development Methodologies/Object Relation Mapping (ORM).md",
     "COMPSCI235 - Software Development Methodologies/session.md",
