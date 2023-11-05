@@ -37,7 +37,7 @@
 		{"id":"68668411d6812aa5","type":"file","file":"COMPSCI235 - Software Development Methodologies/Relational database.md","x":-9867,"y":3011,"width":400,"height":305},
 		{"id":"9b258f49a9b2805e","type":"file","file":"COMPSCI235 - Software Development Methodologies/Impedence.md","x":-10935,"y":2592,"width":818,"height":801},
 		{"id":"8c24641f4572de8c","type":"file","file":"COMPSCI235 - Software Development Methodologies/Persistence.md","x":-11000,"y":3682,"width":840,"height":1118},
-		{"id":"b097236a69a05947","x":-9995,"y":3587,"width":400,"height":453,"type":"file","file":"COMPSCI235 - Software Development Methodologies/Relational DBMS (RDBMS).md"},
+		{"id":"b097236a69a05947","type":"file","file":"COMPSCI235 - Software Development Methodologies/Relational DBMS (RDBMS).md","x":-9995,"y":3587,"width":400,"height":453},
 		{"id":"38cc1c31b01fc116","type":"file","file":"COMPSCI235 - Software Development Methodologies/Scrum.md","x":-2702,"y":-1602,"width":845,"height":3117},
 		{"id":"73d240d299679e76","type":"file","file":"COMPSCI235 - Software Development Methodologies/Kanban.md","x":-1777,"y":-1602,"width":1060,"height":3557},
 		{"id":"2f19d3ea0e21eb2c","type":"file","file":"COMPSCI235 - Software Development Methodologies/eXtreme Programming (XP).md","x":-646,"y":-1602,"width":960,"height":4936},
@@ -61,8 +61,9 @@
 		{"id":"5f370702693bc675","type":"file","file":"COMPSCI235 - Software Development Methodologies/Incremental Approach.md","x":-1852,"y":-6466,"width":600,"height":760},
 		{"id":"3d325416bf1610cd","type":"file","file":"COMPSCI235 - Software Development Methodologies/Dependency Inversion Principle (DIP).md","x":-1281,"y":-2867,"width":400,"height":400},
 		{"id":"e68e3e8b4ad09c22","type":"file","file":"COMPSCI235 - Software Development Methodologies/Evolutionary (Iterative) Approach.md","x":-1172,"y":-6466,"width":600,"height":640},
-		{"id":"72e00ad8eb005db9","x":-2600,"y":8880,"width":400,"height":400,"type":"file","file":"COMPSCI235 - Software Development Methodologies/User Story Mapping.md"},
-		{"id":"dcac09e4e544911d","x":-2080,"y":8880,"width":600,"height":400,"type":"file","file":"COMPSCI235 - Software Development Methodologies/User-Story-Writing workshop.md"}
+		{"id":"72e00ad8eb005db9","type":"file","file":"COMPSCI235 - Software Development Methodologies/User Story Mapping.md","x":-2600,"y":8880,"width":400,"height":400},
+		{"id":"dcac09e4e544911d","type":"file","file":"COMPSCI235 - Software Development Methodologies/User-Story-Writing workshop.md","x":-2080,"y":8880,"width":600,"height":400},
+		{"id":"ba10bee6b69561da","x":440,"y":920,"width":400,"height":320,"type":"file","file":"COMPSCI235 - Software Development Methodologies/pair programming.md"}
 	],
 	"edges":[
 		{"id":"e2651a3e146f3635","fromNode":"5f370702693bc675","fromSide":"bottom","toNode":"7bc50db6e8bf54a4","toSide":"top"},
@@ -127,6 +128,8 @@
 		{"id":"37a81e06c2899f95","fromNode":"68668411d6812aa5","fromSide":"bottom","toNode":"b097236a69a05947","toSide":"top"},
 		{"id":"860a49da6b1854ad","fromNode":"8c24641f4572de8c","fromSide":"bottom","toNode":"a0790e8e723cdf61","toSide":"left"},
 		{"id":"535459c69d04c34e","fromNode":"581793d62d5bce29","fromSide":"bottom","toNode":"72e00ad8eb005db9","toSide":"top"},
-		{"id":"fe8f37afdb2da619","fromNode":"581793d62d5bce29","fromSide":"bottom","toNode":"dcac09e4e544911d","toSide":"top"}
+		{"id":"fe8f37afdb2da619","fromNode":"581793d62d5bce29","fromSide":"bottom","toNode":"dcac09e4e544911d","toSide":"top"},
+		{"id":"6ff8856640fd7308","fromNode":"73d240d299679e76","fromSide":"right","toNode":"2f19d3ea0e21eb2c","toSide":"left"},
+		{"id":"1f665882fecd955c","fromNode":"2f19d3ea0e21eb2c","fromSide":"right","toNode":"ba10bee6b69561da","toSide":"left"}
 	]
 }
