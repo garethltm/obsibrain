@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Support separate team development.md",
+                "file": "COMPSCI235 - Software Development Methodologies/specification.md",
                 "mode": "source",
                 "source": false
               }
@@ -34,7 +34,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Support separate team development.md",
+                "file": "COMPSCI235 - Software Development Methodologies/specification.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Support separate team development.md",
+                "file": "COMPSCI235 - Software Development Methodologies/specification.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Support separate team development.md",
+                "file": "COMPSCI235 - Software Development Methodologies/specification.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Support separate team development.md"
+                "file": "COMPSCI235 - Software Development Methodologies/specification.md"
               }
             }
           },
@@ -198,7 +198,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Support separate team development.md"
+                "file": "COMPSCI235 - Software Development Methodologies/specification.md"
               }
             }
           }
@@ -223,6 +223,18 @@
   },
   "active": "aadfb509c77e20f4",
   "lastOpenFiles": [
+    "COMPSCI235 - Software Development Methodologies/SPRINT (iteration).md",
+    "COMPSCI235 - Software Development Methodologies/SQL Joins.md",
+    "COMPSCI235 - Software Development Methodologies/SQLAlchemy.md",
+    "COMPSCI235 - Software Development Methodologies/SQLAlchemy Session.md",
+    "COMPSCI235 - Software Development Methodologies/stakeholders.md",
+    "COMPSCI235 - Software Development Methodologies/standard protocol.md",
+    "COMPSCI235 - Software Development Methodologies/stateless.md",
+    "COMPSCI235 - Software Development Methodologies/Structural Diagrams.md",
+    "COMPSCI235 - Software Development Methodologies/Structural elements.md",
+    "COMPSCI235 - Software Development Methodologies/stub.md",
+    "COMPSCI235 - Software Development Methodologies/Support for change.md",
+    "COMPSCI235 - Software Development Methodologies/Support for reuse.md",
     "COMPSCI235 - Software Development Methodologies/Support for scaling & development.md",
     "COMPSCI235 - Software Development Methodologies/Support separate team development.md",
     "COMPSCI235 - Software Development Methodologies/System Integration.md",
@@ -237,19 +249,7 @@
     "COMPSCI235 - Software Development Methodologies/Throughput.md",
     "COMPSCI235 - Software Development Methodologies/database.md",
     "COMPSCI235 - Software Development Methodologies/Construction (Code, Test).md",
-    "COMPSCI235 - Software Development Methodologies/SQLAlchemy.md",
     "COMPSCI235 - Software Development Methodologies/Object Oriented Databases (OOD).md",
-    "COMPSCI235 - Software Development Methodologies/Relational DBMS (RDBMS).md",
-    "COMPSCI235 - Software Development Methodologies/Persistence.md",
-    "COMPSCI235 - Software Development Methodologies/Flask WTF.md",
-    "COMPSCI235 - Software Development Methodologies/Cross-site Request Forgery (CSRF).md",
-    "COMPSCI235 - Software Development Methodologies/Session cookie.md",
-    "COMPSCI235 - Software Development Methodologies/SQLAlchemy Session.md",
-    "COMPSCI235 - Software Development Methodologies/Object Relation Mapping (ORM).md",
-    "COMPSCI235 - Software Development Methodologies/session.md",
-    "COMPSCI235 - Software Development Methodologies/Modern software systems.md",
-    "COMPSCI235 - Software Development Methodologies/Networked.md",
-    "COMPSCI235 - Software Development Methodologies/External Dependency.md",
     "@images/1 TYRSuON0vVxy8olllrBVEw.png",
     "@images/Pasted image 20231104020521.png",
     "@images/Pasted image 20231104015543.png",
