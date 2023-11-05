@@ -12,7 +12,6 @@
 		{"id":"d2ec5f1d975043dd","type":"file","file":"COMPSCI235 - Software Development Methodologies/Burn-down charts.md","x":-888,"y":993,"width":400,"height":400},
 		{"id":"eb02b4d8cbed3eb7","type":"file","file":"COMPSCI235 - Software Development Methodologies/Burn-up charts.md","x":-313,"y":993,"width":400,"height":400},
 		{"id":"c0f152cffcfc82e2","type":"file","file":"COMPSCI235 - Software Development Methodologies/Class Diagram.md","x":-1840,"y":220,"width":400,"height":400},
-		{"id":"c37563a8ab967bfd","type":"file","file":"COMPSCI235 - Software Development Methodologies/Architectural Pattern.md","x":-820,"y":220,"width":400,"height":400},
 		{"id":"582370e009734836","type":"file","file":"COMPSCI235 - Software Development Methodologies/code quality.md","x":-1360,"y":993,"width":400,"height":400},
 		{"id":"fca5d5a890343e37","type":"file","file":"COMPSCI235 - Software Development Methodologies/Integration Testing.md","x":-1840,"y":-260,"width":400,"height":400},
 		{"id":"c6eeb4eecbd6fda4","type":"file","file":"COMPSCI235 - Software Development Methodologies/Middleware.md","x":-4940,"y":709,"width":400,"height":400},
@@ -44,7 +43,6 @@
 		{"id":"ceae846c6ad4fbd0","type":"file","file":"COMPSCI235 - Software Development Methodologies/Interaction Diagram.md","x":-7282,"y":-1620,"width":400,"height":400},
 		{"id":"281fed289b17a048","type":"file","file":"COMPSCI235 - Software Development Methodologies/Continuous Integration (CI).md","x":-7720,"y":-2073,"width":400,"height":400},
 		{"id":"7bc50db6e8bf54a4","type":"file","file":"COMPSCI235 - Software Development Methodologies/AGILE.md","x":-3085,"y":-934,"width":1211,"height":3600},
-		{"id":"d5abf1230783dbe2","type":"file","file":"COMPSCI235 - Software Development Methodologies/Distributed VCS.md","x":-113,"y":3103,"width":400,"height":400},
 		{"id":"76ddb14df3f5e966","type":"file","file":"COMPSCI235 - Software Development Methodologies/Object-Relational Database Management System (ORDBMS).md","x":-9280,"y":1541,"width":960,"height":765},
 		{"id":"ecdadfb7f7df1134","type":"file","file":"COMPSCI235 - Software Development Methodologies/Object Relation Mapping (ORM).md","x":-10080,"y":2740,"width":800,"height":1375},
 		{"id":"64d0ba95044a7145","type":"file","file":"COMPSCI235 - Software Development Methodologies/Object-Oriented Database Management System (OODBMS).md","x":-8800,"y":2740,"width":560,"height":400},
@@ -57,11 +55,13 @@
 		{"id":"1484a25fb5371506","type":"file","file":"COMPSCI235 - Software Development Methodologies/Scrum Master.md","x":-4560,"y":5440,"width":400,"height":261},
 		{"id":"db383e99511e9c8d","type":"file","file":"COMPSCI235 - Software Development Methodologies/Single Responsibility Principle (SRP).md","x":-6960,"y":2935,"width":400,"height":400},
 		{"id":"9b258f49a9b2805e","type":"file","file":"COMPSCI235 - Software Development Methodologies/Impedence.md","x":-5730,"y":2239,"width":400,"height":400},
-		{"id":"04a3847918d5aeb5","type":"file","file":"COMPSCI235 - Software Development Methodologies/Microservices.md","x":-4920,"y":1439,"width":400,"height":400},
 		{"id":"e22e459b9a174938","type":"file","file":"COMPSCI235 - Software Development Methodologies/Product Owner.md","x":-5128,"y":5440,"width":400,"height":400},
 		{"id":"bf1e09c976dc4ee2","type":"file","file":"COMPSCI235 - Software Development Methodologies/product backlog refinement.md","x":-5228,"y":6499,"width":600,"height":480},
 		{"id":"3a980237e4e09669","type":"file","file":"COMPSCI235 - Software Development Methodologies/product backlog.md","x":-5128,"y":5979,"width":400,"height":400},
-		{"id":"d8831e70f180edba","type":"file","file":"COMPSCI235 - Software Development Methodologies/Refactoring.md","x":-5628,"y":4160,"width":400,"height":400}
+		{"id":"d8831e70f180edba","type":"file","file":"COMPSCI235 - Software Development Methodologies/Refactoring.md","x":-6120,"y":5501,"width":400,"height":400},
+		{"id":"d5abf1230783dbe2","type":"file","file":"COMPSCI235 - Software Development Methodologies/Distributed VCS.md","x":-8427,"y":993,"width":960,"height":1000},
+		{"id":"04a3847918d5aeb5","type":"file","file":"COMPSCI235 - Software Development Methodologies/Microservices.md","x":-6400,"y":1193,"width":960,"height":3007},
+		{"id":"c37563a8ab967bfd","type":"file","file":"COMPSCI235 - Software Development Methodologies/Architectural Pattern.md","x":-6400,"y":346,"width":400,"height":520}
 	],
 	"edges":[
 		{"id":"e2651a3e146f3635","fromNode":"5f370702693bc675","fromSide":"bottom","toNode":"7bc50db6e8bf54a4","toSide":"top"},
@@ -72,6 +72,7 @@
 		{"id":"44239ab40f381db4","fromNode":"38cc1c31b01fc116","fromSide":"left","toNode":"1484a25fb5371506","toSide":"top"},
 		{"id":"8ba4b4ccb61f7e04","fromNode":"e22e459b9a174938","fromSide":"bottom","toNode":"3a980237e4e09669","toSide":"top"},
 		{"id":"343d46d390660f6f","fromNode":"3a980237e4e09669","fromSide":"bottom","toNode":"bf1e09c976dc4ee2","toSide":"top"},
-		{"id":"405546fd89d60b4d","fromNode":"38cc1c31b01fc116","fromSide":"left","toNode":"e22e459b9a174938","toSide":"top"}
+		{"id":"405546fd89d60b4d","fromNode":"38cc1c31b01fc116","fromSide":"left","toNode":"e22e459b9a174938","toSide":"top"},
+		{"id":"07239abbc2ccaef1","fromNode":"c37563a8ab967bfd","fromSide":"bottom","toNode":"04a3847918d5aeb5","toSide":"top"}
 	]
 }
