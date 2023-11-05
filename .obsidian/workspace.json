@@ -15,9 +15,9 @@
               "state": {
                 "file": "COMPSCI235 - Software Development Methodologies/235 summary.canvas",
                 "viewState": {
-                  "x": -2696.5299209211435,
-                  "y": 2156.6485015926614,
-                  "zoom": -1.3333333333333328
+                  "x": -1677.1167393154503,
+                  "y": -7618.616601278425,
+                  "zoom": -0.9999999999999996
                 }
               }
             }
@@ -88,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Security concerns.md",
+                "file": "COMPSCI235 - Software Development Methodologies/software development.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Security concerns.md",
+                "file": "COMPSCI235 - Software Development Methodologies/software development.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Security concerns.md"
+                "file": "COMPSCI235 - Software Development Methodologies/software development.md"
               }
             }
           },
@@ -156,7 +156,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Security concerns.md"
+                "file": "COMPSCI235 - Software Development Methodologies/software development.md"
               }
             }
           }
