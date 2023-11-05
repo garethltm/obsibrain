@@ -3,7 +3,7 @@
 		{"id":"3d325416bf1610cd","type":"file","file":"COMPSCI235 - Software Development Methodologies/Dependency Inversion Principle (DIP).md","x":-2509,"y":1639,"width":400,"height":400},
 		{"id":"68668411d6812aa5","type":"file","file":"COMPSCI235 - Software Development Methodologies/Relational database.md","x":-5720,"y":2786,"width":400,"height":400},
 		{"id":"5165902baa3f4011","type":"file","file":"COMPSCI235 - Software Development Methodologies/Relational DBMS (RDBMS).md","x":-5120,"y":2786,"width":400,"height":400},
-		{"id":"7753f2cc1371d7e4","type":"file","file":"COMPSCI235 - Software Development Methodologies/Session cookie.md","x":-6218,"y":3160,"width":400,"height":400},
+		{"id":"7753f2cc1371d7e4","type":"file","file":"COMPSCI235 - Software Development Methodologies/Session cookie.md","x":-6218,"y":3160,"width":798,"height":800},
 		{"id":"ab9f7d4d89635b5e","type":"file","file":"COMPSCI235 - Software Development Methodologies/Signed cookies.md","x":-6200,"y":2672,"width":400,"height":400},
 		{"id":"b4b2b11b0312dcb0","type":"file","file":"COMPSCI235 - Software Development Methodologies/Linear Approach.md","x":-3840,"y":-1960,"width":680,"height":680},
 		{"id":"e68e3e8b4ad09c22","type":"file","file":"COMPSCI235 - Software Development Methodologies/Evolutionary (Iterative) Approach.md","x":-2400,"y":-1960,"width":600,"height":640},
@@ -90,6 +90,9 @@
 		{"id":"5dca2aaf3b9d6b2e","fromNode":"af7c6fe1f78d713c","fromSide":"bottom","toNode":"a597f2b705424be2","toSide":"top"},
 		{"id":"973788b5c93e5c99","fromNode":"a9d67f096a4887a5","fromSide":"bottom","toNode":"af7c6fe1f78d713c","toSide":"top"},
 		{"id":"ff63134c7bdf889d","fromNode":"5b4bbb7c204a28ee","fromSide":"right","toNode":"af7c6fe1f78d713c","toSide":"left"},
-		{"id":"ac84f2f58930d347","fromNode":"0d6c306d5cb8094b","fromSide":"left","toNode":"e8206692a4526a39","toSide":"right"}
+		{"id":"ac84f2f58930d347","fromNode":"0d6c306d5cb8094b","fromSide":"left","toNode":"e8206692a4526a39","toSide":"right"},
+		{"id":"7cf878246da23ea1","fromNode":"7bc50db6e8bf54a4","fromSide":"bottom","toNode":"38cc1c31b01fc116","toSide":"top"},
+		{"id":"da868cb4903060cd","fromNode":"7bc50db6e8bf54a4","fromSide":"bottom","toNode":"73d240d299679e76","toSide":"top"},
+		{"id":"4daca7eaf2dbe9b2","fromNode":"7bc50db6e8bf54a4","fromSide":"bottom","toNode":"2f19d3ea0e21eb2c","toSide":"top"}
 	]
 }
