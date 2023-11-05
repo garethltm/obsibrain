@@ -19,7 +19,6 @@
 		{"id":"04a3847918d5aeb5","type":"file","file":"COMPSCI235 - Software Development Methodologies/Microservices.md","x":-12160,"y":427,"width":960,"height":3007},
 		{"id":"c37563a8ab967bfd","type":"file","file":"COMPSCI235 - Software Development Methodologies/Architectural Pattern.md","x":-11400,"y":-360,"width":400,"height":520},
 		{"id":"5b4bbb7c204a28ee","type":"file","file":"COMPSCI235 - Software Development Methodologies/Modern software systems.md","x":-10880,"y":-1843,"width":1080,"height":2003},
-		{"id":"d5abf1230783dbe2","type":"file","file":"COMPSCI235 - Software Development Methodologies/Distributed VCS.md","x":-10360,"y":1431,"width":960,"height":1000},
 		{"id":"2f19d3ea0e21eb2c","type":"file","file":"COMPSCI235 - Software Development Methodologies/eXtreme Programming (XP).md","x":-1874,"y":2904,"width":960,"height":4936},
 		{"id":"12dd385c166111cc","type":"file","file":"COMPSCI235 - Software Development Methodologies/Software Architecture.md","x":-11600,"y":-900,"width":680,"height":321},
 		{"id":"93be25677b443309","type":"file","file":"COMPSCI235 - Software Development Methodologies/Software Process Models.md","x":-3327,"y":-3040,"width":1095,"height":760},
@@ -39,19 +38,19 @@
 		{"id":"27a1f17bc5d7d439","type":"file","file":"COMPSCI235 - Software Development Methodologies/How to deal with dependencies in testing.md","x":-960,"y":9400,"width":400,"height":400},
 		{"id":"e8206692a4526a39","type":"file","file":"COMPSCI235 - Software Development Methodologies/Jinja.md","x":-13920,"y":321,"width":905,"height":2220},
 		{"id":"cba89f17fc79ea3a","type":"file","file":"COMPSCI235 - Software Development Methodologies/Hypertext Markup Language (HTML).md","x":-13667,"y":-300,"width":400,"height":400},
-		{"id":"c6eeb4eecbd6fda4","type":"file","file":"COMPSCI235 - Software Development Methodologies/Middleware.md","x":-6400,"y":-2660,"width":800,"height":760},
-		{"id":"ca346252f8709114","type":"file","file":"COMPSCI235 - Software Development Methodologies/Flask.md","x":-5383,"y":-2412,"width":400,"height":400},
-		{"id":"c45f9379f7fec3dc","type":"file","file":"COMPSCI235 - Software Development Methodologies/cookie.md","x":-5178,"y":-4512,"width":600,"height":700},
-		{"id":"11d29931a65e1588","type":"file","file":"COMPSCI235 - Software Development Methodologies/Hypertext Transfer Protocol (HTTP).md","x":-6618,"y":-5572,"width":1235,"height":2740},
-		{"id":"a597f2b705424be2","type":"file","file":"COMPSCI235 - Software Development Methodologies/Application layer protocols.md","x":-7280,"y":-4240,"width":400,"height":288},
 		{"id":"eb02b4d8cbed3eb7","type":"file","file":"COMPSCI235 - Software Development Methodologies/Burn-up charts.md","x":-4720,"y":3617,"width":400,"height":400},
 		{"id":"d2ec5f1d975043dd","type":"file","file":"COMPSCI235 - Software Development Methodologies/Burn-down charts.md","x":-4720,"y":4063,"width":400,"height":400},
-		{"id":"db84906d0024d60e","type":"file","file":"COMPSCI235 - Software Development Methodologies/Transport protocols.md","x":-8283,"y":-4216,"width":400,"height":157},
-		{"id":"ba5e70305e9d9d09","type":"file","file":"COMPSCI235 - Software Development Methodologies/Network layer protocols.md","x":-7803,"y":-4202,"width":400,"height":195},
-		{"id":"db383e99511e9c8d","type":"file","file":"COMPSCI235 - Software Development Methodologies/Single Responsibility Principle (SRP).md","x":-8523,"y":-8559,"width":577,"height":348},
-		{"id":"af7c6fe1f78d713c","type":"file","file":"COMPSCI235 - Software Development Methodologies/Networked.md","x":-8042,"y":-5802,"width":880,"height":1290},
-		{"id":"a9d67f096a4887a5","type":"file","file":"COMPSCI235 - Software Development Methodologies/Application Architecture.md","x":-8205,"y":-8072,"width":1205,"height":2120},
-		{"id":"0d6c306d5cb8094b","type":"file","file":"COMPSCI235 - Software Development Methodologies/Hypertext Markup Language (HTML).md","x":-8785,"y":-7092,"width":400,"height":400}
+		{"id":"c6eeb4eecbd6fda4","type":"file","file":"COMPSCI235 - Software Development Methodologies/Middleware.md","x":-7565,"y":1456,"width":800,"height":760},
+		{"id":"ca346252f8709114","type":"file","file":"COMPSCI235 - Software Development Methodologies/Flask.md","x":-6548,"y":1704,"width":400,"height":400},
+		{"id":"11d29931a65e1588","type":"file","file":"COMPSCI235 - Software Development Methodologies/Hypertext Transfer Protocol (HTTP).md","x":-7783,"y":-1456,"width":1235,"height":2740},
+		{"id":"c45f9379f7fec3dc","type":"file","file":"COMPSCI235 - Software Development Methodologies/cookie.md","x":-6343,"y":-396,"width":600,"height":700},
+		{"id":"a597f2b705424be2","type":"file","file":"COMPSCI235 - Software Development Methodologies/Application layer protocols.md","x":-8445,"y":-124,"width":400,"height":288},
+		{"id":"0d6c306d5cb8094b","type":"file","file":"COMPSCI235 - Software Development Methodologies/Hypertext Markup Language (HTML).md","x":-9950,"y":-2976,"width":400,"height":400},
+		{"id":"db84906d0024d60e","type":"file","file":"COMPSCI235 - Software Development Methodologies/Transport protocols.md","x":-9448,"y":-100,"width":400,"height":157},
+		{"id":"ba5e70305e9d9d09","type":"file","file":"COMPSCI235 - Software Development Methodologies/Network layer protocols.md","x":-8968,"y":-86,"width":400,"height":195},
+		{"id":"db383e99511e9c8d","type":"file","file":"COMPSCI235 - Software Development Methodologies/Single Responsibility Principle (SRP).md","x":-9688,"y":-4443,"width":577,"height":348},
+		{"id":"af7c6fe1f78d713c","type":"file","file":"COMPSCI235 - Software Development Methodologies/Networked.md","x":-9207,"y":-1686,"width":880,"height":1290},
+		{"id":"a9d67f096a4887a5","type":"file","file":"COMPSCI235 - Software Development Methodologies/Application Architecture.md","x":-9370,"y":-3956,"width":1205,"height":2120}
 	],
 	"edges":[
 		{"id":"e2651a3e146f3635","fromNode":"5f370702693bc675","fromSide":"bottom","toNode":"7bc50db6e8bf54a4","toSide":"top"},
@@ -91,6 +90,7 @@
 		{"id":"86378bc168139b26","fromNode":"af7c6fe1f78d713c","fromSide":"bottom","toNode":"db84906d0024d60e","toSide":"top"},
 		{"id":"7b66c4d7e50c9e2c","fromNode":"af7c6fe1f78d713c","fromSide":"bottom","toNode":"ba5e70305e9d9d09","toSide":"top"},
 		{"id":"5dca2aaf3b9d6b2e","fromNode":"af7c6fe1f78d713c","fromSide":"bottom","toNode":"a597f2b705424be2","toSide":"top"},
-		{"id":"973788b5c93e5c99","fromNode":"a9d67f096a4887a5","fromSide":"bottom","toNode":"af7c6fe1f78d713c","toSide":"top"}
+		{"id":"973788b5c93e5c99","fromNode":"a9d67f096a4887a5","fromSide":"bottom","toNode":"af7c6fe1f78d713c","toSide":"top"},
+		{"id":"ff63134c7bdf889d","fromNode":"5b4bbb7c204a28ee","fromSide":"right","toNode":"af7c6fe1f78d713c","toSide":"left"}
 	]
 }
