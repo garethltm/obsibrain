@@ -15,7 +15,6 @@
 		{"id":"b4b2b11b0312dcb0","type":"file","file":"COMPSCI235 - Software Development Methodologies/Linear Approach.md","x":-3840,"y":-1960,"width":680,"height":680},
 		{"id":"e68e3e8b4ad09c22","type":"file","file":"COMPSCI235 - Software Development Methodologies/Evolutionary (Iterative) Approach.md","x":-2400,"y":-1960,"width":600,"height":640},
 		{"id":"5f370702693bc675","type":"file","file":"COMPSCI235 - Software Development Methodologies/Incremental Approach.md","x":-3080,"y":-1960,"width":600,"height":760},
-		{"id":"27a1f17bc5d7d439","type":"file","file":"COMPSCI235 - Software Development Methodologies/How to deal with dependencies in testing.md","x":-7425,"y":-532,"width":400,"height":400},
 		{"id":"ceae846c6ad4fbd0","type":"file","file":"COMPSCI235 - Software Development Methodologies/Interaction Diagram.md","x":-7282,"y":-1620,"width":400,"height":440},
 		{"id":"7bc50db6e8bf54a4","type":"file","file":"COMPSCI235 - Software Development Methodologies/AGILE.md","x":-3085,"y":-934,"width":1211,"height":3600},
 		{"id":"38cc1c31b01fc116","type":"file","file":"COMPSCI235 - Software Development Methodologies/Scrum.md","x":-3930,"y":2904,"width":845,"height":3117},
@@ -50,7 +49,6 @@
 		{"id":"73cbdf51402df4f1","type":"file","file":"COMPSCI235 - Software Development Methodologies/Persistent.md","x":-7765,"y":5516,"width":400,"height":771},
 		{"id":"8c24641f4572de8c","type":"file","file":"COMPSCI235 - Software Development Methodologies/Persistence.md","x":-6280,"y":3814,"width":820,"height":1118},
 		{"id":"a0790e8e723cdf61","type":"file","file":"COMPSCI235 - Software Development Methodologies/ACID.md","x":-5340,"y":4240,"width":400,"height":500},
-		{"id":"fca5d5a890343e37","type":"file","file":"COMPSCI235 - Software Development Methodologies/Integration Testing.md","x":-1294,"y":8160,"width":760,"height":760},
 		{"id":"edb27f15326a97d5","x":-2281,"y":8200,"width":762,"height":400,"type":"file","file":"COMPSCI235 - Software Development Methodologies/Acceptance Testing.md"},
 		{"id":"68bd299004a23cb9","x":-360,"y":8200,"width":580,"height":565,"type":"file","file":"COMPSCI235 - Software Development Methodologies/Unit Testing.md"},
 		{"id":"5ace2510d690f835","type":"file","file":"COMPSCI235 - Software Development Methodologies/Automated Testing.md","x":360,"y":8283,"width":400,"height":400},
@@ -64,7 +62,9 @@
 		{"id":"1af78e8d0317d2a1","type":"file","file":"COMPSCI235 - Software Development Methodologies/Object Oriented Databases (OOD).md","x":-8370,"y":2160,"width":607,"height":380},
 		{"id":"cba89f17fc79ea3a","type":"file","file":"COMPSCI235 - Software Development Methodologies/Hypertext Markup Language (HTML).md","x":-9960,"y":560,"width":400,"height":400},
 		{"id":"11d29931a65e1588","type":"file","file":"COMPSCI235 - Software Development Methodologies/Hypertext Transfer Protocol (HTTP).md","x":-9200,"y":-1620,"width":1235,"height":2740},
-		{"id":"e8206692a4526a39","type":"file","file":"COMPSCI235 - Software Development Methodologies/Jinja.md","x":-7425,"y":920,"width":400,"height":400}
+		{"id":"e8206692a4526a39","type":"file","file":"COMPSCI235 - Software Development Methodologies/Jinja.md","x":-7425,"y":920,"width":400,"height":400},
+		{"id":"fca5d5a890343e37","type":"file","file":"COMPSCI235 - Software Development Methodologies/Integration Testing.md","x":-1474,"y":8220,"width":760,"height":1046},
+		{"id":"27a1f17bc5d7d439","type":"file","file":"COMPSCI235 - Software Development Methodologies/How to deal with dependencies in testing.md","x":-600,"y":9066,"width":400,"height":400}
 	],
 	"edges":[
 		{"id":"e2651a3e146f3635","fromNode":"5f370702693bc675","fromSide":"bottom","toNode":"7bc50db6e8bf54a4","toSide":"top"},

@@ -15,8 +15,8 @@
               "state": {
                 "file": "COMPSCI235 - Software Development Methodologies/235 summary.canvas",
                 "viewState": {
-                  "x": -2705.7087096892574,
-                  "y": 6926.353361161715,
+                  "x": -734.5962302862372,
+                  "y": 9411.407756147952,
                   "zoom": -1.3333333333333328
                 }
               }
@@ -88,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/How to deal with dependencies in testing.md",
+                "file": "COMPSCI235 - Software Development Methodologies/235 summary.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/How to deal with dependencies in testing.md",
+                "file": "COMPSCI235 - Software Development Methodologies/235 summary.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/How to deal with dependencies in testing.md"
+                "file": "COMPSCI235 - Software Development Methodologies/235 summary.canvas"
               }
             }
           },
@@ -156,7 +156,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/How to deal with dependencies in testing.md"
+                "file": "COMPSCI235 - Software Development Methodologies/235 summary.canvas"
               }
             }
           }
@@ -181,9 +181,12 @@
   },
   "active": "33a55b9766be070c",
   "lastOpenFiles": [
+    "COMPSCI235 - Software Development Methodologies/System Integration.md",
+    "COMPSCI235 - Software Development Methodologies/External Dependency.md",
+    "COMPSCI235 - Software Development Methodologies/How to deal with dependencies in testing.md",
+    "COMPSCI235 - Software Development Methodologies/235 summary.canvas",
     "COMPSCI235 - Software Development Methodologies/Evolutionary (Iterative) Approach.md",
     "COMPSCI235 - Software Development Methodologies/technical debt.md",
-    "COMPSCI235 - Software Development Methodologies/235 summary.canvas",
     "COMPSCI235 - Software Development Methodologies/Security concerns.md",
     "COMPSCI235 - Software Development Methodologies/analysis.md",
     "COMPSCI235 - Software Development Methodologies/ACID.md",
@@ -205,9 +208,6 @@
     "COMPSCI235 - Software Development Methodologies/Software Build.md",
     "COMPSCI235 - Software Development Methodologies/Refactoring.md",
     "COMPSCI235 - Software Development Methodologies/Qualitative metrics.md",
-    "COMPSCI235 - Software Development Methodologies/Quantitative metrics.md",
-    "COMPSCI235 - Software Development Methodologies/pair programming.md",
-    "COMPSCI235 - Software Development Methodologies/Patches.md",
     "@images/1 TYRSuON0vVxy8olllrBVEw.png",
     "@images/Pasted image 20231104020521.png",
     "@images/Pasted image 20231104015543.png",
