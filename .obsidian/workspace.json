@@ -27,9 +27,9 @@
               "state": {
                 "file": "COMPSCI235 - Software Development Methodologies/235 summary.canvas",
                 "viewState": {
-                  "x": -3669.6126222765215,
-                  "y": 1495.042005473052,
-                  "zoom": -1
+                  "x": -4881.130499174221,
+                  "y": 3114.537071759917,
+                  "zoom": -0.3333333333333334
                 }
               }
             }
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Networked.md",
+                "file": "COMPSCI235 - Software Development Methodologies/Pending.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Networked.md",
+                "file": "COMPSCI235 - Software Development Methodologies/Pending.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Networked.md"
+                "file": "COMPSCI235 - Software Development Methodologies/Pending.md"
               }
             }
           },
@@ -169,7 +169,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Networked.md"
+                "file": "COMPSCI235 - Software Development Methodologies/Pending.md"
               }
             }
           }
