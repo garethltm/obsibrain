@@ -50,10 +50,10 @@
 		{"id":"8c24641f4572de8c","type":"file","file":"COMPSCI235 - Software Development Methodologies/Persistence.md","x":-7582,"y":5520,"width":820,"height":1118},
 		{"id":"ab9f7d4d89635b5e","type":"file","file":"COMPSCI235 - Software Development Methodologies/Signed cookies.md","x":-8280,"y":5600,"width":400,"height":400},
 		{"id":"7753f2cc1371d7e4","type":"file","file":"COMPSCI235 - Software Development Methodologies/Session cookie.md","x":-6442,"y":4680,"width":798,"height":920},
-		{"id":"5d211a13e7cfeee7","x":-8360,"y":4289,"width":400,"height":223,"type":"file","file":"COMPSCI235 - Software Development Methodologies/session.md"},
-		{"id":"667d8204c6dc2ffe","x":-7535,"y":4234,"width":400,"height":400,"type":"file","file":"COMPSCI235 - Software Development Methodologies/SQLAlchemy Session.md"},
-		{"id":"74dd66f0e37ff070","x":-7560,"y":4720,"width":720,"height":720,"type":"file","file":"COMPSCI235 - Software Development Methodologies/Persistent.md"},
-		{"id":"5f4ba99750dd1fe5","x":-8607,"y":5081,"width":567,"height":400,"type":"file","file":"COMPSCI235 - Software Development Methodologies/SQLAlchemy.md"}
+		{"id":"74dd66f0e37ff070","x":-7520,"y":4289,"width":720,"height":720,"type":"file","file":"COMPSCI235 - Software Development Methodologies/Persistent.md"},
+		{"id":"5d211a13e7cfeee7","x":-8880,"y":4289,"width":400,"height":223,"type":"file","file":"COMPSCI235 - Software Development Methodologies/session.md"},
+		{"id":"121f1287823ebeee","x":-8040,"y":4360,"width":400,"height":400,"type":"file","file":"COMPSCI235 - Software Development Methodologies/transaction(s).md"},
+		{"id":"667d8204c6dc2ffe","x":-8080,"y":4840,"width":400,"height":400,"type":"file","file":"COMPSCI235 - Software Development Methodologies/SQLAlchemy Session.md"}
 	],
 	"edges":[
 		{"id":"e2651a3e146f3635","fromNode":"5f370702693bc675","fromSide":"bottom","toNode":"7bc50db6e8bf54a4","toSide":"top"},
@@ -97,6 +97,8 @@
 		{"id":"ac84f2f58930d347","fromNode":"0d6c306d5cb8094b","fromSide":"left","toNode":"e8206692a4526a39","toSide":"right"},
 		{"id":"7cf878246da23ea1","fromNode":"7bc50db6e8bf54a4","fromSide":"bottom","toNode":"38cc1c31b01fc116","toSide":"top"},
 		{"id":"da868cb4903060cd","fromNode":"7bc50db6e8bf54a4","fromSide":"bottom","toNode":"73d240d299679e76","toSide":"top"},
-		{"id":"4daca7eaf2dbe9b2","fromNode":"7bc50db6e8bf54a4","fromSide":"bottom","toNode":"2f19d3ea0e21eb2c","toSide":"top"}
+		{"id":"4daca7eaf2dbe9b2","fromNode":"7bc50db6e8bf54a4","fromSide":"bottom","toNode":"2f19d3ea0e21eb2c","toSide":"top"},
+		{"id":"de527e0f09cf243f","fromNode":"ecdadfb7f7df1134","fromSide":"bottom","toNode":"74dd66f0e37ff070","toSide":"top"},
+		{"id":"65cc81e573da8695","fromNode":"74dd66f0e37ff070","fromSide":"left","toNode":"121f1287823ebeee","toSide":"right"}
 	]
 }
