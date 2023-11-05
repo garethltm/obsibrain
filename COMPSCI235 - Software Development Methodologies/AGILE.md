@@ -46,7 +46,7 @@ which are:
 ### [[AGILE]] [[software development]] methodologies
 - [[eXtreme Programming (XP)]]
 - Feature-Driven Development (FDD)
-- Scrum
+- [[Scrum]]
 - Lean Software Development
 - [[Kanban]]
 - Test Driven Development
