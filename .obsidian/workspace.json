@@ -15,8 +15,8 @@
               "state": {
                 "file": "COMPSCI235 - Software Development Methodologies/235 summary.canvas",
                 "viewState": {
-                  "x": -2025.091245847855,
-                  "y": 6175.286276339062,
+                  "x": -5931.490904261271,
+                  "y": 220.497608784279,
                   "zoom": -1.4643953977427788
                 }
               }
@@ -88,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/eXtreme Programming (XP).md",
+                "file": "COMPSCI235 - Software Development Methodologies/Middleware.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/eXtreme Programming (XP).md",
+                "file": "COMPSCI235 - Software Development Methodologies/Middleware.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/eXtreme Programming (XP).md"
+                "file": "COMPSCI235 - Software Development Methodologies/Middleware.md"
               }
             }
           },
@@ -156,7 +156,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/eXtreme Programming (XP).md"
+                "file": "COMPSCI235 - Software Development Methodologies/Middleware.md"
               }
             }
           }
