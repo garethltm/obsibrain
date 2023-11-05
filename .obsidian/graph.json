@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "",
+  "search": "path:\"COMPSCI235 - Software Development Methodologies\"  ",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -15,21 +15,21 @@
       }
     },
     {
-      "query": "path:\"path:",
+      "query": "path:\"INFOSYS222 - Database Systems\"  ",
       "color": {
         "a": 1,
         "rgb": 14725458
       }
     },
     {
-      "query": "",
+      "query": "path:\"COMPSCI235 - Software Development Methodologies\"  ",
       "color": {
         "a": 1,
-        "rgb": 11657298
+        "rgb": 16777215
       }
     }
   ],
-  "collapse-display": false,
+  "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1,
@@ -39,6 +39,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.47832277775728815,
+  "scale": 0.6706003540324779,
   "close": false
 }
