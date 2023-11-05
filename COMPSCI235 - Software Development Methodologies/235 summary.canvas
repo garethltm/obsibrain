@@ -39,8 +39,6 @@
 		{"id":"1af78e8d0317d2a1","type":"file","file":"COMPSCI235 - Software Development Methodologies/Object Oriented Databases (OOD).md","x":-8370,"y":2160,"width":607,"height":380},
 		{"id":"fca5d5a890343e37","type":"file","file":"COMPSCI235 - Software Development Methodologies/Integration Testing.md","x":-1474,"y":8220,"width":760,"height":1046},
 		{"id":"27a1f17bc5d7d439","type":"file","file":"COMPSCI235 - Software Development Methodologies/How to deal with dependencies in testing.md","x":-960,"y":9400,"width":400,"height":400},
-		{"id":"eb02b4d8cbed3eb7","type":"file","file":"COMPSCI235 - Software Development Methodologies/Burn-up charts.md","x":-10560,"y":3318,"width":400,"height":400},
-		{"id":"d2ec5f1d975043dd","type":"file","file":"COMPSCI235 - Software Development Methodologies/Burn-down charts.md","x":-10560,"y":3764,"width":400,"height":400},
 		{"id":"e8206692a4526a39","type":"file","file":"COMPSCI235 - Software Development Methodologies/Jinja.md","x":-13920,"y":321,"width":905,"height":2220},
 		{"id":"cba89f17fc79ea3a","type":"file","file":"COMPSCI235 - Software Development Methodologies/Hypertext Markup Language (HTML).md","x":-13667,"y":-300,"width":400,"height":400},
 		{"id":"c6eeb4eecbd6fda4","type":"file","file":"COMPSCI235 - Software Development Methodologies/Middleware.md","x":-6400,"y":-2660,"width":800,"height":760},
@@ -52,7 +50,9 @@
 		{"id":"0d6c306d5cb8094b","type":"file","file":"COMPSCI235 - Software Development Methodologies/Hypertext Markup Language (HTML).md","x":-9200,"y":-4200,"width":400,"height":400},
 		{"id":"db383e99511e9c8d","type":"file","file":"COMPSCI235 - Software Development Methodologies/Single Responsibility Principle (SRP).md","x":-8400,"y":-5680,"width":577,"height":348},
 		{"id":"af7c6fe1f78d713c","type":"file","file":"COMPSCI235 - Software Development Methodologies/Networked.md","x":-8457,"y":-2910,"width":880,"height":1260},
-		{"id":"83bbe932d4641fd1","type":"file","file":"COMPSCI235 - Software Development Methodologies/Cross-site Request Forgery (CSRF).md","x":-8600,"y":-1241,"width":400,"height":400}
+		{"id":"83bbe932d4641fd1","type":"file","file":"COMPSCI235 - Software Development Methodologies/Cross-site Request Forgery (CSRF).md","x":-8600,"y":-1241,"width":400,"height":400},
+		{"id":"eb02b4d8cbed3eb7","type":"file","file":"COMPSCI235 - Software Development Methodologies/Burn-up charts.md","x":-4720,"y":3617,"width":400,"height":400},
+		{"id":"d2ec5f1d975043dd","type":"file","file":"COMPSCI235 - Software Development Methodologies/Burn-down charts.md","x":-4720,"y":4063,"width":400,"height":400}
 	],
 	"edges":[
 		{"id":"e2651a3e146f3635","fromNode":"5f370702693bc675","fromSide":"bottom","toNode":"7bc50db6e8bf54a4","toSide":"top"},
@@ -87,6 +87,8 @@
 		{"id":"cdaede56f92e60ed","fromNode":"a9d67f096a4887a5","fromSide":"right","toNode":"a597f2b705424be2","toSide":"left"},
 		{"id":"326bf3eee3949097","fromNode":"a597f2b705424be2","fromSide":"right","toNode":"11d29931a65e1588","toSide":"left"},
 		{"id":"cafb83b51b34c835","fromNode":"a9d67f096a4887a5","fromSide":"left","toNode":"0d6c306d5cb8094b","toSide":"right"},
-		{"id":"2fe51a186ced6c33","fromNode":"a9d67f096a4887a5","fromSide":"top","toNode":"db383e99511e9c8d","toSide":"bottom"}
+		{"id":"2fe51a186ced6c33","fromNode":"a9d67f096a4887a5","fromSide":"top","toNode":"db383e99511e9c8d","toSide":"bottom"},
+		{"id":"c0c68670bf84a81f","fromNode":"38cc1c31b01fc116","fromSide":"left","toNode":"eb02b4d8cbed3eb7","toSide":"right"},
+		{"id":"ad927bb4d81701e2","fromNode":"38cc1c31b01fc116","fromSide":"left","toNode":"d2ec5f1d975043dd","toSide":"right"}
 	]
 }
