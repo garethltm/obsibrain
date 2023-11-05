@@ -15,8 +15,8 @@
               "state": {
                 "file": "COMPSCI235 - Software Development Methodologies/235 summary.canvas",
                 "viewState": {
-                  "x": -8210.20525038335,
-                  "y": 7206.3688535882475,
+                  "x": -8319.291602302314,
+                  "y": 7100.397998907261,
                   "zoom": -1
                 }
               }
@@ -28,14 +28,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Object Relation Mapping (ORM).md",
+                "file": "COMPSCI235 - Software Development Methodologies/Session cookie.md",
                 "mode": "source",
                 "source": false
               }
             },
             "group": "f4b6d332df93c7fa"
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "ac19b35d16bf4257",
@@ -47,7 +48,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Object Relation Mapping (ORM).md",
+                "file": "COMPSCI235 - Software Development Methodologies/Session cookie.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -70,7 +71,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 1,
+                  "scale": 0.7132754626224428,
                   "close": false
                 }
               }
@@ -143,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Expired.md",
+                "file": "COMPSCI235 - Software Development Methodologies/Session cookie.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Expired.md",
+                "file": "COMPSCI235 - Software Development Methodologies/Session cookie.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -183,7 +184,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Expired.md"
+                "file": "COMPSCI235 - Software Development Methodologies/Session cookie.md"
               }
             }
           },
@@ -211,7 +212,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Expired.md"
+                "file": "COMPSCI235 - Software Development Methodologies/Session cookie.md"
               }
             }
           }
@@ -234,12 +235,13 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "33a55b9766be070c",
+  "active": "212256b456b6e1de",
   "lastOpenFiles": [
+    "COMPSCI235 - Software Development Methodologies/SQLAlchemy Session.md",
     "COMPSCI235 - Software Development Methodologies/Object Relation Mapping (ORM).md",
+    "COMPSCI235 - Software Development Methodologies/235 summary.canvas",
     "COMPSCI235 - Software Development Methodologies/session.md",
     "COMPSCI235 - Software Development Methodologies/Session cookie.md",
-    "COMPSCI235 - Software Development Methodologies/235 summary.canvas",
     "COMPSCI235 - Software Development Methodologies/Modern software systems.md",
     "COMPSCI235 - Software Development Methodologies/Networked.md",
     "COMPSCI235 - Software Development Methodologies/System Integration.md",
@@ -262,7 +264,6 @@
     "COMPSCI235 - Software Development Methodologies/Incremental Development.md",
     "COMPSCI235 - Software Development Methodologies/AGILE.md",
     "COMPSCI235 - Software Development Methodologies/Transparency.md",
-    "COMPSCI235 - Software Development Methodologies/Product Owner.md",
     "@images/1 TYRSuON0vVxy8olllrBVEw.png",
     "@images/Pasted image 20231104020521.png",
     "@images/Pasted image 20231104015543.png",
