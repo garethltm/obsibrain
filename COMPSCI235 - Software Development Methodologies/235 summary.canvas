@@ -1,10 +1,17 @@
 {
 	"nodes":[
+		{"id":"ea1a209da5b6dc76","x":-1170,"y":875,"width":400,"height":400,"type":"file","file":"COMPSCI235 - Software Development Methodologies/Bug reports.md"},
 		{"id":"ee7dbb282c941b90","type":"file","file":"COMPSCI235 - Software Development Methodologies/Aggregation.md","x":540,"y":-360,"width":400,"height":400},
 		{"id":"a0790e8e723cdf61","type":"file","file":"COMPSCI235 - Software Development Methodologies/ACID.md","x":-820,"y":-320,"width":400,"height":400},
 		{"id":"7bc50db6e8bf54a4","type":"file","file":"COMPSCI235 - Software Development Methodologies/AGILE.md","x":-820,"y":-840,"width":400,"height":400},
-		{"id":"a9d67f096a4887a5","x":-360,"y":220,"width":494,"height":400,"type":"file","file":"COMPSCI235 - Software Development Methodologies/Application Architecture.md"},
-		{"id":"91c026accfe8ace8","x":-138,"y":-463,"width":400,"height":223,"type":"file","file":"COMPSCI235 - Software Development Methodologies/Application layer protocols.md"}
+		{"id":"a9d67f096a4887a5","type":"file","file":"COMPSCI235 - Software Development Methodologies/Application Architecture.md","x":-360,"y":220,"width":494,"height":400},
+		{"id":"c37563a8ab967bfd","type":"file","file":"COMPSCI235 - Software Development Methodologies/Architectural Pattern.md","x":-880,"y":220,"width":400,"height":400},
+		{"id":"895f090e1f23f68c","type":"file","file":"COMPSCI235 - Software Development Methodologies/Association.md","x":540,"y":-840,"width":400,"height":400},
+		{"id":"f0b744e84fcaad88","type":"file","file":"COMPSCI235 - Software Development Methodologies/Automated Build.md","x":-313,"y":-260,"width":400,"height":400},
+		{"id":"91c026accfe8ace8","type":"file","file":"COMPSCI235 - Software Development Methodologies/Application layer protocols.md","x":-313,"y":-751,"width":400,"height":223},
+		{"id":"5ace2510d690f835","type":"file","file":"COMPSCI235 - Software Development Methodologies/Automated Testing.md","x":-1320,"y":-320,"width":400,"height":400},
+		{"id":"d51024225fdca15f","type":"file","file":"COMPSCI235 - Software Development Methodologies/Behavioral Diagrams.md","x":-1320,"y":220,"width":400,"height":400},
+		{"id":"717762b89f722f79","x":-1840,"y":720,"width":400,"height":400,"type":"file","file":"COMPSCI235 - Software Development Methodologies/Bug Processing.md"}
 	],
 	"edges":[]
 }
