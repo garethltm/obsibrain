@@ -3,8 +3,6 @@
 		{"id":"3d325416bf1610cd","type":"file","file":"COMPSCI235 - Software Development Methodologies/Dependency Inversion Principle (DIP).md","x":-2509,"y":1639,"width":400,"height":400},
 		{"id":"68668411d6812aa5","type":"file","file":"COMPSCI235 - Software Development Methodologies/Relational database.md","x":-5720,"y":2786,"width":400,"height":400},
 		{"id":"5165902baa3f4011","type":"file","file":"COMPSCI235 - Software Development Methodologies/Relational DBMS (RDBMS).md","x":-5120,"y":2786,"width":400,"height":400},
-		{"id":"7753f2cc1371d7e4","type":"file","file":"COMPSCI235 - Software Development Methodologies/Session cookie.md","x":-6218,"y":3160,"width":798,"height":800},
-		{"id":"ab9f7d4d89635b5e","type":"file","file":"COMPSCI235 - Software Development Methodologies/Signed cookies.md","x":-6200,"y":2672,"width":400,"height":400},
 		{"id":"b4b2b11b0312dcb0","type":"file","file":"COMPSCI235 - Software Development Methodologies/Linear Approach.md","x":-3840,"y":-1960,"width":680,"height":680},
 		{"id":"e68e3e8b4ad09c22","type":"file","file":"COMPSCI235 - Software Development Methodologies/Evolutionary (Iterative) Approach.md","x":-2400,"y":-1960,"width":600,"height":640},
 		{"id":"5f370702693bc675","type":"file","file":"COMPSCI235 - Software Development Methodologies/Incremental Approach.md","x":-3080,"y":-1960,"width":600,"height":760},
@@ -22,8 +20,6 @@
 		{"id":"2f19d3ea0e21eb2c","type":"file","file":"COMPSCI235 - Software Development Methodologies/eXtreme Programming (XP).md","x":-1874,"y":2904,"width":960,"height":4936},
 		{"id":"12dd385c166111cc","type":"file","file":"COMPSCI235 - Software Development Methodologies/Software Architecture.md","x":-11600,"y":-900,"width":680,"height":321},
 		{"id":"93be25677b443309","type":"file","file":"COMPSCI235 - Software Development Methodologies/Software Process Models.md","x":-3327,"y":-3040,"width":1095,"height":760},
-		{"id":"8c24641f4572de8c","type":"file","file":"COMPSCI235 - Software Development Methodologies/Persistence.md","x":-6280,"y":3814,"width":820,"height":1118},
-		{"id":"a0790e8e723cdf61","type":"file","file":"COMPSCI235 - Software Development Methodologies/ACID.md","x":-5340,"y":4240,"width":400,"height":500},
 		{"id":"edb27f15326a97d5","type":"file","file":"COMPSCI235 - Software Development Methodologies/Acceptance Testing.md","x":-2281,"y":8200,"width":762,"height":400},
 		{"id":"68bd299004a23cb9","type":"file","file":"COMPSCI235 - Software Development Methodologies/Unit Testing.md","x":-360,"y":8200,"width":580,"height":565},
 		{"id":"5ace2510d690f835","type":"file","file":"COMPSCI235 - Software Development Methodologies/Automated Testing.md","x":360,"y":8283,"width":400,"height":400},
@@ -49,7 +45,12 @@
 		{"id":"af7c6fe1f78d713c","type":"file","file":"COMPSCI235 - Software Development Methodologies/Networked.md","x":-9207,"y":-1686,"width":880,"height":1290},
 		{"id":"a9d67f096a4887a5","type":"file","file":"COMPSCI235 - Software Development Methodologies/Application Architecture.md","x":-9370,"y":-3956,"width":1205,"height":2120},
 		{"id":"e8206692a4526a39","type":"file","file":"COMPSCI235 - Software Development Methodologies/Jinja.md","x":-11800,"y":-4443,"width":1665,"height":2220},
-		{"id":"db383e99511e9c8d","type":"file","file":"COMPSCI235 - Software Development Methodologies/Single Responsibility Principle (SRP).md","x":-8904,"y":-4443,"width":577,"height":348}
+		{"id":"db383e99511e9c8d","type":"file","file":"COMPSCI235 - Software Development Methodologies/Single Responsibility Principle (SRP).md","x":-8904,"y":-4443,"width":577,"height":348},
+		{"id":"7753f2cc1371d7e4","type":"file","file":"COMPSCI235 - Software Development Methodologies/Session cookie.md","x":-7560,"y":4480,"width":798,"height":800},
+		{"id":"a0790e8e723cdf61","type":"file","file":"COMPSCI235 - Software Development Methodologies/ACID.md","x":-6642,"y":5946,"width":400,"height":500},
+		{"id":"8c24641f4572de8c","type":"file","file":"COMPSCI235 - Software Development Methodologies/Persistence.md","x":-7582,"y":5520,"width":820,"height":1118},
+		{"id":"ab9f7d4d89635b5e","type":"file","file":"COMPSCI235 - Software Development Methodologies/Signed cookies.md","x":-8280,"y":5600,"width":400,"height":400},
+		{"id":"5d211a13e7cfeee7","x":-8040,"y":4480,"width":400,"height":223,"type":"file","file":"COMPSCI235 - Software Development Methodologies/session.md"}
 	],
 	"edges":[
 		{"id":"e2651a3e146f3635","fromNode":"5f370702693bc675","fromSide":"bottom","toNode":"7bc50db6e8bf54a4","toSide":"top"},
@@ -93,6 +94,7 @@
 		{"id":"ac84f2f58930d347","fromNode":"0d6c306d5cb8094b","fromSide":"left","toNode":"e8206692a4526a39","toSide":"right"},
 		{"id":"7cf878246da23ea1","fromNode":"7bc50db6e8bf54a4","fromSide":"bottom","toNode":"38cc1c31b01fc116","toSide":"top"},
 		{"id":"da868cb4903060cd","fromNode":"7bc50db6e8bf54a4","fromSide":"bottom","toNode":"73d240d299679e76","toSide":"top"},
-		{"id":"4daca7eaf2dbe9b2","fromNode":"7bc50db6e8bf54a4","fromSide":"bottom","toNode":"2f19d3ea0e21eb2c","toSide":"top"}
+		{"id":"4daca7eaf2dbe9b2","fromNode":"7bc50db6e8bf54a4","fromSide":"bottom","toNode":"2f19d3ea0e21eb2c","toSide":"top"},
+		{"id":"176278b352cf370b","fromNode":"ecdadfb7f7df1134","fromSide":"bottom","toNode":"7753f2cc1371d7e4","toSide":"top"}
 	]
 }

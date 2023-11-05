@@ -15,9 +15,9 @@
               "state": {
                 "file": "COMPSCI235 - Software Development Methodologies/235 summary.canvas",
                 "viewState": {
-                  "x": -5681.884950586252,
-                  "y": 3561.5633487039636,
-                  "zoom": -0.6666666666666663
+                  "x": -7201.436990100175,
+                  "y": 5229.260525034047,
+                  "zoom": -0.9999999999999996
                 }
               }
             }
@@ -35,8 +35,7 @@
             },
             "group": "f4b6d332df93c7fa"
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "ac19b35d16bf4257",
@@ -144,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Object Relation Mapping (ORM).md",
+                "file": "COMPSCI235 - Software Development Methodologies/Session cookie.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +160,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Object Relation Mapping (ORM).md",
+                "file": "COMPSCI235 - Software Development Methodologies/Session cookie.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,7 +183,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Object Relation Mapping (ORM).md"
+                "file": "COMPSCI235 - Software Development Methodologies/Session cookie.md"
               }
             }
           },
@@ -212,7 +211,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Object Relation Mapping (ORM).md"
+                "file": "COMPSCI235 - Software Development Methodologies/Session cookie.md"
               }
             }
           }
@@ -235,8 +234,9 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "212256b456b6e1de",
+  "active": "33a55b9766be070c",
   "lastOpenFiles": [
+    "COMPSCI235 - Software Development Methodologies/Object Relation Mapping (ORM).md",
     "COMPSCI235 - Software Development Methodologies/session.md",
     "COMPSCI235 - Software Development Methodologies/Session cookie.md",
     "COMPSCI235 - Software Development Methodologies/235 summary.canvas",
@@ -263,7 +263,6 @@
     "COMPSCI235 - Software Development Methodologies/AGILE.md",
     "COMPSCI235 - Software Development Methodologies/Transparency.md",
     "COMPSCI235 - Software Development Methodologies/Product Owner.md",
-    "COMPSCI235 - Software Development Methodologies/stub.md",
     "@images/1 TYRSuON0vVxy8olllrBVEw.png",
     "@images/Pasted image 20231104020521.png",
     "@images/Pasted image 20231104015543.png",
