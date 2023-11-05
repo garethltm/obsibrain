@@ -15,9 +15,9 @@
               "state": {
                 "file": "COMPSCI235 - Software Development Methodologies/235 summary.canvas",
                 "viewState": {
-                  "x": -8376.22330426667,
-                  "y": 2686.2986033062148,
-                  "zoom": -0.6666666666666663
+                  "x": -2705.7087096892574,
+                  "y": 6926.353361161715,
+                  "zoom": -1.3333333333333328
                 }
               }
             }
@@ -88,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Object Oriented Databases (OOD).md",
+                "file": "COMPSCI235 - Software Development Methodologies/How to deal with dependencies in testing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Object Oriented Databases (OOD).md",
+                "file": "COMPSCI235 - Software Development Methodologies/How to deal with dependencies in testing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Object Oriented Databases (OOD).md"
+                "file": "COMPSCI235 - Software Development Methodologies/How to deal with dependencies in testing.md"
               }
             }
           },
@@ -156,7 +156,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Object Oriented Databases (OOD).md"
+                "file": "COMPSCI235 - Software Development Methodologies/How to deal with dependencies in testing.md"
               }
             }
           }

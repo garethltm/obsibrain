@@ -15,18 +15,13 @@
 		{"id":"b4b2b11b0312dcb0","type":"file","file":"COMPSCI235 - Software Development Methodologies/Linear Approach.md","x":-3840,"y":-1960,"width":680,"height":680},
 		{"id":"e68e3e8b4ad09c22","type":"file","file":"COMPSCI235 - Software Development Methodologies/Evolutionary (Iterative) Approach.md","x":-2400,"y":-1960,"width":600,"height":640},
 		{"id":"5f370702693bc675","type":"file","file":"COMPSCI235 - Software Development Methodologies/Incremental Approach.md","x":-3080,"y":-1960,"width":600,"height":760},
-		{"id":"e8206692a4526a39","type":"file","file":"COMPSCI235 - Software Development Methodologies/Jinja.md","x":-7965,"y":-493,"width":400,"height":400},
-		{"id":"cba89f17fc79ea3a","type":"file","file":"COMPSCI235 - Software Development Methodologies/Hypertext Markup Language (HTML).md","x":-7867,"y":70,"width":400,"height":400},
 		{"id":"27a1f17bc5d7d439","type":"file","file":"COMPSCI235 - Software Development Methodologies/How to deal with dependencies in testing.md","x":-7425,"y":-532,"width":400,"height":400},
 		{"id":"ceae846c6ad4fbd0","type":"file","file":"COMPSCI235 - Software Development Methodologies/Interaction Diagram.md","x":-7282,"y":-1620,"width":400,"height":440},
 		{"id":"7bc50db6e8bf54a4","type":"file","file":"COMPSCI235 - Software Development Methodologies/AGILE.md","x":-3085,"y":-934,"width":1211,"height":3600},
-		{"id":"ecdadfb7f7df1134","type":"file","file":"COMPSCI235 - Software Development Methodologies/Object Relation Mapping (ORM).md","x":-10080,"y":2740,"width":800,"height":1375},
-		{"id":"64d0ba95044a7145","type":"file","file":"COMPSCI235 - Software Development Methodologies/Object-Oriented Database Management System (OODBMS).md","x":-8800,"y":2740,"width":560,"height":400},
 		{"id":"38cc1c31b01fc116","type":"file","file":"COMPSCI235 - Software Development Methodologies/Scrum.md","x":-3930,"y":2904,"width":845,"height":3117},
 		{"id":"73d240d299679e76","type":"file","file":"COMPSCI235 - Software Development Methodologies/Kanban.md","x":-3005,"y":2904,"width":1060,"height":3557},
 		{"id":"46d04d896c883479","type":"file","file":"COMPSCI235 - Software Development Methodologies/code review.md","x":-1320,"y":1439,"width":400,"height":400},
 		{"id":"1484a25fb5371506","type":"file","file":"COMPSCI235 - Software Development Methodologies/Scrum Master.md","x":-4560,"y":5440,"width":400,"height":261},
-		{"id":"db383e99511e9c8d","type":"file","file":"COMPSCI235 - Software Development Methodologies/Single Responsibility Principle (SRP).md","x":-6960,"y":2935,"width":400,"height":400},
 		{"id":"9b258f49a9b2805e","type":"file","file":"COMPSCI235 - Software Development Methodologies/Impedence.md","x":-5730,"y":2239,"width":400,"height":400},
 		{"id":"e22e459b9a174938","type":"file","file":"COMPSCI235 - Software Development Methodologies/Product Owner.md","x":-5128,"y":5440,"width":400,"height":400},
 		{"id":"bf1e09c976dc4ee2","type":"file","file":"COMPSCI235 - Software Development Methodologies/product backlog refinement.md","x":-5228,"y":6499,"width":600,"height":480},
@@ -43,7 +38,6 @@
 		{"id":"eb586b34de96f082","type":"file","file":"COMPSCI235 - Software Development Methodologies/Continuous Deployment.md","x":-5720,"y":-1304,"width":400,"height":400},
 		{"id":"83bbe932d4641fd1","type":"file","file":"COMPSCI235 - Software Development Methodologies/Cross-site Request Forgery (CSRF).md","x":-6640,"y":420,"width":400,"height":400},
 		{"id":"c45f9379f7fec3dc","type":"file","file":"COMPSCI235 - Software Development Methodologies/cookie.md","x":-6640,"y":893,"width":400,"height":400},
-		{"id":"11d29931a65e1588","type":"file","file":"COMPSCI235 - Software Development Methodologies/Hypertext Transfer Protocol (HTTP).md","x":-7225,"y":666,"width":400,"height":400},
 		{"id":"c6eeb4eecbd6fda4","type":"file","file":"COMPSCI235 - Software Development Methodologies/Middleware.md","x":-7867,"y":620,"width":400,"height":400},
 		{"id":"af7c6fe1f78d713c","type":"file","file":"COMPSCI235 - Software Development Methodologies/Networked.md","x":-6040,"y":20,"width":400,"height":400},
 		{"id":"ca346252f8709114","type":"file","file":"COMPSCI235 - Software Development Methodologies/Flask.md","x":-8067,"y":1141,"width":400,"height":400},
@@ -63,8 +57,14 @@
 		{"id":"581793d62d5bce29","type":"file","file":"COMPSCI235 - Software Development Methodologies/user stories.md","x":-3760,"y":8600,"width":935,"height":3884},
 		{"id":"21ad1b40a6043003","type":"file","file":"COMPSCI235 - Software Development Methodologies/INVEST.md","x":-2688,"y":9520,"width":814,"height":1499},
 		{"id":"afefcb5853f1a711","x":-2170,"y":8765,"width":540,"height":301,"type":"file","file":"COMPSCI235 - Software Development Methodologies/requirements gathering.md"},
-		{"id":"76ddb14df3f5e966","type":"file","file":"COMPSCI235 - Software Development Methodologies/Object-Relational Database Management System (ORDBMS).md","x":-9027,"y":3350,"width":960,"height":765},
-		{"id":"1af78e8d0317d2a1","type":"file","file":"COMPSCI235 - Software Development Methodologies/Object Oriented Databases (OOD).md","x":-8947,"y":2200,"width":607,"height":380}
+		{"id":"64d0ba95044a7145","type":"file","file":"COMPSCI235 - Software Development Methodologies/Object-Oriented Database Management System (OODBMS).md","x":-9203,"y":2740,"width":560,"height":400},
+		{"id":"76ddb14df3f5e966","type":"file","file":"COMPSCI235 - Software Development Methodologies/Object-Relational Database Management System (ORDBMS).md","x":-8600,"y":2753,"width":960,"height":765},
+		{"id":"ecdadfb7f7df1134","type":"file","file":"COMPSCI235 - Software Development Methodologies/Object Relation Mapping (ORM).md","x":-7560,"y":2753,"width":800,"height":1375},
+		{"id":"db383e99511e9c8d","type":"file","file":"COMPSCI235 - Software Development Methodologies/Single Responsibility Principle (SRP).md","x":-7360,"y":1541,"width":400,"height":400},
+		{"id":"1af78e8d0317d2a1","type":"file","file":"COMPSCI235 - Software Development Methodologies/Object Oriented Databases (OOD).md","x":-8370,"y":2160,"width":607,"height":380},
+		{"id":"cba89f17fc79ea3a","type":"file","file":"COMPSCI235 - Software Development Methodologies/Hypertext Markup Language (HTML).md","x":-9960,"y":560,"width":400,"height":400},
+		{"id":"11d29931a65e1588","type":"file","file":"COMPSCI235 - Software Development Methodologies/Hypertext Transfer Protocol (HTTP).md","x":-9200,"y":-1620,"width":1235,"height":2740},
+		{"id":"e8206692a4526a39","type":"file","file":"COMPSCI235 - Software Development Methodologies/Jinja.md","x":-7425,"y":920,"width":400,"height":400}
 	],
 	"edges":[
 		{"id":"e2651a3e146f3635","fromNode":"5f370702693bc675","fromSide":"bottom","toNode":"7bc50db6e8bf54a4","toSide":"top"},
@@ -87,6 +87,9 @@
 		{"id":"def7beaa1c773bea","fromNode":"68bd299004a23cb9","fromSide":"right","toNode":"5ace2510d690f835","toSide":"left"},
 		{"id":"11c7ca2213761745","fromNode":"2f19d3ea0e21eb2c","fromSide":"bottom","toNode":"edb27f15326a97d5","toSide":"top"},
 		{"id":"5ee2f916e4b27806","fromNode":"edb27f15326a97d5","fromSide":"left","toNode":"581793d62d5bce29","toSide":"top"},
-		{"id":"f0105a09dddeb580","fromNode":"edb27f15326a97d5","fromSide":"bottom","toNode":"afefcb5853f1a711","toSide":"top"}
+		{"id":"f0105a09dddeb580","fromNode":"edb27f15326a97d5","fromSide":"bottom","toNode":"afefcb5853f1a711","toSide":"top"},
+		{"id":"9a3310e702887762","fromNode":"1af78e8d0317d2a1","fromSide":"bottom","toNode":"64d0ba95044a7145","toSide":"top"},
+		{"id":"24bb4da63f9fa244","fromNode":"1af78e8d0317d2a1","fromSide":"bottom","toNode":"76ddb14df3f5e966","toSide":"top"},
+		{"id":"cb10031334488844","fromNode":"1af78e8d0317d2a1","fromSide":"bottom","toNode":"ecdadfb7f7df1134","toSide":"top"}
 	]
 }
