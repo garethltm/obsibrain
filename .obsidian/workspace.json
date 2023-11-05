@@ -16,7 +16,7 @@
                 "file": "COMPSCI235 - Software Development Methodologies/235 summary.canvas",
                 "viewState": {
                   "x": -1677.1167393154503,
-                  "y": -7618.616601278425,
+                  "y": -7432.616601278425,
                   "zoom": -0.9999999999999996
                 }
               }
@@ -88,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/software development.md",
+                "file": "COMPSCI235 - Software Development Methodologies/Systematic Development Process.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/software development.md",
+                "file": "COMPSCI235 - Software Development Methodologies/Systematic Development Process.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/software development.md"
+                "file": "COMPSCI235 - Software Development Methodologies/Systematic Development Process.md"
               }
             }
           },
@@ -156,7 +156,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/software development.md"
+                "file": "COMPSCI235 - Software Development Methodologies/Systematic Development Process.md"
               }
             }
           }
