@@ -2,7 +2,7 @@
 
 ### Key features:
 - [[Templating]] language for coding executable statements & evaluating expressions
-- Template structuring using [[tem,]] & containment
+- Template structuring using [[Template inheritance]] & [[Template containment]]
 	- Object Oriented Principles
 - Automatic [[Hypertext Markup Language (HTML)]] escaping in generated [[Hypertext Markup Language (HTML)]] pages
 

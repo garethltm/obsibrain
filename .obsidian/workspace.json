@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Jinja.md",
+                "file": "COMPSCI235 - Software Development Methodologies/Kanban.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Jinja.md",
+                "file": "COMPSCI235 - Software Development Methodologies/Kanban.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Jinja.md",
+                "file": "COMPSCI235 - Software Development Methodologies/Kanban.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Jinja.md"
+                "file": "COMPSCI235 - Software Development Methodologies/Kanban.md"
               }
             }
           },
@@ -153,7 +153,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Jinja.md"
+                "file": "COMPSCI235 - Software Development Methodologies/Kanban.md"
               }
             }
           }
@@ -178,6 +178,8 @@
   },
   "active": "8e28f081a24b1afd",
   "lastOpenFiles": [
+    "COMPSCI235 - Software Development Methodologies/Jinja.md",
+    "COMPSCI235 - Software Development Methodologies/Kanban.md",
     "COMPSCI235 - Software Development Methodologies/Issue Tracking.md",
     "COMPSCI235 - Software Development Methodologies/INVEST.md",
     "COMPSCI235 - Software Development Methodologies/Internal style sheet.md",
@@ -202,8 +204,6 @@
     "COMPSCI235 - Software Development Methodologies/GitHub.md",
     "COMPSCI235 - Software Development Methodologies/Git VCS.md",
     "COMPSCI235 - Software Development Methodologies/Generic Software Development Process Framework.md",
-    "COMPSCI235 - Software Development Methodologies/Functional Requirements (FR).md",
-    "COMPSCI235 - Software Development Methodologies/Framework of dependencies.md",
     "COMPSCI235 - Software Development Methodologies/235 summary.canvas",
     "@images/1 TYRSuON0vVxy8olllrBVEw.png",
     "@images/Pasted image 20231104020521.png",
