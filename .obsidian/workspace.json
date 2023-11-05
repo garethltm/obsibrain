@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "c1851618869d71b1",
+        "id": "cf3153d37f58e8c3",
         "type": "tabs",
         "children": [
           {
-            "id": "aadfb509c77e20f4",
+            "id": "8e28f081a24b1afd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Dependency.md",
+                "file": "COMPSCI235 - Software Development Methodologies/build scripts.md",
                 "mode": "source",
                 "source": false
               }
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Dependency.md",
+                "file": "COMPSCI235 - Software Development Methodologies/build scripts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Dependency.md",
+                "file": "COMPSCI235 - Software Development Methodologies/build scripts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Dependency.md"
+                "file": "COMPSCI235 - Software Development Methodologies/build scripts.md"
               }
             }
           },
@@ -154,7 +153,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Dependency.md"
+                "file": "COMPSCI235 - Software Development Methodologies/build scripts.md"
               }
             }
           }
@@ -177,11 +176,23 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "a6e0090ac9cbd1f3",
+  "active": "8e28f081a24b1afd",
   "lastOpenFiles": [
     "COMPSCI235 - Software Development Methodologies/Build Environments.md",
-    "COMPSCI235 - Software Development Methodologies/External Dependency.md",
+    "COMPSCI235 - Software Development Methodologies/The Repository pattern.md",
+    "COMPSCI235 - Software Development Methodologies/stub.md",
+    "COMPSCI367 - Artificial Intelligence/week12/Single-stage decision networks (SSDN).md",
+    "INFOSYS222 - Database Systems/Relationship.md",
+    "COMPSCI235 - Software Development Methodologies/Python's support for abstract base classes.md",
+    "INFOSYS222 - Database Systems/Normalisation.md",
+    "COMPSCI235 - Software Development Methodologies/Integration Testing.md",
+    "INFOSYS222 - Database Systems/Implications.md",
+    "COMPSCI235 - Software Development Methodologies/How to deal with dependencies in testing.md",
+    "COMPSCI235 - Software Development Methodologies/Framework of dependencies.md",
+    "COMPSCI235 - Software Development Methodologies/Dependency Inversion Principle (DIP).md",
     "COMPSCI235 - Software Development Methodologies/Dependency.md",
+    "INFOSYS222 - Database Systems/Dependency.md",
+    "COMPSCI235 - Software Development Methodologies/External Dependency.md",
     "COMPSCI235 - Software Development Methodologies/Bug Tracking.md",
     "COMPSCI235 - Software Development Methodologies/software development.md",
     "COMPSCI235 - Software Development Methodologies/Bug reports.md",
@@ -193,18 +204,6 @@
     "COMPSCI235 - Software Development Methodologies/Automated Build.md",
     "COMPSCI235 - Software Development Methodologies/Authentication.md",
     "COMPSCI235 - Software Development Methodologies/Association.md",
-    "COMPSCI235 - Software Development Methodologies/Class Diagram.md",
-    "COMPSCI235 - Software Development Methodologies/Architectural Pattern.md",
-    "COMPSCI235 - Software Development Methodologies/Application layer protocols.md",
-    "COMPSCI235 - Software Development Methodologies/Application Architecture.md",
-    "COMPSCI235 - Software Development Methodologies/Annotation.md",
-    "COMPSCI235 - Software Development Methodologies/analysis.md",
-    "COMPSCI235 - Software Development Methodologies/AGILE.md",
-    "COMPSCI235 - Software Development Methodologies/Aggregation.md",
-    "COMPSCI235 - Software Development Methodologies/Adaptation.md",
-    "COMPSCI235 - Software Development Methodologies/ACID.md",
-    "COMPSCI235 - Software Development Methodologies/Accessibility.md",
-    "COMPSCI235 - Software Development Methodologies/Access Modifiers.md",
     "COMPSCI235 - Software Development Methodologies/235 summary.canvas",
     "@images/1 TYRSuON0vVxy8olllrBVEw.png",
     "@images/Pasted image 20231104020521.png",
