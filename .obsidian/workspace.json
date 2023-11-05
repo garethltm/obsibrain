@@ -15,8 +15,8 @@
               "state": {
                 "file": "COMPSCI235 - Software Development Methodologies/235 summary.canvas",
                 "viewState": {
-                  "x": -6039.791455015442,
-                  "y": 96.79339416321983,
+                  "x": 4145.350170694957,
+                  "y": 131.48298832909302,
                   "zoom": -2.9999999999999996
                 }
               }
@@ -88,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/235 summary.canvas",
+                "file": "COMPSCI235 - Software Development Methodologies/technical debt.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/235 summary.canvas",
+                "file": "COMPSCI235 - Software Development Methodologies/technical debt.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/235 summary.canvas"
+                "file": "COMPSCI235 - Software Development Methodologies/technical debt.md"
               }
             }
           },
@@ -156,7 +156,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/235 summary.canvas"
+                "file": "COMPSCI235 - Software Development Methodologies/technical debt.md"
               }
             }
           }
