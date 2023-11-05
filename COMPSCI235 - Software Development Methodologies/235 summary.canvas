@@ -11,9 +11,7 @@
 		{"id":"5ace2510d690f835","type":"file","file":"COMPSCI235 - Software Development Methodologies/Automated Testing.md","x":1588,"y":3777,"width":400,"height":400},
 		{"id":"afefcb5853f1a711","type":"file","file":"COMPSCI235 - Software Development Methodologies/requirements gathering.md","x":-942,"y":4259,"width":540,"height":301},
 		{"id":"27a1f17bc5d7d439","type":"file","file":"COMPSCI235 - Software Development Methodologies/How to deal with dependencies in testing.md","x":268,"y":4894,"width":400,"height":400},
-		{"id":"bf1e09c976dc4ee2","type":"file","file":"COMPSCI235 - Software Development Methodologies/product backlog refinement.md","x":-4000,"y":1993,"width":600,"height":480},
-		{"id":"e22e459b9a174938","type":"file","file":"COMPSCI235 - Software Development Methodologies/Product Owner.md","x":-3900,"y":934,"width":400,"height":400},
-		{"id":"3a980237e4e09669","type":"file","file":"COMPSCI235 - Software Development Methodologies/product backlog.md","x":-3900,"y":1473,"width":400,"height":400},
+		{"id":"e22e459b9a174938","type":"file","file":"COMPSCI235 - Software Development Methodologies/Product Owner.md","x":-3900,"y":934,"width":400,"height":306},
 		{"id":"1484a25fb5371506","type":"file","file":"COMPSCI235 - Software Development Methodologies/Scrum Master.md","x":-3332,"y":934,"width":400,"height":261},
 		{"id":"581793d62d5bce29","type":"file","file":"COMPSCI235 - Software Development Methodologies/user stories.md","x":-2532,"y":4094,"width":935,"height":4586},
 		{"id":"21ad1b40a6043003","type":"file","file":"COMPSCI235 - Software Development Methodologies/INVEST.md","x":-1460,"y":5014,"width":814,"height":1499},
@@ -73,7 +71,9 @@
 		{"id":"8c24641f4572de8c","type":"file","file":"COMPSCI235 - Software Development Methodologies/Persistence.md","x":4423,"y":2131,"width":840,"height":1118},
 		{"id":"cc9bd268c69abe2b","x":3280,"y":40,"width":800,"height":2650,"type":"file","file":"COMPSCI235 - Software Development Methodologies/object data model.md"},
 		{"id":"9b258f49a9b2805e","type":"file","file":"COMPSCI235 - Software Development Methodologies/Impedence.md","x":4423,"y":1062,"width":818,"height":801},
-		{"id":"89a7d135834fe555","x":2640,"y":1263,"width":520,"height":997,"type":"file","file":"COMPSCI235 - Software Development Methodologies/Object ID (OID).md"}
+		{"id":"89a7d135834fe555","x":2640,"y":1263,"width":520,"height":997,"type":"file","file":"COMPSCI235 - Software Development Methodologies/Object ID (OID).md"},
+		{"id":"3a980237e4e09669","type":"file","file":"COMPSCI235 - Software Development Methodologies/product backlog.md","x":-3900,"y":1315,"width":400,"height":400},
+		{"id":"bf1e09c976dc4ee2","type":"file","file":"COMPSCI235 - Software Development Methodologies/product backlog refinement.md","x":-4000,"y":1835,"width":600,"height":480}
 	],
 	"edges":[
 		{"id":"e2651a3e146f3635","fromNode":"5f370702693bc675","fromSide":"bottom","toNode":"7bc50db6e8bf54a4","toSide":"top"},
