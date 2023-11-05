@@ -6,7 +6,7 @@
 >	What fields & methods will each class have?
 >	How the classes interrelate & how they interact with each other?
 
-- Captures the main business entities & relationships between them
+- Captures the main business entities & [[Relationship(s)]] between them
 >	#Example 
 >	Entities - Canvas: courses & modules
 
