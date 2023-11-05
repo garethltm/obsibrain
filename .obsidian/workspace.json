@@ -15,9 +15,9 @@
               "state": {
                 "file": "COMPSCI235 - Software Development Methodologies/235 summary.canvas",
                 "viewState": {
-                  "x": -6919.822649187325,
-                  "y": -3539.5344604411075,
-                  "zoom": -1.3333333333333328
+                  "x": -10086.142674612049,
+                  "y": -3540.0488118813773,
+                  "zoom": -2.9999999999999996
                 }
               }
             }
@@ -181,10 +181,12 @@
   },
   "active": "33a55b9766be070c",
   "lastOpenFiles": [
+    "COMPSCI235 - Software Development Methodologies/Modern software systems.md",
+    "COMPSCI235 - Software Development Methodologies/Networked.md",
+    "COMPSCI235 - Software Development Methodologies/235 summary.canvas",
     "COMPSCI235 - Software Development Methodologies/System Integration.md",
     "COMPSCI235 - Software Development Methodologies/External Dependency.md",
     "COMPSCI235 - Software Development Methodologies/How to deal with dependencies in testing.md",
-    "COMPSCI235 - Software Development Methodologies/235 summary.canvas",
     "COMPSCI235 - Software Development Methodologies/Evolutionary (Iterative) Approach.md",
     "COMPSCI235 - Software Development Methodologies/technical debt.md",
     "COMPSCI235 - Software Development Methodologies/Security concerns.md",
@@ -206,8 +208,6 @@
     "COMPSCI235 - Software Development Methodologies/stub.md",
     "COMPSCI367 - Artificial Intelligence/week06/Structured Representation.md",
     "COMPSCI235 - Software Development Methodologies/Software Build.md",
-    "COMPSCI235 - Software Development Methodologies/Refactoring.md",
-    "COMPSCI235 - Software Development Methodologies/Qualitative metrics.md",
     "@images/1 TYRSuON0vVxy8olllrBVEw.png",
     "@images/Pasted image 20231104020521.png",
     "@images/Pasted image 20231104015543.png",
