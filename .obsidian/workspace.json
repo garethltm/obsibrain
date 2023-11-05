@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Scrum.md",
+                "file": "COMPSCI235 - Software Development Methodologies/Incremental Development.md",
                 "mode": "source",
                 "source": false
               }
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Scrum.md",
+                "file": "COMPSCI235 - Software Development Methodologies/Incremental Development.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Scrum.md",
+                "file": "COMPSCI235 - Software Development Methodologies/Incremental Development.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Scrum.md"
+                "file": "COMPSCI235 - Software Development Methodologies/Incremental Development.md"
               }
             }
           },
@@ -167,7 +167,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Scrum.md"
+                "file": "COMPSCI235 - Software Development Methodologies/Incremental Development.md"
               }
             }
           }
@@ -192,10 +192,11 @@
   },
   "active": "95c985d8e33e2311",
   "lastOpenFiles": [
-    "COMPSCI235 - Software Development Methodologies/Transparency.md",
     "COMPSCI235 - Software Development Methodologies/Scrum.md",
-    "COMPSCI235 - Software Development Methodologies/Product Owner.md",
     "COMPSCI235 - Software Development Methodologies/AGILE.md",
+    "COMPSCI235 - Software Development Methodologies/SPRINT (iteration).md",
+    "COMPSCI235 - Software Development Methodologies/Transparency.md",
+    "COMPSCI235 - Software Development Methodologies/Product Owner.md",
     "COMPSCI235 - Software Development Methodologies/technical debt.md",
     "COMPSCI235 - Software Development Methodologies/stub.md",
     "COMPSCI367 - Artificial Intelligence/week06/Structured Representation.md",
@@ -217,7 +218,6 @@
     "COMPSCI235 - Software Development Methodologies/Template inheritance.md",
     "COMPSCI235 - Software Development Methodologies/Continuous Deployment.md",
     "COMPSCI235 - Software Development Methodologies/Continuous Integration (CI).md",
-    "COMPSCI235 - Software Development Methodologies/Version Control Systems (VCS).md",
     "@images/1 TYRSuON0vVxy8olllrBVEw.png",
     "@images/Pasted image 20231104020521.png",
     "@images/Pasted image 20231104015543.png",
