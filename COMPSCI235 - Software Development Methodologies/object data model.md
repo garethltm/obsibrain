@@ -14,7 +14,7 @@ The [[object data model]] is the basis of [[Object-Oriented Database Management 
 ## Advantages
 1. complex objects & relationships
 2. class hierarchies, inheritance
-3. no impedance mismatch
+3. no [[Impedence]] mismatch
 	- between objects in programming world & corresponding objects in [[COMPSCI235 - Software Development Methodologies/database|database]]
 4. no need for primary keys
 5. no need for query language ([[SQL]]), use of one programming language
