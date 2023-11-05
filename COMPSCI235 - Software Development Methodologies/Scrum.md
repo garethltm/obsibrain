@@ -3,7 +3,7 @@
 - working towards a collaborative goal ([[SPRINT (iteration)]] goal)
 	- which involves people from different teams
 
-Successful project is one that optimises the value of the product for which it is being developed
+<mark style="background: #FFB86CA6;">Successful project is one that optimises the value of the product for which it is being developed</mark>
 
 [[Scrum]] is [[empirical]]
 - learn & improve upon past mistakes & experiences
@@ -11,9 +11,9 @@ Successful project is one that optimises the value of the product for which it i
 	- adapting your process based on your learnings
 
 ![[Pasted image 20231103160821.png]]
-- [[Transparency]]
-- [[Inspection]]
-- [[Adaptation]]
+- ![[Transparency]]
+- ![[Inspection]]
+- ![[Adaptation]]
 
 ![[Pasted image 20231103162819.png]]
 ### Main roles
