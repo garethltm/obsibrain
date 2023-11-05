@@ -6,7 +6,6 @@
 		{"id":"c45f9379f7fec3dc","type":"file","file":"COMPSCI235 - Software Development Methodologies/cookie.md","x":-2442,"y":1066,"width":400,"height":400},
 		{"id":"46d04d896c883479","type":"file","file":"COMPSCI235 - Software Development Methodologies/code review.md","x":-1796,"y":1425,"width":400,"height":400},
 		{"id":"ee7dbb282c941b90","type":"file","file":"COMPSCI235 - Software Development Methodologies/Aggregation.md","x":540,"y":-360,"width":400,"height":400},
-		{"id":"7bc50db6e8bf54a4","type":"file","file":"COMPSCI235 - Software Development Methodologies/AGILE.md","x":-820,"y":-840,"width":400,"height":400},
 		{"id":"a9d67f096a4887a5","type":"file","file":"COMPSCI235 - Software Development Methodologies/Application Architecture.md","x":-360,"y":220,"width":494,"height":400},
 		{"id":"895f090e1f23f68c","type":"file","file":"COMPSCI235 - Software Development Methodologies/Association.md","x":540,"y":-840,"width":400,"height":400},
 		{"id":"f0b744e84fcaad88","type":"file","file":"COMPSCI235 - Software Development Methodologies/Automated Build.md","x":-313,"y":-260,"width":400,"height":400},
@@ -21,12 +20,9 @@
 		{"id":"582370e009734836","type":"file","file":"COMPSCI235 - Software Development Methodologies/code quality.md","x":-1360,"y":993,"width":400,"height":400},
 		{"id":"281fed289b17a048","type":"file","file":"COMPSCI235 - Software Development Methodologies/Continuous Integration (CI).md","x":-3280,"y":-260,"width":400,"height":400},
 		{"id":"eb586b34de96f082","type":"file","file":"COMPSCI235 - Software Development Methodologies/Continuous Deployment.md","x":-3280,"y":220,"width":400,"height":400},
-		{"id":"a1bc0d96d39bdfbd","type":"file","file":"COMPSCI235 - Software Development Methodologies/Continuous Delivery (CD).md","x":-3280,"y":-760,"width":400,"height":400},
 		{"id":"83bbe932d4641fd1","type":"file","file":"COMPSCI235 - Software Development Methodologies/Cross-site Request Forgery (CSRF).md","x":-2442,"y":593,"width":400,"height":400},
 		{"id":"d5abf1230783dbe2","type":"file","file":"COMPSCI235 - Software Development Methodologies/Distributed VCS.md","x":-1900,"y":1940,"width":400,"height":400},
-		{"id":"a0790e8e723cdf61","type":"file","file":"COMPSCI235 - Software Development Methodologies/ACID.md","x":-2309,"y":-839,"width":400,"height":400},
 		{"id":"2f19d3ea0e21eb2c","type":"file","file":"COMPSCI235 - Software Development Methodologies/eXtreme Programming (XP).md","x":-2442,"y":-60,"width":400,"height":400},
-		{"id":"ca346252f8709114","type":"file","file":"COMPSCI235 - Software Development Methodologies/Flask.md","x":-2760,"y":-560,"width":400,"height":400},
 		{"id":"11d29931a65e1588","type":"file","file":"COMPSCI235 - Software Development Methodologies/Hypertext Transfer Protocol (HTTP).md","x":-3525,"y":709,"width":400,"height":400},
 		{"id":"fca5d5a890343e37","type":"file","file":"COMPSCI235 - Software Development Methodologies/Integration Testing.md","x":-1840,"y":-260,"width":400,"height":400},
 		{"id":"e8206692a4526a39","type":"file","file":"COMPSCI235 - Software Development Methodologies/Jinja.md","x":-3525,"y":1320,"width":400,"height":400},
@@ -59,8 +55,15 @@
 		{"id":"7e39254a94e2d0fd","type":"file","file":"COMPSCI235 - Software Development Methodologies/Software Architecture.md","x":-1160,"y":2340,"width":400,"height":400},
 		{"id":"b4b2b11b0312dcb0","type":"file","file":"COMPSCI235 - Software Development Methodologies/Linear Approach.md","x":-3840,"y":-1960,"width":680,"height":680},
 		{"id":"e68e3e8b4ad09c22","type":"file","file":"COMPSCI235 - Software Development Methodologies/Evolutionary (Iterative) Approach.md","x":-2400,"y":-1960,"width":600,"height":640},
-		{"id":"a5cbe9139b648ec5","type":"file","file":"COMPSCI235 - Software Development Methodologies/Incremental Development.md","x":-3000,"y":-1960,"width":440,"height":240},
-		{"id":"93be25677b443309","type":"file","file":"COMPSCI235 - Software Development Methodologies/Software Process Models.md","x":-3307,"y":-3040,"width":1095,"height":760}
+		{"id":"93be25677b443309","type":"file","file":"COMPSCI235 - Software Development Methodologies/Software Process Models.md","x":-3307,"y":-3040,"width":1095,"height":760},
+		{"id":"5f370702693bc675","x":-3080,"y":-1960,"width":600,"height":760,"type":"file","file":"COMPSCI235 - Software Development Methodologies/Incremental Approach.md"},
+		{"id":"a0790e8e723cdf61","type":"file","file":"COMPSCI235 - Software Development Methodologies/ACID.md","x":-960,"y":-1600,"width":400,"height":400},
+		{"id":"ca346252f8709114","type":"file","file":"COMPSCI235 - Software Development Methodologies/Flask.md","x":-1120,"y":-880,"width":400,"height":400},
+		{"id":"a1bc0d96d39bdfbd","type":"file","file":"COMPSCI235 - Software Development Methodologies/Continuous Delivery (CD).md","x":-3560,"y":-960,"width":400,"height":400},
+		{"id":"7bc50db6e8bf54a4","type":"file","file":"COMPSCI235 - Software Development Methodologies/AGILE.md","x":-2540,"y":-960,"width":400,"height":400}
 	],
-	"edges":[]
+	"edges":[
+		{"id":"e2651a3e146f3635","fromNode":"5f370702693bc675","fromSide":"bottom","toNode":"7bc50db6e8bf54a4","toSide":"top"},
+		{"id":"2d7eb5856e5d1364","fromNode":"e68e3e8b4ad09c22","fromSide":"bottom","toNode":"7bc50db6e8bf54a4","toSide":"top"}
+	]
 }

@@ -1,4 +1,4 @@
-Incremental & Iterative
+[[Incremental Approach]] & [[Evolutionary (Iterative) Approach]]
 - Continuous Cycles
 - Flexible/Continuous Evolution
 	- Changing Requirements/Design
