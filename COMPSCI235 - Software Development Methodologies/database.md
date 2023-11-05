@@ -7,7 +7,7 @@ A [[COMPSCI235 - Software Development Methodologies/database|database]] is manag
 - convenient & efficient environment to use the [[COMPSCI235 - Software Development Methodologies/database|database]]
 >	#Example 
 >	OS = manages hardware
->	Hardware = standalone
+>		Hardware = standalone
 
 A [[COMPSCI235 - Software Development Methodologies/database|database]] stores data persistently
 - any change to the [[COMPSCI235 - Software Development Methodologies/database|database]] is permanent - it is going to stay somewhere
