@@ -20,7 +20,8 @@
 			- patch is not correct
 				- Won't fix (Rejected)
 					- the developers decide not to fix the bug/implement the new feature
-					- limited human resources, or new version is about to be released
+					- limited human resources
+					- new version is about to be released
 		- Duplicate
 			- the issue is a duplicate of an existing issue
 			- Often happens for a user raised issues
