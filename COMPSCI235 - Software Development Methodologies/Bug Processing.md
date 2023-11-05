@@ -28,8 +28,6 @@
 			- sometimes [[Issue Tracking]] systems will allow merge duplicate issues
 		- Deferred
 	- Invalid (Rejected)
-
-	- 
 - Reopened
 	- After the issue is closed, something happens & the issue becomes active again
 		- incomplete fix

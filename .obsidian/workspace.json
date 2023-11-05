@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Authentication.md",
+                "file": "COMPSCI235 - Software Development Methodologies/Bug Processing.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Authentication.md",
+                "file": "COMPSCI235 - Software Development Methodologies/Bug Processing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Authentication.md",
+                "file": "COMPSCI235 - Software Development Methodologies/Bug Processing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Authentication.md"
+                "file": "COMPSCI235 - Software Development Methodologies/Bug Processing.md"
               }
             }
           },
@@ -153,7 +153,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Authentication.md"
+                "file": "COMPSCI235 - Software Development Methodologies/Bug Processing.md"
               }
             }
           }
@@ -178,6 +178,12 @@
   },
   "active": "aadfb509c77e20f4",
   "lastOpenFiles": [
+    "COMPSCI235 - Software Development Methodologies/broken build.md",
+    "COMPSCI235 - Software Development Methodologies/Black Box Testing.md",
+    "COMPSCI235 - Software Development Methodologies/Behavioral Diagrams.md",
+    "COMPSCI235 - Software Development Methodologies/Automated Testing.md",
+    "COMPSCI235 - Software Development Methodologies/Automated Build.md",
+    "COMPSCI235 - Software Development Methodologies/Authentication.md",
     "COMPSCI235 - Software Development Methodologies/Association.md",
     "COMPSCI235 - Software Development Methodologies/Class Diagram.md",
     "COMPSCI235 - Software Development Methodologies/Architectural Pattern.md",
@@ -199,12 +205,6 @@
     "COMPSCI235 - Software Development Methodologies/Version Control Systems (VCS).md",
     "COMPSCI235 - Software Development Methodologies/Software Architecture.md",
     "COMPSCI235 - Software Development Methodologies/System Integration.md",
-    "COMPSCI235 - Software Development Methodologies/Software Build.md",
-    "COMPSCI235 - Software Development Methodologies/software development.md",
-    "COMPSCI235 - Software Development Methodologies/software engineering process.md",
-    "COMPSCI235 - Software Development Methodologies/Software Process Models.md",
-    "COMPSCI235 - Software Development Methodologies/Software vs Program.md",
-    "COMPSCI235 - Software Development Methodologies/specification.md",
     "@images/1 TYRSuON0vVxy8olllrBVEw.png",
     "@images/Pasted image 20231104020521.png",
     "@images/Pasted image 20231104015543.png",
