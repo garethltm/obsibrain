@@ -14,9 +14,9 @@
 
 ### Benefits from the [[Application Architecture]]
 The `view layer` has no dependency on the domain model
-- certain changes to the implementation of the domain model won't necessitate change to the view layer
+- certain changes to the implementation of the domain model won't necessitate change to the `view layer`
 
-[[Flask Blueprint]] implementations maintain a separation of `view layer` & `service layer` concerns
+[[Flask Blueprint]] implementations maintain a separation of `view layer` & `service layer` concerns ([[Single Responsibility Principle (SRP)]])
 - The service component of a [[Flask Blueprint]] can be reused with different views
 >	#Example 
 >	views that generate JSON or XML instead of HTML would reuse the service components
