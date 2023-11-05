@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/specification.md",
+                "file": "COMPSCI235 - Software Development Methodologies/Software Architecture.md",
                 "mode": "source",
                 "source": false
               }
@@ -34,7 +34,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/specification.md",
+                "file": "COMPSCI235 - Software Development Methodologies/Software Architecture.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -93,7 +93,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "system integration",
+                "query": "quality",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -110,7 +110,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -130,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/specification.md",
+                "file": "COMPSCI235 - Software Development Methodologies/Software Architecture.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/specification.md",
+                "file": "COMPSCI235 - Software Development Methodologies/Software Architecture.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/specification.md"
+                "file": "COMPSCI235 - Software Development Methodologies/Software Architecture.md"
               }
             }
           },
@@ -198,7 +199,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/specification.md"
+                "file": "COMPSCI235 - Software Development Methodologies/Software Architecture.md"
               }
             }
           }
@@ -221,8 +222,17 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "aadfb509c77e20f4",
+  "active": "a6e0090ac9cbd1f3",
   "lastOpenFiles": [
+    "COMPSCI235 - Software Development Methodologies/Architectural Pattern.md",
+    "COMPSCI235 - Software Development Methodologies/Software Architecture.md",
+    "COMPSCI235 - Software Development Methodologies/System Integration.md",
+    "COMPSCI235 - Software Development Methodologies/Software Build.md",
+    "COMPSCI235 - Software Development Methodologies/software development.md",
+    "COMPSCI235 - Software Development Methodologies/software engineering process.md",
+    "COMPSCI235 - Software Development Methodologies/Software Process Models.md",
+    "COMPSCI235 - Software Development Methodologies/Software vs Program.md",
+    "COMPSCI235 - Software Development Methodologies/specification.md",
     "COMPSCI235 - Software Development Methodologies/SPRINT (iteration).md",
     "COMPSCI235 - Software Development Methodologies/SQL Joins.md",
     "COMPSCI235 - Software Development Methodologies/SQLAlchemy.md",
@@ -237,19 +247,10 @@
     "COMPSCI235 - Software Development Methodologies/Support for reuse.md",
     "COMPSCI235 - Software Development Methodologies/Support for scaling & development.md",
     "COMPSCI235 - Software Development Methodologies/Support separate team development.md",
-    "COMPSCI235 - Software Development Methodologies/System Integration.md",
     "COMPSCI235 - Software Development Methodologies/System testing.md",
     "COMPSCI235 - Software Development Methodologies/Systematic Development Process.md",
     "COMPSCI235 - Software Development Methodologies/Table Relationships.md",
     "COMPSCI235 - Software Development Methodologies/235 summary.canvas",
-    "COMPSCI235 - Software Development Methodologies/cyclomatic complexity.md",
-    "COMPSCI235 - Software Development Methodologies/Quantitative metrics.md",
-    "COMPSCI235 - Software Development Methodologies/Qualitative metrics.md",
-    "COMPSCI235 - Software Development Methodologies/thread pools.md",
-    "COMPSCI235 - Software Development Methodologies/Throughput.md",
-    "COMPSCI235 - Software Development Methodologies/database.md",
-    "COMPSCI235 - Software Development Methodologies/Construction (Code, Test).md",
-    "COMPSCI235 - Software Development Methodologies/Object Oriented Databases (OOD).md",
     "@images/1 TYRSuON0vVxy8olllrBVEw.png",
     "@images/Pasted image 20231104020521.png",
     "@images/Pasted image 20231104015543.png",
