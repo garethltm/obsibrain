@@ -6,4 +6,5 @@
 - `<link>` tag has 3 attributes
 1. `rel` specifies relationship between current document & linked document
 2. `href` specifies the location of linked document
-3. `type` specifies media type of linked document![[Pasted image 20231101173647.png]]
+3. `type` specifies media type of linked document
+	![[Pasted image 20231101173647.png]]

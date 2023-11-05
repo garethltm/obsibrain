@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Continuous Deployment.md",
+                "file": "COMPSCI235 - Software Development Methodologies/Flask Blueprint.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Continuous Deployment.md",
+                "file": "COMPSCI235 - Software Development Methodologies/Flask Blueprint.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Continuous Deployment.md",
+                "file": "COMPSCI235 - Software Development Methodologies/Flask Blueprint.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Continuous Deployment.md"
+                "file": "COMPSCI235 - Software Development Methodologies/Flask Blueprint.md"
               }
             }
           },
@@ -153,7 +153,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Continuous Deployment.md"
+                "file": "COMPSCI235 - Software Development Methodologies/Flask Blueprint.md"
               }
             }
           }
@@ -178,6 +178,15 @@
   },
   "active": "8e28f081a24b1afd",
   "lastOpenFiles": [
+    "COMPSCI235 - Software Development Methodologies/Flask.md",
+    "COMPSCI235 - Software Development Methodologies/Feature requests.md",
+    "COMPSCI235 - Software Development Methodologies/fault-tolerance.md",
+    "COMPSCI235 - Software Development Methodologies/eXtreme Programming (XP).md",
+    "COMPSCI235 - Software Development Methodologies/External style sheet.md",
+    "COMPSCI235 - Software Development Methodologies/External Dependency.md",
+    "COMPSCI235 - Software Development Methodologies/Expired.md",
+    "COMPSCI235 - Software Development Methodologies/Domain Modeling.md",
+    "COMPSCI235 - Software Development Methodologies/Continuous Deployment.md",
     "COMPSCI235 - Software Development Methodologies/Continuous Integration (CI).md",
     "COMPSCI235 - Software Development Methodologies/cookie.md",
     "COMPSCI235 - Software Development Methodologies/core service.md",
@@ -195,15 +204,6 @@
     "COMPSCI235 - Software Development Methodologies/Database schema.md",
     "COMPSCI235 - Software Development Methodologies/definition of done.md",
     "COMPSCI235 - Software Development Methodologies/Dependency.md",
-    "COMPSCI235 - Software Development Methodologies/Deployment.md",
-    "COMPSCI235 - Software Development Methodologies/Design or Support for failure.md",
-    "COMPSCI235 - Software Development Methodologies/design(s).md",
-    "COMPSCI235 - Software Development Methodologies/detail of issue.md",
-    "COMPSCI235 - Software Development Methodologies/Development team.md",
-    "COMPSCI235 - Software Development Methodologies/Distributed VCS.md",
-    "COMPSCI235 - Software Development Methodologies/Documents.md",
-    "COMPSCI235 - Software Development Methodologies/Domain Modeling.md",
-    "COMPSCI235 - Software Development Methodologies/Element selectors.md",
     "COMPSCI235 - Software Development Methodologies/235 summary.canvas",
     "@images/1 TYRSuON0vVxy8olllrBVEw.png",
     "@images/Pasted image 20231104020521.png",
