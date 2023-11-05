@@ -172,7 +172,8 @@ a link to another resource on the WorldWideWeb
 
 #### emphasis & strong
 `<em>` & `<strong>` are meant to indicate meaning through style
-- if you want to have italicized for appearance & not to communicate meaning, you should use CSS![[Pasted image 20231101171302.png]]
+- if you want to have italicized for appearance & not to communicate meaning, you should use CSS
+	![[Pasted image 20231101171302.png]]
 
 # HTML Forms
 ![[Pasted image 20231101171445.png]]
