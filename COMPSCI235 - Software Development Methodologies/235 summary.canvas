@@ -1,8 +1,6 @@
 {
 	"nodes":[
 		{"id":"3d325416bf1610cd","type":"file","file":"COMPSCI235 - Software Development Methodologies/Dependency Inversion Principle (DIP).md","x":-2509,"y":1639,"width":400,"height":400},
-		{"id":"68668411d6812aa5","type":"file","file":"COMPSCI235 - Software Development Methodologies/Relational database.md","x":-5720,"y":2786,"width":400,"height":400},
-		{"id":"5165902baa3f4011","type":"file","file":"COMPSCI235 - Software Development Methodologies/Relational DBMS (RDBMS).md","x":-5120,"y":2786,"width":400,"height":400},
 		{"id":"b4b2b11b0312dcb0","type":"file","file":"COMPSCI235 - Software Development Methodologies/Linear Approach.md","x":-3840,"y":-1960,"width":680,"height":680},
 		{"id":"e68e3e8b4ad09c22","type":"file","file":"COMPSCI235 - Software Development Methodologies/Evolutionary (Iterative) Approach.md","x":-2400,"y":-1960,"width":600,"height":640},
 		{"id":"5f370702693bc675","type":"file","file":"COMPSCI235 - Software Development Methodologies/Incremental Approach.md","x":-3080,"y":-1960,"width":600,"height":760},
@@ -31,7 +29,7 @@
 		{"id":"1af78e8d0317d2a1","type":"file","file":"COMPSCI235 - Software Development Methodologies/Object Oriented Databases (OOD).md","x":-8370,"y":2160,"width":607,"height":380},
 		{"id":"fca5d5a890343e37","type":"file","file":"COMPSCI235 - Software Development Methodologies/Integration Testing.md","x":-1474,"y":8220,"width":760,"height":1046},
 		{"id":"27a1f17bc5d7d439","type":"file","file":"COMPSCI235 - Software Development Methodologies/How to deal with dependencies in testing.md","x":-960,"y":9400,"width":400,"height":400},
-		{"id":"eb02b4d8cbed3eb7","type":"file","file":"COMPSCI235 - Software Development Methodologies/Burn-up charts.md","x":-4720,"y":3617,"width":400,"height":400},
+		{"id":"eb02b4d8cbed3eb7","type":"file","file":"COMPSCI235 - Software Development Methodologies/Burn-up charts.md","x":-4720,"y":3700,"width":400,"height":317},
 		{"id":"d2ec5f1d975043dd","type":"file","file":"COMPSCI235 - Software Development Methodologies/Burn-down charts.md","x":-4720,"y":4063,"width":400,"height":400},
 		{"id":"c6eeb4eecbd6fda4","type":"file","file":"COMPSCI235 - Software Development Methodologies/Middleware.md","x":-7565,"y":1456,"width":800,"height":760},
 		{"id":"ca346252f8709114","type":"file","file":"COMPSCI235 - Software Development Methodologies/Flask.md","x":-6548,"y":1704,"width":400,"height":400},
@@ -53,7 +51,8 @@
 		{"id":"a0790e8e723cdf61","type":"file","file":"COMPSCI235 - Software Development Methodologies/ACID.md","x":-9603,"y":4317,"width":400,"height":500},
 		{"id":"8c24641f4572de8c","type":"file","file":"COMPSCI235 - Software Development Methodologies/Persistence.md","x":-10543,"y":3891,"width":820,"height":1118},
 		{"id":"121f1287823ebeee","x":-8360,"y":4289,"width":600,"height":431,"type":"file","file":"COMPSCI235 - Software Development Methodologies/transaction(s).md"},
-		{"id":"9b258f49a9b2805e","type":"file","file":"COMPSCI235 - Software Development Methodologies/Impedence.md","x":-6557,"y":2320,"width":818,"height":801}
+		{"id":"68668411d6812aa5","type":"file","file":"COMPSCI235 - Software Development Methodologies/Relational database.md","x":-6642,"y":3241,"width":400,"height":400},
+		{"id":"9b258f49a9b2805e","type":"file","file":"COMPSCI235 - Software Development Methodologies/Impedence.md","x":-6042,"y":2816,"width":818,"height":801}
 	],
 	"edges":[
 		{"id":"e2651a3e146f3635","fromNode":"5f370702693bc675","fromSide":"bottom","toNode":"7bc50db6e8bf54a4","toSide":"top"},
@@ -100,6 +99,8 @@
 		{"id":"4daca7eaf2dbe9b2","fromNode":"7bc50db6e8bf54a4","fromSide":"bottom","toNode":"2f19d3ea0e21eb2c","toSide":"top"},
 		{"id":"de527e0f09cf243f","fromNode":"ecdadfb7f7df1134","fromSide":"bottom","toNode":"74dd66f0e37ff070","toSide":"top"},
 		{"id":"65cc81e573da8695","fromNode":"74dd66f0e37ff070","fromSide":"left","toNode":"121f1287823ebeee","toSide":"right"},
-		{"id":"1550726bfe2698f9","fromNode":"74dd66f0e37ff070","fromSide":"left","toNode":"667d8204c6dc2ffe","toSide":"right"}
+		{"id":"1550726bfe2698f9","fromNode":"74dd66f0e37ff070","fromSide":"left","toNode":"667d8204c6dc2ffe","toSide":"right"},
+		{"id":"0ba43dd14e0610a0","fromNode":"ecdadfb7f7df1134","fromSide":"right","toNode":"68668411d6812aa5","toSide":"left"},
+		{"id":"70379b044e43e23b","fromNode":"68668411d6812aa5","fromSide":"right","toNode":"9b258f49a9b2805e","toSide":"left"}
 	]
 }
