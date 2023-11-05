@@ -57,9 +57,10 @@
 		{"id":"1af78e8d0317d2a1","type":"file","file":"COMPSCI235 - Software Development Methodologies/Object Oriented Databases (OOD).md","x":-10847,"y":944,"width":607,"height":380},
 		{"id":"eed78310e93a7d56","type":"file","file":"COMPSCI235 - Software Development Methodologies/SQLAlchemy.md","x":-9119,"y":2592,"width":1159,"height":419},
 		{"id":"a0790e8e723cdf61","type":"file","file":"COMPSCI235 - Software Development Methodologies/ACID.md","x":-10067,"y":4667,"width":400,"height":500},
-		{"id":"8c24641f4572de8c","type":"file","file":"COMPSCI235 - Software Development Methodologies/Persistence.md","x":-10277,"y":3440,"width":820,"height":1118},
 		{"id":"68668411d6812aa5","type":"file","file":"COMPSCI235 - Software Development Methodologies/Relational database.md","x":-9867,"y":3011,"width":400,"height":305},
-		{"id":"9b258f49a9b2805e","type":"file","file":"COMPSCI235 - Software Development Methodologies/Impedence.md","x":-10935,"y":2592,"width":818,"height":801}
+		{"id":"9b258f49a9b2805e","type":"file","file":"COMPSCI235 - Software Development Methodologies/Impedence.md","x":-10935,"y":2592,"width":818,"height":801},
+		{"id":"8c24641f4572de8c","type":"file","file":"COMPSCI235 - Software Development Methodologies/Persistence.md","x":-11000,"y":3682,"width":840,"height":1118},
+		{"id":"b097236a69a05947","x":-9995,"y":3587,"width":400,"height":453,"type":"file","file":"COMPSCI235 - Software Development Methodologies/Relational DBMS (RDBMS).md"}
 	],
 	"edges":[
 		{"id":"e2651a3e146f3635","fromNode":"5f370702693bc675","fromSide":"bottom","toNode":"7bc50db6e8bf54a4","toSide":"top"},
@@ -116,9 +117,11 @@
 		{"id":"457473235574d57a","fromNode":"667d8204c6dc2ffe","fromSide":"left","toNode":"121f1287823ebeee","toSide":"right"},
 		{"id":"d010ff1be8c0d17b","fromNode":"c37563a8ab967bfd","fromSide":"left","toNode":"04a3847918d5aeb5","toSide":"right"},
 		{"id":"314aa6477c462965","fromNode":"667d8204c6dc2ffe","fromSide":"top","toNode":"eed78310e93a7d56","toSide":"bottom"},
-		{"id":"e9ec5429378aff38","fromNode":"eed78310e93a7d56","fromSide":"top","toNode":"68668411d6812aa5","toSide":"bottom"},
 		{"id":"55cf23dc8b067c1f","fromNode":"a0790e8e723cdf61","fromSide":"right","toNode":"121f1287823ebeee","toSide":"left"},
 		{"id":"adeca3eb9b80d478","fromNode":"ecdadfb7f7df1134","fromSide":"bottom","toNode":"68668411d6812aa5","toSide":"top"},
-		{"id":"22678dd390c1f2e8","fromNode":"68668411d6812aa5","fromSide":"left","toNode":"9b258f49a9b2805e","toSide":"right"}
+		{"id":"22678dd390c1f2e8","fromNode":"68668411d6812aa5","fromSide":"left","toNode":"9b258f49a9b2805e","toSide":"right"},
+		{"id":"a33ebb22a90c6b75","fromNode":"eed78310e93a7d56","fromSide":"left","toNode":"68668411d6812aa5","toSide":"right"},
+		{"id":"67adfda6d2371cdd","fromNode":"8c24641f4572de8c","fromSide":"right","toNode":"b097236a69a05947","toSide":"left"},
+		{"id":"37a81e06c2899f95","fromNode":"68668411d6812aa5","fromSide":"bottom","toNode":"b097236a69a05947","toSide":"top"}
 	]
 }
