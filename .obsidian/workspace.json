@@ -17,8 +17,7 @@
                 "mode": "source",
                 "source": false
               }
-            },
-            "group": "ea0712a848031a26"
+            }
           },
           {
             "id": "95c985d8e33e2311",
@@ -26,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Continuous Deployment.md",
+                "file": "COMPSCI235 - Software Development Methodologies/Template containment.md",
                 "mode": "source",
                 "source": false
               }
@@ -34,48 +33,6 @@
           }
         ],
         "currentTab": 1
-      },
-      {
-        "id": "94f901d4a652874d",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "ad6c1c39ce5987c9",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Evolutionary (Iterative) Approach.md",
-                "options": {
-                  "collapse-filter": true,
-                  "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": true,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 3.863410568617497,
-                  "close": false
-                }
-              }
-            },
-            "group": "ea0712a848031a26"
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -121,8 +78,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -142,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Continuous Deployment.md",
+                "file": "COMPSCI235 - Software Development Methodologies/Template containment.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Continuous Deployment.md",
+                "file": "COMPSCI235 - Software Development Methodologies/Template containment.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Continuous Deployment.md"
+                "file": "COMPSCI235 - Software Development Methodologies/Template containment.md"
               }
             }
           },
@@ -210,7 +166,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Continuous Deployment.md"
+                "file": "COMPSCI235 - Software Development Methodologies/Template containment.md"
               }
             }
           }
@@ -235,6 +191,8 @@
   },
   "active": "95c985d8e33e2311",
   "lastOpenFiles": [
+    "COMPSCI235 - Software Development Methodologies/Template inheritance & containment.md",
+    "COMPSCI235 - Software Development Methodologies/Continuous Deployment.md",
     "COMPSCI235 - Software Development Methodologies/Continuous Integration (CI).md",
     "COMPSCI235 - Software Development Methodologies/Version Control Systems (VCS).md",
     "COMPSCI235 - Software Development Methodologies/Object Relation Mapping (ORM).md",
@@ -259,8 +217,6 @@
     "COMPSCI235 - Software Development Methodologies/Class selectors.md",
     "COMPSCI235 - Software Development Methodologies/Element selectors.md",
     "COMPSCI235 - Software Development Methodologies/Cascading Style Sheets (CSS).md",
-    "COMPSCI235 - Software Development Methodologies/ID selectors.md",
-    "COMPSCI235 - Software Development Methodologies/Internal style sheet.md",
     "@images/1 TYRSuON0vVxy8olllrBVEw.png",
     "@images/Pasted image 20231104020521.png",
     "@images/Pasted image 20231104015543.png",
