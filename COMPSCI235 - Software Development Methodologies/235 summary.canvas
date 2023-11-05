@@ -2,15 +2,13 @@
 	"nodes":[
 		{"id":"3d325416bf1610cd","type":"file","file":"COMPSCI235 - Software Development Methodologies/Dependency Inversion Principle (DIP).md","x":-2509,"y":1639,"width":400,"height":400},
 		{"id":"ee7dbb282c941b90","type":"file","file":"COMPSCI235 - Software Development Methodologies/Aggregation.md","x":540,"y":-360,"width":400,"height":400},
-		{"id":"a9d67f096a4887a5","type":"file","file":"COMPSCI235 - Software Development Methodologies/Application Architecture.md","x":-360,"y":220,"width":494,"height":400},
 		{"id":"895f090e1f23f68c","type":"file","file":"COMPSCI235 - Software Development Methodologies/Association.md","x":540,"y":-840,"width":400,"height":400},
 		{"id":"f0b744e84fcaad88","type":"file","file":"COMPSCI235 - Software Development Methodologies/Automated Build.md","x":-313,"y":-260,"width":400,"height":400},
 		{"id":"91c026accfe8ace8","type":"file","file":"COMPSCI235 - Software Development Methodologies/Application layer protocols.md","x":-313,"y":-751,"width":400,"height":223},
-		{"id":"d51024225fdca15f","type":"file","file":"COMPSCI235 - Software Development Methodologies/Behavioral Diagrams.md","x":-1320,"y":220,"width":400,"height":400},
+		{"id":"d51024225fdca15f","type":"file","file":"COMPSCI235 - Software Development Methodologies/Behavioral Diagrams.md","x":-1320,"y":220,"width":400,"height":500},
 		{"id":"717762b89f722f79","type":"file","file":"COMPSCI235 - Software Development Methodologies/Bug Processing.md","x":-1840,"y":720,"width":400,"height":400},
-		{"id":"d2ec5f1d975043dd","type":"file","file":"COMPSCI235 - Software Development Methodologies/Burn-down charts.md","x":-888,"y":993,"width":400,"height":400},
 		{"id":"eb02b4d8cbed3eb7","type":"file","file":"COMPSCI235 - Software Development Methodologies/Burn-up charts.md","x":-313,"y":993,"width":400,"height":400},
-		{"id":"c0f152cffcfc82e2","type":"file","file":"COMPSCI235 - Software Development Methodologies/Class Diagram.md","x":-1840,"y":220,"width":400,"height":400},
+		{"id":"c0f152cffcfc82e2","type":"file","file":"COMPSCI235 - Software Development Methodologies/Class Diagram.md","x":-1840,"y":220,"width":400,"height":620},
 		{"id":"582370e009734836","type":"file","file":"COMPSCI235 - Software Development Methodologies/code quality.md","x":-1360,"y":993,"width":400,"height":400},
 		{"id":"b035213fd6bdaf96","type":"file","file":"COMPSCI235 - Software Development Methodologies/Pending.md","x":-6218,"y":3614,"width":400,"height":400},
 		{"id":"8c24641f4572de8c","type":"file","file":"COMPSCI235 - Software Development Methodologies/Persistence.md","x":-6760,"y":3702,"width":400,"height":750},
@@ -21,9 +19,7 @@
 		{"id":"ab9f7d4d89635b5e","type":"file","file":"COMPSCI235 - Software Development Methodologies/Signed cookies.md","x":-6200,"y":2672,"width":400,"height":400},
 		{"id":"b4b2b11b0312dcb0","type":"file","file":"COMPSCI235 - Software Development Methodologies/Linear Approach.md","x":-3840,"y":-1960,"width":680,"height":680},
 		{"id":"e68e3e8b4ad09c22","type":"file","file":"COMPSCI235 - Software Development Methodologies/Evolutionary (Iterative) Approach.md","x":-2400,"y":-1960,"width":600,"height":640},
-		{"id":"93be25677b443309","type":"file","file":"COMPSCI235 - Software Development Methodologies/Software Process Models.md","x":-3307,"y":-3040,"width":1095,"height":760},
 		{"id":"5f370702693bc675","type":"file","file":"COMPSCI235 - Software Development Methodologies/Incremental Approach.md","x":-3080,"y":-1960,"width":600,"height":760},
-		{"id":"a0790e8e723cdf61","type":"file","file":"COMPSCI235 - Software Development Methodologies/ACID.md","x":-960,"y":-1600,"width":400,"height":400},
 		{"id":"e8206692a4526a39","type":"file","file":"COMPSCI235 - Software Development Methodologies/Jinja.md","x":-7965,"y":-493,"width":400,"height":400},
 		{"id":"cba89f17fc79ea3a","type":"file","file":"COMPSCI235 - Software Development Methodologies/Hypertext Markup Language (HTML).md","x":-7867,"y":70,"width":400,"height":400},
 		{"id":"27a1f17bc5d7d439","type":"file","file":"COMPSCI235 - Software Development Methodologies/How to deal with dependencies in testing.md","x":-7425,"y":-532,"width":400,"height":400},
@@ -62,7 +58,11 @@
 		{"id":"fca5d5a890343e37","type":"file","file":"COMPSCI235 - Software Development Methodologies/Integration Testing.md","x":-480,"y":8000,"width":760,"height":760},
 		{"id":"5ace2510d690f835","type":"file","file":"COMPSCI235 - Software Development Methodologies/Automated Testing.md","x":-1985,"y":8380,"width":400,"height":400},
 		{"id":"21ad1b40a6043003","type":"file","file":"COMPSCI235 - Software Development Methodologies/INVEST.md","x":-2399,"y":9600,"width":814,"height":1499},
-		{"id":"ca346252f8709114","type":"file","file":"COMPSCI235 - Software Development Methodologies/Flask.md","x":-8067,"y":1141,"width":400,"height":400}
+		{"id":"ca346252f8709114","type":"file","file":"COMPSCI235 - Software Development Methodologies/Flask.md","x":-8067,"y":1141,"width":400,"height":400},
+		{"id":"d2ec5f1d975043dd","type":"file","file":"COMPSCI235 - Software Development Methodologies/Burn-down charts.md","x":-313,"y":1439,"width":400,"height":400},
+		{"id":"a9d67f096a4887a5","type":"file","file":"COMPSCI235 - Software Development Methodologies/Application Architecture.md","x":-5160,"y":363,"width":494,"height":1460},
+		{"id":"93be25677b443309","type":"file","file":"COMPSCI235 - Software Development Methodologies/Software Process Models.md","x":-3327,"y":-3040,"width":1095,"height":760},
+		{"id":"a0790e8e723cdf61","type":"file","file":"COMPSCI235 - Software Development Methodologies/ACID.md","x":-5360,"y":3414,"width":400,"height":400}
 	],
 	"edges":[
 		{"id":"e2651a3e146f3635","fromNode":"5f370702693bc675","fromSide":"bottom","toNode":"7bc50db6e8bf54a4","toSide":"top"},
@@ -75,6 +75,9 @@
 		{"id":"343d46d390660f6f","fromNode":"3a980237e4e09669","fromSide":"bottom","toNode":"bf1e09c976dc4ee2","toSide":"top"},
 		{"id":"405546fd89d60b4d","fromNode":"38cc1c31b01fc116","fromSide":"left","toNode":"e22e459b9a174938","toSide":"top"},
 		{"id":"07239abbc2ccaef1","fromNode":"c37563a8ab967bfd","fromSide":"bottom","toNode":"04a3847918d5aeb5","toSide":"top"},
-		{"id":"db2fdb2c288770fc","fromNode":"12dd385c166111cc","fromSide":"bottom","toNode":"c37563a8ab967bfd","toSide":"top"}
+		{"id":"db2fdb2c288770fc","fromNode":"12dd385c166111cc","fromSide":"bottom","toNode":"c37563a8ab967bfd","toSide":"top"},
+		{"id":"a481242185b4442e","fromNode":"93be25677b443309","fromSide":"bottom","toNode":"b4b2b11b0312dcb0","toSide":"top"},
+		{"id":"5527aca376c443c0","fromNode":"93be25677b443309","fromSide":"bottom","toNode":"5f370702693bc675","toSide":"top"},
+		{"id":"9811e0c7c4809ab6","fromNode":"93be25677b443309","fromSide":"bottom","toNode":"e68e3e8b4ad09c22","toSide":"top"}
 	]
 }
