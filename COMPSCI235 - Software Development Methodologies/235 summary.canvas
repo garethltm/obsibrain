@@ -10,7 +10,6 @@
 		{"id":"38cc1c31b01fc116","type":"file","file":"COMPSCI235 - Software Development Methodologies/Scrum.md","x":-3930,"y":2904,"width":845,"height":3117},
 		{"id":"73d240d299679e76","type":"file","file":"COMPSCI235 - Software Development Methodologies/Kanban.md","x":-3005,"y":2904,"width":1060,"height":3557},
 		{"id":"1484a25fb5371506","type":"file","file":"COMPSCI235 - Software Development Methodologies/Scrum Master.md","x":-4560,"y":5440,"width":400,"height":261},
-		{"id":"9b258f49a9b2805e","type":"file","file":"COMPSCI235 - Software Development Methodologies/Impedence.md","x":-5730,"y":2239,"width":400,"height":400},
 		{"id":"e22e459b9a174938","type":"file","file":"COMPSCI235 - Software Development Methodologies/Product Owner.md","x":-5128,"y":5440,"width":400,"height":400},
 		{"id":"bf1e09c976dc4ee2","type":"file","file":"COMPSCI235 - Software Development Methodologies/product backlog refinement.md","x":-5228,"y":6499,"width":600,"height":480},
 		{"id":"3a980237e4e09669","type":"file","file":"COMPSCI235 - Software Development Methodologies/product backlog.md","x":-5128,"y":5979,"width":400,"height":400},
@@ -47,13 +46,14 @@
 		{"id":"e8206692a4526a39","type":"file","file":"COMPSCI235 - Software Development Methodologies/Jinja.md","x":-11800,"y":-4443,"width":1665,"height":2220},
 		{"id":"db383e99511e9c8d","type":"file","file":"COMPSCI235 - Software Development Methodologies/Single Responsibility Principle (SRP).md","x":-8904,"y":-4443,"width":577,"height":348},
 		{"id":"74dd66f0e37ff070","x":-7520,"y":4289,"width":720,"height":720,"type":"file","file":"COMPSCI235 - Software Development Methodologies/Persistent.md"},
-		{"id":"121f1287823ebeee","x":-8040,"y":4360,"width":400,"height":400,"type":"file","file":"COMPSCI235 - Software Development Methodologies/transaction(s).md"},
-		{"id":"667d8204c6dc2ffe","x":-8080,"y":4840,"width":400,"height":1900,"type":"file","file":"COMPSCI235 - Software Development Methodologies/SQLAlchemy Session.md"},
+		{"id":"667d8204c6dc2ffe","x":-8360,"y":4840,"width":680,"height":1900,"type":"file","file":"COMPSCI235 - Software Development Methodologies/SQLAlchemy Session.md"},
 		{"id":"ab9f7d4d89635b5e","type":"file","file":"COMPSCI235 - Software Development Methodologies/Signed cookies.md","x":-6242,"y":3617,"width":400,"height":400},
 		{"id":"7753f2cc1371d7e4","type":"file","file":"COMPSCI235 - Software Development Methodologies/Session cookie.md","x":-5926,"y":4189,"width":798,"height":920},
 		{"id":"5d211a13e7cfeee7","x":-6560,"y":4426,"width":400,"height":223,"type":"file","file":"COMPSCI235 - Software Development Methodologies/session.md"},
 		{"id":"a0790e8e723cdf61","type":"file","file":"COMPSCI235 - Software Development Methodologies/ACID.md","x":-9603,"y":4317,"width":400,"height":500},
-		{"id":"8c24641f4572de8c","type":"file","file":"COMPSCI235 - Software Development Methodologies/Persistence.md","x":-10543,"y":3891,"width":820,"height":1118}
+		{"id":"8c24641f4572de8c","type":"file","file":"COMPSCI235 - Software Development Methodologies/Persistence.md","x":-10543,"y":3891,"width":820,"height":1118},
+		{"id":"121f1287823ebeee","x":-8360,"y":4289,"width":600,"height":431,"type":"file","file":"COMPSCI235 - Software Development Methodologies/transaction(s).md"},
+		{"id":"9b258f49a9b2805e","type":"file","file":"COMPSCI235 - Software Development Methodologies/Impedence.md","x":-6557,"y":2320,"width":818,"height":801}
 	],
 	"edges":[
 		{"id":"e2651a3e146f3635","fromNode":"5f370702693bc675","fromSide":"bottom","toNode":"7bc50db6e8bf54a4","toSide":"top"},
@@ -99,6 +99,7 @@
 		{"id":"da868cb4903060cd","fromNode":"7bc50db6e8bf54a4","fromSide":"bottom","toNode":"73d240d299679e76","toSide":"top"},
 		{"id":"4daca7eaf2dbe9b2","fromNode":"7bc50db6e8bf54a4","fromSide":"bottom","toNode":"2f19d3ea0e21eb2c","toSide":"top"},
 		{"id":"de527e0f09cf243f","fromNode":"ecdadfb7f7df1134","fromSide":"bottom","toNode":"74dd66f0e37ff070","toSide":"top"},
-		{"id":"65cc81e573da8695","fromNode":"74dd66f0e37ff070","fromSide":"left","toNode":"121f1287823ebeee","toSide":"right"}
+		{"id":"65cc81e573da8695","fromNode":"74dd66f0e37ff070","fromSide":"left","toNode":"121f1287823ebeee","toSide":"right"},
+		{"id":"1550726bfe2698f9","fromNode":"74dd66f0e37ff070","fromSide":"left","toNode":"667d8204c6dc2ffe","toSide":"right"}
 	]
 }
