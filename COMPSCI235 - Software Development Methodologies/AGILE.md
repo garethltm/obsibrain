@@ -48,7 +48,7 @@ which are:
 - Feature-Driven Development (FDD)
 - Scrum
 - Lean Software Development
-- Kanban
+- [[Kanban]]
 - Test Driven Development
 - Adaptive Software Development (ASD)
 - Crystal Clear & Other Crystal Methodologies
