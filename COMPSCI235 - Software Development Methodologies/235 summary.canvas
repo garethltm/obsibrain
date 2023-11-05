@@ -1,6 +1,5 @@
 {
 	"nodes":[
-		{"id":"b035213fd6bdaf96","x":-5409,"y":3162,"width":400,"height":400,"type":"file","file":"COMPSCI235 - Software Development Methodologies/Pending.md"},
 		{"id":"76ddb14df3f5e966","type":"file","file":"COMPSCI235 - Software Development Methodologies/Object-Relational Database Management System (ORDBMS).md","x":-3093,"y":2932,"width":400,"height":400},
 		{"id":"21ad1b40a6043003","type":"file","file":"COMPSCI235 - Software Development Methodologies/INVEST.md","x":-814,"y":1604,"width":400,"height":400},
 		{"id":"3d325416bf1610cd","type":"file","file":"COMPSCI235 - Software Development Methodologies/Dependency Inversion Principle (DIP).md","x":-2509,"y":1639,"width":400,"height":400},
@@ -35,7 +34,6 @@
 		{"id":"e8206692a4526a39","type":"file","file":"COMPSCI235 - Software Development Methodologies/Jinja.md","x":-3525,"y":1320,"width":400,"height":400},
 		{"id":"cba89f17fc79ea3a","type":"file","file":"COMPSCI235 - Software Development Methodologies/Hypertext Markup Language (HTML).md","x":-3427,"y":1883,"width":400,"height":400},
 		{"id":"27a1f17bc5d7d439","type":"file","file":"COMPSCI235 - Software Development Methodologies/How to deal with dependencies in testing.md","x":-2985,"y":1281,"width":400,"height":400},
-		{"id":"73d240d299679e76","type":"file","file":"COMPSCI235 - Software Development Methodologies/Kanban.md","x":-3925,"y":20,"width":400,"height":400},
 		{"id":"b4b2b11b0312dcb0","type":"file","file":"COMPSCI235 - Software Development Methodologies/Linear Approach.md","x":-2442,"y":-1360,"width":400,"height":400},
 		{"id":"ceae846c6ad4fbd0","type":"file","file":"COMPSCI235 - Software Development Methodologies/Interaction Diagram.md","x":-2842,"y":193,"width":400,"height":400},
 		{"id":"c6eeb4eecbd6fda4","type":"file","file":"COMPSCI235 - Software Development Methodologies/Middleware.md","x":-4940,"y":709,"width":400,"height":400},
@@ -45,7 +43,12 @@
 		{"id":"ecdadfb7f7df1134","type":"file","file":"COMPSCI235 - Software Development Methodologies/Object Relation Mapping (ORM).md","x":-4046,"y":2327,"width":400,"height":400},
 		{"id":"9b258f49a9b2805e","type":"file","file":"COMPSCI235 - Software Development Methodologies/Impedence.md","x":-4520,"y":2340,"width":400,"height":400},
 		{"id":"1af78e8d0317d2a1","type":"file","file":"COMPSCI235 - Software Development Methodologies/Object Oriented Databases (OOD).md","x":-4539,"y":2869,"width":400,"height":400},
-		{"id":"64d0ba95044a7145","type":"file","file":"COMPSCI235 - Software Development Methodologies/Object-Oriented Database Management System (OODBMS).md","x":-3889,"y":2950,"width":400,"height":400}
+		{"id":"64d0ba95044a7145","type":"file","file":"COMPSCI235 - Software Development Methodologies/Object-Oriented Database Management System (OODBMS).md","x":-3889,"y":2950,"width":400,"height":400},
+		{"id":"b035213fd6bdaf96","type":"file","file":"COMPSCI235 - Software Development Methodologies/Pending.md","x":-5409,"y":3162,"width":400,"height":400},
+		{"id":"8c24641f4572de8c","type":"file","file":"COMPSCI235 - Software Development Methodologies/Persistence.md","x":-5951,"y":3250,"width":400,"height":750},
+		{"id":"73cbdf51402df4f1","type":"file","file":"COMPSCI235 - Software Development Methodologies/Persistent.md","x":-5409,"y":3625,"width":400,"height":771},
+		{"id":"3a980237e4e09669","x":-5751,"y":866,"width":400,"height":400,"type":"file","file":"COMPSCI235 - Software Development Methodologies/product backlog.md"},
+		{"id":"73d240d299679e76","type":"file","file":"COMPSCI235 - Software Development Methodologies/Kanban.md","x":-6260,"y":-400,"width":1060,"height":1193}
 	],
 	"edges":[]
 }
