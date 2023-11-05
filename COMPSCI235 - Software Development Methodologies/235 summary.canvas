@@ -1,6 +1,5 @@
 {
 	"nodes":[
-		{"id":"1484a25fb5371506","type":"file","file":"COMPSCI235 - Software Development Methodologies/Scrum Master.md","x":-5562,"y":4202,"width":400,"height":400},
 		{"id":"3d325416bf1610cd","type":"file","file":"COMPSCI235 - Software Development Methodologies/Dependency Inversion Principle (DIP).md","x":-2509,"y":1639,"width":400,"height":400},
 		{"id":"ee7dbb282c941b90","type":"file","file":"COMPSCI235 - Software Development Methodologies/Aggregation.md","x":540,"y":-360,"width":400,"height":400},
 		{"id":"a9d67f096a4887a5","type":"file","file":"COMPSCI235 - Software Development Methodologies/Application Architecture.md","x":-360,"y":220,"width":494,"height":400},
@@ -32,7 +31,6 @@
 		{"id":"d8831e70f180edba","type":"file","file":"COMPSCI235 - Software Development Methodologies/Refactoring.md","x":-5328,"y":4638,"width":400,"height":400},
 		{"id":"7753f2cc1371d7e4","type":"file","file":"COMPSCI235 - Software Development Methodologies/Session cookie.md","x":-6218,"y":3160,"width":400,"height":400},
 		{"id":"ab9f7d4d89635b5e","type":"file","file":"COMPSCI235 - Software Development Methodologies/Signed cookies.md","x":-6200,"y":2672,"width":400,"height":400},
-		{"id":"db383e99511e9c8d","type":"file","file":"COMPSCI235 - Software Development Methodologies/Single Responsibility Principle (SRP).md","x":-4480,"y":2872,"width":400,"height":400},
 		{"id":"7e39254a94e2d0fd","type":"file","file":"COMPSCI235 - Software Development Methodologies/Software Architecture.md","x":-1160,"y":2340,"width":400,"height":400},
 		{"id":"b4b2b11b0312dcb0","type":"file","file":"COMPSCI235 - Software Development Methodologies/Linear Approach.md","x":-3840,"y":-1960,"width":680,"height":680},
 		{"id":"e68e3e8b4ad09c22","type":"file","file":"COMPSCI235 - Software Development Methodologies/Evolutionary (Iterative) Approach.md","x":-2400,"y":-1960,"width":600,"height":640},
@@ -60,12 +58,17 @@
 		{"id":"38cc1c31b01fc116","type":"file","file":"COMPSCI235 - Software Development Methodologies/Scrum.md","x":-3930,"y":2904,"width":845,"height":3117},
 		{"id":"73d240d299679e76","type":"file","file":"COMPSCI235 - Software Development Methodologies/Kanban.md","x":-3005,"y":2904,"width":1060,"height":3557},
 		{"id":"46d04d896c883479","type":"file","file":"COMPSCI235 - Software Development Methodologies/code review.md","x":-1320,"y":1439,"width":400,"height":400},
-		{"id":"581793d62d5bce29","x":-4480,"y":7256,"width":935,"height":3884,"type":"file","file":"COMPSCI235 - Software Development Methodologies/user stories.md"},
-		{"id":"21ad1b40a6043003","type":"file","file":"COMPSCI235 - Software Development Methodologies/INVEST.md","x":-2920,"y":8449,"width":814,"height":1499}
+		{"id":"581793d62d5bce29","x":-3552,"y":7680,"width":935,"height":3884,"type":"file","file":"COMPSCI235 - Software Development Methodologies/user stories.md"},
+		{"id":"21ad1b40a6043003","type":"file","file":"COMPSCI235 - Software Development Methodologies/INVEST.md","x":-1992,"y":8873,"width":814,"height":1499},
+		{"id":"1484a25fb5371506","type":"file","file":"COMPSCI235 - Software Development Methodologies/Scrum Master.md","x":-4560,"y":5440,"width":400,"height":261},
+		{"id":"db383e99511e9c8d","type":"file","file":"COMPSCI235 - Software Development Methodologies/Single Responsibility Principle (SRP).md","x":-6960,"y":2935,"width":400,"height":400}
 	],
 	"edges":[
 		{"id":"e2651a3e146f3635","fromNode":"5f370702693bc675","fromSide":"bottom","toNode":"7bc50db6e8bf54a4","toSide":"top"},
 		{"id":"2d7eb5856e5d1364","fromNode":"e68e3e8b4ad09c22","fromSide":"bottom","toNode":"7bc50db6e8bf54a4","toSide":"top"},
-		{"id":"ee8fd4a723103941","fromNode":"581793d62d5bce29","fromSide":"right","toNode":"21ad1b40a6043003","toSide":"left"}
+		{"id":"ee8fd4a723103941","fromNode":"581793d62d5bce29","fromSide":"right","toNode":"21ad1b40a6043003","toSide":"left"},
+		{"id":"986f5dc9e1facf1e","fromNode":"73d240d299679e76","fromSide":"bottom","toNode":"581793d62d5bce29","toSide":"top"},
+		{"id":"d9b7c8ff4045a26b","fromNode":"38cc1c31b01fc116","fromSide":"bottom","toNode":"581793d62d5bce29","toSide":"top"},
+		{"id":"44239ab40f381db4","fromNode":"38cc1c31b01fc116","fromSide":"left","toNode":"1484a25fb5371506","toSide":"top"}
 	]
 }
