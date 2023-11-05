@@ -1,5 +1,6 @@
 {
 	"nodes":[
+		{"id":"2ed68c4619a2385b","x":-2946,"y":2870,"width":400,"height":400,"type":"file","file":"COMPSCI235 - Software Development Methodologies/Work In Progress (WIP).md"},
 		{"id":"38cc1c31b01fc116","type":"file","file":"COMPSCI235 - Software Development Methodologies/Scrum.md","x":-2702,"y":-1602,"width":845,"height":3117},
 		{"id":"73d240d299679e76","type":"file","file":"COMPSCI235 - Software Development Methodologies/Kanban.md","x":-1777,"y":-1602,"width":1060,"height":3557},
 		{"id":"2f19d3ea0e21eb2c","type":"file","file":"COMPSCI235 - Software Development Methodologies/eXtreme Programming (XP).md","x":-646,"y":-1602,"width":960,"height":4936},
@@ -80,7 +81,8 @@
 		{"id":"088eb6a4b1a43428","type":"file","file":"COMPSCI235 - Software Development Methodologies/Template inheritance.md","x":2085,"y":-4087,"width":501,"height":680},
 		{"id":"7301441fc827fe6a","type":"file","file":"COMPSCI235 - Software Development Methodologies/Templating.md","x":5080,"y":-4840,"width":720,"height":973},
 		{"id":"21fb6e6107f68238","type":"file","file":"COMPSCI235 - Software Development Methodologies/Continuous Deployment.md","x":1960,"y":-1160,"width":920,"height":960},
-		{"id":"d94027485fb4f6b1","x":480,"y":-1160,"width":1314,"height":890,"type":"file","file":"COMPSCI235 - Software Development Methodologies/Version Control Systems (VCS).md"}
+		{"id":"d94027485fb4f6b1","x":480,"y":-1160,"width":1314,"height":890,"type":"file","file":"COMPSCI235 - Software Development Methodologies/Version Control Systems (VCS).md"},
+		{"id":"1842ed29256fc5ea","x":-2932,"y":2075,"width":400,"height":560,"type":"file","file":"COMPSCI235 - Software Development Methodologies/Waste elimination - Task Switching.md"}
 	],
 	"edges":[
 		{"id":"e2651a3e146f3635","fromNode":"5f370702693bc675","fromSide":"bottom","toNode":"7bc50db6e8bf54a4","toSide":"top"},
@@ -165,6 +167,7 @@
 		{"id":"5927c68064b6974e","fromNode":"2149a1203498a1cf","fromSide":"left","toNode":"088eb6a4b1a43428","toSide":"right"},
 		{"id":"05c7ce020af9b6ce","fromNode":"1eb454875e70b4cf","fromSide":"left","toNode":"7bc50db6e8bf54a4","toSide":"right"},
 		{"id":"a129dcfec7c0e040","fromNode":"7301441fc827fe6a","fromSide":"right","toNode":"0d6c306d5cb8094b","toSide":"left"},
-		{"id":"79f0231a02f87fba","fromNode":"e8206692a4526a39","fromSide":"right","toNode":"7301441fc827fe6a","toSide":"left"}
+		{"id":"79f0231a02f87fba","fromNode":"e8206692a4526a39","fromSide":"right","toNode":"7301441fc827fe6a","toSide":"left"},
+		{"id":"3367365b4d7c1dd7","fromNode":"515eec9f03453a29","fromSide":"top","toNode":"d94027485fb4f6b1","toSide":"bottom"}
 	]
 }

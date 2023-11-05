@@ -15,9 +15,9 @@
               "state": {
                 "file": "COMPSCI235 - Software Development Methodologies/235 summary.canvas",
                 "viewState": {
-                  "x": 1600.8652243662802,
-                  "y": 229.47017100760968,
-                  "zoom": -1.3333333333333333
+                  "x": -2398.562457101489,
+                  "y": 3376.3777932299095,
+                  "zoom": -3.3333333333333335
                 }
               }
             }
@@ -156,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Continuous Deployment.md",
+                "file": "COMPSCI235 - Software Development Methodologies/Work In Progress (WIP).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +173,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Continuous Deployment.md",
+                "file": "COMPSCI235 - Software Development Methodologies/Work In Progress (WIP).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -196,7 +196,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Continuous Deployment.md"
+                "file": "COMPSCI235 - Software Development Methodologies/Work In Progress (WIP).md"
               }
             }
           },
@@ -224,7 +224,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Continuous Deployment.md"
+                "file": "COMPSCI235 - Software Development Methodologies/Work In Progress (WIP).md"
               }
             }
           }
