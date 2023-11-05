@@ -1,6 +1,5 @@
 {
 	"nodes":[
-		{"id":"a597f2b705424be2","x":-8780,"y":-3548,"width":400,"height":400,"type":"file","file":"COMPSCI235 - Software Development Methodologies/Application layer protocols.md"},
 		{"id":"3d325416bf1610cd","type":"file","file":"COMPSCI235 - Software Development Methodologies/Dependency Inversion Principle (DIP).md","x":-2509,"y":1639,"width":400,"height":400},
 		{"id":"68668411d6812aa5","type":"file","file":"COMPSCI235 - Software Development Methodologies/Relational database.md","x":-5720,"y":2786,"width":400,"height":400},
 		{"id":"5165902baa3f4011","type":"file","file":"COMPSCI235 - Software Development Methodologies/Relational DBMS (RDBMS).md","x":-5120,"y":2786,"width":400,"height":400},
@@ -57,7 +56,8 @@
 		{"id":"ca346252f8709114","type":"file","file":"COMPSCI235 - Software Development Methodologies/Flask.md","x":-5383,"y":-2412,"width":400,"height":400},
 		{"id":"c45f9379f7fec3dc","type":"file","file":"COMPSCI235 - Software Development Methodologies/cookie.md","x":-5178,"y":-4512,"width":600,"height":700},
 		{"id":"11d29931a65e1588","type":"file","file":"COMPSCI235 - Software Development Methodologies/Hypertext Transfer Protocol (HTTP).md","x":-6618,"y":-5572,"width":1235,"height":2740},
-		{"id":"a9d67f096a4887a5","type":"file","file":"COMPSCI235 - Software Development Methodologies/Application Architecture.md","x":-8240,"y":-5160,"width":1205,"height":2120}
+		{"id":"a597f2b705424be2","x":-7280,"y":-4240,"width":400,"height":288,"type":"file","file":"COMPSCI235 - Software Development Methodologies/Application layer protocols.md"},
+		{"id":"a9d67f096a4887a5","type":"file","file":"COMPSCI235 - Software Development Methodologies/Application Architecture.md","x":-8620,"y":-5180,"width":1205,"height":2120}
 	],
 	"edges":[
 		{"id":"e2651a3e146f3635","fromNode":"5f370702693bc675","fromSide":"bottom","toNode":"7bc50db6e8bf54a4","toSide":"top"},
@@ -89,6 +89,7 @@
 		{"id":"3eba16299e4a90bd","fromNode":"c6eeb4eecbd6fda4","fromSide":"right","toNode":"ca346252f8709114","toSide":"left"},
 		{"id":"de1e57c6b35f5997","fromNode":"11d29931a65e1588","fromSide":"bottom","toNode":"c6eeb4eecbd6fda4","toSide":"top"},
 		{"id":"f4080bdfdd0d0740","fromNode":"11d29931a65e1588","fromSide":"right","toNode":"c45f9379f7fec3dc","toSide":"left"},
-		{"id":"7497da8c08623cd1","fromNode":"a9d67f096a4887a5","fromSide":"right","toNode":"11d29931a65e1588","toSide":"left"}
+		{"id":"cdaede56f92e60ed","fromNode":"a9d67f096a4887a5","fromSide":"right","toNode":"a597f2b705424be2","toSide":"left"},
+		{"id":"326bf3eee3949097","fromNode":"a597f2b705424be2","fromSide":"right","toNode":"11d29931a65e1588","toSide":"left"}
 	]
 }

@@ -15,8 +15,8 @@
               "state": {
                 "file": "COMPSCI235 - Software Development Methodologies/235 summary.canvas",
                 "viewState": {
-                  "x": -7759.7810535348035,
-                  "y": -3375.418352129034,
+                  "x": -8984.334869260509,
+                  "y": -3893.9336009419844,
                   "zoom": -0.6666666666666663
                 }
               }
@@ -88,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Application layer protocols.md",
+                "file": "COMPSCI235 - Software Development Methodologies/Hypertext Markup Language (HTML).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Application layer protocols.md",
+                "file": "COMPSCI235 - Software Development Methodologies/Hypertext Markup Language (HTML).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Application layer protocols.md"
+                "file": "COMPSCI235 - Software Development Methodologies/Hypertext Markup Language (HTML).md"
               }
             }
           },
@@ -156,7 +156,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Application layer protocols.md"
+                "file": "COMPSCI235 - Software Development Methodologies/Hypertext Markup Language (HTML).md"
               }
             }
           }
