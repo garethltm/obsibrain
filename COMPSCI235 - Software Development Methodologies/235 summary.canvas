@@ -20,10 +20,8 @@
 		{"id":"27a1f17bc5d7d439","type":"file","file":"COMPSCI235 - Software Development Methodologies/How to deal with dependencies in testing.md","x":-7425,"y":-532,"width":400,"height":400},
 		{"id":"ceae846c6ad4fbd0","type":"file","file":"COMPSCI235 - Software Development Methodologies/Interaction Diagram.md","x":-7282,"y":-1620,"width":400,"height":440},
 		{"id":"7bc50db6e8bf54a4","type":"file","file":"COMPSCI235 - Software Development Methodologies/AGILE.md","x":-3085,"y":-934,"width":1211,"height":3600},
-		{"id":"76ddb14df3f5e966","type":"file","file":"COMPSCI235 - Software Development Methodologies/Object-Relational Database Management System (ORDBMS).md","x":-9280,"y":1541,"width":960,"height":765},
 		{"id":"ecdadfb7f7df1134","type":"file","file":"COMPSCI235 - Software Development Methodologies/Object Relation Mapping (ORM).md","x":-10080,"y":2740,"width":800,"height":1375},
 		{"id":"64d0ba95044a7145","type":"file","file":"COMPSCI235 - Software Development Methodologies/Object-Oriented Database Management System (OODBMS).md","x":-8800,"y":2740,"width":560,"height":400},
-		{"id":"1af78e8d0317d2a1","type":"file","file":"COMPSCI235 - Software Development Methodologies/Object Oriented Databases (OOD).md","x":-7965,"y":2672,"width":400,"height":463},
 		{"id":"38cc1c31b01fc116","type":"file","file":"COMPSCI235 - Software Development Methodologies/Scrum.md","x":-3930,"y":2904,"width":845,"height":3117},
 		{"id":"73d240d299679e76","type":"file","file":"COMPSCI235 - Software Development Methodologies/Kanban.md","x":-3005,"y":2904,"width":1060,"height":3557},
 		{"id":"46d04d896c883479","type":"file","file":"COMPSCI235 - Software Development Methodologies/code review.md","x":-1320,"y":1439,"width":400,"height":400},
@@ -39,7 +37,6 @@
 		{"id":"5b4bbb7c204a28ee","type":"file","file":"COMPSCI235 - Software Development Methodologies/Modern software systems.md","x":-10880,"y":-1843,"width":1080,"height":2003},
 		{"id":"d5abf1230783dbe2","type":"file","file":"COMPSCI235 - Software Development Methodologies/Distributed VCS.md","x":-10360,"y":1431,"width":960,"height":1000},
 		{"id":"2f19d3ea0e21eb2c","type":"file","file":"COMPSCI235 - Software Development Methodologies/eXtreme Programming (XP).md","x":-1874,"y":2904,"width":960,"height":4936},
-		{"id":"7e39254a94e2d0fd","type":"file","file":"COMPSCI235 - Software Development Methodologies/Software Architecture.md","x":-1160,"y":2340,"width":400,"height":400},
 		{"id":"12dd385c166111cc","type":"file","file":"COMPSCI235 - Software Development Methodologies/Software Architecture.md","x":-11600,"y":-900,"width":680,"height":321},
 		{"id":"a1bc0d96d39bdfbd","type":"file","file":"COMPSCI235 - Software Development Methodologies/Continuous Delivery (CD).md","x":-6160,"y":-1304,"width":400,"height":400},
 		{"id":"281fed289b17a048","type":"file","file":"COMPSCI235 - Software Development Methodologies/Continuous Integration (CI).md","x":-6640,"y":-1304,"width":400,"height":400},
@@ -60,11 +57,14 @@
 		{"id":"8c24641f4572de8c","type":"file","file":"COMPSCI235 - Software Development Methodologies/Persistence.md","x":-6280,"y":3814,"width":820,"height":1118},
 		{"id":"a0790e8e723cdf61","type":"file","file":"COMPSCI235 - Software Development Methodologies/ACID.md","x":-5340,"y":4240,"width":400,"height":500},
 		{"id":"fca5d5a890343e37","type":"file","file":"COMPSCI235 - Software Development Methodologies/Integration Testing.md","x":-1294,"y":8160,"width":760,"height":760},
-		{"id":"edb27f15326a97d5","x":-2399,"y":8200,"width":880,"height":400,"type":"file","file":"COMPSCI235 - Software Development Methodologies/Acceptance Testing.md"},
+		{"id":"edb27f15326a97d5","x":-2281,"y":8200,"width":762,"height":400,"type":"file","file":"COMPSCI235 - Software Development Methodologies/Acceptance Testing.md"},
 		{"id":"68bd299004a23cb9","x":-360,"y":8200,"width":580,"height":565,"type":"file","file":"COMPSCI235 - Software Development Methodologies/Unit Testing.md"},
 		{"id":"5ace2510d690f835","type":"file","file":"COMPSCI235 - Software Development Methodologies/Automated Testing.md","x":360,"y":8283,"width":400,"height":400},
 		{"id":"581793d62d5bce29","type":"file","file":"COMPSCI235 - Software Development Methodologies/user stories.md","x":-3760,"y":8600,"width":935,"height":3884},
-		{"id":"21ad1b40a6043003","type":"file","file":"COMPSCI235 - Software Development Methodologies/INVEST.md","x":-2688,"y":9520,"width":814,"height":1499}
+		{"id":"21ad1b40a6043003","type":"file","file":"COMPSCI235 - Software Development Methodologies/INVEST.md","x":-2688,"y":9520,"width":814,"height":1499},
+		{"id":"afefcb5853f1a711","x":-2170,"y":8765,"width":540,"height":301,"type":"file","file":"COMPSCI235 - Software Development Methodologies/requirements gathering.md"},
+		{"id":"76ddb14df3f5e966","type":"file","file":"COMPSCI235 - Software Development Methodologies/Object-Relational Database Management System (ORDBMS).md","x":-9027,"y":3350,"width":960,"height":765},
+		{"id":"1af78e8d0317d2a1","type":"file","file":"COMPSCI235 - Software Development Methodologies/Object Oriented Databases (OOD).md","x":-8947,"y":2200,"width":607,"height":380}
 	],
 	"edges":[
 		{"id":"e2651a3e146f3635","fromNode":"5f370702693bc675","fromSide":"bottom","toNode":"7bc50db6e8bf54a4","toSide":"top"},
@@ -86,6 +86,7 @@
 		{"id":"854cb8dcde398bb1","fromNode":"2f19d3ea0e21eb2c","fromSide":"bottom","toNode":"fca5d5a890343e37","toSide":"top"},
 		{"id":"def7beaa1c773bea","fromNode":"68bd299004a23cb9","fromSide":"right","toNode":"5ace2510d690f835","toSide":"left"},
 		{"id":"11c7ca2213761745","fromNode":"2f19d3ea0e21eb2c","fromSide":"bottom","toNode":"edb27f15326a97d5","toSide":"top"},
-		{"id":"5ee2f916e4b27806","fromNode":"edb27f15326a97d5","fromSide":"left","toNode":"581793d62d5bce29","toSide":"top"}
+		{"id":"5ee2f916e4b27806","fromNode":"edb27f15326a97d5","fromSide":"left","toNode":"581793d62d5bce29","toSide":"top"},
+		{"id":"f0105a09dddeb580","fromNode":"edb27f15326a97d5","fromSide":"bottom","toNode":"afefcb5853f1a711","toSide":"top"}
 	]
 }
