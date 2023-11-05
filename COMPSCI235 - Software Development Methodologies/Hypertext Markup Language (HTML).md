@@ -158,7 +158,7 @@ tags that apply at a given point
 		- only use images the browser understands
 >			#Example 
 >			GIF, JPG, PNG
-![[Pasted image 20231101170453.png]]![[Pasted image 20231101170827.png]]
+				![[Pasted image 20231101170453.png]]![[Pasted image 20231101170827.png]]
 
 #### Hypertext reference
 a link to another resource on the WorldWideWeb
@@ -167,7 +167,8 @@ a link to another resource on the WorldWideWeb
 	- #### Anchor tag `<a>`
 	- `<href>`
 		- attribute used to specify the destination of the link
-		- URL![[Pasted image 20231101171113.png]]
+		- URL
+		![[Pasted image 20231101171113.png]]
 
 #### emphasis & strong
 `<em>` & `<strong>` are meant to indicate meaning through style
