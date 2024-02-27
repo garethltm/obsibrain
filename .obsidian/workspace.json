@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ACCTG151G - Financial Literacy/Financial Literacy.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week12/Decision-theoretic Expert Systems.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ACCTG151G - Financial Literacy/Financial Literacy.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week12/Decision-theoretic Expert Systems.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ACCTG151G - Financial Literacy/Financial Literacy.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week12/Decision-theoretic Expert Systems.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ACCTG151G - Financial Literacy/Financial Literacy.md"
+                "file": "COMPSCI367 - Artificial Intelligence/week12/Decision-theoretic Expert Systems.md"
               }
             }
           },
@@ -156,7 +156,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "ACCTG151G - Financial Literacy/Financial Literacy.md"
+                "file": "COMPSCI367 - Artificial Intelligence/week12/Decision-theoretic Expert Systems.md"
               }
             }
           }
@@ -179,7 +179,7 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "a6e0090ac9cbd1f3",
+  "active": "8e28f081a24b1afd",
   "lastOpenFiles": [
     "ACCTG151G - Financial Literacy/Financial Literacy.md",
     "COMPSCI235 - Software Development Methodologies/Kanban.md",
