@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Kanban.md",
+                "file": "ACCTG151G - Financial Literacy/Financial Planning.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Kanban.md",
+                "file": "ACCTG151G - Financial Literacy/Financial Planning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Kanban.md",
+                "file": "ACCTG151G - Financial Literacy/Financial Planning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Kanban.md"
+                "file": "ACCTG151G - Financial Literacy/Financial Planning.md"
               }
             }
           },
@@ -155,7 +155,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/Kanban.md"
+                "file": "ACCTG151G - Financial Literacy/Financial Planning.md"
               }
             }
           }
@@ -178,11 +178,12 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "3ad179677b7fba41",
+  "active": "8e28f081a24b1afd",
   "lastOpenFiles": [
+    "COMPSCI235 - Software Development Methodologies/Kanban.md",
+    "ACCTG151G - Financial Literacy/Financial Planning.md",
     "ACCTG151G - Financial Literacy",
     "COMPSCI235 - Software Development Methodologies/Jinja.md",
-    "COMPSCI235 - Software Development Methodologies/Kanban.md",
     "COMPSCI235 - Software Development Methodologies/Issue Tracking.md",
     "COMPSCI235 - Software Development Methodologies/INVEST.md",
     "COMPSCI235 - Software Development Methodologies/Internal style sheet.md",
@@ -226,7 +227,6 @@
     "COMPSCI367 - Artificial Intelligence/week07",
     "COMPSCI367 - Artificial Intelligence/week06",
     "COMPSCI367 - Artificial Intelligence/week03",
-    "COMPSCI367 - Artificial Intelligence/week04",
-    "COMPSCI367 - Artificial Intelligence/week05"
+    "COMPSCI367 - Artificial Intelligence/week04"
   ]
 }
