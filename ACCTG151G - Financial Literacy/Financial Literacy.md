@@ -1,3 +1,2 @@
-- ability to make informed:
-	- judgements and decisions regarding the use and management of money
+- ability to make informed judgements and decisions regarding the use and management of money
 	- effective actions regarding the current and future use and management of money
