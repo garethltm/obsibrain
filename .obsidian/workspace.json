@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week12/Decision-theoretic Expert Systems.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week12/Single-stage decision networks (SSDN).md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week12/Decision-theoretic Expert Systems.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week12/Single-stage decision networks (SSDN).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week12/Decision-theoretic Expert Systems.md",
+                "file": "COMPSCI367 - Artificial Intelligence/week12/Single-stage decision networks (SSDN).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week12/Decision-theoretic Expert Systems.md"
+                "file": "COMPSCI367 - Artificial Intelligence/week12/Single-stage decision networks (SSDN).md"
               }
             }
           },
@@ -156,7 +156,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "COMPSCI367 - Artificial Intelligence/week12/Decision-theoretic Expert Systems.md"
+                "file": "COMPSCI367 - Artificial Intelligence/week12/Single-stage decision networks (SSDN).md"
               }
             }
           }
@@ -181,6 +181,13 @@
   },
   "active": "8e28f081a24b1afd",
   "lastOpenFiles": [
+    "COMPSCI367 - Artificial Intelligence/week12/Decision network.md",
+    "COMPSCI367 - Artificial Intelligence/week12/Chance nodes.md",
+    "COMPSCI367 - Artificial Intelligence/week12/Finite horizon.md",
+    "COMPSCI367 - Artificial Intelligence/week12/Decision nodes.md",
+    "COMPSCI367 - Artificial Intelligence/week12/value of a decision network.md",
+    "COMPSCI367 - Artificial Intelligence/week12/SSDN-based one-off decision problem.md",
+    "COMPSCI367 - Artificial Intelligence/week12/Decision-theoretic Expert Systems.md",
     "ACCTG151G - Financial Literacy/Financial Literacy.md",
     "COMPSCI235 - Software Development Methodologies/Kanban.md",
     "ACCTG151G - Financial Literacy",
@@ -201,13 +208,6 @@
     "COMPSCI235 - Software Development Methodologies/ID selectors.md",
     "COMPSCI235 - Software Development Methodologies/Hypertext Transfer Protocol (HTTP).md",
     "COMPSCI235 - Software Development Methodologies/Hypertext Markup Language (HTML).md",
-    "COMPSCI235 - Software Development Methodologies/How to deal with dependencies in testing.md",
-    "COMPSCI235 - Software Development Methodologies/High-level modules.md",
-    "COMPSCI235 - Software Development Methodologies/Heterogeneous.md",
-    "COMPSCI235 - Software Development Methodologies/Handling requests.md",
-    "COMPSCI235 - Software Development Methodologies/Gray Box Testing.md",
-    "COMPSCI235 - Software Development Methodologies/GitHub.md",
-    "COMPSCI235 - Software Development Methodologies/Git VCS.md",
     "COMPSCI235 - Software Development Methodologies/235 summary.canvas",
     "@images/1 TYRSuON0vVxy8olllrBVEw.png",
     "@images/Pasted image 20231104020521.png",
