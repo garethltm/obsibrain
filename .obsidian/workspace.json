@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "diagram",
+                "query": "decis",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -178,7 +179,7 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "8e28f081a24b1afd",
+  "active": "a6e0090ac9cbd1f3",
   "lastOpenFiles": [
     "ACCTG151G - Financial Literacy/Financial Literacy.md",
     "COMPSCI235 - Software Development Methodologies/Kanban.md",
