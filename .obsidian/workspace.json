@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "decis",
+                "query": "decision",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
