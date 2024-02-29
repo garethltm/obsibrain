@@ -24,4 +24,8 @@ Summary: optimise the use & management of money
 ## Why does [[Financial Literacy]] matter?
 - major implications for the welfare of individuals in the management of their financial affairs, which includes decisions on:
 	- how to budget
-	- 
+	- how much to spend and to save
+	- where to invest their money
+	- how to manage their financial risks
+	- how much debt they may need to fund their expenditure and what form that debt should take
+- it affects
