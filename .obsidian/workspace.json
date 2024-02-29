@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI345 - Human-computer Interaction/UX Design.md",
+                "file": "COMPSCI345 - Human-computer Interaction/Fidelity Prototypes.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI345 - Human-computer Interaction/UX Design.md",
+                "file": "COMPSCI345 - Human-computer Interaction/Fidelity Prototypes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI345 - Human-computer Interaction/UX Design.md",
+                "file": "COMPSCI345 - Human-computer Interaction/Fidelity Prototypes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI345 - Human-computer Interaction/UX Design.md"
+                "file": "COMPSCI345 - Human-computer Interaction/Fidelity Prototypes.md"
               }
             }
           },
@@ -155,7 +155,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "COMPSCI345 - Human-computer Interaction/UX Design.md"
+                "file": "COMPSCI345 - Human-computer Interaction/Fidelity Prototypes.md"
               }
             }
           }
@@ -180,11 +180,14 @@
   },
   "active": "d7da111360ba88d5",
   "lastOpenFiles": [
+    "@images/Pasted image 20240229170724.png",
+    "@images/Pasted image 20240229170716.png",
+    "COMPSCI345 - Human-computer Interaction/UX Design.md",
+    "COMPSCI345 - Human-computer Interaction/Fidelity Prototypes.md",
     "@images/Pasted image 20240229170617.png",
     "@images/Pasted image 20240229170548.png",
     "@images/Screenshot 2024-02-29 at 5.03.27 PM.png",
     "COMPSCI345 - Human-computer Interaction/User eXperience (UX).md",
-    "COMPSCI345 - Human-computer Interaction/UX Design.md",
     "COMPSCI345 - Human-computer Interaction/Interaction.md",
     "@images/Pasted image 20240229165622.png",
     "COMPSCI345 - Human-computer Interaction/Study 01 - Proprioceptive Gestures.md",
@@ -212,14 +215,11 @@
     "COMPSCI367 - Artificial Intelligence/week12/Decision-theoretic Expert Systems.md",
     "COMPSCI235 - Software Development Methodologies/Kanban.md",
     "ACCTG151G - Financial Literacy",
-    "COMPSCI235 - Software Development Methodologies/Jinja.md",
     "COMPSCI235 - Software Development Methodologies/235 summary.canvas",
     "@images/1 TYRSuON0vVxy8olllrBVEw.png",
     "@images/Pasted image 20231104020521.png",
     "@images/Pasted image 20231104015543.png",
-    "@images/Pasted image 20231104015416.png",
     "COMPSCI235 - Software Development Methodologies/Untitled",
-    "@images/Pasted image 20231104013713.png",
     "COMPSCI367 - Artificial Intelligence/finals prep.canvas",
     "COMPSCI235 - Software Development Methodologies",
     "COMPSCI367 - Artificial Intelligence/week12",
