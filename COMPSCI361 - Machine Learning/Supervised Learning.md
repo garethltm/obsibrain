@@ -4,3 +4,4 @@ Output: whether we got sick or not (class label)
 
 ## Goal
 - Use data to find a model that outputs the label based on the features
+- Model predicts whether which food make you sick (even with new combination)
