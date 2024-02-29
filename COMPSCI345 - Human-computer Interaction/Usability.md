@@ -1,0 +1,2 @@
+- the measure of the quality of user's experience when interacting with a product or system
+- is a quality attribute that assesses how easy user interfaces are to use

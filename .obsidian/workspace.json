@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI345 - Human-computer Interaction/Engineering heuristic.md",
+                "file": "COMPSCI345 - Human-computer Interaction/Usability.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI345 - Human-computer Interaction/Engineering heuristic.md",
+                "file": "COMPSCI345 - Human-computer Interaction/Usability.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI345 - Human-computer Interaction/Engineering heuristic.md",
+                "file": "COMPSCI345 - Human-computer Interaction/Usability.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI345 - Human-computer Interaction/Engineering heuristic.md"
+                "file": "COMPSCI345 - Human-computer Interaction/Usability.md"
               }
             }
           },
@@ -155,7 +155,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "COMPSCI345 - Human-computer Interaction/Engineering heuristic.md"
+                "file": "COMPSCI345 - Human-computer Interaction/Usability.md"
               }
             }
           }
@@ -180,9 +180,10 @@
   },
   "active": "53a49051d6175559",
   "lastOpenFiles": [
+    "COMPSCI345 - Human-computer Interaction/Engineering heuristic.md",
+    "COMPSCI345 - Human-computer Interaction/Usability.md",
     "@images/Pasted image 20240229213004.png",
     "COMPSCI345 - Human-computer Interaction/UX Design.md",
-    "COMPSCI345 - Human-computer Interaction/Engineering heuristic.md",
     "COMPSCI361 - Machine Learning",
     "COMPSCI345 - Human-computer Interaction/User eXperience (UX).md",
     "COMPSCI345 - Human-computer Interaction/Study 01 - Proprioceptive Gestures.md",
@@ -219,7 +220,6 @@
     "COMPSCI235 - Software Development Methodologies/INVEST.md",
     "COMPSCI235 - Software Development Methodologies/235 summary.canvas",
     "@images/1 TYRSuON0vVxy8olllrBVEw.png",
-    "@images/Pasted image 20231104020521.png",
     "COMPSCI235 - Software Development Methodologies/Untitled",
     "COMPSCI367 - Artificial Intelligence/finals prep.canvas",
     "COMPSCI235 - Software Development Methodologies",
