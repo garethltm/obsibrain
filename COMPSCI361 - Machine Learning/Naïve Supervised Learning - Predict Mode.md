@@ -4,4 +4,5 @@
 	- #compsci361example 
 	- 4 sick vs 1 not sick
 - This ignores the features, so it is only accurate if we only have 1 label
-- 
+- We want to use the features - a way to do this
+	- [[COMPSCI361 - Machine Learning/Decision Trees|Decision Trees]]
