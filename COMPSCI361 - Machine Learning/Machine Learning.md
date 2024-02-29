@@ -1,0 +1,4 @@
+- Using computers to automatically detect patterns in data and use these to make prediction or decisions
+- Most useful when
+	- We want to automate something a human can do
+	- We want to do things a human can't do (looking through 1TB of data)
