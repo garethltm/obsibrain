@@ -3,4 +3,4 @@
 Proprioceptive Gestures - 6th sense of humans
 - doing things without 'looking'
 	- #compsci345example 
-	- digging your 
+	- digging your nose without even looking

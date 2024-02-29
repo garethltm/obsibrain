@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI345 - Human-computer Interaction/Study 01 - Proprioceptive Gestures.md",
+                "file": "COMPSCI345 - Human-computer Interaction/Interaction.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI345 - Human-computer Interaction/Study 01 - Proprioceptive Gestures.md",
+                "file": "COMPSCI345 - Human-computer Interaction/Interaction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI345 - Human-computer Interaction/Study 01 - Proprioceptive Gestures.md",
+                "file": "COMPSCI345 - Human-computer Interaction/Interaction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI345 - Human-computer Interaction/Study 01 - Proprioceptive Gestures.md"
+                "file": "COMPSCI345 - Human-computer Interaction/Interaction.md"
               }
             }
           },
@@ -155,7 +155,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "COMPSCI345 - Human-computer Interaction/Study 01 - Proprioceptive Gestures.md"
+                "file": "COMPSCI345 - Human-computer Interaction/Interaction.md"
               }
             }
           }
@@ -180,9 +180,11 @@
   },
   "active": "d7da111360ba88d5",
   "lastOpenFiles": [
+    "@images/Pasted image 20240229165622.png",
+    "COMPSCI345 - Human-computer Interaction/Study 01 - Proprioceptive Gestures.md",
+    "COMPSCI345 - Human-computer Interaction/Interaction.md",
     "@images/Pasted image 20240229165444.png",
     "ACCTG151G - Financial Literacy/The financial planning process.md",
-    "COMPSCI345 - Human-computer Interaction/Study 01 - Proprioceptive Gestures.md",
     "COMPSCI345 - Human-computer Interaction",
     "ACCTG151G - Financial Literacy/Average Propensity to Consume (APC).md",
     "COMPSCI367 - Artificial Intelligence/week10/Applying Bayes Rule.md",
@@ -208,7 +210,6 @@
     "COMPSCI235 - Software Development Methodologies/Jinja.md",
     "COMPSCI235 - Software Development Methodologies/Issue Tracking.md",
     "COMPSCI235 - Software Development Methodologies/INVEST.md",
-    "COMPSCI235 - Software Development Methodologies/Internal style sheet.md",
     "COMPSCI235 - Software Development Methodologies/235 summary.canvas",
     "@images/1 TYRSuON0vVxy8olllrBVEw.png",
     "@images/Pasted image 20231104020521.png",
@@ -219,7 +220,6 @@
     "@images/Pasted image 20231104013217.png",
     "@images/Pasted image 20231104013215.png",
     "@images/Pasted image 20231104013117.png",
-    "@images/Pasted image 20231104012836.png",
     "COMPSCI367 - Artificial Intelligence/finals prep.canvas",
     "COMPSCI235 - Software Development Methodologies",
     "COMPSCI367 - Artificial Intelligence/week12",
