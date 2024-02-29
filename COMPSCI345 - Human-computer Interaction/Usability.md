@@ -3,6 +3,8 @@
 
 ### Usability Factors
 1. Ease of learning
+	
 2. Efficiency of use
 3. Memorability
-4. Error frequency and s
+4. Error frequency and severity
+5. Subjective satisfaction
