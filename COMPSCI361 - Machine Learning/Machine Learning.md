@@ -8,3 +8,4 @@
 >>A computer is said to learn from experience E with respect to
 >>	some class of task T and
 >>	performance measure P,
+>>if its performance at 
