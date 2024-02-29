@@ -5,6 +5,7 @@ Summary: optimise the use & management of money
 
 ### Elements
 1. basic numeracy skills
-	- the ability of calculates the r
+	- the ability to calculate the rates of return on investments, the interest rate on debt and basic arithmetic ability
+>		#Example 
 
 
