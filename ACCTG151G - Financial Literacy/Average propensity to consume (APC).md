@@ -14,4 +14,4 @@ this one is more viable as you can't control the amount of tax you would receive
 The percentage of each dollar of income that is spent, on average, for current needs rather than saved.
 - ABSOLUTE necessity $\rightarrow$ what you actually need
 
-$$\frac{Income spent on current needs}{Total income} \times \frac{}{}$$
+$$\frac{Income\ spent\ on\ current\ needs}{Total\ income} \times \frac{100}{1}$$
