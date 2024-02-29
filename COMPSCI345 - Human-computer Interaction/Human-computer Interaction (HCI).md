@@ -4,6 +4,11 @@
 	- social concepts
 		- #compsci345example 
 		- community
-1. Wicked problems
-2. Broad skillset
-3.
+2. Wicked problems
+3. Broad skillset
+	- critique
+	- user needs, system requirements
+	- sketching, low-fidelity design
+	- visual, high-fidelity design
+	- usage testing
+

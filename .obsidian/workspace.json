@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI345 - Human-computer Interaction/Human-computer Interaction (HCI).md",
+                "file": "COMPSCI345 - Human-computer Interaction/User eXperience (UX).md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI345 - Human-computer Interaction/Human-computer Interaction (HCI).md",
+                "file": "COMPSCI345 - Human-computer Interaction/User eXperience (UX).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI345 - Human-computer Interaction/Human-computer Interaction (HCI).md",
+                "file": "COMPSCI345 - Human-computer Interaction/User eXperience (UX).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI345 - Human-computer Interaction/Human-computer Interaction (HCI).md"
+                "file": "COMPSCI345 - Human-computer Interaction/User eXperience (UX).md"
               }
             }
           },
@@ -155,7 +155,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "COMPSCI345 - Human-computer Interaction/Human-computer Interaction (HCI).md"
+                "file": "COMPSCI345 - Human-computer Interaction/User eXperience (UX).md"
               }
             }
           }
@@ -180,8 +180,8 @@
   },
   "active": "d7da111360ba88d5",
   "lastOpenFiles": [
-    "COMPSCI345 - Human-computer Interaction/Fidelity Prototypes.md",
     "COMPSCI345 - Human-computer Interaction/Human-computer Interaction (HCI).md",
+    "COMPSCI345 - Human-computer Interaction/Fidelity Prototypes.md",
     "@images/Pasted image 20240229170724.png",
     "@images/Pasted image 20240229170716.png",
     "COMPSCI345 - Human-computer Interaction/UX Design.md",
