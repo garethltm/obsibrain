@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI361 - Machine Learning/Machine Learning (ML).md",
+                "file": "COMPSCI361 - Machine Learning/Supervised Learning.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI361 - Machine Learning/Machine Learning (ML).md",
+                "file": "COMPSCI361 - Machine Learning/Supervised Learning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI361 - Machine Learning/Machine Learning (ML).md",
+                "file": "COMPSCI361 - Machine Learning/Supervised Learning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI361 - Machine Learning/Machine Learning (ML).md"
+                "file": "COMPSCI361 - Machine Learning/Supervised Learning.md"
               }
             }
           },
@@ -155,7 +155,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "COMPSCI361 - Machine Learning/Machine Learning (ML).md"
+                "file": "COMPSCI361 - Machine Learning/Supervised Learning.md"
               }
             }
           }
@@ -180,8 +180,10 @@
   },
   "active": "53a49051d6175559",
   "lastOpenFiles": [
-    "COMPSCI361 - Machine Learning/Deep Learning (DL).md",
+    "@images/Pasted image 20240229223953.png",
     "COMPSCI361 - Machine Learning/Machine Learning (ML).md",
+    "COMPSCI361 - Machine Learning/Supervised Learning.md",
+    "COMPSCI361 - Machine Learning/Deep Learning (DL).md",
     "@images/Pasted image 20240229223318.png",
     "@images/Pasted image 20240229223233.png",
     "COMPSCI361 - Machine Learning/Machine Learning vs Data Mining.md",
@@ -217,7 +219,6 @@
     "COMPSCI367 - Artificial Intelligence/week12/Single-stage decision networks (SSDN).md",
     "COMPSCI367 - Artificial Intelligence/week12/Decision network.md",
     "COMPSCI367 - Artificial Intelligence/week12/Chance nodes.md",
-    "COMPSCI367 - Artificial Intelligence/week12/Finite horizon.md",
     "ACCTG151G - Financial Literacy",
     "COMPSCI235 - Software Development Methodologies/235 summary.canvas",
     "COMPSCI235 - Software Development Methodologies/Untitled",
