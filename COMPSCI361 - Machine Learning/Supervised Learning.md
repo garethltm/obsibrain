@@ -13,5 +13,7 @@ Output: whether we got sick or not
 1. General supervised learning problem
 	- take features of examples and corresponding labels as input
 	- find a model that can accurately predict the labels of new examples
-1. This is the most successful/widely used machine learning technique
-2. [[Classification]]
+2. This is the most successful/widely used machine learning technique
+	- #compsci361example 
+	- spam filtering, optical character recognition
+1. [[Classification]]
