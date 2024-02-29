@@ -34,4 +34,4 @@ Summary: optimise the use & management of money
 ![[Pasted image 20240229162338.png]]
 
 ### What is known about [[Financial Literacy]]?
-- Financial knowledg
+- Financial knowledge increased with age (more experienced = more sophisticated), income ()
