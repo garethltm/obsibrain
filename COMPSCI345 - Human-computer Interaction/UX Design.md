@@ -1,1 +1,1 @@
-the idea of including the design 
+the idea of including usability as an integral part of product  
