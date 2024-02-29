@@ -15,5 +15,5 @@ Output: whether we got sick or not
 	- find a model that can accurately predict the labels of new examples
 2. This is the most successful/widely used machine learning technique
 	- #compsci361example 
-	- spam filtering, optical character recognition
+	- spam filtering, optical character recognition, speech recognition, classifying tumors, etc.
 1. [[Classification]]
