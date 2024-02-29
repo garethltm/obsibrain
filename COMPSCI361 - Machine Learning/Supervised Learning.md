@@ -11,6 +11,7 @@ Output: whether we got sick or not
 - Model predicts whether which food make you sick (even with new combination)
 
 1. General supervised learning problem
-
-3. This is the most successful/widely used machine learning technique
-4. [[Classification]]
+	- take features of examples and corresponding labels as input
+	- find a model that can accurately predict the labels of new examples
+1. This is the most successful/widely used machine learning technique
+2. [[Classification]]
