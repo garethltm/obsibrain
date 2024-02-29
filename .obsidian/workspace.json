@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI345 - Human-computer Interaction/Ease of learning.md",
+                "file": "COMPSCI361 - Machine Learning/Machine Learning (ML).md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI345 - Human-computer Interaction/Ease of learning.md",
+                "file": "COMPSCI361 - Machine Learning/Machine Learning (ML).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI345 - Human-computer Interaction/Ease of learning.md",
+                "file": "COMPSCI361 - Machine Learning/Machine Learning (ML).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI345 - Human-computer Interaction/Ease of learning.md"
+                "file": "COMPSCI361 - Machine Learning/Machine Learning (ML).md"
               }
             }
           },
@@ -155,7 +155,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "COMPSCI345 - Human-computer Interaction/Ease of learning.md"
+                "file": "COMPSCI361 - Machine Learning/Machine Learning (ML).md"
               }
             }
           }
@@ -180,19 +180,19 @@
   },
   "active": "53a49051d6175559",
   "lastOpenFiles": [
+    "COMPSCI361 - Machine Learning/Deep Learning (DL).md",
+    "COMPSCI361 - Machine Learning/Data Mining.md",
+    "COMPSCI361 - Machine Learning/Big Data.md",
+    "COMPSCI345 - Human-computer Interaction/Ease of learning.md",
     "COMPSCI345 - Human-computer Interaction/Efficiency of use.md",
     "COMPSCI345 - Human-computer Interaction/Engineering heuristic.md",
     "COMPSCI345 - Human-computer Interaction/Fidelity Prototypes.md",
     "COMPSCI345 - Human-computer Interaction/Human-computer Interaction (HCI).md",
-    "COMPSCI345 - Human-computer Interaction/Ease of learning.md",
     "COMPSCI345 - Human-computer Interaction/User eXperience (UX).md",
     "ACCTG151G - Financial Literacy/Financial Literacy.md",
     "COMPSCI361 - Machine Learning/Supervised Learning.md",
     "COMPSCI361 - Machine Learning/Machine Learning vs Data Mining.md",
     "COMPSCI361 - Machine Learning/Machine Learning (ML).md",
-    "COMPSCI361 - Machine Learning/Deep Learning (DL).md",
-    "COMPSCI361 - Machine Learning/Data Mining.md",
-    "COMPSCI361 - Machine Learning/Big Data.md",
     "COMPSCI361 - Machine Learning",
     "COMPSCI345 - Human-computer Interaction/Usability.md",
     "@images/Pasted image 20240229223953.png",
