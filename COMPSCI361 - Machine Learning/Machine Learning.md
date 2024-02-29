@@ -11,4 +11,7 @@
 >>if its performance at tasks in T, as measured by P, improved with experience E
 
 #compsci361example
-- Problem - Self
+- Problem - Self-Driving Cars
+	- T: Driving on public highway using vision sensors
+	- P: Average distance travelled before an error/crash
+	- E: A sequence of images and steering commands recorded while observing a human driver
