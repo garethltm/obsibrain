@@ -1,0 +1,1 @@
+In economics, the [[Average propensity to consume (APC)]] is the fraction of income spent and is computed by diving 
