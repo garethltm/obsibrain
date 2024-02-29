@@ -29,4 +29,6 @@ Summary: optimise the use & management of money
 	- how to manage their financial risks
 	- how much debt they may need to fund their expenditure and what form that debt should take
 - it affects the behaviour of financial institutions and hence has implications for financial stability
-- 
+- it influences the allocation in the real economy and therefore the longer-term potential growth rate of the e
+
+![[Pasted image 20240229162338.png]]
