@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI361 - Machine Learning/Naïve Supervised Learning - Predict Mode.md",
+                "file": "COMPSCI361 - Machine Learning/Decision Trees.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI361 - Machine Learning/Naïve Supervised Learning - Predict Mode.md",
+                "file": "COMPSCI361 - Machine Learning/Decision Trees.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI361 - Machine Learning/Naïve Supervised Learning - Predict Mode.md",
+                "file": "COMPSCI361 - Machine Learning/Decision Trees.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI361 - Machine Learning/Naïve Supervised Learning - Predict Mode.md"
+                "file": "COMPSCI361 - Machine Learning/Decision Trees.md"
               }
             }
           },
@@ -155,7 +155,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "COMPSCI361 - Machine Learning/Naïve Supervised Learning - Predict Mode.md"
+                "file": "COMPSCI361 - Machine Learning/Decision Trees.md"
               }
             }
           }
@@ -180,6 +180,7 @@
   },
   "active": "53a49051d6175559",
   "lastOpenFiles": [
+    "COMPSCI367 - Artificial Intelligence/week11/Decision Trees.md",
     "COMPSCI361 - Machine Learning/Decision Trees.md",
     "COMPSCI361 - Machine Learning/Naïve Supervised Learning - Predict Mode.md",
     "@images/Pasted image 20240301114734.png",
@@ -217,7 +218,6 @@
     "@images/Pasted image 20240229170724.png",
     "@images/Pasted image 20240229170716.png",
     "@images/Pasted image 20240229170617.png",
-    "COMPSCI367 - Artificial Intelligence/week12/Single-stage decision networks (SSDN).md",
     "ACCTG151G - Financial Literacy",
     "COMPSCI235 - Software Development Methodologies/235 summary.canvas",
     "COMPSCI235 - Software Development Methodologies/Untitled",
