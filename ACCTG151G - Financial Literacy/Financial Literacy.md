@@ -14,6 +14,8 @@ Summary: optimise the use & management of money
 	- the trade off between risk and return
 	- the main attributes of different types of investments and other financial products
 	- the benefits of diversification
-	- 
+		- spreading your investments is better
+	- the time value of money
+		- this is in regards to the present and future value of money
 
 
