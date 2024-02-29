@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ACCTG151G - Financial Literacy/Financial Literacy.md",
+                "file": "ACCTG151G - Financial Literacy/Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ACCTG151G - Financial Literacy/Financial Literacy.md",
+                "file": "ACCTG151G - Financial Literacy/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ACCTG151G - Financial Literacy/Financial Literacy.md",
+                "file": "ACCTG151G - Financial Literacy/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ACCTG151G - Financial Literacy/Financial Literacy.md"
+                "file": "ACCTG151G - Financial Literacy/Untitled.md"
               }
             }
           },
@@ -156,7 +155,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "ACCTG151G - Financial Literacy/Financial Literacy.md"
+                "file": "ACCTG151G - Financial Literacy/Untitled.md"
               }
             }
           }
@@ -181,11 +180,12 @@
   },
   "active": "d7da111360ba88d5",
   "lastOpenFiles": [
+    "ACCTG151G - Financial Literacy/Financial Literacy.md",
+    "ACCTG151G - Financial Literacy/Untitled.md",
     "@images/Pasted image 20240229162338.png",
     "COMPSCI367 - Artificial Intelligence/week04/Diagonal ridges.md",
     "COMPSCI367 - Artificial Intelligence/week04/Annealing.md",
     "COMPSCI367 - Artificial Intelligence/week04/Bernoulli random variable.md",
-    "ACCTG151G - Financial Literacy/Financial Literacy.md",
     "COMPSCI367 - Artificial Intelligence/week12/Single-stage decision networks (SSDN).md",
     "COMPSCI367 - Artificial Intelligence/week12/Decision network.md",
     "COMPSCI367 - Artificial Intelligence/week12/Chance nodes.md",
@@ -219,7 +219,6 @@
     "@images/Pasted image 20231104013215.png",
     "@images/Pasted image 20231104013117.png",
     "@images/Pasted image 20231104012836.png",
-    "@images/Pasted image 20231104012805.png",
     "COMPSCI367 - Artificial Intelligence/finals prep.canvas",
     "COMPSCI235 - Software Development Methodologies",
     "COMPSCI367 - Artificial Intelligence/week12",
