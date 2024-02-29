@@ -6,3 +6,5 @@
 >>[[Machine Learning]] is the field of study that gives the computer the ability to learn without being explicitly programmed
 >
 >>A computer is said to learn from experience E with respect to
+>>	some class of task T and
+>>	performance measure P,
