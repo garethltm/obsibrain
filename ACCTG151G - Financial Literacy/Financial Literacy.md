@@ -7,5 +7,8 @@ Summary: optimise the use & management of money
 1. basic numeracy skills
 	- the ability to calculate the rates of return on investments, the interest rate on debt and basic arithmetic ability
 >		#Example 
+>		knowing share prices per year to know rates of return
+
+	- 
 
 
