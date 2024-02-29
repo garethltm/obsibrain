@@ -6,14 +6,14 @@ Summary: optimise the use & management of money
 ### Elements
 1. basic numeracy skills
 	- the ability to calculate the rates of return on investments, the interest rate on debt and basic arithmetic ability
-		- #ACCTGExample  
+		- #acctg151gExample  
 		- knowing share prices per year to know rates of return
 1. an understanding of benefits and risks associated with particular financial decisions, including
 	- spending, borrowing, leverage and investing (invest only if you have extra income)
 2. the ability to understand basic financial concepts, including:
 	- the trade off between risk and return
 	- the main attributes of different types of investments and other financial products
-		- #Example 
+		- #acctg151gExample  
 		- share markets, etc.
 	- the benefits of diversification
 		- spreading your investments is better
