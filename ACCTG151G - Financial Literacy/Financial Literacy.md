@@ -13,6 +13,8 @@ Summary: optimise the use & management of money
 3. the ability to understand basic financial concepts, including:
 	- the trade off between risk and return
 	- the main attributes of different types of investments and other financial products
+	>	#Example 
+	>	share markets, etc.
 	- the benefits of diversification
 		- spreading your investments is better
 	- the time value of money
