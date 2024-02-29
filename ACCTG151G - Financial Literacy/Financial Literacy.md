@@ -1,6 +1,8 @@
 - ability to make informed judgements and decisions regarding the use and management of money
-- ability to make informed judgements and to ==take effective actions== regarding the **==current and future==** use and management of money
+- ability to make informed judgements and to take effective actions regarding the **==current and future==** use and management of money
 - ability to take informed judgements and ==**informed decisions**== regarding the use and management of money
 
-Summary: optimise the use & managemen
+Summary: optimise the use & management of money
+
+
 
