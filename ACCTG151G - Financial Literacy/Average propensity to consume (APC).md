@@ -2,6 +2,9 @@ In economics, the [[Average propensity to consume (APC)]] is the fraction of inc
 $$APC = \frac {C}{Y}$$
 - C = the amount spent (consumed)
 	- final purchase of goods
-	- 
+	- #acctg151gExample 
+	- iphone, car, tv,...
 - Y = (gross income) **BEFORE TAX INCOME**
-- 
+
+#### Disposable income
+$$ APC = 
