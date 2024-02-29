@@ -18,3 +18,17 @@
 
 ## Applications
 - learning patterns to recommend to the user
+
+1. Spam Filtering
+2. Credit card fraud detection
+3. Product recommendation
+4. Motion capture
+5. OCR
+6. Speech recognition
+7. Face recognition
+8. Object detection
+9. Sports analytics
+10. Medical imaging
+11. Self-driving cars
+12. Image annotation
+13. Discovering new cancer subty
