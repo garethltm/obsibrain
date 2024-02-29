@@ -5,4 +5,6 @@
 
 Both are similar to statistics, but more emphasis on:
 - Large data sets and computation
-- Prediction
+- Predictions (instead of descriptions)
+- Flexible models (that work on many problems)
+	- to help with decision making
