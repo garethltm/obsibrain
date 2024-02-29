@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "decision",
+                "query": "tag:#Example",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -178,7 +179,7 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "d7da111360ba88d5",
+  "active": "a6e0090ac9cbd1f3",
   "lastOpenFiles": [
     "COMPSCI367 - Artificial Intelligence/week04/Diagonal ridges.md",
     "COMPSCI367 - Artificial Intelligence/week04/Annealing.md",
