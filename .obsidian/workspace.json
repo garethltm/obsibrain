@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Example",
+                "query": "$$",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -180,8 +180,10 @@
   },
   "active": "d7da111360ba88d5",
   "lastOpenFiles": [
-    "ACCTG151G - Financial Literacy/Personal financial planning (personal finance).md",
+    "COMPSCI367 - Artificial Intelligence/week10/Applying Bayes Rule.md",
+    "COMPSCI367 - Artificial Intelligence/week10/Attention Model.md",
     "ACCTG151G - Financial Literacy/Average propensity to consume (APC).md",
+    "ACCTG151G - Financial Literacy/Personal financial planning (personal finance).md",
     "ACCTG151G - Financial Literacy/Personal financial plan.md",
     "ACCTG151G - Financial Literacy/Financial Literacy.md",
     "ACCTG151G - Financial Literacy/compound interest.md",
@@ -206,8 +208,6 @@
     "COMPSCI235 - Software Development Methodologies/Interfaces.md",
     "COMPSCI235 - Software Development Methodologies/Interaction Diagram.md",
     "COMPSCI235 - Software Development Methodologies/Integration Testing.md",
-    "COMPSCI235 - Software Development Methodologies/Instructions (computer programs).md",
-    "COMPSCI235 - Software Development Methodologies/Inspection.md",
     "COMPSCI235 - Software Development Methodologies/235 summary.canvas",
     "@images/1 TYRSuON0vVxy8olllrBVEw.png",
     "@images/Pasted image 20231104020521.png",
