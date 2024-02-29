@@ -12,3 +12,5 @@ Output: whether we got sick or not
 
 1. General supervised learning problem
 2. This is the most successful/widely used machine learning technique
+3. Classification
+	- the modeal
