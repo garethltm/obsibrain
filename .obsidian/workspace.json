@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ACCTG151G - Financial Literacy/The financial planning process.md",
+                "file": "COMPSCI345 - Human-computer Interaction/Study 01 - Proprioceptive Gestures.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ACCTG151G - Financial Literacy/The financial planning process.md",
+                "file": "COMPSCI345 - Human-computer Interaction/Study 01 - Proprioceptive Gestures.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ACCTG151G - Financial Literacy/The financial planning process.md",
+                "file": "COMPSCI345 - Human-computer Interaction/Study 01 - Proprioceptive Gestures.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ACCTG151G - Financial Literacy/The financial planning process.md"
+                "file": "COMPSCI345 - Human-computer Interaction/Study 01 - Proprioceptive Gestures.md"
               }
             }
           },
@@ -155,7 +155,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "ACCTG151G - Financial Literacy/The financial planning process.md"
+                "file": "COMPSCI345 - Human-computer Interaction/Study 01 - Proprioceptive Gestures.md"
               }
             }
           }
@@ -178,11 +178,12 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "3ad179677b7fba41",
+  "active": "d7da111360ba88d5",
   "lastOpenFiles": [
-    "Untitled",
-    "ACCTG151G - Financial Literacy/Average Propensity to Consume (APC).md",
     "ACCTG151G - Financial Literacy/The financial planning process.md",
+    "COMPSCI345 - Human-computer Interaction/Study 01 - Proprioceptive Gestures.md",
+    "COMPSCI345 - Human-computer Interaction",
+    "ACCTG151G - Financial Literacy/Average Propensity to Consume (APC).md",
     "COMPSCI367 - Artificial Intelligence/week10/Applying Bayes Rule.md",
     "COMPSCI367 - Artificial Intelligence/week10/Attention Model.md",
     "ACCTG151G - Financial Literacy/Personal financial planning (personal finance).md",
@@ -226,7 +227,6 @@
     "COMPSCI367 - Artificial Intelligence/week08",
     "COMPSCI367 - Artificial Intelligence/week07",
     "COMPSCI367 - Artificial Intelligence/week06",
-    "COMPSCI367 - Artificial Intelligence/week03",
-    "COMPSCI367 - Artificial Intelligence/week04"
+    "COMPSCI367 - Artificial Intelligence/week03"
   ]
 }
