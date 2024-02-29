@@ -8,6 +8,8 @@ Summary: optimise the use & management of money
 	- the ability to calculate the rates of return on investments, the interest rate on debt and basic arithmetic ability
 >		#Example 
 >		knowing share prices per year to know rates of return
-2. an understanding of benefits and risks associated with particular financial decisions
+2. an understanding of benefits and risks associated with particular financial decisions, including
+	- spending, borrowing, leverage and investing (invest only if you have extra income)
+3. the ability to  und
 
 
