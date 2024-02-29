@@ -2,9 +2,11 @@
 Input: set of features
 Output: class label
 
-Input: a day of the week is the quantities of food (set of features)
-Output: whether we got sick or not (class label)
+#compsci361example 
+Input: a day of the week with the quantities of food
+Output: whether we got sick or not
 
 ## Goal
 - Use data to find a model that outputs the label based on the features
 - Model predicts whether which food make you sick (even with new combination)
+
