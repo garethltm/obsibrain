@@ -21,3 +21,7 @@ Summary: optimise the use & management of money
 		- this is in regards to the present and future value of money
 
 
+## Why does [[Financial Literacy]] matter?
+- major implications for the welfare of individuals in the management of their financial affairs, which includes decisions on:
+	- how to budget
+	- 
