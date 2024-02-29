@@ -31,4 +31,8 @@
 10. Medical imaging
 11. Self-driving cars
 12. Image annotation
-13. Discovering new cancer subty
+13. Discovering new cancer subtypes
+14. Protein folding prediction
+15. Drug discovery
+16. Chess/ GO/ Starcraft/ ...
+17. ...
