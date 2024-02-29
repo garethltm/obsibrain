@@ -3,8 +3,9 @@
 
 ### Usability Factors
 1. Ease of learning
-	
+	- How fast can a user who has never seen the user interface before learn it sufficiently well to accomplish basic tasks
 2. Efficiency of use
-3. Memorability
-4. Error frequency and severity
-5. Subjective satisfaction
+3. 
+4. Memorability
+5. Error frequency and severity
+6. Subjective satisfaction
