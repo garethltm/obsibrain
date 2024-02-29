@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI361 - Machine Learning/Machine Learning.md",
+                "file": "COMPSCI361 - Machine Learning/Machine Learning vs Data Mining.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI361 - Machine Learning/Machine Learning.md",
+                "file": "COMPSCI361 - Machine Learning/Machine Learning vs Data Mining.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI361 - Machine Learning/Machine Learning.md",
+                "file": "COMPSCI361 - Machine Learning/Machine Learning vs Data Mining.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI361 - Machine Learning/Machine Learning.md"
+                "file": "COMPSCI361 - Machine Learning/Machine Learning vs Data Mining.md"
               }
             }
           },
@@ -155,7 +155,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "COMPSCI361 - Machine Learning/Machine Learning.md"
+                "file": "COMPSCI361 - Machine Learning/Machine Learning vs Data Mining.md"
               }
             }
           }
@@ -178,12 +178,13 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "3ad179677b7fba41",
+  "active": "53a49051d6175559",
   "lastOpenFiles": [
+    "COMPSCI361 - Machine Learning/Machine Learning.md",
+    "COMPSCI361 - Machine Learning/Machine Learning vs Data Mining.md",
     "INFOSYS 303 - Solutions Architecture",
     "COMPSCI361 - Machine Learning/Data Mining.md",
     "COMPSCI361 - Machine Learning/Big Data.md",
-    "COMPSCI361 - Machine Learning/Machine Learning.md",
     "COMPSCI345 - Human-computer Interaction/Efficiency of use.md",
     "@images/Pasted image 20240229214238.png",
     "COMPSCI345 - Human-computer Interaction/Usability.md",
@@ -226,7 +227,6 @@
     "COMPSCI367 - Artificial Intelligence/week12",
     "COMPSCI367 - Artificial Intelligence/week11",
     "COMPSCI367 - Artificial Intelligence/week08",
-    "COMPSCI367 - Artificial Intelligence/week07",
-    "COMPSCI367 - Artificial Intelligence/week06"
+    "COMPSCI367 - Artificial Intelligence/week07"
   ]
 }
