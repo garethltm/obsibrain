@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI361 - Machine Learning/Deep Learning.md",
+                "file": "COMPSCI361 - Machine Learning/Machine Learning (ML).md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI361 - Machine Learning/Deep Learning.md",
+                "file": "COMPSCI361 - Machine Learning/Machine Learning (ML).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI361 - Machine Learning/Deep Learning.md",
+                "file": "COMPSCI361 - Machine Learning/Machine Learning (ML).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI361 - Machine Learning/Deep Learning.md"
+                "file": "COMPSCI361 - Machine Learning/Machine Learning (ML).md"
               }
             }
           },
@@ -155,7 +155,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "COMPSCI361 - Machine Learning/Deep Learning.md"
+                "file": "COMPSCI361 - Machine Learning/Machine Learning (ML).md"
               }
             }
           }
@@ -180,10 +180,11 @@
   },
   "active": "53a49051d6175559",
   "lastOpenFiles": [
+    "COMPSCI361 - Machine Learning/Deep Learning (DL).md",
+    "COMPSCI361 - Machine Learning/Machine Learning (ML).md",
+    "@images/Pasted image 20240229223318.png",
     "@images/Pasted image 20240229223233.png",
     "COMPSCI361 - Machine Learning/Machine Learning vs Data Mining.md",
-    "COMPSCI361 - Machine Learning/Deep Learning.md",
-    "COMPSCI361 - Machine Learning/Machine Learning.md",
     "INFOSYS 303 - Solutions Architecture",
     "COMPSCI361 - Machine Learning/Data Mining.md",
     "COMPSCI361 - Machine Learning/Big Data.md",
@@ -213,8 +214,6 @@
     "@images/Pasted image 20240229170617.png",
     "@images/Pasted image 20240229170548.png",
     "@images/Pasted image 20240229165622.png",
-    "@images/Pasted image 20240229165444.png",
-    "@images/Pasted image 20240229162338.png",
     "COMPSCI367 - Artificial Intelligence/week12/Single-stage decision networks (SSDN).md",
     "COMPSCI367 - Artificial Intelligence/week12/Decision network.md",
     "COMPSCI367 - Artificial Intelligence/week12/Chance nodes.md",

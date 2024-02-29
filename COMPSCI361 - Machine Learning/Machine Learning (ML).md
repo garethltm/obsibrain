@@ -3,7 +3,7 @@
 	- We want to automate something a human can do
 	- We want to do things a human can't do (looking through 1TB of data)
 
->>[[Machine Learning]] is the field of study that gives the computer the ability to learn without being explicitly programmed
+>>[[Machine Learning (ML)]] is the field of study that gives the computer the ability to learn without being explicitly programmed
 >
 >>A computer is said to learn from experience E with respect to
 >>	some class of task T and
@@ -15,3 +15,6 @@
 	- T: Driving on public highway using vision sensors
 	- P: Average distance travelled before an error/crash
 	- E: A sequence of images and steering commands recorded while observing a human driver
+
+## Applications
+- learning patterns to recommend to the user

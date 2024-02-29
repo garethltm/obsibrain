@@ -1,6 +1,6 @@
-[[Data Mining]] and [[Machine Learning]] are very similar:
+[[Data Mining]] and [[Machine Learning (ML)]] are very similar:
 - [[Data Mining]] often viewed as closer to [[INFOSYS222 - Database Systems/Database|Database]]
-- [[Machine Learning]] often viewed as closer to [[Artificial Intelligence (AI)]]
+- [[Machine Learning (ML)]] often viewed as closer to [[Artificial Intelligence (AI)]]
 	- in terms of [[Arithmetic]]
 
 Both are similar to statistics, but more emphasis on:
