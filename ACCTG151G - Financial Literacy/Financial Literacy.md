@@ -8,9 +8,9 @@ Summary: optimise the use & management of money
 	- the ability to calculate the rates of return on investments, the interest rate on debt and basic arithmetic ability
 		- #acctg151gExample  
 		- knowing share prices per year to know rates of return
-1. an understanding of benefits and risks associated with particular financial decisions, including
+2. an understanding of benefits and risks associated with particular financial decisions, including
 	- spending, borrowing, leverage and investing (invest only if you have extra income)
-2. the ability to understand basic financial concepts, including:
+3. the ability to understand basic financial concepts, including:
 	- the trade off between risk and return
 	- the main attributes of different types of investments and other financial products
 		- #acctg151gExample  
@@ -28,4 +28,5 @@ Summary: optimise the use & management of money
 	- where to invest their money
 	- how to manage their financial risks
 	- how much debt they may need to fund their expenditure and what form that debt should take
-- it affects
+- it affects the behaviour of financial institutions and hence has implications for financial stability
+- 
