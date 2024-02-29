@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI361 - Machine Learning/Machine Learning vs Data Mining.md",
+                "file": "COMPSCI361 - Machine Learning/Deep Learning.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI361 - Machine Learning/Machine Learning vs Data Mining.md",
+                "file": "COMPSCI361 - Machine Learning/Deep Learning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI361 - Machine Learning/Machine Learning vs Data Mining.md",
+                "file": "COMPSCI361 - Machine Learning/Deep Learning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI361 - Machine Learning/Machine Learning vs Data Mining.md"
+                "file": "COMPSCI361 - Machine Learning/Deep Learning.md"
               }
             }
           },
@@ -155,7 +155,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "COMPSCI361 - Machine Learning/Machine Learning vs Data Mining.md"
+                "file": "COMPSCI361 - Machine Learning/Deep Learning.md"
               }
             }
           }
@@ -180,8 +180,10 @@
   },
   "active": "53a49051d6175559",
   "lastOpenFiles": [
-    "COMPSCI361 - Machine Learning/Machine Learning.md",
+    "@images/Pasted image 20240229223233.png",
     "COMPSCI361 - Machine Learning/Machine Learning vs Data Mining.md",
+    "COMPSCI361 - Machine Learning/Deep Learning.md",
+    "COMPSCI361 - Machine Learning/Machine Learning.md",
     "INFOSYS 303 - Solutions Architecture",
     "COMPSCI361 - Machine Learning/Data Mining.md",
     "COMPSCI361 - Machine Learning/Big Data.md",
@@ -217,8 +219,6 @@
     "COMPSCI367 - Artificial Intelligence/week12/Decision network.md",
     "COMPSCI367 - Artificial Intelligence/week12/Chance nodes.md",
     "COMPSCI367 - Artificial Intelligence/week12/Finite horizon.md",
-    "COMPSCI367 - Artificial Intelligence/week12/Decision nodes.md",
-    "COMPSCI367 - Artificial Intelligence/week12/value of a decision network.md",
     "ACCTG151G - Financial Literacy",
     "COMPSCI235 - Software Development Methodologies/235 summary.canvas",
     "COMPSCI235 - Software Development Methodologies/Untitled",
