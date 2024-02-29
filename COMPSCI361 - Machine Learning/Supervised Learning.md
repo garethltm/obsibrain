@@ -1,5 +1,8 @@
 ![[Pasted image 20240229223953.png]]
-Input: a day of the week is the quantities of food
+Input: set of features
+Output: class label
+
+Input: a day of the week is the quantities of food (set of features)
 Output: whether we got sick or not (class label)
 
 ## Goal
