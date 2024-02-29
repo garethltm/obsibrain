@@ -10,3 +10,5 @@ Output: whether we got sick or not
 - Use data to find a model that outputs the label based on the features
 - Model predicts whether which food make you sick (even with new combination)
 
+1. General supervised learning problem
+2. This is the most successful/widely used machine learning technique
