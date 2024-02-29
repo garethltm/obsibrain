@@ -6,4 +6,4 @@
 	- If every academic member of staff at UoA (~3000) wastes 1 hour a year because the annual performance review system has a poor interface
 			= 3000/1700 (work hrs per year)
 			= 1.76 work years lost productivity
-
+![[Pasted image 20240229214238.png]]
