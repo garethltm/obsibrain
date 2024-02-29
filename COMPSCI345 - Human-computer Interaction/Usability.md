@@ -2,7 +2,7 @@
 - is a quality attribute that assesses how easy user interfaces are to use
 
 ### Usability Factors
-1. Ease of learning
+1. [[Ease of learning]]
 	- How fast can a user who has never seen the user interface before learn it sufficiently well to accomplish basic tasks
 2. Efficiency of use
 	- Once an experienced user has learned to use the system, how fast can he/she accomplish tasks
