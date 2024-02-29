@@ -1,0 +1,2 @@
+- Automatically extract useful knowledge from large data sets
+- Often to help human decision making
