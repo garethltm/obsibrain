@@ -7,4 +7,7 @@ $$APC = \frac {C}{Y}$$
 - Y = (gross income) **BEFORE TAX INCOME**
 
 #### Disposable income
-$$ APC = 
+$$ APC = \frac {C}{Y-T}$$
+- T = taxes
+this one is more viable as you can't control the amount of tax you would receive
+
