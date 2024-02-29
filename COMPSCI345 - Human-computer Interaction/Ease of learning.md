@@ -4,4 +4,10 @@
 	1. learning a new interface
 	2. finding something on a website
 3. What are your usability expectations for a:
-	1. progr
+	1. programming IDE
+	2. a mobile phone
+
+# Consider
+- Identify when you last read the help screens for an app you installed on your mobile
+	- What induced you to use the help screens
+	- 
