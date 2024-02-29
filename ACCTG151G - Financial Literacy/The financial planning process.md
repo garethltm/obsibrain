@@ -9,3 +9,6 @@
 5. Evaluate results by using financial statements
 6. Review and redefine plans in light of new information
 
+==NOTE: The process is 'dynamic'==
+		it happens over time as financial situations WILL change
+
