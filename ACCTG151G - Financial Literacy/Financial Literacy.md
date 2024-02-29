@@ -33,5 +33,7 @@ Summary: optimise the use & management of money
 
 ![[Pasted image 20240229162338.png]]
 
-### What is known about [[Financial Literacy]]?
-- Financial knowledge increased with age (more experienced = more sophisticated), income ()
+## What is known about [[Financial Literacy]]?
+- Financial knowledge increased with age (more experienced = more sophisticated), income (more economic resources), education (people with masters degree = better) and net worth
+#### Positives
+- 
