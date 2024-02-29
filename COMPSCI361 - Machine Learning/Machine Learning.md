@@ -8,4 +8,7 @@
 >>A computer is said to learn from experience E with respect to
 >>	some class of task T and
 >>	performance measure P,
->>if its performance at 
+>>if its performance at tasks in T, as measured by P, improved with experience E
+
+#compsci361example
+- Problem - Self
