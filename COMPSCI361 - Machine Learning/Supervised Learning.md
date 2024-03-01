@@ -16,8 +16,10 @@ Output: whether we got sick or not
 2. This is the most successful/widely used machine learning technique
 	- #compsci361example 
 	- spam filtering, optical character recognition, speech recognition, classifying tumors, etc.
-1. [[Classification]]
+3. [[Classification]]
 
 ## As a program
 - There are many possible [[COMPSCI361 - Machine Learning/Decision Trees|Decision Trees]] 
-	- We're going to search for one that is good at one 
+	- We're going to search for one that is good at our [[Supervised Learning]] problem
+- So our input = data, output = program
+	- this is called "training" the [[Supervised Learning]] model
