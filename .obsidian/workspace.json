@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI361 - Machine Learning/Naïve Supervised Learning - Predict Mode.md",
+                "file": "COMPSCI361 - Machine Learning/Hypothesis Space.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI361 - Machine Learning/Naïve Supervised Learning - Predict Mode.md",
+                "file": "COMPSCI361 - Machine Learning/Hypothesis Space.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI361 - Machine Learning/Naïve Supervised Learning - Predict Mode.md",
+                "file": "COMPSCI361 - Machine Learning/Hypothesis Space.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI361 - Machine Learning/Naïve Supervised Learning - Predict Mode.md"
+                "file": "COMPSCI361 - Machine Learning/Hypothesis Space.md"
               }
             }
           },
@@ -155,7 +155,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "COMPSCI361 - Machine Learning/Naïve Supervised Learning - Predict Mode.md"
+                "file": "COMPSCI361 - Machine Learning/Hypothesis Space.md"
               }
             }
           }
@@ -180,11 +180,12 @@
   },
   "active": "53a49051d6175559",
   "lastOpenFiles": [
+    "COMPSCI361 - Machine Learning/Decision Trees.md",
+    "COMPSCI361 - Machine Learning/Hypothesis Space.md",
+    "COMPSCI361 - Machine Learning/Naïve Supervised Learning - Predict Mode.md",
     "COMPSCI361 - Machine Learning/Classifier.md",
     "COMPSCI361 - Machine Learning/Classification.md",
     "COMPSCI361 - Machine Learning/Supervised Learning.md",
-    "COMPSCI361 - Machine Learning/Naïve Supervised Learning - Predict Mode.md",
-    "COMPSCI361 - Machine Learning/Decision Trees.md",
     "@images/Pasted image 20240301115523.png",
     "@images/Pasted image 20240301115424.png",
     "@images/Pasted image 20240301115347.png",
@@ -218,7 +219,6 @@
     "ACCTG151G - Financial Literacy/The financial planning process.md",
     "ACCTG151G - Financial Literacy/Personal financial planning (personal finance).md",
     "ACCTG151G - Financial Literacy/Personal financial plan.md",
-    "ACCTG151G - Financial Literacy/Average propensity to consume (APC).md",
     "ACCTG151G - Financial Literacy",
     "COMPSCI235 - Software Development Methodologies/235 summary.canvas",
     "COMPSCI235 - Software Development Methodologies/Untitled",
