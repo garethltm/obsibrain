@@ -1,2 +1,3 @@
 - Learning can be defined as searching the best hypothesis for all observed data
-- For [[COMPSCI361 - Machine Learning/Decision Trees|Decision Trees]], the h
+- For [[COMPSCI361 - Machine Learning/Decision Trees|Decision Trees]], the hypothesis space are all possible [[COMPSCI361 - Machine Learning/Decision Trees|Decision Trees]] that can be generated for a data set (specific)
+- The learner searches through the space and returns the best hypothesis, for de
