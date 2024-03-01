@@ -1,1 +1,1 @@
-- Leaning
+- Learning can be defined as searching the best hypothesis for all observed data
