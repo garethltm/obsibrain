@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI361 - Machine Learning/Hypothesis Space.md",
+                "file": "COMPSCI361 - Machine Learning/Supervised Learning.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI361 - Machine Learning/Hypothesis Space.md",
+                "file": "COMPSCI361 - Machine Learning/Supervised Learning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI361 - Machine Learning/Hypothesis Space.md",
+                "file": "COMPSCI361 - Machine Learning/Supervised Learning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI361 - Machine Learning/Hypothesis Space.md"
+                "file": "COMPSCI361 - Machine Learning/Supervised Learning.md"
               }
             }
           },
@@ -155,7 +155,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "COMPSCI361 - Machine Learning/Hypothesis Space.md"
+                "file": "COMPSCI361 - Machine Learning/Supervised Learning.md"
               }
             }
           }
@@ -180,8 +180,8 @@
   },
   "active": "53a49051d6175559",
   "lastOpenFiles": [
-    "COMPSCI361 - Machine Learning/Decision Trees.md",
     "COMPSCI361 - Machine Learning/Hypothesis Space.md",
+    "COMPSCI361 - Machine Learning/Decision Trees.md",
     "COMPSCI361 - Machine Learning/Naïve Supervised Learning - Predict Mode.md",
     "COMPSCI361 - Machine Learning/Classifier.md",
     "COMPSCI361 - Machine Learning/Classification.md",

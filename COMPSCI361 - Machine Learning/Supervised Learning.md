@@ -17,3 +17,7 @@ Output: whether we got sick or not
 	- #compsci361example 
 	- spam filtering, optical character recognition, speech recognition, classifying tumors, etc.
 1. [[Classification]]
+
+## As a program
+- There are many possible [[COMPSCI361 - Machine Learning/Decision Trees|Decision Trees]] 
+	- We're going to search for one that is good at one 
