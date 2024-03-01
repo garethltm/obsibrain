@@ -1,1 +1,2 @@
 - Learning can be defined as searching the best hypothesis for all observed data
+- For [[COMPSCI361 - Machine Learning/Decision Trees|Decision Trees]], the h
