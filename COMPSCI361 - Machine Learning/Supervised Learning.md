@@ -23,3 +23,6 @@ Output: whether we got sick or not
 	- We're going to search for one that is good at our [[Supervised Learning]] problem
 - So our input = data, output = program
 	- this is called "training" the [[Supervised Learning]] model
+- [[Supervised Learning]] is useful when you have lots of labeled data BUT:
+	1. Problem is too complicated to write a program ourselves
+	2. Human expert can't 
