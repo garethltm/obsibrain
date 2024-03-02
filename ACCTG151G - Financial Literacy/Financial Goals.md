@@ -9,4 +9,4 @@
 2. Intermediate-term goals
 	- to be accomplished in the next 2-5 years
 3. Long-term goals
-	- 
+	- to be accomplished in time periods greater than 5 years
