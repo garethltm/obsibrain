@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ACCTG151G - Financial Literacy/Untitled.md",
+                "file": "ACCTG151G - Financial Literacy/compound interest.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ACCTG151G - Financial Literacy/Untitled.md",
+                "file": "ACCTG151G - Financial Literacy/compound interest.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ACCTG151G - Financial Literacy/Untitled.md",
+                "file": "ACCTG151G - Financial Literacy/compound interest.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ACCTG151G - Financial Literacy/Untitled.md"
+                "file": "ACCTG151G - Financial Literacy/compound interest.md"
               }
             }
           },
@@ -155,7 +155,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "ACCTG151G - Financial Literacy/Untitled.md"
+                "file": "ACCTG151G - Financial Literacy/compound interest.md"
               }
             }
           }
@@ -180,11 +180,15 @@
   },
   "active": "53a49051d6175559",
   "lastOpenFiles": [
-    "ACCTG151G - Financial Literacy/compound interest.md",
-    "ACCTG151G - Financial Literacy/Untitled.md",
-    "ACCTG151G - Financial Literacy/simple interest.md",
+    "ACCTG151G - Financial Literacy/Personal financial plan.md",
     "ACCTG151G - Financial Literacy/Present Value (PV).md",
     "ACCTG151G - Financial Literacy/Future Value (FV).md",
+    "ACCTG151G - Financial Literacy/Financial Literacy.md",
+    "ACCTG151G - Financial Literacy/Interest rates (r).md",
+    "ACCTG151G - Financial Literacy/Personal financial planning (personal finance).md",
+    "ACCTG151G - Financial Literacy/simple interest.md",
+    "ACCTG151G - Financial Literacy/The financial planning process.md",
+    "ACCTG151G - Financial Literacy/compound interest.md",
     "COMPSCI361 - Machine Learning/Supervised Learning.md",
     "COMPSCI361 - Machine Learning/Decision Trees.md",
     "COMPSCI361 - Machine Learning/Hypothesis Space.md",
@@ -209,15 +213,11 @@
     "COMPSCI345 - Human-computer Interaction/Fidelity Prototypes.md",
     "COMPSCI345 - Human-computer Interaction/Human-computer Interaction (HCI).md",
     "COMPSCI345 - Human-computer Interaction/User eXperience (UX).md",
-    "ACCTG151G - Financial Literacy/Financial Literacy.md",
-    "COMPSCI361 - Machine Learning/Machine Learning vs Data Mining.md",
     "COMPSCI361 - Machine Learning",
-    "COMPSCI345 - Human-computer Interaction/Usability.md",
     "@images/Pasted image 20240229223953.png",
     "@images/Pasted image 20240229223318.png",
     "@images/Pasted image 20240229223233.png",
     "@images/Pasted image 20240229214238.png",
-    "COMPSCI345 - Human-computer Interaction/UX Design.md",
     "COMPSCI345 - Human-computer Interaction",
     "ACCTG151G - Financial Literacy",
     "COMPSCI235 - Software Development Methodologies/235 summary.canvas",
