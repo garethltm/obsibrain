@@ -4,4 +4,4 @@
 
 ![[Pasted image 20240302142622.png]]
 - n = number of years
-*this is yearly*
+*this is annually, formula will be different if weekly, biweekly, etc.*

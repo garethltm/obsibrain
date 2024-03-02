@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ACCTG151G - Financial Literacy/Future Value (FV).md",
+                "file": "ACCTG151G - Financial Literacy/Future Value Interest Factor (FVIF).md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ACCTG151G - Financial Literacy/Future Value (FV).md",
+                "file": "ACCTG151G - Financial Literacy/Future Value Interest Factor (FVIF).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ACCTG151G - Financial Literacy/Future Value (FV).md",
+                "file": "ACCTG151G - Financial Literacy/Future Value Interest Factor (FVIF).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ACCTG151G - Financial Literacy/Future Value (FV).md"
+                "file": "ACCTG151G - Financial Literacy/Future Value Interest Factor (FVIF).md"
               }
             }
           },
@@ -155,7 +155,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "ACCTG151G - Financial Literacy/Future Value (FV).md"
+                "file": "ACCTG151G - Financial Literacy/Future Value Interest Factor (FVIF).md"
               }
             }
           }
@@ -180,8 +180,9 @@
   },
   "active": "53a49051d6175559",
   "lastOpenFiles": [
-    "ACCTG151G - Financial Literacy/timeline.md",
     "ACCTG151G - Financial Literacy/Future Value (FV).md",
+    "ACCTG151G - Financial Literacy/Future Value Interest Factor (FVIF).md",
+    "ACCTG151G - Financial Literacy/timeline.md",
     "@images/Pasted image 20240302142622.png",
     "ACCTG151G - Financial Literacy/compound interest.md",
     "ACCTG151G - Financial Literacy/Present Value (PV).md",
