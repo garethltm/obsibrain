@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ACCTG151G - Financial Literacy/Fiscal Policy - Government Spending.md",
+                "file": "ACCTG151G - Financial Literacy/Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ACCTG151G - Financial Literacy/Fiscal Policy - Government Spending.md",
+                "file": "ACCTG151G - Financial Literacy/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ACCTG151G - Financial Literacy/Fiscal Policy - Government Spending.md",
+                "file": "ACCTG151G - Financial Literacy/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ACCTG151G - Financial Literacy/Fiscal Policy - Government Spending.md"
+                "file": "ACCTG151G - Financial Literacy/Untitled.md"
               }
             }
           },
@@ -155,7 +155,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "ACCTG151G - Financial Literacy/Fiscal Policy - Government Spending.md"
+                "file": "ACCTG151G - Financial Literacy/Untitled.md"
               }
             }
           }
@@ -180,8 +180,9 @@
   },
   "active": "53a49051d6175559",
   "lastOpenFiles": [
-    "ACCTG151G - Financial Literacy/money (the measure).md",
     "ACCTG151G - Financial Literacy/Fiscal Policy - Government Spending.md",
+    "ACCTG151G - Financial Literacy/Untitled.md",
+    "ACCTG151G - Financial Literacy/money (the measure).md",
     "ACCTG151G - Financial Literacy/Financial Goals.md",
     "ACCTG151G - Financial Literacy/Financial Literacy.md",
     "ACCTG151G - Financial Literacy/Personal financial planning (personal finance).md",
@@ -216,7 +217,6 @@
     "COMPSCI361 - Machine Learning/Classification.md",
     "COMPSCI361 - Machine Learning/Machine Learning (ML).md",
     "COMPSCI361 - Machine Learning/Deep Learning (DL).md",
-    "COMPSCI361 - Machine Learning/Data Mining.md",
     "COMPSCI361 - Machine Learning",
     "COMPSCI345 - Human-computer Interaction",
     "ACCTG151G - Financial Literacy",
