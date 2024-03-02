@@ -12,10 +12,9 @@ $1000 @ 10% pa for 40 years
 = $1000 + $4000
 = $5000
 
-Interest for 1 year = $100
-
-*simple interest is not that good compared to [[compound interest]]*
-
+Interest for 1 year is only $100
 ## compound interest
 ![[compound interest#^d3a7bd]]
+*you could get more from compound interest compared to simple interest*
 
+*simple interest is not that good compared to [[compound interest]]*
