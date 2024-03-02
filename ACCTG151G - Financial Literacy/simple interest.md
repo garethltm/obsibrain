@@ -15,3 +15,4 @@ $1000 @ 10% pa for 40 years
 Interest for 1 year = $100
 
 *simple interest is not that good compared to [[compound interest]]*
+
