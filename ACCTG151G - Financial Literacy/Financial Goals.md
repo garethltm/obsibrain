@@ -10,3 +10,9 @@
 	- to be accomplished in the next 2-5 years
 3. Long-term goals
 	- to be accomplished in time periods greater than 5 years
+
+### What determines your personal income?
+1. Age, martial status
+2. Education
+3. Where you live
+4. Career choice
