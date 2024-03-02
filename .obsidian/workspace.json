@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI361 - Machine Learning/Decision Trees.md",
+                "file": "ACCTG151G - Financial Literacy/simple interest.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI361 - Machine Learning/Decision Trees.md",
+                "file": "ACCTG151G - Financial Literacy/simple interest.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI361 - Machine Learning/Decision Trees.md",
+                "file": "ACCTG151G - Financial Literacy/simple interest.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI361 - Machine Learning/Decision Trees.md"
+                "file": "ACCTG151G - Financial Literacy/simple interest.md"
               }
             }
           },
@@ -155,7 +155,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "COMPSCI361 - Machine Learning/Decision Trees.md"
+                "file": "ACCTG151G - Financial Literacy/simple interest.md"
               }
             }
           }
@@ -178,15 +178,17 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "3ad179677b7fba41",
+  "active": "53a49051d6175559",
   "lastOpenFiles": [
+    "ACCTG151G - Financial Literacy/compound interest.md",
+    "ACCTG151G - Financial Literacy/simple interest.md",
+    "COMPSCI361 - Machine Learning/Supervised Learning.md",
+    "COMPSCI361 - Machine Learning/Decision Trees.md",
     "COMPSCI361 - Machine Learning/Hypothesis Space.md",
     "COMPSCI361 - Machine Learning/Classifier.md",
     "Untitled",
     "COMPSCI361 - Machine Learning/Naïve Supervised Learning - Predict Mode.md",
-    "COMPSCI361 - Machine Learning/Supervised Learning.md",
     "COMPSCI361 - Machine Learning/Big Data.md",
-    "COMPSCI361 - Machine Learning/Decision Trees.md",
     "@images/Pasted image 20240301115523.png",
     "@images/Pasted image 20240301115424.png",
     "@images/Pasted image 20240301115347.png",
@@ -216,9 +218,7 @@
     "COMPSCI345 - Human-computer Interaction/Study 01 - Proprioceptive Gestures.md",
     "COMPSCI345 - Human-computer Interaction/Interaction.md",
     "COMPSCI345 - Human-computer Interaction",
-    "ACCTG151G - Financial Literacy/compound interest.md",
     "ACCTG151G - Financial Literacy/The financial planning process.md",
-    "ACCTG151G - Financial Literacy/Personal financial planning (personal finance).md",
     "ACCTG151G - Financial Literacy",
     "COMPSCI235 - Software Development Methodologies/235 summary.canvas",
     "COMPSCI235 - Software Development Methodologies/Untitled",

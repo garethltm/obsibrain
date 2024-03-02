@@ -1,0 +1,2 @@
+- without compounding
+	- we don't consider interest 
