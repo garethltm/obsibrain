@@ -6,6 +6,6 @@
 
 #acctg151gExample 
 1. if economy is in recession
-- Reserve Bank will take expansionary monetary policy by increasing money supply
+- [[Reserve Bank]] will take expansionary monetary policy by increasing money supply
 2. if economy is in expansion
-- Reserve Bank will decrease money supply
+- [[Reserve Bank]] will decrease money supply
