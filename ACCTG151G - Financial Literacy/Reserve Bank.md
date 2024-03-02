@@ -9,4 +9,4 @@
 		- #acctg151gExample 
 		- high inflation rates, purchasing power decreases
 			- you need more money to buy things
-	- Affects financial plans and [[Financial Goals]]
+	- Affects [[Personal financial plan]] and [[Financial Goals]]
