@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ACCTG151G - Financial Literacy/Financial Goals.md",
+                "file": "ACCTG151G - Financial Literacy/money (the measure).md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ACCTG151G - Financial Literacy/Financial Goals.md",
+                "file": "ACCTG151G - Financial Literacy/money (the measure).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ACCTG151G - Financial Literacy/Financial Goals.md",
+                "file": "ACCTG151G - Financial Literacy/money (the measure).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ACCTG151G - Financial Literacy/Financial Goals.md"
+                "file": "ACCTG151G - Financial Literacy/money (the measure).md"
               }
             }
           },
@@ -155,7 +155,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "ACCTG151G - Financial Literacy/Financial Goals.md"
+                "file": "ACCTG151G - Financial Literacy/money (the measure).md"
               }
             }
           }
@@ -180,8 +180,9 @@
   },
   "active": "53a49051d6175559",
   "lastOpenFiles": [
-    "ACCTG151G - Financial Literacy/Financial Literacy.md",
     "ACCTG151G - Financial Literacy/Financial Goals.md",
+    "ACCTG151G - Financial Literacy/money (the measure).md",
+    "ACCTG151G - Financial Literacy/Financial Literacy.md",
     "ACCTG151G - Financial Literacy/Personal financial planning (personal finance).md",
     "ACCTG151G - Financial Literacy/Personal financial plan.md",
     "ACCTG151G - Financial Literacy/Present Value (PV).md",
@@ -216,7 +217,6 @@
     "COMPSCI361 - Machine Learning/Deep Learning (DL).md",
     "COMPSCI361 - Machine Learning/Data Mining.md",
     "COMPSCI345 - Human-computer Interaction/Ease of learning.md",
-    "COMPSCI345 - Human-computer Interaction/Efficiency of use.md",
     "COMPSCI361 - Machine Learning",
     "COMPSCI345 - Human-computer Interaction",
     "ACCTG151G - Financial Literacy",
