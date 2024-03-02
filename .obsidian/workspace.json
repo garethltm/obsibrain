@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ACCTG151G - Financial Literacy/Future Value Interest Factor (FVIF).md",
+                "file": "ACCTG151G - Financial Literacy/compound interest.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ACCTG151G - Financial Literacy/Future Value Interest Factor (FVIF).md",
+                "file": "ACCTG151G - Financial Literacy/compound interest.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ACCTG151G - Financial Literacy/Future Value Interest Factor (FVIF).md",
+                "file": "ACCTG151G - Financial Literacy/compound interest.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ACCTG151G - Financial Literacy/Future Value Interest Factor (FVIF).md"
+                "file": "ACCTG151G - Financial Literacy/compound interest.md"
               }
             }
           },
@@ -155,7 +155,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "ACCTG151G - Financial Literacy/Future Value Interest Factor (FVIF).md"
+                "file": "ACCTG151G - Financial Literacy/compound interest.md"
               }
             }
           }
@@ -180,9 +180,9 @@
   },
   "active": "53a49051d6175559",
   "lastOpenFiles": [
+    "ACCTG151G - Financial Literacy/Future Value Interest Factor (FVIF).md",
     "@images/Pasted image 20240302143125.png",
     "ACCTG151G - Financial Literacy/Future Value (FV).md",
-    "ACCTG151G - Financial Literacy/Future Value Interest Factor (FVIF).md",
     "ACCTG151G - Financial Literacy/timeline.md",
     "@images/Pasted image 20240302142622.png",
     "ACCTG151G - Financial Literacy/compound interest.md",
@@ -217,7 +217,6 @@
     "COMPSCI345 - Human-computer Interaction/Efficiency of use.md",
     "COMPSCI345 - Human-computer Interaction/Engineering heuristic.md",
     "COMPSCI361 - Machine Learning",
-    "@images/Pasted image 20240229223953.png",
     "COMPSCI345 - Human-computer Interaction",
     "ACCTG151G - Financial Literacy",
     "COMPSCI235 - Software Development Methodologies/235 summary.canvas",
