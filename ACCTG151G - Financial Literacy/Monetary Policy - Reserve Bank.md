@@ -5,4 +5,6 @@
 4. Effect on exchange rates
 
 #acctg151gExample 
-if economy is i
+1. if economy is in recession
+- Reserve Bank will take expansionary monetary policy by increasing money supply
+2. if economy is in expansion
