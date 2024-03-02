@@ -16,5 +16,6 @@ Interest for 1 year = $100
 
 *simple interest is not that good compared to [[compound interest]]*
 
-![[compound interest]]
+## compound interest
+![[compound interest#^d3a7bd]]
 
