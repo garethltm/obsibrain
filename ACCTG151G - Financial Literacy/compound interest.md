@@ -11,4 +11,3 @@ $1,000 $\times$ 45.259 = $45,259 ^d3a7bd
 
 ![[Pasted image 20240302142300.png]]
 - $(1 + r)$ = growth factor
-- PV = money taken from your own pocket 
