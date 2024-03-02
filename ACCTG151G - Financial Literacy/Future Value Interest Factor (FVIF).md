@@ -10,6 +10,7 @@
 ## Use a FVIF Table
 ![[Pasted image 20240302143938.png]]
 
-
+![[Pasted image 20240302145713.png]]
+![[Pasted image 20240302145749.png]]
 
 Related to: [[Future Value (FV)]]
