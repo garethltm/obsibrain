@@ -13,4 +13,10 @@
 ![[Pasted image 20240302145713.png]]
 ![[Pasted image 20240302145749.png]]
 
+If we instead invested 10% pa instead
+![[Pasted image 20240302150419.png]]
+![[Pasted image 20240302150444.png]]
+
+Same Principle, Same Time Period but differen
+
 Related to: [[Future Value (FV)]]
