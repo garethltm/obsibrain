@@ -11,3 +11,5 @@ $1000 @ 10% pa for 40 years
 = $1000 + (100 $\times$ 40)
 = $1000 + $4000
 = $5000
+
+Interest for 1 year = $100
