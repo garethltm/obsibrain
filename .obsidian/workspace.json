@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ACCTG151G - Financial Literacy/compound interest.md",
+                "file": "ACCTG151G - Financial Literacy/Future Value Interest Factor (FVIF).md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ACCTG151G - Financial Literacy/compound interest.md",
+                "file": "ACCTG151G - Financial Literacy/Future Value Interest Factor (FVIF).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ACCTG151G - Financial Literacy/compound interest.md",
+                "file": "ACCTG151G - Financial Literacy/Future Value Interest Factor (FVIF).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ACCTG151G - Financial Literacy/compound interest.md"
+                "file": "ACCTG151G - Financial Literacy/Future Value Interest Factor (FVIF).md"
               }
             }
           },
@@ -155,7 +155,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "ACCTG151G - Financial Literacy/compound interest.md"
+                "file": "ACCTG151G - Financial Literacy/Future Value Interest Factor (FVIF).md"
               }
             }
           }
@@ -180,12 +180,14 @@
   },
   "active": "53a49051d6175559",
   "lastOpenFiles": [
+    "ACCTG151G - Financial Literacy/Personal financial planning (personal finance).md",
+    "ACCTG151G - Financial Literacy/growth factor.md",
+    "ACCTG151G - Financial Literacy/compound interest.md",
     "ACCTG151G - Financial Literacy/Future Value Interest Factor (FVIF).md",
     "@images/Pasted image 20240302143125.png",
     "ACCTG151G - Financial Literacy/Future Value (FV).md",
     "ACCTG151G - Financial Literacy/timeline.md",
     "@images/Pasted image 20240302142622.png",
-    "ACCTG151G - Financial Literacy/compound interest.md",
     "ACCTG151G - Financial Literacy/Present Value (PV).md",
     "@images/Pasted image 20240302142300.png",
     "@images/Pasted image 20240302141813.png",
@@ -193,7 +195,6 @@
     "ACCTG151G - Financial Literacy/Interest rates (r).md",
     "ACCTG151G - Financial Literacy/Personal financial plan.md",
     "ACCTG151G - Financial Literacy/Financial Literacy.md",
-    "ACCTG151G - Financial Literacy/Personal financial planning (personal finance).md",
     "ACCTG151G - Financial Literacy/The financial planning process.md",
     "COMPSCI361 - Machine Learning/Supervised Learning.md",
     "COMPSCI361 - Machine Learning/Decision Trees.md",
