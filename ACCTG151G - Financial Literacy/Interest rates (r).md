@@ -1,1 +1,4 @@
 - represented as the letter r
+- usually expressed in decimal form
+	- #acctg151gExample 
+	- 10% = 0.10
