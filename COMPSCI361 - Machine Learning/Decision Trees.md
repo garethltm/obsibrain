@@ -3,8 +3,9 @@
 	- a class label as a return value at the end of each sequence
 ![[Pasted image 20240301115225.png]]
 
-## In terms of 
-Which score function should a decision tree use?
-- You generally want a shorter one because it generalises more
+## Which score function should a decision tree use?
+In terms of accuracy
+- You generally want a shorter one because it generalises more 
+	- you 
 
 Related to: [[COMPSCI367 - Artificial Intelligence/week11/Decision Trees|Decision Trees]]
