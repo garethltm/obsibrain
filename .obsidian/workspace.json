@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI361 - Machine Learning/Untitled.md",
+                "file": "COMPSCI361 - Machine Learning/Decision Trees.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI361 - Machine Learning/Untitled.md",
+                "file": "COMPSCI361 - Machine Learning/Decision Trees.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI361 - Machine Learning/Untitled.md",
+                "file": "COMPSCI361 - Machine Learning/Decision Trees.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI361 - Machine Learning/Untitled.md"
+                "file": "COMPSCI361 - Machine Learning/Decision Trees.md"
               }
             }
           },
@@ -155,7 +155,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "COMPSCI361 - Machine Learning/Untitled.md"
+                "file": "COMPSCI361 - Machine Learning/Decision Trees.md"
               }
             }
           }
@@ -180,19 +180,20 @@
   },
   "active": "71e95a060b92c837",
   "lastOpenFiles": [
-    "COMPSCI361 - Machine Learning/Decision Trees.md",
-    "COMPSCI361 - Machine Learning/Untitled.md",
-    "COMPSCI361 - Machine Learning/Deep Learning (DL).md",
-    "COMPSCI361 - Machine Learning/Machine Learning vs Data Mining.md",
     "COMPSCI361 - Machine Learning/Hypothesis Space.md",
+    "COMPSCI361 - Machine Learning/Machine Learning (ML).md",
+    "COMPSCI361 - Machine Learning/Machine Learning vs Data Mining.md",
     "COMPSCI361 - Machine Learning/Supervised Learning.md",
+    "COMPSCI361 - Machine Learning/Naïve Supervised Learning - Predict Mode.md",
+    "COMPSCI361 - Machine Learning/entropy.md",
+    "COMPSCI361 - Machine Learning/Decision Trees.md",
+    "COMPSCI361 - Machine Learning/Deep Learning (DL).md",
     "conflict-files-obsidian-git.md",
     "@images/Pasted image 20240302143938.png",
     "@images/Pasted image 20240302143125.png",
     "@images/Pasted image 20240302142622.png",
     "@images/Pasted image 20240302142300.png",
     "@images/Pasted image 20240302141813.png",
-    "COMPSCI361 - Machine Learning/Naïve Supervised Learning - Predict Mode.md",
     "COMPSCI361 - Machine Learning/Classifier.md",
     "COMPSCI361 - Machine Learning/Classification.md",
     "@images/Pasted image 20240301115523.png",
@@ -200,7 +201,6 @@
     "@images/Pasted image 20240301115347.png",
     "@images/Pasted image 20240301115338.png",
     "@images/Pasted image 20240301115225.png",
-    "COMPSCI361 - Machine Learning/Machine Learning (ML).md",
     "INFOSYS 303 - Solutions Architecture",
     "COMPSCI361 - Machine Learning/Data Mining.md",
     "COMPSCI361 - Machine Learning/Big Data.md",
