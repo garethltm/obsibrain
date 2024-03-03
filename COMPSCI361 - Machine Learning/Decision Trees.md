@@ -5,7 +5,7 @@
 
 ## Which score function should a decision tree use?
 In terms of accuracy
-- You generally want a shorter one because it generalises more 
-	- you 
+- You generally want a shorter one because it generalises more - to adapt to more cases
+	- you would usually make splits, decisions and patterns that occur which aren't really useful for the data
 
 Related to: [[COMPSCI367 - Artificial Intelligence/week11/Decision Trees|Decision Trees]]
