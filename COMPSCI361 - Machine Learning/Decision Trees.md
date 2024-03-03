@@ -11,5 +11,7 @@ In terms of accuracy
 - For internal nodes: not the best choice
 What happens if no simple rule improves accuracy?
 - this doesn't necessarily mean we should stop - it might just mean that it is just a split
+Most common score in practice is "information gain"
+- Choose the split that decreases [[entropy]] of labels the most
 
 Related to: [[COMPSCI367 - Artificial Intelligence/week11/Decision Trees|Decision Trees]]

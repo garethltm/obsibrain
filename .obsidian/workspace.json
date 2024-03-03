@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI361 - Machine Learning/Decision Trees.md",
+                "file": "COMPSCI361 - Machine Learning/Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI361 - Machine Learning/Decision Trees.md",
+                "file": "COMPSCI361 - Machine Learning/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI361 - Machine Learning/Decision Trees.md",
+                "file": "COMPSCI361 - Machine Learning/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI361 - Machine Learning/Decision Trees.md"
+                "file": "COMPSCI361 - Machine Learning/Untitled.md"
               }
             }
           },
@@ -155,7 +155,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "COMPSCI361 - Machine Learning/Decision Trees.md"
+                "file": "COMPSCI361 - Machine Learning/Untitled.md"
               }
             }
           }
@@ -178,13 +178,14 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "9bb6d40336bd7f8b",
+  "active": "71e95a060b92c837",
   "lastOpenFiles": [
+    "COMPSCI361 - Machine Learning/Decision Trees.md",
+    "COMPSCI361 - Machine Learning/Untitled.md",
     "COMPSCI361 - Machine Learning/Deep Learning (DL).md",
     "COMPSCI361 - Machine Learning/Machine Learning vs Data Mining.md",
     "COMPSCI361 - Machine Learning/Hypothesis Space.md",
     "COMPSCI361 - Machine Learning/Supervised Learning.md",
-    "COMPSCI361 - Machine Learning/Decision Trees.md",
     "conflict-files-obsidian-git.md",
     "@images/Pasted image 20240302143938.png",
     "@images/Pasted image 20240302143125.png",
@@ -218,7 +219,6 @@
     "COMPSCI345 - Human-computer Interaction",
     "ACCTG151G - Financial Literacy/compound interest.md",
     "ACCTG151G - Financial Literacy/The financial planning process.md",
-    "ACCTG151G - Financial Literacy/Personal financial planning (personal finance).md",
     "ACCTG151G - Financial Literacy",
     "COMPSCI235 - Software Development Methodologies/235 summary.canvas",
     "COMPSCI235 - Software Development Methodologies/Untitled",
