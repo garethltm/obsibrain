@@ -9,5 +9,7 @@ In terms of accuracy
 	- you would usually make splits, decisions and patterns that occur which aren't really useful for the data
 - For the leafs: no issue
 - For internal nodes: not the best choice
+What happens if no simple rule improves accuracy?
+- this doesn't necessarily mean we should stop - it might just mean that it is just a split
 
 Related to: [[COMPSCI367 - Artificial Intelligence/week11/Decision Trees|Decision Trees]]
