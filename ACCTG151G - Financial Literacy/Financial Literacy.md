@@ -5,7 +5,7 @@ Summary: optimise the use & management of money
 
 ### Elements
 1. basic numeracy skills
-	- the ability to calculate the rates of return on investments, the interest rate on debt and basic arithmetic ability
+	- the ability to calculate the rates of return on investments, the [[Interest rates (r)]] on debt and basic arithmetic ability
 		- #acctg151gExample  
 		- knowing share prices per year to know rates of return
 2. an understanding of benefits and risks associated with particular financial decisions, including
