@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "eb6902863d4d20c9",
+        "id": "6987bdc4ad890947",
         "type": "tabs",
         "children": [
           {
-            "id": "76f039e98529ce7e",
+            "id": "71e95a060b92c837",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "COMPSCI361 - Machine Learning/Decision Trees.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "COMPSCI361 - Machine Learning/Decision Trees.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "COMPSCI361 - Machine Learning/Decision Trees.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "COMPSCI361 - Machine Learning/Decision Trees.md"
               }
             }
           },
@@ -155,7 +155,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "COMPSCI361 - Machine Learning/Decision Trees.md"
               }
             }
           }
@@ -178,17 +178,19 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "76f039e98529ce7e",
+  "active": "71e95a060b92c837",
   "lastOpenFiles": [
+    "COMPSCI361 - Machine Learning/Deep Learning (DL).md",
+    "COMPSCI361 - Machine Learning/Machine Learning vs Data Mining.md",
+    "COMPSCI361 - Machine Learning/Hypothesis Space.md",
     "COMPSCI361 - Machine Learning/Supervised Learning.md",
+    "COMPSCI361 - Machine Learning/Decision Trees.md",
     "conflict-files-obsidian-git.md",
     "@images/Pasted image 20240302143938.png",
     "@images/Pasted image 20240302143125.png",
     "@images/Pasted image 20240302142622.png",
     "@images/Pasted image 20240302142300.png",
     "@images/Pasted image 20240302141813.png",
-    "COMPSCI361 - Machine Learning/Hypothesis Space.md",
-    "COMPSCI361 - Machine Learning/Decision Trees.md",
     "COMPSCI361 - Machine Learning/Naïve Supervised Learning - Predict Mode.md",
     "COMPSCI361 - Machine Learning/Classifier.md",
     "COMPSCI361 - Machine Learning/Classification.md",
@@ -198,8 +200,6 @@
     "@images/Pasted image 20240301115338.png",
     "@images/Pasted image 20240301115225.png",
     "COMPSCI361 - Machine Learning/Machine Learning (ML).md",
-    "COMPSCI361 - Machine Learning/Deep Learning (DL).md",
-    "COMPSCI361 - Machine Learning/Machine Learning vs Data Mining.md",
     "INFOSYS 303 - Solutions Architecture",
     "COMPSCI361 - Machine Learning/Data Mining.md",
     "COMPSCI361 - Machine Learning/Big Data.md",
