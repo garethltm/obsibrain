@@ -13,11 +13,54 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI361 - Machine Learning/Decision Stumps.md",
+                "file": "COMPSCI361 - Machine Learning/Decision Trees.md",
                 "mode": "source",
                 "source": false
               }
-            }
+            },
+            "group": "6b8caedd5f9e498e"
+          }
+        ]
+      },
+      {
+        "id": "07b3441d78c32df4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "19a16e29f2545859",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "COMPSCI361 - Machine Learning/Decision Trees.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1.9896223601554315,
+                  "close": false
+                }
+              }
+            },
+            "group": "6b8caedd5f9e498e"
           }
         ]
       }
@@ -85,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI361 - Machine Learning/Decision Stumps.md",
+                "file": "COMPSCI361 - Machine Learning/Decision Trees.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI361 - Machine Learning/Decision Stumps.md",
+                "file": "COMPSCI361 - Machine Learning/Decision Trees.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI361 - Machine Learning/Decision Stumps.md"
+                "file": "COMPSCI361 - Machine Learning/Decision Trees.md"
               }
             }
           },
@@ -155,16 +198,17 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "COMPSCI361 - Machine Learning/Decision Stumps.md"
+                "file": "COMPSCI361 - Machine Learning/Decision Trees.md"
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -177,7 +221,7 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "53a49051d6175559",
+  "active": "19a16e29f2545859",
   "lastOpenFiles": [
     "COMPSCI361 - Machine Learning/Decision Stumps.md",
     "COMPSCI361 - Machine Learning/entropy.md",
