@@ -13,54 +13,11 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI361 - Machine Learning/Decision Trees.md",
+                "file": "COMPSCI361 - Machine Learning/Deep Learning (DL).md",
                 "mode": "source",
                 "source": false
               }
-            },
-            "group": "6b8caedd5f9e498e"
-          }
-        ]
-      },
-      {
-        "id": "07b3441d78c32df4",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "19a16e29f2545859",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "COMPSCI361 - Machine Learning/Decision Trees.md",
-                "options": {
-                  "collapse-filter": true,
-                  "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": true,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 1.9896223601554315,
-                  "close": false
-                }
-              }
-            },
-            "group": "6b8caedd5f9e498e"
+            }
           }
         ]
       }
@@ -128,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI361 - Machine Learning/Decision Trees.md",
+                "file": "COMPSCI361 - Machine Learning/Deep Learning (DL).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI361 - Machine Learning/Decision Trees.md",
+                "file": "COMPSCI361 - Machine Learning/Deep Learning (DL).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI361 - Machine Learning/Decision Trees.md"
+                "file": "COMPSCI361 - Machine Learning/Deep Learning (DL).md"
               }
             }
           },
@@ -198,7 +155,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "COMPSCI361 - Machine Learning/Decision Trees.md"
+                "file": "COMPSCI361 - Machine Learning/Deep Learning (DL).md"
               }
             }
           }
@@ -221,8 +178,11 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "19a16e29f2545859",
+  "active": "53a49051d6175559",
   "lastOpenFiles": [
+    "COMPSCI367 - Artificial Intelligence/week11/von Neumann & Morgenstern (VNM).md",
+    "COMPSCI367 - Artificial Intelligence/week11/Decision Trees.md",
+    "COMPSCI361 - Machine Learning/Decision Trees.md",
     "COMPSCI361 - Machine Learning/Decision Stumps.md",
     "COMPSCI361 - Machine Learning/entropy.md",
     "COMPSCI361 - Machine Learning/Supervised Learning.md",
@@ -256,10 +216,7 @@
     "@images/Pasted image 20240302141813.png",
     "ACCTG151G - Financial Literacy/simple interest.md",
     "ACCTG151G - Financial Literacy/Interest rates (r).md",
-    "COMPSCI361 - Machine Learning/Decision Trees.md",
     "COMPSCI361 - Machine Learning/Hypothesis Space.md",
-    "COMPSCI361 - Machine Learning/Classifier.md",
-    "COMPSCI361 - Machine Learning/Naïve Supervised Learning - Predict Mode.md",
     "COMPSCI361 - Machine Learning",
     "COMPSCI345 - Human-computer Interaction",
     "ACCTG151G - Financial Literacy",
