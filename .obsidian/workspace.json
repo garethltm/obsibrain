@@ -164,8 +164,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -180,9 +179,9 @@
   },
   "active": "53a49051d6175559",
   "lastOpenFiles": [
+    "COMPSCI361 - Machine Learning/Decision Stumps.md",
     "COMPSCI361 - Machine Learning/entropy.md",
     "COMPSCI361 - Machine Learning/Supervised Learning.md",
-    "COMPSCI361 - Machine Learning/Decision Stumps.md",
     "ACCTG151G - Financial Literacy/Financial planning profession.md",
     "INFOSYS303 - Solutions Architecture",
     "ACCTG151G - Financial Literacy/Economic Cycles.md",
