@@ -52,4 +52,11 @@ Most common challenges:
 	1. Define goal & objective
 	2. Identify the key stakeholders
 	3. Select a modern [[Enterprise Architecture (EA)]] tool
-	4. Assess the current state of IT infra
+	4. Assess the current state of IT infrastructure & systems
+	5. Develop a future state architecture
+		- vision
+	6. Create an implementation plan
+	7. Monitor progress and adjust the [[Enterprise Architecture (EA)]] framework
+
+## Frameworks & Methodologies
+
