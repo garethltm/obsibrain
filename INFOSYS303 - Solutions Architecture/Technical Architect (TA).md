@@ -3,4 +3,4 @@
 	- Python, Java
 - Provides recommendations to address potential threats
 - Implements technical processes to roll out solutions
-- Delivers fully functional products in a 
+- Delivers fully functional products in a timely manner for the end user
