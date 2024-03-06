@@ -32,4 +32,8 @@
 5. Standardized processes help enterprises not only change for the better but become better at change itself
 
 ## Challenges
-- If established correctly $\rightarrow$ can add value to organizations through enhanced proces
+- If established correctly $\rightarrow$ can add value to organizations through
+	1. enhanced processes
+	2. efficiency
+	3. decision-making
+- its adoption is limited due to challenges
