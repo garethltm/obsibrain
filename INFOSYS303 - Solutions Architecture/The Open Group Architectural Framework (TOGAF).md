@@ -21,11 +21,12 @@
 
 ## Architectural Development Method
 - designed to accelerate workflow across 4 domains of [[Enterprise Architecture (EA)]]
-	1. Business Architecture
+	1. Business Architecture (High-level conception)
 		- Responsible for mapping the relationships between a business's operational hierarchies, policies, capabilities & initiatives
 	2. Applications Architecture
 		- Responsible for defining relevant applications 
-			- to handle company data 
-			- the ways in which to implement & deploy these applications within the overall infrastructure
-	1. Data Architecture
-	2. Technical Architecture
+		- to handle company data & the ways in which to implement & deploy these applications within the overall infrastructure
+	3. Data Architecture
+		- Responsible for defining the rules & standards to store & integrate data
+	4. Technical Architecture
+		- 
