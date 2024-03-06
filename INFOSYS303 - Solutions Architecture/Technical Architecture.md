@@ -1,1 +1,1 @@
--  Defines platforms, service & all surrounding technology components to serve as a reference for development teams
+- Defines platforms, service & all surrounding technology components to serve as a reference for development teams

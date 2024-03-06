@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "INFOSYS303 - Solutions Architecture/Technical Architecture.md",
+                "file": "INFOSYS303 - Solutions Architecture/Business Capabilities.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "INFOSYS303 - Solutions Architecture/Technical Architecture.md",
+                "file": "INFOSYS303 - Solutions Architecture/Business Capabilities.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "INFOSYS303 - Solutions Architecture/Technical Architecture.md",
+                "file": "INFOSYS303 - Solutions Architecture/Business Capabilities.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "INFOSYS303 - Solutions Architecture/Technical Architecture.md"
+                "file": "INFOSYS303 - Solutions Architecture/Business Capabilities.md"
               }
             }
           },
@@ -155,7 +155,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "INFOSYS303 - Solutions Architecture/Technical Architecture.md"
+                "file": "INFOSYS303 - Solutions Architecture/Business Capabilities.md"
               }
             }
           }
@@ -181,11 +181,11 @@
   "active": "71e95a060b92c837",
   "lastOpenFiles": [
     "INFOSYS303 - Solutions Architecture/The Open Group Architectural Framework (TOGAF).md",
+    "INFOSYS303 - Solutions Architecture/Business Capabilities.md",
+    "INFOSYS303 - Solutions Architecture/Business Architecture.md",
+    "INFOSYS303 - Solutions Architecture/Applications Architecture.md",
     "INFOSYS303 - Solutions Architecture/Technical Architecture.md",
     "INFOSYS303 - Solutions Architecture/Data Architecture.md",
-    "INFOSYS303 - Solutions Architecture/Applications Architecture.md",
-    "INFOSYS303 - Solutions Architecture/Business Architecture.md",
-    "INFOSYS303 - Solutions Architecture/Business Capabilities.md",
     "INFOSYS303 - Solutions Architecture/TOGAF Standard.md",
     "@images/Pasted image 20240306231159.png",
     "INFOSYS303 - Solutions Architecture/Enterprise Architecture (EA).md",
