@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "INFOSYS303 - Solutions Architecture/The Open Group Architectural Framework (TOGAF).md",
+                "file": "INFOSYS303 - Solutions Architecture/Applications Architecture.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "INFOSYS303 - Solutions Architecture/The Open Group Architectural Framework (TOGAF).md",
+                "file": "INFOSYS303 - Solutions Architecture/Applications Architecture.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "INFOSYS303 - Solutions Architecture/The Open Group Architectural Framework (TOGAF).md",
+                "file": "INFOSYS303 - Solutions Architecture/Applications Architecture.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "INFOSYS303 - Solutions Architecture/The Open Group Architectural Framework (TOGAF).md"
+                "file": "INFOSYS303 - Solutions Architecture/Applications Architecture.md"
               }
             }
           },
@@ -155,7 +155,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "INFOSYS303 - Solutions Architecture/The Open Group Architectural Framework (TOGAF).md"
+                "file": "INFOSYS303 - Solutions Architecture/Applications Architecture.md"
               }
             }
           }
@@ -180,9 +180,11 @@
   },
   "active": "71e95a060b92c837",
   "lastOpenFiles": [
+    "INFOSYS303 - Solutions Architecture/The Open Group Architectural Framework (TOGAF).md",
+    "INFOSYS303 - Solutions Architecture/Applications Architecture.md",
+    "INFOSYS303 - Solutions Architecture/Business Architecture.md",
     "INFOSYS303 - Solutions Architecture/Business Capabilities.md",
     "INFOSYS303 - Solutions Architecture/TOGAF Standard.md",
-    "INFOSYS303 - Solutions Architecture/The Open Group Architectural Framework (TOGAF).md",
     "@images/Pasted image 20240306231159.png",
     "INFOSYS303 - Solutions Architecture/Enterprise Architecture (EA).md",
     "INFOSYS303 - Solutions Architecture/Zachman Enterprise Architecture Framework (ZEAF).md",
@@ -218,7 +220,6 @@
     "INFOSYS 303 - Solutions Architecture",
     "COMPSCI361 - Machine Learning/Data Mining.md",
     "COMPSCI361 - Machine Learning/Big Data.md",
-    "COMPSCI345 - Human-computer Interaction/Efficiency of use.md",
     "COMPSCI361 - Machine Learning",
     "COMPSCI345 - Human-computer Interaction",
     "ACCTG151G - Financial Literacy",

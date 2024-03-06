@@ -1,0 +1,1 @@
+- Responsible for mapping the relationships between a business's operational hierarchies, policies, capabilities & initiatives
