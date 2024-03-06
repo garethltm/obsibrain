@@ -1,1 +1,2 @@
-- a global leader in [[it]]
+- a global leader in IT research & insights
+- put forward enough best practices for [[Enterprise Architecture (EA)]] solutions throug
