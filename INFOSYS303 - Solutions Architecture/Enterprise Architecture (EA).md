@@ -62,3 +62,4 @@ Most common challenges:
 1. [[The Open Group Architectural Framework (TOGAF)]]
 2. [[Federal Enterprise Architecture Framework (FEAF)]]
 3. [[Gartner's Enterprise Architecture Framework]]
+4. [[ArchiMate]]
