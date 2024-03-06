@@ -12,3 +12,6 @@
 	4. Security architecture
 
 ![[Pasted image 20240306143250.png]]
+
+## Purpose
+1. [[Enterprise Architecture]]
