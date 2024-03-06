@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "INFOSYS303 - Solutions Architecture/Enterprise Architecture (EA).md",
+                "file": "INFOSYS303 - Solutions Architecture/EA framework.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "INFOSYS303 - Solutions Architecture/Enterprise Architecture (EA).md",
+                "file": "INFOSYS303 - Solutions Architecture/EA framework.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "INFOSYS303 - Solutions Architecture/Enterprise Architecture (EA).md",
+                "file": "INFOSYS303 - Solutions Architecture/EA framework.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "INFOSYS303 - Solutions Architecture/Enterprise Architecture (EA).md"
+                "file": "INFOSYS303 - Solutions Architecture/EA framework.md"
               }
             }
           },
@@ -168,7 +168,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "INFOSYS303 - Solutions Architecture/Enterprise Architecture (EA).md"
+                "file": "INFOSYS303 - Solutions Architecture/EA framework.md"
               }
             }
           }
@@ -193,9 +193,10 @@
   },
   "active": "2793070328814e37",
   "lastOpenFiles": [
+    "INFOSYS303 - Solutions Architecture/Enterprise Architecture (EA).md",
+    "INFOSYS303 - Solutions Architecture/EA framework.md",
     "@images/Pasted image 20240306143250.png",
     "INFOSYS303 - Solutions Architecture/Business Capabilities.md",
-    "INFOSYS303 - Solutions Architecture/Enterprise Architecture (EA).md",
     "@images/LeanIX_Poster_EA_vs_SA_vs_TA_EN.pdf",
     "@images/LeanIX_Poster_Best-practices-to-define-business-capability-maps_EN.pdf",
     "COMPSCI361 - Machine Learning/Deep Learning (DL).md",
@@ -231,7 +232,6 @@
     "ACCTG151G - Financial Literacy/Future Value (FV).md",
     "@images/Pasted image 20240302142622.png",
     "@images/Pasted image 20240302142300.png",
-    "@images/Pasted image 20240302141813.png",
     "COMPSCI361 - Machine Learning",
     "COMPSCI345 - Human-computer Interaction",
     "ACCTG151G - Financial Literacy",
