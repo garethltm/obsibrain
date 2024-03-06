@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "INFOSYS303 - Solutions Architecture/Enterprise Architect (EA).md",
+                "file": "INFOSYS303 - Solutions Architecture/Solution Architect (SA).md",
                 "mode": "source",
                 "source": false
               }
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "INFOSYS303 - Solutions Architecture/Enterprise Architect (EA).md",
+                "file": "INFOSYS303 - Solutions Architecture/Solution Architect (SA).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "INFOSYS303 - Solutions Architecture/Enterprise Architect (EA).md",
+                "file": "INFOSYS303 - Solutions Architecture/Solution Architect (SA).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "INFOSYS303 - Solutions Architecture/Enterprise Architect (EA).md"
+                "file": "INFOSYS303 - Solutions Architecture/Solution Architect (SA).md"
               }
             }
           },
@@ -156,7 +155,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "INFOSYS303 - Solutions Architecture/Enterprise Architect (EA).md"
+                "file": "INFOSYS303 - Solutions Architecture/Solution Architect (SA).md"
               }
             }
           }
@@ -179,12 +178,12 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "a6e0090ac9cbd1f3",
+  "active": "71e95a060b92c837",
   "lastOpenFiles": [
+    "INFOSYS303 - Solutions Architecture/Enterprise Architect (EA).md",
     "INFOSYS303 - Solutions Architecture/Business Architect (BA).md",
     "INFOSYS303 - Solutions Architecture/Business Capabilities.md",
     "INFOSYS303 - Solutions Architecture/Business Architecture.md",
-    "INFOSYS303 - Solutions Architecture/Enterprise Architect (EA).md",
     "INFOSYS303 - Solutions Architecture/Enterprise Architecture.md",
     "INFOSYS303 - Solutions Architecture/Technical Architecture.md",
     "INFOSYS303 - Solutions Architecture/Technical Architect (TA).md",
