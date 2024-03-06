@@ -30,3 +30,6 @@
 3. The influence to implement enterprise-wide [[AGILE]] methodologies to accelerate product deployments & connect siloed organizational groups
 4. A clear survey of an enterprise to extend data-driven findings to business leaders in order to prioritize investments and transformational strategies
 5. Standardized processes help enterprises not only change for the better but become better at change itself
+
+## Challenges
+- If established correctly $\rightarrow$ can add value to organizations through enhanced proces
