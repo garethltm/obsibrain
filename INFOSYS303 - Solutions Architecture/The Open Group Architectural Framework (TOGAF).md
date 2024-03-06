@@ -36,4 +36,4 @@
 - a 9-phase sequential process
 	- throughout the 9-stages of [[The Open Group Architectural Framework (TOGAF)]] ADM process
 		- the 4-architectural domains become iteratively developed to create a balanced architecture capable of securing organizational changes
-- This method is intended to limit 
+- This method is intended to limit guesswork & foster maturity in [[Enterprise Architecture (EA)]] programs - all of which while amassing enterprise-specific architectural repositories to support future projects
