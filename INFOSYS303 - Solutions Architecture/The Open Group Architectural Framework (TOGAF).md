@@ -20,7 +20,7 @@
 	4. Achieving demonstrable [[Return-On-Investment (ROI)]]
 
 ## Architectural Development Method (ADM)
-- designed to accelerate workflow across 4 domains of [[Enterprise Architecture (EA)]]
+- [[The Open Group Architectural Framework (TOGAF)]] ADM process is specifically designed to accelerate workflow across 4 domains of [[Enterprise Architecture (EA)]]
 	1. Business Architecture (High-level conception)
 		- Responsible for mapping the relationships between a business's operational hierarchies, policies, capabilities & initiatives
 	2. Applications Architecture
