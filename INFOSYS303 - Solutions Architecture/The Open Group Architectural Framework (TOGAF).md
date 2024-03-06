@@ -32,4 +32,6 @@
 		- Defines platforms, service & all surrounding technology components to serve as a reference for development teams
 
 ## Architecture Development Model
-- a clear roadmap for how to create the A
+- a clear roadmap for how to create the Architecture Development Method (ADM)
+- a 9-phase sequential process
+- 
