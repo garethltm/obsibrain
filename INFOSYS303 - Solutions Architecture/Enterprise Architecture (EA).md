@@ -25,4 +25,5 @@
 	3. structure
 	4. analyze varied sources of information
 	to solve unplanned or foreseeable problems in enterprise landscapes
-2. An awareness of industry-relevant technologies and the competence to demonstrat
+2. An awareness of industry-relevant technologies and the competence to demonstrate, in clear terms, how a proposed service would impact a company
+3. The influence to implement enterprise-wide [[AGILE]] methologies to accelerate product deployments

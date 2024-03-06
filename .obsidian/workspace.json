@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "INFOSYS303 - Solutions Architecture/Enterprise Architecture (EA).md",
+                "file": "COMPSCI235 - Software Development Methodologies/AGILE.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "INFOSYS303 - Solutions Architecture/Enterprise Architecture (EA).md",
+                "file": "COMPSCI235 - Software Development Methodologies/AGILE.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "INFOSYS303 - Solutions Architecture/Enterprise Architecture (EA).md",
+                "file": "COMPSCI235 - Software Development Methodologies/AGILE.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "INFOSYS303 - Solutions Architecture/Enterprise Architecture (EA).md"
+                "file": "COMPSCI235 - Software Development Methodologies/AGILE.md"
               }
             }
           },
@@ -155,7 +155,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "INFOSYS303 - Solutions Architecture/Enterprise Architecture (EA).md"
+                "file": "COMPSCI235 - Software Development Methodologies/AGILE.md"
               }
             }
           }
@@ -180,8 +180,8 @@
   },
   "active": "53a49051d6175559",
   "lastOpenFiles": [
-    "INFOSYS303 - Solutions Architecture/EA framework.md",
     "INFOSYS303 - Solutions Architecture/Enterprise Architecture (EA).md",
+    "INFOSYS303 - Solutions Architecture/EA framework.md",
     "@images/Pasted image 20240306143250.png",
     "INFOSYS303 - Solutions Architecture/Business Capabilities.md",
     "@images/LeanIX_Poster_EA_vs_SA_vs_TA_EN.pdf",
