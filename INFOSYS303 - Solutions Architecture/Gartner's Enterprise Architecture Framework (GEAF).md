@@ -1,3 +1,3 @@
 - a global leader in IT research & insights
-- put forward enough best practices for [[Enterprise Architecture (EA)]] solutions through the years during its consulting practices that it has built up its own methodology
+- put forward enough best practices for [[Enterprise Architecture]] solutions through the years during its consulting practices that it has built up its own methodology
 	- one focusing more so on business outcomes rather than abstract phasing

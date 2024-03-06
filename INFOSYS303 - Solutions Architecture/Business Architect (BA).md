@@ -1,0 +1,2 @@
+- Enterprise-wide view of the business, processes & capabilities
+- Aligns strategic goals 

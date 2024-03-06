@@ -14,9 +14,9 @@
 ![[Pasted image 20240306143250.png]]
 
 ## Purpose
-- [[Enterprise Architecture (EA)]] aims to establish a [[framework]] that outlines and organization's structure & operations
+- [[Enterprise Architecture]] aims to establish a [[framework]] that outlines and organization's structure & operations
 	- It is done often through the creation of a [[Business Capabilities]] map or blueprint
-- [[Enterprise Architecture (EA)]] also seeks to foster team alignment & standardization by ***harmonizing environments*** across teams and organizations
+- [[Enterprise Architecture]] also seeks to foster team alignment & standardization by ***harmonizing environments*** across teams and organizations
 
 ## Benefits
 1. An ability to:
@@ -36,7 +36,7 @@
 	3. decision-making
 - However, its adoption is limited due to challenges
 ## Challenges
-- Ambiguous starting points, implementation & governance gaps & the need for ongoing innovation pose obstacles to successful [[Enterprise Architecture (EA)]] programs.
+- Ambiguous starting points, implementation & governance gaps & the need for ongoing innovation pose obstacles to successful [[Enterprise Architecture]] programs.
 
 Most common challenges:
 1. Lacking business buy-in
@@ -51,12 +51,12 @@ Most common challenges:
 - breaking down the starting point into several steps can make the process more manageable:
 	1. Define goal & objective
 	2. Identify the key stakeholders
-	3. Select a modern [[Enterprise Architecture (EA)]] tool
+	3. Select a modern [[Enterprise Architecture]] tool
 	4. Assess the current state of IT infrastructure & systems
 	5. Develop a future state architecture
 		- vision
 	6. Create an implementation plan
-	7. Monitor progress and adjust the [[Enterprise Architecture (EA)]] [[framework]]
+	7. Monitor progress and adjust the [[Enterprise Architecture]] [[framework]]
 
 ## Frameworks & Methodologies
 1. [[The Open Group Architectural Framework (TOGAF)]]

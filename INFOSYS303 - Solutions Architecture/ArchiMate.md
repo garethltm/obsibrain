@@ -1,4 +1,4 @@
-- a graphical modelling language & [[framework]] designed specifically for [[Enterprise Architecture (EA)]]
+- a graphical modelling language & [[framework]] designed specifically for [[Enterprise Architecture]]
 - It provides a standardized notation to:
 	1. describe
 	2. analyze
