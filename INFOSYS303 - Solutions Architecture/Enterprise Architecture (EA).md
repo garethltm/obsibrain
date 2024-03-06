@@ -3,7 +3,7 @@
 	2. processes
 	3. information
 	4. technology
-	to achieve its goal
+		to achieve its goal
 - provides a holistic view of the organization $\rightarrow$ effective decision-making, optimization of resources & adaptation to changes in the business environment
 - combination of multiple underlying disciplines such as:
 	1. Business architecture
@@ -24,12 +24,12 @@
 	2. store
 	3. structure
 	4. analyze varied sources of information
-	to solve unplanned or foreseeable problems in enterprise landscapes
-2. An awareness of industry-relevant technologies and the competence to demonstrate
+		to solve unplanned or foreseeable problems in enterprise landscapes
+1. An awareness of industry-relevant technologies and the competence to demonstrate
 	- (how a proposed service would impact a company)
-3. The influence to implement enterprise-wide [[AGILE]] methodologies to accelerate product deployments & connect siloed organizational groups
-4. A clear survey of an enterprise to extend data-driven findings to business leaders in order to prioritize investments and transformational strategies
-5. Standardized processes help enterprises not only change for the better but become better at change itself
+2. The influence to implement enterprise-wide [[AGILE]] methodologies to accelerate product deployments & connect siloed organizational groups
+3. A clear survey of an enterprise to extend data-driven findings to business leaders in order to prioritize investments and transformational strategies
+4. Standardized processes help enterprises not only change for the better but become better at change itself
 - If established correctly $\rightarrow$ can add value to organizations through:
 	1. enhanced processes
 	2. efficiency
@@ -63,3 +63,4 @@ Most common challenges:
 2. [[Federal Enterprise Architecture Framework (FEAF)]]
 3. [[Gartner's Enterprise Architecture Framework]]
 4. [[ArchiMate]]
+5. Zachman Enterprise

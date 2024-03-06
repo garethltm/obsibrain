@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "INFOSYS303 - Solutions Architecture/ArchiMate.md",
+                "file": "INFOSYS303 - Solutions Architecture/Enterprise Architecture (EA).md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "INFOSYS303 - Solutions Architecture/ArchiMate.md",
+                "file": "INFOSYS303 - Solutions Architecture/Enterprise Architecture (EA).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "INFOSYS303 - Solutions Architecture/ArchiMate.md",
+                "file": "INFOSYS303 - Solutions Architecture/Enterprise Architecture (EA).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "INFOSYS303 - Solutions Architecture/ArchiMate.md"
+                "file": "INFOSYS303 - Solutions Architecture/Enterprise Architecture (EA).md"
               }
             }
           },
@@ -155,7 +155,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "INFOSYS303 - Solutions Architecture/ArchiMate.md"
+                "file": "INFOSYS303 - Solutions Architecture/Enterprise Architecture (EA).md"
               }
             }
           }
@@ -180,13 +180,14 @@
   },
   "active": "71e95a060b92c837",
   "lastOpenFiles": [
-    "INFOSYS303 - Solutions Architecture/Enterprise Architecture (EA).md",
-    "INFOSYS303 - Solutions Architecture/ArchiMate.md",
-    "INFOSYS303 - Solutions Architecture/Federal Enterprise Architecture Framework (FEAF).md",
     "INFOSYS303 - Solutions Architecture/The Open Group Architectural Framework (TOGAF).md",
     "INFOSYS303 - Solutions Architecture/Gartner's Enterprise Architecture Framework.md",
-    "INFOSYS303 - Solutions Architecture/EA framework.md",
     "INFOSYS303 - Solutions Architecture/Business Capabilities.md",
+    "INFOSYS303 - Solutions Architecture/EA framework.md",
+    "INFOSYS303 - Solutions Architecture/ArchiMate.md",
+    "README.md",
+    "INFOSYS303 - Solutions Architecture/Federal Enterprise Architecture Framework (FEAF).md",
+    "INFOSYS303 - Solutions Architecture/Enterprise Architecture (EA).md",
     "COMPSCI361 - Machine Learning/Decision Trees.md",
     "INFOSYS303 - Solutions Architecture",
     "@images/Pasted image 20240306143250.png",
@@ -219,7 +220,6 @@
     "COMPSCI345 - Human-computer Interaction/Study 01 - Proprioceptive Gestures.md",
     "COMPSCI345 - Human-computer Interaction/Ease of learning.md",
     "COMPSCI345 - Human-computer Interaction/User eXperience (UX).md",
-    "COMPSCI345 - Human-computer Interaction/Engineering heuristic.md",
     "COMPSCI361 - Machine Learning",
     "COMPSCI345 - Human-computer Interaction",
     "ACCTG151G - Financial Literacy",
