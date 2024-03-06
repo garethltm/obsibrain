@@ -15,6 +15,11 @@
 	1. Ensuring that everyone speaks the same language
 		- Same understanding
 	2. Avoiding lock-in to proprietary solutions by standardizing open methods for [[Enterprise Architecture (EA)]]
-		- Providing general ways for organizations to foll
+		- Providing general ways for organizations to follow methods & processes
 	3. Saving time & money & utilizing resources more effectively
 	4. Achieving demonstrable [[Return-On-Investment (ROI)]]
+
+## Architectural Development Method
+- designed to accelerate workflow across 4 domains of [[Enterprise Architecture (EA)]]
+	1. Business Architecture
+	2. A
