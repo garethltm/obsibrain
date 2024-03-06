@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "INFOSYS303 - Solutions Architecture/Enterprise Architecture.md",
+                "file": "INFOSYS303 - Solutions Architecture/Enterprise Architecture (EA).md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "INFOSYS303 - Solutions Architecture/Enterprise Architecture.md",
+                "file": "INFOSYS303 - Solutions Architecture/Enterprise Architecture (EA).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "INFOSYS303 - Solutions Architecture/Enterprise Architecture.md",
+                "file": "INFOSYS303 - Solutions Architecture/Enterprise Architecture (EA).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "INFOSYS303 - Solutions Architecture/Enterprise Architecture.md"
+                "file": "INFOSYS303 - Solutions Architecture/Enterprise Architecture (EA).md"
               }
             }
           },
@@ -168,7 +168,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "INFOSYS303 - Solutions Architecture/Enterprise Architecture.md"
+                "file": "INFOSYS303 - Solutions Architecture/Enterprise Architecture (EA).md"
               }
             }
           }
@@ -195,7 +195,7 @@
   "lastOpenFiles": [
     "@images/Pasted image 20240306143250.png",
     "INFOSYS303 - Solutions Architecture/Business Capabilities.md",
-    "INFOSYS303 - Solutions Architecture/Enterprise Architecture.md",
+    "INFOSYS303 - Solutions Architecture/Enterprise Architecture (EA).md",
     "@images/LeanIX_Poster_EA_vs_SA_vs_TA_EN.pdf",
     "@images/LeanIX_Poster_Best-practices-to-define-business-capability-maps_EN.pdf",
     "COMPSCI361 - Machine Learning/Deep Learning (DL).md",
