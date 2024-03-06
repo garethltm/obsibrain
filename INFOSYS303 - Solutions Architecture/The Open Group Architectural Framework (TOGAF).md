@@ -5,7 +5,7 @@
 	3. guiding
 	4. maintaining
 		the construction of enterprises using controlled phases or as it is known "the Architectural Development Method". It strategies have been iteratively improved upon for 25 years.
-- an [[Enterprise Architecture (EA)]] methodology & framework to improve business efficiency
+- an [[Enterprise Architecture (EA)]] methodology & [[framework]] to improve business efficiency
 	1. Helps businesses define their goals & align them with architecture objectives around enterprise [[software development]]
 	2. Has been used by [[enterprise architects]] as a common language to plot IT development strategies
 	3. Was developed in 1995 to help enterprises & [[enterprise architects]] align on cross-departmental projects in a structured manner to facilitate key business objectives

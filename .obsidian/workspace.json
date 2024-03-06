@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "INFOSYS303 - Solutions Architecture/Enterprise Architecture (EA).md",
+                "file": "INFOSYS303 - Solutions Architecture/The Open Group Architectural Framework (TOGAF).md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "INFOSYS303 - Solutions Architecture/Enterprise Architecture (EA).md",
+                "file": "INFOSYS303 - Solutions Architecture/The Open Group Architectural Framework (TOGAF).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "INFOSYS303 - Solutions Architecture/Enterprise Architecture (EA).md",
+                "file": "INFOSYS303 - Solutions Architecture/The Open Group Architectural Framework (TOGAF).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "INFOSYS303 - Solutions Architecture/Enterprise Architecture (EA).md"
+                "file": "INFOSYS303 - Solutions Architecture/The Open Group Architectural Framework (TOGAF).md"
               }
             }
           },
@@ -155,7 +155,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "INFOSYS303 - Solutions Architecture/Enterprise Architecture (EA).md"
+                "file": "INFOSYS303 - Solutions Architecture/The Open Group Architectural Framework (TOGAF).md"
               }
             }
           }
@@ -180,8 +180,8 @@
   },
   "active": "71e95a060b92c837",
   "lastOpenFiles": [
-    "INFOSYS303 - Solutions Architecture/framework.md",
     "INFOSYS303 - Solutions Architecture/Enterprise Architecture (EA).md",
+    "INFOSYS303 - Solutions Architecture/framework.md",
     "INFOSYS303 - Solutions Architecture/Business Capabilities.md",
     "INFOSYS303 - Solutions Architecture/TOGAF Standard.md",
     "INFOSYS303 - Solutions Architecture/The Open Group Architectural Framework (TOGAF).md",
