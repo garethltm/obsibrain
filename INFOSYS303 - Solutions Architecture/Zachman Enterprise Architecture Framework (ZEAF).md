@@ -7,4 +7,9 @@
 	5. subcontractor
 	6. user
 	and columns representing different perspectives:
-	1. 
+	1. scope
+	2. business model
+	3. system model
+	4. technology model
+	5. detailed representation
+	6. function
