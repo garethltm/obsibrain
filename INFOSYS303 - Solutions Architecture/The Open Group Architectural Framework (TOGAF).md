@@ -21,10 +21,10 @@
 
 ## Architectural Development Method (ADM)
 - [[The Open Group Architectural Framework (TOGAF)]] ADM process is specifically designed to accelerate workflow across 4 domains of [[Enterprise Architecture (EA)]]
-	1. [[Business Architecture]] (High-level conception)
+	1. [[Business Architecture (BA)]] (High-level conception)
 	2. [[Applications Architecture]]
 	3. [[Data Architecture]]
-	4. [[Technical Architecture]]
+	4. [[Technical Architecture (TA)]]
 ## Architecture Development Model
 - a clear roadmap for how to create the Architecture Development Method (ADM)
 - a 9-phase sequential process
