@@ -11,4 +11,8 @@
 	3. Was developed in 1995 to help enterprises & [[enterprise architects]] align on cross-departmental projects in a structured manner to facilitate key business objectives
 
 ## Fundamental Aim
-- to support critical busine
+- to support critical business needs by:
+1. Ensuring that everyone speaks the same language
+2. Avoiding lock-in to proprietary solutions by standardizing open methods for [[Enterprise Architecture (EA)]]
+3. Saving time & money & utilizing resources more effectively
+4. Achieving 
