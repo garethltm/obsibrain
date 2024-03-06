@@ -1,0 +1,1 @@
+- Responsible for defining the rules & standards to store & integrate data

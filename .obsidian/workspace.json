@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "INFOSYS303 - Solutions Architecture/Applications Architecture.md",
+                "file": "INFOSYS303 - Solutions Architecture/Technical Architecture.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "INFOSYS303 - Solutions Architecture/Applications Architecture.md",
+                "file": "INFOSYS303 - Solutions Architecture/Technical Architecture.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "INFOSYS303 - Solutions Architecture/Applications Architecture.md",
+                "file": "INFOSYS303 - Solutions Architecture/Technical Architecture.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "INFOSYS303 - Solutions Architecture/Applications Architecture.md"
+                "file": "INFOSYS303 - Solutions Architecture/Technical Architecture.md"
               }
             }
           },
@@ -155,7 +155,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "INFOSYS303 - Solutions Architecture/Applications Architecture.md"
+                "file": "INFOSYS303 - Solutions Architecture/Technical Architecture.md"
               }
             }
           }
@@ -181,6 +181,8 @@
   "active": "71e95a060b92c837",
   "lastOpenFiles": [
     "INFOSYS303 - Solutions Architecture/The Open Group Architectural Framework (TOGAF).md",
+    "INFOSYS303 - Solutions Architecture/Technical Architecture.md",
+    "INFOSYS303 - Solutions Architecture/Data Architecture.md",
     "INFOSYS303 - Solutions Architecture/Applications Architecture.md",
     "INFOSYS303 - Solutions Architecture/Business Architecture.md",
     "INFOSYS303 - Solutions Architecture/Business Capabilities.md",
@@ -218,8 +220,6 @@
     "@images/Pasted image 20240301115424.png",
     "@images/Pasted image 20240301115347.png",
     "INFOSYS 303 - Solutions Architecture",
-    "COMPSCI361 - Machine Learning/Data Mining.md",
-    "COMPSCI361 - Machine Learning/Big Data.md",
     "COMPSCI361 - Machine Learning",
     "COMPSCI345 - Human-computer Interaction",
     "ACCTG151G - Financial Literacy",
