@@ -1,1 +1,1 @@
-- strategi
+- strategic framework that aligns an organization's business strategy
