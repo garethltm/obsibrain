@@ -58,7 +58,7 @@ Most common challenges:
 	6. Create an implementation plan
 	7. Monitor progress and adjust the [[Enterprise Architecture (EA)]] [[framework]]
 
-## [[Framework]] & Methodologies
+## Frameworks & Methodologies
 1. [[The Open Group Architectural Framework (TOGAF)]]
 2. [[Federal Enterprise Architecture Framework (FEAF)]]
 3. [[Gartner's Enterprise Architecture Framework (GEAF)]]
