@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "INFOSYS303 - Solutions Architecture/The Open Group Architectural Framework (TOGAF).md",
+                "file": "INFOSYS303 - Solutions Architecture/TOGAF Standard.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "framework",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "INFOSYS303 - Solutions Architecture/The Open Group Architectural Framework (TOGAF).md",
+                "file": "INFOSYS303 - Solutions Architecture/TOGAF Standard.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "INFOSYS303 - Solutions Architecture/The Open Group Architectural Framework (TOGAF).md",
+                "file": "INFOSYS303 - Solutions Architecture/TOGAF Standard.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "INFOSYS303 - Solutions Architecture/The Open Group Architectural Framework (TOGAF).md"
+                "file": "INFOSYS303 - Solutions Architecture/TOGAF Standard.md"
               }
             }
           },
@@ -155,7 +156,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "INFOSYS303 - Solutions Architecture/The Open Group Architectural Framework (TOGAF).md"
+                "file": "INFOSYS303 - Solutions Architecture/TOGAF Standard.md"
               }
             }
           }
@@ -180,15 +181,15 @@
   },
   "active": "71e95a060b92c837",
   "lastOpenFiles": [
+    "INFOSYS303 - Solutions Architecture/ArchiMate.md",
+    "INFOSYS303 - Solutions Architecture/The Open Group Architectural Framework (TOGAF).md",
     "INFOSYS303 - Solutions Architecture/Enterprise Architecture (EA).md",
     "INFOSYS303 - Solutions Architecture/framework.md",
     "INFOSYS303 - Solutions Architecture/Business Capabilities.md",
     "INFOSYS303 - Solutions Architecture/TOGAF Standard.md",
-    "INFOSYS303 - Solutions Architecture/The Open Group Architectural Framework (TOGAF).md",
     "COMPSCI235 - Software Development Methodologies/software development.md",
     "INFOSYS303 - Solutions Architecture/Zachman Enterprise Architecture Framework (ZEAF).md",
     "INFOSYS303 - Solutions Architecture/Gartner's Enterprise Architecture Framework (GEAF).md",
-    "INFOSYS303 - Solutions Architecture/ArchiMate.md",
     "README.md",
     "INFOSYS303 - Solutions Architecture/Federal Enterprise Architecture Framework (FEAF).md",
     "COMPSCI361 - Machine Learning/Decision Trees.md",

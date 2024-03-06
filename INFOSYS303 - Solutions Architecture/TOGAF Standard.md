@@ -1,1 +1,1 @@
--[[The Open Group Architectural Framework (TOGAF)]] Standard is an open, industry consensus framework for [[Enterprise Architecture (EA)]]
+-[[The Open Group Architectural Framework (TOGAF)]] Standard is an open, industry consensus [[framework]] for [[Enterprise Architecture (EA)]]
