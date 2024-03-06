@@ -6,4 +6,7 @@
 	to achieve its goal
 - provides a holistic view of the organization $\rightarrow$ effective decision-making, optimization of resources & adaptation to changes in the business environment
 - combination of multiple underlying disciplines such as:
-1
+	1. Business architecture
+	2. IT architecture
+	3. Technology architecture
+	4. Security architecture
