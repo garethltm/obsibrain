@@ -22,4 +22,7 @@
 ## Architectural Development Method
 - designed to accelerate workflow across 4 domains of [[Enterprise Architecture (EA)]]
 	1. Business Architecture
-	2. A
+		- Responsible for mapping the relationships between a business's operational hierarchies, policies, capabilities *
+	2. Applications Architecture
+	3. Data Architecture
+	4. Technical Architecture
