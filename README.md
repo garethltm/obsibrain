@@ -7,6 +7,6 @@
 		`git clone https://github.com/git/git`
 2. Install GitHub Desktop (https://desktop.github.com/)
 3. Install Obsidian (https://obsidian.md/download)
-4. Clone GitHub repo into
+4. Clone GitHub repo into PC
 ### MacOS
 1. Install Homebrew
