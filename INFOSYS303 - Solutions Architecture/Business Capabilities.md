@@ -1,1 +1,1 @@
-![[LeanIX_Poster_Best-practices-to-define-business-capability-maps_EN.pdf]]- Shows 
+![[LeanIX_Poster_Best-practices-to-define-business-capability-maps_EN.pdf]]- Shows the different type of Architects and how they differ with each other
