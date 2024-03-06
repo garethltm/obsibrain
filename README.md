@@ -9,4 +9,8 @@
 3. Install Obsidian (https://obsidian.md/download)
 4. Clone GitHub repo into PC
 ### MacOS
-1. Install Homebrew
+1. Install Homebrew (https://brew.sh/)
+2. Run `$ brew install git` through terminal
+3. Install GitHub Desktop (https://desktop.github.com/)
+4. Install Obsidian (https://obsidian.md/download)
+5. Clone GitHub repo into PC
