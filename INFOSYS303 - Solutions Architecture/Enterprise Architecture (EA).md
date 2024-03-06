@@ -37,6 +37,8 @@
 - However, its adoption is limited due to challenges
 ## Challenges
 - Ambiguous starting points, implementation & governance gaps & the need for ongoing innovation pose obstacles to successful [[Enterprise Architecture (EA)]] programs.
+
+Most common 
 1. Lacking business buy-in
 2. Absence of leadership & vision
 3. No tool/the wrong tool for the job
@@ -45,4 +47,6 @@
 6. Solving problems on the wrong level
 	- This becomes challenging
 
-
+## Process
+- breaking down the starting point into several steps can make the process more manageable
+1. 
