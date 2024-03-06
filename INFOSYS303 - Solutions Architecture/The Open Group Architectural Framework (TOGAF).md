@@ -29,4 +29,5 @@
 	3. Data Architecture
 		- Responsible for defining the rules & standards to store & integrate data
 	4. Technical Architecture
-		- 
+		- Defines platforms, service & all surrounding technology components to serve as a reference for development teams
+- outlines the key components
