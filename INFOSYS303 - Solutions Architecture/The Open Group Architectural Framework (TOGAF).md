@@ -12,7 +12,9 @@
 
 ## Fundamental Aim
 - to support critical business needs by:
-1. Ensuring that everyone speaks the same language
-2. Avoiding lock-in to proprietary solutions by standardizing open methods for [[Enterprise Architecture (EA)]]
-3. Saving time & money & utilizing resources more effectively
-4. Achieving 
+	1. Ensuring that everyone speaks the same language
+		- Same understanding
+	2. Avoiding lock-in to proprietary solutions by standardizing open methods for [[Enterprise Architecture (EA)]]
+		- Providing general ways for organizations to foll
+	3. Saving time & money & utilizing resources more effectively
+	4. Achieving demonstrable [[Return-On-Investment (ROI)]]
