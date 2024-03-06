@@ -59,4 +59,4 @@ Most common challenges:
 	7. Monitor progress and adjust the [[Enterprise Architecture (EA)]] framework
 
 ## Frameworks & Methodologies
-
+1. [[The Open Group Architectural Framework (TOGAF)]]
