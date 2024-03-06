@@ -1,4 +1,4 @@
 - Coordinates ongoing activities
 - Translates the design concept to IT operations
 - Defines a best-fit solution for existing problems
-- Ensures technological risks are accounted for & 
+- Ensures technological risks are accounted for & solutions meet necessary requirements

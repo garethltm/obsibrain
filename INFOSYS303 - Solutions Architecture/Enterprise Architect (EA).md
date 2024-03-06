@@ -1,4 +1,4 @@
-- Master of [[Enterprise Architect (EA)]] [[framework]] 
+- Master of [[Enterprise Architecture]] [[framework]] 
 - #infosys303example 
 	- [[The Open Group Architectural Framework (TOGAF)]]
 	- [[Zachman Enterprise Architecture Framework (ZEAF)]]
