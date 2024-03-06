@@ -5,3 +5,4 @@
 	3. [[Solution Architect (SA)]]
 	4. [[Technical Architect (TA)]]
 - This is different from the [[The Open Group Architectural Framework (TOGAF)]] ADM's 4 domains of architecture
+- Sma

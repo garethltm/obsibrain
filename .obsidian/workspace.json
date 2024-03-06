@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -179,11 +178,11 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "a6e0090ac9cbd1f3",
+  "active": "71e95a060b92c837",
   "lastOpenFiles": [
-    "INFOSYS303 - Solutions Architecture/Business Capabilities.md",
-    "INFOSYS303 - Solutions Architecture/IT Architects.md",
     "INFOSYS303 - Solutions Architecture/The Open Group Architectural Framework (TOGAF).md",
+    "INFOSYS303 - Solutions Architecture/IT Architects.md",
+    "INFOSYS303 - Solutions Architecture/Business Capabilities.md",
     "INFOSYS303 - Solutions Architecture/Business Architecture.md",
     "INFOSYS303 - Solutions Architecture/Applications Architecture.md",
     "INFOSYS303 - Solutions Architecture/Technical Architecture.md",
