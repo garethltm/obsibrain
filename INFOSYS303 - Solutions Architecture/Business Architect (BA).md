@@ -1,2 +1,4 @@
 - Enterprise-wide view of the business, processes & capabilities
-- Aligns strategic goals 
+- Aligns strategic goals & objectives with products, services & resources
+- Ability to apply architectural principles to business solutions
+- Enables technologies & governance in support of capabilities
