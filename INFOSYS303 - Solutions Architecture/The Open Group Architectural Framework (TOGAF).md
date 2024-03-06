@@ -31,3 +31,4 @@
 	4. Technical Architecture
 		- Defines platforms, service & all surrounding technology components to serve as a reference for development teams
 
+## Architecture Development Model
