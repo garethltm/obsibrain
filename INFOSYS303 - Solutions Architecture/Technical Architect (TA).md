@@ -1,1 +1,6 @@
-- High level of i
+- High level of in-depth expertise
+	- #infosys303example 
+	- Python, Java
+- Provides recommendations to address potential threats
+- Implements technical processes to roll out solutions
+- Delivers fully functional products in a 
