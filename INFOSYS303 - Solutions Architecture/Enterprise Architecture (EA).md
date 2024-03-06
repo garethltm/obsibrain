@@ -14,7 +14,7 @@
 ![[Pasted image 20240306143250.png]]
 
 ## Purpose
-- [[Enterprise Architecture (EA)]] aims to establish a [[EA framework ]]that outlines and organization's structure & operations
+- [[Enterprise Architecture (EA)]] aims to establish a [[framework]]that outlines and organization's structure & operations
 	- It is done often through the creation of a [[Business Capabilities]] map or blueprint
 - [[Enterprise Architecture (EA)]] also seeks to foster team alignment & standardization by ***harmonizing environments*** across teams and organizations
 
