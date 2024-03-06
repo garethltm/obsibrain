@@ -4,8 +4,8 @@
 ### Windows OS
 1. Install Git (https://git-scm.com/downloads)
 	- If Git already exists
-	-
-1. Install GitHub Desktop
-
+		`git clone https://github.com/git/git`
+2. Install GitHub Desktop (https://docs.github.com/en/enterprise-cloud@latest/desktop/installing-and-authenticating-to-github-desktop/installing-github-desktop)
+3. 
 ### MacOS
 1. Install Homebrew
