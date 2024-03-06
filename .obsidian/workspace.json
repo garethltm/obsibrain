@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "architect",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -178,7 +179,7 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "71e95a060b92c837",
+  "active": "a6e0090ac9cbd1f3",
   "lastOpenFiles": [
     "INFOSYS303 - Solutions Architecture/Business Architect (BA).md",
     "INFOSYS303 - Solutions Architecture/Business Capabilities.md",
