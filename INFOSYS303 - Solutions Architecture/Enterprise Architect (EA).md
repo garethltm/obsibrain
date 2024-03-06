@@ -3,4 +3,6 @@
 	- [[The Open Group Architectural Framework (TOGAF)]]
 	- [[Zachman Enterprise Architecture Framework (ZEAF)]]
 
-- Uncovers op
+- Uncovers operational gaps
+- Analyzes information through data models & architecture diagrams
+- Communicates the value of new IT strategies & keeps stakeholders informed of ongoing intiatives
