@@ -36,4 +36,6 @@
 	3. decision-making
 - However, its adoption is limited due to challenges
 ## Challenges
-- Ambiguo
+- Ambiguous starting points, implementation & governance gaps & the need for ongoing innovation pose obstacles to successful [[Enterprise Architecture (EA)]] programs.
+1. Lacking business buy-in
+2. Absence of 
