@@ -61,6 +61,6 @@ Most common challenges:
 ## Frameworks & Methodologies
 1. [[The Open Group Architectural Framework (TOGAF)]]
 2. [[Federal Enterprise Architecture Framework (FEAF)]]
-3. [[Gartner's Enterprise Architecture Framework]]
+3. [[Gartner's Enterprise Architecture Framework (GEAF)]]
 4. [[ArchiMate]]
-5. Zachman Enterprise
+5. [[Zachman Enterprise Architecture Framework (ZEAF)]]

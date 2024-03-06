@@ -1,0 +1,2 @@
+- a structured approach that helps organizations analyze & align various aspects of their enterprise.
+- It provides a grid-like strucuter
