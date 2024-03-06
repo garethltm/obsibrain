@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "INFOSYS303 - Solutions Architecture/The Open Group Architectural Framework (TOGAF).md",
+                "file": "INFOSYS303 - Solutions Architecture/Federal Enterprise Architecture Framework (FEAF).md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "INFOSYS303 - Solutions Architecture/The Open Group Architectural Framework (TOGAF).md",
+                "file": "INFOSYS303 - Solutions Architecture/Federal Enterprise Architecture Framework (FEAF).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "INFOSYS303 - Solutions Architecture/The Open Group Architectural Framework (TOGAF).md",
+                "file": "INFOSYS303 - Solutions Architecture/Federal Enterprise Architecture Framework (FEAF).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "INFOSYS303 - Solutions Architecture/The Open Group Architectural Framework (TOGAF).md"
+                "file": "INFOSYS303 - Solutions Architecture/Federal Enterprise Architecture Framework (FEAF).md"
               }
             }
           },
@@ -155,7 +155,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "INFOSYS303 - Solutions Architecture/The Open Group Architectural Framework (TOGAF).md"
+                "file": "INFOSYS303 - Solutions Architecture/Federal Enterprise Architecture Framework (FEAF).md"
               }
             }
           }
@@ -181,6 +181,7 @@
   "active": "71e95a060b92c837",
   "lastOpenFiles": [
     "INFOSYS303 - Solutions Architecture/Enterprise Architecture (EA).md",
+    "INFOSYS303 - Solutions Architecture/Federal Enterprise Architecture Framework (FEAF).md",
     "INFOSYS303 - Solutions Architecture/The Open Group Architectural Framework (TOGAF).md",
     "INFOSYS303 - Solutions Architecture/Business Capabilities.md",
     "INFOSYS303 - Solutions Architecture/EA framework.md",
@@ -220,7 +221,6 @@
     "COMPSCI345 - Human-computer Interaction/UX Design.md",
     "COMPSCI361 - Machine Learning",
     "ACCTG151G - Financial Literacy/Financial Literacy.md",
-    "COMPSCI345 - Human-computer Interaction/Human-computer Interaction (HCI).md",
     "COMPSCI345 - Human-computer Interaction",
     "ACCTG151G - Financial Literacy",
     "COMPSCI235 - Software Development Methodologies/235 summary.canvas",
