@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "INFOSYS303 - Solutions Architecture/Technical Architect (TA).md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "INFOSYS303 - Solutions Architecture/Technical Architect (TA).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "INFOSYS303 - Solutions Architecture/Technical Architect (TA).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "INFOSYS303 - Solutions Architecture/Technical Architect (TA).md"
               }
             }
           },
@@ -155,7 +155,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "README.md"
+                "file": "INFOSYS303 - Solutions Architecture/Technical Architect (TA).md"
               }
             }
           }
@@ -180,8 +180,9 @@
   },
   "active": "71e95a060b92c837",
   "lastOpenFiles": [
-    "INFOSYS303 - Solutions Architecture/Enterprise Architect (EA).md",
     "INFOSYS303 - Solutions Architecture/Solution Architect (SA).md",
+    "README.md",
+    "INFOSYS303 - Solutions Architecture/Enterprise Architect (EA).md",
     "INFOSYS303 - Solutions Architecture/IT Architects.md",
     "INFOSYS303 - Solutions Architecture/Business Architect (BA).md",
     "INFOSYS303 - Solutions Architecture/Business Capabilities.md",
@@ -200,7 +201,6 @@
     "INFOSYS303 - Solutions Architecture/Federal Enterprise Architecture Framework (FEAF).md",
     "INFOSYS303 - Solutions Architecture/Gartner's Enterprise Architecture Framework (GEAF).md",
     "COMPSCI235 - Software Development Methodologies/software development.md",
-    "README.md",
     "COMPSCI361 - Machine Learning/Decision Trees.md",
     "INFOSYS303 - Solutions Architecture",
     "@images/Pasted image 20240306143250.png",
