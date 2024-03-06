@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/AGILE.md",
+                "file": "INFOSYS303 - Solutions Architecture/Enterprise Architecture (EA).md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/AGILE.md",
+                "file": "INFOSYS303 - Solutions Architecture/Enterprise Architecture (EA).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/AGILE.md",
+                "file": "INFOSYS303 - Solutions Architecture/Enterprise Architecture (EA).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/AGILE.md"
+                "file": "INFOSYS303 - Solutions Architecture/Enterprise Architecture (EA).md"
               }
             }
           },
@@ -155,7 +155,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "COMPSCI235 - Software Development Methodologies/AGILE.md"
+                "file": "INFOSYS303 - Solutions Architecture/Enterprise Architecture (EA).md"
               }
             }
           }
@@ -180,6 +180,7 @@
   },
   "active": "53a49051d6175559",
   "lastOpenFiles": [
+    "COMPSCI235 - Software Development Methodologies/AGILE.md",
     "INFOSYS303 - Solutions Architecture/Enterprise Architecture (EA).md",
     "INFOSYS303 - Solutions Architecture/EA framework.md",
     "@images/Pasted image 20240306143250.png",
@@ -216,7 +217,6 @@
     "ACCTG151G - Financial Literacy/growth factor.md",
     "ACCTG151G - Financial Literacy/compound interest.md",
     "@images/Pasted image 20240302143125.png",
-    "ACCTG151G - Financial Literacy/Future Value (FV).md",
     "@images/Pasted image 20240302142622.png",
     "@images/Pasted image 20240302142300.png",
     "COMPSCI361 - Machine Learning",
