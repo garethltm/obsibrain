@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI361 - Machine Learning/Decision Trees.md",
+                "file": "INFOSYS303 - Solutions Architecture/Enterprise Architecture (EA).md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI361 - Machine Learning/Decision Trees.md",
+                "file": "INFOSYS303 - Solutions Architecture/Enterprise Architecture (EA).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI361 - Machine Learning/Decision Trees.md",
+                "file": "INFOSYS303 - Solutions Architecture/Enterprise Architecture (EA).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI361 - Machine Learning/Decision Trees.md"
+                "file": "INFOSYS303 - Solutions Architecture/Enterprise Architecture (EA).md"
               }
             }
           },
@@ -155,7 +155,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "COMPSCI361 - Machine Learning/Decision Trees.md"
+                "file": "INFOSYS303 - Solutions Architecture/Enterprise Architecture (EA).md"
               }
             }
           }
@@ -178,11 +178,12 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "3ad179677b7fba41",
+  "active": "71e95a060b92c837",
   "lastOpenFiles": [
-    "INFOSYS303 - Solutions Architecture/Enterprise Architecture (EA).md",
-    "INFOSYS303 - Solutions Architecture/EA framework.md",
     "INFOSYS303 - Solutions Architecture/Business Capabilities.md",
+    "INFOSYS303 - Solutions Architecture/EA framework.md",
+    "COMPSCI361 - Machine Learning/Decision Trees.md",
+    "INFOSYS303 - Solutions Architecture/Enterprise Architecture (EA).md",
     "INFOSYS303 - Solutions Architecture",
     "@images/Pasted image 20240306143250.png",
     "@images/LeanIX_Poster_EA_vs_SA_vs_TA_EN.pdf",
@@ -193,7 +194,6 @@
     "COMPSCI361 - Machine Learning/Supervised Learning.md",
     "COMPSCI361 - Machine Learning/Naïve Supervised Learning - Predict Mode.md",
     "COMPSCI361 - Machine Learning/entropy.md",
-    "COMPSCI361 - Machine Learning/Decision Trees.md",
     "COMPSCI361 - Machine Learning/Deep Learning (DL).md",
     "conflict-files-obsidian-git.md",
     "@images/Pasted image 20240302143938.png",
