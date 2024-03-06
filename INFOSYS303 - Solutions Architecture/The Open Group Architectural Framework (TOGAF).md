@@ -24,6 +24,8 @@
 	1. Business Architecture
 		- Responsible for mapping the relationships between a business's operational hierarchies, policies, capabilities & initiatives
 	2. Applications Architecture
-		- Responsible for defining relevant applications to handle company data & the ways in which to implement & deploy these applications within the overall infrastructure
-	3. Data Architecture
-	4. Technical Architecture
+		- Responsible for defining relevant applications 
+			- to handle company data 
+			- the ways in which to implement & deploy these applications within the overall infrastructure
+	1. Data Architecture
+	2. Technical Architecture
