@@ -24,4 +24,5 @@
 	2. store
 	3. structure
 	4. analyze varied sources of information
-	to  s
+	to solve unplanned or foreseeable problems in enterprise landscapes
+2. An awareness of industry-relevant technologies and the competence to demonstrat
