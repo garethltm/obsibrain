@@ -39,7 +39,9 @@
 	1. Quick response to change & support for enterprise agility aligned with organization strategy
 	2. Organizational transformation
 		- Adopting new trends in business & technology
-		- 
+	3. Organizational change to support Digital Transformation
+	4. Organizational & operating mode changes to improve efficiency & effectiveness
+8. 
 ## Challenges
 - Ambiguous starting points, implementation & governance gaps & the need for ongoing innovation pose obstacles to successful [[Enterprise Architecture]] programs.
 
