@@ -9,3 +9,7 @@
 		- This document describes the [[TOGAF Architectural Development Method (ADM)]] - an iterative approach to developing an [[Enterprise Architect (EA)]]
 	3. [[TOGAF Architectural Development Method (ADM)]] Techniques
 		- This document contains a collection of techniques available for use in applying the [[The Open Group Architectural Framework (TOGAF)]] approach & the [[TOGAF Architectural Development Method (ADM)]]
+	4. Applying the [[TOGAF Architectural Development Method (ADM)]]
+		- 
+	5. Architecture Content
+	6. [[Enterprise Architect (EA)]] Capability & Governance
