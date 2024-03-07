@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI361 - Machine Learning/Untitled.md",
+                "file": "COMPSCI361 - Machine Learning/Information gain.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI361 - Machine Learning/Untitled.md",
+                "file": "COMPSCI361 - Machine Learning/Information gain.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI361 - Machine Learning/Untitled.md",
+                "file": "COMPSCI361 - Machine Learning/Information gain.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI361 - Machine Learning/Untitled.md"
+                "file": "COMPSCI361 - Machine Learning/Information gain.md"
               }
             }
           },
@@ -155,7 +155,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "COMPSCI361 - Machine Learning/Untitled.md"
+                "file": "COMPSCI361 - Machine Learning/Information gain.md"
               }
             }
           }
@@ -180,8 +180,9 @@
   },
   "active": "53a49051d6175559",
   "lastOpenFiles": [
+    "COMPSCI361 - Machine Learning/entropy.md",
+    "COMPSCI361 - Machine Learning/Information gain.md",
     "COMPSCI361 - Machine Learning/Greedy Recursive Splitting.md",
-    "COMPSCI361 - Machine Learning/Untitled.md",
     "@images/Pasted image 20240307170051.png",
     "@images/Pasted image 20240307165959.png",
     "@images/Pasted image 20240307165923.png",
@@ -212,7 +213,6 @@
     "INFOSYS303 - Solutions Architecture/Enterprise Architecture.md",
     "INFOSYS303 - Solutions Architecture/Zachman Enterprise Architecture Framework (ZEAF).md",
     "INFOSYS303 - Solutions Architecture/The Open Group Architectural Framework (TOGAF).md",
-    "INFOSYS303 - Solutions Architecture/TOGAF Architectural Development Method (ADM).md",
     "@images/Pasted image 20240307143344.png",
     "@images/Pasted image 20240306231159.png",
     "@images/Pasted image 20240306143250.png",

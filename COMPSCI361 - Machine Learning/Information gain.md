@@ -1,0 +1,2 @@
+- Most common score in practise is [[Information gain]]
+	- Choose split that decreases [[entropy]] of labels the most
