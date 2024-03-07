@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI361 - Machine Learning/entropy.md",
+                "file": "COMPSCI361 - Machine Learning/Decision Trees.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI361 - Machine Learning/entropy.md",
+                "file": "COMPSCI361 - Machine Learning/Decision Trees.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI361 - Machine Learning/entropy.md",
+                "file": "COMPSCI361 - Machine Learning/Decision Trees.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI361 - Machine Learning/entropy.md"
+                "file": "COMPSCI361 - Machine Learning/Decision Trees.md"
               }
             }
           },
@@ -155,7 +155,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "COMPSCI361 - Machine Learning/entropy.md"
+                "file": "COMPSCI361 - Machine Learning/Decision Trees.md"
               }
             }
           }
@@ -180,10 +180,13 @@
   },
   "active": "53a49051d6175559",
   "lastOpenFiles": [
+    "COMPSCI361 - Machine Learning/Data Mining.md",
+    "COMPSCI361 - Machine Learning/Machine Learning (ML).md",
+    "COMPSCI361 - Machine Learning/Big Data.md",
+    "COMPSCI361 - Machine Learning/entropy.md",
     "COMPSCI361 - Machine Learning/Decision Stumps.md",
     "COMPSCI361 - Machine Learning/Decision Tree Learning.md",
     "COMPSCI361 - Machine Learning/Decision Trees.md",
-    "COMPSCI361 - Machine Learning/entropy.md",
     "@images/Pasted image 20240307170529.png",
     "COMPSCI361 - Machine Learning/Information gain.md",
     "COMPSCI361 - Machine Learning/Classification.md",
@@ -211,9 +214,7 @@
     "@images/Pasted image 20240307152928.png",
     "COMPSCI361 - Machine Learning/classification accuracy.md",
     "@images/Pasted image 20240307151634.png",
-    "INFOSYS303 - Solutions Architecture/TOGAF Standard.md",
     "@images/Pasted image 20240307150953.png",
-    "INFOSYS303 - Solutions Architecture/Enterprise Architecture.md",
     "@images/Pasted image 20240307143344.png",
     "@images/LeanIX_Poster_EA_vs_SA_vs_TA_EN.pdf",
     "@images/LeanIX_Poster_Best-practices-to-define-business-capability-maps_EN.pdf",
