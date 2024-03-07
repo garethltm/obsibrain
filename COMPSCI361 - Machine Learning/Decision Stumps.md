@@ -31,5 +31,6 @@
 	2. If (milk > 0): 
 		- predict "sick" ($\frac{2}{3}$) 
 		- predict "not sick" ($\frac{2}{3}$)
-	3. If (fish > 0):
-		- predict "not sick" ($\frac{}{}$)
+		- $\frac{4}{6}$ accuracy
+	1. If (fish > 0):
+		- predict "not sick" ($\frac{2}{3}$)
