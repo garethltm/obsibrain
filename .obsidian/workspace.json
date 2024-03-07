@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI361 - Machine Learning/Decision Stumps.md",
+                "file": "INFOSYS222 - Database Systems/Requirements.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI361 - Machine Learning/Decision Stumps.md",
+                "file": "INFOSYS222 - Database Systems/Requirements.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI361 - Machine Learning/Decision Stumps.md",
+                "file": "INFOSYS222 - Database Systems/Requirements.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI361 - Machine Learning/Decision Stumps.md"
+                "file": "INFOSYS222 - Database Systems/Requirements.md"
               }
             }
           },
@@ -155,7 +155,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "COMPSCI361 - Machine Learning/Decision Stumps.md"
+                "file": "INFOSYS222 - Database Systems/Requirements.md"
               }
             }
           }
@@ -180,9 +180,18 @@
   },
   "active": "53a49051d6175559",
   "lastOpenFiles": [
+    "INFOSYS222 - Database Systems/Relational DBMS.md",
+    "INFOSYS222 - Database Systems/Relational Algebra - JOINS.md",
+    "INFOSYS222 - Database Systems/Business Intelligence.md",
+    "INFOSYS222 - Database Systems/Basic with Staging.md",
+    "INFOSYS222 - Database Systems/Chen's ERD Notation.md",
+    "INFOSYS222 - Database Systems/Binary.md",
+    "INFOSYS222 - Database Systems/2NF - 2nd Normal Form.md",
+    "INFOSYS222 - Database Systems/3NF - 3rd Normal Form.md",
+    "INFOSYS222 - Database Systems/Attribute Inheritance.md",
+    "COMPSCI361 - Machine Learning/Decision Stumps.md",
     "@images/Pasted image 20240307152928.png",
     "COMPSCI361 - Machine Learning/classification accuracy.md",
-    "COMPSCI361 - Machine Learning/Decision Stumps.md",
     "@images/Pasted image 20240307151634.png",
     "COMPSCI361 - Machine Learning/Supervised Learning.md",
     "INFOSYS303 - Solutions Architecture/TOGAF Standard.md",
@@ -201,15 +210,7 @@
     "INFOSYS303 - Solutions Architecture/IT Architects.md",
     "INFOSYS303 - Solutions Architecture/Enterprise Architect (EA).md",
     "INFOSYS303 - Solutions Architecture/Data Architecture.md",
-    "INFOSYS303 - Solutions Architecture/Business Architecture.md",
-    "INFOSYS303 - Solutions Architecture/Business Architect (BA).md",
-    "INFOSYS303 - Solutions Architecture/Applications Architecture.md",
     "@images/Pasted image 20240306231159.png",
-    "INFOSYS303 - Solutions Architecture/Gartner's Enterprise Architecture Framework (GEAF).md",
-    "INFOSYS303 - Solutions Architecture/Federal Enterprise Architecture Framework (FEAF).md",
-    "INFOSYS303 - Solutions Architecture/ArchiMate.md",
-    "COMPSCI235 - Software Development Methodologies/AGILE.md",
-    "INFOSYS303 - Solutions Architecture/EA framework.md",
     "@images/Pasted image 20240306143250.png",
     "@images/LeanIX_Poster_EA_vs_SA_vs_TA_EN.pdf",
     "@images/LeanIX_Poster_Best-practices-to-define-business-capability-maps_EN.pdf",
@@ -218,7 +219,6 @@
     "@images/Pasted image 20240302150444.png",
     "@images/Pasted image 20240302150419.png",
     "@images/Pasted image 20240302145749.png",
-    "@images/Pasted image 20240302145713.png",
     "COMPSCI361 - Machine Learning",
     "COMPSCI345 - Human-computer Interaction",
     "ACCTG151G - Financial Literacy",
