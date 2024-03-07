@@ -12,5 +12,5 @@
 	4. Applying the [[TOGAF Architectural Development Method (ADM)]]
 		- This document contains guidelines for adapting the [[TOGAF Architectural Development Method (ADM)]] to address the specific style of architecture required in a practical context.
 	5. Architecture Content
-		- This document describes the [[The Open Group Architectural Framework (TOGAF)]] Content [[framework]] & a structure
+		- This document describes the [[The Open Group Architectural Framework (TOGAF)]] Content [[framework]] & a structured metamodel for architectural artifacts, the use of re-usable Architecture Building Blocks (ABBs) & and overview of typical architecture deliverables.
 	6. [[Enterprise Architect (EA)]] Capability & Governance
