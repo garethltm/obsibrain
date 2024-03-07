@@ -50,7 +50,10 @@
 	6. Improved business productivity
 	7. Improved organization integration in support of mergers & acquisitions
 9. More effective & efficient Digital Transformation operations:
-	1. extending ef
+	1. Extending effective reach of the enterprise
+		- #infosys303example 
+		- through digital capability
+	2. 
 ## Challenges
 - Ambiguous starting points, implementation & governance gaps & the need for ongoing innovation pose obstacles to successful [[Enterprise Architecture]] programs.
 
