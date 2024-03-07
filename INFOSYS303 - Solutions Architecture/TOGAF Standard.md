@@ -14,3 +14,4 @@
 	5. Architecture Content
 		- This document describes the [[The Open Group Architectural Framework (TOGAF)]] Content [[framework]] & a structured metamodel for architectural artifacts, the use of re-usable Architecture Building Blocks (ABBs) & and overview of typical architecture deliverables.
 	6. [[Enterprise Architect (EA)]] Capability & Governance
+		- This document discusses the organization, processes, skills, roles & responsibilities required to establish & operate an architecture function within an enterprise & describes an [[Enterprise Architecture]] frame
