@@ -1,0 +1,3 @@
+- [[Decision Stumps]] have only 1 rule based on 1 feature
+	- Very limited class of models: usually not very accurate for most tasks
+- [[COMPSCI361 - Machine Learning/Decision Trees|Decision Trees]] allow
