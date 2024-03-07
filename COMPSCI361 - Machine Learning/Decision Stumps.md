@@ -27,17 +27,19 @@
 - Let's search for the [[Decision Stumps]] maximizing classification score:
 	1. First we check "baseline rule" of 
 		- predicting mode (no split)
-		- $\frac{3}{6}$ accuracy
-	2. If (milk > 0): 
+			- $\frac{3}{6}$ accuracy
+	1. If (milk > 0): 
 		- predict "sick" ($\frac{2}{3}$) 
 		- predict "not sick" ($\frac{2}{3}$)
-		- $\frac{4}{6}$ accuracy
-	3. If (fish > 0):
+			- $\frac{4}{6}$ accuracy
+	2. If (fish > 0):
 		- predict "not sick" ($\frac{2}{3}$)
 		- predict "sick" ($\frac{2}{3}$)
-		- $\frac{4}{6}$ accuracy
-	4. If (fish > 1.2):
+			- $\frac{4}{6}$ accuracy
+	3. If (fish > 1.2):
 		- predict "sick" ($\frac{1}{1}$)
 		- predict "not sick" ($\frac{3}{5}$)
-		- $\frac{5}{6}$ accuracy
-	5. If (egg >)
+			- $\frac{5}{6}$ accuracy
+	4. If (egg > 0):
+		- predict "sick" ($\frac{3}{3}$)
+		- predict "not sick" ()
