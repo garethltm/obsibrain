@@ -61,7 +61,9 @@
 		- #infosys303example 
 		- security
 	7. Easier upgrade & exchange of system components
-10. Better return on existing investment
+10. Better return on existing investment, reduced risk for future investment:
+	1. Reduced complexity in business & IT
+	2. Maximized [[Return-On-Investment (ROI)]] in existing businsess & IT
 ## Challenges
 - Ambiguous starting points, implementation & governance gaps & the need for ongoing innovation pose obstacles to successful [[Enterprise Architecture]] programs.
 
