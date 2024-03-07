@@ -12,4 +12,5 @@
 	- the cleanest ones $\rightarrow$ less errors (data is never perfect)
 
 ## 2. Accuracy Score
-- Maybe most intuitive score: 
+- Maybe most intuitive score: [[classification accuracy]]
+- 
