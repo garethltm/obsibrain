@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "INFOSYS222 - Database Systems/Requirements.md",
+                "file": "COMPSCI361 - Machine Learning/Supervised Learning.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "INFOSYS222 - Database Systems/Requirements.md",
+                "file": "COMPSCI361 - Machine Learning/Supervised Learning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "INFOSYS222 - Database Systems/Requirements.md",
+                "file": "COMPSCI361 - Machine Learning/Supervised Learning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "INFOSYS222 - Database Systems/Requirements.md"
+                "file": "COMPSCI361 - Machine Learning/Supervised Learning.md"
               }
             }
           },
@@ -155,7 +155,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "INFOSYS222 - Database Systems/Requirements.md"
+                "file": "COMPSCI361 - Machine Learning/Supervised Learning.md"
               }
             }
           }
@@ -180,6 +180,7 @@
   },
   "active": "53a49051d6175559",
   "lastOpenFiles": [
+    "INFOSYS222 - Database Systems/Requirements.md",
     "INFOSYS222 - Database Systems/Relational DBMS.md",
     "INFOSYS222 - Database Systems/Relational Algebra - JOINS.md",
     "INFOSYS222 - Database Systems/Business Intelligence.md",
@@ -209,7 +210,6 @@
     "INFOSYS303 - Solutions Architecture/Solution Architect (SA).md",
     "INFOSYS303 - Solutions Architecture/IT Architects.md",
     "INFOSYS303 - Solutions Architecture/Enterprise Architect (EA).md",
-    "INFOSYS303 - Solutions Architecture/Data Architecture.md",
     "@images/Pasted image 20240306231159.png",
     "@images/Pasted image 20240306143250.png",
     "@images/LeanIX_Poster_EA_vs_SA_vs_TA_EN.pdf",
