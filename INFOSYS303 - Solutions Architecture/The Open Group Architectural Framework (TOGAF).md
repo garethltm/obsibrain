@@ -20,9 +20,9 @@
 	4. Achieving demonstrable [[Return-On-Investment (ROI)]]
 
 ## Architecture Development Model
-- a clear roadmap for how to create the Architecture Development Method (ADM)
+- a clear roadmap for how to create the [[TOGAF Architectural Development Method (ADM)]]
 - a 9-phase sequential process
-	- throughout the 9-stages of [[The Open Group Architectural Framework (TOGAF)]] ADM process
+	- throughout the 9-stages of [[TOGAF Architectural Development Method (ADM)]] process
 		- the 4-architectural domains become iteratively developed to create a balanced architecture capable of securing organizational changes
 	- ![[Pasted image 20240306231159.png]]
 - This method is intended to limit guesswork & foster maturity in [[Enterprise Architecture]] programs - all of which while amassing enterprise-specific architectural repositories to support future projects
