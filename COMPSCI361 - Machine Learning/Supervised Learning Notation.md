@@ -6,4 +6,6 @@
 	- $X_i$ is the list of all features
 		- #compsci361example 
 		- i $\rightarrow$ all the quantities of day i
-	- 
+	- $X_{j}$ is column j of the matrix
+		- the value of feature j across all examples
+- Label vector 
