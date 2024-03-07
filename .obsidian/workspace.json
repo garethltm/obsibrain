@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI361 - Machine Learning/Prediction phase.md",
+                "file": "COMPSCI361 - Machine Learning/Supervised Learning Notation.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI361 - Machine Learning/Prediction phase.md",
+                "file": "COMPSCI361 - Machine Learning/Supervised Learning Notation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI361 - Machine Learning/Prediction phase.md",
+                "file": "COMPSCI361 - Machine Learning/Supervised Learning Notation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI361 - Machine Learning/Prediction phase.md"
+                "file": "COMPSCI361 - Machine Learning/Supervised Learning Notation.md"
               }
             }
           },
@@ -155,7 +155,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "COMPSCI361 - Machine Learning/Prediction phase.md"
+                "file": "COMPSCI361 - Machine Learning/Supervised Learning Notation.md"
               }
             }
           }
@@ -180,8 +180,8 @@
   },
   "active": "53a49051d6175559",
   "lastOpenFiles": [
-    "COMPSCI361 - Machine Learning/Supervised Learning Notation.md",
     "COMPSCI361 - Machine Learning/Prediction phase.md",
+    "COMPSCI361 - Machine Learning/Supervised Learning Notation.md",
     "COMPSCI361 - Machine Learning/Training phase.md",
     "@images/Pasted image 20240307164228.png",
     "COMPSCI361 - Machine Learning/Supervised Learning.md",

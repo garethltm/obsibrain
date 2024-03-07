@@ -1,1 +1,3 @@
-- Given an example $X_i$, use model to predict a label $$
+- Given an example $X_i$, use model to predict a label $\hat{p}_i$ 
+	- #compsci361example 
+	- "sick" or "not sick"
