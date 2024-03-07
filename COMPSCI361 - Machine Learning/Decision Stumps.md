@@ -13,5 +13,5 @@
 
 ## 2. Accuracy Score
 - Maybe most intuitive score: [[classification accuracy]]
-- #compsci361example 
+- #compsci361example ![[Pasted image 20240307152928.png]]
 - Computing classification accuracy for (egg > 1):
