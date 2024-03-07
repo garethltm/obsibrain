@@ -4,4 +4,5 @@
 - ![[Pasted image 20240307143344.png]]
 
 ## Standard Fundamental Concept
-- The [[The Open Group Architectural Framework (TOGAF)]] Standard 
+- The [[TOGAF Standard]] Fundamental Concept is presented as 6-free standing documents
+	1. The [[TOGAF Standard]]
