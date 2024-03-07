@@ -61,7 +61,7 @@
 		- #infosys303example 
 		- security
 	7. Easier upgrade & exchange of system components
-10. Better return 
+10. Better return on existing investment
 ## Challenges
 - Ambiguous starting points, implementation & governance gaps & the need for ongoing innovation pose obstacles to successful [[Enterprise Architecture]] programs.
 
