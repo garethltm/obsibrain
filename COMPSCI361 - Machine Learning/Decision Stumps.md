@@ -53,4 +53,6 @@
 - Notice we only need to test feature thresholds that happen in the data
 	1. There is no point in testing the rule (egg > 3)
 		- it gets the "baseline" score
-	2. There is no point in testing the rule (egg )
+	2. There is no point in testing the rule (egg > 0.5)
+		- it gets the (egg > 0) score
+	3. Also note that we 
