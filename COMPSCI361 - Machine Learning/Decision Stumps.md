@@ -24,3 +24,5 @@
 	- We "learn" a decision stump by finding the rule with the best score.
 
 ## 3. By Hand
+- Let's search for the [[Decision Stumps]] maximizing classification score:
+	- 
