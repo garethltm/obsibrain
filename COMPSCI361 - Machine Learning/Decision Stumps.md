@@ -17,4 +17,4 @@
 - Computing classification accuracy for (egg > 1):
 	- Find most common labels if we use this rule:
 		1. ==When (egg > 1), we were "sick" 2 times out of 2==
-		2. When (egg $\l$ )
+		2. When (egg $\leq$ 1), we were "not sick" 
