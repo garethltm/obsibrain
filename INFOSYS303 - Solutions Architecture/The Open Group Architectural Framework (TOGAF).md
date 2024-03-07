@@ -4,7 +4,7 @@
 	2. implementing
 	3. guiding
 	4. maintaining
-		the construction of enterprises using controlled phases or as it is known "the Architectural Development Method". It strategies have been iteratively improved upon for 25 years.
+		the construction of enterprises using controlled phases or as it is known "the [[TOGAF Architectural Development Method (ADM)]]". It strategies have been iteratively improved upon for 25 years.
 - an [[Enterprise Architecture]] methodology & [[framework]] to improve business efficiency
 	1. Helps businesses define their goals & align them with architecture objectives around enterprise [[software development]]
 	2. Has been used by [[Enterprise Architect (EA)]] as a common language to plot IT development strategies
