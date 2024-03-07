@@ -7,4 +7,4 @@
 		- too many [[COMPSCI361 - Machine Learning/Decision Trees|Decision Trees]] generated
 - How would you build the tree?
 	- Most common [[COMPSCI361 - Machine Learning/Decision Trees|Decision Trees]] learning algorithm in practice:
-		- [[Greedy recursive splitting]]
+		- [[Greedy Recursive Splitting]]

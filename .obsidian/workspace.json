@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI361 - Machine Learning/Decision Tree Learning.md",
+                "file": "COMPSCI361 - Machine Learning/Greedy Recursive Splitting.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI361 - Machine Learning/Decision Tree Learning.md",
+                "file": "COMPSCI361 - Machine Learning/Greedy Recursive Splitting.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI361 - Machine Learning/Decision Tree Learning.md",
+                "file": "COMPSCI361 - Machine Learning/Greedy Recursive Splitting.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI361 - Machine Learning/Decision Tree Learning.md"
+                "file": "COMPSCI361 - Machine Learning/Greedy Recursive Splitting.md"
               }
             }
           },
@@ -155,7 +155,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "COMPSCI361 - Machine Learning/Decision Tree Learning.md"
+                "file": "COMPSCI361 - Machine Learning/Greedy Recursive Splitting.md"
               }
             }
           }
@@ -180,8 +180,9 @@
   },
   "active": "53a49051d6175559",
   "lastOpenFiles": [
-    "COMPSCI361 - Machine Learning/Greedy recursive splitting.md",
+    "@images/Pasted image 20240307165923.png",
     "COMPSCI361 - Machine Learning/Decision Tree Learning.md",
+    "COMPSCI361 - Machine Learning/Greedy Recursive Splitting.md",
     "COMPSCI361 - Machine Learning/Training error.md",
     "COMPSCI361 - Machine Learning/Supervised Learning Notation.md",
     "COMPSCI361 - Machine Learning/Prediction phase.md",
@@ -210,7 +211,6 @@
     "INFOSYS303 - Solutions Architecture/The Open Group Architectural Framework (TOGAF).md",
     "INFOSYS303 - Solutions Architecture/TOGAF Architectural Development Method (ADM).md",
     "@images/Pasted image 20240307143344.png",
-    "INFOSYS303 - Solutions Architecture/Business Capabilities.md",
     "@images/Pasted image 20240306231159.png",
     "@images/Pasted image 20240306143250.png",
     "@images/LeanIX_Poster_EA_vs_SA_vs_TA_EN.pdf",
