@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI361 - Machine Learning/Supervised Learning Notation.md",
+                "file": "COMPSCI361 - Machine Learning/Training error.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI361 - Machine Learning/Supervised Learning Notation.md",
+                "file": "COMPSCI361 - Machine Learning/Training error.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI361 - Machine Learning/Supervised Learning Notation.md",
+                "file": "COMPSCI361 - Machine Learning/Training error.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI361 - Machine Learning/Supervised Learning Notation.md"
+                "file": "COMPSCI361 - Machine Learning/Training error.md"
               }
             }
           },
@@ -155,7 +155,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "COMPSCI361 - Machine Learning/Supervised Learning Notation.md"
+                "file": "COMPSCI361 - Machine Learning/Training error.md"
               }
             }
           }
@@ -180,8 +180,9 @@
   },
   "active": "53a49051d6175559",
   "lastOpenFiles": [
-    "COMPSCI361 - Machine Learning/Prediction phase.md",
     "COMPSCI361 - Machine Learning/Supervised Learning Notation.md",
+    "COMPSCI361 - Machine Learning/Training error.md",
+    "COMPSCI361 - Machine Learning/Prediction phase.md",
     "COMPSCI361 - Machine Learning/Training phase.md",
     "@images/Pasted image 20240307164228.png",
     "COMPSCI361 - Machine Learning/Supervised Learning.md",
@@ -210,7 +211,6 @@
     "INFOSYS303 - Solutions Architecture/Business Capabilities.md",
     "INFOSYS303 - Solutions Architecture/Enterprise Architecture (EA).md",
     "INFOSYS303 - Solutions Architecture/framework.md",
-    "INFOSYS303 - Solutions Architecture/Technical Architecture.md",
     "@images/Pasted image 20240306231159.png",
     "@images/Pasted image 20240306143250.png",
     "@images/LeanIX_Poster_EA_vs_SA_vs_TA_EN.pdf",
