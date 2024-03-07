@@ -28,7 +28,8 @@
 	1. First we check "baseline rule" of 
 		- predicting mode (no split)
 		- $\frac{3}{6}$ accuracy
-	3. If (milk > 0): 
+	2. If (milk > 0): 
 		- predict "sick" ($\frac{2}{3}$) 
 		- predict "not sick" ($\frac{2}{3}$)
-	4. If (fish > 0) predict "not sick"
+	3. If (fish > 0):
+		- predict "not sick" ($\frac{}{}$)
