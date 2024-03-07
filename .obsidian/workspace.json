@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI361 - Machine Learning/Greedy Recursive Splitting.md",
+                "file": "COMPSCI361 - Machine Learning/Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI361 - Machine Learning/Greedy Recursive Splitting.md",
+                "file": "COMPSCI361 - Machine Learning/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI361 - Machine Learning/Greedy Recursive Splitting.md",
+                "file": "COMPSCI361 - Machine Learning/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI361 - Machine Learning/Greedy Recursive Splitting.md"
+                "file": "COMPSCI361 - Machine Learning/Untitled.md"
               }
             }
           },
@@ -155,7 +155,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "COMPSCI361 - Machine Learning/Greedy Recursive Splitting.md"
+                "file": "COMPSCI361 - Machine Learning/Untitled.md"
               }
             }
           }
@@ -180,10 +180,12 @@
   },
   "active": "53a49051d6175559",
   "lastOpenFiles": [
+    "COMPSCI361 - Machine Learning/Greedy Recursive Splitting.md",
+    "COMPSCI361 - Machine Learning/Untitled.md",
+    "@images/Pasted image 20240307170051.png",
     "@images/Pasted image 20240307165959.png",
     "@images/Pasted image 20240307165923.png",
     "COMPSCI361 - Machine Learning/Decision Tree Learning.md",
-    "COMPSCI361 - Machine Learning/Greedy Recursive Splitting.md",
     "COMPSCI361 - Machine Learning/Training error.md",
     "COMPSCI361 - Machine Learning/Supervised Learning Notation.md",
     "COMPSCI361 - Machine Learning/Prediction phase.md",
@@ -217,8 +219,6 @@
     "@images/LeanIX_Poster_EA_vs_SA_vs_TA_EN.pdf",
     "@images/LeanIX_Poster_Best-practices-to-define-business-capability-maps_EN.pdf",
     "INFOSYS303 - Solutions Architecture",
-    "@images/Pasted image 20240302155214.png",
-    "@images/Pasted image 20240302150444.png",
     "COMPSCI361 - Machine Learning",
     "COMPSCI345 - Human-computer Interaction",
     "ACCTG151G - Financial Literacy",
