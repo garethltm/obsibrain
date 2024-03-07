@@ -25,7 +25,7 @@
 
 ## 3. By Hand
 - Let's search for the [[Decision Stumps]] maximizing classification score:
-	1. First we check "baseline rule" of 
+	1. First we check "baseline rule" of (we want to beat this baseline rule)
 		- predicting mode (no split)
 			- $\frac{3}{6}$ accuracy
 	1. If (milk > 0): 
