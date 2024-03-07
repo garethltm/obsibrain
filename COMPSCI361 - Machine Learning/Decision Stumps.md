@@ -37,4 +37,5 @@
 		- predict "sick" ($\frac{2}{3}$)
 		- $\frac{4}{6}$ accuracy
 	4. If (fish > 1.2):
-		- predict  "sick"
+		- predict "sick" ($\frac{1}{1}$)
+		- predict "not sick"
