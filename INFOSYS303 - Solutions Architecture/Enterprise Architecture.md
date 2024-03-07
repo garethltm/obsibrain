@@ -53,7 +53,8 @@
 	1. Extending effective reach of the enterprise
 		- #infosys303example 
 		- through digital capability
-	2. 
+	2. Bringing all components of the enterprise into a harmonized environment
+	3. Lower development, deployment, operations 
 ## Challenges
 - Ambiguous starting points, implementation & governance gaps & the need for ongoing innovation pose obstacles to successful [[Enterprise Architecture]] programs.
 
