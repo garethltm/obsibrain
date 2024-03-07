@@ -8,4 +8,5 @@
 		- i $\rightarrow$ all the quantities of day i
 	- $X_{j}$ is column j of the matrix
 		- the value of feature j across all examples
-- Label vector 
+- Label vector y contains the labels of the examples
+	- $\large y_i$ is the label   
