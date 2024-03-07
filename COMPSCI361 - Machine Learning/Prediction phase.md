@@ -1,1 +1,1 @@
-- Given an example
+- Given an example $X_i$, use model to predict a label $$
