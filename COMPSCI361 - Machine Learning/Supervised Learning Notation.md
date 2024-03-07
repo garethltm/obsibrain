@@ -9,4 +9,7 @@
 	- $X_{j}$ is column j of the matrix
 		- the value of feature j across all examples
 - Label vector y contains the labels of the examples
-	- $\large y_i$ is the label   
+	- $\large y_i$ is the label of example i
+		- #compsci361example 
+		- 1 for "sick"
+		- 0 for "not sick"
