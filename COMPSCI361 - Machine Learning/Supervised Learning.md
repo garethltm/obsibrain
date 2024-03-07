@@ -10,15 +10,15 @@ Output: whether we got sick or not
 - Use data to find a model that outputs the label based on the features
 - Model predicts whether which food make you sick (even with new combination)
 
-1. General supervised learning problem
+1. General [[supervised learning]] problem
 	- take features of examples and corresponding labels as input
 	- find a model that can accurately predict the labels of new examples
-2. This is the most successful/widely used machine learning technique
+2. This is the most successful/widely used [[Machine Learning (ML)]] technique
 	- #compsci361example 
 	- spam filtering, optical character recognition, speech recognition, classifying tumors, etc.
 3. [[Classification]]
 
-## As a program
+## as Writing a program
 - There are many possible [[COMPSCI361 - Machine Learning/Decision Trees|Decision Trees]] 
 	- We're going to search for one that is good at our [[Supervised Learning]] problem
 - So our input = data, output = program
@@ -27,4 +27,3 @@ Output: whether we got sick or not
 	1. Problem is too complicated to write a program ourselves
 	2. Human expert can't explain why you assign certain labels, OR 
 	3. We DON'T have a human expert for the problem
-- 

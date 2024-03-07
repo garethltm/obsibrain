@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "a460fe8ad877c6fb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "INFOSYS303 - Solutions Architecture/Technical Architect (TA).md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "INFOSYS303 - Solutions Architecture/Technical Architect (TA).md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "INFOSYS303 - Solutions Architecture/Technical Architect (TA).md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -155,7 +168,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "INFOSYS303 - Solutions Architecture/Technical Architect (TA).md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           }
@@ -178,8 +191,25 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "71e95a060b92c837",
+  "active": "a460fe8ad877c6fb",
   "lastOpenFiles": [
+    "INFOSYS303 - Solutions Architecture/Technical Architect (TA).md",
+    "conflict-files-obsidian-git.md",
+    "COMPSCI361 - Machine Learning/Supervised Learning Notation.md",
+    "COMPSCI361 - Machine Learning/Prediction phase.md",
+    "COMPSCI361 - Machine Learning/Information gain.md",
+    "COMPSCI361 - Machine Learning/Greedy recursive splitting.md",
+    "COMPSCI361 - Machine Learning/Decision Tree Learning.md",
+    "@images/Pasted image 20240307170529.png",
+    "@images/Pasted image 20240307170251.png",
+    "@images/Pasted image 20240307170051.png",
+    "@images/Pasted image 20240307165959.png",
+    "@images/Pasted image 20240307165923.png",
+    "@images/Pasted image 20240307164228.png",
+    "@images/Pasted image 20240307152928.png",
+    "@images/Pasted image 20240307151634.png",
+    "@images/Pasted image 20240307150953.png",
+    "@images/Pasted image 20240307143344.png",
     "INFOSYS303 - Solutions Architecture/Technical Architecture.md",
     "ACCTG151G - Financial Literacy/Future Value Interest Factor (FVIF).md",
     "INFOSYS303 - Solutions Architecture/Applications Architecture.md",
@@ -189,7 +219,6 @@
     "INFOSYS303 - Solutions Architecture/Solution Architect (SA).md",
     "INFOSYS303 - Solutions Architecture/TOGAF Standard.md",
     "INFOSYS303 - Solutions Architecture/Zachman Enterprise Architecture Framework (ZEAF).md",
-    "INFOSYS303 - Solutions Architecture/Technical Architect (TA).md",
     "README.md",
     "INFOSYS303 - Solutions Architecture/Enterprise Architect (EA).md",
     "INFOSYS303 - Solutions Architecture/IT Architects.md",
@@ -198,27 +227,11 @@
     "INFOSYS303 - Solutions Architecture/Business Architecture.md",
     "INFOSYS303 - Solutions Architecture/Enterprise Architecture.md",
     "INFOSYS303 - Solutions Architecture/The Open Group Architectural Framework (TOGAF).md",
-    "@images/Pasted image 20240306231159.png",
     "INFOSYS303 - Solutions Architecture/Federal Enterprise Architecture Framework (FEAF).md",
     "INFOSYS303 - Solutions Architecture/Gartner's Enterprise Architecture Framework (GEAF).md",
-    "COMPSCI235 - Software Development Methodologies/software development.md",
-    "COMPSCI361 - Machine Learning/Decision Trees.md",
     "INFOSYS303 - Solutions Architecture",
-    "@images/Pasted image 20240306143250.png",
     "@images/LeanIX_Poster_EA_vs_SA_vs_TA_EN.pdf",
     "@images/LeanIX_Poster_Best-practices-to-define-business-capability-maps_EN.pdf",
-    "COMPSCI361 - Machine Learning/Hypothesis Space.md",
-    "COMPSCI361 - Machine Learning/Machine Learning (ML).md",
-    "COMPSCI361 - Machine Learning/Machine Learning vs Data Mining.md",
-    "COMPSCI361 - Machine Learning/Supervised Learning.md",
-    "@images/Pasted image 20240302143938.png",
-    "@images/Pasted image 20240302143125.png",
-    "@images/Pasted image 20240302142622.png",
-    "@images/Pasted image 20240302142300.png",
-    "@images/Pasted image 20240302141813.png",
-    "@images/Pasted image 20240301115523.png",
-    "@images/Pasted image 20240301115424.png",
-    "@images/Pasted image 20240301115347.png",
     "INFOSYS 303 - Solutions Architecture",
     "COMPSCI361 - Machine Learning",
     "COMPSCI345 - Human-computer Interaction",

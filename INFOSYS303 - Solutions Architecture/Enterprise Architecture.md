@@ -6,7 +6,7 @@
 		to achieve its goal
 - provides a holistic view of the organization $\rightarrow$ effective decision-making, optimization of resources & adaptation to changes in the business environment
 - combination of multiple underlying disciplines such as:
-	1. Business architecture
+	1. [[Business architecture]]
 	2. IT architecture
 	3. Technology architecture
 	4. Security architecture
@@ -25,16 +25,53 @@
 	3. structure
 	4. analyze varied sources of information
 		to solve unplanned or foreseeable problems in enterprise landscapes
-1. An awareness of industry-relevant technologies and the competence to demonstrate
+2. An awareness of industry-relevant technologies and the competence to demonstrate
 	- (how a proposed service would impact a company)
-2. The influence to implement enterprise-wide [[AGILE]] methodologies to accelerate product deployments & connect siloed organizational groups
-3. A clear survey of an enterprise to extend data-driven findings to business leaders in order to prioritize investments and transformational strategies
-4. Standardized processes help enterprises not only change for the better but become better at change itself
-- If established correctly $\rightarrow$ can add value to organizations through:
+3. The influence to implement enterprise-wide [[AGILE]] methodologies to accelerate product deployments & connect siloed organizational groups
+4. A clear survey of an enterprise to extend data-driven findings to business leaders in order to prioritize investments and transformational strategies
+5. Standardized processes help enterprises not only change for the better but become better at change itself
+6. If established correctly $\rightarrow$ can add value to organizations through:
 	1. enhanced processes
 	2. efficiency
 	3. decision-making
-- However, its adoption is limited due to challenges
+	However, its adoption is limited due to challenges
+7. More effective strategic decision-making by C-Level executives & business leaders:
+	1. Quick response to change & support for enterprise agility aligned with organization strategy
+	2. Organizational transformation
+		- Adopting new trends in business & technology
+	3. Organizational change to support Digital Transformation
+	4. Organizational & operating mode changes to improve efficiency & effectiveness
+8. More effective & efficient business operations:
+	1. Lower business operation costs
+	2. More [[AGILE]] organization
+	3. Business capabilities shared across the organization
+	4. Lower change management costs
+	5. More flexible workforce
+	6. Improved business productivity
+	7. Improved organization integration in support of mergers & acquisitions
+9. More effective & efficient Digital Transformation operations:
+	1. Extending effective reach of the enterprise
+		- #infosys303example 
+		- through digital capability
+	2. Bringing all components of the enterprise into a harmonized environment
+	3. Lower development, deployment, operations, support & maintenance costs
+	4. Improved interoperability
+	5. Improved system management
+	6. Improved ability to address critical enterprise-wide issues
+		- #infosys303example 
+		- security
+	7. Easier upgrade & exchange of system components
+10. Better return on existing investment, reduced risk for future investment:
+	1. Reduced complexity in business & IT
+	2. Maximized [[Return-On-Investment (ROI)]] in existing business & IT
+	3. The flexibility to make, buy or outsource business & IT solutions
+	4. Understanding how [[Return-On-Investment (ROI)]] changes over time
+11. Faster, simpler & cheaper procurement:
+	1. Buying decisions are simpler, because the information governing procurement is readily available in a coherent plan
+	2. The procurement process is faster
+		- maximizing procurement speed & flexibility without sacrificing architectural coherence
+	3. The ability to procure [[Heterogeneous]], multi-vendor open systems
+	4. The ability to secure more economic capabilities
 ## Challenges
 - Ambiguous starting points, implementation & governance gaps & the need for ongoing innovation pose obstacles to successful [[Enterprise Architecture]] programs.
 
