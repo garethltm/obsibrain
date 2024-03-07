@@ -38,4 +38,6 @@
 		- $\frac{4}{6}$ accuracy
 	4. If (fish > 1.2):
 		- predict "sick" ($\frac{1}{1}$)
-		- predict "not sick"
+		- predict "not sick" ($\frac{3}{5}$)
+		- $\frac{5}{6}$ accuracy
+	5. If (egg >)
