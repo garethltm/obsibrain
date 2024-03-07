@@ -56,7 +56,12 @@
 	2. Bringing all components of the enterprise into a harmonized environment
 	3. Lower development, deployment, operations, support & maintenance costs
 	4. Improved interoperability
-	5. 
+	5. Improved system management
+	6. Improved ability to address critical enterprise-wide issues
+		- #infosys303example 
+		- security
+	7. Easier upgrade & exchange of system components
+10. Better return 
 ## Challenges
 - Ambiguous starting points, implementation & governance gaps & the need for ongoing innovation pose obstacles to successful [[Enterprise Architecture]] programs.
 
