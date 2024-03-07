@@ -55,4 +55,4 @@
 		- it gets the "baseline" score
 	2. There is no point in testing the rule (egg > 0.5)
 		- it gets the (egg > 0) score
-	3. Also note that we 
+	3. Also note that we don't need to test "$\lt$", since it would 
