@@ -1,3 +1,5 @@
 - [[Decision Stumps]] have only 1 rule based on 1 feature
 	- Very limited class of models: usually not very accurate for most tasks
-- [[COMPSCI361 - Machine Learning/Decision Trees|Decision Trees]] allow
+- [[COMPSCI361 - Machine Learning/Decision Trees|Decision Trees]] allow sequences of splits based on multiple features
+	- Very general class of models: can get very high accuracy
+	- However, it's computationally infeasible to find the best [[COMPSCI361 - Machine Learning/Decision Trees|Decision Trees]] 
