@@ -5,4 +5,5 @@
 ## Standard Fundamental Concept
 - The [[TOGAF Standard]] Fundamental Concept is presented as 6-free standing documents
 	1. The [[TOGAF Standard]] - Introduction & Core Concepts
-	2. The [[TOGAF Standard]]
+	2. The [[TOGAF Standard]] - Architecture Development Method
+		- This document des
