@@ -4,4 +4,8 @@
 
 ## How do we find the best "rule" (feature, threshold & leaf labels)?
 1. Define a 'score' for the rule
-2. Search for the 
+2. Search for the rule with the best score
+
+## What would you suggest as a score?
+- the one that has the most correct classification
+	- the cleanest ones 
