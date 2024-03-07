@@ -10,6 +10,7 @@
 	3. [[TOGAF Architectural Development Method (ADM)]] Techniques
 		- This document contains a collection of techniques available for use in applying the [[The Open Group Architectural Framework (TOGAF)]] approach & the [[TOGAF Architectural Development Method (ADM)]]
 	4. Applying the [[TOGAF Architectural Development Method (ADM)]]
-		- This document contains guidelines for adapting the [[TOGAF Architectural Development Method (ADM)]] to address the specific style of architecture 
+		- This document contains guidelines for adapting the [[TOGAF Architectural Development Method (ADM)]] to address the specific style of architecture required in a practical context.
 	5. Architecture Content
+		- This document describes the [[The Open Group Architectural Framework (TOGAF)]] Content [[framework]] & a structure
 	6. [[Enterprise Architect (EA)]] Capability & Governance
