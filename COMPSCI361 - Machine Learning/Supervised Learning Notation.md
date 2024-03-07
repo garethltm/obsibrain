@@ -13,3 +13,6 @@
 		- #compsci361example 
 		- 1 for "sick"
 		- 0 for "not sick"
+1. Training phase
+2. Prediction phase
+3. Training error
