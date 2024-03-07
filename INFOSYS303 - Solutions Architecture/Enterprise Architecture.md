@@ -35,7 +35,11 @@
 	2. efficiency
 	3. decision-making
 	However, its adoption is limited due to challenges
-7. More effective strategic decision-making by C-Level executives 
+7. More effective strategic decision-making by C-Level executives & business leaders:
+	1. Quick response to change & support for enterprise agility aligned with organization strategy
+	2. Organizational transformation
+		- Adopting new trends in business & technology
+		- 
 ## Challenges
 - Ambiguous starting points, implementation & governance gaps & the need for ongoing innovation pose obstacles to successful [[Enterprise Architecture]] programs.
 
