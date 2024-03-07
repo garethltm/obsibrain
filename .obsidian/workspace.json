@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "INFOSYS303 - Solutions Architecture/ArchiMate.md",
+                "file": "ACCTG151G - Financial Literacy/simple interest.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "29204b37fc003a9a",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "INFOSYS303 - Solutions Architecture/ArchiMate.md",
+                "file": "ACCTG151G - Financial Literacy/simple interest.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "INFOSYS303 - Solutions Architecture/ArchiMate.md",
+                "file": "ACCTG151G - Financial Literacy/simple interest.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "INFOSYS303 - Solutions Architecture/ArchiMate.md"
+                "file": "ACCTG151G - Financial Literacy/simple interest.md"
               }
             }
           },
@@ -156,7 +155,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "INFOSYS303 - Solutions Architecture/ArchiMate.md"
+                "file": "ACCTG151G - Financial Literacy/simple interest.md"
               }
             }
           }
@@ -181,6 +180,7 @@
   },
   "active": "71e95a060b92c837",
   "lastOpenFiles": [
+    "INFOSYS303 - Solutions Architecture/ArchiMate.md",
     "INFOSYS303 - Solutions Architecture/Business Capabilities.md",
     "INFOSYS303 - Solutions Architecture/Enterprise Architecture.md",
     "INFOSYS303 - Solutions Architecture/framework.md",
@@ -205,7 +205,6 @@
     "INFOSYS303 - Solutions Architecture/Technical Architecture.md",
     "ACCTG151G - Financial Literacy/Future Value Interest Factor (FVIF).md",
     "INFOSYS303 - Solutions Architecture/Applications Architecture.md",
-    "INFOSYS303 - Solutions Architecture/ArchiMate.md",
     "INFOSYS303 - Solutions Architecture/Data Architecture.md",
     "INFOSYS303 - Solutions Architecture/Solution Architect (SA).md",
     "INFOSYS303 - Solutions Architecture/TOGAF Standard.md",
