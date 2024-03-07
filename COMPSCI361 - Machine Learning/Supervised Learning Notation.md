@@ -2,4 +2,8 @@
 - Feature matrix X has rows as examples, columns as features
 	- $X_{ij}$ is feature j
 		- #compsci361example 
-		- i $\rightarrow$ quantity of food j 
+		- i $\rightarrow$ quantity of food j on day i
+	- $X_i$ is the list of all features
+		- #compsci361example 
+		- i $\rightarrow$ all the quantities of day i
+	- 
