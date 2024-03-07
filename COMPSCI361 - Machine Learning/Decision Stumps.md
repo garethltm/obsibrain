@@ -42,4 +42,8 @@
 			- $\frac{5}{6}$ accuracy
 	4. If (egg > 0):
 		- predict "sick" ($\frac{3}{3}$)
-		- predict "not sick" ()
+		- predict "not sick" ($\frac{3}{3}$)
+			- $\frac{6}{6}$ accuracy
+	5. If (egg > 1):
+		- predict "sick" ($\frac{2}{2}$)
+		- predict "not sick "
