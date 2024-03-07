@@ -50,9 +50,9 @@
 			- $\frac{5}{6}$ accuracy
 - Highest-scoring rule:
 	- (egg > 0) $\rightarrow$ $\frac{6}{6}$
-- Notice we only need to test feature thresholds that happen in the data
+- Notice we only need to test feature thresholds that happen in the data (we don't need other types of split because it is NOT in the dataset)
 	1. There is no point in testing the rule (egg > 3)
 		- it gets the "baseline" score
 	2. There is no point in testing the rule (egg > 0.5)
 		- it gets the (egg > 0) score
-	3. Also note that we don't need to test "$\lt$", since it would 
+	3. Also note that we don't need to test "$\lt$", since it would give equivalent rules
