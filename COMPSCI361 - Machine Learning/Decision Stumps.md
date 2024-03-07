@@ -49,4 +49,6 @@
 		- predict "not sick" ($\frac{3}{4}$)
 			- $\frac{5}{6}$ accuracy
 - Highest-scoring rule:
-	- (egg > 0) $\rightarrow$ $$
+	- (egg > 0) $\rightarrow$ $\frac{6}{6}$
+- Notice we only need to test feature thresholds that happen in the data
+	- 
