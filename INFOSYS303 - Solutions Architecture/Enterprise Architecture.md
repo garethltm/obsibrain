@@ -67,7 +67,9 @@
 	3. The flexibility to make, buy or outsource business & IT solutions
 	4. Understanding how [[Return-On-Investment (ROI)]] changes over time
 11. Faster, simpler & cheaper procurement:
-	1. Buying decisions are simpler, because the inform
+	1. Buying decisions are simpler, because the information governing procurement is readily available in a coherent plan
+	2. The procurement process is faster
+		- maximizing p
 ## Challenges
 - Ambiguous starting points, implementation & governance gaps & the need for ongoing innovation pose obstacles to successful [[Enterprise Architecture]] programs.
 
