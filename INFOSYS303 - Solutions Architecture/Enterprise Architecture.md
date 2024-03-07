@@ -44,7 +44,9 @@
 8. More effective & efficient business operations:
 	1. Lower business operation costs
 	2. More [[AGILE]] organization
-	3. 
+	3. Business capabilities shared across the organization
+	4. Lower change management costs
+	5. Mo
 ## Challenges
 - Ambiguous starting points, implementation & governance gaps & the need for ongoing innovation pose obstacles to successful [[Enterprise Architecture]] programs.
 
