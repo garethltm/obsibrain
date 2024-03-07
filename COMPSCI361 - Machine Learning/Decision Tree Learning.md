@@ -3,6 +3,7 @@
 - [[COMPSCI361 - Machine Learning/Decision Trees|Decision Trees]] allow sequences of splits based on multiple features
 	- Very general class of models: can get very high accuracy
 	- However, it's computationally infeasible to find the best [[COMPSCI361 - Machine Learning/Decision Trees|Decision Trees]]
+		- too many [[COMPSCI361 - Machine Learning/Decision Trees|Decision Trees]] generate
 - How would you build the tree?
 	- Most common [[COMPSCI361 - Machine Learning/Decision Trees|Decision Trees]] learning algorithm in practice:
-		- [[Greed]]
+		- [[Greedy recursive splitting]]
