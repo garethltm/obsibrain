@@ -41,7 +41,10 @@
 		- Adopting new trends in business & technology
 	3. Organizational change to support Digital Transformation
 	4. Organizational & operating mode changes to improve efficiency & effectiveness
-8. 
+8. More effective & efficient business operations:
+	1. Lower business operation costs
+	2. More [[AGILE]] organization
+	3. 
 ## Challenges
 - Ambiguous starting points, implementation & governance gaps & the need for ongoing innovation pose obstacles to successful [[Enterprise Architecture]] programs.
 
