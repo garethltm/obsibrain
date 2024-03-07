@@ -25,4 +25,6 @@
 
 ## 3. By Hand
 - Let's search for the [[Decision Stumps]] maximizing classification score:
-	- 
+	- First we check "baseline rule" of predicting mode (no split)
+		- this gets $\frac{3}{6}$ accuracy
+		- 
