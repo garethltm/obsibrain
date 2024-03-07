@@ -69,7 +69,8 @@
 11. Faster, simpler & cheaper procurement:
 	1. Buying decisions are simpler, because the information governing procurement is readily available in a coherent plan
 	2. The procurement process is faster
-		- maximizing p
+		- maximizing procurement speed & flexibility without sacrificing architectural coherence
+	3. The ability to procure [[Heterogeneous]]
 ## Challenges
 - Ambiguous starting points, implementation & governance gaps & the need for ongoing innovation pose obstacles to successful [[Enterprise Architecture]] programs.
 
