@@ -16,8 +16,8 @@
 - #compsci361example ![[Pasted image 20240307152928.png]]
 - Computing classification accuracy for (egg > 1):
 	- Find most common labels if we use this rule:
-		1. When (egg $\gt$ 1), we were "sick" 2 times out of 2
-		2. When (egg $\leq$ 1), we were "not sick" 3 times out of 4
+		1. When (egg $\gt$ 1), we were "sick" $\frac{2}{2}$
+		2. When (egg $\leq$ 1), we were "not sick" $\frac{3}{4}$
 	- Compute accuracy:
 		- The accuracy ("score") of the rule (egg > 1) is 5 times out of 6
 - The "score" evaluates quality of a rule
