@@ -14,4 +14,4 @@
 ## 2. Accuracy Score
 - Maybe most intuitive score: [[classification accuracy]]
 - #compsci361example 
-- 
+- Computing classification accuracy for (egg > 1):
