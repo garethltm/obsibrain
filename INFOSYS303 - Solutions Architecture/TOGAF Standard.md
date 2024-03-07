@@ -6,9 +6,9 @@
 - The [[TOGAF Standard]] Fundamental Concept is presented as 6-free standing documents
 	1. Introduction & Core Concepts
 	2. [[TOGAF Architectural Development Method (ADM)]]
-		- This document describes the [[TOGAF Architectural Development Method (ADM)]] - an iterative approach to developing an [[Enterprise Architecture]]
+		- This document describes the [[TOGAF Architectural Development Method (ADM)]] - an iterative approach to developing an [[Enterprise Architecture]].
 	3. [[TOGAF Architectural Development Method (ADM)]] Techniques
-		- This document contains a collection of techniques available for use in applying the [[The Open Group Architectural Framework (TOGAF)]] approach & the [[TOGAF Architectural Development Method (ADM)]]
+		- This document contains a collection of techniques available for use in applying the [[The Open Group Architectural Framework (TOGAF)]] approach & the [[TOGAF Architectural Development Method (ADM)]].
 	4. Applying the [[TOGAF Architectural Development Method (ADM)]]
 		- This document contains guidelines for adapting the [[TOGAF Architectural Development Method (ADM)]] to address the specific style of architecture required in a practical context.
 	5. Architecture Content
