@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI361 - Machine Learning/Supervised Learning.md",
+                "file": "COMPSCI361 - Machine Learning/Decision Stumps.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI361 - Machine Learning/Supervised Learning.md",
+                "file": "COMPSCI361 - Machine Learning/Decision Stumps.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI361 - Machine Learning/Supervised Learning.md",
+                "file": "COMPSCI361 - Machine Learning/Decision Stumps.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI361 - Machine Learning/Supervised Learning.md"
+                "file": "COMPSCI361 - Machine Learning/Decision Stumps.md"
               }
             }
           },
@@ -155,7 +155,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "COMPSCI361 - Machine Learning/Supervised Learning.md"
+                "file": "COMPSCI361 - Machine Learning/Decision Stumps.md"
               }
             }
           }
@@ -180,6 +180,8 @@
   },
   "active": "53a49051d6175559",
   "lastOpenFiles": [
+    "COMPSCI361 - Machine Learning/Decision Trees.md",
+    "COMPSCI361 - Machine Learning/Supervised Learning.md",
     "INFOSYS222 - Database Systems/Requirements.md",
     "INFOSYS222 - Database Systems/Relational DBMS.md",
     "INFOSYS222 - Database Systems/Relational Algebra - JOINS.md",
@@ -194,7 +196,6 @@
     "@images/Pasted image 20240307152928.png",
     "COMPSCI361 - Machine Learning/classification accuracy.md",
     "@images/Pasted image 20240307151634.png",
-    "COMPSCI361 - Machine Learning/Supervised Learning.md",
     "INFOSYS303 - Solutions Architecture/TOGAF Standard.md",
     "@images/Pasted image 20240307150953.png",
     "INFOSYS303 - Solutions Architecture/Enterprise Architecture.md",
@@ -209,7 +210,6 @@
     "INFOSYS303 - Solutions Architecture/Technical Architect (TA).md",
     "INFOSYS303 - Solutions Architecture/Solution Architect (SA).md",
     "INFOSYS303 - Solutions Architecture/IT Architects.md",
-    "INFOSYS303 - Solutions Architecture/Enterprise Architect (EA).md",
     "@images/Pasted image 20240306231159.png",
     "@images/Pasted image 20240306143250.png",
     "@images/LeanIX_Poster_EA_vs_SA_vs_TA_EN.pdf",

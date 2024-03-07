@@ -15,3 +15,5 @@
 - Maybe most intuitive score: [[classification accuracy]]
 - #compsci361example ![[Pasted image 20240307152928.png]]
 - Computing classification accuracy for (egg > 1):
+	- Find most common labels if we use this rule:
+		1. When (egg > 1), we were "sick" 2 times out of 2
