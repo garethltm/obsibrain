@@ -48,4 +48,5 @@
 		- predict "sick" ($\frac{2}{2}$)
 		- predict "not sick" ($\frac{3}{4}$)
 			- $\frac{5}{6}$ accuracy
-	
+- Highest-scoring rule:
+	- (egg > 0) $\rightarrow$ $$
