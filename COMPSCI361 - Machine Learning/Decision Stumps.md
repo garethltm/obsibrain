@@ -19,4 +19,8 @@
 		1. When (egg $\gt$ 1), we were "sick" 2 times out of 2
 		2. When (egg $\leq$ 1), we were "not sick" 3 times out of 4
 	- Compute accuracy:
-		- The accuracy ("score") of the rule (egg > 1)
+		- The accuracy ("score") of the rule (egg > 1) is 5 times out of 6
+- The "score" evaluates quality of a rule
+	- We "learn" a decision stump by finding the rule with the best score.
+
+## 3. By Hand
