@@ -6,39 +6,17 @@
   "hideUnresolved": false,
   "showOrphans": true,
   "collapse-color-groups": false,
-  "colorGroups": [
-    {
-      "query": "path:\"COMPSCI367 - Artificial Intelligence\"  ",
-      "color": {
-        "a": 1,
-        "rgb": 14701138
-      }
-    },
-    {
-      "query": "path:\"INFOSYS222 - Database Systems\"  ",
-      "color": {
-        "a": 1,
-        "rgb": 14725458
-      }
-    },
-    {
-      "query": "path:\"COMPSCI235 - Software Development Methodologies\"  ",
-      "color": {
-        "a": 1,
-        "rgb": 16777215
-      }
-    }
-  ],
+  "colorGroups": [],
   "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1,
-  "lineSizeMultiplier": 1.14635416666667,
+  "lineSizeMultiplier": 1,
   "collapse-forces": false,
-  "centerStrength": 0.625325520833333,
+  "centerStrength": 0.518713248970312,
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 1.1643714145374449,
-  "close": false
+  "scale": 1.683644800129107,
+  "close": true
 }
