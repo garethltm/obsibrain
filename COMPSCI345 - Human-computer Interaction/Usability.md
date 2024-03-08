@@ -8,7 +8,13 @@
 	- Once an experienced user has learned to use the system, how fast can he/she accomplish tasks
 3. [[Memorability]]
 	- If a user has used the system before, can he/she remember enough to use it effectively the next time or does the user have to start over again learning everything
-4. Error frequency and severity
+4. [[Error Frequency & Severity]]
 	- How often do users make errors while using the system, how serious are these errors, and how do users recover from these errors
-5. Subjective satisfaction
+5. [[Subjective satisfaction]]
 	- How much does the user like using the system
+
+## Types of [[Usability]] Evaluations
+- Performance measurements
+- Heuristic evaluations
+- [[Usability]] studies
+- Comparative studies
