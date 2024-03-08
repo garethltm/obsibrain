@@ -7,7 +7,9 @@
 		- But it might be slower than entering with auto complete
 
 ### Measures of Error Frequency
-- Not necessarily a 1-Dimensioanl Measure $\rightarrow$ may have multiple threshold requirements
+- Not necessarily a 1-Dimensional Measure $\rightarrow$ may have multiple threshold requirements
+	- Average = 2 errors/hour
+	- Over 50% less than 1 
 ## Error Severity
 - Relates to what is the cost of causing the error
 	- #compsci345example 
