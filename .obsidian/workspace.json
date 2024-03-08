@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ACCTG151G - Financial Literacy/Financial Literacy.md",
+                "file": "ACCTG151G - Financial Literacy/Average propensity to consume (APC).md",
                 "mode": "source",
                 "source": false
               }
@@ -32,7 +32,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "ACCTG151G - Financial Literacy/Financial Literacy.md",
+                "file": "ACCTG151G - Financial Literacy/Average propensity to consume (APC).md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -129,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ACCTG151G - Financial Literacy/Financial Literacy.md",
+                "file": "ACCTG151G - Financial Literacy/Average propensity to consume (APC).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ACCTG151G - Financial Literacy/Financial Literacy.md",
+                "file": "ACCTG151G - Financial Literacy/Average propensity to consume (APC).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,7 +169,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ACCTG151G - Financial Literacy/Financial Literacy.md"
+                "file": "ACCTG151G - Financial Literacy/Average propensity to consume (APC).md"
               }
             }
           },
@@ -199,7 +199,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "ACCTG151G - Financial Literacy/Financial Literacy.md"
+                "file": "ACCTG151G - Financial Literacy/Average propensity to consume (APC).md"
               }
             }
           }
@@ -224,11 +224,16 @@
   },
   "active": "71e95a060b92c837",
   "lastOpenFiles": [
+    "COMPSCI345 - Human-computer Interaction/Memorability.md",
+    "COMPSCI345 - Human-computer Interaction/Human-computer Interaction (HCI).md",
+    "COMPSCI345 - Human-computer Interaction/Engineering heuristic.md",
+    "ACCTG151G - Financial Literacy/Interest rates (r).md",
+    "ACCTG151G - Financial Literacy/Monetary Policy - Reserve Bank.md",
+    "ACCTG151G - Financial Literacy/Future Value Interest Factor (FVIF).md",
+    "ACCTG151G - Financial Literacy/Financial Literacy.md",
     "ACCTG151G - Financial Literacy/compound interest.md",
     "ACCTG151G - Financial Literacy/Average propensity to consume (APC).md",
-    "COMPSCI345 - Human-computer Interaction/Memorability.md",
     "COMPSCI345 - Human-computer Interaction/Efficiency of use.md",
-    "COMPSCI345 - Human-computer Interaction/Engineering heuristic.md",
     "ACCTG151G - Financial Literacy/Balance sheet.md",
     "ACCTG151G - Financial Literacy/Financial Ratio.md",
     "ACCTG151G - Financial Literacy/Statement of Financial Position.md",
@@ -238,7 +243,6 @@
     "ACCTG151G - Financial Literacy/Network of financial plans & statements.md",
     "@images/Pasted image 20240308234701.png",
     "ACCTG151G - Financial Literacy/Personal financial plan.md",
-    "ACCTG151G - Financial Literacy/Financial Literacy.md",
     "ACCTG151G - Financial Literacy/Financial Goals.md",
     "ACCTG151G - Financial Literacy/Future Value (FV).md",
     "ACCTG151G - Financial Literacy/Expenses (Cash OUT).md",
@@ -247,10 +251,6 @@
     "conflict-files-obsidian-git.md",
     "ACCTG151G - Financial Literacy/solvency.md",
     "ACCTG151G - Financial Literacy/liability.md",
-    "ACCTG151G - Financial Literacy/Financial planning.md",
-    "ACCTG151G - Financial Literacy/assets.md",
-    "ACCTG151G - Financial Literacy/net worth (equity).md",
-    "ACCTG151G - Financial Literacy/Economic Cycles.md",
     "@images/Pasted image 20240308213806.png",
     "@images/Pasted image 20240308213732.png",
     "@images/Pasted image 20240308213605.png",
