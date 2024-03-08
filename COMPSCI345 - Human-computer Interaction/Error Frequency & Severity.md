@@ -6,8 +6,10 @@
 		- It might reduce errors to have a dropdown list to choose from
 		- But it might be slower than entering with auto complete
 
+### Measures of Error Frequency
+- Not necessarily a 1-Dimensioanl Measure $\rightarrow$ 
 ## Error Severity
 - Relates to what is the cost of causing the error
 	- #compsci345example 
 	- A patient suffers seizures because a drug interaction was missed
-	- Bookign a 
+	- Booking a flight for 8pm when you wanted 8am
