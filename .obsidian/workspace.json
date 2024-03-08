@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI361 - Machine Learning/entropy.md",
+                "file": "COMPSCI361 - Machine Learning/Naïve Supervised Learning - Predict Mode.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI361 - Machine Learning/entropy.md",
+                "file": "COMPSCI361 - Machine Learning/Naïve Supervised Learning - Predict Mode.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI361 - Machine Learning/entropy.md",
+                "file": "COMPSCI361 - Machine Learning/Naïve Supervised Learning - Predict Mode.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI361 - Machine Learning/entropy.md"
+                "file": "COMPSCI361 - Machine Learning/Naïve Supervised Learning - Predict Mode.md"
               }
             }
           },
@@ -155,7 +155,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "COMPSCI361 - Machine Learning/entropy.md"
+                "file": "COMPSCI361 - Machine Learning/Naïve Supervised Learning - Predict Mode.md"
               }
             }
           }
@@ -180,6 +180,10 @@
   },
   "active": "53a49051d6175559",
   "lastOpenFiles": [
+    "COMPSCI361 - Machine Learning/entropy.md",
+    "COMPSCI361 - Machine Learning/Big Data.md",
+    "COMPSCI361 - Machine Learning/Classification.md",
+    "COMPSCI361 - Machine Learning/Decision Stumps.md",
     "INFOSYS303 - Solutions Architecture/IT Architects.md",
     "INFOSYS303 - Solutions Architecture/framework.md",
     "INFOSYS303 - Solutions Architecture/Federal Enterprise Architecture Framework (FEAF).md",
@@ -193,13 +197,9 @@
     "COMPSCI361 - Machine Learning/Decision Trees.md",
     "COMPSCI361 - Machine Learning/Data Mining.md",
     "COMPSCI361 - Machine Learning/Machine Learning (ML).md",
-    "COMPSCI361 - Machine Learning/Big Data.md",
-    "COMPSCI361 - Machine Learning/entropy.md",
-    "COMPSCI361 - Machine Learning/Decision Stumps.md",
     "COMPSCI361 - Machine Learning/Decision Tree Learning.md",
     "@images/Pasted image 20240307170529.png",
     "COMPSCI361 - Machine Learning/Information gain.md",
-    "COMPSCI361 - Machine Learning/Classification.md",
     "@images/Pasted image 20240307170251.png",
     "COMPSCI361 - Machine Learning/Greedy Recursive Splitting.md",
     "@images/Pasted image 20240307170051.png",
