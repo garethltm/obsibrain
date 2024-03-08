@@ -1,3 +1,4 @@
 - Statement of Financial performance OVER a given time period
 	- Different from [[Balance sheet]]
+
 - 
