@@ -8,8 +8,10 @@
 
 ### Measures of Error Frequency
 - Not necessarily a 1-Dimensional Measure $\rightarrow$ may have multiple threshold requirements
-	- Average = 2 errors/hour
-	- Over 50% less than 1 
+	- Average = 2 errors per hour
+	- Over 50% less than 1 per hour
+	- Less than 5% over 5 per hour
+![[Pasted image 20240309000840.png]]
 ## Error Severity
 - Relates to what is the cost of causing the error
 	- #compsci345example 
