@@ -4,4 +4,8 @@
 
 ### Aesthetics
 - how nice it looks is incredibly important in this respect
-	- There can be a lot of udnerpinning 
+	- There can be a lot of underpinning a perception of looking "nice"
+		- Good contrast/font size, clean layout, good grouping
+		- Appropriate language
+		- Good fit to workflow
+	- Ugly $\rightarr
