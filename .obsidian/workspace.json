@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI345 - Human-computer Interaction/Memorability.md",
+                "file": "COMPSCI345 - Human-computer Interaction/Error Frequency.md",
                 "mode": "source",
                 "source": false
               }
@@ -32,7 +32,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "COMPSCI345 - Human-computer Interaction/Memorability.md",
+                "file": "COMPSCI345 - Human-computer Interaction/Error Frequency.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -128,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI345 - Human-computer Interaction/Memorability.md",
+                "file": "COMPSCI345 - Human-computer Interaction/Error Frequency.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI345 - Human-computer Interaction/Memorability.md",
+                "file": "COMPSCI345 - Human-computer Interaction/Error Frequency.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI345 - Human-computer Interaction/Memorability.md"
+                "file": "COMPSCI345 - Human-computer Interaction/Error Frequency.md"
               }
             }
           },
@@ -198,7 +198,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "COMPSCI345 - Human-computer Interaction/Memorability.md"
+                "file": "COMPSCI345 - Human-computer Interaction/Error Frequency.md"
               }
             }
           }
@@ -223,6 +223,8 @@
   },
   "active": "71e95a060b92c837",
   "lastOpenFiles": [
+    "COMPSCI345 - Human-computer Interaction/Memorability.md",
+    "COMPSCI345 - Human-computer Interaction/Error Frequency.md",
     "ACCTG151G - Financial Literacy/simple interest.md",
     "ACCTG151G - Financial Literacy/timeline.md",
     "ACCTG151G - Financial Literacy/Statement of Financial Position.md",
@@ -234,7 +236,6 @@
     "ACCTG151G - Financial Literacy/compound interest.md",
     "ACCTG151G - Financial Literacy/Average propensity to consume (APC).md",
     "ACCTG151G - Financial Literacy/Interest rates (r).md",
-    "COMPSCI345 - Human-computer Interaction/Memorability.md",
     "COMPSCI345 - Human-computer Interaction/Human-computer Interaction (HCI).md",
     "COMPSCI345 - Human-computer Interaction/Engineering heuristic.md",
     "COMPSCI345 - Human-computer Interaction/Efficiency of use.md",
@@ -249,7 +250,6 @@
     "ACCTG151G - Financial Literacy/Future Value (FV).md",
     "ACCTG151G - Financial Literacy/Expenses (Cash OUT).md",
     "ACCTG151G - Financial Literacy/Income (Cash IN).md",
-    "ACCTG151G - Financial Literacy/insolvent.md",
     "@images/Pasted image 20240308213806.png",
     "@images/Pasted image 20240308213732.png",
     "@images/Pasted image 20240308213605.png",

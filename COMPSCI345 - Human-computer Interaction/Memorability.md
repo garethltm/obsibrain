@@ -8,4 +8,4 @@
 Academics $\rightarrow$ functions related to end-of-semester marks can be a problem
 - Use of max of twice a year (so we are infrequent users)
 - Only get to use the feature a handful of times before the system changes
-- 
+- High stakes $\rightarrow$ you want your grades to be right
