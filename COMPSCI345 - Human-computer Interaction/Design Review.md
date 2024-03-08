@@ -5,4 +5,10 @@
 
 ### Preparation
 1. Start with storyboards for description of the flow
-2. Have at hand information on relevant users, w
+2. Have at hand information on relevant users, work roles & user classes
+3. Schedule a session with users/stakeholders
+4. Have a leader to run the prototype
+5. Have a note taker to record [[User eXperience (UX)]] problems
+
+
+### Session
