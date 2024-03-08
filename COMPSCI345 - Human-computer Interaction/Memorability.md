@@ -5,3 +5,7 @@
 - If most users are expected to use a feature often, they shouldn't have much trouble remembering how to use it
 	- Catering for infrequent users puts on the pressure
 #compsci345example 
+Academics $\rightarrow$ functions related to end-of-semester marks can be a problem
+- Use of max of twice a year (so we are infrequent users)
+- Only get to use the feature a handful of times before the system changes
+- 
