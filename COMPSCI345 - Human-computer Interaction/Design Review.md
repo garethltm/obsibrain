@@ -5,3 +5,4 @@
 
 ### Preparation
 1. Start with storyboards for description of the flow
+2. Have at hand information on relevant users, w
