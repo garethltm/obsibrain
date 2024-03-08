@@ -4,7 +4,7 @@
 		n = number of periods you invest
 
 ## FVIF Tables
-#acctg151gexample
+#acctg151Gexample
 - if you deposited $1,000 for 3 years at 10% pa, how much would you have in your account
 
 ## Use a FVIF Table

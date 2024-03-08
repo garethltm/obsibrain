@@ -5,10 +5,10 @@ $Total\ Income -\ Total\ Expenses = PROFIT\ OR\ LOSS$
 - [[Income (Cash IN)]], [[Expenses (Cash OUT)]]
 
 - Individual $\rightarrow$ recorded on a cash basis
-	- #acctg151gExample 
+	- #acctg151Gexample
 	- when we actually receive or pay money 
 		- recording it straight away
 - Companies $\rightarrow$ recorded on accural basis
-	- #acctg151gExample 
+	- #acctg151Gexample
 	- transactions
 		- cash may not flow into the company immediately
