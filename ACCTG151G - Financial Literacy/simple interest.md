@@ -1,7 +1,7 @@
 - without compounding
 	- we don't consider interest
 
-#acctg151gExample 
+#acctg151Gexample
 $1000 = principle (your own money)
 10% is the fixed proportion of the principle
 - your principle would be fixed = fixed interest

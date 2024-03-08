@@ -6,7 +6,7 @@
 2. Inflation
 	- Measured by changes in CPI
 	- Affects purchasing power and [[Interest rates (r)]]
-		- #acctg151gExample 
+		- #acctg151Gexample
 		- high inflation rates, purchasing power decreases
 			- you need more money to buy things
 	- Affects [[Personal financial plan]] and [[Financial Goals]]
