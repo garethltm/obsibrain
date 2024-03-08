@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ACCTG151G - Financial Literacy/solvency.md",
+                "file": "ACCTG151G - Financial Literacy/insolvent.md",
                 "mode": "source",
                 "source": false
               }
@@ -32,7 +32,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "ACCTG151G - Financial Literacy/solvency.md",
+                "file": "ACCTG151G - Financial Literacy/insolvent.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -128,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ACCTG151G - Financial Literacy/solvency.md",
+                "file": "ACCTG151G - Financial Literacy/insolvent.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ACCTG151G - Financial Literacy/solvency.md",
+                "file": "ACCTG151G - Financial Literacy/insolvent.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ACCTG151G - Financial Literacy/solvency.md"
+                "file": "ACCTG151G - Financial Literacy/insolvent.md"
               }
             }
           },
@@ -198,7 +198,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "ACCTG151G - Financial Literacy/solvency.md"
+                "file": "ACCTG151G - Financial Literacy/insolvent.md"
               }
             }
           }
@@ -223,6 +223,8 @@
   },
   "active": "71e95a060b92c837",
   "lastOpenFiles": [
+    "ACCTG151G - Financial Literacy/solvency.md",
+    "ACCTG151G - Financial Literacy/insolvent.md",
     "ACCTG151G - Financial Literacy/Balance sheet.md",
     "ACCTG151G - Financial Literacy/liability.md",
     "ACCTG151G - Financial Literacy/Financial planning.md",
@@ -233,7 +235,6 @@
     "ACCTG151G - Financial Literacy/Financial Goals.md",
     "ACCTG151G - Financial Literacy/Financial planning profession.md",
     "ACCTG151G - Financial Literacy/Future Value Interest Factor (FVIF).md",
-    "ACCTG151G - Financial Literacy/solvency.md",
     "@images/Pasted image 20240308213806.png",
     "@images/Pasted image 20240308213732.png",
     "ACCTG151G - Financial Literacy/Network of financial plans & statements.md",
@@ -251,7 +252,6 @@
     "COMPSCI361 - Machine Learning/Supervised Learning Notation.md",
     "COMPSCI361 - Machine Learning/Prediction phase.md",
     "COMPSCI361 - Machine Learning/Information gain.md",
-    "COMPSCI361 - Machine Learning/Greedy recursive splitting.md",
     "@images/Pasted image 20240307170529.png",
     "@images/Pasted image 20240307170251.png",
     "@images/Pasted image 20240307170051.png",

@@ -1,0 +1,1 @@
+- when [[net worth (equity)]] = negative
