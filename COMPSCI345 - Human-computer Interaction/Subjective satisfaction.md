@@ -8,4 +8,4 @@
 		- Good contrast/font size, clean layout, good grouping
 		- Appropriate language
 		- Good fit to workflow
-	- Ugly $\rightarr
+	- Ugly $\rightarrow$ may mean fatiguing, inefficient or apt to produce errors
