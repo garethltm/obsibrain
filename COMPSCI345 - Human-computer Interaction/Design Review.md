@@ -10,5 +10,12 @@
 4. Have a leader to run the prototype
 5. Have a note taker to record [[User eXperience (UX)]] problems
 
-
 ### Session
+1. Leader introduces design & its purpose
+2. Leader clicks through the design
+	1. Main workflow
+	2. Exceptions
+	3. Errors
+	4. Recovery
+	5. etc,
+	6. 
