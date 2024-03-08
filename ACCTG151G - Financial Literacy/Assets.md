@@ -1,0 +1,1 @@
+- things that you own that have value in them
