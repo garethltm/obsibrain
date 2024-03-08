@@ -17,3 +17,4 @@
 ## Approach
 - Use participants or [[User eXperience (UX)]] experts to step through particular functionality
 	- Gather reactions to the design for the task
+	- (showing portions of the interface & how it works)
