@@ -9,7 +9,7 @@ Summary: optimise the use & management of money
 		- #acctg151gExample  
 		- knowing share prices per year to know rates of return
 2. an understanding of benefits and risks associated with particular financial decisions, including
-	- spending, borrowing, leverage and investing (invest only if you have extra income)
+	- spending, borrowing, leverage and investing (invest only if you have extra [[Income (Cash IN)]])
 3. the ability to understand basic financial concepts, including:
 	- the trade off between risk and return
 	- the main attributes of different types of investments and other financial products
@@ -34,5 +34,5 @@ Summary: optimise the use & management of money
 ![[Pasted image 20240229162338.png]]
 
 ## What is known about [[Financial Literacy]]?
-- Financial knowledge increased with age (more experienced = more sophisticated), income (more economic resources), education (people with masters degree = better) and net worth
+- Financial knowledge increased with age (more experienced = more sophisticated), [[Income (Cash IN)]] (more economic resources), education (people with masters degree = better) and net worth
 

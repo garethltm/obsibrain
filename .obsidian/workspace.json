@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ACCTG151G - Financial Literacy/Financial Goals.md",
+                "file": "ACCTG151G - Financial Literacy/Financial Ratio.md",
                 "mode": "source",
                 "source": false
               }
@@ -32,7 +32,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "ACCTG151G - Financial Literacy/Financial Goals.md",
+                "file": "ACCTG151G - Financial Literacy/Financial Ratio.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -108,8 +108,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -129,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ACCTG151G - Financial Literacy/Financial Goals.md",
+                "file": "ACCTG151G - Financial Literacy/Financial Ratio.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ACCTG151G - Financial Literacy/Financial Goals.md",
+                "file": "ACCTG151G - Financial Literacy/Financial Ratio.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ACCTG151G - Financial Literacy/Financial Goals.md"
+                "file": "ACCTG151G - Financial Literacy/Financial Ratio.md"
               }
             }
           },
@@ -199,7 +198,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "ACCTG151G - Financial Literacy/Financial Goals.md"
+                "file": "ACCTG151G - Financial Literacy/Financial Ratio.md"
               }
             }
           }
@@ -224,8 +223,12 @@
   },
   "active": "71e95a060b92c837",
   "lastOpenFiles": [
-    "ACCTG151G - Financial Literacy/Average propensity to consume (APC).md",
+    "ACCTG151G - Financial Literacy/Personal financial plan.md",
+    "ACCTG151G - Financial Literacy/Financial Ratio.md",
     "ACCTG151G - Financial Literacy/Revenue statement.md",
+    "ACCTG151G - Financial Literacy/Financial Literacy.md",
+    "ACCTG151G - Financial Literacy/Financial Goals.md",
+    "ACCTG151G - Financial Literacy/Average propensity to consume (APC).md",
     "ACCTG151G - Financial Literacy/Future Value (FV).md",
     "ACCTG151G - Financial Literacy/Expenses (Cash OUT).md",
     "ACCTG151G - Financial Literacy/Income (Cash IN).md",
@@ -239,7 +242,6 @@
     "ACCTG151G - Financial Literacy/net worth (equity).md",
     "ACCTG151G - Financial Literacy/compound interest.md",
     "ACCTG151G - Financial Literacy/Economic Cycles.md",
-    "ACCTG151G - Financial Literacy/Financial Goals.md",
     "ACCTG151G - Financial Literacy/Financial planning profession.md",
     "ACCTG151G - Financial Literacy/Future Value Interest Factor (FVIF).md",
     "@images/Pasted image 20240308213806.png",
@@ -247,12 +249,9 @@
     "ACCTG151G - Financial Literacy/Network of financial plans & statements.md",
     "@images/Pasted image 20240308213605.png",
     "ACCTG151G - Financial Literacy/Personal financial planning (personal finance).md",
-    "ACCTG151G - Financial Literacy/Personal financial plan.md",
     "ACCTG151G - Financial Literacy/simple interest.md",
     "INFOSYS303 - Solutions Architecture/ArchiMate.md",
     "INFOSYS303 - Solutions Architecture/Business Capabilities.md",
-    "INFOSYS303 - Solutions Architecture/Enterprise Architecture.md",
-    "INFOSYS303 - Solutions Architecture/framework.md",
     "@images/Pasted image 20240307170529.png",
     "@images/Pasted image 20240307170251.png",
     "@images/Pasted image 20240307170051.png",
