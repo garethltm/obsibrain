@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI345 - Human-computer Interaction/Usability Evaluations.md",
+                "file": "COMPSCI345 - Human-computer Interaction/Design walkthrough.md",
                 "mode": "source",
                 "source": false
               }
@@ -32,7 +32,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "COMPSCI345 - Human-computer Interaction/Usability Evaluations.md",
+                "file": "COMPSCI345 - Human-computer Interaction/Design walkthrough.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -128,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI345 - Human-computer Interaction/Usability Evaluations.md",
+                "file": "COMPSCI345 - Human-computer Interaction/Design walkthrough.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI345 - Human-computer Interaction/Usability Evaluations.md",
+                "file": "COMPSCI345 - Human-computer Interaction/Design walkthrough.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI345 - Human-computer Interaction/Usability Evaluations.md"
+                "file": "COMPSCI345 - Human-computer Interaction/Design walkthrough.md"
               }
             }
           },
@@ -198,7 +198,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "COMPSCI345 - Human-computer Interaction/Usability Evaluations.md"
+                "file": "COMPSCI345 - Human-computer Interaction/Design walkthrough.md"
               }
             }
           }
@@ -223,8 +223,9 @@
   },
   "active": "71e95a060b92c837",
   "lastOpenFiles": [
-    "COMPSCI345 - Human-computer Interaction/Usability.md",
     "COMPSCI345 - Human-computer Interaction/Usability Evaluations.md",
+    "COMPSCI345 - Human-computer Interaction/Design walkthrough.md",
+    "COMPSCI345 - Human-computer Interaction/Usability.md",
     "COMPSCI345 - Human-computer Interaction/Subjective satisfaction.md",
     "COMPSCI345 - Human-computer Interaction/Study 01 - Proprioceptive Gestures.md",
     "COMPSCI345 - Human-computer Interaction/Error Frequency & Severity.md",
@@ -250,7 +251,6 @@
     "ACCTG151G - Financial Literacy/Financial Statement.md",
     "ACCTG151G - Financial Literacy/Network of financial plans & statements.md",
     "@images/Pasted image 20240308234701.png",
-    "ACCTG151G - Financial Literacy/Personal financial plan.md",
     "@images/Pasted image 20240308213806.png",
     "@images/Pasted image 20240308213732.png",
     "@images/Pasted image 20240308213605.png",

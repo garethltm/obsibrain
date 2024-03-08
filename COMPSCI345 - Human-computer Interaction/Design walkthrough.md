@@ -1,0 +1,4 @@
+- Informal method to get fast feedback on designs
+- Can be used with
+	- Scenarios, storyboards, screen sketches & wireframes
+	- 
