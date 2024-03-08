@@ -2,8 +2,8 @@
 
 ## Equation
 ![[Pasted image 20240308213732.png]]
-- [[Assets]]
+- [[assets]]
 - [[liability]]
-- 
+- [[net worth (equity)]]
 
 ![[Pasted image 20240308213806.png]]
