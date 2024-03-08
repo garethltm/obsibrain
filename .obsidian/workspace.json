@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI361 - Machine Learning/Greedy Recursive Splitting.md",
+                "file": "ACCTG151G - Financial Literacy/simple interest.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI361 - Machine Learning/Greedy Recursive Splitting.md",
+                "file": "ACCTG151G - Financial Literacy/simple interest.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI361 - Machine Learning/Greedy Recursive Splitting.md",
+                "file": "ACCTG151G - Financial Literacy/simple interest.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI361 - Machine Learning/Greedy Recursive Splitting.md"
+                "file": "ACCTG151G - Financial Literacy/simple interest.md"
               }
             }
           },
@@ -155,7 +155,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "COMPSCI361 - Machine Learning/Greedy Recursive Splitting.md"
+                "file": "ACCTG151G - Financial Literacy/simple interest.md"
               }
             }
           }
@@ -180,6 +180,7 @@
   },
   "active": "53a49051d6175559",
   "lastOpenFiles": [
+    "COMPSCI361 - Machine Learning/Greedy Recursive Splitting.md",
     "COMPSCI361 - Machine Learning/Hypothesis Space.md",
     "COMPSCI361 - Machine Learning/Machine Learning (ML).md",
     "COMPSCI361 - Machine Learning/Machine Learning vs Data Mining.md",
@@ -205,7 +206,6 @@
     "ACCTG151G - Financial Literacy/Future Value Interest Factor (FVIF).md",
     "COMPSCI361 - Machine Learning/Naïve Supervised Learning - Predict Mode.md",
     "INFOSYS303 - Solutions Architecture/IT Architects.md",
-    "INFOSYS303 - Solutions Architecture/framework.md",
     "@images/Pasted image 20240307170529.png",
     "@images/Pasted image 20240307170251.png",
     "@images/Pasted image 20240307170051.png",
