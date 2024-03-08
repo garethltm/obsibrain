@@ -3,4 +3,5 @@
 
 "Good enough" is contextual
 - If most users are expected to use a feature often, they shouldn't have much trouble remembering how to use it
-	- Cater
+	- Catering for infrequent users puts on the pressure
+#compsci345example 
