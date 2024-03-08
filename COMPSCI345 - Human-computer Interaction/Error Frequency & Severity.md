@@ -1,0 +1,4 @@
+- Relates to how often users make errors
+	- #compsci345example 
+	- Touch phone typing $\rightarrow$ people tapping on what they don't intend to tap
+	- 
