@@ -17,5 +17,8 @@
 	2. Exceptions
 	3. Errors
 	4. Recovery
-	5. etc,
-	6. 
+	5. etc.
+3. Comments invited from the group
+4. Note taker records [[User eXperience (UX)]] problems
+5. Completed within a scheduled time
+6. Leader explains what user will be using & thinking and how the task fits in their work practice
