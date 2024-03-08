@@ -1,2 +1,8 @@
 - Rent
-- 
+- Interest on loans
+- Food
+- Travel
+- University Fees
+- Medical Bills
+- Insurance
+- Electric/Water Bills

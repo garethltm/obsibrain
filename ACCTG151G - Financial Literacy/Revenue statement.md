@@ -2,6 +2,7 @@
 	- Different from [[Balance sheet]]
 
 $Total\ Income -\ Total\ Expenses = PROFIT\ OR\ LOSS$
+- [[Income (Cash IN)]], [[Expenses (Cash OUT)]]
 
 - Individual $\rightarrow$ recorded on a cash basis
 	- #acctg151gExample 
