@@ -12,4 +12,8 @@
 	3. Potential users
 	4. Subject Matter Experts (SME)
 	5. other stakeholders
-- walking through with the client to get feedback
+	- walking through with the client to get feedback
+
+## Approach
+- Use participants or [[User eXperience (UX)]] experts to step through particular functionality
+	- Gather reactions to the design for the task
