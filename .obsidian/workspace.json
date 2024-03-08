@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ACCTG151G - Financial Literacy/Revenue statement.md",
+                "file": "ACCTG151G - Financial Literacy/Financial Goals.md",
                 "mode": "source",
                 "source": false
               }
@@ -32,7 +32,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "ACCTG151G - Financial Literacy/Revenue statement.md",
+                "file": "ACCTG151G - Financial Literacy/Financial Goals.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -91,7 +91,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "expense",
+                "query": "income",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -129,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ACCTG151G - Financial Literacy/Revenue statement.md",
+                "file": "ACCTG151G - Financial Literacy/Financial Goals.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ACCTG151G - Financial Literacy/Revenue statement.md",
+                "file": "ACCTG151G - Financial Literacy/Financial Goals.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,7 +169,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ACCTG151G - Financial Literacy/Revenue statement.md"
+                "file": "ACCTG151G - Financial Literacy/Financial Goals.md"
               }
             }
           },
@@ -199,7 +199,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "ACCTG151G - Financial Literacy/Revenue statement.md"
+                "file": "ACCTG151G - Financial Literacy/Financial Goals.md"
               }
             }
           }
@@ -224,10 +224,11 @@
   },
   "active": "71e95a060b92c837",
   "lastOpenFiles": [
+    "ACCTG151G - Financial Literacy/Average propensity to consume (APC).md",
+    "ACCTG151G - Financial Literacy/Revenue statement.md",
     "ACCTG151G - Financial Literacy/Future Value (FV).md",
     "ACCTG151G - Financial Literacy/Expenses (Cash OUT).md",
     "ACCTG151G - Financial Literacy/Income (Cash IN).md",
-    "ACCTG151G - Financial Literacy/Revenue statement.md",
     "ACCTG151G - Financial Literacy/Balance sheet.md",
     "ACCTG151G - Financial Literacy/insolvent.md",
     "conflict-files-obsidian-git.md",
@@ -252,7 +253,6 @@
     "INFOSYS303 - Solutions Architecture/Business Capabilities.md",
     "INFOSYS303 - Solutions Architecture/Enterprise Architecture.md",
     "INFOSYS303 - Solutions Architecture/framework.md",
-    "INFOSYS303 - Solutions Architecture/IT Architects.md",
     "@images/Pasted image 20240307170529.png",
     "@images/Pasted image 20240307170251.png",
     "@images/Pasted image 20240307170051.png",

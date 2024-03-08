@@ -11,7 +11,7 @@
 3. Long-term goals
 	- to be accomplished in time periods greater than 5 years
 
-### What determines your personal income?
+### What determines your personal [[Income (Cash IN)]]?
 1. Age, martial status
 2. Education
 3. Where you live
