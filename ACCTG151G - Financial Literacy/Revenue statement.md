@@ -1,1 +1,2 @@
-- Statement of fina
+- Statement of financial performance OVER a given time period
+	- Different from [[Balance sheet]]
