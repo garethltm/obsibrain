@@ -4,20 +4,63 @@
     "type": "split",
     "children": [
       {
-        "id": "d0fc3ac9f6041688",
+        "id": "6987bdc4ad890947",
         "type": "tabs",
         "children": [
           {
-            "id": "53a49051d6175559",
+            "id": "71e95a060b92c837",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ACCTG151G - Financial Literacy/Financial Literacy.md",
+                "file": "ACCTG151G - Financial Literacy/Untitled.md",
                 "mode": "source",
                 "source": false
               }
-            }
+            },
+            "group": "076b03654c6d6cf8"
+          }
+        ]
+      },
+      {
+        "id": "29d198c8b56bf95e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d4c3f89dec4f0d06",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "ACCTG151G - Financial Literacy/Untitled.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1,
+                  "close": true
+                }
+              }
+            },
+            "group": "076b03654c6d6cf8"
           }
         ]
       }
@@ -85,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ACCTG151G - Financial Literacy/Financial Literacy.md",
+                "file": "ACCTG151G - Financial Literacy/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ACCTG151G - Financial Literacy/Financial Literacy.md",
+                "file": "ACCTG151G - Financial Literacy/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ACCTG151G - Financial Literacy/Financial Literacy.md"
+                "file": "ACCTG151G - Financial Literacy/Untitled.md"
               }
             }
           },
@@ -155,12 +198,12 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "ACCTG151G - Financial Literacy/Financial Literacy.md"
+                "file": "ACCTG151G - Financial Literacy/Untitled.md"
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -178,34 +221,25 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "53a49051d6175559",
+  "active": "71e95a060b92c837",
   "lastOpenFiles": [
     "ACCTG151G - Financial Literacy/Financial planning profession.md",
-    "ACCTG151G - Financial Literacy/Fiscal Policy - Government Spending.md",
-    "ACCTG151G - Financial Literacy/growth factor.md",
-    "ACCTG151G - Financial Literacy/Personal financial plan.md",
-    "ACCTG151G - Financial Literacy/The financial planning process.md",
-    "ACCTG151G - Financial Literacy/simple interest.md",
-    "ACCTG151G - Financial Literacy/Reserve Bank.md",
-    "ACCTG151G - Financial Literacy/Present Value (PV).md",
-    "ACCTG151G - Financial Literacy/Economic Cycles.md",
-    "ACCTG151G - Financial Literacy/Financial Goals.md",
-    "ACCTG151G - Financial Literacy/Financial Literacy.md",
+    "ACCTG151G - Financial Literacy/Untitled.md",
+    "ACCTG151G - Financial Literacy/Personal financial planning (personal finance).md",
     "ACCTG151G - Financial Literacy/compound interest.md",
-    "ACCTG151G - Financial Literacy/money (the measure).md",
-    "ACCTG151G - Financial Literacy/timeline.md",
-    "COMPSCI361 - Machine Learning/Greedy Recursive Splitting.md",
-    "COMPSCI361 - Machine Learning/Hypothesis Space.md",
-    "COMPSCI361 - Machine Learning/Machine Learning (ML).md",
-    "COMPSCI361 - Machine Learning/Machine Learning vs Data Mining.md",
-    "COMPSCI361 - Machine Learning/Prediction phase.md",
+    "ACCTG151G - Financial Literacy/simple interest.md",
+    "INFOSYS303 - Solutions Architecture/ArchiMate.md",
+    "INFOSYS303 - Solutions Architecture/Business Capabilities.md",
+    "INFOSYS303 - Solutions Architecture/Enterprise Architecture.md",
+    "INFOSYS303 - Solutions Architecture/framework.md",
+    "INFOSYS303 - Solutions Architecture/IT Architects.md",
+    "INFOSYS303 - Solutions Architecture/Technical Architect (TA).md",
+    "conflict-files-obsidian-git.md",
     "COMPSCI361 - Machine Learning/Supervised Learning Notation.md",
-    "COMPSCI361 - Machine Learning/Training phase.md",
-    "COMPSCI361 - Machine Learning/Training error.md",
-    "COMPSCI361 - Machine Learning/Big Data.md",
-    "COMPSCI361 - Machine Learning/Classification.md",
-    "COMPSCI361 - Machine Learning/classification accuracy.md",
-    "COMPSCI361 - Machine Learning/Classifier.md",
+    "COMPSCI361 - Machine Learning/Prediction phase.md",
+    "COMPSCI361 - Machine Learning/Information gain.md",
+    "COMPSCI361 - Machine Learning/Greedy recursive splitting.md",
+    "COMPSCI361 - Machine Learning/Decision Tree Learning.md",
     "@images/Pasted image 20240307170529.png",
     "@images/Pasted image 20240307170251.png",
     "@images/Pasted image 20240307170051.png",
@@ -216,9 +250,19 @@
     "@images/Pasted image 20240307151634.png",
     "@images/Pasted image 20240307150953.png",
     "@images/Pasted image 20240307143344.png",
+    "INFOSYS303 - Solutions Architecture/Technical Architecture.md",
+    "ACCTG151G - Financial Literacy/Future Value Interest Factor (FVIF).md",
+    "INFOSYS303 - Solutions Architecture/Applications Architecture.md",
+    "INFOSYS303 - Solutions Architecture/Data Architecture.md",
+    "INFOSYS303 - Solutions Architecture/Solution Architect (SA).md",
+    "INFOSYS303 - Solutions Architecture/TOGAF Standard.md",
+    "INFOSYS303 - Solutions Architecture/Zachman Enterprise Architecture Framework (ZEAF).md",
+    "README.md",
+    "INFOSYS303 - Solutions Architecture/Enterprise Architect (EA).md",
+    "INFOSYS303 - Solutions Architecture",
     "@images/LeanIX_Poster_EA_vs_SA_vs_TA_EN.pdf",
     "@images/LeanIX_Poster_Best-practices-to-define-business-capability-maps_EN.pdf",
-    "INFOSYS303 - Solutions Architecture",
+    "INFOSYS 303 - Solutions Architecture",
     "COMPSCI361 - Machine Learning",
     "COMPSCI345 - Human-computer Interaction",
     "ACCTG151G - Financial Literacy",
@@ -226,7 +270,6 @@
     "COMPSCI235 - Software Development Methodologies/Untitled",
     "COMPSCI367 - Artificial Intelligence/finals prep.canvas",
     "COMPSCI235 - Software Development Methodologies",
-    "COMPSCI367 - Artificial Intelligence/week12",
-    "COMPSCI367 - Artificial Intelligence/week11"
+    "COMPSCI367 - Artificial Intelligence/week12"
   ]
 }
