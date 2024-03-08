@@ -3,4 +3,5 @@
 	- Often a team-based [[User eXperience (UX)]] inspection
 	- Exploring the design on behalf of users
 
-### P
+### Preparation
+1. Start with storyboards for description of the flow
