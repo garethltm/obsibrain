@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ACCTG151G - Financial Literacy/Balance sheet.md",
+                "file": "ACCTG151G - Financial Literacy/solvency.md",
                 "mode": "source",
                 "source": false
               }
@@ -32,7 +32,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "ACCTG151G - Financial Literacy/Balance sheet.md",
+                "file": "ACCTG151G - Financial Literacy/solvency.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -128,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ACCTG151G - Financial Literacy/Balance sheet.md",
+                "file": "ACCTG151G - Financial Literacy/solvency.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ACCTG151G - Financial Literacy/Balance sheet.md",
+                "file": "ACCTG151G - Financial Literacy/solvency.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ACCTG151G - Financial Literacy/Balance sheet.md"
+                "file": "ACCTG151G - Financial Literacy/solvency.md"
               }
             }
           },
@@ -198,7 +198,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "ACCTG151G - Financial Literacy/Balance sheet.md"
+                "file": "ACCTG151G - Financial Literacy/solvency.md"
               }
             }
           }
@@ -223,9 +223,11 @@
   },
   "active": "71e95a060b92c837",
   "lastOpenFiles": [
+    "ACCTG151G - Financial Literacy/Balance sheet.md",
+    "ACCTG151G - Financial Literacy/solvency.md",
+    "@images/Pasted image 20240308213806.png",
     "@images/Pasted image 20240308213732.png",
     "ACCTG151G - Financial Literacy/Network of financial plans & statements.md",
-    "ACCTG151G - Financial Literacy/Balance sheet.md",
     "@images/Pasted image 20240308213605.png",
     "ACCTG151G - Financial Literacy/Personal financial planning (personal finance).md",
     "ACCTG151G - Financial Literacy/Personal financial plan.md",
@@ -252,8 +254,6 @@
     "@images/Pasted image 20240307165923.png",
     "@images/Pasted image 20240307164228.png",
     "@images/Pasted image 20240307152928.png",
-    "@images/Pasted image 20240307151634.png",
-    "@images/Pasted image 20240307150953.png",
     "INFOSYS303 - Solutions Architecture/Technical Architecture.md",
     "ACCTG151G - Financial Literacy/Future Value Interest Factor (FVIF).md",
     "INFOSYS303 - Solutions Architecture/Applications Architecture.md",
