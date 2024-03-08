@@ -12,9 +12,3 @@
 	- How often do users make errors while using the system, how serious are these errors, and how do users recover from these errors
 5. [[Subjective satisfaction]]
 	- How much does the user like using the system
-
-## Types of [[Usability]] Evaluations
-- Performance measurements
-- Heuristic evaluations
-- [[Usability]] studies
-- Comparative studies
