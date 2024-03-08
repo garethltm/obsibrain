@@ -7,4 +7,7 @@ $Total\ Income -\ Total\ Expenses = PROFIT\ OR\ LOSS$
 	- #acctg151gExample 
 	- when we actually receive or pay money 
 		- recording it straight away
-- Companies $\rightarrow$ recorded
+- Companies $\rightarrow$ recorded on accural basis
+	- #acctg151gExample 
+	- transactions
+		- cash may not flow into the company immediately
