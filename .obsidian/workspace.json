@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI345 - Human-computer Interaction/Untitled.md",
+                "file": "COMPSCI345 - Human-computer Interaction/Design Review.md",
                 "mode": "source",
                 "source": false
               }
@@ -32,7 +32,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "COMPSCI345 - Human-computer Interaction/Untitled.md",
+                "file": "COMPSCI345 - Human-computer Interaction/Design Review.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -128,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI345 - Human-computer Interaction/Untitled.md",
+                "file": "COMPSCI345 - Human-computer Interaction/Design Review.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI345 - Human-computer Interaction/Untitled.md",
+                "file": "COMPSCI345 - Human-computer Interaction/Design Review.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI345 - Human-computer Interaction/Untitled.md"
+                "file": "COMPSCI345 - Human-computer Interaction/Design Review.md"
               }
             }
           },
@@ -198,7 +198,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "COMPSCI345 - Human-computer Interaction/Untitled.md"
+                "file": "COMPSCI345 - Human-computer Interaction/Design Review.md"
               }
             }
           }
@@ -223,8 +223,8 @@
   },
   "active": "71e95a060b92c837",
   "lastOpenFiles": [
-    "COMPSCI345 - Human-computer Interaction/Design walkthrough.md",
-    "COMPSCI345 - Human-computer Interaction/Untitled.md",
+    "COMPSCI345 - Human-computer Interaction/Design Walkthrough.md",
+    "COMPSCI345 - Human-computer Interaction/Design Review.md",
     "COMPSCI345 - Human-computer Interaction/Usability Evaluations.md",
     "COMPSCI345 - Human-computer Interaction/Usability.md",
     "COMPSCI345 - Human-computer Interaction/Subjective satisfaction.md",
