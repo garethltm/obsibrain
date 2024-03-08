@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ACCTG151G - Financial Literacy/Personal financial plan.md",
+                "file": "ACCTG151G - Financial Literacy/Personal financial planning (personal finance).md",
                 "mode": "source",
                 "source": false
               }
@@ -32,7 +32,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "ACCTG151G - Financial Literacy/Personal financial plan.md",
+                "file": "ACCTG151G - Financial Literacy/Personal financial planning (personal finance).md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -128,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ACCTG151G - Financial Literacy/Personal financial plan.md",
+                "file": "ACCTG151G - Financial Literacy/Personal financial planning (personal finance).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ACCTG151G - Financial Literacy/Personal financial plan.md",
+                "file": "ACCTG151G - Financial Literacy/Personal financial planning (personal finance).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ACCTG151G - Financial Literacy/Personal financial plan.md"
+                "file": "ACCTG151G - Financial Literacy/Personal financial planning (personal finance).md"
               }
             }
           },
@@ -198,7 +198,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "ACCTG151G - Financial Literacy/Personal financial plan.md"
+                "file": "ACCTG151G - Financial Literacy/Personal financial planning (personal finance).md"
               }
             }
           }
@@ -223,6 +223,7 @@
   },
   "active": "71e95a060b92c837",
   "lastOpenFiles": [
+    "ACCTG151G - Financial Literacy/Personal financial plan.md",
     "ACCTG151G - Financial Literacy/Financial planning.md",
     "ACCTG151G - Financial Literacy/Financial planning profession.md",
     "ACCTG151G - Financial Literacy/Personal financial planning (personal finance).md",
@@ -258,7 +259,6 @@
     "INFOSYS303 - Solutions Architecture/TOGAF Standard.md",
     "INFOSYS303 - Solutions Architecture/Zachman Enterprise Architecture Framework (ZEAF).md",
     "README.md",
-    "INFOSYS303 - Solutions Architecture/Enterprise Architect (EA).md",
     "INFOSYS303 - Solutions Architecture",
     "@images/LeanIX_Poster_EA_vs_SA_vs_TA_EN.pdf",
     "@images/LeanIX_Poster_Best-practices-to-define-business-capability-maps_EN.pdf",
