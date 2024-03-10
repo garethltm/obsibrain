@@ -11,4 +11,8 @@
 2. Right-click pop-up menu
 	- Fast to get there
 3. Pie menu rather than dropdown list
-4. Large
+4. Large targets
+	- Increase size until error rate drops off
+5. Add labels to icons
+6. Related targets close together
+	- 
