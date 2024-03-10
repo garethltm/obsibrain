@@ -1,3 +1,3 @@
-- An analytical [[Performance Measurement(s)]] that can be extracted directly from the interface as compared to an empirical [[Performance Measurement(s)]] observed in a [[Usability]] study
+- An analytical [[Performance Measurement(s)]] that can be extracted directly from the interface as compared to an empirical [[Performance Measurement(s)]] observed in a [[Usability]] study (how long does it take)
 	- [[Fitts' Law]] 
 	- [[Hick-Hyman Law]]
