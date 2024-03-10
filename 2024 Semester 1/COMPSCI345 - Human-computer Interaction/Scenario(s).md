@@ -18,3 +18,6 @@
 - A [[Scenario(s)]] should specify the interface details as little as possible
 	- They are much more about what's getting done as compared to how the user is manipulating the system to do it
 	- A good design will be the one that makes the [[Scenario(s)]] task activity natural & efficient for our [[User Personas]]
+
+#compsci345example 
+![[Pasted image 20240310230418.png]]
