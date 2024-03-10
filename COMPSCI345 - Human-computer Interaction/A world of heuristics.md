@@ -1,3 +1,9 @@
 - Can be devised for more specific domains
 	- For physical format
-	- #compsci345example - web pages
+		- #compsci345example - web pages
+		- Domain specific concepts like good background graphics
+		- 'Housekeeping' like correct spelling & grammar
+		- May want to evaluate the search function
+	- For task domain
+		- #compsci345example - in health...
+		- 
