@@ -15,4 +15,9 @@
 	- Increase size until error rate drops off
 5. Add labels to icons
 6. Related targets close together
-	- 
+	- #compsci345example - Submit button close to last form element
+7. Minimise distance from attention area
+
+## Calculations
+- Maintaining the same time to target
+	- Index of Difficulty (ID) needs to stay the same
