@@ -1,0 +1,1 @@
+- a sequence of [[action(s)]] that will get the [[agent(s)]] from its current [[State(s)]] to a [[State(s)]] that satisfies the [[Goal(s) - Goal State(s)]]

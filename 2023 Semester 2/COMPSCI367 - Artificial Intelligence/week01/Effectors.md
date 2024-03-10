@@ -1,0 +1,1 @@
+Any device that affects the [[Environment]]

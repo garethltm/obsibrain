@@ -1,1 +1,0 @@
-sequence of [[action(s)]] that could take us from the [[initial state (start state)]] to the [[goal(s) - goal state(s)]]

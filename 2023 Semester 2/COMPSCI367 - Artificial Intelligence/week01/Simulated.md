@@ -1,0 +1,1 @@
+- simulated in an [[Environment]] - feed [[Percepts]] to [[agent(s)]]

@@ -1,0 +1,10 @@
+- [[Decision Stumps]] have only 1 rule based on 1 feature
+	- Very limited class of models: usually not very accurate for most tasks
+- [[2024 Semester 1/COMPSCI361 - Machine Learning/Decision Trees|Decision Trees]] allow sequences of splits based on multiple features
+	- You can do combination of features & take all kinds of relationships into account
+	- Very general class of models: can get very high accuracy
+	- However, it's computationally infeasible to find the best [[2024 Semester 1/COMPSCI361 - Machine Learning/Decision Trees|Decision Trees]]
+		- too many [[2024 Semester 1/COMPSCI361 - Machine Learning/Decision Trees|Decision Trees]] generated
+- How would you build the tree?
+	- Most common [[2024 Semester 1/COMPSCI361 - Machine Learning/Decision Trees|Decision Trees]] learning algorithm in practice:
+		- [[Greedy recursive splitting]]

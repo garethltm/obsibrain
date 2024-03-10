@@ -1,0 +1,7 @@
+- assuming that adding randomisation may avoid the search from getting stuck in a local optimal.
+	- Pick a parameter (walk [[Probability]]) $p ∈ [0,1]$
+	- At every step:
+		- With probability $p$, make an [[uninformed random walk]]
+		- With probability $1-p$, make a [[greedy choice]]: choose the [[successor(s)]] that has the least loss
+- If the set of [[State(s)]] S is finite & every state is reachable from every other state by the step function
+	- Then [[Random Walk Hill-Climbing]] is [[Probabilistic Approximately Complete (PAC)]]
