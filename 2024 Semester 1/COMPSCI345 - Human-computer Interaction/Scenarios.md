@@ -5,4 +5,4 @@
 	- The activities in which the persona will engage
 	- The outcomes of those activities
 - Paired with a [[User Personas]]
-- W
+- We pair it iw
