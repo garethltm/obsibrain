@@ -1,2 +1,0 @@
-- Query languages are used to get information out of the [[COMPSCI235 - Software Development Methodologies/database|database]]
-- Returns a table as a result of the query

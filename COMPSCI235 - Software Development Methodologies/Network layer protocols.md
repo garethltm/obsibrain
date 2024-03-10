@@ -1,1 +1,0 @@
-provides a packet delivery service between [[networked]] computers

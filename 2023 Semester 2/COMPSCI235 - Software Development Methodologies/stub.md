@@ -1,0 +1,3 @@
+a controllable replacement for an existing [[2023 Semester 2/COMPSCI235 - Software Development Methodologies/Dependency|Dependency]] in the system. By using a [[stub]], you can test your code without dealing with the [[2023 Semester 2/COMPSCI235 - Software Development Methodologies/Dependency|Dependency]] directly
+
+- Modules that are still under development could be replaced with some dummy programs, called [[stub]] & drivers

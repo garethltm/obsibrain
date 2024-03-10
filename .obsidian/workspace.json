@@ -11,8 +11,12 @@
             "id": "03fa56aaa435c08b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "conflict-files-obsidian-git.md"
+              }
             }
           },
           {
@@ -146,7 +154,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {}
+              "state": {
+                "file": "conflict-files-obsidian-git.md"
+              }
             }
           }
         ],
@@ -169,52 +179,55 @@
   },
   "active": "03fa56aaa435c08b",
   "lastOpenFiles": [
-    "ACCTG151G - Financial Literacy/Financial Literacy.md",
     "conflict-files-obsidian-git.md",
+    "@images/Pasted image 20240311092656.png",
+    "@images/Pasted image 20240310230810.png",
+    "@images/Pasted image 20240310230745.png",
+    "@images/Pasted image 20240310230418.png",
+    "@images/Pasted image 20240310214429.png",
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/framework.md",
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Zachman Enterprise Architecture Framework (ZEAF).md",
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/The Open Group Architectural Framework (TOGAF).md",
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Technical Architecture.md",
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Technical Architect (TA).md",
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/TOGAF Standard.md",
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/TOGAF Architectural Development Method (ADM).md",
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Solution Architect (SA).md",
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/IT Architects.md",
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Gartner's Enterprise Architecture Framework (GEAF).md",
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Federal Enterprise Architecture Framework (FEAF).md",
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Enterprise Architecture.md",
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Enterprise Architect (EA).md",
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Data Architecture.md",
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Business Capabilities.md",
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Business Architecture.md",
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Business Architect (BA).md",
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/ArchiMate.md",
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Applications Architecture.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/entropy.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/classification accuracy.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Unsupervised Learning.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Training phase.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Training error.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Supervised Learning.md",
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture",
+    "2024 Semester 1/COMPSCI361 - Machine Learning",
+    "2024 Semester 1/COMPSCI345 - Human-computer Interaction",
+    "2024 Semester 1/ACCTG151G - Financial Literacy",
+    "2024 Semester 1",
+    "2023 Semester 2/COMPSCI235 - Software Development Methodologies/235 summary.canvas",
+    "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week12",
+    "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week11",
+    "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week10",
+    "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week09",
+    "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week08",
+    "2023 Semester 2/COMPSCI367 - Artificial Intelligence/finals prep.canvas",
     "@images/Pasted image 20240310213555.png",
-    "COMPSCI345 - Human-computer Interaction/Match between System & the Real World.md",
-    "COMPSCI345 - Human-computer Interaction/Visibility of System Status.md",
-    "COMPSCI345 - Human-computer Interaction/Nielsen's Heuristics.md",
-    "COMPSCI345 - Human-computer Interaction/Heuristic evaluation(s).md",
     "@images/Pasted image 20240310205714.png",
-    "ACCTG151G - Financial Literacy/Financial Statement.md",
-    "ACCTG151G - Financial Literacy/Income (Cash IN).md",
-    "ACCTG151G - Financial Literacy/Fiscal Policy - Government Spending.md",
-    "ACCTG151G - Financial Literacy/Financial planning.md",
-    "ACCTG151G - Financial Literacy/Economic Cycles.md",
-    "ACCTG151G - Financial Literacy/growth factor.md",
-    "ACCTG151G - Financial Literacy/Interest rates (r).md",
-    "ACCTG151G - Financial Literacy/Monetary Policy - Reserve Bank.md",
-    "COMPSCI345 - Human-computer Interaction/Usability Evaluations.md",
-    "COMPSCI345 - Human-computer Interaction/Subjective satisfaction.md",
-    "COMPSCI345 - Human-computer Interaction/Memorability.md",
-    "COMPSCI345 - Human-computer Interaction/Error Frequency & Severity.md",
-    "COMPSCI345 - Human-computer Interaction/Design walkthrough.md",
-    "COMPSCI345 - Human-computer Interaction/Design Review.md",
-    "ACCTG151G - Financial Literacy/Statement of Financial Performance.md",
     "@images/Pasted image 20240309000840.png",
     "@images/Pasted image 20240308234701.png",
-    "ACCTG151G - Financial Literacy/Statement of Financial Position.md",
-    "ACCTG151G - Financial Literacy/Financial Ratio.md",
-    "ACCTG151G - Financial Literacy/Expenses (Cash OUT).md",
-    "ACCTG151G - Financial Literacy/Average propensity to consume (APC).md",
     "@images/Pasted image 20240308213806.png",
-    "@images/Pasted image 20240308213732.png",
-    "@images/Pasted image 20240308213605.png",
-    "@images/Pasted image 20240307170529.png",
-    "@images/Pasted image 20240307170251.png",
-    "@images/Pasted image 20240307170051.png",
-    "@images/LeanIX_Poster_EA_vs_SA_vs_TA_EN.pdf",
-    "@images/LeanIX_Poster_Best-practices-to-define-business-capability-maps_EN.pdf",
-    "INFOSYS303 - Solutions Architecture",
-    "COMPSCI361 - Machine Learning",
-    "COMPSCI345 - Human-computer Interaction",
-    "ACCTG151G - Financial Literacy",
     "COMPSCI235 - Software Development Methodologies/235 summary.canvas",
-    "COMPSCI235 - Software Development Methodologies/Untitled",
-    "COMPSCI367 - Artificial Intelligence/finals prep.canvas",
-    "COMPSCI235 - Software Development Methodologies",
-    "COMPSCI367 - Artificial Intelligence/week12",
-    "COMPSCI367 - Artificial Intelligence/week11"
+    "COMPSCI367 - Artificial Intelligence/finals prep.canvas"
   ]
 }

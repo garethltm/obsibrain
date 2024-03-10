@@ -1,0 +1,12 @@
+- These are intended to counter the problems of expert evaluations (costs a lot of money to evaluate the website)
+	- Use multiple independent evaluators
+	- Use an observer to record evaluator
+	- Go through interface several times
+	- Compare interaction against list of heuristics
+	- Use heuristics specific to design
+	- List heuristic problems & how the heuristic is violated
+		- Issue
+		- Criticality
+		- Location
+		- Possible fix
+![[Pasted image 20240310214429.png]]

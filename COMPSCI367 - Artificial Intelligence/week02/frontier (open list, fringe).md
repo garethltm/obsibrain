@@ -1,2 +1,0 @@
-- **a set of [[path(s)]] from a [[initial state (start state)]]**
-- the nodes that have been generated but not yet expanded. This is used to keep the generated nodes in the order they will be expanded

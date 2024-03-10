@@ -1,2 +1,0 @@
-- an example in [[Classical Planning]]
-- giving a high-level [[goal(s) - goal state(s)]] & let the machine do its own thing autonomously, compared to traditional sending instructions to ground control (which is slow)

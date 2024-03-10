@@ -1,0 +1,2 @@
+- Query languages are used to get information out of the [[2023 Semester 2/COMPSCI235 - Software Development Methodologies/database|database]]
+- Returns a table as a result of the query

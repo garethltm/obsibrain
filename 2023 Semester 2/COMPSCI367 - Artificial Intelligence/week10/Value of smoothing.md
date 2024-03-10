@@ -1,0 +1,7 @@
+- Also called shrinkage, since it shifts the [[Probability]] distribution towards a uniform distribution
+	- assumes your sample is not the representative of the real world
+- This amounts to saying that we think the training data contains limited information about the true distribution
+	- trying to avoid [[overfitting]]
+- If we hadn't used [[Laplace smoothing (add-one smoothing)]] in our language ID example, what would have happened?
+	- sample did not contain some of the terms that is used for the search string
+		- there would then be 0s which would lead the end product to be 0
