@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI345 - Human-computer Interaction/Recognition Rather Than Recall.md",
+                "file": "COMPSCI345 - Human-computer Interaction/Nielsen's Heuristics.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI345 - Human-computer Interaction/Recognition Rather Than Recall.md",
+                "file": "COMPSCI345 - Human-computer Interaction/Nielsen's Heuristics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI345 - Human-computer Interaction/Recognition Rather Than Recall.md",
+                "file": "COMPSCI345 - Human-computer Interaction/Nielsen's Heuristics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI345 - Human-computer Interaction/Recognition Rather Than Recall.md"
+                "file": "COMPSCI345 - Human-computer Interaction/Nielsen's Heuristics.md"
               }
             }
           },
@@ -155,7 +155,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "COMPSCI345 - Human-computer Interaction/Recognition Rather Than Recall.md"
+                "file": "COMPSCI345 - Human-computer Interaction/Nielsen's Heuristics.md"
               }
             }
           }
@@ -180,8 +180,8 @@
   },
   "active": "71e95a060b92c837",
   "lastOpenFiles": [
-    "COMPSCI345 - Human-computer Interaction/Nielsen's Heuristics.md",
     "COMPSCI345 - Human-computer Interaction/Recognition Rather Than Recall.md",
+    "COMPSCI345 - Human-computer Interaction/Nielsen's Heuristics.md",
     "COMPSCI345 - Human-computer Interaction/Match between System & the Real World.md",
     "@images/Pasted image 20240310213555.png",
     "COMPSCI345 - Human-computer Interaction/Visibility of System Status.md",

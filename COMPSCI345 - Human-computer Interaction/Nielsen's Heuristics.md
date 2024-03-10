@@ -14,9 +14,12 @@
 	- Check for errors, get user confirmation
 6. [[Recognition Rather Than Recall]]
 7. Flexibility & Efficiency of Use
+	- Add accelerators for expert users
 8. Aesthetic & Minimalist Design
+	- Remove irrelevant, or rarely needed information
 9. Help Users to:
 	1. Recognise
 	2. Diagnose
 	3. Recover from Errors
+	- 
 10. Help & Documentation
