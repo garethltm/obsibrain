@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "1dfcefa77900709c",
+        "id": "e9e544b2d10159c0",
         "type": "tabs",
         "children": [
           {
-            "id": "b6dd01a5395bc743",
+            "id": "668737498afbb1b4",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -167,7 +167,7 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "b6dd01a5395bc743",
+  "active": "668737498afbb1b4",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
     "@images/Pasted image 20240311092656.png",
