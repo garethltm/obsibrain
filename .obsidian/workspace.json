@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "d0fc3ac9f6041688",
+        "id": "ca587b38f96368bf",
         "type": "tabs",
         "children": [
           {
-            "id": "53a49051d6175559",
+            "id": "03fa56aaa435c08b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ACCTG151G - Financial Literacy/Financial Literacy.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ACCTG151G - Financial Literacy/Financial Literacy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ACCTG151G - Financial Literacy/Financial Literacy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "ACCTG151G - Financial Literacy/Financial Literacy.md"
-              }
+              "state": {}
             }
           },
           {
@@ -154,9 +146,7 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "ACCTG151G - Financial Literacy/Financial Literacy.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -177,10 +167,10 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "53a49051d6175559",
+  "active": "03fa56aaa435c08b",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "ACCTG151G - Financial Literacy/Financial Literacy.md",
+    "conflict-files-obsidian-git.md",
     "@images/Pasted image 20240310213555.png",
     "COMPSCI345 - Human-computer Interaction/Match between System & the Real World.md",
     "COMPSCI345 - Human-computer Interaction/Visibility of System Status.md",
