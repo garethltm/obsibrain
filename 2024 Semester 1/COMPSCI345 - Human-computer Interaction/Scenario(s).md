@@ -12,4 +12,7 @@
 	- Technology
 - A [[Scenario(s)]] should be 'situated' with 1 or more of your [[User Personas]]
 	- You visualise Suzie being the end user working through that [[Scenario(s)]]
-	- How do you interpret t
+	- How do you interpret the [[Scenario(s)]] differently if it starts:
+		- 'The guidance counsellor'
+		- 'Suzie'
+- A [[Scenario(s)]] should specify the interface det
