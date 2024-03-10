@@ -9,9 +9,11 @@
 1. Outlier detection
 	- Is this a 'normal' $x_i$?
 2. Similarity search
-	- Which examples look like this 
+	- Which examples look like this $x_i$?
 3. Association rules
+	- Which $x_j$ occur together?
 4. Latent-factors
-5. Data visualization
-6. Ranking
-7. Clustering
+	- What 'parts' are the $x_i$ made from?
+1. Data visualization
+2. Ranking
+3. Clustering
