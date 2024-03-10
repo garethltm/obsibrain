@@ -10,3 +10,6 @@
 	- Activities
 	- Context
 	- Technology
+- A [[Scenario(s)]] should be 'situated' with 1 or more of your [[User Personas]]
+	- You visualise Suzie being the end user working through that [[Scenario(s)]]
+	- How 
