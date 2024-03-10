@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/User Personas.md",
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Scenarios.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/User Personas.md",
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Scenarios.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/User Personas.md",
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Scenarios.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/User Personas.md"
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Scenarios.md"
               }
             }
           },
@@ -155,7 +155,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/User Personas.md"
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Scenarios.md"
               }
             }
           }
@@ -180,8 +180,9 @@
   },
   "active": "71e95a060b92c837",
   "lastOpenFiles": [
-    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Heuristic evaluation(s).md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/User Personas.md",
+    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Scenarios.md",
+    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Heuristic evaluation(s).md",
     "2024 Semester 1",
     "2023 Semester 2",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/A world of heuristics.md",
@@ -211,7 +212,6 @@
     "2024 Semester 1/ACCTG151G - Financial Literacy/Future Value Interest Factor (FVIF).md",
     "2024 Semester 1/ACCTG151G - Financial Literacy/Financial Literacy.md",
     "2024 Semester 1/ACCTG151G - Financial Literacy/compound interest.md",
-    "2024 Semester 1/ACCTG151G - Financial Literacy/Average propensity to consume (APC).md",
     "@images/Pasted image 20240308234701.png",
     "@images/Pasted image 20240308213806.png",
     "@images/Pasted image 20240308213732.png",

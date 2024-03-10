@@ -1,0 +1,8 @@
+- a description in 'plain English' of a typical task
+- Describes:
+	- The basic goal
+	- The conditions that exist at the beginning of the task
+	- The activities in which the persona will engage
+	- The outcomes of those activities
+- Paired with a [[User Personas]]
+- W
