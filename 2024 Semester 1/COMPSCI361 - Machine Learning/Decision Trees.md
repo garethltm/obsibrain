@@ -14,6 +14,11 @@ What happens if no simple rule improves accuracy?
 Most common score in practice is "information gain"
 - Choose the split that decreases [[entropy]] of labels the most
 
-## Advantages o
+## Advantages of [[2024 Semester 1/COMPSCI361 - Machine Learning/Decision Trees|Decision Trees]]
+1. Easy to implement
+2. Interpretable
+3. Learning is fast, prediction is very fast
+4. Can elegantly handle a small number missing values during training
+## Disad
 
 Related to: [[2023 Semester 2/COMPSCI367 - Artificial Intelligence/week11/Decision Trees|Decision Trees]]
