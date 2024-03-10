@@ -23,5 +23,4 @@
 	- Index of Difficulty (ID) needs to stay the same
 	- Double w, then you need to double D
 	- Double D, then you need to double W
-		- Works viceversa
-	- 
+		- Works vice versa
