@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024 Semester 1/Fitts' Law.md",
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Prime pixel.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/Fitts' Law.md",
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Prime pixel.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/Fitts' Law.md",
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Prime pixel.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Semester 1/Fitts' Law.md"
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Prime pixel.md"
               }
             }
           },
@@ -155,7 +155,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2024 Semester 1/Fitts' Law.md"
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Prime pixel.md"
               }
             }
           }
@@ -180,11 +180,12 @@
   },
   "active": "71e95a060b92c837",
   "lastOpenFiles": [
+    "2024 Semester 1/Fitts' Law.md",
+    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Prime pixel.md",
     "@images/Pasted image 20240310230810.png",
     "@images/Pasted image 20240310230745.png",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Performance Measurement(s).md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Hick-Hyman Law.md",
-    "2024 Semester 1/Fitts' Law.md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Scenario(s).md",
     "@images/Pasted image 20240310230418.png",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/User Personas.md",
@@ -217,7 +218,6 @@
     "@images/Pasted image 20240308234701.png",
     "@images/Pasted image 20240308213806.png",
     "@images/Pasted image 20240308213732.png",
-    "@images/Pasted image 20240308213605.png",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture",
     "@images/LeanIX_Poster_EA_vs_SA_vs_TA_EN.pdf",
     "@images/LeanIX_Poster_Best-practices-to-define-business-capability-maps_EN.pdf",
