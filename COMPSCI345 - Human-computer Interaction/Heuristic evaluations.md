@@ -5,6 +5,8 @@
 
 ![[Pasted image 20240310205714.png]]
 
-[[Heuristic evaluations]] are performed by [[Usability]] experts using a predetermined set of criteria designed to measure the [[Usability]] of a proposed desgin
+[[Heuristic evaluation]] are performed by [[Usability]] experts using a predetermined set of criteria designed to measure the [[Usability]] of a proposed design
 
-The evaluator follo
+The evaluator follows a scenario through the design & tests each step against the heuristic criteria
+
+Carrying out a [[Heuristic evaluation]] 
