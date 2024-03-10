@@ -4,4 +4,9 @@
 	- Go through interface several times
 	- Compare interaction against list of heuristics
 	- Use heuristics specific to design
-	- List heuri
+	- List heuristic problems & how the heuristic is violated
+		- Issue
+		- Criticality
+		- Location
+		- Possible fix
+![[Pasted image 20240310214429.png]]
