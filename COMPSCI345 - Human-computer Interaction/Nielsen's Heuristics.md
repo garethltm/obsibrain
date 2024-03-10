@@ -4,3 +4,5 @@
 1. Visibility of System Status
 2. Match between System & the Real World
 3. User Control & Freedom
+4. Consistency & Standards
+5. Error Preveb
