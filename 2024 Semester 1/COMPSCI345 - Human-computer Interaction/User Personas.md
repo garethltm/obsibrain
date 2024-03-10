@@ -16,4 +16,9 @@ Expected to have:
 	- #compsci345example 
 	- their past experience with other software (& how they felt about it)
 
-They should be a '3'
+They should be a '3-dimensional' person that can serve as a reference
+- "Will this work for Tim?"
+
+## Advantages of personas
+1. They are quick & easy to create
+2. They provi
