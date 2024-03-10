@@ -21,4 +21,11 @@ They should be a '3-dimensional' person that can serve as a reference
 
 ## Advantages of personas
 1. They are quick & easy to create
-2. They provi
+2. They provide a consistent model for all team members
+3. They are easy to use with other design methods
+4. They make the user "real" in the mind of the designer
+	- #compsci345example 
+	- a basis for our 'empathy' as designers
+
+## Disadvantages of personas
+1. They can
