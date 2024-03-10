@@ -15,4 +15,6 @@
 	- How do you interpret the [[Scenario(s)]] differently if it starts:
 		- 'The guidance counsellor'
 		- 'Suzie'
-- A [[Scenario(s)]] should specify the interface det
+- A [[Scenario(s)]] should specify the interface details as little as possible
+	- They are much more about what's getting done as compared to how the user is manipulating the system to do it
+	- A good design will be the one that makes the [[Scenario(s)]] task activity natural & efficient for our [[User Personas]]
