@@ -1,0 +1,2 @@
+- Eventually, we achieved a perfect classification on the data
+- With this [[Decision Tree(s)]], 'training accuracy' 
