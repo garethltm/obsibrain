@@ -12,4 +12,4 @@ The evaluator follows a scenario through the design & tests each step against th
 Carrying out a [[Heuristic evaluation(s)]] is an excellent way to get an understanding of a system that you are going to [[Usability]] test
 - CAREFUL: it can prejudice your study design
 
-Or a [[Heuristic evaluation(s)]] can be stand-alone with the evaluator ma
+Or a [[Heuristic evaluation(s)]] can be stand-alone with the evaluator making observations & recommendations based on their experience
