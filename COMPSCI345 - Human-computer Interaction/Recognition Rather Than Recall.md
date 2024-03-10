@@ -1,2 +1,5 @@
 - Minimise memory load, make actions & options visible
-	- If I can p
+	- If I can put the item on a dropdown list, then I should:
+		- Why make them type it in & maybe choose an option that's not available?
+	- Show the user something
+		- Maybe you'll get lucky & it'll be 
