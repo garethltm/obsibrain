@@ -6,14 +6,14 @@
 3. User Control & Freedom
 	- Clearly marked exit
 	- Undo/redo
-- 
-1. Consistency & Standards
-2. Error Prevention
-3. Recognition Rather Than Recall
-4. Flexibility & Efficiency of Use
-5. Aesthetic & Minimalist Design
-6. Help Users to:
+4. Consistency & Standards
+	- Follow platform conventions
+5. Error Prevention
+6. Recognition Rather Than Recall
+7. Flexibility & Efficiency of Use
+8. Aesthetic & Minimalist Design
+9. Help Users to:
 	1. Recognise
 	2. Diagnose
 	3. Recover from Errors
-7. Help & Documentation
+10. Help & Documentation
