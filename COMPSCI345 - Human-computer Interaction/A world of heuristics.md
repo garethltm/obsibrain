@@ -6,4 +6,7 @@
 		- May want to evaluate the search function
 	- For task domain
 		- #compsci345example - in health...
-		- 
+		- Is the patient name & date-of-birth clearly visible at all times?
+		- Does the interaction fit to clinical workflow
+- Can be quite long
+	- About 100 heuristics for mobile apps

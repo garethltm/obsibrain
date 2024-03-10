@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI345 - Human-computer Interaction/A world of heuristics.md",
+                "file": "COMPSCI345 - Human-computer Interaction/Heuristic evaluation(s).md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI345 - Human-computer Interaction/A world of heuristics.md",
+                "file": "COMPSCI345 - Human-computer Interaction/Heuristic evaluation(s).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI345 - Human-computer Interaction/A world of heuristics.md",
+                "file": "COMPSCI345 - Human-computer Interaction/Heuristic evaluation(s).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI345 - Human-computer Interaction/A world of heuristics.md"
+                "file": "COMPSCI345 - Human-computer Interaction/Heuristic evaluation(s).md"
               }
             }
           },
@@ -155,7 +155,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "COMPSCI345 - Human-computer Interaction/A world of heuristics.md"
+                "file": "COMPSCI345 - Human-computer Interaction/Heuristic evaluation(s).md"
               }
             }
           }
@@ -180,8 +180,8 @@
   },
   "active": "71e95a060b92c837",
   "lastOpenFiles": [
-    "COMPSCI345 - Human-computer Interaction/Nielsen's Advice for Heuristic Evaluations.md",
     "COMPSCI345 - Human-computer Interaction/A world of heuristics.md",
+    "COMPSCI345 - Human-computer Interaction/Nielsen's Advice for Heuristic Evaluations.md",
     "@images/Pasted image 20240310214429.png",
     "COMPSCI345 - Human-computer Interaction/Nielsen's Heuristics.md",
     "COMPSCI345 - Human-computer Interaction/Recognition Rather Than Recall.md",

@@ -13,3 +13,5 @@ Carrying out a [[Heuristic evaluation(s)]] is an excellent way to get an underst
 - CAREFUL: it can prejudice your study design
 
 Or a [[Heuristic evaluation(s)]] can be stand-alone with the evaluator making observations & recommendations based on their experience
+
+## Sum
