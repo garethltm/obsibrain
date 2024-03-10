@@ -18,7 +18,7 @@ Output: whether we got sick or not
 	- spam filtering, optical character recognition, speech recognition, classifying tumors, etc.
 3. [[Classification]]
 
-## as Writing a program
+### as Writing a program
 - There are many possible [[2024 Semester 1/COMPSCI361 - Machine Learning/Decision Trees|Decision Trees]] 
 	- We're going to search for one that is good at our [[Supervised Learning]] problem
 - So our input = data, output = program
@@ -27,3 +27,6 @@ Output: whether we got sick or not
 	1. Problem is too complicated to write a program ourselves
 	2. Human expert can't explain why you assign certain labels, OR 
 	3. We DON'T have a human expert for the problem
+
+## Summary
+- Using data to write a program based on input/output examples
