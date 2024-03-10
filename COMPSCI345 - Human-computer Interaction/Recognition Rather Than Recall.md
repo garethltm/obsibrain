@@ -1,0 +1,2 @@
+- Minimise memory load, make actions & options visible
+	- If I can p
