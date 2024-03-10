@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Machine Learning (ML).md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Golden Rule of Machine Learning.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Machine Learning (ML).md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Golden Rule of Machine Learning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Machine Learning (ML).md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Golden Rule of Machine Learning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Machine Learning (ML).md"
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Golden Rule of Machine Learning.md"
               }
             }
           },
@@ -155,7 +155,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Machine Learning (ML).md"
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Golden Rule of Machine Learning.md"
               }
             }
           }
@@ -179,6 +179,8 @@
   },
   "active": "668737498afbb1b4",
   "lastOpenFiles": [
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Machine Learning (ML).md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Golden Rule of Machine Learning.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Supervised Learning.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Overfitting.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Error.md",
@@ -209,8 +211,6 @@
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/ArchiMate.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Applications Architecture.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/entropy.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/classification accuracy.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Unsupervised Learning.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture",
     "2024 Semester 1/COMPSCI361 - Machine Learning",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction",

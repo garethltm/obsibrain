@@ -46,4 +46,5 @@
 Goal: Do well on actual exam but not the practice one
 
 Memorization vs learning:
-- 
+- Can do well on training data by memorizing it
+- You have only learned if you can do well in new situations
