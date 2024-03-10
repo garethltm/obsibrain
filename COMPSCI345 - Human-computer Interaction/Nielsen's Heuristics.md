@@ -5,4 +5,7 @@
 2. Match between System & the Real World
 3. User Control & Freedom
 4. Consistency & Standards
-5. Error Preveb
+5. Error Prevention
+6. Recognition Rather Than Recall
+7. Flexibility & Efficiency of Use
+8. 
