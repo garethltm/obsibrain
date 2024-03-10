@@ -1,1 +1,4 @@
-- There are different stopping criteria that are used in pr
+- There are different stopping criteria that are used in practice
+	- You can not always achieve a clean split in the leaves
+	- You can use threshold for [[Information gain]] to decide to stop
+- However, sometimes the [[Information gain]] is low for several levels & then becomes high again (splits become more meaningful)
