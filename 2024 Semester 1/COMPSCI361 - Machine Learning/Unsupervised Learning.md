@@ -22,4 +22,4 @@
 	- What types of $x_i$ are there?
 
 ## Summary
-- fitting data with
+- fitting data without explicit labels
