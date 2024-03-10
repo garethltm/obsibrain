@@ -1,0 +1,2 @@
+The discrepancy between the object-oriented world & the world of tables in the [[2023 Semester 2/COMPSCI235 - Software Development Methodologies/Relational database|Relational database]] world is referred to as "Impedance mismatch"
+- Objects must be mapped tables in the [[2023 Semester 2/COMPSCI235 - Software Development Methodologies/database|database]] & vice versa![[Pasted image 20231102154328.png]]![[Pasted image 20231102154414.png]]

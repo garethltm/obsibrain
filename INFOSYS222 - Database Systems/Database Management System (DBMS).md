@@ -1,4 +1,4 @@
-- DB Management process implemented via [[Software]]
+- DB Management process implemented via [[software]]
 ### Features
 1. Data Storage & Integrity
 2. Data Security & Access
@@ -17,7 +17,7 @@
 
 ### Cons
 - Cost of Hardware
-- Cost of [[Software]]
+- Cost of [[software]]
     - License vs Free
 - Specialised Skill
 - Single Point of Failure

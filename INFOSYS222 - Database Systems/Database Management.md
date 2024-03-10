@@ -7,4 +7,4 @@
 5. Ensure data is valid & consistent
 6. Service multiple users simultaneously
 
-Related to: [[Database Management System (DBMS)]]
+Related to: [[INFOSYS222 - Database Systems/Database Management System (DBMS)]]

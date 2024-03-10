@@ -1,3 +1,0 @@
-- Language to manipulate data
-- That is, `INSERT` data in the tables, `UPDATE` it, `DELETE` it
-- Fills the [[COMPSCI235 - Software Development Methodologies/database|database]] with content, creates different instances
