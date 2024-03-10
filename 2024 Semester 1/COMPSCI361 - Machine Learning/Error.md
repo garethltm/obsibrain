@@ -1,2 +1,6 @@
 - Eventually, we achieved a perfect classification on the data
-- With this [[Decision Tree(s)]], 'training accuracy' 
+- With this [[Decision Tree(s)]], 'training accuracy' is 1
+	- It perfectly labels the data we used to make the tree
+- We are now given features for 217 new homes
+- What is the 'testing accuracy' on the new data?
+	- 
