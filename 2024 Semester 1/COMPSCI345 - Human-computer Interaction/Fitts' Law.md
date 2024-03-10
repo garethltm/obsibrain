@@ -3,3 +3,4 @@
 ![[Pasted image 20240310230745.png]]![[Pasted image 20240310230810.png]]
 
 - [[Prime pixel]]
+- [[Magic pixels]]

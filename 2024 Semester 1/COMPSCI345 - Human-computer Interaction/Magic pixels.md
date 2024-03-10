@@ -1,0 +1,3 @@
+- 4 corners of the screen (for mouse movement)
+	- Can be acquired at great speed
+	- Rule of 

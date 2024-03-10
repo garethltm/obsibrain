@@ -1,5 +1,6 @@
 - Point where the user will carry out their action
 	- (where the cursor is before the person click the target)
+	- (changes over time)
 - Initially estimated to be the centre of the screen
 	- #compsci345example - Google search screen
 - Will be updated as the user performs actions
