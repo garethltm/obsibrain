@@ -8,12 +8,15 @@
 	- Undo/redo
 4. Consistency & Standards
 	- Follow platform conventions
-5. Error Prevention
-6. Recognition Rather Than Recall
-7. Flexibility & Efficiency of Use
-8. Aesthetic & Minimalist Design
-9. Help Users to:
+	- Terminology stays constant
+1. Error Prevention
+	- Remove error-prone conditions
+	- Check for errors, get user confirmation
+2. Recognition Rather Than Recall
+3. Flexibility & Efficiency of Use
+4. Aesthetic & Minimalist Design
+5. Help Users to:
 	1. Recognise
 	2. Diagnose
 	3. Recover from Errors
-10. Help & Documentation
+6. Help & Documentation
