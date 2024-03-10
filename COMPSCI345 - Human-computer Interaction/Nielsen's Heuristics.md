@@ -21,5 +21,6 @@
 	1. Recognise
 	2. Diagnose
 	3. Recover from Errors
-	- 
+	- Error messages in plain language, suggest a solution
 10. Help & Documentation
+	- Easy to search, focused on the task, details concrete steps to carry out
