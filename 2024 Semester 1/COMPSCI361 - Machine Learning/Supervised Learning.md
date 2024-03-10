@@ -19,7 +19,7 @@ Output: whether we got sick or not
 3. [[Classification]]
 
 ### as Writing a program
-- There are many possible [[2024 Semester 1/COMPSCI361 - Machine Learning/Decision Trees|Decision Trees]] 
+- There are many possible [[Decision Tree(s)|Decision Tree(s)]] 
 	- We're going to search for one that is good at our [[Supervised Learning]] problem
 - So our input = data, output = program
 	- this is called "training" the [[Supervised Learning]] model

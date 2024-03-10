@@ -5,4 +5,4 @@
 	- 4 sick vs 1 not sick
 - This ignores the features, so it is only accurate if we only have 1 label
 - We want to use the features - a way to do this
-	- [[2024 Semester 1/COMPSCI361 - Machine Learning/Decision Trees|Decision Trees]]
+	- [[Decision Tree(s)|Decision Tree(s)]]

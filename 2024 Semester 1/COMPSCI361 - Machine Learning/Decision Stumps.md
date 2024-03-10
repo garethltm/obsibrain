@@ -1,7 +1,7 @@
 # Learning a Decision Stump: 
 ## 1. Search and Score
 - We'll start with "[[Decision Stumps]]"
-	- Simple [[2024 Semester 1/COMPSCI361 - Machine Learning/Decision Trees|Decision Trees]] with one splitting rule based on thresholding one feature![[Pasted image 20240307151634.png]]
+	- Simple [[Decision Tree(s)|Decision Tree(s)]] with one splitting rule based on thresholding one feature![[Pasted image 20240307151634.png]]
 
 ## How do we find the best "rule" (feature, threshold & leaf labels)?
 1. Define a 'score' for the rule
@@ -56,3 +56,6 @@
 	2. There is no point in testing the rule (egg > 0.5)
 		- it gets the (egg > 0) score
 	3. Also note that we don't need to test "$\lt$", since it would give equivalent rules
+
+## Summary
+- simple [[Decision Tree(s)|Decision Tree(s)]] that is very fast to fit
