@@ -7,4 +7,4 @@
 	- Are they copying from a paper source that lays out the material differently than the data input screen?
 	- Are you making them stop in the middle of a task they'd rather not interrupt?
 4. Is the affordance correct?
-	- Is the "Edit Mode" a button
+	- Is the "Edit Mode" a button![[Pasted image 20240310213555.png]]

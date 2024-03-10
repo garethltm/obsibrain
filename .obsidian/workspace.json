@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI345 - Human-computer Interaction/Match between System & the Real World.md",
+                "file": "COMPSCI345 - Human-computer Interaction/Nielsen's Heuristics.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI345 - Human-computer Interaction/Match between System & the Real World.md",
+                "file": "COMPSCI345 - Human-computer Interaction/Nielsen's Heuristics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI345 - Human-computer Interaction/Match between System & the Real World.md",
+                "file": "COMPSCI345 - Human-computer Interaction/Nielsen's Heuristics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI345 - Human-computer Interaction/Match between System & the Real World.md"
+                "file": "COMPSCI345 - Human-computer Interaction/Nielsen's Heuristics.md"
               }
             }
           },
@@ -155,7 +155,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "COMPSCI345 - Human-computer Interaction/Match between System & the Real World.md"
+                "file": "COMPSCI345 - Human-computer Interaction/Nielsen's Heuristics.md"
               }
             }
           }
@@ -180,8 +180,9 @@
   },
   "active": "71e95a060b92c837",
   "lastOpenFiles": [
-    "COMPSCI345 - Human-computer Interaction/Nielsen's Heuristics.md",
     "COMPSCI345 - Human-computer Interaction/Match between System & the Real World.md",
+    "@images/Pasted image 20240310213555.png",
+    "COMPSCI345 - Human-computer Interaction/Nielsen's Heuristics.md",
     "COMPSCI345 - Human-computer Interaction/Visibility of System Status.md",
     "COMPSCI345 - Human-computer Interaction/Heuristic evaluation(s).md",
     "@images/Pasted image 20240310205714.png",
@@ -207,7 +208,6 @@
     "ACCTG151G - Financial Literacy/Interest rates (r).md",
     "COMPSCI345 - Human-computer Interaction/Human-computer Interaction (HCI).md",
     "COMPSCI345 - Human-computer Interaction/Engineering heuristic.md",
-    "COMPSCI345 - Human-computer Interaction/Efficiency of use.md",
     "@images/Pasted image 20240308234701.png",
     "@images/Pasted image 20240308213806.png",
     "@images/Pasted image 20240308213732.png",
@@ -215,7 +215,6 @@
     "@images/Pasted image 20240307170529.png",
     "@images/Pasted image 20240307170251.png",
     "@images/Pasted image 20240307170051.png",
-    "@images/Pasted image 20240307165959.png",
     "INFOSYS303 - Solutions Architecture",
     "@images/LeanIX_Poster_EA_vs_SA_vs_TA_EN.pdf",
     "@images/LeanIX_Poster_Best-practices-to-define-business-capability-maps_EN.pdf",
