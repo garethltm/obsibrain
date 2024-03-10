@@ -1,2 +1,5 @@
-- In -[[Supervised Learning]]:
-	- We have features $
+- In [[Supervised Learning]]:
+	- We have features $x_i$ & class labels $y_i$
+	- Write a program that produces $y_i$ from $x_i$
+- In [[Unsupervised Learning]]:
+	- We only have $x_i$ values
