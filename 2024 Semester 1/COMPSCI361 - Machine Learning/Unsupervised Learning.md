@@ -20,3 +20,6 @@
 	- Which are the most important $x_i$?
 7. Clustering
 	- What types of $x_i$ are there?
+
+## Summary
+- fitting data with

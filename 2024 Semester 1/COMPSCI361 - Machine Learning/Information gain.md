@@ -3,3 +3,6 @@
 - [[Information gain]] for baseline rule ("do nothing") is 0
 	- Infogain is large if labels are "more predictable" ("less random") in next layer
 - Even if it does not increase [[classification accuracy]] at one depth, we hope that it makes the [[Classification]] easier at the next depth
+
+## Summary
+- splitting score based on decreasing [[entropy]]
