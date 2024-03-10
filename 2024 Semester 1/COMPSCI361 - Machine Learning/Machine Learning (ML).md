@@ -36,3 +36,7 @@
 15. Drug discovery
 16. Chess/ GO/ Starcraft/ ...
 17. ...
+
+## Goal
+- In [[Machine Learning (ML)]]:
+	- What we care about is the tes
