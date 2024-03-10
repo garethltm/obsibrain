@@ -1,0 +1,2 @@
+- An analytical [[Performance Measurement(s)]] that can be extracted directly from the interface as compared to an empirical [[Performance Measurement(s)]] observed in a [[Usability]] study
+	- [[Fitts' Law]]
