@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Error.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Overfitting.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Error.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Overfitting.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Error.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Overfitting.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Error.md"
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Overfitting.md"
               }
             }
           },
@@ -155,7 +155,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Error.md"
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Overfitting.md"
               }
             }
           }
@@ -180,6 +180,8 @@
   "active": "668737498afbb1b4",
   "lastOpenFiles": [
     "2024 Semester 1/COMPSCI361 - Machine Learning/Error.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Overfitting.md",
+    "@images/Pasted image 20240311111602.png",
     "conflict-files-obsidian-git.md",
     "@images/Pasted image 20240311092656.png",
     "@images/Pasted image 20240310230810.png",
@@ -209,7 +211,6 @@
     "2024 Semester 1/COMPSCI361 - Machine Learning/classification accuracy.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Unsupervised Learning.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Training phase.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Training error.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture",
     "2024 Semester 1/COMPSCI361 - Machine Learning",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction",
@@ -226,7 +227,6 @@
     "@images/Pasted image 20240310205714.png",
     "@images/Pasted image 20240309000840.png",
     "@images/Pasted image 20240308234701.png",
-    "@images/Pasted image 20240308213806.png",
     "COMPSCI235 - Software Development Methodologies/235 summary.canvas",
     "COMPSCI367 - Artificial Intelligence/finals prep.canvas"
   ]

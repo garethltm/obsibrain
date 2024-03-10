@@ -1,5 +1,5 @@
 - [[Zipf's law]]
-- bottom line is that some words are very rare & may not appear in a sample or will be undersampled, which leads to [[overfitting]]
+- bottom line is that some words are very rare & may not appear in a sample or will be undersampled, which leads to [[2023 Semester 2/COMPSCI367 - Artificial Intelligence/week10/overfitting]]
 - [[Laplace smoothing (add-one smoothing)]]
 
 Given a vocabulary v of size d 
