@@ -14,4 +14,9 @@ Carrying out a [[Heuristic evaluation(s)]] is an excellent way to get an underst
 
 Or a [[Heuristic evaluation(s)]] can be stand-alone with the evaluator making observations & recommendations based on their experience
 
-## Sum
+## Summary
+- [[Heuristic evaluation(s)]] are experts reviews & often include
+	- Modelling the interface
+		- #compsci345example 
+		- Hierarchical Task Analysis
+	- Evaluating against a set of guidelines
