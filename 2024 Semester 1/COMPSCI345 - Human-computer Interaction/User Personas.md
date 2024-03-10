@@ -10,4 +10,10 @@
 
 Expected to have:
 - A name (Preferably a photo)
-- Gpa;
+- Goals & motivating forces
+- Behaviours & a personality
+- Any relevant background
+	- #compsci345example 
+	- their past experience with other software (& how they felt about it)
+
+They should be a '3'
