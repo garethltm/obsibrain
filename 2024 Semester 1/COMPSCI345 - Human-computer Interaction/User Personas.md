@@ -1,0 +1,3 @@
+- Personas are archetypes of actual users, defined by the user's goals & attributes
+- Align with work roles
+- Personas should be a reflection of the information derived from the data collection activities
