@@ -19,6 +19,9 @@ Most common score in practice is "information gain"
 2. Interpretable
 3. Learning is fast, prediction is very fast
 4. Can elegantly handle a small number missing values during training
-## Disad
+## Disadvantages of [[2024 Semester 1/COMPSCI361 - Machine Learning/Decision Trees|Decision Trees]]
+1. Hard to find optimal set of rules
+	- Will never find the model potentially
+2. Greedy splitting often not accurate, requires very deep treesw
 
 Related to: [[2023 Semester 2/COMPSCI367 - Artificial Intelligence/week11/Decision Trees|Decision Trees]]
