@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI345 - Human-computer Interaction/Heuristic evaluation(s).md",
+                "file": "COMPSCI345 - Human-computer Interaction/Nielsen's Heuristics.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI345 - Human-computer Interaction/Heuristic evaluation(s).md",
+                "file": "COMPSCI345 - Human-computer Interaction/Nielsen's Heuristics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI345 - Human-computer Interaction/Heuristic evaluation(s).md",
+                "file": "COMPSCI345 - Human-computer Interaction/Nielsen's Heuristics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI345 - Human-computer Interaction/Heuristic evaluation(s).md"
+                "file": "COMPSCI345 - Human-computer Interaction/Nielsen's Heuristics.md"
               }
             }
           },
@@ -155,7 +155,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "COMPSCI345 - Human-computer Interaction/Heuristic evaluation(s).md"
+                "file": "COMPSCI345 - Human-computer Interaction/Nielsen's Heuristics.md"
               }
             }
           }
@@ -180,9 +180,10 @@
   },
   "active": "71e95a060b92c837",
   "lastOpenFiles": [
+    "COMPSCI345 - Human-computer Interaction/Heuristic evaluation(s).md",
+    "COMPSCI345 - Human-computer Interaction/Nielsen's Heuristics.md",
     "@images/Pasted image 20240310205714.png",
     "COMPSCI345 - Human-computer Interaction/Usability.md",
-    "COMPSCI345 - Human-computer Interaction/Heuristic evaluation(s).md",
     "COMPSCI345 - Human-computer Interaction/Design Review.md",
     "COMPSCI345 - Human-computer Interaction/Design Walkthrough.md",
     "COMPSCI345 - Human-computer Interaction/Usability Evaluations.md",
@@ -215,7 +216,6 @@
     "@images/Pasted image 20240307170251.png",
     "@images/Pasted image 20240307170051.png",
     "@images/Pasted image 20240307165959.png",
-    "@images/Pasted image 20240307165923.png",
     "INFOSYS303 - Solutions Architecture",
     "@images/LeanIX_Poster_EA_vs_SA_vs_TA_EN.pdf",
     "@images/LeanIX_Poster_Best-practices-to-define-business-capability-maps_EN.pdf",
