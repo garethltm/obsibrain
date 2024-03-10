@@ -14,6 +14,9 @@
 	- Which $x_j$ occur together?
 4. Latent-factors
 	- What 'parts' are the $x_i$ made from?
-1. Data visualization
-2. Ranking
-3. Clustering
+5. Data visualization
+	- What does the high-dimensional X look like?
+6. Ranking
+	- Which are the most important $x_i$?
+7. Clustering
+	- What types of $x_i$ are there?
