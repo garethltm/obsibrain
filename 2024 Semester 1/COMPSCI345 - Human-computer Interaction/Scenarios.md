@@ -5,4 +5,8 @@
 	- The activities in which the persona will engage
 	- The outcomes of those activities
 - Paired with a [[User Personas]]
-- We pair it iw
+- We pair it with a PACT structure:
+	- People
+	- Activities
+	- Context
+	- Technology
