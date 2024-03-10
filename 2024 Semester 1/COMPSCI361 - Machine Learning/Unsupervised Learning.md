@@ -7,4 +7,11 @@
 
 #compsci345example - some [[Unsupervised Learning]] tasks:
 1. Outlier detection
-2. Sim
+	- Is this a 'normal' $x_i$?
+2. Similarity search
+	- Which examples look like this 
+3. Association rules
+4. Latent-factors
+5. Data visualization
+6. Ranking
+7. Clustering
