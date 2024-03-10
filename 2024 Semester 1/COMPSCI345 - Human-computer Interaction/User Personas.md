@@ -28,4 +28,7 @@ They should be a '3-dimensional' person that can serve as a reference
 	- a basis for our 'empathy' as designers
 
 ## Disadvantages of personas
-1. They can
+1. They can be difficult to create if the target audience is international (or just diverse in whatever way)
+2. Having too many personas will make the work difficult
+	- 6-8 is the usual amount
+3. There is a risk of incorporating unsupported designer assumptions
