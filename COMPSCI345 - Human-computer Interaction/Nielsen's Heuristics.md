@@ -8,4 +8,5 @@
 5. Error Prevention
 6. Recognition Rather Than Recall
 7. Flexibility & Efficiency of Use
-8. 
+8. Aesthetic & Minimalist Design
+9. Help Users to Recognise
