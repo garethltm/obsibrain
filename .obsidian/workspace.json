@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "5f70c8db9c4b88c9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ACCTG151G - Financial Literacy/Financial Literacy.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ACCTG151G - Financial Literacy/Financial Literacy.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ACCTG151G - Financial Literacy/Financial Literacy.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -155,7 +168,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "ACCTG151G - Financial Literacy/Financial Literacy.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           }
@@ -177,8 +190,11 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "53a49051d6175559",
+  "active": "5f70c8db9c4b88c9",
   "lastOpenFiles": [
+    "ACCTG151G - Financial Literacy/Financial Literacy.md",
+    "conflict-files-obsidian-git.md",
+    "@images/Pasted image 20240310213555.png",
     "COMPSCI345 - Human-computer Interaction/Match between System & the Real World.md",
     "COMPSCI345 - Human-computer Interaction/Visibility of System Status.md",
     "COMPSCI345 - Human-computer Interaction/Nielsen's Heuristics.md",
@@ -189,11 +205,9 @@
     "ACCTG151G - Financial Literacy/Fiscal Policy - Government Spending.md",
     "ACCTG151G - Financial Literacy/Financial planning.md",
     "ACCTG151G - Financial Literacy/Economic Cycles.md",
-    "conflict-files-obsidian-git.md",
     "ACCTG151G - Financial Literacy/growth factor.md",
     "ACCTG151G - Financial Literacy/Interest rates (r).md",
     "ACCTG151G - Financial Literacy/Monetary Policy - Reserve Bank.md",
-    "ACCTG151G - Financial Literacy/Financial Literacy.md",
     "COMPSCI345 - Human-computer Interaction/Usability Evaluations.md",
     "COMPSCI345 - Human-computer Interaction/Subjective satisfaction.md",
     "COMPSCI345 - Human-computer Interaction/Memorability.md",
@@ -207,14 +221,12 @@
     "ACCTG151G - Financial Literacy/Financial Ratio.md",
     "ACCTG151G - Financial Literacy/Expenses (Cash OUT).md",
     "ACCTG151G - Financial Literacy/Average propensity to consume (APC).md",
-    "ACCTG151G - Financial Literacy/net worth (equity).md",
     "@images/Pasted image 20240308213806.png",
     "@images/Pasted image 20240308213732.png",
     "@images/Pasted image 20240308213605.png",
     "@images/Pasted image 20240307170529.png",
     "@images/Pasted image 20240307170251.png",
     "@images/Pasted image 20240307170051.png",
-    "@images/Pasted image 20240307165959.png",
     "@images/LeanIX_Poster_EA_vs_SA_vs_TA_EN.pdf",
     "@images/LeanIX_Poster_Best-practices-to-define-business-capability-maps_EN.pdf",
     "INFOSYS303 - Solutions Architecture",

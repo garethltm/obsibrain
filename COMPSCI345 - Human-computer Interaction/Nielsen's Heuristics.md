@@ -2,15 +2,18 @@
 - The revised set based on an analysis of 249 [[Usability]] problems
 
 1. [[Visibility of System Status]]
-2. Match between System & the Real World
+2. [[Match between System & the Real World]]
 3. User Control & Freedom
-4. Consistency & Standards
-5. Error Prevention
-6. Recognition Rather Than Recall
-7. Flexibility & Efficiency of Use
-8. Aesthetic & Minimalist Design
-9. Help Users to:
+	- Clearly marked exit
+	- Undo/redo
+- 
+1. Consistency & Standards
+2. Error Prevention
+3. Recognition Rather Than Recall
+4. Flexibility & Efficiency of Use
+5. Aesthetic & Minimalist Design
+6. Help Users to:
 	1. Recognise
 	2. Diagnose
 	3. Recover from Errors
-10. Help & Documentation
+7. Help & Documentation
