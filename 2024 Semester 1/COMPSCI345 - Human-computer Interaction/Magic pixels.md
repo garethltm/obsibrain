@@ -1,3 +1,5 @@
 - 4 corners of the screen (for mouse movement)
 	- Can be acquired at great speed
-	- Rule of 
+	- Rule of the infinite edge
+	- Microsoft Start button at bottom left
+	- Microsoft/Apple icons & menus across the top & bottom of the screen
