@@ -4,3 +4,11 @@
 
 - [[Prime pixel]]
 - [[Magic pixels]]
+
+## Influences
+1. Short dropdown lists
+	- 3 or 4 items
+2. Right-click pop-up menu
+	- Fast to get there
+3. Pie menu rather than dropdown list
+4. Large
