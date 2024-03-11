@@ -7,3 +7,4 @@
 3. You also shouldn't change the test set to get the result you want
 4. Note the golden rule applies to hypothesis testing in scientific studies
 	- Data that you collect can't influence the hypotheses that you test
+COMMON/MAJOR PROBLEM:
