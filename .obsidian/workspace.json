@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Unsupervised Learning.md",
+                "file": "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week10/overfitting.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Unsupervised Learning.md",
+                "file": "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week10/overfitting.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Unsupervised Learning.md",
+                "file": "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week10/overfitting.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Unsupervised Learning.md"
+                "file": "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week10/overfitting.md"
               }
             }
           },
@@ -155,7 +155,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Unsupervised Learning.md"
+                "file": "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week10/overfitting.md"
               }
             }
           }
@@ -178,18 +178,19 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "3ad179677b7fba41",
+  "active": "71e95a060b92c837",
   "lastOpenFiles": [
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Error.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Golden Rule of Machine Learning.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Training error.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Unsupervised Learning.md",
     "@images/Pasted image 20240311111602.png",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Overfitting.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Golden Rule of Machine Learning.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Error.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Information gain.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Greedy recursive splitting.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Decision Stumps.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Decision Tree(s).md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Supervised Learning.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Unsupervised Learning.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Reduced error pruning.md",
     "@images/Pasted image 20240311092656.png",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Decision Tree Pruning.md",
@@ -217,7 +218,6 @@
     "@images/Pasted image 20240310205714.png",
     "@images/Pasted image 20240309000840.png",
     "@images/Pasted image 20240308234701.png",
-    "@images/Pasted image 20240308213806.png",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture",
     "@images/LeanIX_Poster_EA_vs_SA_vs_TA_EN.pdf",
     "@images/LeanIX_Poster_Best-practices-to-define-business-capability-maps_EN.pdf",
