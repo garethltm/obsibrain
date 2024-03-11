@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/entropy.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Information gain.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/entropy.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Information gain.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/entropy.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Information gain.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/entropy.md"
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Information gain.md"
               }
             }
           },
@@ -155,7 +155,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/entropy.md"
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Information gain.md"
               }
             }
           }
@@ -180,6 +180,7 @@
   },
   "active": "71e95a060b92c837",
   "lastOpenFiles": [
+    "2024 Semester 1/COMPSCI361 - Machine Learning/entropy.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Information gain.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Decision Tree Pruning.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Decision Tree Learning.md",
@@ -212,7 +213,6 @@
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Heuristic evaluation(s).md",
     "2024 Semester 1",
     "2023 Semester 2",
-    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/A world of heuristics.md",
     "@images/Pasted image 20240310214429.png",
     "@images/Pasted image 20240310213555.png",
     "@images/Pasted image 20240310205714.png",
