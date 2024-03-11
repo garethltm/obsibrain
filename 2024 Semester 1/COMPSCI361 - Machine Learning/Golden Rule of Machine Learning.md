@@ -4,4 +4,6 @@
 	- Is used during training, does not measure this
 	- You can start to [[2024 Semester 1/COMPSCI361 - Machine Learning/Overfitting|Overfitting]] if you use it during training
 	- #compsci361example - you are cheating on the exam
-3. 
+3. You also shouldn't change the test set to get the result you want
+4. Note the golden rule applies to hypothesis testing in scientific studies
+	- Data that you collect can't influence the hypotheses that you test
