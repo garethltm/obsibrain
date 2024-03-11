@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week10/overfitting.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Golden Rule of Machine Learning.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week10/overfitting.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Golden Rule of Machine Learning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week10/overfitting.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Golden Rule of Machine Learning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week10/overfitting.md"
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Golden Rule of Machine Learning.md"
               }
             }
           },
@@ -155,7 +155,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week10/overfitting.md"
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Golden Rule of Machine Learning.md"
               }
             }
           }
@@ -182,6 +182,8 @@
   "lastOpenFiles": [
     "2024 Semester 1/COMPSCI361 - Machine Learning/Error.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Golden Rule of Machine Learning.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Machine Learning (ML).md",
+    "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week10/overfitting.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Training error.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Unsupervised Learning.md",
     "@images/Pasted image 20240311111602.png",
@@ -212,8 +214,6 @@
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Nielsen's Advice for Heuristic Evaluations.md",
     "@images/Pasted image 20240310214429.png",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Nielsen's Heuristics.md",
-    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Recognition Rather Than Recall.md",
-    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Match between System & the Real World.md",
     "@images/Pasted image 20240310213555.png",
     "@images/Pasted image 20240310205714.png",
     "@images/Pasted image 20240309000840.png",

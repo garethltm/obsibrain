@@ -41,7 +41,7 @@
 - In [[Machine Learning (ML)]]:
 	- What we care about is the test error
 #compsci361example 
-- The training error is practice on the exam
+- The [[training error]] is practice on the exam
 - The test error is the actual exam
 Goal: Do well on actual exam but not the practice one
 
