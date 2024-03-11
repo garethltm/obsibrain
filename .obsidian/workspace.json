@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/solvency.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/solvency.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/solvency.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/solvency.md"
+                "file": "README.md"
               }
             }
           },
@@ -155,7 +155,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/solvency.md"
+                "file": "README.md"
               }
             }
           }
@@ -179,6 +179,7 @@
   },
   "active": "668737498afbb1b4",
   "lastOpenFiles": [
+    "2024 Semester 1/ACCTG151G - Financial Literacy/solvency.md",
     "2024 Semester 1/ACCTG151G - Financial Literacy/Future Value Interest Factor (FVIF).md",
     "2024 Semester 1/ACCTG151G - Financial Literacy/Future Value (FV).md",
     "2024 Semester 1/ACCTG151G - Financial Literacy/Fiscal Policy - Government Spending.md",
@@ -210,7 +211,6 @@
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Enterprise Architecture.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Enterprise Architect (EA).md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Data Architecture.md",
-    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Business Capabilities.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture",
     "2024 Semester 1/COMPSCI361 - Machine Learning",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction",
