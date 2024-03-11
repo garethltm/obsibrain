@@ -7,4 +7,8 @@
 3. You also shouldn't change the test set to get the result you want
 4. Note the golden rule applies to hypothesis testing in scientific studies
 	- Data that you collect can't influence the hypotheses that you test
-**COMMON/MAJOR PROBLEM:**
+
+**COMMON/MAJOR PROBLEM:** 
+- Collect more data until you coincidentally get significance level you want
+- Try different ways to measure performance, choose the one that looks best
+- Choose a different type of model/hypothesis after looking at the test data
