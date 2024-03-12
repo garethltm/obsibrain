@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Nielsen's Heuristics.md",
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Fitts' Law.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Nielsen's Heuristics.md",
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Fitts' Law.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Nielsen's Heuristics.md",
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Fitts' Law.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Nielsen's Heuristics.md"
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Fitts' Law.md"
               }
             }
           },
@@ -155,7 +155,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Nielsen's Heuristics.md"
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Fitts' Law.md"
               }
             }
           }
@@ -180,6 +180,7 @@
   },
   "active": "69c40159f8f50222",
   "lastOpenFiles": [
+    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Nielsen's Heuristics.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Validation Error.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Bias-Variance vs Fundamental Trade-Off.md",
     "@images/Pasted image 20240312224429.png",
@@ -213,7 +214,6 @@
     "2024 Semester 1/COMPSCI361 - Machine Learning/Overfitting.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Greedy recursive splitting.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Decision Stumps.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Supervised Learning.md",
     "@images/Pasted image 20240311092656.png",
     "@images/Pasted image 20240310230810.png",
     "2024 Semester 1",
