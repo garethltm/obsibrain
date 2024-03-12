@@ -15,4 +15,8 @@
 		- Yes
 - Food Allergy is not [[Independent & Identically Distributed (IID)]]
 	- Being sick might depend on what you ate yesterday $\rightarrow$ not independent
-	- Your eating habits might have changed over time $\rightarrow$ not identically 
+	- Your eating habits might have changed over time $\rightarrow$ not identically distributed
+- What can we do about this?
+	- Just ignore that data isn't [[Independent & Identically Distributed (IID)]] & hope for the best?
+	- For each day, maybe add the features from the previous day?
+	- Maybe add time as an extra feature
