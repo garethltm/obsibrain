@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Refined Fundamental Trade-Off.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/bias-variance decomposition.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Refined Fundamental Trade-Off.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/bias-variance decomposition.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Refined Fundamental Trade-Off.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/bias-variance decomposition.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Refined Fundamental Trade-Off.md"
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/bias-variance decomposition.md"
               }
             }
           },
@@ -155,7 +155,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Refined Fundamental Trade-Off.md"
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/bias-variance decomposition.md"
               }
             }
           }
@@ -180,8 +180,8 @@
   },
   "active": "69c40159f8f50222",
   "lastOpenFiles": [
-    "2024 Semester 1/COMPSCI361 - Machine Learning/bias-variance decomposition.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Refined Fundamental Trade-Off.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/bias-variance decomposition.md",
     "@images/Pasted image 20240312222435.png",
     "2024 Semester 1/COMPSCI361 - Machine Learning/irreducible error.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Fundamental Trade-Off.md",

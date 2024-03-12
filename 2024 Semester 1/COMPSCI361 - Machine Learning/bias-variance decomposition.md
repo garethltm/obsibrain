@@ -4,3 +4,5 @@
 	- how low can we make the [[Training error]]
 3. measure of noise
 	- how low can any model make test error
+
+- Assume $
