@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "3f249e68e26194b3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Independent & Identically Distributed (IID).md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Independent & Identically Distributed (IID).md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Independent & Identically Distributed (IID).md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -155,7 +168,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Independent & Identically Distributed (IID).md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           }
@@ -178,13 +191,20 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "13f4c8871552d6f6",
+  "active": "3f249e68e26194b3",
   "lastOpenFiles": [
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Independent & Identically Distributed (IID).md",
+    "conflict-files-obsidian-git.md",
+    "@images/Pasted image 20240312222435.png",
+    "@images/Pasted image 20240312222120.png",
+    "@images/Pasted image 20240312221008.png",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/irreducible error.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/bias-variance decomposition.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Refined Fundamental Trade-Off.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Learning Theory.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Fundamental Trade-Off.md",
     "@images/Pasted image 20240312151153.png",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Golden Rule of Machine Learning.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Independent & Identically Distributed (IID).md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Error.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Machine Learning (ML).md",
     "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week10/overfitting.md",
@@ -206,18 +226,10 @@
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Prime pixel.md",
     "@images/Pasted image 20240310230810.png",
     "@images/Pasted image 20240310230745.png",
-    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Performance Measurement(s).md",
-    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Hick-Hyman Law.md",
-    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Scenario(s).md",
     "@images/Pasted image 20240310230418.png",
-    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/User Personas.md",
-    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Heuristic evaluation(s).md",
     "2024 Semester 1",
     "2023 Semester 2",
     "@images/Pasted image 20240310214429.png",
-    "@images/Pasted image 20240310213555.png",
-    "@images/Pasted image 20240310205714.png",
-    "@images/Pasted image 20240309000840.png",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture",
     "@images/LeanIX_Poster_EA_vs_SA_vs_TA_EN.pdf",
     "@images/LeanIX_Poster_Best-practices-to-define-business-capability-maps_EN.pdf",
