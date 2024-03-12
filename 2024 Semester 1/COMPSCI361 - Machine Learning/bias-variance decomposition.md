@@ -5,4 +5,4 @@
 3. measure of noise
 	- how low can any model make test error
 
-- Assume $
+- Assume $\~{y}i$
