@@ -11,8 +11,12 @@
             "id": "cf80157d4a7f2506",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week03/optimistic.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week03/optimistic.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week03/optimistic.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week03/optimistic.md"
+              }
             }
           },
           {
@@ -146,7 +154,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {}
+              "state": {
+                "file": "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week03/optimistic.md"
+              }
             }
           }
         ],
@@ -170,6 +180,24 @@
   },
   "active": "cf80157d4a7f2506",
   "lastOpenFiles": [
+    "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week03/Least Constraining Value.md",
+    "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week03/Iterative Deepening A-Star Search (IDA).md",
+    "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week03/Goal test.md",
+    "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week03/Backtracking Search.md",
+    "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week03/A-Star Search.md",
+    "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week03/Arc Consistency.md",
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Applications Architecture.md",
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/ArchiMate.md",
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Business Architect (BA).md",
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Business Architecture.md",
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Data Architecture.md",
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Gartner's Enterprise Architecture Framework (GEAF).md",
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Solution Architect (SA).md",
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Technical Architect (TA).md",
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/The Open Group Architectural Framework (TOGAF).md",
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Zachman Enterprise Architecture Framework (ZEAF).md",
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/TOGAF Standard.md",
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/TOGAF Architectural Development Method (ADM).md",
     "conflict-files-obsidian-git.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Reduced error pruning.md",
     "@images/Pasted image 20240312224429.png",
@@ -184,26 +212,9 @@
     "@images/Pasted image 20240312222120.png",
     "@images/Pasted image 20240312221008.png",
     "2024 Semester 1/COMPSCI361 - Machine Learning/irreducible error.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/bias-variance decomposition.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Refined Fundamental Trade-Off.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Learning Theory.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Fundamental Trade-Off.md",
     "@images/Pasted image 20240312151153.png",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Golden Rule of Machine Learning.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Error.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Machine Learning (ML).md",
-    "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week10/overfitting.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Training error.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Unsupervised Learning.md",
     "@images/Pasted image 20240311111602.png",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Overfitting.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Information gain.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Greedy recursive splitting.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Decision Tree(s).md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Supervised Learning.md",
     "@images/Pasted image 20240311092656.png",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Decision Tree Learning.md",
-    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Fitts' Law.md",
     "@images/Pasted image 20240310230810.png",
     "2024 Semester 1",
     "2023 Semester 2",
