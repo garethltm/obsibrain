@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/A world of heuristics.md",
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Memorability.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/A world of heuristics.md",
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Memorability.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/A world of heuristics.md",
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Memorability.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/A world of heuristics.md"
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Memorability.md"
               }
             }
           },
@@ -155,7 +155,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/A world of heuristics.md"
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Memorability.md"
               }
             }
           }
@@ -180,13 +180,19 @@
   },
   "active": "cf80157d4a7f2506",
   "lastOpenFiles": [
+    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Scenario(s).md",
+    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Recognition Rather Than Recall.md",
+    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Prime pixel.md",
+    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Performance Measurement(s).md",
+    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Match between System & the Real World.md",
+    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Interaction.md",
+    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Error Frequency & Severity.md",
+    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/A world of heuristics.md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Design Review.md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Ease of learning.md",
-    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Error Frequency & Severity.md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Fitts' Law.md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Heuristic evaluation(s).md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Memorability.md",
-    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Prime pixel.md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Visibility of System Status.md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/User eXperience (UX).md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Subjective satisfaction.md",
@@ -194,18 +200,12 @@
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Usability Evaluations.md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Usability.md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Study 01 - Proprioceptive Gestures.md",
-    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Recognition Rather Than Recall.md",
-    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Performance Measurement(s).md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Fidelity Prototypes.md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Design Walkthrough.md",
     "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week03/A-Star Search.md",
     "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week03/Admissible heuristic.md",
     "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week03/branching factor(s).md",
     "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week03/Goal test.md",
-    "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week03/optimistic.md",
-    "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week03/Least Constraining Value.md",
-    "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week03/Iterative Deepening A-Star Search (IDA).md",
-    "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week03/Backtracking Search.md",
     "@images/Pasted image 20240312224429.png",
     "@images/Pasted image 20240312223800.png",
     "@images/Pasted image 20240312223758.png",
