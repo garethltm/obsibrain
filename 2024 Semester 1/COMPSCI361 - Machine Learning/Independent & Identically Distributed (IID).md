@@ -13,4 +13,6 @@
 	- Do all the examples come from the same distribution?
 	- Does the order of the examples matter
 		- Yes
-- 
+- Food Allergy is not [[Independent & Identically Distributed (IID)]]
+	- Being sick might depend on what you ate yesterday $\rightarrow$ not independent
+	- Your eating habits might have changed over time $\rightarrow$ not identically 
