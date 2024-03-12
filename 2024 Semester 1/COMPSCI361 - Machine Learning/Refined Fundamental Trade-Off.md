@@ -1,2 +1,3 @@
-- Let $E_{best}$ be the irreducible error (lowest possible error for any model)
-	- #compsci361example 
+- Let $E_{best}$ be the [[irreducible error]]
+	- #compsci361example - [[irreducible error]] for predicting coin flips is 0.5
+- Some [[Learning Theory]] results use $
