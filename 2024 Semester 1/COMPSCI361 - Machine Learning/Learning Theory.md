@@ -7,4 +7,4 @@
 - [[Learning Theory]] explores how [[Training error]] is related to test error
 - We'll look at a simple example, using this notation:
 	- $E_{train}$ is the error on training data
-	- $E_{test}$ is the 
+	- $E_{test}$ is the error on testing data
