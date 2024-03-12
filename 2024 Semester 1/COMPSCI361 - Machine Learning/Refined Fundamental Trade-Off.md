@@ -1,0 +1,2 @@
+- Let $E_{best}$ be the irreducible error (lowest possible error for any model)
+	- #compsci361example 

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Fundamental Trade-Off.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Refined Fundamental Trade-Off.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Fundamental Trade-Off.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Refined Fundamental Trade-Off.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Fundamental Trade-Off.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Refined Fundamental Trade-Off.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Fundamental Trade-Off.md"
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Refined Fundamental Trade-Off.md"
               }
             }
           },
@@ -155,7 +155,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Fundamental Trade-Off.md"
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Refined Fundamental Trade-Off.md"
               }
             }
           }
@@ -180,8 +180,10 @@
   },
   "active": "69c40159f8f50222",
   "lastOpenFiles": [
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Decision Tree(s).md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Fundamental Trade-Off.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Refined Fundamental Trade-Off.md",
+    "@images/Pasted image 20240312222120.png",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Decision Tree(s).md",
     "@images/Pasted image 20240312221008.png",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Learning Theory.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Machine Learning (ML).md",
@@ -216,7 +218,6 @@
     "2023 Semester 2",
     "@images/Pasted image 20240310214429.png",
     "@images/Pasted image 20240310213555.png",
-    "@images/Pasted image 20240310205714.png",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture",
     "@images/LeanIX_Poster_EA_vs_SA_vs_TA_EN.pdf",
     "@images/LeanIX_Poster_Best-practices-to-define-business-capability-maps_EN.pdf",
