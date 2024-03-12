@@ -1,1 +1,2 @@
-- Start with $E_{test} = E_{test}$
+- Start with $E_{test} = E_{test}$ , then add & subtract $E_{train}$ on the right:
+	- ![[Pasted image 20240312221008.png]]
