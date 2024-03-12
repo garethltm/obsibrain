@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "70b5a2fedcfcd4ff",
+        "id": "171568dfc7b3fad8",
         "type": "tabs",
         "children": [
           {
-            "id": "5ab11d523e7bdb41",
+            "id": "d208b35710912305",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "conflict-files-obsidian-git.md"
-              }
+              "state": {}
             }
           },
           {
@@ -154,9 +146,7 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "conflict-files-obsidian-git.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -178,7 +168,7 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "5ab11d523e7bdb41",
+  "active": "d208b35710912305",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Information gain.md",
