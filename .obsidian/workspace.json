@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week03/optimistic.md",
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/A world of heuristics.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week03/optimistic.md",
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/A world of heuristics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week03/optimistic.md",
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/A world of heuristics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week03/optimistic.md"
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/A world of heuristics.md"
               }
             }
           },
@@ -155,7 +155,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week03/optimistic.md"
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/A world of heuristics.md"
               }
             }
           }
@@ -180,38 +180,38 @@
   },
   "active": "cf80157d4a7f2506",
   "lastOpenFiles": [
+    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Design Review.md",
+    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Ease of learning.md",
+    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Error Frequency & Severity.md",
+    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Fitts' Law.md",
+    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Heuristic evaluation(s).md",
+    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Memorability.md",
+    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Prime pixel.md",
+    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Visibility of System Status.md",
+    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/User eXperience (UX).md",
+    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Subjective satisfaction.md",
+    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/User Personas.md",
+    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Usability Evaluations.md",
+    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Usability.md",
+    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Study 01 - Proprioceptive Gestures.md",
+    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Recognition Rather Than Recall.md",
+    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Performance Measurement(s).md",
+    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Fidelity Prototypes.md",
+    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Design Walkthrough.md",
+    "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week03/A-Star Search.md",
+    "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week03/Admissible heuristic.md",
+    "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week03/branching factor(s).md",
+    "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week03/Goal test.md",
+    "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week03/optimistic.md",
     "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week03/Least Constraining Value.md",
     "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week03/Iterative Deepening A-Star Search (IDA).md",
-    "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week03/Goal test.md",
     "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week03/Backtracking Search.md",
-    "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week03/A-Star Search.md",
-    "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week03/Arc Consistency.md",
-    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Applications Architecture.md",
-    "2024 Semester 1/INFOSYS303 - Solutions Architecture/ArchiMate.md",
-    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Business Architect (BA).md",
-    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Business Architecture.md",
-    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Data Architecture.md",
-    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Gartner's Enterprise Architecture Framework (GEAF).md",
-    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Solution Architect (SA).md",
-    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Technical Architect (TA).md",
-    "2024 Semester 1/INFOSYS303 - Solutions Architecture/The Open Group Architectural Framework (TOGAF).md",
-    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Zachman Enterprise Architecture Framework (ZEAF).md",
-    "2024 Semester 1/INFOSYS303 - Solutions Architecture/TOGAF Standard.md",
-    "2024 Semester 1/INFOSYS303 - Solutions Architecture/TOGAF Architectural Development Method (ADM).md",
-    "conflict-files-obsidian-git.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Reduced error pruning.md",
     "@images/Pasted image 20240312224429.png",
     "@images/Pasted image 20240312223800.png",
     "@images/Pasted image 20240312223758.png",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Validation Error.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Bias-Variance vs Fundamental Trade-Off.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Decision Tree Pruning.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Decision Stumps.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Independent & Identically Distributed (IID).md",
     "@images/Pasted image 20240312222435.png",
     "@images/Pasted image 20240312222120.png",
     "@images/Pasted image 20240312221008.png",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/irreducible error.md",
     "@images/Pasted image 20240312151153.png",
     "@images/Pasted image 20240311111602.png",
     "@images/Pasted image 20240311092656.png",
