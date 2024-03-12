@@ -1,2 +1,7 @@
 - Why does the [[Independent & Identically Distributed (IID)]] assumption make learning possible
-	- Patterns in training examples are likely
+	- Patterns in training examples are likely to be the same in test examples
+- The [[Independent & Identically Distributed (IID)]] assumption is rarely true:
+	- But is often a good approximation
+	- There are other possible assumptions
+- Also, we're assuming [[Independent & Identically Distributed (IID)]] across examples but not across features
+- [[Learning Theory]] ex
