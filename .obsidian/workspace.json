@@ -11,8 +11,12 @@
             "id": "13f4c8871552d6f6",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Independent & Identically Distributed (IID).md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -174,7 +178,7 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "3ad179677b7fba41",
+  "active": "13f4c8871552d6f6",
   "lastOpenFiles": [
     "2024 Semester 1/COMPSCI361 - Machine Learning/Golden Rule of Machine Learning.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Independent & Identically Distributed (IID).md",
