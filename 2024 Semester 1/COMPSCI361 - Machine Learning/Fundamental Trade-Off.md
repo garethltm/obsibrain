@@ -22,4 +22,5 @@
 
 #### [[Training error]] vs test error for choosing depth:
 1. [[Training error]] is high for low depth (underfitting)
-2. 
+2. [[Training error]] gets better with depth
+3. Test error initially goes down, but eventually increases ([[2024 Semester 1/COMPSCI361 - Machine Learning/Overfitting|Overfitting]])
