@@ -12,4 +12,6 @@
 1. $E_{train}$ : how small you can make the [[Training error]] 
 2. $E_{approx}$ : how well [[Training error]] approximates the test error
 #### Simple models (like [[Decision Stumps]]):
-1. $E_{approx}
+1. $E_{approx}$ : is low (not very sensitive to training set)
+	- too generalised, low accuracy
+2. But $E_{train}$ might be high
