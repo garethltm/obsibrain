@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "4752be1b48cf7d2a",
+        "id": "37c5ef12c151d04c",
         "type": "tabs",
         "children": [
           {
-            "id": "13f4c8871552d6f6",
+            "id": "d9624121e9af5048",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Independent & Identically Distributed (IID).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3f249e68e26194b3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Reduced error pruning.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Reduced error pruning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Reduced error pruning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Reduced error pruning.md"
               }
             }
           },
@@ -168,7 +155,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Reduced error pruning.md"
               }
             }
           }
@@ -191,7 +178,7 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "3f249e68e26194b3",
+  "active": "d9624121e9af5048",
   "lastOpenFiles": [
     "2024 Semester 1/COMPSCI361 - Machine Learning/Independent & Identically Distributed (IID).md",
     "conflict-files-obsidian-git.md",
