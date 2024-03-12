@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "171568dfc7b3fad8",
+        "id": "7d30480a4a6e13db",
         "type": "tabs",
         "children": [
           {
-            "id": "d208b35710912305",
+            "id": "f5b8fbba6021378d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "conflict-files-obsidian-git.md"
+              }
             }
           },
           {
@@ -146,7 +154,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {}
+              "state": {
+                "file": "conflict-files-obsidian-git.md"
+              }
             }
           }
         ],
@@ -168,9 +178,10 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "d208b35710912305",
+  "active": "f5b8fbba6021378d",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
+    "@images/Pasted image 20240312151153.png",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Information gain.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Independent & Identically Distributed (IID).md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Untitled.md",
@@ -199,7 +210,6 @@
     "@images/Pasted image 20240310230810.png",
     "@images/Pasted image 20240310230745.png",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Performance Measurement(s).md",
-    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Hick-Hyman Law.md",
     "@images/Pasted image 20240310230418.png",
     "2024 Semester 1",
     "2023 Semester 2",
@@ -207,7 +217,6 @@
     "@images/Pasted image 20240310213555.png",
     "@images/Pasted image 20240310205714.png",
     "@images/Pasted image 20240309000840.png",
-    "@images/Pasted image 20240308234701.png",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture",
     "@images/LeanIX_Poster_EA_vs_SA_vs_TA_EN.pdf",
     "@images/LeanIX_Poster_Best-practices-to-define-business-capability-maps_EN.pdf",
