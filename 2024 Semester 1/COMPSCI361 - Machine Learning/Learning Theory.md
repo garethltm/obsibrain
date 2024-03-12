@@ -4,4 +4,4 @@
 	- But is often a good approximation
 	- There are other possible assumptions
 - Also, we're assuming [[Independent & Identically Distributed (IID)]] across examples but not across features
-- [[Learning Theory]] ex
+- [[Learning Theory]] explores how [[Training error]] is related to test error
