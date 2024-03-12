@@ -1,4 +1,8 @@
 - Training/test data is [[Independent & Identically Distributed (IID)]] if:
 	- All examples come from the same distribution:
 	- #compsci361example ![[Pasted image 20240312151153.png]]
-	- 
+	- taking one of the rows out does not affect the other in any way possible
+- #compsci361example - Cards:
+	- Pick a card, put it back in the deck, re-shuffle, repeat
+	- Pick a card, put it back in the deck, repeat
+	- Pick a card, don't 
