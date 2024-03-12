@@ -7,3 +7,6 @@
 - It tends to get smaller as 'n' gets larger
 	- number of examples $\rightarrow$ more depth
 - It tends to grow as model get more "complicated"
+
+### This leads to a [[Fundamental Trade-Off]]:
+1. $E_{train}$ : how small you can make the [[Training error]] 
