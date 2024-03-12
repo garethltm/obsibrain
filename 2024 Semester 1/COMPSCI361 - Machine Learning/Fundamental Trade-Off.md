@@ -10,3 +10,6 @@
 
 ### This leads to a [[Fundamental Trade-Off]]:
 1. $E_{train}$ : how small you can make the [[Training error]] 
+2. $E_{approx}$ : how well [[Training error]] approximates the test error
+#### Simple models (like [[Decision Stumps]]):
+1. $E_{approx}
