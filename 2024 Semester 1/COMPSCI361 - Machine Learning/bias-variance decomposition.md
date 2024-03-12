@@ -5,4 +5,4 @@
 3. measure of noise
 	- how low can any model make test error
 
-- Assume $\tilde{y} \tiny{i} \normalsize = \tilde{y} \tiny =$  
+- Assume $\tilde{y} \tiny{i} \normalsize = \tilde{y} \tiny{i} \normalsize + \in$ , where $\in
