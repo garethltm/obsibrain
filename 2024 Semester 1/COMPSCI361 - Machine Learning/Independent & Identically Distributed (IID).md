@@ -4,5 +4,8 @@
 	- taking one of the rows out does not affect the other in any way possible
 - #compsci361example - Cards:
 	- Pick a card, put it back in the deck, re-shuffle, repeat
+		- [[Independent & Identically Distributed (IID)]]
 	- Pick a card, put it back in the deck, repeat
-	- Pick a card, don't 
+		- Depends
+	- Pick a card, don't put it back, re-shuffle, repeat
+		- probability is affected $\rightarrow$ not [[Independent & Identically Distributed (IID)]]
