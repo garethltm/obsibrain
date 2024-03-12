@@ -1,1 +1,4 @@
-- Training/test data 
+- Training/test data is [[Independent & Identically Distributed (IID)]] if:
+	- All examples come from the same distribution:
+	- #compsci361example ![[Pasted image 20240312151153.png]]
+	- 
