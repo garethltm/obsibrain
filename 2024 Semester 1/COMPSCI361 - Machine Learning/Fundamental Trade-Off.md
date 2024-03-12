@@ -15,3 +15,4 @@
 1. $E_{approx}$ : is low (not very sensitive to training set)
 	- too generalised, low accuracy
 2. But $E_{train}$ might be high
+#### Complex models (like deep [[]])
