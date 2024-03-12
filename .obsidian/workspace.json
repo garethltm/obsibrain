@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "7d30480a4a6e13db",
+        "id": "c72472c2c3cfce74",
         "type": "tabs",
         "children": [
           {
-            "id": "f5b8fbba6021378d",
+            "id": "69c40159f8f50222",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "conflict-files-obsidian-git.md"
-              }
+              "state": {}
             }
           },
           {
@@ -154,9 +146,7 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "conflict-files-obsidian-git.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -178,7 +168,7 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "f5b8fbba6021378d",
+  "active": "69c40159f8f50222",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
     "@images/Pasted image 20240312151153.png",
