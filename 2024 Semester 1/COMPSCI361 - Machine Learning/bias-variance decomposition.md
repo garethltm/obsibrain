@@ -12,4 +12,4 @@
 - Where expectations are taken over possible training sets of n examples
 - Bias is expected error due to having wrong model
 - Variance is expected error due to sensitivity to the training set
-- Noise ([[irreducible error]]) is the best we can hope for given the noise ($E)
+- Noise ([[irreducible error]]) is the best we can hope for given the noise ($E_{best}$)
