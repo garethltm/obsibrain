@@ -19,4 +19,4 @@
 - What can we do about this?
 	- Just ignore that data isn't [[Independent & Identically Distributed (IID)]] & hope for the best?
 	- For each day, maybe add the features from the previous day?
-	- Maybe add time as an extra feature
+	- Maybe add time as an extra feature?

@@ -1,0 +1,2 @@
+- Why does the [[Independent & Identically Distributed (IID)]] assumption make learning possible
+	- Patterns in training examples are likely
