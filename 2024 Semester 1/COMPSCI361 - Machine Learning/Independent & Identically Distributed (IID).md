@@ -9,3 +9,8 @@
 		- Depends
 	- Pick a card, don't put it back, re-shuffle, repeat
 		- probability is affected $\rightarrow$ not [[Independent & Identically Distributed (IID)]]
+- #compsci361example - Food Allergy:
+	- Do all the examples come from the same distribution?
+	- Does the order of the examples matter
+		- Yes
+- 
