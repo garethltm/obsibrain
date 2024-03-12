@@ -3,4 +3,4 @@
 2. measure of bias
 	- how low can we make the [[Training error]]
 3. measure of noise
-	- how low can any model make test 
+	- how low can any model make test error
