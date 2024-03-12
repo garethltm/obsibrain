@@ -9,6 +9,6 @@
 - Less likely to fit data well, so bias is high
 - But model does not change much if you change the data, so variance is low
 ## And degree does not effect [[irreducible error]]
-- [[irreducible error]] 
+- [[irreducible error]] comes from the best possible model
 
 Related to: [[Fundamental Trade-Off]]
