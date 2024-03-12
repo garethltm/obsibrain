@@ -17,4 +17,9 @@
 2. But $E_{train}$ might be high
 #### Complex models (like deep [[Decision Tree(s)]])
 1. $E_{train}$ : can be low
-2. But $E_{approx}$ might be high ()
+	- too specific, high accuracy
+2. But $E_{approx}$ might be high (very sensitive to training set)
+
+#### [[Training error]] vs test error for choosing depth:
+1. [[Training error]] is high for low depth (underfitting)
+2. 
