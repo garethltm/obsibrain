@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "roi",
+                "query": "artifact",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -180,11 +180,12 @@
   },
   "active": "cf80157d4a7f2506",
   "lastOpenFiles": [
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/artifact.md",
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/TOGAF Architectural Development Method (ADM).md",
+    "2023 Semester 2/COMPSCI235 - Software Development Methodologies/The 4 P's of Software Development.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/TOGAF Architecture Content Framework.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/building block(s).md",
-    "2024 Semester 1/INFOSYS303 - Solutions Architecture/artifact.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/deliverable.md",
-    "2024 Semester 1/INFOSYS303 - Solutions Architecture/TOGAF Architectural Development Method (ADM).md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/The Open Group Architectural Framework (TOGAF).md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Technical (Technology) Architecture.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Enterprise Architecture.md",
@@ -206,7 +207,6 @@
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Business Architecture.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/TOGAF Standard.md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Fitts' Law.md",
-    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Memorability.md",
     "@images/Pasted image 20240312224429.png",
     "@images/Pasted image 20240312223800.png",
     "@images/Pasted image 20240312223758.png",
