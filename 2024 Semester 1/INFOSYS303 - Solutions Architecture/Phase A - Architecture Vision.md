@@ -1,2 +1,2 @@
 - describes the initial phase of an architecture development cycle.
-- It includes information about defining the scope of the architecture development initiative, identifying the stakeholders
+- It includes information about defining the scope of the architecture development initiative, identifying the stakeholders, creating the Architecture Vision & obtaining approval to proceed with the architecture development
