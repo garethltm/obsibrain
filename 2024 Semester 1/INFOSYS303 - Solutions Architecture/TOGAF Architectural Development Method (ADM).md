@@ -4,4 +4,6 @@
 	3. [[Data Architecture]]
 	4. [[Technical Architecture]]
 
+The [[TOGAF Architectural Development Method (ADM)]] provides a tested & repeatable process for 
+
 ![[Pasted image 20240313160616.png]]
