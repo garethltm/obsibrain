@@ -1,2 +1,2 @@
-- an error that occurs during
+- an error that occurs during model training
 - fraction of times our prediction $\hat{y}_i$ does not equal the true $y_i$ label
