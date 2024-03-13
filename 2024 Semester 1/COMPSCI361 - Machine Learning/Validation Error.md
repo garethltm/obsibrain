@@ -9,5 +9,9 @@
 	2. Test model based on validation data
 
 ![[Pasted image 20240313170341.png]]
-1. Train: model = train($X_{train}$, $Y_{train}$)
-2. Predict: $\hat{y}
+1. Train: 
+	- model = train($X_{train}$, $Y_{train}$)
+2. Predict: 
+	- $\hat{y}$ = predict(model, $X_{validate}$)
+3. Validate: 
+	1
