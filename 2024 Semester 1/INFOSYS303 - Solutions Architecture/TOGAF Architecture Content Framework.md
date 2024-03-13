@@ -1,1 +1,2 @@
-- provides a structural model for architectural content that allows major work products to cons
+- provides a structural model for architectural content that allows major work products to consistently defined, structured & presented. It uses the follow 3 categories to describe the type of architectural work product within the context of use:
+	- a [[deliverable]]
