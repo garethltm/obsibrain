@@ -1,1 +1,1 @@
-- 
+- a work product that is contractually specified & in turn formally reviewed, approved & signed off by the stakeholders
