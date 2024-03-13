@@ -2,7 +2,7 @@
 	1. [[Business Architecture]] (High-level conception)
 	2. [[Applications Architecture]]
 	3. [[Data Architecture]]
-	4. [[Technical Architecture]]
+	4. [[Technical (Technology) Architecture]]
 
 The [[TOGAF Architectural Development Method (ADM)]] provides a tested & repeatable process for developing architectures
 The [[TOGAF Architectural Development Method (ADM)]] includes establishing an architecture framework, developing architecture content, transitioning, & governing the realization of architectures.
