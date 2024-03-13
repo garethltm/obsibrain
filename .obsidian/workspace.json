@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/The Open Group Architectural Framework (TOGAF).md",
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/TOGAF Architectural Development Method (ADM).md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/The Open Group Architectural Framework (TOGAF).md",
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/TOGAF Architectural Development Method (ADM).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/The Open Group Architectural Framework (TOGAF).md",
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/TOGAF Architectural Development Method (ADM).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/The Open Group Architectural Framework (TOGAF).md"
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/TOGAF Architectural Development Method (ADM).md"
               }
             }
           },
@@ -155,7 +155,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/The Open Group Architectural Framework (TOGAF).md"
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/TOGAF Architectural Development Method (ADM).md"
               }
             }
           }
@@ -180,11 +180,11 @@
   },
   "active": "cf80157d4a7f2506",
   "lastOpenFiles": [
-    "2024 Semester 1/INFOSYS303 - Solutions Architecture/TOGAF Architectural Development Method (ADM).md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/The Open Group Architectural Framework (TOGAF).md",
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Technical (Technology) Architecture.md",
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/TOGAF Architectural Development Method (ADM).md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Enterprise Architecture.md",
     "2023 Semester 2/COMPSCI235 - Software Development Methodologies/INVEST.md",
-    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Technical (Technology) Architecture.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Return On Investment (ROI).md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Requirements Management.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Phase H - Architecture Change Management.md",
