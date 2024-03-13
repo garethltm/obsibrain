@@ -7,3 +7,7 @@
 2. Split training examples into training set & validation set:
 	1. Train model based on training data
 	2. Test model based on validation data
+
+![[Pasted image 20240313170341.png]]
+1. Train: model = train($X_{train}$, $Y_{train}$)
+2. Predict: $\hat{y}
