@@ -5,6 +5,6 @@
 	4. [[Technical Architecture]]
 
 The [[TOGAF Architectural Development Method (ADM)]] provides a tested & repeatable process for developing architectures
-The [[adm]]
+The [[TOGAF Architectural Development Method (ADM)]] includes establishing an architecture framework, developing architecture content, transitioning, & governing the realization of architectures
 
 ![[Pasted image 20240313160616.png]]
