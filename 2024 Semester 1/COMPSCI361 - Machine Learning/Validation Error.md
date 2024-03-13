@@ -14,4 +14,4 @@
 2. Predict: 
 	- $\hat{y}$ = predict(model, $X_{validate}$)
 3. Validate: 
-	1
+	- error = $\sum (\hat{y} \nequal$  
