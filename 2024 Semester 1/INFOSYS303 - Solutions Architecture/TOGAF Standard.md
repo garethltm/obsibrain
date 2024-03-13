@@ -20,4 +20,5 @@
 
 ## Purpose
 The [[TOGAF Standard]] considers the enterprise as a system & endeavors to strike a balance between 
-- pr
+- promoting the concepts & terminology drawn relevant standards
+- commonly accepted terminology that is familiar to the majority of the [[The Open Group Architectural Framework (TOGAF)]] readership
