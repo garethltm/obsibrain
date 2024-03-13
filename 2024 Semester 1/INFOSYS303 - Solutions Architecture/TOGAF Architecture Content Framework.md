@@ -1,0 +1,1 @@
+- provides a structural model for architectural content that allows major work products to cons
