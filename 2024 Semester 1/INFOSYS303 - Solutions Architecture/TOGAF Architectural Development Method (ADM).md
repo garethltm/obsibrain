@@ -17,3 +17,5 @@ All these activities are carried out within an iterative cycle of continuous arc
 6. [[Phase E - Opportunities & Solutions]]
 7. [[Phase F - Migration Planning]]
 8. [[Phase G - Implementation Governance]]
+9. [[Phase H - Architecture Change Management]]
+- [[Requirements Management]]
