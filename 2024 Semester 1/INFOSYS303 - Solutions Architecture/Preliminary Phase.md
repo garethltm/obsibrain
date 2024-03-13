@@ -1,0 +1,1 @@
+- describes the preparation & initiation activities required to create an Architecture Capability including customization of [[The Open Group Architectural Framework (TOGAF)]] framework & definition of Architecture Principles
