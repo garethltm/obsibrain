@@ -1,2 +1,2 @@
 - an architectural work product that describes an aspect of the architecture
-- are generally classified as catalogs (list of things), matrices (showing relationships between things) & diagrams (pictures of things). An architectural deliverable may contain 1 or more [[artifact(s)]] & [[artifact(s)]] will produc
+- are generally classified as catalogs (list of things), matrices (showing relationships between things) & diagrams (pictures of things). An architectural deliverable may contain 1 or more [[artifact(s)]] & [[artifact(s)]] will form the content of Architecture Repository
