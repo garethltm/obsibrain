@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Validation Error.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Training error.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Validation Error.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Training error.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Validation Error.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Training error.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Validation Error.md"
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Training error.md"
               }
             }
           },
@@ -155,7 +155,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Validation Error.md"
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Training error.md"
               }
             }
           }
@@ -180,6 +180,7 @@
   },
   "active": "cf80157d4a7f2506",
   "lastOpenFiles": [
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Validation Error.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Federal Enterprise Architecture Framework (FEAF).md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Enterprise Architecture.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Gartner's Enterprise Architecture Framework (GEAF).md",
@@ -207,7 +208,6 @@
     "@images/Pasted image 20240313164919.png",
     "@images/Pasted image 20240313164840.png",
     "2023 Semester 2/COMPSCI235 - Software Development Methodologies/The 4 P's of Software Development.md",
-    "2023 Semester 2/COMPSCI235 - Software Development Methodologies/Continuous Deployment.md",
     "@images/Pasted image 20240313160616.png",
     "@images/Pasted image 20240312224429.png",
     "@images/Pasted image 20240312223800.png",

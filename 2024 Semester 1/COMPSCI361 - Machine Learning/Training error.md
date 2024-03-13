@@ -1,1 +1,2 @@
+- an error that occurs during
 - fraction of times our prediction $\hat{y}_i$ does not equal the true $y_i$ label
