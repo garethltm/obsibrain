@@ -13,3 +13,4 @@ All these activities are carried out within an iterative cycle of continuous arc
 2. [[Phase A - Architecture Vision]]
 3. [[Phase B - Business Architecture]]
 4. [[Phase C - Information Systems Architecture]]
+5. [[Phase D - Technology Architecture]]

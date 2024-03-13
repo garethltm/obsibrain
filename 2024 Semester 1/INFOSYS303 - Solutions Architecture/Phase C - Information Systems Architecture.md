@@ -1,1 +1,1 @@
-- describes the development of Information Systems Architecture to support the 
+- describes the development of Information Systems Architecture to support the agreed [[Phase A - Architecture Vision]]
