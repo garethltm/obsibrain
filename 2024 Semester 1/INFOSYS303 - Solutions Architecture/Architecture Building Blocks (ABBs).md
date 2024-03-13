@@ -1,1 +1,1 @@
-- typically describe required capability & shape the specification of Solution Building Blocks (SBBs)
+- typically describe required capability & shape the specification of [[Solution Building Blocks (SBBs)]]
