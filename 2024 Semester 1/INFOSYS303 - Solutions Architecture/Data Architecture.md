@@ -1,2 +1,2 @@
 - Responsible for defining the rules & standards to store & integrate data
-- describes the structure of an o
+- describes the structure of an organization's logical & physical data assets & data management resources
