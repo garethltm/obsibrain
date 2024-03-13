@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/TOGAF Architectural Development Method (ADM).md",
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Preliminary Phase.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/TOGAF Architectural Development Method (ADM).md",
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Preliminary Phase.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/TOGAF Architectural Development Method (ADM).md",
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Preliminary Phase.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/TOGAF Architectural Development Method (ADM).md"
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Preliminary Phase.md"
               }
             }
           },
@@ -155,7 +155,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/TOGAF Architectural Development Method (ADM).md"
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Preliminary Phase.md"
               }
             }
           }
@@ -180,9 +180,10 @@
   },
   "active": "cf80157d4a7f2506",
   "lastOpenFiles": [
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/TOGAF Architectural Development Method (ADM).md",
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Preliminary Phase.md",
     "@images/Pasted image 20240313160616.png",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Technical Architecture.md",
-    "2024 Semester 1/INFOSYS303 - Solutions Architecture/TOGAF Architectural Development Method (ADM).md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Applications Architecture.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Data Architecture.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Business Architecture.md",
@@ -215,7 +216,6 @@
     "@images/Pasted image 20240312151153.png",
     "@images/Pasted image 20240311111602.png",
     "@images/Pasted image 20240311092656.png",
-    "@images/Pasted image 20240310230810.png",
     "2024 Semester 1",
     "2023 Semester 2",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture",
