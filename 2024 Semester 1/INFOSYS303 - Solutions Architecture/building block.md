@@ -1,0 +1,1 @@
+- represents a potentially re-usable component that can be combined with other [[Building a planner]]
