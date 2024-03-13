@@ -8,4 +8,6 @@ The [[TOGAF Architectural Development Method (ADM)]] provides a tested & repeata
 The [[TOGAF Architectural Development Method (ADM)]] includes establishing an architecture framework, developing architecture content, transitioning, & governing the realization of architectures.
 All these activities are carried out within an iterative cycle of continuous architecture definition & realization that allows organization to transform their enterprises in a controlled manner in response to business goals & oppportunities.
 ![[Pasted image 20240313160616.png]]
-1. Preliminary Phase
+## Phases within the [[TOGAF Architectural Development Method (ADM)]]
+1. [[Preliminary Phase]]
+2. [[Phase A: Architecture Vision]]
