@@ -1,1 +1,2 @@
 - a work product that is contractually specified & in turn formally reviewed, approved & signed off by the stakeholders
+- represent the output of projects & those [[deliverable]] that are in documentation form will t
