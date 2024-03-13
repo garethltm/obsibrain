@@ -1,1 +1,2 @@
 - Responsible for defining the rules & standards to store & integrate data
+- describes the structure of an o
