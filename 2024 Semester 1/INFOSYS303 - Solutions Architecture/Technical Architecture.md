@@ -1,1 +1,2 @@
 - Defines platforms, service & all surrounding technology components to serve as a reference for development teams
+- describes the digital architecture & the logical software & hardware infrastructure capabilities & standards that are required to support the deployment of business, data & applications services. Th

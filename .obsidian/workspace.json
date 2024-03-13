@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Applications Architecture.md",
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Technical Architecture.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Applications Architecture.md",
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Technical Architecture.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Applications Architecture.md",
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Technical Architecture.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Applications Architecture.md"
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Technical Architecture.md"
               }
             }
           },
@@ -155,7 +155,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Applications Architecture.md"
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Technical Architecture.md"
               }
             }
           }
@@ -181,6 +181,7 @@
   "active": "cf80157d4a7f2506",
   "lastOpenFiles": [
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/TOGAF Architectural Development Method (ADM).md",
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Applications Architecture.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Data Architecture.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Business Architecture.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/The Open Group Architectural Framework (TOGAF).md",
@@ -205,7 +206,6 @@
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Usability Evaluations.md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Usability.md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Study 01 - Proprioceptive Gestures.md",
-    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Fidelity Prototypes.md",
     "@images/Pasted image 20240312224429.png",
     "@images/Pasted image 20240312223800.png",
     "@images/Pasted image 20240312223758.png",
