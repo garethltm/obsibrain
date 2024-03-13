@@ -1,1 +1,2 @@
 - an architectural work product that describes an aspect of the architecture
+- are generally classified
