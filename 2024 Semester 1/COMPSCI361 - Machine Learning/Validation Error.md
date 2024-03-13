@@ -3,3 +3,7 @@
 	- We care about [[Test error]]
 	- But we can't look at test data
 
+1. Use part of training data to approximate [[Test error]]
+2. Split training examples into training set & validation set:
+	1. Train model based on training data
+	2. Test
