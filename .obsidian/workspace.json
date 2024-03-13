@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/The Open Group Architectural Framework (TOGAF).md",
+                "file": "2023 Semester 2/COMPSCI235 - Software Development Methodologies/INVEST.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "acctg",
+                "query": "roi",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/The Open Group Architectural Framework (TOGAF).md",
+                "file": "2023 Semester 2/COMPSCI235 - Software Development Methodologies/INVEST.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/The Open Group Architectural Framework (TOGAF).md",
+                "file": "2023 Semester 2/COMPSCI235 - Software Development Methodologies/INVEST.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/The Open Group Architectural Framework (TOGAF).md"
+                "file": "2023 Semester 2/COMPSCI235 - Software Development Methodologies/INVEST.md"
               }
             }
           },
@@ -155,7 +156,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/The Open Group Architectural Framework (TOGAF).md"
+                "file": "2023 Semester 2/COMPSCI235 - Software Development Methodologies/INVEST.md"
               }
             }
           }
@@ -180,8 +181,9 @@
   },
   "active": "cf80157d4a7f2506",
   "lastOpenFiles": [
-    "2024 Semester 1/INFOSYS303 - Solutions Architecture/TOGAF Architectural Development Method (ADM).md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/The Open Group Architectural Framework (TOGAF).md",
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Return-On-Investment (ROI).md",
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/TOGAF Architectural Development Method (ADM).md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Requirements Management.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Phase H - Architecture Change Management.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Phase G - Implementation Governance.md",
@@ -206,7 +208,6 @@
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Performance Measurement(s).md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Match between System & the Real World.md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Interaction.md",
-    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Error Frequency & Severity.md",
     "@images/Pasted image 20240312224429.png",
     "@images/Pasted image 20240312223800.png",
     "@images/Pasted image 20240312223758.png",
