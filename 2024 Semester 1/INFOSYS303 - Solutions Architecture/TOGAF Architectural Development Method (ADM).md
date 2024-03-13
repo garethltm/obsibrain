@@ -3,3 +3,5 @@
 	2. [[Applications Architecture]]
 	3. [[Data Architecture]]
 	4. [[Technical Architecture]]
+
+![[Pasted image 20240313160616.png]]
