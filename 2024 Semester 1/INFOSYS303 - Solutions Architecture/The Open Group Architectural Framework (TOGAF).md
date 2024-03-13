@@ -17,7 +17,7 @@
 	2. Avoiding lock-in to proprietary solutions by standardizing open methods for [[Enterprise Architecture]]
 		- Providing general ways for organizations to follow methods & processes
 	3. Saving time & money & utilizing resources more effectively
-	4. Achieving demonstrable [[Return-On-Investment (ROI)]]
+	4. Achieving demonstrable [[Return On Investment (ROI)]]
 
 ## Architecture Development Model
 - a clear roadmap for how to create the [[TOGAF Architectural Development Method (ADM)]]

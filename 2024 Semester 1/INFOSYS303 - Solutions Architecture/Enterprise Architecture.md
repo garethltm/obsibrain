@@ -63,9 +63,9 @@
 	7. Easier upgrade & exchange of system components
 10. Better return on existing investment, reduced risk for future investment:
 	1. Reduced complexity in business & IT
-	2. Maximized [[Return-On-Investment (ROI)]] in existing business & IT
+	2. Maximized [[Return On Investment (ROI)]] in existing business & IT
 	3. The flexibility to make, buy or outsource business & IT solutions
-	4. Understanding how [[Return-On-Investment (ROI)]] changes over time
+	4. Understanding how [[Return On Investment (ROI)]] changes over time
 11. Faster, simpler & cheaper procurement:
 	1. Buying decisions are simpler, because the information governing procurement is readily available in a coherent plan
 	2. The procurement process is faster
