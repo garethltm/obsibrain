@@ -20,4 +20,5 @@ All these activities are carried out within an iterative cycle of continuous arc
 9. [[Phase H - Architecture Change Management]]
 - [[Requirements Management]]
 
-## Deliverables, Ar
+## Deliverables,  Artifacts & Building Blocks
+- Architects executing the [[TOGAF Architectural Development Method (ADM)]] will produce a number of p
