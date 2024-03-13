@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Phase F - Migration Planning.md",
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Phase G - Implementation Governance.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Phase F - Migration Planning.md",
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Phase G - Implementation Governance.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Phase F - Migration Planning.md",
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Phase G - Implementation Governance.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Phase F - Migration Planning.md"
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Phase G - Implementation Governance.md"
               }
             }
           },
@@ -155,7 +155,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Phase F - Migration Planning.md"
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Phase G - Implementation Governance.md"
               }
             }
           }
@@ -181,6 +181,7 @@
   "active": "cf80157d4a7f2506",
   "lastOpenFiles": [
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/TOGAF Architectural Development Method (ADM).md",
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Phase G - Implementation Governance.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Phase F - Migration Planning.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Phase E - Opportunities & Solutions.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Phase D - Technology Architecture.md",
@@ -206,7 +207,6 @@
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Error Frequency & Severity.md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/A world of heuristics.md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Design Review.md",
-    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Ease of learning.md",
     "@images/Pasted image 20240312224429.png",
     "@images/Pasted image 20240312223800.png",
     "@images/Pasted image 20240312223758.png",

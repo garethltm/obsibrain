@@ -16,3 +16,4 @@ All these activities are carried out within an iterative cycle of continuous arc
 5. [[Phase D - Technology Architecture]]
 6. [[Phase E - Opportunities & Solutions]]
 7. [[Phase F - Migration Planning]]
+8. [[Phase G - Implementation Governance]]
