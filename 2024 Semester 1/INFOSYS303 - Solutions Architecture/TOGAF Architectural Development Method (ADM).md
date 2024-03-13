@@ -10,4 +10,4 @@ All these activities are carried out within an iterative cycle of continuous arc
 ![[Pasted image 20240313160616.png]]
 ## Phases within the [[TOGAF Architectural Development Method (ADM)]]
 1. [[Preliminary Phase]]
-2. [[Phase A: Architecture Vision]]
+2. [[Phase A - Architecture Vision]]
