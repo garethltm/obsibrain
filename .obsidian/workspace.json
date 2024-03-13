@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Solution Building Blocks (SBBs).md",
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Applications Architecture.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Solution Building Blocks (SBBs).md",
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Applications Architecture.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Solution Building Blocks (SBBs).md",
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Applications Architecture.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Solution Building Blocks (SBBs).md"
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Applications Architecture.md"
               }
             }
           },
@@ -155,7 +155,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Solution Building Blocks (SBBs).md"
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Applications Architecture.md"
               }
             }
           }
@@ -180,17 +180,17 @@
   },
   "active": "cf80157d4a7f2506",
   "lastOpenFiles": [
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/ArchiMate.md",
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Business Architecture.md",
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Business Architect (BA).md",
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Enterprise Architect (EA).md",
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Enterprise Architecture.md",
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/IT Architects.md",
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/deliverable.md",
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/building block(s).md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Architecture Building Blocks (ABBs).md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Solution Building Blocks (SBBs).md",
-    "2024 Semester 1/INFOSYS303 - Solutions Architecture/building block(s).md",
-    "2024 Semester 1/INFOSYS303 - Solutions Architecture/deliverable.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/artifact(s).md",
-    "2024 Semester 1/INFOSYS303 - Solutions Architecture/IT Architects.md",
-    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Enterprise Architecture.md",
-    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Enterprise Architect (EA).md",
-    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Business Architect (BA).md",
-    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Business Architecture.md",
-    "2024 Semester 1/INFOSYS303 - Solutions Architecture/ArchiMate.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Applications Architecture.md",
     "2023 Semester 2/COMPSCI235 - Software Development Methodologies/Continuous Deployment.md",
     "2023 Semester 2/COMPSCI235 - Software Development Methodologies/The 4 P's of Software Development.md",

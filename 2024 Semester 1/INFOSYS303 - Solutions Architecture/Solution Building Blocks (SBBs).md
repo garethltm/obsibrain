@@ -1,3 +1,3 @@
 - represents components that will be used to implement required capability
 - #infosys303example 
-- a network is a [[building block(s)]] that can be described through complementary [[artifact(s)]] & then put to use to realize so
+- a network is a [[building block(s)]] that can be described through complementary [[artifact(s)]] & then put to use to realize solutions for the enterprise
