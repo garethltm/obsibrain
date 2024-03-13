@@ -21,4 +21,5 @@ All these activities are carried out within an iterative cycle of continuous arc
 - [[Requirements Management]]
 
 ## Deliverables,  Artifacts & Building Blocks
-- Architects executing the [[TOGAF Architectural Development Method (ADM)]] will produce a number of p
+- Architects executing the [[TOGAF Architectural Development Method (ADM)]] will produce a number of outputs as a result of their efforts, such as process flows, architectural requirements, project plans, project compliance assessments, etc.
+- 
