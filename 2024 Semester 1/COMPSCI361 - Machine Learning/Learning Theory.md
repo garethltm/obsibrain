@@ -4,7 +4,7 @@
 	- But is often a good approximation
 	- There are other possible assumptions
 - Also, we're assuming [[Independent & Identically Distributed (IID)]] across examples but not across features
-- [[Learning Theory]] explores how [[Training error]] is related to test error
+- [[Learning Theory]] explores how [[Training error]] is related to [[test error]]
 - We'll look at a simple example, using this notation:
 	- $E_{train}$ is the error on training data
 	- $E_{test}$ is the error on testing data

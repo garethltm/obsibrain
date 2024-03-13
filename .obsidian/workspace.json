@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Fundamental Trade-Off.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Test error.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Fundamental Trade-Off.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Test error.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Fundamental Trade-Off.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Test error.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Fundamental Trade-Off.md"
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Test error.md"
               }
             }
           },
@@ -156,7 +156,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Fundamental Trade-Off.md"
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Test error.md"
               }
             }
           }
@@ -181,6 +181,10 @@
   },
   "active": "cf80157d4a7f2506",
   "lastOpenFiles": [
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Refined Fundamental Trade-Off.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Learning Theory.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Golden Rule of Machine Learning.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Fundamental Trade-Off.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Decision Stumps.md",
     "2023 Semester 2/COMPSCI235 - Software Development Methodologies/Continuous Integration (CI).md",
     "2023 Semester 2/COMPSCI235 - Software Development Methodologies/Construction (Code, Test).md",
@@ -203,10 +207,6 @@
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Architecture Building Blocks (ABBs).md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Phase H - Architecture Change Management.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Phase G - Implementation Governance.md",
-    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Phase F - Migration Planning.md",
-    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Phase E - Opportunities & Solutions.md",
-    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Phase D - Technology Architecture.md",
-    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Phase C - Information Systems Architecture.md",
     "@images/Pasted image 20240313164919.png",
     "@images/Pasted image 20240313164840.png",
     "@images/Pasted image 20240313160616.png",
