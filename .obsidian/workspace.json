@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "bb92031af260bf25",
+        "id": "b4d36a56a2032e85",
         "type": "tabs",
         "children": [
           {
-            "id": "cf80157d4a7f2506",
+            "id": "c6b370a1862d2761",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Validation Error.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Validation Error.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Validation Error.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Validation Error.md"
-              }
+              "state": {}
             }
           },
           {
@@ -154,9 +146,7 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Validation Error.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -178,8 +168,9 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "cf80157d4a7f2506",
+  "active": "c6b370a1862d2761",
   "lastOpenFiles": [
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Validation Error.md",
     "@images/Pasted image 20240313170341.png",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Test error.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Refined Fundamental Trade-Off.md",
@@ -192,7 +183,6 @@
     "2024 Semester 1/COMPSCI361 - Machine Learning/Bias-Variance vs Fundamental Trade-Off.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/bias-variance decomposition.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Training error.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Validation Error.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Federal Enterprise Architecture Framework (FEAF).md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Enterprise Architecture.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Gartner's Enterprise Architecture Framework (GEAF).md",
@@ -215,7 +205,6 @@
     "@images/Pasted image 20240312222435.png",
     "@images/Pasted image 20240312222120.png",
     "@images/Pasted image 20240312221008.png",
-    "@images/Pasted image 20240312151153.png",
     "2024 Semester 1",
     "2023 Semester 2",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture",
