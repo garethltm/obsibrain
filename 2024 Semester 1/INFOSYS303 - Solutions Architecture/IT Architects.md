@@ -4,5 +4,5 @@
 	2. [[Enterprise Architect (EA)]]
 	3. [[Solution Architect (SA)]]
 	4. [[Technical Architect (TA)]]
-- This is different from the [[The Open Group Architectural Framework (TOGAF)]] ADM's 4 domains of architecture
+- This is different from the [[TOGAF Architectural Development Method (ADM)]]'s 4 domains of architecture
 - Small businesses/firms do not usually have these sort of [[IT Architects]]

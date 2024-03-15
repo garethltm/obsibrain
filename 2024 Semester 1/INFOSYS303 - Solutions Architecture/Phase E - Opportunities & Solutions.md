@@ -1,0 +1,1 @@
+- conducts initial implementation planning & identification of delivery vehicles for the architecture defined in the previous phases

@@ -9,7 +9,7 @@
 - Valuable
 	- product owner ought to be able to understand why a story is valuable
 >	#Example 
->	usually measured by Return On Investment (ROI), Business Value
+>	usually measured by [[Return On Investment (ROI)]], Business Value
 
 
 - Estimable

@@ -10,7 +10,7 @@
 
 ### This leads to a [[Fundamental Trade-Off]]:
 1. $E_{train}$ : how small you can make the [[Training error]] 
-2. $E_{approx}$ : how well [[Training error]] approximates the test error
+2. $E_{approx}$ : how well [[Training error]] approximates the [[test error]]
 #### Simple models (like [[Decision Stumps]]):
 1. $E_{approx}$ : is low (not very sensitive to training set)
 	- too generalised, low accuracy
@@ -20,7 +20,7 @@
 	- too specific, high accuracy
 2. But $E_{approx}$ might be high (very sensitive to training set)
 
-#### [[Training error]] vs test error for choosing depth:
+#### [[Training error]] vs [[test error]] for choosing depth:
 1. [[Training error]] is high for low depth (underfitting)
 2. [[Training error]] gets better with depth
-3. Test error initially goes down, but eventually increases ([[2024 Semester 1/COMPSCI361 - Machine Learning/Overfitting|Overfitting]])![[Pasted image 20240312222120.png]]
+3. [[Test error]] initially goes down, but eventually increases ([[2024 Semester 1/COMPSCI361 - Machine Learning/Overfitting|Overfitting]])![[Pasted image 20240312222120.png]]

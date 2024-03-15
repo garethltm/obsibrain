@@ -1,1 +1,2 @@
 - Responsible for mapping the relationships between a business's operational hierarchies, policies, capabilities & initiatives
+- defines the business strategy, governance, organization & key business proceses

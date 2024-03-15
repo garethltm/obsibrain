@@ -1,0 +1,2 @@
+- represents a potentially re-usable component that can be combined with other [[building block(s)]] to deliver architectures & solutions
+- can be defined at various levels of detail, depending on what stage of architecture development has been reached
