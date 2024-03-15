@@ -11,8 +11,12 @@
             "id": "4a9e3ad59c74289b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Design Walkthrough.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Design Walkthrough.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Design Walkthrough.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Design Walkthrough.md"
+              }
             }
           },
           {
@@ -146,7 +154,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {}
+              "state": {
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Design Walkthrough.md"
+              }
             }
           }
         ],
@@ -170,6 +180,17 @@
   },
   "active": "4a9e3ad59c74289b",
   "lastOpenFiles": [
+    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Design Review.md",
+    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/A world of heuristics.md",
+    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Error Frequency & Severity.md",
+    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Ease of learning.md",
+    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Efficiency of use.md",
+    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Heuristic evaluation(s).md",
+    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Interaction.md",
+    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Match between System & the Real World.md",
+    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Prime pixel.md",
+    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/User eXperience (UX).md",
+    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/UX Design.md",
     "conflict-files-obsidian-git.md",
     "@images/Pasted image 20240313170341.png",
     "@images/Pasted image 20240313164919.png",
@@ -193,18 +214,8 @@
     "2024 Semester 1/COMPSCI361 - Machine Learning/Refined Fundamental Trade-Off.md",
     "@images/Pasted image 20240312222435.png",
     "2024 Semester 1/COMPSCI361 - Machine Learning/irreducible error.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Fundamental Trade-Off.md",
     "@images/Pasted image 20240312222120.png",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Decision Tree(s).md",
     "@images/Pasted image 20240312221008.png",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Learning Theory.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Machine Learning (ML).md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Golden Rule of Machine Learning.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Training error.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Independent & Identically Distributed (IID).md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Information gain.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/entropy.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Decision Tree Pruning.md",
     "2024 Semester 1",
     "2023 Semester 2",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture",
