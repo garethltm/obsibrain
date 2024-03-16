@@ -5,4 +5,7 @@
 	- Might optimize over 20 values of depth, instead of millions+ of possible trees
 - But we can still cause [[2024 Semester 1/COMPSCI361 - Machine Learning/Overfitting|Overfitting]] to the [[Validation Error]] (common in practice)
 	- [[Validation Error]] is only an unbiased approximation if you use it once
-	- Once you start optimizing it, you start 
+	- Once you start optimizing it, you start to cause [[2024 Semester 1/COMPSCI361 - Machine Learning/Overfitting|Overfitting]] to the [[Validation set(s)]]
+- This is most important when the [[Validation set(s)]] is small
+	- The [[Optimization Bias]] decreases as the number of validation examples increases
+- Goal
