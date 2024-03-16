@@ -28,4 +28,4 @@
 - The [[Optimization Bias]] grows with the number of things we try
 	- Complexity of the set of models we search over
 - But, [[Optimization Bias]] shrinks quickly with the number of examples
-	- But i
+	- But it's still non-zero & growing if you over-use your validation set
