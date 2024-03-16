@@ -1,9 +1,9 @@
 - We use [[Validation Error]] when:
 	- How do we decide [[Decision Tree(s)]] depth?
-	- We care about [[Test error]]
+	- We care about [[test error]]
 	- But we can't look at test data
 
-1. Use part of training data to approximate [[Test error]]
+1. Use part of training data to approximate [[test error]]
 2. Split training examples into training set & validation set:
 	1. Train model based on training data
 	2. Test model based on validation data
@@ -17,7 +17,7 @@
 	- error = $\sum (\hat{y} \not{=}\ y_{validate})$ 
 - Note: if examples are ordered, split should be random
 
-[[Independent & Identically Distributed (IID)]] data: [[Validation Error]] is unbiased approximation of [[Test error]]
+[[Independent & Identically Distributed (IID)]] data: [[Validation Error]] is unbiased approximation of [[test error]]
 $\epsilon (E_{valid})$ = $\epsilon (E_{test})$
 
 #compsci361example 
