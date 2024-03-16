@@ -16,3 +16,6 @@
 3. Validate: 
 	- error = $\sum (\hat{y} \not{=}\ y_{validate})$ 
 - Note: if examples are ordered, split should be random
+
+[[Independent & Identically Distributed (IID)]] data: [[Validation Error]] is unbiased approximation of [[Test error]]
+$
