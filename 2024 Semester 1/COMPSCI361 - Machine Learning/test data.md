@@ -1,0 +1,3 @@
+- **to ensure the model works for the given testing data**. 
+- The testing data should meet two criteria: 
+	- It should represent the actual dataset that the model will be used on. This means that the testing data should have the same distribution of features as the actual dataset.
