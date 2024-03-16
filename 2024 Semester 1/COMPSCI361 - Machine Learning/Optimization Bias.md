@@ -22,3 +22,5 @@
 - If we instead used a 100-question test then:
 	- Expected grade from best over 1 randomly-filled test is 25%
 	- Expected grade from best over 2-randomly-filled test is ~27%
+	- Expected grade from best over 10-randomly-filled test is ~32%
+	- 
