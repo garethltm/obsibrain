@@ -2,4 +2,5 @@
 
 ## [[2024 Semester 1/COMPSCI361 - Machine Learning/Overfitting|Overfitting]] to the [[Validation set(s)]]
 - [[Validation Error]] usually has [[Optimization Bias]] than [[training error]]
-	- Might optimize over 20 values of d
+	- Might optimize over 20 values of depth, instead of millions+ of possible trees
+- But w
