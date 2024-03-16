@@ -18,4 +18,4 @@
 - Note: if examples are ordered, split should be random
 
 [[Independent & Identically Distributed (IID)]] data: [[Validation Error]] is unbiased approximation of [[Test error]]
-$\Epsilon(E_valid)
+$\Epsilon (E_{valid})$ =
