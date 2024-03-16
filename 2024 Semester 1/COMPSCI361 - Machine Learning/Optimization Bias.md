@@ -16,4 +16,6 @@
 		- [[Optimization Bias]] of ~8%
 	- If you take the best among 10 random tests, expected grade is ~47%
 	- If you take the best among 100 random tests, expected grade is ~62%
-- Model will overfit $\rightarrow$ 
+- Model will overfit $\rightarrow$ You have more choices
+- But on new questions the random choice accuracy is still 25%
+- f we instead used a 100-question test then
