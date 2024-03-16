@@ -29,5 +29,3 @@
 	- Complexity of the set of models we search over
 - But, [[Optimization Bias]] shrinks quickly with the number of examples
 	- But it's still non-zero & growing if you over-use your validation set
-
-##
