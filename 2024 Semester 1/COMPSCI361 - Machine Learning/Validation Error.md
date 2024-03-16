@@ -1,11 +1,11 @@
 - We use [[Validation Error]] when:
 	- How do we decide [[Decision Tree(s)]] depth?
 	- We care about [[test error]]
-	- But we can't look at test data
+	- ***But we can't look at test data***
 
 1. Use part of training data to approximate [[test error]]
 2. Split training examples into training set & validation set:
-	1. Train model based on training data
+	1. Train model based on [[training data]]
 	2. Test model based on validation data
 
 ![[Pasted image 20240313170341.png]]
