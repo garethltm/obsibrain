@@ -8,4 +8,4 @@
 	- Once you start optimizing it, you start to cause [[2024 Semester 1/COMPSCI361 - Machine Learning/Overfitting|Overfitting]] to the [[Validation set(s)]]
 - This is most important when the [[Validation set(s)]] is small
 	- The [[Optimization Bias]] decreases as the number of validation examples increases
-- Goal
+- Goal: to do well on the test set (new data), NOT the [[Validation set(s)]] (where we already know the labels)
