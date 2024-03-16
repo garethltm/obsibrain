@@ -36,6 +36,7 @@
 	- Risk of [[2024 Semester 1/COMPSCI361 - Machine Learning/Overfitting|Overfitting]] to [[Validation set(s)]] is low if we try 10 things
 - [[Optimization Bias]] is large if you compare a lot of models
 	- All possible [[Decision Tree(s)]] of depth 10 or less
-	- Here we are using the [[Validation set(s)]] to pick between 
-		- could have low [[Validation Error]] by chance
-	- 
+	- Here we are using the [[Validation set(s)]] to pick between a billion+ models
+		- Risk of [[2024 Semester 1/COMPSCI361 - Machine Learning/Overfitting|Overfitting]] to [[Validation set(s)]]: could have low [[Validation Error]] by chance
+	- If you did this, you might want to have a second [[Validation set(s)]] to detect [[2024 Semester 1/COMPSCI361 - Machine Learning/Overfitting|Overfitting]]
+- [[Optimization Bias]] shrinks as you grow size of [[valid]]
