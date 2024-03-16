@@ -39,4 +39,8 @@
 	- Here we are using the [[Validation set(s)]] to pick between a billion+ models
 		- Risk of [[2024 Semester 1/COMPSCI361 - Machine Learning/Overfitting|Overfitting]] to [[Validation set(s)]]: could have low [[Validation Error]] by chance
 	- If you did this, you might want to have a second [[Validation set(s)]] to detect [[2024 Semester 1/COMPSCI361 - Machine Learning/Overfitting|Overfitting]]
-- [[Optimization Bias]] shrinks as you grow size of [[valid]]
+- [[Optimization Bias]] shrinks as you grow size of [[Validation set(s)]]
+	- More data = 'Better'
+
+## [[Optimization Bias]] leads to Publication Bias
+- Suppose that 20 researches perform the exact same experiment
