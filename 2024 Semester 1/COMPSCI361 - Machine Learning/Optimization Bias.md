@@ -4,7 +4,10 @@
 	- During learning, we could search over tons of different [[Decision Tree(s)]]
 	- So we can get lucky & find 1 with low [[training error]] by chance
 		- [[2024 Semester 1/COMPSCI361 - Machine Learning/Overfitting|Overfitting]] of the [[training error]]
-- [[Optimization Bias]] of [[hyperparameters]] tuning
+- [[Optimization Bias]] of [[hyperparameter(s)]] tuning
 	- Here, we might optimize the [[Validation Error]] over 20 values of depth
 	- 1 of the 20 trees might have low [[Validation Error]] by chance
-		- [[2023 Semester 2/COMPSCI367 - Artificial Intelligence/week10/overfitting|overfitting]]
+		- [[2024 Semester 1/COMPSCI361 - Machine Learning/Overfitting|Overfitting]] of the [[Validation Error]]
+
+#compsci361example 
+- Consider a multiple-choice (a)
