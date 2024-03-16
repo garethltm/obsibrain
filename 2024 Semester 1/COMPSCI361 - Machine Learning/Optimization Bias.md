@@ -10,4 +10,8 @@
 		- [[2024 Semester 1/COMPSCI361 - Machine Learning/Overfitting|Overfitting]] of the [[Validation Error]]
 
 #compsci361example 
-- Consider a multiple-choice (a)
+- Consider a multiple-choice (a, b, c, d) test with 10 quesitons
+	- If you choose answers randomly, expected grade is 25% (no bias)
+	- If you fill out 2 tests randomly & pick the best, expected grade is 33%
+		- [[Optimization Bias]] of ~8%
+	- 
