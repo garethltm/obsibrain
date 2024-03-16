@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/compound interest.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/classification accuracy.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/compound interest.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/classification accuracy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/compound interest.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/classification accuracy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/compound interest.md"
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/classification accuracy.md"
               }
             }
           },
@@ -155,7 +155,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/compound interest.md"
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/classification accuracy.md"
               }
             }
           }
@@ -180,6 +180,7 @@
   },
   "active": "c6b370a1862d2761",
   "lastOpenFiles": [
+    "2024 Semester 1/ACCTG151G - Financial Literacy/compound interest.md",
     "2024 Semester 1/ACCTG151G - Financial Literacy/Average propensity to consume (APC).md",
     "2024 Semester 1/ACCTG151G - Financial Literacy/solvency.md",
     "2024 Semester 1/ACCTG151G - Financial Literacy/Monetary Policy - Reserve Bank.md",
@@ -206,7 +207,6 @@
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Gartner's Enterprise Architecture Framework (GEAF).md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Preliminary Phase.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/framework.md",
-    "2024 Semester 1/INFOSYS303 - Solutions Architecture/IT Architects.md",
     "@images/Pasted image 20240313164919.png",
     "@images/Pasted image 20240313164840.png",
     "@images/Pasted image 20240313160616.png",
