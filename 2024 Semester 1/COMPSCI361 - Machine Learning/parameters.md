@@ -1,0 +1,1 @@
+- The [[Decision Tree(s)]] rule values are called [[parameters]]

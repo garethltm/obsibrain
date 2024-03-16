@@ -1,1 +1,1 @@
-- The [[Decision Tree(s)]]
+- The [[Decision Tree(s)]] depth is called a [[hyperparameters]]
