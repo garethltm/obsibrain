@@ -14,4 +14,9 @@
 		- Train on 90% of data & validate on 10%
 			- Repeat 10 times & average (test on fold 1, then fold 2,... then fold 10)
 	- Leave-one-out [[Cross-Validation (CV)]]
-		- Train on all but 1 training examples
+		- Train on all but 1 training example
+			- Repeat n times & average
+	- Gets more accurate but more expensive with more folds
+		- To choose depth we compute the [[Cross-Validation (CV)]] score for each depth
+	- As before, if data is ordered then folds should be random splits
+		- 
