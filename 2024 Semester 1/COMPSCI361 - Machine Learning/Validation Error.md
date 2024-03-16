@@ -18,4 +18,10 @@
 - Note: if examples are ordered, split should be random
 
 [[Independent & Identically Distributed (IID)]] data: [[Validation Error]] is unbiased approximation of [[Test error]]
-$\epsilon (E_{valid})$ = $\epsilon (E_{valid})
+$\epsilon (E_{valid})$ = $\epsilon (E_{test})$
+
+#compsci361example 
+- Course analogy
+	- You have 2 practice exams
+	- You hide 1 exam, & spend a lot of time working through the other
+	- You then do the other practice exam, to see how well you'll do the
