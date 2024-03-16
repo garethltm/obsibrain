@@ -1,1 +1,3 @@
-- 5-fo
+- 5-fold [[Cross-Validation (CV)]]
+	- Train on 80% of the data, validate on the other 20%
+	- Repeat this 5 more times with different splits & average the score
