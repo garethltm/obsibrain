@@ -7,4 +7,8 @@
 ## Choosing [[hyperparameters]] with validation sets
 - So to choose a good value of depth ([[hyperparameters]]), we coould
 	1. Try a depth-1 decision tree, compute [[Validation Error]]
-	2. Try a depth-2 decision tree, compute [[v]]
+	2. Try a depth-2 decision tree, compute [[Validation Error]]
+	3. ...
+	4. Try a depth-20 decision tree, computer [[Validation Error]]
+	5. Return the depth with the lowest [[Validation Error]]
+- After you choose the [[hyperparameters]], we usually re-train on the full training
