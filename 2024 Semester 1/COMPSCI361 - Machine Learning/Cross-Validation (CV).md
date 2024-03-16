@@ -16,7 +16,7 @@
 	- Leave-one-out [[Cross-Validation (CV)]]
 		- Train on all but 1 training example
 			- Repeat n times & average
-	- Gets more accurate but more expensive with more folds
+- Gets more accurate but more expensive with more folds
 		- To choose depth we compute the [[Cross-Validation (CV)]] score for each depth
 	- As before, if data is ordered then folds should be random splits
 		- Randomize first, then split into fixed folds
