@@ -1,2 +1,5 @@
 - Another name for [[2024 Semester 1/COMPSCI361 - Machine Learning/Overfitting|Overfitting]]
-	- How biased is an error that we optim
+	- How biased is an error that we optimized over many possibilities?
+- [[Optimization Bias]] of [[parameters]] learning
+	- During learning, we could search over tons of different [[Decision Tree(s)]]
+	- So we can get lucky & find 1 with low [[training error]] 
