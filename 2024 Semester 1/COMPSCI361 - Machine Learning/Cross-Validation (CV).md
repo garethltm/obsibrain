@@ -11,4 +11,7 @@
 
 - k-fold [[Cross-Validation (CV)]]
 	- 10-fold [[Cross-Validation (CV)]]
-		- t
+		- Train on 90% of data & validate on 10%
+			- Repeat 10 times & average (test on fold 1, then fold 2,... then fold 10)
+	- Leave-one-out [[Cross-Validation (CV)]]
+		- Train on all but 1 training examples
