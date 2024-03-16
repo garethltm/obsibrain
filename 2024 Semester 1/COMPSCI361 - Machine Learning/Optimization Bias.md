@@ -32,4 +32,5 @@
 
 ## [[Validation Error]] & [[Optimization Bias]]
 - [[Optimization Bias]] is small if you only compare a few models
-	- Best [[Decision Tree(s)]] on the training set among depths 
+	- Best [[Decision Tree(s)]] on the training set among depths: 1, 2, 3,..., 10
+	- Risk of [[2024 Semester 1/COMPSCI361 - Machine Learning/Overfitting|Overfitting]] to [[Validation set(s)]] is low if we try 10 things
