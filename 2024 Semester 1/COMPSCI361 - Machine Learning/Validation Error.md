@@ -24,4 +24,5 @@ $\epsilon (E_{valid})$ = $\epsilon (E_{test})$
 - Course analogy
 	- You have 2 practice exams
 	- You hide 1 exam, & spend a lot of time working through the other
-	- You then do the other practice exam, to see how well you'll do the
+	- You then do the other practice exam, to see how well you'll do the test
+- We typically use [[Validation Error]] to choose "hyper-parameters"
