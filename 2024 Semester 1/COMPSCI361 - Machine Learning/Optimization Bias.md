@@ -29,3 +29,7 @@
 	- Complexity of the set of models we search over
 - But, [[Optimization Bias]] shrinks quickly with the number of examples
 	- But it's still non-zero & growing if you over-use your [[Validation set(s)]]
+
+## [[Validation Error]] & [[Optimization Bias]]
+- [[Optimization Bias]] is small if you only compare a few models
+	- Best [[Decision Tree(s)]] on the training set among depths 
