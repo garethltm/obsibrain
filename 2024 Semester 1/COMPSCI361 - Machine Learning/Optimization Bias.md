@@ -14,4 +14,6 @@
 	- If you choose answers randomly, expected grade is 25% (no bias)
 	- If you fill out 2 tests randomly & pick the best, expected grade is 33%
 		- [[Optimization Bias]] of ~8%
-	- If you take the best among 10 random tests, expected
+	- If you take the best among 10 random tests, expected grade is ~47%
+	- If you take the best among 100 random tests, expected grade is ~62%
+- Model will overfit $\rightarrow$ 
