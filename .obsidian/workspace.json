@@ -11,12 +11,8 @@
             "id": "c6b370a1862d2761",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/hyperparameter(s).md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -65,8 +61,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/hyperparameter(s).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/hyperparameter(s).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/hyperparameter(s).md"
-              }
+              "state": {}
             }
           },
           {
@@ -155,9 +146,7 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/hyperparameter(s).md"
-              }
+              "state": {}
             }
           }
         ],
@@ -181,11 +170,11 @@
   },
   "active": "c6b370a1862d2761",
   "lastOpenFiles": [
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Optimization Bias.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Validation Set.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Overfitting.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/hyperparameter(s).md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Validation set(s).md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Validation Error.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/hyperparameter(s).md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Optimization Bias.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Overfitting.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/training error.md",
     "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week10/overfitting.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Unsupervised Learning.md",

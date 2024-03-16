@@ -4,7 +4,7 @@
 	- ***But we can't look at test data***
 
 1. Use part of training data to approximate [[test error]]
-2. Split training examples into training set & validation set:
+2. Split training examples into training set & [[Validation set(s)]]:
 	1. Train model based on [[training data]]
 	2. Test model based on validation data
 

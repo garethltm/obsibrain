@@ -4,7 +4,7 @@
 		- You can always fit [[training data]] better by making the model more complicated
 	- We validate a [[hyperparameter(s)]] using a validation score
 
-## Choosing [[hyperparameter(s)]] with [[Validation Set]]
+## Choosing [[hyperparameter(s)]] with [[Validation set(s)]]
 - So to choose a good value of depth ([[hyperparameter(s)]]), we coould
 	1. Try a depth-1 decision tree, compute [[Validation Error]]
 	2. Try a depth-2 decision tree, compute [[Validation Error]]
