@@ -11,4 +11,4 @@
 	3. ...
 	4. Try a depth-20 decision tree, computer [[Validation Error]]
 	5. Return the depth with the lowest [[Validation Error]]
-- After you choose the [[hyperparameters]], we usually re-train on the full training
+- After you choose the [[hyperparameters]], we usually re-train on the full training set with the chosen [[hyperparameters]]
