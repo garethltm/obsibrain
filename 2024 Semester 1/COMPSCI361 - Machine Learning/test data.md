@@ -1,3 +1,4 @@
 - **to ensure the model works for the given testing data**. 
 - The testing data should meet two criteria: 
 	- It should represent the actual dataset that the model will be used on. This means that the testing data should have the same distribution of features as the actual dataset.
+	- It should be large enough to generate meaningful predictions. This means the testing data should be large enough to provide a statistically significant test of the model’s performance.

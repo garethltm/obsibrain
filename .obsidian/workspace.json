@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/test data.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/hyperparameters.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/test data.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/hyperparameters.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/test data.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/hyperparameters.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/test data.md"
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/hyperparameters.md"
               }
             }
           },
@@ -155,7 +155,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/test data.md"
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/hyperparameters.md"
               }
             }
           }
@@ -180,10 +180,10 @@
   },
   "active": "c6b370a1862d2761",
   "lastOpenFiles": [
-    "2024 Semester 1/COMPSCI361 - Machine Learning/training data.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/test data.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/hyperparameters.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/parameters.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/hyperparameters.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/test data.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/training data.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Validation Error.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/classification accuracy.md",
     "2024 Semester 1/ACCTG151G - Financial Literacy/compound interest.md",
