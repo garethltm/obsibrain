@@ -1,1 +1,1 @@
-- 
+- is a sample of data held back from training your model that is used to give an estimate of model skill while tuning model’s [[hyperparameter(s)]].
