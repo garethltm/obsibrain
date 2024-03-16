@@ -10,12 +10,15 @@
 		- [[2024 Semester 1/COMPSCI361 - Machine Learning/Overfitting|Overfitting]] of the [[Validation Error]]
 
 #compsci361example 
-- Consider a multiple-choice (a, b, c, d) test with 10 questions
+- Consider a multiple-choice (a, b, c, d) test with 10 questions:
 	- If you choose answers randomly, expected grade is 25% (no bias)
 	- If you fill out 2 tests randomly & pick the best, expected grade is 33%
 		- [[Optimization Bias]] of ~8%
 	- If you take the best among 10 random tests, expected grade is ~47%
 	- If you take the best among 100 random tests, expected grade is ~62%
+	- ...
 - Model will overfit $\rightarrow$ You have more choices
 - But on new questions the random choice accuracy is still 25%
-- f we instead used a 100-question test then
+- If we instead used a 100-question test then:
+	- Expected grade from best over 1 randomly-filled test is 25%
+	- Expected grade from best over 2-randomly-filled test is ~27%
