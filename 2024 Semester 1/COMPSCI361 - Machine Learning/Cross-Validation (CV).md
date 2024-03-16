@@ -19,4 +19,6 @@
 	- Gets more accurate but more expensive with more folds
 		- To choose depth we compute the [[Cross-Validation (CV)]] score for each depth
 	- As before, if data is ordered then folds should be random splits
-		- 
+		- Randomize first, then split into fixed folds
+	- Usually used in [[classification]]: stratified [[Cross-Validation (CV)]]
+		- This enforces that class distribution in all folds is approximately the same as in the full data set
