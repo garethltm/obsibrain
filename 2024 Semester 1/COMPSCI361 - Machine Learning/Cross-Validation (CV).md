@@ -8,4 +8,7 @@
 	6. Take the average of the 5 errors as approximation of [[test error]]![[Pasted image 20240316194759.png]]
 	- [[Cross-Validation (CV)]] error estimate for this [[hyperparameter(s)]] mean(errors) = 0.16
 		- Using every part of the dataset
-## k-fold [[Cross-Validation (CV)]]
+
+- k-fold [[Cross-Validation (CV)]]
+	- 10-fold [[Cross-Validation (CV)]]
+		- t
