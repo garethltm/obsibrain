@@ -23,4 +23,9 @@
 	- Expected grade from best over 1 randomly-filled test is 25%
 	- Expected grade from best over 2 randomly-filled test is ~27%
 	- Expected grade from best over 10 randomly-filled test is ~32%
-	- Expected grade from best over 100 randomly0filled
+	- Expected grade from best over 100 randomly-filled test is ~36%
+	- ...
+- The [[Optimization Bias]] grows with the number of things we try
+	- Complexity of the set of models we search over
+- But, [[Optimization Bias]] shrinks quickly with the number of examples
+	- But i
