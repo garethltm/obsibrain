@@ -1,1 +1,4 @@
 - The [[Decision Tree(s)]] depth is called a [[hyperparameters]]
+	- [[hyperparameters]] control how complex our model is
+	- We can't train a [[hyperparameters]]
+		- You can always fir 
