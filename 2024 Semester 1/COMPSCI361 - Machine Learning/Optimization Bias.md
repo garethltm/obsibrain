@@ -44,3 +44,7 @@
 
 ## [[Optimization Bias]] leads to Publication Bias
 - Suppose that 20 researches perform the exact same experiment
+- They each test whether if their effect is significant (p < 0.05)
+	- $\frac{19}{20}$ find that it is not significant
+	- But maybe that 1 group finding it significant publishes a paper about the effect
+- This a
