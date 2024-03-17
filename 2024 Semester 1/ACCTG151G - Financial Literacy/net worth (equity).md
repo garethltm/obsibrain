@@ -1,2 +1,2 @@
 - your own money after:
-	- [[assets]] - [[liability]]
+	- [[asset(s)]] - [[liability]]

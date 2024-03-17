@@ -1,3 +1,3 @@
-- [[assets]] > [[liability]]
+- [[asset(s)]] > [[liability]]
 - when [[net worth (equity)]] = positive
-- enough [[assets]] to cover your [[liability]]
+- enough [[asset(s)]] to cover your [[liability]]
