@@ -1,4 +1,4 @@
-- main bank in the country that controls the money suppply
+- main bank in the country that controls the money supply
 ### Reserve Bank Policies seek to control
 1. Economic Cycles
 	- Stages related to employment and production levels
