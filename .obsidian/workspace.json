@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "8911423bf537f18c",
+        "id": "b4d36a56a2032e85",
         "type": "tabs",
         "children": [
           {
-            "id": "bba2a042aa0b93b7",
+            "id": "c6b370a1862d2761",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Interest rates (r).md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Cross-Validation (CV).md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "term deposit",
+                "query": "validation set",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Interest rates (r).md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Cross-Validation (CV).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Interest rates (r).md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Cross-Validation (CV).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Interest rates (r).md"
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Cross-Validation (CV).md"
               }
             }
           },
@@ -155,7 +155,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Interest rates (r).md"
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Cross-Validation (CV).md"
               }
             }
           }
@@ -178,44 +178,44 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "bba2a042aa0b93b7",
+  "active": "c6b370a1862d2761",
   "lastOpenFiles": [
-    "2024 Semester 1/ACCTG151G - Financial Literacy/Effective rate.md",
     "@images/Pasted image 20240318014756.png",
-    "2024 Semester 1/ACCTG151G - Financial Literacy/Interest rates (r).md",
     "@images/Pasted image 20240318014555.png",
-    "2024 Semester 1/ACCTG151G - Financial Literacy/Nominal rate.md",
-    "2024 Semester 1/ACCTG151G - Financial Literacy/Earning interest on your money.md",
-    "2024 Semester 1/ACCTG151G - Financial Literacy/Cash Management.md",
     "@images/Pasted image 20240318013742.png",
-    "2024 Semester 1/ACCTG151G - Financial Literacy/term deposit(s).md",
-    "2024 Semester 1/ACCTG151G - Financial Literacy/liquid asset.md",
-    "2024 Semester 1/ACCTG151G - Financial Literacy/current.md",
-    "2024 Semester 1/ACCTG151G - Financial Literacy/Cheque account(s).md",
-    "2023 Semester 2/COMPSCI235 - Software Development Methodologies/transaction(s).md",
-    "2024 Semester 1/ACCTG151G - Financial Literacy/Financial Marketplace.md",
-    "2024 Semester 1/ACCTG151G - Financial Literacy/Banks (Commercial Banks).md",
-    "2024 Semester 1/ACCTG151G - Financial Literacy/Credit Unions.md",
-    "2024 Semester 1/ACCTG151G - Financial Literacy/Depository institutions.md",
-    "2024 Semester 1/ACCTG151G - Financial Literacy/Building Societies.md",
-    "2024 Semester 1/ACCTG151G - Financial Literacy/Federal Deposit Insurance Corporation (FDIC).md",
-    "2024 Semester 1/ACCTG151G - Financial Literacy/Finance Company.md",
-    "2024 Semester 1/ACCTG151G - Financial Literacy/Reserve Bank.md",
-    "2024 Semester 1/ACCTG151G - Financial Literacy/Non-depository institutions.md",
-    "2024 Semester 1/ACCTG151G - Financial Literacy/on-call.md",
-    "2024 Semester 1/ACCTG151G - Financial Literacy/Liquidity ratio.md",
-    "2024 Semester 1/ACCTG151G - Financial Literacy/Budget.md",
-    "2024 Semester 1/ACCTG151G - Financial Literacy/Balance sheet.md",
-    "liquid asset.md",
-    "2024 Semester 1/ACCTG151G - Financial Literacy/current asset.md",
     "@images/Pasted image 20240318004012.png",
     "@images/Pasted image 20240318003711.png",
-    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Untitled",
     "@images/Pasted image 20240318002705.png",
     "@images/Pasted image 20240318002539.png",
     "@images/Pasted image 20240318001649.png",
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/The Passive Structure Aspect.md",
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/The Behaviour Aspect.md",
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/The Active Structure Aspect.md",
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/ArchiMate Enterprise Architecture.md",
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/ArchiMate Core Framework.md",
+    "2024 Semester 1/ACCTG151G - Financial Literacy/term deposit(s).md",
+    "2024 Semester 1/ACCTG151G - Financial Literacy/on-call.md",
+    "2024 Semester 1/ACCTG151G - Financial Literacy/liquid asset.md",
+    "2024 Semester 1/ACCTG151G - Financial Literacy/current liability.md",
+    "2024 Semester 1/ACCTG151G - Financial Literacy/current asset.md",
+    "2024 Semester 1/ACCTG151G - Financial Literacy/Non-depository institutions.md",
+    "2024 Semester 1/ACCTG151G - Financial Literacy/Nominal rate.md",
+    "2024 Semester 1/ACCTG151G - Financial Literacy/Financial Marketplace.md",
+    "2024 Semester 1/ACCTG151G - Financial Literacy/Finance Company.md",
+    "2024 Semester 1/ACCTG151G - Financial Literacy/Federal Deposit Insurance Corporation (FDIC).md",
+    "2024 Semester 1/ACCTG151G - Financial Literacy/Effective rate.md",
+    "2024 Semester 1/ACCTG151G - Financial Literacy/Depository institutions.md",
+    "2024 Semester 1/ACCTG151G - Financial Literacy/Credit Unions.md",
+    "2024 Semester 1/ACCTG151G - Financial Literacy/Cheque account(s).md",
+    "2024 Semester 1/ACCTG151G - Financial Literacy/Cash Management.md",
+    "2024 Semester 1/ACCTG151G - Financial Literacy/Building Societies.md",
+    "2024 Semester 1/ACCTG151G - Financial Literacy/Banks (Commercial Banks).md",
     "@images/Pasted image 20240317204500.png",
     "@images/Pasted image 20240317203931.png",
+    "2024 Semester 1/ACCTG151G - Financial Literacy/liquid.md",
+    "2024 Semester 1/ACCTG151G - Financial Literacy/current.md",
+    "2024 Semester 1/ACCTG151G - Financial Literacy/asset(s).md",
+    "@images/Pasted image 20240317165120.png",
     "2024 Semester 1",
     "2023 Semester 2",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture",
@@ -226,6 +226,7 @@
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction",
     "2024 Semester 1/ACCTG151G - Financial Literacy",
     "2023 Semester 2/COMPSCI235 - Software Development Methodologies/235 summary.canvas",
+    "COMPSCI235 - Software Development Methodologies/Untitled",
     "2023 Semester 2/COMPSCI367 - Artificial Intelligence/finals prep.canvas"
   ]
 }
