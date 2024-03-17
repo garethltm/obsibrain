@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Savings ratio.md",
+                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Liquidity ratio.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Savings ratio.md",
+                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Liquidity ratio.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Savings ratio.md",
+                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Liquidity ratio.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Savings ratio.md"
+                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Liquidity ratio.md"
               }
             }
           },
@@ -155,7 +155,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Savings ratio.md"
+                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Liquidity ratio.md"
               }
             }
           }
@@ -180,37 +180,37 @@
   },
   "active": "4a9e3ad59c74289b",
   "lastOpenFiles": [
+    "2024 Semester 1/ACCTG151G - Financial Literacy/liquid.md",
+    "2024 Semester 1/ACCTG151G - Financial Literacy/liability.md",
+    "2024 Semester 1/ACCTG151G - Financial Literacy/insolvent.md",
+    "2024 Semester 1/ACCTG151G - Financial Literacy/growth factor.md",
+    "2024 Semester 1/ACCTG151G - Financial Literacy/Income (Cash IN).md",
+    "2024 Semester 1/ACCTG151G - Financial Literacy/Future Value Interest Factor (FVIF).md",
     "2024 Semester 1/ACCTG151G - Financial Literacy/Future Value (FV).md",
-    "2024 Semester 1/ACCTG151G - Financial Literacy/Average propensity to consume (APC).md",
-    "2024 Semester 1/ACCTG151G - Financial Literacy/Network of financial plans & statements.md",
-    "2024 Semester 1/ACCTG151G - Financial Literacy/The financial planning process.md",
-    "2024 Semester 1/ACCTG151G - Financial Literacy/Statement of Financial Position.md",
-    "2024 Semester 1/ACCTG151G - Financial Literacy/Statement of Financial Performance.md",
-    "2024 Semester 1/ACCTG151G - Financial Literacy/Solvency ratio.md",
-    "2024 Semester 1/ACCTG151G - Financial Literacy/solvency.md",
-    "2024 Semester 1/ACCTG151G - Financial Literacy/Liquidity ratio.md",
+    "2024 Semester 1/ACCTG151G - Financial Literacy/Fiscal Policy - Government Spending.md",
+    "2024 Semester 1/ACCTG151G - Financial Literacy/Financial Ratio.md",
+    "2024 Semester 1/ACCTG151G - Financial Literacy/Financial planning profession.md",
+    "2024 Semester 1/ACCTG151G - Financial Literacy/Financial planning.md",
+    "2024 Semester 1/ACCTG151G - Financial Literacy/Financial Literacy.md",
+    "2024 Semester 1/ACCTG151G - Financial Literacy/Expenses (Cash OUT).md",
+    "2024 Semester 1/ACCTG151G - Financial Literacy/Financial Goals.md",
+    "2024 Semester 1/ACCTG151G - Financial Literacy/Economic Cycles.md",
+    "2024 Semester 1/ACCTG151G - Financial Literacy/current.md",
+    "2024 Semester 1/ACCTG151G - Financial Literacy/compound interest.md",
     "2024 Semester 1/ACCTG151G - Financial Literacy/Balance sheet.md",
-    "2024 Semester 1/ACCTG151G - Financial Literacy/Savings ratio.md",
     "2024 Semester 1/ACCTG151G - Financial Literacy/Revenue statement.md",
+    "2024 Semester 1/ACCTG151G - Financial Literacy/simple interest.md",
+    "2024 Semester 1/ACCTG151G - Financial Literacy/Savings ratio.md",
+    "2024 Semester 1/ACCTG151G - Financial Literacy/solvency.md",
+    "2024 Semester 1/ACCTG151G - Financial Literacy/Solvency ratio.md",
+    "2024 Semester 1/ACCTG151G - Financial Literacy/Statement of Financial Performance.md",
+    "2024 Semester 1/ACCTG151G - Financial Literacy/timeline.md",
+    "2024 Semester 1/ACCTG151G - Financial Literacy/The financial planning process.md",
     "@images/Pasted image 20240317204500.png",
     "@images/Pasted image 20240317203931.png",
-    "2024 Semester 1/ACCTG151G - Financial Literacy/liquid.md",
-    "2024 Semester 1/ACCTG151G - Financial Literacy/current.md",
-    "2024 Semester 1/ACCTG151G - Financial Literacy/asset(s).md",
     "@images/Pasted image 20240317165120.png",
-    "2024 Semester 1/ACCTG151G - Financial Literacy/Financial Ratio.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Validation Error.md",
-    "conflict-files-obsidian-git.md",
     "@images/Pasted image 20240316194759.png",
     "@images/Pasted image 20240316194613.png",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/training data.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/test data.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/parameters.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/hyperparameter(s).md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Validation set(s).md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Optimization Bias.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Cross-Validation (CV).md",
-    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Design Walkthrough.md",
     "@images/Pasted image 20240313170341.png",
     "@images/Pasted image 20240313164919.png",
     "@images/Pasted image 20240313164840.png",
