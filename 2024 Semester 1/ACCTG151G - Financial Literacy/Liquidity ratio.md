@@ -9,7 +9,6 @@ $\frac {Liquid\ assets}{Total\ current\ debts}$
 #acctg151Gexample 
 [[liquid]] [[asset(s)]]:
 Bank balance $1,000 + Wages owed $1,500 = $2,500
-
 [[current]] [[liability]]:
 Unpaid electricity bill $1,000 + Credit card balance $3,000 = $4,000
 
