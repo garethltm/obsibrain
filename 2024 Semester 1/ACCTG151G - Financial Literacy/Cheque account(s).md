@@ -10,3 +10,10 @@
 2. Interest-bearing [[Cheque account(s)]] (Pay interest)
 	1. Offered by range of financial institutions including [[Banks (Commercial Banks)]] & [[Credit Unions]]
 	2. Generally require minimum balances to be maintained
+
+### Maintaining a [[Cheque account(s)]]
+An accounting approach:
+1. Determine services needed
+2. Consider cost involved
+3. Keep track of cheques written, automatic deposits & ATM withdrawals
+4. U
