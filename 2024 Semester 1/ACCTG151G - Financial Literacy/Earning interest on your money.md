@@ -7,4 +7,4 @@
 			 - Buying $1,000 for $900
 	2. Other investments offer direct payment of interest to a 'savings' account
 		- if you put into savings $\rightarrow$ you give up [[compound interest]]
-	3/
+	3. Still others allow for interest to be added to the principle balance in the savings account
