@@ -10,4 +10,9 @@
 2. [[term deposit(s)]]
 
 ## Electronic Banking Services
-- Electronic 
+- Electronic Funds Transfer (EFT) Systems make possible:
+	- ATM service
+	- Debit cards - linked to your [[Cheque account(s)]] or savings account
+	- Pre-authorised deposits & payments
+	- Banking by phone
+	- Online banking & bill payment services
