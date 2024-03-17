@@ -1,0 +1,1 @@
+- refers to an [[asset(s)]] or a [[liability]] that is
