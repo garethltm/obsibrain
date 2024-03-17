@@ -15,4 +15,9 @@ It includes concepts for specifying
 
 The language uses service-orientation to distinguish & relate the Business Application & Technology Layers of [[Enterprise Architecture]] & uses realization relationships to create concrete elements to more abstract elements across these layers
 
-### Top-level hiera
+### Top-level hierarchical structure of the language
+- A model is a collection of concepts
+	- a concept is either an element or a relationship
+- An element is either:
+	- a behavior element
+	- structure element, a moti
