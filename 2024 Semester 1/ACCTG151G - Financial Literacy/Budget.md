@@ -30,8 +30,13 @@
 1. Try to economise to reduce [[Expenses (Cash OUT)]]
 2. Shift [[Expenses (Cash OUT)]] from months with deficits to months with surpluses
 3. Use savings or investments to cover temporary deficits
-	- but try to make sure you replace the saving 
-1. Use short-term borrowing to cover temporary deficits
+	- but try to make sure you replace the saving when the temporary cash-flow deficits is over
+4. Use short-term borrowing to cover temporary deficits
+	- borrowing from banks
+
+## What should you do if you end the year in a deficit
+1. Liquidate savings/investments
+2. Borrow to cover the deficits
 
 Income Statement $\rightarrow$ Backward looking
 Expected Income Statement $\rightarrow$ Forward Looking
