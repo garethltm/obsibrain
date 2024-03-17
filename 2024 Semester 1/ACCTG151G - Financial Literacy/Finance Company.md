@@ -1,0 +1,3 @@
+- take deposits
+- Offer consumer & commercial loans
+	- specialized in this

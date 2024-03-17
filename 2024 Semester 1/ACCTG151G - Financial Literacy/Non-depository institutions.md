@@ -2,6 +2,6 @@
 
 #acctg151Gexample 
 - Insurance Company
-- Finance Company
+- [[Finance Company]]
 - Securities Company
 - Investment Company
