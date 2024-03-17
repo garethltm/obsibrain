@@ -6,4 +6,8 @@ $\frac {Total\ monthly\ loan\ payments}{Monthly\ income}$
 ![[Statement of Financial Position]]
 
 #acctg151Gexample 
-$\frac {}{}$
+$\frac {Total\ monthly\ loan\ payments}{Monthly\ income}$
+
+$\frac {10,500}{41,500}$ = 0.2530
+
+- The lower this ratio
