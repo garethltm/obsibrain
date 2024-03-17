@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "02174c15c026a676",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Validation Error.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Validation Error.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Validation Error.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -155,7 +168,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Validation Error.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           }
@@ -178,8 +191,19 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "4a9e3ad59c74289b",
+  "active": "02174c15c026a676",
   "lastOpenFiles": [
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Validation Error.md",
+    "conflict-files-obsidian-git.md",
+    "@images/Pasted image 20240316194759.png",
+    "@images/Pasted image 20240316194613.png",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/training data.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/test data.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/parameters.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/hyperparameter(s).md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Validation set(s).md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Optimization Bias.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Cross-Validation (CV).md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Design Walkthrough.md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Design Review.md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/A world of heuristics.md",
@@ -192,7 +216,6 @@
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Prime pixel.md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/User eXperience (UX).md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/UX Design.md",
-    "conflict-files-obsidian-git.md",
     "@images/Pasted image 20240313170341.png",
     "@images/Pasted image 20240313164919.png",
     "@images/Pasted image 20240313164840.png",
@@ -202,20 +225,10 @@
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/artifact(s).md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Technical (Technology) Architecture.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Phase G - Implementation Governance.md",
-    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Phase F - Migration Planning.md",
-    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Phase E - Opportunities & Solutions.md",
-    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Phase D - Technology Architecture.md",
-    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Nielsen's Heuristics.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Validation Error.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Bias-Variance vs Fundamental Trade-Off.md",
     "@images/Pasted image 20240312224429.png",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/bias-variance decomposition.md",
     "@images/Pasted image 20240312223800.png",
     "@images/Pasted image 20240312223758.png",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Refined Fundamental Trade-Off.md",
     "@images/Pasted image 20240312222435.png",
-    "@images/Pasted image 20240312222120.png",
-    "@images/Pasted image 20240312221008.png",
     "2024 Semester 1",
     "2023 Semester 2",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture",

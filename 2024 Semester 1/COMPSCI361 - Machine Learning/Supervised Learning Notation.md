@@ -15,4 +15,4 @@
 		- 0 for "not sick"
 1. [[Training phase]]
 2. [[Prediction phase]]
-3. [[Training error]]
+3. [[training error]]
