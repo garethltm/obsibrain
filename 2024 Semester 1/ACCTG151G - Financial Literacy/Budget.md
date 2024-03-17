@@ -24,7 +24,10 @@
 	- this course we use budget periods of Monthly
 - If you have information about weekly costs you should convert these into monthly equivalents
 	- 52 weeks $\rightarrow$ 1 year $\rightarrow$ 1 year % 12 $\rightarrow$ Monthly
-- if you have information about longer period costs (i.e quarterly, se)
+- If you have information about longer period costs (i.e quarterly, semi-annually or annually) DON'T convert them to monthly equivalents - place them in your budget in the month that they actually occur
+
+## What you can do if you have monthly deficits
+1. Try to economise to reduce [[]]
 
 Income Statement $\rightarrow$ Backward looking
 Expected Income Statement $\rightarrow$ Forward Looking
