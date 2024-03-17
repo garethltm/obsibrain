@@ -10,4 +10,8 @@
 - Savings Accounts
 	- Can pay you interest
 - Very short term deposits
-	- IF you have 5 days remaining on your [[term]]-deposit 
+	- IF you have 5 days remaining on your [[term]]-deposit THEN it can be considered as [[liquid asset]] (approaching maturity)
+
+## Purpose of [[liquid asset]]
+1. Make purchases
+2. Meet recurring [[Expenses (Cash OUT)]]
