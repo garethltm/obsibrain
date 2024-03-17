@@ -4,3 +4,5 @@
 $\frac {Liquid\ assets}{Total\ current\ debts}$
 - [[liquid]]
 - [[current]]
+
+
