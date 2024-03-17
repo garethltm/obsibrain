@@ -12,3 +12,6 @@ $Total\ Income -\ Total\ Expenses = PROFIT\ OR\ LOSS$
 	- #acctg151Gexample
 	- transactions
 		- cash may not flow into the company immediately
+
+## Ratios
+1. [[Savings ratio]]
