@@ -27,4 +27,5 @@ An accounting approach:
 	- Traveller's cheque - used for making purchases worldwide
 		- you can take this abroad to an overseas bank to deposit
 
-NOTE: alot of businesses don't accept Personal (Robber) cheque - if vendor takes your money to the bank $\rightarrow$ they wo
+***NOTE: alot of businesses don't accept Personal (Robber) cheque - if vendor takes your money to the bank $\rightarrow$ they won't be able to receive your money***
+
