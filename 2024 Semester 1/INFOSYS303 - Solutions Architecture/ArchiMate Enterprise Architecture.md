@@ -3,4 +3,8 @@
 	- identifying & refining the motivation & strategy expressed by stakeholders
 	- developing an architecture
 	- creating views of the architecture that show how it **addresses & balances stakeholders concerns**
-		- proving a case to the stakeho
+		- proving a case to the stakeholders
+
+The [[ArchiMate Enterprise Architecture]] modeling language provides a uniform representation for diagrams that describe [[Enterprise Architecture]]
+
+It i
