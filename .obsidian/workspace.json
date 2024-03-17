@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/The financial planning process.md",
+                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Savings ratio.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "test error",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/The financial planning process.md",
+                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Savings ratio.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/The financial planning process.md",
+                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Savings ratio.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/The financial planning process.md"
+                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Savings ratio.md"
               }
             }
           },
@@ -155,7 +155,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/The financial planning process.md"
+                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Savings ratio.md"
               }
             }
           }
@@ -180,6 +180,10 @@
   },
   "active": "4a9e3ad59c74289b",
   "lastOpenFiles": [
+    "2024 Semester 1/ACCTG151G - Financial Literacy/Future Value (FV).md",
+    "2024 Semester 1/ACCTG151G - Financial Literacy/Average propensity to consume (APC).md",
+    "2024 Semester 1/ACCTG151G - Financial Literacy/Network of financial plans & statements.md",
+    "2024 Semester 1/ACCTG151G - Financial Literacy/The financial planning process.md",
     "2024 Semester 1/ACCTG151G - Financial Literacy/Statement of Financial Position.md",
     "2024 Semester 1/ACCTG151G - Financial Literacy/Statement of Financial Performance.md",
     "2024 Semester 1/ACCTG151G - Financial Literacy/Solvency ratio.md",
@@ -207,10 +211,6 @@
     "2024 Semester 1/COMPSCI361 - Machine Learning/Optimization Bias.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Cross-Validation (CV).md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Design Walkthrough.md",
-    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Design Review.md",
-    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/A world of heuristics.md",
-    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Error Frequency & Severity.md",
-    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Ease of learning.md",
     "@images/Pasted image 20240313170341.png",
     "@images/Pasted image 20240313164919.png",
     "@images/Pasted image 20240313164840.png",
