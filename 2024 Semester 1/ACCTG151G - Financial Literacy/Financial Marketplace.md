@@ -1,7 +1,7 @@
 
 ## The financial service industry markets
 1. Financial products
-	- Cheque & savings accounts
+	- Cheque accounts & savings accounts
 	- Credit cards
 		- Borrow from [[Banks (Commercial Banks)]]
 	- Loans & mortgages
@@ -17,4 +17,8 @@
 	- Brokerage services
 		- #acctg151Gexample 
 		- Mortgage for home
-			- they can provide some advice if you think your finances are not very good $\rightarrp
+			- they can provide some advice if you think your finances are not very good $\rightarrow$ make your profile look better to get a loan
+	- Real estate
+	- Trusts
+	- Retirement
+	- Estate planning
