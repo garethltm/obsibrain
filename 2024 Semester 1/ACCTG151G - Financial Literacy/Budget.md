@@ -6,6 +6,10 @@
 Regularly compare your budgeted figures to your actual figures each month & determine what the differences are & why they occurred (Variance Analysis).
 
 Continually update your budget based upon the actual figures
+- (this is meant to be a dynamic process)
+
+Always try to keep your budget balanced or even better at a surplus
+Surpluses are what we use to save for the future
 
 ## Benefits of Budgets
 1. Monitor & Control finances
