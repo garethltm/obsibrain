@@ -2,3 +2,12 @@
 - Different texts arbitrarily set different time-periods to this.
 - we will define a [[liquid asset]] as 1 which is expected to be turned into cash within 1 week
 - For Mary this would probably be the bank & wages but not the [[term]] deposit
+
+#acctg151Gexample 
+- Cash
+- Cheque Accounts
+	- Cannot pay you interest
+- Savings Accounts
+	- Can pay you interest
+- Very short term deposits
+	- IF you have 5 days remaining on your [[term]]-deposit 
