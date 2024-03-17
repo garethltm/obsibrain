@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Reserve Bank.md",
+                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Finance Company.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Reserve Bank.md",
+                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Finance Company.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Reserve Bank.md",
+                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Finance Company.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Reserve Bank.md"
+                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Finance Company.md"
               }
             }
           },
@@ -155,7 +155,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Reserve Bank.md"
+                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Finance Company.md"
               }
             }
           }
@@ -180,9 +180,10 @@
   },
   "active": "bba2a042aa0b93b7",
   "lastOpenFiles": [
+    "2024 Semester 1/ACCTG151G - Financial Literacy/Banks (Commercial Banks).md",
     "2024 Semester 1/ACCTG151G - Financial Literacy/Finance Company.md",
     "2024 Semester 1/ACCTG151G - Financial Literacy/Federal Deposit Insurance Corporation (FDIC).md",
-    "2024 Semester 1/ACCTG151G - Financial Literacy/Banks (Commercial Banks).md",
+    "2024 Semester 1/ACCTG151G - Financial Literacy/Reserve Bank.md",
     "2024 Semester 1/ACCTG151G - Financial Literacy/Depository institutions.md",
     "2024 Semester 1/ACCTG151G - Financial Literacy/term.md",
     "2024 Semester 1/ACCTG151G - Financial Literacy/Cash Management.md",
@@ -211,7 +212,6 @@
     "@images/Pasted image 20240318002539.png",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/ArchiMate Enterprise Architecture.md",
     "@images/Pasted image 20240318001649.png",
-    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Enterprise Architecture.md",
     "@images/Pasted image 20240317204500.png",
     "@images/Pasted image 20240317203931.png",
     "@images/Pasted image 20240317165120.png",

@@ -4,4 +4,4 @@
 
 they are not insured by the [[Federal Deposit Insurance Corporation (FDIC)]]
 
-- The [[Reserve Bank]]
+- The [[Reserve Bank]] regulates non-bank deposit takers (NBDTs) in New Zealand for the purposes of promoting the
