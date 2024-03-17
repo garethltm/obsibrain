@@ -17,5 +17,3 @@ $\frac{2,500}{4,000}= 0.625$
 - Mary could last about 8 months on her existing [[liquid]] [[asset(s)]]
 	- (0.625 * 12 = 8 months)
 - But this ratios don't take into account the regular inflow & outflow of money to Mary's account
-
-![[Pasted image 20240317204500.png]]
