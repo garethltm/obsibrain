@@ -17,4 +17,6 @@
 
 ### How is interest calculated?
 - [[Nominal rate]]
-- Effective rate
+- [[Effective rate]]
+
+NOTE: If [[Interest rates (r)]] is compounded more frequently than once a year, the [[Effective rate]] will be greater

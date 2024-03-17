@@ -1,0 +1,1 @@
+- the annual rate of return actually earned
