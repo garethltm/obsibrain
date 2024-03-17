@@ -1,0 +1,3 @@
+- refers to a subset of [[current]] [[asset(s)]]
+- Different texts arbitrarily set different time-periods to this.
+- we will define a [[liquid]] asse
