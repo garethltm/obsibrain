@@ -1,3 +1,4 @@
-- Provide financial products & services to specific groups of people who have a common tie
+- Provide financial products & services to specific groups of people **who have a common tie**
 - Similar to [[Building Societies]] in terms of deposits & loans
-- Typically pay interest rates higher than those of other financial in
+- Typically pay interest rates higher than those of other financial institutions
+	- gives people more incentive to put deposit into [[Credit Unions]]
