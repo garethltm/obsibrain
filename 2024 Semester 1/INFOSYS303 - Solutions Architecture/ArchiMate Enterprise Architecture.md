@@ -25,4 +25,8 @@ The language uses service-orientation to distinguish & relate the Business Appli
 	- a composite element
 ![[Pasted image 20240318001649.png]]
 
-## Layering of the 
+## Layering of the ArchiMate Language
+The [[ArchiMate]] core language defines a structure of generic elements & their relationships which can be specialized in different layers
+
+3 layers are defined within the [[ArchiMate]] core language as follows:
+1. The Business Layer depicts business er
