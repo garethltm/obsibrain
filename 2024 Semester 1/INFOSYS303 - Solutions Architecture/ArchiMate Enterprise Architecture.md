@@ -1,0 +1,3 @@
+- An [[Enterprise Architecture]] is a response to concerns by "stakeholders" that need to be addressed by the business & IT systems within an organization
+- The role of the architect is to address these concerns by:
+	- identi
