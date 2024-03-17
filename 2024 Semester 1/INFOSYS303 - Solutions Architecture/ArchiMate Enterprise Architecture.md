@@ -20,4 +20,9 @@ The language uses service-orientation to distinguish & relate the Business Appli
 	- a concept is either an element or a relationship
 - An element is either:
 	- a behavior element
-	- structure element, a moti
+	- a structure element
+	- a motivation element
+	- a composite element
+![[Pasted image 20240318001649.png]]
+
+## Layering of the 
