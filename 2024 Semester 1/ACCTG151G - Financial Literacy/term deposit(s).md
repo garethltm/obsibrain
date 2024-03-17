@@ -9,4 +9,4 @@ you are unable to withdraw fixed money for a fixed period
 	- The larger the balance, the higher the [[Interest rates (r)]] offered
 	- The longer the term of the deposit, the higher the [[Interest rates (r)]]
 - Early withdrawals incur an interest penalty
-- Savings account balances are 
+- Savings account balances are '[[on-call]]'

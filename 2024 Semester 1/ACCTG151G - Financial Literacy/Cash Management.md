@@ -7,4 +7,7 @@
 
 ## Products
 1. [[Cheque account(s)]]
-2. 
+2. [[term deposit(s)]]
+
+## Electronic Banking Services
+- Electronic 
