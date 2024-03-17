@@ -1,4 +1,4 @@
-- Measures your ability to pay [[current]] debts [[liability]] with existing [[2024 Semester 1/ACCTG151G - Financial Literacy/liquid asset]] [[asset(s)]]
+- Measures your ability to pay [[current]] debts [[liability]] with existing [[liquid asset]]
 	- Do you have enough cash to pay your current liabilities
 
 $\frac {Liquid\ assets}{Total\ current\ debts}$
