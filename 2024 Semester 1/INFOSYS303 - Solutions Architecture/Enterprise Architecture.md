@@ -38,7 +38,7 @@
 7. More effective strategic decision-making by C-Level executives & business leaders:
 	1. Quick response to change & support for enterprise agility aligned with organization strategy
 	2. Organizational transformation
-		- Adopting new trends in business & technology
+	- Adopting new trends in business & technology
 	3. Organizational change to support Digital Transformation
 	4. Organizational & operating mode changes to improve efficiency & effectiveness
 8. More effective & efficient business operations:
