@@ -38,3 +38,6 @@ We can model, for example:
 	in support of the application world & Business Layers
 2. model operational or physical technology 
 	with facilities, physical equipment, materials & distribution networks
+
+The general structure of models within the different layers is similar. The same types of elements & relationships are used, although their exact nature & granularity differ
+- In alignment with service-orientation, the m
