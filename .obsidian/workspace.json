@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Solvency ratio.md",
+                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Liquidity ratio.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Solvency ratio.md",
+                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Liquidity ratio.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Solvency ratio.md",
+                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Liquidity ratio.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Solvency ratio.md"
+                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Liquidity ratio.md"
               }
             }
           },
@@ -155,7 +155,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Solvency ratio.md"
+                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Liquidity ratio.md"
               }
             }
           }
@@ -180,9 +180,10 @@
   },
   "active": "4a9e3ad59c74289b",
   "lastOpenFiles": [
+    "2024 Semester 1/ACCTG151G - Financial Literacy/Solvency ratio.md",
+    "2024 Semester 1/ACCTG151G - Financial Literacy/Liquidity ratio.md",
     "@images/Pasted image 20240317165120.png",
     "2024 Semester 1/ACCTG151G - Financial Literacy/Financial Ratio.md",
-    "2024 Semester 1/ACCTG151G - Financial Literacy/Solvency ratio.md",
     "2024 Semester 1/ACCTG151G - Financial Literacy/Untitled.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Validation Error.md",
     "conflict-files-obsidian-git.md",
@@ -215,7 +216,6 @@
     "@images/Pasted image 20240312224429.png",
     "@images/Pasted image 20240312223800.png",
     "@images/Pasted image 20240312223758.png",
-    "@images/Pasted image 20240312222435.png",
     "2024 Semester 1",
     "2023 Semester 2",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture",
