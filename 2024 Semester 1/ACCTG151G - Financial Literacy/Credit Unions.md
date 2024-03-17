@@ -1,0 +1,3 @@
+- Provide financial products & services to specific groups of people who have a common tie
+- Similar to [[Building Societies]] in terms of deposits & loans
+- Typically pay interest rates higher than those of other financial in
