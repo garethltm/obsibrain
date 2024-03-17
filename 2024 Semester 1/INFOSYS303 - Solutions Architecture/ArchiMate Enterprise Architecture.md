@@ -11,5 +11,8 @@ It includes concepts for specifying
 - inter-related architectures
 - specific viewpoints for selected stakeholders
 - language customization mechanisms
+(expressing our ideas in a graphical form that is easy to understand)
 
-The language uses service-orientation to distinguish & relate the Business Application & Technology Layers of [[ent]]
+The language uses service-orientation to distinguish & relate the Business Application & Technology Layers of [[Enterprise Architecture]] & uses realization relationships to create concrete elements to more abstract elements across these layers
+
+### Top-level hiera
