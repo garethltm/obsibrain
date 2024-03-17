@@ -16,3 +16,6 @@ Bank balance $1,000 + Wages owed $1,500 = $2,500
 Unpaid electricity bill $1,000 + Credit card balance $3,000 = $4,000
 
 $\frac{2,500}{4,000}= 0.625$
+- The higher the ratio, the longer the existing [[liquid]] [[asset(s)]] can cover the yearly committed obligations
+- Mary could last about 8 months on her existing [[liquid]] [[asset(s)]]
+	- (0.625 * 12 = 8 mo)
