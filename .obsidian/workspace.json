@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Effective rate.md",
+                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Interest rates (r).md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Effective rate.md",
+                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Interest rates (r).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Effective rate.md",
+                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Interest rates (r).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Effective rate.md"
+                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Interest rates (r).md"
               }
             }
           },
@@ -155,7 +155,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Effective rate.md"
+                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Interest rates (r).md"
               }
             }
           }
@@ -180,9 +180,10 @@
   },
   "active": "bba2a042aa0b93b7",
   "lastOpenFiles": [
-    "@images/Pasted image 20240318014555.png",
-    "2024 Semester 1/ACCTG151G - Financial Literacy/Interest rates (r).md",
     "2024 Semester 1/ACCTG151G - Financial Literacy/Effective rate.md",
+    "@images/Pasted image 20240318014756.png",
+    "2024 Semester 1/ACCTG151G - Financial Literacy/Interest rates (r).md",
+    "@images/Pasted image 20240318014555.png",
     "2024 Semester 1/ACCTG151G - Financial Literacy/Nominal rate.md",
     "2024 Semester 1/ACCTG151G - Financial Literacy/Earning interest on your money.md",
     "2024 Semester 1/ACCTG151G - Financial Literacy/Cash Management.md",
@@ -215,8 +216,6 @@
     "@images/Pasted image 20240318001649.png",
     "@images/Pasted image 20240317204500.png",
     "@images/Pasted image 20240317203931.png",
-    "@images/Pasted image 20240317165120.png",
-    "@images/Pasted image 20240316194759.png",
     "2024 Semester 1",
     "2023 Semester 2",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture",
