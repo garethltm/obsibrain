@@ -13,7 +13,7 @@ Bundle multiple [[2023 Semester 2/COMPSCI235 - Software Development Methodologie
 >	- Problem: Concurrent multi-user access![[Pasted image 20231102105423.png]]
 
 >	#Example 
->	You want to transfer $10,000 from your cheque account to your savings account but there is hardware or software "crash" while the operation is executing
+>	You want to transfer $10,000 from your [[cheque accounts]] to your savings account but there is hardware or software "crash" while the operation is executing
 >	- Problem: Atomicity of updates
 >		- they are atomic in nature; which basically means that it cannot be broken down
 >	- DBMS guarantees stability as they are using the concept of transactions![[Pasted image 20231102105731.png]]

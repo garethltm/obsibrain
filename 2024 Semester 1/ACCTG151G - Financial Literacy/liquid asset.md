@@ -5,7 +5,7 @@
 
 #acctg151Gexample 
 - Cash
-- [[Cheque Accounts]]
+- [[Cheque account(s)]]
 	- Cannot pay you interest
 - Savings Accounts
 	- Can pay you interest

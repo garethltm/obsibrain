@@ -1,1 +1,0 @@
-[[Cheque accounts]] = Demand Deposits
