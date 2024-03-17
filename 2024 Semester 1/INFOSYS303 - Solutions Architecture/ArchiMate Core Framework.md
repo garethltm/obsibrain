@@ -18,4 +18,6 @@
 		1. a subject (active structure)
 		2. a verb (behavior)
 		3. an object (passive structure)
-By using the same constructs that people are used to in their own languages, the [[ArchiMate]] language is 
+By using the same constructs that people are used to in their own languages, the [[ArchiMate]] language is easier to learn & read
+
+Since [[ArchiMate]] notation is a graphical language where elements are organized spatially, this order is of no consequence in modeling
