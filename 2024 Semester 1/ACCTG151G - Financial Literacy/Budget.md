@@ -36,7 +36,9 @@
 
 ## What should you do if you end the year in a deficit
 1. Liquidate savings/investments
-2. Borrow to cover the deficits
+2. Borrow to cover the deficit
+3. Cut low priority [[Expenses (Cash OUT)]] & alter spending habits
+4. Increase [[Income (Cash IN)]]
 
 Income Statement $\rightarrow$ Backward looking
 Expected Income Statement $\rightarrow$ Forward Looking
