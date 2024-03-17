@@ -22,7 +22,9 @@
 - Budgets are usually constructed to cover periods of less than a year
 - Very short budget periods (e.g. weekly) are to keep a tight control on cash-flows
 	- this course we use budget periods of Monthly
-- If yo
+- If you have information about weekly costs you should convert these into monthly equivalents
+	- 52 weeks  1 year 
+	- 
 
 Income Statement $\rightarrow$ Backward looking
 Expected Income Statement $\rightarrow$ Forward Looking
