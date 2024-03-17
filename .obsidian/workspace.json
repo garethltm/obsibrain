@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/ArchiMate Core Framework.md",
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/ArchiMate.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/ArchiMate Core Framework.md",
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/ArchiMate.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/ArchiMate Core Framework.md",
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/ArchiMate.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/ArchiMate Core Framework.md"
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/ArchiMate.md"
               }
             }
           },
@@ -155,7 +155,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/ArchiMate Core Framework.md"
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/ArchiMate.md"
               }
             }
           }
@@ -180,9 +180,10 @@
   },
   "active": "bba2a042aa0b93b7",
   "lastOpenFiles": [
+    "@images/Pasted image 20240318004012.png",
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/ArchiMate Core Framework.md",
     "@images/Pasted image 20240318003711.png",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/The Passive Structure Aspect.md",
-    "2024 Semester 1/INFOSYS303 - Solutions Architecture/ArchiMate Core Framework.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/The Behaviour Aspect.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/The Active Structure Aspect.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Untitled",
@@ -216,7 +217,6 @@
     "@images/Pasted image 20240316194759.png",
     "@images/Pasted image 20240316194613.png",
     "@images/Pasted image 20240313170341.png",
-    "@images/Pasted image 20240313164919.png",
     "2024 Semester 1",
     "2023 Semester 2",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture",

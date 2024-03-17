@@ -26,4 +26,5 @@ Since [[ArchiMate]] notation is a graphical language where elements are organize
 ![[Pasted image 20240318003711.png]]Alternatively Wierda, puts it this way:
 *"Almost all of [[ArchiMate]] is built from 3 types of elements:"*
 1. elements that act: active (structure) elements
-2. elements that represent the behavior of those 'elements that act': behava
+2. elements that represent the behavior of those 'elements that act': behavioral elements
+3. elements that cannot act which are acted upon by that behavior: passive (structural elements)

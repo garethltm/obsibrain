@@ -4,3 +4,5 @@
 	2. analyze
 	3. visualize 
 		the relationships between various architectural domains
+
+![[Pasted image 20240318004012.png]]
