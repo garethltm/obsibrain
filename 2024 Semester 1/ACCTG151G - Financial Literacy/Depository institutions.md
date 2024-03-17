@@ -1,7 +1,7 @@
-- somewhat insured if institution goes bankrupt
+- your deposit is somewhat insured if institution goes bankrupt
 
 #acctg151Gexample 
-- Commercial banks
+- [[Banks (Commercial Banks)]]
 - Savings Institutions
 - Building Societies
 - Credit Unions
