@@ -16,3 +16,6 @@
 	- Pre-authorised deposits & payments
 	- Banking by phone
 	- Online banking & bill payment services
+
+#### Starting your savings program
+![[Pasted image 20240318013742.png]]
