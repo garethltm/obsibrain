@@ -23,4 +23,8 @@ An accounting approach:
 ## Special types of cheques
 - When personal cheques are not accepted, special cheques can be used to guarantee payment
 	- Bank cheque - drawn on the bank
-		- pre
+		- predetermined amount $\rightarrow$ they pay full amount
+	- Traveller's cheque - used for making purchases worldwide
+		- you can take this abroad to an overseas bank to deposit
+
+NOTE: alot of businees
