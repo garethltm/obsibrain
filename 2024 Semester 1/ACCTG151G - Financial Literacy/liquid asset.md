@@ -15,3 +15,6 @@
 ## Purpose of [[liquid asset]]
 1. Make purchases
 2. Meet recurring [[Expenses (Cash OUT)]]
+3. Provide reserve for unexpected [[Expenses (Cash OUT)]] or opportunities
+4. Used to accumulate funds for longer-term financial goals
+	- saving
