@@ -18,7 +18,11 @@
 - Finalise the cash budget by subtracting cash outflows from cash inflows
 - Deal with deficits (when outflows exceed inflows) & surpluses (when inflows exceed outflows)
 
-## Conven
+## Conventions
+- Budgets are usually constructed to cover periods of less than a year
+- Very short budget periods (e.g. weekly) are to keep a tight control on cash-flows
+	- this course we use budget periods of Monthly
+- If yo
 
 Income Statement $\rightarrow$ Backward looking
 Expected Income Statement $\rightarrow$ Forward Looking
