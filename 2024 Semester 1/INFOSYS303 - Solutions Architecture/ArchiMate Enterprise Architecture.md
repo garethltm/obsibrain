@@ -36,4 +36,5 @@ The [[ArchiMate]] core language defines a structure of generic elements & their 
 We can model, for example:
 1. processing, storage, communication technology
 	in support of the application world & Business Layers
-2. model operational or physical technology with facilities, physical equipment, 
+2. model operational or physical technology 
+	with facilities, physical equipment, materials & distribution networks
