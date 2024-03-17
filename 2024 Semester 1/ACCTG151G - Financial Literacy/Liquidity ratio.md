@@ -9,3 +9,6 @@ Mary's revised [[Statement of Financial Position]]:
 ![[Pasted image 20240317203931.png]]
 
 #acctg151Gexample 
+[[liquid]] [[asset(s)]]:
+Bank balance $1,000
+Wages owed $1,500
