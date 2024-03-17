@@ -10,6 +10,6 @@ The dimensions of the framework are as follows:
 1. Layers
 	- the 3 levels at which an enterprise can be modeled in [[ArchiMate]] - Business, Application & Technology
 2. Aspects
-	- The Active Structure Aspect
-	- The Behaviour Aspect
+	- [[The Active Structure Aspect]]
+	- [[The Behaviour Aspect]]
 	- The Passive Structure Aspec

@@ -2,4 +2,6 @@
 
 #infosys303example 
 - business actors
-- application compo
+- application components
+- devices that display actual behavior
+	- subjects of activity
