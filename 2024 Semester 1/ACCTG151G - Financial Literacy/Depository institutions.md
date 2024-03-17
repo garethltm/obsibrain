@@ -3,5 +3,5 @@
 #acctg151Gexample 
 - [[Banks (Commercial Banks)]]
 - Savings Institutions
-- Building Societies
+- [[Building Societies]]
 - Credit Unions
