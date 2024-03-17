@@ -34,9 +34,6 @@ The [[ArchiMate]] core language defines a structure of generic elements & their 
 3. The Technology Layer comprises both information & operational technology
 
 We can model, for example:
-1. processing
-2. storage
-3. communication technology
+1. processing, storage, communication technology
 	in support of the application world & Business Layers
-
-& model operational or physical technology with facilitie
+2. model operational or physical technology with facilities, physical equipment, 
