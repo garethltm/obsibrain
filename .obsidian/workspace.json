@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "validation set",
+                "query": "stratifi",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -178,7 +179,7 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "c6b370a1862d2761",
+  "active": "a6e0090ac9cbd1f3",
   "lastOpenFiles": [
     "@images/Pasted image 20240318014756.png",
     "@images/Pasted image 20240318014555.png",
