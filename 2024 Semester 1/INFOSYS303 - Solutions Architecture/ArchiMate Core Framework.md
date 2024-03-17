@@ -1,0 +1,2 @@
+- The [[ArchiMate Core Framework]] is a framework of 9 cells used to classify elements of the [[ArchiMate]] core language. It is made up of 3 aspects & 3 layers
+- 

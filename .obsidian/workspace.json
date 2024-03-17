@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/ArchiMate Enterprise Architecture.md",
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/ArchiMate Core Framework.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/ArchiMate Enterprise Architecture.md",
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/ArchiMate Core Framework.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/ArchiMate Enterprise Architecture.md",
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/ArchiMate Core Framework.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/ArchiMate Enterprise Architecture.md"
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/ArchiMate Core Framework.md"
               }
             }
           },
@@ -155,7 +155,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/ArchiMate Enterprise Architecture.md"
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/ArchiMate Core Framework.md"
               }
             }
           }
@@ -180,9 +180,10 @@
   },
   "active": "bba2a042aa0b93b7",
   "lastOpenFiles": [
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/ArchiMate Enterprise Architecture.md",
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/ArchiMate Core Framework.md",
     "@images/Pasted image 20240318001649.png",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/ArchiMate.md",
-    "2024 Semester 1/INFOSYS303 - Solutions Architecture/ArchiMate Enterprise Architecture.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Enterprise Architecture.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Zachman Enterprise Architecture Framework (ZEAF).md",
     "2024 Semester 1/ACCTG151G - Financial Literacy/Budget.md",
@@ -215,7 +216,6 @@
     "@images/Pasted image 20240313164919.png",
     "@images/Pasted image 20240313164840.png",
     "@images/Pasted image 20240313160616.png",
-    "@images/Pasted image 20240312224429.png",
     "2024 Semester 1",
     "2023 Semester 2",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture",
