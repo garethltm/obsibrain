@@ -1,1 +1,1 @@
-- which represents the objects on which behavior is performed; these are usually inf
+- which represents the objects on which behavior is performed; these are usually information objects in the Business Layer & data objects in the Application Layer, but they may also be used to represent physical objects
