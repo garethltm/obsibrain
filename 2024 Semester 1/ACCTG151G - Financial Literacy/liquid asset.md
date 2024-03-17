@@ -1,7 +1,7 @@
 - refers to a subset of [[current asset]]
 - Different texts arbitrarily set different time-periods to this.
 - we will define a [[liquid asset]] as 1 which is expected to be turned into cash within 1 week
-- For Mary this would probably be the bank & wages but not the [[term]] deposit
+- For Mary this would probably be the bank & wages but not the [[term-deposit]] deposit
 
 #acctg151Gexample 
 - Cash
@@ -10,7 +10,7 @@
 - Savings Accounts
 	- Can pay you interest
 - Very short term deposits
-	- IF you have 5 days remaining on your [[term]]-deposit THEN it can be considered as [[liquid asset]] (approaching maturity)
+	- IF you have 5 days remaining on your [[term-deposit]]-deposit THEN it can be considered as [[liquid asset]] (approaching maturity)
 
 ## Purpose of [[liquid asset]]
 1. Make purchases
