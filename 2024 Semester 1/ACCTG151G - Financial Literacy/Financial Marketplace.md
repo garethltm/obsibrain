@@ -1,7 +1,7 @@
 
 ## The financial service industry markets
 1. Financial products
-	- Cheque accounts & savings accounts
+	- [[Cheque accounts]] & savings accounts
 	- Credit cards
 		- Borrow from [[Banks (Commercial Banks)]]
 	- Loans & mortgages
