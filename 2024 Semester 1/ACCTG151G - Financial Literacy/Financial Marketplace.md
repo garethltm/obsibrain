@@ -10,4 +10,11 @@
 		- [[Banks (Commercial Banks)]] can offer insurance
 	- Managed funds
 		- [[Banks (Commercial Banks)]] can also provide investment services by teaming up with some investment companies
-1. Financial services
+2. Financial services
+	- [[Financial planning]]
+	- Tax preparation
+		- Tax path
+	- Brokerage services
+		- #acctg151Gexample 
+		- Mortgage for home
+			- they can provide some advice if you think your finances are not very good $\rightarrp
