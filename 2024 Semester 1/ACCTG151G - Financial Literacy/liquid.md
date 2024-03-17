@@ -1,4 +1,0 @@
-- refers to a subset of [[current asset]]
-- Different texts arbitrarily set different time-periods to this.
-- we will define a [[liquid]] asset as 1 which is expected to be turned into cash within 1 week
-- For Mary this would probably be the bank & wages but not the term deposit

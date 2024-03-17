@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/liquid.md",
+                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/liquid asset.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "income statement",
+                "query": "liquid asset",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/liquid.md",
+                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/liquid asset.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/liquid.md",
+                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/liquid asset.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/liquid.md"
+                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/liquid asset.md"
               }
             }
           },
@@ -155,7 +156,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/liquid.md"
+                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/liquid asset.md"
               }
             }
           }
@@ -180,11 +181,12 @@
   },
   "active": "bba2a042aa0b93b7",
   "lastOpenFiles": [
+    "2024 Semester 1/ACCTG151G - Financial Literacy/Cash Management.md",
+    "2024 Semester 1/ACCTG151G - Financial Literacy/liquid asset.md",
+    "liquid asset.md",
     "2024 Semester 1/ACCTG151G - Financial Literacy/current asset.md",
-    "2024 Semester 1/ACCTG151G - Financial Literacy/liquid.md",
     "2024 Semester 1/ACCTG151G - Financial Literacy/current.md",
     "2024 Semester 1/ACCTG151G - Financial Literacy/current liability.md",
-    "2024 Semester 1/ACCTG151G - Financial Literacy/Cash Management.md",
     "2024 Semester 1/ACCTG151G - Financial Literacy/on-call.md",
     "2024 Semester 1/ACCTG151G - Financial Literacy/term.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Technical (Technology) Architecture.md",
@@ -211,7 +213,6 @@
     "2024 Semester 1/ACCTG151G - Financial Literacy/Savings ratio.md",
     "2024 Semester 1/ACCTG151G - Financial Literacy/Debt service ratio.md",
     "2024 Semester 1/ACCTG151G - Financial Literacy/Revenue statement.md",
-    "2024 Semester 1/ACCTG151G - Financial Literacy/Balance sheet.md",
     "@images/Pasted image 20240317204500.png",
     "@images/Pasted image 20240317203931.png",
     "@images/Pasted image 20240317165120.png",
