@@ -23,8 +23,8 @@
 - Very short budget periods (e.g. weekly) are to keep a tight control on cash-flows
 	- this course we use budget periods of Monthly
 - If you have information about weekly costs you should convert these into monthly equivalents
-	- 52 weeks  1 year 
-	- 
+	- 52 weeks $\rightarrow$ 1 year $\rightarrow$ 1 year % 12 $\rightarrow$ Monthly
+- if you have information about longer period costs (i.e quarterly, se)
 
 Income Statement $\rightarrow$ Backward looking
 Expected Income Statement $\rightarrow$ Forward Looking
