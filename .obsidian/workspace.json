@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Liquidity ratio.md",
+                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Depository institutions.md",
                 "mode": "source",
                 "source": false
               }
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Liquidity ratio.md",
+                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Depository institutions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Liquidity ratio.md",
+                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Depository institutions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Liquidity ratio.md"
+                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Depository institutions.md"
               }
             }
           },
@@ -156,7 +155,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Liquidity ratio.md"
+                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Depository institutions.md"
               }
             }
           }
@@ -182,6 +181,9 @@
   "active": "bba2a042aa0b93b7",
   "lastOpenFiles": [
     "2024 Semester 1/ACCTG151G - Financial Literacy/Cash Management.md",
+    "2024 Semester 1/ACCTG151G - Financial Literacy/Depository institutions.md",
+    "2024 Semester 1/ACCTG151G - Financial Literacy/term.md",
+    "2024 Semester 1/ACCTG151G - Financial Literacy/on-call.md",
     "2024 Semester 1/ACCTG151G - Financial Literacy/Liquidity ratio.md",
     "2024 Semester 1/ACCTG151G - Financial Literacy/liquid asset.md",
     "2024 Semester 1/ACCTG151G - Financial Literacy/Budget.md",
@@ -190,8 +192,6 @@
     "2024 Semester 1/ACCTG151G - Financial Literacy/current asset.md",
     "2024 Semester 1/ACCTG151G - Financial Literacy/current.md",
     "2024 Semester 1/ACCTG151G - Financial Literacy/current liability.md",
-    "2024 Semester 1/ACCTG151G - Financial Literacy/on-call.md",
-    "2024 Semester 1/ACCTG151G - Financial Literacy/term.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Technical (Technology) Architecture.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/ArchiMate Core Framework.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Applications Architecture.md",
@@ -212,7 +212,6 @@
     "2024 Semester 1/ACCTG151G - Financial Literacy/Deficit spending.md",
     "2024 Semester 1/ACCTG151G - Financial Literacy/Statement of Financial Position.md",
     "2024 Semester 1/ACCTG151G - Financial Literacy/Income (Cash IN).md",
-    "2024 Semester 1/ACCTG151G - Financial Literacy/Savings ratio.md",
     "@images/Pasted image 20240317204500.png",
     "@images/Pasted image 20240317203931.png",
     "@images/Pasted image 20240317165120.png",
