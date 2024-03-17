@@ -4,7 +4,7 @@
 - With sufficient funds, [[Banks (Commercial Banks)]] must immediately pay the amount of your cheque or ATM withdrawal
 
 ***NOTE: Not referring to old cheque books*****
-**
+
 ## Types of [[Cheque account(s)]]
 1. Regular [[Cheque account(s)]]
 	- Offered by banks
@@ -19,3 +19,8 @@ An accounting approach:
 2. Consider cost involved
 3. Keep track of cheques written, automatic deposits & ATM withdrawals
 4. Undertake monthly reconciliation
+
+## Special types of cheques
+- When personal cheques are not accepted, special cheques can be used to guarantee payment
+	- Bank cheque - drawn on the bank
+		- pre
