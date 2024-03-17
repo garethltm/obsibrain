@@ -12,4 +12,4 @@ The dimensions of the framework are as follows:
 2. Aspects
 	- [[The Active Structure Aspect]]
 	- [[The Behaviour Aspect]]
-	- The Passive Structure Aspec
+	- [[The Passive Structure Aspect]]
