@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "5fd065dbe8b322fb",
+        "id": "8911423bf537f18c",
         "type": "tabs",
         "children": [
           {
-            "id": "4a9e3ad59c74289b",
+            "id": "bba2a042aa0b93b7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Budget.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Budget.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Budget.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Budget.md"
-              }
+              "state": {}
             }
           },
           {
@@ -154,9 +146,7 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Budget.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -178,10 +168,10 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "4a9e3ad59c74289b",
+  "active": "bba2a042aa0b93b7",
   "lastOpenFiles": [
-    "2024 Semester 1/ACCTG151G - Financial Literacy/Deficit spending.md",
     "2024 Semester 1/ACCTG151G - Financial Literacy/Budget.md",
+    "2024 Semester 1/ACCTG151G - Financial Literacy/Deficit spending.md",
     "2024 Semester 1/ACCTG151G - Financial Literacy/Statement of Financial Position.md",
     "2024 Semester 1/ACCTG151G - Financial Literacy/Income (Cash IN).md",
     "2024 Semester 1/ACCTG151G - Financial Literacy/Savings ratio.md",
