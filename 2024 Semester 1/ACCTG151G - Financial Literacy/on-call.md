@@ -1,2 +1,2 @@
 
-- savings-on-call $\
+- savings-on-call $\rightarrow$ [[liquid]] [[asset(s)]]
