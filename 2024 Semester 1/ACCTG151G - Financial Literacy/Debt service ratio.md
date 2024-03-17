@@ -13,7 +13,9 @@ Wages (after tax) $40,000 + Interest $500 + Gifts $1,000 = $41,500
 $\frac {10,500}{41,500}$ = 0.2530
 
 - The lower this ratio, the less the difficulty in making monthly loan payments
-	- Lower M
+- Lower ratio may mean:
+	1. Lower Monthly payments OR
+	2. Higher Income
 - Mary's ratio is only 25% & would probably be considered at a manageable level
 
 Some texts may use 'before-tax' income as the denominator

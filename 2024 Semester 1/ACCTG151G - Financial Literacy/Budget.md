@@ -1,0 +1,2 @@
+- you do something today to plan your future
+- A short-term [[Financial planning]]
