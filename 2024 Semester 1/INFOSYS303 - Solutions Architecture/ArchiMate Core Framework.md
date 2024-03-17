@@ -23,4 +23,5 @@ By using the same constructs that people are used to in their own languages, the
 
 Since [[ArchiMate]] notation is a graphical language where elements are organized spatially, this order is of no consequence in modeling
 
-![[Pasted image 20240318003711.png]]
+![[Pasted image 20240318003711.png]]Alternatively Wierda, puts it this way:
+"Almost all of [[ArchiMate]] is built from 3 types of el"
