@@ -16,4 +16,5 @@
 	3. Still others allow for interest to be added to the principle balance in the savings account
 
 ### How is interest calculated?
-- 
+- [[Nominal rate]]
+- Effective rate
