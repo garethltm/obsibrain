@@ -15,3 +15,4 @@ $Total\ Income -\ Total\ Expenses = PROFIT\ OR\ LOSS$
 
 ## Types of ratios
 1. [[Savings ratio]]
+2. [[Debt service ratio]]
