@@ -7,4 +7,9 @@
 
 The [[ArchiMate Enterprise Architecture]] modeling language provides a uniform representation for diagrams that describe [[Enterprise Architecture]]
 
-It i
+It includes concepts for specifying
+- inter-related architectures
+- specific viewpoints for selected stakeholders
+- language customization mechanisms
+
+The language uses service-orientation to distinguish & relate the Business Application & Technology Layers of [[ent]]
