@@ -15,5 +15,5 @@ Unpaid electricity bill $1,000 + Credit card balance $3,000 = $4,000
 $\frac{2,500}{4,000}= 0.625$
 - The higher the ratio, the longer the existing [[liquid]] [[asset(s)]] can cover the yearly committed obligations
 - Mary could last about 8 months on her existing [[liquid]] [[asset(s)]]
-	- (0.625 * 12 = 8 months)
+	- ***(0.625 * 12 = 8 months)***
 - But this ratios don't take into account the regular inflow & outflow of money to Mary's account
