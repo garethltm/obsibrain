@@ -4,4 +4,7 @@
 
 ![[Pasted image 20240318002705.png]]
 
-- The
+- The structure of the framework allows for modeling of the enterprise from different viewpoints, where the position within the cells highlights the concerns of the stakeholder. A stakeholder typically can have concerns that cover multiple cells.
+
+The dimensions of the framework are as follows:
+1. Layers
