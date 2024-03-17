@@ -1,7 +1,11 @@
 - you do something today to plan your future
 - A short-term [[Financial planning]] report that helps you achieve your short-term [[Financial Goals]]
 - Achieving your short-term goals then helps you achieve your longer-term goals
-- a fora
+- a forward looking plan
+
+Regularly compare your budgeted figures to your actual figures each month & determine what the differences are & why they occurred (Variance Analysis).
+
+Continually update your budget based upon the actual figures
 
 ## Benefits of Budgets
 1. Monitor & Control finances
