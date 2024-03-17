@@ -12,10 +12,13 @@
 ### The budgeting process
 1. Estimate Cash Inflows
 	- this includes [[Income (Cash IN)]] from the income statement but also any other cash inflows such as borrowing money
-1. Estimate Cash Outflows
+2. Estimate Cash Outflows
+	- this includes [[Expenses (Cash OUT)]] from the income statement but also any other cash outflows such as repaying loans
 
 - Finalise the cash budget by subtracting cash outflows from cash inflows
 - Deal with deficits (when outflows exceed inflows) & surpluses (when inflows exceed outflows)
+
+## Conven
 
 Income Statement $\rightarrow$ Backward looking
 Expected Income Statement $\rightarrow$ Forward Looking
