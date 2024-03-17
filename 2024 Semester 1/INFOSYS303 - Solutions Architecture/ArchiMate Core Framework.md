@@ -14,4 +14,8 @@
 	- [[The Active Structure Aspect]]
 	- [[The Behaviour Aspect]]
 	- [[The Passive Structure Aspect]]
-		the 3 aspects were inspired by natural language where a sentence has a subject (active structure)
+		the 3 aspects were inspired by natural language where a sentence has:
+		1. a subject (active structure)
+		2. a verb (behavior)
+		3. an object (passive structure)
+By using the same constructs that people are used to in their own languages, the [[ArchiMate]] language is 
