@@ -4,7 +4,8 @@
 
 ![[Pasted image 20240318002705.png]]
 
-- The structure of the framework allows for modeling of the enterprise from different viewpoints, where the position within the cells highlights the concerns of the stakeholder. A stakeholder typically can have concerns that cover multiple cells.
+#### The structure of the framework 
+- allows for modeling of the enterprise from different viewpoints, where the position within the cells highlights the concerns of the stakeholder. A stakeholder typically can have concerns that cover multiple cells.
 
 #### The dimensions of the framework
 1. Layers
@@ -13,3 +14,4 @@
 	- [[The Active Structure Aspect]]
 	- [[The Behaviour Aspect]]
 	- [[The Passive Structure Aspect]]
+		the 3 aspects were inspired by natural language where a sentence has a subject (active structure)
