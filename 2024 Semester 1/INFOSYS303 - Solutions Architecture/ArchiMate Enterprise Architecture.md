@@ -31,4 +31,12 @@ The [[ArchiMate]] core language defines a structure of generic elements & their 
 3 layers are defined within the [[ArchiMate]] core language as follows:
 1. The Business Layer depicts business services offered to customers, which are realized in the organization by business processes performed by business actors
 2. The Application Layer depicts application services that support the business & the applications that realize them
-3. The Technology Layer comprises both information 
+3. The Technology Layer comprises both information & operational technology
+
+We can model, for example:
+1. processing
+2. storage
+3. communication technology
+	in support of the application world & Business Layers
+
+& model operational or physical technology with facilitie
