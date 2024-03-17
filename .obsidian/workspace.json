@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "8911423bf537f18c",
+        "id": "b4d36a56a2032e85",
         "type": "tabs",
         "children": [
           {
-            "id": "bba2a042aa0b93b7",
+            "id": "c6b370a1862d2761",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Cross-Validation (CV).md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -44,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "income statement",
+                "query": "validation set",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Cross-Validation (CV).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Cross-Validation (CV).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Cross-Validation (CV).md"
+              }
             }
           },
           {
@@ -146,7 +154,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {}
+              "state": {
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Cross-Validation (CV).md"
+              }
             }
           }
         ],
@@ -168,44 +178,44 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "bba2a042aa0b93b7",
+  "active": "c6b370a1862d2761",
   "lastOpenFiles": [
-    "2024 Semester 1/ACCTG151G - Financial Literacy/Budget.md",
-    "2024 Semester 1/ACCTG151G - Financial Literacy/Deficit spending.md",
-    "2024 Semester 1/ACCTG151G - Financial Literacy/Statement of Financial Position.md",
-    "2024 Semester 1/ACCTG151G - Financial Literacy/Income (Cash IN).md",
-    "2024 Semester 1/ACCTG151G - Financial Literacy/Savings ratio.md",
-    "2024 Semester 1/ACCTG151G - Financial Literacy/Debt service ratio.md",
-    "2024 Semester 1/ACCTG151G - Financial Literacy/Revenue statement.md",
-    "2024 Semester 1/ACCTG151G - Financial Literacy/Balance sheet.md",
-    "2024 Semester 1/ACCTG151G - Financial Literacy/growth factor.md",
-    "2024 Semester 1/ACCTG151G - Financial Literacy/insolvent.md",
-    "2024 Semester 1/ACCTG151G - Financial Literacy/liability.md",
-    "2024 Semester 1/ACCTG151G - Financial Literacy/liquid.md",
-    "2024 Semester 1/ACCTG151G - Financial Literacy/Liquidity ratio.md",
-    "2024 Semester 1/ACCTG151G - Financial Literacy/Future Value Interest Factor (FVIF).md",
-    "2024 Semester 1/ACCTG151G - Financial Literacy/Future Value (FV).md",
-    "2024 Semester 1/ACCTG151G - Financial Literacy/Fiscal Policy - Government Spending.md",
-    "2024 Semester 1/ACCTG151G - Financial Literacy/Financial Ratio.md",
-    "2024 Semester 1/ACCTG151G - Financial Literacy/Financial planning profession.md",
-    "2024 Semester 1/ACCTG151G - Financial Literacy/Financial planning.md",
-    "2024 Semester 1/ACCTG151G - Financial Literacy/Financial Literacy.md",
-    "2024 Semester 1/ACCTG151G - Financial Literacy/Expenses (Cash OUT).md",
-    "2024 Semester 1/ACCTG151G - Financial Literacy/Financial Goals.md",
-    "2024 Semester 1/ACCTG151G - Financial Literacy/Economic Cycles.md",
-    "2024 Semester 1/ACCTG151G - Financial Literacy/current.md",
-    "2024 Semester 1/ACCTG151G - Financial Literacy/compound interest.md",
-    "2024 Semester 1/ACCTG151G - Financial Literacy/simple interest.md",
     "@images/Pasted image 20240317204500.png",
     "@images/Pasted image 20240317203931.png",
+    "2024 Semester 1/ACCTG151G - Financial Literacy/liquid.md",
+    "2024 Semester 1/ACCTG151G - Financial Literacy/current.md",
+    "2024 Semester 1/ACCTG151G - Financial Literacy/asset(s).md",
+    "2024 Semester 1/ACCTG151G - Financial Literacy/Savings ratio.md",
+    "2024 Semester 1/ACCTG151G - Financial Literacy/Deficit spending.md",
+    "2024 Semester 1/ACCTG151G - Financial Literacy/Debt service ratio.md",
+    "2024 Semester 1/ACCTG151G - Financial Literacy/Budget.md",
     "@images/Pasted image 20240317165120.png",
+    "2024 Semester 1/ACCTG151G - Financial Literacy/Untitled.md",
+    "2024 Semester 1/ACCTG151G - Financial Literacy/Solvency ratio.md",
+    "2024 Semester 1/ACCTG151G - Financial Literacy/Liquidity ratio.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Data Mining.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Decision Stumps.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Cross-Validation (CV).md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Classifier.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Classification.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/bias-variance decomposition.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Bias-Variance vs Fundamental Trade-Off.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Big Data.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/classification accuracy.md",
     "@images/Pasted image 20240316194759.png",
     "@images/Pasted image 20240316194613.png",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Optimization Bias.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Validation set(s).md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Validation Error.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/hyperparameter(s).md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Overfitting.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/training error.md",
     "@images/Pasted image 20240313170341.png",
     "@images/Pasted image 20240313164919.png",
     "@images/Pasted image 20240313164840.png",
     "@images/Pasted image 20240313160616.png",
     "@images/Pasted image 20240312224429.png",
+    "@images/Pasted image 20240312223800.png",
     "2024 Semester 1",
     "2023 Semester 2",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture",
