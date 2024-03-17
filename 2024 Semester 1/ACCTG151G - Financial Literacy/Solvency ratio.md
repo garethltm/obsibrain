@@ -4,4 +4,6 @@
 $\frac {Total\ net\ worth}{Total\ assets}$ = $\frac {1-Liability}{Total\ Assets}$
 
 #acctg151Gexample 
+![[Pasted image 20240317165120.png]]
 
+The larger this ratio,
