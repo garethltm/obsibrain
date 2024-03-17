@@ -40,4 +40,5 @@ We can model, for example:
 	with facilities, physical equipment, materials & distribution networks
 
 The general structure of models within the different layers is similar. The same types of elements & relationships are used, although their exact nature & granularity differ
-- In alignment with service-orientation, the m
+- In alignment with service-orientation, the most important relationship between layers is formed by "serving" relationships, which show how the elements in one layer are served by the services of other layers
+- A second type of link is formed by realization relationships: elements in lower layers may realize comparable elements in high
