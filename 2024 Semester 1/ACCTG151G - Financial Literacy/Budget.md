@@ -27,7 +27,11 @@
 - If you have information about longer period costs (i.e quarterly, semi-annually or annually) DON'T convert them to monthly equivalents - place them in your budget in the month that they actually occur
 
 ## What you can do if you have monthly deficits
-1. Try to economise to reduce [[]]
+1. Try to economise to reduce [[Expenses (Cash OUT)]]
+2. Shift [[Expenses (Cash OUT)]] from months with deficits to months with surpluses
+3. Use savings or investments to cover temporary deficits
+	- but try to make sure you replace the saving 
+1. Use short-term borrowing to cover temporary deficits
 
 Income Statement $\rightarrow$ Backward looking
 Expected Income Statement $\rightarrow$ Forward Looking
