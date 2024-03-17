@@ -1,0 +1,1 @@
+- refers to an [[asset(s)]] that is expected to be turned into cash within 1 year
