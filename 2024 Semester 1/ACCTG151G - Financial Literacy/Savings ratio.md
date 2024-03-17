@@ -2,4 +2,4 @@
 
 $\frac {Cash\ surplus}{Income\ after\ taxes}$ = $\frac{1-Expense}{Income}$
 
-#
+![]

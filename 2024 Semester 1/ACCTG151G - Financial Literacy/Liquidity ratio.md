@@ -5,8 +5,7 @@ $\frac {Liquid\ assets}{Total\ current\ debts}$
 - [[liquid]]
 - [[current]]
 
-Mary's revised [[Statement of Financial Position]]:
-![[Pasted image 20240317203931.png]]
+![[Statement of Financial Position]]
 #acctg151Gexample 
 [[liquid]] [[asset(s)]]:
 Bank balance $1,000 + Wages owed $1,500 = $2,500
