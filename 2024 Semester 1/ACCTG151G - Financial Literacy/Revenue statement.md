@@ -13,5 +13,5 @@ $Total\ Income -\ Total\ Expenses = PROFIT\ OR\ LOSS$
 	- transactions
 		- cash may not flow into the company immediately
 
-## Ratios
+## Types of ratios
 1. [[Savings ratio]]

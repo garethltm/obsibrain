@@ -10,5 +10,5 @@ $\frac {9,500}{41,500}$ = 0.2289
 
 #### Consumption ratio
 - equal to (1-[[Average propensity to consume (APC)]])
-APC = $\frac 
+APC = $\frac {32,000}{41,500}$ = 0.7711
 

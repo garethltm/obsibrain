@@ -8,6 +8,6 @@
 
 ![[Pasted image 20240308213806.png]]
 
-## Ratios
+## Types of ratios
 1. [[Solvency ratio]]
 2. [[Liquidity ratio]]
