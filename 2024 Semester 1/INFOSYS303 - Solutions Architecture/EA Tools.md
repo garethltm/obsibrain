@@ -22,5 +22,13 @@ The models and methods used by the stakeholders will vary depending on their rol
 2. The second facilitates collaboration between a diverse group of stakeholders across the organization, right from business strategy to IT.
 
 A broad array of architectural and IT disciplines, such as business, information, solution, security, applications and infrastructure use EA tools. 
-EA tools operate at many levels and across a wide spectrum to enable insights and support informed decision making. With such a broad array of stakeholders, EA tools must also facilitate their consumption of, and contribution to, the information contained within the repository. As they undertake their work, these users switch between an ever-
-expanding set of views and visual representations of the datasets contained in the repository.
+
+EA tools operate at many levels and across a wide spectrum to enable insights and support informed decision making. With such a broad array of stakeholders, EA tools must also facilitate their consumption of, and contribution to, the information contained within the repository. As they undertake their work, these users switch between an ever-expanding set of views and visual representations of the datasets contained in the repository.
+
+The standard capabilities for this market include:
+1. Repository: Provides a single source of truth for the organization with storage, categorization and versioning of objects, models and artifacts of various sorts, as well as the relationships between them, and related business artifacts and views.
+2. Modeling: Structures relationships across entities, such as business strategies, objectives, goals, constraints, capabilities, personas, customer journeys, activities, processes, value
+streams, policies, decision models, metrics, applications, technologies, roadmaps,
+projects and programs.
+3. Presentation: Displays and illustrations of information in the form of dashboards, heat
+maps, models and scenarios that contribute to the presentation capability of the tool. A
