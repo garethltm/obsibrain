@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Business Architect (BA).md",
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Technical (Technology) Architecture.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Business Architect (BA).md",
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Technical (Technology) Architecture.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Business Architect (BA).md",
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Technical (Technology) Architecture.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Business Architect (BA).md"
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Technical (Technology) Architecture.md"
               }
             }
           },
@@ -155,7 +155,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Business Architect (BA).md"
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Technical (Technology) Architecture.md"
               }
             }
           }
@@ -180,7 +180,9 @@
   },
   "active": "bba2a042aa0b93b7",
   "lastOpenFiles": [
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Solution Architect (SA).md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Enterprise Architect (EA).md",
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Business Architect (BA).md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/IT Architects.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Phase A - Architecture Vision.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Gartner's Enterprise Architecture Framework (GEAF).md",
@@ -191,7 +193,6 @@
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Data Architecture.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Business Capabilities.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/building block(s).md",
-    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Business Architect (BA).md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Business Architecture.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/artifact(s).md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/ArchiMate Enterprise Architecture.md",
@@ -208,7 +209,6 @@
     "2024 Semester 1/ACCTG151G - Financial Literacy/Cash Management.md",
     "@images/Pasted image 20240318013742.png",
     "2024 Semester 1/ACCTG151G - Financial Literacy/term deposit(s).md",
-    "2024 Semester 1/ACCTG151G - Financial Literacy/liquid asset.md",
     "@images/Pasted image 20240318004012.png",
     "@images/Pasted image 20240318003711.png",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Untitled",
