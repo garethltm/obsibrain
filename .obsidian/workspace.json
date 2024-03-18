@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Cross-Validation (CV).md",
+                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Average propensity to consume (APC).md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "stratifi",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Cross-Validation (CV).md",
+                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Average propensity to consume (APC).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Cross-Validation (CV).md",
+                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Average propensity to consume (APC).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Cross-Validation (CV).md"
+                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Average propensity to consume (APC).md"
               }
             }
           },
@@ -156,7 +155,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Cross-Validation (CV).md"
+                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Average propensity to consume (APC).md"
               }
             }
           }
@@ -179,8 +178,9 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "a6e0090ac9cbd1f3",
+  "active": "c6b370a1862d2761",
   "lastOpenFiles": [
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Cross-Validation (CV).md",
     "@images/Pasted image 20240318014756.png",
     "@images/Pasted image 20240318014555.png",
     "@images/Pasted image 20240318013742.png",
@@ -216,7 +216,6 @@
     "2024 Semester 1/ACCTG151G - Financial Literacy/liquid.md",
     "2024 Semester 1/ACCTG151G - Financial Literacy/current.md",
     "2024 Semester 1/ACCTG151G - Financial Literacy/asset(s).md",
-    "@images/Pasted image 20240317165120.png",
     "2024 Semester 1",
     "2023 Semester 2",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture",
