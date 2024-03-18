@@ -15,11 +15,12 @@ Models represent the relationships between these [[artifact(s)]] and are themsel
 
 EA tools provide a means to model the business and IT aspects of the enterprise in support of
 business outcome delivery. Doing so requires the collaboration of multiple stakeholders across the
-organization — each playing a different role at a different time. The models and methods used by
-the stakeholders will vary depending on their role and must be integrated and connected to other
-models to be useful. To support these needs, EA tools have two aspects. The first provides a
-modeling environment, along with a supporting repository. The second facilitates collaboration
-between a diverse group of stakeholders across the organization, right from business strategy to IT.
+organization — each playing a different role at a different time. 
+
+The models and methods used by the stakeholders will vary depending on their role and must be integrated and connected to other models to be useful. To support these needs, EA tools have two aspects: 
+1. The first provides a modeling environment, along with a supporting repository. 
+2. The second facilitates collaboration between a diverse group of stakeholders across the organization, right from business strategy to IT.
+
 A broad array of architectural and IT disciplines, such as business, information, solution, security,
 applications and infrastructure use EA tools. EA tools operate at many levels and across a wide
 spectrum to enable insights and support informed decision making. With such a broad array of
