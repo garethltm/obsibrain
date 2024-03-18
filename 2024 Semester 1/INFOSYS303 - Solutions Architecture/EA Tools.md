@@ -34,13 +34,6 @@ The standard capabilities for this market include:
 6. Publication: Enables wide consumption of the data contained within the EA tool across the enterprise and beyond. Tools should also be able to capture comments and feedback on that content and/or score elements contained in repository views.
 7. Integration: Expose and import data to and from other products, enabling the EA tool to be a hub uniting other common tools in the enterprise technology ecosystem. This includes categories such as product management, configuration management database (CMDB), PPM, business process management suite (BPMS) and process mining.
 8. Extensibility: Extend the metamodel of the EA tool through the definition of new modeling concepts and relationship types — up to new graphical representations and enforcing domain-specific rules.
-9. Innovation management: Mechanisms that support the creation and tracking of innovation and change initiatives. This includes support for ideation, trendspotting and
-the engagement of colleagues, PPM links and benefits realization.
-10. Intelligent automation: AI-assisted and automated features that help EA practitioners
-industrialize their activities and outputs delivering value more quickly and reliably, while
-keeping information up-to-date and fresh. These features should focus on process and
-policy automation functionality used within the tool (rather than served up externally).
-11. Frameworks: Starting point for structuring the repository and the relationships among
-artifacts, focusing on support for different architectural methods and vertical industry
-models. This includes support in choosing the EA frameworks to adopt and to identify
-overlaps and gaps.
+9. Innovation management: Mechanisms that support the creation and tracking of innovation and change initiatives. This includes support for ideation, trendspotting and the engagement of colleagues, PPM links and benefits realization.
+10. Intelligent automation: AI-assisted and automated features that help EA practitioners industrialize their activities and outputs delivering value more quickly and reliably, while keeping information up-to-date and fresh. These features should focus on process and policy automation functionality used within the tool (rather than served up externally).
+11. Frameworks: Starting point for structuring the repository and the relationships among artifacts, focusing on support for different architectural methods and vertical industry models. This includes support in choosing the EA frameworks to adopt and to identify overlaps and gaps.
