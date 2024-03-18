@@ -5,8 +5,10 @@ select EA tools that support long-term transformation, modernization and innovat
 ## Market Definition/Description
 Gartner defines the market for Enterprise Architecture Tools as tools that allow organizations to
 examine both the need for, and the impact of, change. 
+
 They allow users to capture the interrelationships and interdependencies within and between an ecosystem of partners, operating models, capabilities, people, processes, information, and applications and technologies. 
-Theyprovide a central repository to capture data and metadata about the artifacts that an enterprise
+
+They provide a central repository to capture data and metadata about the [[artifact(s)]] that an enterprise
 cares about, and their related life cycles. Models represent the relationships between these artifacts
 and are themselves treated as assets that help describe and shape the future of the enterprise.
 EA tools provide a means to model the business and IT aspects of the enterprise in support of
