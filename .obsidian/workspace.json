@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "8911423bf537f18c",
+        "id": "b4d36a56a2032e85",
         "type": "tabs",
         "children": [
           {
-            "id": "bba2a042aa0b93b7",
+            "id": "c6b370a1862d2761",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/EA Tools.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/bias-variance decomposition.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "term deposit",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/EA Tools.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/bias-variance decomposition.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/EA Tools.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/bias-variance decomposition.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/EA Tools.md"
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/bias-variance decomposition.md"
               }
             }
           },
@@ -155,7 +155,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/EA Tools.md"
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/bias-variance decomposition.md"
               }
             }
           }
@@ -178,43 +178,42 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "bba2a042aa0b93b7",
+  "active": "c6b370a1862d2761",
   "lastOpenFiles": [
-    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Enterprise Architecture.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/EA Tools.md",
-    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Enterprise Architect (EA).md",
-    "2024 Semester 1/INFOSYS303 - Solutions Architecture/IT Architects.md",
-    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Technical Architect (TA).md",
-    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Technical (Technology) Architecture.md",
-    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Solution Architect (SA).md",
-    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Business Architect (BA).md",
-    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Phase A - Architecture Vision.md",
-    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Gartner's Enterprise Architecture Framework (GEAF).md",
-    "2024 Semester 1/INFOSYS303 - Solutions Architecture/framework.md",
-    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Federal Enterprise Architecture Framework (FEAF).md",
-    "2024 Semester 1/INFOSYS303 - Solutions Architecture/deliverable.md",
-    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Data Architecture.md",
-    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Business Capabilities.md",
-    "2024 Semester 1/INFOSYS303 - Solutions Architecture/building block(s).md",
-    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Business Architecture.md",
-    "2024 Semester 1/INFOSYS303 - Solutions Architecture/artifact(s).md",
-    "2024 Semester 1/INFOSYS303 - Solutions Architecture/ArchiMate Enterprise Architecture.md",
-    "2024 Semester 1/INFOSYS303 - Solutions Architecture/ArchiMate Core Framework.md",
-    "2024 Semester 1/INFOSYS303 - Solutions Architecture/ArchiMate.md",
-    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Applications Architecture.md",
-    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Architecture Building Blocks (ABBs).md",
-    "2024 Semester 1/ACCTG151G - Financial Literacy/Interest rates (r).md",
-    "2024 Semester 1/ACCTG151G - Financial Literacy/Effective rate.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Classification.md",
+    "2024 Semester 1/ACCTG151G - Financial Literacy/Average propensity to consume (APC).md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Cross-Validation (CV).md",
     "@images/Pasted image 20240318014756.png",
     "@images/Pasted image 20240318014555.png",
-    "2024 Semester 1/ACCTG151G - Financial Literacy/Nominal rate.md",
     "@images/Pasted image 20240318013742.png",
     "@images/Pasted image 20240318004012.png",
     "@images/Pasted image 20240318003711.png",
-    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Untitled",
     "@images/Pasted image 20240318002705.png",
     "@images/Pasted image 20240318002539.png",
     "@images/Pasted image 20240318001649.png",
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/The Passive Structure Aspect.md",
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/The Behaviour Aspect.md",
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/The Active Structure Aspect.md",
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/ArchiMate Enterprise Architecture.md",
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/ArchiMate Core Framework.md",
+    "2024 Semester 1/ACCTG151G - Financial Literacy/term deposit(s).md",
+    "2024 Semester 1/ACCTG151G - Financial Literacy/on-call.md",
+    "2024 Semester 1/ACCTG151G - Financial Literacy/liquid asset.md",
+    "2024 Semester 1/ACCTG151G - Financial Literacy/current liability.md",
+    "2024 Semester 1/ACCTG151G - Financial Literacy/current asset.md",
+    "2024 Semester 1/ACCTG151G - Financial Literacy/Non-depository institutions.md",
+    "2024 Semester 1/ACCTG151G - Financial Literacy/Nominal rate.md",
+    "2024 Semester 1/ACCTG151G - Financial Literacy/Financial Marketplace.md",
+    "2024 Semester 1/ACCTG151G - Financial Literacy/Finance Company.md",
+    "2024 Semester 1/ACCTG151G - Financial Literacy/Federal Deposit Insurance Corporation (FDIC).md",
+    "2024 Semester 1/ACCTG151G - Financial Literacy/Effective rate.md",
+    "2024 Semester 1/ACCTG151G - Financial Literacy/Depository institutions.md",
+    "2024 Semester 1/ACCTG151G - Financial Literacy/Credit Unions.md",
+    "2024 Semester 1/ACCTG151G - Financial Literacy/Cheque account(s).md",
+    "2024 Semester 1/ACCTG151G - Financial Literacy/Cash Management.md",
+    "2024 Semester 1/ACCTG151G - Financial Literacy/Building Societies.md",
+    "2024 Semester 1/ACCTG151G - Financial Literacy/Banks (Commercial Banks).md",
     "@images/Pasted image 20240317204500.png",
     "@images/Pasted image 20240317203931.png",
     "2024 Semester 1",
@@ -227,6 +226,7 @@
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction",
     "2024 Semester 1/ACCTG151G - Financial Literacy",
     "2023 Semester 2/COMPSCI235 - Software Development Methodologies/235 summary.canvas",
+    "COMPSCI235 - Software Development Methodologies/Untitled",
     "2023 Semester 2/COMPSCI367 - Artificial Intelligence/finals prep.canvas"
   ]
 }
