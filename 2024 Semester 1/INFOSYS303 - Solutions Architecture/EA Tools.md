@@ -21,9 +21,6 @@ The models and methods used by the stakeholders will vary depending on their rol
 1. The first provides a modeling environment, along with a supporting repository. 
 2. The second facilitates collaboration between a diverse group of stakeholders across the organization, right from business strategy to IT.
 
-A broad array of architectural and IT disciplines, such as business, information, solution, security,
-applications and infrastructure use EA tools. EA tools operate at many levels and across a wide
-spectrum to enable insights and support informed decision making. With such a broad array of
-stakeholders, EA tools must also facilitate their consumption of, and contribution to, the information
-contained within the repository. As they undertake their work, these users switch between an ever-
+A broad array of architectural and IT disciplines, such as business, information, solution, security, applications and infrastructure use EA tools. 
+EA tools operate at many levels and across a wide spectrum to enable insights and support informed decision making. With such a broad array of stakeholders, EA tools must also facilitate their consumption of, and contribution to, the information contained within the repository. As they undertake their work, these users switch between an ever-
 expanding set of views and visual representations of the datasets contained in the repository.
