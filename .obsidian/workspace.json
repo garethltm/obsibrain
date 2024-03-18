@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/ArchiMate.md",
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/IT Architects.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/ArchiMate.md",
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/IT Architects.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/ArchiMate.md",
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/IT Architects.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/ArchiMate.md"
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/IT Architects.md"
               }
             }
           },
@@ -155,7 +155,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/ArchiMate.md"
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/IT Architects.md"
               }
             }
           }
@@ -180,6 +180,24 @@
   },
   "active": "bba2a042aa0b93b7",
   "lastOpenFiles": [
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Phase A - Architecture Vision.md",
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Gartner's Enterprise Architecture Framework (GEAF).md",
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/framework.md",
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Federal Enterprise Architecture Framework (FEAF).md",
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Enterprise Architecture.md",
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Enterprise Architect (EA).md",
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/deliverable.md",
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Data Architecture.md",
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Business Capabilities.md",
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/building block(s).md",
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Business Architect (BA).md",
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Business Architecture.md",
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/artifact(s).md",
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/ArchiMate Enterprise Architecture.md",
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/ArchiMate Core Framework.md",
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/ArchiMate.md",
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Applications Architecture.md",
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Architecture Building Blocks (ABBs).md",
     "2024 Semester 1/ACCTG151G - Financial Literacy/Interest rates (r).md",
     "2024 Semester 1/ACCTG151G - Financial Literacy/Effective rate.md",
     "@images/Pasted image 20240318014756.png",
@@ -191,23 +209,6 @@
     "2024 Semester 1/ACCTG151G - Financial Literacy/term deposit(s).md",
     "2024 Semester 1/ACCTG151G - Financial Literacy/liquid asset.md",
     "2024 Semester 1/ACCTG151G - Financial Literacy/current.md",
-    "2024 Semester 1/ACCTG151G - Financial Literacy/Cheque account(s).md",
-    "2023 Semester 2/COMPSCI235 - Software Development Methodologies/transaction(s).md",
-    "2024 Semester 1/ACCTG151G - Financial Literacy/Financial Marketplace.md",
-    "2024 Semester 1/ACCTG151G - Financial Literacy/Banks (Commercial Banks).md",
-    "2024 Semester 1/ACCTG151G - Financial Literacy/Credit Unions.md",
-    "2024 Semester 1/ACCTG151G - Financial Literacy/Depository institutions.md",
-    "2024 Semester 1/ACCTG151G - Financial Literacy/Building Societies.md",
-    "2024 Semester 1/ACCTG151G - Financial Literacy/Federal Deposit Insurance Corporation (FDIC).md",
-    "2024 Semester 1/ACCTG151G - Financial Literacy/Finance Company.md",
-    "2024 Semester 1/ACCTG151G - Financial Literacy/Reserve Bank.md",
-    "2024 Semester 1/ACCTG151G - Financial Literacy/Non-depository institutions.md",
-    "2024 Semester 1/ACCTG151G - Financial Literacy/on-call.md",
-    "2024 Semester 1/ACCTG151G - Financial Literacy/Liquidity ratio.md",
-    "2024 Semester 1/ACCTG151G - Financial Literacy/Budget.md",
-    "2024 Semester 1/ACCTG151G - Financial Literacy/Balance sheet.md",
-    "liquid asset.md",
-    "2024 Semester 1/ACCTG151G - Financial Literacy/current asset.md",
     "@images/Pasted image 20240318004012.png",
     "@images/Pasted image 20240318003711.png",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Untitled",
