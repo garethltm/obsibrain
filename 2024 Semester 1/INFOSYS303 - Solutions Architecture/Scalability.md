@@ -1,3 +1,3 @@
 **Scalability** involves beginning with only the resources you need and designing your architecture to automatically respond to changing demand by scaling out or in. As a result, you pay for only the resources you use. You don’t have to worry about a lack of computing capacity to meet your customers’ needs.
 
-If you wanted the scaling process to happen automatically, which AWS service would you use? The AWS service that provides this functionality for [[Amazon EC2 instance]] is **[[Amazon EC2 Auto Scaling]]**.
+If you wanted the scaling process to happen automatically, which AWS service would you use? The AWS service that provides this functionality for [[Amazon EC2 instance(s)]] is **[[Amazon EC2 Auto Scaling]]**.
