@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Untitled.md",
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Amazon EC2 pricing.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Untitled.md",
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Amazon EC2 pricing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Untitled.md",
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Amazon EC2 pricing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Untitled.md"
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Amazon EC2 pricing.md"
               }
             }
           },
@@ -155,7 +155,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Untitled.md"
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Amazon EC2 pricing.md"
               }
             }
           }
@@ -180,11 +180,11 @@
   },
   "active": "c6b370a1862d2761",
   "lastOpenFiles": [
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Amazon EC2 instance.md",
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Dedicated Hosts.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Amazon EC2 pricing.md",
-    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Untitled.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Spot Instances.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/EC2 Instance Savings Plans.md",
-    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Amazon EC2 instance types.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Reserved Instances.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/On-demand.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Amazon EC2.md",

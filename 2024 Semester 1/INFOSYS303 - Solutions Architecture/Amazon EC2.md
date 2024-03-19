@@ -1,2 +1,2 @@
-1. [[Amazon EC2 instance types]]
+1. [[Amazon EC2 instance]]
 2. 
