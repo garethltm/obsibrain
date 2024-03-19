@@ -3,3 +3,6 @@
 While using AWS Lambda, you pay only for the compute time that you consume. Charges apply only when your code is running. You can also run code for virtually any type of application or backend service, all with zero administration. 
 
 For example, a simple Lambda function might involve automatically resizing uploaded images to the AWS Cloud. In this case, the function triggers when uploading a new image.
+
+### How [[AWS Lambda]] works
+![[Pasted image 20240319141743.png]]
