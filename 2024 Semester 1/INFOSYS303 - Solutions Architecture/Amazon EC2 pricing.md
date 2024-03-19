@@ -1,3 +1,5 @@
 1. [[On-demand]]
 2. [[Reserved Instances]]
 3. [[EC2 Instance Savings Plans]]
+4. [[Spot Instances]]
+5. [[Dedicated Hosts]]

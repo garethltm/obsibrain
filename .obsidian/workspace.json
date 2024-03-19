@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/EC2 Instance Savings Plans.md",
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/EC2 Instance Savings Plans.md",
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/EC2 Instance Savings Plans.md",
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/EC2 Instance Savings Plans.md"
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Untitled.md"
               }
             }
           },
@@ -155,7 +155,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/EC2 Instance Savings Plans.md"
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Untitled.md"
               }
             }
           }
@@ -181,6 +181,8 @@
   "active": "c6b370a1862d2761",
   "lastOpenFiles": [
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Amazon EC2 pricing.md",
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Untitled.md",
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Spot Instances.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/EC2 Instance Savings Plans.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Amazon EC2 instance types.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Reserved Instances.md",
@@ -212,8 +214,6 @@
     "2024 Semester 1/ACCTG151G - Financial Literacy/term deposit(s).md",
     "2024 Semester 1/ACCTG151G - Financial Literacy/on-call.md",
     "2024 Semester 1/ACCTG151G - Financial Literacy/liquid asset.md",
-    "2024 Semester 1/ACCTG151G - Financial Literacy/current liability.md",
-    "2024 Semester 1/ACCTG151G - Financial Literacy/current asset.md",
     "@images/Pasted image 20240317204500.png",
     "@images/Pasted image 20240317203931.png",
     "2024 Semester 1",
