@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/AWS Global Infrastructure.md",
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/ArchiMate Core Framework.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/AWS Global Infrastructure.md",
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/ArchiMate Core Framework.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/AWS Global Infrastructure.md",
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/ArchiMate Core Framework.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/AWS Global Infrastructure.md"
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/ArchiMate Core Framework.md"
               }
             }
           },
@@ -155,7 +155,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/AWS Global Infrastructure.md"
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/ArchiMate Core Framework.md"
               }
             }
           }
@@ -180,24 +180,26 @@
   },
   "active": "c6b370a1862d2761",
   "lastOpenFiles": [
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/EC2 Instance Savings Plans.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Availability Zones.md",
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Architecture Building Blocks (ABBs).md",
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Amazon EC2.md",
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Amazon EC2 instance.md",
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Amazon EC2 pricing.md",
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Applications Architecture.md",
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Available services within a Region.md",
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/AWS Global Infrastructure.md",
     "@images/Pasted image 20240319134029.png",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/How to Provision AWS Resources.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Edge locations.md",
     "@images/Pasted image 20240319133907.png",
-    "2024 Semester 1/INFOSYS303 - Solutions Architecture/AWS Global Infrastructure.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Pricing.md",
-    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Available services within a Region.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Proximity to your customers.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Compliance with data governance & legal requirements.md",
-    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Amazon EC2 pricing.md",
-    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Amazon EC2 instance.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Dedicated Hosts.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Spot Instances.md",
-    "2024 Semester 1/INFOSYS303 - Solutions Architecture/EC2 Instance Savings Plans.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Reserved Instances.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/On-demand.md",
-    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Amazon EC2.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Storage optimized instances.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Accelerated computing instances.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Memory optimized instances.md",
@@ -206,7 +208,6 @@
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/EA Tools.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/bias-variance decomposition.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Classification.md",
-    "2024 Semester 1/ACCTG151G - Financial Literacy/Average propensity to consume (APC).md",
     "@images/Pasted image 20240318014756.png",
     "@images/Pasted image 20240318014555.png",
     "@images/Pasted image 20240318013742.png",
