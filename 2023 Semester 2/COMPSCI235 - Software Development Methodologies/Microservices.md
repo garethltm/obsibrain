@@ -13,7 +13,7 @@ An approach to developing a single application as a suite of small services, eac
 
 ### Advantages over [[Monolithic]]
 - [[Support for scaling & development]]
-	- [[Microservices]] are independently deployable & scalable
+	- [[2023 Semester 2/COMPSCI235 - Software Development Methodologies/Microservices]] are independently deployable & scalable
 >	#Example 
 >	you want to implement a certain new feature at a different section of the application
 >	
@@ -25,13 +25,13 @@ An approach to developing a single application as a suite of small services, eac
 - [[Support separate team development]]
 	- Pick boundaries that match team responsibilities
 - [[Design or Support for failure]]
-	- one complexity to handle with [[Microservices]]
+	- one complexity to handle with [[2023 Semester 2/COMPSCI235 - Software Development Methodologies/Microservices]]
 
 ### Challenges
 - Increased complexity
 	- not always the best solution for an application
 		- if simple/small user base $\rightarrow$ [[Monolithic]] might be better
-	- hard to divide them to smaller [[Microservices]]
+	- hard to divide them to smaller [[2023 Semester 2/COMPSCI235 - Software Development Methodologies/Microservices]]
 - Data consistency
 	- due to each service having its own [[2023 Semester 2/COMPSCI235 - Software Development Methodologies/database|database]]
 		- potential redundancy - duplicates
@@ -39,18 +39,18 @@ An approach to developing a single application as a suite of small services, eac
 	- more APIs which can lead to more open ports
 - Different programming languages
 	- different languages make deployment/maintenance more difficult
-		- different [[Microservices]] generally have different languages used to communicate with each other
+		- different [[2023 Semester 2/COMPSCI235 - Software Development Methodologies/Microservices]] generally have different languages used to communicate with each other
 - Performance (one of the major drawbacks)
 	- remote procedure call
-		- it basically takes time to get/fetch data it needs from other [[Microservices]] to achieve its goal
+		- it basically takes time to get/fetch data it needs from other [[2023 Semester 2/COMPSCI235 - Software Development Methodologies/Microservices]] to achieve its goal
 
 # Conclusion
 ![[Pasted image 20231104020521.png]]
 [[Monolithic]] architecture is a traditional solution for building applications
 
-There are various reasons for using [[Microservices]] architecture - but there are limitations & downsides to consider as well
+There are various reasons for using [[2023 Semester 2/COMPSCI235 - Software Development Methodologies/Microservices]] architecture - but there are limitations & downsides to consider as well
 
-[[Microservices]] architecture requires:
+[[2023 Semester 2/COMPSCI235 - Software Development Methodologies/Microservices]] architecture requires:
 - careful planning
 - enormous effort
 - team resources

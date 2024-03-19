@@ -3,3 +3,5 @@ Applications are made of multiple components. The components communicate with ea
 Suppose that you have an application with tightly coupled components. These components might include databases, servers, the user interface, business logic, and so on. This type of architecture can be considered a **monolithic application**. 
 
 In this approach to application architecture, if a single component fails, other components fail, and possibly the entire application fails.
+
+![[Pasted image 20240319140755.png]]

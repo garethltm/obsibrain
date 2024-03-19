@@ -2,8 +2,8 @@ An [[Architectural Pattern]] helps breaks a large system into chunks manageable 
 
 ## Types
 - [[Monolithic]] Architectural Pattern
-- [[Microservices]] Architectural Pattern
+- [[2023 Semester 2/COMPSCI235 - Software Development Methodologies/Microservices]] Architectural Pattern
 - Service-oriented Architecture (SoA)
-	- a type of [[Microservices]]
+	- a type of [[2023 Semester 2/COMPSCI235 - Software Development Methodologies/Microservices]]
 - Serverless Architecture
 	- Cloud

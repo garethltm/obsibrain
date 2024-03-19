@@ -1,5 +1,5 @@
 1. [[Monolithic]]
-2. [[Microservices]]
+2. [[2023 Semester 2/COMPSCI235 - Software Development Methodologies/Microservices]]
 ![[L08Web-basedSystems1-03.jpg]]
 ### Distributed system
 **Spreading services across different servers**
