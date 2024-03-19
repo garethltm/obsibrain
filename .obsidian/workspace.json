@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/How to Provision AWS Resources.md",
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/AWS Global Infrastructure.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/How to Provision AWS Resources.md",
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/AWS Global Infrastructure.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/How to Provision AWS Resources.md",
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/AWS Global Infrastructure.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/How to Provision AWS Resources.md"
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/AWS Global Infrastructure.md"
               }
             }
           },
@@ -155,7 +155,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/How to Provision AWS Resources.md"
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/AWS Global Infrastructure.md"
               }
             }
           }
@@ -180,10 +180,11 @@
   },
   "active": "c6b370a1862d2761",
   "lastOpenFiles": [
-    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Edge locations.md",
-    "2024 Semester 1/INFOSYS303 - Solutions Architecture/How to Provision AWS Resources.md",
-    "@images/Pasted image 20240319133907.png",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Availability Zones.md",
+    "@images/Pasted image 20240319134029.png",
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/How to Provision AWS Resources.md",
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Edge locations.md",
+    "@images/Pasted image 20240319133907.png",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/AWS Global Infrastructure.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Pricing.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Available services within a Region.md",
@@ -206,7 +207,6 @@
     "2024 Semester 1/COMPSCI361 - Machine Learning/bias-variance decomposition.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Classification.md",
     "2024 Semester 1/ACCTG151G - Financial Literacy/Average propensity to consume (APC).md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Cross-Validation (CV).md",
     "@images/Pasted image 20240318014756.png",
     "@images/Pasted image 20240318014555.png",
     "@images/Pasted image 20240318013742.png",
@@ -215,7 +215,6 @@
     "@images/Pasted image 20240318002705.png",
     "@images/Pasted image 20240318002539.png",
     "@images/Pasted image 20240318001649.png",
-    "@images/Pasted image 20240317204500.png",
     "2024 Semester 1",
     "2023 Semester 2",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture",
