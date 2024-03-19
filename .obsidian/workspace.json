@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/microservices.md",
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Amazon Simple Notification Service (Amazon SNS).md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/microservices.md",
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Amazon Simple Notification Service (Amazon SNS).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/microservices.md",
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Amazon Simple Notification Service (Amazon SNS).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/microservices.md"
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Amazon Simple Notification Service (Amazon SNS).md"
               }
             }
           },
@@ -155,7 +155,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/microservices.md"
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Amazon Simple Notification Service (Amazon SNS).md"
               }
             }
           }
@@ -180,10 +180,11 @@
   },
   "active": "c6b370a1862d2761",
   "lastOpenFiles": [
-    "@images/Pasted image 20240319140808.png",
-    "2024 Semester 1/INFOSYS303 - Solutions Architecture/monolithic application.md",
-    "@images/Pasted image 20240319140755.png",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/microservices.md",
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Amazon Simple Notification Service (Amazon SNS).md",
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/monolithic application.md",
+    "@images/Pasted image 20240319140808.png",
+    "@images/Pasted image 20240319140755.png",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Amazon EC2 pricing.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Amazon EC2 Auto Scaling.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Amazon EC2 instance(s).md",
@@ -215,7 +216,6 @@
     "@images/Pasted image 20240318004012.png",
     "@images/Pasted image 20240318003711.png",
     "@images/Pasted image 20240318002705.png",
-    "@images/Pasted image 20240318002539.png",
     "2024 Semester 1",
     "2023 Semester 2",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture",
