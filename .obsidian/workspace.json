@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Amazon EC2 Auto Scaling.md",
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/AWS Lambda.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Amazon EC2 Auto Scaling.md",
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/AWS Lambda.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Amazon EC2 Auto Scaling.md",
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/AWS Lambda.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Amazon EC2 Auto Scaling.md"
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/AWS Lambda.md"
               }
             }
           },
@@ -155,7 +155,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Amazon EC2 Auto Scaling.md"
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/AWS Lambda.md"
               }
             }
           }
@@ -180,9 +180,10 @@
   },
   "active": "c6b370a1862d2761",
   "lastOpenFiles": [
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Amazon EC2 Auto Scaling.md",
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/AWS Lambda.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Amazon EC2 pricing.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Amazon EC2 instance(s).md",
-    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Amazon EC2 Auto Scaling.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Amazon Simple Notification Service (Amazon SNS).md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Amazon Simple Queue Service (Amazon SQS).md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Applications Architecture.md",
@@ -207,7 +208,6 @@
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/AWS Command Line Interface (AWS CLI).md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/AWS CloudFormation.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/artifact(s).md",
-    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Architecture Building Blocks (ABBs).md",
     "@images/Pasted image 20240319134029.png",
     "@images/Pasted image 20240319133907.png",
     "@images/Pasted image 20240318014756.png",
