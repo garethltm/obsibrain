@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/AWS Global Infrastructure.md",
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Available services within a Region.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/AWS Global Infrastructure.md",
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Available services within a Region.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/AWS Global Infrastructure.md",
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Available services within a Region.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/AWS Global Infrastructure.md"
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Available services within a Region.md"
               }
             }
           },
@@ -155,7 +155,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/AWS Global Infrastructure.md"
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Available services within a Region.md"
               }
             }
           }
@@ -180,8 +180,10 @@
   },
   "active": "c6b370a1862d2761",
   "lastOpenFiles": [
-    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Compliance with data governance & legal requirements.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/AWS Global Infrastructure.md",
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Available services within a Region.md",
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Proximity to your customers.md",
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Compliance with data governance & legal requirements.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Amazon EC2 pricing.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Amazon EC2 instance.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Dedicated Hosts.md",
@@ -212,8 +214,6 @@
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/The Behaviour Aspect.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/The Active Structure Aspect.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/ArchiMate Enterprise Architecture.md",
-    "2024 Semester 1/INFOSYS303 - Solutions Architecture/ArchiMate Core Framework.md",
-    "2024 Semester 1/ACCTG151G - Financial Literacy/term deposit(s).md",
     "@images/Pasted image 20240317204500.png",
     "@images/Pasted image 20240317203931.png",
     "2024 Semester 1",
