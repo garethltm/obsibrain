@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Availability Zones.md",
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/AWS CloudFormation.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Availability Zones.md",
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/AWS CloudFormation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Availability Zones.md",
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/AWS CloudFormation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Availability Zones.md"
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/AWS CloudFormation.md"
               }
             }
           },
@@ -155,7 +155,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Availability Zones.md"
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/AWS CloudFormation.md"
               }
             }
           }
@@ -180,6 +180,7 @@
   },
   "active": "c6b370a1862d2761",
   "lastOpenFiles": [
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Availability Zones.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/AWS CloudFormation.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/AWS Elastic Beanstalk.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/software development kits (SDKs).md",
@@ -191,7 +192,6 @@
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/ArchiMate.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/ArchiMate Core Framework.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/EC2 Instance Savings Plans.md",
-    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Availability Zones.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Amazon EC2.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Amazon EC2 instance.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Amazon EC2 pricing.md",
