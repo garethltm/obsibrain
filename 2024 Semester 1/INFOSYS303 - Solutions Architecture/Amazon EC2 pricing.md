@@ -4,4 +4,7 @@ With Amazon EC2, you pay only for the compute time that you use. Amazon EC2 offe
 2. [[Reserved Instances]]
 3. [[EC2 Instance Savings Plans]]
 4. [[Spot Instances]]
+	1. they can reclaim back stuff
+	2. good for batch-workloads
 5. [[Dedicated Hosts]]
+	1. no one would be sharing a tenancy with the host
