@@ -11,8 +11,12 @@
             "id": "234dce0a077d9091",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/compound interest.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -44,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "large",
+                "query": "compound",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/compound interest.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/compound interest.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/compound interest.md"
+              }
             }
           },
           {
@@ -146,7 +154,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {}
+              "state": {
+                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/compound interest.md"
+              }
             }
           }
         ],
@@ -170,6 +180,19 @@
   },
   "active": "234dce0a077d9091",
   "lastOpenFiles": [
+    "2024 Semester 1/ACCTG151G - Financial Literacy/Credit Unions.md",
+    "2024 Semester 1/ACCTG151G - Financial Literacy/current.md",
+    "2024 Semester 1/ACCTG151G - Financial Literacy/current asset.md",
+    "2024 Semester 1/ACCTG151G - Financial Literacy/current liability.md",
+    "2024 Semester 1/ACCTG151G - Financial Literacy/Debt service ratio.md",
+    "2024 Semester 1/ACCTG151G - Financial Literacy/Deficit spending.md",
+    "2024 Semester 1/ACCTG151G - Financial Literacy/Depository institutions.md",
+    "2024 Semester 1/ACCTG151G - Financial Literacy/Economic Cycles.md",
+    "2024 Semester 1/ACCTG151G - Financial Literacy/Effective rate.md",
+    "2024 Semester 1/ACCTG151G - Financial Literacy/Federal Deposit Insurance Corporation (FDIC).md",
+    "2024 Semester 1/ACCTG151G - Financial Literacy/Finance Company.md",
+    "2024 Semester 1/ACCTG151G - Financial Literacy/Interest rates (r).md",
+    "2024 Semester 1/ACCTG151G - Financial Literacy/compound interest.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/EC2 Instance Savings Plans.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Reserved Instances.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/On-demand.md",
@@ -184,21 +207,8 @@
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Amazon EC2 instance(s).md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Amazon Simple Notification Service (Amazon SNS).md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Amazon Simple Queue Service (Amazon SQS).md",
-    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Applications Architecture.md",
-    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Compliance with data governance & legal requirements.md",
-    "2024 Semester 1/INFOSYS303 - Solutions Architecture/AWS Elastic Beanstalk.md",
-    "2024 Semester 1/INFOSYS303 - Solutions Architecture/microservices.md",
-    "2024 Semester 1/INFOSYS303 - Solutions Architecture/monolithic application.md",
     "@images/Pasted image 20240319140808.png",
     "@images/Pasted image 20240319140755.png",
-    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Elastic Load Balancing.md",
-    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Scalability.md",
-    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Dedicated Hosts.md",
-    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Spot Instances.md",
-    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Availability Zone.md",
-    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Storage optimized instances.md",
-    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Compute optimized instances.md",
-    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Amazon EC2.md",
     "@images/Pasted image 20240319134029.png",
     "@images/Pasted image 20240319133907.png",
     "@images/Pasted image 20240318014756.png",
