@@ -3,4 +3,4 @@
 
 In general, it is the weighted measure of [[Precision (Exactness)]] & [[Recall (Completeness)]]
 - $\beta$ is a weight 
-	- 
+	- assign $\beta$
