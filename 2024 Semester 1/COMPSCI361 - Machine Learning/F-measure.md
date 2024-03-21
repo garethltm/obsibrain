@@ -5,4 +5,5 @@ In general, it is the weighted measure of [[Precision (Exactness)]] & [[Recall (
 - $\beta$ is a weight 
 	- assign $\beta$ times as much weight to [[Recall (Completeness)]] as to [[Precision (Exactness)]]
 
-Most commonly used: $f\tiny{1}$ 
+Most commonly used: $F\tiny{1}$ - measure with $\beta$ = 1
+- ![[Pasted image 20240322004503.png]]
