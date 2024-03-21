@@ -9,4 +9,4 @@
 3. Recall (Completeness):
 	- what % of positive tuples did the [[Classifier]] label as positive?
 	- $Recall = \frac{TP}{TP+FN}$
-	- 
+- There is an inverse relationship between precision & recall
