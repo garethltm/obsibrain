@@ -2,4 +2,5 @@
 - ![[Pasted image 20240322004037.png]]
 
 In general, it is the weighted measure of [[Precision (Exactness)]] & [[Recall (Completeness)]]
-- $\beta$ is a weigght
+- $\beta$ is a weight 
+	- 
