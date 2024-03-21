@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Confusion Matrix.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Classifier Evaluation Metrics.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Confusion Matrix.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Classifier Evaluation Metrics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Confusion Matrix.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Classifier Evaluation Metrics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Confusion Matrix.md"
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Classifier Evaluation Metrics.md"
               }
             }
           },
@@ -155,7 +155,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Confusion Matrix.md"
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Classifier Evaluation Metrics.md"
               }
             }
           }
@@ -180,9 +180,10 @@
   },
   "active": "bba2a042aa0b93b7",
   "lastOpenFiles": [
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Confusion Matrix.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Classifier Evaluation Metrics.md",
     "@images/Pasted image 20240322002925.png",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/EA Tools.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Confusion Matrix.md",
     "@images/Pasted image 20240319141743.png",
     "@images/Pasted image 20240319140808.png",
     "@images/Pasted image 20240319140755.png",
@@ -215,7 +216,6 @@
     "@images/Pasted image 20240318014555.png",
     "@images/Pasted image 20240318013742.png",
     "@images/Pasted image 20240318004012.png",
-    "@images/Pasted image 20240318003711.png",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Untitled",
     "2024 Semester 1",
     "2023 Semester 2",
