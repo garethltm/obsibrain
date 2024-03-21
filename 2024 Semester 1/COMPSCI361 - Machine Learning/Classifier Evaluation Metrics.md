@@ -4,4 +4,4 @@
 	- Percentage of test set tuples that are correctly classified
 	- Accuracy = (TP + TN)/All
 2. Precision:
-	- 
+	- Exactness 
