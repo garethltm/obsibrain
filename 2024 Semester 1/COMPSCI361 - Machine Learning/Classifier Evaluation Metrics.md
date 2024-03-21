@@ -6,4 +6,7 @@
 2. Precision (Exactness):
 	- what % of tuples that the [[Classifier]] labelled as positive are actually positive? (Checking reliance)
 	- $Precision = \frac{TP}{TP+FP}$
-3. Recall 
+3. Recall (Completeness):
+	- what % of positive tuples did the [[Classifier]] label as positive?
+	- $Recall = \frac{TP}{TP+FN}$
+	- 
