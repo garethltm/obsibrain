@@ -1,1 +1,3 @@
-- harmonic mean of precision & recall
+- harmonic mean of [[Precision (Exactness)]] & [[Recall (Completeness)]]
+- ![[Pasted image 20240322004037.png]]
+- 
