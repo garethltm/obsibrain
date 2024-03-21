@@ -10,4 +10,7 @@
 The area under the [[ROC Curves]] (AUC: Area Under Curve, also AUROC) is a measure of the accuracy of the model
 
 Rank the test tuples in decreasing order:
-- the one that is most likely to belong to the positive class appears at the top 
+- the one that is most likely to belong to the positive class appears at the top of the list
+The closer to the diagonal line (ie. the closer the area is to 0.5), the less accurate the model
+
+![[Pasted image 20240322005120.png]]
