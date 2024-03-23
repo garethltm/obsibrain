@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "8583b20094836206",
+        "id": "5583f1f98bb43c24",
         "type": "tabs",
         "children": [
           {
-            "id": "b2abbc61fdac6176",
+            "id": "fa33cd7c66e04d51",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Public Cloud.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Public Cloud.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Public Cloud.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Public Cloud.md"
-              }
+              "state": {}
             }
           },
           {
@@ -154,9 +146,7 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Public Cloud.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -178,10 +168,10 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "b2abbc61fdac6176",
+  "active": "fa33cd7c66e04d51",
   "lastOpenFiles": [
-    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Cloud Computing.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Public Cloud.md",
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Cloud Computing.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Untitled.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Emerging Technologies.md",
     "@images/Pasted image 20240324021319.png",
