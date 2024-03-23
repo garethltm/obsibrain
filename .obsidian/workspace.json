@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "f57634621df2f83f",
+        "id": "77483c43cdf37d85",
         "type": "tabs",
         "children": [
           {
-            "id": "2be62b89b0d9e76d",
+            "id": "35e32b4f62be39f3",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "conflict-files-obsidian-git.md"
+              }
             }
           },
           {
@@ -146,7 +154,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {}
+              "state": {
+                "file": "conflict-files-obsidian-git.md"
+              }
             }
           }
         ],
@@ -168,8 +178,9 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "3ad179677b7fba41",
+  "active": "35e32b4f62be39f3",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Cross-Validation (CV).md",
     "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week01/Performance measure.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Classifier Evaluation Metrics.md",
@@ -204,7 +215,6 @@
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Accelerated computing instances.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/AWS Management Console.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/AWS Lambda.md",
-    "2024 Semester 1/INFOSYS303 - Solutions Architecture/AWS Global Infrastructure.md",
     "@images/Pasted image 20240318014756.png",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Untitled",
     "2024 Semester 1",
