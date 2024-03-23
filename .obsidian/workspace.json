@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/ArchiMate.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/F-measure.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "323605cc83013297",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -36,9 +49,11 @@
             "id": "3ad179677b7fba41",
             "type": "leaf",
             "state": {
-              "type": "file-explorer",
+              "type": "markdown",
               "state": {
-                "sortOrder": "alphabetical"
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -85,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/ArchiMate.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/ArchiMate.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/ArchiMate.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -155,17 +170,24 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/ArchiMate.md"
+                "file": "conflict-files-obsidian-git.md"
               }
+            }
+          },
+          {
+            "id": "8227130b0dc8b594",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -178,8 +200,17 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "234dce0a077d9091",
+  "active": "323605cc83013297",
   "lastOpenFiles": [
+    "2024 Semester 1/COMPSCI361 - Machine Learning/F-measure.md",
+    "conflict-files-obsidian-git.md",
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/ArchiMate Relations.md",
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/ArchiMate.md",
+    "@images/Pasted image 20240324021319.png",
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Untitled.md",
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Rapid Elasticity.md",
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Public Cloud.md",
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Emerging Technologies.md",
     "@images/Pasted image 20240324020241.png",
     "@images/Pasted image 20240324020222.png",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Shared Resource Pooling.md",
@@ -187,7 +218,6 @@
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Measured Service.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Internet Access.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Cloud Computing.md",
-    "2024 Semester 1/INFOSYS303 - Solutions Architecture/ArchiMate Relations.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/ArchiMate Core Framework.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Applications Architecture.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/ArchiMate Enterprise Architecture.md",
@@ -201,12 +231,6 @@
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/framework.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Spot Instances.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Technical (Technology) Architecture.md",
-    "2024 Semester 1/INFOSYS303 - Solutions Architecture/The Active Structure Aspect.md",
-    "2024 Semester 1/INFOSYS303 - Solutions Architecture/The Behaviour Aspect.md",
-    "2024 Semester 1/INFOSYS303 - Solutions Architecture/TOGAF Architecture Content Framework.md",
-    "2024 Semester 1/INFOSYS303 - Solutions Architecture/TOGAF Standard.md",
-    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Zachman Enterprise Architecture Framework (ZEAF).md",
-    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Preliminary Phase.md",
     "@images/Pasted image 20240322005120.png",
     "@images/Pasted image 20240322004503.png",
     "@images/Pasted image 20240322004037.png",
@@ -214,8 +238,6 @@
     "@images/Pasted image 20240319141743.png",
     "@images/Pasted image 20240319140808.png",
     "@images/Pasted image 20240319140755.png",
-    "@images/Pasted image 20240319134029.png",
-    "@images/Pasted image 20240319133907.png",
     "2024 Semester 1",
     "2023 Semester 2",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture",
