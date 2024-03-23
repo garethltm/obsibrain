@@ -1,0 +1,1 @@
+Cloud is a model of computing where servers, networks, storage, development tools, and even applications (apps) are enabled through the internet. Instead of organizations having to make major investments to buy equipment, train staff & provde

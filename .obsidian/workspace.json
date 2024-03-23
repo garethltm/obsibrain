@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/ArchiMate Relations.md",
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Cloud Computing.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "29204b37fc003a9a",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/ArchiMate Relations.md",
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Cloud Computing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/ArchiMate Relations.md",
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Cloud Computing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/ArchiMate Relations.md"
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Cloud Computing.md"
               }
             }
           },
@@ -155,7 +156,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/ArchiMate Relations.md"
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Cloud Computing.md"
               }
             }
           }
@@ -180,10 +181,11 @@
   },
   "active": "b2abbc61fdac6176",
   "lastOpenFiles": [
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/ArchiMate Relations.md",
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Cloud Computing.md",
     "@images/Pasted image 20240324020241.png",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/ArchiMate.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/ArchiMate Core Framework.md",
-    "2024 Semester 1/INFOSYS303 - Solutions Architecture/ArchiMate Relations.md",
     "@images/Pasted image 20240324020222.png",
     "conflict-files-obsidian-git.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Cross-Validation (CV).md",
@@ -204,7 +206,6 @@
     "@images/Pasted image 20240319140808.png",
     "@images/Pasted image 20240319140755.png",
     "@images/Pasted image 20240319134029.png",
-    "@images/Pasted image 20240319133907.png",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/software development kits (SDKs).md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/monolithic application.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/microservices.md",
