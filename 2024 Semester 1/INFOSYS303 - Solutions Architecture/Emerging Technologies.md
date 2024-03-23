@@ -1,0 +1,1 @@
+"[[Emerging Technologies]] such as [[containerization]], [[virtualization]] & [[edge computing]] are becoming more mainstream & driving additional cloud spending"
