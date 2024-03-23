@@ -8,3 +8,5 @@ Cloud is a model of computing where servers, networks, storage, development tool
 5. [[Rapid Elasticity]]
 
 ## Types of [[Cloud Computing]]
+1. Deployment model
+	1. [[Public Cloud]]
