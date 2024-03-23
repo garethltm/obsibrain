@@ -1,0 +1,1 @@
+Cloud platforms are elastic. An organization can scale its resource usage levels up or down quickly & easily as needs change.
