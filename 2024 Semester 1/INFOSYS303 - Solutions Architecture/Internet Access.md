@@ -1,0 +1,1 @@
+With a public cloud environment, users "plug into" the data & applications via an internet connection giving anytime, anywhere
