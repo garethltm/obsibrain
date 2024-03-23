@@ -3,6 +3,6 @@ Cloud is a model of computing where servers, networks, storage, development tool
 ## Key things
 1. [[Internet Access]]
 2. [[Measured Service]]
-3. On-demand Self-Service
-4. Shared Resource Pooling
+3. [[On-demand Self-Service]]
+4. [[Shared Resource Pooling]]
 5. Rapid Elasticity

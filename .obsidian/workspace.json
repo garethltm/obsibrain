@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Measured Service.md",
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Shared Resource Pooling.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Measured Service.md",
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Shared Resource Pooling.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Measured Service.md",
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Shared Resource Pooling.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Measured Service.md"
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Shared Resource Pooling.md"
               }
             }
           },
@@ -155,7 +155,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Measured Service.md"
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Shared Resource Pooling.md"
               }
             }
           }
@@ -181,6 +181,8 @@
   "active": "b2abbc61fdac6176",
   "lastOpenFiles": [
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Cloud Computing.md",
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Shared Resource Pooling.md",
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/On-demand Self-Service.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Measured Service.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Internet Access.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/ArchiMate Relations.md",
@@ -214,8 +216,6 @@
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Spot Instances.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Scalability.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Reserved Instances.md",
-    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Amazon Elastic Container Service (Amazon ECS).md",
-    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Amazon EC2.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Untitled",
     "2024 Semester 1",
     "2023 Semester 2",

@@ -1,1 +1,1 @@
-Cloud is often pay-as-you-go, where you only pay for what you use. Think about how a utility company meters how much water, electricity or gas is used & charges based o
+Cloud is often pay-as-you-go, where you only pay for what you use. Think about how a utility company meters how much water, electricity or gas is used & charges based on consumption.
