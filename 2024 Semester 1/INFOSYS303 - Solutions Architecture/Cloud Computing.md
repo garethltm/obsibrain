@@ -6,3 +6,5 @@ Cloud is a model of computing where servers, networks, storage, development tool
 3. [[On-demand Self-Service]]
 4. [[Shared Resource Pooling]]
 5. [[Rapid Elasticity]]
+
+## Types of [[Cloud Computing]]
