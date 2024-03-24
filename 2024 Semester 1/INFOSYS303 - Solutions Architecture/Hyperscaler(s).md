@@ -1,4 +1,4 @@
-- The largest cloud service providers with data centers that enable massive scaling are called [[hyperscalers]].
+- The largest cloud service providers with data centers that enable massive scaling are called [[Hyperscaler(s)]].
 
 #infosys303example 
 Big 4 hyperscalers:
