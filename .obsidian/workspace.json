@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Enterprise Architecture.md",
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/ArchiMate Relations.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Enterprise Architecture.md",
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/ArchiMate Relations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Enterprise Architecture.md",
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/ArchiMate Relations.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Enterprise Architecture.md"
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/ArchiMate Relations.md"
               }
             }
           },
@@ -171,6 +171,7 @@
   },
   "active": "22f0331f25e52fc5",
   "lastOpenFiles": [
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Enterprise Architecture.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Enterprise Architect (EA).md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/ArchiMate.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Accelerated computing instances.md",
@@ -199,7 +200,6 @@
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Infrastructure as a Service (IaaS).md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Platform as a Service (PaaS).md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Multi-cloud.md",
-    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Hyperscaler(s).md",
     "@images/Pasted image 20240324133831.png",
     "@images/IMG_98969FEBD02F-1.jpeg",
     "@images/IMG_22E65146B328-1.jpeg",
