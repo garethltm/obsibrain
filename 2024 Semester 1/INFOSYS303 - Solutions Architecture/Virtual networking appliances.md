@@ -1,0 +1,1 @@
+A virtual appliance is a pre-integrated, self-contained system that is made by combining a software application (eg. server software) with just enough operating system 

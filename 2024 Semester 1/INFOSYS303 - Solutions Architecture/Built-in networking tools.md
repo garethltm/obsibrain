@@ -1,1 +1,1 @@
-This is about using the Cloud Service Provider's built-in networking tools provided as part of the basic [[Infrastructure as a Service (IaaS)]] 
+This is about using the Cloud Service Provider's built-in networking tools provided as part of the basic [[Infrastructure as a Service (IaaS)]] service
