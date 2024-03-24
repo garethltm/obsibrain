@@ -4,4 +4,6 @@ With [[Software as a Service (SaaS)]], an organization accesses a specific softw
 #infosys303example 
 1. Salesforce
 2. Workday
-3. Microsoft 365
+3. Microsoft Office 365
+
+Businesses should use [[Software as a Service (SaaS)]] if they're
