@@ -1,0 +1,1 @@
+- The cloud model is great for organizations concerned about sharing resources on a [[Public Cloud]]. It is implemented on servers owned & maintained by the organization & accessed over the internet or through
