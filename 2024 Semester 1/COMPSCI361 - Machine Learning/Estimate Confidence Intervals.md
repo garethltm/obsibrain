@@ -5,4 +5,7 @@
 4. Null Hypothesis: $M\tiny 1$ & $M\tiny 2$ are the same
 	- models are performing the same
 5. If we can reject null hypothesis, then
-	- we can conclude that the difference between $M\tiny 1$ 
+	- we can conclude that the difference between $M\tiny 1$ & $M\tiny 2$ is statistically significant
+	- we choose the model with lower error rate
+
+## t-test
