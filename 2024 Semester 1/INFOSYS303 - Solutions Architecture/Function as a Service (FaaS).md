@@ -9,3 +9,7 @@ Perfect for users who need cloud only for individual functions within their apps
 - AWS (Lambda)
 - Google Cloud Function
 
+## How does it work?
+Using the [[Function as a Service (FaaS)]] delivery model, users aren't responsible for maintaining application servers. They're externally hosted by the cloud provider who manages the servers.
+
+Users can run backend code while the 
