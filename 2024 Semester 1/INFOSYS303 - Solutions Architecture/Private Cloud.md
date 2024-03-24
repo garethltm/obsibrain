@@ -12,4 +12,6 @@
 1. Security concerns
 2. Contractual agreements
 	- Performance requirements
-	- Service-Level a
+	- Service-Level Agreement (SLA)
+3. Sensitive, proprietary of classified data
+4. Need for predictable, frequent workloads
