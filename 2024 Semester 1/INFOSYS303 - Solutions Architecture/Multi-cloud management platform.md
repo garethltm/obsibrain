@@ -1,1 +1,1 @@
-Helps the organization to simplify the management of multiple clouds from a configuration & policy perspective by usin
+Helps the organization to simplify the management of multiple clouds from a configuration & policy perspective by using a multi-cloud management platform
