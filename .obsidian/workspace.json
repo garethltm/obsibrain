@@ -11,8 +11,12 @@
             "id": "fa33cd7c66e04d51",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Enterprise Architecture.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Enterprise Architecture.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Enterprise Architecture.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Enterprise Architecture.md"
+              }
             }
           },
           {
@@ -146,7 +154,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {}
+              "state": {
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Enterprise Architecture.md"
+              }
             }
           }
         ],
@@ -170,6 +180,11 @@
   },
   "active": "fa33cd7c66e04d51",
   "lastOpenFiles": [
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/ArchiMate Enterprise Architecture.md",
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/ArchiMate Core Framework.md",
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/ArchiMate.md",
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/EA Tools.md",
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/framework.md",
     "@images/Pasted image 20240324133831.png",
     "@images/IMG_FD32044C639A-1.jpeg",
     "@images/IMG_A0249A321891-1.jpeg",
@@ -196,16 +211,11 @@
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Internet Access.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/ArchiMate Relations.md",
     "@images/Pasted image 20240324020241.png",
-    "2024 Semester 1/INFOSYS303 - Solutions Architecture/ArchiMate.md",
-    "2024 Semester 1/INFOSYS303 - Solutions Architecture/ArchiMate Core Framework.md",
     "@images/Pasted image 20240324020222.png",
     "conflict-files-obsidian-git.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Cross-Validation (CV).md",
     "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week01/Performance measure.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Classifier Evaluation Metrics.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Comparing Classifiers.md",
     "@images/Pasted image 20240322005120.png",
-    "@images/Pasted image 20240322004503.png",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Untitled",
     "2024 Semester 1",
     "2023 Semester 2",
