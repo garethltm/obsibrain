@@ -1,1 +1,1 @@
-- Connect
+- Connecting to a [[Public Cloud]] means using an internet connection to access computing resources hoste
