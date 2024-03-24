@@ -17,4 +17,10 @@ Using the [[Function as a Service (FaaS)]] delivery model, users aren't responsi
 3. According to this demand, the [[Function as a Service (FaaS)]] provider creates a server to execute the function
 4. Once the function is complete, that server is shut down
 
-This model is ideal for simple, repetitive functions like scheduling tools or processing requests. Great exampl 
+This model is ideal for simple, repetitive functions like scheduling tools or processing requests.
+
+#infosys303example 
+- [[2024 Semester 1/INFOSYS303 - Solutions Architecture/microservices|microservices]] applications used by Amazon & Netflix
+- IBM Cloud Functions
+- AWS Lambda
+- Google Cloud Functions
