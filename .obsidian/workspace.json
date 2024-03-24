@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "825da4ba69200b72",
+        "id": "474f2a676330495c",
         "type": "tabs",
         "children": [
           {
-            "id": "2788c5ce5129b738",
+            "id": "14091723e7f96970",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -49,6 +49,16 @@
             "state": {
               "type": "bookmarks",
               "state": {}
+            }
+          },
+          {
+            "id": "295ff167151fc12a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
             }
           }
         ],
@@ -123,9 +133,17 @@
                 "searchQuery": ""
               }
             }
+          },
+          {
+            "id": "6875e9b8ebc23add",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -142,7 +160,7 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "2788c5ce5129b738",
+  "active": "14091723e7f96970",
   "lastOpenFiles": [
     "2024 Semester 1/COMPSCI361 - Machine Learning/F-measure.md",
     "conflict-files-obsidian-git.md",
