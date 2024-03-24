@@ -1,1 +1,2 @@
-1. Suppose we have 2 [[Classifier]], 
+#compsci361example 
+- Use 10-fold [[Cross-Validation (CV)]] to obtain error (accuracy, AUROC)
