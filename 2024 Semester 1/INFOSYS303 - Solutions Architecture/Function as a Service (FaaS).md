@@ -30,4 +30,5 @@ This model is ideal for simple, repetitive functions like scheduling tools or pr
 2. [[Function as a Service (FaaS)]] offers scaling opportunities, as cloud service providers give on-demand services. 
 	- When you need the services, they're there. 
 	- When you don't, they're gone.
-3. On-demand access  
+3. On-demand access without unnecessary costs translates into [[2024 Semester 1/INFOSYS303 - Solutions Architecture/Scalability|Scalability]]
+4. [[Function as a Service (FaaS)]] platforms are easy to use & simple to understand. We don't need to be cloud experts to get the results we want. We can simply upload the code with instrucutio
