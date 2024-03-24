@@ -1,0 +1,1 @@
+The largest cloud service providers with data centers that enable massive scaling are called hyperscalers.
