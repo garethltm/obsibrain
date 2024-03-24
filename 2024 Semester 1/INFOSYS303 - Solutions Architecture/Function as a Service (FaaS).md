@@ -24,3 +24,7 @@ This model is ideal for simple, repetitive functions like scheduling tools or pr
 - IBM Cloud Functions
 - AWS Lambda
 - Google Cloud Functions
+
+## Benefits
+1. A 'pay-as-you-go' model helps businesses to save up-front hardware & operating system costs
+2. [[Function as a Service (FaaS)]] offers scaling opportunities, as cl
