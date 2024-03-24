@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Decision Tree(s).md",
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/ArchiMate.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Decision Tree(s).md",
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/ArchiMate.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Decision Tree(s).md",
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/ArchiMate.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Decision Tree(s).md"
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/ArchiMate.md"
               }
             }
           },
@@ -171,6 +171,8 @@
   },
   "active": "22f0331f25e52fc5",
   "lastOpenFiles": [
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Accelerated computing instances.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Decision Tree(s).md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Decision Tree Pruning.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Cross-Validation (CV).md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Classifier.md",
@@ -199,10 +201,8 @@
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Hybrid Cloud.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Best Machine Learning Model.md",
     "@images/Pasted image 20240324133831.png",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Estimate Confidence Intervals.md",
     "@images/IMG_98969FEBD02F-1.jpeg",
     "@images/IMG_22E65146B328-1.jpeg",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Comparing Classifiers.md",
     "@images/Pasted image 20240324021319.png",
     "@images/Pasted image 20240324020241.png",
     "@images/Pasted image 20240324020222.png",
