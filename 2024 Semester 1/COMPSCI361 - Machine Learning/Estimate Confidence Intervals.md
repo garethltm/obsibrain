@@ -27,5 +27,9 @@
 	- Conclude: statistically significant difference between $M\tiny 1$ & $M\tiny 2$ 
 - Otherwise, conclude that any difference is by chance
 
-
-Take a sample of performance of both models, calculate the mean & variances
+## General idea
+1. Take a sample of performance of both models
+2. Calculate the mean & variances
+3. Calculate t-value
+4. Compare t-value to store t-values
+5. Check if significant differences
