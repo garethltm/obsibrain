@@ -26,4 +26,6 @@
 	- Reject null hypothesis that mean error rates of $M\tiny 1$ & $M\tiny 2$  are same (which basically means they are different)
 	- Conclude: statistically significant difference between $M\tiny 1$ & $M\tiny 2$ 
 - Otherwise, conclude that any difference is by chance
-	- Take a 
+
+
+Take a sample of performance of both models, calculate the mean & variances
