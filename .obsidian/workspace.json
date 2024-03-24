@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/TOGAF Architectural Development Method (ADM).md",
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Preliminary Phase.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/TOGAF Architectural Development Method (ADM).md",
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Preliminary Phase.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/TOGAF Architectural Development Method (ADM).md",
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Preliminary Phase.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/TOGAF Architectural Development Method (ADM).md"
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Preliminary Phase.md"
               }
             }
           },
@@ -171,6 +171,7 @@
   },
   "active": "22f0331f25e52fc5",
   "lastOpenFiles": [
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/TOGAF Architectural Development Method (ADM).md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/TOGAF Architecture Content Framework.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/TOGAF Standard.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Available services within a Region.md",
@@ -183,7 +184,6 @@
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/ArchiMate.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/The Active Structure Aspect.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Amazon EC2 Auto Scaling.md",
-    "2024 Semester 1/INFOSYS303 - Solutions Architecture/TOGAF Architectural Development Method (ADM).md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Applications Architecture.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Enterprise Architecture.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Enterprise Architect (EA).md",
