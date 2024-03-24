@@ -6,4 +6,4 @@ With [[Software as a Service (SaaS)]], an organization accesses a specific softw
 2. Workday
 3. Microsoft Office 365
 
-Businesses should use [[Software as a Service (SaaS)]] if they're looking to quickly & easily enable cloud system access with minimal database management, development and/or service provider interaction. [[Software as a Service (SaaS)]] is suitable for applications that require web & mobile access, short-term projects requiring quick collaboration 
+Businesses should use [[Software as a Service (SaaS)]] if they're looking to quickly & easily enable cloud system access with minimal database management, development and/or service provider interaction. [[Software as a Service (SaaS)]] is suitable for applications that require web & mobile access, short-term projects requiring quick collaboration & startups that need to quickly launch ecommerce website without server issues of software development
