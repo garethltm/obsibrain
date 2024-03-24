@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "0232c56780a68228",
+        "id": "bea24257f9ecba3e",
         "type": "tabs",
         "children": [
           {
-            "id": "f3fdd84b9f82e53f",
+            "id": "22f0331f25e52fc5",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/TOGAF Architectural Development Method (ADM).md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -29,27 +33,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3ad179677b7fba41",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {
-                "sortOrder": "alphabetical"
-              }
-            }
-          },
-          {
             "id": "a6e0090ac9cbd1f3",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "evaluation",
+                "query": "multi",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
-                "sortOrder": "alphabetical"
+                "sortOrder": "byModifiedTime"
               }
             }
           },
@@ -60,8 +54,19 @@
               "type": "bookmarks",
               "state": {}
             }
+          },
+          {
+            "id": "295ff167151fc12a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -81,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Private Cloud.md",
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/TOGAF Architectural Development Method (ADM).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Private Cloud.md",
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/TOGAF Architectural Development Method (ADM).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Private Cloud.md"
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/TOGAF Architectural Development Method (ADM).md"
               }
             }
           },
@@ -138,25 +143,15 @@
             }
           },
           {
-            "id": "2e4c1b8f3e56d2af",
+            "id": "6875e9b8ebc23add",
             "type": "leaf",
             "state": {
               "type": "review-queue-list-view",
               "state": {}
             }
-          },
-          {
-            "id": "f6eacc6fe3f53242",
-            "type": "leaf",
-            "state": {
-              "type": "file-properties",
-              "state": {
-                "file": "Private Cloud.md"
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -174,45 +169,44 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "3ad179677b7fba41",
+  "active": "22f0331f25e52fc5",
   "lastOpenFiles": [
-    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Cloud Networking Architecture.md",
     "Private Cloud.md",
-    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Enterprise Architecture.md",
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Requirements Management.md",
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/TOGAF Architectural Development Method (ADM).md",
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Phase H - Architecture Change Management.md",
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Phase G - Implementation Governance.md",
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Phase F - Migration Planning.md",
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Phase E - Opportunities & Solutions.md",
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Phase D - Technology Architecture.md",
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Phase C - Information Systems Architecture.md",
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Phase B - Business Architecture.md",
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Phase A - Architecture Vision.md",
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Preliminary Phase.md",
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/TOGAF Architecture Content Framework.md",
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/TOGAF Standard.md",
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Available services within a Region.md",
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Availability Zone.md",
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/artifact(s).md",
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Architecture Building Blocks (ABBs).md",
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/ArchiMate Relations.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/ArchiMate Enterprise Architecture.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/ArchiMate Core Framework.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/ArchiMate.md",
-    "2024 Semester 1/INFOSYS303 - Solutions Architecture/EA Tools.md",
-    "2024 Semester 1/INFOSYS303 - Solutions Architecture/framework.md",
-    "@images/Pasted image 20240324133831.png",
-    "@images/IMG_FD32044C639A-1.jpeg",
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/The Active Structure Aspect.md",
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Amazon EC2 Auto Scaling.md",
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Applications Architecture.md",
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Enterprise Architecture.md",
     "@images/IMG_A0249A321891-1.jpeg",
-    "@images/IMG_98969FEBD02F-1.jpeg",
+    "@images/IMG_FD32044C639A-1.jpeg",
     "@images/IMG_517FDDC6FB47-1.jpeg",
+    "@images/Pasted image 20240324133831.png",
+    "@images/IMG_98969FEBD02F-1.jpeg",
     "@images/IMG_22E65146B328-1.jpeg",
-    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Virtual networking appliances.md",
-    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Top IT Challenges.md",
-    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Container(s).md",
-    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Container as a Service (CaaS).md",
-    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Built-in networking tools.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Estimate Confidence Intervals.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Best Machine Learning Model.md",
-    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Public Cloud.md",
-    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Cloud Computing.md",
-    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Untitled.md",
-    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Emerging Technologies.md",
     "@images/Pasted image 20240324021319.png",
-    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Rapid Elasticity.md",
-    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Shared Resource Pooling.md",
-    "2024 Semester 1/INFOSYS303 - Solutions Architecture/On-demand Self-Service.md",
-    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Measured Service.md",
-    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Internet Access.md",
-    "2024 Semester 1/INFOSYS303 - Solutions Architecture/ArchiMate Relations.md",
     "@images/Pasted image 20240324020241.png",
     "@images/Pasted image 20240324020222.png",
-    "conflict-files-obsidian-git.md",
     "@images/Pasted image 20240322005120.png",
-    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Untitled",
     "2024 Semester 1",
     "2023 Semester 2",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture",
@@ -223,6 +217,7 @@
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction",
     "2024 Semester 1/ACCTG151G - Financial Literacy",
     "2023 Semester 2/COMPSCI235 - Software Development Methodologies/235 summary.canvas",
+    "COMPSCI235 - Software Development Methodologies/Untitled",
     "2023 Semester 2/COMPSCI367 - Artificial Intelligence/finals prep.canvas"
   ]
 }
