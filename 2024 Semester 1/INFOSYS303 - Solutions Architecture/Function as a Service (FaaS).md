@@ -34,5 +34,4 @@ This model is ideal for simple, repetitive functions like scheduling tools or pr
 4. [[Function as a Service (FaaS)]] platforms are easy to use & simple to understand. We don't need to be cloud experts to get the results we want. We can simply upload the code with instructions on how the platform should provision it & get started.
 5. The [[Function as a Service (FaaS)]] model makes updating applications & releasing new features easy. The infrastructure for [[Function as a Service (FaaS)]] is fully optimized. This means developers can focus all their energy on responding to customer needs.
 
-NOTE: If we are considering [[Function as a Service (FaaS)]] to our business, beware that it's not the best fit for some applications due to certain design constraints. 
-#
+NOTE: If we are considering [[Function as a Service (FaaS)]] to our business, beware that it's not the best fit for some applications due to certain design constraints. (eg. if our app's functions rely on external resources, then [[Function as a Service (FaaS)]] is not for us)
