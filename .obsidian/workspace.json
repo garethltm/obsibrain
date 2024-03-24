@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Comparing Classifiers.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Estimate Confidence Intervals.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Comparing Classifiers.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Estimate Confidence Intervals.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Comparing Classifiers.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Estimate Confidence Intervals.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Comparing Classifiers.md"
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Estimate Confidence Intervals.md"
               }
             }
           },
@@ -170,6 +170,8 @@
   },
   "active": "14091723e7f96970",
   "lastOpenFiles": [
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Comparing Classifiers.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Estimate Confidence Intervals.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/ROC Curves.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/F-measure.md",
     "conflict-files-obsidian-git.md",
@@ -197,8 +199,6 @@
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Federal Enterprise Architecture Framework (FEAF).md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/How to Provision AWS Resources.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Gartner's Enterprise Architecture Framework (GEAF).md",
-    "2024 Semester 1/INFOSYS303 - Solutions Architecture/framework.md",
-    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Spot Instances.md",
     "@images/Pasted image 20240322005120.png",
     "@images/Pasted image 20240322004503.png",
     "@images/Pasted image 20240322004037.png",
