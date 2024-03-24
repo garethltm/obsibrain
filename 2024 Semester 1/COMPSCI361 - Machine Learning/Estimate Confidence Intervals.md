@@ -15,3 +15,7 @@
 		- we get the mean error of model 1 & model 2
 	- t-test computes t-statistic with k-1 degrees of freedom: ![[IMG_22E65146B328-1.jpeg]]
 - where:![[IMG_98969FEBD02F-1.jpeg]]
+
+## Statistical Significance
+- Are $M\tiny 1$ & $M\tiny 2$ significantly different?
+- Comput
