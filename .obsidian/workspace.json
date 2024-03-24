@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/ArchiMate Relations.md",
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Cloud Computing.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/ArchiMate Relations.md",
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Cloud Computing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/ArchiMate Relations.md",
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Cloud Computing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/ArchiMate Relations.md"
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Cloud Computing.md"
               }
             }
           },
@@ -171,6 +171,7 @@
   },
   "active": "d2b7038ffac10a62",
   "lastOpenFiles": [
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/ArchiMate Relations.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Private Cloud.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/IT Modernization.md",
     "@images/IMG_A0249A321891-1.jpeg",
@@ -198,7 +199,6 @@
     "2024 Semester 1/COMPSCI361 - Machine Learning/ROC Curves.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/F-measure.md",
     "conflict-files-obsidian-git.md",
-    "2024 Semester 1/INFOSYS303 - Solutions Architecture/ArchiMate Relations.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/ArchiMate.md",
     "@images/Pasted image 20240324021319.png",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Rapid Elasticity.md",
