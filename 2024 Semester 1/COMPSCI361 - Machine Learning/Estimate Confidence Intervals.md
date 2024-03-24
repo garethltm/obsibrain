@@ -14,5 +14,4 @@
 	- Average over (at least) 10 rounds to get $\overline {err}(M\tiny 1\normalsize )$ & $\overline {err}(M\tiny 2\normalsize )$ 
 		- we get the mean error of model 1 & model 2
 	- t-test computes t-statistic with k-1 degrees of freedom: ![[IMG_22E65146B328-1.jpeg]]
-- where:
-	- 
+- where:![[IMG_98969FEBD02F-1.jpeg]]
