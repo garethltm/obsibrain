@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Built-in networking tools.md",
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Cloud Networking Architecture.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Built-in networking tools.md",
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Cloud Networking Architecture.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Built-in networking tools.md",
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Cloud Networking Architecture.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Built-in networking tools.md"
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Cloud Networking Architecture.md"
               }
             }
           },
@@ -155,7 +155,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Built-in networking tools.md"
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Cloud Networking Architecture.md"
               }
             }
           }
@@ -180,6 +180,7 @@
   },
   "active": "cb91979e970db753",
   "lastOpenFiles": [
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Built-in networking tools.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Cloud Networking Architecture.md",
     "@images/Pasted image 20240324230031.png",
     "@images/Pasted image 20240324230024.png",
@@ -214,7 +215,6 @@
     "@images/IMG_FD32044C639A-1.jpeg",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Container(s).md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Container as a Service (CaaS).md",
-    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Built-in networking tools.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Untitled",
     "2024 Semester 1",
     "2023 Semester 2",
