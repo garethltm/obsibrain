@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/TOGAF Standard.md",
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/TOGAF Architectural Development Method (ADM).md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/TOGAF Standard.md",
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/TOGAF Architectural Development Method (ADM).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/TOGAF Standard.md",
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/TOGAF Architectural Development Method (ADM).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/TOGAF Standard.md"
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/TOGAF Architectural Development Method (ADM).md"
               }
             }
           },
@@ -172,6 +172,7 @@
   "active": "22f0331f25e52fc5",
   "lastOpenFiles": [
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/TOGAF Architecture Content Framework.md",
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/TOGAF Standard.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Available services within a Region.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Availability Zone.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/artifact(s).md",
@@ -196,7 +197,6 @@
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Cloud Networking Architecture.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Virtual networking appliances.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Built-in networking tools.md",
-    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Cloud Computing.md",
     "@images/IMG_A0249A321891-1.jpeg",
     "@images/IMG_FD32044C639A-1.jpeg",
     "@images/IMG_517FDDC6FB47-1.jpeg",
