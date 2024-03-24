@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "474f2a676330495c",
+        "id": "bea24257f9ecba3e",
         "type": "tabs",
         "children": [
           {
-            "id": "d2b7038ffac10a62",
+            "id": "22f0331f25e52fc5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Multi-cloud management platform.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Cross-Validation (CV).md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Multi-cloud management platform.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Cross-Validation (CV).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Multi-cloud management platform.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Cross-Validation (CV).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Multi-cloud management platform.md"
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Cross-Validation (CV).md"
               }
             }
           },
@@ -169,10 +169,11 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "d2b7038ffac10a62",
+  "active": "22f0331f25e52fc5",
   "lastOpenFiles": [
-    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Cloud Networking Architecture.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Classifier.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Multi-cloud management platform.md",
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Cloud Networking Architecture.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Virtual networking appliances.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Built-in networking tools.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Cloud Computing.md",
@@ -202,7 +203,6 @@
     "2024 Semester 1/COMPSCI361 - Machine Learning/Comparing Classifiers.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/ROC Curves.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/F-measure.md",
-    "conflict-files-obsidian-git.md",
     "@images/Pasted image 20240324021319.png",
     "@images/Pasted image 20240324020241.png",
     "@images/Pasted image 20240324020222.png",
