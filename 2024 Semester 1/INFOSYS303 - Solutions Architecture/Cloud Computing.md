@@ -12,3 +12,4 @@ Cloud is a model of computing where servers, networks, storage, development tool
 	1. [[Public Cloud]]
 	2. [[Private Cloud]]
 	3. [[Hybrid Cloud]]
+In the 
