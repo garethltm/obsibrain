@@ -5,3 +5,4 @@
 5. Overcome slow infrastructure rollouts & learn to scale better for growth (both scale-up & scale-out)
 6. Make operations predictable & reliable to avoid excess costs & unscheduled downtime
 7. Overcome the lack of time budget & resources so it can itself innovate while also supporting & fostering innovation through the business
+
