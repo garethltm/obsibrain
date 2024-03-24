@@ -31,4 +31,5 @@ This model is ideal for simple, repetitive functions like scheduling tools or pr
 	- When you need the services, they're there. 
 	- When you don't, they're gone.
 3. On-demand access without unnecessary costs translates into [[2024 Semester 1/INFOSYS303 - Solutions Architecture/Scalability|Scalability]]
-4. [[Function as a Service (FaaS)]] platforms are easy to use & simple to understand. We don't need to be cloud experts to get the results we want. We can simply upload the code with instrucutio
+4. [[Function as a Service (FaaS)]] platforms are easy to use & simple to understand. We don't need to be cloud experts to get the results we want. We can simply upload the code with instructions on how the platform should provision it & get started.
+5. The [[Function as a Service (FaaS)]] model makes updating applications & releasing new features easy. The infrastructure for [[Function as a Service (FaaS)]] is fully optimized. This means developers can focus all their energy on repsonding 
