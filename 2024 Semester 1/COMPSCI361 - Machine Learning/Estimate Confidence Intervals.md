@@ -22,4 +22,7 @@
 - Consult table for t-distribution:
 	- Find t value corresponding to k-1 degrees of freedom (here 9)
 - t-distribution is symmetric:
-	- typically upper % points of distribution shown $\rightarrow$ look up value for confidence limit z = $\frac{sig}{2}$
+	- typically upper % points of distribution shown $\rightarrow$ look up value for confidence limit z = $\frac{sig}{2}$ (here, 0.025)
+- If t > z or t < -z, then t value lies in rejection region:
+	- Reject null hypothesis that mean error rates of $M\tiny 1$ & $M\tiny 2$  are same
+	- Con
