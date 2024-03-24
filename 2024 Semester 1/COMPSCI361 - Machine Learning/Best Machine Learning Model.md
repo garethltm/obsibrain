@@ -12,3 +12,6 @@
 ## General idea
 - there is no [[Best Machine Learning Model]]
 
+#compsci361example 
+![[Pasted image 20240324133831.png]]
+
