@@ -8,7 +8,7 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "",
+      "query": "path:\"2024 Semester 1/INFOSYS303 - Solutions Architecture\"  ",
       "color": {
         "a": 1,
         "rgb": 14701138
@@ -25,6 +25,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.8921194158294307,
-  "close": false
+  "scale": 1.7826767977434617,
+  "close": true
 }
