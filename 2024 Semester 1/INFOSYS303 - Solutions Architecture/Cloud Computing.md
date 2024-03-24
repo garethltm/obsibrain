@@ -12,4 +12,5 @@ Cloud is a model of computing where servers, networks, storage, development tool
 	1. [[Public Cloud]]
 	2. [[Private Cloud]]
 	3. [[Hybrid Cloud]]
-In the past, choosing a [[Hyperscaler(s)]] meant picking [[Public Cloud]] over [[Private Cloud]]. This is no longer the case. To support regulatory, performance 
+
+- In the past, choosing a [[Hyperscaler(s)]] meant picking [[Public Cloud]] over [[Private Cloud]]. This is no longer the case. To support regulatory, performance & data gravity requirements, the [[Hyperscaler(s)]] are now offering [[Private Cloud]] carveouts in public environments. 
