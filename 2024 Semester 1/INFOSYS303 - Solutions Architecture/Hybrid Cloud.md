@@ -1,1 +1,1 @@
-- Many organizations actually use a combination of several cloud environments. This is referred as a [[Hybrid Cloud]] approach. [[Hybrid Cloud]] 
+- Many organizations actually use a combination of several cloud environments. This is referred as a [[Hybrid Cloud]] approach. [[Hybrid Cloud]] often includes a combination of [[Public Cloud]] & [[Private Cloud]], frequently in combination with some on-premise infrastructure. To create a true [[Hybrid Cloud]] architecture
