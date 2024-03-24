@@ -1,0 +1,1 @@
+A [[Multi-cloud]] approach is a particular case of [[Hybrid Cloud]] in which an organization uses services from multiple [[Public Cloud]] providers
