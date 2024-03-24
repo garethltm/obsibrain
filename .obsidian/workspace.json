@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Private Cloud.md",
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Cloud Networking Architecture.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Private Cloud.md",
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Cloud Networking Architecture.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Private Cloud.md",
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Cloud Networking Architecture.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Private Cloud.md"
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Cloud Networking Architecture.md"
               }
             }
           },
@@ -155,7 +155,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Private Cloud.md"
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Cloud Networking Architecture.md"
               }
             }
           }
@@ -180,13 +180,20 @@
   },
   "active": "cb91979e970db753",
   "lastOpenFiles": [
-    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Amazon Elastic Container Service (Amazon ECS).md",
-    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Untitled.md",
-    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Cloud Networking Architecture.md",
-    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Cloud Computing.md",
-    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Public Cloud.md",
-    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Virtual networking appliances.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Network Architecture Components.md",
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Cloud Computing.md",
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Cloud Networking Architecture.md",
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/artifact(s).md",
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Availability Zone.md",
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/TOGAF Architectural Development Method (ADM).md",
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Zachman Enterprise Architecture Framework (ZEAF).md",
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Virtual networking appliances.md",
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Top IT Challenges.md",
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Multi-cloud management platform.md",
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Untitled.md",
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Private Cloud.md",
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Amazon Elastic Container Service (Amazon ECS).md",
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Public Cloud.md",
     "@images/Pasted image 20240324225715.png",
     "@images/Pasted image 20240324225700.png",
     "@images/Pasted image 20240324225652.png",
@@ -205,17 +212,10 @@
     "@images/IMG_98969FEBD02F-1.jpeg",
     "@images/IMG_517FDDC6FB47-1.jpeg",
     "@images/IMG_22E65146B328-1.jpeg",
-    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Top IT Challenges.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Container(s).md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Container as a Service (CaaS).md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Built-in networking tools.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Estimate Confidence Intervals.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Best Machine Learning Model.md",
-    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Emerging Technologies.md",
-    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Rapid Elasticity.md",
-    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Shared Resource Pooling.md",
-    "2024 Semester 1/INFOSYS303 - Solutions Architecture/On-demand Self-Service.md",
-    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Measured Service.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Untitled",
     "2024 Semester 1",
     "2023 Semester 2",
