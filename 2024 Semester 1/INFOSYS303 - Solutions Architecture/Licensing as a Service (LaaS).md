@@ -15,4 +15,5 @@ Vendors stay in control of the terms of use for their software. they determine h
 1. Be used for various licensing models & application types.
 2. Offer vendors more flexibility. Vendors can focus on creating software not enforcing its protection.
 3. Make monetizing software faster & easier, increasing [[scalability]].
-4. 
+4. Be used to manage, track & regulate software usage
+5. Be tailored to each software suite as providers can ad
