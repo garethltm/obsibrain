@@ -1,1 +1,1 @@
-- is a form of contai
+- is a form of [[Containers]]-based [[virtualization]] in which container engines, orchestration & the underlying compute resources are delivered to users as a service from a cloud provider
