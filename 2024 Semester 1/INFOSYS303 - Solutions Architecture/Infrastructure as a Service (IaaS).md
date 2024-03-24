@@ -6,5 +6,5 @@ With [[Infrastructure as a Service (IaaS)]], an organization migrates its hardwa
 
 System administrators within the business are responsible for:
 1. managing aspects such as databases, applications, runtime, security, etc. 
-2. while the cloud provider manages the servers, hard drives, 
+2. while the cloud provider manages the servers, hard drives, networking, storage etc.
 
