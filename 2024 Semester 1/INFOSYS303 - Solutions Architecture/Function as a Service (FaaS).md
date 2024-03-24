@@ -15,3 +15,5 @@ Using the [[Function as a Service (FaaS)]] delivery model, users aren't responsi
 Users can run backend code while the provider secures & allocates the application resources needed for the process
 
 Developers deploy pieces of code known as functions to be performed on-demand
+
+According to this demand, the [[Function as a Service (FaaS)]] provider creates a server to execute the function
