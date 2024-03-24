@@ -7,4 +7,9 @@ Traditionally, software developers have created in-house licensing engines to en
 However, as these methods are easily abused, modern alternatives have been sought such as [[Licensing as a Service (LaaS)]]
 
 ## How does it work?
-Vendors stay in control of the terms of use for their software. they determine how, when 
+Vendors stay in control of the terms of use for their software. they determine how, when & who can use the software & the [[Licensing as a Service (LaaS)]] provider makes sure the license is enforced with the end-users.
+
+#infosys303example - RLM Cloud
+
+### Benefits
+1. 
