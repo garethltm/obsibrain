@@ -11,8 +11,12 @@
             "id": "22f0331f25e52fc5",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Enterprise Architect (EA).md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -66,8 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "29204b37fc003a9a",
@@ -83,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Enterprise Architect (EA).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Enterprise Architect (EA).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -120,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Enterprise Architect (EA).md"
+              }
             }
           },
           {
@@ -164,9 +171,9 @@
   },
   "active": "22f0331f25e52fc5",
   "lastOpenFiles": [
-    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Phase A - Architecture Vision.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/ArchiMate.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Accelerated computing instances.md",
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Phase A - Architecture Vision.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Decision Tree(s).md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Decision Tree Pruning.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Cross-Validation (CV).md",
