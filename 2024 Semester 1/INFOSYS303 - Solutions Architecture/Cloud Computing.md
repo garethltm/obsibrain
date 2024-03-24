@@ -19,7 +19,7 @@ Cloud is a model of computing where servers, networks, storage, development tool
 	3. [[Infrastructure as a Service (IaaS)]]
 	4. [[Container as a Service (CaaS)]]
 	5. [[Function as a Service (FaaS)]]![[IMG_FD32044C639A-1.jpeg]]
-	6. Licensing as a Service (Laa)
+	6. [[Licensing as a Service (LaaS)]]
 
 - In the past, choosing a [[Hyperscaler(s)]] meant picking [[Public Cloud]] over [[Private Cloud]]. This is no longer the case. To support regulatory, performance & data gravity requirements, the [[Hyperscaler(s)]] are now offering [[Private Cloud]] carveouts in public environments. 
 #infosys303example 
