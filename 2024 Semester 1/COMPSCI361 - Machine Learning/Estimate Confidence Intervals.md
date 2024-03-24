@@ -9,3 +9,5 @@
 	- we choose the model with lower error rate
 
 ## t-test
+- if only 1 test set is available: pairwise comparison (we apply both models to the same test set)
+	- For the ith round of 10-fold [[Cross-Validation (CV)]], the same cross partitioning is used to obtain $err(M\)
