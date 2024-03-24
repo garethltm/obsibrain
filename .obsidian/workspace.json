@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "5583f1f98bb43c24",
+        "id": "0232c56780a68228",
         "type": "tabs",
         "children": [
           {
-            "id": "fa33cd7c66e04d51",
+            "id": "f3fdd84b9f82e53f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Enterprise Architecture.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Enterprise Architecture.md",
+                "file": "Private Cloud.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Enterprise Architecture.md",
+                "file": "Private Cloud.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Enterprise Architecture.md"
+                "file": "Private Cloud.md"
               }
             }
           },
@@ -155,7 +151,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Enterprise Architecture.md"
+                "file": "Private Cloud.md"
               }
             }
           }
@@ -178,8 +174,11 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "fa33cd7c66e04d51",
+  "active": "3ad179677b7fba41",
   "lastOpenFiles": [
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Cloud Networking Architecture.md",
+    "Private Cloud.md",
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Enterprise Architecture.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/ArchiMate Enterprise Architecture.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/ArchiMate Core Framework.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/ArchiMate.md",
@@ -195,7 +194,6 @@
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Top IT Challenges.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Container(s).md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Container as a Service (CaaS).md",
-    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Cloud Networking Architecture.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Built-in networking tools.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Estimate Confidence Intervals.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Best Machine Learning Model.md",
@@ -213,8 +211,6 @@
     "@images/Pasted image 20240324020241.png",
     "@images/Pasted image 20240324020222.png",
     "conflict-files-obsidian-git.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Cross-Validation (CV).md",
-    "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week01/Performance measure.md",
     "@images/Pasted image 20240322005120.png",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Untitled",
     "2024 Semester 1",
