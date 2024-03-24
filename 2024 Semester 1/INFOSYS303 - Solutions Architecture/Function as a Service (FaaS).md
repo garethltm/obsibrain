@@ -27,4 +27,7 @@ This model is ideal for simple, repetitive functions like scheduling tools or pr
 
 ## Benefits
 1. A 'pay-as-you-go' model helps businesses to save up-front hardware & operating system costs
-2. [[Function as a Service (FaaS)]] offers scaling opportunities, as cl
+2. [[Function as a Service (FaaS)]] offers scaling opportunities, as cloud service providers give on-demand services. 
+	- When you need the services, they're there. 
+	- When you don't, they're gone.
+3. On-demand access  
