@@ -1,5 +1,5 @@
 ## Null Hypothesis
-1. Perform a 10-fold [[Cross-Validation (CV)]]
+#compsci361example Perform a 10-fold [[Cross-Validation (CV)]]
 2. Assume samples follow a t-distribution with k-1 degrees of freedom (here, k = 10)
 3. Use t-test (or Student's t-test)
 4. Null Hypothesis: $M\tiny 1$ & $M\tiny 2$ are the same
@@ -18,4 +18,6 @@
 
 ## Statistical Significance
 - Are $M\tiny 1$ & $M\tiny 2$ significantly different?
-- Comput
+- Compute t. Select significance level (eg. sig = 5%)
+- Consult table for t-distribution:
+	- Find t value corresponding to k-1 degrees of freedom (here 9)
