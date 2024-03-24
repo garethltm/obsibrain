@@ -1,0 +1,1 @@
+- Many organizations actually use a combination of several cloud environments. This is referred as a [[Hybrid Cloud]] approach. [[Hybrid Cloud]] 
