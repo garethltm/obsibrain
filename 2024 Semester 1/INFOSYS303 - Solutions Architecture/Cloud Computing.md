@@ -17,7 +17,7 @@ Cloud is a model of computing where servers, networks, storage, development tool
 	1. [[Software as a Service (SaaS)]]
 	2. [[Platform as a Service (PaaS)]]
 	3. [[Infrastructure as a Service (IaaS)]]
-
+![[IMG_517FDDC6FB47-1.jpeg]]
 - In the past, choosing a [[Hyperscaler(s)]] meant picking [[Public Cloud]] over [[Private Cloud]]. This is no longer the case. To support regulatory, performance & data gravity requirements, the [[Hyperscaler(s)]] are now offering [[Private Cloud]] carveouts in public environments. 
 #infosys303example 
 1. VMware on AWS (VMC)
