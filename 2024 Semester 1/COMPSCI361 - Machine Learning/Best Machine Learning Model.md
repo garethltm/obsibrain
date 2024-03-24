@@ -9,5 +9,4 @@
 	- If model A generalizes better to new data than model B on one dataset, there is another dataset where model B works better
 
 ## General idea
-- there is no best model achieving the best generaliztion error for every problem
-- If model A generalizes better to new dat than model B on one dat
+- there is no [[Best Machine Learning Model]]
