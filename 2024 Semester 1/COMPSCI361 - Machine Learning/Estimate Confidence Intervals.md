@@ -16,13 +16,14 @@
 	- t-test computes t-statistic with k-1 degrees of freedom: ![[IMG_22E65146B328-1.jpeg]]
 - where:![[IMG_98969FEBD02F-1.jpeg]]
 
-## Statistical Significance
-- Are $M\tiny 1$ & $M\tiny 2$ significantly different?
+## Statistical Significance (Are $M\tiny 1$ & $M\tiny 2$ significantly different?)
 - Compute t. Select significance level (eg. sig = 5%)
 - Consult table for t-distribution:
 	- Find t value corresponding to k-1 degrees of freedom (here 9)
 - t-distribution is symmetric:
 	- typically upper % points of distribution shown $\rightarrow$ look up value for confidence limit z = $\frac{sig}{2}$ (here, 0.025)
 - If t > z or t < -z, then t value lies in rejection region:
-	- Reject null hypothesis that mean error rates of $M\tiny 1$ & $M\tiny 2$  are same
-	- Con
+	- Reject null hypothesis that mean error rates of $M\tiny 1$ & $M\tiny 2$  are same (which basically means they are different)
+	- Conclude: statistically significant difference between $M\tiny 1$ & $M\tiny 2$ 
+- Otherwise, conclude that any difference is by chance
+	- Take a 
