@@ -12,8 +12,12 @@
             "id": "22f0331f25e52fc5",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/ArchiMate Core Framework.md",
+                "mode": "source",
+                "source": false
+              }
             },
             "group": "51fe5fbae52baf10"
           }
@@ -30,7 +34,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/TOGAF Architectural Development Method (ADM).md",
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/ArchiMate Core Framework.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -127,6 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/ArchiMate Core Framework.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,6 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/ArchiMate Core Framework.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +170,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/ArchiMate Core Framework.md"
+              }
             }
           },
           {
@@ -208,12 +216,13 @@
   },
   "active": "22f0331f25e52fc5",
   "lastOpenFiles": [
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/ArchiMate.md",
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Amazon EC2 Auto Scaling.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/TOGAF Architectural Development Method (ADM).md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Applications Architecture.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/ArchiMate Relations.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Enterprise Architecture.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Enterprise Architect (EA).md",
-    "2024 Semester 1/INFOSYS303 - Solutions Architecture/ArchiMate.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Accelerated computing instances.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Phase A - Architecture Vision.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Decision Tree(s).md",
@@ -236,7 +245,6 @@
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Container(s).md",
     "@images/IMG_517FDDC6FB47-1.jpeg",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Software as a Service (SaaS).md",
-    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Infrastructure as a Service (IaaS).md",
     "@images/Pasted image 20240324133831.png",
     "@images/IMG_98969FEBD02F-1.jpeg",
     "@images/IMG_22E65146B328-1.jpeg",
