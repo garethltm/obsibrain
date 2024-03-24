@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "0232c56780a68228",
+        "id": "572f0ab861087041",
         "type": "tabs",
         "children": [
           {
-            "id": "f3fdd84b9f82e53f",
+            "id": "cb91979e970db753",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Untitled.md",
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Private Cloud.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Untitled.md",
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Private Cloud.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Untitled.md",
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Private Cloud.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Untitled.md"
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Private Cloud.md"
               }
             }
           },
@@ -155,7 +155,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Untitled.md"
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Private Cloud.md"
               }
             }
           }
@@ -178,10 +178,11 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "f3fdd84b9f82e53f",
+  "active": "cb91979e970db753",
   "lastOpenFiles": [
-    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Cloud Networking Architecture.md",
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Amazon Elastic Container Service (Amazon ECS).md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Untitled.md",
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Cloud Networking Architecture.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Cloud Computing.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Public Cloud.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Virtual networking appliances.md",
@@ -215,7 +216,6 @@
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Shared Resource Pooling.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/On-demand Self-Service.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Measured Service.md",
-    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Internet Access.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Untitled",
     "2024 Semester 1",
     "2023 Semester 2",
