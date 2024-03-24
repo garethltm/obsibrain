@@ -6,7 +6,6 @@
       {
         "id": "bea24257f9ecba3e",
         "type": "tabs",
-        "dimension": 73.71888726207906,
         "children": [
           {
             "id": "22f0331f25e52fc5",
@@ -14,55 +13,11 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/ArchiMate Core Framework.md",
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/ArchiMate Relations.md",
                 "mode": "source",
                 "source": false
               }
-            },
-            "group": "51fe5fbae52baf10"
-          }
-        ]
-      },
-      {
-        "id": "ca135bd5e522fca2",
-        "type": "tabs",
-        "dimension": 26.281112737920935,
-        "children": [
-          {
-            "id": "50e8757fc56e25dd",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/ArchiMate Core Framework.md",
-                "options": {
-                  "collapse-filter": true,
-                  "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": true,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 1.082915506707893,
-                  "close": false
-                }
-              }
-            },
-            "group": "51fe5fbae52baf10"
+            }
           }
         ]
       }
@@ -131,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/ArchiMate Core Framework.md",
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/ArchiMate Relations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/ArchiMate Core Framework.md",
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/ArchiMate Relations.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/ArchiMate Core Framework.md"
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/ArchiMate Relations.md"
               }
             }
           },
@@ -216,7 +171,10 @@
   },
   "active": "22f0331f25e52fc5",
   "lastOpenFiles": [
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/ArchiMate Enterprise Architecture.md",
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/ArchiMate Core Framework.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/ArchiMate.md",
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/The Active Structure Aspect.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Amazon EC2 Auto Scaling.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/TOGAF Architectural Development Method (ADM).md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Applications Architecture.md",
@@ -241,10 +199,7 @@
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Function as a Service (FaaS).md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Licensing as a Service (LaaS).md",
     "@images/IMG_FD32044C639A-1.jpeg",
-    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Container as a Service (CaaS).md",
-    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Container(s).md",
     "@images/IMG_517FDDC6FB47-1.jpeg",
-    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Software as a Service (SaaS).md",
     "@images/Pasted image 20240324133831.png",
     "@images/IMG_98969FEBD02F-1.jpeg",
     "@images/IMG_22E65146B328-1.jpeg",
