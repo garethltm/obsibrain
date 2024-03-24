@@ -6,4 +6,8 @@
 	- How well we expect to do for a completely unseen feature vector
 - No free lunch theorem
 	- There is no best model achieving the best generalization error for every problem
-	- If model A generalizes better 
+	- If model A generalizes better to new data than model B on one dataset, there is another dataset where model B works better
+
+## General idea
+- there is no best model achieving the best generaliztion error for every problem
+- If model A generalizes better to new dat than model B on one dat
