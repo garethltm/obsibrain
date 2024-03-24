@@ -15,7 +15,7 @@ Cloud is a model of computing where servers, networks, storage, development tool
 	4. [[Multi-cloud]]
 2. Service categories
 	1. [[Software as a Service (SaaS)]]
-	2. [[Platform as a Service ]]
+	2. [[Platform as a Service (PaaS)]]
 
 - In the past, choosing a [[Hyperscaler(s)]] meant picking [[Public Cloud]] over [[Private Cloud]]. This is no longer the case. To support regulatory, performance & data gravity requirements, the [[Hyperscaler(s)]] are now offering [[Private Cloud]] carveouts in public environments. 
 #infosys303example 
