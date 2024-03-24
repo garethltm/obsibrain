@@ -1,1 +1,1 @@
-- Connecting to a [[Public Cloud]] means using an internet connection to access computing resources hosted on data centers managed by a 3rd-party cloud service provider, rather than 
+- Connecting to a [[Public Cloud]] means using an internet connection to access computing resources hosted on data centers managed by a 3rd-party cloud service provider, rather than owning & maintaining these resources on-premise. A shared public cloud has many organizations (or te)
