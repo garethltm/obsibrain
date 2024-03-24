@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Estimate Confidence Intervals.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Best Machine Learning Model.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Estimate Confidence Intervals.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Best Machine Learning Model.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Estimate Confidence Intervals.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Best Machine Learning Model.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Estimate Confidence Intervals.md"
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Best Machine Learning Model.md"
               }
             }
           },
@@ -170,10 +170,11 @@
   },
   "active": "14091723e7f96970",
   "lastOpenFiles": [
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Estimate Confidence Intervals.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Best Machine Learning Model.md",
     "@images/IMG_98969FEBD02F-1.jpeg",
     "@images/IMG_22E65146B328-1.jpeg",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Comparing Classifiers.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Estimate Confidence Intervals.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/ROC Curves.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/F-measure.md",
     "conflict-files-obsidian-git.md",
@@ -205,7 +206,6 @@
     "@images/Pasted image 20240322004037.png",
     "@images/Pasted image 20240322002925.png",
     "@images/Pasted image 20240319141743.png",
-    "@images/Pasted image 20240319140808.png",
     "2024 Semester 1",
     "2023 Semester 2",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture",
