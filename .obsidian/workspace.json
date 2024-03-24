@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "14091723e7f96970",
+            "id": "d2b7038ffac10a62",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -18,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "d2b7038ffac10a62",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Private Cloud.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -99,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Private Cloud.md",
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Cloud Computing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Private Cloud.md",
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Cloud Computing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Private Cloud.md"
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Cloud Computing.md"
               }
             }
           },
@@ -183,9 +170,9 @@
   },
   "active": "d2b7038ffac10a62",
   "lastOpenFiles": [
-    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Public Cloud.md",
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Hybrid Cloud.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Private Cloud.md",
-    "Untitled.md",
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Public Cloud.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Cloud Computing.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Best Machine Learning Model.md",
     "@images/Pasted image 20240324133831.png",
