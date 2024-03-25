@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "3601dde1c22812df",
+        "id": "0ba46af4c89cf8f6",
         "type": "tabs",
         "children": [
           {
-            "id": "0879387662bbdf6b",
+            "id": "3f62a3566ab3a0c5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -86,7 +82,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +98,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,9 +119,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "conflict-files-obsidian-git.md"
-              }
+              "state": {}
             }
           },
           {
@@ -169,7 +161,7 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "0879387662bbdf6b",
+  "active": "3f62a3566ab3a0c5",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Accelerated computing instances.md",
