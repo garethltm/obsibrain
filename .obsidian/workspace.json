@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/ArchiMate Core Framework.md",
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Network Architecture Components.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/ArchiMate Core Framework.md",
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Network Architecture Components.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/ArchiMate Core Framework.md",
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Network Architecture Components.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/ArchiMate Core Framework.md"
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Network Architecture Components.md"
               }
             }
           },
@@ -171,6 +171,9 @@
   },
   "active": "acce247569cdf0f7",
   "lastOpenFiles": [
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Cloud Computing.md",
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Cloud Networking Architecture.md",
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/ArchiMate Core Framework.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/ArchiMate.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Applications Architecture.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Amazon Simple Queue Service (Amazon SQS).md",
@@ -202,9 +205,6 @@
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Preliminary Phase.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/TOGAF Architecture Content Framework.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/TOGAF Standard.md",
-    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Available services within a Region.md",
-    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Availability Zone.md",
-    "2024 Semester 1/INFOSYS303 - Solutions Architecture/artifact(s).md",
     "@images/IMG_A0249A321891-1.jpeg",
     "@images/IMG_FD32044C639A-1.jpeg",
     "2024 Semester 1",
