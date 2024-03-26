@@ -1,5 +1,5 @@
 - Process of creating ideas & proposals for the design
-	- Ideation informers
+	- [[Ideation informers]]
 		- Derived from [[Usage Research & Data Elicitation]]
 		- #compsci345example task description & personas
 	- Ideation catalysts
