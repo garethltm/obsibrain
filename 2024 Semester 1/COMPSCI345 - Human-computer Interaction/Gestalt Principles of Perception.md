@@ -6,7 +6,7 @@
 ## Set of Principles
 1. [[Proximity Principle]]
 2. [[Similarity Principle]]
-3. Common Fate
+3. [[Common Fate Principle]]
 4. Closure
 5. Continuity
 6. Area
