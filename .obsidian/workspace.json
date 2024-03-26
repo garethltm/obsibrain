@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Understand needs.md",
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Usage Research & Data Analysis.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Understand needs.md",
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Usage Research & Data Analysis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Understand needs.md",
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Usage Research & Data Analysis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Understand needs.md"
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Usage Research & Data Analysis.md"
               }
             }
           },
@@ -155,7 +155,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Understand needs.md"
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Usage Research & Data Analysis.md"
               }
             }
           }
@@ -180,9 +180,10 @@
   },
   "active": "92ea964d253ce40e",
   "lastOpenFiles": [
-    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Contextual Inquiry.md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Understand needs.md",
-    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Usage Research.md",
+    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Usage Research & Data Analysis.md",
+    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Usage Research & Data Elicitation.md",
+    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Contextual Inquiry.md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Collection - Elicitation.md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Questionnaires.md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Logs & Notes.md",
@@ -215,7 +216,6 @@
     "@images/Pasted image 20240324225715.png",
     "@images/Pasted image 20240324225700.png",
     "@images/Pasted image 20240324225652.png",
-    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Applications Architecture.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Untitled",
     "2024 Semester 1",
     "2023 Semester 2",
