@@ -103,3 +103,11 @@
 6. Capture the data
 7. Connection to data sources (using IDs)
 8. Write good raw data notes
+## Organizing the Discovery Process
+1. Filters
+	- Physical
+		- Describe the physical aspects of the activity
+	- Cultural
+		- Relationsh
+	- Functional
+	- Informational
