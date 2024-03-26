@@ -62,4 +62,7 @@
 	- How many visits, how many users, what user roles
 ## Exploring the Domain
 - Understand the competition
-	- Learn from othe rdesign solutions
+	- Learn from other design solutions
+	- Assess both the positive & negative aspects
+	- Respect copyrighted material & intellectual property
+NOTE: Often times the goal is to not build a new system but to buy a system that best fits
