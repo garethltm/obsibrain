@@ -49,7 +49,7 @@ Important:
 ## What makes a good [[Affinity diagram]]?
 - Hierarchical structure
 - Clear language of the labels
-	- short, succinct
+	- short, succinct, invite immediate understanding
 - Story language
 	- moving through data quickly so that the mind can be free to generate ideas
 - Communicative
