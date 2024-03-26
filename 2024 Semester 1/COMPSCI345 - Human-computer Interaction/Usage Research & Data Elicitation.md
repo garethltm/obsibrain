@@ -1,3 +1,4 @@
+![[Pasted image 20240326152135.png]]
 - Not about asking what users want
 - More of: What users require from the system
 	- Understand work practice
