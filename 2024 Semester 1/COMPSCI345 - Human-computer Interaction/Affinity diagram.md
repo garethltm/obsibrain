@@ -35,12 +35,15 @@ Important:
 	***NOTE: Place notes one at a time; as each note is placed, other team members may add similar notes in close proximity***
 3. Look to split up large groups
 	- Find sub-topics - forming the hierarchy![[Pasted image 20240326221251.png]]
+4. Needs a large working area![[Pasted image 20240326221518.png]]
 
 ### How far do you take the analysis
 - as far as is helpful for your needs
 
 1. Useful until you have uncovered with some rigor, 
 	- what are the most important activities/tasks to support
-	- where task dependencies occur people, resources, or
-1. What is essential vs non-essential in an implementation
+	- where task dependencies occur people, resources, order
+2. What is essential vs non-essential in an implementation
 	- from here $\rightarrow$ key elements for design begin to emerge
+
+## What makes a go
