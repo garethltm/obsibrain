@@ -19,4 +19,5 @@
 ## Disadvantages
 1. Vague questions will return ambiguous responses that will serve no useful purpose or the design
 2. People don't like to fill out long [[Questionnaires]]
-3. Closed-ended questions
+3. Closed-ended questions can restrict responses
+4. Open-ended questions can be hard to quantify

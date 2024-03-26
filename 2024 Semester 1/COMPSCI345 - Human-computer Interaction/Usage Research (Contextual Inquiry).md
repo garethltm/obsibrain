@@ -50,9 +50,15 @@
 	- Creating different stories about how the various aspects of the work are done
 	- Creating formal diagrams of the interaction
 	- (Need a narrative)
-## Preparation Prior to the visit
+## Preparation Prior to the visit (1)
 1. Learn about the subject domain
 	- Culture of the work domain
+	- ## Exploring the Domain
+- Understand the competition
+	- Learn from other design solutions
+	- Assess both the positive & negative aspects
+	- Respect copyrighted material & intellectual property
+***NOTE: Often times the goal is to not build a new system but to buy a system that best fits***
 	- Vocabulary, technical terms, slang, etc.
 2. Learn about the company
 	- Business goals, online presence for ethos, competition, best practice in domain, legacy systems
@@ -61,9 +67,3 @@
 	- Subject matter experts, focus groups, user surveys, competitive analysis, become a domain expert
 5. Visit parameters
 	- How many visits, how many users, what user roles
-## Exploring the Domain
-- Understand the competition
-	- Learn from other design solutions
-	- Assess both the positive & negative aspects
-	- Respect copyrighted material & intellectual property
-***NOTE: Often times the goal is to not build a new system but to buy a system that best fits***
