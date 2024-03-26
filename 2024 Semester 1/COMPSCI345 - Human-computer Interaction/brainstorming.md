@@ -6,4 +6,6 @@
 		- "Worst possible idea" approach
 	- May use storyboarding
 		- Making a comic strip of the interaction concept
-		- Any so
+		- Any sort of diagramming that denotes the idea
+	- (Easier to tone down a wild idea than to think up a new one)
+- Teams can work in parallel by breaking into subgroups or individually, to scribble ideas on paper sheets or posti
