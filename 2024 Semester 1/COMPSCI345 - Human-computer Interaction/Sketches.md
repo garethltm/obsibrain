@@ -1,4 +1,5 @@
 - what is the important thing I can visualise
+![[Pasted image 20240326225742.png]]
 ## Characteristics
 1. Everyone can sketch
 	- you don't have to be artistic
