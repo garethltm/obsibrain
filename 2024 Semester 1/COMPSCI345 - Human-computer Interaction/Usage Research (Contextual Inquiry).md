@@ -61,3 +61,5 @@
 5. Visit parameters
 	- How many visits, how many users, what user roles
 ## Exploring the Domain
+- Understand the competition
+	- Learn from othe rdesign solutions
