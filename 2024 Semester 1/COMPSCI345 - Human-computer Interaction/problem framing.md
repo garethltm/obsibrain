@@ -1,0 +1,2 @@
+- Framing
+	- the practice of posing a problem within a particular perspective based on a pattern or theme that structures the problem & highlights 

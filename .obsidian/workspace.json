@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/brainstorming.md",
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/problem framing.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/brainstorming.md",
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/problem framing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/brainstorming.md",
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/problem framing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/brainstorming.md"
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/problem framing.md"
               }
             }
           },
@@ -155,7 +155,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/brainstorming.md"
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/problem framing.md"
               }
             }
           }
@@ -180,8 +180,9 @@
   },
   "active": "92ea964d253ce40e",
   "lastOpenFiles": [
-    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Ideation.md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/brainstorming.md",
+    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/problem framing.md",
+    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Ideation.md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Ideation techniques.md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Ideation catalysts.md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Ideation informers.md",
@@ -215,7 +216,6 @@
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Cloud Computing.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/artifact(s).md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Availability Zone.md",
-    "2024 Semester 1/INFOSYS303 - Solutions Architecture/TOGAF Architectural Development Method (ADM).md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Untitled",
     "2024 Semester 1",
     "2023 Semester 2",

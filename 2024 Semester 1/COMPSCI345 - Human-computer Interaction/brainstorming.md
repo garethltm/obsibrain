@@ -13,4 +13,4 @@
 	- Want to have a variety in group makeup
 	- Mediated, only one conversation at a time
 	- Ensure everyone gets a chance to contribute
-- Brainstorming sessions generate a lot of material that must then be filtered & organized
+- [[Brainstorming]] sessions generate a lot of material that must then be filtered & organized
