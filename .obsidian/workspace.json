@@ -11,8 +11,12 @@
             "id": "92ea964d253ce40e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Understand needs.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Understand needs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Understand needs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Understand needs.md"
+              }
             }
           },
           {
@@ -146,7 +154,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {}
+              "state": {
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Understand needs.md"
+              }
             }
           }
         ],
@@ -168,8 +178,11 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "34faae9d0b6c33c5",
+  "active": "92ea964d253ce40e",
   "lastOpenFiles": [
+    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Contextual Inquiry.md",
+    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Understand needs.md",
+    "@images/Pasted image 20240326152135.png",
     "conflict-files-obsidian-git.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Cloud Networking Architecture.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Built-in networking tools.md",
@@ -203,9 +216,6 @@
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/EA Tools.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/framework.md",
     "@images/Pasted image 20240324133831.png",
-    "@images/IMG_FD32044C639A-1.jpeg",
-    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Container(s).md",
-    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Container as a Service (CaaS).md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Untitled",
     "2024 Semester 1",
     "2023 Semester 2",
