@@ -2,10 +2,14 @@
 1. [[Understand needs]]
 
 
-Not about asking what users want
-- What users require from the system
+- Not about asking what users want
+- More of: What users require from the system
 	- Understand work practice
 		- User work/user goals
 		- User work practice
 		- Work domain
 	- You deduce design needs
+### When to apply
+- At the beginning
+	- Of the Software Development Lifecycle
+	- When 
