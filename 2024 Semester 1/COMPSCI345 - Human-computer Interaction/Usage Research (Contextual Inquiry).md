@@ -14,4 +14,10 @@
 	- Of the Software Development Lifecycle (SDLC)
 	- When writing new software
 	- When evaluating software products
-- 
+### Understand Work Practice
+- A prerequisite to understanding needs
+- A prelude for requirements
+- UX designers need to develop this understanding
+- Deep investigation of people's work
+- Usually needs to be anonymous
+
