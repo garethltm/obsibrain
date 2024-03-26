@@ -12,4 +12,4 @@
 6. [[The Area Principle]]
 7. [[Symmetry Principle]]
 8. [[Surroundedness Principle]]
-9. [[Prägnanz]]
+9. [[Prägnanz Principle]]

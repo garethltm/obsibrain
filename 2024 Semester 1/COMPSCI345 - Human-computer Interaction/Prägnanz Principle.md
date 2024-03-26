@@ -1,0 +1,1 @@
+- as an overarching principle we tend to perceive things based on the simplest & most stable or complete interpretation![[Pasted image 20240327000436.png]]
