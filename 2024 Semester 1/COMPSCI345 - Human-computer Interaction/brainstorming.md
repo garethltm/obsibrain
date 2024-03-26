@@ -1,0 +1,2 @@
+- Team activity
+	- Get out possible ideas,
