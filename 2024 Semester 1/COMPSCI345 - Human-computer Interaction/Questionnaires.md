@@ -8,4 +8,9 @@
 	- Short-answer fill-ins
 	- Comments
 
-NOTE: Good for getting information from a lot of people
+***NOTE: Good for getting information from a lot of people***
+
+## Advantages
+1. They don't involve face-to-face contact & can be administered remotely
+2. They can be used to supply information for primary stakeholder profiles
+3. They can be used to ascertain whether proposed solutions will meet with accep
