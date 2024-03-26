@@ -77,3 +77,9 @@
 4. Observe users in their work context
 5. Ensure no influence by management
 6. Prepare initial questions
+## During the visit
+1. Set the stage
+	- Rapport with client, explain purpose, explain approach
+2. Observation versus interviewing
+3. Successful data elicitation
+	- Listen to what the use
