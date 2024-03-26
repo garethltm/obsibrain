@@ -20,4 +20,11 @@
 - UX designers need to develop this understanding
 - Deep investigation of people's work
 - Usually needs to be anonymous
-
+### Discovery Phase
+![[Pasted image 20240326204435.png]]
+- Finding out about the work that people do
+	- Visit their work context
+	- Challenges & hurdles they face
+	- Workarounds
+- Defined methodology to gather & interpret
+	- Needs dete
