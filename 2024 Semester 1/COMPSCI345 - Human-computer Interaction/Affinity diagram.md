@@ -11,4 +11,8 @@
 
 ### Considerations
 1. The Affinity is built bottom-up (inductive)
-2. 'We don't start with known categories such as 'Quality' that might see
+2. 'We don't start with known categories such as 'Quality' that might be familiar to the team
+3. Keep group notes small: 4-6 notes per group
+	- Make more groups, finding more issues or more insights
+4. Label each group - use a different colour for labels
+	- 
