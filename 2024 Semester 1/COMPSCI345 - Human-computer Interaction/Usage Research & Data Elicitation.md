@@ -14,7 +14,7 @@
 ### Understand Work Practice
 - A prerequisite to understanding needs
 - A prelude for requirements
-- UX designers need to develop this understanding
+- [[User eXperience (UX)]] designers need to develop this understanding
 - Deep investigation of people's work
 - Usually needs to be anonymous
 ## Discovery Phase

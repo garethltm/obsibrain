@@ -5,3 +5,8 @@
 	- Ideation catalysts
 	- Ideation techniques
 		- #compsci345example brainstorming, farming, etc.
+
+### Doing ideation
+1. Immerse
+2. A group activity
+3. Gathering 
