@@ -46,4 +46,11 @@ Important:
 2. What is essential vs non-essential in an implementation
 	- from here $\rightarrow$ key elements for design begin to emerge
 
-## What makes a go
+## What makes a good [[Affinity diagram]]?
+- Hierarchical structure
+- Clear language of the labels
+	- short, succinct
+- Story language
+	- moving through data quickly so that the mind can be free to generate ideas
+- Communicative
+	- bridges the gap between data & design
