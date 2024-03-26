@@ -1,1 +1,1 @@
-- [[Emphasis]] as a pri
+- [[Emphasis]] as a principle asks for an easily recognizable focus![[Pasted image 20240327001359.png]]

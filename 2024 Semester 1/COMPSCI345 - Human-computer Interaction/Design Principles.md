@@ -2,4 +2,4 @@
 - We are going to review 3 principles:
 	1. [[Balance]]
 	2. [[Emphasis]]
-	3. Unity
+	3. [[Unity]]

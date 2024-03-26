@@ -1,0 +1,1 @@
+- all parts of our design have some commonality so that they are perceived as a whole
