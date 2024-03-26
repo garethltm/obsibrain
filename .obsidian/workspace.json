@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "3b44300481d0aa15",
+        "id": "e16deba5f1347e8b",
         "type": "tabs",
         "children": [
           {
-            "id": "b2fa13d518bc8b5c",
+            "id": "2be1aed63abdc8a9",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Design solutions.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -86,7 +82,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Design solutions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +98,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Design solutions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,9 +119,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Design solutions.md"
-              }
+              "state": {}
             }
           },
           {
@@ -169,8 +161,9 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "b2fa13d518bc8b5c",
+  "active": "2be1aed63abdc8a9",
   "lastOpenFiles": [
+    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Design solutions.md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Design thinking.md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Nielsen's Advice for Heuristic Evaluations.md",
     "conflict-files-obsidian-git.md",
@@ -206,7 +199,6 @@
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Sketches.md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/problem framing.md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/brainstorming.md",
-    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Usage Research & Data Elicitation.md",
     "2024 Semester 1",
     "2023 Semester 2",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture",
