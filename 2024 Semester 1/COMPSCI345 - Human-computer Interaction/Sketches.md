@@ -1,3 +1,4 @@
+- what is the important thing I can visualise
 ## Characteristics
 1. Everyone can sketch
 	- you don't have to be artistic
@@ -9,4 +10,4 @@
 5. Sketches are timely; they can be made just in time, done in the moment, provided when needed
 6. Sketches should be plentiful
 	- entertain a large number of ideas & make multiple sketches of each idea
-7. Textual ann
+7. Textual annotation play an essential support role, explaining what is going on in each part of the sketch & how
