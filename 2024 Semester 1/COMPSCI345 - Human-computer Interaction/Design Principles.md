@@ -6,6 +6,10 @@
 
 ### Applying Principles
 - The [[Design Principles]] & [[Gestalt Principles of Perception]] can guide the design process
+
 - Vocabulary for communication in teams
 - Use for review during project progress
-- Discussion al
+- Discussion along different dimensions
+
+The principles don't "compute" a solution, they facilitate the solution finding
+- for ourselves & in teams
