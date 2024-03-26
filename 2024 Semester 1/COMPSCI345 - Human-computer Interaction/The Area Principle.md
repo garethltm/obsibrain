@@ -1,0 +1,1 @@
+- objects with small area tend to be seen as the figure, not the 
