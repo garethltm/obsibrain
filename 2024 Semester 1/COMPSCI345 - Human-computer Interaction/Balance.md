@@ -1,0 +1,3 @@
+- The distribution of the optical weight in an interface
+	- Perception that some objects appear heavier than others
+	- #compsci345example larger objects, cluster of small objects
