@@ -40,4 +40,7 @@ Important:
 - as far as is helpful for your needs
 
 1. Useful until you have uncovered with some rigor, 
-2. What is essential vs 
+	- what are the most important activities/tasks to support
+	- where task dependencies occur people, resources, or
+1. What is essential vs non-essential in an implementation
+	- from here $\rightarrow$ key elements for design begin to emerge
