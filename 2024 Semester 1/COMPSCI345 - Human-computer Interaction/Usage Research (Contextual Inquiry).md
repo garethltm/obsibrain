@@ -57,5 +57,6 @@
 	- Business goals, online presence for ethos, competition, best practice in domain, legacy systems
 3. Learn about the proposed product or system
 4. Decide on data sources
-	- 
-1. Visit parameters
+	- Subject matter experts, focus groups, user surveys, competitive analysis, become a domain expert
+5. Visit parameters
+	- How many visits, how many users, what user roles
