@@ -1,1 +1,1 @@
-- all parts of our design have some commonality so that they are perceived as a whole
+- all parts of our design have some commonality so that they are perceived as a whole![[Pasted image 20240327001437.png]]

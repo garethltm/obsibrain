@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Unity.md",
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Design Principles.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Unity.md",
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Design Principles.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Unity.md",
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Design Principles.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Unity.md"
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Design Principles.md"
               }
             }
           },
@@ -155,7 +155,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Unity.md"
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Design Principles.md"
               }
             }
           }
@@ -180,10 +180,11 @@
   },
   "active": "92ea964d253ce40e",
   "lastOpenFiles": [
+    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Emphasis.md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Design Principles.md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Unity.md",
+    "@images/Pasted image 20240327001437.png",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Balance.md",
-    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Emphasis.md",
     "@images/Pasted image 20240327001359.png",
     "@images/Pasted image 20240327001323.png",
     "@images/Pasted image 20240327001118.png",
@@ -201,7 +202,6 @@
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Continuity Principle.md",
     "@images/Pasted image 20240326235901.png",
     "@images/Pasted image 20240326235803.png",
-    "@images/Pasted image 20240326235636.png",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Common Fate Principle.md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Similarity Principle.md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Proximity Principle.md",
@@ -215,7 +215,6 @@
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Ideation techniques.md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Ideation catalysts.md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Ideation informers.md",
-    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Generative design.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Untitled",
     "2024 Semester 1",
     "2023 Semester 2",
