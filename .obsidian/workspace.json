@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Balance.md",
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Emphasis.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Balance.md",
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Emphasis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Balance.md",
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Emphasis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Balance.md"
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Emphasis.md"
               }
             }
           },
@@ -155,7 +155,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Balance.md"
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Emphasis.md"
               }
             }
           }
@@ -180,9 +180,11 @@
   },
   "active": "92ea964d253ce40e",
   "lastOpenFiles": [
-    "@images/Pasted image 20240327001118.png",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Design Principles.md",
+    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Emphasis.md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Balance.md",
+    "@images/Pasted image 20240327001323.png",
+    "@images/Pasted image 20240327001118.png",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Design Walkthrough.md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Prägnanz Principle.md",
     "@images/Pasted image 20240327000436.png",
@@ -201,9 +203,7 @@
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Common Fate Principle.md",
     "@images/Pasted image 20240326235539.png",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Similarity Principle.md",
-    "@images/Pasted image 20240326235439.png",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Proximity Principle.md",
-    "@images/Pasted image 20240326235345.png",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Prägnanz.md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Sketches.md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Design thinking.md",
