@@ -27,4 +27,4 @@
 	- Challenges & hurdles they face
 	- Workarounds
 - Defined methodology to gather & interpret
-	- Needs dete
+	- Needs detective work
