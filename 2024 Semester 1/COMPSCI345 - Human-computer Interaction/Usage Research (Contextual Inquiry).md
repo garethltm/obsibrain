@@ -41,4 +41,5 @@
 	- Processes involved
 	- Information required
 	- Constraints imposed
-	- Inputs require
+	- Inputs required
+	- Outputs created
