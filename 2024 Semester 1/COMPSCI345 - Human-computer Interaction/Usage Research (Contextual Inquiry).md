@@ -44,4 +44,9 @@
 	- Inputs required
 	- Outputs created
 - You will then model the information by:
-	- Creating descriptions of the peopl
+	- Creating descriptions of the people who do the work
+	- Documenting the main use-cases
+	- Creating different stories about how the various aspects of the work are done
+	- Creating formal diagrams of the interaction
+	- (Need a narrative)
+## Prrp
