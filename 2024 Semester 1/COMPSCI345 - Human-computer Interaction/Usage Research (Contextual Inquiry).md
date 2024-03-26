@@ -81,5 +81,10 @@
 1. Set the stage
 	- Rapport with client, explain purpose, explain approach
 2. Observation versus interviewing
+	- Idea of making things feel more natural (not everything has to be interviewed)
 3. Successful data elicitation
-	- Listen to what the use
+	- Listen to what the user says is needed
+	- Partner with users
+	- Be a good listener & good detective
+	- Avoid interjecting your own views
+4. What to look for - specific inform
