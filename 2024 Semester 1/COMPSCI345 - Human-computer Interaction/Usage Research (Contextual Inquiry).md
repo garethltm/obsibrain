@@ -69,4 +69,11 @@
 	- How many visits, how many users, what user roles
 ## Preparation Prior to the visit (2)
 1. Organise a data elicitation team
-2. Req
+2. Recruit participants
+	- Rely on client to help
+	- Recruit locally for consumer products
+	- Good coverage for work roles
+3. Identify setting for study
+4. Observe users in their work context
+5. Ensure no influence by management
+6. Prepare initial questions
