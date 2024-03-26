@@ -7,7 +7,7 @@
 1. [[Proximity Principle]]
 2. [[Similarity Principle]]
 3. [[Common Fate Principle]]
-4. Closure
+4. [[Closure Principle]]
 5. [[Continuity Principle]]
 6. Area
 7. Symmetry

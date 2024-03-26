@@ -1,0 +1,1 @@
+- we tend to see things as complete objects even though there may be gaps in the shape of th
