@@ -1,0 +1,1 @@
+- objects that are close to each other will be seen as belonging together
