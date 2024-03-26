@@ -28,6 +28,10 @@ Important:
 	- Look for notes that seem to be related
 	- Sort notes into groups until all used
 	- Give them a label representing the insight suggested by the group
-		- The l
+		- The label is the synthesis of the detailed data
+		- Labels written from user's perspective
+		- Labels will drive design
 	- Sort & re-sort into larger clusters subgroups as necessary
-***NOTE: Place notes one at a time; as each note is placed, other team members may add similar notes in close proximity***
+	***NOTE: Place notes one at a time; as each note is placed, other team members may add similar notes in close proximity***
+3. Look to split up large groups
+	- Find sub-topics - forming the hierarchy
