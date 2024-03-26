@@ -3,7 +3,7 @@
 		- Derived from [[Usage Research & Data Elicitation]]
 		- #compsci345example task description & personas
 	- [[Ideation catalysts]]
-	- Ideation techniques
+	- [[Ideation techniques]]
 		- #compsci345example brainstorming, farming, etc.
 
 ### Doing ideation
