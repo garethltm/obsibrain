@@ -11,5 +11,7 @@
 	- You deduce design needs
 ### When to apply
 - At the beginning
-	- Of the Software Development Lifecycle
-	- When 
+	- Of the Software Development Lifecycle (SDLC)
+	- When writing new software
+	- When evaluating software products
+- 
