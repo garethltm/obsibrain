@@ -1,4 +1,7 @@
 - Process of creating ideas & proposals for the design
 	- Ideation informers
-		- Derived from usage research data
-		- #compsci345example 
+		- Derived from [[Usage Research & Data Elicitation]]
+		- #compsci345example task description & personas
+	- Ideation catalysts
+	- Ideation techniques
+		- #compsci345example brainstorming, farming, etc.
