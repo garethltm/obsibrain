@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "c83e668eebb92f5a",
+        "id": "f44b0018c8744947",
         "type": "tabs",
         "children": [
           {
-            "id": "acce247569cdf0f7",
+            "id": "48a96ad889812c71",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/ArchiMate Enterprise Architecture.md",
+                "file": "conflict-files-obsidian-git.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/ArchiMate Enterprise Architecture.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/ArchiMate Enterprise Architecture.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/ArchiMate Enterprise Architecture.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -169,8 +169,16 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "acce247569cdf0f7",
+  "active": "48a96ad889812c71",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/ArchiMate Enterprise Architecture.md",
+    "@images/Pasted image 20240326225742.png",
+    "@images/Pasted image 20240326225738.png",
+    "@images/Pasted image 20240326224955.png",
+    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Wicked Problems.md",
+    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Sketches.md",
+    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Design thinking.md",
     "@images/Pasted image 20240326222052.png",
     "@images/Pasted image 20240326222034.png",
     "@images/Pasted image 20240326221518.png",
@@ -178,7 +186,6 @@
     "@images/Pasted image 20240326220245.png",
     "@images/Pasted image 20240326220202.png",
     "@images/Pasted image 20240326205323.png",
-    "@images/Pasted image 20240326204435.png",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/problem framing.md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/brainstorming.md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Usage Research & Data Elicitation.md",
@@ -197,16 +204,9 @@
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Collection - Observation.md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Collection - Elicitation.md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Affinity diagram.md",
-    "@images/Pasted image 20240326152135.png",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Usage Research (Contextual Inquiry).md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Understand needs.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/ArchiMate Core Framework.md",
-    "2024 Semester 1/INFOSYS303 - Solutions Architecture/ArchiMate Enterprise Architecture.md",
-    "2024 Semester 1/INFOSYS303 - Solutions Architecture/ArchiMate Relations.md",
-    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/A world of heuristics.md",
-    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Network Architecture Components.md",
-    "@images/Pasted image 20240324230031.png",
-    "@images/Pasted image 20240324230024.png",
     "2024 Semester 1",
     "2023 Semester 2",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture",
