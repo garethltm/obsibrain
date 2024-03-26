@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "dcda2707ec5d8446",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Nielsen's Advice for Heuristic Evaluations.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Nielsen's Advice for Heuristic Evaluations.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Nielsen's Advice for Heuristic Evaluations.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -169,44 +182,44 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "b2fa13d518bc8b5c",
+  "active": "dcda2707ec5d8446",
   "lastOpenFiles": [
+    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Nielsen's Advice for Heuristic Evaluations.md",
+    "conflict-files-obsidian-git.md",
+    "@images/Pasted image 20240327001437.png",
+    "@images/Pasted image 20240327001359.png",
+    "@images/Pasted image 20240327001323.png",
+    "@images/Pasted image 20240327001118.png",
+    "@images/Pasted image 20240327000436.png",
+    "@images/Pasted image 20240327000341.png",
+    "@images/Pasted image 20240327000243.png",
+    "@images/Pasted image 20240327000202.png",
+    "@images/Pasted image 20240326235901.png",
+    "@images/Pasted image 20240326235803.png",
+    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Unity.md",
+    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/The Area Principle.md",
+    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Symmetry Principle.md",
+    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Surroundedness Principle.md",
+    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Similarity Principle.md",
+    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Prägnanz.md",
+    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Prägnanz Principle.md",
+    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Proximity Principle.md",
+    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Gestalt Principles of Perception.md",
+    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Emphasis.md",
+    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Design Principles.md",
+    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Continuity Principle.md",
+    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Common Fate Principle.md",
+    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Closure Principle.md",
+    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Balance.md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Nielsen's Heuristics.md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Ideation techniques.md",
-    "conflict-files-obsidian-git.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/ArchiMate Enterprise Architecture.md",
-    "@images/Pasted image 20240326225742.png",
-    "@images/Pasted image 20240326225738.png",
-    "@images/Pasted image 20240326224955.png",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Wicked Problems.md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Sketches.md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Design thinking.md",
-    "@images/Pasted image 20240326222052.png",
-    "@images/Pasted image 20240326222034.png",
-    "@images/Pasted image 20240326221518.png",
-    "@images/Pasted image 20240326221251.png",
-    "@images/Pasted image 20240326220245.png",
-    "@images/Pasted image 20240326220202.png",
-    "@images/Pasted image 20240326205323.png",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/problem framing.md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/brainstorming.md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Usage Research & Data Elicitation.md",
-    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Usage Research & Data Analysis.md",
-    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Questionnaires.md",
-    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Logs & Notes.md",
-    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Interviews.md",
-    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Ideation.md",
-    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Ideation informers.md",
-    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Ideation catalysts.md",
-    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Generative design.md",
-    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Focus groups.md",
-    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Design solutions.md",
-    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Contextual Inquiry.md",
-    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Collection - Observation.md",
-    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Collection - Elicitation.md",
-    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Affinity diagram.md",
-    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Usage Research (Contextual Inquiry).md",
-    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Understand needs.md",
     "2024 Semester 1",
     "2023 Semester 2",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture",

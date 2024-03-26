@@ -1,0 +1,1 @@
+- objects that have similar visual characteristics, such as size, shape or colour will be seen as a group & therefore related![[Pasted image 20240326235439.png]]
