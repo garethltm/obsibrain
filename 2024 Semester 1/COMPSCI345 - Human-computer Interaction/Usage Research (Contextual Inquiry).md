@@ -8,4 +8,4 @@ Not about asking what users want
 		- User work/user goals
 		- User work practice
 		- Work domain
-	- You ded
+	- You deduce design needs
