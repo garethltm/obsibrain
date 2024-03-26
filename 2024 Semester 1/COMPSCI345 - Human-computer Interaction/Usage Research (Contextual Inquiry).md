@@ -20,7 +20,7 @@
 - UX designers need to develop this understanding
 - Deep investigation of people's work
 - Usually needs to be anonymous
-### Discovery Phase
+## Discovery Phase
 ![[Pasted image 20240326204435.png]]
 - Finding out about the work that people do
 	- Visit their work context
@@ -31,4 +31,6 @@
 ##### Data Elicitation Steps
 - Conduct a field visit to the customer
 	- Observe & interview people while they use the existing product or system
-	- Write research data notes as you encounter 
+	- Write research data notes as you encounter research data points
+	- Gather artefacts associated with the work practice
+	- Make sketches, diagrams or photos of the product or system in its physical environment![[Pasted image 20240326205323.png]]
