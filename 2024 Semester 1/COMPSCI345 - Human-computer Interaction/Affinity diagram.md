@@ -23,4 +23,9 @@ Important:
 	- The meaning a team reads in a note & the way they group them are driven by the project/research focus
 - To let groups emerge, rather than start with predefined groups
 
-1. Record each idea/observation/p
+1. Record each idea/observation/problem/etc. on an individual card or sticky note (in random order).
+2. In team, arrange the notes into a hierarchy
+	- Look for notes that seem to be related
+	- Sort notes into groups until all used
+	- Give them a label representing the insight suggested by the group
+	- Sort & r
