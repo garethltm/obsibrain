@@ -16,3 +16,7 @@
 4. They can also be used to double-check the feedback obtained from one-on-one interviews
 5. They can reach a large audience with relatively little expense
 ***NOTE: Good for confirming hypothesis, not for discovering***
+## Disadvantages
+1. Vague questions will return ambiguous responses that will serve no useful purpose or the design
+2. People don't like to fill out long [[Questionnaires]]
+3. Closed-ended questions
