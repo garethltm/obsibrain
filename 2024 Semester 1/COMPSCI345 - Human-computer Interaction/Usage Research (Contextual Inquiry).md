@@ -35,6 +35,7 @@
 	- Gather artefacts associated with the work practice
 	- Make sketches, diagrams or photos of the product or system in its physical environment![[Pasted image 20240326205323.png]]
 1. [[Collection - Elicitation]]
+2. [[Collection - Observation]]
 ## Requirements collection process
 - During the collection phase you will formally identify:
 	- People involved
