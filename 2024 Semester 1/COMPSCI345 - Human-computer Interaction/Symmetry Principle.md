@@ -1,0 +1,1 @@
+- symmetrical figures tend to be seen as complete figures that form around the middle

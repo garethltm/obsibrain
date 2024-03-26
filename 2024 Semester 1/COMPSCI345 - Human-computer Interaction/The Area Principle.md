@@ -1,1 +1,1 @@
-- objects with small area tend to be seen as the figure, not the 
+- objects with small area tend to be seen as the figure, not the ground (also called the smallness principle)![[Pasted image 20240327000202.png]]

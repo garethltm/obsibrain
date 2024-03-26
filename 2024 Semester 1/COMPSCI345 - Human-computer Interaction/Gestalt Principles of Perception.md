@@ -10,6 +10,6 @@
 4. [[Closure Principle]]
 5. [[Continuity Principle]]
 6. [[The Area Principle]]
-7. Symmetry
+7. [[Symmetry Principle]]
 8. Surroundedness
 9. [[Prägnanz]]
