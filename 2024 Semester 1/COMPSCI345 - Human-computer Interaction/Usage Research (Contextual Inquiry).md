@@ -52,8 +52,10 @@
 ## Preparation Prior to the visit (1)
 1. Learn about the subject domain
 	- Culture of the work domain
-	- Vocabulary, technical terms, slang, etv
-1. Learn about the company
-2. Learn about the proposed product or system
-3. Decide on data sources
-4. Visit parameters
+	- Vocabulary, technical terms, slang, etc.
+2. Learn about the company
+	- Business goals, online presence for ethos, competition, best practice in domain, legacy systems
+3. Learn about the proposed product or system
+4. Decide on data sources
+	- 
+1. Visit parameters
