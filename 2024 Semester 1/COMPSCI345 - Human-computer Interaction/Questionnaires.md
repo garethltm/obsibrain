@@ -13,4 +13,7 @@
 ## Advantages
 1. They don't involve face-to-face contact & can be administered remotely
 2. They can be used to supply information for primary stakeholder profiles
-3. They can be used to ascertain whether proposed solutions will meet with accep
+3. They can be used to ascertain whether proposed solutions will meet with acceptance as well as to elicit new ideas
+4. They can also be used to double-check the feedback obtained from one-on-one interviews
+5. They can reach a large audience with relatively little expense
+NOTE: Good for confirming hypothesis, not for discovering
