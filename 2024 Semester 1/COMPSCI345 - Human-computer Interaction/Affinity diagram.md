@@ -7,4 +7,8 @@
 	- consolidating information from contextual inquiry
 	- grouping brainstorming ideas
 	- grouping comments from users
-	- analysing problems observed/reported 
+	- analysing problems observed/reported by users
+
+### Considerations
+1. The Affinity is built bottom-up (inductive)
+2. 'We don't start with known categories such as 'Quality' that might see
