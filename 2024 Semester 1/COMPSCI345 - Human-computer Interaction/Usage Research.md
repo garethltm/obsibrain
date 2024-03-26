@@ -1,6 +1,3 @@
-
-1. [[Understand needs]]
-
 - Not about asking what users want
 - More of: What users require from the system
 	- Understand work practice
