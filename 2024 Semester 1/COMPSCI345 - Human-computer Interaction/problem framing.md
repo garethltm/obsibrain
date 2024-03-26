@@ -1,2 +1,3 @@
 - Framing
-	- the practice of posing a problem within a particular perspective based on a pattern or theme that structures the problem & highlights 
+	- the practice of posing a problem within a particular perspective based on a pattern or theme that structures the problem & highlights the aspects you will explore
+- Framing & reframing represent a design technique that poses the design problem along a particular dimension to spark a hitherto-unconsidered analysis of trade-offs. It its a technique
