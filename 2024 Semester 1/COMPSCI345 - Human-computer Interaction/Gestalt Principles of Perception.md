@@ -8,7 +8,7 @@
 2. [[Similarity Principle]]
 3. [[Common Fate Principle]]
 4. Closure
-5. Continuity
+5. [[Continuity Principle]]
 6. Area
 7. Symmetry
 8. Surroundedness
