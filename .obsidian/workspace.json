@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "f44b0018c8744947",
+        "id": "3b44300481d0aa15",
         "type": "tabs",
         "children": [
           {
-            "id": "48a96ad889812c71",
+            "id": "b2fa13d518bc8b5c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Nielsen's Advice for Heuristic Evaluations.md",
                 "mode": "source",
                 "source": false
               }
@@ -38,7 +38,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "multi",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Nielsen's Advice for Heuristic Evaluations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Nielsen's Advice for Heuristic Evaluations.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Nielsen's Advice for Heuristic Evaluations.md"
               }
             }
           },
@@ -169,8 +169,10 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "48a96ad889812c71",
+  "active": "b2fa13d518bc8b5c",
   "lastOpenFiles": [
+    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Nielsen's Heuristics.md",
+    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Ideation techniques.md",
     "conflict-files-obsidian-git.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/ArchiMate Enterprise Architecture.md",
     "@images/Pasted image 20240326225742.png",
@@ -194,7 +196,6 @@
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Logs & Notes.md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Interviews.md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Ideation.md",
-    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Ideation techniques.md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Ideation informers.md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Ideation catalysts.md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Generative design.md",
@@ -206,7 +207,6 @@
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Affinity diagram.md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Usage Research (Contextual Inquiry).md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Understand needs.md",
-    "2024 Semester 1/INFOSYS303 - Solutions Architecture/ArchiMate Core Framework.md",
     "2024 Semester 1",
     "2023 Semester 2",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture",
