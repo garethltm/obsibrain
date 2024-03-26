@@ -4,5 +4,9 @@
 - The balance in screen design is achieved by providing an equal 'weight' of screen elements, left & right, top & bottom
 
 ## 2 common systems
-1. Symmetry - a mirror
-2. Asymmetry
+1. Symmetry - a mirror image
+		![[Pasted image 20240327001118.png]]
+	- Symmetry can occur in any orientation as long as the elements are the same on either side of the central axis
+	- Also called formal balance because a form (formula) is used
+2. Asymmetry - without symmetry
+3. 
