@@ -34,4 +34,10 @@ Important:
 	- Sort & re-sort into larger clusters subgroups as necessary
 	***NOTE: Place notes one at a time; as each note is placed, other team members may add similar notes in close proximity***
 3. Look to split up large groups
-	- Find sub-topics - forming the hierarchy
+	- Find sub-topics - forming the hierarchy![[Pasted image 20240326221251.png]]
+
+### How far do you take the analysis
+- as far as is helpful for your needs
+
+1. Useful until you have uncovered with some rigor, 
+2. What is essential vs 
