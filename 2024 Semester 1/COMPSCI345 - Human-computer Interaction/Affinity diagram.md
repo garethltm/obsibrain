@@ -20,4 +20,7 @@
 ### Process
 Important:
 - To start with the project/research focus:
-	- The meaning a team reads in a note & the way they g
+	- The meaning a team reads in a note & the way they group them are driven by the project/research focus
+- To let groups emerge, rather than start with predefined groups
+
+1. Record each idea/observation/p
