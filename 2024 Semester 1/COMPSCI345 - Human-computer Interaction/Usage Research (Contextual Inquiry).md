@@ -108,6 +108,8 @@
 	- Physical
 		- Describe the physical aspects of the activity
 	- Cultural
-		- Relationsh
+		- Relationships among the people involved
 	- Functional
+		- What actually happens
 	- Informational
+		- Information that is involved
