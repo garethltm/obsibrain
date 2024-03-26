@@ -15,4 +15,4 @@
 3. Keep group notes small: 4-6 notes per group
 	- Make more groups, finding more issues or more insights
 4. Label each group - use a different colour for labels
-	- 
+	- Group into hierarchical structure that breaks the data about the topic/user into manageable chunks
