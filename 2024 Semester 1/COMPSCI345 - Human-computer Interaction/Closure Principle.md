@@ -1,1 +1,1 @@
-- we tend to see things as complete objects even though there may be gaps in the shape of th
+- we tend to see things as complete objects even though there may be gaps in the shape of the objects![[Pasted image 20240326235901.png]]

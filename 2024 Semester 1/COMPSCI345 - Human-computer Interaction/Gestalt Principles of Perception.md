@@ -9,7 +9,7 @@
 3. [[Common Fate Principle]]
 4. [[Closure Principle]]
 5. [[Continuity Principle]]
-6. Area
+6. [[The Area Principle]]
 7. Symmetry
 8. Surroundedness
 9. [[Prägnanz]]
