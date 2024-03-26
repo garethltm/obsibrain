@@ -34,6 +34,7 @@
 	- Write research data notes as you encounter research data points
 	- Gather artefacts associated with the work practice
 	- Make sketches, diagrams or photos of the product or system in its physical environment![[Pasted image 20240326205323.png]]
+1. [[Collection - Elicitation]]
 ## Requirements collection process
 - During the collection phase you will formally identify:
 	- People involved
@@ -65,4 +66,4 @@
 	- Learn from other design solutions
 	- Assess both the positive & negative aspects
 	- Respect copyrighted material & intellectual property
-NOTE: Often times the goal is to not build a new system but to buy a system that best fits
+***NOTE: Often times the goal is to not build a new system but to buy a system that best fits***
