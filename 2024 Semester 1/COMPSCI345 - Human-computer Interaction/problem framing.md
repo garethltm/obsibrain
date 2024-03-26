@@ -1,3 +1,4 @@
 - Framing
 	- the practice of posing a problem within a particular perspective based on a pattern or theme that structures the problem & highlights the aspects you will explore
-- Framing & reframing represent a design technique that poses the design problem along a particular dimension to spark a hitherto-unconsidered analysis of trade-offs. It its a technique
+- Framing & reframing represent a design technique that poses the design problem along a particular dimension to spark a hitherto-unconsidered analysis of trade-offs. It's a technique to look at an aspect of the work domain along a particular dimension, making it easy to talk about that aspect of the problem. 
+- Framing acts as a scaffolding because it has a structure & you use that structure to help in analysis
