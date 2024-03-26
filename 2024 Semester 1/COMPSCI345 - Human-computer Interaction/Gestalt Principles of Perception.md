@@ -11,5 +11,5 @@
 5. [[Continuity Principle]]
 6. [[The Area Principle]]
 7. [[Symmetry Principle]]
-8. Surroundedness
+8. [[Surroundedness Principle]]
 9. [[Prägnanz]]

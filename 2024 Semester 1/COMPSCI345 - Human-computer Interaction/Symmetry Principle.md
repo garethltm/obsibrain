@@ -1,1 +1,1 @@
-- symmetrical figures tend to be seen as complete figures that form around the middle
+- symmetrical figures tend to be seen as complete figures that form around the middle![[Pasted image 20240327000243.png]]

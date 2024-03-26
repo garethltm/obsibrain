@@ -1,0 +1,1 @@
+- an area that is surrounded will be seen as the figure & the area that surrounds will be seen as the ground
