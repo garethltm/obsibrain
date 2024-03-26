@@ -1,0 +1,4 @@
+- Process of creating ideas & proposals for the design
+	- Ideation informers
+		- Derived from usage research data
+		- #compsci345example 
