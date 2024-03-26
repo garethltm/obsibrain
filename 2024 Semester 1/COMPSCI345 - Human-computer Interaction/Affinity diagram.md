@@ -28,4 +28,6 @@ Important:
 	- Look for notes that seem to be related
 	- Sort notes into groups until all used
 	- Give them a label representing the insight suggested by the group
-	- Sort & r
+		- The l
+	- Sort & re-sort into larger clusters subgroups as necessary
+***NOTE: Place notes one at a time; as each note is placed, other team members may add similar notes in close proximity***
