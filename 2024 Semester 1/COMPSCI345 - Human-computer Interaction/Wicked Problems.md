@@ -2,4 +2,4 @@
 
 - Problem definition is followed by problem solution
 - Indeterminate
-- Designer
+- Designers conceive of the general & the particular
