@@ -34,7 +34,7 @@
 	- Write research data notes as you encounter research data points
 	- Gather artefacts associated with the work practice
 	- Make sketches, diagrams or photos of the product or system in its physical environment![[Pasted image 20240326205323.png]]
-##### Requirements collection process
+## Requirements collection process
 - During the collection phase you will formally identify:
 	- People involved
 	- Things they use
@@ -43,3 +43,5 @@
 	- Constraints imposed
 	- Inputs required
 	- Outputs created
+- You will then model the information by:
+	- Creating descriptions of the peopl
