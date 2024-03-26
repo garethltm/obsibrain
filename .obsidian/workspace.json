@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "3a93cd0d669b061d",
+        "id": "c83e668eebb92f5a",
         "type": "tabs",
         "children": [
           {
-            "id": "92ea964d253ce40e",
+            "id": "acce247569cdf0f7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Usage Research (Contextual Inquiry).md",
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/ArchiMate Enterprise Architecture.md",
                 "mode": "source",
                 "source": false
               }
@@ -33,27 +33,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3ad179677b7fba41",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {
-                "sortOrder": "alphabetical"
-              }
-            }
-          },
-          {
             "id": "a6e0090ac9cbd1f3",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "private cloud",
+                "query": "multi",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
-                "sortOrder": "alphabetical"
+                "sortOrder": "byModifiedTime"
               }
             }
           },
@@ -64,8 +54,19 @@
               "type": "bookmarks",
               "state": {}
             }
+          },
+          {
+            "id": "295ff167151fc12a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Usage Research (Contextual Inquiry).md",
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/ArchiMate Enterprise Architecture.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Usage Research (Contextual Inquiry).md",
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/ArchiMate Enterprise Architecture.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Usage Research (Contextual Inquiry).md"
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/ArchiMate Enterprise Architecture.md"
               }
             }
           },
@@ -142,25 +143,15 @@
             }
           },
           {
-            "id": "2e4c1b8f3e56d2af",
+            "id": "6875e9b8ebc23add",
             "type": "leaf",
             "state": {
               "type": "review-queue-list-view",
               "state": {}
             }
-          },
-          {
-            "id": "f6eacc6fe3f53242",
-            "type": "leaf",
-            "state": {
-              "type": "file-properties",
-              "state": {
-                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Usage Research (Contextual Inquiry).md"
-              }
-            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -178,45 +169,44 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "92ea964d253ce40e",
+  "active": "acce247569cdf0f7",
   "lastOpenFiles": [
-    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Understand needs.md",
-    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Usage Research (Contextual Inquiry).md",
     "@images/Pasted image 20240326152135.png",
-    "conflict-files-obsidian-git.md",
+    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Usage Research (Contextual Inquiry).md",
+    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Understand needs.md",
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/ArchiMate Core Framework.md",
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/ArchiMate Enterprise Architecture.md",
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/ArchiMate Relations.md",
+    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/A world of heuristics.md",
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Network Architecture Components.md",
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Cloud Computing.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Cloud Networking Architecture.md",
-    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Built-in networking tools.md",
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/ArchiMate.md",
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Applications Architecture.md",
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Amazon Simple Queue Service (Amazon SQS).md",
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Amazon Elastic Kubernetes Service (Amazon EKS).md",
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Amazon EC2 instance(s).md",
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Accelerated computing instances.md",
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Amazon EC2.md",
+    "conflict-files-obsidian-git.md",
     "@images/Pasted image 20240324230031.png",
     "@images/Pasted image 20240324230024.png",
     "@images/Pasted image 20240324230020.png",
     "@images/Pasted image 20240324230019.png",
-    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Network Architecture Components.md",
-    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Cloud Computing.md",
-    "2024 Semester 1/INFOSYS303 - Solutions Architecture/artifact(s).md",
-    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Availability Zone.md",
-    "2024 Semester 1/INFOSYS303 - Solutions Architecture/TOGAF Architectural Development Method (ADM).md",
-    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Zachman Enterprise Architecture Framework (ZEAF).md",
-    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Virtual networking appliances.md",
-    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Top IT Challenges.md",
-    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Multi-cloud management platform.md",
-    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Untitled.md",
-    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Private Cloud.md",
-    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Amazon Elastic Container Service (Amazon ECS).md",
-    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Public Cloud.md",
     "@images/Pasted image 20240324225715.png",
     "@images/Pasted image 20240324225700.png",
     "@images/Pasted image 20240324225652.png",
     "@images/Pasted image 20240324225641.png",
-    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Applications Architecture.md",
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/TOGAF Architectural Development Method (ADM).md",
     "Private Cloud.md",
-    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Enterprise Architecture.md",
-    "2024 Semester 1/INFOSYS303 - Solutions Architecture/ArchiMate Enterprise Architecture.md",
-    "2024 Semester 1/INFOSYS303 - Solutions Architecture/ArchiMate Core Framework.md",
-    "2024 Semester 1/INFOSYS303 - Solutions Architecture/ArchiMate.md",
-    "2024 Semester 1/INFOSYS303 - Solutions Architecture/EA Tools.md",
-    "2024 Semester 1/INFOSYS303 - Solutions Architecture/framework.md",
-    "@images/Pasted image 20240324133831.png",
-    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Untitled",
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Requirements Management.md",
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Phase H - Architecture Change Management.md",
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Phase G - Implementation Governance.md",
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Phase F - Migration Planning.md",
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Phase E - Opportunities & Solutions.md",
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Phase D - Technology Architecture.md",
+    "@images/IMG_A0249A321891-1.jpeg",
+    "@images/IMG_FD32044C639A-1.jpeg",
     "2024 Semester 1",
     "2023 Semester 2",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture",
@@ -227,6 +217,7 @@
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction",
     "2024 Semester 1/ACCTG151G - Financial Literacy",
     "2023 Semester 2/COMPSCI235 - Software Development Methodologies/235 summary.canvas",
+    "COMPSCI235 - Software Development Methodologies/Untitled",
     "2023 Semester 2/COMPSCI367 - Artificial Intelligence/finals prep.canvas"
   ]
 }
