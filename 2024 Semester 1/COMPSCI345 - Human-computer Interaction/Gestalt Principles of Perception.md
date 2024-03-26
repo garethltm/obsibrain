@@ -5,7 +5,7 @@
 
 ## Set of Principles
 1. [[Proximity Principle]]
-2. Similarity
+2. [[Similarity Principle]]
 3. Common Fate
 4. Closure
 5. Continuity

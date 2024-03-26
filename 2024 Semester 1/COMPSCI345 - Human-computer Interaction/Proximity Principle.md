@@ -1,1 +1,1 @@
-- objects that are close to each other will be seen as belonging together
+- objects that are close to each other will be seen as belonging together![[Pasted image 20240326235345.png]]
