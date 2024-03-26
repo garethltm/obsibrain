@@ -87,4 +87,13 @@
 	- Partner with users
 	- Be a good listener & good detective
 	- Avoid interjecting your own views
-4. What to look for - specific inform
+4. What to look for - specific information
+	- User work roles
+	- User personas
+	- Input to user stories & requirements
+	- Work practice artefacts
+	- Flow of information & artefacts
+	- User tasks
+	- Physical work environment
+	- Information architecture
+	- Photo ops
