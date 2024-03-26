@@ -1,2 +1,9 @@
 - Team activity
-	- Get out possible ideas,
+	- Get out possible ideas, explore the solution space
+		- Minimize critical thinking at this stage
+		- Any idea is 'good enough' to write down
+		- Explore beyond the obvious
+		- "Worst possible idea" approach
+	- May use storyboarding
+		- Making a comic strip of the interaction concept
+		- Any so
