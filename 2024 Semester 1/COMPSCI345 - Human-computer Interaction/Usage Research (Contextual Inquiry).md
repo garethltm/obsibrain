@@ -31,4 +31,4 @@
 ##### Data Elicitation Steps
 - Conduct a field visit to the customer
 	- Observe & interview people while they use the existing product or system
-	- Write research data notes as you encout
+	- Write research data notes as you encounter 
