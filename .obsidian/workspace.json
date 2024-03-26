@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "3a93cd0d669b061d",
+        "id": "c83e668eebb92f5a",
         "type": "tabs",
         "children": [
           {
-            "id": "92ea964d253ce40e",
+            "id": "acce247569cdf0f7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/problem framing.md",
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/ArchiMate Enterprise Architecture.md",
                 "mode": "source",
                 "source": false
               }
@@ -33,27 +33,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3ad179677b7fba41",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {
-                "sortOrder": "alphabetical"
-              }
-            }
-          },
-          {
             "id": "a6e0090ac9cbd1f3",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "ux",
+                "query": "multi",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
-                "sortOrder": "alphabetical"
+                "sortOrder": "byModifiedTime"
               }
             }
           },
@@ -64,8 +54,19 @@
               "type": "bookmarks",
               "state": {}
             }
+          },
+          {
+            "id": "295ff167151fc12a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/problem framing.md",
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/ArchiMate Enterprise Architecture.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/problem framing.md",
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/ArchiMate Enterprise Architecture.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/problem framing.md"
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/ArchiMate Enterprise Architecture.md"
               }
             }
           },
@@ -142,25 +143,15 @@
             }
           },
           {
-            "id": "2e4c1b8f3e56d2af",
+            "id": "6875e9b8ebc23add",
             "type": "leaf",
             "state": {
               "type": "review-queue-list-view",
               "state": {}
             }
-          },
-          {
-            "id": "f6eacc6fe3f53242",
-            "type": "leaf",
-            "state": {
-              "type": "file-properties",
-              "state": {
-                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/problem framing.md"
-              }
-            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -178,45 +169,44 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "92ea964d253ce40e",
+  "active": "acce247569cdf0f7",
   "lastOpenFiles": [
-    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/brainstorming.md",
-    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/problem framing.md",
-    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Ideation.md",
-    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Ideation techniques.md",
-    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Ideation catalysts.md",
-    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Ideation informers.md",
-    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Generative design.md",
-    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Usage Research & Data Elicitation.md",
     "@images/Pasted image 20240326222052.png",
     "@images/Pasted image 20240326222034.png",
-    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Design solutions.md",
-    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Contextual Inquiry.md",
-    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Understand needs.md",
-    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Usage Research & Data Analysis.md",
-    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Affinity diagram.md",
     "@images/Pasted image 20240326221518.png",
     "@images/Pasted image 20240326221251.png",
     "@images/Pasted image 20240326220245.png",
     "@images/Pasted image 20240326220202.png",
-    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Collection - Elicitation.md",
-    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Questionnaires.md",
-    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Logs & Notes.md",
-    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Collection - Observation.md",
-    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Focus groups.md",
-    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Interviews.md",
     "@images/Pasted image 20240326205323.png",
     "@images/Pasted image 20240326204435.png",
+    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/problem framing.md",
+    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/brainstorming.md",
+    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Usage Research & Data Elicitation.md",
+    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Usage Research & Data Analysis.md",
+    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Questionnaires.md",
+    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Logs & Notes.md",
+    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Interviews.md",
+    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Ideation.md",
+    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Ideation techniques.md",
+    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Ideation informers.md",
+    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Ideation catalysts.md",
+    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Generative design.md",
+    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Focus groups.md",
+    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Design solutions.md",
+    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Contextual Inquiry.md",
+    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Collection - Observation.md",
+    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Collection - Elicitation.md",
+    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Affinity diagram.md",
     "@images/Pasted image 20240326152135.png",
-    "conflict-files-obsidian-git.md",
-    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Cloud Networking Architecture.md",
-    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Built-in networking tools.md",
-    "@images/Pasted image 20240324230031.png",
+    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Usage Research (Contextual Inquiry).md",
+    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Understand needs.md",
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/ArchiMate Core Framework.md",
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/ArchiMate Enterprise Architecture.md",
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/ArchiMate Relations.md",
+    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/A world of heuristics.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Network Architecture Components.md",
-    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Cloud Computing.md",
-    "2024 Semester 1/INFOSYS303 - Solutions Architecture/artifact(s).md",
-    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Availability Zone.md",
-    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Untitled",
+    "@images/Pasted image 20240324230031.png",
+    "@images/Pasted image 20240324230024.png",
     "2024 Semester 1",
     "2023 Semester 2",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture",
@@ -227,6 +217,7 @@
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction",
     "2024 Semester 1/ACCTG151G - Financial Literacy",
     "2023 Semester 2/COMPSCI235 - Software Development Methodologies/235 summary.canvas",
+    "COMPSCI235 - Software Development Methodologies/Untitled",
     "2023 Semester 2/COMPSCI367 - Artificial Intelligence/finals prep.canvas"
   ]
 }
