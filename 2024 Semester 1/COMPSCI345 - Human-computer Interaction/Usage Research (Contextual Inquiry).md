@@ -1,7 +1,6 @@
 ![[Pasted image 20240326152135.png]]
 1. [[Understand needs]]
 
-
 - Not about asking what users want
 - More of: What users require from the system
 	- Understand work practice
@@ -54,7 +53,7 @@
 ## Preparation Prior to the visit (1)
 1. Learn about the subject domain
 	- Culture of the work domain
-		- ## Exploring the Domain
+		 ## Exploring the Domain
 		- Understand the competition
 			- Learn from other design solutions
 			- Assess both the positive & negative aspects
