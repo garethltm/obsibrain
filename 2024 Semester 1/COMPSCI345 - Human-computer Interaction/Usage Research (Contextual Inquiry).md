@@ -49,4 +49,11 @@
 	- Creating different stories about how the various aspects of the work are done
 	- Creating formal diagrams of the interaction
 	- (Need a narrative)
-## Prrp
+## Preparation Prior to the visit (1)
+1. Learn about the subject domain
+	- Culture of the work domain
+	- Vocabulary, technical terms, slang, etv
+1. Learn about the company
+2. Learn about the proposed product or system
+3. Decide on data sources
+4. Visit parameters
