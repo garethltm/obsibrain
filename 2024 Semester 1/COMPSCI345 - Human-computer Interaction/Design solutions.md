@@ -1,4 +1,6 @@
-- C
+- Create design concepts
+
+![[Pasted image 20240327130502.png]]
 1. Nature of design
 2. Bottom-up versus top-down design
 3. [[Generative design]]
