@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Nielsen's Heuristics.md",
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Visibility of System Status.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Nielsen's Heuristics.md",
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Visibility of System Status.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Nielsen's Heuristics.md",
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Visibility of System Status.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Nielsen's Heuristics.md"
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Visibility of System Status.md"
               }
             }
           },
@@ -171,6 +171,8 @@
   },
   "active": "2be1aed63abdc8a9",
   "lastOpenFiles": [
+    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Nielsen's Heuristics.md",
+    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Nielsen's Advice for Heuristic Evaluations.md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Contextual Inquiry.md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/A world of heuristics.md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/problem framing.md",
@@ -198,12 +200,10 @@
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Design Review.md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Design thinking.md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Sketching.md",
-    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Nielsen's Heuristics.md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Gestalt Principles of Perception.md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Design Walkthrough.md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Ease of learning.md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Engineering heuristic.md",
-    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Nielsen's Advice for Heuristic Evaluations.md",
     "conflict-files-obsidian-git.md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Unity.md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/The Area Principle.md",
