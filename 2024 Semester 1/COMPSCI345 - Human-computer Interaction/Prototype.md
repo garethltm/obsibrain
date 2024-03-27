@@ -12,3 +12,6 @@
 
 1. [[Low fidelity prototype]]
 2. [[High fidelity prototype]]
+![[Pasted image 20240327132454.png]]
+#compsci345example 
+![[Pasted image 20240327132427.png]]
