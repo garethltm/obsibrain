@@ -12,5 +12,6 @@
 ![[Pasted image 20240327130804.png]]
 ## Process leading to interaction design
 ![[Pasted image 20240327130923.png]]
-## Design considerations
+## Design considerations: periphery & focus, glanceable content
+![[Pasted image 20240327131049.png]]![[Pasted image 20240327131104.png]]
 
