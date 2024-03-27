@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Usability.md",
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/User Personas.md",
                 "mode": "source",
                 "source": false
               }
@@ -38,7 +38,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "story",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,8 +65,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Usability.md",
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/User Personas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Usability.md",
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/User Personas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Usability.md"
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/User Personas.md"
               }
             }
           },
@@ -169,8 +168,9 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "2be1aed63abdc8a9",
+  "active": "a6e0090ac9cbd1f3",
   "lastOpenFiles": [
+    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Usability.md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Nielsen's Heuristics.md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Recognition Rather Than Recall.md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Match between System & the Real World.md",
@@ -206,7 +206,6 @@
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Gestalt Principles of Perception.md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Design Walkthrough.md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Ease of learning.md",
-    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Engineering heuristic.md",
     "2024 Semester 1",
     "2023 Semester 2",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture",
