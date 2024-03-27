@@ -7,4 +7,5 @@
 1. Express proposed or imagined scenarios/situations
 2. Used throughout design in various ways
 	- As a basis for overall design
-	- Concre
+	- Concrete examples of tasks
+3. Shows a wider context & interaction from different perspectives
