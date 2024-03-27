@@ -3,4 +3,8 @@
 ## Storyboard provides interaction
 ![[Pasted image 20240327130513.png]]
 
-##
+## Using Storyboards
+1. Express proposed or imagined scenarios/situations
+2. Used throughout design in various ways
+	- As a basis for overall design
+	- Concre
