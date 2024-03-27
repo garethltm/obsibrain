@@ -1,0 +1,4 @@
+- Mobile interfaces can be tricky & cumbersome to use for those with poor manual dexterity or 'fat' fingers
+- Restricted number of controls
+- Smaller hit area
+	- area on the phone display that the user tou
