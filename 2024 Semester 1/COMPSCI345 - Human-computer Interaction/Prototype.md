@@ -9,3 +9,6 @@
 ![[Pasted image 20240327131913.png]]
 ## Horizontal vs Vertical / Breadth vs Depth
 ![[Pasted image 20240327132051.png]]
+
+1. [[Low fidelity prototype]]
+2. [[High fidelity prototype]]
