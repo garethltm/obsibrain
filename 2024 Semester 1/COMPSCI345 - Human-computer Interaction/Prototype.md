@@ -8,3 +8,5 @@
 ![[Pasted image 20240327131900.png]]
 ![[Pasted image 20240327131913.png]]
 ## Low Fidelity Prototype
+![[Pasted image 20240327131936.png]]
+## Horizontal vs Vertical / Breadith vs
