@@ -9,3 +9,7 @@
 	- As a basis for overall design
 	- Concrete examples of tasks
 3. Shows a wider context & interaction from different perspectives
+	- Showing context to help the user understand
+![[Pasted image 20240327130804.png]]
+
+##
