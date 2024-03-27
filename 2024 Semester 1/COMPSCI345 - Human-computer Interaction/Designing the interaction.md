@@ -12,4 +12,4 @@
 	- Showing context to help the user understand
 ![[Pasted image 20240327130804.png]]
 
-##
+## Process leading to interaction design
