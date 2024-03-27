@@ -5,6 +5,6 @@
 
 ## Types of [[Usability]] Evaluations
 - [[Performance Measurement(s)]]
-- Heuristic evaluations
+- [[Heuristic evaluation(s)]]
 - [[Usability]] studies
 - Comparative studies
