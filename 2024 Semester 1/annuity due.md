@@ -1,1 +1,1 @@
-- in one
+- is one when we put the amount we're saving into our investment account at the beginning of every year. We'll look at this as a "special case" for some types of financial products (like )
