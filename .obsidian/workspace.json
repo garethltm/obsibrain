@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "5d94044fc7f3bcde",
+        "id": "f1ef29ecbaff906d",
         "type": "tabs",
         "children": [
           {
-            "id": "b0393aa2f27907c4",
+            "id": "306b90da1b82ea3b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Annuity.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Annuity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Annuity.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Annuity.md"
-              }
+              "state": {}
             }
           },
           {
@@ -154,9 +146,7 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Annuity.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -178,13 +168,15 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "b0393aa2f27907c4",
+  "active": "306b90da1b82ea3b",
   "lastOpenFiles": [
+    "2024 Semester 1/ACCTG151G - Financial Literacy/Annuity.md",
+    "@images/Pasted image 20240330220832.png",
+    "@images/Pasted image 20240330220820.png",
     "@images/Pasted image 20240330220759.png",
     "@images/Pasted image 20240330214429.png",
     "@images/Pasted image 20240330214315.png",
     "2024 Semester 1/ACCTG151G - Financial Literacy/Future Value Interest Factor (FVIF).md",
-    "2024 Semester 1/ACCTG151G - Financial Literacy/Annuity.md",
     "@images/Pasted image 20240330214026.png",
     "@images/Pasted image 20240330213849.png",
     "2024 Semester 1/ACCTG151G - Financial Literacy/ordinary annuity.md",
@@ -204,9 +196,6 @@
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Unity.md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Balance.md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Emphasis.md",
-    "@images/Pasted image 20240327132454.png",
-    "@images/Pasted image 20240327132427.png",
-    "@images/Pasted image 20240327132352.png",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Usability for mobile.md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Design Walkthrough.md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Prägnanz Principle.md",
