@@ -1,1 +1,2 @@
-- is one when we put the amount we're saving into our investment account at the end of every year. This is the "normal" condition we'll look at in this course
+- is one when we put the amount we're saving into our investment account at the ***end of every year*** .
+- This is the "normal" condition we'll look at in this course

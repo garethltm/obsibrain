@@ -12,3 +12,4 @@ Imagine we're considering saving on a regular basis. We intend saving the same a
 The question is - how much will we have at the end of 4 years?
 1. [[ordinary annuity]]
 2. [[annuity due]]
+### Calculating the 
