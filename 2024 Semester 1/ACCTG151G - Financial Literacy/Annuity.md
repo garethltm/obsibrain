@@ -12,4 +12,7 @@ Imagine we're considering saving on a regular basis. We intend saving the same a
 The question is - how much will we have at the end of 4 years?
 1. [[ordinary annuity]]
 2. [[annuity due]]
-### Calculating the 
+### Calculating the [[Future Value (FV)]] of an [[Annuity]]
+![[Pasted image 20240330213849.png]]
+- Mathematicians call this type of equation a "geometric series"
+- What we're interested in of course, is how much money we'll have 
