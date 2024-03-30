@@ -21,3 +21,5 @@
 
 ***NOTE: If [[Interest rates (r)]] is compounded more frequently than once a year, the [[Effective rate]] will be greater than the [[Nominal rate]] of interest***
 - Power function
+
+### How is interest calculated
