@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/ordinary annuity.md",
+                "file": "2024 Semester 1/annuity due.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/ordinary annuity.md",
+                "file": "2024 Semester 1/annuity due.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/ordinary annuity.md",
+                "file": "2024 Semester 1/annuity due.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/ordinary annuity.md"
+                "file": "2024 Semester 1/annuity due.md"
               }
             }
           },
@@ -155,7 +155,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/ordinary annuity.md"
+                "file": "2024 Semester 1/annuity due.md"
               }
             }
           }
@@ -181,6 +181,7 @@
   "active": "b0393aa2f27907c4",
   "lastOpenFiles": [
     "2024 Semester 1/ACCTG151G - Financial Literacy/Annuity.md",
+    "2024 Semester 1/annuity due.md",
     "2024 Semester 1/ACCTG151G - Financial Literacy/ordinary annuity.md",
     "2024 Semester 1/ACCTG151G - Financial Literacy/Single sum.md",
     "2024 Semester 1/ACCTG151G - Financial Literacy/simple interest.md",
@@ -215,7 +216,6 @@
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Continuity Principle.md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Common Fate Principle.md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Similarity Principle.md",
-    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Proximity Principle.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Untitled",
     "2024 Semester 1",
     "2023 Semester 2",
