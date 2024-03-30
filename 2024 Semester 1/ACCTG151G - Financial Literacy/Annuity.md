@@ -17,4 +17,6 @@ The question is - how much will we have at the end of 4 years?
 - Mathematicians call this type of equation a "geometric series"
 - What we're interested in of course, is how much money we'll have at the end of the period, so we want to find the "sum" of this geometric series (eg. the [[Future Value (FV)]] of the cashflows or CFs).![[Pasted image 20240330214026.png]]
 ### [[Future Value Interest Factor (FVIF)]] of an [[Annuity]]
-This can be simplified even further with the use of tables (just like the one we used for the [[Future Value (FV)]] of a single amount)
+This can be simplified even further with the use of tables (just like the one we used for the [[Future Value (FV)]] of a single amount):![[Pasted image 20240330214315.png]]
+
+If you prefer to use a formulae to do these calculations you are we
