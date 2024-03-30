@@ -1,1 +1,5 @@
-- used to calculate itnere
+- used to calculate interest
+
+
+## Types of TVM calculations
+1. [[Single sum]]
