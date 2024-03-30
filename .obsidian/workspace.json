@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Annuity.md",
+                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Interest rates (r).md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Annuity.md",
+                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Interest rates (r).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Annuity.md",
+                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Interest rates (r).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Annuity.md"
+                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Interest rates (r).md"
               }
             }
           },
@@ -155,7 +155,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Annuity.md"
+                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Interest rates (r).md"
               }
             }
           }
@@ -181,8 +181,10 @@
   "active": "92ea964d253ce40e",
   "lastOpenFiles": [
     "2024 Semester 1/ACCTG151G - Financial Literacy/Time value of money (TVM).md",
-    "2024 Semester 1/ACCTG151G - Financial Literacy/Annuity.md",
     "2024 Semester 1/ACCTG151G - Financial Literacy/Single sum.md",
+    "2024 Semester 1/ACCTG151G - Financial Literacy/Annuity.md",
+    "2024 Semester 1/ACCTG151G - Financial Literacy/compounding.md",
+    "2024 Semester 1/ACCTG151G - Financial Literacy/Future Value (FV).md",
     "2024 Semester 1/ACCTG151G - Financial Literacy/Interest rates (r).md",
     "@images/Pasted image 20240330210823.png",
     "@images/Pasted image 20240330210522.png",
@@ -214,8 +216,6 @@
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Prägnanz.md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Sketches.md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Design thinking.md",
-    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/problem framing.md",
-    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Wicked Problems.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Untitled",
     "2024 Semester 1",
     "2023 Semester 2",

@@ -6,5 +6,5 @@
 
 ### [[Future Value (FV)]] of an [[Annuity]]
 - [[Future Value (FV)]] is the value your invested money will grow to when earning a specific rate of interest over a specified time period
-- Is the process of growing today's [[Present Value (PV)]] to a larger [[Future Value (FV)]] by reinvesting interest - known as 'compounding'
+- [[compounding]]
 - 

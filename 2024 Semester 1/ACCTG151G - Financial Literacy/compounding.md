@@ -1,0 +1,1 @@
+- Is the process of growing today's [[Present Value (PV)]] to a larger [[Future Value (FV)]] by reinvesting interest
