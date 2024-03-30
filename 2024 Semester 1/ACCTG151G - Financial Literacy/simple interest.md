@@ -1,4 +1,4 @@
-- without compounding
+- without [[compounding]]
 	- we don't consider interest
 
 #acctg151Gexample
