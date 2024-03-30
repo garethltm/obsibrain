@@ -36,3 +36,4 @@ The amount of interest earned depends on:
 
 ### Time Line
 ![[Pasted image 20240330210823.png]]
+- [[Time value of money (TVM)]] are used to calculate interest
