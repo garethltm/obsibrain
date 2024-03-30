@@ -1,0 +1,2 @@
+- a series of equal payments (or receipts) made at fixed time intervals (eg: monthly, quarterly, annually) for a specified number of periods (eg: years).
+	- shouldn't be indefinite
