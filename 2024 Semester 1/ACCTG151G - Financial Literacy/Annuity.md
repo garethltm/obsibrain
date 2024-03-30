@@ -8,4 +8,6 @@
 - [[Future Value (FV)]] is the value your invested money will grow to when earning a specific rate of interest over a specified time period
 - [[compounding]]
 - We can find out what the [[Future Value (FV)]] of such an [[Annuity]] is in pretty much the same way as we found the [[Future Value (FV)]] of a single amount
-Imagine we're considering saving on a regular basis. We intend saving the same amount each year for the next 4 years. The question is - how much will we ha
+Imagine we're considering saving on a regular basis. We intend saving the same amount each year for the next 4 years. 
+The question is - how much will we have at the end of 4 years?
+1. [[ordinary annuity]]
