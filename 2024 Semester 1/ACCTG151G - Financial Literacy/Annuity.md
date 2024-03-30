@@ -15,4 +15,4 @@ The question is - how much will we have at the end of 4 years?
 ### Calculating the [[Future Value (FV)]] of an [[Annuity]]
 ![[Pasted image 20240330213849.png]]
 - Mathematicians call this type of equation a "geometric series"
-- What we're interested in of course, is how much money we'll have 
+- What we're interested in of course, is how much money we'll have at the end of the period, so we want to find the "sum" of this geometric series (eg. the [[Future Value (FV)]] of the cashflows or CFs).![[Pasted image 20240330214026.png]]
