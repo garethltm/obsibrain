@@ -28,8 +28,11 @@
 ### How much interest will you earn?
 The amount of interest earned depends on:
 - Frequency of compounding
-	- More frequent compounding = More compound interest
+	- More frequent compounding = More [[compound interest]]
 - Balance on which interest is paid
-	- Large principle = More compound interest
+	- Large principle = More [[compound interest]]
 - Interest rate applied
-	- Higher APR = Higher EAR
+	- Higher APR = Higher EAR ([[compound interest]])
+
+### Time Line
+![[Pasted image 20240330210823.png]]

@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ear",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -179,8 +178,9 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "a6e0090ac9cbd1f3",
+  "active": "92ea964d253ce40e",
   "lastOpenFiles": [
+    "@images/Pasted image 20240330210823.png",
     "@images/Pasted image 20240330210522.png",
     "@images/Pasted image 20240330210436.png",
     "2024 Semester 1/ACCTG151G - Financial Literacy/Nominal rate.md",
@@ -196,7 +196,6 @@
     "@images/Pasted image 20240327131913.png",
     "@images/Pasted image 20240327131900.png",
     "@images/Pasted image 20240327131735.png",
-    "@images/Pasted image 20240327131724.png",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Usability for mobile.md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Design Walkthrough.md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Prägnanz Principle.md",
