@@ -25,4 +25,10 @@
 #acctg151Gexample - How is interest calculated
 ![[Pasted image 20240330210522.png]]
 
-### How much interest will y
+### How much interest will you earn?
+The amount of interest earned depends on:
+- Frequency of compounding
+	- More frequent compounding = More compound interest
+- Balance on which interest is paid
+	- Large principle = More compou
+- Interest rate applied
