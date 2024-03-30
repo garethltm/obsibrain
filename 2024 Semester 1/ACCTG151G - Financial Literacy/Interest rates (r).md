@@ -30,5 +30,6 @@ The amount of interest earned depends on:
 - Frequency of compounding
 	- More frequent compounding = More compound interest
 - Balance on which interest is paid
-	- Large principle = More compou
+	- Large principle = More compound interest
 - Interest rate applied
+	- Higher APR = Higher EAR
