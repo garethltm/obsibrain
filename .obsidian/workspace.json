@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "f1ef29ecbaff906d",
+        "id": "72db62a32d054821",
         "type": "tabs",
         "children": [
           {
-            "id": "306b90da1b82ea3b",
+            "id": "0de50ff6cbf22fd8",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/annuity due.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/annuity due.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/annuity due.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/annuity due.md"
+              }
             }
           },
           {
@@ -146,7 +154,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {}
+              "state": {
+                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/annuity due.md"
+              }
             }
           }
         ],
@@ -168,7 +178,7 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "306b90da1b82ea3b",
+  "active": "0de50ff6cbf22fd8",
   "lastOpenFiles": [
     "2024 Semester 1/ACCTG151G - Financial Literacy/Annuity.md",
     "@images/Pasted image 20240330220832.png",
@@ -180,7 +190,7 @@
     "@images/Pasted image 20240330214026.png",
     "@images/Pasted image 20240330213849.png",
     "2024 Semester 1/ACCTG151G - Financial Literacy/ordinary annuity.md",
-    "2024 Semester 1/annuity due.md",
+    "2024 Semester 1/ACCTG151G - Financial Literacy/annuity due.md",
     "2024 Semester 1/ACCTG151G - Financial Literacy/Single sum.md",
     "2024 Semester 1/ACCTG151G - Financial Literacy/simple interest.md",
     "2024 Semester 1/ACCTG151G - Financial Literacy/Interest rates (r).md",
