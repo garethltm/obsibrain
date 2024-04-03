@@ -18,19 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "0916d5299e6044c3",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.5.12"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -189,7 +178,7 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "0916d5299e6044c3",
+  "active": "0de50ff6cbf22fd8",
   "lastOpenFiles": [
     "@images/Pasted image 20240404011740.png",
     "2024 Semester 1/COMPSCI361 - Machine Learning/ROC Curves.md",
