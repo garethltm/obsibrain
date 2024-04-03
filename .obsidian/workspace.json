@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/F-measure.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/parameters.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/F-measure.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/parameters.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/F-measure.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/parameters.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/F-measure.md"
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/parameters.md"
               }
             }
           },
@@ -155,7 +155,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/F-measure.md"
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/parameters.md"
               }
             }
           }
@@ -180,9 +180,12 @@
   },
   "active": "0de50ff6cbf22fd8",
   "lastOpenFiles": [
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Estimate Confidence Intervals.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Comparing Classifiers.md",
+    "@images/Pasted image 20240404011740.png",
     "2024 Semester 1/COMPSCI361 - Machine Learning/ROC Curves.md",
+    "@images/Pasted image 20240404011718.png",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Estimate Confidence Intervals.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/F-measure.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Comparing Classifiers.md",
     "2024 Semester 1/ACCTG151G - Financial Literacy/Annuity.md",
     "2024 Semester 1/ACCTG151G - Financial Literacy/annuity due.md",
     "@images/Pasted image 20240330220832.png",
@@ -204,7 +207,6 @@
     "2024 Semester 1/ACCTG151G - Financial Literacy/Future Value (FV).md",
     "@images/Pasted image 20240330210823.png",
     "@images/Pasted image 20240330210522.png",
-    "@images/Pasted image 20240330210436.png",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Design Principles.md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Unity.md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Balance.md",
@@ -214,8 +216,6 @@
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Prägnanz Principle.md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Gestalt Principles of Perception.md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Surroundedness Principle.md",
-    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Symmetry Principle.md",
-    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/The Area Principle.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Untitled",
     "2024 Semester 1",
     "2023 Semester 2",
