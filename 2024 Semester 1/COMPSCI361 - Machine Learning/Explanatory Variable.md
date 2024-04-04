@@ -1,0 +1,1 @@
+**The variable that is used to explain or predict the [[Dependent Variable]] is called the [[Explanatory Variable]]**

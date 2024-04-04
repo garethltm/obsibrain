@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Regression.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Dependent vs Explanatory Variable.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Regression.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Dependent vs Explanatory Variable.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Regression.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Dependent vs Explanatory Variable.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Regression.md"
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Dependent vs Explanatory Variable.md"
               }
             }
           },
@@ -171,8 +171,11 @@
   },
   "active": "0c7fa28f8f86d22f",
   "lastOpenFiles": [
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Dependent Variable.md",
+    "@images/Pasted image 20240404152251.png",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Explanatory Variable.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Dependent vs Explanatory Variable.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Regression.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Dependent Variable.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Big Data.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Classification.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Supervised Learning.md",
@@ -204,9 +207,6 @@
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/A world of heuristics.md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Ideation techniques.md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Ideation catalysts.md",
-    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Ideation informers.md",
-    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Generative design.md",
-    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Efficiency of use.md",
     "2024 Semester 1",
     "2023 Semester 2",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture",
