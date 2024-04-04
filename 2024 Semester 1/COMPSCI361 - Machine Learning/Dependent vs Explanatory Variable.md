@@ -15,4 +15,8 @@ Not that we're doing [[Supervised Learning]]
 
 [[Supervised Learning]] does not give causality
 - use words like correlated, predict,..
-- NOT leads
+- NOT leads to
+
+## How do we predict that?
+- 
+[[]]
