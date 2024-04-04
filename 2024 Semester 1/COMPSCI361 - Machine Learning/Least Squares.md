@@ -17,3 +17,5 @@ $$\huge \hat {y}\tiny {i} = \huge {w} \tilde{x} \tiny {i}$$
 	![[Pasted image 20240404161337.png]]
 ### How do we calculate the minimum?
 - [[Minimizing a Differential Equation]]
+
+## Finding [[Least Squares]] Solution
