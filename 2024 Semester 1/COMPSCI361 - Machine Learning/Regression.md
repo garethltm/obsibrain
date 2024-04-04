@@ -1,0 +1,2 @@
+- [[Classification]]
+	- $y\tiny {i}\$
