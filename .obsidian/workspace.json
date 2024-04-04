@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Regression.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Linear Regression in 1 Dimension.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Regression.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Linear Regression in 1 Dimension.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Regression.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Linear Regression in 1 Dimension.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Regression.md"
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Linear Regression in 1 Dimension.md"
               }
             }
           },
@@ -171,6 +171,7 @@
   },
   "active": "0c7fa28f8f86d22f",
   "lastOpenFiles": [
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Prediction phase.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Linear Regression.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Regression.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Linear Regression in 1 Dimension.md",
@@ -206,7 +207,6 @@
     "2024 Semester 1/ACCTG151G - Financial Literacy/Expenses (Cash OUT).md",
     "2024 Semester 1/ACCTG151G - Financial Literacy/Depository institutions.md",
     "2024 Semester 1/ACCTG151G - Financial Literacy/Average propensity to consume (APC).md",
-    "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week09/Classical Planning.md",
     "2024 Semester 1",
     "2023 Semester 2",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture",
