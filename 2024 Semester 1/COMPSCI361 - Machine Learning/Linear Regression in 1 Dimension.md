@@ -7,4 +7,6 @@
 3. The parameter w is the weight or [[Regression]] coefficient of $\huge {x}\tiny {i}$ (similar to: y = mx + c)
 		We are temporarily ignoring the y-intercept
 4. As $\huge {x}\tiny {i}$ changes, slope w affects the rate that $\huge \hat {y}\tiny {i}$ increases/decreases
-	- Positive w: $\huge \hat {y}\tiny {i}$ increase as 
+		![[Pasted image 20240404155947.png]]
+	- Positive w: $\huge \hat {y}\tiny {i}$ increase as $\huge {x}\tiny {i}$ increases
+	- Negative w: $\huge \hat {y}\tiny {i}$ decrease as $\huge {x}\tiny {i}$ increases
