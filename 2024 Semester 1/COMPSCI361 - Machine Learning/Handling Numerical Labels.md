@@ -5,4 +5,5 @@ But [[coarse discretization]] loses resolution
 - #compsci361example a 1 year old may be identified as 20 as well as it is in the same 'category'
 & [[fine discretization]] requires a lot of data
 
-There exists [[regr]]
+There exists [[Regression]] versions of [[Classification]] methods:
+1. [[Regression]] trees, [[Probabilistic Model]], non-[[parameters]] models
