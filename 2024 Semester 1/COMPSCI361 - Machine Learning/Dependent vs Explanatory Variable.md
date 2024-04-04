@@ -12,3 +12,7 @@ We want to discover relationship between numerical variables
 
 Not that we're doing [[Supervised Learning]]
 - Trying to predict value of 1 variable (the $\huge {y}\tiny {i}$ values) - instead of measuring correlation between the 2
+
+[[Supervised Learning]] does not give causality
+- use words like correlated, predict,..
+- NOT leads
