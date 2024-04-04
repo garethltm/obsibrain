@@ -5,4 +5,6 @@
 2. [[Linear Regression]] makes predictions $\huge \hat {y}\tiny {i}$ using a linear function of $\huge {x}\tiny {i}$ 
 		$\huge \hat {y}\tiny {i}$ = $\huge {wx}\tiny {i}$
 3. The parameter w is the weight or [[Regression]] coefficient of $\huge {x}\tiny {i}$ (similar to: y = mx + c)
-		We are temporarily ignoring the 
+		We are temporarily ignoring the y-intercept
+4. As $\huge {x}\tiny {i}$ changes, slope w affects the rate that $\huge \hat {y}\tiny {i}$ increases/decreases
+	- Positive w: $\huge \hat {y}\tiny {i}$ increase as 
