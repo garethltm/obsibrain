@@ -12,4 +12,4 @@ $$\huge \hat {y}\tiny {i} = \huge {w} \tilde{x} \tiny {i}$$
 	- Best model may have $|\huge \hat {y}\tiny {i} - \huge {y}\tiny {i}\normalsize|$ is small but not exactly 0
 - Instead of exactly $\huge {y}\tiny {i}$, we evaluate size of the error in prediction
 - Classic way is setting slope w to minimize sum of squared errors![[Screenshot 2024-04-04 at 4.11.17 PM.png]]
-- 
+- It is done because it is easy to minim
