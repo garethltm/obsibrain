@@ -19,4 +19,5 @@ $$\huge \hat {y}\tiny {i} = \huge {w} \tilde{x} \tiny {i}$$
 - [[Minimizing a Differential Equation]]
 
 ## Finding [[Least Squares]] Solution
-![[Pasted image 20240404162453.png]]
+![[Pasted image 20240404162453.png]]![[Pasted image 20240404162607.png]]
+
