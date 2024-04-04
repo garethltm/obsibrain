@@ -4,4 +4,7 @@
 ![[Pasted image 20240404152323.png]]
 - Does number of gun deaths change with gun ownership?
 
+![[Pasted image 20240404152400.png]]
+- Does number of violent crimes change with violent video games?
 
+We want to discover relationship between numerical 
