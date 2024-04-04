@@ -4,4 +4,4 @@ Simple approach to minimizing a differentiable function $f$
 3. Choose the smallest one (& check that $f''(w)$ is positive)
 
 Note that this problem:
-$$f(w) = \textstyle\sum_{i=1}^n(w$$
+$$f(w) = \textstyle\sum_{i=1}^n(\huge {wx}\tiny {i}-\huge {y}\tiny {i}\normalsize$$$$
