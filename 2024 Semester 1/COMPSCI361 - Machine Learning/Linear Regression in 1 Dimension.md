@@ -10,3 +10,4 @@
 		![[Pasted image 20240404155947.png]]
 	- Positive w: $\huge \hat {y}\tiny {i}$ increase as $\huge {x}\tiny {i}$ increases
 	- Negative w: $\huge \hat {y}\tiny {i}$ decrease as $\huge {x}\tiny {i}$ increases
+![[Pasted image 20240404160005.png]]

@@ -1,0 +1,1 @@
+- the best line that minimises the distances between the point
