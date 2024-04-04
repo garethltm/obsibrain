@@ -7,3 +7,7 @@ Note that this problem:
 $$f(w) = \textstyle\sum_{i=1}^n(\huge {wx}\tiny {i}-\huge {y}\tiny {i}\normalsize)^2$$
 Has the same set of minimizers as this problem:
 $$f(w) = \frac {1}{2}\textstyle\sum_{i=1}^n(\huge {wx}\tiny {i}-\huge {y}\tiny {i}\normalsize)^2$$
+& this:
+$$f(w) = \frac {1}{n}\textstyle\sum_{i=1}^n(\huge {wx}\tiny {i}-\huge {y}\tiny {i}\normalsize)^2$$
+& this:
+$$f(w) = \frac {1}{2n}\textstyle\sum_{i=1}^n(\huge {wx}\tiny {i}-\huge {y}\tiny {i}\normalsize)^2$$
