@@ -21,3 +21,19 @@
 
 ***NOTE: If [[Interest rates (r)]] is compounded more frequently than once a year, the [[Effective rate]] will be greater than the [[Nominal rate]] of interest***
 - Power function
+
+#acctg151Gexample - How is interest calculated
+![[Pasted image 20240330210522.png]]
+
+### How much interest will you earn?
+The amount of interest earned depends on:
+- Frequency of [[compounding]]
+	- More frequent [[compounding]] = More [[compound interest]]
+- Balance on which interest is paid
+	- Large principle = More [[compound interest]]
+- Interest rate applied
+	- Higher APR = Higher EAR ([[compound interest]])
+
+### Time Line
+![[Pasted image 20240330210823.png]]
+- [[Time value of money (TVM)]] are used to calculate interest

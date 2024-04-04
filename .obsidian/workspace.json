@@ -11,8 +11,12 @@
             "id": "737b35122fda590e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -82,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "conflict-files-obsidian-git.md"
+              }
             }
           },
           {
@@ -163,6 +171,23 @@
   },
   "active": "737b35122fda590e",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "@images/Pasted image 20240404011740.png",
+    "@images/Pasted image 20240404011718.png",
+    "@images/Pasted image 20240330220832.png",
+    "@images/Pasted image 20240330220820.png",
+    "@images/Pasted image 20240330220759.png",
+    "@images/Pasted image 20240330214429.png",
+    "@images/Pasted image 20240330214315.png",
+    "@images/Pasted image 20240330214026.png",
+    "@images/Pasted image 20240330213849.png",
+    "@images/Pasted image 20240330210823.png",
+    "2024 Semester 1/ACCTG151G - Financial Literacy/ordinary annuity.md",
+    "2024 Semester 1/ACCTG151G - Financial Literacy/compounding.md",
+    "2024 Semester 1/ACCTG151G - Financial Literacy/annuity due.md",
+    "2024 Semester 1/ACCTG151G - Financial Literacy/Time value of money (TVM).md",
+    "2024 Semester 1/ACCTG151G - Financial Literacy/Single sum.md",
+    "2024 Semester 1/ACCTG151G - Financial Literacy/Annuity.md",
     "2024 Semester 1/ACCTG151G - Financial Literacy/Financial Marketplace.md",
     "2024 Semester 1/ACCTG151G - Financial Literacy/Expenses (Cash OUT).md",
     "2024 Semester 1/ACCTG151G - Financial Literacy/Depository institutions.md",
@@ -182,23 +207,6 @@
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Emphasis.md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Affinity diagram.md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Balance.md",
-    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/brainstorming.md",
-    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Collection - Elicitation.md",
-    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Collection - Observation.md",
-    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Contextual Inquiry.md",
-    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Continuity Principle.md",
-    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Design Principles.md",
-    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Design solutions.md",
-    "@images/Pasted image 20240327132454.png",
-    "@images/Pasted image 20240327132427.png",
-    "@images/Pasted image 20240327132352.png",
-    "@images/Pasted image 20240327132051.png",
-    "@images/Pasted image 20240327131936.png",
-    "@images/Pasted image 20240327131913.png",
-    "@images/Pasted image 20240327131900.png",
-    "@images/Pasted image 20240327131735.png",
-    "@images/Pasted image 20240327131724.png",
-    "@images/Pasted image 20240327131405.png",
     "2024 Semester 1",
     "2023 Semester 2",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture",
