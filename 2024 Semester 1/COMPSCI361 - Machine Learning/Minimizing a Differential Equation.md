@@ -4,4 +4,4 @@ Simple approach to minimizing a differentiable function f
 3. Choose the smallest one (& check that f''(w) is positive)
 
 Note that this problem:
-$$f(w) = 
+$$f(w) = \sum$$
