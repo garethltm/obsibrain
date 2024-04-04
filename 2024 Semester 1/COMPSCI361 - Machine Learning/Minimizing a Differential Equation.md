@@ -10,4 +10,6 @@ $$f(w) = \frac {1}{2}\textstyle\sum_{i=1}^n(\huge {wx}\tiny {i}-\huge {y}\tiny {
 & this:
 $$f(w) = \frac {1}{n}\textstyle\sum_{i=1}^n(\huge {wx}\tiny {i}-\huge {y}\tiny {i}\normalsize)^2$$
 & this:
-$$f(w) = \frac {1}{2n}\textstyle\sum_{i=1}^n(\huge {wx}\tiny {i}-\huge {y}\tiny {i}\normalsize)^2$$
+$$f(w) = \frac {1}{2n}\textstyle\sum_{i=1}^n(\huge {wx}\tiny {i}-\huge {y}\tiny {i}\normalsize)^2+ 1000$$
+We can multiply f by any positive constant & not change solution
+1. Derivative will still be zero at the same locations
