@@ -3,4 +3,4 @@
 Linear model:
 $$\huge \hat {y}\tiny {i} = \huge {wx}\tiny {i}$$
 Predictions:
-$$\huge \hat {y}\tiny {i} = \huge {w}\tilda {x} \tiny {i}$$
+$$\huge \hat {y}\tiny {i} = \huge {w} \tilde{x} \tiny {i}$$
