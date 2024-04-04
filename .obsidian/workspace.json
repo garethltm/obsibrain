@@ -38,7 +38,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "story",
+                "query": "least",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,8 +65,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -169,7 +168,7 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "0c7fa28f8f86d22f",
+  "active": "a6e0090ac9cbd1f3",
   "lastOpenFiles": [
     "2024 Semester 1/COMPSCI361 - Machine Learning/Least Squares.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Linear Regression in 1 Dimension.md",
