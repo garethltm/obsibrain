@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "596f6f86ca11107c",
+        "id": "f479861ee5f0eaf6",
         "type": "tabs",
         "children": [
           {
-            "id": "b4c4135e6f428e50",
+            "id": "737b35122fda590e",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -161,8 +161,16 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "b4c4135e6f428e50",
+  "active": "737b35122fda590e",
   "lastOpenFiles": [
+    "2024 Semester 1/ACCTG151G - Financial Literacy/Financial Marketplace.md",
+    "2024 Semester 1/ACCTG151G - Financial Literacy/Expenses (Cash OUT).md",
+    "2024 Semester 1/ACCTG151G - Financial Literacy/Depository institutions.md",
+    "2024 Semester 1/ACCTG151G - Financial Literacy/Average propensity to consume (APC).md",
+    "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week09/Classical Planning.md",
+    "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week02/Initial State (Start State).md",
+    "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week02/Search Techniques (Search Strategy) (Search Algorithm).md",
+    "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week01/Planning Agent.md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/A world of heuristics.md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Ideation techniques.md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Ideation catalysts.md",
@@ -181,14 +189,6 @@
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Continuity Principle.md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Design Principles.md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Design solutions.md",
-    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Design Walkthrough.md",
-    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Design thinking.md",
-    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Design Review.md",
-    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Closure Principle.md",
-    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Prototype candidates.md",
-    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Understand needs.md",
-    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Nielsen's Heuristics.md",
-    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Heuristic evaluation(s).md",
     "@images/Pasted image 20240327132454.png",
     "@images/Pasted image 20240327132427.png",
     "@images/Pasted image 20240327132352.png",
