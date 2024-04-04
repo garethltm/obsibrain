@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Dependent vs Explanatory Variable.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Handling Numerical Labels.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Dependent vs Explanatory Variable.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Handling Numerical Labels.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Dependent vs Explanatory Variable.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Handling Numerical Labels.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Dependent vs Explanatory Variable.md"
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Handling Numerical Labels.md"
               }
             }
           },
@@ -171,8 +171,8 @@
   },
   "active": "0c7fa28f8f86d22f",
   "lastOpenFiles": [
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Handling Numerical Labels.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Dependent vs Explanatory Variable.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Handling Numerical Labels.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Explanatory Variable.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Regression.md",
     "@images/Pasted image 20240404152400.png",
