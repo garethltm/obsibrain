@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Handling Numerical Labels.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/coarse discretization.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Handling Numerical Labels.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/coarse discretization.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Handling Numerical Labels.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/coarse discretization.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Handling Numerical Labels.md"
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/coarse discretization.md"
               }
             }
           },
@@ -171,8 +171,9 @@
   },
   "active": "0c7fa28f8f86d22f",
   "lastOpenFiles": [
-    "2024 Semester 1/COMPSCI361 - Machine Learning/coarse discretization.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Handling Numerical Labels.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/fine discretization.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/coarse discretization.md",
     "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week04/Discretisation.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Dependent vs Explanatory Variable.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Explanatory Variable.md",
@@ -206,7 +207,6 @@
     "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week02/Initial State (Start State).md",
     "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week02/Search Techniques (Search Strategy) (Search Algorithm).md",
     "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week01/Planning Agent.md",
-    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/A world of heuristics.md",
     "2024 Semester 1",
     "2023 Semester 2",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture",

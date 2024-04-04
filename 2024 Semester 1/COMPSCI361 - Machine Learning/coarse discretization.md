@@ -1,1 +1,1 @@
-- can be particularly useful in [[Machine Learning (ML)]], where some algorithms may prefer or perform better when numerical input variables have a standard probability distribution
+- Fine discretization refers to the process of transforming a continuous-valued feature into a discrete one using a relatively large number of intervals or bins
