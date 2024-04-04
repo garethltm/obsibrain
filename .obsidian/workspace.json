@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Linear Regression in 1 Dimension.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Regression.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Linear Regression in 1 Dimension.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Regression.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Linear Regression in 1 Dimension.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Regression.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Linear Regression in 1 Dimension.md"
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Regression.md"
               }
             }
           },
@@ -171,8 +171,10 @@
   },
   "active": "0c7fa28f8f86d22f",
   "lastOpenFiles": [
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Handling Numerical Labels.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Linear Regression.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Regression.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Linear Regression in 1 Dimension.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Handling Numerical Labels.md",
     "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week11/Probabilistic Model.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Classification.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/coarse discretization.md",
@@ -180,7 +182,6 @@
     "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week04/Discretisation.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Dependent vs Explanatory Variable.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Explanatory Variable.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Regression.md",
     "@images/Pasted image 20240404152400.png",
     "@images/Pasted image 20240404152323.png",
     "@images/Pasted image 20240404152251.png",
@@ -206,7 +207,6 @@
     "2024 Semester 1/ACCTG151G - Financial Literacy/Depository institutions.md",
     "2024 Semester 1/ACCTG151G - Financial Literacy/Average propensity to consume (APC).md",
     "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week09/Classical Planning.md",
-    "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week02/Initial State (Start State).md",
     "2024 Semester 1",
     "2023 Semester 2",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture",
