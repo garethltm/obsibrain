@@ -1,0 +1,1 @@
+- can be particularly useful in [[Machine Learning (ML)]], where some algorithms may prefer or perform better when numerical input variables have a standard probability distribution
