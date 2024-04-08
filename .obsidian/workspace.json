@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "94ee3b823e879e08",
+        "id": "4f49c342fc17e03c",
         "type": "tabs",
         "children": [
           {
-            "id": "0c7fa28f8f86d22f",
+            "id": "903751d739bb7cdf",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Least Squares.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -86,7 +82,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Least Squares.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +98,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Least Squares.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,9 +119,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Least Squares.md"
-              }
+              "state": {}
             }
           },
           {
@@ -169,12 +161,12 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "0c7fa28f8f86d22f",
+  "active": "903751d739bb7cdf",
   "lastOpenFiles": [
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Least Squares.md",
     "@images/Pasted image 20240404162607.png",
     "@images/Pasted image 20240404162453.png",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Minimizing a Differential Equation.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Least Squares.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Linear Regression in 1 Dimension.md",
     "@images/Pasted image 20240404161337.png",
     "@images/Screenshot 2024-04-04 at 4.11.17 PM.png",
@@ -199,7 +191,6 @@
     "2024 Semester 1/COMPSCI361 - Machine Learning/Supervised Learning.md",
     "conflict-files-obsidian-git.md",
     "@images/Pasted image 20240404011740.png",
-    "@images/Pasted image 20240404011718.png",
     "2024 Semester 1/ACCTG151G - Financial Literacy/ordinary annuity.md",
     "2024 Semester 1/ACCTG151G - Financial Literacy/compounding.md",
     "2024 Semester 1/ACCTG151G - Financial Literacy/annuity due.md",
