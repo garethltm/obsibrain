@@ -15,4 +15,6 @@
 Combining models to get a better prediction for the base [[classifier(s)]] that we input by making an average of the [[classifier(s)]]
 
 ## Goal
-1. Does musch better on one of these
+The [[Ensembles]] [[classifier(s)]]:
+1. does much better on one of these than the individual [[classifier(s)]]
+2. doesn't do too much worse on the other
