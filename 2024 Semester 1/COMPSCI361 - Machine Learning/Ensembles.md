@@ -13,3 +13,6 @@
 
 ## Main idea
 Combining models to get a better prediction for the base [[classifier(s)]] that we input by making an average of the [[classifier(s)]]
+
+## Goal
+1. Does musch better on one of these
