@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Averaging.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Overfitting.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Averaging.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Overfitting.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Averaging.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Overfitting.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Averaging.md"
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Overfitting.md"
               }
             }
           },
@@ -171,10 +171,10 @@
   },
   "active": "903751d739bb7cdf",
   "lastOpenFiles": [
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Averaging.md",
     "@images/Pasted image 20240411162631.png",
     "@images/Pasted image 20240411162311.png",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Simple model averaging.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Averaging.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Stacking.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Linear Regression.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/classifier(s).md",
@@ -206,7 +206,6 @@
     "@images/Pasted image 20240404161337.png",
     "@images/Screenshot 2024-04-04 at 4.11.17 PM.png",
     "@images/Pasted image 20240404160005.png",
-    "@images/Pasted image 20240404155947.png",
     "2024 Semester 1",
     "2023 Semester 2",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture",
