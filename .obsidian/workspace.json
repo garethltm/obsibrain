@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 276.5
   },
   "right": {
     "id": "29204b37fc003a9a",
@@ -172,7 +172,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 347.5
+    "width": 347.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -185,7 +186,7 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "fef8234220dde2b6",
+  "active": "3ad179677b7fba41",
   "lastOpenFiles": [
     "2024 Semester 1/COMPSCI361 - Machine Learning/Independent & Identically Distributed (IID).md",
     "conflict-files-obsidian-git.md",
