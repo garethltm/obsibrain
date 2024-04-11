@@ -11,7 +11,7 @@
 
 [[Ensembles]] methods often have higher accuracy than the input [[classifier(s)]]
 
-####  (bias variance, training approximation)
+#### [[Fundamental Trade-Off]] (bias variance, training approximation)
 1. $E\tiny {train}$: How small can you make [[training error]]
 2. $E\tiny {approx}$: How well [[training error]] approximates the [[test error]]
 
@@ -22,4 +22,3 @@ Combining models to get a better prediction for the base [[classifier(s)]] that 
 The [[Ensembles]] [[classifier(s)]]:
 1. does much better on one of these than the individual [[classifier(s)]]
 2. doesn't do too much worse on the other
-
