@@ -15,4 +15,5 @@
 ### Don't leave your loan
 - Your principle will grow over time & interest will be added to your principle
 
-#acctg151Gexample Let's say you have a 
+#acctg151Gexample Let's say you have a $25,000 student loan & you leave NZ & don't pay your loan off (ignoring daily [[compounding]]).
+In 10 years you return to NZ - how much will you owe?
