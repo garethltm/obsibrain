@@ -1,0 +1,1 @@
+[[Ensembles]] are [[classifier(s)]] that have [[classifier(s)]] as input

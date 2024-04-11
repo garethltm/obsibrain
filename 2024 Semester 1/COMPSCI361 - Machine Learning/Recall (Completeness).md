@@ -1,2 +1,2 @@
-- what % of positive tuples did the [[Classifier]] label as positive?
+- what % of positive tuples did the [[classifier(s)]] label as positive?
 	- $Recall = \frac{TP}{TP+FN}$

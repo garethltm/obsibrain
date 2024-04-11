@@ -11,9 +11,11 @@
             "id": "903751d739bb7cdf",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.5.12"
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Ensembles.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -84,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Ensembles.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Ensembles.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Ensembles.md"
+              }
             }
           },
           {
@@ -165,6 +171,8 @@
   },
   "active": "903751d739bb7cdf",
   "lastOpenFiles": [
+    "2024 Semester 1/COMPSCI361 - Machine Learning/classifier(s).md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Ensembles.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Least Squares.md",
     "@images/Pasted image 20240404162607.png",
     "@images/Pasted image 20240404162453.png",
@@ -199,7 +207,6 @@
     "2024 Semester 1/ACCTG151G - Financial Literacy/Time value of money (TVM).md",
     "2024 Semester 1/ACCTG151G - Financial Literacy/Single sum.md",
     "2024 Semester 1/ACCTG151G - Financial Literacy/Annuity.md",
-    "2024 Semester 1/ACCTG151G - Financial Literacy/Financial Marketplace.md",
     "2024 Semester 1",
     "2023 Semester 2",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture",
