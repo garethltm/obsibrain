@@ -30,3 +30,5 @@ If you have decent job (stable income) they won't require [[collateral security]
 - [[International Base Rates]]
 
 ### Where can you get [[Consumer loan(s)]]?
+- Traditional financial institutions (can be inefficient) 
+- 
