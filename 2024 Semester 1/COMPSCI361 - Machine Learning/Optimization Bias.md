@@ -1,13 +1,13 @@
-- Another name for [[2024 Semester 1/COMPSCI361 - Machine Learning/Overfitting|Overfitting]]
+- Another name for [[overfit(ting)|overfit(ting)]]
 	- How biased is an error that we optimized over many possibilities?
 - [[Optimization Bias]] of [[parameters]] learning
 	- During learning, we could search over tons of different [[Decision Tree(s)]]
 	- So we can get lucky & find 1 with low [[training error]] by chance
-		- [[2024 Semester 1/COMPSCI361 - Machine Learning/Overfitting|Overfitting]] of the [[training error]]
+		- [[overfit(ting)|overfit(ting)]] of the [[training error]]
 - [[Optimization Bias]] of [[hyperparameter(s)]] tuning
 	- Here, we might optimize the [[Validation Error]] over 20 values of depth
 	- 1 of the 20 trees might have low [[Validation Error]] by chance
-		- [[2024 Semester 1/COMPSCI361 - Machine Learning/Overfitting|Overfitting]] of the [[Validation Error]]
+		- [[overfit(ting)|overfit(ting)]] of the [[Validation Error]]
 
 #compsci361example 
 - Consider a multiple-choice (a, b, c, d) test with 10 questions:
@@ -33,12 +33,12 @@
 ## [[Validation Error]] & [[Optimization Bias]]
 - [[Optimization Bias]] is small if you only compare a few models
 	- Best [[Decision Tree(s)]] on the training set among depths: 1, 2, 3,..., 10
-	- Risk of [[2024 Semester 1/COMPSCI361 - Machine Learning/Overfitting|Overfitting]] to [[Validation set(s)]] is low if we try 10 things
+	- Risk of [[overfit(ting)|overfit(ting)]] to [[Validation set(s)]] is low if we try 10 things
 - [[Optimization Bias]] is large if you compare a lot of models
 	- All possible [[Decision Tree(s)]] of depth 10 or less
 	- Here we are using the [[Validation set(s)]] to pick between a billion+ models
-		- Risk of [[2024 Semester 1/COMPSCI361 - Machine Learning/Overfitting|Overfitting]] to [[Validation set(s)]]: could have low [[Validation Error]] by chance
-	- If you did this, you might want to have a second [[Validation set(s)]] to detect [[2024 Semester 1/COMPSCI361 - Machine Learning/Overfitting|Overfitting]]
+		- Risk of [[overfit(ting)|overfit(ting)]] to [[Validation set(s)]]: could have low [[Validation Error]] by chance
+	- If you did this, you might want to have a second [[Validation set(s)]] to detect [[overfit(ting)|overfit(ting)]]
 - [[Optimization Bias]] shrinks as you grow size of [[Validation set(s)]]
 	- More data = 'Better'
 

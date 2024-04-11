@@ -16,7 +16,7 @@ Output: whether we got sick or not
 2. This is the most successful/widely used [[Machine Learning (ML)]] technique
 	- #compsci361example 
 	- spam filtering, optical character recognition, speech recognition, classifying tumors, etc.
-3. [[Classification]]
+3. [[classification]]
 
 ### as Writing a program
 - There are many possible [[Decision Tree(s)|Decision Tree(s)]] 

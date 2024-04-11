@@ -11,11 +11,10 @@
             "id": "f6c3d7bb5e50e9db",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "diff-view",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Independent & Identically Distributed (IID).md",
-                "mode": "source",
-                "source": false
+                "file": ".obsidian/workspace.json",
+                "staged": false
               }
             }
           }
@@ -85,7 +84,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Independent & Identically Distributed (IID).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +100,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Independent & Identically Distributed (IID).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +121,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Independent & Identically Distributed (IID).md"
-              }
+              "state": {}
             }
           },
           {
@@ -154,18 +149,23 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Independent & Identically Distributed (IID).md"
-              }
+              "state": {}
+            }
+          },
+          {
+            "id": "0f8e0230b587650a",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 681.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -178,13 +178,28 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "f6c3d7bb5e50e9db",
+  "active": "0f8e0230b587650a",
   "lastOpenFiles": [
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Independent & Identically Distributed (IID).md",
+    "conflict-files-obsidian-git.md",
+    "@images/Pasted image 20240411162631.png",
+    "@images/Pasted image 20240411162311.png",
+    "@images/Pasted image 20240411161902.png",
+    "@images/Pasted image 20240411161715.png",
+    "@images/Pasted image 20240411161545.png",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/overfit(ting).md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/k-nearest neighbour (KNN).md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/classifier(s).md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Stacking.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Simple model averaging.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Random trees.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Bootstrapping.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Boosting.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Averaging.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/hyperparameter(s).md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Classifier Evaluation Metrics.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/parameters.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Golden Rule of Machine Learning.md",
-    "conflict-files-obsidian-git.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/fine discretization.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/F-measure.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Explanatory Variable.md",
@@ -196,26 +211,11 @@
     "2024 Semester 1/COMPSCI361 - Machine Learning/Decision Tree Pruning.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Decision Tree Learning.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Data Mining.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Cross-Validation (CV).md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Classification.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Best Machine Learning Model.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/bias-variance decomposition.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Bias-Variance vs Fundamental Trade-Off.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/classification accuracy.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Classifier.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Regression.md",
     "@images/Screenshot 2024-04-04 at 4.11.17 PM.png",
     "@images/Pasted image 20240404162607.png",
     "@images/Pasted image 20240404162453.png",
     "@images/Pasted image 20240404161337.png",
     "@images/Pasted image 20240404160005.png",
-    "@images/Pasted image 20240404155947.png",
-    "@images/Pasted image 20240404152400.png",
-    "@images/Pasted image 20240404152323.png",
-    "@images/Pasted image 20240404152251.png",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/coarse discretization.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Minimizing a Differential Equation.md",
-    "@images/Pasted image 20240404011740.png",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Untitled",
     "2024 Semester 1",
     "2023 Semester 2",

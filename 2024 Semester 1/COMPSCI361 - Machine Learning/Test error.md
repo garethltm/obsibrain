@@ -1,1 +1,1 @@
-- related to model [[2024 Semester 1/COMPSCI361 - Machine Learning/Overfitting|Overfitting]] & underfitting
+- related to model [[overfit(ting)|overfit(ting)]] & underfitting

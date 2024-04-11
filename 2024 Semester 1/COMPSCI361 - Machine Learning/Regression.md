@@ -1,4 +1,4 @@
-- [[Classification]]
+- [[classification]]
 	- $\huge {y}\tiny {i}$  was discrete
 		- $\huge {y}\tiny {i}$ = spam
 		- $\huge {y}\tiny {i}$ = not spam

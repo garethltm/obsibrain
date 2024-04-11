@@ -3,7 +3,7 @@
 ### How does this help?
 - If $E_{approx} = E_{test}-E_{train}$ is small, then $E_{train}$ is a good approximation to $E_{test}$
 
-### What does $E_{approx}$ ("amount of [[2024 Semester 1/COMPSCI361 - Machine Learning/Overfitting|Overfitting]]") depend on?
+### What does $E_{approx}$ ("amount of [[overfit(ting)|overfit(ting)]]") depend on?
 - It tends to get smaller as 'n' gets larger
 	- number of examples $\rightarrow$ more depth
 - It tends to grow as model get more "complicated"
@@ -23,4 +23,4 @@
 #### [[training error]] vs [[test error]] for choosing depth:
 1. [[training error]] is high for low depth (underfitting)
 2. [[training error]] gets better with depth
-3. [[test error]] initially goes down, but eventually increases ([[2024 Semester 1/COMPSCI361 - Machine Learning/Overfitting|Overfitting]])![[Pasted image 20240312222120.png]]
+3. [[test error]] initially goes down, but eventually increases ([[overfit(ting)|overfit(ting)]])![[Pasted image 20240312222120.png]]
