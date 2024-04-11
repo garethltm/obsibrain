@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "ab36a4f596eaa7d2",
+        "id": "4f49c342fc17e03c",
         "type": "tabs",
         "children": [
           {
-            "id": "fef8234220dde2b6",
+            "id": "903751d739bb7cdf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Present Value (PV).md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Bootstrapping.md",
                 "mode": "source",
                 "source": false
               }
@@ -33,27 +33,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3ad179677b7fba41",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {
-                "sortOrder": "alphabetical"
-              }
-            }
-          },
-          {
             "id": "a6e0090ac9cbd1f3",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "compound",
+                "query": "least",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
-                "sortOrder": "alphabetical"
+                "sortOrder": "byModifiedTime"
               }
             }
           },
@@ -64,12 +54,23 @@
               "type": "bookmarks",
               "state": {}
             }
+          },
+          {
+            "id": "295ff167151fc12a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 276.5
+    "width": 300
   },
   "right": {
     "id": "29204b37fc003a9a",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Present Value (PV).md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Bootstrapping.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Present Value (PV).md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Bootstrapping.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Present Value (PV).md"
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Bootstrapping.md"
               }
             }
           },
@@ -142,37 +143,19 @@
             }
           },
           {
-            "id": "2e4c1b8f3e56d2af",
+            "id": "6875e9b8ebc23add",
             "type": "leaf",
             "state": {
               "type": "review-queue-list-view",
               "state": {}
             }
-          },
-          {
-            "id": "f6eacc6fe3f53242",
-            "type": "leaf",
-            "state": {
-              "type": "file-properties",
-              "state": {
-                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Present Value (PV).md"
-              }
-            }
-          },
-          {
-            "id": "0f8e0230b587650a",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {}
-            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 347.5,
+    "width": 300,
     "collapsed": true
   },
   "left-ribbon": {
@@ -186,45 +169,44 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "fef8234220dde2b6",
+  "active": "903751d739bb7cdf",
   "lastOpenFiles": [
     "@images/Pasted image 20240411231824.png",
-    "2024 Semester 1/ACCTG151G - Financial Literacy/Future Value (FV).md",
-    "2024 Semester 1/ACCTG151G - Financial Literacy/Present Value (PV).md",
-    "2024 Semester 1/ACCTG151G - Financial Literacy/Managing your credit.md",
     "2024 Semester 1/ACCTG151G - Financial Literacy/collateral security.md",
-    "2024 Semester 1/ACCTG151G - Financial Literacy/Consumer loan(s).md",
-    "2024 Semester 1/ACCTG151G - Financial Literacy/International Base Rates.md",
-    "2024 Semester 1/ACCTG151G - Financial Literacy/Domestic Base Rates.md",
-    "2024 Semester 1/ACCTG151G - Financial Literacy/Fixed Interest Rates.md",
     "2024 Semester 1/ACCTG151G - Financial Literacy/Variable Interest Rates.md",
-    "2024 Semester 1/ACCTG151G - Financial Literacy/Student (education) loans.md",
-    "2024 Semester 1/ACCTG151G - Financial Literacy/Buying consumer durables.md",
     "2024 Semester 1/ACCTG151G - Financial Literacy/The purchase transaction.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Bootstrapping.md",
+    "2024 Semester 1/ACCTG151G - Financial Literacy/Student (education) loans.md",
+    "2024 Semester 1/ACCTG151G - Financial Literacy/Managing your credit.md",
+    "2024 Semester 1/ACCTG151G - Financial Literacy/International Base Rates.md",
+    "2024 Semester 1/ACCTG151G - Financial Literacy/Fixed Interest Rates.md",
+    "2024 Semester 1/ACCTG151G - Financial Literacy/Domestic Base Rates.md",
+    "2024 Semester 1/ACCTG151G - Financial Literacy/Consumer loan(s).md",
+    "2024 Semester 1/ACCTG151G - Financial Literacy/Buying consumer durables.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Random Forests.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Stacking.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Bootstrapping.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Random trees.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Averaging.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Independent & Identically Distributed (IID).md",
-    "conflict-files-obsidian-git.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Ensemble(s).md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/overfit(ting).md",
     "@images/Pasted image 20240411162631.png",
     "@images/Pasted image 20240411162311.png",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Simple model averaging.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Stacking.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Linear Regression.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/classifier(s).md",
     "@images/Pasted image 20240411161902.png",
     "@images/Pasted image 20240411161715.png",
     "@images/Pasted image 20240411161545.png",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/overfit(ting).md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/k-nearest neighbour (KNN).md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/classifier(s).md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Simple model averaging.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Random trees.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Boosting.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/hyperparameter(s).md",
-    "@images/Screenshot 2024-04-04 at 4.11.17 PM.png",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/classification.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/classification accuracy.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Classifier Evaluation Metrics.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Decision Stumps.md",
     "@images/Pasted image 20240404162607.png",
     "@images/Pasted image 20240404162453.png",
     "@images/Pasted image 20240404161337.png",
+    "@images/Screenshot 2024-04-04 at 4.11.17 PM.png",
     "@images/Pasted image 20240404160005.png",
-    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Untitled",
     "2024 Semester 1",
     "2023 Semester 2",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture",
@@ -235,6 +217,7 @@
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction",
     "2024 Semester 1/ACCTG151G - Financial Literacy",
     "2023 Semester 2/COMPSCI235 - Software Development Methodologies/235 summary.canvas",
+    "COMPSCI235 - Software Development Methodologies/Untitled",
     "2023 Semester 2/COMPSCI367 - Artificial Intelligence/finals prep.canvas"
   ]
 }
