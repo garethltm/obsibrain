@@ -11,4 +11,9 @@ You make a new deck of cards from that 52 samples (bootstrap sample)
 	- So calculations on bootstrap sample will give different results than original data
 - However, the bootstrap sample roughly maintains trends:
 	- Roughly 25% of the cards will be diamonds
-	- Rough
+	- Roughly 3/13 of the cards will be face cards
+	- There will be roughly 4 10 cards
+#### Common use
+- compute a statistic based on several bootstrap samples
+	- gives you an idea of how the statistic varies as you vary the data
+	- 
