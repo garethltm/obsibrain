@@ -12,4 +12,7 @@
 - Late payment interest is currently charged at 7.5% p.a (calculated as 0.604% per month)
 - If you contact IRD about this & make a plan, this rate will be reduced to 5.5% p.a (0.447% per month)
 
-###
+### Don't leave your loan
+- Your principle will grow over time & interest will be added to your principle
+
+#acctg151Gexample Let's say you have a 
