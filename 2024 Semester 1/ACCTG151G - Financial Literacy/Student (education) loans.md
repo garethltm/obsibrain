@@ -20,3 +20,8 @@
 In 10 years you return to NZ - how much will you owe?
 In this case it is Annual [[compounding]]:
 - $\$25,000 * (1.035)^{10}= \$35,265$
+
+If you didn't come back for 20 years?
+ - $\$25,000 * (1.035)^{20}= \$49,745$
+
+
