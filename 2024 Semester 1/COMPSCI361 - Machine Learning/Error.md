@@ -4,4 +4,4 @@
 - We are now given features for 217 new homes
 - What is the 'testing accuracy' on the new data?
 	- ![[Pasted image 20240311111602.png]]
-- [[2024 Semester 1/COMPSCI361 - Machine Learning/Overfitting|Overfitting]]
+- [[overfit(ting)|overfit(ting)]]

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Overfitting.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Averaging.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Overfitting.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Averaging.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Overfitting.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Averaging.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Overfitting.md"
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Averaging.md"
               }
             }
           },
@@ -171,6 +171,7 @@
   },
   "active": "903751d739bb7cdf",
   "lastOpenFiles": [
+    "2024 Semester 1/COMPSCI361 - Machine Learning/overfit(ting).md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Averaging.md",
     "@images/Pasted image 20240411162631.png",
     "@images/Pasted image 20240411162311.png",

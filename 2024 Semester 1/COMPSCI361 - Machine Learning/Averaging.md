@@ -20,4 +20,6 @@ Input: the prediction of a set of models
 2. #compsci361example Consider a set of [[classifier(s)]] that makes these predictions ![[Pasted image 20240411162631.png]]
 - If these independently get 80% accuracy, the mode would be close to 100%
 	- In practice errors won't be completely independent due to noise in the labels
-3. #compsci361example Consider [[classifier(s)]] that [[2024 Semester 1/COMPSCI361 - Machine Learning/Overfitting|Overfitting]]
+3. #compsci361example Consider [[classifier(s)]] that [[overfit(ting)|overfit(ting)]] (like deep [[Decision Tree(s)]])
+	- If they all [[overfit(ting)]] in exactly the same way, [[Averaging]] does nothing
+	- But if they make independen

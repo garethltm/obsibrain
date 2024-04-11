@@ -2,7 +2,7 @@
 	- The test data cannot influence the training phase in any way
 2. We're measuring [[test error]] to see how well we do on new data:
 	- Is used during training, does not measure this
-	- You can start to [[2024 Semester 1/COMPSCI361 - Machine Learning/Overfitting|Overfitting]] if you use it during training
+	- You can start to [[overfit(ting)|overfit(ting)]] if you use it during training
 	- #compsci361example - you are cheating on the exam
 3. You also shouldn't change the test set to get the result you want
 4. Note the golden rule applies to hypothesis testing in scientific studies
