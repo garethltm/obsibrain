@@ -1,0 +1,1 @@
+- same [[Interest rates (r)]] for duration of loan

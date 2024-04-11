@@ -22,3 +22,6 @@ If you have decent job (stable income) they won't require [[collateral security]
 1. Gym club memberships
 2. Monthly insurance payments (vs. single up-front payments)
 3. Mobile phone contracts
+
+### When you take [[Consumer loan(s)]]
+- [[Fixed Interest Rates]]
