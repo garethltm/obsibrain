@@ -18,8 +18,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "581a809899824094",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Golden Rule of Machine Learning.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "25604db6e4c6a973",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -85,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/parameters.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/parameters.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/parameters.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -155,7 +180,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/parameters.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           }
@@ -178,44 +203,44 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "0de50ff6cbf22fd8",
+  "active": "25604db6e4c6a973",
   "lastOpenFiles": [
-    "@images/Pasted image 20240404011740.png",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/ROC Curves.md",
-    "@images/Pasted image 20240404011718.png",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Estimate Confidence Intervals.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Golden Rule of Machine Learning.md",
+    "conflict-files-obsidian-git.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/fine discretization.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/F-measure.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Comparing Classifiers.md",
-    "2024 Semester 1/ACCTG151G - Financial Literacy/Annuity.md",
-    "2024 Semester 1/ACCTG151G - Financial Literacy/annuity due.md",
-    "@images/Pasted image 20240330220832.png",
-    "@images/Pasted image 20240330220820.png",
-    "@images/Pasted image 20240330220759.png",
-    "@images/Pasted image 20240330214429.png",
-    "@images/Pasted image 20240330214315.png",
-    "2024 Semester 1/ACCTG151G - Financial Literacy/Future Value Interest Factor (FVIF).md",
-    "@images/Pasted image 20240330214026.png",
-    "@images/Pasted image 20240330213849.png",
-    "2024 Semester 1/ACCTG151G - Financial Literacy/ordinary annuity.md",
-    "2024 Semester 1/ACCTG151G - Financial Literacy/Single sum.md",
-    "2024 Semester 1/ACCTG151G - Financial Literacy/simple interest.md",
-    "2024 Semester 1/ACCTG151G - Financial Literacy/Interest rates (r).md",
-    "2024 Semester 1/ACCTG151G - Financial Literacy/Effective rate.md",
-    "2024 Semester 1/ACCTG151G - Financial Literacy/Nominal rate.md",
-    "2024 Semester 1/ACCTG151G - Financial Literacy/Time value of money (TVM).md",
-    "2024 Semester 1/ACCTG151G - Financial Literacy/compounding.md",
-    "2024 Semester 1/ACCTG151G - Financial Literacy/Future Value (FV).md",
-    "@images/Pasted image 20240330210823.png",
-    "@images/Pasted image 20240330210522.png",
-    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Design Principles.md",
-    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Unity.md",
-    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Balance.md",
-    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Emphasis.md",
-    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Usability for mobile.md",
-    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Design Walkthrough.md",
-    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Prägnanz Principle.md",
-    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Gestalt Principles of Perception.md",
-    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Surroundedness Principle.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Explanatory Variable.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Estimate Confidence Intervals.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/entropy.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Dependent Variable.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Deep Learning (DL).md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Decision Tree(s).md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Decision Tree Pruning.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Decision Tree Learning.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Data Mining.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Cross-Validation (CV).md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Classification.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Best Machine Learning Model.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/bias-variance decomposition.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Bias-Variance vs Fundamental Trade-Off.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/classification accuracy.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Classifier Evaluation Metrics.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Classifier.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Regression.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/parameters.md",
+    "@images/Screenshot 2024-04-04 at 4.11.17 PM.png",
+    "@images/Pasted image 20240404162607.png",
+    "@images/Pasted image 20240404162453.png",
+    "@images/Pasted image 20240404161337.png",
+    "@images/Pasted image 20240404160005.png",
+    "@images/Pasted image 20240404155947.png",
+    "@images/Pasted image 20240404152400.png",
+    "@images/Pasted image 20240404152323.png",
+    "@images/Pasted image 20240404152251.png",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/coarse discretization.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Minimizing a Differential Equation.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Linear Regression.md",
+    "@images/Pasted image 20240404011740.png",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Untitled",
     "2024 Semester 1",
     "2023 Semester 2",

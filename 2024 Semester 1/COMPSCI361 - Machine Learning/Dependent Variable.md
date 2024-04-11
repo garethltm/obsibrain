@@ -1,0 +1,1 @@
+The variable that researchers are trying to explain or predict is called the response variable. It is also sometimes called the [[Dependent Variable]] because it depends on another variable. 
