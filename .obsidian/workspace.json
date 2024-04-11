@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Ensembles.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Averaging.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Ensembles.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Averaging.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Ensembles.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Averaging.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Ensembles.md"
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Averaging.md"
               }
             }
           },
@@ -171,6 +171,7 @@
   },
   "active": "903751d739bb7cdf",
   "lastOpenFiles": [
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Ensembles.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/bias-variance decomposition.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Bias-Variance vs Fundamental Trade-Off.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/ROC Curves.md",
@@ -179,7 +180,6 @@
     "2024 Semester 1/COMPSCI361 - Machine Learning/Validation Error.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Validation set(s).md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Best Machine Learning Model.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Ensembles.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/classifier(s).md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Classification.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Unsupervised Learning.md",
