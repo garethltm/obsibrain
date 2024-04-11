@@ -1,1 +1,1 @@
-- Improves approf [[classifier(s)]] with high $E\tiny {train}$ (high [[training error]]) - models that underfit
+- Improves approximation error of [[classifier(s)]] with high $E\tiny {approx}$ - models that overfit
