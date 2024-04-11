@@ -1,3 +1,5 @@
+- a contract between yourself & a 3rd party
+
 These are formal negotiated contracts which:
 - Specify the terms for borrowing & repayment
 - Specify interest cost & rate
@@ -14,6 +16,9 @@ If you have decent job (stable income) they won't require [[collateral security]
 1. Businesses
 2. Motor vehicles (cars, boats, motorcycles)
 3. Durable goods (computers, televisions)
-4. Education (student loans)
+4. Education (Student(education) loans)
 5. Consolidation of debts (Multiple debts at the same time - Car loan + Computer loan $\rightarrow$ consolidate the loan)
 ###### Less obvious
+1. Gym club memberships
+2. Monthly insurance payments (vs. single up-front payments)
+3. Mobile phone contracts
