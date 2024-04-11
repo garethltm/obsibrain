@@ -19,4 +19,4 @@ Input: the prediction of a set of models
 	3. Probabilities also shouldn't be too different (otherwise, it might be better to take most accurate)
 2. #compsci361example Consider a set of [[classifier(s)]] that makes these predictions ![[Pasted image 20240411162631.png]]
 - If these independently get 80% accuracy, the mode would be close to 100%
-	- In practice, 
+	- In practice errors won't be completely independent due to noise in the labels
