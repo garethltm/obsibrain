@@ -8,3 +8,6 @@ Sometimes the fact that the contract (and the contractual payments) are to a 3rd
 You need to be prepared to re-think the purchase at this point
 
 If you have decent job (stable income) they won't require [[collateral security]]
+
+## Types of [[Consumer loan(s)]]
+1. Business
