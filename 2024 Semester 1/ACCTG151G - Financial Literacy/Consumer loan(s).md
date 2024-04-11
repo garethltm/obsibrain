@@ -16,7 +16,7 @@ If you have decent job (stable income) they won't require [[collateral security]
 1. Businesses
 2. Motor vehicles (cars, boats, motorcycles)
 3. Durable goods (computers, televisions)
-4. Education (Student(education) loans)
+4. Education (Student (education) loans)
 5. Consolidation of debts (Multiple debts at the same time - Car loan + Computer loan $\rightarrow$ consolidate the loan)
 ###### Less obvious
 1. Gym club memberships
