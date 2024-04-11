@@ -31,4 +31,10 @@ If you have decent job (stable income) they won't require [[collateral security]
 
 ### Where can you get [[Consumer loan(s)]]?
 - Traditional financial institutions (can be inefficient) 
-- 
+	- Banks
+	- [[Credit Unions]]
+	- [[Building Societies]]
+- Consumer finance companies (people that loan from them are usually higher risk/lower credibility)
+	- Instant Finance
+	- Geneva Finance
+	- Speca
