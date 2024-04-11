@@ -14,6 +14,5 @@ You make a new deck of cards from that 52 samples (bootstrap sample)
 	- Roughly 3/13 of the cards will be face cards
 	- There will be roughly 4 10 cards
 #### Common use
-- compute a statistic based on several bootstrap samples
-	- gives you an idea of how the statistic varies as you vary the data
-	- 
+- compute a statistic based on several bootstrap samples (not necessarily all 52 cards but just a part of it)
+	- gives you an idea of how the statistic varies as you vary the data (you get different samples of the same dataset)
