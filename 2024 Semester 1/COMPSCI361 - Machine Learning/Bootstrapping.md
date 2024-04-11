@@ -10,3 +10,5 @@ You make a new deck of cards from that 52 samples (bootstrap sample)
 - Some cards will be missing, & some cards will be duplicated (because we are putting it back into the deck)
 	- So calculations on bootstrap sample will give different results than original data
 - However, the bootstrap sample roughly maintains trends:
+	- Roughly 25% of the cards will be diamonds
+	- Rough
