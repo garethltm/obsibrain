@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Hypothesis Space.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Linear Regression in 1 Dimension.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Hypothesis Space.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Linear Regression in 1 Dimension.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Hypothesis Space.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Linear Regression in 1 Dimension.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Hypothesis Space.md"
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Linear Regression in 1 Dimension.md"
               }
             }
           },
@@ -171,11 +171,7 @@
   },
   "active": "903751d739bb7cdf",
   "lastOpenFiles": [
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Information gain.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Least Squares.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Linear Regression in 1 Dimension.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Machine Learning (ML).md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Linear Regression.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Machine Learning vs Data Mining.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Minimizing a Differential Equation.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Naïve Supervised Learning - Predict Mode.md",
@@ -185,24 +181,28 @@
     "2024 Semester 1/COMPSCI361 - Machine Learning/Prediction phase.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Recall (Completeness).md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Reduced error pruning.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Refined Fundamental Trade-Off.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/ROC Curves.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/F-measure.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Boosting.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Ensembles.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Regression.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Supervised Learning.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Supervised Learning Notation.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/test error.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/training error.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/training data.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Training phase.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Unsupervised Learning.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Validation set(s).md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Validation Error.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Averaging.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/classifier(s).md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Best Machine Learning Model.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Bias-Variance vs Fundamental Trade-Off.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Big Data.md",
     "@images/Pasted image 20240404162607.png",
     "@images/Pasted image 20240404162453.png",
     "@images/Pasted image 20240404161337.png",
     "@images/Screenshot 2024-04-04 at 4.11.17 PM.png",
     "@images/Pasted image 20240404160005.png",
     "@images/Pasted image 20240404155947.png",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Regression.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Handling Numerical Labels.md",
-    "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week11/Probabilistic Model.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Classification.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/coarse discretization.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/fine discretization.md",
     "@images/Pasted image 20240404152400.png",
     "@images/Pasted image 20240404152323.png",
     "@images/Pasted image 20240404152251.png",
