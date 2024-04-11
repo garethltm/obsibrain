@@ -9,5 +9,7 @@
 - Generally, you must make repayments if you're earning over the repayment threshold or aren't on a repayment holiday.
 - When you leave New Zealand for at least 6 months, your loan will stop being interest-free
 - The [[current]] [[Interest rates (r)]] (1 April 2020 to 31 March 2021 is 3.5%) won't be applied until you've been overseas for 6 months or more. The interest is then backdated to the day after you left New Zealand & added to your loan on a daily basis.
-- Late payment interest is currently charged at 7.5% p.a (calculated as a monthly rate of 0.604%)
-- If you contact IRD about this & makle
+- Late payment interest is currently charged at 7.5% p.a (calculated as 0.604% per month)
+- If you contact IRD about this & make a plan, this rate will be reduced to 5.5% p.a (0.447% per month)
+
+###
