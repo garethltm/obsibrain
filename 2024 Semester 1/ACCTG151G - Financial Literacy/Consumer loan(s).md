@@ -35,6 +35,9 @@ If you have decent job (stable income) they won't require [[collateral security]
 	- [[Credit Unions]]
 	- [[Building Societies]]
 
+| **Advantages**       | **Disadvantages**    |
+| -------------------- | -------------------- |
+| Lower interest rates | Long time to process |
 - Consumer finance companies (people that loan from them are usually higher risk/lower credibility)
 	- Instant Finance
 	- Geneva Finance
