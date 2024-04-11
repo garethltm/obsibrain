@@ -9,3 +9,13 @@
 7. Maintain & repair after you buy
 
 #acctg151Gexample a car
+Factors to consider:
+1. Purchase Costs
+2. Operating costs
+3. New or used
+4. Size, body style & features
+5. Reliability & warrranties
+6. What to do with present car (trade-in or sell)
+7. Safety features
+8. Insurance costs
+9. Residual value (depreciation)
