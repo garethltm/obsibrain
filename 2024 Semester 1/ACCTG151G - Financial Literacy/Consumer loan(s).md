@@ -1,0 +1,1 @@
+These are formal negotiated contracts which:
