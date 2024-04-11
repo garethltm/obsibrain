@@ -5,4 +5,4 @@
 	- Collateral requirements
 		- #acctg151Gexample guarantors - [[asset(s)]] being used for [[collateral security]]
 	- Other features, such as payment date, prepayment penalties & late fees
-- Beware (or be suspicious of "Interest Free" deals) NO FREE LUNCH t
+- Beware (or be suspicious of "Interest Free" deals) NO FREE LUNCH theorem
