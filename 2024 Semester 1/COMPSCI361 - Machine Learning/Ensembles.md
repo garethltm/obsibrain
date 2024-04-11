@@ -11,6 +11,9 @@
 
 [[Ensembles]] methods often have higher accuracy than the input [[classifier(s)]]
 
+#### ***Fundamental trade-off*** (bias varaian)
+
+
 ## Main idea
 Combining models to get a better prediction for the base [[classifier(s)]] that we input by making an average of the [[classifier(s)]]
 
@@ -18,3 +21,4 @@ Combining models to get a better prediction for the base [[classifier(s)]] that 
 The [[Ensembles]] [[classifier(s)]]:
 1. does much better on one of these than the individual [[classifier(s)]]
 2. doesn't do too much worse on the other
+
