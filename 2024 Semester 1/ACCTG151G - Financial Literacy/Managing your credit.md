@@ -1,1 +1,6 @@
-- "Shop" carefully before borrowing (choose best option before bo)
+- "Shop" carefully before borrowing (choose best option before borrowing)
+- Compare loan features
+	- [[Interest rates (r)]] & Loan maturity
+	- Total cost of transaction - including application fees & any other charges (hidden costs)
+	- Collateral requirements
+		- #acctg151Gexample guarantors - [[asset(s)]] be
