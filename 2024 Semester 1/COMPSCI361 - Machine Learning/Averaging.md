@@ -22,4 +22,7 @@ Input: the prediction of a set of models
 	- In practice errors won't be completely independent due to noise in the labels
 3. #compsci361example Consider [[classifier(s)]] that [[overfit(ting)|overfit(ting)]] (like deep [[Decision Tree(s)]])
 	- If they all [[overfit(ting)]] in exactly the same way, [[Averaging]] does nothing
-	- But if they make independen
+	- But if they make independent errors
+		1. Probability that average is wrong can be lower than for each [[classifier(s)]]
+		2. Less attention to specific [[overfit(ting)]] of each [[classifier(s)]]
+	- Combining them might still [[overfit(ting)]] but they [[overfit(ting)]] di
