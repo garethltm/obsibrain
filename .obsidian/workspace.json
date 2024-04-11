@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Averaging.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Random Forests.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Averaging.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Random Forests.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Averaging.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Random Forests.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Averaging.md"
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Random Forests.md"
               }
             }
           },
@@ -171,8 +171,10 @@
   },
   "active": "903751d739bb7cdf",
   "lastOpenFiles": [
-    "2024 Semester 1/COMPSCI361 - Machine Learning/overfit(ting).md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Ensembles.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Random Forests.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Averaging.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/overfit(ting).md",
     "@images/Pasted image 20240411162631.png",
     "@images/Pasted image 20240411162311.png",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Simple model averaging.md",
@@ -188,7 +190,6 @@
     "2024 Semester 1/COMPSCI361 - Machine Learning/Classifier Evaluation Metrics.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Decision Stumps.md",
     "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week10/Naïve Bayes classification.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Ensembles.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/bias-variance decomposition.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Bias-Variance vs Fundamental Trade-Off.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/ROC Curves.md",
@@ -201,7 +202,6 @@
     "2024 Semester 1/COMPSCI361 - Machine Learning/Supervised Learning.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Boosting.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Fundamental Trade-Off.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Golden Rule of Machine Learning.md",
     "@images/Pasted image 20240404162607.png",
     "@images/Pasted image 20240404162453.png",
     "@images/Pasted image 20240404161337.png",

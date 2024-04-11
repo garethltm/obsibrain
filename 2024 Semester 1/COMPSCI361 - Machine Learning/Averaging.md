@@ -25,4 +25,4 @@ Input: the prediction of a set of models
 	- But if they make independent errors
 		1. Probability that average is wrong can be lower than for each [[classifier(s)]]
 		2. Less attention to specific [[overfit(ting)]] of each [[classifier(s)]]
-	- Combining them might still [[overfit(ting)]] but they [[overfit(ting)]] di
+	- Combining them might still [[overfit(ting)]] but they [[overfit(ting)]] differently $\rightarrow$ somewhat [[overfit(ting)]] less because you are essentially combining them
