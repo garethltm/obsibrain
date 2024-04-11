@@ -17,3 +17,6 @@
 
 #acctg151Gexample Let's say you have a $25,000 student loan & you leave NZ & don't pay your loan off (ignoring daily [[compounding]]).
 In 10 years you return to NZ - how much will you owe?
+
+In this case it is Annual [[compounding]]
+- $\$25,000 * (1.035)^10$ = 
