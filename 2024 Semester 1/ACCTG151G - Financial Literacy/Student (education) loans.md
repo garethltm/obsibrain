@@ -3,4 +3,8 @@
 - You usually need to demonstrate financial need 
 - Make satisfactory academic progress
 - Loan is interest free, while you remain in New Zealand
-	- If you leave New Zealand loans accumulate interest after 6 months ab
+	- If you leave New Zealand loans accumulate interest after 6 months abroad
+
+## Managing Student Loans
+- Generally, you must make repayments if you're earning over the repayment threshold or aren't on a repayment holiday.
+- When you leave New Zealand fo
