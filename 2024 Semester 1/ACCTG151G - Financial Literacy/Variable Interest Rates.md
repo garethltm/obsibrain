@@ -1,1 +1,1 @@
-- adjusts in line with 'Official Cash Rate '
+- adjusts in line with 'Official Cash Rate (OCR)' or some base rate
