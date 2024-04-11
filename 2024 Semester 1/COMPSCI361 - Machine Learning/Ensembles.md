@@ -14,6 +14,7 @@
 #### [[Fundamental Trade-Off]] (bias variance, training approximation)
 1. $E\tiny {train}$: How small can you make [[training error]]
 2. $E\tiny {approx}$: How well [[training error]] approximates the [[test error]]
+![[Pasted image 20240312222120.png]]
 
 ## Main idea
 Combining models to get a better prediction for the base [[classifier(s)]] that we input by making an average of the [[classifier(s)]]
