@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Random Forests.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Random Forests.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Random Forests.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Random Forests.md"
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Untitled.md"
               }
             }
           },
@@ -171,8 +171,10 @@
   },
   "active": "903751d739bb7cdf",
   "lastOpenFiles": [
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Averaging.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Random Forests.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Untitled.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Random trees.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Averaging.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Ensemble(s).md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/overfit(ting).md",
     "@images/Pasted image 20240411162631.png",
@@ -200,8 +202,6 @@
     "2024 Semester 1/COMPSCI361 - Machine Learning/Best Machine Learning Model.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Unsupervised Learning.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Supervised Learning.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Boosting.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Fundamental Trade-Off.md",
     "@images/Pasted image 20240404162607.png",
     "@images/Pasted image 20240404162453.png",
     "@images/Pasted image 20240404161337.png",

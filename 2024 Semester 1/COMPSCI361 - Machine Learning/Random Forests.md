@@ -13,3 +13,6 @@
 	Remember, thoughtful feature engineering and [[hyperparameter(s)]] tuning are also crucial for improving the performance of [[Decision Tree(s)]]
 ### Do deep [[Decision Tree(s)]] make independent errors?
 - No, with the same [[training data]] you'll get the same [[Decision Tree(s)]]
+### 2 key ingredients in [[Random Forests]]
+1. [[Bootstrapping]]
+2. [[Random trees]]
