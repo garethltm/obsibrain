@@ -1,0 +1,1 @@
+- "Shop" carefully before borrowing (choose best option before bo)

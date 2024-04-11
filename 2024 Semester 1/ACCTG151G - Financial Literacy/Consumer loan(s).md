@@ -46,7 +46,7 @@ If you have decent job (stable income) they won't require [[collateral security]
 3. Other sources include:
 	- Life insurance companies
 		- Loan against cash value of certain types of whole-of-life policies
-		- #acctg151Gexample Coverage = $1 million
+		- #acctg151Gexample Coverage = $1 million (YOU CANNOT BORROW $1 million) the amount you can actually borrow is way lesser
 	- Friends/relatives
 	- Pawn shops
 	- Loan sharks (AVOID)
