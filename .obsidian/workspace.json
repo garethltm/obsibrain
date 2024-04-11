@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Bias-Variance vs Fundamental Trade-Off.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/ROC Curves.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Bias-Variance vs Fundamental Trade-Off.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/ROC Curves.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Bias-Variance vs Fundamental Trade-Off.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/ROC Curves.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Bias-Variance vs Fundamental Trade-Off.md"
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/ROC Curves.md"
               }
             }
           },
@@ -171,6 +171,13 @@
   },
   "active": "903751d739bb7cdf",
   "lastOpenFiles": [
+    "2024 Semester 1/COMPSCI361 - Machine Learning/test error.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Training phase.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Validation Error.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Validation set(s).md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Best Machine Learning Model.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/bias-variance decomposition.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Bias-Variance vs Fundamental Trade-Off.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Ensembles.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/classifier(s).md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Classification.md",
@@ -190,13 +197,6 @@
     "2024 Semester 1/COMPSCI361 - Machine Learning/Least Squares.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Linear Regression.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Linear Regression in 1 Dimension.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Machine Learning (ML).md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Machine Learning vs Data Mining.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Minimizing a Differential Equation.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Naïve Supervised Learning - Predict Mode.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Overfitting.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/parameters.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Precision (Exactness).md",
     "@images/Pasted image 20240404162607.png",
     "@images/Pasted image 20240404162453.png",
     "@images/Pasted image 20240404161337.png",
