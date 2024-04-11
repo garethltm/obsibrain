@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Unsupervised Learning.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/classifier(s).md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Unsupervised Learning.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/classifier(s).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Unsupervised Learning.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/classifier(s).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Unsupervised Learning.md"
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/classifier(s).md"
               }
             }
           },
@@ -171,6 +171,9 @@
   },
   "active": "903751d739bb7cdf",
   "lastOpenFiles": [
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Classification.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/classifier(s).md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Unsupervised Learning.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Supervised Learning.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Boosting.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Ensembles.md",
@@ -194,9 +197,6 @@
     "2024 Semester 1/COMPSCI361 - Machine Learning/Overfitting.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/parameters.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Precision (Exactness).md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Prediction phase.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Recall (Completeness).md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Reduced error pruning.md",
     "@images/Pasted image 20240404162607.png",
     "@images/Pasted image 20240404162453.png",
     "@images/Pasted image 20240404161337.png",
