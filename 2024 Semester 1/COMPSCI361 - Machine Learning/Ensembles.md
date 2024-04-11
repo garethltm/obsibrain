@@ -1,4 +1,5 @@
 [[Ensembles]] are [[classifier(s)]] that have [[classifier(s)]] as input
+- still outputs a prediction
 ### Some methods
 1. [[Averaging]]
 2. [[Boosting]]
@@ -8,4 +9,7 @@
 6. [[Random Forests]]
 7. [[Stacking]]
 
-[[Ensembles]] methods often have 
+[[Ensembles]] methods often have higher accuracy than the input [[classifier(s)]]
+
+## Main idea
+Combining models to get a better prediction for the base [[classifier(s)]] that we input by making an average of the [[classifier(s)]]
