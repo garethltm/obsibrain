@@ -44,4 +44,9 @@ If you have decent job (stable income) they won't require [[collateral security]
 	- Geneva Finance
 	- Specialise in high-risk borrowers
 3. Other sources include:
-	- :o
+	- Life insurance companies
+		- Loan against cash value of certain types of whole-of-life policies
+		- #acctg151Gexample Coverage = $1 million
+	- Friends/relatives
+	- Pawn shops
+	- Loan sharks (AVOID)
