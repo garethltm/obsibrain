@@ -18,6 +18,6 @@ Not that we're doing [[Supervised Learning]]
 - NOT leads to
 
 ## How do we predict that?
-- Transforming it into a [[Classification]] problem
+- Transforming it into a [[classification]] problem
 	- numeric values $\rightarrow$ categorical values
 [[Handling Numerical Labels]]
