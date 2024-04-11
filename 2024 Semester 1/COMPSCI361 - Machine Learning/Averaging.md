@@ -17,4 +17,6 @@ Input: the prediction of a set of models
 	1. For [[Averaging]] to work, [[classifier(s)]] need to be at least somewhat independent (you gain nothing if its the same) - in relation to [[Independent & Identically Distributed (IID)]]
 	2. You also want the probability of being right to be > 0.5, otherwise it will do much worse
 	3. Probabilities also shouldn't be too different (otherwise, it might be better to take most accurate)
-2. Consider a set of [[classifier(s)]] 
+2. #compsci361example Consider a set of [[classifier(s)]] that makes these predictions ![[Pasted image 20240411162631.png]]
+- If these independently get 80% accuracy, the mode would be close to 100%
+	- In practice, 
