@@ -1,1 +1,1 @@
-- Improves the [[training error]] of [[classifier(s)]] with high
+- Improves approf [[classifier(s)]] with high $E\tiny {train}$ (high [[training error]]) - models that underfit
