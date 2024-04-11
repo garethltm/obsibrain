@@ -26,4 +26,5 @@ If you have decent job (stable income) they won't require [[collateral security]
 ### When you take [[Consumer loan(s)]]
 - [[Fixed Interest Rates]]
 - [[Variable Interest Rates]]
-- 
+- [[Domestic Base Rates]]
+- International Base Rates
