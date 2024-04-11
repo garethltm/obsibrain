@@ -1,3 +1,3 @@
-- using your assets as a form of payment
+- using your [[asset(s)]] as a form of payment
 
 #acctg151Gexample cars, house, tv,...

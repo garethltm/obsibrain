@@ -3,4 +3,6 @@
 	- [[Interest rates (r)]] & Loan maturity
 	- Total cost of transaction - including application fees & any other charges (hidden costs)
 	- Collateral requirements
-		- #acctg151Gexample guarantors - [[asset(s)]] be
+		- #acctg151Gexample guarantors - [[asset(s)]] being used for [[collateral security]]
+	- Other features, such as payment date, prepayment penalties & late fees
+- Beware (or be suspicious of "Interest Free" deals) NO FREE LUNCH t
