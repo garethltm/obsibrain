@@ -6,4 +6,7 @@ becomes
 
 ![[Pasted image 20240411231824.png]]
 
-#acctg151Gexample You want to go on holiday in exactly 2 years. You expect the cost of the holiday to be exactly $5,000 in 2 years time. How much money would you need to place on deposi
+#acctg151Gexample You want to go on holiday in exactly 2 years. You expect the cost of the holiday to be exactly $5,000 in 2 years time. 
+
+How much money would you need to place on deposit today so that you had exactly $5,000 in 2 years if deposit rates are 10% p.a?
+
