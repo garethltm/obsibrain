@@ -8,4 +8,4 @@ Input: the prediction of a set of models
 ![[Pasted image 20240411161545.png]]
 - Take the mode of the predictions (or average probabilities if probabilistic)
 
-[[Averaging]]/[[Stacking]] often perf
+[[Averaging]] / [[Stacking]] often performs better than individual models

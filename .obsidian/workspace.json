@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Averaging.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Stacking.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Averaging.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Stacking.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Averaging.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Stacking.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Averaging.md"
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Stacking.md"
               }
             }
           },
@@ -171,7 +171,9 @@
   },
   "active": "903751d739bb7cdf",
   "lastOpenFiles": [
+    "2024 Semester 1/COMPSCI361 - Machine Learning/classifier(s).md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Stacking.md",
+    "@images/Pasted image 20240411161902.png",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Averaging.md",
     "@images/Pasted image 20240411161715.png",
     "@images/Pasted image 20240411161545.png",
@@ -190,7 +192,6 @@
     "2024 Semester 1/COMPSCI361 - Machine Learning/Validation Error.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Validation set(s).md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Best Machine Learning Model.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/classifier(s).md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Unsupervised Learning.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Supervised Learning.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Boosting.md",
@@ -205,7 +206,6 @@
     "@images/Pasted image 20240404160005.png",
     "@images/Pasted image 20240404155947.png",
     "@images/Pasted image 20240404152400.png",
-    "@images/Pasted image 20240404152323.png",
     "2024 Semester 1",
     "2023 Semester 2",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture",
