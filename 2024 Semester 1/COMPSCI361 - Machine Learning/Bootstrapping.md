@@ -5,4 +5,6 @@
 2. Sample a random card, put it back & re-shuffle
 3. Sample a random card, put it back & re-shuffle
 4. ...
-5. 
+52. Sample a random card, put it back & re-shuffle
+You make a new deck of cards from that 52 samples (bootstrap sample)
+- Some cards will be missing, & some cards will be duplicated 
