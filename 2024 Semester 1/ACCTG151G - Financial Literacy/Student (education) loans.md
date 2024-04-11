@@ -7,4 +7,5 @@
 
 ## Managing Student Loans
 - Generally, you must make repayments if you're earning over the repayment threshold or aren't on a repayment holiday.
-- When you leave New Zealand fo
+- When you leave New Zealand for at least 6 months, your loan will stop being interest-free
+- The [[current]] [[Interest rates (r)]] (1 April 2020 to 31 March 2021 is 3.5%) won't be applied until you've been overseas for 6 months or more. The interest is then backdated to the 
