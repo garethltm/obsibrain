@@ -1,1 +1,1 @@
-- Real "student loans" from the Government or a private arrangement with a financial institution (some banks offer loans/overdrafts to bone fide students on very advantage)
+- Real "student loans" from the Government or a private arrangement with a financial institution (some banks offer loans/overdrafts to bone fide students on very advantageous terms, so long as you remain a student) BUT doesn't include 'family' loans - where relatives (usually parents) 'lend' money to the student.
