@@ -27,4 +27,4 @@ If you have decent job (stable income) they won't require [[collateral security]
 - [[Fixed Interest Rates]]
 - [[Variable Interest Rates]]
 - [[Domestic Base Rates]]
-- International Base Rates
+- [[International Base Rates]]

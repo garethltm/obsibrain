@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Consumer loan(s).md",
+                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/International Base Rates.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Consumer loan(s).md",
+                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/International Base Rates.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Consumer loan(s).md",
+                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/International Base Rates.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Consumer loan(s).md"
+                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/International Base Rates.md"
               }
             }
           },
@@ -155,7 +155,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Consumer loan(s).md"
+                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/International Base Rates.md"
               }
             }
           },
@@ -188,8 +188,9 @@
   },
   "active": "fef8234220dde2b6",
   "lastOpenFiles": [
-    "2024 Semester 1/ACCTG151G - Financial Literacy/Domestic Base Rates.md",
     "2024 Semester 1/ACCTG151G - Financial Literacy/Consumer loan(s).md",
+    "2024 Semester 1/ACCTG151G - Financial Literacy/International Base Rates.md",
+    "2024 Semester 1/ACCTG151G - Financial Literacy/Domestic Base Rates.md",
     "2024 Semester 1/ACCTG151G - Financial Literacy/Fixed Interest Rates.md",
     "2024 Semester 1/ACCTG151G - Financial Literacy/Variable Interest Rates.md",
     "2024 Semester 1/ACCTG151G - Financial Literacy/Student (education) loans.md",
@@ -218,7 +219,6 @@
     "2024 Semester 1/COMPSCI361 - Machine Learning/parameters.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Golden Rule of Machine Learning.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/fine discretization.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/F-measure.md",
     "@images/Screenshot 2024-04-04 at 4.11.17 PM.png",
     "@images/Pasted image 20240404162607.png",
     "@images/Pasted image 20240404162453.png",
