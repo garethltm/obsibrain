@@ -9,5 +9,5 @@
 
 ## Calculating finance charges on [[Instalment loans]]
 #acctg151Gexample ![[Pasted image 20240412231515.png]]![[Pasted image 20240412231544.png]]
-##### Total amount paid over the 12-month period:
-$88.85 
+
+
