@@ -3,5 +3,9 @@
 3. Go through the settlement process (usually handled by your solicitor - must have)
 	- Title check necessary to make sure property title is [[lien]]-free
 	- Closing or settlement statement provides details of costs for both buyer & seller
-
 - [[Buying]]
+
+## Financing the transaction
+Shop around & compare various lenders for mortgage finance
+- [[Banks (Commercial Banks)]]
+- [[building]]
