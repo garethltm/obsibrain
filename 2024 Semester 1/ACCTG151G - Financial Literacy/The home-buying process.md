@@ -6,6 +6,9 @@
 - [[Buying]]
 
 ## Financing the transaction
-Shop around & compare various lenders for mortgage finance
-- [[Banks (Commercial Banks)]]
-- [[building]]
+1. Shop around & compare various lenders for mortgage finance
+	- [[Banks (Commercial Banks)]]
+	- [[Building Societies]]
+	- [[Credit Unions]]
+	- [[Mortgage brokers]]
+2. Inves
