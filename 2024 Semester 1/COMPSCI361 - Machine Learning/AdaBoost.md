@@ -20,4 +20,6 @@ giving these examples that are wrong with higher weightage to allow the [[classi
 - in a way it is still sort of [[overfit(ting)]] in some way - getting better on the [[training data]]
 
 ## Are [[Decision Stumps]] a good base [[classifier(s)]]?
-- They tend not to [[overfit(ting)]]
+- They tend not to [[overfit(ting)]] (usually underfit)
+- Easy to get > 50% weighted accuracy (because it is just )
+

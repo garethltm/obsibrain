@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Random Tree(s).md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/AdaBoost.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Random Tree(s).md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/AdaBoost.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Random Tree(s).md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/AdaBoost.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Random Tree(s).md"
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/AdaBoost.md"
               }
             }
           },
@@ -171,11 +171,11 @@
   },
   "active": "903751d739bb7cdf",
   "lastOpenFiles": [
-    "2024 Semester 1/COMPSCI361 - Machine Learning/AdaBoost.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Random Tree(s).md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Random Forests.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/AdaBoost.md",
     "@images/Pasted image 20240412162123.png",
     "@images/Pasted image 20240412162111.png",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Random Forests.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/ROC Curves.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Bootstrapping.md",
     "@images/Pasted image 20240412161759.png",
