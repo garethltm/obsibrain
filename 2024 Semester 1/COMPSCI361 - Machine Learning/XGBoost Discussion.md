@@ -12,4 +12,4 @@ In [[eXtreme Gradient Boost (XGBoost)]], it's the residuals that act like weight
 ## How do you maintain efficiency if not using squared error?
 - For non-quadratic losses like logistic, there is no closed-form solution
 - Approximates non-quadratic losses with 2nd-order Taylor expansion
-	- Maintains least squares efficiency for other losses
+	- Maintains least squares efficiency for other losses (by approximating with quadratic)
