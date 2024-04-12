@@ -1,4 +1,4 @@
-- Real "student loans" from the Government or a private arrangement with a financial institution (some banks offer loans/overdrafts to bone fide students on very advantageous terms, so long as you remain a student) BUT doesn't include 'family' loans - where relatives (usually parents) 'lend' money to the student.
+- Real "student loans" from the Government or a private arrangement with a financial institution (some [[Banks (Commercial Banks)]] offer loans/overdrafts to bone fide students on very advantageous terms, so long as you remain a student) BUT doesn't include 'family' loans - where relatives (usually parents) 'lend' money to the student.
 ### Obtaining & paying for a student loan
 - You usually need to demonstrate financial need 
 - Make satisfactory academic progress

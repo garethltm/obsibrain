@@ -7,7 +7,7 @@
 - [[Cheque account(s)]]
 	- Cannot pay you interest
 - Savings Accounts
-	- Can pay you [[interst]]
+	- Can pay you interest
 - Very short [[term deposit(s)]]
 	- IF you have 5 days remaining on your [[term deposit(s)]] THEN it can be considered as [[liquid asset]] (approaching maturity)
 
