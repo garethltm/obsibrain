@@ -6,3 +6,6 @@
 
 #compsci361example [[Decision Stumps]] or low-depth [[Decision Tree(s)]]
 - Easy to modify stumps/trees to use weighted accuracy as score (because it is unlikely to overfit)
+
+## Overview of [[AdaBoost]]
+1. Fit a [[classifier(s)]] on the [[training data]] (more likely to underfit - [[Decision Stumps]] which will make m)
