@@ -1,4 +1,5 @@
 In economics, the [[Average propensity to consume (APC)]] is the fraction of [[Income (Cash IN)]] spent and is computed by diving consumption by income.
+
 #acctg151Gformula
 $$APC = \frac {C}{Y}$$
 - C = the amount spent (consumed)
