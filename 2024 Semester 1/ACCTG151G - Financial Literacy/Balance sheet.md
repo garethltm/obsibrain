@@ -1,6 +1,6 @@
 - [[Statement of Financial Position]] at ONE POINT in time
 
-## Equation
+#acctg151Gformula
 ![[Pasted image 20240308213732.png]]
 - [[asset(s)]]
 - [[liability]]

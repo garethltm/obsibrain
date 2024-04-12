@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Average propensity to consume (APC).md",
+                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Liquidity ratio.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Average propensity to consume (APC).md",
+                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Liquidity ratio.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Average propensity to consume (APC).md",
+                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Liquidity ratio.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Average propensity to consume (APC).md"
+                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Liquidity ratio.md"
               }
             }
           },
@@ -155,7 +155,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Average propensity to consume (APC).md"
+                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Liquidity ratio.md"
               }
             }
           },
@@ -188,6 +188,9 @@
   },
   "active": "cbb5d4b6c2221814",
   "lastOpenFiles": [
+    "2024 Semester 1/ACCTG151G - Financial Literacy/Balance sheet.md",
+    "2024 Semester 1/ACCTG151G - Financial Literacy/Solvency ratio.md",
+    "2024 Semester 1/ACCTG151G - Financial Literacy/Average propensity to consume (APC).md",
     "2024 Semester 1/ACCTG151G - Financial Literacy/asset(s).md",
     "2024 Semester 1/ACCTG151G - Financial Literacy/annuity due.md",
     "2024 Semester 1/ACCTG151G - Financial Literacy/Annuity.md",
@@ -211,9 +214,6 @@
     "2024 Semester 1/COMPSCI361 - Machine Learning/Boosting.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Boosted Regression Trees - Prediction.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/AdaBoost.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Averaging.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Bagging.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Decision Tree(s).md",
     "@images/Pasted image 20240412171607.png",
     "@images/Pasted image 20240412171451.png",
     "@images/Pasted image 20240412171212.png",

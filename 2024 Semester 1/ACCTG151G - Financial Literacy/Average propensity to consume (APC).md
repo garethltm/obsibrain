@@ -16,4 +16,5 @@ $$ APC = \frac {C}{Y-T}$$
 The percentage of each dollar of [[Income (Cash IN)]] that is spent, on average, for current needs rather than saved.
 - ABSOLUTE necessity $\rightarrow$ what you actually need
 
+#acctg151Gformula
 $$\frac{Income\ spent\ on\ current\ needs}{Total\ income} \times \frac{100}{1}$$

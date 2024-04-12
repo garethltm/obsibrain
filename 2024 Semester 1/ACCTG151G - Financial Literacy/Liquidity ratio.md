@@ -1,6 +1,7 @@
 - Measures your ability to pay [[current]] debts [[liability]] with existing [[liquid asset]]
 	- Do you have enough cash to pay your current liabilities
 
+#acctg151Gformula
 $\frac {Liquid\ assets}{Total\ current\ debts}$
 - [[liquid asset]]
 - [[current]]
