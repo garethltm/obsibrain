@@ -11,7 +11,7 @@
 8. Total charges are use to calculate [[Annual Percentage Rate (APR)]]
 9. Prepayment penalties
 10. Life & disability insurance requirements
-11. Buy ob-time payment
+11. Buy on-time payment or pay cash? (may be better to pay cash)
 ## Calculating finance charges on [[Instalment loans]]
 #acctg151Gexample ![[Pasted image 20240412231515.png]]![[Pasted image 20240412231544.png]]![[Pasted image 20240412231720.png]]
 
