@@ -18,5 +18,6 @@ You make a new deck of cards from that 52 samples (bootstrap sample)
 	- gives you an idea of how the statistic varies as you vary the data (you get different samples of the same dataset)
 
 ### Bootstrap sample of a list of n examples
-- A new set of size n chosen independently with replacement
-- 
+- A new set of size n chosen independently with replacement![[Pasted image 20240412160921.png]]
+- Gives new dataset of n examples, with some duplicated & some missing
+	- for large n, approxiamately 
