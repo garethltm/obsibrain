@@ -2,4 +2,4 @@
 - Investigate the rental market
 - Mostly it will be necessary to use a real rental agent
 	- Agents typically are employed by the landlord & are paid only if they find an acceptable tenant
-	- Commissions are calculated as a per
+	- Commissions are calculated as a percentage of the rental price of the property (sometimes negotiated)
