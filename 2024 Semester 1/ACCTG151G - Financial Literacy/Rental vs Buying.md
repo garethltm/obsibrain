@@ -10,4 +10,4 @@
 - Initial deposit for [[Buying]]: Down payment is at 10%
 - Protection against cost increases for [[Renting]]: Landlord can increase at any point in time
 - Risk of Capital losses for [[Renting]]: No effect if housing decrease/increase
-	- If [[Interest rates (r)]] increases $\rightarrow$ 
+	- If [[Interest rates (r)]] increases $\rightarrow$ [[Official Cash Rate (OCR)]] increases, housing price decrease

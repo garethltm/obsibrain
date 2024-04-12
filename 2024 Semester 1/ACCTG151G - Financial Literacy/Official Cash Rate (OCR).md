@@ -1,0 +1,1 @@
+The [[Official Cash Rate (OCR)]] sets the [[Interest rates (r)]] on the deposits and loans that registered banks have with us
