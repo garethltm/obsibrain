@@ -4,3 +4,5 @@
 - #compsci361example How many hours of video games per day?![[Pasted image 20240412165234.png]]
 
 ### How can we fit a [[Regression Trees]]?
+###### Simple approach:
+1. Predict: at each leaf, predict the mean of the training $\huge {y}\tiny {i}$ assigned to the leaf (the leaf ())
