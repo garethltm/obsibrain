@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Future Value Interest Factor (FVIF).md",
+                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Future Value (FV).md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "compound",
+                "query": "tag:#acctg151Gformula",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Future Value Interest Factor (FVIF).md",
+                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Future Value (FV).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Future Value Interest Factor (FVIF).md",
+                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Future Value (FV).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Future Value Interest Factor (FVIF).md"
+                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Future Value (FV).md"
               }
             }
           },
@@ -155,7 +156,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Future Value Interest Factor (FVIF).md"
+                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Future Value (FV).md"
               }
             }
           },
@@ -186,12 +187,12 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "fef8234220dde2b6",
+  "active": "a6e0090ac9cbd1f3",
   "lastOpenFiles": [
+    "2024 Semester 1/ACCTG151G - Financial Literacy/Present Value (PV).md",
     "2024 Semester 1/ACCTG151G - Financial Literacy/Future Value (FV).md",
     "2024 Semester 1/ACCTG151G - Financial Literacy/Future Value Interest Factor (FVIF).md",
     "2024 Semester 1/ACCTG151G - Financial Literacy/Present Value (PV) Interest Factor of an Annuity.md",
-    "2024 Semester 1/ACCTG151G - Financial Literacy/Present Value (PV).md",
     "2024 Semester 1/ACCTG151G - Financial Literacy/Present Value (PV) of an Annuity.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Regression Trees.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/eXtreme Gradient Boost (XGBoost).md",

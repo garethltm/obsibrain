@@ -6,5 +6,4 @@
 - n = number of years
 *this is annually, formula will be different if weekly, biweekly, etc.*
 
-## FORMULA
-[[Future Value (FV)]] = [[Present Value (PV)]] $\times\ (1+r)^n$
+#acctg151Gformula[[Future Value (FV)]] = [[Present Value (PV)]] $\times\ (1+r)^n$
