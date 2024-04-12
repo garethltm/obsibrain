@@ -13,4 +13,4 @@
 	- [[Mortgage brokers]]
 2. Investigate different types of loans & payment options
 	- Construction (buying a bond)
-	- Fixed rate vs Floating rate
+	- [[Fixed loan rate]] vs [[Floating loan rate]]

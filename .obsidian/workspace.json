@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/The home-buying process.md",
+                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Fixed loan rate.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/The home-buying process.md",
+                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Fixed loan rate.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/The home-buying process.md",
+                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Fixed loan rate.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/The home-buying process.md"
+                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Fixed loan rate.md"
               }
             }
           },
@@ -155,7 +155,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/The home-buying process.md"
+                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Fixed loan rate.md"
               }
             }
           },
@@ -188,8 +188,10 @@
   },
   "active": "bdc2fbdac3071328",
   "lastOpenFiles": [
-    "2024 Semester 1/ACCTG151G - Financial Literacy/Mortgage brokers.md",
     "2024 Semester 1/ACCTG151G - Financial Literacy/The home-buying process.md",
+    "2024 Semester 1/ACCTG151G - Financial Literacy/Floating loan rate.md",
+    "2024 Semester 1/ACCTG151G - Financial Literacy/Fixed loan rate.md",
+    "2024 Semester 1/ACCTG151G - Financial Literacy/Mortgage brokers.md",
     "2024 Semester 1/ACCTG151G - Financial Literacy/lien.md",
     "@images/Pasted image 20240412233715.png",
     "2024 Semester 1/ACCTG151G - Financial Literacy/Rental vs Buying.md",
@@ -218,8 +220,6 @@
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Prägnanz Principle.md",
     "2024 Semester 1/ACCTG151G - Financial Literacy/Keep track of you Credit.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/XGBoost Discussion.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Random Forests.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Regularized Regression Trees.md",
     "@images/Pasted image 20240412224048.png",
     "@images/Pasted image 20240412171607.png",
     "@images/Pasted image 20240412171451.png",

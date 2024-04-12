@@ -1,0 +1,1 @@
+fixed over duration of the loan (sometimes a short period - not whole period)
