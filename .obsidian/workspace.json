@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Untitled.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Handling Numerical Labels.md",
                 "mode": "source",
                 "source": false
               }
@@ -38,7 +38,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "least",
+                "query": "regression trees",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,8 +65,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Untitled.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Handling Numerical Labels.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Untitled.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Handling Numerical Labels.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Untitled.md"
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Handling Numerical Labels.md"
               }
             }
           },
@@ -172,7 +171,7 @@
   "active": "903751d739bb7cdf",
   "lastOpenFiles": [
     "2024 Semester 1/COMPSCI361 - Machine Learning/eXtreme Gradient Boost (XGBoost).md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Untitled.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Regression Trees.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Regression.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/AdaBoost.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/gradient boosting.md",

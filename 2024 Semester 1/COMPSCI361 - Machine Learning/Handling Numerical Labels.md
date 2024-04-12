@@ -6,4 +6,4 @@ But [[coarse discretization]] loses resolution
 & [[fine discretization]] requires a lot of data
 
 There exists [[Regression]] versions of [[classification]] methods:
-1. [[Regression]] trees, [[Probabilistic Model]], non-[[parameters]] models
+1. [[Regression Trees]], [[Probabilistic Model]], non-[[parameters]] models
