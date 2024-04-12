@@ -14,6 +14,6 @@
 If we instead invested 10% pa instead
 ![[Pasted image 20240302150419.png]]
 ![[Pasted image 20240302150444.png]]
-Same Principal, Same Time Period but different [[Interest rates (r)]]
+Same [[Principal]], Same Time Period but different [[Interest rates (r)]]
 
 Related to: [[Future Value (FV)]]

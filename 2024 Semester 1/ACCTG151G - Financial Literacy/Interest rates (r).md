@@ -13,7 +13,7 @@
 			 - Buying $1,000 for $900
 	2. Other investments offer direct payment of interest to a 'savings' account
 		- if you put into savings $\rightarrow$ you give up [[compound interest]]
-	3. Still others allow for interest to be added to the principal balance in the savings account
+	3. Still others allow for interest to be added to the [[principal]] balance in the savings account
 
 ### How is interest calculated?
 - [[Nominal rate]]
@@ -30,7 +30,7 @@ The amount of interest earned depends on:
 - Frequency of [[compounding]]
 	- More frequent [[compounding]] = More [[compound interest]]
 - Balance on which interest is paid
-	- Large principal = More [[compound interest]]
+	- Large [[principal]] = More [[compound interest]]
 - [[Interest rates (r)]] applied
 	- Higher APR = Higher EAR ([[compound interest]])
 

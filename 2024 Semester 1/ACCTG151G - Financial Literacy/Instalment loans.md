@@ -1,5 +1,5 @@
 - related to payments per month
 
 1. Repaid in a series of equal payments (scheduled overtime $\rightarrow$ payments are equal)
-2. Each payment is part principal & part interest (P & I).
-3. Maturities
+2. Each payment is part [[principal]] & part interest (P & I).
+3. Maturities generally range from 6 months to 6

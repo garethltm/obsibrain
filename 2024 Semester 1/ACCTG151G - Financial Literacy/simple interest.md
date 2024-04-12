@@ -1,13 +1,13 @@
 - without [[compounding]]
-	- we don't consider interest
+	- we don't consider [[Interest rates (r)]]
 
 #acctg151Gexample
-$1000 = principal (your own money)
-10% is the fixed proportion of the principal
-- your principal would be fixed = [[Fixed Interest Rates]]
+$1000 = [[principal]] (your own money)
+10% is the fixed proportion of the [[principal]]
+- your [[principal]] would be fixed = [[Fixed Interest Rates]]
 
 $1000 @ 10% pa for 40 years
-= Principal + (Interest $\times$ Periods)
+= [[Principal]] + ([[Interest rates (r)]] $\times$ Periods)
 = $1000 + (100 $\times$ 40)
 = $1000 + $4000
 = $5000
