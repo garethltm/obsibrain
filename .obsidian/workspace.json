@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Monetary Policy - Reserve Bank.md",
+                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Official Cash Rate (OCR).md",
                 "mode": "source",
                 "source": false
               }
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Monetary Policy - Reserve Bank.md",
+                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Official Cash Rate (OCR).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Monetary Policy - Reserve Bank.md",
+                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Official Cash Rate (OCR).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Monetary Policy - Reserve Bank.md"
+                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Official Cash Rate (OCR).md"
               }
             }
           },
@@ -156,7 +155,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Monetary Policy - Reserve Bank.md"
+                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Official Cash Rate (OCR).md"
               }
             }
           },
@@ -189,6 +188,8 @@
   },
   "active": "bdc2fbdac3071328",
   "lastOpenFiles": [
+    "2024 Semester 1/ACCTG151G - Financial Literacy/Monetary Policy - Reserve Bank.md",
+    "2024 Semester 1/ACCTG151G - Financial Literacy/Official Cash Rate (OCR).md",
     "2024 Semester 1/ACCTG151G - Financial Literacy/Rental vs Buying.md",
     "2024 Semester 1/ACCTG151G - Financial Literacy/Renting.md",
     "2024 Semester 1/ACCTG151G - Financial Literacy/Buying.md",
@@ -219,8 +220,6 @@
     "2024 Semester 1/ACCTG151G - Financial Literacy/Present Value (PV) Interest Factor of an Annuity.md",
     "@images/Pasted image 20240412224048.png",
     "2024 Semester 1/ACCTG151G - Financial Literacy/Present Value (PV) of an Annuity.md",
-    "2024 Semester 1/ACCTG151G - Financial Literacy/Variable Interest Rates.md",
-    "2024 Semester 1/ACCTG151G - Financial Literacy/timeline.md",
     "@images/Pasted image 20240412171607.png",
     "@images/Pasted image 20240412171451.png",
     "@images/Pasted image 20240412171212.png",
