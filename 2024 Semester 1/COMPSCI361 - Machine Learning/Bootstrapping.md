@@ -25,4 +25,6 @@ You make a new deck of cards from that 52 samples (bootstrap sample)
 
 ## 0.632 Bootstrapping
 - called this because it is a probability of an instance in a sample
-Probability of an arbitrary $x\tiny {i}
+
+Probability of an arbitrary $\huge x\tiny {i}$ being selected in a bootstrap sample
+![[Pasted image 20240412161759.png]]
