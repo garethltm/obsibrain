@@ -11,4 +11,8 @@
 1. Fit a [[classifier(s)]] on the [[training data]] (more likely to underfit - [[Decision Stumps]] which will make mistakes)
 2. Give a higher weight to examples that the [[classifier(s)]] got wrong - higher weight such as duplicating
 3. Fit a [[classifier(s)]] on the weighted [[training data]]
-4. Go back to Step (2)
+4. Go back to Step (2) - Weight gets exponentially larger each time you are wrong
+Final prediction: weighted vote of individual [[classifier(s)]] predictions
+- Trees with higher (weighted) accuracy get higher weight
+
+Idea: giving these examples that are wrong with higher weigh
