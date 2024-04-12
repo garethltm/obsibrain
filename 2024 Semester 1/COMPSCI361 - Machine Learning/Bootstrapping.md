@@ -20,4 +20,5 @@ You make a new deck of cards from that 52 samples (bootstrap sample)
 ### Bootstrap sample of a list of n examples
 - A new set of size n chosen independently with replacement![[Pasted image 20240412160921.png]]
 - Gives new dataset of n examples, with some duplicated & some missing
-	- for large n, approxiamately 
+	- for large n, approximately 63% of original examples are included (see next slide)
+- [[Bagging]]
