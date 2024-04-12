@@ -8,4 +8,7 @@
 - Easy to modify stumps/trees to use weighted accuracy as score (because it is unlikely to overfit)
 
 ## Overview of [[AdaBoost]]
-1. Fit a [[classifier(s)]] on the [[training data]] (more likely to underfit - [[Decision Stumps]] which will make m)
+1. Fit a [[classifier(s)]] on the [[training data]] (more likely to underfit - [[Decision Stumps]] which will make mistakes)
+2. Give a higher weight to examples that the [[classifier(s)]] got wrong - higher weight such as duplicating
+3. Fit a [[classifier(s)]] on the weighted [[training data]]
+4. Go back to Step (2)
