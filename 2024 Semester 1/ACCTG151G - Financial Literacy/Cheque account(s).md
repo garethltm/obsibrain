@@ -9,7 +9,7 @@
 1. Regular [[Cheque account(s)]]
 	- Offered by [[Banks (Commercial Banks)]]
 	- Pay no [[Interest rates (r)]]
-2. Interest-bearing [[Cheque account(s)]] (Pay [[intere]])
+2. Interest-bearing [[Cheque account(s)]] (Pay [[Interest rates (r)]])
 	1. Offered by range of financial institutions including [[Banks (Commercial Banks)]] & [[Credit Unions]]
 	2. Generally require minimum balances to be maintained
 
