@@ -11,4 +11,6 @@
 	- [[Building Societies]]
 	- [[Credit Unions]]
 	- [[Mortgage brokers]]
-2. Inves
+2. Investigate different types of loans & payment options
+	- Construction (buying a bond)
+	- Fixed rate vs Floating rate
