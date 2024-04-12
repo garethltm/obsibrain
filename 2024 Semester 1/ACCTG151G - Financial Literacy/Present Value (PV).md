@@ -14,4 +14,6 @@ $PV = \frac {FV\tiny {n}}{(1+r)^n}$
 $PV = \frac {\$5,000}{(1+0.10)^2}$
 $PV = \$4,132.23$
 [[Present Value (PV)]] of an [[Annuity]]
-We've considered the [[Future Value (FV)]] of an [[Annuity]] (the target or end-result of a regular savings program) but sometimes we need to consider the [[Present Value (PV)]] 
+We've considered the [[Future Value (FV)]] of an [[Annuity]] (the target or end-result of a regular savings program) but sometimes we need to consider the [[Present Value (PV)]] of a future stream of payments.
+
+This is the case when we look at paying off a loan (the amount of money we borrow today is the [[Present Value (PV)]] & [[Future Value (FV)]] is of course $0) 
