@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Mortgage.md",
+                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Cheque account(s).md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "official",
+                "query": "bank",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Mortgage.md",
+                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Cheque account(s).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Mortgage.md",
+                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Cheque account(s).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Mortgage.md"
+                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Cheque account(s).md"
               }
             }
           },
@@ -155,7 +156,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Mortgage.md"
+                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Cheque account(s).md"
               }
             }
           },
@@ -188,9 +189,12 @@
   },
   "active": "bdc2fbdac3071328",
   "lastOpenFiles": [
+    "2024 Semester 1/ACCTG151G - Financial Literacy/Cash Management.md",
+    "2024 Semester 1/ACCTG151G - Financial Literacy/Budget.md",
+    "2024 Semester 1/ACCTG151G - Financial Literacy/Banks (Commercial Banks).md",
+    "2024 Semester 1/ACCTG151G - Financial Literacy/Mortgage.md",
     "2024 Semester 1/ACCTG151G - Financial Literacy/The home-buying process.md",
     "2024 Semester 1/ACCTG151G - Financial Literacy/Meeting housing needs.md",
-    "2024 Semester 1/ACCTG151G - Financial Literacy/Mortgage.md",
     "2024 Semester 1/ACCTG151G - Financial Literacy/Reverse Equity.md",
     "2024 Semester 1/ACCTG151G - Financial Literacy/Floating loan rate.md",
     "2024 Semester 1/ACCTG151G - Financial Literacy/Fixed loan rate.md",
@@ -199,7 +203,6 @@
     "@images/Pasted image 20240412233715.png",
     "2024 Semester 1/ACCTG151G - Financial Literacy/Rental vs Buying.md",
     "2024 Semester 1/ACCTG151G - Financial Literacy/Buying.md",
-    "2024 Semester 1/ACCTG151G - Financial Literacy/Banks (Commercial Banks).md",
     "2024 Semester 1/ACCTG151G - Financial Literacy/Variable Interest Rates.md",
     "2024 Semester 1/ACCTG151G - Financial Literacy/Official Cash Rate (OCR).md",
     "2024 Semester 1/ACCTG151G - Financial Literacy/Monetary Policy - Reserve Bank.md",
@@ -218,8 +221,6 @@
     "2024 Semester 1/ACCTG151G - Financial Literacy/principal.md",
     "2024 Semester 1/ACCTG151G - Financial Literacy/Future Value Interest Factor (FVIF).md",
     "2023 Semester 2/COMPSCI235 - Software Development Methodologies/Repository.md",
-    "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week01/Scientific goal.md",
-    "2023 Semester 2/COMPSCI235 - Software Development Methodologies/Scrum Master.md",
     "@images/Pasted image 20240412224048.png",
     "@images/Pasted image 20240412171607.png",
     "@images/Pasted image 20240412171451.png",

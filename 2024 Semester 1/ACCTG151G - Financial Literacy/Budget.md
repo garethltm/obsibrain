@@ -41,7 +41,7 @@ Surpluses are what we use to save for the future
 3. Use savings or investments to cover temporary deficits
 	- but try to make sure you replace the saving when the temporary cash-flow deficits is over
 4. Use short-term borrowing to cover temporary deficits
-	- borrowing from banks
+	- borrowing from [[Banks (Commercial Banks)]]
 
 ## What should you do if you end the year in a deficit
 1. Liquidate savings/investments

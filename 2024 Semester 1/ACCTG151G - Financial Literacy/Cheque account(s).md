@@ -7,9 +7,9 @@
 
 ## Types of [[Cheque account(s)]]
 1. Regular [[Cheque account(s)]]
-	- Offered by banks
-	- Pay no interest
-2. Interest-bearing [[Cheque account(s)]] (Pay interest)
+	- Offered by [[Banks (Commercial Banks)]]
+	- Pay no [[Interest rates (r)]]
+2. Interest-bearing [[Cheque account(s)]] (Pay [[intere]])
 	1. Offered by range of financial institutions including [[Banks (Commercial Banks)]] & [[Credit Unions]]
 	2. Generally require minimum balances to be maintained
 

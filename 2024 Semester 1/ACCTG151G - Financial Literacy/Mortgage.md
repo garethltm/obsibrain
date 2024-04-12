@@ -1,1 +1,1 @@
-borrow from [[co]]
+borrow from [[Banks (Commercial Banks)]]
