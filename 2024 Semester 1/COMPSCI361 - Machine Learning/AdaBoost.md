@@ -18,3 +18,4 @@ Final prediction: weighted vote of individual [[classifier(s)]] predictions
 ## Main idea
 giving these examples that are wrong with higher weightage to allow the [[classifier(s)]] to pay more attention to
 - in a way it is still sort of [[overfit(ting)]] in some way - getting better on the [[training data]]
+
