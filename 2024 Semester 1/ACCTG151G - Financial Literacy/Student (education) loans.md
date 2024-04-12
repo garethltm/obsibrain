@@ -13,7 +13,7 @@
 - If you contact IRD about this & make a plan, this rate will be reduced to 5.5% p.a (0.447% per month)
 
 ### Don't leave your loan
-- Your principal will grow over time & interest will be added to your principle
+- Your principal will grow over time & interest will be added to your principal
 
 #acctg151Gexample Let's say you have a $25,000 student loan & you leave NZ & don't pay your loan off (ignoring daily [[compounding]]).
 
