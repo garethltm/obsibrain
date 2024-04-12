@@ -5,7 +5,7 @@
 
 ### How can we fit a [[Regression Trees]]?
 ###### Simple approach:
-1. Predict: at each leaf, predict the mean of the training $\huge {y}\tiny {i}$ assigned to the leaf (the leaf (mode) is the prediction)
+1. [[Boosted Regression Trees - Prediction]]: at each leaf, predict the mean of the training $\huge {y}\tiny {i}$ assigned to the leaf (the leaf (mode) is the prediction)
 	- Weight $\huge {w}\tiny {L}$ at leaf L is set to mean($\huge {y}\tiny {i}$) among $\huge {y}\tiny {i}$ at the lead node
 2. Train: set the $\huge {w}\tiny {L}$ values by minimizing the squared error ([[Linear Regression]])
 $$f(\huge {w}\tiny{1}\normalsize ,\huge {w}\tiny{2}\normalsize ,...)=\displaystyle\sum_{i=1}^n (\huge {w}\tiny{Li}\normalsize - \huge{y}\tiny{i}\normalsize )^2$$
