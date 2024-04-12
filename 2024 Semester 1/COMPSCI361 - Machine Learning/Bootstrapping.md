@@ -22,3 +22,7 @@ You make a new deck of cards from that 52 samples (bootstrap sample)
 - Gives new dataset of n examples, with some duplicated & some missing
 	- for large n, approximately 63% of original examples are included (see next slide)
 - [[Bagging]]
+
+## 0.632 Bootstrapping
+- called this because it is a probability of an instance in a sample
+Probability of an arbitrary $x\tiny {i}
