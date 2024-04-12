@@ -16,3 +16,7 @@ You make a new deck of cards from that 52 samples (bootstrap sample)
 #### Common use
 - compute a statistic based on several bootstrap samples (not necessarily all 52 cards but just a part of it)
 	- gives you an idea of how the statistic varies as you vary the data (you get different samples of the same dataset)
+
+### Bootstrap sample of a list of n examples
+- A new set of size n chosen independently with replacement
+- 
