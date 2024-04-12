@@ -1,4 +1,4 @@
-1. Pre-qualify & apply for a mortgage (borrow from bank)
+1. Pre-qualify & apply for a [[mortgage]]
 2. Present a sales contract & a deposit
 3. Go through the settlement process (usually handled by your solicitor - must have)
 	- Title check necessary to make sure property title is [[lien]]-free
@@ -6,7 +6,7 @@
 - [[Buying]]
 
 ## Financing the transaction
-1. Shop around & compare various lenders for mortgage finance
+1. Shop around & compare various lenders for [[mortgage]] finance
 	- [[Banks (Commercial Banks)]]
 	- [[Building Societies]]
 	- [[Credit Unions]]
