@@ -14,3 +14,5 @@
 2. Investigate different types of loans & payment options
 	- Construction (buying a bond)
 	- [[Fixed loan rate]] vs [[Floating loan rate]]
+	- Repayment alternatives vs. Interest-only
+	- [[Reverse Equity]]

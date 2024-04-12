@@ -1,0 +1,1 @@
+fluctuates over duration of the loan
