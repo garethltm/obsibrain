@@ -25,6 +25,6 @@ giving these examples that are wrong with higher weightage to allow the [[classi
 
 ## Base [[classifier(s)]] that don't work
 - Deep [[Decision Tree(s)]] (no errors to boost) - if you don't get errors, nothing will improve
-- [[Decision Stumps]] with infogain (does not guarantee > 50% weighted accuracy)
+- [[Decision Stumps]] with infogain (does not guarantee > 50% weighted accuracy - because oh having clean splits into positive class & negative class. If you instead took accuracy as a splitting criterion $\rightarrow$ can guarantee good accuracy)
 - Weighted logistic [[Regression]] (does not guarantee > 50% weighted accuracy)
 - 
