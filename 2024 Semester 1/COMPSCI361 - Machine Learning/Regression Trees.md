@@ -9,3 +9,6 @@
 	- Weight $\huge {w}\tiny {L}$ at leaf L is set to mean($\huge {y}\tiny {i}$) among $\huge {y}\tiny {i}$ at the lead node
 2. Train: set the $\huge {w}\tiny {L}$ values by minimizing the squared error ([[Linear Regression]])
 $$f(\huge {w}\tiny{1}\normalsize ,\huge {w}\tiny{2}\normalsize ,...)=\displaystyle\sum_{i=1}^n (\huge {w}\tiny{Li}\normalsize - \huge{y}\tiny{i}\normalsize )^2$$
+- Same speed as fitting [[Decision Tree(s)]] from earlier in the semester
+	- Use mean instead of mode, & use squared error instead of accuracy/infogain (in relation to [[AdaBoost]] )
+- Use greedy strategy for growing tree
