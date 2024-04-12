@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#acctg151Gformula",
+                "query": "principle",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -186,7 +187,7 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "1699f5e414c0af01",
+  "active": "a6e0090ac9cbd1f3",
   "lastOpenFiles": [
     "2024 Semester 1/ACCTG151G - Financial Literacy/Keep track of you Credit.md",
     "2024 Semester 1/ACCTG151G - Financial Literacy/Instalment loans.md",
