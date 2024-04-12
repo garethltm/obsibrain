@@ -4,4 +4,5 @@
 - is simple enough that it does not overfit much (moving from underfit towards overfit)
 - Can obtain > 50% weighted accuracy on any dataset (need at least 50% accuracy otherwise it's not really improving)
 
-#
+#compsci361example [[Decision Stumps]] or low-depth [[Decision Tree(s)]]
+- Easy to modify stumps/trees to use weighted accuracy as score (because it is unlikely to overfit)
