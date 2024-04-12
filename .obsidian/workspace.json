@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Rental vs Buying.md",
+                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Monetary Policy - Reserve Bank.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "apr",
+                "query": "official",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Rental vs Buying.md",
+                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Monetary Policy - Reserve Bank.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Rental vs Buying.md",
+                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Monetary Policy - Reserve Bank.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Rental vs Buying.md"
+                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Monetary Policy - Reserve Bank.md"
               }
             }
           },
@@ -155,7 +156,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Rental vs Buying.md"
+                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Monetary Policy - Reserve Bank.md"
               }
             }
           },
@@ -188,8 +189,8 @@
   },
   "active": "bdc2fbdac3071328",
   "lastOpenFiles": [
-    "2024 Semester 1/ACCTG151G - Financial Literacy/Renting.md",
     "2024 Semester 1/ACCTG151G - Financial Literacy/Rental vs Buying.md",
+    "2024 Semester 1/ACCTG151G - Financial Literacy/Renting.md",
     "2024 Semester 1/ACCTG151G - Financial Literacy/Buying.md",
     "2024 Semester 1/ACCTG151G - Financial Literacy/Instalment loans.md",
     "2024 Semester 1/ACCTG151G - Financial Literacy/Student (education) loans.md",
