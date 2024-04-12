@@ -4,4 +4,4 @@ Consider an [[Ensemble(s)]] of [[Regression Trees]]
 [[eXtreme Gradient Boost (XGBoost)]], final prediction is the sum of individual predictions![[Pasted image 20240412171212.png]]
 
 We are not using the mean as we would with [[Random Forests]]
-
+- In [[Boosting]], each tree is not individually trying to predict the true $\huge {y}\tiny {i}$ value (we assume they underfi)
