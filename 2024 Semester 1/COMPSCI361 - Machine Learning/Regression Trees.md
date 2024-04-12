@@ -8,3 +8,4 @@
 1. Predict: at each leaf, predict the mean of the training $\huge {y}\tiny {i}$ assigned to the leaf (the leaf (mode) is the prediction)
 	- Weight $\huge {w}\tiny {L}$ at leaf L is set to mean($\huge {y}\tiny {i}$) among $\huge {y}\tiny {i}$ at the lead node
 2. Train: set the $\huge {w}\tiny {L}$ values by minimizing the squared error ([[Linear Regression]])
+$$f(w\tiny{1}$$
