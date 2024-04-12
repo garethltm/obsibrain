@@ -18,4 +18,4 @@ We've considered the [[Future Value (FV)]] of an [[Annuity]] (the target or end-
 
 This is the case when we look at paying off a loan (the amount of money we borrow today is the [[Present Value (PV)]] & [[Future Value (FV)]] is of course $0) and is simply the sum of [[Present Value (PV)]] of all the future [[Annuity]] cash-flows:
 
-$PV = \frac {CF\tiny {1}}{(1+r)^1} + \frac {CF\tiny {2}}{(1+r)^2} +$
+$PV = \frac {CF\tiny {1}}{(1+r)^1} + \frac {CF\tiny {2}}{(1+r)^2} +\frac {CF\tiny {3}}{(1+r)^3}+...+\frac {CF\tiny {2}}{(1+r)^2} +$
