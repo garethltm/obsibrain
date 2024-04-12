@@ -1,14 +1,13 @@
 - refers to a subset of [[current asset]]
 - Different texts arbitrarily set different time-periods to this.
-- we will define a [[liquid asset]] as 1 which is expected to be turned into cash within 1 week
-- For Mary this would probably be the bank & wages but not the [[term deposit(s)]]
+- we will define a [[liquid asset]] as one which is expected to be turned into cash within 1 week
 
 #acctg151Gexample 
 - Cash
 - [[Cheque account(s)]]
 	- Cannot pay you interest
 - Savings Accounts
-	- Can pay you interest
+	- Can pay you [[interst]]
 - Very short [[term deposit(s)]]
 	- IF you have 5 days remaining on your [[term deposit(s)]] THEN it can be considered as [[liquid asset]] (approaching maturity)
 
