@@ -11,4 +11,5 @@ becomes
 How much money would you need to place on deposit today so that you had exactly $5,000 in 2 years if deposit rates are 10% p.a?
 
 $PV = \frac {FV\tiny {n}}{(1+r)^n}$
-$\frac {FV\tiny {n}}{(1+r)^n}$
+$PV = \frac {\$5,000}{(1+0.10)^2}$
+$\$4,132.23$
