@@ -32,7 +32,7 @@ The amount of interest earned depends on:
 - Balance on which interest is paid
 	- Large [[principal]] = More [[compound interest]]
 - [[Interest rates (r)]] applied
-	- Higher APR = Higher EAR ([[compound interest]])
+	- Higher [[Annual Percentage Rate (APR)]] = Higher EAR ([[compound interest]])
 
 ### Time Line
 ![[Pasted image 20240330210823.png]]

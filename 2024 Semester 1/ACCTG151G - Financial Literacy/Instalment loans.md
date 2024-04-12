@@ -9,7 +9,9 @@
 6. Carefully examine the contract - it contains the terms of the loan
 7. Finance charges include not only [[Interest rates (r)]] but also any other required charges
 8. Total charges are use to calculate [[Annual Percentage Rate (APR)]]
-
+9. Prepayment penalties
+10. Life & disability insurance requirements
+11. Buy ob-time payment
 ## Calculating finance charges on [[Instalment loans]]
 #acctg151Gexample ![[Pasted image 20240412231515.png]]![[Pasted image 20240412231544.png]]![[Pasted image 20240412231720.png]]
 
