@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "9b25dba6321165c0",
+        "id": "439595a676db1b3f",
         "type": "tabs",
         "children": [
           {
-            "id": "cbb5d4b6c2221814",
+            "id": "1699f5e414c0af01",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Time value of money (TVM).md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Time value of money (TVM).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Time value of money (TVM).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Time value of money (TVM).md"
-              }
+              "state": {}
             }
           },
           {
@@ -154,9 +146,7 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Time value of money (TVM).md"
-              }
+              "state": {}
             }
           },
           {
@@ -186,8 +176,14 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "cbb5d4b6c2221814",
+  "active": "1699f5e414c0af01",
   "lastOpenFiles": [
+    "2024 Semester 1/ACCTG151G - Financial Literacy/Present Value (PV) Interest Factor of an Annuity.md",
+    "@images/Pasted image 20240412224048.png",
+    "2024 Semester 1/ACCTG151G - Financial Literacy/Present Value (PV) of an Annuity.md",
+    "2024 Semester 1/ACCTG151G - Financial Literacy/Variable Interest Rates.md",
+    "2024 Semester 1/ACCTG151G - Financial Literacy/timeline.md",
+    "2024 Semester 1/ACCTG151G - Financial Literacy/Time value of money (TVM).md",
     "2024 Semester 1/ACCTG151G - Financial Literacy/The purchase transaction.md",
     "2024 Semester 1/ACCTG151G - Financial Literacy/The financial planning process.md",
     "2024 Semester 1/ACCTG151G - Financial Literacy/term deposit(s).md",
@@ -202,18 +198,12 @@
     "2024 Semester 1/ACCTG151G - Financial Literacy/Average propensity to consume (APC).md",
     "2024 Semester 1/ACCTG151G - Financial Literacy/Revenue statement.md",
     "2024 Semester 1/ACCTG151G - Financial Literacy/Reserve Bank.md",
-    "2024 Semester 1/ACCTG151G - Financial Literacy/Present Value (PV) of an Annuity.md",
-    "2024 Semester 1/ACCTG151G - Financial Literacy/Present Value (PV) Interest Factor of an Annuity.md",
     "2024 Semester 1/ACCTG151G - Financial Literacy/Present Value (PV).md",
     "2024 Semester 1/ACCTG151G - Financial Literacy/Personal financial planning (personal finance).md",
     "2024 Semester 1/ACCTG151G - Financial Literacy/Personal financial plan.md",
     "2024 Semester 1/ACCTG151G - Financial Literacy/ordinary annuity.md",
     "2024 Semester 1/ACCTG151G - Financial Literacy/on-call.md",
     "2024 Semester 1/ACCTG151G - Financial Literacy/Non-depository institutions.md",
-    "2024 Semester 1/ACCTG151G - Financial Literacy/Nominal rate.md",
-    "2024 Semester 1/ACCTG151G - Financial Literacy/Network of financial plans & statements.md",
-    "2024 Semester 1/ACCTG151G - Financial Literacy/net worth (equity).md",
-    "2024 Semester 1/ACCTG151G - Financial Literacy/money (the measure).md",
     "@images/Pasted image 20240412171607.png",
     "@images/Pasted image 20240412171451.png",
     "@images/Pasted image 20240412171212.png",
@@ -223,7 +213,6 @@
     "@images/Pasted image 20240412162111.png",
     "@images/Pasted image 20240412161759.png",
     "@images/Pasted image 20240412160921.png",
-    "@images/Pasted image 20240411231824.png",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Untitled",
     "2024 Semester 1",
     "2023 Semester 2",
