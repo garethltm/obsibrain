@@ -5,4 +5,7 @@
 3. Maturities generally range from 6 months to 60 months
 4. Usually requires [[collateral security]]
 5. The instalments are calculated as CFs in our [[Annuity]] formula:
-	#
+	#acctg151Gformula ![[Pasted image 20240412231413.png]]
+
+## Calculating finance charges on [[Instalment loans]]
+#acctg151Gexample 
