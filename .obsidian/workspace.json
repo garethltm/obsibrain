@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Boosted Regression Trees - Prediction.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Boosted Regression Trees - Training.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Boosted Regression Trees - Prediction.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Boosted Regression Trees - Training.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Boosted Regression Trees - Prediction.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Boosted Regression Trees - Training.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Boosted Regression Trees - Prediction.md"
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Boosted Regression Trees - Training.md"
               }
             }
           },
@@ -171,11 +171,12 @@
   },
   "active": "903751d739bb7cdf",
   "lastOpenFiles": [
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Regression Trees.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Boosted Regression Trees - Training.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Boosted Regression Trees - Prediction.md",
     "@images/Pasted image 20240412171451.png",
     "@images/Pasted image 20240412171212.png",
     "@images/Pasted image 20240412171141.png",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Regression Trees.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Boosted Regression Trees - Prediction.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/AdaBoost.md",
     "@images/Pasted image 20240412165234.png",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Handling Numerical Labels.md",
@@ -206,7 +207,6 @@
     "2024 Semester 1/COMPSCI361 - Machine Learning/Averaging.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Ensemble(s).md",
     "@images/Pasted image 20240411162631.png",
-    "@images/Pasted image 20240411162311.png",
     "2024 Semester 1",
     "2023 Semester 2",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture",
