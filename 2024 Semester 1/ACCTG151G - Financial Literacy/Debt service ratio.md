@@ -1,5 +1,6 @@
 - Indicates the ability to repay loan obligations promptly with after-tax income
 
+#acctg151Gformula
 $\frac {Total\ monthly\ loan\ payments}{Monthly\ income}$
 - This is not done annually
 

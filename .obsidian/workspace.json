@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Liquidity ratio.md",
+                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Debt service ratio.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Liquidity ratio.md",
+                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Debt service ratio.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Liquidity ratio.md",
+                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Debt service ratio.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Liquidity ratio.md"
+                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Debt service ratio.md"
               }
             }
           },
@@ -155,7 +155,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Liquidity ratio.md"
+                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Debt service ratio.md"
               }
             }
           },
@@ -188,6 +188,20 @@
   },
   "active": "cbb5d4b6c2221814",
   "lastOpenFiles": [
+    "2024 Semester 1/ACCTG151G - Financial Literacy/current liability.md",
+    "2024 Semester 1/ACCTG151G - Financial Literacy/current.md",
+    "2024 Semester 1/ACCTG151G - Financial Literacy/Credit Unions.md",
+    "2024 Semester 1/ACCTG151G - Financial Literacy/Consumer loan(s).md",
+    "2024 Semester 1/ACCTG151G - Financial Literacy/compounding.md",
+    "2024 Semester 1/ACCTG151G - Financial Literacy/compound interest.md",
+    "2024 Semester 1/ACCTG151G - Financial Literacy/collateral security.md",
+    "2024 Semester 1/ACCTG151G - Financial Literacy/Cheque account(s).md",
+    "2024 Semester 1/ACCTG151G - Financial Literacy/Cash Management.md",
+    "2024 Semester 1/ACCTG151G - Financial Literacy/Buying consumer durables.md",
+    "2024 Semester 1/ACCTG151G - Financial Literacy/Building Societies.md",
+    "2024 Semester 1/ACCTG151G - Financial Literacy/Budget.md",
+    "2024 Semester 1/ACCTG151G - Financial Literacy/Banks (Commercial Banks).md",
+    "2024 Semester 1/ACCTG151G - Financial Literacy/Liquidity ratio.md",
     "2024 Semester 1/ACCTG151G - Financial Literacy/Balance sheet.md",
     "2024 Semester 1/ACCTG151G - Financial Literacy/Solvency ratio.md",
     "2024 Semester 1/ACCTG151G - Financial Literacy/Average propensity to consume (APC).md",
@@ -200,20 +214,6 @@
     "2024 Semester 1/ACCTG151G - Financial Literacy/Present Value (PV) Interest Factor of an Annuity.md",
     "2024 Semester 1/ACCTG151G - Financial Literacy/Present Value (PV) of an Annuity.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Regression Trees.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/eXtreme Gradient Boost (XGBoost).md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Random Forests.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Random Tree(s).md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Minimizing a Differential Equation.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/gradient boosting.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Golden Rule of Machine Learning.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Fundamental Trade-Off.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/fine discretization.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/classification accuracy.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Classification.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Bootstrapping.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Boosting.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Boosted Regression Trees - Prediction.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/AdaBoost.md",
     "@images/Pasted image 20240412171607.png",
     "@images/Pasted image 20240412171451.png",
     "@images/Pasted image 20240412171212.png",
