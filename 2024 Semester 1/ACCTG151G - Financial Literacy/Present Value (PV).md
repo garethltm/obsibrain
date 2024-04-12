@@ -14,5 +14,4 @@ $PV = \frac {FV\tiny {n}}{(1+r)^n}$
 $PV = \frac {\$5,000}{(1+0.10)^2}$
 $PV = \$4,132.23$
 - [[Present Value (PV) of an Annuity]]
-
-## [[Present Value (PV)]] 
+- [[Present Value (PV) Interest Factor of an Annuity]]
