@@ -5,4 +5,5 @@
 
 ### How can we fit a [[Regression Trees]]?
 ###### Simple approach:
-1. Predict: at each leaf, predict the mean of the training $\huge {y}\tiny {i}$ assigned to the leaf (the leaf ())
+1. Predict: at each leaf, predict the mean of the training $\huge {y}\tiny {i}$ assigned to the leaf (the leaf (mode) is the prediction)
+	- Weight $\huge {w}\tiny {L}$ at leaf L is set to 
