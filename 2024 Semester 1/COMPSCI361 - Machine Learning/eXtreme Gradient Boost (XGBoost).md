@@ -5,4 +5,4 @@
 - Has been part of many recent winners of Kaggle competitions
 
 As base [[classifier(s)]], [[eXtreme Gradient Boost (XGBoost)]] uses regularized [[Regression]] trees
-- they don't predict class but predi
+- they don't predict class but predict some numeric value at the end
