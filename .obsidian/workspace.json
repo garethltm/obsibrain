@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Handling Numerical Labels.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Regression Trees.md",
                 "mode": "source",
                 "source": false
               }
@@ -65,7 +65,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Handling Numerical Labels.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Regression Trees.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Handling Numerical Labels.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Regression Trees.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Handling Numerical Labels.md"
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Regression Trees.md"
               }
             }
           },
@@ -170,6 +171,7 @@
   },
   "active": "903751d739bb7cdf",
   "lastOpenFiles": [
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Handling Numerical Labels.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/eXtreme Gradient Boost (XGBoost).md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Regression Trees.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Regression.md",
@@ -202,7 +204,6 @@
     "@images/Pasted image 20240411162631.png",
     "@images/Pasted image 20240411162311.png",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Simple model averaging.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Stacking.md",
     "@images/Pasted image 20240411161902.png",
     "@images/Pasted image 20240411161715.png",
     "@images/Pasted image 20240411161545.png",
