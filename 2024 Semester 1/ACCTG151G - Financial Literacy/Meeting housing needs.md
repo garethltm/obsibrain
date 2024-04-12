@@ -9,4 +9,8 @@
 3. Acts as inflation hedge
 
 ## Apartment
-- You don't own the 
+- You don't own the land
+- Can be a flat, townhouse, or other building unit group title development
+- Buyer receives title to an individual unit & jointly owns common areas
+- Owner usually pays monthly body corporate fee in addition to mortgage payments
+- Generally costs less than single family home
