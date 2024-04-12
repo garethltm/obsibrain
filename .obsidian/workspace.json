@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "4f49c342fc17e03c",
+        "id": "439595a676db1b3f",
         "type": "tabs",
         "children": [
           {
-            "id": "903751d739bb7cdf",
+            "id": "1699f5e414c0af01",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/ROC Curves.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Regularized Regression Trees.md",
                 "mode": "source",
                 "source": false
               }
@@ -33,17 +33,27 @@
         "type": "tabs",
         "children": [
           {
+            "id": "3ad179677b7fba41",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
             "id": "a6e0090ac9cbd1f3",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "true positi",
+                "query": "tag:#acctg151Gformula",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
-                "sortOrder": "byModifiedTime"
+                "sortOrder": "alphabetical"
               }
             }
           },
@@ -54,22 +64,12 @@
               "type": "bookmarks",
               "state": {}
             }
-          },
-          {
-            "id": "295ff167151fc12a",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {
-                "sortOrder": "alphabetical"
-              }
-            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 276.5
   },
   "right": {
     "id": "29204b37fc003a9a",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/ROC Curves.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Regularized Regression Trees.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/ROC Curves.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Regularized Regression Trees.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/ROC Curves.md"
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Regularized Regression Trees.md"
               }
             }
           },
@@ -142,19 +142,37 @@
             }
           },
           {
-            "id": "6875e9b8ebc23add",
+            "id": "2e4c1b8f3e56d2af",
             "type": "leaf",
             "state": {
               "type": "review-queue-list-view",
               "state": {}
             }
+          },
+          {
+            "id": "f6eacc6fe3f53242",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Regularized Regression Trees.md"
+              }
+            }
+          },
+          {
+            "id": "0f8e0230b587650a",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 347.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -168,44 +186,45 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "903751d739bb7cdf",
+  "active": "1699f5e414c0af01",
   "lastOpenFiles": [
-    "@images/Pasted image 20240412224048.png",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Regularized Regression Trees.md",
-    "2024 Semester 1/ACCTG151G - Financial Literacy/Present Value (PV) of an Annuity.md",
-    "2024 Semester 1/ACCTG151G - Financial Literacy/Present Value (PV) Interest Factor of an Annuity.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/AdaBoost.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Boosted Regression Trees - Training.md",
-    "@images/Pasted image 20240412171607.png",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Regression Trees.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Boosted Regression Trees - Prediction.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Regularized Regression Trees.md",
+    "2024 Semester 1/ACCTG151G - Financial Literacy/Present Value (PV) Interest Factor of an Annuity.md",
+    "@images/Pasted image 20240412224048.png",
+    "2024 Semester 1/ACCTG151G - Financial Literacy/Present Value (PV) of an Annuity.md",
+    "2024 Semester 1/ACCTG151G - Financial Literacy/Variable Interest Rates.md",
+    "2024 Semester 1/ACCTG151G - Financial Literacy/timeline.md",
+    "2024 Semester 1/ACCTG151G - Financial Literacy/Time value of money (TVM).md",
+    "2024 Semester 1/ACCTG151G - Financial Literacy/The purchase transaction.md",
+    "2024 Semester 1/ACCTG151G - Financial Literacy/The financial planning process.md",
+    "2024 Semester 1/ACCTG151G - Financial Literacy/term deposit(s).md",
+    "2024 Semester 1/ACCTG151G - Financial Literacy/Student (education) loans.md",
+    "2024 Semester 1/ACCTG151G - Financial Literacy/Statement of Financial Performance.md",
+    "2024 Semester 1/ACCTG151G - Financial Literacy/Statement of Financial Position.md",
+    "2024 Semester 1/ACCTG151G - Financial Literacy/Solvency ratio.md",
+    "2024 Semester 1/ACCTG151G - Financial Literacy/solvency.md",
+    "2024 Semester 1/ACCTG151G - Financial Literacy/Single sum.md",
+    "2024 Semester 1/ACCTG151G - Financial Literacy/simple interest.md",
+    "2024 Semester 1/ACCTG151G - Financial Literacy/Savings ratio.md",
+    "2024 Semester 1/ACCTG151G - Financial Literacy/Average propensity to consume (APC).md",
+    "2024 Semester 1/ACCTG151G - Financial Literacy/Revenue statement.md",
+    "2024 Semester 1/ACCTG151G - Financial Literacy/Reserve Bank.md",
+    "2024 Semester 1/ACCTG151G - Financial Literacy/Present Value (PV).md",
+    "2024 Semester 1/ACCTG151G - Financial Literacy/Personal financial planning (personal finance).md",
+    "2024 Semester 1/ACCTG151G - Financial Literacy/Personal financial plan.md",
+    "2024 Semester 1/ACCTG151G - Financial Literacy/ordinary annuity.md",
+    "2024 Semester 1/ACCTG151G - Financial Literacy/on-call.md",
+    "@images/Pasted image 20240412171607.png",
     "@images/Pasted image 20240412171451.png",
     "@images/Pasted image 20240412171212.png",
     "@images/Pasted image 20240412171141.png",
     "@images/Pasted image 20240412165234.png",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Handling Numerical Labels.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/eXtreme Gradient Boost (XGBoost).md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Regression.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/gradient boosting.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Decision Stumps.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Random Tree(s).md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Random Forests.md",
     "@images/Pasted image 20240412162123.png",
     "@images/Pasted image 20240412162111.png",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/ROC Curves.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Bootstrapping.md",
     "@images/Pasted image 20240412161759.png",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Bagging.md",
     "@images/Pasted image 20240412160921.png",
-    "@images/Pasted image 20240411231824.png",
-    "2024 Semester 1/ACCTG151G - Financial Literacy/collateral security.md",
-    "2024 Semester 1/ACCTG151G - Financial Literacy/Variable Interest Rates.md",
-    "2024 Semester 1/ACCTG151G - Financial Literacy/The purchase transaction.md",
-    "2024 Semester 1/ACCTG151G - Financial Literacy/Student (education) loans.md",
-    "2024 Semester 1/ACCTG151G - Financial Literacy/Managing your credit.md",
-    "2024 Semester 1/ACCTG151G - Financial Literacy/International Base Rates.md",
-    "2024 Semester 1/ACCTG151G - Financial Literacy/Fixed Interest Rates.md",
-    "2024 Semester 1/ACCTG151G - Financial Literacy/Domestic Base Rates.md",
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Untitled",
     "2024 Semester 1",
     "2023 Semester 2",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture",
@@ -216,7 +235,6 @@
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction",
     "2024 Semester 1/ACCTG151G - Financial Literacy",
     "2023 Semester 2/COMPSCI235 - Software Development Methodologies/235 summary.canvas",
-    "COMPSCI235 - Software Development Methodologies/Untitled",
     "2023 Semester 2/COMPSCI367 - Artificial Intelligence/finals prep.canvas"
   ]
 }
