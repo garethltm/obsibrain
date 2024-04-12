@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/AdaBoost.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/ROC Curves.md",
                 "mode": "source",
                 "source": false
               }
@@ -38,7 +38,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "regression trees",
+                "query": "true positi",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,8 +65,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/AdaBoost.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/ROC Curves.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/AdaBoost.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/ROC Curves.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/AdaBoost.md"
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/ROC Curves.md"
               }
             }
           },
@@ -171,6 +170,7 @@
   },
   "active": "903751d739bb7cdf",
   "lastOpenFiles": [
+    "2024 Semester 1/COMPSCI361 - Machine Learning/AdaBoost.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Boosted Regression Trees - Training.md",
     "@images/Pasted image 20240412171607.png",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Regression Trees.md",
@@ -178,7 +178,6 @@
     "@images/Pasted image 20240412171451.png",
     "@images/Pasted image 20240412171212.png",
     "@images/Pasted image 20240412171141.png",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/AdaBoost.md",
     "@images/Pasted image 20240412165234.png",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Handling Numerical Labels.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/eXtreme Gradient Boost (XGBoost).md",
