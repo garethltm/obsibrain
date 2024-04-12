@@ -5,3 +5,4 @@ Cost of fitting trees in [[eXtreme Gradient Boost (XGBoost)]] is same as usual [
 - [[eXtreme Gradient Boost (XGBoost)]] includes a lot of tricks to make this efficient
 - But cannot be done in parallel like [[Random Forests]]
 	- Because it depends on the sum - correcting the errors (no independent trees)
+	- 
