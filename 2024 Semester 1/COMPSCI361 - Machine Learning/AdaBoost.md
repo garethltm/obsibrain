@@ -21,5 +21,7 @@ giving these examples that are wrong with higher weightage to allow the [[classi
 
 ## Are [[Decision Stumps]] a good base [[classifier(s)]]?
 - They tend not to [[overfit(ting)]] (usually underfit)
-- Easy to get > 50% weighted accuracy (because it is just )
+- Easy to get > 50% weighted accuracy (because it is just a [[Decision Stumps]] - 2 decisions)
 
+## Base [[classifier(s)]] that don't work
+- Deep [[Decision Tree(s)]] (no errors to boost) - if you don't get errors, 
