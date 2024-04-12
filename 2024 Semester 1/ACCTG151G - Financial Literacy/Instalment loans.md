@@ -2,4 +2,7 @@
 
 1. Repaid in a series of equal payments (scheduled overtime $\rightarrow$ payments are equal)
 2. Each payment is part [[principal]] & part interest (P & I).
-3. Maturities generally range from 6 months to 6
+3. Maturities generally range from 6 months to 60 months
+4. Usually requires [[collateral security]]
+5. The instalments are calculated as CFs in our [[Annuity]] formula:
+	#
