@@ -13,5 +13,5 @@ How much money would you need to place on deposit today so that you had exactly 
 $PV = \frac {FV\tiny {n}}{(1+r)^n}$
 $PV = \frac {\$5,000}{(1+0.10)^2}$
 $PV = \$4,132.23$
-### Present Value of an [[Annuity]]
-We
+[[Present Value (PV)]] of an [[Annuity]]
+We've considered the [[Future Value (FV)]] of an [[Annuity]] (the target or end-result of a regular savings program) but sometimes we need to consider the [[Present Value (PV)]] 
