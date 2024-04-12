@@ -1,0 +1,2 @@
+- Critically evaluate your needs
+- Investigate the rental market
