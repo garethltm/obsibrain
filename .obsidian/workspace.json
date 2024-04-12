@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Instalment loans.md",
+                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Interest rates (r).md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Instalment loans.md",
+                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Interest rates (r).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Instalment loans.md",
+                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Interest rates (r).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Instalment loans.md"
+                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Interest rates (r).md"
               }
             }
           },
@@ -156,7 +156,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Instalment loans.md"
+                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Interest rates (r).md"
               }
             }
           },
@@ -187,10 +187,11 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "a6e0090ac9cbd1f3",
+  "active": "1699f5e414c0af01",
   "lastOpenFiles": [
-    "2024 Semester 1/ACCTG151G - Financial Literacy/Keep track of you Credit.md",
+    "2024 Semester 1/ACCTG151G - Financial Literacy/Future Value Interest Factor (FVIF).md",
     "2024 Semester 1/ACCTG151G - Financial Literacy/Instalment loans.md",
+    "2024 Semester 1/ACCTG151G - Financial Literacy/Keep track of you Credit.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/XGBoost Discussion.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Random Forests.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Regularized Regression Trees.md",
@@ -215,7 +216,6 @@
     "2024 Semester 1/ACCTG151G - Financial Literacy/simple interest.md",
     "2024 Semester 1/ACCTG151G - Financial Literacy/Savings ratio.md",
     "2024 Semester 1/ACCTG151G - Financial Literacy/Average propensity to consume (APC).md",
-    "2024 Semester 1/ACCTG151G - Financial Literacy/Revenue statement.md",
     "@images/Pasted image 20240412171607.png",
     "@images/Pasted image 20240412171451.png",
     "@images/Pasted image 20240412171212.png",
