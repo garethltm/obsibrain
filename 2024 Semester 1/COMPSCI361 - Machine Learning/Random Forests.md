@@ -15,4 +15,4 @@
 - No, with the same [[training data]] you'll get the same [[Decision Tree(s)]]
 ### 2 key ingredients in [[Random Forests]]
 1. [[Bootstrapping]]
-2. [[Random trees]]
+2. [[Random Tree(s)]]

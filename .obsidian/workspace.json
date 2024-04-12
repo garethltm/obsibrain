@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Bootstrapping.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Random Tree(s).md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Bootstrapping.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Random Tree(s).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Bootstrapping.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Random Tree(s).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Bootstrapping.md"
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Random Tree(s).md"
               }
             }
           },
@@ -171,9 +171,11 @@
   },
   "active": "903751d739bb7cdf",
   "lastOpenFiles": [
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Random Forests.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/ROC Curves.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Bootstrapping.md",
     "@images/Pasted image 20240412161759.png",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Bagging.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Bootstrapping.md",
     "@images/Pasted image 20240412160921.png",
     "@images/Pasted image 20240411231824.png",
     "2024 Semester 1/ACCTG151G - Financial Literacy/collateral security.md",
@@ -186,8 +188,7 @@
     "2024 Semester 1/ACCTG151G - Financial Literacy/Domestic Base Rates.md",
     "2024 Semester 1/ACCTG151G - Financial Literacy/Consumer loan(s).md",
     "2024 Semester 1/ACCTG151G - Financial Literacy/Buying consumer durables.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Random Forests.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Random trees.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Random Tree(s).md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Averaging.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Ensemble(s).md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/overfit(ting).md",
@@ -206,7 +207,6 @@
     "2024 Semester 1/COMPSCI361 - Machine Learning/Classifier Evaluation Metrics.md",
     "@images/Pasted image 20240404162607.png",
     "@images/Pasted image 20240404162453.png",
-    "@images/Pasted image 20240404161337.png",
     "2024 Semester 1",
     "2023 Semester 2",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture",
