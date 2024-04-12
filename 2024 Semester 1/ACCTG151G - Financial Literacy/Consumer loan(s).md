@@ -31,13 +31,13 @@ If you have decent job (stable income) they won't require [[collateral security]
 
 ### Where can you get [[Consumer loan(s)]]?
 1. Traditional financial institutions (can be inefficient) 
-	- Banks
+	- [[Banks (Commercial Banks)]]
 	- [[Credit Unions]]
 	- [[Building Societies]]
 
-| **Advantages**       | **Disadvantages**    |
-| -------------------- | -------------------- |
-| Lower interest rates | Long time to process |
+| **Advantages**               | **Disadvantages**    |
+| ---------------------------- | -------------------- |
+| Lower [[Interest rates (r)]] | Long time to process |
 
 2.  Consumer finance companies (people that loan from them are usually higher risk/lower credibility)
 	- Instant Finance

@@ -1,7 +1,7 @@
 - borrow money from foreign exchange
 
 - London Interbank Offering Rate (LIBOR)
-	- when 2 financial institutions (banks) borrows money
+	- when 2 financial institutions ([[Banks (Commercial Banks)]]) borrows money
 - SIBOR
 - PIBOR
 - Prime (US)
