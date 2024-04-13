@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "ab11e135637852fc",
+        "id": "af211b1d27d34925",
         "type": "tabs",
         "children": [
           {
-            "id": "f8867d28bcdcadb3",
+            "id": "e2be5e522f99b2dc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Binning.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -48,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "noise",
+                "query": "#example",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +61,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +82,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Binning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +98,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Binning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +119,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Binning.md"
-              }
+              "state": {}
             }
           },
           {
@@ -154,9 +147,7 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Binning.md"
-              }
+              "state": {}
             }
           },
           {
@@ -186,10 +177,12 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "f8867d28bcdcadb3",
+  "active": "e2be5e522f99b2dc",
   "lastOpenFiles": [
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Noisy data.md",
+    "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week11/Additive independence property.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Binning.md",
+    "@images/Pasted image 20240413222810.png",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Noisy data.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Data cleaning.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Averaging.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/bias-variance decomposition.md",
@@ -216,14 +209,12 @@
     "@images/Pasted image 20240413213624.png",
     "@images/Pasted image 20240413213542.png",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Missing not at random (MNAR).md",
-    "@images/Pasted image 20240413212920.png",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Missing at random (MAR).md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Missing completely at random (MCAR).md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Data Preprocessing.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Data reduction.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Transformation & discretization.md",
     "2024 Semester 1/ACCTG151G - Financial Literacy/Refinancing your mortgage.md",
-    "2024 Semester 1/ACCTG151G - Financial Literacy/Mortgage Loan(s).md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Untitled",
     "2024 Semester 1",
     "2023 Semester 2",
