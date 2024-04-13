@@ -8,5 +8,5 @@ there is some relationship that could reveal why some values are missing
 
 ## Potential Problem
 - Bias due to row-wise deletion
-	- since we cannot do regression on missing value, we would remove those
-		- still could potentially have good
+	- since we cannot do regression on missing values, we would remove those
+		- still could potentially have good datasets for others (US, NZ)

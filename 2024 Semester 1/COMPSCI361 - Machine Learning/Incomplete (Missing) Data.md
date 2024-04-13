@@ -13,3 +13,4 @@ Missing data may be due to:
 ### What to consider when handling [[Incomplete (Missing) Data]]?
 1. [[Missing completely at random (MCAR)]]
 2. [[Missing at random (MAR)]]
+3. [[Missing not at random (MNAR)]]
