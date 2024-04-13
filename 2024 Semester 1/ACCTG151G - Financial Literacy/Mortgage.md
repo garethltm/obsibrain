@@ -11,3 +11,6 @@ borrow from [[Banks (Commercial Banks)]]
 2. [[Interest rates (r)]]
 
 Note: some [[Mortgage]] may be [[Interest rates (r)]] only with the [[principal]] due in full at the end of the loan
+
+### Calculating the [[Mortgage]] payment
+#acctg151Gexample What will the monthly mortgage payments be (P&I) on a $100,000, 30-year, 7% table-basis [[Mortgage]]? (annual rate)
