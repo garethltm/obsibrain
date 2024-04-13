@@ -8,4 +8,8 @@
 3. Numeric - real numbers #compsci361example integers/reals
 - Both Ordinal & Numeric can apply scale
 
-[[discre]]
+[[Discretization]] divides a range of continuous attributes into intervals
+1. Interval labels can then be used to replace actual data values
+2. [[Discretization]] can be performed recursively on an attribute
+3. Reduce data size by [[Discretization]]
+4. Prepare for further analysis #
