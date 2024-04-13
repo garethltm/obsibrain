@@ -18,11 +18,7 @@
 ## Imputation as matrix completion problem
 - useful for high-dimensional, sparsely populated datasets
 ### Matrix factorization approaches
-
-- Minimise the sum of squared errors (over the observed elements of X), as evaluated on a hold-out dataset
 - you assume there is some kind of **hidden space** in which you can project your original dataset - some hidden variables that influence your dataset
-- Finding that 1 or 2 features that drive the relationship in the dataset (you don't need all the features)
-- Max number of factors is the dimensionality of your input space
 		![[Pasted image 20240413220237.png]]
 	 - Decompose the data matrix $X$ such that $X\tiny {n\times d}\normalsize = (U\tiny {n\times k}\normalsize )(V\tiny {k\times d})$ such that the product $U\times V = X'$ recovers the original matrix
 		 - n = number of instances
@@ -32,3 +28,7 @@
 		- #compsci361example movie genres in per-use movie-preference data
 		- we want the lowest possible (k), we want to further reduce the amount of dimensions
 	- Well suited for larger datasets with high levels of sparsity (as in recommender systems)
+$$$$
+- Minimise the sum of squared errors (over the observed elements of X), as evaluated on a hold-out dataset
+- Finding that 1 or 2 features that drive the relationship in the dataset (you don't need all the features)
+- Max number of factors is the dimensionality of your input space
