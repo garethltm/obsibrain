@@ -9,5 +9,5 @@ Missing data may be due to:
 4. Certain data may not be considered important at the time of entry
 5. Data history or changes of the data not recorded (Forget to update data)
 
-Missing data may need to be inferred
-- Some algorithms cannot handle those values $\rightarrow$ [[Linear Regression]]
+## Missing data may need to be inferred
+- Some algorithms cannot handle those values $\rightarrow$ [[Linear Regression]] requires all values to be present
