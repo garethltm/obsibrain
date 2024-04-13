@@ -1,4 +1,4 @@
-Assumes you know the range of your variables
+you know the range of your variables
 
 - to $new\_ min\tiny {A}$, $new\_ max\tiny {A}$
 $$v' = \frac {v - min\tiny {A}}{max\tiny {A}\normalsize - min\tiny {A}} (new\_ max\tiny {A}\normalsize - new\_ min\tiny {A}\normalsize) + new\_ min\tiny {A}$$
