@@ -3,8 +3,8 @@
 
 Note: some [[Mortgage]] may be [[Interest rates (r)]] only with the [[principal]] due in full at the end of the loan
 
-### Calculating the [[Mortgage]] payment
-#acctg151Gexample What will the monthly mortgage payments be (P&I) on a $100,000, 30-year, 7% table-basis [[Mortgage]]? (annual rate)
+### Calculating the [[Mortgage]] payment (monthly)
+#acctg151Gexample What will the monthly [[mortgage payments]] be ([[principal]]&[[inter]]) on a $100,000, 30-year, 7% table-basis [[Mortgage]]? (annual rate)
 
 The formula (and tables) requires the use of an [[Interest rates (r)]] that is relevant to the period being used.
 
