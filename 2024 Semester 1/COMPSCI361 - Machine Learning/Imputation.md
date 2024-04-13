@@ -16,5 +16,7 @@
 		- Inference-based such as Bayesian formula, [[Decision Tree(s)]], [[k-nearest neighbour (KNN)]],...
 	- IDEA: Any model that can be used for [[Supervised Learning]] can be used here
 ## Imputation as matrix completion problem
+- useful for high-dimensional, sparsely populated datasets
 #### Matrix factorization approaches
-- you assume there is some kind of hidden space in which you can project your original dataset - some hidden variables that influence your dat
+- you assume there is some kind of hidden space in which you can project your original dataset - some hidden variables that influence your dataset
+####
