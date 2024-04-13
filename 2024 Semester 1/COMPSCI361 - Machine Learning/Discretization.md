@@ -18,4 +18,5 @@
 - Continuous values to Binary values with [[Decision Tree(s)]] (0 or 1)
 
 ## Methods
-1. Top-down vs. Bottom-up
+1. Top-down (partitioning) vs. Bottom-up (merging) - which direction it proceeds
+2. Supervised vs. unsupervised - class information usage
