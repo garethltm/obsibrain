@@ -35,3 +35,4 @@
 ## Multiple Iterations of [[Imputation]]
 1. [[Expectation Maximization (EM) Imputation]]
 2. [[Multiple imputation by chain equations (MICE)]]
+- There is no best approach (No Free Lunch Theorem) - use an approach that could work in the most restrictive way not
