@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Smoothing.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Transformation & discretization.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Smoothing.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Transformation & discretization.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Smoothing.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Transformation & discretization.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Smoothing.md"
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Transformation & discretization.md"
               }
             }
           },
@@ -155,7 +155,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Smoothing.md"
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Transformation & discretization.md"
               }
             }
           },
@@ -188,8 +188,8 @@
   },
   "active": "e2be5e522f99b2dc",
   "lastOpenFiles": [
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Transformation & discretization.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Smoothing.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Transformation & discretization.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Data Preprocessing.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Binning.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Noisy data.md",
