@@ -6,4 +6,7 @@
 there is some relationship that could reveal why some values are missing
 - the fact the data are missing is related not to the missing attribute but to some other data in the data set
 
-## Potential 
+## Potential Problem
+- Bias due to row-wise deletion
+	- since we cannot do regression on missing value, we would remove those
+		- still could potentially have good
