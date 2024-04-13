@@ -4,3 +4,6 @@ means to transform the data before we feed it to a learning algorithm
 
 ## Why preprocess?
 1. Some data is relevant is only relevant to certain parts of the business which leads to missing values (we need to have consistency) or incorrect values (disguised missing values - people lying about their birthday example)
+
+## Major Tasks in [[Data Preprocessing]]
+1. [[Data cleaning]]
