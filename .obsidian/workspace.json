@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Imputation.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Expectation Maximization (EM) Imputation.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Imputation.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Expectation Maximization (EM) Imputation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Imputation.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Expectation Maximization (EM) Imputation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Imputation.md"
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Expectation Maximization (EM) Imputation.md"
               }
             }
           },
@@ -155,7 +155,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Imputation.md"
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Expectation Maximization (EM) Imputation.md"
               }
             }
           },
@@ -188,11 +188,12 @@
   },
   "active": "f8867d28bcdcadb3",
   "lastOpenFiles": [
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Imputation.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Expectation Maximization (EM) Imputation.md",
     "@images/Pasted image 20240413221011.png",
     "@images/Pasted image 20240413220237.png",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Low-rank matrix.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/rank matrix.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Imputation.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Incomplete (Missing) Data.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Supervised Learning.md",
     "@images/Pasted image 20240413214838.png",
@@ -206,7 +207,6 @@
     "@images/Pasted image 20240413212920.png",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Missing at random (MAR).md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Missing completely at random (MCAR).md",
-    "@images/Pasted image 20240413212242.png",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Data cleaning.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Data Preprocessing.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Data reduction.md",

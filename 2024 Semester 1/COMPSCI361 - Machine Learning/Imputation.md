@@ -27,8 +27,10 @@
 	- [[Low-rank matrix]] approximation $X'$, with $k\leq min(n,d)$ factors
 		- #compsci361example movie genres in per-use movie-preference data
 		- we want the lowest possible (k), we want to further reduce the amount of dimensions
-	- Well suited for larger datasets with high levels of sparsity (as in recommender systems)
-![[Pasted image 20240413221011.png]]
-- Minimise the sum of squared errors (over the observed elements of X), as evaluated on a hold-out dataset
-- Finding that 1 or 2 features that drive the relationship in the dataset (you don't need all the features)
-- Max number of factors is the dimensionality of your input space
+		- Well suited for larger datasets with high levels of sparsity (as in recommender systems)
+	![[Pasted image 20240413221011.png]]
+	- Minimise the sum of squared errors (over the observed elements of X), as evaluated on a hold-out dataset
+	- Finding that 1 or 2 features that drive the relationship in the dataset (you don't need all the features)
+	- Max number of factors is the dimensionality of your input space
+## Multiple Iterations of [[Imputation]]
+1. [[Expectation Maximization (EM) Imputation]]
