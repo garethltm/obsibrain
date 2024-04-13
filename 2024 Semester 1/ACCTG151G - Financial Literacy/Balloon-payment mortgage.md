@@ -1,0 +1,1 @@
+- a type of [[Fixed rate mortgage]] with large final payment

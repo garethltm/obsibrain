@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Fixed rate mortgage.md",
+                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Mortgage Loan(s).md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Fixed rate mortgage.md",
+                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Mortgage Loan(s).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Fixed rate mortgage.md",
+                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Mortgage Loan(s).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Fixed rate mortgage.md"
+                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Mortgage Loan(s).md"
               }
             }
           },
@@ -155,7 +155,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Fixed rate mortgage.md"
+                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Mortgage Loan(s).md"
               }
             }
           },
@@ -188,9 +188,10 @@
   },
   "active": "f8867d28bcdcadb3",
   "lastOpenFiles": [
-    "2024 Semester 1/ACCTG151G - Financial Literacy/Floating loan rate.md",
-    "2024 Semester 1/ACCTG151G - Financial Literacy/Fixed rate mortgage.md",
+    "2024 Semester 1/ACCTG151G - Financial Literacy/Balloon-payment mortgage.md",
     "2024 Semester 1/ACCTG151G - Financial Literacy/Mortgage Loan(s).md",
+    "2024 Semester 1/ACCTG151G - Financial Literacy/Fixed rate mortgage.md",
+    "2024 Semester 1/ACCTG151G - Financial Literacy/Floating loan rate.md",
     "2024 Semester 1/ACCTG151G - Financial Literacy/Deposit.md",
     "2024 Semester 1/ACCTG151G - Financial Literacy/Mortgage.md",
     "2024 Semester 1/ACCTG151G - Financial Literacy/Cost of home ownership.md",
@@ -219,7 +220,6 @@
     "2024 Semester 1/COMPSCI361 - Machine Learning/Information gain.md",
     "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week10/Conditional Entropy.md",
     "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week10/Chain Rule.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Ensemble(s).md",
     "@images/Pasted image 20240412233715.png",
     "@images/Pasted image 20240412231720.png",
     "@images/Pasted image 20240412231644.png",
