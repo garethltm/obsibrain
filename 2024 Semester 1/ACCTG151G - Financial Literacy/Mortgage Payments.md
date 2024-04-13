@@ -21,4 +21,7 @@ used the [[Present Value (PV) Interest Factor of an Annuity]]
 
 ### Calculate the [[Mortgage Payments]] (annually)
 Now assume payments are made annually![[Pasted image 20240413170914.png]]![[Pasted image 20240413170929.png]]
-Monthly interest is lesser than Annual interest because you started paying [[principal]] from the 1st month which lowe
+Monthly interest is lesser than Annual interest because you started paying [[principal]] from the 1st month which lowers your [[Interest rates (r)]] over time.
+
+Annual only starts after 1 year. [[Interest rates (r)]] is calculated based on the balance
+- To decrease [[Interest rates (r)]], increase frequency of payments
