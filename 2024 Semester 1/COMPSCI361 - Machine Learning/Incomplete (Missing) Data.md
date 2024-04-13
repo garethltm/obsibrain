@@ -26,6 +26,7 @@ Missing data may be due to:
 		- Done automatically by many implementations $\rightarrow$ Default assumption
 		- Changes relationship with other variables $\implies$ bias in data (because you are calculating the mean based on a variable that may be dependent)
 		- The mean is calculated based on observed values in that variable (you calculate the mean based on the available values at the end)
-	3. the attribute mean of the samples belonging to the same class (replacing the value that has a similar target variable)![[Pasted image 20240413214545.png]]
+	3. the attribute mean of the samples belonging to the same class (replacing the value that has a similar target variable) - a **BETTER** way to do it![[Pasted image 20240413214545.png]]
 		- Might change relationship with other variables other than class $\implies$ bias in data (we need to explore the whole data in such a way where we keep those underlying relations)
-		- There mi
+		- There might be relationship between X' & other features in combination (you are only looking at a single pairwise relationship)
+	4. the most probab
