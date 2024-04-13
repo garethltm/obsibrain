@@ -1,2 +1,3 @@
 to $new\_ min\tiny {A}$, $new\_ max\tiny {A}$
-$$v' = \frac {v - min\tiny {A}}{max\tiny {A}\normals}$
+$$v' = \frac {v - min\tiny {A}}{max\tiny {A}\normalsize - min\tiny {A}} (new\_ max\tiny {A}\normalsize - new\_ min\tiny {A}$$
+
