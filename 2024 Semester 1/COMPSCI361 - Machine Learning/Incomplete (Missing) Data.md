@@ -19,4 +19,5 @@ Missing data may be due to:
 
 ##### Solution
 1. Fill in the missing data manually![[Pasted image 20240413213624.png]]
-2. Fill in automatically
+2. Fill in automatically (this is more feasible rather than the manual entry for large datasets) ![[Pasted image 20240413213800.png]]
+	- However, it might still work for [[Classification]] problem & it affects the class variable
