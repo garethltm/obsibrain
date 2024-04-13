@@ -23,4 +23,6 @@
 		 - n = number of instances
 		 - d = number of dimensionality/features
 		 - we want to find the k
-	- [[Low-rank matrix]] approximation 
+	- [[Low-rank matrix]] approximation $X'$, with $k\leq min(n,d)$ factors
+		- #compsci361example movie genres in per-use movie-preference data
+		- we want the lowest possible (k)
