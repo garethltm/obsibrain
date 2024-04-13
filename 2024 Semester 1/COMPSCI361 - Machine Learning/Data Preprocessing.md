@@ -7,3 +7,4 @@ means to transform the data before we feed it to a learning algorithm
 
 ## Major Tasks in [[Data Preprocessing]]
 1. [[Data cleaning]]
+2. [[Data reduction]]
