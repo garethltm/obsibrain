@@ -14,3 +14,8 @@ Note: some [[Mortgage]] may be [[Interest rates (r)]] only with the [[principal]
 
 ### Calculating the [[Mortgage]] payment
 #acctg151Gexample What will the monthly mortgage payments be (P&I) on a $100,000, 30-year, 7% table-basis [[Mortgage]]? (annual rate)
+
+The formula (and tables) requires the use of an [[Interest rates (r)]] that is relevant to the period being used.
+
+The period is monthly:
+n = 30 years \times 12months/year = 360
