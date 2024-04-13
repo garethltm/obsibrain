@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Golden Rule of Machine Learning.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Noise.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Golden Rule of Machine Learning.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Noise.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Golden Rule of Machine Learning.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Noise.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Golden Rule of Machine Learning.md"
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Noise.md"
               }
             }
           },
@@ -155,7 +155,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Golden Rule of Machine Learning.md"
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Noise.md"
               }
             }
           },
@@ -188,7 +188,11 @@
   },
   "active": "f8867d28bcdcadb3",
   "lastOpenFiles": [
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Noisy data.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Noise.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Data cleaning.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Independent & Identically Distributed (IID).md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Golden Rule of Machine Learning.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Preprocessing & Evaluation.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Imputation.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Multiple imputation by chain equations (MICE).md",
@@ -220,10 +224,6 @@
     "2024 Semester 1/ACCTG151G - Financial Literacy/Fixed rate mortgage.md",
     "2024 Semester 1/ACCTG151G - Financial Literacy/Interest only mortgage.md",
     "2024 Semester 1/ACCTG151G - Financial Literacy/Balloon-payment mortgage.md",
-    "2024 Semester 1/ACCTG151G - Financial Literacy/Floating loan rate.md",
-    "2024 Semester 1/ACCTG151G - Financial Literacy/Deposit.md",
-    "2024 Semester 1/ACCTG151G - Financial Literacy/Mortgage.md",
-    "2024 Semester 1/ACCTG151G - Financial Literacy/Cost of home ownership.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Untitled",
     "2024 Semester 1",
     "2023 Semester 2",
