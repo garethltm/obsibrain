@@ -12,3 +12,4 @@
 ### Handling Noisy Data
 - The outliers should be removed prematurely
 1. [[Binning]]
+2. [[Regression (Noisy Data)]]
