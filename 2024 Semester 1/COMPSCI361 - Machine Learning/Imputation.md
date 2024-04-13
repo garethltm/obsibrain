@@ -15,4 +15,6 @@
 	4. the most probable value (dividing the complete dataset into 2 parts) - **NOT TESTED** ![[Pasted image 20240413214838.png]]
 		- Inference-based such as Bayesian formula, [[Decision Tree(s)]], [[k-nearest neighbour (KNN)]],...
 	- IDEA: Any model that can be used for [[Supervised Learning]] can be used here
-### Imputation as matrix completion problem
+## Imputation as matrix completion problem
+#### Matrix factorization approaches
+- you assume there is some kind of hidden space in which you can project your original dataset - some hidden variables that influence your dat
