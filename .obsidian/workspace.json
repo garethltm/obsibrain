@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Deposit.md",
+                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Cost of home ownership.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Deposit.md",
+                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Cost of home ownership.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Deposit.md",
+                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Cost of home ownership.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Deposit.md"
+                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Cost of home ownership.md"
               }
             }
           },
@@ -155,7 +155,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Deposit.md"
+                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Cost of home ownership.md"
               }
             }
           },
@@ -188,12 +188,13 @@
   },
   "active": "f8867d28bcdcadb3",
   "lastOpenFiles": [
+    "2024 Semester 1/ACCTG151G - Financial Literacy/Deposit.md",
+    "2024 Semester 1/ACCTG151G - Financial Literacy/Loan to Value Ratio (LVR).md",
     "2024 Semester 1/ACCTG151G - Financial Literacy/Rental vs Buying.md",
     "2024 Semester 1/ACCTG151G - Financial Literacy/Cost of home ownership.md",
     "2024 Semester 1/ACCTG151G - Financial Literacy/Consumer loan(s).md",
     "2024 Semester 1/ACCTG151G - Financial Literacy/Banks (Commercial Banks).md",
     "2024 Semester 1/ACCTG151G - Financial Literacy/Buying.md",
-    "2024 Semester 1/ACCTG151G - Financial Literacy/Deposit.md",
     "2024 Semester 1/ACCTG151G - Financial Literacy/Mortgage.md",
     "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week10/Mutual Information.md",
     "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week10/Joint Entropy.md",
@@ -213,7 +214,6 @@
     "2024 Semester 1/ACCTG151G - Financial Literacy/Nominal rate.md",
     "2024 Semester 1/ACCTG151G - Financial Literacy/Mortgage brokers.md",
     "2024 Semester 1/ACCTG151G - Financial Literacy/Monetary Policy - Reserve Bank.md",
-    "2024 Semester 1/ACCTG151G - Financial Literacy/Liquidity ratio.md",
     "@images/Pasted image 20240412233715.png",
     "@images/Pasted image 20240412231720.png",
     "@images/Pasted image 20240412231644.png",
