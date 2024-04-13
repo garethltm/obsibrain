@@ -15,4 +15,7 @@ Missing data may be due to:
 2. [[Missing at random (MAR)]]
 3. [[Missing not at random (MNAR)]]
 ## How to handle [[Incomplete (Missing) Data]]
-##### Problem
+##### Problem![[Pasted image 20240413213542.png]]
+
+##### Solution
+1. Fill in the missing data manually![[Pasted image 20240413213624.png]]
