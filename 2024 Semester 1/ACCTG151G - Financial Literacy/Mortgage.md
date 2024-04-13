@@ -5,3 +5,6 @@ borrow from [[Banks (Commercial Banks)]]
 2. interest only mortgage
 3. balloon payment mortgage
 4. variable rate mortgage
+
+### The [[Mortgage]] Payment:
+1. Principal
