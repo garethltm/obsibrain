@@ -22,4 +22,4 @@ Missing data may be due to:
 2. Fill in automatically (this is more feasible rather than the manual entry for large datasets) 
 	1. a global constant (since they are all of the same type) ![[Pasted image 20240413213930.png]]
 		- However, it might still work for [[Classification]] problem & it affects the class variable
-	2. 
+	2. the attribute mean (more general case, where there are mixed values & continuous variable)
