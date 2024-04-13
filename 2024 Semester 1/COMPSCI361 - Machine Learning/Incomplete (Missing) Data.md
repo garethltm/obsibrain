@@ -24,4 +24,5 @@ Missing data may be due to:
 		- However, it might still work for [[Classification]] problem & it affects the class variable
 	2. the attribute mean (more general case, where there are mixed values & continuous variable) ![[Pasted image 20240413214300.png]]
 		- Done automatically by many implementations $\rightarrow$ Default assumption
-		- Changes relationship with other variables 
+		- Changes relationship with other variables $\implies$ bias in data (because you are calculating the mean based on a variable that may be dependent)
+		- The mean is calculated based on observed values in that variable (you calculated )
