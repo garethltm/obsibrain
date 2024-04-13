@@ -29,4 +29,5 @@ Missing data may be due to:
 	3. the attribute mean of the samples belonging to the same class (replacing the value that has a similar target variable) - a **BETTER** way to do it![[Pasted image 20240413214545.png]]
 		- Might change relationship with other variables other than class $\implies$ bias in data (we need to explore the whole data in such a way where we keep those underlying relations)
 		- There might be relationship between X' & other features in combination (you are only looking at a single pairwise relationship)
-	4. the most probab
+	4. the most probable value (dividing the complete dataset into 2 parts)![[Pasted image 20240413214838.png]]
+		- 
