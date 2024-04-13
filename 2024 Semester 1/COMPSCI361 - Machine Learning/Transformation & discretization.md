@@ -4,4 +4,5 @@ Doesn't reduce the number of rows but change the values
 
 - A function that maps the entire set of values of a given attribute to a new set of replacement values (each old value can be identified with one of the new values).
 
-1. [[2023 Semester 2/COMPSCI367 - Artificial Intelligence/week10/Smoothing]]
+1. [[2024 Semester 1/COMPSCI361 - Machine Learning/Smoothing|Smoothing]]
+2. [[Attribute, Feature construction]]
