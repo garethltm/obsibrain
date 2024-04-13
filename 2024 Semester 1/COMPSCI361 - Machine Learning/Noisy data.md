@@ -10,4 +10,5 @@
 	3. Inconsistent data
 
 ### Handling Noisy Data
-- We usually remove huge outliers pred
+- The outliers should be removed prematurely
+1. [[Binning]]
