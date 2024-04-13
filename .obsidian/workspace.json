@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Imputation.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Low-rank matrix.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Imputation.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Low-rank matrix.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Imputation.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Low-rank matrix.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Imputation.md"
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Low-rank matrix.md"
               }
             }
           },
@@ -155,7 +155,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Imputation.md"
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Low-rank matrix.md"
               }
             }
           },
@@ -188,8 +188,9 @@
   },
   "active": "f8867d28bcdcadb3",
   "lastOpenFiles": [
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Incomplete (Missing) Data.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Imputation.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Low-rank matrix.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Incomplete (Missing) Data.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Supervised Learning.md",
     "@images/Pasted image 20240413214838.png",
     "@images/Pasted image 20240413214545.png",
@@ -223,7 +224,6 @@
     "2024 Semester 1/ACCTG151G - Financial Literacy/Rates & insurance.md",
     "2024 Semester 1/ACCTG151G - Financial Literacy/Mortgage Payments.md",
     "2024 Semester 1/ACCTG151G - Financial Literacy/Bank charges & Conveyancing Settlement Costs.md",
-    "2024 Semester 1/ACCTG151G - Financial Literacy/Present Value (PV) Interest Factor of an Annuity.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Untitled",
     "2024 Semester 1",
     "2023 Semester 2",

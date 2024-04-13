@@ -23,3 +23,4 @@
 		 - n = number of instances
 		 - d = number of dimensionality/features
 		 - we want to find the k
+	- [[Low-rank matrix]]
