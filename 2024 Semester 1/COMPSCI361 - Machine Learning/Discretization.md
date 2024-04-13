@@ -12,4 +12,6 @@
 1. Interval labels can then be used to replace actual data values
 2. [[Discretization]] can be performed recursively on an attribute
 3. Reduce data size by [[Discretization]]
-4. Prepare for further analysis #
+4. Prepare for further analysis #compsci361example ([[Classification]])
+5. The resulting mined patterns are typically easier to understand
+6. Mining on different level of data abstraction (concept hierarchies)
