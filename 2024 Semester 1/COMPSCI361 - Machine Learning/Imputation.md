@@ -19,4 +19,4 @@
 - useful for high-dimensional, sparsely populated datasets
 ### Matrix factorization approaches
 - you assume there is some kind of hidden space in which you can project your original dataset - some hidden variables that influence your dataset
-	 - Decompose the data matrix X such that $X\tiny {x\times d/}
+	 - Decompose the data matrix $X$ such that $X\tiny {x\times d}\normalsize = U\tiny {n\times k}$
