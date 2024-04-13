@@ -19,6 +19,7 @@
 - useful for high-dimensional, sparsely populated datasets
 ### Matrix factorization approaches
 ![[Pasted image 20240413220237.png]]
+- Minimise the sum of squared errors (over the observed elements of X), as evaluated on a hold-out dataset
 - you assume there is some kind of **hidden space** in which you can project your original dataset - some hidden variables that influence your dataset
 	 - Decompose the data matrix $X$ such that $X\tiny {n\times d}\normalsize = (U\tiny {n\times k}\normalsize )(V\tiny {k\times d})$ such that the product $U\times V = X'$ recovers the original matrix
 		 - n = number of instances
