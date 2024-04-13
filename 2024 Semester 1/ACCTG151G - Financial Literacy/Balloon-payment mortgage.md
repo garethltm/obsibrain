@@ -1,1 +1,2 @@
 - a type of [[Fixed rate mortgage]] with large final payment
+	- at the end of maturity you have to pay a huge payment
