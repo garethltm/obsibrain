@@ -21,6 +21,8 @@
 ![[Pasted image 20240413220237.png]]
 - Minimise the sum of squared errors (over the observed elements of X), as evaluated on a hold-out dataset
 - you assume there is some kind of **hidden space** in which you can project your original dataset - some hidden variables that influence your dataset
+- Finding that 1 or 2 features that drive the relationship in the dataset (you don't need all the features)
+- Max number of factors is the dimensionality of your input space
 	 - Decompose the data matrix $X$ such that $X\tiny {n\times d}\normalsize = (U\tiny {n\times k}\normalsize )(V\tiny {k\times d})$ such that the product $U\times V = X'$ recovers the original matrix
 		 - n = number of instances
 		 - d = number of dimensionality/features
