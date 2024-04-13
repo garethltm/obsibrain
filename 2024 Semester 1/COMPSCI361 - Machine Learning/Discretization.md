@@ -19,4 +19,6 @@
 
 ## Methods
 1. Top-down (partitioning) vs. Bottom-up (merging) - which direction it proceeds
-2. Supervised vs. unsupervised - class information usage
+2. Supervised vs. unsupervised (Are you taking into account the target variable) - class information usage
+#compsci361example 
+1. [[Binning]] - top-down split, unsupervised
