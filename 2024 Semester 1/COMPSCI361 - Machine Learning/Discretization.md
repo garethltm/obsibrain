@@ -18,4 +18,4 @@
 - Continuous values to Binary values with [[Decision Tree(s)]] (0 or 1)
 
 ## Methods
-1. Top-down vs. 
+1. Top-down vs. Bottom-up3
