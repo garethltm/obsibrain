@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Data cleaning.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Noisy data.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Data cleaning.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Noisy data.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Data cleaning.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Noisy data.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Data cleaning.md"
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Noisy data.md"
               }
             }
           },
@@ -156,7 +156,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Data cleaning.md"
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Noisy data.md"
               }
             }
           },
@@ -189,11 +189,11 @@
   },
   "active": "f8867d28bcdcadb3",
   "lastOpenFiles": [
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Data cleaning.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Averaging.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/bias-variance decomposition.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Least Squares.md",
     "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week10/Transmission errors.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Data cleaning.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Noisy data.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Noise.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Independent & Identically Distributed (IID).md",
