@@ -1,0 +1,2 @@
+- Usually up to 10% of the purchase price (negotiable)
+- Generally n
