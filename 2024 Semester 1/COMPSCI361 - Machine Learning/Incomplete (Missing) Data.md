@@ -31,4 +31,4 @@ Missing data may be due to:
 		- There might be relationship between X' & other features in combination (you are only looking at a single pairwise relationship)
 	4. the most probable value (dividing the complete dataset into 2 parts) - **NOT TESTED** ![[Pasted image 20240413214838.png]]
 		- Inference-based such as Bayesian formula, [[Decision Tree(s)]], [[k-nearest neighbour (KNN)]],...
-	- IDEA: 
+	- IDEA: Any model that 
