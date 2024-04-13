@@ -11,3 +11,8 @@ Partition into equal-frequency (equi-depth) bins:
 
 Smoothing by:
 1. bin means
+	1. Bin 1: $9, 9, 9, 9$
+	2. Bin 2: $23, 23, 23, 23$
+	3. Bin 3: $29, 29, 29, 29$
+2. bin boundaries
+	1. 
