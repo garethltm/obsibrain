@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Min-max normalization.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Discretization.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Min-max normalization.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Discretization.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Min-max normalization.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Discretization.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Min-max normalization.md"
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Discretization.md"
               }
             }
           },
@@ -155,7 +155,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Min-max normalization.md"
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Discretization.md"
               }
             }
           },
@@ -188,9 +188,9 @@
   },
   "active": "e2be5e522f99b2dc",
   "lastOpenFiles": [
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Min-max normalization.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Normalization.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Z-score normalization.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Min-max normalization.md",
     "@images/Pasted image 20240413231311.png",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Normalization by decimal scaling.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Transformation & discretization.md",
