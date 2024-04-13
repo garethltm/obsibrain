@@ -12,3 +12,4 @@ Missing data may be due to:
 - Some algorithms cannot handle those values $\rightarrow$ [[Linear Regression]] requires all values to be present
 ### What to consider when handling [[Incomplete (Missing) Data]]?
 1. [[Missing completely at random (MCAR)]]
+2. [[Missing at random (MAR)]]

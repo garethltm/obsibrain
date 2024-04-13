@@ -4,4 +4,4 @@ this is the IDEAL case - most assumes this as otherwise it might create bias whi
 
 ## Potential Problem
 - Small sample size 
-	- because you wou
+	- because you would remove a bunch of invalid data - at the same time introducing bias
