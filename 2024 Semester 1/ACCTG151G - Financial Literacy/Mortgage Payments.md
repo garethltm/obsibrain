@@ -20,4 +20,5 @@ used the [[Present Value (PV) Interest Factor of an Annuity]]
 - we find that most of the [[Mortgage Payments]] is mostly [[Interest rates (r)]]![[Pasted image 20240413170449.png]]
 
 ### Calculate the [[Mortgage Payments]] (annually)
-Now assume payments are m
+Now assume payments are made annually![[Pasted image 20240413170914.png]]![[Pasted image 20240413170929.png]]
+Monthly interest is lesser than Annual interest because you started paying [[principal]] from the 1st month which lowe
