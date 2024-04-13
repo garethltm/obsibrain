@@ -34,3 +34,4 @@
 	- Max number of factors is the dimensionality of your input space
 ## Multiple Iterations of [[Imputation]]
 1. [[Expectation Maximization (EM) Imputation]]
+2. [[Multiple imputation by chain equations (MICE)]]
