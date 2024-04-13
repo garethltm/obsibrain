@@ -7,4 +7,7 @@ borrow from [[Banks (Commercial Banks)]]
 4. variable rate mortgage
 
 ### The [[Mortgage]] Payment:
-1. Principal
+1. [[Principal]]
+2. [[Interest rates (r)]]
+
+Note: some [[Mortgage]] may be [[Interest rates (r)]] only with the [[principal]] due in full at the end of the loan
