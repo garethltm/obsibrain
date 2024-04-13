@@ -14,3 +14,4 @@ Missing data may be due to:
 1. [[Missing completely at random (MCAR)]]
 2. [[Missing at random (MAR)]]
 3. [[Missing not at random (MNAR)]]
+## How to handle [[]]
