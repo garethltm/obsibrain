@@ -4,4 +4,6 @@ Data are not always available
 
 Missing data may be due to:
 1. Equipment malfunction
-2. Inconsistent with other recorded data & thus deleted ()
+2. Inconsistent with other recorded data & thus deleted (Deleted because we thought it was inconsistent $\rightarrow$ creates empty values)
+3. Data not entered due to misunderstanding (Data may not be applicable to you $\rightarrow$ leaves empty)
+4. Certain data m
