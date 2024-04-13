@@ -18,3 +18,6 @@ Smoothing by:
 	1. $4, 4, 4, 15$
 	2. $21, 21, 25, 25$
 	3. $26, 26, 26, 34$
+## Potential Problem
+- Skewed distribution grouping vastly different values together
+	- #compsci361example grouping 10 year olds & 30 years together
