@@ -18,6 +18,7 @@
 ## Imputation as matrix completion problem
 - useful for high-dimensional, sparsely populated datasets
 ### Matrix factorization approaches
+![[Pasted image 20240413220237.png]]
 - you assume there is some kind of **hidden space** in which you can project your original dataset - some hidden variables that influence your dataset
 	 - Decompose the data matrix $X$ such that $X\tiny {n\times d}\normalsize = (U\tiny {n\times k}\normalsize )(V\tiny {k\times d})$ such that the product $U\times V = X'$ recovers the original matrix
 		 - n = number of instances
@@ -25,4 +26,5 @@
 		 - we want to find the k
 	- [[Low-rank matrix]] approximation $X'$, with $k\leq min(n,d)$ factors
 		- #compsci361example movie genres in per-use movie-preference data
-		- we want the lowest possible (k)
+		- we want the lowest possible (k), we want to further reduce the amount of dimensions
+	- Well suited for larger datasets with high levels of sparsity (as in recommender systems)
