@@ -19,3 +19,4 @@ Missing data may be due to:
 
 ##### Solution
 1. Fill in the missing data manually![[Pasted image 20240413213624.png]]
+2. Fill in automatically
