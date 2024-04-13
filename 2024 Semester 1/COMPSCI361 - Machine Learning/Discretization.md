@@ -1,5 +1,4 @@
 - concept hierarchy climbing
-
 ## 3 types of attributes
 1. Nominal - values from an unordered set #compsci361example color
 	- Distances in Euclidean scale doesn't apply here
@@ -19,6 +18,7 @@
 
 ## Methods
 1. Top-down (partitioning) vs. Bottom-up (merging) - which direction it proceeds
-2. Supervised vs. unsupervised (Are you taking into account the target variable) - class information usage
+2. [[Supervised Learning]] vs. [[Unsupervised Learning]] (Are you taking into account the target variable) - class information usage
 #compsci361example 
-1. [[Binning]] - top-down split, unsupervised
+1. [[Binning]] - top-down split, [[Unsupervised Learning]]
+2. Histogram analysis 
