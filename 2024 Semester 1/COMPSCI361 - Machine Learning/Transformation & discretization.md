@@ -6,3 +6,4 @@ Doesn't reduce the number of rows but change the values
 
 1. [[2024 Semester 1/COMPSCI361 - Machine Learning/Smoothing|Smoothing]]
 2. [[Attribute, Feature construction]]
+3. [[Normalization]]

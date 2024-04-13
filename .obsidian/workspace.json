@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Attribute, Feature construction.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Normalization.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Attribute, Feature construction.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Normalization.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Attribute, Feature construction.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Normalization.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Attribute, Feature construction.md"
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Normalization.md"
               }
             }
           },
@@ -155,7 +155,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Attribute, Feature construction.md"
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Normalization.md"
               }
             }
           },
@@ -190,6 +190,7 @@
   "lastOpenFiles": [
     "2024 Semester 1/COMPSCI361 - Machine Learning/Transformation & discretization.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Attribute, Feature construction.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Normalization.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Smoothing.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Data Preprocessing.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Binning.md",
@@ -223,7 +224,6 @@
     "@images/Pasted image 20240413214300.png",
     "@images/Pasted image 20240413213930.png",
     "@images/Pasted image 20240413213800.png",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Missing not at random (MNAR).md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Untitled",
     "2024 Semester 1",
     "2023 Semester 2",
