@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Preprocessing & Evaluation.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Golden Rule of Machine Learning.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "noisy",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Preprocessing & Evaluation.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Golden Rule of Machine Learning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Preprocessing & Evaluation.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Golden Rule of Machine Learning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Preprocessing & Evaluation.md"
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Golden Rule of Machine Learning.md"
               }
             }
           },
@@ -155,7 +155,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Preprocessing & Evaluation.md"
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Golden Rule of Machine Learning.md"
               }
             }
           },
@@ -188,8 +188,9 @@
   },
   "active": "f8867d28bcdcadb3",
   "lastOpenFiles": [
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Imputation.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Data cleaning.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Preprocessing & Evaluation.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Imputation.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Multiple imputation by chain equations (MICE).md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Expectation Maximization (EM) Imputation.md",
     "@images/Pasted image 20240413221011.png",
@@ -209,7 +210,6 @@
     "@images/Pasted image 20240413212920.png",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Missing at random (MAR).md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Missing completely at random (MCAR).md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Data cleaning.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Data Preprocessing.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Data reduction.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Transformation & discretization.md",
