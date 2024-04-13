@@ -25,4 +25,5 @@ Missing data may be due to:
 	2. the attribute mean (more general case, where there are mixed values & continuous variable) ![[Pasted image 20240413214300.png]]
 		- Done automatically by many implementations $\rightarrow$ Default assumption
 		- Changes relationship with other variables $\implies$ bias in data (because you are calculating the mean based on a variable that may be dependent)
-		- The mean is calculated based on observed values in that variable (you calculated )
+		- The mean is calculated based on observed values in that variable (you calculate the mean based on the available values at the end)
+	3. the attribute mean of the samples belonging to the same class (replacing the value that has a similar target variable)
