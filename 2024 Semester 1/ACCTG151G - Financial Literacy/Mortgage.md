@@ -25,5 +25,5 @@ $\frac {7\%p.a}{12} = 0.00583333$
 	Note: Both are converted to monthly rates
 
 used the [[Present Value (PV) Interest Factor of an Annuity]]
-![[Pasted image 20240413170252.png]]![[Pasted image 20240413170335.png]]
-
+![[Pasted image 20240413170252.png]]![[Pasted image 20240413170335.png]]![[Pasted image 20240413170417.png]]
+- we find that most of the [[Mortgage]] payment is mostly [[Interest rates (r)]]![[Pasted image 20240413170449.png]]
