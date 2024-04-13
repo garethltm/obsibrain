@@ -20,5 +20,5 @@ Missing data may be due to:
 ##### Solution
 1. Fill in the missing data manually![[Pasted image 20240413213624.png]]
 2. Fill in automatically (this is more feasible rather than the manual entry for large datasets) 
-	1. a global![[Pasted image 20240413213930.png]]
+	1. a global constant (since they are all of the same type) ![[Pasted image 20240413213930.png]]
 	- However, it might still work for [[Classification]] problem & it affects the class variable
