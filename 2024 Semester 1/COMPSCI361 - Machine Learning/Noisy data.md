@@ -13,3 +13,4 @@
 - The outliers should be removed prematurely
 1. [[Binning]]
 2. [[Regression (Noisy Data)]]
+3. [[Clustering]]
