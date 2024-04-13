@@ -17,9 +17,11 @@
 - Continuous values to Binary values with [[Decision Tree(s)]] (0 or 1)
 
 ## Methods
-1. Top-down (split) vs. Bottom-up (merging) - which direction it proceeds
+1. Top-down (splitting) vs. Bottom-up (merging) - which direction it proceeds
 2. [[Supervised Learning]] vs. [[Unsupervised Learning]] (Are you taking into account the target variable) - class information usage
 #compsci361example 
 1. [[Binning]] - top-down split, [[Unsupervised Learning]]
 2. Histogram analysis - top-down split, [[Unsupervised Learning]]
-3. [[Clustering]] analysis - top-down split /bottom-up
+3. [[Clustering]] analysis - top-down split /bottom-up merge, [[Unsupervised Learning]]
+4. [[Decision Tree(s)]] analysis - top-down split, [[Supervised Learning]]
+5. Correlation analysis - 
