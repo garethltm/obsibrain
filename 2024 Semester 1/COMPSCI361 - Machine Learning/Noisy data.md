@@ -4,4 +4,10 @@
 	2. Data entry problems
 	3. Technology limitation
 	4. Inconsistency in naming convention
-- Other data probl
+- Other data problems which require [[Data cleaning]]
+	1. Duplicate records
+	2. Incomplete data
+	3. Inconsistent data
+
+### Handling Noisy Data
+- We usually remove huge outliers pred
