@@ -15,3 +15,7 @@
 4. Prepare for further analysis #compsci361example ([[Classification]])
 5. The resulting mined patterns are typically easier to understand
 6. Mining on different level of data abstraction (concept hierarchies)
+- Continuous values to Binary values with [[Decision Tree(s)]] (0 or 1)
+
+## Methods
+1. Top-down vs. 
