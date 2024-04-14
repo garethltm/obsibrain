@@ -9,4 +9,6 @@ $192.56.28.0$ can be written as $11000000.00111000.00011100.00000000$
 
 When we restricted each number (of the 4 decimal numbers) to be between 0 and 255, we just forced its binary equivalent to be expressed in 8 or less bits.
 
-The "space" of [[Internet Protocol version 4 (IPv4)]] has $2^{32}$ addresses. These are the numbers we can form using 0 or 1 in each of 32 posit
+The "space" of [[Internet Protocol version 4 (IPv4)]] has $2^{32}$ addresses. These are the numbers we can form using 0 or 1 in each of 32 positions.
+
+Each of the 4 numbers in an [[Internet Protocol version 4 (IPv4)]] address is also referred to as a byte.
