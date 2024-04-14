@@ -21,3 +21,7 @@ Smoothing by:
 ## Potential Problem
 - Skewed distribution grouping vastly different values together
 	- #compsci361example grouping 10 year olds & 30 years together
+## [[Discretization]]
+1. Equal-width (distance) partitioning
+	- You define each bin to cover the 
+2. Equal-depth (frequency) partitioning
