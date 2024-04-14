@@ -9,3 +9,6 @@ In this context, [[Imbalanced Data]] refers to an imbalanced class distribution
 		- because you may be wrong for the minority class
 	- Alternative: [[Precision (Exactness)]]-[[Recall (Completeness)]], [[ROC Curves]]
 2. [[classifier(s)]] try to reduce the overall error so they could over-predict the majority class
+## Sampling the data
+Under- & oversampling with replacement can significantly improve the prediction of the minority class
+1. Randomly undersampling the 
