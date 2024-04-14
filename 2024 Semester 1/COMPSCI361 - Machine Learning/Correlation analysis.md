@@ -17,3 +17,4 @@ $$e\tiny{ij}\normalsize = \frac {count(C = c\tiny{i}\normalsize )\times count(B 
 
 ![[Pasted image 20240414131017.png]]
 - If the distribution of the classes is the same in the neighbouring interval $\rightarrow$ you can just merge them because it doesn't have any effect on the class distribution
+![[Pasted image 20240414131122.png]]
