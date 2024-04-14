@@ -5,3 +5,8 @@ We call [[Classless Inter-Domain Routing (CIDR)]] the technique that allows us t
 Typically, what an organisation obtains from the country's Internet authority is a block of addresses. The organisation then proceeds to subdivide the block into as many subblocks as subnetworks exist in the organisation's network
 
 #infosys303example ![[Pasted image 20240414161349.png]]
+
+## Constraints on addresses in a block
+Which addresses in a block cannot be used to be allocated to devices in a [[Subnet]]?
+
+When a [[Virtual Private Cloud]] [[Classless Inter-Domain Routing (CIDR)]] block is 
