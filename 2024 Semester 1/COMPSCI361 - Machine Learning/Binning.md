@@ -23,5 +23,7 @@ Smoothing by:
 	- #compsci361example grouping 10 year olds & 30 years together
 ## [[Discretization]]
 1. Equal-width (distance) partitioning
-	- You define each bin to cover the 
-2. Equal-depth (frequency) partitioning
+	- You define each bin to cover the same length (100 samples $\rightarrow$ 10 bins each)
+	- Divides the range into N intervals of equal size: uniform grid
+	- If A & B are the lowest & highest values of the attribute, the width of intervals will be $W = \frac {}{}$
+1. Equal-depth (frequency) partitioning
