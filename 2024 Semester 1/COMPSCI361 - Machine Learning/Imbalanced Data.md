@@ -16,7 +16,7 @@ Under- & Over-sampling with replacement can significantly improve the prediction
 	- Balances the dataset
 	- Discarded observations could have important information
 	- Can introduce bias
-1. Randomly over-sampling the minority class
+2. Randomly over-sampling the minority class
 	- Randomly add more instances from the minority class
 	- No information loss
-	- Risk of [[overfit(ting)]]
+	- Risk of [[overfit(ting)]] - if your majority class have samples that are not representative of the actual majority class in reality
