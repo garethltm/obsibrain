@@ -2,4 +2,4 @@ We use the [[Internet Protocol version 4 (IPv4)]] (& [[Internet Protocol version
 
 We call [[Classless Inter-Domain Routing (CIDR)]] the technique that allows us to organise the allocation of IP addresses to the devices in a network.
 
-Typically
+Typically, what an organisation obtains from the country's Internet authority is a block of addresses. The organisation then proceeds to subdivide the block into as many subblocks as subnetworks exist in the organisation's network
