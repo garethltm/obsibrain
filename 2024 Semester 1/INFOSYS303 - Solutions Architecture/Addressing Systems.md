@@ -1,3 +1,5 @@
-how devices, connected to a network (the Internet) be found (or distinguished from anot)
+how devices, connected to a network (the Internet) be found (or distinguished from another)
 
-1. [[IPv4]]
+### Systems being used
+1. [[Internet Protocol version 4 (IPv4)]]
+2. [[Internet Protocol version 6 (IPv6)]]
