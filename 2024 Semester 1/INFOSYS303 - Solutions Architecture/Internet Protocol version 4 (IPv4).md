@@ -2,4 +2,4 @@ is an Internal Protocol addressing system where IP addresses are expressed as 4 
 
 #infosys303example 
 $192.56.28.0$
-- Each of the 4 numbers must be in the range 0 to 255
+- Each of the 4 numbers must be in the range 0 to 255![[Pasted image 20240414133145.png]]
