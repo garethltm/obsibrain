@@ -7,4 +7,5 @@ Chi-merge: $\chi  ^2$-based [[Discretization]]
 $$\chi ^2 = \displaystyle\sum_{i=1}^k \displaystyle\sum_{j=1}^r \frac {(o\tiny {ij}\normalsize -e\tiny{ij}\normalsize)^2}{e\tiny {ij}}$$
 - the test measures the correlation between the 2. If there is a correlation based on this statistic.
 	- this statistic goes over all possible combination of values for the 2 variables & calculates the distance between observed count vs the expected count, where the expected count is the Null Hypothesis = they are not correlated
-- $
+- $o\tiny {ij}$ being the actual frequency of the event ($c\tiny {i}\normalsize, b\tiny {j}$)
+- 
