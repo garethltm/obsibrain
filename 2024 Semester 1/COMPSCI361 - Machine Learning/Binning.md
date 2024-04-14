@@ -25,5 +25,9 @@ Smoothing by:
 1. Equal-width (distance) partitioning
 	- You define each bin to cover the same length (100 samples $\rightarrow$ 10 bins each)
 	- Divides the range into N intervals of equal size: uniform grid
-	- If A & B are the lowest & highest values of the attribute, the width of intervals will be $W = \frac {}{}$
-1. Equal-depth (frequency) partitioning
+	- If A & B are the lowest & highest values of the attribute, the width of intervals will be $W = \frac {B-A}{N}$
+		- Problem: 
+			- Outliers may dominate presentation
+			- Skewed data is not handled well
+2. Equal-depth (frequency) partitioning
+	- Divides the range into N intervals, each containing approximately same number of s
