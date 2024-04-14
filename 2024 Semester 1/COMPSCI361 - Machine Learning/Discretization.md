@@ -24,4 +24,4 @@
 2. Histogram analysis - top-down split, [[Unsupervised Learning]]
 3. [[Clustering]] analysis - top-down split /bottom-up merge, [[Unsupervised Learning]]
 4. [[Decision Tree(s)]] analysis - top-down split, [[Supervised Learning]]
-5. Correlation analysis - bottom-up merge, [[Supervised Learning]]
+5. [[Correlation analysis]] - bottom-up merge, [[Supervised Learning]]

@@ -21,7 +21,7 @@ Smoothing by:
 ## Potential Problem
 - Skewed distribution grouping vastly different values together
 	- #compsci361example grouping 10 year olds & 30 years together
-## [[Discretization]]
+## [[Discretization]] - Binning
 1. Equal-width (distance) partitioning
 	- You define each bin to cover the same length (100 samples $\rightarrow$ 10 bins each)
 	- Divides the range into N intervals of equal size: uniform grid
@@ -30,4 +30,6 @@ Smoothing by:
 			- Outliers may dominate presentation
 			- Skewed data is not handled well
 2. Equal-depth (frequency) partitioning
-	- Divides the range into N intervals, each containing approximately same number of s
+	- Divides the range into N intervals, each containing approximately same number of samples
+	- Good data scaling
+	- Managing categorical attributes can be tricky
