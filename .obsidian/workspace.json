@@ -11,8 +11,12 @@
             "id": "23ce24679e914fd7",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Best Machine Learning Model.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Best Machine Learning Model.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Best Machine Learning Model.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Best Machine Learning Model.md"
+              }
             }
           },
           {
@@ -146,7 +154,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {}
+              "state": {
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Best Machine Learning Model.md"
+              }
             }
           },
           {
@@ -178,6 +188,10 @@
   },
   "active": "23ce24679e914fd7",
   "lastOpenFiles": [
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Bagging.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Averaging.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Attribute, Feature construction.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/AdaBoost.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Classless Inter-Domain Routing (CIDR).md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Subnet.md",
     "@images/Pasted image 20240414161408.png",
@@ -204,15 +218,12 @@
     "@images/Pasted image 20240413231311.png",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Normalization by decimal scaling.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Transformation & discretization.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Attribute, Feature construction.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Smoothing.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Data Preprocessing.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Noisy data.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Clustering.md",
     "@images/Pasted image 20240413224824.png",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Regression (Noisy Data).md",
-    "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week11/Additive independence property.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Data cleaning.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Untitled",
     "2024 Semester 1",
     "2023 Semester 2",
