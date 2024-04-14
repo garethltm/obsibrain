@@ -11,4 +11,5 @@ Which addresses in a block cannot be used to be allocated to devices in a [[Subn
 
 When a [[Virtual Private Cloud]] [[Classless Inter-Domain Routing (CIDR)]] block is used, the following addresses cannot be used for devices:
 #infosys303example Suppose the assigned block is $10.0.0.0/24$
-- None of the 1st 4 addresses, that is, 10.0.0
+- None of the 1st 4 addresses, that is, $10.0.0.0, 10.0.0.1, 10.0.0.2$or $10.0.0.3$
+- 
