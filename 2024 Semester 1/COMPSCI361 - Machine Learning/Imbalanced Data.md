@@ -1,4 +1,6 @@
 In this context, [[Imbalanced Data]] refers to an imbalanced class distribution
+- when you have skewed distribution$\rightarrow$ you must not [[overfit(ting)]]
+	- because learning algorithms are more prone to predict the majority class
 
 #compsci361example if there are far more 1s than 0s in the class
 ### Potential Problem
