@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Discretization.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Correlation analysis.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Discretization.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Correlation analysis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Discretization.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Correlation analysis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Discretization.md"
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Correlation analysis.md"
               }
             }
           },
@@ -155,7 +155,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Discretization.md"
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Correlation analysis.md"
               }
             }
           },
@@ -188,8 +188,9 @@
   },
   "active": "e2be5e522f99b2dc",
   "lastOpenFiles": [
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Binning.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Discretization.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Correlation analysis.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Binning.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Unsupervised Learning.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Min-max normalization.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Normalization.md",
@@ -217,7 +218,6 @@
     "2024 Semester 1/COMPSCI361 - Machine Learning/Golden Rule of Machine Learning.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Preprocessing & Evaluation.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Imputation.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Multiple imputation by chain equations (MICE).md",
     "@images/Pasted image 20240413221011.png",
     "@images/Pasted image 20240413220237.png",
     "@images/Pasted image 20240413214838.png",
