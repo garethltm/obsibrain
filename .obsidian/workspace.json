@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Classless Inter-Domain Routing (CIDR).md",
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Subnet.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Classless Inter-Domain Routing (CIDR).md",
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Subnet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Classless Inter-Domain Routing (CIDR).md",
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Subnet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Classless Inter-Domain Routing (CIDR).md"
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Subnet.md"
               }
             }
           },
@@ -155,7 +155,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Classless Inter-Domain Routing (CIDR).md"
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Subnet.md"
               }
             }
           },
@@ -188,8 +188,10 @@
   },
   "active": "e2be5e522f99b2dc",
   "lastOpenFiles": [
-    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Internet Protocol version 4 (IPv4).md",
+    "@images/Pasted image 20240414161408.png",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Classless Inter-Domain Routing (CIDR).md",
+    "@images/Pasted image 20240414161349.png",
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Internet Protocol version 4 (IPv4).md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Addressing Systems.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Internet Protocol version 6 (IPv6).md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Subnet.md",
@@ -221,9 +223,7 @@
     "2024 Semester 1/COMPSCI361 - Machine Learning/Regression (Noisy Data).md",
     "@images/Pasted image 20240413224701.png",
     "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week11/Additive independence property.md",
-    "@images/Pasted image 20240413222810.png",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Data cleaning.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Averaging.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Untitled",
     "2024 Semester 1",
     "2023 Semester 2",
