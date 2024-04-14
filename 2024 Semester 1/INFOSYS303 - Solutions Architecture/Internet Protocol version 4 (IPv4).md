@@ -7,4 +7,4 @@ $192.56.28.0$
 An [[Internet Protocol version 4 (IPv4)]] address can also be written as a binary number/ For instance our address:
 $192.56.28.0$ can be written as $11000000.00111000.00011100.00000000$ 
 
-When we restricted each number (of the 4 decimal number)
+When we restricted each number (of the 4 decimal numbers) to be between 0 and 255
