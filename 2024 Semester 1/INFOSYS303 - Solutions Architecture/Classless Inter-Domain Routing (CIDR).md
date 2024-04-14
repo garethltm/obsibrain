@@ -9,4 +9,6 @@ Typically, what an organisation obtains from the country's Internet authority is
 ## Constraints on addresses in a block
 Which addresses in a block cannot be used to be allocated to devices in a [[Subnet]]?
 
-When a [[Virtual Private Cloud]] [[Classless Inter-Domain Routing (CIDR)]] block is 
+When a [[Virtual Private Cloud]] [[Classless Inter-Domain Routing (CIDR)]] block is used, the following addresses cannot be used for devices:
+#infosys303example Suppose the assigned block is $10.0.0.0/24$
+- None of the 1st 4 addresses, that is, 10.0.0
