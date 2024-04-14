@@ -13,4 +13,5 @@ $$e\tiny{ij}\normalsize = \frac {count(C = c\tiny{i}\normalsize )\times count(B 
 
 - the test measures the correlation between the 2. If there is a correlation based on this statistic.
 	- this statistic goes over all possible combination of values for the 2 variables & calculates the distance between observed count vs the expected count, where the expected count is the Null Hypothesis = they are not correlated
-The larger the $\chi ^2
+***The larger the $\chi ^2$, the less likely the 2 variables are independent (they are more related)***
+![[Pasted image 20240414131017.png]]
