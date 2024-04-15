@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Cross-Validation (CV).md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/bias-variance decomposition.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Cross-Validation (CV).md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/bias-variance decomposition.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Cross-Validation (CV).md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/bias-variance decomposition.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Cross-Validation (CV).md"
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/bias-variance decomposition.md"
               }
             }
           },
@@ -155,7 +155,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Cross-Validation (CV).md"
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/bias-variance decomposition.md"
               }
             }
           },
@@ -188,6 +188,8 @@
   },
   "active": "23ce24679e914fd7",
   "lastOpenFiles": [
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Bias-Variance vs Fundamental Trade-Off.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Cross-Validation (CV).md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/entropy.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Information gain.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/L2-regularization.md",
@@ -220,9 +222,7 @@
     "2024 Semester 1/COMPSCI361 - Machine Learning/Unsupervised Learning.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Min-max normalization.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Normalization.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Z-score normalization.md",
     "@images/Pasted image 20240413231311.png",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Normalization by decimal scaling.md",
     "@images/Pasted image 20240413224824.png",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Untitled",
     "2024 Semester 1",
