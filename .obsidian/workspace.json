@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -191,6 +190,7 @@
   "lastOpenFiles": [
     "2024 Semester 1/COMPSCI361 - Machine Learning/Precision (Exactness).md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Classifier Evaluation Metrics.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Accuracy.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Bias-Variance vs Fundamental Trade-Off.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/bias.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Fundamental Trade-Off.md",
@@ -222,7 +222,6 @@
     "2024 Semester 1/COMPSCI361 - Machine Learning/Correlation analysis.md",
     "@images/Pasted image 20240414131122.png",
     "@images/Pasted image 20240414131017.png",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Discretization.md",
     "@images/Pasted image 20240413231311.png",
     "@images/Pasted image 20240413224824.png",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Untitled",
