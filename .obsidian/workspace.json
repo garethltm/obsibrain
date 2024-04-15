@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Classifier Evaluation Metrics.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Linear Regression in 1 Dimension.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Classifier Evaluation Metrics.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Linear Regression in 1 Dimension.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Classifier Evaluation Metrics.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Linear Regression in 1 Dimension.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Classifier Evaluation Metrics.md"
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Linear Regression in 1 Dimension.md"
               }
             }
           },
@@ -155,7 +155,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Classifier Evaluation Metrics.md"
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Linear Regression in 1 Dimension.md"
               }
             }
           },
@@ -188,8 +188,9 @@
   },
   "active": "23ce24679e914fd7",
   "lastOpenFiles": [
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Accuracy.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Linear Regression.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Classifier Evaluation Metrics.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Accuracy.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Recall (Completeness).md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/F-measure.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Precision (Exactness).md",
@@ -218,7 +219,6 @@
     "@images/Pasted image 20240414133237.png",
     "@images/Pasted image 20240414133156.png",
     "@images/Pasted image 20240414133145.png",
-    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Virtual Private Cloud.md",
     "@images/Pasted image 20240414132543.png",
     "@images/Pasted image 20240414131122.png",
     "@images/Pasted image 20240414131017.png",
