@@ -4,18 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "0cfc86a90a546759",
+        "id": "e023517f7b62a9ba",
         "type": "tabs",
         "children": [
           {
-            "id": "82d025aba7f13c8d",
+            "id": "a3f21c55844e49d7",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
-              "state": {
-                "file": ".obsidian/workspace.json",
-                "staged": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
