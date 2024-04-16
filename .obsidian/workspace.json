@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "ace6333f8db843c0",
+        "id": "bd25043f489a397d",
         "type": "tabs",
         "children": [
           {
-            "id": "f2be79e772ef69ee",
+            "id": "ed3631e7efa27c8a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -82,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "conflict-files-obsidian-git.md"
+              }
             }
           },
           {
@@ -161,43 +169,44 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "f2be79e772ef69ee",
+  "active": "ed3631e7efa27c8a",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/ROC Curves.md",
-    "@images/Pasted image 20240413212030.png",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Missing completely at random (MCAR).md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Incomplete (Missing) Data.md",
-    "@images/Pasted image 20240413170929.png",
-    "@images/Pasted image 20240413170914.png",
-    "@images/Pasted image 20240413170449.png",
-    "@images/Pasted image 20240413170417.png",
-    "@images/Pasted image 20240413170335.png",
-    "@images/Pasted image 20240413170252.png",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Transformation & discretization.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Data reduction.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Data cleaning.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Data Preprocessing.md",
-    "2024 Semester 1/ACCTG151G - Financial Literacy/Variable rate mortgage.md",
-    "2024 Semester 1/ACCTG151G - Financial Literacy/Refinancing your mortgage.md",
-    "2024 Semester 1/ACCTG151G - Financial Literacy/Refinance.md",
-    "2024 Semester 1/ACCTG151G - Financial Literacy/Rates & insurance.md",
-    "2024 Semester 1/ACCTG151G - Financial Literacy/Mortgage Payments.md",
-    "2024 Semester 1/ACCTG151G - Financial Literacy/Mortgage Loan(s).md",
-    "2024 Semester 1/ACCTG151G - Financial Literacy/Maintenance & operating expenses.md",
-    "2024 Semester 1/ACCTG151G - Financial Literacy/Loan to Value Ratio (LVR).md",
-    "2024 Semester 1/ACCTG151G - Financial Literacy/Interest only mortgage.md",
-    "2024 Semester 1/ACCTG151G - Financial Literacy/Fixed rate mortgage.md",
-    "2024 Semester 1/ACCTG151G - Financial Literacy/Deposit.md",
-    "2024 Semester 1/ACCTG151G - Financial Literacy/Cost of home ownership.md",
-    "2024 Semester 1/ACCTG151G - Financial Literacy/Bank charges & Conveyancing Settlement Costs.md",
-    "2024 Semester 1/ACCTG151G - Financial Literacy/Balloon-payment mortgage.md",
-    "@images/Pasted image 20240412233715.png",
-    "@images/Pasted image 20240412231720.png",
-    "@images/Pasted image 20240412231644.png",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/XGBoost Discussion.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/L2-regularization.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/L0-regularization.md",
+    "@images/Pasted image 20240414161408.png",
+    "@images/Pasted image 20240414161349.png",
+    "@images/Pasted image 20240414133237.png",
+    "@images/Pasted image 20240414133156.png",
+    "@images/Pasted image 20240414133145.png",
+    "@images/Pasted image 20240414132543.png",
+    "@images/Pasted image 20240414131122.png",
+    "@images/Pasted image 20240414131017.png",
+    "@images/Pasted image 20240413231311.png",
+    "@images/Pasted image 20240413224824.png",
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Virtual Private Cloud.md",
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Subnet.md",
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Internet Protocol version 6 (IPv6).md",
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Internet Protocol version 4 (IPv4).md",
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Classless Inter-Domain Routing (CIDR).md",
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Addressing Systems.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/rank matrix.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/bias.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Z-score normalization.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Smoothing.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Regression (Noisy Data).md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Preprocessing & Evaluation.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Normalization.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Normalization by decimal scaling.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Noisy data.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Noise.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Multiple imputation by chain equations (MICE).md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Missing not at random (MNAR).md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Missing at random (MAR).md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Min-max normalization.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Low-rank matrix.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Imputation.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Imbalanced Data.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Expectation Maximization (EM) Imputation.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Discretization.md",
     "2024 Semester 1",
     "2023 Semester 2",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture",

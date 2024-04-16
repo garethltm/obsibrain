@@ -1,0 +1,1 @@
+random error or variance in a measured variable
