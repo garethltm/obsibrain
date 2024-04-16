@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "e023517f7b62a9ba",
+        "id": "eabdbcb8b28896be",
         "type": "tabs",
         "children": [
           {
-            "id": "a3f21c55844e49d7",
+            "id": "6e8d0158c505f7cb",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Estimate Confidence Intervals.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Estimate Confidence Intervals.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Estimate Confidence Intervals.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Estimate Confidence Intervals.md"
-              }
+              "state": {}
             }
           },
           {
@@ -175,8 +167,9 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "a3f21c55844e49d7",
+  "active": "6e8d0158c505f7cb",
   "lastOpenFiles": [
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Estimate Confidence Intervals.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Information gain.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/AdaBoost.md",
     "conflict-files-obsidian-git.md",
@@ -212,7 +205,6 @@
     "2024 Semester 1/COMPSCI361 - Machine Learning/Min-max normalization.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Low-rank matrix.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Imputation.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Imbalanced Data.md",
     "2024 Semester 1",
     "2023 Semester 2",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture",
