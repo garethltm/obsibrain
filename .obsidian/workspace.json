@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Information gain.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Estimate Confidence Intervals.md",
                 "mode": "source",
                 "source": false
               }
@@ -38,7 +38,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "true positi",
+                "query": "t-test",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,8 +65,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Information gain.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Estimate Confidence Intervals.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Information gain.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Estimate Confidence Intervals.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Information gain.md"
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Estimate Confidence Intervals.md"
               }
             }
           },
@@ -178,6 +177,7 @@
   },
   "active": "a3f21c55844e49d7",
   "lastOpenFiles": [
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Information gain.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/AdaBoost.md",
     "conflict-files-obsidian-git.md",
     "@images/Pasted image 20240414161408.png",
@@ -213,7 +213,6 @@
     "2024 Semester 1/COMPSCI361 - Machine Learning/Low-rank matrix.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Imputation.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Imbalanced Data.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Expectation Maximization (EM) Imputation.md",
     "2024 Semester 1",
     "2023 Semester 2",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture",
