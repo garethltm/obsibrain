@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "eabdbcb8b28896be",
+        "id": "8f7a5df172808b4d",
         "type": "tabs",
         "children": [
           {
-            "id": "6e8d0158c505f7cb",
+            "id": "23ce24679e914fd7",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Hypothesis Space.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -29,17 +33,27 @@
         "type": "tabs",
         "children": [
           {
+            "id": "3ad179677b7fba41",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
             "id": "a6e0090ac9cbd1f3",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "t-test",
+                "query": "accuracy",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
-                "sortOrder": "byModifiedTime"
+                "sortOrder": "alphabetical"
               }
             }
           },
@@ -50,22 +64,12 @@
               "type": "bookmarks",
               "state": {}
             }
-          },
-          {
-            "id": "295ff167151fc12a",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {
-                "sortOrder": "alphabetical"
-              }
-            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 276.5
   },
   "right": {
     "id": "29204b37fc003a9a",
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Hypothesis Space.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Hypothesis Space.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Hypothesis Space.md"
+              }
             }
           },
           {
@@ -134,7 +142,7 @@
             }
           },
           {
-            "id": "6875e9b8ebc23add",
+            "id": "2e4c1b8f3e56d2af",
             "type": "leaf",
             "state": {
               "type": "review-queue-list-view",
@@ -142,7 +150,17 @@
             }
           },
           {
-            "id": "c8c1829260e72170",
+            "id": "f6eacc6fe3f53242",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Hypothesis Space.md"
+              }
+            }
+          },
+          {
+            "id": "0f8e0230b587650a",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -150,11 +168,12 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 347.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -167,14 +186,36 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "6e8d0158c505f7cb",
+  "active": "23ce24679e914fd7",
   "lastOpenFiles": [
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Estimate Confidence Intervals.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Linear Regression.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Linear Regression in 1 Dimension.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Classifier Evaluation Metrics.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Accuracy.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Recall (Completeness).md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/F-measure.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Precision (Exactness).md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Bias-Variance vs Fundamental Trade-Off.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/bias.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Fundamental Trade-Off.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/bias-variance decomposition.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Cross-Validation (CV).md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/entropy.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Information gain.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/L2-regularization.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Regularized Regression Trees.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/L0-regularization.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Best Machine Learning Model.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Bagging.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Averaging.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Attribute, Feature construction.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/AdaBoost.md",
-    "conflict-files-obsidian-git.md",
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Classless Inter-Domain Routing (CIDR).md",
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Subnet.md",
     "@images/Pasted image 20240414161408.png",
     "@images/Pasted image 20240414161349.png",
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Internet Protocol version 4 (IPv4).md",
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Addressing Systems.md",
     "@images/Pasted image 20240414133237.png",
     "@images/Pasted image 20240414133156.png",
     "@images/Pasted image 20240414133145.png",
@@ -183,28 +224,7 @@
     "@images/Pasted image 20240414131017.png",
     "@images/Pasted image 20240413231311.png",
     "@images/Pasted image 20240413224824.png",
-    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Virtual Private Cloud.md",
-    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Subnet.md",
-    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Internet Protocol version 6 (IPv6).md",
-    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Internet Protocol version 4 (IPv4).md",
-    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Classless Inter-Domain Routing (CIDR).md",
-    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Addressing Systems.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/rank matrix.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/bias.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Z-score normalization.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Smoothing.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Regression (Noisy Data).md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Preprocessing & Evaluation.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Normalization.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Normalization by decimal scaling.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Noisy data.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Noise.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Multiple imputation by chain equations (MICE).md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Missing not at random (MNAR).md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Missing at random (MAR).md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Min-max normalization.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Low-rank matrix.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Imputation.md",
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Untitled",
     "2024 Semester 1",
     "2023 Semester 2",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture",
@@ -215,7 +235,6 @@
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction",
     "2024 Semester 1/ACCTG151G - Financial Literacy",
     "2023 Semester 2/COMPSCI235 - Software Development Methodologies/235 summary.canvas",
-    "COMPSCI235 - Software Development Methodologies/Untitled",
     "2023 Semester 2/COMPSCI367 - Artificial Intelligence/finals prep.canvas"
   ]
 }
