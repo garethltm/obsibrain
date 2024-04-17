@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "8f7a5df172808b4d",
+        "id": "2ff8dd91cc5e9232",
         "type": "tabs",
         "children": [
           {
-            "id": "23ce24679e914fd7",
+            "id": "2fb844ed83f02794",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Hypothesis Space.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Hypothesis Space.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Hypothesis Space.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Hypothesis Space.md"
-              }
+              "state": {}
             }
           },
           {
@@ -154,9 +146,7 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Hypothesis Space.md"
-              }
+              "state": {}
             }
           },
           {
@@ -186,8 +176,9 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "23ce24679e914fd7",
+  "active": "2fb844ed83f02794",
   "lastOpenFiles": [
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Hypothesis Space.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Linear Regression.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Linear Regression in 1 Dimension.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Classifier Evaluation Metrics.md",
@@ -215,7 +206,6 @@
     "@images/Pasted image 20240414161408.png",
     "@images/Pasted image 20240414161349.png",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Internet Protocol version 4 (IPv4).md",
-    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Addressing Systems.md",
     "@images/Pasted image 20240414133237.png",
     "@images/Pasted image 20240414133156.png",
     "@images/Pasted image 20240414133145.png",
