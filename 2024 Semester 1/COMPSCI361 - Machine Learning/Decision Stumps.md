@@ -11,10 +11,10 @@
 - the one that has the most correct classification
 	- the cleanest ones $\rightarrow$ less errors (data is never perfect)
 
-## 2. Accuracy Score
+## 2. [[Accuracy]] Score
 - Maybe most intuitive score: [[classification accuracy]]
 - #compsci361example ![[Pasted image 20240307152928.png]]
-- Computing classification accuracy for (egg > 1):
+- Computing classification [[accuracy]] for (egg > 1):
 	- Find most common labels if we use this rule:
 		1. When (egg $\gt$ 1), we were "sick" $\frac{2}{2}$
 		2. When (egg $\leq$ 1), we were "not sick" $\frac{3}{4}$
