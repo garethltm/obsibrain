@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Averaging.md",
+                "file": "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week10/degree of belief.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "probabi",
+                "query": "conditional",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Averaging.md",
+                "file": "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week10/degree of belief.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Averaging.md",
+                "file": "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week10/degree of belief.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Averaging.md"
+                "file": "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week10/degree of belief.md"
               }
             }
           },
@@ -156,7 +156,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Averaging.md"
+                "file": "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week10/degree of belief.md"
               }
             }
           },
@@ -187,8 +187,15 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "f3b16ea69ef2ad5d",
+  "active": "a6e0090ac9cbd1f3",
   "lastOpenFiles": [
+    "2023 Semester 2/COMPSCI235 - Software Development Methodologies/Design or Support for failure.md",
+    "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week10/Bayes Theorem.md",
+    "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week10/Bayes Rule with Existing Evidence.md",
+    "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week09/Bayes Nets.md",
+    "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week10/Bayes Classifier - Conditional Independence.md",
+    "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week11/Axiom 4 - Decomposability.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Averaging.md",
     "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week10/Zipf's law.md",
     "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week10/Why should you use NLP.md",
     "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week10/Value of smoothing.md",
@@ -208,13 +215,6 @@
     "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week10/Pipelined NLP.md",
     "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week10/overfitting.md",
     "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week10/Naïve Bayes classification.md",
-    "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week10/Naïve Bayes - Laplace smoothing.md",
-    "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week10/Natural Language Processing (NLP).md",
-    "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week10/Mutual Information.md",
-    "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week10/Bayes Classifier - Conditional Independence.md",
-    "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week10/Conditional Probability Table (CPT).md",
-    "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week10/conditional probability.md",
-    "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week10/Conditional Entropy.md",
     "@images/Pasted image 20240414161408.png",
     "@images/Pasted image 20240414161349.png",
     "@images/Pasted image 20240414133237.png",
