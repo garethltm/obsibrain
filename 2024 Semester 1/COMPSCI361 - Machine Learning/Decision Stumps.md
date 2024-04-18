@@ -8,7 +8,7 @@
 2. Search for the rule with the best score
 
 ## What would you suggest as a score?
-- the one that has the most correct classification
+- the one that has the most correct [[classification]]
 	- the cleanest ones $\rightarrow$ less errors (data is never perfect)
 
 ## 2. [[Accuracy]] Score
