@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week10/Inference with Probability (Probabilistic Inference).md",
+                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Annuity.md",
                 "mode": "source",
                 "source": false
               }
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week10/Inference with Probability (Probabilistic Inference).md",
+                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Annuity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week10/Inference with Probability (Probabilistic Inference).md",
+                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Annuity.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week10/Inference with Probability (Probabilistic Inference).md"
+                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Annuity.md"
               }
             }
           },
@@ -156,7 +155,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week10/Inference with Probability (Probabilistic Inference).md"
+                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Annuity.md"
               }
             }
           },
@@ -189,6 +188,7 @@
   },
   "active": "bd788c10c1cd1beb",
   "lastOpenFiles": [
+    "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week10/Inference with Probability (Probabilistic Inference).md",
     "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week10/Bayes Classifier - Conditional Independence.md",
     "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week04/Iterative Best Improvement (IBI).md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Imputation.md",
@@ -214,7 +214,6 @@
     "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week10/sample.md",
     "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week10/The vector space model.md",
     "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week10/Shallow NLP.md",
-    "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week10/Conditional Probability Table (CPT).md",
     "@images/Pasted image 20240414161408.png",
     "@images/Pasted image 20240414161349.png",
     "@images/Pasted image 20240414133237.png",
