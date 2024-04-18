@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "disjoin",
+                "query": "posterior",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -187,20 +187,20 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "f3b16ea69ef2ad5d",
+  "active": "a6e0090ac9cbd1f3",
   "lastOpenFiles": [
+    "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week10/conditional probability.md",
+    "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week09/Probability Theory.md",
+    "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week10/Bayes Theorem.md",
     "2023 Semester 2/INFOSYS222 - Database Systems/Discriminator.md",
     "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week10/disjoint subsets.md",
-    "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week10/Bayes Theorem.md",
     "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week10/Applying Bayes Rule.md",
     "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week10/posterior evidence (posterior probability).md",
     "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week10/sample space.md",
     "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week10/sample.md",
     "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week10/The vector space model.md",
     "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week10/Shallow NLP.md",
-    "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week09/Probability Theory.md",
     "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week10/Conditional Probability Table (CPT).md",
-    "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week10/conditional probability.md",
     "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week10/degree of belief.md",
     "2023 Semester 2/COMPSCI235 - Software Development Methodologies/Design or Support for failure.md",
     "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week10/Bayes Rule with Existing Evidence.md",
