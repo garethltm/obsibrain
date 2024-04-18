@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/compound interest.md",
+                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Interest only mortgage.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "interest",
+                "query": "balloon",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/compound interest.md",
+                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Interest only mortgage.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/compound interest.md",
+                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Interest only mortgage.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/compound interest.md"
+                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Interest only mortgage.md"
               }
             }
           },
@@ -155,7 +156,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/compound interest.md"
+                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Interest only mortgage.md"
               }
             }
           },
@@ -188,6 +189,11 @@
   },
   "active": "bd788c10c1cd1beb",
   "lastOpenFiles": [
+    "2024 Semester 1/ACCTG151G - Financial Literacy/Mortgage Loan(s).md",
+    "2024 Semester 1/ACCTG151G - Financial Literacy/Fixed rate mortgage.md",
+    "2024 Semester 1/ACCTG151G - Financial Literacy/Variable rate mortgage.md",
+    "2024 Semester 1/ACCTG151G - Financial Literacy/Balloon-payment mortgage.md",
+    "2024 Semester 1/ACCTG151G - Financial Literacy/compound interest.md",
     "2024 Semester 1/ACCTG151G - Financial Literacy/Annuity.md",
     "2024 Semester 1/ACCTG151G - Financial Literacy/Annual Percentage Rate (APR).md",
     "2024 Semester 1/ACCTG151G - Financial Literacy/Interest rates (r).md",
@@ -209,11 +215,6 @@
     "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week10/conditional probability.md",
     "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week09/Probability Theory.md",
     "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week09/Probability.md",
-    "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week10/evidence.md",
-    "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week10/posterior evidence (posterior probability).md",
-    "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week10/Bayes Theorem.md",
-    "2023 Semester 2/INFOSYS222 - Database Systems/Discriminator.md",
-    "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week10/disjoint subsets.md",
     "@images/Pasted image 20240414161408.png",
     "@images/Pasted image 20240414161349.png",
     "@images/Pasted image 20240414133237.png",
