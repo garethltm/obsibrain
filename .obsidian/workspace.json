@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Annuity.md",
+                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Future Value (FV).md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Annuity.md",
+                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Future Value (FV).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Annuity.md",
+                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Future Value (FV).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Annuity.md"
+                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Future Value (FV).md"
               }
             }
           },
@@ -155,7 +155,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Annuity.md"
+                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Future Value (FV).md"
               }
             }
           },
@@ -188,6 +188,7 @@
   },
   "active": "bd788c10c1cd1beb",
   "lastOpenFiles": [
+    "2024 Semester 1/ACCTG151G - Financial Literacy/Annuity.md",
     "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week10/Inference with Probability (Probabilistic Inference).md",
     "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week10/Bayes Classifier - Conditional Independence.md",
     "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week04/Iterative Best Improvement (IBI).md",
@@ -213,7 +214,6 @@
     "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week10/sample space.md",
     "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week10/sample.md",
     "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week10/The vector space model.md",
-    "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week10/Shallow NLP.md",
     "@images/Pasted image 20240414161408.png",
     "@images/Pasted image 20240414161349.png",
     "@images/Pasted image 20240414133237.png",
