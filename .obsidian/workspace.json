@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week10/Bayes Classifier - Conditional Independence.md",
+                "file": "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week10/Bayes Rule with Existing Evidence.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "arg max",
+                "query": "bayes",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week10/Bayes Classifier - Conditional Independence.md",
+                "file": "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week10/Bayes Rule with Existing Evidence.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week10/Bayes Classifier - Conditional Independence.md",
+                "file": "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week10/Bayes Rule with Existing Evidence.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week10/Bayes Classifier - Conditional Independence.md"
+                "file": "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week10/Bayes Rule with Existing Evidence.md"
               }
             }
           },
@@ -156,7 +156,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week10/Bayes Classifier - Conditional Independence.md"
+                "file": "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week10/Bayes Rule with Existing Evidence.md"
               }
             }
           },
@@ -189,15 +189,17 @@
   },
   "active": "f3b16ea69ef2ad5d",
   "lastOpenFiles": [
-    "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week02/Depth-First Search (DFS).md",
+    "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week09/Bayes Nets.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Averaging.md",
     "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week10/Bayes Classifier - Conditional Independence.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Imputation.md",
+    "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week02/Depth-First Search (DFS).md",
     "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week10/Statistical Language Model.md",
     "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week04/Iterative Best Improvement (IBI).md",
     "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week10/Natural Language Processing (NLP).md",
     "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week09/Probabilistic Logic.md",
     "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week09/Probabilistic Parsing.md",
     "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week09/Probabilistic Reasoning.md",
-    "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week09/Bayes Nets.md",
     "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week10/Applying Bayes Rule.md",
     "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week10/conditional probability.md",
     "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week09/Probability Theory.md",
@@ -213,8 +215,6 @@
     "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week10/Shallow NLP.md",
     "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week10/Conditional Probability Table (CPT).md",
     "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week10/degree of belief.md",
-    "2023 Semester 2/COMPSCI235 - Software Development Methodologies/Design or Support for failure.md",
-    "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week10/Bayes Rule with Existing Evidence.md",
     "@images/Pasted image 20240414161408.png",
     "@images/Pasted image 20240414161349.png",
     "@images/Pasted image 20240414133237.png",
