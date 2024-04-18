@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "bayes",
+                "query": "disjoin",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -189,6 +189,9 @@
   },
   "active": "f3b16ea69ef2ad5d",
   "lastOpenFiles": [
+    "2023 Semester 2/INFOSYS222 - Database Systems/Discriminator.md",
+    "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week10/disjoint subsets.md",
+    "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week10/Bayes Theorem.md",
     "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week10/Applying Bayes Rule.md",
     "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week10/posterior evidence (posterior probability).md",
     "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week10/sample space.md",
@@ -196,7 +199,6 @@
     "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week10/The vector space model.md",
     "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week10/Shallow NLP.md",
     "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week09/Probability Theory.md",
-    "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week10/Bayes Theorem.md",
     "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week10/Conditional Probability Table (CPT).md",
     "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week10/conditional probability.md",
     "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week10/degree of belief.md",
@@ -213,8 +215,6 @@
     "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week10/Transmission errors.md",
     "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week10/Translation Model.md",
     "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week10/The Noisy Channel Model.md",
-    "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week10/Term Frequency (tf).md",
-    "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week10/Recurrent Neural Network (RNN).md",
     "@images/Pasted image 20240414161408.png",
     "@images/Pasted image 20240414161349.png",
     "@images/Pasted image 20240414133237.png",
