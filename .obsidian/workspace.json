@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week10/Bayes Theorem.md",
+                "file": "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week10/conditional probability.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week10/Bayes Theorem.md",
+                "file": "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week10/conditional probability.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week10/Bayes Theorem.md",
+                "file": "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week10/conditional probability.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week10/Bayes Theorem.md"
+                "file": "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week10/conditional probability.md"
               }
             }
           },
@@ -156,7 +156,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week10/Bayes Theorem.md"
+                "file": "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week10/conditional probability.md"
               }
             }
           },
@@ -187,15 +187,17 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "a6e0090ac9cbd1f3",
+  "active": "f3b16ea69ef2ad5d",
   "lastOpenFiles": [
-    "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week10/conditional probability.md",
     "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week09/Probability Theory.md",
+    "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week09/Probability.md",
+    "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week10/evidence.md",
+    "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week10/posterior evidence (posterior probability).md",
     "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week10/Bayes Theorem.md",
+    "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week10/conditional probability.md",
     "2023 Semester 2/INFOSYS222 - Database Systems/Discriminator.md",
     "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week10/disjoint subsets.md",
     "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week10/Applying Bayes Rule.md",
-    "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week10/posterior evidence (posterior probability).md",
     "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week10/sample space.md",
     "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week10/sample.md",
     "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week10/The vector space model.md",
@@ -213,8 +215,6 @@
     "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week10/Value of smoothing.md",
     "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week10/Unit Measure.md",
     "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week10/Transmission errors.md",
-    "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week10/Translation Model.md",
-    "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week10/The Noisy Channel Model.md",
     "@images/Pasted image 20240414161408.png",
     "@images/Pasted image 20240414161349.png",
     "@images/Pasted image 20240414133237.png",
