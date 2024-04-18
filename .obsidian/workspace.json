@@ -11,8 +11,12 @@
             "id": "8fa1da511df1a2b5",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week06/state transition.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week12/Single-stage decision networks (SSDN).md",
+                "file": "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week06/state transition.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week12/Single-stage decision networks (SSDN).md",
+                "file": "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week06/state transition.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week12/Single-stage decision networks (SSDN).md"
+                "file": "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week06/state transition.md"
               }
             }
           },
@@ -151,7 +155,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week12/Single-stage decision networks (SSDN).md"
+                "file": "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week06/state transition.md"
               }
             }
           },
@@ -182,8 +186,12 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "3ad179677b7fba41",
+  "active": "8fa1da511df1a2b5",
   "lastOpenFiles": [
+    "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week06/sentence(s).md",
+    "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week06/semantics.md",
+    "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week06/Satisfiability Problem (SAT).md",
+    "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week12/Single-stage decision networks (SSDN).md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Imputation.md",
     "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week10/Inference with Probability (Probabilistic Inference).md",
     "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week11/Local Markov Property.md",
@@ -206,10 +214,6 @@
     "2024 Semester 1/COMPSCI361 - Machine Learning/Hypothesis Space.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Linear Regression.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Linear Regression in 1 Dimension.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Classifier Evaluation Metrics.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Accuracy.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Recall (Completeness).md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/F-measure.md",
     "@images/Pasted image 20240414161408.png",
     "@images/Pasted image 20240414161349.png",
     "@images/Pasted image 20240414133237.png",
