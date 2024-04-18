@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "posterior",
+                "query": "likel",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -187,7 +187,7 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "f3b16ea69ef2ad5d",
+  "active": "a6e0090ac9cbd1f3",
   "lastOpenFiles": [
     "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week09/Probability Theory.md",
     "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week09/Probability.md",
