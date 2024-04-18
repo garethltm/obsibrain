@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/AdaBoost.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Averaging.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "probabilisti",
+                "query": "accuracy",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/AdaBoost.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Averaging.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/AdaBoost.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Averaging.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/AdaBoost.md"
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Averaging.md"
               }
             }
           },
@@ -155,7 +156,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/AdaBoost.md"
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Averaging.md"
               }
             }
           },
@@ -188,6 +189,7 @@
   },
   "active": "2fb844ed83f02794",
   "lastOpenFiles": [
+    "2024 Semester 1/COMPSCI361 - Machine Learning/AdaBoost.md",
     "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week10/Inference with Probability (Probabilistic Inference).md",
     "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week09/Probabilistic Reasoning.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Bootstrapping.md",
@@ -213,7 +215,6 @@
     "2024 Semester 1/COMPSCI361 - Machine Learning/Best Machine Learning Model.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Bagging.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Averaging.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Attribute, Feature construction.md",
     "@images/Pasted image 20240414161408.png",
     "@images/Pasted image 20240414161349.png",
     "@images/Pasted image 20240414133237.png",

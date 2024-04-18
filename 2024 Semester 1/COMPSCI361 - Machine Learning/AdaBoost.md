@@ -2,10 +2,10 @@
 
 [[AdaBoost]] assumes we have a base binary [[classifier(s)]] that:
 - is simple enough that it does not [[overfit(ting)]] much (moving from underfit towards [[overfit(ting)]])
-- Can obtain > 50% weighted accuracy on any dataset (need at least 50% accuracy otherwise it's not really improving)
+- Can obtain > 50% weighted [[accuracy]] on any dataset (need at least 50% [[accuracy]] otherwise it's not really improving)
 
 #compsci361example [[Decision Stumps]] or low-depth [[Decision Tree(s)]]
-- Easy to modify stumps/trees to use weighted accuracy as score (because it is unlikely to [[overfit(ting)]])
+- Easy to modify stumps/trees to use weighted [[accuracy]] as score (because it is unlikely to [[overfit(ting)]])
 
 ## Overview of [[AdaBoost]]
 1. Fit a [[classifier(s)]] on the [[training data]] (more likely to underfit - [[Decision Stumps]] which will make mistakes)
@@ -21,12 +21,12 @@ giving these examples that are wrong with higher weightage to allow the [[classi
 
 ## Are [[Decision Stumps]] a good base [[classifier(s)]]?
 - They tend not to [[overfit(ting)]] (usually underfit)
-- Easy to get > 50% weighted accuracy (because it is just a [[Decision Stumps]] - 2 decisions)
+- Easy to get > 50% weighted [[accuracy]] (because it is just a [[Decision Stumps]] - 2 decisions)
 
 ## Base [[classifier(s)]] that don't work
 - Deep [[Decision Tree(s)]] (no errors to boost) - if you don't get errors, nothing will improve
-- [[Decision Stumps]] with infogain (does not guarantee > 50% weighted accuracy - because oh having clean splits into positive class & negative class. If you instead took accuracy as a splitting criterion $\rightarrow$ can guarantee good accuracy)
-- Weighted logistic [[Regression]] (does not guarantee > 50% weighted accuracy)
+- [[Decision Stumps]] with infogain (does not guarantee > 50% weighted [[accuracy]] - because oh having clean splits into positive class & negative class. If you instead took accuracy as a splitting criterion $\rightarrow$ can guarantee good [[accuracy]])
+- Weighted logistic [[Regression]] (does not guarantee > 50% weighted [[accuracy]])
 
 ## [[AdaBoost]] with shallow [[Decision Tree(s)]] gives fast/accurate [[classifier(s)]]
 - Classically viewed as one of the best off-the-shelf [[classifier(s)]]
