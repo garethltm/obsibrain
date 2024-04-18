@@ -9,11 +9,10 @@
 	- you would usually make splits, decisions and patterns that occur which aren't really useful for the data
 - For the leaves: no issue
 - For internal nodes: not the best choice
-What happens if no simple rule improves accuracy?
+#### What happens if no simple rule improves accuracy?
 - this doesn't necessarily mean we should stop - it might just mean that it is just a split
-Most common score in practice is "information gain"
+Most common score in practice is "[[Information gain]]"
 - Choose the split that decreases [[entropy]] of labels the most
-
 ### Advantages of [[Decision Tree(s)|Decision Tree(s)]]
 1. Easy to implement
 2. Interpretable
