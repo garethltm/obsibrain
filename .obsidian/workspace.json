@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "a4691f4b3a6ab7e4",
+        "id": "cda704058a6926e3",
         "type": "tabs",
         "children": [
           {
-            "id": "bd788c10c1cd1beb",
+            "id": "eefc978b100eb17c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Data Preprocessing.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -48,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "data reduction",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,8 +61,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -187,7 +182,7 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "bd788c10c1cd1beb",
+  "active": "3ad179677b7fba41",
   "lastOpenFiles": [
     "2024 Semester 1/COMPSCI361 - Machine Learning/Data reduction.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Averaging.md",
