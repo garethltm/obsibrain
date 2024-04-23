@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Solve for one, extend to many.md",
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Persona Spectrum.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Solve for one, extend to many.md",
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Persona Spectrum.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Solve for one, extend to many.md",
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Persona Spectrum.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Solve for one, extend to many.md"
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Persona Spectrum.md"
               }
             }
           },
@@ -155,7 +155,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Solve for one, extend to many.md"
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Persona Spectrum.md"
               }
             }
           },
@@ -188,9 +188,10 @@
   },
   "active": "eefc978b100eb17c",
   "lastOpenFiles": [
-    "@images/Pasted image 20240423175108.png",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Inclusive Design.md",
+    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Persona Spectrum.md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Solve for one, extend to many.md",
+    "@images/Pasted image 20240423175108.png",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Learn From Diversity.md",
     "@images/Pasted image 20240423174757.png",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Recognize Exclusion.md",
@@ -223,7 +224,6 @@
     "2024 Semester 1/COMPSCI361 - Machine Learning/Accuracy.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Supervised Learning.md",
     "@images/Pasted image 20240414161408.png",
-    "@images/Pasted image 20240414161349.png",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Untitled",
     "2024 Semester 1",
     "2023 Semester 2",
