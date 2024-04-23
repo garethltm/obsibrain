@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Inclusive Design.md",
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Top IT Challenges.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Inclusive Design.md",
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Top IT Challenges.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Inclusive Design.md",
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Top IT Challenges.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Inclusive Design.md"
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Top IT Challenges.md"
               }
             }
           },
@@ -155,7 +155,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Inclusive Design.md"
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Top IT Challenges.md"
               }
             }
           },
@@ -188,8 +188,11 @@
   },
   "active": "eefc978b100eb17c",
   "lastOpenFiles": [
-    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Inclusion.md",
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Virtual networking appliances.md",
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Virtual Private Cloud.md",
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Subnet.md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Inclusive Design.md",
+    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Inclusion.md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Diversity.md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Feature Purposes.md",
     "@images/Pasted image 20240423175405.png",
@@ -221,9 +224,6 @@
     "2024 Semester 1/COMPSCI361 - Machine Learning/Information gain.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/entropy.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Decision Tree(s).md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Greedy recursive splitting.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Decision Tree Learning.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Decision Stumps.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Untitled",
     "2024 Semester 1",
     "2023 Semester 2",
