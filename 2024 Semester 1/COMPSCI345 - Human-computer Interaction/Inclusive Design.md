@@ -21,4 +21,10 @@ In other words, barrier to participation should always be low so more can partic
 - [[Assistive]]
 - [[Accessible]]
 - [[Usable]]
-It is important to understand that there is no cli
+![[Pasted image 20240423174410.png]]
+It is important to understand that there is no clear divide between the terms. There are overlaps and they function together.
+- Everyone can get through a door
+- Door handle easy to grasp
+- Door dimensions can fit anyone
+- Door is automatic
+- A long reach door opener
