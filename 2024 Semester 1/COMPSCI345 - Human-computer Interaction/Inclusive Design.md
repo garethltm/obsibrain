@@ -48,3 +48,7 @@ There are actually many other documented principles from various sources.
 2. Can create a diversity of ways to participate in an experience
 3. Can design for interdependence and bring complementary skills together
 ## What is the difference between diversity and inclusion?
+It's like the difference between hearing and listening
+
+Hearing $\rightarrow$ You perceive the sound but you don't understand the context
+Listening $\rightarrow$ Paying atten
