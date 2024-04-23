@@ -1,0 +1,1 @@
+A community of different people (social, ethic, beliefs, ability, etc.)

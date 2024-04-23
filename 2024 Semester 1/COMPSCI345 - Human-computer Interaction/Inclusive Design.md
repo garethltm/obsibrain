@@ -47,13 +47,10 @@ There are actually many other documented principles from various sources.
 1. Can identify ability biases & mismatched interactions between people and world
 2. Can create a diversity of ways to participate in an experience
 3. Can design for interdependence and bring complementary skills together
-## What is the difference between diversity and inclusion?
+## What is the difference between [[diversity]] and [[inclusion]]?
 It's like the difference between hearing and listening
 
 Hearing $\rightarrow$ You perceive the sound but you don't understand the context
 Listening $\rightarrow$ Paying attention and actually understanding the message
 
-Diversity $\rightarrow$ A community of different people (social, ethic, beliefs, ability, etc.)
-Inclusion $\rightarrow$ The culture that creates a sense of belonging, particularly among diverse people
-
-"Inclusion implies a diverse group of people feeling like they belong. Diversity just means a group of different people, but not necessarily feeling like they belong"
+***"Inclusion implies a diverse group of people feeling like they belong. Diversity just means a group of different people, but not necessarily feeling like they belong"***
