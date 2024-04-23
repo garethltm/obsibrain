@@ -44,4 +44,7 @@ There are actually many other documented principles from various sources.
 2. Reduced friction - less barrier for users
 3. More emotional context - your design can be empathized by many (emotionally attachment is very strong)
 ## Skills of a successful inclusive designer
-1. Can identify ability biases & mismatched
+1. Can identify ability biases & mismatched interactions between people and world
+2. Can create a diversity of ways to participate in an experience
+3. Can design for interdependence and bring complementary skills together
+## What is the difference between diversity and inclusion?
