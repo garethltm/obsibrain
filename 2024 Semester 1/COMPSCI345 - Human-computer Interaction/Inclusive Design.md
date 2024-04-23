@@ -31,3 +31,4 @@ It is important to understand that there is no clear divide between the terms. T
 
 ## Principles of [[Inclusive Design]]
 1. [[Recognize Exclusion]]
+2. Learn From Diver
