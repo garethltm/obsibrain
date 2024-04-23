@@ -33,3 +33,11 @@ It is important to understand that there is no clear divide between the terms. T
 1. [[Recognize Exclusion]]
 2. [[Learn From Diversity]]
 3. [[Solve for one, extend to many]]
+There are actually many other documented principles from various sources. 
+- Be equitable
+- Be flexible
+- Be straightforward
+- Be perceptible
+- Be informative
+- Be preventive
+- B
