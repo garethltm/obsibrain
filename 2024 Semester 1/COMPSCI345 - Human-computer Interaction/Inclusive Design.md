@@ -40,4 +40,7 @@ There are actually many other documented principles from various sources.
 - Be perceptible
 - Be informative
 - Be preventive
-- B
+- Be tolerant
+- Be effortless
+- Be accommodating
+- Be consistent
