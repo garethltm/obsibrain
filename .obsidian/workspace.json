@@ -11,8 +11,12 @@
             "id": "eefc978b100eb17c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Inclusive Design.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Data Preprocessing.md",
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Inclusive Design.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Data Preprocessing.md",
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Inclusive Design.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Data Preprocessing.md"
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Inclusive Design.md"
               }
             }
           },
@@ -151,7 +155,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Data Preprocessing.md"
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Inclusive Design.md"
               }
             }
           },
@@ -182,8 +186,10 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "3ad179677b7fba41",
+  "active": "eefc978b100eb17c",
   "lastOpenFiles": [
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Data Preprocessing.md",
+    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Inclusive Design.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Data reduction.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Averaging.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Ensemble(s).md",
@@ -208,8 +214,6 @@
     "2024 Semester 1/ACCTG151G - Financial Literacy/Interest only mortgage.md",
     "2024 Semester 1/ACCTG151G - Financial Literacy/Variable rate mortgage.md",
     "2024 Semester 1/ACCTG151G - Financial Literacy/Balloon-payment mortgage.md",
-    "2024 Semester 1/ACCTG151G - Financial Literacy/Annuity.md",
-    "2024 Semester 1/ACCTG151G - Financial Literacy/Annual Percentage Rate (APR).md",
     "@images/Pasted image 20240414161408.png",
     "@images/Pasted image 20240414161349.png",
     "@images/Pasted image 20240414133237.png",
