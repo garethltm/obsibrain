@@ -18,3 +18,4 @@ Our designs should reflect diversity, as nobody is constant: everyone changes & 
 In other words, barrier to participation should always be low so more can participate
 
 - [[Universal]]
+- [[Assistive]]
