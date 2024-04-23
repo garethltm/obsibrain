@@ -1,0 +1,1 @@
+As a human being, we are naturally biased. However, exclusion happens when we solve problems with biases

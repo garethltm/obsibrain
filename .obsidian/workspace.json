@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Inclusive Design.md",
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Recognize Exclusion.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Inclusive Design.md",
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Recognize Exclusion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Inclusive Design.md",
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Recognize Exclusion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Inclusive Design.md"
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Recognize Exclusion.md"
               }
             }
           },
@@ -155,7 +155,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Inclusive Design.md"
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Recognize Exclusion.md"
               }
             }
           },
@@ -188,10 +188,11 @@
   },
   "active": "eefc978b100eb17c",
   "lastOpenFiles": [
+    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Inclusive Design.md",
+    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Recognize Exclusion.md",
     "@images/Pasted image 20240423174410.png",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Usable.md",
     "@images/Pasted image 20240423174255.png",
-    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Inclusive Design.md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Accessible.md",
     "@images/Pasted image 20240423174218.png",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Assistive.md",
@@ -223,7 +224,6 @@
     "@images/Pasted image 20240414161349.png",
     "@images/Pasted image 20240414133237.png",
     "@images/Pasted image 20240414133156.png",
-    "@images/Pasted image 20240414133145.png",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Untitled",
     "2024 Semester 1",
     "2023 Semester 2",

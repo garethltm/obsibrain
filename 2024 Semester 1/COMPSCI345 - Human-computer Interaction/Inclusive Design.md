@@ -28,3 +28,6 @@ It is important to understand that there is no clear divide between the terms. T
 - Door dimensions can fit anyone
 - Door is automatic
 - A long reach door opener
+
+## Principles of [[Inclusive Design]]
+1. [[Recognize Exclusion]]
