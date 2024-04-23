@@ -41,4 +41,7 @@ There are actually many other documented principles from various sources.
 - Be consistent
 ## Benefits of [[Inclusive Design]]
 1. Increased access - more users can use your design
-2. Re
+2. Reduced friction - less barrier for users
+3. More emotional context - your design can be empathized by many (emotionally attachment is very strong)
+## Skills of a successful inclusive designer
+1. Can identify ability biases & mismatched
