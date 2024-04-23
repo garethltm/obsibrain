@@ -54,3 +54,9 @@ Hearing $\rightarrow$ You perceive the sound but you don't understand the contex
 Listening $\rightarrow$ Paying attention and actually understanding the message
 
 ***"Inclusion implies a diverse group of people feeling like they belong. Diversity just means a group of different people, but not necessarily feeling like they belong"***
+## [[Diversity]] WITHOUT [[Inclusion]]
+Ever come across an organization that says it promotes [[Diversity]], but just on a surface level?
+Treating it just like a box to check?
+This creates a false sense of security
+
+"[[div]]"
