@@ -51,4 +51,7 @@ There are actually many other documented principles from various sources.
 It's like the difference between hearing and listening
 
 Hearing $\rightarrow$ You perceive the sound but you don't understand the context
-Listening $\rightarrow$ Paying atten
+Listening $\rightarrow$ Paying attention and actually understanding the message
+
+Diversity $\rightarrow$ A community of different people (social, ethic, beliefs, ability, etc.)
+Inclusion $\rightarrow$ The culture that ceeat
