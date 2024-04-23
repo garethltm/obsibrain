@@ -59,4 +59,4 @@ Ever come across an organization that says it promotes [[Diversity]], but just o
 Treating it just like a box to check?
 This creates a false sense of security
 
-"[[div]]"
+***"[[Diversity]] is USELESS without [[Inclusion]]"***
