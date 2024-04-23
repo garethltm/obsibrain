@@ -10,4 +10,9 @@ If we assume that normal = perceiving with all 5 senses, we are ignoring much of
 
 ### Normal = Average
 If you design for average, you design for no one. (as not one is at the same dimension)
-- It is not difficult to design something that's cu
+- It is not difficult to design something that's customizable while keeping the cost minimum
+
+### Why is it important?
+It allows us to make a great product for the greatest number of people
+Our designs should reflect diversity, as nobody is constant: everyone changes & adapts to the context around them
+In other words, barrier to participation shou
