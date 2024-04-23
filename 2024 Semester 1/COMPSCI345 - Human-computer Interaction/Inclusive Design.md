@@ -19,3 +19,4 @@ In other words, barrier to participation should always be low so more can partic
 
 - [[Universal]]
 - [[Assistive]]
+- [[Accessible]]

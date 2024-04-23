@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Assistive.md",
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Accessible.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Assistive.md",
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Accessible.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Assistive.md",
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Accessible.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Assistive.md"
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Accessible.md"
               }
             }
           },
@@ -155,7 +155,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Assistive.md"
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Accessible.md"
               }
             }
           },
@@ -189,7 +189,9 @@
   "active": "eefc978b100eb17c",
   "lastOpenFiles": [
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Inclusive Design.md",
+    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Accessible.md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Assistive.md",
+    "@images/Pasted image 20240423174119.png",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Universal.md",
     "@images/Pasted image 20240423174028.png",
     "@images/Pasted image 20240423173654.png",
@@ -215,7 +217,6 @@
     "2024 Semester 1/ACCTG151G - Financial Literacy/compound interest.md",
     "2024 Semester 1/ACCTG151G - Financial Literacy/Mortgage Loan(s).md",
     "2024 Semester 1/ACCTG151G - Financial Literacy/Fixed rate mortgage.md",
-    "2024 Semester 1/ACCTG151G - Financial Literacy/Interest only mortgage.md",
     "@images/Pasted image 20240414161408.png",
     "@images/Pasted image 20240414161349.png",
     "@images/Pasted image 20240414133237.png",
@@ -223,7 +224,6 @@
     "@images/Pasted image 20240414133145.png",
     "@images/Pasted image 20240414132543.png",
     "@images/Pasted image 20240414131122.png",
-    "@images/Pasted image 20240414131017.png",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Untitled",
     "2024 Semester 1",
     "2023 Semester 2",
