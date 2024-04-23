@@ -15,4 +15,6 @@ If you design for average, you design for no one. (as not one is at the same dim
 ### Why is it important?
 It allows us to make a great product for the greatest number of people
 Our designs should reflect diversity, as nobody is constant: everyone changes & adapts to the context around them
-In other words, barrier to participation shou
+In other words, barrier to participation should always be low so more can participate
+
+- [[Universal]]

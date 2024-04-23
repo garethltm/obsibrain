@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Inclusive Design.md",
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Universal.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Inclusive Design.md",
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Universal.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Inclusive Design.md",
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Universal.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Inclusive Design.md"
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Universal.md"
               }
             }
           },
@@ -155,7 +155,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Inclusive Design.md"
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Universal.md"
               }
             }
           },
@@ -188,9 +188,10 @@
   },
   "active": "eefc978b100eb17c",
   "lastOpenFiles": [
+    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Inclusive Design.md",
+    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Universal.md",
     "@images/Pasted image 20240423173654.png",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Data Preprocessing.md",
-    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Inclusive Design.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Data reduction.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Averaging.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Ensemble(s).md",
@@ -223,7 +224,6 @@
     "@images/Pasted image 20240414131122.png",
     "@images/Pasted image 20240414131017.png",
     "@images/Pasted image 20240413231311.png",
-    "@images/Pasted image 20240413224824.png",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Untitled",
     "2024 Semester 1",
     "2023 Semester 2",
