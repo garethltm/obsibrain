@@ -54,4 +54,6 @@ Hearing $\rightarrow$ You perceive the sound but you don't understand the contex
 Listening $\rightarrow$ Paying attention and actually understanding the message
 
 Diversity $\rightarrow$ A community of different people (social, ethic, beliefs, ability, etc.)
-Inclusion $\rightarrow$ The culture that ceeat
+Inclusion $\rightarrow$ The culture that creates a sense of belonging, particularly among diverse people
+
+"Inclusion implies a diverse group of people feeling like they belong. Diversity just means a group of different people, but not necessarily feeling like they belong"
