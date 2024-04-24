@@ -6,6 +6,6 @@
 	- we want to find the best fitting line
 ## How it happens?
 ![[Pasted image 20240424174053.png]]
-- We find the eigenvectors (principal components)
+- We find the [[eigenvectors (principal components)]] & [[eigenvalues]]
 ## Summary
 - reducing a 2D space into 1

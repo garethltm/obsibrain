@@ -1,0 +1,1 @@
+- the amount of variance along the corresponding [[eigenvectors (principal components)]] (new attribute)
