@@ -7,5 +7,8 @@
 ## How it happens?
 ![[Pasted image 20240424174053.png]]
 - We find the [[eigenvectors (principal components)]] & [[eigenvalues]] of the covariance matrix of the input attributes![[IMG_106235EA91B4-1.jpeg]]
+## How can it be accomplished
+- rotating the axes (if the data is centered)
 ## Summary
 - reducing a 2D space into 1
+- 1st component is most important because it explains the variability in the data
