@@ -20,21 +20,8 @@
               }
             },
             "group": "add87aa0a083b30a"
-          },
-          {
-            "id": "dbea407a627e54d5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Irrelevant attributes.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "0c31aa5406be9571",
@@ -143,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Irrelevant attributes.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Attribute (Feature) Selection.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Irrelevant attributes.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Attribute (Feature) Selection.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -183,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Irrelevant attributes.md"
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Attribute (Feature) Selection.md"
               }
             }
           },
@@ -213,7 +200,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Irrelevant attributes.md"
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Attribute (Feature) Selection.md"
               }
             }
           },
@@ -244,12 +231,12 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "dbea407a627e54d5",
+  "active": "eefc978b100eb17c",
   "lastOpenFiles": [
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Data Mining.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Irrelevant attributes.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Attribute (Feature) Selection.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Redundant attributes.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Data Mining.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Principal Components Analysis (PCA).md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/eigenvalues.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/variance.md",
