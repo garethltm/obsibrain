@@ -1,1 +1,3 @@
-orthogonal unit vectors in directions of data variability
+- orthogonal unit vectors in directions of data variability
+- each principal components is a new axis in your new coordinate system created
+- they define the new attribute space

@@ -5,6 +5,7 @@
 - minimizes the sum-of-squares of the projection errors, indicated by the blue lines
 	- we want to find the best fitting line
 ## How it happens?
+![[Pasted image 20240424174053.png]]
 - We find the eigenvectors (principal components)
 ## Summary
 - reducing a 2D space into 1
