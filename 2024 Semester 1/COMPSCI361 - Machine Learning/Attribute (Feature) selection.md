@@ -1,0 +1,2 @@
+- reduce dimensionality by removing set of attributes
+	- not transforming our input space into another spac
