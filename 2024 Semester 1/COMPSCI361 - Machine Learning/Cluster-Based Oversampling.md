@@ -1,1 +1,1 @@
-- [[Clustering]] positive & negative instances independently, then apply 
+- [[Clustering]] positive & negative instances independently, then apply [[Randomly over-sampling the minority class]] & [[Randomly under-sampling the majority class]] techn

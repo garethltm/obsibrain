@@ -11,9 +11,5 @@ In this context, [[Imbalanced Data]] refers to an imbalanced class distribution
 2. [[classifier(s)]] try to reduce the overall error so they could over-predict the majority class
 ## Sampling the data
 Under- & Over-sampling with replacement can significantly improve the prediction of the minority class
-1. Randomly under-sampling the majority class
-
-2. Randomly over-sampling the minority class
-	- Randomly add more instances from the minority class
-	- No information loss
-	- Risk of [[overfit(ting)]] - if your majority class have samples that are not representative of the actual majority class in reality
+1. [[Randomly under-sampling the majority class]]
+2. [[Randomly over-sampling the minority class]]
