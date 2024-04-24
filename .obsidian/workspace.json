@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Clustering.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Dimensionality reduction.md",
                 "mode": "source",
                 "source": false
               }
@@ -34,7 +34,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Clustering.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Dimensionality reduction.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Clustering.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Dimensionality reduction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Clustering.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Dimensionality reduction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Clustering.md"
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Dimensionality reduction.md"
               }
             }
           },
@@ -200,7 +200,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Clustering.md"
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Dimensionality reduction.md"
               }
             }
           },

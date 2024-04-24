@@ -5,3 +5,6 @@
 ## Strategies
 - [[Principal Components Analysis (PCA)]]
 - [[Attribute (Feature) selection]]
+## Why [[Dimensionality reduction]]?
+- Avoid the [[Curse of dimensionality]]
+- Help 
