@@ -16,3 +16,4 @@
 ![[Pasted image 20240425014235.png]]
 - Don't remove if 0 because it is calculating "linearly" 
 	- if it is non-linear, you can divide your space & find multiple linear models (piecewise linear)
+- How can it be used to remove redundant (input) or unimportant attributes (target variable)? - Pairwise
