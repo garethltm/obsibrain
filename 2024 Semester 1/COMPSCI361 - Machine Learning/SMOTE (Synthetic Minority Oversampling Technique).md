@@ -7,3 +7,6 @@
 - Create a new instance between these instances, assign it to the minority class
 
 ![[Pasted image 20240424170705.png]]
+## Assumption
+1. it is a clean cluster $\rightarrow$ there is a clean separation between the 2 classes
+2. if mixed $\rightarrow$ it is less likely that the green points would belong to the red classes
