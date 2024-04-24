@@ -6,6 +6,7 @@
       {
         "id": "cda704058a6926e3",
         "type": "tabs",
+        "dimension": 71.43884892086331,
         "children": [
           {
             "id": "eefc978b100eb17c",
@@ -13,11 +14,55 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Data reduction.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Attribute, Feature construction.md",
                 "mode": "source",
                 "source": false
               }
-            }
+            },
+            "group": "add87aa0a083b30a"
+          }
+        ]
+      },
+      {
+        "id": "0c31aa5406be9571",
+        "type": "tabs",
+        "dimension": 28.561151079136692,
+        "children": [
+          {
+            "id": "0151c92ea22314db",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Attribute, Feature construction.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1,
+                  "close": false
+                }
+              }
+            },
+            "group": "add87aa0a083b30a"
           }
         ]
       }
@@ -85,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Data reduction.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Attribute, Feature construction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Data reduction.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Attribute, Feature construction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Data reduction.md"
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Attribute, Feature construction.md"
               }
             }
           },
@@ -155,7 +200,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Data reduction.md"
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Attribute, Feature construction.md"
               }
             }
           },
@@ -186,8 +231,11 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "eefc978b100eb17c",
+  "active": "0151c92ea22314db",
   "lastOpenFiles": [
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Dimensionality reduction.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Principal Components Analysis (PCA).md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Data reduction.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Data Preprocessing.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/SMOTE (Synthetic Minority Oversampling Technique).md",
     "@images/Pasted image 20240424170705.png",
@@ -217,12 +265,9 @@
     "@images/Pasted image 20240423175221.png",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Solve for one, extend to many.md",
     "@images/Pasted image 20240423175108.png",
-    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Learn From Diversity.md",
     "@images/Pasted image 20240423174757.png",
-    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Recognize Exclusion.md",
     "@images/Pasted image 20240423174534.png",
     "@images/Pasted image 20240423174410.png",
-    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Usable.md",
     "@images/Pasted image 20240423174255.png",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Untitled",
     "2024 Semester 1",
