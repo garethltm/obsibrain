@@ -8,6 +8,6 @@
 ## How
 1. [[Dimensionality reduction]] (number of features being reduced)
 2. [[Numerosity reduction]] (number of examples/instances/entries)
-3. [[2024 Semester 1/COMPSCI361 - Machine Learning/Data compression|Data compression]] (combination of both [[Dimensionality reduction]] & Numerosity)
+3. [[2024 Semester 1/COMPSCI361 - Machine Learning/Data compression|Data compression]] (combination of both [[Dimensionality reduction]] & [[Numerosity reduction]])
 
 ***Every model is a compression of your algorithm in some way***
