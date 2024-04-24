@@ -2,4 +2,5 @@
 	1. [[Redundant attributes]]
 	2. [[Irrelevant attributes]]
 ## Methods
-1. Filters
+1. [[Filters]]
+2. [[Wrappers]]
