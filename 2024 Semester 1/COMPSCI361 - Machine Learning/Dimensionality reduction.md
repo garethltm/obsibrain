@@ -3,8 +3,8 @@
 ## When to use
 - [[Curse of dimensionality]]
 ## Strategies/Techniques
-- [[Principal Components Analysis (PCA)]]
-- [[Attribute (Feature) selection]]
+- [[Unsupervised Learning]]: [[Principal Components Analysis (PCA)]]
+- [[Supervised Learning]]-[[Attribute (Feature) selection]]
 ## Why [[Dimensionality reduction]]?
 - Avoid the [[Curse of dimensionality]]
 - Help eliminate irrelevant/redundant features & reduce [[Noise]]
