@@ -1,1 +1,1 @@
-$$\chi ^2 = $$
+$$\chi ^2 = \displaystyle\sum_{i=1}^c \displaystyle\sum_{i=1}^r \frac {}{}$$
