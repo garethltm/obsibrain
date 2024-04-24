@@ -4,3 +4,4 @@
 ## Methods
 1. [[Filters]]
 2. [[Wrappers]]
+- difference is how you see [[Attribute (Feature) Selection]] task as separate/combined from the learning task
