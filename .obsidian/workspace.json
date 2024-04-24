@@ -58,7 +58,7 @@
                   "linkStrength": 1,
                   "linkDistance": 250,
                   "scale": 1,
-                  "close": false
+                  "close": true
                 }
               }
             },
@@ -231,11 +231,12 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "eefc978b100eb17c",
+  "active": "0151c92ea22314db",
   "lastOpenFiles": [
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Attribute (Feature) selection.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Dimensionality reduction.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Attribute (Feature) construction.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Transformation & discretization.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Dimensionality reduction.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Principal Components Analysis (PCA).md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Data reduction.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Data Preprocessing.md",
@@ -261,7 +262,6 @@
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Inclusive Design.md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Inclusion.md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Diversity.md",
-    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Feature Purposes.md",
     "@images/Pasted image 20240423175405.png",
     "@images/Pasted image 20240423175221.png",
     "@images/Pasted image 20240423175108.png",
