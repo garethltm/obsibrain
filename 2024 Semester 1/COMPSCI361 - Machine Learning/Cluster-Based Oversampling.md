@@ -1,2 +1,1 @@
-- [[Clustering]] positive & negative instances independently
-- 
+- [[Clustering]] positive & negative instances independently, then apply 

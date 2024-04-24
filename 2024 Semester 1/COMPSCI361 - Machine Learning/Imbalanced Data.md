@@ -12,10 +12,7 @@ In this context, [[Imbalanced Data]] refers to an imbalanced class distribution
 ## Sampling the data
 Under- & Over-sampling with replacement can significantly improve the prediction of the minority class
 1. Randomly under-sampling the majority class
-	- Randomly removes instances from the majority class
-	- Balances the dataset
-	- Discarded observations could have important information
-	- Can introduce bias
+
 2. Randomly over-sampling the minority class
 	- Randomly add more instances from the minority class
 	- No information loss
