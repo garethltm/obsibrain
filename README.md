@@ -1,7 +1,6 @@
-# 2nd Brain idk productivity but I hope this works
-- Consisting of my [[Knowledge Base (KB)]]
+# 2nd Brain idk productivity but I hope this works 🤡 
 
-### Windows OS
+### Windows OS :trollface:
 1. Install Git (https://git-scm.com/downloads)
 	- If Git already exists
 		`git clone https://github.com/git/git`
