@@ -11,3 +11,4 @@
 	- We want to filter the features that are correlated with each other - Pairwise-comparison
 2. For numerical data:
 	- can be compared using [[Pearson's correlation coefficient]]
+#### So what does correlation measure
