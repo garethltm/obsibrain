@@ -4,4 +4,4 @@
 ## How it happens
 - When dimensionality increases, data becomes increasingly sparse (while the row is small)
 ## Why is it important?
-- Density & distance between points, which is critical [[clus]]
+- Density & distance between points, which is critical to [[Clustering]], outlier analysis, [[classification]], [[Regression]] becomes less meaningful
