@@ -7,7 +7,7 @@
 - Idea of [[Entropy (or self-information)]]
 	- how difficult is is to compress information given a particular language 
 		- more complex = more information needs to be decoded
-- [[Data compression]]
+- [[2023 Semester 2/COMPSCI367 - Artificial Intelligence/week10/Data compression]]
 - Truly random data can't be compressed
 	- Ordered data can be:
 		- Compression is limited by a.) [[Entropy (or self-information)]] ([[H]])
