@@ -11,6 +11,8 @@
 - rotating the axes (if the data is centered)
 ## Steps
 Given n data instances (each a vector in d-dimensions), find $k \le d$ [[eigenvectors (principal components)]] that can be best used to represent the data
+1. Normalize input data: each attribute falls within the same range
+2. Compute [[eigenvectors (principal components)]] using [[eigenvalues]] decomposition of the covaira
 ## Summary
 - reducing a 2D space into 1
 - 1st component is most important because it explains the variability in the data
