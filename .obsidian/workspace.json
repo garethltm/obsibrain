@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Dimensionality reduction.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Principal Components Analysis (PCA).md",
                 "mode": "source",
                 "source": false
               }
@@ -34,7 +34,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Dimensionality reduction.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Principal Components Analysis (PCA).md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Dimensionality reduction.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Principal Components Analysis (PCA).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Dimensionality reduction.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Principal Components Analysis (PCA).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Dimensionality reduction.md"
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Principal Components Analysis (PCA).md"
               }
             }
           },
@@ -200,7 +200,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Dimensionality reduction.md"
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Principal Components Analysis (PCA).md"
               }
             }
           },
@@ -233,10 +233,10 @@
   },
   "active": "eefc978b100eb17c",
   "lastOpenFiles": [
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Dimensionality reduction.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Curse of dimensionality.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Clustering.md",
     "@images/Pasted image 20240424172241.png",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Dimensionality reduction.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Data reduction.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Data compression.md",
     "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week10/Data compression.md",
