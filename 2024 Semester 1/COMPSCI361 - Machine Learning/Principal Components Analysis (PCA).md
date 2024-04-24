@@ -1,1 +1,1 @@
-- find [[principal subspace]]
+- find [[principal subspace]] (denoted by the magenta line) such that th
