@@ -7,4 +7,4 @@
 - difference is how you see [[Attribute (Feature) Selection]] task as separate/combined from the learning task
 ## [[Attribute (Feature) Selection]] using Correlation
 1. For nominal data:
-	- given 2 attributes A & B with values $a\tiny {1}\normalsize ,...,a\tiny {c}$ &  $b\tiny {1}\normalsize ,...,b\tiny {r}$ the correlation can be calculated using the chi-square ($\chi ^2$)test
+	- given 2 attributes A & B with values $a\tiny {1}\normalsize ,...,a\tiny {c}$ &  $b\tiny {1}\normalsize ,...,b\tiny {r}$ the correlation can be calculated using the chi-squared test
