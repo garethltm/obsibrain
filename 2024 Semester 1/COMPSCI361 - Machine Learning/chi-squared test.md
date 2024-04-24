@@ -1,1 +1,2 @@
-$$\chi ^2 = \displaystyle\sum_{i=1}^c \displaystyle\sum_{i=1}^r \frac {(\huge o\tiny {ij}\normalsize - \huge {e})}{}$$
+$$\chi ^2 = \displaystyle\sum_{i=1}^c \displaystyle\sum_{i=1}^r \frac {(\huge o\tiny {ij}\normalsize - \huge {e}\tiny {ij}\normalsize)^2}{\huge {e}\tiny{ij}}$$
+- with $\huge {e}\tiny 
