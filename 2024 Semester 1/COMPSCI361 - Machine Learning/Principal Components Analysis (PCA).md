@@ -1,1 +1,1 @@
-- find lower-dimensional space, known
+- find [[principal subspace]]
