@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Filters.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Attribute (Feature) Selection.md",
                 "mode": "source",
                 "source": false
               }
@@ -34,7 +34,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Filters.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Attribute (Feature) Selection.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Filters.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Attribute (Feature) Selection.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Filters.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Attribute (Feature) Selection.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Filters.md"
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Attribute (Feature) Selection.md"
               }
             }
           },
@@ -200,7 +200,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Filters.md"
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Attribute (Feature) Selection.md"
               }
             }
           },
@@ -233,9 +233,10 @@
   },
   "active": "eefc978b100eb17c",
   "lastOpenFiles": [
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Attribute (Feature) construction.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Attribute (Feature) Selection.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Wrappers.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Filters.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Wrappers.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Irrelevant attributes.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Redundant attributes.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Data Mining.md",
@@ -256,7 +257,6 @@
     "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week10/Data compression.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Numerosity reduction.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Log-Linear Model.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Attribute (Feature) construction.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Transformation & discretization.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Data Preprocessing.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/SMOTE (Synthetic Minority Oversampling Technique).md",
