@@ -14,10 +14,8 @@ Given $n$ data instances (each a vector in d-dimensions), find $k \le d$ [[eigen
 1. Normalize input data: each attribute falls within the same range
 2. Compute [[eigenvectors (principal components)]] using [[eigenvalues]] decomposition of the covariance of the normalized data
 3. The input data is a linear combination of the [[eigenvectors (principal components)]] - we only want to use $k$
-4. The [[eigenvectors (principal components)]] are sorted in order of:
-	- decreasing "significance" or strength
-	- #compsci361example measured by the [[eigenvalues]]
-1. Since the [[eigenvectors (principal components)]] are sorted, the size of the data could be reduced by eliminating $d-k$ weak [[eigenvectors (principal components)]] 
+4. The [[eigenvectors (principal components)]] are sorted in order of decreasing "significance" or strength #compsci361example measured by the [[eigenvalues]]
+5. Since the [[eigenvectors (principal components)]] are sorted, the size of the data could be reduced by eliminating $d-k$ weak [[eigenvectors (principal components)]] #
 ## Summary
 - reducing a 2D space into 1
 - 1st component is most important because it explains the variability in the data
