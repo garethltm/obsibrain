@@ -13,3 +13,4 @@ When a [[Virtual Private Cloud]] [[Classless Inter-Domain Routing (CIDR)]] block
 #infosys303example Suppose the assigned block is $10.0.0.0/24$
 - None of the 1st 4 addresses, that is, $10.0.0.0, 10.0.0.1, 10.0.0.2$ or $10.0.0.3$
 - The last address in the block $10.0.0.255$
+	- last address is used for broadcast address ()
