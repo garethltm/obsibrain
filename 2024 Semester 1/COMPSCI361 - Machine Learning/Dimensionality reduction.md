@@ -1,1 +1,2 @@
 - [[Principal Components Analysis (PCA)]]
+- [[Attribute (Feature) selection]]

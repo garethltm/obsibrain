@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Attribute, Feature construction.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Dimensionality reduction.md",
                 "mode": "source",
                 "source": false
               }
@@ -34,7 +34,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Attribute, Feature construction.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Dimensionality reduction.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Attribute, Feature construction.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Dimensionality reduction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Attribute, Feature construction.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Dimensionality reduction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Attribute, Feature construction.md"
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Dimensionality reduction.md"
               }
             }
           },
@@ -200,7 +200,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Attribute, Feature construction.md"
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Dimensionality reduction.md"
               }
             }
           },
@@ -231,8 +231,10 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "0151c92ea22314db",
+  "active": "eefc978b100eb17c",
   "lastOpenFiles": [
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Attribute (Feature) construction.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Transformation & discretization.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Dimensionality reduction.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Principal Components Analysis (PCA).md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Data reduction.md",
@@ -261,9 +263,7 @@
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Diversity.md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Feature Purposes.md",
     "@images/Pasted image 20240423175405.png",
-    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Persona Spectrum.md",
     "@images/Pasted image 20240423175221.png",
-    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Solve for one, extend to many.md",
     "@images/Pasted image 20240423175108.png",
     "@images/Pasted image 20240423174757.png",
     "@images/Pasted image 20240423174534.png",
