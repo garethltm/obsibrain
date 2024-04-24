@@ -4,7 +4,7 @@
 - [[Curse of dimensionality]]
 ## Strategies/Techniques
 - [[Unsupervised Learning]] - [[Principal Components Analysis (PCA)]]
-- [[Supervised Learning]] - [[Attribute (Feature) selection]]
+- [[Supervised Learning]] - [[Attribute (Feature) Selection]]
 	- exploiting the target class
 ## Why [[Dimensionality reduction]]?
 - Avoid the [[Curse of dimensionality]]

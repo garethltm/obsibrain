@@ -18,7 +18,7 @@ Given $n$ data instances (each a vector in d-dimensions), find $k \le d$ [[eigen
 5. Since the [[eigenvectors (principal components)]] are sorted, the size of the data could be reduced by eliminating $d-k$ weak [[eigenvectors (principal components)]] #compsci361example those with low [[variance]] (keeping only the top $k$ features)
 The resulting attributes are uncorrelated
 ## How can you apply [[Principal Components Analysis (PCA)]] on categorical data?
-- You have to transform your categorical data into binary features $\rightarrow$
+- You have to transform your categorical data into binary features $\rightarrow$ [[Normalization]] $\rightarrow$ apply [[Principal Components Analysis (PCA)]]
 ## Summary
 - reducing a 2D space into 1
 - 1st component is most important because it explains the variability in the data
