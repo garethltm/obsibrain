@@ -20,8 +20,21 @@
               }
             },
             "group": "add87aa0a083b30a"
+          },
+          {
+            "id": "020b53e65c7432f1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/chi-squared test.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "0c31aa5406be9571",
@@ -93,7 +106,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "$/chi",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -131,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Attribute (Feature) Selection.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/chi-squared test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Attribute (Feature) Selection.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/chi-squared test.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +184,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Attribute (Feature) Selection.md"
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/chi-squared test.md"
               }
             }
           },
@@ -201,7 +214,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Attribute (Feature) Selection.md"
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/chi-squared test.md"
               }
             }
           },
@@ -232,10 +245,11 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "a6e0090ac9cbd1f3",
+  "active": "020b53e65c7432f1",
   "lastOpenFiles": [
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Attribute (Feature) construction.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Attribute (Feature) Selection.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/chi-squared test.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Attribute (Feature) construction.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Filters.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Wrappers.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Irrelevant attributes.md",
@@ -266,7 +280,6 @@
     "2024 Semester 1/COMPSCI361 - Machine Learning/Imbalanced Data.md",
     "@images/Pasted image 20240424170220.png",
     "@images/Pasted image 20240424170206.png",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Randomly over-sampling the minority class.md",
     "@images/Pasted image 20240423175405.png",
     "@images/Pasted image 20240423175221.png",
     "@images/Pasted image 20240423175108.png",
