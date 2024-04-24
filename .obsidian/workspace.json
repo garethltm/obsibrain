@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Attribute (Feature) selection.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Pearson's correlation coefficient.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Attribute (Feature) selection.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Pearson's correlation coefficient.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Attribute (Feature) selection.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Pearson's correlation coefficient.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Attribute (Feature) selection.md"
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Pearson's correlation coefficient.md"
               }
             }
           },
@@ -155,7 +155,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Attribute (Feature) selection.md"
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Pearson's correlation coefficient.md"
               }
             }
           },
@@ -188,6 +188,7 @@
   },
   "active": "23ce24679e914fd7",
   "lastOpenFiles": [
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Attribute (Feature) selection.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Hypothesis Space.md",
     "@images/Pasted image 20240424174053.png",
     "@images/Pasted image 20240424173633.png",
@@ -216,7 +217,6 @@
     "2024 Semester 1/COMPSCI361 - Machine Learning/Data compression.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Curse of dimensionality.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Cluster-Based Oversampling.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Attribute (Feature) selection.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Attribute (Feature) construction.md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Usable.md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Assistive.md",
