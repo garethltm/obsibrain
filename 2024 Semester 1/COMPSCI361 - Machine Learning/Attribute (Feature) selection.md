@@ -9,3 +9,5 @@
 1. For nominal data:
 	- given 2 attributes A & B with values $a\tiny {1}\normalsize ,...,a\tiny {c}$ &  $b\tiny {1}\normalsize ,...,b\tiny {r}$ the correlation can be calculated using the [[chi-squared test]] ($\chi ^2$) test (for categorical/numerical features)
 	- We want to filter the features that are correlated with each other - Pairwise-comparison
+2. For numerical data:
+	- can be compared using [[Pearson's correlation coefficient]]
