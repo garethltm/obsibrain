@@ -11,4 +11,8 @@
 	- We want to filter the features that are correlated with each other - Pairwise-comparison
 2. For numerical data:
 	- can be compared using [[Pearson's correlation coefficient]]
-#### So what does correlation measure
+#### So what does correlation measure?
+
+![[Pasted image 20240425014235.png]]
+- Don't remove if 0 because it is calculating "linearly" 
+	- if it is non-linear, you can divide your space & find multiple linear models (piecewise linear)
