@@ -5,4 +5,4 @@
 ## Does it solve [[overfit(ting)]]?
 - No, because if you are choosing an outlier cluster & it chooses that as the representative. It might still overfit to certain noise
 ## Another problem
-- Not dynamically evolving, your training set might not be representative & might have new clusters in your test set that haven't been detec
+- Not dynamically evolving, your training set might not be representative & might have new clusters in your test set that haven't been detected by your training set.

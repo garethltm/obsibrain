@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Cluster-Based Oversampling.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/SMOTE (Synthetic Minority Oversampling Technique).md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Cluster-Based Oversampling.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/SMOTE (Synthetic Minority Oversampling Technique).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Cluster-Based Oversampling.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/SMOTE (Synthetic Minority Oversampling Technique).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Cluster-Based Oversampling.md"
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/SMOTE (Synthetic Minority Oversampling Technique).md"
               }
             }
           },
@@ -155,7 +155,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Cluster-Based Oversampling.md"
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/SMOTE (Synthetic Minority Oversampling Technique).md"
               }
             }
           },
@@ -188,12 +188,13 @@
   },
   "active": "eefc978b100eb17c",
   "lastOpenFiles": [
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Cluster-Based Oversampling.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/SMOTE (Synthetic Minority Oversampling Technique).md",
     "@images/Pasted image 20240424170220.png",
     "@images/Pasted image 20240424170206.png",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Imbalanced Data.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Randomly over-sampling the minority class.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Randomly under-sampling the majority class.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Cluster-Based Oversampling.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Clustering.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/block.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/broadcast address.md",
@@ -223,7 +224,6 @@
     "@images/Pasted image 20240423174255.png",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Accessible.md",
     "@images/Pasted image 20240423174218.png",
-    "@images/Pasted image 20240423174119.png",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Untitled",
     "2024 Semester 1",
     "2023 Semester 2",
