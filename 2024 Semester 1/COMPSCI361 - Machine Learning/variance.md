@@ -1,0 +1,1 @@
+**the spread between numbers in a data set**. Variance is a statistical measurement used to determine how far each number is from the mean and from every other number in the set. You can calculate the variance by taking the difference between each point and the mean.
