@@ -8,7 +8,8 @@
 ## Why [[Dimensionality reduction]]?
 - Avoid the [[Curse of dimensionality]]
 - Help eliminate irrelevant/redundant features & reduce [[Noise]]
+	- [[Noise]] can include things like #compsci361example the [[Machine Learning (ML)]] algorithm assuming that you need to be a male to be a doctor (by looking at specific trends)
 - Reduce computational resources (memory & time)
 	- Reduce runtime
 - Allow easier visualization
-	- t
+	- to see & detect patterns in your dataset
