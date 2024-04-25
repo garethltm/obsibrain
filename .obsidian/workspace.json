@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/The Wide Area Network (WAN).md",
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Network layer.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/The Wide Area Network (WAN).md",
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Network layer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/The Wide Area Network (WAN).md",
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Network layer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/The Wide Area Network (WAN).md"
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Network layer.md"
               }
             }
           },
@@ -180,7 +180,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/The Wide Area Network (WAN).md"
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Network layer.md"
               }
             }
           },
@@ -213,10 +213,12 @@
   },
   "active": "e14510bc12198d8c",
   "lastOpenFiles": [
+    "@images/Pasted image 20240425213758.png",
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/The Wide Area Network (WAN).md",
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Network layer.md",
     "@images/Pasted image 20240425213711.png",
     "@images/Pasted image 20240425213657.png",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Ethernet.md",
-    "2024 Semester 1/INFOSYS303 - Solutions Architecture/The Wide Area Network (WAN).md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/frame.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/The Open Systems Interconnection Layer (OSI) Model.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Ethernet frame.md",
@@ -232,7 +234,6 @@
     "@images/Pasted image 20240425212013.png",
     "@images/Pasted image 20240425211927.png",
     "@images/Pasted image 20240425211616.png",
-    "@images/Pasted image 20240425211350.png",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/subnet(s).md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Virtual Private Cloud (VPC).md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Attribute (Feature) selection.md",
@@ -248,7 +249,6 @@
     "2024 Semester 1/COMPSCI361 - Machine Learning/Wrappers.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/SMOTE (Synthetic Minority Oversampling Technique).md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Redundant attributes.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Randomly under-sampling the majority class.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Untitled",
     "2024 Semester 1",
     "2023 Semester 2",
