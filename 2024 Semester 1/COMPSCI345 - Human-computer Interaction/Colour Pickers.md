@@ -13,5 +13,5 @@
 - one primary zero
 - Note: hue unchanged but is darker because white was removed
 ## Scaling
-![[Pasted image 20240425225953.png]]
+![[Pasted image 20240425230043.png]]![[Pasted image 20240425230057.png]]
 
