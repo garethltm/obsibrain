@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Colour Pickers.md",
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Hue - Colour wheel.md",
                 "mode": "source",
                 "source": false
               }
@@ -32,7 +32,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Colour Pickers.md",
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Hue - Colour wheel.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -128,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Colour Pickers.md",
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Hue - Colour wheel.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Colour Pickers.md",
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Hue - Colour wheel.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Colour Pickers.md"
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Hue - Colour wheel.md"
               }
             }
           },
@@ -198,7 +198,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Colour Pickers.md"
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Hue - Colour wheel.md"
               }
             }
           },
@@ -231,9 +231,9 @@
   },
   "active": "3b57b73c3c6239a8",
   "lastOpenFiles": [
+    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Colour Pickers.md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Additive.md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Complimentary.md",
-    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Colour Pickers.md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/bi-cone Colour Model.md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Chroma.md",
     "@images/Pasted image 20240425231152.png",
