@@ -1,4 +1,5 @@
 ![[Pasted image 20240425231152.png]]
+- bi-colour model
 - maximum colour fullness
 - height of the box
 - Box in vertical center position = medium lightness
