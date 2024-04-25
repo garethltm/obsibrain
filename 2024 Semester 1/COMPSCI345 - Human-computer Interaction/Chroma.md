@@ -4,7 +4,3 @@
 - Box in vertical center position = medium lightness
 ## The recommended alternative natural colour model
 ![[bi-cone Colour Model]]
-
-- [[Hue - Colour wheel]]
-- [[Chroma]]
-- Lightness
