@@ -5,3 +5,6 @@ Its main mission is the accurate, reliable & efficient delivery of messages
 
 ![[Pasted image 20240425210819.png]]
 To understand how a digital communications network operate, it is necessary to break it down into layers of functions & responsibilities $\rightarrow$ model is known as [[The Open Systems Interconnection Layer (OSI) Model]]
+
+#infosys303example Analogy: What is involved in sending a letter?
+![[Pasted image 20240425210859.png]]
