@@ -5,3 +5,5 @@
 1. Red
 2. Green
 3. Blue
+![[Pasted image 20240425215232.png]]
+- Prism $\rightarrow$ combined to make white
