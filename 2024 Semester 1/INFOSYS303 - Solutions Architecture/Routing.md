@@ -1,1 +1,1 @@
-- how a packet finds its way to its destination
+- network traffic $\rightarrow$ how a [[packet(s)]] finds its way to its destination

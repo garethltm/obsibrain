@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "d9863196dd3fc7fe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/frame.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "657f94efb9e84017",
             "type": "leaf",
             "state": {
@@ -31,7 +43,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -60,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "network layer",
+                "query": "packet",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -77,7 +90,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -97,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Routing.md",
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/frame.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Routing.md",
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/frame.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Routing.md"
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/frame.md"
               }
             }
           },
@@ -167,7 +181,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Routing.md"
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/frame.md"
               }
             }
           },
@@ -198,10 +212,12 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "e14510bc12198d8c",
+  "active": "d9863196dd3fc7fe",
   "lastOpenFiles": [
-    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Source-to-destination delivery.md",
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/packet(s).md",
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Classless Inter-Domain Routing (CIDR).md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Routing.md",
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Source-to-destination delivery.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Hop-to-hop delivery.md",
     "@images/Pasted image 20240425214155.png",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/The Open Systems Interconnection Layer (OSI) Model.md",
@@ -234,8 +250,6 @@
     "2024 Semester 1/COMPSCI361 - Machine Learning/variance.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/principal subspace.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/eigenvectors (principal components).md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/eigenvalues.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/chi-squared test.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Untitled",
     "2024 Semester 1",
     "2023 Semester 2",
