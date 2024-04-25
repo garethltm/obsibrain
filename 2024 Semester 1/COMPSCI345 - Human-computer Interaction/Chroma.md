@@ -1,10 +1,10 @@
 ![[Pasted image 20240425231152.png]]
-- bi-colour model
 - maximum colour fullness
 - height of the box
 - Box in vertical center position = medium lightness
 ## The recommended alternative natural colour model
-![[Pasted image 20240425231133.png]]
+![[bi-cone Colour Model]]
+
 - [[Hue - Colour wheel]]
 - [[Chroma]]
 - Lightness
