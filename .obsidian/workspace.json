@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/The Open Systems Interconnection Layer (OSI) Model.md",
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/The Local Area Network (LAN).md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/The Open Systems Interconnection Layer (OSI) Model.md",
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/The Local Area Network (LAN).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/The Open Systems Interconnection Layer (OSI) Model.md",
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/The Local Area Network (LAN).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/The Open Systems Interconnection Layer (OSI) Model.md"
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/The Local Area Network (LAN).md"
               }
             }
           },
@@ -155,7 +155,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/The Open Systems Interconnection Layer (OSI) Model.md"
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/The Local Area Network (LAN).md"
               }
             }
           },
@@ -188,12 +188,14 @@
   },
   "active": "23ce24679e914fd7",
   "lastOpenFiles": [
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/The Open Systems Interconnection Layer (OSI) Model.md",
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/The Local Area Network (LAN).md",
+    "@images/Pasted image 20240425211350.png",
     "@images/Pasted image 20240425211253.png",
     "@images/Pasted image 20240425211218.png",
     "@images/Pasted image 20240425210859.png",
     "@images/Pasted image 20240425210819.png",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/subnet(s).md",
-    "2024 Semester 1/INFOSYS303 - Solutions Architecture/The Open Systems Interconnection Layer (OSI) Model.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Virtual Private Cloud (VPC).md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Attribute (Feature) selection.md",
     "@images/Pasted image 20240425014235.png",
@@ -203,8 +205,6 @@
     "@images/Pasted image 20240424173633.png",
     "@images/Pasted image 20240424172241.png",
     "@images/Pasted image 20240424170705.png",
-    "@images/Pasted image 20240424170220.png",
-    "@images/Pasted image 20240424170206.png",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/broadcast address.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/block.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/variance.md",

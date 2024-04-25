@@ -9,8 +9,10 @@ To understand how a digital communications network operate, it is necessary to b
 
 ### The interaction between layers
 ![[Pasted image 20240425211218.png]]
-## Exchange using the [[The Open Systems Interconnection Layer (OSI) Model]]
+### Exchanges using the [[The Open Systems Interconnection Layer (OSI) Model]]
 ![[Pasted image 20240425211253.png]]
-## Int
+## Internet Layer model
+![[Pasted image 20240425211350.png]]
+- any layer here can only interact with the layer on top and below
 
 
