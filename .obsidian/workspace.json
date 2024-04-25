@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Untitled.md",
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Colour Schemes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3b57b73c3c6239a8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Complimentary.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Untitled.md",
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Complimentary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Untitled.md",
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Complimentary.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Untitled.md"
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Complimentary.md"
               }
             }
           },
@@ -155,7 +168,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Untitled.md"
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Complimentary.md"
               }
             }
           },
@@ -186,10 +199,11 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "e14510bc12198d8c",
+  "active": "3b57b73c3c6239a8",
   "lastOpenFiles": [
+    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Colour Schemes.md",
+    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Complimentary.md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Analogous.md",
-    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Untitled.md",
     "@images/Pasted image 20240425220716.png",
     "@images/Pasted image 20240425220658.png",
     "@images/Pasted image 20240425220641.png",
@@ -223,7 +237,6 @@
     "@images/Pasted image 20240425213657.png",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Ethernet frame.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/subnet(s).md",
-    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Virtual Private Cloud (VPC).md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Untitled",
     "2024 Semester 1",
     "2023 Semester 2",
