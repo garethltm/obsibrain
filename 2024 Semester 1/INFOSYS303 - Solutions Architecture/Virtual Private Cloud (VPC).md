@@ -5,5 +5,6 @@ A [[Virtual Private Cloud (VPC)]] allows us to provision logically isolated sect
 ## These resources can be:
 1. public (facing) $\rightarrow$ so they have access to the Internet
 2. private $\rightarrow$ for backend services like databases or application services
+	- usually have no internet access
 
 
