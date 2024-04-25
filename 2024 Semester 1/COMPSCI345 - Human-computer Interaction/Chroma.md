@@ -1,2 +1,2 @@
-- maximum ca
+- maximum colour fu
 - [[Hue - Colour wheel]], Chroma & Lightness
