@@ -1,1 +1,2 @@
-- colours that are located opposite the colour wheel such as red & green, yellow & purple
+- colours that are located opposite the colour wheel such as:
+	- red & green, yellow & purple 
