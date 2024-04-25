@@ -13,11 +13,54 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/bi-cone Colour Model.md",
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Colour Pickers.md",
                 "mode": "source",
                 "source": false
               }
-            }
+            },
+            "group": "a30a0fa3de9a9c17"
+          }
+        ]
+      },
+      {
+        "id": "0deaac7addc3faad",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "319769371ee3112b",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Colour Pickers.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.713275462622442,
+                  "close": false
+                }
+              }
+            },
+            "group": "a30a0fa3de9a9c17"
           }
         ]
       }
@@ -85,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/bi-cone Colour Model.md",
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Colour Pickers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/bi-cone Colour Model.md",
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Colour Pickers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/bi-cone Colour Model.md"
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Colour Pickers.md"
               }
             }
           },
@@ -155,7 +198,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/bi-cone Colour Model.md"
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Colour Pickers.md"
               }
             }
           },
@@ -188,9 +231,11 @@
   },
   "active": "3b57b73c3c6239a8",
   "lastOpenFiles": [
+    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Additive.md",
+    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Complimentary.md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Colour Pickers.md",
-    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Chroma.md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/bi-cone Colour Model.md",
+    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Chroma.md",
     "@images/Pasted image 20240425231152.png",
     "@images/Pasted image 20240425231133.png",
     "@images/Pasted image 20240425230057.png",
@@ -201,13 +246,11 @@
     "@images/Pasted image 20240425225727.png",
     "@images/Pasted image 20240425225641.png",
     "@images/Pasted image 20240425225502.png",
-    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Complimentary.md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Colour Schemes.md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Monochrome.md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Analogous.md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Hue - Colour wheel.md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Subtractive.md",
-    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Additive.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Routing.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/The Open Systems Interconnection Layer (OSI) Model.md",
     "2023 Semester 2/COMPSCI235 - Software Development Methodologies/Networked.md",
