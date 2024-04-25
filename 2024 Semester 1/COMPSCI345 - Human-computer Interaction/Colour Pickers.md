@@ -6,3 +6,5 @@
 - no primary is 0
 - can be seen as
 - the colour contains some white
+- ![[Pasted image 20240425225454.png]]
+- they are all adding some values in some way
