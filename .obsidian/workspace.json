@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/frame.md",
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Data link layer.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/frame.md",
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Data link layer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/frame.md",
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Data link layer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/frame.md"
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Data link layer.md"
               }
             }
           },
@@ -155,7 +155,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/frame.md"
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Data link layer.md"
               }
             }
           },
@@ -188,10 +188,10 @@
   },
   "active": "23ce24679e914fd7",
   "lastOpenFiles": [
-    "@images/Pasted image 20240425212112.png",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Physical layer.md",
-    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Data link layer.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/frame.md",
+    "@images/Pasted image 20240425212112.png",
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Data link layer.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/The Local Area Network (LAN).md",
     "@images/Pasted image 20240425212013.png",
     "@images/Pasted image 20240425211927.png",
@@ -208,7 +208,6 @@
     "@images/Pasted image 20240425014235.png",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Pearson's correlation coefficient.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Hypothesis Space.md",
-    "@images/Pasted image 20240424174053.png",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/broadcast address.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/block.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/variance.md",
