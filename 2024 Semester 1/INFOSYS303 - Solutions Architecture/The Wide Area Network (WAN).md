@@ -1,1 +1,2 @@
-- not only covers a larger geographic distance than a [[The Local Area Network (LAN)]], but also generally involves leased telecommunication circuits (ne)
+- not only covers a larger geographic distance than a [[The Local Area Network (LAN)]], but also generally involves leased telecommunication circuits (network providers)
+![[Pasted image 20240425213657.png]]![[Pasted image 20240425213711.png]]
