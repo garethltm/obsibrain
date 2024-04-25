@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Data link layer.md",
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Ethernet.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Data link layer.md",
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Ethernet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Data link layer.md",
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Ethernet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Data link layer.md"
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Ethernet.md"
               }
             }
           },
@@ -155,7 +155,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Data link layer.md"
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Ethernet.md"
               }
             }
           },
@@ -188,10 +188,11 @@
   },
   "active": "23ce24679e914fd7",
   "lastOpenFiles": [
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Data link layer.md",
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Ethernet.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Physical layer.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/frame.md",
     "@images/Pasted image 20240425212112.png",
-    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Data link layer.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/The Local Area Network (LAN).md",
     "@images/Pasted image 20240425212013.png",
     "@images/Pasted image 20240425211927.png",
