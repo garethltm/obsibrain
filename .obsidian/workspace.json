@@ -31,7 +31,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Colour Schemes.md",
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Complimentary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Colour Schemes.md",
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Complimentary.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Colour Schemes.md"
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Complimentary.md"
               }
             }
           },
@@ -167,7 +168,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Colour Schemes.md"
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Complimentary.md"
               }
             }
           },
@@ -198,10 +199,13 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "e14510bc12198d8c",
+  "active": "3b57b73c3c6239a8",
   "lastOpenFiles": [
-    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Complimentary.md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Colour Schemes.md",
+    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Monochrome.md",
+    "@images/Pasted image 20240425222155.png",
+    "@images/Pasted image 20240425222138.png",
+    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Complimentary.md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Analogous.md",
     "@images/Pasted image 20240425220716.png",
     "@images/Pasted image 20240425220658.png",
@@ -232,10 +236,6 @@
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Ethernet.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Data link layer.md",
     "@images/Pasted image 20240425213758.png",
-    "@images/Pasted image 20240425213711.png",
-    "@images/Pasted image 20240425213657.png",
-    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Ethernet frame.md",
-    "2024 Semester 1/INFOSYS303 - Solutions Architecture/subnet(s).md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Untitled",
     "2024 Semester 1",
     "2023 Semester 2",
