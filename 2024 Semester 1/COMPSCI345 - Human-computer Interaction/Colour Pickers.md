@@ -12,5 +12,6 @@
 - white is removed (blue is removed) - blue was an [[Additive]] colour
 - one primary zero
 - Note: hue unchanged but is darker because white was removed
-
+## Scaling
+![[Pasted image 20240425225953.png]]
 
