@@ -1,0 +1,1 @@
+- In the colour wheel the primary colours of each system are secondary colours of the other system, these 6 colours are placed in 
