@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "657f94efb9e84017",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Ethernet frame.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/frame.md",
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Ethernet frame.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/frame.md",
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Ethernet frame.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/frame.md"
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Ethernet frame.md"
               }
             }
           },
@@ -155,7 +168,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/frame.md"
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Ethernet frame.md"
               }
             }
           },
@@ -186,13 +199,15 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "23ce24679e914fd7",
+  "active": "657f94efb9e84017",
   "lastOpenFiles": [
+    "@images/Pasted image 20240425212923.png",
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/frame.md",
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Ethernet frame.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Ethernet.md",
     "@images/Pasted image 20240425212755.png",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Data link layer.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Physical layer.md",
-    "2024 Semester 1/INFOSYS303 - Solutions Architecture/frame.md",
     "@images/Pasted image 20240425212112.png",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/The Local Area Network (LAN).md",
     "@images/Pasted image 20240425212013.png",
@@ -222,7 +237,6 @@
     "2024 Semester 1/COMPSCI361 - Machine Learning/Randomly under-sampling the majority class.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Randomly over-sampling the minority class.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Principal Components Analysis (PCA).md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Data compression.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Untitled",
     "2024 Semester 1",
     "2023 Semester 2",
