@@ -8,24 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "23ce24679e914fd7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Ethernet.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "e14510bc12198d8c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Network layer.md",
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Physical layer.md",
                 "mode": "source",
                 "source": false
               }
@@ -43,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Network layer.md",
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Physical layer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Network layer.md",
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Physical layer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Network layer.md"
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Physical layer.md"
               }
             }
           },
@@ -180,7 +167,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Network layer.md"
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Physical layer.md"
               }
             }
           },
@@ -213,16 +200,16 @@
   },
   "active": "e14510bc12198d8c",
   "lastOpenFiles": [
-    "@images/Pasted image 20240425213758.png",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/The Wide Area Network (WAN).md",
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Ethernet.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Network layer.md",
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Data link layer.md",
+    "@images/Pasted image 20240425213758.png",
     "@images/Pasted image 20240425213711.png",
     "@images/Pasted image 20240425213657.png",
-    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Ethernet.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/frame.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/The Open Systems Interconnection Layer (OSI) Model.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Ethernet frame.md",
-    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Data link layer.md",
     "@images/Pasted image 20240425213357.png",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Hop-to-hop delivery.md",
     "@images/Pasted image 20240425213030.png",
@@ -233,7 +220,6 @@
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/The Local Area Network (LAN).md",
     "@images/Pasted image 20240425212013.png",
     "@images/Pasted image 20240425211927.png",
-    "@images/Pasted image 20240425211616.png",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/subnet(s).md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Virtual Private Cloud (VPC).md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Attribute (Feature) selection.md",
