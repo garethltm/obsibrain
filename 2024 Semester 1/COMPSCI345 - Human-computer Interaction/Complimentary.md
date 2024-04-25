@@ -1,1 +1,1 @@
-- colours that are located oppo
+- colours that are located opposite the colour wheel such as red & green, yellow & purple
