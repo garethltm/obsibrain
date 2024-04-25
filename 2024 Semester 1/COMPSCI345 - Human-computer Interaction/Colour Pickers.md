@@ -1,5 +1,5 @@
-
-## Caveat concerning [[Colour Pickers]]
 - [[Colour Pickers]] & similar tools might present a 2D colour pane
+## Caveat concerning [[Colour Pickers]]
 - This colour pane often shows all [[Hue - Colour wheel]] and may be mistaken for a complete set of available colours
-- The relevant colour space is always 3D
+- The relevant colour space is ALWAYS 3D
+## Moving towards [[Hue - Colour wheel]]
