@@ -14,4 +14,6 @@
 - Note: hue unchanged but is darker because white was removed
 ## Scaling
 ![[Pasted image 20240425230043.png]]![[Pasted image 20240425230057.png]]
-
+- black is removed
+- make one primary maximal
+- Note: hue unchanged, saturation unchanged but highest [[Chroma]]
