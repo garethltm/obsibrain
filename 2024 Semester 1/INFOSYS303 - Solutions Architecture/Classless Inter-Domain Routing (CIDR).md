@@ -7,7 +7,7 @@ Typically, what an organisation obtains from the country's Internet authority is
 #infosys303example ![[Pasted image 20240414161349.png]]
 
 ## Constraints on addresses in a block
-Which addresses in a block cannot be used to be allocated to devices in a [[Subnet]]?
+Which addresses in a block cannot be used to be allocated to devices in a [[subnet(s)]]?
 
 When a [[Virtual Private Cloud (VPC)]] [[Classless Inter-Domain Routing (CIDR)]] block is used, the following addresses cannot be used for devices:
 #infosys303example Suppose the assigned block is $10.0.0.0/24$

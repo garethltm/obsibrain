@@ -6,5 +6,6 @@ A [[Virtual Private Cloud (VPC)]] allows us to provision logically isolated sect
 1. public (facing) $\rightarrow$ so they have access to the Internet
 2. private $\rightarrow$ for backend services like databases or application services
 	- usually have no internet access
+The public & private grouping of resources are known as [[subnet(s)]]
 
 
