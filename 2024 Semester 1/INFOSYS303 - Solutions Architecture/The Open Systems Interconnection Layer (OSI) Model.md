@@ -1,7 +1,7 @@
 A digital communications network is a highly complex structure
 
 Its main mission is the accurate, reliable & efficient delivery of messages
-- which translates into delivery of packets (grouping of bits) - because messages need to be fragmented when they are sent out by a network
+- which translates into delivery of [[packet(s)]] (grouping of bits) - because messages need to be fragmented when they are sent out by a network
 #infosys303example Analogy: What is involved in sending a letter?![[Pasted image 20240425210859.png]]
 ## Model
 ![[Pasted image 20240425210819.png]]
