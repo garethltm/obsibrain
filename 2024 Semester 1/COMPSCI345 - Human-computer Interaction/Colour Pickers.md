@@ -8,6 +8,9 @@
 - can be seen as
 - the colour contains "some" white
 ## Increasing Saturation
-![[Pasted image 20240425225641.png]]
+![[Pasted image 20240425225641.png]]![[Pasted image 20240425225807.png]]
 - white is removed (blue is removed) - blue was an [[Additive]] colour
+- one primary zero
+- Note: hue unchanged but is darker because white was removed
+
 
