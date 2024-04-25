@@ -17,50 +17,7 @@
                 "mode": "source",
                 "source": false
               }
-            },
-            "group": "a30a0fa3de9a9c17"
-          }
-        ]
-      },
-      {
-        "id": "0deaac7addc3faad",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "319769371ee3112b",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Hue - Colour wheel.md",
-                "options": {
-                  "collapse-filter": true,
-                  "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": true,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 0.713275462622442,
-                  "close": false
-                }
-              }
-            },
-            "group": "a30a0fa3de9a9c17"
+            }
           }
         ]
       }
