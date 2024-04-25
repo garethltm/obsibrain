@@ -1,7 +1,7 @@
 - [[Colour Pickers]] & similar tools might present a 2D colour pane
 ## Caveat concerning [[Colour Pickers]]
 - This colour pane often shows all [[Hue - Colour wheel]] and may be mistaken for a complete set of available colours
-- The relevant colour space is ALWAYS 3D ([[Chroma]])
+- The relevant colour space is ALWAYS 3D
 ## Moving towards [[Hue - Colour wheel]]
 ![[Pasted image 20240425225454.png]]![[Pasted image 20240425225727.png]]
 - no primary is 0
