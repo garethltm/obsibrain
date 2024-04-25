@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/frame.md",
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Ethernet.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,14 +25,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Ethernet frame.md",
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/The Open Systems Interconnection Layer (OSI) Model.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Ethernet frame.md",
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Ethernet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Ethernet frame.md",
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Ethernet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Ethernet frame.md"
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Ethernet.md"
               }
             }
           },
@@ -168,7 +167,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Ethernet frame.md"
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Ethernet.md"
               }
             }
           },
@@ -199,15 +198,16 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "657f94efb9e84017",
+  "active": "23ce24679e914fd7",
   "lastOpenFiles": [
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/frame.md",
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/The Open Systems Interconnection Layer (OSI) Model.md",
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Ethernet frame.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Data link layer.md",
     "@images/Pasted image 20240425213357.png",
-    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Ethernet frame.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Hop-to-hop delivery.md",
     "@images/Pasted image 20240425213030.png",
     "@images/Pasted image 20240425212923.png",
-    "2024 Semester 1/INFOSYS303 - Solutions Architecture/frame.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Ethernet.md",
     "@images/Pasted image 20240425212755.png",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Physical layer.md",
@@ -216,7 +216,6 @@
     "@images/Pasted image 20240425212013.png",
     "@images/Pasted image 20240425211927.png",
     "@images/Pasted image 20240425211616.png",
-    "2024 Semester 1/INFOSYS303 - Solutions Architecture/The Open Systems Interconnection Layer (OSI) Model.md",
     "@images/Pasted image 20240425211350.png",
     "@images/Pasted image 20240425211253.png",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/subnet(s).md",
