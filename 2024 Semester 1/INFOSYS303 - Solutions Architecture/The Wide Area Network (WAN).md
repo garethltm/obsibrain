@@ -1,0 +1,1 @@
+- not only covers a larger geographic distance than a [[The Local Area Network (LAN)]], but also generally involves leased telecommunication circuits (ne)

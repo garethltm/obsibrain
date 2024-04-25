@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "e14510bc12198d8c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/The Wide Area Network (WAN).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "657f94efb9e84017",
             "type": "leaf",
             "state": {
@@ -31,7 +43,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Ethernet.md",
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/The Wide Area Network (WAN).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Ethernet.md",
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/The Wide Area Network (WAN).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Ethernet.md"
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/The Wide Area Network (WAN).md"
               }
             }
           },
@@ -167,7 +180,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Ethernet.md"
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/The Wide Area Network (WAN).md"
               }
             }
           },
@@ -198,8 +211,10 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "23ce24679e914fd7",
+  "active": "e14510bc12198d8c",
   "lastOpenFiles": [
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Ethernet.md",
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/The Wide Area Network (WAN).md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/frame.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/The Open Systems Interconnection Layer (OSI) Model.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Ethernet frame.md",
@@ -208,7 +223,6 @@
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Hop-to-hop delivery.md",
     "@images/Pasted image 20240425213030.png",
     "@images/Pasted image 20240425212923.png",
-    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Ethernet.md",
     "@images/Pasted image 20240425212755.png",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Physical layer.md",
     "@images/Pasted image 20240425212112.png",
