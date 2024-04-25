@@ -5,6 +5,7 @@
 ## Moving towards [[Hue - Colour wheel]]
 - no primary is 0
 - can be seen as
-- the colour contains some white
-- ![[Pasted image 20240425225454.png]]
+- the colour contains some white![[Pasted image 20240425225502.png]]![[Pasted image 20240425225454.png]]
 - they are all adding some values in some way
+## Increasing Saturation
+- white is removed
