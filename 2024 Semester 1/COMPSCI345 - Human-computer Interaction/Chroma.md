@@ -1,1 +1,2 @@
-- 3D model
+- maximum ca
+- [[Hue - Colour wheel]], Chroma & Lightness
