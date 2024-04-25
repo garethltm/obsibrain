@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/The Local Area Network (LAN).md",
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/frame.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/The Local Area Network (LAN).md",
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/frame.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/The Local Area Network (LAN).md",
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/frame.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/The Local Area Network (LAN).md"
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/frame.md"
               }
             }
           },
@@ -155,7 +155,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/The Local Area Network (LAN).md"
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/frame.md"
               }
             }
           },
@@ -188,10 +188,12 @@
   },
   "active": "23ce24679e914fd7",
   "lastOpenFiles": [
-    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Data link layer.md",
-    "@images/Pasted image 20240425212013.png",
-    "2024 Semester 1/INFOSYS303 - Solutions Architecture/The Local Area Network (LAN).md",
+    "@images/Pasted image 20240425212112.png",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Physical layer.md",
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Data link layer.md",
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/frame.md",
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/The Local Area Network (LAN).md",
+    "@images/Pasted image 20240425212013.png",
     "@images/Pasted image 20240425211927.png",
     "@images/Pasted image 20240425211616.png",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/The Open Systems Interconnection Layer (OSI) Model.md",
@@ -222,7 +224,6 @@
     "2024 Semester 1/COMPSCI361 - Machine Learning/Principal Components Analysis (PCA).md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Data compression.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Curse of dimensionality.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Cluster-Based Oversampling.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Untitled",
     "2024 Semester 1",
     "2023 Semester 2",
