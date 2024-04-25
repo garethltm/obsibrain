@@ -15,4 +15,8 @@ To understand how a digital communications network operate, it is necessary to b
 ![[Pasted image 20240425211350.png]]
 - any layer here can only interact with the layer on top and below
 
+1. [[Network layer]]
+2. [[Data link layer]]
+3. [[Physical layer]]
+
 
