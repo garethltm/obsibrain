@@ -1,2 +1,4 @@
 - is a family of wired computer networking technologies commonly used in [[The Local Area Network (LAN)]]
-- commerc
+- commercially introduced in 1980 & first standardized in 1983 as IEEE 802.3
+- has been refined to support higher bit rates, a greater number of nodes & longer link distances but retains much backward compatibility
+- it has e
