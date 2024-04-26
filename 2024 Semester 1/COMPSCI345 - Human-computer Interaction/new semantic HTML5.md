@@ -9,6 +9,9 @@
 - `<main>`
 - `<mark>`
 - `<nav>`
+	- an element to include a navigation bar/group
+	- can be used by screen readers to read out navigation options
+	- can be given style information
 - `<section>`
 - `<summary>`
 - `<time>`
