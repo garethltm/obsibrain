@@ -7,4 +7,4 @@
 ![[Pasted image 20240426180746.png]]
 ## Semantic [[2024 Semester 1/COMPSCI345 - Human-computer Interaction/Hypertext Markup Language (HTML)|Hypertext Markup Language (HTML)]]
 - [[Plain Old Semantic HTML (POSH)]]
-
+- [[new semantic HTML5]]
