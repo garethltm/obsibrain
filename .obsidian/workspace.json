@@ -11,8 +11,11 @@
             "id": "e04690c007bd6a00",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "diff-view",
+              "state": {
+                "file": ".gitignore",
+                "staged": false
+              }
             }
           }
         ]
@@ -175,7 +178,7 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "0f8e0230b587650a",
+  "active": "e04690c007bd6a00",
   "lastOpenFiles": [
     "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week10/Applying Bayes Rule.md",
     "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week10/Naïve Bayes classification.md",
