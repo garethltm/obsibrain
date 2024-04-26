@@ -10,4 +10,5 @@
 - Frequent & often recommended approach to use [[2024 Semester 1/COMPSCI345 - Human-computer Interaction/Cascading Style Sheets (CSS)|Cascading Style Sheets (CSS)]]
 - Stylesheets can include (link to) to other stylesheets
 - Standard stylesheets can be referenced on high availability servers
+- Stylesheets can target different elements via selectors & pro
 [[w3.CSS Templates]]

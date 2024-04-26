@@ -9,4 +9,4 @@
 	- [[2024 Semester 1/COMPSCI345 - Human-computer Interaction/Hypertext Markup Language (HTML)|Hypertext Markup Language (HTML)]]- the content language
 	- [[2024 Semester 1/COMPSCI345 - Human-computer Interaction/Cascading Style Sheets (CSS)|Cascading Style Sheets (CSS)]] - the formatting language
 	- [[Javascript]] - the dynamic programming language
-- All 3 are closely intertwined through the [[Document Object Model (DOM)]] in Javascript
+- All 3 are closely intertwined through the [[Document Object Model (DOM)]] in [[Javascript]]
