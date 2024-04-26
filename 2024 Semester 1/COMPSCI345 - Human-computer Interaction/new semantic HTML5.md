@@ -9,4 +9,6 @@
 - `<main>`
 - `<mark>`
 - `<nav>`
-- 
+- `<section>`
+- `<summary>`
+- `<time>`
