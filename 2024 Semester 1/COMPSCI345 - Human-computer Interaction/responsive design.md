@@ -1,1 +1,2 @@
-design that works on many for factors
+- design that works on many for factors
+- Adapting Layout & visible content to form factor

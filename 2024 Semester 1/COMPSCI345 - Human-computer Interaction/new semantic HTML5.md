@@ -11,7 +11,7 @@
 - `<nav>`
 	- an element to include a navigation bar/group
 	- can be used by screen readers to read out navigation options
-	- can be given style information
+	- can be given style information![[Pasted image 20240426182959.png]]![[Pasted image 20240426183012.png]]
 - `<section>`
 - `<summary>`
 - `<time>`
