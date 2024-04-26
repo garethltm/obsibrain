@@ -6,8 +6,9 @@ Uses random subset of the data instances to iteratively calculate weight values 
 - Larger the weight = more important is the attribute
 ## The basic algorithm
 ![[Pasted image 20240426173640.png]]
-- The algorithm above is the basic version of Relief (Kira & Rendell 1992), proposed with Euclidean dis
+- The algorithm above is the basic version of Relief (Kira & Rendell 1992), proposed with Euclidean distance for both neighbour selections & weight updates, and weight threshold for [[Attribute (Feature) selection]] (instead of the $k$ parameter)
 ## Summary
 - Relief takes into account all attribute
 	- Therefore, it cannot deal with redundancy
 - Outputs weight vector that represents the importance of each attribute
+- 
