@@ -1,3 +1,12 @@
 ![[Pasted image 20240426182648.png]]
 - `<article>`
-- ``
+- `<aside>`
+- `<details>`
+- `<figcaption>`
+- `<figure>`
+- `<footer>`
+- `<header>`
+- `<main>`
+- `<mark>`
+- `<nav>`
+- 
