@@ -4,18 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "ce1ed5e0a0967605",
+        "id": "765cbc0a447eed6c",
         "type": "tabs",
         "children": [
           {
-            "id": "e04690c007bd6a00",
+            "id": "f6532c6351c8ccb0",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
-              "state": {
-                "file": ".gitignore",
-                "staged": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -47,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "poster",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -64,7 +61,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -178,7 +176,7 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "e04690c007bd6a00",
+  "active": "a6e0090ac9cbd1f3",
   "lastOpenFiles": [
     "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week10/Applying Bayes Rule.md",
     "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week10/Naïve Bayes classification.md",
