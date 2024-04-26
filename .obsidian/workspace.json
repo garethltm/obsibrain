@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Cascading Style Sheets (CSS).md",
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Hypertext Markup Language (HTML).md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Cascading Style Sheets (CSS).md",
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Hypertext Markup Language (HTML).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Cascading Style Sheets (CSS).md",
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Hypertext Markup Language (HTML).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Cascading Style Sheets (CSS).md"
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Hypertext Markup Language (HTML).md"
               }
             }
           },
@@ -156,7 +156,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Cascading Style Sheets (CSS).md"
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Hypertext Markup Language (HTML).md"
               }
             }
           },
@@ -182,7 +182,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Cascading Style Sheets (CSS).md",
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Hypertext Markup Language (HTML).md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -228,13 +228,13 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "d189fedcb13cce75",
+  "active": "3ad179677b7fba41",
   "lastOpenFiles": [
+    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Cascading Style Sheets (CSS).md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Hypertext Markup Language (HTML).md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Web technology.md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Javascript.md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Document Object Model (DOM).md",
-    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Cascading Style Sheets (CSS).md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/brainstorming.md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/w3.CSS Templates.md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/responsive design.md",
