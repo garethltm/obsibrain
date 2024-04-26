@@ -1,0 +1,1 @@
+There are $2^d -1$ possible attribute combinations of 
