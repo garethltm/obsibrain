@@ -8,4 +8,5 @@ There are $2^d -1$ possible attribute combinations of $d$ attributes
 3. Step-wise Attribute elimination: (Remove features 1 by 1)
 	 - Repeatedly eliminate the worst attribute
 4. Best combined attribute selection & elimination
-5. Optimal branch & boun
+5. Optimal branch & bound:
+	- Use attribute & [[Backtracking Search]]
