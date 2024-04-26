@@ -1,4 +1,5 @@
 - The technologies [[2024 Semester 1/COMPSCI345 - Human-computer Interaction/Hypertext Markup Language (HTML)|Hypertext Markup Language (HTML)]] & [[2024 Semester 1/COMPSCI345 - Human-computer Interaction/Cascading Style Sheets (CSS)|Cascading Style Sheets (CSS)]] begin with the static appearance of Web interfaces as well as offering simple responsiveness to form factor changes such as flow layout
+- [[2024 Semester 1/COMPSCI345 - Human-computer Interaction/Cascading Style Sheets (CSS)|Cascading Style Sheets (CSS)]] 
 ## [[2024 Semester 1/COMPSCI345 - Human-computer Interaction/Cascading Style Sheets (CSS)|Cascading Style Sheets (CSS)]] Selectors
 ![[Pasted image 20240426180600.png]]
 ## `<div>` as a generic container
