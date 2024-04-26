@@ -3,3 +3,4 @@
 
 1. [[Additive]]: emitted light
 2. [[Subtractive]]: for mixing paints
+Both [[Additive]] & [[Subtractive]] colour model give both rise to the hue cycle
