@@ -11,4 +11,3 @@ Uses random subset of the data instances to iteratively calculate weight values 
 - Relief takes into account all attribute
 	- Therefore, it cannot deal with redundancy
 - Outputs weight vector that represents the importance of each attribute
-- 
