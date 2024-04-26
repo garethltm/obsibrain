@@ -5,5 +5,6 @@
 - [[Float Layout]]
 ## The Box model of a HTML element
 ![[Pasted image 20240426180746.png]]
-
+## Semantic HTML
+- [[Plain Old Semantic HTML (POSH)]]
 
