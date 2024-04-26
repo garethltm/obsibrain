@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Hypertext Markup Language (HTML).md",
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Plain Old Semantic HTML (POSH).md",
                 "mode": "source",
                 "source": false
               }
@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -241,12 +240,12 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "4301b6fe11d73714",
+  "active": "d189fedcb13cce75",
   "lastOpenFiles": [
-    "@images/Pasted image 20240426182437.png",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Hypertext Markup Language (HTML).md",
-    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Plain Old Semantic HTML (POSH).md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Cascading Style Sheets (CSS).md",
+    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Plain Old Semantic HTML (POSH).md",
+    "@images/Pasted image 20240426182437.png",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Web technology.md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Javascript.md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Document Object Model (DOM).md",
@@ -263,7 +262,6 @@
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Float Layout.md",
     "@images/Pasted image 20240426180526.png",
     "@images/Pasted image 20240426180437.png",
-    "@images/Pasted image 20240426180423.png",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Wrappers.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Filters.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Correlation analysis.md",
