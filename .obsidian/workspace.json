@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Hypertext Markup Language (HTML).md",
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Web technology.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "document object model",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -86,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Hypertext Markup Language (HTML).md",
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Web technology.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Hypertext Markup Language (HTML).md",
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Web technology.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Hypertext Markup Language (HTML).md"
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Web technology.md"
               }
             }
           },
@@ -156,7 +157,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Hypertext Markup Language (HTML).md"
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Web technology.md"
               }
             }
           },
@@ -182,7 +183,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Hypertext Markup Language (HTML).md",
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Web technology.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -230,6 +231,9 @@
   },
   "active": "d189fedcb13cce75",
   "lastOpenFiles": [
+    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Document Object Model (DOM).md",
+    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Web technology.md",
+    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Hypertext Markup Language (HTML).md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Cascading Style Sheets (CSS).md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/brainstorming.md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/w3.CSS Templates.md",
@@ -238,7 +242,6 @@
     "@images/Pasted image 20240426181046.png",
     "@images/Pasted image 20240426180919.png",
     "@images/Pasted image 20240426180906.png",
-    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Hypertext Markup Language (HTML).md",
     "@images/Pasted image 20240426180746.png",
     "@images/Pasted image 20240426180655.png",
     "@images/Pasted image 20240426180600.png",
@@ -246,7 +249,6 @@
     "@images/Pasted image 20240426180526.png",
     "@images/Pasted image 20240426180437.png",
     "@images/Pasted image 20240426180423.png",
-    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Web technology.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Wrappers.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Filters.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Correlation analysis.md",
@@ -265,7 +267,6 @@
     "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week09/Bayes Nets.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Averaging.md",
     "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week10/Applying Bayes Rule.md",
-    "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week10/Naïve Bayes classification.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Untitled",
     "2024 Semester 1",
     "2023 Semester 2",
