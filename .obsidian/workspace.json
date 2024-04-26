@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "8f7a5df172808b4d",
+        "id": "af1717aa8cf8967e",
         "type": "tabs",
         "children": [
           {
-            "id": "3b57b73c3c6239a8",
+            "id": "c7e9102db9268309",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Hue - Colour wheel.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/eigenvalues.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Hue - Colour wheel.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/eigenvalues.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Hue - Colour wheel.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/eigenvalues.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Hue - Colour wheel.md"
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/eigenvalues.md"
               }
             }
           },
@@ -155,7 +155,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Hue - Colour wheel.md"
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/eigenvalues.md"
               }
             }
           },
@@ -186,8 +186,11 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "3b57b73c3c6239a8",
+  "active": "c7e9102db9268309",
   "lastOpenFiles": [
+    "2024 Semester 1/COMPSCI361 - Machine Learning/eigenvectors (principal components).md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Wrappers.md",
+    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Hue - Colour wheel.md",
     "@images/Pasted image 20240426183404.png",
     "@images/Pasted image 20240426183308.png",
     "@images/Pasted image 20240426183254.png",
@@ -198,7 +201,6 @@
     "@images/Pasted image 20240426182437.png",
     "@images/Pasted image 20240426181125.png",
     "@images/Pasted image 20240426181046.png",
-    "@images/Pasted image 20240426180919.png",
     "2024 Semester 1/COMPSCI361 - Machine Learning/training error.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/test error.md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Plain Old Semantic HTML (POSH).md",
@@ -216,14 +218,12 @@
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Colour Schemes.md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Monochrome.md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Analogous.md",
-    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Hue - Colour wheel.md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Subtractive.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Routing.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/The Open Systems Interconnection Layer (OSI) Model.md",
     "2023 Semester 2/COMPSCI235 - Software Development Methodologies/Networked.md",
     "2023 Semester 2/COMPSCI235 - Software Development Methodologies/Network layer protocols.md",
     "2023 Semester 2/COMPSCI235 - Software Development Methodologies/Transport protocols.md",
-    "2023 Semester 2/COMPSCI235 - Software Development Methodologies/Application layer protocols.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Untitled",
     "2024 Semester 1",
     "2023 Semester 2",
