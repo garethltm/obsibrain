@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Relief.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Filters.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Relief.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Filters.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Relief.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Filters.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Relief.md"
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Filters.md"
               }
             }
           },
@@ -155,7 +155,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Relief.md"
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Filters.md"
               }
             }
           },
@@ -187,10 +187,12 @@
   },
   "active": "90c670e04a72dace",
   "lastOpenFiles": [
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Correlation analysis.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Filters.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Relief.md",
     "@images/Pasted image 20240426173640.png",
     "@images/Pasted image 20240426173604.png",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Heuristic Search in Attribute Selection.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Relief.md",
     "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week11/Local Markov Property.md",
     "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week10/Naïve Bayes - Laplace smoothing.md",
     "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week10/Bayes Rule with Existing Evidence.md",
@@ -215,14 +217,12 @@
     "@images/Pasted image 20240425225953.png",
     "@images/Pasted image 20240425225807.png",
     "@images/Pasted image 20240425225727.png",
-    "@images/Pasted image 20240425225641.png",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/bi-cone Colour Model.md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Monochrome.md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Complimentary.md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Colour Schemes.md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Colour Pickers.md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Chroma.md",
-    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Analogous.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Untitled",
     "2024 Semester 1",
     "2023 Semester 2",
