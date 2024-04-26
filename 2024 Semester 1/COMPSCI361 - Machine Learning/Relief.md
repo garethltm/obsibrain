@@ -10,7 +10,8 @@ Uses random subset of the data instances to iteratively calculate weight values 
 - If categorical attributes are in the dataset, use Hamming distance for those attributes: 
   ($dist(x,y)= 0 \ if\ x == y\ else\ 1$)
 - You can replace Euclidean distance with Manhattan distance:
-  ($dist(x,y)=|x)
+  ($dist(x,y)=|x-y|$) - outliers
+- There are various extensions ($ReliefF,RReliefF,...$)
 ## Summary
 - Relief takes into account all attribute
 	- Therefore, it cannot deal with redundancy
