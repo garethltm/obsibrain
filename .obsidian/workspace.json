@@ -18,45 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "cde08fc4a55c180f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/responsive design.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ca20ab4038503288",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/CSS media queries.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4301b6fe11d73714",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Plain Old Semantic HTML (POSH).md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -123,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/CSS media queries.md",
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Hypertext Markup Language (HTML).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/CSS media queries.md",
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Hypertext Markup Language (HTML).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/CSS media queries.md"
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Hypertext Markup Language (HTML).md"
               }
             }
           },
@@ -193,7 +156,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/CSS media queries.md"
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Hypertext Markup Language (HTML).md"
               }
             }
           },
@@ -219,7 +182,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/CSS media queries.md",
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Hypertext Markup Language (HTML).md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -265,12 +228,14 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "ca20ab4038503288",
+  "active": "d189fedcb13cce75",
   "lastOpenFiles": [
+    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/responsive design.md",
+    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Plain Old Semantic HTML (POSH).md",
+    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/CSS media queries.md",
+    "@images/Pasted image 20240426183404.png",
     "@images/Pasted image 20240426183308.png",
     "@images/Pasted image 20240426183254.png",
-    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/responsive design.md",
-    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/CSS media queries.md",
     "@images/Pasted image 20240426183130.png",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/new semantic HTML5.md",
     "@images/Pasted image 20240426183012.png",
@@ -278,7 +243,6 @@
     "@images/Pasted image 20240426182648.png",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Hypertext Markup Language (HTML).md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Cascading Style Sheets (CSS).md",
-    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Plain Old Semantic HTML (POSH).md",
     "@images/Pasted image 20240426182437.png",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Web technology.md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Javascript.md",
@@ -287,8 +251,6 @@
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/w3.CSS Templates.md",
     "@images/Pasted image 20240426181125.png",
     "@images/Pasted image 20240426181046.png",
-    "@images/Pasted image 20240426180919.png",
-    "@images/Pasted image 20240426180906.png",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Float Layout.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Wrappers.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Filters.md",

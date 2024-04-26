@@ -8,3 +8,4 @@
 ## Semantic [[2024 Semester 1/COMPSCI345 - Human-computer Interaction/Hypertext Markup Language (HTML)|Hypertext Markup Language (HTML)]]
 - [[Plain Old Semantic HTML (POSH)]]
 - [[new semantic HTML5]]
+- Semantic HTML is important to enhance conformance with expectations of a user interface in [[Web technology]]
