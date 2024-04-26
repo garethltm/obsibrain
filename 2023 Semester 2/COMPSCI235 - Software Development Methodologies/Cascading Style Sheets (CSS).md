@@ -1,12 +1,12 @@
 **describes the appearance**, layout & presentation of information on a webpage
-- [[Hypertext Markup Language (HTML)]] describes the content of the page
+- [[2023 Semester 2/COMPSCI235 - Software Development Methodologies/Hypertext Markup Language (HTML)]] describes the content of the page
 
 describes *how information is to be displayed*, not what is being displayed
 
-can be embedded in [[Hypertext Markup Language (HTML)]] document or placed into separate `.css` file
+can be embedded in [[2023 Semester 2/COMPSCI235 - Software Development Methodologies/Hypertext Markup Language (HTML)]] document or placed into separate `.css` file
 
 # Styles
-- a style changes the way [[Hypertext Markup Language (HTML)]] code is displayed
+- a style changes the way [[2023 Semester 2/COMPSCI235 - Software Development Methodologies/Hypertext Markup Language (HTML)]] code is displayed
 
 #### Defining a style
 - Styles are defined using rules
@@ -16,7 +16,7 @@ can be embedded in [[Hypertext Markup Language (HTML)]] document or placed into 
 >	#Example 
 >	![[Pasted image 20231101171952.png]]![[Pasted image 20231101172023.png]]
 
-- A [[Cascading Style Sheets (CSS)]] file contains 1 or more rules
+- A [[2023 Semester 2/COMPSCI235 - Software Development Methodologies/Cascading Style Sheets (CSS)]] file contains 1 or more rules
 	- each rule starts with a [[selector]]
 
 ### Grouping rules
@@ -25,9 +25,9 @@ can be embedded in [[Hypertext Markup Language (HTML)]] document or placed into 
 
 ### CSS comments `/*...*/`
 ![[Pasted image 20231101173134.png]]
-- [[Cascading Style Sheets (CSS)]] (like [[Hypertext Markup Language (HTML)]]) is usually not commented as rigorously as programming languages such as Java
-- The `//` single-line comment style is NOT supported in [[Cascading Style Sheets (CSS)]]
-- The `<!--...-->` [[Hypertext Markup Language (HTML)]] comment style is NOT supported in [[Cascading Style Sheets (CSS)]]
+- [[2023 Semester 2/COMPSCI235 - Software Development Methodologies/Cascading Style Sheets (CSS)]] (like [[2023 Semester 2/COMPSCI235 - Software Development Methodologies/Hypertext Markup Language (HTML)]]) is usually not commented as rigorously as programming languages such as Java
+- The `//` single-line comment style is NOT supported in [[2023 Semester 2/COMPSCI235 - Software Development Methodologies/Cascading Style Sheets (CSS)]]
+- The `<!--...-->` [[2023 Semester 2/COMPSCI235 - Software Development Methodologies/Hypertext Markup Language (HTML)]] comment style is NOT supported in [[2023 Semester 2/COMPSCI235 - Software Development Methodologies/Cascading Style Sheets (CSS)]]
 
 
 #### Conflicting styles

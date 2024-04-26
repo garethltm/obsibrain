@@ -1,2 +1,12 @@
 - is widely available
-- grew out of 
+- grew out of a focus on content
+- History might have contributed to beneficial aspects of [[Web technology]] such as:
+	- stability
+	- ability to grow with new applications
+## The Web client side technology core
+- The web browser is a smart client which can nowadays execute very complex applications, with a mature & maintained security architecture
+- The compound of technologies needed to program 1 client application in the browser:
+	- [[2024 Semester 1/COMPSCI345 - Human-computer Interaction/Hypertext Markup Language (HTML)|Hypertext Markup Language (HTML)]]- the content language
+	- [[2024 Semester 1/COMPSCI345 - Human-computer Interaction/Cascading Style Sheets (CSS)|Cascading Style Sheets (CSS)]] - the formatting language
+	- Javascript - the dynamic programming language
+- All 3 are closely intertwined through the Document Object Model (DOM) in Javascript

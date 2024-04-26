@@ -2,7 +2,7 @@
 - Each module has a well-defined responsibility ([[Single Responsibility Principle (SRP)]])
 - Request handlers (`view layer`) are concerned with:
 	- extracting information from [[Hypertext Transfer Protocol (HTTP)]] requests
-	- creating [[Hypertext Markup Language (HTML)]]
+	- creating [[2023 Semester 2/COMPSCI235 - Software Development Methodologies/Hypertext Markup Language (HTML)]]
 - The `service layer` is responsible for:
 	- fetching data from the repository
 	- processing requests using the data
