@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week10/Naïve Bayes classification.md",
+                "file": "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week10/Applying Bayes Rule.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "bayes",
+                "query": "poster",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week10/Naïve Bayes classification.md",
+                "file": "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week10/Applying Bayes Rule.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week10/Naïve Bayes classification.md",
+                "file": "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week10/Applying Bayes Rule.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week10/Naïve Bayes classification.md"
+                "file": "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week10/Applying Bayes Rule.md"
               }
             }
           },
@@ -156,7 +156,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week10/Naïve Bayes classification.md"
+                "file": "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week10/Applying Bayes Rule.md"
               }
             }
           },
@@ -188,6 +188,7 @@
   },
   "active": "05e2e75b69510892",
   "lastOpenFiles": [
+    "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week10/Naïve Bayes classification.md",
     "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week10/Naïve Bayes - Laplace smoothing.md",
     "conflict-files-obsidian-git.md",
     "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week10/Laplace smoothing (add-one smoothing).md",
@@ -223,7 +224,6 @@
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Ethernet.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Ethernet frame.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Data link layer.md",
-    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Subtractive.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Untitled",
     "2024 Semester 1",
     "2023 Semester 2",
