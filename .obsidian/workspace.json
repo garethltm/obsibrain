@@ -4,14 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "254cca59e7c898f2",
+        "id": "b298857d07cef3d2",
         "type": "tabs",
         "children": [
           {
-            "id": "1fc55be05af8f517",
+            "id": "102fe474db4853a3",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {}
             }
           }
@@ -217,7 +217,7 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "1fc55be05af8f517",
+  "active": "3ad179677b7fba41",
   "lastOpenFiles": [
     "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week10/Bayes Rule with Existing Evidence.md",
     "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week09/Bayes Nets.md",
