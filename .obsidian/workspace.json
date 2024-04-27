@@ -11,8 +11,12 @@
             "id": "d189fedcb13cce75",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Collection - Elicitation.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -82,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Collection - Elicitation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Collection - Elicitation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Collection - Elicitation.md"
+              }
             }
           },
           {
@@ -147,7 +155,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {}
+              "state": {
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Collection - Elicitation.md"
+              }
             }
           },
           {
@@ -172,6 +182,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Collection - Elicitation.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -219,6 +230,12 @@
   },
   "active": "d189fedcb13cce75",
   "lastOpenFiles": [
+    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Balance.md",
+    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Collection - Elicitation.md",
+    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Logs & Notes.md",
+    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Analogous.md",
+    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Additive.md",
+    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Contextual Inquiry.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Normalization.md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Cascading Style Sheets (CSS).md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/responsive design.md",
@@ -249,12 +266,6 @@
     "2024 Semester 1/COMPSCI361 - Machine Learning/Heuristic Search in Attribute Selection.md",
     "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week11/Local Markov Property.md",
     "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week10/Naïve Bayes - Laplace smoothing.md",
-    "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week10/Bayes Rule with Existing Evidence.md",
-    "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week10/Inference with Probability (Probabilistic Inference).md",
-    "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week10/Chain Rule.md",
-    "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week11/Bayesian Networks.md",
-    "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week10/Bayes Theorem.md",
-    "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week11/Bayesian Network Inference.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Untitled",
     "2024 Semester 1",
     "2023 Semester 2",
