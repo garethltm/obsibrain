@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Balance sheet.md",
+                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Solvency ratio.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Balance sheet.md",
+                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Solvency ratio.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Balance sheet.md",
+                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Solvency ratio.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Balance sheet.md"
+                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Solvency ratio.md"
               }
             }
           },
@@ -156,7 +156,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Balance sheet.md"
+                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Solvency ratio.md"
               }
             }
           },
@@ -189,6 +189,7 @@
   },
   "active": "c7e9102db9268309",
   "lastOpenFiles": [
+    "2024 Semester 1/ACCTG151G - Financial Literacy/Balance sheet.md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Cascading Style Sheets (CSS).md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Recall (Completeness).md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/rank matrix.md",
@@ -224,7 +225,6 @@
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Hypertext Markup Language (HTML).md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Float Layout.md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Document Object Model (DOM).md",
-    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/CSS media queries.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Untitled",
     "2024 Semester 1",
     "2023 Semester 2",
