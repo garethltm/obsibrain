@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Annuity.md",
+                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Present Value (PV).md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Annuity.md",
+                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Present Value (PV).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Annuity.md",
+                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Present Value (PV).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Annuity.md"
+                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Present Value (PV).md"
               }
             }
           },
@@ -156,7 +156,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Annuity.md"
+                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Present Value (PV).md"
               }
             }
           },
@@ -181,7 +181,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Annuity.md",
+                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Present Value (PV).md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -229,6 +229,10 @@
   },
   "active": "c7e9102db9268309",
   "lastOpenFiles": [
+    "2024 Semester 1/ACCTG151G - Financial Literacy/Present Value (PV) Interest Factor of an Annuity.md",
+    "2024 Semester 1/ACCTG151G - Financial Literacy/Present Value (PV).md",
+    "2024 Semester 1/ACCTG151G - Financial Literacy/Present Value (PV) of an Annuity.md",
+    "2024 Semester 1/ACCTG151G - Financial Literacy/Annuity.md",
     "2024 Semester 1/ACCTG151G - Financial Literacy/Budget.md",
     "2024 Semester 1/ACCTG151G - Financial Literacy/Liquidity ratio.md",
     "2024 Semester 1/ACCTG151G - Financial Literacy/liquid asset.md",
@@ -251,9 +255,6 @@
     "2024 Semester 1/COMPSCI361 - Machine Learning/Best Machine Learning Model.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Bias-Variance vs Fundamental Trade-Off.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/eigenvalues.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/eigenvectors (principal components).md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Wrappers.md",
-    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Hue - Colour wheel.md",
     "@images/Pasted image 20240426183404.png",
     "@images/Pasted image 20240426183308.png",
     "@images/Pasted image 20240426183254.png",
@@ -264,7 +265,6 @@
     "@images/Pasted image 20240426182437.png",
     "@images/Pasted image 20240426181125.png",
     "@images/Pasted image 20240426181046.png",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/training error.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Untitled",
     "2024 Semester 1",
     "2023 Semester 2",
