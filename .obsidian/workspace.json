@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Budget.md",
+                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Annuity.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "forward",
+                "query": "annuit",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Budget.md",
+                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Annuity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Budget.md",
+                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Annuity.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Budget.md"
+                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Annuity.md"
               }
             }
           },
@@ -156,7 +156,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Budget.md"
+                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Annuity.md"
               }
             }
           },
@@ -181,7 +181,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Budget.md",
+                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Annuity.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -229,6 +229,7 @@
   },
   "active": "c7e9102db9268309",
   "lastOpenFiles": [
+    "2024 Semester 1/ACCTG151G - Financial Literacy/Budget.md",
     "2024 Semester 1/ACCTG151G - Financial Literacy/Liquidity ratio.md",
     "2024 Semester 1/ACCTG151G - Financial Literacy/liquid asset.md",
     "2024 Semester 1/ACCTG151G - Financial Literacy/current.md",
@@ -264,7 +265,6 @@
     "@images/Pasted image 20240426181125.png",
     "@images/Pasted image 20240426181046.png",
     "2024 Semester 1/COMPSCI361 - Machine Learning/training error.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/test error.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Untitled",
     "2024 Semester 1",
     "2023 Semester 2",
