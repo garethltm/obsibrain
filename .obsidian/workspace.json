@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Solvency ratio.md",
+                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Liquidity ratio.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Solvency ratio.md",
+                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Liquidity ratio.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Solvency ratio.md",
+                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Liquidity ratio.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Solvency ratio.md"
+                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Liquidity ratio.md"
               }
             }
           },
@@ -156,7 +156,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Solvency ratio.md"
+                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Liquidity ratio.md"
               }
             }
           },
@@ -170,11 +170,51 @@
           }
         ],
         "currentTab": 7
+      },
+      {
+        "id": "7fa1d17eccca9ab4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d18974cbaa43e638",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Liquidity ratio.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.713275462622442,
+                  "close": true
+                }
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 347.5,
-    "collapsed": true
+    "width": 347.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -190,6 +230,8 @@
   "active": "c7e9102db9268309",
   "lastOpenFiles": [
     "2024 Semester 1/ACCTG151G - Financial Literacy/Balance sheet.md",
+    "2024 Semester 1/ACCTG151G - Financial Literacy/Solvency ratio.md",
+    "conflict-files-obsidian-git.md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Cascading Style Sheets (CSS).md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Recall (Completeness).md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/rank matrix.md",
@@ -223,8 +265,6 @@
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Plain Old Semantic HTML (POSH).md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Javascript.md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Hypertext Markup Language (HTML).md",
-    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Float Layout.md",
-    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Document Object Model (DOM).md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Untitled",
     "2024 Semester 1",
     "2023 Semester 2",
