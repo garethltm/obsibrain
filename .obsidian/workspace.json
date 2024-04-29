@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Maximum Likelihood (ML) Hypothesis.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Maximum A Posteriori (MAP) Hypothesis.md",
                 "mode": "source",
                 "source": false
               }
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Maximum Likelihood (ML) Hypothesis.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Maximum A Posteriori (MAP) Hypothesis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Maximum Likelihood (ML) Hypothesis.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Maximum A Posteriori (MAP) Hypothesis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Maximum Likelihood (ML) Hypothesis.md"
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Maximum A Posteriori (MAP) Hypothesis.md"
               }
             }
           },
@@ -169,7 +169,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Maximum Likelihood (ML) Hypothesis.md"
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Maximum A Posteriori (MAP) Hypothesis.md"
               }
             }
           },
@@ -195,7 +195,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Maximum Likelihood (ML) Hypothesis.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Maximum A Posteriori (MAP) Hypothesis.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -243,8 +243,8 @@
   },
   "active": "72b9742e87f43317",
   "lastOpenFiles": [
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Maximum A Posteriori (MAP) Hypothesis.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Maximum Likelihood (ML) Hypothesis.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Maximum A Posteriori (MAP) Hypothesis.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Bayesian Learning.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Bayes Theorem.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Spam Filtering.md",
