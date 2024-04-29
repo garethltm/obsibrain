@@ -21,4 +21,5 @@ Collect a large number of e-mails, get users to label them
 - ($\huge y\tiny {i}\normalsize = 1$):
 	- if email i is spam
 - ($\huge y\tiny {i}\normalsize = 0$):
-- 
+	- if email i is not spam
+- Extract features of each email ([[bag-of-words]])
