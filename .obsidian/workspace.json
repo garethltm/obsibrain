@@ -97,7 +97,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "bag",
+                "query": "tag:#compsci361example",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -114,7 +114,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -277,7 +278,7 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "d25106394da58214",
+  "active": "a6e0090ac9cbd1f3",
   "lastOpenFiles": [
     "2024 Semester 1/COMPSCI361 - Machine Learning/Probability.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/random events.md",
