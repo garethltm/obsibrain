@@ -18,4 +18,7 @@ We want it as a [[Supervised Learning]] task because things are becoming better,
 ## [[Spam Filtering]] as [[Supervised Learning]]
 Collect a large number of e-mails, get users to label them
 ![[Pasted image 20240429133849.png]]
-- We can use ($y\tiny {i}\normalsize = 1$)
+- ($\huge y\tiny {i}\normalsize = 1$):
+	- if email i is spam
+- ($\huge y\tiny {i}\normalsize = 0$):
+- 
