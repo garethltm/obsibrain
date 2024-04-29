@@ -1,9 +1,14 @@
 - everything is uncertain $\rightarrow$ everything is TRUE to a certain degree
 	- finding more FALSE statements to disprove a hypothesis
-$$P(Y|X) = \frac {P(X|Y)P(Y)}{P(X)}$$
-which is short for $\forall \tiny{x}\normalsize {y}$: 
 - Search the most likely hypothesis 
 	- giving the most likely model/proposition
+$$P(Y|X) = \frac {P(X|Y)P(Y)}{P(X)}$$
+which is short for $\forall \tiny{x,y}$: 
+$$
+P(Y=y | X=x) = \frac{P(X=x | Y=y) P(Y=y)}{P(X=x)}
+
+$$
+- big P = 
 ## Basic assumption
 - Quantities of interest are governed by probability distributions
 - Optimal decisions can be made by reasoning about these probabilities together with observed [[training data]]
