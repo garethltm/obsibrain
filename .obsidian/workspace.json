@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "af1717aa8cf8967e",
+        "id": "b298857d07cef3d2",
         "type": "tabs",
         "children": [
           {
-            "id": "c7e9102db9268309",
+            "id": "102fe474db4853a3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Present Value (PV).md",
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Cascading Style Sheets (CSS).md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "annuit",
+                "query": "baye",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -79,6 +78,7 @@
       {
         "id": "5a69fa8a943ea5f0",
         "type": "tabs",
+        "dimension": 55.98130841121496,
         "children": [
           {
             "id": "db6754d77108e140",
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Present Value (PV).md",
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Cascading Style Sheets (CSS).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Present Value (PV).md",
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Cascading Style Sheets (CSS).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Present Value (PV).md"
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Cascading Style Sheets (CSS).md"
               }
             }
           },
@@ -156,7 +156,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Present Value (PV).md"
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Cascading Style Sheets (CSS).md"
               }
             }
           },
@@ -172,16 +172,17 @@
         "currentTab": 7
       },
       {
-        "id": "7fa1d17eccca9ab4",
+        "id": "aca6307e70cdfa79",
         "type": "tabs",
+        "dimension": 44.018691588785046,
         "children": [
           {
-            "id": "d18974cbaa43e638",
+            "id": "d8a4a9680b239d40",
             "type": "leaf",
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Present Value (PV).md",
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Cascading Style Sheets (CSS).md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -204,7 +205,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.713275462622442,
+                  "scale": 1,
                   "close": true
                 }
               }
@@ -227,44 +228,44 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "c7e9102db9268309",
+  "active": "102fe474db4853a3",
   "lastOpenFiles": [
-    "2024 Semester 1/ACCTG151G - Financial Literacy/Present Value (PV) Interest Factor of an Annuity.md",
-    "2024 Semester 1/ACCTG151G - Financial Literacy/Present Value (PV).md",
-    "2024 Semester 1/ACCTG151G - Financial Literacy/Present Value (PV) of an Annuity.md",
-    "2024 Semester 1/ACCTG151G - Financial Literacy/Annuity.md",
-    "2024 Semester 1/ACCTG151G - Financial Literacy/Budget.md",
-    "2024 Semester 1/ACCTG151G - Financial Literacy/Liquidity ratio.md",
-    "2024 Semester 1/ACCTG151G - Financial Literacy/liquid asset.md",
-    "2024 Semester 1/ACCTG151G - Financial Literacy/current.md",
-    "2024 Semester 1/ACCTG151G - Financial Literacy/Balance sheet.md",
-    "2024 Semester 1/ACCTG151G - Financial Literacy/Solvency ratio.md",
-    "conflict-files-obsidian-git.md",
+    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Chroma.md",
+    "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week10/Bayes Rule with Existing Evidence.md",
+    "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week09/Bayes Nets.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Averaging.md",
+    "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week10/Applying Bayes Rule.md",
+    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Collection - Elicitation.md",
+    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Balance.md",
+    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Logs & Notes.md",
+    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Analogous.md",
+    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Additive.md",
+    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Contextual Inquiry.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Normalization.md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Cascading Style Sheets (CSS).md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Recall (Completeness).md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/rank matrix.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Reduced error pruning.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Independent & Identically Distributed (IID).md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/k-nearest neighbour (KNN).md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Clustering.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/coarse discretization.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Cluster-Based Oversampling.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/AdaBoost.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Attribute (Feature) construction.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Attribute (Feature) selection.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Best Machine Learning Model.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Bias-Variance vs Fundamental Trade-Off.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/eigenvalues.md",
+    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/responsive design.md",
+    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Hypertext Markup Language (HTML).md",
+    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Plain Old Semantic HTML (POSH).md",
+    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/CSS media queries.md",
     "@images/Pasted image 20240426183404.png",
     "@images/Pasted image 20240426183308.png",
     "@images/Pasted image 20240426183254.png",
     "@images/Pasted image 20240426183130.png",
+    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/new semantic HTML5.md",
     "@images/Pasted image 20240426183012.png",
     "@images/Pasted image 20240426182959.png",
     "@images/Pasted image 20240426182648.png",
     "@images/Pasted image 20240426182437.png",
+    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Web technology.md",
+    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Javascript.md",
+    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Document Object Model (DOM).md",
+    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/brainstorming.md",
+    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/w3.CSS Templates.md",
     "@images/Pasted image 20240426181125.png",
     "@images/Pasted image 20240426181046.png",
+    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Float Layout.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Wrappers.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Filters.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Untitled",
     "2024 Semester 1",
     "2023 Semester 2",
