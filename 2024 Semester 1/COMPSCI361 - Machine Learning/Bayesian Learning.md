@@ -1,4 +1,7 @@
 - ***Learning is just another application of [[2024 Semester 1/COMPSCI361 - Machine Learning/Bayes Theorem|Bayes Theorem]]***
+
+Given data set D, we want to find the best hypothesis h
+- [[Bayesian Learning]] used $P(h|D)$, the [[d]]
 ## Why is it so important?
 1. Explicit manipulation of probabilities - (it defines a class/paradigm for creating new algorithms)
 	- Among the most practical approaches to certain types of learning problems
