@@ -1,0 +1,15 @@
+In many learning scenarios, the learner considers some set of[[candi]] candidate hypotheses **H** and is interested in finding the most probable hypothesis **h** in **H** given the observed training data **D**.
+
+Any maximally probable hypothesis is called maximum a posteriori (MAP) hypothesis **h_MAP**.
+
+$$
+h_{MAP} = \arg\max_{h \in H} P(h|D)
+$$
+
+By Bayes' Theorem,
+
+$$
+= \arg\max_{h \in H} \frac{P(D|h)P(h)}{P(D)}
+$$
+
+Note that we can drop **P(D)** because it is a constant independent of **h**.
