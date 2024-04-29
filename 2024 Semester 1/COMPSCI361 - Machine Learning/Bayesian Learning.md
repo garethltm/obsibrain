@@ -1,0 +1,1 @@
+- Learning is just another application of [[2024 Semester 1/COMPSCI361 - Machine Learning/Bayes Theorem|Bayes Theorem]]
