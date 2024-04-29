@@ -18,11 +18,11 @@ We want it as a [[Supervised Learning]] task because things are becoming better,
 ## [[Spam Filtering]] as [[Supervised Learning]]
 Collect a large number of e-mails, get users to label them
 ![[Pasted image 20240429133849.png]]
-You can apply 
+You can apply [[Linear Regression]], [[classification]], etc.
 - ($\huge y\tiny {i}\normalsize = 1$):
-	- if email i is spam
+	- if email $i$ is $spam$
 - ($\huge y\tiny {i}\normalsize = 0$):
-	- if email i is not spam
+	- if email $i$ is $not\ spam$
 - Extract features of each email ([[bag-of-words]]) - similar to [[Shallow NLP]]
 	- ($\huge x\tiny {ij}\normalsize = 1$):
 		- if word/phrase j is in email i
