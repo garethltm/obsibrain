@@ -22,4 +22,5 @@ Collect a large number of e-mails, get users to label them
 	- if email i is spam
 - ($\huge y\tiny {i}\normalsize = 0$):
 	- if email i is not spam
-- Extract features of each email ([[bag-of-words]])
+- Extract features of each email ([[bag-of-words]]) - similar to [[Shallow NLP]]
+	- ($\huge x\tiny {i}\normalsize = 1$):

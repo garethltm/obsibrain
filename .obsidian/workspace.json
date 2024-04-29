@@ -60,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "css",
+                "query": "bag",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -77,7 +77,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -242,8 +243,11 @@
   },
   "active": "86e9a7770ec00c10",
   "lastOpenFiles": [
-    "2024 Semester 1/COMPSCI361 - Machine Learning/bag-of-words.md",
+    "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week10/Bayes Classifier - Conditional Independence.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Random Forests.md",
+    "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week10/Shallow NLP.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Spam Filtering.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/bag-of-words.md",
     "@images/Pasted image 20240429133849.png",
     "@images/Pasted image 20240429133740.png",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Untitled.md",
@@ -267,9 +271,6 @@
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Hick-Hyman Law.md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Document Object Model (DOM).md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Design solutions.md",
-    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Design Review.md",
-    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Design thinking.md",
-    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Design Principles.md",
     "@images/Pasted image 20240426183404.png",
     "@images/Pasted image 20240426183308.png",
     "@images/Pasted image 20240426183254.png",
