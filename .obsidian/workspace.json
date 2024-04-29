@@ -18,6 +18,18 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "059fbb74064c3a35",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Untitled.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ]
       }
@@ -230,8 +242,10 @@
   },
   "active": "86e9a7770ec00c10",
   "lastOpenFiles": [
-    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/responsive design.md",
+    "@images/Pasted image 20240429133740.png",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Untitled.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Spam Filtering.md",
+    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/responsive design.md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/CSS media queries.md",
     "2023 Semester 2/COMPSCI235 - Software Development Methodologies/selector.md",
     "2023 Semester 2/COMPSCI235 - Software Development Methodologies/Web-based Systems.md",
@@ -254,8 +268,6 @@
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Design Review.md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Design thinking.md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Design Principles.md",
-    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Contextual Inquiry.md",
-    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Complimentary.md",
     "@images/Pasted image 20240426183404.png",
     "@images/Pasted image 20240426183308.png",
     "@images/Pasted image 20240426183254.png",

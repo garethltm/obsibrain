@@ -9,5 +9,8 @@ Spam filters analyze the text of emails & classify them into Spam & Ham
 - [[2024 Semester 1/COMPSCI345 - Human-computer Interaction/Hypertext Markup Language (HTML)|Hypertext Markup Language (HTML)]] has a low ratio of text to image area
 - 100% guaranteed
 - Claims you can be removed from the list
-- 'Prestigious Non-Accredited Universities
-- '
+- 'Prestigious Non-Accredited Universities'
+#compsci361example ![[Pasted image 20240429133740.png]]
+
+## Aim
+We want it as a [[Supervised Learning]] task because things are becoming better, we don't want to constantly create new rules all time
