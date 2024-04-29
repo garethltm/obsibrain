@@ -6,7 +6,7 @@ $$P(h|D) = \frac{P(D|h)P(h)}{P(D)}$$
 - Both $h$ and $D$ are events:
 	- $D$: the event that we observed this particular data set
 	- $h$: the event that the hypothesis h is the true hypothesis
-	- Hypothesis $h$ and observed data set $D$ to substitute $X$ and $Y$ in [[2024 Semester 1/COMPSCI361 - Machine Learning/Bayes Theorem|Bayes Theorem]]
+	- Hypothesis $h$ and observed data set $D$ to substitute $X$ and $Y$ in [[2024 Semester 1/COMPSCI361 - Machine Learning/Bayes Theorem|Bayes Theorem]]![[Pasted image 20240429145259.png]]
 ## Why is it so important?
 1. Explicit manipulation of probabilities - (it defines a class/paradigm for creating new algorithms)
 	- Among the most practical approaches to certain types of learning problems

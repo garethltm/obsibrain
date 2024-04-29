@@ -8,42 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "86e9a7770ec00c10",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Spam Filtering.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "513d028adec299e1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Bayes Theorem.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "74c46d3a81a334d8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Bayes Theorem.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "8946e1c134c85c23",
             "type": "leaf",
             "state": {
@@ -54,9 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "72b9742e87f43317",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Maximum A Posteriori (MAP) Hypothesis.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -123,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Bayesian Learning.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Maximum A Posteriori (MAP) Hypothesis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Bayesian Learning.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Maximum A Posteriori (MAP) Hypothesis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Bayesian Learning.md"
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Maximum A Posteriori (MAP) Hypothesis.md"
               }
             }
           },
@@ -193,7 +169,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Bayesian Learning.md"
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Maximum A Posteriori (MAP) Hypothesis.md"
               }
             }
           },
@@ -219,7 +195,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Bayesian Learning.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Maximum A Posteriori (MAP) Hypothesis.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -265,10 +241,13 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "8946e1c134c85c23",
+  "active": "72b9742e87f43317",
   "lastOpenFiles": [
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Bayes Theorem.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Bayesian Learning.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Maximum A Posteriori (MAP) Hypothesis.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Bayes Theorem.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Spam Filtering.md",
+    "@images/Pasted image 20240429145259.png",
     "2024 Semester 1/COMPSCI361 - Machine Learning/random variables.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Probability.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/random events.md",
@@ -278,7 +257,6 @@
     "2024 Semester 1/COMPSCI361 - Machine Learning/Naive Bayes.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Bayes rule.md",
     "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week10/Applying Bayes Rule.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Spam Filtering.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/trigram.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/bigrams.md",
     "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week10/Bayes Classifier - Conditional Independence.md",
@@ -294,7 +272,6 @@
     "2023 Semester 2/COMPSCI235 - Software Development Methodologies/Web-based Systems.md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Web technology.md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Cascading Style Sheets (CSS).md",
-    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Match between System & the Real World.md",
     "@images/Pasted image 20240426183404.png",
     "@images/Pasted image 20240426183308.png",
     "@images/Pasted image 20240426183254.png",
@@ -302,7 +279,6 @@
     "@images/Pasted image 20240426183012.png",
     "@images/Pasted image 20240426182959.png",
     "@images/Pasted image 20240426182648.png",
-    "@images/Pasted image 20240426182437.png",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Untitled",
     "2024 Semester 1",
     "2023 Semester 2",
