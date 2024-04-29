@@ -7,3 +7,4 @@ For years, best [[Spam Filtering]] methods used [[Naive Bayes]]
 - You don't even need to have thresholds - because you are estimating the [[conditional probability]]
 ## Main idea
 - to model the relationship between your input features & your output
+	- assume that is governed by some unknown probability distribution

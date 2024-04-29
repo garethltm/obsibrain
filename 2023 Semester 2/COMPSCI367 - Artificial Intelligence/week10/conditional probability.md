@@ -30,4 +30,4 @@ The following holds for all [[proposition(s)]] $a$ & $b$ & $e$:
 	- $-P(a\land b\ |\ e)$: to prevent overcounting the intersection
 - [[Chain Rule]]
 - [[Law of total probability]]
-- [[Bayes Theorem]]
+- [[2023 Semester 2/COMPSCI367 - Artificial Intelligence/week10/Bayes Theorem]]
