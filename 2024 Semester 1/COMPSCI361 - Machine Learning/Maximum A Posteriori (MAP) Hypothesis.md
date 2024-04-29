@@ -52,10 +52,9 @@ $$
 
 The exact posterior probabilities can be determined by normalizing the above probabilities to sum up to 1
 
-$P(cancer|θ) = \frac {0.0078}{(0.0078 + 0.0298)}= 0.21$
+$P(cancer|θ) = \frac {0.0078}{0.0078 + 0.0298}= 0.21$
     
-**P(~cancer|θ)** = 0.0298 / (0.0078 + 0.0298) = **0.79**
-
+$P(~ cancer|θ) = 0.0298 / (0.0078 + 0.0298) = 0.79$
 *The probability of cancer **increases** when we observe a **positive test result!***
 
 
