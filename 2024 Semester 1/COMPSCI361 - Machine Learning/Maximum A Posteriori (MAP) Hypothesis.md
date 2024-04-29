@@ -23,4 +23,27 @@ $$
 - **[[Maximum Likelihood (ML) Hypothesis]]**: This refers to any hypothesis that maximizes the likelihood of the observed data $D$ given the hypothesis $h$, denoted as $P(D|h)$.
 - **Constant Probability**: Since every hypothesis is considered equally probable, the prior probability ($P(h)$) can be dropped from the equation, as it is constant for each hypothesis in the set ($H$).
 
+#compsci361example Medical Diagnosis Problem:
+- **Hypotheses**:
+  - The patient has cancer (**cancer**)
+  - The patient does not have cancer (**~cancer**)
+### Laboratory Data:
+- **Test Outcomes**:
+  - Positive (**θ**)
+  - Negative (**⊖**)
+### Probabilities:
+- **P(cancer) = 0.008**
+- **P(~cancer) = 0.992**
+- **P(θ|cancer) = 0.98**
+- **P(θ|~cancer) = 0.03**
+### Diagnosis Scenario:
+- A patient's lab test returns a positive (**θ**) result.
+### Calculations:
+- **P(cancer|θ) ≈ P(θ|cancer) * P(cancer)**
+  - **= 0.98 * 0.008 = 0.00784**
+- **P(~cancer|θ) ≈ P(θ|~cancer) * P(~cancer)**
+  - **= 0.03 * 0.992 = 0.02976**
+### Conclusion:
+- **Does the probability of cancer increase? Yes.**
+
 
