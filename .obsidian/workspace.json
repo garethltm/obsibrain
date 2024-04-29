@@ -11,8 +11,12 @@
             "id": "d17e8e84c18712a1",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Budget.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -44,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#compsci361example",
+                "query": "forward lookin",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -61,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -82,6 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Budget.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Budget.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +126,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Budget.md"
+              }
             }
           },
           {
@@ -147,7 +156,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {}
+              "state": {
+                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Budget.md"
+              }
             }
           },
           {
@@ -172,6 +183,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Budget.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -217,8 +229,15 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "d17e8e84c18712a1",
+  "active": "a6e0090ac9cbd1f3",
   "lastOpenFiles": [
+    "2024 Semester 1/ACCTG151G - Financial Literacy/Network of financial plans & statements.md",
+    "2024 Semester 1/ACCTG151G - Financial Literacy/Financial planning.md",
+    "2024 Semester 1/ACCTG151G - Financial Literacy/Financial Goals.md",
+    "2023 Semester 2/COMPSCI235 - Software Development Methodologies/The 4 P's of Software Development.md",
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Top IT Challenges.md",
+    "2024 Semester 1/ACCTG151G - Financial Literacy/Financial Literacy.md",
+    "2024 Semester 1/ACCTG151G - Financial Literacy/Budget.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Bayesian Learning.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Maximum A Posteriori (MAP) Hypothesis.md",
     "@images/Pasted image 20240429162119.png",
@@ -241,14 +260,8 @@
     "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week10/Bayes Classifier - Conditional Independence.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Random Forests.md",
     "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week10/Shallow NLP.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/bag-of-words.md",
     "@images/Pasted image 20240429133849.png",
     "@images/Pasted image 20240429133740.png",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Untitled.md",
-    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/responsive design.md",
-    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/CSS media queries.md",
-    "2023 Semester 2/COMPSCI235 - Software Development Methodologies/selector.md",
-    "2023 Semester 2/COMPSCI235 - Software Development Methodologies/Web-based Systems.md",
     "@images/Pasted image 20240426183404.png",
     "@images/Pasted image 20240426183308.png",
     "@images/Pasted image 20240426183254.png",
