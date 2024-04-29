@@ -15,4 +15,4 @@
 		we can just remove the $p(zh)$ line because all the denominators would have the same model which maximises the top line
 		$\frac {p(zh|mi)\ \cdot p(mi)}{p(zh)}$ $\rightarrow$ [[Bayes Theorem]]
 
-Related to: [[2023 Semester 2/COMPSCI367 - Artificial Intelligence/week10/Bayes Theorem]], [[Probability]], [[Natural Language Processing (NLP)]], [[The Noisy Channel Model]]
+Related to: [[2023 Semester 2/COMPSCI367 - Artificial Intelligence/week10/Bayes Theorem]], [[2023 Semester 2/COMPSCI367 - Artificial Intelligence/week09/Probability]], [[Natural Language Processing (NLP)]], [[The Noisy Channel Model]]

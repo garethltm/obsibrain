@@ -2,7 +2,7 @@
 	- what [[action(s)]] would make us closer to the [[Goal(s) - Goal State(s)]]
 
 [[Planning with Uncertainty]] differs from [[Classical Planning]]:
-- infinite set of [[Probability]] outcomes as a search space
+- infinite set of [[2023 Semester 2/COMPSCI367 - Artificial Intelligence/week09/Probability]] outcomes as a search space
 - [[State(s)]] changes with [[Stochastic]] elements involved
 - ==non-[[Deterministic]] [[action(s)]]==
 - Imperfect information
@@ -10,5 +10,5 @@
 
 Thus the need to reason about [[uncertainty]] using tools like:
 1. [[Probability Theory]]: quantifying [[uncertainty]] & calculating expectations
-2. [[Bayesian Networks]]: reason about [[Probability]] outcomes with imperfect information
+2. [[Bayesian Networks]]: reason about [[2023 Semester 2/COMPSCI367 - Artificial Intelligence/week09/Probability]] outcomes with imperfect information
 3. [[Utility theory]]

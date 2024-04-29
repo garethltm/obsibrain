@@ -1,7 +1,7 @@
-$P(A\ |\ B)$ is the conditional [[Probability]] that A will occur, given that B has already occurred
+$P(A\ |\ B)$ is the conditional [[2023 Semester 2/COMPSCI367 - Artificial Intelligence/week09/Probability]] that A will occur, given that B has already occurred
 
 The [[Belief measure]] in hypothesis $h$ based on [[proposition(s)]] $e$ is called the [[conditional probability]] of $h$ given $e$, written $P(h\ |\ e)$
-- [[Probability]] of $h$ given $e$
+- [[2023 Semester 2/COMPSCI367 - Artificial Intelligence/week09/Probability]] of $h$ given $e$
 
 The [[proposition(s)]] e represents certain given experience
 
