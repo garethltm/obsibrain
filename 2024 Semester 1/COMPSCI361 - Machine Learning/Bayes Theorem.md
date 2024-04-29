@@ -8,3 +8,4 @@ $$P(Y|X) = \frac {P(X|Y)P(Y)}{P(X)}$$
 - Optimal decisions can be made by reasoning about these probabilities together with observed [[training data]]
 
 [[Machine Learning (ML)]] is interested in the best hypothesis h from space H, given observed [[training data]] D
+best hypothesis $\
