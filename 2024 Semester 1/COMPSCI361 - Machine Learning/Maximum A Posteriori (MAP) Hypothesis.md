@@ -5,9 +5,9 @@ Any maximally probable hypothesis is called [[Maximum A Posteriori (MAP) Hypothe
 $$
 h_{MAP} = \arg\max_{h \in H} P(h|D)
 $$
+- find the algorithm that gives the maximum prior [[probability]] after observation
 
 By Bayes' Theorem,
-
 $$
 = \arg\max_{h \in H} \frac{P(D|h)P(h)}{P(D)}
 $$
