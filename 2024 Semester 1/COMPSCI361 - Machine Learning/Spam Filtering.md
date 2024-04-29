@@ -32,4 +32,5 @@ You can apply [[Linear Regression]], [[classification]], etc.
 Are there better features than [[bag-of-words]]?
 - We can add [[bigrams]], [[trigram]]
 - We might include the sender domain (`<sender domain == "mail.com">`)
-- We might inclu
+- We might include regular expressions
+These are ways to construct features & looking into dependencies between words because they are most probably irrelevant

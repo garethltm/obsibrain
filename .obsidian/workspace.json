@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "513d028adec299e1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Untitled 1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "059fbb74064c3a35",
             "type": "leaf",
             "state": {
@@ -31,7 +43,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -98,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Spam Filtering.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Untitled 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Spam Filtering.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Untitled 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Spam Filtering.md"
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Untitled 1.md"
               }
             }
           },
@@ -168,7 +181,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Spam Filtering.md"
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Untitled 1.md"
               }
             }
           },
@@ -194,7 +207,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Spam Filtering.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Untitled 1.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -240,10 +253,11 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "86e9a7770ec00c10",
+  "active": "513d028adec299e1",
   "lastOpenFiles": [
-    "2024 Semester 1/COMPSCI361 - Machine Learning/trigram.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Spam Filtering.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Untitled 1.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/trigram.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/bigrams.md",
     "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week10/Bayes Classifier - Conditional Independence.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Random Forests.md",
@@ -269,7 +283,6 @@
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Human-computer Interaction (HCI).md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Hue - Colour wheel.md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/High fidelity prototype.md",
-    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Hick-Hyman Law.md",
     "@images/Pasted image 20240426183404.png",
     "@images/Pasted image 20240426183308.png",
     "@images/Pasted image 20240426183254.png",
