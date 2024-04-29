@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "436a1bb8690afc8c",
+        "id": "9a92a16273d5e560",
         "type": "tabs",
         "children": [
           {
-            "id": "d17e8e84c18712a1",
+            "id": "f9def0ef7b0bebcb",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Financial planning.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -65,8 +61,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -87,7 +82,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Financial planning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +98,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Financial planning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,9 +119,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Financial planning.md"
-              }
+              "state": {}
             }
           },
           {
@@ -156,9 +147,7 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Financial planning.md"
-              }
+              "state": {}
             }
           },
           {
@@ -183,7 +172,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Financial planning.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -229,11 +217,11 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "d17e8e84c18712a1",
+  "active": "3ad179677b7fba41",
   "lastOpenFiles": [
+    "2024 Semester 1/ACCTG151G - Financial Literacy/Financial planning.md",
     "2024 Semester 1/ACCTG151G - Financial Literacy/Budget.md",
     "2024 Semester 1/ACCTG151G - Financial Literacy/Network of financial plans & statements.md",
-    "2024 Semester 1/ACCTG151G - Financial Literacy/Financial planning.md",
     "2024 Semester 1/ACCTG151G - Financial Literacy/Financial Goals.md",
     "2023 Semester 2/COMPSCI235 - Software Development Methodologies/The 4 P's of Software Development.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Top IT Challenges.md",
