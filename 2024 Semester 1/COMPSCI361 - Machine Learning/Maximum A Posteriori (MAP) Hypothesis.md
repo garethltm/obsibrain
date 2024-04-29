@@ -49,7 +49,7 @@ $$
 *Note that these are just approximates*
 ### Conclusion:
 - **Does the probability of cancer increase? Yes.**
-
+## Getting the exact [[2024 Semester 1/COMPSCI361 - Machine Learning/Probability|Probability]]
 The exact posterior probabilities can be determined by normalizing the above probabilities to sum up to 1
 $P(cancer|θ) = \frac {0.0078}{0.0078 + 0.0298}= 0.21$
     
