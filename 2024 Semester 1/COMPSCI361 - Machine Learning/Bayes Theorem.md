@@ -8,7 +8,8 @@ $$
 P(Y=y | X=x) = \frac{P(X=x | Y=y) P(Y=y)}{P(X=x)}
 
 $$
-- big P = 
+- big P = discrete random values
+- small p = continuous random values (probability density)
 ## Basic assumption
 - Quantities of interest are governed by probability distributions
 - Optimal decisions can be made by reasoning about these probabilities together with observed [[training data]]
