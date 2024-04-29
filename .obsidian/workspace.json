@@ -65,7 +65,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 276.5
+    "width": 276.5,
+    "collapsed": true
   },
   "right": {
     "id": "29204b37fc003a9a",
@@ -217,7 +218,7 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "3ad179677b7fba41",
+  "active": "f9def0ef7b0bebcb",
   "lastOpenFiles": [
     "2024 Semester 1/ACCTG151G - Financial Literacy/Financial planning.md",
     "2024 Semester 1/ACCTG151G - Financial Literacy/Budget.md",
