@@ -25,26 +25,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Untitled 1.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Probabilistic Classifiers.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "059fbb74064c3a35",
+            "id": "24f6de89b61fdb68",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Untitled.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Naive Bayes.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -111,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Untitled 1.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Naive Bayes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Untitled 1.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Naive Bayes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Untitled 1.md"
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Naive Bayes.md"
               }
             }
           },
@@ -181,7 +181,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Untitled 1.md"
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Naive Bayes.md"
               }
             }
           },
@@ -207,7 +207,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Untitled 1.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Naive Bayes.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -253,10 +253,11 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "513d028adec299e1",
+  "active": "24f6de89b61fdb68",
   "lastOpenFiles": [
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Probabilistic Classifiers.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Naive Bayes.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Spam Filtering.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Untitled 1.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/trigram.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/bigrams.md",
     "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week10/Bayes Classifier - Conditional Independence.md",
@@ -282,7 +283,6 @@
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Hypertext Markup Language (HTML).md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Human-computer Interaction (HCI).md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Hue - Colour wheel.md",
-    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/High fidelity prototype.md",
     "@images/Pasted image 20240426183404.png",
     "@images/Pasted image 20240426183308.png",
     "@images/Pasted image 20240426183254.png",

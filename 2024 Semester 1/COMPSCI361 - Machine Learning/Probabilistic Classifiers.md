@@ -1,0 +1,1 @@
+For years, best [[Spam Filtering]] methods used [[Naive Bayes]]
