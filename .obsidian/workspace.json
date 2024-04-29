@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Error.md",
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Proximity Principle.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "forward lookin",
+                "query": "proximity",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -86,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Error.md",
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Proximity Principle.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Error.md",
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Proximity Principle.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Error.md"
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Proximity Principle.md"
               }
             }
           },
@@ -156,7 +157,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Error.md"
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Proximity Principle.md"
               }
             }
           },
@@ -182,7 +183,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Error.md",
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Proximity Principle.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -230,6 +231,8 @@
   },
   "active": "f9def0ef7b0bebcb",
   "lastOpenFiles": [
+    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Gestalt Principles of Perception.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Error.md",
     "2024 Semester 1/ACCTG151G - Financial Literacy/Financial planning.md",
     "2024 Semester 1/ACCTG151G - Financial Literacy/Budget.md",
     "2024 Semester 1/ACCTG151G - Financial Literacy/Network of financial plans & statements.md",
@@ -257,8 +260,6 @@
     "2024 Semester 1/COMPSCI361 - Machine Learning/trigram.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/bigrams.md",
     "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week10/Bayes Classifier - Conditional Independence.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Random Forests.md",
-    "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week10/Shallow NLP.md",
     "@images/Pasted image 20240429133849.png",
     "@images/Pasted image 20240429133740.png",
     "@images/Pasted image 20240426183404.png",
