@@ -1,6 +1,7 @@
 - everything is uncertain $\rightarrow$ everything is TRUE to a certain degree
 	- finding more FALSE statements to disprove a hypothesis
 $$P(Y|X) = \frac {P(X|Y)P(Y)}{P(X)}$$
+which is short for $\forall \tiny{x}\normalsize {y}$: 
 - Search the most likely hypothesis 
 	- giving the most likely model/proposition
 ## Basic assumption
@@ -14,3 +15,4 @@ best hypothesis $\approx$ most probable hypothesis
 - its prior probability
 - the probabilities of observing various data given the hypothesis
 - the observed data itself
+
