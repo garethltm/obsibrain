@@ -56,12 +56,12 @@
             }
           },
           {
-            "id": "d25106394da58214",
+            "id": "c14078df9c09b7e8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/random events.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/random variables.md",
                 "mode": "source",
                 "source": false
               }
@@ -136,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/random events.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/random variables.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +153,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/random events.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/random variables.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -176,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/random events.md"
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/random variables.md"
               }
             }
           },
@@ -206,7 +206,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/random events.md"
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/random variables.md"
               }
             }
           },
@@ -232,7 +232,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/random events.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/random variables.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -278,9 +278,10 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "a6e0090ac9cbd1f3",
+  "active": "c14078df9c09b7e8",
   "lastOpenFiles": [
     "2024 Semester 1/COMPSCI361 - Machine Learning/Probability.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/random variables.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/random events.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Bayes Theorem.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Bayesian Learning.md",
@@ -307,7 +308,6 @@
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Web technology.md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Cascading Style Sheets (CSS).md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Match between System & the Real World.md",
-    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Memorability.md",
     "@images/Pasted image 20240426183404.png",
     "@images/Pasted image 20240426183308.png",
     "@images/Pasted image 20240426183254.png",
