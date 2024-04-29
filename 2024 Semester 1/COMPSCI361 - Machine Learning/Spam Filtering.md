@@ -25,6 +25,9 @@ You can apply [[Linear Regression]], [[classification]], etc.
 	- if email $i$ is $not\ spam$
 - Extract features of each email ([[bag-of-words]]) - similar to [[Shallow NLP]]
 	- ($\huge x\tiny {ij}\normalsize = 1$):
-		- if word/phrase j is in email i
+		- if word/phrase $j$ is in email $i$
 	- ($\huge x\tiny {ij}\normalsize = 0$):
-		- if word/phrase j is not in email i
+		- if word/phrase $j$ is not in email $i$
+## Feature Representation for [[Spam Filtering]]
+Are there better features than [[bag-of-words]]?
+- We can add [[bi]]
