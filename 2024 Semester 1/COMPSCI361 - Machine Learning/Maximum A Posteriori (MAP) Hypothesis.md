@@ -1,6 +1,6 @@
-In many learning scenarios, the learner considers some set of[[candi]] candidate hypotheses **H** and is interested in finding the most probable hypothesis **h** in **H** given the observed training data **D**.
+In many learning scenarios, the learner considers some set of candidate hypotheses **H** and is interested in finding the most probable hypothesis **h** in **H** given the observed [[training data]] **D**.
 
-Any maximally probable hypothesis is called maximum a posteriori (MAP) hypothesis **h_MAP**.
+Any maximally probable hypothesis is called [[Maximum A Posteriori (MAP) Hypothesis]] **$h_{MAP}$**.
 
 $$
 h_{MAP} = \arg\max_{h \in H} P(h|D)
