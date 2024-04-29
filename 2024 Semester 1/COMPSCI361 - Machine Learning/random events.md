@@ -7,7 +7,6 @@ Probability measure: A function $P : F \rightarrow \mathbb{R}$ that satisfies th
 - $P(A) \ge 0$, \for all $A \in F$
 - $P(\Omega) = 1$
 - If $A_1, A_2, \ldots$ are disjoint events 
-	(i.e., $A_i \cap A_j = \emptyset$ whenever $i \neq j$), then
-\[ P\left(\bigcup_{i} A_{i}\right) = \sum P(A_{i}) \]
+	#compsci361example $A_i \cap A_j = \emptyset$ whenever $i \neq j$), then $P\left(\bigcup_{i} A_{i}\right) = \sum P(A_{i})$
 
 *Note: Probability can have a range between 0 and 1.*
