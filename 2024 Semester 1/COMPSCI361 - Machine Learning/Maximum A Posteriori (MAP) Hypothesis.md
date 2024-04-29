@@ -14,5 +14,6 @@ $$
 
 *Note that we can drop **$P(D)$** because it is a constant independent of **$h$:
 $$
-h_{MAP} = \arg\max_{h \in H} {P(D|h)P(h)}
+= \arg\max_{h \in H} {P(D|h)P(h)}
 $$
+## Choosing a Hypothesis
