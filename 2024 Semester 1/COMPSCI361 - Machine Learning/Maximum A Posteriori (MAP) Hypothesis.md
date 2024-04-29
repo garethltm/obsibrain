@@ -12,4 +12,5 @@ $$
 = \arg\max_{h \in H} \frac{P(D|h)P(h)}{P(D)}
 $$
 
-Note that we can drop **P(D)** because it is a constant independent of **h**.
+*Note that we can drop **$P(D)$** because it is a constant independent of **$h$.
+
