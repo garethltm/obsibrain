@@ -12,9 +12,9 @@ $$
 = \arg\max_{h \in H} \frac{P(D|h)P(h)}{P(D)}
 $$
 
-*Note that we can drop **$P(D)$** because it is a constant independent of **$h$:
+*Note that we can drop $P(D)$ because it is a constant independent of $h$*:
 $$
 = \arg\max_{h \in H} {P(D|h)P(h)}
 $$
 ## Choosing a Hypothesis
-Sometimes
+Sometimes it is assumed that every hypothesis is equally probable apriori
