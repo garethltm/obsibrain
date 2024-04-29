@@ -6,3 +6,7 @@
 2. Useful framework for understanding learning methods that do not explicitly manipulate probabilities - (it creates a framework to reason with all the other algorithms out there)
 	- Determine conditions under which algorithms output the most probable hypothesis
 	- #compsci361example justification of [[Least Squares]] error function, why smaller [[Decision Tree(s)]] are preferred (Occam's razor)
+## Practical difficulties
+1. Initial knowledge of many probabilities is required
+	- In reality, might not have all knowledge $\rightarrow$ most likely unexpected
+2. Significant computational costs required
