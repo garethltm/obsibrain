@@ -17,3 +17,4 @@ $$
 = \arg\max_{h \in H} {P(D|h)P(h)}
 $$
 ## Choosing a Hypothesis
+Sometimes
