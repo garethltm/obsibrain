@@ -18,3 +18,4 @@ $$
 $$
 ## Choosing a Hypothesis
 Sometimes it is assumed that every hypothesis is equally probable apriori
+In this case, the equation above can be simplified $\rightarrow$ because $P(D|H)$ is often called the likelihood of $D$ given h
