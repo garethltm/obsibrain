@@ -17,5 +17,11 @@ $$
 = \arg\max_{h \in H} {P(D|h)P(h)}
 $$
 ## Choosing a Hypothesis
+
+- **Equal Probability Assumption**: Sometimes, it’s assumed that every hypothesis is equally probable before observing any data (apriori).
+- **Simplification**: Under this assumption, the equation for hypothesis testing can be simplified.
+- **Maximum Likelihood Hypothesis**: This refers to any hypothesis that maximizes the likelihood of the observed data (D) given the hypothesis (h), denoted as (P(D|h)).
+- **Constant Probability**: Since every hypothesis is considered equally probable, the prior probability (P(h)) can be dropped from the equation, as it is constant for each hypothesis in the set (H).
+
 Sometimes it is assumed that every hypothesis is equally probable apriori
-In this case, the equation above can be simplified $\rightarrow$ because $P(D|H)$ is often called the likelihood of $D$ given $h$, any hypothesis that maximises $P(D|h)$ is called the maximum likelihood (ML) Hypothesis
+In this case, the equation above can be simplified $\rightarrow$ because $P(D|H)$ is often called the likelihood of $D$ given $h$, any hypothesis that maximises $P(D|h)$ is called the [[Maximum Likelihood (ML) Hypothesis]]
