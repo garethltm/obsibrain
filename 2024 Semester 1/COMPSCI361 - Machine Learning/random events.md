@@ -3,10 +3,10 @@ Here, each outcome $\omega \in \Omega$ can be thought of as a complete descripti
 
 Set of events (or event space) $F$: A set whose elements $A \in F$ (called events) are subsets of $\Omega$ (i.e., $A \subseteq \Omega$) is a collection of possible outcomes of an experiment.
 
-Probability measure: A function $P : F \rightarrow \mathbb{R}$ that satisfies the following properties: ($\mathbb{R}$ because [[2024 Semester 1/COMPSCI361 - Machine Learning/Probability|Probability]] can have a range between 0 & 1) 
+Probability measure: A function $P : F \rightarrow \mathbb{R}$ that satisfies the following properties: ($\mathbb{R}$ because * Probability can have a range between 0 and 1.*
+ 
 - $P(A) \ge 0$, \for all $A \in F$
-- $P(\Omega) = 1$ 
+- $P(\Omega) = 1$ (probability of any outcome happening is certain)
 - If $A_1, A_2, \ldots$ are disjoint events 
 	#compsci361example $A_i \cap A_j = \emptyset$ whenever $i \neq j$), then $P\left(\bigcup_{i} A_{i}\right) = \displaystyle\sum_{i} P(A_{i})$
 
-*Note: Probability can have a range between 0 and 1.*
