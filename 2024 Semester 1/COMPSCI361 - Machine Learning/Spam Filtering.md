@@ -31,3 +31,5 @@ You can apply [[Linear Regression]], [[classification]], etc.
 ## Feature Representation for [[Spam Filtering]]
 Are there better features than [[bag-of-words]]?
 - We can add [[bigrams]], [[trigram]]
+- We might include the sender domain (`<sender domain == "mail.com">`)
+- We might inclu
