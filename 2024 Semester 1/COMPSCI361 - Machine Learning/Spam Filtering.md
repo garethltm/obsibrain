@@ -14,3 +14,8 @@ Spam filters analyze the text of emails & classify them into Spam & Ham
 
 ## Aim
 We want it as a [[Supervised Learning]] task because things are becoming better, we don't want to constantly create new rules all time
+
+## [[Spam Filtering]] as [[Supervised Learning]]
+Collect a large number of e-mails, get users to label them
+![[Pasted image 20240429133849.png]]
+- We can use ($y\tiny {i}\normalsize = 1$)
