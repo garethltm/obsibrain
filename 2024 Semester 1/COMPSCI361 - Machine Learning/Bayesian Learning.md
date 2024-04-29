@@ -3,7 +3,10 @@
 Given data set D, we want to find the best hypothesis h
 - [[Bayesian Learning]] used $P(h|D)$, the [[conditional probability]] of a hypothesis given the data to define the "best"
 $$P(h|D) = \frac{P(D|h)P(h)}{P(D)}$$
-- Both $h$ and D are events:
+- Both $h$ and $D$ are events:
+	- $D$: the event that we observed this particular data set
+	- $h$: the event that the hypothesis h is the true hypothesis
+	- 
 ## Why is it so important?
 1. Explicit manipulation of probabilities - (it defines a class/paradigm for creating new algorithms)
 	- Among the most practical approaches to certain types of learning problems
