@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Cascading Style Sheets (CSS).md",
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Match between System & the Real World.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Cascading Style Sheets (CSS).md",
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Match between System & the Real World.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Cascading Style Sheets (CSS).md",
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Match between System & the Real World.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Cascading Style Sheets (CSS).md"
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Match between System & the Real World.md"
               }
             }
           },
@@ -156,7 +156,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Cascading Style Sheets (CSS).md"
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Match between System & the Real World.md"
               }
             }
           },
@@ -182,7 +182,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Cascading Style Sheets (CSS).md",
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Match between System & the Real World.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -230,42 +230,42 @@
   },
   "active": "102fe474db4853a3",
   "lastOpenFiles": [
-    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Chroma.md",
-    "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week10/Bayes Rule with Existing Evidence.md",
-    "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week09/Bayes Nets.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Averaging.md",
-    "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week10/Applying Bayes Rule.md",
-    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Collection - Elicitation.md",
-    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Balance.md",
+    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Memorability.md",
+    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Match between System & the Real World.md",
+    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Javascript.md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Logs & Notes.md",
-    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Analogous.md",
-    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Additive.md",
-    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Contextual Inquiry.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Normalization.md",
-    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Cascading Style Sheets (CSS).md",
-    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/responsive design.md",
+    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Interviews.md",
+    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Inclusive Design.md",
+    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Ideation.md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Hypertext Markup Language (HTML).md",
-    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Plain Old Semantic HTML (POSH).md",
-    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/CSS media queries.md",
+    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Human-computer Interaction (HCI).md",
+    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Hue - Colour wheel.md",
+    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/High fidelity prototype.md",
+    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Hick-Hyman Law.md",
+    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Document Object Model (DOM).md",
+    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Design solutions.md",
+    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Design Review.md",
+    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Design thinking.md",
+    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Design Principles.md",
+    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Contextual Inquiry.md",
+    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Complimentary.md",
+    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Colour Schemes.md",
+    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Collection - Elicitation.md",
+    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Chroma.md",
+    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Closure Principle.md",
+    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Cascading Style Sheets (CSS).md",
+    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/bi-cone Colour Model.md",
+    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Balance.md",
     "@images/Pasted image 20240426183404.png",
     "@images/Pasted image 20240426183308.png",
     "@images/Pasted image 20240426183254.png",
     "@images/Pasted image 20240426183130.png",
-    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/new semantic HTML5.md",
     "@images/Pasted image 20240426183012.png",
     "@images/Pasted image 20240426182959.png",
     "@images/Pasted image 20240426182648.png",
     "@images/Pasted image 20240426182437.png",
-    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Web technology.md",
-    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Javascript.md",
-    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Document Object Model (DOM).md",
-    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/brainstorming.md",
-    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/w3.CSS Templates.md",
     "@images/Pasted image 20240426181125.png",
     "@images/Pasted image 20240426181046.png",
-    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Float Layout.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Wrappers.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Filters.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Untitled",
     "2024 Semester 1",
     "2023 Semester 2",
