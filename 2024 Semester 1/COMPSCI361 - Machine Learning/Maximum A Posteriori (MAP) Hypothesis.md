@@ -32,12 +32,14 @@ $$
   - Positive (**θ**)
   - Negative (**⊖**)
 ### Probabilities:
+![[Pasted image 20240429162053.png]]
 - **P(cancer) = 0.008**
 - **P(~cancer) = 0.992**
 - **P(θ|cancer) = 0.98**
 - **P(θ|~cancer) = 0.03**
-### Diagnosis Scenario:
+### Supp Scenario:
 - A patient's lab test returns a positive (**θ**) result.
+![[Pasted image 20240429162119.png]]
 ### Calculations:
 - **P(cancer|θ) ≈ P(θ|cancer) * P(cancer)**
   - **= 0.98 * 0.008 = 0.00784**
