@@ -1,2 +1,2 @@
 - a probabilistic [[classifier(s)]] based on [[Bayes rule]]
-- it tends to work well wi
+- it tends to work well with [[bag-of-words]]
