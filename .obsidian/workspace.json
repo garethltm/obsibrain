@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Mortgage Payments.md",
+                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Present Value (PV).md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "interest only",
+                "query": "annuity",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Mortgage Payments.md",
+                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Present Value (PV).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Mortgage Payments.md",
+                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Present Value (PV).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Mortgage Payments.md"
+                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Present Value (PV).md"
               }
             }
           },
@@ -157,7 +157,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Mortgage Payments.md"
+                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Present Value (PV).md"
               }
             }
           },
@@ -183,7 +183,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Mortgage Payments.md",
+                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Present Value (PV).md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -231,9 +231,10 @@
   },
   "active": "f9def0ef7b0bebcb",
   "lastOpenFiles": [
-    "2024 Semester 1/ACCTG151G - Financial Literacy/Interest only mortgage.md",
-    "2024 Semester 1/ACCTG151G - Financial Literacy/Mortgage Payments.md",
     "2024 Semester 1/ACCTG151G - Financial Literacy/Annuity.md",
+    "2024 Semester 1/ACCTG151G - Financial Literacy/Debt service ratio.md",
+    "2024 Semester 1/ACCTG151G - Financial Literacy/Mortgage Payments.md",
+    "2024 Semester 1/ACCTG151G - Financial Literacy/Interest only mortgage.md",
     "2024 Semester 1/ACCTG151G - Financial Literacy/Student (education) loans.md",
     "2024 Semester 1/ACCTG151G - Financial Literacy/principal.md",
     "2024 Semester 1/ACCTG151G - Financial Literacy/Managing your credit.md",
@@ -255,7 +256,6 @@
     "2024 Semester 1/ACCTG151G - Financial Literacy/Finance Company.md",
     "2024 Semester 1/ACCTG151G - Financial Literacy/Expenses (Cash OUT).md",
     "2024 Semester 1/ACCTG151G - Financial Literacy/Deposit.md",
-    "2024 Semester 1/ACCTG151G - Financial Literacy/Debt service ratio.md",
     "2024 Semester 1/ACCTG151G - Financial Literacy/current.md",
     "@images/Pasted image 20240429162119.png",
     "@images/Pasted image 20240429162053.png",
