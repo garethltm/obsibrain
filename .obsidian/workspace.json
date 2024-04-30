@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "proximity",
+                "query": "architec",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -229,7 +229,7 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "f9def0ef7b0bebcb",
+  "active": "a6e0090ac9cbd1f3",
   "lastOpenFiles": [
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Gestalt Principles of Perception.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Error.md",
