@@ -11,8 +11,12 @@
             "id": "f9def0ef7b0bebcb",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Bayes classfier.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -82,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Bayes classfier.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Bayes classfier.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Bayes classfier.md"
+              }
             }
           },
           {
@@ -147,7 +155,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {}
+              "state": {
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Bayes classfier.md"
+              }
             }
           },
           {
@@ -172,6 +182,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Bayes classfier.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -219,6 +230,8 @@
   },
   "active": "f9def0ef7b0bebcb",
   "lastOpenFiles": [
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Bayes rule.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Bayes classfier.md",
     "2023 Semester 2/COMPSCI235 - Software Development Methodologies/Generic Software Development Process Framework.md",
     "2023 Semester 2/INFOSYS222 - Database Systems/Data Warehouse.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/IT Architects.md",
@@ -243,11 +256,9 @@
     "2024 Semester 1/COMPSCI361 - Machine Learning/random variables.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Probability.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/random events.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Bayes classfier.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Probabilistic Classifiers.md",
     "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week10/conditional probability.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Naive Bayes.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Bayes rule.md",
     "@images/Pasted image 20240429133849.png",
     "@images/Pasted image 20240429133740.png",
     "@images/Pasted image 20240426183404.png",
