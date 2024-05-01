@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "loan",
+                "query": "discount",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -229,7 +229,7 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "f9def0ef7b0bebcb",
+  "active": "a6e0090ac9cbd1f3",
   "lastOpenFiles": [
     "2024 Semester 1/ACCTG151G - Financial Literacy/The home-buying process.md",
     "2024 Semester 1/ACCTG151G - Financial Literacy/Student (education) loans.md",
