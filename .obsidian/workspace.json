@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/FORMULA TABLE.md",
+                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Present Value (PV) Interest Factor of an Annuity.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/FORMULA TABLE.md",
+                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Present Value (PV) Interest Factor of an Annuity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/FORMULA TABLE.md",
+                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Present Value (PV) Interest Factor of an Annuity.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/FORMULA TABLE.md"
+                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Present Value (PV) Interest Factor of an Annuity.md"
               }
             }
           },
@@ -156,7 +156,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/FORMULA TABLE.md"
+                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Present Value (PV) Interest Factor of an Annuity.md"
               }
             }
           },
@@ -182,7 +182,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/FORMULA TABLE.md",
+                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Present Value (PV) Interest Factor of an Annuity.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -230,8 +230,9 @@
   },
   "active": "f9def0ef7b0bebcb",
   "lastOpenFiles": [
-    "2024 Semester 1/ACCTG151G - Financial Literacy/Present Value (PV) of an Annuity.md",
     "2024 Semester 1/ACCTG151G - Financial Literacy/FORMULA TABLE.md",
+    "2024 Semester 1/ACCTG151G - Financial Literacy/ordinary annuity.md",
+    "2024 Semester 1/ACCTG151G - Financial Literacy/Present Value (PV) of an Annuity.md",
     "2024 Semester 1/ACCTG151G - Financial Literacy/Variable rate mortgage.md",
     "2024 Semester 1/ACCTG151G - Financial Literacy/The home-buying process.md",
     "2024 Semester 1/ACCTG151G - Financial Literacy/Student (education) loans.md",
@@ -256,7 +257,6 @@
     "2024 Semester 1/ACCTG151G - Financial Literacy/Consumer loan(s).md",
     "2024 Semester 1/ACCTG151G - Financial Literacy/Personal financial planning (personal finance).md",
     "@images/Pasted image 20240501163816.png",
-    "2024 Semester 1/ACCTG151G - Financial Literacy/Annuity.md",
     "@images/Pasted image 20240429162119.png",
     "@images/Pasted image 20240429162053.png",
     "@images/Pasted image 20240429145259.png",
