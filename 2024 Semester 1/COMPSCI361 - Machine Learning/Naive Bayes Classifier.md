@@ -45,7 +45,9 @@ $$
 - Issue: Observed fractions are poor estimates when we have small training set & large number of attribute values. When these are zero they will dominate the calculations for all test example described with that specific attribute value
 #### How to solve this issue
 - Training phase using [[Laplace smoothing (add-one smoothing)]] outputs following [[2024 Semester 1/COMPSCI361 - Machine Learning/Probability|Probability]] estimates![[Pasted image 20240502161845.png]]
-- Conditional probability estimates (no smoothing) $P(A_i = a_i | v_j) = \frac{n_{ij}}{n_j}$ where $n_j$ is the number of training examples with class label $v_j$ & attribute value $a_I$
+- Conditional probability estimates (no smoothing) $P(A_i = a_i | v_j) = \frac{n_{ij}}{n_j}$ where 
+	- $n_j$ is the number of training examples with class label $v_j$
+	- $n_{ij}$ is the number of training examples with class label $v_j$ & attribute value $a_i$
 - [[Laplace smoothing (add-one smoothing)]] $P(A_i = a_i | v_j)=\frac {n_{ij} +1}{n_{j} +m}$ where m is the number of unique values attribute $A_i$ can have
 - **Test2** [[classification]] is based on [[Laplace smoothing (add-one smoothing)]] estimates
 ## Test3
