@@ -1,0 +1,1 @@
+Applies to learning tasks where each instance x is descr
