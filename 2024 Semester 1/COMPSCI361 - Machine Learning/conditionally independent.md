@@ -1,1 +1,1 @@
-- once you have seen this particular instance has a certain label. The class label has already made al the features independent of 
+- once you have seen this particular instance has a certain label. The class label has already made al the features independent of each other in a way
