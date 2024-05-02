@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 276.5,
-    "collapsed": true
+    "width": 276.5
   },
   "right": {
     "id": "29204b37fc003a9a",
@@ -168,8 +167,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 7
+        ]
       },
       {
         "id": "7fa1d17eccca9ab4",
@@ -214,7 +212,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 347.5
+    "width": 347.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -226,7 +225,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c7e9102db9268309",
+  "active": "3ad179677b7fba41",
   "lastOpenFiles": [
     "2024 Semester 1/ACCTG151G - Financial Literacy/Investing.md",
     "2024 Semester 1/ACCTG151G - Financial Literacy/Ordinary Shares (or Common Stock).md",
