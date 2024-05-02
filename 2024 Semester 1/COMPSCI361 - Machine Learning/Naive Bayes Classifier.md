@@ -17,4 +17,5 @@ $$= \underset{v_j \in V}{\operatorname{arg\,max}} \ P(a_1, a_2, ..., a_n | v_j)P
 - However, it is not feasible to estimate $P(a_1, a_2, ..., a_n | v_j)$ as you would need to calculate as many terms as there is needed as how many possible values, then all would mean **all possible instances**
 	- Number of these terms is |all possible instances| $\times$ |V| (which could be exponential)
 ## Simplification
-
+- Assumption: Attribute values are conditionally independent given the target value
+- Absolute independence of X & Y
