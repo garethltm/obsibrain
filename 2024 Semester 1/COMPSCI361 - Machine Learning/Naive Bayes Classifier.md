@@ -26,9 +26,11 @@ $$= \underset{v_j \in V}{\operatorname{arg\,max}} \ P(a_1, a_2, ..., a_n | v_j)P
 - Hence, $P(a_1, a_2, ..., a_n|v_j) = \prod_{i} P(a_i|y_j)$
 	- you can just write it as a product of n different simple conditional probabilities
 -  Hence, number of terms is |distinct attribute values| $\times$ |V| + |V|
-- No explicit search through [[Hypothesis Space]] H, just counting frequencies
+- No explicit search through [[Hypothesis Space]] H, just counting frequencies, where V = number of classes in the dataset
 - If the above assumption is correct, [[Naive Bayes]] classifications are [[Maximum A Posteriori (MAP) Hypothesis]] [[classification]]
 $$
 v_{\text{NB}} = \underset{v_j \in V}{\operatorname{arg\,max}} \ P(v_j) \prod_{i} P(a_i | v_j)
 $$
 
+
+#compsci361example We want to learn to discriminate object labeled + from objects labeled - using measurements for 3 categorical geature
