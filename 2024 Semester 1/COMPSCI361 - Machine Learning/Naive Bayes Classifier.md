@@ -4,7 +4,6 @@ Applies to learning tasks where each instance x is described by a conjunction of
 - [[Naive Bayes Classifier]] solves the spam problem
 $$
 V_{\text{MAP}} = \underset{v_j \in V}{\operatorname{arg\,max}} \ P(v_j | a_1, a_2, ..., a_n)
-= \underset{v_j \in V}{\operatorname{arg\,max}} \ P(a_1, a_2, ..., a_n; v_j)
 $$
 $$= \underset{v_j \in V}{\operatorname{arg\,max}} \ P(a_1, a_2, ..., a_n | v_j)P(v_j) \\
-$$
+$$$$= \underset{v_j \in V}{\operatorname{arg\,max}} \ P(a_1, a_2, ..., a_n | v_j)P(v_j)$$
