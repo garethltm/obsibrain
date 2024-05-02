@@ -1,1 +1,1 @@
-Applies to learning tasks where each instance x is descr
+Applies to learning tasks where each instance x is described by a conjunction of attribute values $a\tiny{1} \normalsize , a\tiny{2}, \dot 
