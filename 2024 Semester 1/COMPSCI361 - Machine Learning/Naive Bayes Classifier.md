@@ -51,4 +51,6 @@ $$
 ## Test3
 ![[Pasted image 20240502162534.png]]
 - Training phase using [[Laplace smoothing (add-one smoothing)]] outputs the following [[2024 Semester 1/COMPSCI361 - Machine Learning/Probability|Probability]] estimates![[Pasted image 20240502162459.png]]
+- Missing values doesn't affect [[Bayesian Learning]]
+- Missing attribute values in test examples: just omit those attribute values in the calculations
 - 
