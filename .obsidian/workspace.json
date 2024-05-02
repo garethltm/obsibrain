@@ -11,11 +11,10 @@
             "id": "c7e9102db9268309",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "diff-view",
               "state": {
-                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Bonds or Debentures (Government or Company).md",
-                "mode": "source",
-                "source": false
+                "file": ".obsidian/workspace.json",
+                "staged": false
               }
             }
           }
@@ -85,7 +84,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Bonds or Debentures (Government or Company).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +100,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Bonds or Debentures (Government or Company).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +121,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Bonds or Debentures (Government or Company).md"
-              }
+              "state": {}
             }
           },
           {
@@ -154,9 +149,7 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Bonds or Debentures (Government or Company).md"
-              }
+              "state": {}
             }
           },
           {
@@ -167,7 +160,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 7
       },
       {
         "id": "7fa1d17eccca9ab4",
@@ -179,7 +173,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Bonds or Debentures (Government or Company).md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -212,8 +205,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 347.5,
-    "collapsed": true
+    "width": 347.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -225,8 +217,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3ad179677b7fba41",
+  "active": "c7e9102db9268309",
   "lastOpenFiles": [
+    "2024 Semester 1/ACCTG151G - Financial Literacy/Bonds or Debentures (Government or Company).md",
     "2024 Semester 1/ACCTG151G - Financial Literacy/Investing.md",
     "2024 Semester 1/ACCTG151G - Financial Literacy/Ordinary Shares (or Common Stock).md",
     "2024 Semester 1/ACCTG151G - Financial Literacy/New Zealand Share Market.md",
@@ -236,7 +229,6 @@
     "2024 Semester 1/ACCTG151G - Financial Literacy/The risk-return relationship.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Return On Investment (ROI).md",
     "@images/Pasted image 20240501232035.png",
-    "2024 Semester 1/ACCTG151G - Financial Literacy/Bonds or Debentures (Government or Company).md",
     "2024 Semester 1/ACCTG151G - Financial Literacy/debt instruments.md",
     "2024 Semester 1/ACCTG151G - Financial Literacy/Commodities.md",
     "2024 Semester 1/ACCTG151G - Financial Literacy/Managed funds.md",
