@@ -48,11 +48,12 @@ $$
 - Conditional probability estimates (no smoothing) $P(A_i = a_i | v_j) = \frac{n_{ij}}{n_j}$ where 
 	- $n_j$ is the number of training examples with class label $v_j$
 	- $n_{ij}$ is the number of training examples with class label $v_j$ & attribute value $a_i$
-- [[Laplace smoothing (add-one smoothing)]] $P(A_i = a_i | v_j)=\frac {n_{ij} +1}{n_{j} +m}$ where m is the number of unique values attribute $A_i$ can have
+- [[Laplace smoothing (add-one smoothing)]] $P(A_i = a_i | v_j)=\frac {n_{ij} +1}{n_{j} +m}$ where 
+	- $m$ is the number of unique values attribute $A_i$ can have
 - **Test2** [[classification]] is based on [[Laplace smoothing (add-one smoothing)]] estimates
 ## Test3
 ![[Pasted image 20240502162534.png]]
 - Training phase using [[Laplace smoothing (add-one smoothing)]] outputs the following [[2024 Semester 1/COMPSCI361 - Machine Learning/Probability|Probability]] estimates![[Pasted image 20240502162459.png]]
 - Missing values doesn't affect [[Bayesian Learning]]
 - Missing attribute values in test examples: just omit those attribute values in the calculations
-- Test3 [[classification]] based on [[Laplace smoothing (add-one smoothing)]] estimates![[Pasted image 20240502162930.png]]
+- **Test3** [[classification]] based on [[Laplace smoothing (add-one smoothing)]] estimates![[Pasted image 20240502162930.png]]

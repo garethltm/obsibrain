@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "d5eb22c2c06027d1",
+        "id": "1d401d13eb2e3727",
         "type": "tabs",
         "children": [
           {
-            "id": "c3edaf1ac4410f01",
+            "id": "aea3144815ea0d56",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Naive Bayes Classifier.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Naive Bayes Classifier.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Naive Bayes Classifier.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Naive Bayes Classifier.md"
-              }
+              "state": {}
             }
           },
           {
@@ -154,9 +146,7 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Naive Bayes Classifier.md"
-              }
+              "state": {}
             }
           },
           {
@@ -180,7 +170,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Naive Bayes Classifier.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -225,10 +214,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c3edaf1ac4410f01",
+  "active": "aea3144815ea0d56",
   "lastOpenFiles": [
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Naive Bayes.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Naive Bayes Classifier.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Naive Bayes.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Naïve Supervised Learning - Predict Mode.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Best Machine Learning Model.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Bayesian Learning.md",
