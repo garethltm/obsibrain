@@ -1,5 +1,5 @@
 - measure of [[uncertainty]] $\rightarrow$ amount of information provided by some data
-- $p(x)$ is a [[Probability]] mass function over a random variable $X$ over an alphabet (a set of discrete symbols) $X$:
+- $p(x)$ is a [[2023 Semester 2/COMPSCI367 - Artificial Intelligence/week09/Probability]] mass function over a random variable $X$ over an alphabet (a set of discrete symbols) $X$:
 $$p(x)=P(X=x),x\in X$$
 >	tossing 2 dice & taking the sum(what we are interested in), we have the random variable $x = d\tiny 1\normalsize \ +\ d\tiny 2$ and
 >		$p(0) = 0$,
@@ -11,11 +11,11 @@ $$p(x)=P(X=x),x\in X$$
 - [[Entropy (or self-information)]] is the average [[uncertainty]] (information, in bits) of a random variable:
 $$H(p) = H(X) = -\displaystyle\sum_{x\in X}p(x)\times log \ p(x)$$
 ![[Pasted image 20231025010549.png]]
-- [[Entropy (or self-information)]] of [[Probability]] of mass function = [[Entropy (or self-information)]] of distribution of [[Probability]]
+- [[Entropy (or self-information)]] of [[2023 Semester 2/COMPSCI367 - Artificial Intelligence/week09/Probability]] of mass function = [[Entropy (or self-information)]] of distribution of [[2023 Semester 2/COMPSCI367 - Artificial Intelligence/week09/Probability]]
 - $-\displaystyle\sum_{x\in X}p(x)$
 	- weighted sum
 - $-\displaystyle\sum_{x\in X}p(x)\times log \ p(x)$
-	- negation of the sum of the [[Probability]] of X (rolling some result) 
-	- multiplied by log ([[Probability]] of x)
+	- negation of the sum of the [[2023 Semester 2/COMPSCI367 - Artificial Intelligence/week09/Probability]] of X (rolling some result) 
+	- multiplied by log ([[2023 Semester 2/COMPSCI367 - Artificial Intelligence/week09/Probability]] of x)
 
 ![[Pasted image 20231025011003.png]]

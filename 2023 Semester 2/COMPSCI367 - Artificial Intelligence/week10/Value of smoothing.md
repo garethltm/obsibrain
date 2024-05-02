@@ -1,4 +1,4 @@
-- Also called shrinkage, since it shifts the [[Probability]] distribution towards a uniform distribution
+- Also called shrinkage, since it shifts the [[2023 Semester 2/COMPSCI367 - Artificial Intelligence/week09/Probability]] distribution towards a uniform distribution
 	- assumes your sample is not the representative of the real world
 - This amounts to saying that we think the training data contains limited information about the true distribution
 	- trying to avoid [[2023 Semester 2/COMPSCI367 - Artificial Intelligence/week10/overfitting]]

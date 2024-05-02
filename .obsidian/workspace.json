@@ -17,8 +17,21 @@
                 "staged": false
               }
             }
+          },
+          {
+            "id": "ab0a00fd303b141d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -84,6 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,6 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +136,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "conflict-files-obsidian-git.md"
+              }
             }
           },
           {
@@ -149,7 +166,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {}
+              "state": {
+                "file": "conflict-files-obsidian-git.md"
+              }
             }
           },
           {
@@ -173,6 +192,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "conflict-files-obsidian-git.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -217,18 +237,32 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c7e9102db9268309",
+  "active": "ab0a00fd303b141d",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "@images/Pasted image 20240502162930.png",
+    "@images/Pasted image 20240502162534.png",
+    "@images/Pasted image 20240502162517.png",
+    "@images/Pasted image 20240502162459.png",
+    "@images/Pasted image 20240502161845.png",
+    "@images/Pasted image 20240502161610.png",
+    "@images/Pasted image 20240502161551.png",
+    "@images/Pasted image 20240502161542.png",
+    "@images/Pasted image 20240502161432.png",
+    "@images/Pasted image 20240502161144.png",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Bayesian Learning.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Bayes rule.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Bayes Theorem.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Bayes Classifier.md",
+    "2024 Semester 1/ACCTG151G - Financial Literacy/FORMULA TABLE.md",
     "2024 Semester 1/ACCTG151G - Financial Literacy/Bonds or Debentures (Government or Company).md",
     "2024 Semester 1/ACCTG151G - Financial Literacy/Investing.md",
     "2024 Semester 1/ACCTG151G - Financial Literacy/Ordinary Shares (or Common Stock).md",
     "2024 Semester 1/ACCTG151G - Financial Literacy/New Zealand Share Market.md",
     "2024 Semester 1/ACCTG151G - Financial Literacy/Exchange Traded Funds (ETF).md",
-    "@images/Pasted image 20240501232848.png",
     "2024 Semester 1/ACCTG151G - Financial Literacy/depository receipts.md",
     "2024 Semester 1/ACCTG151G - Financial Literacy/The risk-return relationship.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Return On Investment (ROI).md",
-    "@images/Pasted image 20240501232035.png",
     "2024 Semester 1/ACCTG151G - Financial Literacy/debt instruments.md",
     "2024 Semester 1/ACCTG151G - Financial Literacy/Commodities.md",
     "2024 Semester 1/ACCTG151G - Financial Literacy/Managed funds.md",
@@ -241,19 +275,6 @@
     "2024 Semester 1/ACCTG151G - Financial Literacy/Annuity.md",
     "2024 Semester 1/ACCTG151G - Financial Literacy/Budget.md",
     "2024 Semester 1/ACCTG151G - Financial Literacy/Liquidity ratio.md",
-    "2024 Semester 1/ACCTG151G - Financial Literacy/liquid asset.md",
-    "2024 Semester 1/ACCTG151G - Financial Literacy/current.md",
-    "2024 Semester 1/ACCTG151G - Financial Literacy/Balance sheet.md",
-    "2024 Semester 1/ACCTG151G - Financial Literacy/Solvency ratio.md",
-    "conflict-files-obsidian-git.md",
-    "@images/Pasted image 20240426183404.png",
-    "@images/Pasted image 20240426183308.png",
-    "@images/Pasted image 20240426183254.png",
-    "@images/Pasted image 20240426183130.png",
-    "@images/Pasted image 20240426183012.png",
-    "@images/Pasted image 20240426182959.png",
-    "@images/Pasted image 20240426182648.png",
-    "@images/Pasted image 20240426182437.png",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Untitled",
     "2024 Semester 1",
     "2023 Semester 2",

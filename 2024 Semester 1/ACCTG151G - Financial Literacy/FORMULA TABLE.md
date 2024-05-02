@@ -1,0 +1,7 @@
+![[Pasted image 20240501163816.png]]
+## [[Time value of money (TVM)]]
+- [[simple interest]]
+- [[compound interest]]
+- [[Annuity]]
+	- [[ordinary annuity]]
+	- [[annuity due]]
