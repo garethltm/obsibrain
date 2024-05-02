@@ -37,4 +37,4 @@ $$
 ## Test1
 ![[Pasted image 20240502160735.png]]
 - Assume the features describing the object are independent of tis class
-- Calculate 2 [[posterior evidence (posterior probability)]] for each test example, before we can make. decision
+- Calculate 2 [[posterior evidence (posterior probability)]] for each test example, before we can make. decision![[Pasted image 20240502161004.png]]
