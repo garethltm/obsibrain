@@ -65,8 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 276.5,
-    "collapsed": true
+    "width": 276.5
   },
   "right": {
     "id": "29204b37fc003a9a",
@@ -205,8 +204,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 347.5,
-    "collapsed": true
+    "width": 347.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -219,7 +217,7 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "0f8e0230b587650a",
+  "active": "38c33463d1421fec",
   "lastOpenFiles": [
     "2024 Semester 1/COMPSCI361 - Machine Learning/Decision Tree(s).md",
     "2024 Semester 1/ACCTG151G - Financial Literacy/Present Value (PV) Interest Factor of an Annuity.md",
