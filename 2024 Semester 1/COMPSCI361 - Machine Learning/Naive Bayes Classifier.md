@@ -25,4 +25,5 @@ $$= \underset{v_j \in V}{\operatorname{arg\,max}} \ P(a_1, a_2, ..., a_n | v_j)P
 	- $P(X,Y|Z)=P(X|Y,Z)P(Y|Z)=P(X|Z)P(Y|Z)$
 - Hence, $P(a_1, a_2, ..., a_n|v_j) = \prod_{i} P(a_i|y_j)$
 	- you can just write it as a product of n different simple conditional probabilities
-- 
+-  Hence, number of terms is |distinct attribute values| $\times$ |V| + |V|
+- No explicit search through [[Hypothesis Space]]
