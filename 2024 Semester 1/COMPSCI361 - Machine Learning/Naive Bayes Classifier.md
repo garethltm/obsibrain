@@ -14,4 +14,7 @@ $$= \underset{v_j \in V}{\operatorname{arg\,max}} \ P(a_1, a_2, ..., a_n | v_j)P
 - $P(a_1, a_2, ..., a_n | v_j)P(v_j)$ = joint distribution & class values $\times$ posterior probability of that class
 - We can remove $P(a_1, a_2, ..., a_n)$ as normalisation is not necessary
 #compsci361example Given [[training data]] D, $P(v_j)$ can be estimated by counting the frequency of $v_j$ in D:
-- However, it is not feasible to estimate $P(a_1, a_2, ..., a_n | v_j)$ as you would need to calculate as many terms as there is needed as how many possible values, then all would mean all possible instances
+- However, it is not feasible to estimate $P(a_1, a_2, ..., a_n | v_j)$ as you would need to calculate as many terms as there is needed as how many possible values, then all would mean **all possible instances**
+	- Number of these terms is |all possible instances| $\times$ |V| (which could be exponential)
+## Simplification
+
