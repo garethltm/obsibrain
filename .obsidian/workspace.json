@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "b1d259498574158f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/conditionally independent.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Naive Bayes Classifier.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/conditionally independent.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Naive Bayes Classifier.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/conditionally independent.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Naive Bayes Classifier.md"
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/conditionally independent.md"
               }
             }
           },
@@ -156,7 +169,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Naive Bayes Classifier.md"
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/conditionally independent.md"
               }
             }
           },
@@ -182,7 +195,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Naive Bayes Classifier.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/conditionally independent.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -228,10 +241,11 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "3ad179677b7fba41",
+  "active": "b1d259498574158f",
   "lastOpenFiles": [
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Naive Bayes.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Naive Bayes Classifier.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/conditionally independent.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Naive Bayes.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Decision Tree(s).md",
     "2024 Semester 1/ACCTG151G - Financial Literacy/Present Value (PV) Interest Factor of an Annuity.md",
     "2024 Semester 1/ACCTG151G - Financial Literacy/FORMULA TABLE.md",
@@ -255,7 +269,6 @@
     "2024 Semester 1/ACCTG151G - Financial Literacy/Finance Company.md",
     "2024 Semester 1/ACCTG151G - Financial Literacy/Expenses (Cash OUT).md",
     "2024 Semester 1/ACCTG151G - Financial Literacy/Deposit.md",
-    "2024 Semester 1/ACCTG151G - Financial Literacy/Debt service ratio.md",
     "@images/Pasted image 20240501163816.png",
     "@images/Pasted image 20240429162119.png",
     "@images/Pasted image 20240429162053.png",
