@@ -41,4 +41,5 @@ $$
 - Calculate 2 [[posterior evidence (posterior probability)]] for each test example, before we can make. decision ![[Pasted image 20240502161004.png]]
 - which outputs:![[Pasted image 20240502161144.png]]
 ## Test2
-- Training phase outputs following probability estimates (tables below)
+- Training phase outputs following probability estimates (tables below) used in testing phase to classify new examples![[Pasted image 20240502161432.png]]
+- Issue: Observed fractions are poor estimates when we have small training set & large number of attribute
