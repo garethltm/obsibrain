@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "1d401d13eb2e3727",
+        "id": "b0ace9e29c9263ca",
         "type": "tabs",
         "children": [
           {
-            "id": "aea3144815ea0d56",
+            "id": "38c33463d1421fec",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Naive Bayes.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -44,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "discount",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,6 +78,7 @@
       {
         "id": "5a69fa8a943ea5f0",
         "type": "tabs",
+        "dimension": 55.98130841121496,
         "children": [
           {
             "id": "db6754d77108e140",
@@ -81,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Naive Bayes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Naive Bayes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Naive Bayes.md"
+              }
             }
           },
           {
@@ -146,7 +155,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {}
+              "state": {
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Naive Bayes.md"
+              }
             }
           },
           {
@@ -161,17 +172,19 @@
         "currentTab": 7
       },
       {
-        "id": "7fa1d17eccca9ab4",
+        "id": "aca6307e70cdfa79",
         "type": "tabs",
+        "dimension": 44.018691588785046,
         "children": [
           {
-            "id": "d18974cbaa43e638",
+            "id": "d8a4a9680b239d40",
             "type": "leaf",
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Naive Bayes.md",
                 "options": {
-                  "collapse-filter": true,
+                  "collapse-filter": false,
                   "search": "",
                   "localJumps": 1,
                   "localBacklinks": true,
@@ -192,7 +205,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.713275462622442,
+                  "scale": 1.254057990250493,
                   "close": true
                 }
               }
@@ -211,19 +224,28 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "aea3144815ea0d56",
+  "active": "38c33463d1421fec",
   "lastOpenFiles": [
+    "@images/Pasted image 20240501232848.png",
+    "@images/Pasted image 20240501232035.png",
+    "2024 Semester 1/ACCTG151G - Financial Literacy/depository receipts.md",
+    "2024 Semester 1/ACCTG151G - Financial Literacy/debt instruments.md",
+    "2024 Semester 1/ACCTG151G - Financial Literacy/The risk-return relationship.md",
+    "2024 Semester 1/ACCTG151G - Financial Literacy/Speculating.md",
+    "2024 Semester 1/ACCTG151G - Financial Literacy/Preference shares & Convertible Bonds.md",
+    "2024 Semester 1/ACCTG151G - Financial Literacy/Ordinary Shares (or Common Stock).md",
+    "2024 Semester 1/ACCTG151G - Financial Literacy/New Zealand Share Market.md",
+    "2024 Semester 1/ACCTG151G - Financial Literacy/Managed funds.md",
+    "2024 Semester 1/ACCTG151G - Financial Literacy/Investing.md",
+    "2024 Semester 1/ACCTG151G - Financial Literacy/Exchange Traded Funds (ETF).md",
+    "2024 Semester 1/ACCTG151G - Financial Literacy/Commodities.md",
+    "2024 Semester 1/ACCTG151G - Financial Literacy/Bonds or Debentures (Government or Company).md",
+    "2024 Semester 1/ACCTG151G - Financial Literacy/Bank deposits.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Naive Bayes Classifier.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Naive Bayes.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Naïve Supervised Learning - Predict Mode.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Best Machine Learning Model.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Bayesian Learning.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Bayes Theorem.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Bayes rule.md",
-    "conflict-files-obsidian-git.md",
     "@images/Pasted image 20240502162930.png",
     "@images/Pasted image 20240502162534.png",
     "@images/Pasted image 20240502162517.png",
@@ -233,25 +255,17 @@
     "@images/Pasted image 20240502161551.png",
     "@images/Pasted image 20240502161542.png",
     "@images/Pasted image 20240502161432.png",
-    "@images/Pasted image 20240502161144.png",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Bayes Classifier.md",
-    "2024 Semester 1/ACCTG151G - Financial Literacy/FORMULA TABLE.md",
-    "2024 Semester 1/ACCTG151G - Financial Literacy/Bonds or Debentures (Government or Company).md",
-    "2024 Semester 1/ACCTG151G - Financial Literacy/Investing.md",
-    "2024 Semester 1/ACCTG151G - Financial Literacy/Ordinary Shares (or Common Stock).md",
-    "2024 Semester 1/ACCTG151G - Financial Literacy/New Zealand Share Market.md",
-    "2024 Semester 1/ACCTG151G - Financial Literacy/Exchange Traded Funds (ETF).md",
-    "2024 Semester 1/ACCTG151G - Financial Literacy/depository receipts.md",
-    "2024 Semester 1/ACCTG151G - Financial Literacy/The risk-return relationship.md",
-    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Return On Investment (ROI).md",
-    "2024 Semester 1/ACCTG151G - Financial Literacy/debt instruments.md",
-    "2024 Semester 1/ACCTG151G - Financial Literacy/Commodities.md",
-    "2024 Semester 1/ACCTG151G - Financial Literacy/Managed funds.md",
-    "2024 Semester 1/ACCTG151G - Financial Literacy/Preference shares & Convertible Bonds.md",
-    "2024 Semester 1/ACCTG151G - Financial Literacy/Bank deposits.md",
-    "2024 Semester 1/ACCTG151G - Financial Literacy/Speculating.md",
-    "2024 Semester 1/ACCTG151G - Financial Literacy/Present Value (PV).md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/conditionally independent.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Naive Bayes.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Decision Tree(s).md",
     "2024 Semester 1/ACCTG151G - Financial Literacy/Present Value (PV) Interest Factor of an Annuity.md",
+    "2024 Semester 1/ACCTG151G - Financial Literacy/FORMULA TABLE.md",
+    "2024 Semester 1/ACCTG151G - Financial Literacy/ordinary annuity.md",
+    "2024 Semester 1/ACCTG151G - Financial Literacy/Present Value (PV) of an Annuity.md",
+    "2024 Semester 1/ACCTG151G - Financial Literacy/Variable rate mortgage.md",
+    "2024 Semester 1/ACCTG151G - Financial Literacy/The home-buying process.md",
+    "2024 Semester 1/ACCTG151G - Financial Literacy/Student (education) loans.md",
+    "2024 Semester 1/ACCTG151G - Financial Literacy/principal.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Untitled",
     "2024 Semester 1",
     "2023 Semester 2",
