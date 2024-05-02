@@ -49,4 +49,6 @@ $$
 - [[Laplace smoothing (add-one smoothing)]] $P(A_i = a_i | v_j)=\frac {n_{ij} +1}{n_{j} +m}$ where m is the number of unique values attribute $A_i$ can have
 - **Test2** classification is based on Laplace-smooth estimates
 ## Test3
+![[Pasted image 20240502162534.png]]
 - Training phase using [[Laplace smoothing (add-one smoothing)]] outputs the following [[2024 Semester 1/COMPSCI361 - Machine Learning/Probability|Probability]] estimates![[Pasted image 20240502162459.png]]
+- 
