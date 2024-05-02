@@ -20,4 +20,4 @@ $$= \underset{v_j \in V}{\operatorname{arg\,max}} \ P(a_1, a_2, ..., a_n | v_j)P
 - Assumption: Attribute values are [[conditionally independent]] given the target value
 - Absolute independence of X & Y
 	- $P(X,Y)=P(X|Y)P(Y)=P(X)P(Y)$
-- 
+- Conditional independence of X & Y given Z
