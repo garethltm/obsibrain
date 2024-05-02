@@ -33,4 +33,7 @@ v_{\text{NB}} = \underset{v_j \in V}{\operatorname{arg\,max}} \ P(v_j) \prod_{i}
 $$
 
 
-#compsci361example We want to learn to discriminate object labeled + from objects labeled - using measurements for 3 categorical geature
+#compsci361example We want to learn to discriminate object labeled + from objects labeled - using measurements for 3 categorical features. You are given the following objects
+![[Pasted image 20240502160735.png]]
+- Assume the features describing the object are independent of tis class
+- Calculate 2
