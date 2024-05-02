@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "5058448c0213b93a",
+        "id": "d5eb22c2c06027d1",
         "type": "tabs",
         "children": [
           {
-            "id": "fe6ea8985373eb1f",
+            "id": "c3edaf1ac4410f01",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -61,7 +61,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -214,7 +215,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fe6ea8985373eb1f",
+  "active": "a6e0090ac9cbd1f3",
   "lastOpenFiles": [
     "2024 Semester 1/COMPSCI361 - Machine Learning/Naïve Supervised Learning - Predict Mode.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Best Machine Learning Model.md",
