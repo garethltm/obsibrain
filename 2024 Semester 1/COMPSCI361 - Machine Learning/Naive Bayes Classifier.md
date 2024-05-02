@@ -46,4 +46,4 @@ $$
 #### How to solve this issue
 - Training using [[Laplace smoothing (add-one smoothing)]] outputs following [[2024 Semester 1/COMPSCI361 - Machine Learning/Probability|Probability]] estimates![[Pasted image 20240502161845.png]]
 - Conditional probability estimates (no smoothing) $P(A_i = a_i | v_j) = \frac{n_{ij}}{n_j}$ where $n_j$ is the number of training examples with class label $v_j$ & attribute value $a_I$
-- []
+- [[Laplace smoothing (add-one smoothing)]] $P(A_i = a_i | v_j)=\frac {n_{ij} +1}{n_{j} +m}
