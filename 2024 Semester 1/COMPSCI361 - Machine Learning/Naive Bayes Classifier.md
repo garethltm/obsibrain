@@ -40,6 +40,7 @@ $$
 - Assume the features describing the object are independent of tis class
 - Calculate 2 [[posterior evidence (posterior probability)]] for each test example, before we can make. decision ![[Pasted image 20240502161004.png]]
 - which outputs:![[Pasted image 20240502161144.png]]
-## Test2
+## Test2![[Pasted image 20240502161610.png]]
 - Training phase outputs following probability estimates (tables below) used in testing phase to classify new examples![[Pasted image 20240502161432.png]]
-- Issue: Observed fractions are poor estimates when we have small training set & large number of attribute values. When these are zero they will dominate the calculations for all test example
+- Issue: Observed fractions are poor estimates when we have small training set & large number of attribute values. When these are zero they will dominate the calculations for all test example described with that specific attribute value
+#### 
