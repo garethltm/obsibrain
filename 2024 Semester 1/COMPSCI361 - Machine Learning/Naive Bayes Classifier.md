@@ -23,4 +23,8 @@ $$= \underset{v_j \in V}{\operatorname{arg\,max}} \ P(a_1, a_2, ..., a_n | v_j)P
 	- given you have seen $Y$, does it give any extra information on $X$ $\rightarrow$ NO
 - Conditional independence of X & Y given Z
 	- $P(X,Y|Z)=P(X|Y,Z)P(Y|Z)=P(X|Z)P(Y|Z)$
-- Hence, 
+- Hence, $$
+V_{\text{MAP}} = \underset{v_j \in V}{\operatorname{arg\,max}} \ P(v_j | a_1, a_2, ..., a_n) \\
+= \underset{v_j \in V}{\operatorname{arg\,max}} \ P(a_1, a_2, ..., a_n | v_j)P(v_j) \\
+= \underset{v_j \in V}{\operatorname{arg\,max}} \ P(a_1, a_2, ..., a_n; v_j)
+$$
