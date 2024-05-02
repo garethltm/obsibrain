@@ -34,7 +34,7 @@ $$
 
 
 #compsci361example We want to learn to discriminate object labeled + from objects labeled - using measurements for 3 categorical features. You are given the following objects
+## Test1
 ![[Pasted image 20240502160735.png]]
 - Assume the features describing the object are independent of tis class
 - Calculate 2 [[posterior evidence (posterior probability)]] for each test example, before we can make. decision
-- ¬
