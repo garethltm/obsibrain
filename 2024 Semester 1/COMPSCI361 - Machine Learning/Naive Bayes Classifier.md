@@ -28,3 +28,7 @@ $$= \underset{v_j \in V}{\operatorname{arg\,max}} \ P(a_1, a_2, ..., a_n | v_j)P
 -  Hence, number of terms is |distinct attribute values| $\times$ |V| + |V|
 - No explicit search through [[Hypothesis Space]] H, just counting frequencies
 - If the above assumption is correct, [[Naive Bayes]] classifications are [[Maximum A Posteriori (MAP) Hypothesis]] [[classification]]
+$$
+v_{\text{NB}} = \underset{v_j \in V}{\operatorname{arg\,max}} \ P(v_j) \prod_{i} P(a_i | v_j)
+$$
+
