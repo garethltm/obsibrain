@@ -8,4 +8,5 @@ $$
 $$
 = \arg \max_{c \in C} P(c) \prod_{i} P(x_i|c)
 $$
-- we need to estimate n\dot |X|
+- we need to estimate $n* |X|*|C|+|C|$ probability terms
+- Even for simple use cases this is prohibitively large, #compsci361example  about 10 million terms for |X| = 5000
