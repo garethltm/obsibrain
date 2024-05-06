@@ -15,3 +15,5 @@ $$
 $$
 = \underset{c \in C}{\arg\max} \ P(d|c)P(c)
 $$
+- $P(d|c)P(c)$ refers to maximising the product of the likelihood
+#### How should we represent an arbitrary document d in terms of a
