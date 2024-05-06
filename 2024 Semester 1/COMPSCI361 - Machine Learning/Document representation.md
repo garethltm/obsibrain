@@ -11,3 +11,4 @@ $$
 $$
 = \underset{c \in C}{\arg\max} \ P(x_1, x_2, ..., x_n|c)P(c)
 $$
+- $P(x_1, x_2, ..., x_n|c)$ represents the probability that the document is described for this particular word $\rightarrow$ given that the document is related to class 
