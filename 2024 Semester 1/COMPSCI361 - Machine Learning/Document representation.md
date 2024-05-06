@@ -1,1 +1,2 @@
-- Document is a s
+- Document is a sequence of $n$ words (including punctuation)
+- $n$ attribute values <x\tiny {1},\dots ,
