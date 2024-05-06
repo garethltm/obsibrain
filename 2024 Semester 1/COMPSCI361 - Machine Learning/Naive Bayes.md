@@ -17,5 +17,7 @@ $$
 $$
 - $P(d|c)P(c)$ refers to maximising the product of the likelihood
 #### 1. How should we represent an arbitrary document $d$ in terms of attribute values?
+- by taking a sequence of words (Document representation)
 
-#### 2. How should we estimate the probabilities 
+#### 2. How should we estimate the probabilities $P(d|c)P(c)$ required by [[Naive Bayes]]?
+
