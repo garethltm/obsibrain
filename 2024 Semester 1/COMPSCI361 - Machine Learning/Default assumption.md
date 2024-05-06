@@ -1,1 +1,3 @@
 - document attributes are independent given the document class 
+- #compsci361example probability of words in 1 text position are independent of the words occurring in the other positions given the document class (given a particular class)
+- 
