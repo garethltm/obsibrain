@@ -1,2 +1,2 @@
 - Document is a sequence of $n$ words (including punctuation)
-- $n$ attribute values <x\tiny {1},\dots ,
+- $n$ attribute values $<x_{1},\dots ,x_{i},...,x_{n}>$, with the $i$-th attribute representing the $i$
