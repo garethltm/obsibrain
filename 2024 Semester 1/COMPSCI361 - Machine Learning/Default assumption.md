@@ -1,0 +1,1 @@
+- document attributes are independent given the document class 
