@@ -1,2 +1,4 @@
 - Document is a sequence of $n$ words (including punctuation)
-- $n$ attribute values $<x_{1},\dots ,x_{i},...,x_{n}>$, with the $i$-th attribute representing the $i$
+- $n$ attribute values $<x_{1},\dots ,x_{i},...,x_{n}>$, with the $i$-th attribute representing the $i$-th word position, & its value being the word appearing at the $i$-th position
+- #compsci361example "kiwi birds are native species in NZ"
+	- <x
