@@ -16,4 +16,6 @@ $$(Threads \times \ Cores)\times \#Physical\ CPU = NUMBER\ vCPU$$
 #infosys303example First, we need to select a virtual server & CPU. For this example, Intel Xeon E-2288G as the underlying CPU. 
 An Intel Xeon E-2288G includes:
 1. 8 cores
-2. 16 threads with a 3.7GHz base clo
+2. 16 threads 
+with a 3.7GHz base clock & 5.0GHz turbo boost
+$$(16\ Threads\times \ 8\ Cores)\times 1\ CPU = 128\ vCPU$$
