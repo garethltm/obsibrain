@@ -1,4 +1,4 @@
 - attributes are identically distributed given the document class
-- #compsci361example the probability of seeing a specific word w is independent of the specific word position in the document, that is$$P(x_i = w|c) = P(x_j = w|c)$$ for $$1 \leq i \neq j \leq n$$
+- #compsci361example the probability of seeing a specific word w is independent of the specific word position in the document, that is$$P(x_i = w|c) = P(x_j = w|c)$$ for $$1 \leq i \neq j \leq n$$ [[Independent & Identically Distributed (IID)]]
 - We can use the same [[training data]] set to get more reliable estimates, because we need to estimate only $|X| \cdot |C| +|C|$ [[2024 Semester 1/COMPSCI361 - Machine Learning/Probability|Probability]] terms. (position is out of the picture)
 - [[2024 Semester 1/COMPSCI361 - Machine Learning/Probability|Probability]] estimates are based on word counts in the [[training data]] set

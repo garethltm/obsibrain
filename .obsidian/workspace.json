@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Additional assumption.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Independent & Identically Distributed (IID).md",
                 "mode": "source",
                 "source": false
               }
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Additional assumption.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Independent & Identically Distributed (IID).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Additional assumption.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Independent & Identically Distributed (IID).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Additional assumption.md"
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Independent & Identically Distributed (IID).md"
               }
             }
           },
@@ -157,7 +157,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Additional assumption.md"
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Independent & Identically Distributed (IID).md"
               }
             }
           },
@@ -183,7 +183,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Additional assumption.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Independent & Identically Distributed (IID).md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -231,8 +231,8 @@
   },
   "active": "cf817c1a7a3a9384",
   "lastOpenFiles": [
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Default assumption.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Additional assumption.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Default assumption.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Naive Bayes.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Decision Stumps.md",
     "conflict-files-obsidian-git.md",
