@@ -1,1 +1,1 @@
-- is Intel's proprietary simultaneous ny
+- is Intel's proprietary simultaneous multithreading implementation & was used to improve parallelization of computations performed on x86 microprocessors
