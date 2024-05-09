@@ -1,0 +1,2 @@
+- represents a share of a physical Central Processing Unit (CPU) that is assigned to a virtual machine
+- 
