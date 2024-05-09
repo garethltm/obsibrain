@@ -1,0 +1,2 @@
+- attributes are identically distributed given the document class
+- #compsci361example the probability of seeing a specific word w is independent of the specific word position in the document, that is

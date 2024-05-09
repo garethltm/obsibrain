@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "fd27078af632ae27",
+        "id": "6d8eefc691442a1e",
         "type": "tabs",
         "children": [
           {
-            "id": "1978eec726cb311e",
+            "id": "cf817c1a7a3a9384",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Default assumption.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Additional assumption.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 276.5,
-    "collapsed": true
+    "width": 276.5
   },
   "right": {
     "id": "29204b37fc003a9a",
@@ -87,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Default assumption.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Additional assumption.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Default assumption.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Additional assumption.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Default assumption.md"
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Additional assumption.md"
               }
             }
           },
@@ -157,7 +156,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Default assumption.md"
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Additional assumption.md"
               }
             }
           },
@@ -183,7 +182,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Default assumption.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Additional assumption.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -228,16 +227,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3ad179677b7fba41",
+  "active": "cf817c1a7a3a9384",
   "lastOpenFiles": [
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Default assumption.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Additional assumption.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Naive Bayes.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Decision Stumps.md",
     "conflict-files-obsidian-git.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Document representation.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Default assumption.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Decision Tree(s).md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Dimensionality reduction.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Dependent vs Explanatory Variable.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Naive Bayes.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Naïve Supervised Learning - Predict Mode.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Naive Bayes Classifier.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Bayesian Learning.md",
@@ -257,7 +257,6 @@
     "2024 Semester 1/ACCTG151G - Financial Literacy/Investing.md",
     "2024 Semester 1/ACCTG151G - Financial Literacy/Exchange Traded Funds (ETF).md",
     "2024 Semester 1/ACCTG151G - Financial Literacy/Commodities.md",
-    "2024 Semester 1/ACCTG151G - Financial Literacy/Bonds or Debentures (Government or Company).md",
     "@images/Pasted image 20240502162930.png",
     "@images/Pasted image 20240502162534.png",
     "@images/Pasted image 20240502162517.png",

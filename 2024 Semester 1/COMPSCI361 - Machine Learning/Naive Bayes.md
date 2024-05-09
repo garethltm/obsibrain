@@ -21,4 +21,4 @@ $$
 #### 2. How should we estimate the probabilities $P(d|c)P(c)$ required by [[Naive Bayes]]?
 ### Assumptions
 1. [[Default assumption]]
-2. Additional assumption
+2. [[Additional assumption]]
