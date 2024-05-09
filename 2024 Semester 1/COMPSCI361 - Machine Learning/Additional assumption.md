@@ -1,2 +1,3 @@
 - attributes are identically distributed given the document class
-- #compsci361example the probability of seeing a specific word w is independent of the specific word position in the document, that is
+- #compsci361example the probability of seeing a specific word w is independent of the specific word position in the document, that is$$P(x_i = w|c) = P(x_j = w|c)$$ for $$1 \leq i \neq j \leq n$$
+- We can use the same [[training data]] set to get more reliable estimates, because we need to estimate only $|X| \cdot |C| +|C|$ pr
