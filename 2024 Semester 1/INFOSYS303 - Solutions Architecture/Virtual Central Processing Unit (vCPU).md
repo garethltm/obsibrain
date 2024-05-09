@@ -28,4 +28,6 @@ We need to know our workload & application profiles
 - Do they have maintenance windows?
 Theoretically, if we have small VMs that barely use any CPU time, we could easily get 20-30 VMs from an 8-core server
 
-However, 
+However, if we have larger workloads such as a database server, we will have far fewer VMs from that same 8-core server
+
+At the end, it being good a
