@@ -2,4 +2,4 @@
 
 As it relates to [[virtualization]] & the cloud, multiple [[Virtual Central Processing Unit (vCPU)]] can be assigned to & utilize one [[CPU core]]
 ## Concepts about virtual servers
-1. [[Hypervisors]]
+1. [[Hypervisors (Virtual Machine Monitor - VMM)]]

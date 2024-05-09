@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Hypervisors.md",
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Hypervisors (Virtual Machine Monitor - VMM).md",
                 "mode": "source",
                 "source": false
               }
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Hypervisors.md",
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Hypervisors (Virtual Machine Monitor - VMM).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Hypervisors.md",
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Hypervisors (Virtual Machine Monitor - VMM).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Hypervisors.md"
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Hypervisors (Virtual Machine Monitor - VMM).md"
               }
             }
           },
@@ -169,7 +169,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Hypervisors.md"
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Hypervisors (Virtual Machine Monitor - VMM).md"
               }
             }
           },
@@ -195,7 +195,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Hypervisors.md",
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Hypervisors (Virtual Machine Monitor - VMM).md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -244,7 +244,7 @@
   "active": "a03f0a0ed7200932",
   "lastOpenFiles": [
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Virtual Central Processing Unit (vCPU).md",
-    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Hypervisors.md",
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Hypervisors (Virtual Machine Monitor - VMM).md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/physical server.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/virtualization.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/CPU core.md",
