@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "1ad1cfc84fa6a1a6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Decision Stumps.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Decision Stumps.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Decision Stumps.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -156,7 +169,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Decision Stumps.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -182,7 +195,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Decision Stumps.md",
+                "file": "conflict-files-obsidian-git.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -227,8 +240,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1978eec726cb311e",
+  "active": "1ad1cfc84fa6a1a6",
   "lastOpenFiles": [
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Decision Stumps.md",
+    "conflict-files-obsidian-git.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Document representation.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Default assumption.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Decision Tree(s).md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Dimensionality reduction.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Dependent vs Explanatory Variable.md",
@@ -253,7 +270,6 @@
     "2024 Semester 1/ACCTG151G - Financial Literacy/Exchange Traded Funds (ETF).md",
     "2024 Semester 1/ACCTG151G - Financial Literacy/Commodities.md",
     "2024 Semester 1/ACCTG151G - Financial Literacy/Bonds or Debentures (Government or Company).md",
-    "2024 Semester 1/ACCTG151G - Financial Literacy/Bank deposits.md",
     "@images/Pasted image 20240502162930.png",
     "@images/Pasted image 20240502162534.png",
     "@images/Pasted image 20240502162517.png",
@@ -262,9 +278,6 @@
     "@images/Pasted image 20240502161610.png",
     "@images/Pasted image 20240502161551.png",
     "@images/Pasted image 20240502161542.png",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/conditionally independent.md",
-    "2024 Semester 1/ACCTG151G - Financial Literacy/Present Value (PV) Interest Factor of an Annuity.md",
-    "2024 Semester 1/ACCTG151G - Financial Literacy/FORMULA TABLE.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Untitled",
     "2024 Semester 1",
     "2023 Semester 2",
