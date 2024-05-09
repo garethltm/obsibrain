@@ -30,4 +30,7 @@ Theoretically, if we have small VMs that barely use any CPU time, we could easil
 
 However, if we have larger workloads such as a database server, we will have far fewer VMs from that same 8-core server
 
-At the end, it being good a
+At the end, it being good at estimating how many vCPUs per VM:
+![[Pasted image 20240509233233.png]]
+## How to determine Cloud Server Requirements?
+Let's assume a brand-new application that is not running on a server. It has to be built locally on a machine
