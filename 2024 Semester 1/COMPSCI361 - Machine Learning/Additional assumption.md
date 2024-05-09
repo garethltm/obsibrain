@@ -6,4 +6,4 @@
 - **$P(x_i = w|c)$**: Probability of each position we have our particular word.
 - **$\text{count}(w, c)$**: Number of times the word occurs across all documents labeled ($c$).
 	- (How many times this word appears)
-- **$\sum_{x \in X} \text{count}(x, c)$**: Effectively the total length of all documents labeled (c)
+- **$\sum_{x \in X} \text{count}(x, c)$**: Effectively the total length of all documents labeled ($c$)
