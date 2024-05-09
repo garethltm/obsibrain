@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Registers.md",
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Cache.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Registers.md",
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Cache.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Registers.md",
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Cache.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Registers.md"
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Cache.md"
               }
             }
           },
@@ -156,7 +156,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Registers.md"
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Cache.md"
               }
             }
           },
@@ -182,7 +182,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Registers.md",
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Cache.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -231,8 +231,8 @@
   "active": "cf817c1a7a3a9384",
   "lastOpenFiles": [
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Memory.md",
-    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Cache.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Registers.md",
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Cache.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/CPU core.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Arithmetic Logic Unit (ALU).md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Control Unit (CU).md",
