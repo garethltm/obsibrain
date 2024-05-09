@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "f6cd562b9b4bb526",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Estimate Bandwidth Requirements.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Virtual Central Processing Unit (vCPU).md",
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Estimate Bandwidth Requirements.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Virtual Central Processing Unit (vCPU).md",
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Estimate Bandwidth Requirements.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Virtual Central Processing Unit (vCPU).md"
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Estimate Bandwidth Requirements.md"
               }
             }
           },
@@ -156,7 +169,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Virtual Central Processing Unit (vCPU).md"
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Estimate Bandwidth Requirements.md"
               }
             }
           },
@@ -182,7 +195,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Virtual Central Processing Unit (vCPU).md",
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Estimate Bandwidth Requirements.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -228,12 +241,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cf817c1a7a3a9384",
+  "active": "f6cd562b9b4bb526",
   "lastOpenFiles": [
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Virtual Central Processing Unit (vCPU).md",
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Estimate Bandwidth Requirements.md",
     "@images/Pasted image 20240509233233.png",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Logical Core.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Hyper-Threading (HTT).md",
-    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Virtual Central Processing Unit (vCPU).md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Physical Core.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/CPU core.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/thread(s).md",
@@ -265,7 +279,6 @@
     "@images/Pasted image 20240502162459.png",
     "@images/Pasted image 20240502161845.png",
     "@images/Pasted image 20240502161610.png",
-    "@images/Pasted image 20240502161551.png",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Untitled",
     "2024 Semester 1",
     "2023 Semester 2",
