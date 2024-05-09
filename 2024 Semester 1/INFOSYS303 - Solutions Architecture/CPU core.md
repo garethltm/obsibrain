@@ -1,3 +1,4 @@
+![[Pasted image 20240509221626.png]]
 - a CPU’s processor.
 - a processing unit of the CPU. 
 - It is responsible for executing programs and multiple other actions on a computer.

@@ -1,1 +1,1 @@
-- com
+- communication between the core
