@@ -5,5 +5,5 @@
 
 - **$P(x_i = w|c)$**: Probability of each position we have our particular word.
 - **$\text{count}(w, c)$**: Number of times the word occurs across all documents labeled \( c \).
-- **\( x_i = w|c \)**: How many times this word appears.
+- *How many times this word appears.
 - **\( X \)**: All total text that we have.
