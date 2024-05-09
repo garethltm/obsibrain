@@ -14,3 +14,4 @@ Some laptop CPUs (known as mobile CPUs) have four.
 Most processors can use a process called simultaneous multithreading to split into virtual cores, which are called threads.
 - virtual cores = essentially allows VMs that can allow 2 Operating Systems (Ubuntu & Windows)
 ## 3 main parts
+1. [[Control Unit (CU)]]
