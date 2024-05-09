@@ -17,3 +17,4 @@ Most processors can use a process called simultaneous multithreading to split in
 1. [[Control Unit (CU)]]
 2. [[Arithmetic Logic Unit (ALU)]]
 3. [[Memory]]
+Other relevant particular elements of a [[CPU core]] are the [[clock]] & the [[buses]]
