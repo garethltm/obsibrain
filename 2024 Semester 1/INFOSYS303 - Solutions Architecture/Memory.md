@@ -1,1 +1,1 @@
-The [[Memory]] built within the [[CPU core]] consists of [[Registers]]
+The [[Memory]] built within the [[CPU core]] consists of [[Registers]] & [[Cache]].

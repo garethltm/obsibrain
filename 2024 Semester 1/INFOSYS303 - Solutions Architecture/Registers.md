@@ -1,0 +1,1 @@
+[[Registers]] are portions of [[Memory]] used to keep addresses, instructions & results of calculations
