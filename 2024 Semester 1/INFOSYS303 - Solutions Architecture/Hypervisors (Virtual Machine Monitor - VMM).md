@@ -1,3 +1,4 @@
 - a controller & a resource allocator
 - this is controlling that is being shared at a particular time
-- software used to create and 
+- software used to create and run Virtual Machines (VMs)
+- it allows one host computer to support multiple guest VMs by virtually sharing its resources such as [[Memory]] & processing. (capacity)
