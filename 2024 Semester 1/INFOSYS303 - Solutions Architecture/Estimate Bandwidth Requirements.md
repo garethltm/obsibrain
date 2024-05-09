@@ -11,4 +11,4 @@ Keep in mind that search engine bots (by SEO related stuff) can have an impact o
 ~4 Pages/visitor
 ~2,000,000 Page Views/month
 ~2 Megabytes (MB)
-$=4,000\ GB/month$ 
+$=4,000\ GB/month$ (Data Transfer/month)
