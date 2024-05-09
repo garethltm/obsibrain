@@ -1,0 +1,2 @@
+- a single [[Physical Core]] may correspond to one or more [[Logical Core]]
+- makes it possible for a single [[Physical Core]] to perfo

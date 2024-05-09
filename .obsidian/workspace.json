@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "e7e998f870c20bbd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Logical Core.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Virtual Central Processing Unit (vCPU).md",
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Logical Core.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Virtual Central Processing Unit (vCPU).md",
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Logical Core.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Virtual Central Processing Unit (vCPU).md"
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Logical Core.md"
               }
             }
           },
@@ -156,7 +169,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Virtual Central Processing Unit (vCPU).md"
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Logical Core.md"
               }
             }
           },
@@ -182,7 +195,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Virtual Central Processing Unit (vCPU).md",
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Logical Core.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -227,10 +240,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cf817c1a7a3a9384",
+  "active": "e7e998f870c20bbd",
   "lastOpenFiles": [
-    "2024 Semester 1/INFOSYS303 - Solutions Architecture/CPU core.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Virtual Central Processing Unit (vCPU).md",
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Logical Core.md",
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Physical Core.md",
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/CPU core.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/thread(s).md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/process.md",
     "2023 Semester 2/COMPSCI235 - Software Development Methodologies/thread.md",
@@ -254,8 +269,6 @@
     "2024 Semester 1/COMPSCI361 - Machine Learning/Additional assumption.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Independent & Identically Distributed (IID).md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Default assumption.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Naive Bayes.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Decision Stumps.md",
     "@images/Pasted image 20240501232848.png",
     "@images/Pasted image 20240501232035.png",
     "@images/Pasted image 20240502162930.png",
