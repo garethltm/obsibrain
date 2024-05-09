@@ -1,1 +1,3 @@
-- is a [[path of execution]] within a [[2023 Semester 2/COMPSCI235 - Software Development Methodologies/process]]
+- is a [[path of execution]] within a [[2024 Semester 1/INFOSYS303 - Solutions Architecture/process|process]]
+	- *NOTE*: a [[2024 Semester 1/INFOSYS303 - Solutions Architecture/Thread|Thread]] is not necessarily a [[2024 Semester 1/INFOSYS303 - Solutions Architecture/process|process]]
+- 

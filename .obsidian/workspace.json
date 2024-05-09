@@ -25,25 +25,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Thread.md",
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/process.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "f01e80dbfa4ec424",
-            "type": "leaf",
-            "state": {
-              "type": "diff-view",
-              "state": {
-                "file": "2023 Semester 2/COMPSCI235 - Software Development Methodologies/The 4 P's of Software Development.md",
-                "staged": false
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -110,6 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/process.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,6 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/process.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +138,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/process.md"
+              }
             }
           },
           {
@@ -175,7 +168,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {}
+              "state": {
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/process.md"
+              }
             }
           },
           {
@@ -200,6 +195,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/process.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -232,7 +228,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 347.5
+    "width": 347.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -244,10 +241,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f01e80dbfa4ec424",
+  "active": "f6fd8c59fbed38b2",
   "lastOpenFiles": [
-    "2024 Semester 1/INFOSYS303 - Solutions Architecture/process.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Thread.md",
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/process.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/path of execution.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Virtual Central Processing Unit (vCPU).md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Hypervisors (Virtual Machine Monitor - VMM).md",
