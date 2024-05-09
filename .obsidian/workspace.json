@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024 Semester 1/CPU core.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "017d3ca458be72f8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2024 Semester 1/Control Unit (CU).md",
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Arithmetic Logic Unit (ALU).md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -99,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/Control Unit (CU).md",
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Arithmetic Logic Unit (ALU).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/Control Unit (CU).md",
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Arithmetic Logic Unit (ALU).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Semester 1/Control Unit (CU).md"
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Arithmetic Logic Unit (ALU).md"
               }
             }
           },
@@ -169,7 +156,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2024 Semester 1/Control Unit (CU).md"
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Arithmetic Logic Unit (ALU).md"
               }
             }
           },
@@ -195,7 +182,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2024 Semester 1/Control Unit (CU).md",
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Arithmetic Logic Unit (ALU).md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -241,10 +228,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "017d3ca458be72f8",
+  "active": "cf817c1a7a3a9384",
   "lastOpenFiles": [
-    "2024 Semester 1/CPU core.md",
-    "2024 Semester 1/Control Unit (CU).md",
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/CPU core.md",
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Control Unit (CU).md",
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Arithmetic Logic Unit (ALU).md",
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Memory.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/The Open Systems Interconnection Layer (OSI) Model.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Additional assumption.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Independent & Identically Distributed (IID).md",
@@ -269,8 +258,6 @@
     "2024 Semester 1/ACCTG151G - Financial Literacy/The risk-return relationship.md",
     "2024 Semester 1/ACCTG151G - Financial Literacy/Speculating.md",
     "2024 Semester 1/ACCTG151G - Financial Literacy/Preference shares & Convertible Bonds.md",
-    "2024 Semester 1/ACCTG151G - Financial Literacy/Ordinary Shares (or Common Stock).md",
-    "2024 Semester 1/ACCTG151G - Financial Literacy/New Zealand Share Market.md",
     "@images/Pasted image 20240502162930.png",
     "@images/Pasted image 20240502162534.png",
     "@images/Pasted image 20240502162517.png",
