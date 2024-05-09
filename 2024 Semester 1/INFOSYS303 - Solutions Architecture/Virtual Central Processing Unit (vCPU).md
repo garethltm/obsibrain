@@ -13,4 +13,7 @@ As it relates to [[virtualization]] & the cloud, multiple [[Virtual Central Proc
 Take the number of processing [[thread(s)]] that a chipset offers per core & multiply the number of occupied [[Socket]]:
 
 $$(Threads \times \ Cores)\times \#Physical\ CPU = NUMBER\ vCPU$$
-#infosys303example First, we need to select a virtual s
+#infosys303example First, we need to select a virtual server & CPU. For this example, Intel Xeon E-2288G as the underlying CPU. 
+An Intel Xeon E-2288G includes:
+1. 8 cores
+2. 16 threads with a 3.7GHz base clo
