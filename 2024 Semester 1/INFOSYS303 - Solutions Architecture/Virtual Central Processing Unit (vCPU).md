@@ -5,3 +5,4 @@ As it relates to [[virtualization]] & the cloud, multiple [[Virtual Central Proc
 1. [[Hypervisors (Virtual Machine Monitor - VMM)]]
 2. [[Socket]]
 3. [[thread(s)]]
+4. [[Physical Core]]
