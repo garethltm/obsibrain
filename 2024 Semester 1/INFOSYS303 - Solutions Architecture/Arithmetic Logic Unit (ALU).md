@@ -5,4 +5,6 @@ This unit consists of electronic circuits that execute arithmetic & logical oper
 3. multiplication
 4. division
 3 logical operations:
-1. 
+1. equal-to
+2. less-than
+3. greater-than

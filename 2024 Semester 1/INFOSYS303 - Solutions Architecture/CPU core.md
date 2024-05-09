@@ -16,3 +16,4 @@ Most processors can use a process called simultaneous multithreading to split in
 ## 3 main parts
 1. [[Control Unit (CU)]]
 2. [[Arithmetic Logic Unit (ALU)]]
+3. [[Memory]]

@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Arithmetic Logic Unit (ALU).md",
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Memory.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "57a6560e0457f57e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Untitled.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Arithmetic Logic Unit (ALU).md",
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Arithmetic Logic Unit (ALU).md",
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Arithmetic Logic Unit (ALU).md"
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Untitled.md"
               }
             }
           },
@@ -156,7 +169,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Arithmetic Logic Unit (ALU).md"
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Untitled.md"
               }
             }
           },
@@ -182,7 +195,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Arithmetic Logic Unit (ALU).md",
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Untitled.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -228,12 +241,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cf817c1a7a3a9384",
+  "active": "57a6560e0457f57e",
   "lastOpenFiles": [
-    "2024 Semester 1/INFOSYS303 - Solutions Architecture/CPU core.md",
-    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Control Unit (CU).md",
-    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Arithmetic Logic Unit (ALU).md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Memory.md",
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Untitled.md",
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/CPU core.md",
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Arithmetic Logic Unit (ALU).md",
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Control Unit (CU).md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/The Open Systems Interconnection Layer (OSI) Model.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Additional assumption.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Independent & Identically Distributed (IID).md",
@@ -257,7 +271,6 @@
     "2024 Semester 1/ACCTG151G - Financial Literacy/debt instruments.md",
     "2024 Semester 1/ACCTG151G - Financial Literacy/The risk-return relationship.md",
     "2024 Semester 1/ACCTG151G - Financial Literacy/Speculating.md",
-    "2024 Semester 1/ACCTG151G - Financial Literacy/Preference shares & Convertible Bonds.md",
     "@images/Pasted image 20240502162930.png",
     "@images/Pasted image 20240502162534.png",
     "@images/Pasted image 20240502162517.png",

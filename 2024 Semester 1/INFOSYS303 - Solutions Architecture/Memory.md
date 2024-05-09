@@ -1,0 +1,1 @@
+The [[Memory]] built within the [[CPU core]] consists of [[Registers]]
