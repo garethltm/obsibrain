@@ -10,6 +10,5 @@ Many processors, especially those in laptops, have two cores.
 
 Some laptop CPUs (known as mobile CPUs) have four.
 
-Most processors can use a process called simultaneous multithreading to split into virtual cores which are called threads.
-
-This text provides an overview of what a CPU core is and its evolution from single-core to multi-core processors, including the concept of simultaneous multithreading. If you need any further assistance, feel free to ask!
+Most processors can use a process called simultaneous multithreading to split into virtual cores, which are called threads.
+- virtual cores = essentially allows VNs
