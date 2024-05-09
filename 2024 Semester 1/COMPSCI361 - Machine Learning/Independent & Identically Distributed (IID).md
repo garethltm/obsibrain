@@ -1,4 +1,4 @@
-- Training/test data is [[Independent & Identically Distributed (IID)]] if:
+- [[training data]]/[[test data]] is [[Independent & Identically Distributed (IID)]] if:
 	- All examples come from the same distribution:
 	- #compsci361example ![[Pasted image 20240312151153.png]]
 	- taking one of the rows out does not affect the other in any way possible
