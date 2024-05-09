@@ -4,4 +4,4 @@ As it relates to [[virtualization]] & the cloud, multiple [[Virtual Central Proc
 ## Concepts about virtual servers
 1. [[Hypervisors (Virtual Machine Monitor - VMM)]]
 2. [[Socket]]
-3. [[2023 Semester 2/COMPSCI235 - Software Development Methodologies/thread]]
+3. [[thread(s)]]
