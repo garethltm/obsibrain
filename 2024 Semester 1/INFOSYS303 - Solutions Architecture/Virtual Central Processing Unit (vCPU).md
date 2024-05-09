@@ -23,4 +23,9 @@ $$(16\ Threads\times \ 8\ Cores)\times 1\ CPU = 128\ vCPU$$
 We need to know our workload & application profiles
 ##### Questions worth considering:
 - Do our apps run at 100% CPU utilization all of the time?
-	- (what is the)
+	- (what is the expected load, 0-100%)
+- Do they have periods where the utilization bursts?
+- Do they have maintenance windows?
+Theoretically, if we have small VMs that barely use any CPU time, we could easily get 20-30 VMs from an 8-core server
+
+However, 
