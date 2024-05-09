@@ -19,3 +19,8 @@ An Intel Xeon E-2288G includes:
 2. 16 threads 
 with a 3.7GHz base clock & 5.0GHz turbo boost
 $$(16\ Threads\times \ 8\ Cores)\times 1\ CPU = 128\ vCPU$$
+## Workload & Utilization
+We need to know our workload & application profiles
+##### Questions worth considering:
+- Do our apps run at 100% CPU utilization all of the time?
+	- (what is the)
