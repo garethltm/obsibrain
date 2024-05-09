@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 276.5
+    "width": 276.5,
+    "collapsed": true
   },
   "right": {
     "id": "29204b37fc003a9a",
@@ -227,7 +228,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1978eec726cb311e",
+  "active": "3ad179677b7fba41",
   "lastOpenFiles": [
     "2024 Semester 1/COMPSCI361 - Machine Learning/Decision Stumps.md",
     "conflict-files-obsidian-git.md",
