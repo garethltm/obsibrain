@@ -1,0 +1,15 @@
+- a CPU’s processor.
+- a processing unit of the CPU. 
+- It is responsible for executing programs and multiple other actions on a computer.
+
+In the old days, every processor had just one core that could focus on one task at a time. Today, CPUs have between two and 18 cores, each of which can work on different tasks.
+
+A core can work on one task, while another core works on a different task, so the more processors a CPU has, the more efficient it is.
+
+Many processors, especially those in laptops, have two cores.
+
+Some laptop CPUs (known as mobile CPUs) have four.
+
+Most processors can use a process called simultaneous multithreading to split into virtual cores which are called threads.
+
+This text provides an overview of what a CPU core is and its evolution from single-core to multi-core processors, including the concept of simultaneous multithreading. If you need any further assistance, feel free to ask!
