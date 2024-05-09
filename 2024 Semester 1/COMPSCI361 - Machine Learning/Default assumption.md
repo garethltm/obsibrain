@@ -11,4 +11,4 @@ $$
 - we need to estimate $n* |X|*|C|+|C|$ probability terms
 - Even for simple use cases this is prohibitively large
 	- #compsci361example  about 10 million terms for $|X| = 5000$, $|C|=2$, $n=100$ where $n$ is the length of text
-- Since 
+- Since $P(x_i | v_k) = 1$ and $\sum_{x_i \in C} P(x_i | c_j) = 1$, we only need to estimate $\prod_{x_i \in V} P(x_i | c_j) = P(V_1 | c_1) \times \ldots \times P(V_n | c_1)$
