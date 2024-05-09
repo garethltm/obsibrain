@@ -4,6 +4,6 @@
 - [[2024 Semester 1/COMPSCI361 - Machine Learning/Probability|Probability]] estimates are based on word counts in the [[training data]] set$$P(x_i = w|c) = \frac{\text{count}(w, c)}{\sum_{x \in X} \text{count}(x, c)}$$
 
 - **$P(x_i = w|c)$**: Probability of each position we have our particular word.
-- **$\text{count}(w, c)$**: Number of times the word occurs across all documents labeled \( c \).
-- *How many times this word appears.
-- **\( X \)**: All total text that we have.
+- **$\text{count}(w, c)$**: Number of times the word occurs across all documents labeled ($c$).
+	- (How many times this word appears)
+- **$\sum_{x \in X} \text{count}(x, c)$**: (All total text that we have.)
