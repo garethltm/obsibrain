@@ -10,4 +10,6 @@ As it relates to [[virtualization]] & the cloud, multiple [[Virtual Central Proc
 ## How many vCPUs?
 - a big question for [[Technical Architect (TA)]]
 
-Take the number of processing [[thread(s)]] that a c
+Take the number of processing [[thread(s)]] that a chipset offers per core & multiply the number of occupied [[Socket]]:
+
+$$(Threads \times \ Cores)$$
