@@ -1,0 +1,1 @@
+- is Intel's proprietary simultaneous ny

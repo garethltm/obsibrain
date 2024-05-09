@@ -1,2 +1,3 @@
 - a single [[Physical Core]] may correspond to one or more [[Logical Core]]
-- makes it possible for a single [[Physical Core]] to perfo
+- makes it possible for a single [[Physical Core]] to perform 2 or more actions simultaneously ([[parallelism]])
+- made the concept of [[Hyper-Threading (HTT)]] possible

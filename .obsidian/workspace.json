@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "8eb1f7e8e50f37b1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Hyper-Threading (HTT).md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -99,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Logical Core.md",
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Hyper-Threading (HTT).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Logical Core.md",
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Hyper-Threading (HTT).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Logical Core.md"
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Hyper-Threading (HTT).md"
               }
             }
           },
@@ -169,7 +181,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Logical Core.md"
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Hyper-Threading (HTT).md"
               }
             }
           },
@@ -195,7 +207,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Logical Core.md",
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Hyper-Threading (HTT).md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -240,10 +252,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e7e998f870c20bbd",
+  "active": "8eb1f7e8e50f37b1",
   "lastOpenFiles": [
-    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Virtual Central Processing Unit (vCPU).md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Logical Core.md",
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Hyper-Threading (HTT).md",
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Virtual Central Processing Unit (vCPU).md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Physical Core.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/CPU core.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/thread(s).md",
@@ -268,7 +281,6 @@
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/The Open Systems Interconnection Layer (OSI) Model.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Additional assumption.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Independent & Identically Distributed (IID).md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Default assumption.md",
     "@images/Pasted image 20240501232848.png",
     "@images/Pasted image 20240501232035.png",
     "@images/Pasted image 20240502162930.png",
