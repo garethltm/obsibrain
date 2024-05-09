@@ -13,7 +13,7 @@
 3. **Process (how?)** - The manner it's done
 	- What type of software did you use in your [[software development]] process
 	- A [[software engineering process]]
-	- A [[process]]
+	- A [[2023 Semester 2/COMPSCI235 - Software Development Methodologies/process]]
 
 4. **Project (manage this all)** - Overall management
 	- The organizational element through which [[software development]] is managed

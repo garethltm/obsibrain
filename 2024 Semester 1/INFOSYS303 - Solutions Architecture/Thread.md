@@ -1,1 +1,1 @@
-- is a path of execution within a process
+- is a [[path of execution]] within a [[2023 Semester 2/COMPSCI235 - Software Development Methodologies/process]]
