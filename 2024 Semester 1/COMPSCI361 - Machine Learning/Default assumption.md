@@ -11,4 +11,5 @@ $$
 - we need to estimate $n* |X|*|C|+|C|$ probability terms
 - Even for simple use cases this is prohibitively large
 	- #compsci361example  about 10 million terms for $|X| = 5000$, $|C|=2$, $n=100$ where $n$ is the length of text
-- 
+- Since $$\sum_{x \in X} P(x|c) = 1$$ and $$\sum_{c \in C} P(c) = 1$$ we only need to estimate $$n \cdot (|X| - 1) \cdot |C| + |C| - 1$$ probability terms, also called the Naive Bayes model parameters.
+
