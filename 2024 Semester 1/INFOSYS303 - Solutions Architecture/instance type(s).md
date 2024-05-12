@@ -9,3 +9,5 @@ This makes it easier for you to deploy your application/software according to yo
 1. [[General purpose]]
 2. [[Burstable performance]]
 3. [[Compute optimized]]
+4. [[Memory optimized]]
+5. [[Storage optimized]]

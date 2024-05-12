@@ -6,4 +6,4 @@ Designed for [[Compute]] intensive applications that benefit from high performan
 - scientific modeling
 - dedicated gaming servers
 - ad server engines
-- [[Machine Learning (ML)]] [[infere]]
+- [[Machine Learning (ML)]] [[Inference engines (IE)]]
