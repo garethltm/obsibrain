@@ -1,1 +1,0 @@
-- an [[instance]] is a virtual server in the cloud. Inherits the configuration of the [[Amazon Machine Image (AMI)]] that launched it. (pre-configured templates)

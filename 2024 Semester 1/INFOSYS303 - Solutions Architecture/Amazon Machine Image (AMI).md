@@ -6,6 +6,6 @@
 - Application Server
 - Application
 
-From an [[Amazon Machine Image (AMI)]], we can launch an [[instance]].
+From an [[Amazon Machine Image (AMI)]], we can launch an [[instance(s)]].
 
-There are different types of [[instance]] which can defined by [[instance type(s)]]
+There are different types of [[instance(s)]] which can defined by [[instance type(s)]]
