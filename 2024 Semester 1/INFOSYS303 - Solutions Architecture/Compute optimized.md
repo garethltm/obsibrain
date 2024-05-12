@@ -1,0 +1,1 @@
+Designed for [[Compute]] intensive applications that benefit from high performance processors. These [[instance(s)]] are ideal for batch processing workloads, media transcoding, high performance web servers, high performance computing ()

@@ -20,12 +20,12 @@
             }
           },
           {
-            "id": "19fc045f4e564bc8",
+            "id": "4c32f13bdfd147dd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Burstable performance.md",
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Compute optimized.md",
                 "mode": "source",
                 "source": false
               }
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Burstable performance.md",
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Compute optimized.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Burstable performance.md",
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Compute optimized.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Burstable performance.md"
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Compute optimized.md"
               }
             }
           },
@@ -170,7 +170,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Burstable performance.md"
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Compute optimized.md"
               }
             }
           },
@@ -196,7 +196,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Burstable performance.md",
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Compute optimized.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -242,9 +242,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "19fc045f4e564bc8",
+  "active": "4c32f13bdfd147dd",
   "lastOpenFiles": [
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/instance type(s).md",
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Compute optimized.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Burstable performance.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/instance(s).md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/General purpose.md",
@@ -271,7 +272,6 @@
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Physical Core.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/thread(s).md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/process.md",
-    "2023 Semester 2/COMPSCI235 - Software Development Methodologies/thread.md",
     "@images/Pasted image 20240509221626.png",
     "@images/Pasted image 20240501232848.png",
     "@images/Pasted image 20240501232035.png",

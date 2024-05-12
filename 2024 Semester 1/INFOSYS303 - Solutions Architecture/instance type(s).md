@@ -8,4 +8,4 @@ This makes it easier for you to deploy your application/software according to yo
 ## Specifications
 1. [[General purpose]]
 2. [[Burstable performance]]
-3. Compute optimized
+3. [[Compute optimized]]
