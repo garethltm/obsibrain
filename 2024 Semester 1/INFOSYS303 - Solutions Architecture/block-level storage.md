@@ -1,1 +1,1 @@
-- sttor
+- stores big amount of information
