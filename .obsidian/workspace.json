@@ -20,12 +20,12 @@
             }
           },
           {
-            "id": "25d6023feca69f9e",
+            "id": "4b10f4da7ca88394",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/High-performance computing.md",
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Previous generation.md",
                 "mode": "source",
                 "source": false
               }
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/High-performance computing.md",
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Previous generation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/High-performance computing.md",
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Previous generation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/High-performance computing.md"
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Previous generation.md"
               }
             }
           },
@@ -170,7 +170,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/High-performance computing.md"
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Previous generation.md"
               }
             }
           },
@@ -196,7 +196,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/High-performance computing.md",
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Previous generation.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -242,9 +242,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "25d6023feca69f9e",
+  "active": "4b10f4da7ca88394",
   "lastOpenFiles": [
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/instance type(s).md",
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Previous generation.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/High-performance computing.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Compute optimized.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Burstable performance.md",
@@ -271,7 +272,6 @@
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Network Address Translation (NAT).md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Estimate Bandwidth Requirements.md",
     "@images/Pasted image 20240509233233.png",
-    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Logical Core.md",
     "@images/Pasted image 20240509221626.png",
     "@images/Pasted image 20240501232848.png",
     "@images/Pasted image 20240501232035.png",

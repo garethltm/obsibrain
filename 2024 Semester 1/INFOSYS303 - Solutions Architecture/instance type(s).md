@@ -13,3 +13,4 @@ This makes it easier for you to deploy your application/software according to yo
 5. [[Storage optimized]]
 6. [[Accelerated computing]]
 7. [[High-performance computing]]
+8. [[Previous generation]]
