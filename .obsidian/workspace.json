@@ -18,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "bccb3c866b888789",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Amazon S3.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -99,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Amazon S3.md",
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Instance storage.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Amazon S3.md",
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Instance storage.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Amazon S3.md"
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Instance storage.md"
               }
             }
           },
@@ -169,7 +156,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Amazon S3.md"
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Instance storage.md"
               }
             }
           },
@@ -195,7 +182,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Amazon S3.md",
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Instance storage.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -241,10 +228,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bccb3c866b888789",
+  "active": "133b72faec2ce5a4",
   "lastOpenFiles": [
-    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Instance storage.md",
+    "@images/Pasted image 20240513030313.png",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Amazon S3.md",
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Instance storage.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Amazon EFS.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Instance store.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Amazon EBS.md",
@@ -270,7 +258,6 @@
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/CPU core.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Virtual Central Processing Unit (vCPU).md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Determine vCPUs.md",
-    "2024 Semester 1/INFOSYS303 - Solutions Architecture/deliverable.md",
     "@images/Pasted image 20240509233233.png",
     "@images/Pasted image 20240509221626.png",
     "@images/Pasted image 20240501232848.png",
