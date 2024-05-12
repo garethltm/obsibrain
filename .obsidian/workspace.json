@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Amazon Elastic Container Service (Amazon ECS).md",
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Amazon EBS.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Amazon Elastic Container Service (Amazon ECS).md",
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Amazon EBS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Amazon Elastic Container Service (Amazon ECS).md",
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Amazon EBS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Amazon Elastic Container Service (Amazon ECS).md"
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Amazon EBS.md"
               }
             }
           },
@@ -156,7 +156,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Amazon Elastic Container Service (Amazon ECS).md"
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Amazon EBS.md"
               }
             }
           },
@@ -182,7 +182,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Amazon Elastic Container Service (Amazon ECS).md",
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Amazon EBS.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -230,8 +230,10 @@
   },
   "active": "133b72faec2ce5a4",
   "lastOpenFiles": [
-    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Amazon EBS.md",
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Instance storage.md",
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Amazon Machine Image (AMI).md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Amazon Elastic Container Service (Amazon ECS).md",
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Amazon EBS.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/instance type(s).md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/General purpose.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Burstable performance.md",
@@ -241,10 +243,8 @@
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Accelerated computing.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/High-performance computing.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Previous generation.md",
-    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Instance storage.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/instance(s).md",
     "@images/Pasted image 20240513025411.png",
-    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Amazon Machine Image (AMI).md",
     "@images/Pasted image 20240513023853.png",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Estimate Compute Requirements.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Socket.md",
