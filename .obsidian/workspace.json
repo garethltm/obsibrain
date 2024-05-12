@@ -61,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "layer model",
+                "query": "tag:#infosys303example",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,7 +78,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
