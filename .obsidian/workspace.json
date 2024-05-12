@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Storage optimized.md",
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/instance type(s).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1b246b6f501b5905",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Accelerated computing.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -87,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Storage optimized.md",
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Accelerated computing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Storage optimized.md",
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Accelerated computing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Storage optimized.md"
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Accelerated computing.md"
               }
             }
           },
@@ -157,7 +170,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Storage optimized.md"
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Accelerated computing.md"
               }
             }
           },
@@ -183,7 +196,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Storage optimized.md",
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Accelerated computing.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -229,9 +242,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "133b72faec2ce5a4",
+  "active": "1b246b6f501b5905",
   "lastOpenFiles": [
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/instance type(s).md",
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Accelerated computing.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Storage optimized.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Memory optimized.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Compute optimized.md",
@@ -258,7 +272,6 @@
     "@images/Pasted image 20240509233233.png",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Logical Core.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Hyper-Threading (HTT).md",
-    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Physical Core.md",
     "@images/Pasted image 20240509221626.png",
     "@images/Pasted image 20240501232848.png",
     "@images/Pasted image 20240501232035.png",

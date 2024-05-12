@@ -11,3 +11,4 @@ This makes it easier for you to deploy your application/software according to yo
 3. [[Compute optimized]]
 4. [[Memory optimized]]
 5. [[Storage optimized]]
+6. [[Accelerated computing]]
