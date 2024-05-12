@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Estimate Compute Requirements.md",
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/CPU core.md",
                 "mode": "source",
                 "source": false
               }
@@ -78,7 +78,7 @@
       {
         "id": "5a69fa8a943ea5f0",
         "type": "tabs",
-        "dimension": 55.981308411214954,
+        "dimension": 55.98130841121495,
         "children": [
           {
             "id": "db6754d77108e140",
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Estimate Compute Requirements.md",
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/CPU core.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Estimate Compute Requirements.md",
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/CPU core.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Estimate Compute Requirements.md"
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/CPU core.md"
               }
             }
           },
@@ -156,7 +156,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Estimate Compute Requirements.md"
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/CPU core.md"
               }
             }
           },
@@ -174,7 +174,7 @@
       {
         "id": "aca6307e70cdfa79",
         "type": "tabs",
-        "dimension": 44.018691588785046,
+        "dimension": 44.01869158878505,
         "children": [
           {
             "id": "d8a4a9680b239d40",
@@ -182,7 +182,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Estimate Compute Requirements.md",
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/CPU core.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -230,10 +230,10 @@
   },
   "active": "cf817c1a7a3a9384",
   "lastOpenFiles": [
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Estimate Compute Requirements.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Virtual Central Processing Unit (vCPU).md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Determine vCPUs.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/deliverable.md",
-    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Estimate Compute Requirements.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Determine the amount of RAM.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Determine Number of Virtual Machines (VMs).md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Compute.md",
