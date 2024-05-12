@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Instance storage.md",
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Instance storage.md",
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Instance storage.md",
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Instance storage.md"
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Untitled.md"
               }
             }
           },
@@ -156,7 +156,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Instance storage.md"
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Untitled.md"
               }
             }
           },
@@ -182,7 +182,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Instance storage.md",
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Untitled.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -230,9 +230,12 @@
   },
   "active": "133b72faec2ce5a4",
   "lastOpenFiles": [
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/ArchiMate Core Framework.md",
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Untitled.md",
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/ArchiMate Enterprise Architecture.md",
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Instance storage.md",
     "@images/Pasted image 20240513030313.png",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Amazon S3.md",
-    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Instance storage.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Amazon EFS.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Instance store.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Amazon EBS.md",
@@ -256,8 +259,6 @@
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Socket.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Hypervisors (Virtual Machine Monitor - VMM).md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/CPU core.md",
-    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Virtual Central Processing Unit (vCPU).md",
-    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Determine vCPUs.md",
     "@images/Pasted image 20240509233233.png",
     "@images/Pasted image 20240509221626.png",
     "@images/Pasted image 20240501232848.png",
@@ -265,7 +266,6 @@
     "@images/Pasted image 20240502162930.png",
     "@images/Pasted image 20240502162534.png",
     "@images/Pasted image 20240502162517.png",
-    "@images/Pasted image 20240502162459.png",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Untitled",
     "2024 Semester 1",
     "2023 Semester 2",
