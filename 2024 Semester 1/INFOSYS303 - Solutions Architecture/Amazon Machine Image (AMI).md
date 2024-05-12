@@ -7,3 +7,5 @@
 - Application
 
 From an [[Amazon Machine Image (AMI)]], we can launch an [[instance]].
+
+There are different types of [[instance]] which can defined by [[instance type]]

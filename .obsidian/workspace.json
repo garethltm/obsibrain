@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "133b72faec2ce5a4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/instance type.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Amazon Machine Image (AMI).md",
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/instance type.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Amazon Machine Image (AMI).md",
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/instance type.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Amazon Machine Image (AMI).md"
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/instance type.md"
               }
             }
           },
@@ -156,7 +169,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Amazon Machine Image (AMI).md"
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/instance type.md"
               }
             }
           },
@@ -182,7 +195,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Amazon Machine Image (AMI).md",
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/instance type.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -228,10 +241,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "50d9c3569216cd2f",
+  "active": "133b72faec2ce5a4",
   "lastOpenFiles": [
-    "2024 Semester 1/INFOSYS303 - Solutions Architecture/instance.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Amazon Machine Image (AMI).md",
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/instance type.md",
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/instance.md",
     "@images/Pasted image 20240513023853.png",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Estimate Compute Requirements.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Socket.md",
