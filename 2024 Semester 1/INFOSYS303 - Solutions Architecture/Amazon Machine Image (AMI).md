@@ -2,4 +2,7 @@
 
 #infosys303example of software configuration
 - Operating System
-- Appl
+- Application Server
+- Application
+
+From an [[Amazon Machine Image (AMI)]], we can launch an [[instance]].
