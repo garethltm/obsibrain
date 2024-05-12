@@ -1,3 +1,4 @@
+![[Pasted image 20240513023853.png]]
 - a template that contains software configuration
 
 #infosys303example of software configuration

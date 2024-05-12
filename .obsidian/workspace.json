@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/instance.md",
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Amazon Machine Image (AMI).md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/instance.md",
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Amazon Machine Image (AMI).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/instance.md",
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Amazon Machine Image (AMI).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/instance.md"
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Amazon Machine Image (AMI).md"
               }
             }
           },
@@ -156,7 +156,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/instance.md"
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Amazon Machine Image (AMI).md"
               }
             }
           },
@@ -182,7 +182,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/instance.md",
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Amazon Machine Image (AMI).md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -230,8 +230,9 @@
   },
   "active": "50d9c3569216cd2f",
   "lastOpenFiles": [
-    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Amazon Machine Image (AMI).md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/instance.md",
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Amazon Machine Image (AMI).md",
+    "@images/Pasted image 20240513023853.png",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Estimate Compute Requirements.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Socket.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Hypervisors (Virtual Machine Monitor - VMM).md",
@@ -256,7 +257,6 @@
     "2023 Semester 2/COMPSCI235 - Software Development Methodologies/thread.md",
     "2023 Semester 2/COMPSCI235 - Software Development Methodologies/thread pools.md",
     "2023 Semester 2/COMPSCI235 - Software Development Methodologies/Concurrent.md",
-    "2024 Semester 1/INFOSYS303 - Solutions Architecture/parallelism.md",
     "@images/Pasted image 20240509221626.png",
     "@images/Pasted image 20240501232848.png",
     "@images/Pasted image 20240501232035.png",
@@ -265,7 +265,6 @@
     "@images/Pasted image 20240502162517.png",
     "@images/Pasted image 20240502162459.png",
     "@images/Pasted image 20240502161845.png",
-    "@images/Pasted image 20240502161610.png",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Untitled",
     "2024 Semester 1",
     "2023 Semester 2",
