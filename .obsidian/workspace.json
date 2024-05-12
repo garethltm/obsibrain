@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "7264ea6c6fb0b326",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/block-level storage.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Amazon EBS.md",
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/block-level storage.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Amazon EBS.md",
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/block-level storage.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Amazon EBS.md"
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/block-level storage.md"
               }
             }
           },
@@ -156,7 +169,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Amazon EBS.md"
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/block-level storage.md"
               }
             }
           },
@@ -182,7 +195,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Amazon EBS.md",
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/block-level storage.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -228,12 +241,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "133b72faec2ce5a4",
+  "active": "7264ea6c6fb0b326",
   "lastOpenFiles": [
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Amazon EBS.md",
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/block-level storage.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Instance storage.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Amazon Machine Image (AMI).md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Amazon Elastic Container Service (Amazon ECS).md",
-    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Amazon EBS.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/instance type(s).md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/General purpose.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Burstable performance.md",
@@ -257,7 +271,6 @@
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Determine Number of Virtual Machines (VMs).md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Compute.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Know IP Addresses Requirements.md",
-    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Applications Architecture.md",
     "@images/Pasted image 20240509233233.png",
     "@images/Pasted image 20240509221626.png",
     "@images/Pasted image 20240501232848.png",
