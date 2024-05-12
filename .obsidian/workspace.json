@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/High-performance computing.md",
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Amazon Elastic Container Service (Amazon ECS).md",
                 "mode": "source",
                 "source": false
               }
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -87,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/High-performance computing.md",
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Amazon Elastic Container Service (Amazon ECS).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/High-performance computing.md",
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Amazon Elastic Container Service (Amazon ECS).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/High-performance computing.md"
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Amazon Elastic Container Service (Amazon ECS).md"
               }
             }
           },
@@ -157,7 +156,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/High-performance computing.md"
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Amazon Elastic Container Service (Amazon ECS).md"
               }
             }
           },
@@ -183,7 +182,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/High-performance computing.md",
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Amazon Elastic Container Service (Amazon ECS).md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -229,20 +228,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a6e0090ac9cbd1f3",
+  "active": "133b72faec2ce5a4",
   "lastOpenFiles": [
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Amazon EBS.md",
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Amazon Elastic Container Service (Amazon ECS).md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/instance type(s).md",
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/General purpose.md",
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Burstable performance.md",
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Compute optimized.md",
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Memory optimized.md",
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Storage optimized.md",
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Accelerated computing.md",
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/High-performance computing.md",
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Previous generation.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Instance storage.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/instance(s).md",
     "@images/Pasted image 20240513025411.png",
-    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Previous generation.md",
-    "2024 Semester 1/INFOSYS303 - Solutions Architecture/High-performance computing.md",
-    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Compute optimized.md",
-    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Burstable performance.md",
-    "2024 Semester 1/INFOSYS303 - Solutions Architecture/General purpose.md",
-    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Accelerated computing.md",
-    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Storage optimized.md",
-    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Memory optimized.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Amazon Machine Image (AMI).md",
     "@images/Pasted image 20240513023853.png",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Estimate Compute Requirements.md",
@@ -257,8 +258,6 @@
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Compute.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Know IP Addresses Requirements.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Applications Architecture.md",
-    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Virtual Private Gateway (VGW).md",
-    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Network Address Translation (NAT).md",
     "@images/Pasted image 20240509233233.png",
     "@images/Pasted image 20240509221626.png",
     "@images/Pasted image 20240501232848.png",
