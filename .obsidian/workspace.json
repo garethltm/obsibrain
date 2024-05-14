@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Additional assumption.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Naive Bayes Classifier.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ec2",
+                "query": "laplace",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -86,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Additional assumption.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Naive Bayes Classifier.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Additional assumption.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Naive Bayes Classifier.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Additional assumption.md"
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Naive Bayes Classifier.md"
               }
             }
           },
@@ -156,7 +157,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Additional assumption.md"
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Naive Bayes Classifier.md"
               }
             }
           },
@@ -182,7 +183,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Additional assumption.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Naive Bayes Classifier.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -230,6 +231,9 @@
   },
   "active": "133b72faec2ce5a4",
   "lastOpenFiles": [
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Expectation Maximization (EM) Imputation.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Estimate Confidence Intervals.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Additional assumption.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Naive Bayes.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Default assumption.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/k-nearest neighbour (KNN).md",
@@ -262,10 +266,7 @@
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Storage optimized.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Accelerated computing.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/High-performance computing.md",
-    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Previous generation.md",
-    "2024 Semester 1/INFOSYS303 - Solutions Architecture/instance(s).md",
     "@images/Pasted image 20240513025411.png",
-    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Estimate Compute Requirements.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Untitled",
     "2024 Semester 1",
     "2023 Semester 2",
