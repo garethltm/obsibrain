@@ -21,4 +21,6 @@
 		- [[2024 Semester 1/COMPSCI361 - Machine Learning/Local Markov property|Local Markov property]]
 2. Gives a specification of the joint probability distribution
 	- If we label the nodes such that $X_i$ is an ancestor of $X_j$ only if $i < j$ , the joint probability can be factorized chain rule of [[2024 Semester 1/COMPSCI361 - Machine Learning/Probability|Probability]] and [[2024 Semester 1/COMPSCI361 - Machine Learning/Local Markov property|Local Markov property]] as:
-	- 
+	- $P(X_1, \ldots , X_n) = P(X_1) P(X_2|X_1) \ldots P(X_n|X_{n-1})$
+	- $\prod_{i=1}^n P(X_i | X_1, X_2, \ldots , X_{i-1})$
+
