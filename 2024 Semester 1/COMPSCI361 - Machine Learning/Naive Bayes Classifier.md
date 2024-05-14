@@ -43,6 +43,8 @@ $$
 ## Test2![[Pasted image 20240502161610.png]]
 - Training phase outputs following [[2024 Semester 1/COMPSCI361 - Machine Learning/Probability|Probability]] estimates (tables below) used in testing phase to classify new examples![[Pasted image 20240502161432.png]]
 - Issue: Observed fractions are poor estimates when we have small training set & large number of attribute values. When these are zero they will dominate the calculations for all test example described with that specific attribute value
+
+#compsci361questions 
 ## How to solve this issue
 - Training phase using [[Estimating Probabilities - Laplace Smoothing]] outputs following [[2024 Semester 1/COMPSCI361 - Machine Learning/Probability|Probability]] estimates![[Pasted image 20240502161845.png]]
 - Conditional probability estimates (no smoothing) $P(A_i = a_i | v_j) = \frac{n_{ij}}{n_j}$ where 
