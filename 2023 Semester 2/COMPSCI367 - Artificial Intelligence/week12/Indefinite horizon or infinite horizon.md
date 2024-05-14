@@ -1,1 +1,1 @@
-[[Local Markov Property]] decision process. The agent does not know a sequence & number of decisions to be made
+[[2023 Semester 2/COMPSCI367 - Artificial Intelligence/week11/Local Markov Property]] decision process. The agent does not know a sequence & number of decisions to be made

@@ -11,6 +11,6 @@ $$P(a \land b)=P(a)P(b\ |\ a)$$
 Related to: [[conditional probability]]
 
 > #Example 
-> ![[COMPSCI3672023_S2W11Uncertainty2of2-17.jpg]]Related to: [[Local Markov Property]]
+> ![[COMPSCI3672023_S2W11Uncertainty2of2-17.jpg]]Related to: [[2023 Semester 2/COMPSCI367 - Artificial Intelligence/week11/Local Markov Property]]
 > ![[COMPSCI3672023_S2W11Uncertainty2of2-19.jpg]]Related to: [[Time Complexity]]
 > Better method: [[Variable Elimination Algorithm (VE)]]

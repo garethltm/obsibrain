@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Bayesian Belief Networks.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Local Markov property.md",
                 "mode": "source",
                 "source": false
               }
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Bayesian Belief Networks.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Local Markov property.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Bayesian Belief Networks.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Local Markov property.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Bayesian Belief Networks.md"
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Local Markov property.md"
               }
             }
           },
@@ -169,7 +169,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Bayesian Belief Networks.md"
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Local Markov property.md"
               }
             }
           },
@@ -195,7 +195,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Bayesian Belief Networks.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Local Markov property.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -243,9 +243,10 @@
   },
   "active": "f87467bd8f9b0728",
   "lastOpenFiles": [
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Bayesian Belief Networks.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Local Markov property.md",
     "@images/Pasted image 20240514235056.png",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Bayesian Networks.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Bayesian Belief Networks.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Naive Bayes Classifier.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Bayes Classifier.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Maximum A Posteriori (MAP) Hypothesis.md",
@@ -278,7 +279,6 @@
     "@images/Pasted image 20240513030636.png",
     "@images/Pasted image 20240513030607.png",
     "@images/Pasted image 20240513030557.png",
-    "@images/Pasted image 20240513030313.png",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Untitled",
     "2024 Semester 1",
     "2023 Semester 2",
