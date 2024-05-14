@@ -8,4 +8,4 @@ becomes:
 $P(x_i = w|c) = \frac{count(w, c) + 1}{\sum_{x \in F} count(x, c) + |X|}$
 
 where $+ |X|$ = adding as many unique words in your vocabulary
-#compsci361example 
+#compsci361example ![[Pasted image 20240514231749.png]]

@@ -57,3 +57,8 @@ $$
 - Missing values doesn't affect [[Bayesian Learning]]
 - Missing attribute values in test examples: just omit those attribute values in the calculations
 - **Test3** [[classification]] based on [[Estimating Probabilities - Laplace Smoothing]] estimates![[Pasted image 20240502162930.png]]
+## Discussion
+#compsci361questions 
+Are [[Naive Bayes Classifier]] affected/robust to:
+- isolated noise example?
+	- class labels are diff
