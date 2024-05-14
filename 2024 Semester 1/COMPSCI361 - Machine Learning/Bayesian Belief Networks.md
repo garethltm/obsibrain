@@ -29,8 +29,10 @@
 	- ### Non-descendants of ($X_i$)
 		- The probability of non-descendants of ($X_i$) can be written as:
 			- $\prod_{i=1}^n P(X_i | X_1, X_2, \ldots , X_{i-1})$
-	- ### Parents of (X_i)
-	- The probability considering only the parents of (X_i) is given by:
+	- ### Parents of ($X_i$)
+	- The probability considering only the parents of ($X_i$) is given by:
 		- $\prod_{i=1}^n P(X_i|\text{Parents}(X_i))$
+	- #compsci361example $P(X_1, X_2, X_3, X_4, X_5) = P(X_1)P(X_2)P(X_3|X_1,X_2)P(X_4|X_2)P(X_5|X_4)$
+
 
 
