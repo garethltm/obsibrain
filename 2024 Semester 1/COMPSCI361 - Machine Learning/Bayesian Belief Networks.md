@@ -14,7 +14,7 @@
 	- $X$ is an ancestor of $Y$ 
 	- $Y$ is a descendant of $X$ 
 		- if there is a directed path in the graph from $X$ to $Y$
-		- #compsci361example ![[Pasted image 20240514235056.png]]
+		- #compsci361example ![[Pasted image 20240515000058.png]]
 		- $X_1, X_2$ are parents of $X_3$
 		- $X_2$ is the parent of $X_4$
 		- $X_2$ has no ancestors/parents, but $X_2$ is ancestor of $X_3,X_4$ and $X_5$
