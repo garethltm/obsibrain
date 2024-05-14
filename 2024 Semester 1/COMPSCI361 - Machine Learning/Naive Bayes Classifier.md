@@ -1,5 +1,5 @@
 - assumes all attributes describing $X$ are [[conditionally independent]] given $Y$
-	- dramatically reduces the number of parameters that mus
+	- dramatically reduces the number of [[parameters]] that must be estimated to learn the [[classifier(s)]] (meaning smaller [[training data]] sets are sufficient for the learning task)
 
 Applies to learning tasks where each instance x is described by a conjunction of attribute values $<a\tiny{1} \normalsize , a\tiny{2} \normalsize, \dots ,a\tiny{n}>$ & where the target function $f(x)$ can take on any value from some finite set V
 - [[Naive Bayes Classifier]] solves the spam problem
