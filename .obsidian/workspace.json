@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Random Forests.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/XGBoost Discussion.md",
                 "mode": "source",
                 "source": false
               }
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Random Forests.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/XGBoost Discussion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Random Forests.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/XGBoost Discussion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Random Forests.md"
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/XGBoost Discussion.md"
               }
             }
           },
@@ -157,7 +157,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Random Forests.md"
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/XGBoost Discussion.md"
               }
             }
           },
@@ -183,7 +183,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Random Forests.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/XGBoost Discussion.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -231,6 +231,19 @@
   },
   "active": "133b72faec2ce5a4",
   "lastOpenFiles": [
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Validation Error.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Unsupervised Learning.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Supervised Learning.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Spam Filtering.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/ROC Curves.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/SMOTE (Synthetic Minority Oversampling Technique).md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Relief.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Regularized Regression Trees.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Regression Trees.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Randomly over-sampling the minority class.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/random variables.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Random Tree(s).md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Random Forests.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/random events.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Probabilistic Classifiers.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Principal Components Analysis (PCA).md",
@@ -244,19 +257,6 @@
     "2024 Semester 1/COMPSCI361 - Machine Learning/Maximum A Posteriori (MAP) Hypothesis.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Machine Learning (ML).md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Linear Regression in 1 Dimension.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Least Squares.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Learning Theory.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/L0-regularization.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/k-nearest neighbour (KNN).md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Information gain.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Incomplete (Missing) Data.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Imputation.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Imbalanced Data.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Hypothesis Space.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Heuristic Search in Attribute Selection.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Golden Rule of Machine Learning.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Filters.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Estimate Confidence Intervals.md",
     "@images/Pasted image 20240514231749.png",
     "@images/Pasted image 20240513030710.png",
     "@images/Pasted image 20240513030702.png",

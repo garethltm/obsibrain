@@ -9,6 +9,7 @@ Cost of fitting trees in [[eXtreme Gradient Boost (XGBoost)]] is same as usual [
 In [[eXtreme Gradient Boost (XGBoost)]], it's the residuals that act like weights in [[AdaBoost]]
 - Focuses on decreasing error in examples with large residuals
 
+#compsci361questions 
 ## How do you maintain efficiency if not using squared error?
 - For non-quadratic losses like logistic, there is no closed-form solution
 - Approximates non-quadratic losses with 2nd-order Taylor expansion

@@ -29,6 +29,7 @@ You can apply [[Linear Regression]], [[classification]], etc.
 	- ($\huge x\tiny {ij}\normalsize = 0$):
 		- if word/phrase $j$ is not in email $i$
 ## Feature Representation for [[Spam Filtering]]
+#compsci361questions 
 Are there better features than [[bag-of-words]]?
 - We can add [[bigrams]], [[trigram]]
 - We might include the sender domain (`<sender domain == "mail.com">`)

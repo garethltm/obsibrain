@@ -3,6 +3,7 @@
 - each leaf gives a real-valued prediction (a [[Regression]] value of a target)
 - #compsci361example How many hours of video games per day?![[Pasted image 20240412165234.png]]
 
+#compsci361questions 
 ### How can we fit a [[Regression Trees]]?
 ###### Simple approach:
 1. [[Boosted Regression Trees - Prediction]]: at each leaf, predict the mean of the training $\huge {y}\tiny {i}$ assigned to the leaf (the leaf (mode) is the prediction)
