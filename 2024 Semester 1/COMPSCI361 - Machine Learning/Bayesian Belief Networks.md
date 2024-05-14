@@ -10,3 +10,5 @@
 ## Variable Relationships
 - a graphical model of relationships
 	- Encodes dependencies among the variables (can be causal dependencies)
+		- $X$ is a parent of $Y$, if there is a directed edge from $X$ to $Y$
+		- $X$ is an ancestor of $Y$ (and $Y$ is a)
