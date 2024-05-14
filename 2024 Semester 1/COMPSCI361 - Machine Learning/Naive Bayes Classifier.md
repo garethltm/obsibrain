@@ -65,4 +65,7 @@ Are [[Naive Bayes Classifier]] affected/robust to:
 - irrelevant attributes?
 	- doesn't influence as much because the contribution would be similar for both classes (If it is not really related to your class (random), most likely not do anything) - randomness would cancel out
 - missing values?
-	- doesn't affect - [[laplac]]
+	- doesn't affect - [[Estimating Probabilities - Laplace Smoothing]]
+- correlated attributes?
+	- can be an issue if they are supposed to be a combined instance
+	- #compsci361example 'Machine' 'Learning' $\ne$ 'Machine Learning'
