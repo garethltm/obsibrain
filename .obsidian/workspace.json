@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Clustering.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Data reduction.md",
                 "mode": "source",
                 "source": false
               }
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Clustering.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Data reduction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Clustering.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Data reduction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Clustering.md"
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Data reduction.md"
               }
             }
           },
@@ -157,7 +157,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Clustering.md"
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Data reduction.md"
               }
             }
           },
@@ -183,7 +183,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Clustering.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Data reduction.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -231,6 +231,10 @@
   },
   "active": "133b72faec2ce5a4",
   "lastOpenFiles": [
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Data cleaning.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Correlation analysis.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Comparing Classifiers.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Clustering.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Cluster-Based Oversampling.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Bootstrapping.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Boosted Regression Trees - Training.md",
@@ -254,10 +258,6 @@
     "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week10/Laplace smoothing (add-one smoothing).md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Expectation Maximization (EM) Imputation.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Estimate Confidence Intervals.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Naive Bayes.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Default assumption.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/k-nearest neighbour (KNN).md",
-    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Nesting ArchiMate.md",
     "@images/Pasted image 20240513030710.png",
     "@images/Pasted image 20240513030702.png",
     "@images/Pasted image 20240513030657.png",
