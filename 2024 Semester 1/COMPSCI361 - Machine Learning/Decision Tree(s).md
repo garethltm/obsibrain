@@ -3,6 +3,7 @@
 	- a class label as a return value at the end of each sequence
 ![[Pasted image 20240301115225.png]]
 
+#compsci361questions 
 ## Which score function should a [[Decision Tree(s)]] use?
 #### In terms of accuracy
 - You generally want a shorter one because it generalises more - to adapt to more cases

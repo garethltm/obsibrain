@@ -1,5 +1,5 @@
 #compsci361questions 
-When
+## When
 - when you want to reduce the number of rows/columns in your dataset
 ## What happens
 - obtain a reduced representation of the data set that is much smaller in volume but yet produces the same (or almost the same) analytical results
