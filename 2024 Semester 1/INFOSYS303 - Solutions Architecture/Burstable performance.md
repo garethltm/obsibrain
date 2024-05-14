@@ -1,0 +1,1 @@
+The T [[instance(s)]] family is also referred to as [[Burstable performance]] [[instance(s)]]. These [[instance(s)]] provide a baseline CPU performance with the ability to burst above the baseline at any time.

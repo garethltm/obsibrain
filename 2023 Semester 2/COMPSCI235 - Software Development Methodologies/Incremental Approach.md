@@ -5,7 +5,7 @@
 - Increments range from a ==core product== (initial increment) to a more ==advanced product== (subsequent increments)
 
 ### Useful:
-- when there is dearth (lack) of resources early on in the [[process]]
+- when there is dearth (lack) of resources early on in the [[2023 Semester 2/COMPSCI235 - Software Development Methodologies/process]]
 
 >	#Example 
 >	Incremental Model

@@ -1,0 +1,1 @@
+AWS offers previous generation [[instance type(s)]] for users who have optimized their applications around them & have yet to upgrade

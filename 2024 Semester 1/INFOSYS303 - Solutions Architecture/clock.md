@@ -1,0 +1,2 @@
+- heart of the CPU
+- controls the speed of the CPU

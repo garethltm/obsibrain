@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "acf8568373da718b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -91,7 +103,7 @@
       {
         "id": "5a69fa8a943ea5f0",
         "type": "tabs",
-        "dimension": 55.981308411214954,
+        "dimension": 55.98130841121495,
         "children": [
           {
             "id": "db6754d77108e140",
@@ -99,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Default assumption.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Default assumption.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Default assumption.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -169,7 +181,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Default assumption.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -187,7 +199,7 @@
       {
         "id": "aca6307e70cdfa79",
         "type": "tabs",
-        "dimension": 44.018691588785046,
+        "dimension": 44.01869158878505,
         "children": [
           {
             "id": "d8a4a9680b239d40",
@@ -195,7 +207,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Default assumption.md",
+                "file": "conflict-files-obsidian-git.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -240,44 +252,44 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "179bbc48dd203b94",
+  "active": "acf8568373da718b",
   "lastOpenFiles": [
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Naive Bayes.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Default assumption.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Document representation.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Naive Bayes Classifier.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Bayes Classifier.md",
-    "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week10/The vector space model.md",
-    "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week10/Inverse Document Frequency (idf).md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Bayes rule.md",
-    "@images/Pasted image 20240501232848.png",
-    "@images/Pasted image 20240501232035.png",
-    "2024 Semester 1/ACCTG151G - Financial Literacy/depository receipts.md",
-    "2024 Semester 1/ACCTG151G - Financial Literacy/debt instruments.md",
-    "2024 Semester 1/ACCTG151G - Financial Literacy/The risk-return relationship.md",
-    "2024 Semester 1/ACCTG151G - Financial Literacy/Speculating.md",
-    "2024 Semester 1/ACCTG151G - Financial Literacy/Preference shares & Convertible Bonds.md",
-    "2024 Semester 1/ACCTG151G - Financial Literacy/Ordinary Shares (or Common Stock).md",
-    "2024 Semester 1/ACCTG151G - Financial Literacy/New Zealand Share Market.md",
-    "2024 Semester 1/ACCTG151G - Financial Literacy/Managed funds.md",
-    "2024 Semester 1/ACCTG151G - Financial Literacy/Investing.md",
-    "2024 Semester 1/ACCTG151G - Financial Literacy/Exchange Traded Funds (ETF).md",
-    "2024 Semester 1/ACCTG151G - Financial Literacy/Commodities.md",
-    "2024 Semester 1/ACCTG151G - Financial Literacy/Bonds or Debentures (Government or Company).md",
-    "2024 Semester 1/ACCTG151G - Financial Literacy/Bank deposits.md",
-    "@images/Pasted image 20240502162930.png",
-    "@images/Pasted image 20240502162534.png",
-    "@images/Pasted image 20240502162517.png",
-    "@images/Pasted image 20240502162459.png",
-    "@images/Pasted image 20240502161845.png",
-    "@images/Pasted image 20240502161610.png",
-    "@images/Pasted image 20240502161551.png",
-    "@images/Pasted image 20240502161542.png",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/conditionally independent.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Decision Tree(s).md",
-    "2024 Semester 1/ACCTG151G - Financial Literacy/Present Value (PV) Interest Factor of an Annuity.md",
-    "2024 Semester 1/ACCTG151G - Financial Literacy/FORMULA TABLE.md",
-    "2024 Semester 1/ACCTG151G - Financial Literacy/ordinary annuity.md",
+    "conflict-files-obsidian-git.md",
+    "@images/Pasted image 20240513030710.png",
+    "@images/Pasted image 20240513030702.png",
+    "@images/Pasted image 20240513030657.png",
+    "@images/Pasted image 20240513030649.png",
+    "@images/Pasted image 20240513030642.png",
+    "@images/Pasted image 20240513030636.png",
+    "@images/Pasted image 20240513030607.png",
+    "@images/Pasted image 20240513030557.png",
+    "@images/Pasted image 20240513030313.png",
+    "@images/Pasted image 20240513025411.png",
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/virtualization.md",
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/thread(s).md",
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/process.md",
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/physical server.md",
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/persistence.md",
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/path of execution.md",
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/parallelism.md",
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/instance(s).md",
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/instance type(s).md",
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/clock.md",
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/buses.md",
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/block-level storage.md",
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Virtual Private Gateway (VGW).md",
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Virtual Central Processing Unit (vCPU).md",
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Storage optimized.md",
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Socket.md",
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Registers.md",
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Previous generation.md",
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Physical Core.md",
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Network Address Translation (NAT).md",
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Nesting ArchiMate.md",
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Memory.md",
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Memory optimized.md",
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Logical Core.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Untitled",
     "2024 Semester 1",
     "2023 Semester 2",

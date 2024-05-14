@@ -1,0 +1,2 @@
+- or NAT instance
+- how IP addresses for cloud servers communicate with the internet. 
