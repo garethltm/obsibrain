@@ -10,6 +10,7 @@ Data are not always available
 5. Data history or changes of the data not recorded (Forget to update data)
 ## [[Incomplete (Missing) Data]] may need to be inferred
 - Some algorithms cannot handle those values $\rightarrow$ [[Linear Regression]] requires all values to be present
+
 #compsci361questions 
 ## What to consider when handling [[Incomplete (Missing) Data]]?
 1. [[Missing completely at random (MCAR)]]
