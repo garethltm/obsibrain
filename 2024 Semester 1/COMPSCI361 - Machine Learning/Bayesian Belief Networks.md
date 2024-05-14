@@ -5,4 +5,5 @@
 - a set of directed edges between the nodes, each edge represents the direction of influence among random variables
 - a directed, acyclic graph (no cycles) - No loops
 - A [[conditional probability]] distribution for each node given its parent nodes:
-	- P
+	- $P(X_i|Parents(X_i))$
+- Conditional distribution represented as a [[Conditiona]]
