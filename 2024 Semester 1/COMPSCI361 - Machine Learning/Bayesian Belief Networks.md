@@ -20,4 +20,5 @@
 		- $X_2$ has no ancestors/parents, but $X_2$ is ancestor of $X_3,X_4$ and $X_5$
 		- [[2024 Semester 1/COMPSCI361 - Machine Learning/Local Markov property|Local Markov property]]
 2. Gives a specification of the joint probability distribution
-	- If we label the nodes such that $X_i$ is an ancestor 
+	- If we label the nodes such that $X_i$ is an ancestor of $X_j$ only if $i < j$ , the joint probability can be factorized chain rule of [[2024 Semester 1/COMPSCI361 - Machine Learning/Probability|Probability]] and [[2024 Semester 1/COMPSCI361 - Machine Learning/Local Markov property|Local Markov property]] as:
+	- 
