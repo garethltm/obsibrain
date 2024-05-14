@@ -19,7 +19,7 @@ Final prediction: weighted vote of individual [[classifier(s)]] predictions
 giving these examples that are wrong with higher weightage to allow the [[classifier(s)]] to pay more attention to
 - in a way it is still sort of [[overfit(ting)]] in some way - getting better on the [[training data]]
 
-## Are [[Decision Stumps]] a good base [[classifier(s)]]?
+#compsci361questions Are [[Decision Stumps]] a good base [[classifier(s)]]?
 - They tend not to [[overfit(ting)]] (usually underfit)
 - Easy to get > 50% weighted [[accuracy]] (because it is just a [[Decision Stumps]] - 2 decisions)
 
