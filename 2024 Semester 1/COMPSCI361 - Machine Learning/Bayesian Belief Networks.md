@@ -6,4 +6,7 @@
 - a directed, acyclic graph (no cycles) - No loops
 - A [[conditional probability]] distribution for each node given its parent nodes:
 	- $P(X_i|Parents(X_i))$
-- Conditional distribution represented as a [[Conditiona]]
+- Conditional distribution represented as a [[Conditional Probability Table (CPT)]] giving the distribution of $X_i$ for each combination of parent values
+## Variable Relationships
+- a graphical model of relationships
+	- Encodes dependencies among the variables (can be causal dependencies)
