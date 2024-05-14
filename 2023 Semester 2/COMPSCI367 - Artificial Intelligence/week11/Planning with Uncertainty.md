@@ -10,5 +10,5 @@
 
 Thus the need to reason about [[uncertainty]] using tools like:
 1. [[Probability Theory]]: quantifying [[uncertainty]] & calculating expectations
-2. [[Bayesian Networks]]: reason about [[2023 Semester 2/COMPSCI367 - Artificial Intelligence/week09/Probability]] outcomes with imperfect information
+2. [[2023 Semester 2/COMPSCI367 - Artificial Intelligence/week11/Bayesian Networks]]: reason about [[2023 Semester 2/COMPSCI367 - Artificial Intelligence/week09/Probability]] outcomes with imperfect information
 3. [[Utility theory]]

@@ -1,7 +1,7 @@
 A [[Structured Representation]] which represents [[2023 Semester 2/INFOSYS222 - Database Systems/Dependency]] relations among (decision & random variables)
 	- reflecting everything in a graph
 
-An extension of a [[Bayesian Networks]] with 3 nodes:
+An extension of a [[2023 Semester 2/COMPSCI367 - Artificial Intelligence/week11/Bayesian Networks]] with 3 nodes:
 1. [[Decision nodes]]
 2. [[Chance nodes]]
 3. A single [[utility]] node, represents the [[utility]]
