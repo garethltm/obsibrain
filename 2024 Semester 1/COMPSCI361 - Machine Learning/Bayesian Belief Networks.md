@@ -1,0 +1,1 @@
+- a simple, graphical notation for [[conditionally independent]] assertions 
