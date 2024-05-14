@@ -61,4 +61,6 @@ $$
 #compsci361questions 
 Are [[Naive Bayes Classifier]] affected/robust to:
 - isolated noise example?
-	- class labels are diff
+	- class labels are different, features same (you should not rely on a single instance $\rightarrow$ [[Bayesian Learning]] fixes)
+- irrelevant attributes?
+	- doesn't influence as much
