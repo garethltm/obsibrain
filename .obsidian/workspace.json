@@ -4,35 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "fd27078af632ae27",
+        "id": "d6b861fd8539db07",
         "type": "tabs",
         "children": [
           {
-            "id": "1978eec726cb311e",
+            "id": "07ecdafdf8aac3a0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Naive Bayes.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "179bbc48dd203b94",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/deliverable.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -100,7 +83,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/deliverable.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +99,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/deliverable.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,9 +120,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/deliverable.md"
-              }
+              "state": {}
             }
           },
           {
@@ -169,9 +148,7 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/deliverable.md"
-              }
+              "state": {}
             }
           },
           {
@@ -196,7 +173,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/deliverable.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -241,8 +217,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "179bbc48dd203b94",
+  "active": "07ecdafdf8aac3a0",
   "lastOpenFiles": [
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Naive Bayes.md",
+    "2023 Semester 2/INFOSYS222 - Database Systems/Data Warehouse.md",
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/deliverable.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Cloud Networking Architecture.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/building block(s).md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/artifact(s).md",
@@ -276,9 +255,6 @@
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/clock.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/buses.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/block-level storage.md",
-    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Virtual Private Gateway (VGW).md",
-    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Virtual Central Processing Unit (vCPU).md",
-    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Storage optimized.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Untitled",
     "2024 Semester 1",
     "2023 Semester 2",
