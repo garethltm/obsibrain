@@ -11,4 +11,4 @@ $$
 - we need to estimate $n* |X|*|C|+|C|$ probability terms
 - Even for simple use cases this is prohibitively large
 	- #compsci361example  about 10 million terms for $|X| = 5000$, $|C|=2$, $n=100$ where $n$ is the length of text
-- 
+

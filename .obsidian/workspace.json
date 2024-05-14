@@ -91,7 +91,7 @@
       {
         "id": "5a69fa8a943ea5f0",
         "type": "tabs",
-        "dimension": 55.98130841121496,
+        "dimension": 55.981308411214954,
         "children": [
           {
             "id": "db6754d77108e140",
@@ -237,8 +237,7 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "obsidian-spaced-repetition:Review flashcards": false
+      "command-palette:Open command palette": false
     }
   },
   "active": "179bbc48dd203b94",
