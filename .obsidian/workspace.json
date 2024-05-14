@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Filters.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Incomplete (Missing) Data.md",
                 "mode": "source",
                 "source": false
               }
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Filters.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Incomplete (Missing) Data.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Filters.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Incomplete (Missing) Data.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Filters.md"
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Incomplete (Missing) Data.md"
               }
             }
           },
@@ -157,7 +157,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Filters.md"
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Incomplete (Missing) Data.md"
               }
             }
           },
@@ -183,7 +183,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Filters.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Incomplete (Missing) Data.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -231,6 +231,12 @@
   },
   "active": "133b72faec2ce5a4",
   "lastOpenFiles": [
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Imputation.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Imbalanced Data.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Hypothesis Space.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Heuristic Search in Attribute Selection.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Golden Rule of Machine Learning.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Filters.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Estimate Confidence Intervals.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Error.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Ensemble(s).md",
@@ -251,12 +257,6 @@
     "2024 Semester 1/COMPSCI361 - Machine Learning/Boosted Regression Trees - Training.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Boosted Regression Trees - Prediction.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Binning.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Big Data.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/bias-variance decomposition.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Best Machine Learning Model.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Bayesian Learning.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Bayes Theorem.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Bayes Classifier.md",
     "@images/Pasted image 20240514231749.png",
     "@images/Pasted image 20240513030710.png",
     "@images/Pasted image 20240513030702.png",
