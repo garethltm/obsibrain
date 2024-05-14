@@ -204,7 +204,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 347.5
+    "width": 347.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -216,7 +217,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3ad179677b7fba41",
+  "active": "0f8e0230b587650a",
   "lastOpenFiles": [
     "2024 Semester 1/COMPSCI361 - Machine Learning/Naive Bayes.md",
     "2023 Semester 2/INFOSYS222 - Database Systems/Data Warehouse.md",
