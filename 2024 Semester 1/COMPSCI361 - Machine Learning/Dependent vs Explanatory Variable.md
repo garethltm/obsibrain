@@ -17,7 +17,7 @@ Not that we're doing [[Supervised Learning]]
 - use words like correlated, predict,..
 - NOT leads to
 
-#qiHow do we predict that?
+#compsci361questions How do we predict that?
 - Transforming it into a [[classification]] problem
 	- numeric values $\rightarrow$ categorical values
 [[Handling Numerical Labels]]

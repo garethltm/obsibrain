@@ -3,6 +3,8 @@ separate attribute selection from [[classifier(s)]] learning
 ## The [[Correlation analysis]] method & [[Relief]] are [[Filters]]:
 - Use particular metrics #compsci361example [[Pearson's correlation coefficient]], [[chi-squared test]] (so that it is completely independent) to score each feature & select top-scoring attributes before learning commences
 - Fast & no bias towards any learning algorithm
-## Doesn't detect
+
+#compsci361questions 
+## What it doesn't detect
 - redundant attributes
 - dependencies between attributes

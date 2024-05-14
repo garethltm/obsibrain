@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Dependent vs Explanatory Variable.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Filters.md",
                 "mode": "source",
                 "source": false
               }
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Dependent vs Explanatory Variable.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Filters.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Dependent vs Explanatory Variable.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Filters.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Dependent vs Explanatory Variable.md"
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Filters.md"
               }
             }
           },
@@ -157,7 +157,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Dependent vs Explanatory Variable.md"
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Filters.md"
               }
             }
           },
@@ -183,7 +183,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Dependent vs Explanatory Variable.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Filters.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -231,8 +231,13 @@
   },
   "active": "133b72faec2ce5a4",
   "lastOpenFiles": [
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Estimate Confidence Intervals.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Error.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Ensemble(s).md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Document representation.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Discretization.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Dependent Variable.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Dependent vs Explanatory Variable.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Default assumption.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Decision Tree(s).md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Decision Tree Pruning.md",
@@ -252,11 +257,6 @@
     "2024 Semester 1/COMPSCI361 - Machine Learning/Bayesian Learning.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Bayes Theorem.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Bayes Classifier.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Bagging.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Averaging.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Attribute (Feature) selection.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Additional assumption.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/AdaBoost.md",
     "@images/Pasted image 20240514231749.png",
     "@images/Pasted image 20240513030710.png",
     "@images/Pasted image 20240513030702.png",
