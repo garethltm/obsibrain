@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Best Machine Learning Model.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Clustering.md",
                 "mode": "source",
                 "source": false
               }
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Best Machine Learning Model.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Clustering.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Best Machine Learning Model.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Clustering.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Best Machine Learning Model.md"
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Clustering.md"
               }
             }
           },
@@ -157,7 +157,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Best Machine Learning Model.md"
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Clustering.md"
               }
             }
           },
@@ -183,7 +183,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Best Machine Learning Model.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Clustering.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -231,6 +231,14 @@
   },
   "active": "133b72faec2ce5a4",
   "lastOpenFiles": [
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Cluster-Based Oversampling.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Bootstrapping.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Boosted Regression Trees - Training.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Boosted Regression Trees - Prediction.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Binning.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Big Data.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/bias-variance decomposition.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Best Machine Learning Model.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Bayesian Learning.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Bayes Theorem.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Bayes Classifier.md",
@@ -258,15 +266,7 @@
     "@images/Pasted image 20240513030636.png",
     "@images/Pasted image 20240513030607.png",
     "@images/Pasted image 20240513030557.png",
-    "2024 Semester 1/INFOSYS303 - Solutions Architecture/ArchiMate Core Framework.md",
-    "2024 Semester 1/INFOSYS303 - Solutions Architecture/ArchiMate Enterprise Architecture.md",
-    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Instance storage.md",
     "@images/Pasted image 20240513030313.png",
-    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Amazon S3.md",
-    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Amazon EFS.md",
-    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Instance store.md",
-    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Amazon EBS.md",
-    "2024 Semester 1/INFOSYS303 - Solutions Architecture/persistence.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Untitled",
     "2024 Semester 1",
     "2023 Semester 2",
