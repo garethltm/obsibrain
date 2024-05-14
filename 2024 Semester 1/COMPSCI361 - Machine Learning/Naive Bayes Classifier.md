@@ -72,4 +72,4 @@ Are [[Naive Bayes Classifier]] affected/robust to:
 	- can be an issue if they are supposed to be a combined instance
 	- #compsci361example 'Machine' 'Learning' $\ne$ 'Machine Learning'
 ## Summary
-- [[Bayes Classifier]] 
+- [[Naive Bayes]]
