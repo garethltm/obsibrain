@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/AdaBoost.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Best Machine Learning Model.md",
                 "mode": "source",
                 "source": false
               }
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/AdaBoost.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Best Machine Learning Model.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/AdaBoost.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Best Machine Learning Model.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/AdaBoost.md"
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Best Machine Learning Model.md"
               }
             }
           },
@@ -157,7 +157,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/AdaBoost.md"
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Best Machine Learning Model.md"
               }
             }
           },
@@ -183,7 +183,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/AdaBoost.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Best Machine Learning Model.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -231,13 +231,21 @@
   },
   "active": "133b72faec2ce5a4",
   "lastOpenFiles": [
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Bayesian Learning.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Bayes Theorem.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Bayes Classifier.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Bagging.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Averaging.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Attribute (Feature) selection.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Additional assumption.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/AdaBoost.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Accuracy.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Naive Bayes Classifier.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Estimating Probabilities - Laplace Smoothing.md",
     "@images/Pasted image 20240514231749.png",
     "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week10/Laplace smoothing (add-one smoothing).md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Expectation Maximization (EM) Imputation.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Estimate Confidence Intervals.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Additional assumption.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Naive Bayes.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Default assumption.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/k-nearest neighbour (KNN).md",
@@ -259,13 +267,6 @@
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Instance store.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Amazon EBS.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/persistence.md",
-    "2024 Semester 1/INFOSYS303 - Solutions Architecture/block-level storage.md",
-    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Amazon Machine Image (AMI).md",
-    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Amazon Elastic Container Service (Amazon ECS).md",
-    "2024 Semester 1/INFOSYS303 - Solutions Architecture/instance type(s).md",
-    "2024 Semester 1/INFOSYS303 - Solutions Architecture/General purpose.md",
-    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Burstable performance.md",
-    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Compute optimized.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Untitled",
     "2024 Semester 1",
     "2023 Semester 2",
