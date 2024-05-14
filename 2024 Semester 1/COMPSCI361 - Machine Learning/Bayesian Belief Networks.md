@@ -19,3 +19,4 @@
 			- $X_2$ is the parent of $X_4$
 			- $X_2$ has no ancestors/parents, but $X_2$ is ancestor of $X_3,X_4$ and $X_5$
 		- [[2024 Semester 1/COMPSCI361 - Machine Learning/Local Markov property|Local Markov property]]
+			- 
