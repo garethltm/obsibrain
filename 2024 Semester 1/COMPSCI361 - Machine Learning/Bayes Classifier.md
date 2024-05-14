@@ -1,4 +1,4 @@
-- can learn some target function $f:X\ri
+- can learn some target function $f:X\rightarrow Y$, or equivalently, $P(Y|X)$ by using the [[training data]] to learn estimates of $P(X|Y)$ and $P(Y)$
 
 ## Bayes Optimal Classifier
 #### What is the most probable [[classification]] of a new instance given the [[training data]]?
