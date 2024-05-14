@@ -2,7 +2,8 @@
 - New $X$ examples can then be classified using these estimated probability distributions, plus [[2024 Semester 1/COMPSCI361 - Machine Learning/Bayes Theorem|Bayes Theorem]]
 ## Issue
 - Typically requires an unrealistic number of training examples #compsci361example  more than the number of possible instances defined on the input (attribute) space
-
+## Solution
+- [[Naive Bayes Classifier]]
 ## Bayes Optimal Classifier
 #### What is the most probable [[classification]] of a new instance given the [[training data]]?
 Simply adding [[Maximum A Posteriori (MAP) Hypothesis]] ($h\tiny {MAP}$)
