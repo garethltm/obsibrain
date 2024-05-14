@@ -1,4 +1,4 @@
-
+- can learn some target function $f:X\ri
 
 ## Bayes Optimal Classifier
 #### What is the most probable [[classification]] of a new instance given the [[training data]]?
