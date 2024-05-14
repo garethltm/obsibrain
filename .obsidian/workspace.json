@@ -61,8 +61,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -217,7 +216,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "07ecdafdf8aac3a0",
+  "active": "3ad179677b7fba41",
   "lastOpenFiles": [
     "2024 Semester 1/COMPSCI361 - Machine Learning/Naive Bayes.md",
     "2023 Semester 2/INFOSYS222 - Database Systems/Data Warehouse.md",
