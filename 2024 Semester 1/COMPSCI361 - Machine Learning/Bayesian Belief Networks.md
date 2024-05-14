@@ -9,14 +9,15 @@
 - Conditional distribution represented as a [[Conditional Probability Table (CPT)]] giving the distribution of $X_i$ for each combination of parent values
 ## Variable Relationships
 - a graphical model of relationships
-	- Encodes dependencies among the variables (can be causal dependencies)
-		- $X$ is a parent of $Y$, if there is a directed edge from $X$ to $Y$
-		- $X$ is an ancestor of $Y$ 
-		- $Y$ is a descendant of $X$ 
-			- if there is a directed path in the graph from $X$ to $Y$
-			- #compsci361example ![[Pasted image 20240514235056.png]]
-			- $X_1, X_2$ are parents of $X_3$
-			- $X_2$ is the parent of $X_4$
-			- $X_2$ has no ancestors/parents, but $X_2$ is ancestor of $X_3,X_4$ and $X_5$
+1. Encodes dependencies among the variables (can be causal dependencies)
+	- $X$ is a parent of $Y$, if there is a directed edge from $X$ to $Y$
+	- $X$ is an ancestor of $Y$ 
+	- $Y$ is a descendant of $X$ 
+		- if there is a directed path in the graph from $X$ to $Y$
+		- #compsci361example ![[Pasted image 20240514235056.png]]
+		- $X_1, X_2$ are parents of $X_3$
+		- $X_2$ is the parent of $X_4$
+		- $X_2$ has no ancestors/parents, but $X_2$ is ancestor of $X_3,X_4$ and $X_5$
 		- [[2024 Semester 1/COMPSCI361 - Machine Learning/Local Markov property|Local Markov property]]
-	- Given
+2. Gives a specification of the joint probability distribution
+	- If we label the nodes such that $X_i$ is an ancestor 
