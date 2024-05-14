@@ -17,5 +17,4 @@
 			- #compsci361example ![[Pasted image 20240514235056.png]]
 			- $X_1, X_2$ are parents of $X_3$
 			- $X_2$ is the parent of $X_4$
-			- $X_2
-			- ![[Pasted image 20240514235056.png]]
+			- $X_2$ has no ancestors/parents, but $X_2$ is ancestor of $X_3,X_4$ and $X_R
