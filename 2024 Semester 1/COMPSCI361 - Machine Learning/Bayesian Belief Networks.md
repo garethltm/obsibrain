@@ -14,4 +14,5 @@
 		- $X$ is an ancestor of $Y$ 
 		- $Y$ is a descendant of $X$ 
 			- if there is a directed path in the graph from $X$ to $Y$
-			- 
+			- #compsci361example $X_1, X_2 are parents of X_3 and X_2 is the parent of X_4
+			- ![[Pasted image 20240514235056.png]]
