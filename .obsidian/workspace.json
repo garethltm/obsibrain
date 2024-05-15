@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "9b68f92077740cc8",
+        "id": "fb1791fc12f3b4a1",
         "type": "tabs",
         "children": [
           {
-            "id": "61ac6c220e723e82",
+            "id": "bd470c4a850a9568",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Bayes Classifier.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -69,8 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 276.5,
-    "collapsed": true
+    "width": 276.5
   },
   "right": {
     "id": "29204b37fc003a9a",
@@ -228,7 +223,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "61ac6c220e723e82",
+  "active": "3ad179677b7fba41",
   "lastOpenFiles": [
     "2024 Semester 1/COMPSCI361 - Machine Learning/Bayes Optimal Classifier.md",
     "conflict-files-obsidian-git.md",
