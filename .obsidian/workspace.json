@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Clustering.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Principal Components Analysis (PCA).md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Clustering.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Principal Components Analysis (PCA).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Clustering.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Principal Components Analysis (PCA).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Clustering.md"
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Principal Components Analysis (PCA).md"
               }
             }
           },
@@ -156,7 +156,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Clustering.md"
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Principal Components Analysis (PCA).md"
               }
             }
           },
@@ -182,7 +182,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Clustering.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Principal Components Analysis (PCA).md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -230,8 +230,8 @@
   },
   "active": "00ed23acbcf627e3",
   "lastOpenFiles": [
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Cluster(s).md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Clustering.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Cluster(s).md",
     "@images/Pasted image 20240515164136.png",
     "@images/Pasted image 20240515164112.png",
     "@images/Pasted image 20240515164111.png",
