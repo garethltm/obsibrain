@@ -8,4 +8,4 @@ Given set of [[instance(s)]] & number of [[cluster(s)]] $k$ ([[hyperparameter(s)
 	- you now have more information
 4. go back to **step 2** & repeat until [[convergence]]
 	- recalculate the [[centroid]] of your [[cluster(s)]] & re-assign
-		- such that the some [[instance(s)]] are closer to ot
+		- such that the some [[instance(s)]] are closer to other [[centroid]]
