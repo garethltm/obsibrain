@@ -3,12 +3,11 @@
 	- Dissimilar (or unrelated) to objects in other groups
 - [[Clustering]] ([[Cluster(s)]] analysis, data segmentation,...)
 	- Finding similarities between data according to the characteristics found in the data & grouping similar data objects into [[Cluster(s)]]
+- the best [[Clustering]] is hard to defi
 ## Motivation
 #compsci361example Classifying Cancer Types
 - We collected gene expression data for 8 cancer patients, can you find the types of cancer in the data?![[Pasted image 20240515163716.png]]
 ## General idea
-- 2 data points that are similar are enclosed in a space - everything close is 1 cluster
-![[Pasted image 20240413224824.png]]
 ![[Pasted image 20240515164136.png]]
 ![[Pasted image 20240515164111.png]]
 - Input: set of [[instance(s)]] described by $d$ features
@@ -23,7 +22,8 @@
 
 #compsci361questions 
 ## What [[Clustering]] does
-- Detect and remove outliers
+- 2 data points that are similar are enclosed in a space - everything close is 1 cluster
+- Detect and remove outliers![[Pasted image 20240413224824.png]]
 ## Potential Problem
 1. Information loss
 2. There might be some outliers beyond the domain
