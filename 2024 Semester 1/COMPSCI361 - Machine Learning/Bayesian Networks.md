@@ -16,4 +16,6 @@
 2. [[Hidden Markov Model]]
 ## Inference
 - How can one infer the (probabilities of) values of 1 or more network variables, given observed values of others?
-- [[2024 Semester 1/COMPSCI361 - Machine Learning/Bayesian Networks|Bayesian Networks]] contan all information needed for
+- [[2024 Semester 1/COMPSCI361 - Machine Learning/Bayesian Networks|Bayesian Networks]] contain all information needed for this inference
+- If only one variable with unknown value ( #compsci361example target in classification ), easy to infer it
+	- #361
