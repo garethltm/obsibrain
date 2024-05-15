@@ -16,9 +16,9 @@
 	- What 'parts' are the $x_i$ made from?
 5. Data visualization
 	- What does the high-dimensional X look like?
-6. Ranking
+6. Ranking ([[Attribute (Feature) selection]])
 	- Which are the most important $x_i$?
-7. Clustering
+7. Clustering (what types of )
 	- What types of $x_i$ are there?
 
 ## Summary
