@@ -56,5 +56,6 @@
 1. Summarizing
 	- [[Preprocessing & Evaluation]] for [[Regression]], [[Principal Components Analysis (PCA)]], [[classification]] & association analysis
 2. Compression
-	- Image processing: color quantization (computer graphics) ( #)
+	- Image processing: color quantization (computer graphics) ( #compsci361example task of reducing the colour palette of an image to a fixed number of colours) - merging colour palettes
 3. Outlier detection
+	- Outliers are often viewed as those "far away" from any [[Cluster(s)]]
