@@ -19,4 +19,7 @@
 - [[2024 Semester 1/COMPSCI361 - Machine Learning/Bayesian Networks|Bayesian Networks]] contain all information needed for this [[inference(s)]]
 - If only one variable with unknown value ( #compsci361example target in classification ), easy to infer it
 	- #compsci361example [[Maximum A Posteriori (MAP) Hypothesis]]
-- In general case, the exact [[inference(s)]] is [[NP]]-hard ( #compsci361example a random approach is used - [[uninformed random walk]] ), approximations have been introduced ( #compsci361example Monte Carlo-based methods & variational [[inference(s)]]) - you find something sik
+	- If something isn't observed, we ca
+- In general case, the exact [[inference(s)]] is [[NP]]-hard ( #compsci361example a random approach is used - [[uninformed random walk]] ), approximations have been introduced ( #compsci361example Monte Carlo-based methods & variational [[inference(s)]]) - you find something similar & optimise
+- In cases, the structure will need to be learned from the [[training data]] as well
+	- typically using [[heuristic(s)]]
