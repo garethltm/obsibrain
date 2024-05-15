@@ -77,4 +77,4 @@ Are [[Naive Bayes Classifier]] affected/robust to:
 ## Summary
 - [[Naive Bayes]]
 - [[Naive Bayes Classifier]] a simple & fast method for [[classification]] that assumes attribute values are [[conditionally independent]] given the target value
-	- Particularly high dimensional/sparse spaces $\rightarrow$ simple methods are more useful because 
+	- Particularly high dimensional/sparse spaces $\rightarrow$ simple methods are more useful because the classes are more separated ([[Curse of dimensionality]])
