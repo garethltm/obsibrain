@@ -18,7 +18,11 @@
 - Biology
 	- taxonomy of living things: kingdom, phylum, class, order, family, genus & species
 - Information retrieval
-	- [[document]]
+	- document clustering
+- Land use
+	- Identification of areas of similar land use in an earth observation database
+- Marketing
+	- Help marketers discover distinct groups in their customer bases, & then use this knowledge to develop targeted marketing progra
 ## Motivation
 #compsci361example Classifying Cancer Types
 - We collected gene expression data for 8 cancer patients, can you find the types of cancer in the data?![[Pasted image 20240515163716.png]]
