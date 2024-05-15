@@ -56,4 +56,5 @@
 1. Summarizing
 	- [[Preprocessing & Evaluation]] for [[Regression]], [[Principal Components Analysis (PCA)]], [[classification]] & association analysis
 2. Compression
+	- Image processing: color quantization (computer graphics) ( #)
 3. Outlier detection
