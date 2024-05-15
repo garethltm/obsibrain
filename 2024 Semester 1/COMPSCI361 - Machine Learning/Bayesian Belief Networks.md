@@ -34,5 +34,10 @@
 			- $\prod_{i=1}^n P(X_i|\text{Parents}(X_i))$
 	- #compsci361example ![[Pasted image 20240515000058.png]]$P(X_1, X_2, X_3, X_4, X_5) = P(X_1)P(X_2)P(X_3|X_1,X_2)P(X_4|X_2)P(X_5|X_4)$
 
+#compsci361example ![[Pasted image 20240515161311.png]]
+### Joint probability
+![[Pasted image 20240515161341.png]]
+#compsci361example ![[Pasted image 20240515161404.png]]
+
 
 

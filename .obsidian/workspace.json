@@ -11,8 +11,12 @@
             "id": "177c0bb21a8c90e7",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -65,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 276.5,
-    "collapsed": true
+    "width": 276.5
   },
   "right": {
     "id": "29204b37fc003a9a",
@@ -83,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -120,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "conflict-files-obsidian-git.md"
+              }
             }
           },
           {
@@ -148,7 +155,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {}
+              "state": {
+                "file": "conflict-files-obsidian-git.md"
+              }
             }
           },
           {
@@ -173,6 +182,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "conflict-files-obsidian-git.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -220,11 +230,24 @@
   },
   "active": "177c0bb21a8c90e7",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "@images/Pasted image 20240515164136.png",
+    "@images/Pasted image 20240515164112.png",
+    "@images/Pasted image 20240515164111.png",
+    "@images/Pasted image 20240515164047.png",
+    "@images/Pasted image 20240515163716.png",
+    "@images/Pasted image 20240515161922.png",
+    "@images/Pasted image 20240515161532.png",
+    "@images/Pasted image 20240515161404.png",
+    "@images/Pasted image 20240515161341.png",
+    "@images/Pasted image 20240515161331.png",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/convergence.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/centroid.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Partitioning Algorithms.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Bayes Optimal Classifier.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Bayesian Networks.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Bayesian Belief Networks.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Local Markov property.md",
-    "@images/Pasted image 20240515000058.png",
-    "@images/Pasted image 20240514235056.png",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Naive Bayes Classifier.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Bayes Classifier.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Maximum A Posteriori (MAP) Hypothesis.md",
@@ -243,18 +266,6 @@
     "2024 Semester 1/COMPSCI361 - Machine Learning/Randomly over-sampling the minority class.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/random variables.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Random Tree(s).md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Random Forests.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/random events.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Probabilistic Classifiers.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Principal Components Analysis (PCA).md",
-    "@images/Pasted image 20240514231749.png",
-    "@images/Pasted image 20240513030710.png",
-    "@images/Pasted image 20240513030702.png",
-    "@images/Pasted image 20240513030657.png",
-    "@images/Pasted image 20240513030649.png",
-    "@images/Pasted image 20240513030642.png",
-    "@images/Pasted image 20240513030636.png",
-    "@images/Pasted image 20240513030607.png",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Untitled",
     "2024 Semester 1",
     "2023 Semester 2",

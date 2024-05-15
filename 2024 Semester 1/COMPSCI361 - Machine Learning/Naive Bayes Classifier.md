@@ -76,3 +76,5 @@ Are [[Naive Bayes Classifier]] affected/robust to:
 	- #compsci361example 'Machine' 'Learning' $\ne$ 'Machine Learning'
 ## Summary
 - [[Naive Bayes]]
+- [[Naive Bayes Classifier]] a simple & fast method for [[classification]] that assumes attribute values are [[conditionally independent]] given the target value
+	- Particularly high dimensional/sparse spaces $\rightarrow$ simple methods are more useful because the classes are more separated ([[Curse of dimensionality]])

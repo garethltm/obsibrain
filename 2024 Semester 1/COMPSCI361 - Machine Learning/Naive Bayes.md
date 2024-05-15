@@ -24,3 +24,5 @@ $$
 2. [[Additional assumption]]
 ## Summary
 - [[Naive Bayes]] allows you to learn a probabilistic function that maps the probability of seeing an example text is from a given class Y
+## Problem
+![[Pasted image 20240515161222.png]]
