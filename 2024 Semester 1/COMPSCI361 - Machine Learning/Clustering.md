@@ -22,7 +22,13 @@
 - Land use
 	- Identification of areas of similar land use in an earth observation database
 - Marketing
-	- Help marketers discover distinct groups in their customer bases, & then use this knowledge to develop targeted marketing progra
+	- Help marketers discover distinct groups in their customer bases, & then use this knowledge to develop targeted marketing programs
+- City-planning
+	- Identifying groups of houses according to their house type, value, & geographical location
+- Earth-quake studies
+	- Observed earth quake epicenters should be clustered along continent faults
+- Climate
+	- understan
 ## Motivation
 #compsci361example Classifying Cancer Types
 - We collected gene expression data for 8 cancer patients, can you find the types of cancer in the data?![[Pasted image 20240515163716.png]]
