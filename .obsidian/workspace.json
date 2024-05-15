@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Partitioning Algorithms.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Clustering.md",
                 "mode": "source",
                 "source": false
               }
@@ -243,9 +243,9 @@
   },
   "active": "395cce2ab891c1d0",
   "lastOpenFiles": [
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Clustering.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Partitioning Algorithms.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/The K-Means Algorithm.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Clustering.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Principal Components Analysis (PCA).md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Cluster(s).md",
     "@images/Pasted image 20240515164136.png",
