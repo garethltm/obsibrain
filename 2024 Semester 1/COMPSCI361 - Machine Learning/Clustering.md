@@ -9,7 +9,9 @@
 		- so there are lots of methods, we will focus on important/representative ones
 ## Typical Applications
 - You could want to know what the groups are
-- You could want to find the
+- You could want to find the group for a new example $x_i$
+- You could want to find examples related to a new example $x_i$
+- You could want 
 ## Motivation
 #compsci361example Classifying Cancer Types
 - We collected gene expression data for 8 cancer patients, can you find the types of cancer in the data?![[Pasted image 20240515163716.png]]
