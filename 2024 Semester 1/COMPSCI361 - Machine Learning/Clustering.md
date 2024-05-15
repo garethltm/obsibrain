@@ -1,5 +1,10 @@
 - 2 data points that are similar are enclosed in a space - everything close is 1 cluster
 ![[Pasted image 20240413224824.png]]
+## Idea
+- Input: set of [[instance(s)]] described by $d$ features
+- Output: an assignment of [[instance(s)]] to 'groups' (no target class)
+- Unlike [[classification]], we are not given the 'groups'
+	- Algorithm must 
 
 ## Motivation
 #compsci361example Classifying Cancer Types
