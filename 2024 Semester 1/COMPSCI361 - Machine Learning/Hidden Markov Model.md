@@ -5,3 +5,4 @@
 - Variables: 
 	- state $S_i$ (hidden)
 	- weather $W_i$ (observed)
+- Graph structure:![[Pasted image 20240515161922.png]]

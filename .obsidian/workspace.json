@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Bayesian Networks.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Hidden Markov Model.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Bayesian Networks.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Hidden Markov Model.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Bayesian Networks.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Hidden Markov Model.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Bayesian Networks.md"
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Hidden Markov Model.md"
               }
             }
           },
@@ -168,7 +168,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Bayesian Networks.md"
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Hidden Markov Model.md"
               }
             }
           },
@@ -194,7 +194,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Bayesian Networks.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Hidden Markov Model.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -242,8 +242,9 @@
   },
   "active": "00ed23acbcf627e3",
   "lastOpenFiles": [
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Hidden Markov Model.md",
+    "@images/Pasted image 20240515161922.png",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Bayesian Networks.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Hidden Markov Model.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Naive Bayes Classifier.md",
     "@images/Pasted image 20240515161532.png",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Bayesian Belief Networks.md",
@@ -277,7 +278,6 @@
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/process.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/physical server.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/persistence.md",
-    "2024 Semester 1/INFOSYS303 - Solutions Architecture/path of execution.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Untitled",
     "2024 Semester 1",
     "2023 Semester 2",
