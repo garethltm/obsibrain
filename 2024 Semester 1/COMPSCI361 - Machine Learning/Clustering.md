@@ -3,7 +3,10 @@
 	- Dissimilar (or unrelated) to objects in other groups
 - [[Clustering]] ([[Cluster(s)]] analysis, data segmentation,...)
 	- Finding similarities between data according to the characteristics found in the data & grouping similar data objects into [[Cluster(s)]]
-- the best [[Clustering]] is hard to defi
+- the best [[Clustering]] is hard to define (because there is no ground truth)
+	- We don't have a [[test error]]
+	- Generally, there is no best method in [[Supervised Learning]] (you want to discover something)
+		- so there are lots of meh
 ## Motivation
 #compsci361example Classifying Cancer Types
 - We collected gene expression data for 8 cancer patients, can you find the types of cancer in the data?![[Pasted image 20240515163716.png]]
