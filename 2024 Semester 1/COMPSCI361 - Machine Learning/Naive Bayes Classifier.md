@@ -76,3 +76,4 @@ Are [[Naive Bayes Classifier]] affected/robust to:
 	- #compsci361example 'Machine' 'Learning' $\ne$ 'Machine Learning'
 ## Summary
 - [[Naive Bayes]]
+## Application
