@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Naive Bayes Classifier.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Bayesian Networks.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Naive Bayes Classifier.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Bayesian Networks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Naive Bayes Classifier.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Bayesian Networks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Naive Bayes Classifier.md"
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Bayesian Networks.md"
               }
             }
           },
@@ -156,7 +156,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Naive Bayes Classifier.md"
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Bayesian Networks.md"
               }
             }
           },
@@ -182,7 +182,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Naive Bayes Classifier.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Bayesian Networks.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -230,6 +230,7 @@
   },
   "active": "00ed23acbcf627e3",
   "lastOpenFiles": [
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Naive Bayes Classifier.md",
     "@images/Pasted image 20240515161532.png",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Bayesian Belief Networks.md",
     "@images/Pasted image 20240515161404.png",
@@ -238,7 +239,6 @@
     "@images/Pasted image 20240515161311.png",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Naive Bayes.md",
     "@images/Pasted image 20240515161222.png",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Naive Bayes Classifier.md",
     "2023 Semester 2/COMPSCI235 - Software Development Methodologies/Architectural Pattern.md",
     "@images/Pasted image 20240515000058.png",
     "@images/Pasted image 20240514235056.png",
@@ -259,7 +259,6 @@
     "2024 Semester 1/COMPSCI361 - Machine Learning/Default assumption.md",
     "conflict-files-obsidian-git.md",
     "@images/Pasted image 20240513030710.png",
-    "@images/Pasted image 20240513030702.png",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/virtualization.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/thread(s).md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/process.md",

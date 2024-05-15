@@ -7,3 +7,8 @@
 	- because they assume that a word appearing in 1 position of a text is completely unrelated to the word that appears in a different position
 		- some structure is needed in order for a word to make sense in English
 - but it's intractable without such assumptions
+## Application
+1. [[Naive Bayes Classifier]] is actually a special case of [[2024 Semester 1/COMPSCI361 - Machine Learning/Bayesian Networks|Bayesian Networks]]
+	- Variables: features $X_i$, class $Y_i$
+	- Graph structure:![[Pasted image 20240515161532.png]]
+2. [[hidden]]
