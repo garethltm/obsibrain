@@ -1,8 +1,8 @@
-- [[Cluster(s)]]
+- [[cluster(s)]]
 	- Similar (or related) to one another within the same group (same labels)
 	- Dissimilar (or unrelated) to objects in other groups
-- [[Clustering]] ([[Cluster(s)]] analysis, data segmentation,...)
-	- Finding similarities between data according to the characteristics found in the data & grouping similar data objects into [[Cluster(s)]]
+- [[Clustering]] ([[cluster(s)]] analysis, data segmentation,...)
+	- Finding similarities between data according to the characteristics found in the data & grouping similar data objects into [[cluster(s)]]
 - the best [[Clustering]] is hard to define (because there is no ground truth)
 	- We don't have a [[test error]]
 	- Generally, there is no best method in [[Supervised Learning]] (you want to discover something)
@@ -58,4 +58,4 @@
 2. Compression
 	- Image processing: colour quantization (computer graphics) ( #compsci361example task of reducing the colour palette of an image to a fixed number of colours) - merging colour palettes
 3. Outlier detection
-	- Outliers are often viewed as those "far away" from any [[Cluster(s)]]
+	- Outliers are often viewed as those "far away" from any [[cluster(s)]]

@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Clustering.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "395cce2ab891c1d0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/centroid.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/K-Means Algorithm.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -99,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/centroid.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/K-Means Algorithm.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/centroid.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/K-Means Algorithm.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/centroid.md"
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/K-Means Algorithm.md"
               }
             }
           },
@@ -169,7 +156,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/centroid.md"
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/K-Means Algorithm.md"
               }
             }
           },
@@ -195,7 +182,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/centroid.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/K-Means Algorithm.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -241,14 +228,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "395cce2ab891c1d0",
+  "active": "00ed23acbcf627e3",
   "lastOpenFiles": [
-    "2024 Semester 1/COMPSCI361 - Machine Learning/The K-Means Algorithm.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/centroid.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Clustering.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/cluster(s).md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/K-Means Algorithm.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Partitioning Algorithms.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Clustering.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/centroid.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Principal Components Analysis (PCA).md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Cluster(s).md",
     "@images/Pasted image 20240515164136.png",
     "@images/Pasted image 20240515164112.png",
     "@images/Pasted image 20240515164111.png",
