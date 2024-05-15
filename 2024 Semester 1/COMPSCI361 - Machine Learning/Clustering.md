@@ -14,6 +14,11 @@
 	- give examples that are closely related
 - You could want a prototype example for each group
 	- give the most representative example for that group
+## Applications - Data Understanding
+- Biology
+	- taxonomy of living things: kingdom, phylum, class, order, family, genus & species
+- Information retrieval
+	- [[document]]
 ## Motivation
 #compsci361example Classifying Cancer Types
 - We collected gene expression data for 8 cancer patients, can you find the types of cancer in the data?![[Pasted image 20240515163716.png]]
