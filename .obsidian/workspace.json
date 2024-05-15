@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "02c406d0ee0e4b15",
+        "id": "d6b861fd8539db07",
         "type": "tabs",
         "children": [
           {
-            "id": "133b72faec2ce5a4",
+            "id": "07ecdafdf8aac3a0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Bayesian Networks.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f87467bd8f9b0728",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Bayesian Belief Networks.md",
+                "file": "2023 Semester 2/COMPSCI235 - Software Development Methodologies/Architectural Pattern.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -61,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "architecture",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -82,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 276.5,
-    "collapsed": true
+    "width": 276.5
   },
   "right": {
     "id": "29204b37fc003a9a",
@@ -100,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Bayesian Belief Networks.md",
+                "file": "2023 Semester 2/COMPSCI235 - Software Development Methodologies/Architectural Pattern.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Bayesian Belief Networks.md",
+                "file": "2023 Semester 2/COMPSCI235 - Software Development Methodologies/Architectural Pattern.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Bayesian Belief Networks.md"
+                "file": "2023 Semester 2/COMPSCI235 - Software Development Methodologies/Architectural Pattern.md"
               }
             }
           },
@@ -170,7 +156,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Bayesian Belief Networks.md"
+                "file": "2023 Semester 2/COMPSCI235 - Software Development Methodologies/Architectural Pattern.md"
               }
             }
           },
@@ -196,7 +182,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Bayesian Belief Networks.md",
+                "file": "2023 Semester 2/COMPSCI235 - Software Development Methodologies/Architectural Pattern.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -219,7 +205,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.6380169077455764,
+                  "scale": 1.254057990250493,
                   "close": true
                 }
               }
@@ -242,36 +228,29 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f87467bd8f9b0728",
+  "active": "3ad179677b7fba41",
   "lastOpenFiles": [
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Local Markov property.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Bayesian Belief Networks.md",
     "@images/Pasted image 20240515000058.png",
     "@images/Pasted image 20240514235056.png",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Bayesian Networks.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Naive Bayes Classifier.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Bayes Classifier.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Maximum A Posteriori (MAP) Hypothesis.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Bagging.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Naive Bayes.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/XGBoost Discussion.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Validation Error.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Unsupervised Learning.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Supervised Learning.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Spam Filtering.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/ROC Curves.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/SMOTE (Synthetic Minority Oversampling Technique).md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Relief.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Regularized Regression Trees.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Regression Trees.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Randomly over-sampling the minority class.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/random variables.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Random Tree(s).md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Random Forests.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/random events.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Probabilistic Classifiers.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Principal Components Analysis (PCA).md",
     "@images/Pasted image 20240514231749.png",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Local Markov property.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Estimating Probabilities - Laplace Smoothing.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Bayesian Networks.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Bayesian Belief Networks.md",
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/ArchiMate Core Framework.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Naive Bayes.md",
+    "2023 Semester 2/INFOSYS222 - Database Systems/Data Warehouse.md",
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/deliverable.md",
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Cloud Networking Architecture.md",
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/building block(s).md",
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/artifact(s).md",
+    "2023 Semester 2/COMPSCI235 - Software Development Methodologies/Architectural Pattern.md",
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/ArchiMate Enterprise Architecture.md",
+    "2023 Semester 2/COMPSCI235 - Software Development Methodologies/AGILE.md",
+    "2023 Semester 2/COMPSCI235 - Software Development Methodologies/Application Architecture.md",
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/ArchiMate.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Default assumption.md",
+    "conflict-files-obsidian-git.md",
     "@images/Pasted image 20240513030710.png",
     "@images/Pasted image 20240513030702.png",
     "@images/Pasted image 20240513030657.png",
@@ -279,6 +258,14 @@
     "@images/Pasted image 20240513030642.png",
     "@images/Pasted image 20240513030636.png",
     "@images/Pasted image 20240513030607.png",
+    "@images/Pasted image 20240513030557.png",
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/virtualization.md",
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/thread(s).md",
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/process.md",
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/physical server.md",
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/persistence.md",
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/path of execution.md",
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/parallelism.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Untitled",
     "2024 Semester 1",
     "2023 Semester 2",
