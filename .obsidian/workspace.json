@@ -4,35 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "02c406d0ee0e4b15",
+        "id": "0c653dc9d3f16f27",
         "type": "tabs",
         "children": [
           {
-            "id": "133b72faec2ce5a4",
+            "id": "177c0bb21a8c90e7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Bayesian Networks.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f87467bd8f9b0728",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Bayesian Belief Networks.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -100,7 +83,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Bayesian Belief Networks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +99,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Bayesian Belief Networks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,9 +120,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Bayesian Belief Networks.md"
-              }
+              "state": {}
             }
           },
           {
@@ -169,9 +148,7 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Bayesian Belief Networks.md"
-              }
+              "state": {}
             }
           },
           {
@@ -196,7 +173,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Bayesian Belief Networks.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -242,13 +218,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f87467bd8f9b0728",
+  "active": "177c0bb21a8c90e7",
   "lastOpenFiles": [
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Local Markov property.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Bayesian Networks.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Bayesian Belief Networks.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Local Markov property.md",
     "@images/Pasted image 20240515000058.png",
     "@images/Pasted image 20240514235056.png",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Bayesian Networks.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Naive Bayes Classifier.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Bayes Classifier.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Maximum A Posteriori (MAP) Hypothesis.md",
