@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Bayesian Networks.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Bayes Classifier.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c6d10f4791759629",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Bayes Optimal Classifier.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Bayesian Networks.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Bayes Classifier.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Bayesian Networks.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Bayes Classifier.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Bayesian Networks.md"
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Bayes Classifier.md"
               }
             }
           },
@@ -168,7 +180,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Bayesian Networks.md"
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Bayes Classifier.md"
               }
             }
           },
@@ -194,7 +206,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Bayesian Networks.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Bayes Classifier.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -242,8 +254,10 @@
   },
   "active": "00ed23acbcf627e3",
   "lastOpenFiles": [
-    "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week06/NP.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Bayes Optimal Classifier.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Bayes Classifier.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Bayesian Networks.md",
+    "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week06/NP.md",
     "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week06/inference(s).md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Bayesian Learning.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Hidden Markov Model.md",
@@ -276,8 +290,6 @@
     "2024 Semester 1/COMPSCI361 - Machine Learning/Default assumption.md",
     "conflict-files-obsidian-git.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/virtualization.md",
-    "2024 Semester 1/INFOSYS303 - Solutions Architecture/thread(s).md",
-    "2024 Semester 1/INFOSYS303 - Solutions Architecture/process.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Untitled",
     "2024 Semester 1",
     "2023 Semester 2",
