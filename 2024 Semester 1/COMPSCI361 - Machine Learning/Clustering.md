@@ -14,7 +14,8 @@
 #compsci361example Classifying Cancer Types
 - We collected gene expression data for 8 cancer patients, can you find the types of cancer in the data?![[Pasted image 20240515163716.png]]
 ## General algorithm
-
+![[Pasted image 20240515164136.png]]
+![[Pasted image 20240515164111.png]]
 
 #compsci361questions 
 ## What [[Clustering]] does
