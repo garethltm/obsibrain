@@ -7,28 +7,6 @@
 	- We don't have a [[test error]]
 	- Generally, there is no best method in [[Supervised Learning]] (you want to discover something)
 		- so there are lots of methods, we will focus on important/representative ones
-## Typical Applications
-- You could want to know what the groups are
-- You could want to find the group for a new example $x_i$
-- You could want to find examples related to a new example $x_i$
-	- give examples that are closely related
-- You could want a prototype example for each group
-	- give the most representative example for that group
-## Applications - Data Understanding
-- Biology
-	- taxonomy of living things: kingdom, phylum, class, order, family, genus & species
-- Information retrieval
-	- document clustering
-- Land use
-	- Identification of areas of similar land use in an earth observation database
-- Marketing
-	- Help marketers discover distinct groups in their customer bases, & then use this knowledge to develop targeted marketing programs
-- City-planning
-	- Identifying groups of houses according to their house type, value, & geographical location
-- Earth-quake studies
-	- Observed earth quake epicenters should be clustered along continent faults
-- Climate
-	- understan
 ## Motivation
 #compsci361example Classifying Cancer Types
 - We collected gene expression data for 8 cancer patients, can you find the types of cancer in the data?![[Pasted image 20240515163716.png]]
@@ -52,3 +30,26 @@
 ## Potential Problem
 1. Information loss
 2. There might be some outliers beyond the domain
+## Typical Applications
+- You could want to know what the groups are
+- You could want to find the group for a new example $x_i$
+- You could want to find examples related to a new example $x_i$
+	- give examples that are closely related
+- You could want a prototype example for each group
+	- give the most representative example for that group
+## Applications - Data Understanding
+- Biology
+	- taxonomy of living things: kingdom, phylum, class, order, family, genus & species
+- Information retrieval
+	- document clustering
+- Land use
+	- Identification of areas of similar land use in an earth observation database
+- Marketing
+	- Help marketers discover distinct groups in their customer bases, & then use this knowledge to develop targeted marketing programs
+- City-planning
+	- Identifying groups of houses according to their house type, value, & geographical location
+- Earth-quake studies
+	- Observed earth quake epicenters should be clustered along continent faults
+- Climate
+	- understanding earth climate, find patterns of atmospheric & ocean changes
+## Applications - [[Preprocessing & Evaluation]]
