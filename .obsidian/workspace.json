@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "0c653dc9d3f16f27",
+        "id": "9b68f92077740cc8",
         "type": "tabs",
         "children": [
           {
-            "id": "177c0bb21a8c90e7",
+            "id": "61ac6c220e723e82",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Bayes Classifier.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 276.5
+    "width": 276.5,
+    "collapsed": true
   },
   "right": {
     "id": "29204b37fc003a9a",
@@ -86,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Bayes Classifier.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Bayes Classifier.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Bayes Classifier.md"
               }
             }
           },
@@ -156,7 +157,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Bayes Classifier.md"
               }
             }
           },
@@ -182,7 +183,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Bayes Classifier.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -215,8 +216,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 347.5,
-    "collapsed": true
+    "width": 347.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -228,8 +228,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "177c0bb21a8c90e7",
+  "active": "61ac6c220e723e82",
   "lastOpenFiles": [
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Bayes Optimal Classifier.md",
     "conflict-files-obsidian-git.md",
     "@images/Pasted image 20240515164136.png",
     "@images/Pasted image 20240515164112.png",
@@ -244,7 +245,6 @@
     "2024 Semester 1/COMPSCI361 - Machine Learning/convergence.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/centroid.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Partitioning Algorithms.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Bayes Optimal Classifier.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Bayesian Networks.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Bayesian Belief Networks.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Local Markov property.md",
