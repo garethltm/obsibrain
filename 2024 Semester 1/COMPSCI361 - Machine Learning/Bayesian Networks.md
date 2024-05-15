@@ -25,3 +25,4 @@
 	- typically using [[heuristic(s)]]
 ## Summary
 - [[2024 Semester 1/COMPSCI361 - Machine Learning/Bayesian Networks|Bayesian Networks]] provide a natural representation of [[conditionally independent]]
+- Special case of [[2024 Semester 1/COMPSCI361 - Machine Learning/Bayesian Networks|Bayesian Networks]] where we think everything becomes independent once we know the class
