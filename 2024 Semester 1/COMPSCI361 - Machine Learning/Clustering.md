@@ -4,7 +4,10 @@
 - Input: set of [[instance(s)]] described by $d$ features
 - Output: an assignment of [[instance(s)]] to 'groups' (no target class)
 - Unlike [[classification]], we are not given the 'groups'
-	- Algorithm must 
+	- #### Task: Algorithm must discover groups
+- #compsci361example groups we might discover in e-mail spam:
+	- 'Lucky winner' group
+	- 'Weight '
 
 ## Motivation
 #compsci361example Classifying Cancer Types
