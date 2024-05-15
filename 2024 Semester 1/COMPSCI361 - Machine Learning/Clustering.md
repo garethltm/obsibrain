@@ -1,4 +1,6 @@
 - [[Cluster]]
+	- Similar (or related) to one another within the same group (same labels)
+	- Dissimilar (or unrelated) to objects in other groups
 ## Motivation
 #compsci361example Classifying Cancer Types
 - We collected gene expression data for 8 cancer patients, can you find the types of cancer in the data?![[Pasted image 20240515163716.png]]
