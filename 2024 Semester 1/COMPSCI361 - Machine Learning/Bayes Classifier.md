@@ -6,5 +6,4 @@
 - [[Naive Bayes Classifier]]
 
 - [[Bayes Optimal Classifier]]
-## Bayes Optimal Classifier
 
