@@ -7,11 +7,14 @@
 	- #### Task: Algorithm must discover groups
 - #compsci361example groups we might discover in e-mail spam:
 	- 'Lucky winner' group
-	- 'Weight '
-
+	- 'Weight loss' group
+	- 'I need your help' group
+	- 'Mail-order bride' group
 ## Motivation
 #compsci361example Classifying Cancer Types
 - We collected gene expression data for 8 cancer patients, can you find the types of cancer in the data?![[Pasted image 20240515163716.png]]
+## General algorithm
+
 
 #compsci361questions 
 ## What [[Clustering]] does
