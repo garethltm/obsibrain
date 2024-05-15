@@ -6,7 +6,10 @@
 - the best [[Clustering]] is hard to define (because there is no ground truth)
 	- We don't have a [[test error]]
 	- Generally, there is no best method in [[Supervised Learning]] (you want to discover something)
-		- so there are lots of meh
+		- so there are lots of methods, we will focus on important/representative ones
+## Typical Applications
+- You could want to know what the groups are
+- You could want to find the
 ## Motivation
 #compsci361example Classifying Cancer Types
 - We collected gene expression data for 8 cancer patients, can you find the types of cancer in the data?![[Pasted image 20240515163716.png]]
