@@ -2,7 +2,8 @@
 ![[Pasted image 20240413224824.png]]
 
 ## Motivation
-#compsci361example Classifying Cancer 
+#compsci361example Classifying Cancer Types
+- We collected gene expression data for 8 cancer patients, can you find the types of cancer in the data?![[Pasted image 20240515163716.png]]
 
 #compsci361questions 
 ## What [[Clustering]] does
