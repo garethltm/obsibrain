@@ -14,3 +14,6 @@
 		- class $Y_i$
 	- Graph structure:![[Pasted image 20240515161532.png]]
 2. [[Hidden Markov Model]]
+## Inference
+- How can one infer the (probabilities of) values of 1 or more network variables, given observed values of others?
+- [[2024 Semester 1/COMPSCI361 - Machine Learning/Bayesian Networks|Bayesian Networks]] contan all information needed for
