@@ -24,4 +24,4 @@
 - In cases, the structure will need to be learned from the [[training data]] as well
 	- typically using [[heuristic(s)]]
 ## Summary
-- [[2024 Semester 1/COMPSCI361 - Machine Learning/Bayesian Networks|Bayesian Networks]] provide a natural re
+- [[2024 Semester 1/COMPSCI361 - Machine Learning/Bayesian Networks|Bayesian Networks]] provide a natural representation of [[conditionally independent]]

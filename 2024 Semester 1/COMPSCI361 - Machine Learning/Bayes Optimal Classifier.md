@@ -12,3 +12,4 @@ Consider a new instance x encountered, which is classified positive $h\tiny {1}$
 	- don't really have to use [[Maximum A Posteriori (MAP) Hypothesis]] if you only care about the best
 ## Summary
 - [[Bayes Optimal Classifier]] combines the predictions of all alternative hypothesis weighted by their [[posterior evidence (posterior probability)]]
+	- 
