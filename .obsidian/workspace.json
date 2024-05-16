@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "wicked",
+                "query": "material design",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -228,7 +228,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bd470c4a850a9568",
+  "active": "a6e0090ac9cbd1f3",
   "lastOpenFiles": [
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Human-computer Interaction (HCI).md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Wicked Problems.md",
