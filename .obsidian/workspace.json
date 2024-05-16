@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Wicked Problems.md",
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Common Fate Principle.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "gestalts",
+                "query": "gestal",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Wicked Problems.md",
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Common Fate Principle.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Wicked Problems.md",
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Common Fate Principle.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Wicked Problems.md"
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Common Fate Principle.md"
               }
             }
           },
@@ -157,7 +157,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Wicked Problems.md"
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Common Fate Principle.md"
               }
             }
           },
@@ -183,7 +183,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Wicked Problems.md",
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Common Fate Principle.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -228,10 +228,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a6e0090ac9cbd1f3",
+  "active": "bd470c4a850a9568",
   "lastOpenFiles": [
-    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Human-computer Interaction (HCI).md",
+    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Gestalt Principles of Perception.md",
+    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Similarity Principle.md",
+    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Proximity Principle.md",
+    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Common Fate Principle.md",
+    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Balance.md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Wicked Problems.md",
+    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Human-computer Interaction (HCI).md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Affinity diagram.md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Usage Research & Data Elicitation.md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Understand needs.md",
@@ -261,11 +266,6 @@
     "2024 Semester 1/COMPSCI361 - Machine Learning/Bayes Classifier.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Maximum A Posteriori (MAP) Hypothesis.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Bagging.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Naive Bayes.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/XGBoost Discussion.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Validation Error.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Unsupervised Learning.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Supervised Learning.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Untitled",
     "2024 Semester 1",
     "2023 Semester 2",
