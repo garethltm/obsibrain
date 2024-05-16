@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Human-computer Interaction (HCI).md",
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Wicked Problems.md",
                 "mode": "source",
                 "source": false
               }
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Human-computer Interaction (HCI).md",
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Wicked Problems.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Human-computer Interaction (HCI).md",
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Wicked Problems.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Human-computer Interaction (HCI).md"
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Wicked Problems.md"
               }
             }
           },
@@ -157,7 +157,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Human-computer Interaction (HCI).md"
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Wicked Problems.md"
               }
             }
           },
@@ -183,7 +183,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Human-computer Interaction (HCI).md",
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Wicked Problems.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -230,6 +230,8 @@
   },
   "active": "bd470c4a850a9568",
   "lastOpenFiles": [
+    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Human-computer Interaction (HCI).md",
+    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Wicked Problems.md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Affinity diagram.md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Usage Research & Data Elicitation.md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Understand needs.md",
@@ -264,8 +266,6 @@
     "2024 Semester 1/COMPSCI361 - Machine Learning/Validation Error.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Unsupervised Learning.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Supervised Learning.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Spam Filtering.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/ROC Curves.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Untitled",
     "2024 Semester 1",
     "2023 Semester 2",
