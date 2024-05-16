@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Contextual Inquiry.md",
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Affinity diagram.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": " contextual",
+                "query": "affinity",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Contextual Inquiry.md",
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Affinity diagram.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Contextual Inquiry.md",
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Affinity diagram.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Contextual Inquiry.md"
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Affinity diagram.md"
               }
             }
           },
@@ -157,7 +157,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Contextual Inquiry.md"
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Affinity diagram.md"
               }
             }
           },
@@ -183,7 +183,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Contextual Inquiry.md",
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Affinity diagram.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -230,10 +230,12 @@
   },
   "active": "bd470c4a850a9568",
   "lastOpenFiles": [
-    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Prototype candidates.md",
-    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Contextual Inquiry.md",
-    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Design solutions.md",
+    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Usage Research & Data Elicitation.md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Understand needs.md",
+    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Contextual Inquiry.md",
+    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Usage Research & Data Analysis.md",
+    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Prototype candidates.md",
+    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Design solutions.md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Affinity diagram.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Bayes Optimal Classifier.md",
     "conflict-files-obsidian-git.md",
@@ -264,8 +266,6 @@
     "2024 Semester 1/COMPSCI361 - Machine Learning/Supervised Learning.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Spam Filtering.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/ROC Curves.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/SMOTE (Synthetic Minority Oversampling Technique).md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Relief.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Untitled",
     "2024 Semester 1",
     "2023 Semester 2",
