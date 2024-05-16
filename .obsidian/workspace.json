@@ -11,8 +11,12 @@
             "id": "bd470c4a850a9568",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Contextual Inquiry.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -44,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": " contex",
+                "query": " contextual",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -83,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Bayes Classifier.md",
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Contextual Inquiry.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Bayes Classifier.md",
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Contextual Inquiry.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Bayes Classifier.md"
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Contextual Inquiry.md"
               }
             }
           },
@@ -153,7 +157,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Bayes Classifier.md"
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Contextual Inquiry.md"
               }
             }
           },
@@ -179,7 +183,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Bayes Classifier.md",
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Contextual Inquiry.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -224,8 +228,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a6e0090ac9cbd1f3",
+  "active": "bd470c4a850a9568",
   "lastOpenFiles": [
+    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Prototype candidates.md",
+    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Contextual Inquiry.md",
+    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Design solutions.md",
+    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Understand needs.md",
+    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Affinity diagram.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Bayes Optimal Classifier.md",
     "conflict-files-obsidian-git.md",
     "@images/Pasted image 20240515164136.png",
@@ -257,11 +266,6 @@
     "2024 Semester 1/COMPSCI361 - Machine Learning/ROC Curves.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/SMOTE (Synthetic Minority Oversampling Technique).md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Relief.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Regularized Regression Trees.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Regression Trees.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Randomly over-sampling the minority class.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/random variables.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Random Tree(s).md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Untitled",
     "2024 Semester 1",
     "2023 Semester 2",
