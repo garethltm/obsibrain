@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week10/The vector space model.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Dimensionality reduction.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "dimens",
+                "query": "dimension reduction",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week10/The vector space model.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Dimensionality reduction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week10/The vector space model.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Dimensionality reduction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week10/The vector space model.md"
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Dimensionality reduction.md"
               }
             }
           },
@@ -157,7 +157,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week10/The vector space model.md"
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Dimensionality reduction.md"
               }
             }
           },
@@ -183,7 +183,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week10/The vector space model.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Dimensionality reduction.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -229,8 +229,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a6e0090ac9cbd1f3",
+  "active": "039991130e7d6aad",
   "lastOpenFiles": [
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Attribute (Feature) selection.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Dimensionality reduction.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Principal Components Analysis (PCA).md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Data reduction.md",
+    "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week10/The vector space model.md",
     "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week10/Term Frequency (tf).md",
     "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week10/Inverse Document Frequency (idf).md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Cross-Validation (CV).md",
@@ -242,7 +247,6 @@
     "2024 Semester 1/COMPSCI361 - Machine Learning/Partitioning Algorithms.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Clustering.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/centroid.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Principal Components Analysis (PCA).md",
     "@images/Pasted image 20240515164136.png",
     "@images/Pasted image 20240515164112.png",
     "@images/Pasted image 20240515164111.png",
@@ -260,13 +264,9 @@
     "2024 Semester 1/COMPSCI361 - Machine Learning/Hidden Markov Model.md",
     "@images/Pasted image 20240515161922.png",
     "@images/Pasted image 20240515161532.png",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Bayesian Belief Networks.md",
     "@images/Pasted image 20240515161404.png",
     "@images/Pasted image 20240515161341.png",
     "@images/Pasted image 20240515161331.png",
-    "2023 Semester 2/COMPSCI235 - Software Development Methodologies/Architectural Pattern.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Local Markov property.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Estimating Probabilities - Laplace Smoothing.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Untitled",
     "2024 Semester 1",
     "2023 Semester 2",
