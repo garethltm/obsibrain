@@ -3,3 +3,6 @@ in the sense considered here refers to the design of products, devices, services
 ensures both:
 1. "direct access" ( #compsci345example unassisted)
 2. "indirect access" ( #compsci345example computer screen readers)
+## Mozilla MDN on [[2024 Semester 1/COMPSCI345 - Human-computer Interaction/Accessibility|Accessibility]]
+"Building accessible sites benefit everyone"
+- [[new semantic HTML5]] which improves [[2024 Semester 1/COMPSCI345 - Human-computer Interaction/Accessibility|Accessibility]] also improves SEO, making your 
