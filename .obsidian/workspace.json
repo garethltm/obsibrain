@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "d8f88752237aae09",
+        "id": "94cbae4f1a31c05f",
         "type": "tabs",
         "children": [
           {
-            "id": "20e0a847326eee81",
+            "id": "039991130e7d6aad",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Balance.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -48,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "dom",
+                "query": "feature vector",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -87,7 +83,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Balance.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +99,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Balance.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,9 +120,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Balance.md"
-              }
+              "state": {}
             }
           },
           {
@@ -156,9 +148,7 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Balance.md"
-              }
+              "state": {}
             }
           },
           {
@@ -183,7 +173,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Balance.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -206,7 +195,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.6380169077455764,
+                  "scale": 1.254057990250493,
                   "close": true
                 }
               }
@@ -216,7 +205,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 347.5
+    "width": 347.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -230,42 +220,42 @@
   },
   "active": "a6e0090ac9cbd1f3",
   "lastOpenFiles": [
-    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Common Fate Principle.md",
-    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Gestalt Principles of Perception.md",
-    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Similarity Principle.md",
-    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Proximity Principle.md",
-    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Balance.md",
-    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Wicked Problems.md",
-    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Human-computer Interaction (HCI).md",
-    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Affinity diagram.md",
-    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Usage Research & Data Elicitation.md",
-    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Understand needs.md",
-    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Contextual Inquiry.md",
-    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Usage Research & Data Analysis.md",
-    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Prototype candidates.md",
-    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Design solutions.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Bayes Optimal Classifier.md",
-    "conflict-files-obsidian-git.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/XGBoost Discussion.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Boosted Regression Trees - Training.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/K-Means Algorithm.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/convergence.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/cluster(s).md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Partitioning Algorithms.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Clustering.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/centroid.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Principal Components Analysis (PCA).md",
     "@images/Pasted image 20240515164136.png",
     "@images/Pasted image 20240515164112.png",
     "@images/Pasted image 20240515164111.png",
     "@images/Pasted image 20240515164047.png",
     "@images/Pasted image 20240515163716.png",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Unsupervised Learning.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Bayesian Networks.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Naive Bayes Classifier.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Bayes Optimal Classifier.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Naive Bayes.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Bayes Classifier.md",
+    "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week06/NP.md",
+    "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week06/inference(s).md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Bayesian Learning.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Hidden Markov Model.md",
     "@images/Pasted image 20240515161922.png",
     "@images/Pasted image 20240515161532.png",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Bayesian Belief Networks.md",
     "@images/Pasted image 20240515161404.png",
     "@images/Pasted image 20240515161341.png",
     "@images/Pasted image 20240515161331.png",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/convergence.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/centroid.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Partitioning Algorithms.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Bayesian Networks.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Bayesian Belief Networks.md",
+    "2023 Semester 2/COMPSCI235 - Software Development Methodologies/Architectural Pattern.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Local Markov property.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Naive Bayes Classifier.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Bayes Classifier.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Maximum A Posteriori (MAP) Hypothesis.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Bagging.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Estimating Probabilities - Laplace Smoothing.md",
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/ArchiMate Core Framework.md",
+    "2023 Semester 2/INFOSYS222 - Database Systems/Data Warehouse.md",
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/deliverable.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Untitled",
     "2024 Semester 1",
     "2023 Semester 2",
