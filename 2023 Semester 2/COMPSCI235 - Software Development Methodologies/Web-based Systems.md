@@ -17,6 +17,6 @@ Run on a web browser, no need for local installation
 	- MongoDB
 
 ### Advantages
-1. [[Accessibility]]
+1. [[2023 Semester 2/COMPSCI235 - Software Development Methodologies/Accessibility]]
 2. [[Maintenance]]
 3. [[2023 Semester 2/COMPSCI235 - Software Development Methodologies/Scalability]]

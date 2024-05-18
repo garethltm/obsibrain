@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "94cbae4f1a31c05f",
+        "id": "3555925eef15dfbd",
         "type": "tabs",
         "children": [
           {
-            "id": "039991130e7d6aad",
+            "id": "70e31997085318ba",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Principal Components Analysis (PCA).md",
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Accessibility.md",
                 "mode": "source",
                 "source": false
               }
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -87,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Principal Components Analysis (PCA).md",
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Accessibility.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Principal Components Analysis (PCA).md",
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Accessibility.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Principal Components Analysis (PCA).md"
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Accessibility.md"
               }
             }
           },
@@ -157,7 +156,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Principal Components Analysis (PCA).md"
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Accessibility.md"
               }
             }
           },
@@ -183,7 +182,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Principal Components Analysis (PCA).md",
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Accessibility.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -229,11 +228,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "039991130e7d6aad",
+  "active": "70e31997085318ba",
   "lastOpenFiles": [
+    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Accessibility.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Principal Components Analysis (PCA).md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Dimensionality reduction.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Attribute (Feature) selection.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Principal Components Analysis (PCA).md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Data reduction.md",
     "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week10/The vector space model.md",
     "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week10/Term Frequency (tf).md",
@@ -261,7 +261,6 @@
     "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week06/NP.md",
     "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week06/inference(s).md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Bayesian Learning.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Hidden Markov Model.md",
     "@images/Pasted image 20240515161922.png",
     "@images/Pasted image 20240515161532.png",
     "@images/Pasted image 20240515161404.png",
