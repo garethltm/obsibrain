@@ -1,1 +1,1 @@
-in the sense considered here refers to the design of products, devi
+in the sense considered here refers to the design of products, devices, services or environments so as to be usable by people with disabilities. The concept of accessible design & practice or accessible development ensures both "direct access" ( #compsci345example unassisted) & "indirect"
