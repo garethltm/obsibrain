@@ -11,8 +11,12 @@
             "id": "039991130e7d6aad",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Cross-Validation (CV).md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -44,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "feature vector",
+                "query": "cross validation",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -83,6 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Cross-Validation (CV).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,6 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Cross-Validation (CV).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -120,7 +126,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Cross-Validation (CV).md"
+              }
             }
           },
           {
@@ -148,7 +156,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {}
+              "state": {
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Cross-Validation (CV).md"
+              }
             }
           },
           {
@@ -173,6 +183,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Cross-Validation (CV).md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -218,7 +229,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a6e0090ac9cbd1f3",
+  "active": "039991130e7d6aad",
   "lastOpenFiles": [
     "2024 Semester 1/COMPSCI361 - Machine Learning/XGBoost Discussion.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Boosted Regression Trees - Training.md",
