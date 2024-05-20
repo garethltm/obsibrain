@@ -1,2 +1,4 @@
 - Some users #compsci345example with mobility impairments rely on keyboard or on assistive technologies:
-	- every link, control & features that can be operated with a mouse must be accessible using only on a 
+	- every link, control & features that can be operated with a mouse must be accessible using only on a keyboard
+	- need clear visual indication of the current element in focus![[Pasted image 20240520140023.png]]
+- [[Web Content Accessibility Guidelines (WCAG)]]
