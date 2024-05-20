@@ -3,4 +3,6 @@
 - [[Managed funds]]
 - [[Real estate]]
 - [[Commodities]] & [[Futures]]
-	- originally designed for agricultural producers to manage pri
+	- originally designed for agricultural producers to manage price risks; participants are now mostly speculators
+	- Traders enter contracts to buy or sell a certain physical or financial item at a future date
+- [[Options]]
