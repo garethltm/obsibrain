@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Managed funds.md",
+                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Different investment products.md",
                 "mode": "source",
                 "source": false
               }
@@ -32,7 +32,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Managed funds.md",
+                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Different investment products.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -129,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Managed funds.md",
+                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Different investment products.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Managed funds.md",
+                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Different investment products.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,7 +169,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Managed funds.md"
+                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Different investment products.md"
               }
             }
           },
@@ -199,7 +199,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Managed funds.md"
+                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Different investment products.md"
               }
             }
           },
@@ -225,7 +225,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Managed funds.md",
+                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Different investment products.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -273,6 +273,8 @@
   },
   "active": "4643d37074eb2051",
   "lastOpenFiles": [
+    "2024 Semester 1/ACCTG151G - Financial Literacy/Managed funds.md",
+    "2024 Semester 1/ACCTG151G - Financial Literacy/fund managers.md",
     "2024 Semester 1/ACCTG151G - Financial Literacy/Different investment products.md",
     "2024 Semester 1/ACCTG151G - Financial Literacy/Convertible Bonds.md",
     "2024 Semester 1/ACCTG151G - Financial Literacy/Preference shares.md",
@@ -299,8 +301,6 @@
     "2024 Semester 1/COMPSCI361 - Machine Learning/convergence.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/cluster(s).md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Partitioning Algorithms.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Clustering.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/centroid.md",
     "@images/Pasted image 20240515164136.png",
     "@images/Pasted image 20240515164112.png",
     "@images/Pasted image 20240515164111.png",
