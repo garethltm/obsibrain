@@ -1,2 +1,5 @@
 - [[Bonds or Debentures (Government or Company)]] converted to shares after a certain condition is met
-- usually offer lower [[Interest rates (r)]] than regular [[bonds]]
+- usually offer lower [[Interest rates (r)]] than regular [[Bonds or Debentures (Government or Company)]], but:
+	- can be converted into shares only when a certain condition is met
+	- ### Risk 
+		- that shares will not do well & investor si
