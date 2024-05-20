@@ -15,3 +15,5 @@
 3. NZX Equity Derivatives (NZCX)
 	- offers a very limited range of [[Futures]] & [[Options]] contracts
 4. NZX Dairy Derivatives & the Fonterra Shareholders Market (FSM)
+## Regulating the [[Securities markets]]
+- Laws regulate t
