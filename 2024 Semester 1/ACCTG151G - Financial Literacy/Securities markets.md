@@ -24,5 +24,8 @@
 		3. Securities Markets Act 1988
 		4. Securities Regulation 2009
 ## Making transactions in the [[Securities markets]]
-- Shareholders act to buy & sell shares
-- Fixed [[Income (Cash IN)]] 
+- Shareholders act to buy & sell shares, fixed [[Income (Cash IN)]] securities for investors
+- Select from:
+	1. full-service - advise & help trade stocks
+	2. no advice
+	3. online broker
