@@ -1,0 +1,1 @@
+- where equities ([[Ordinary Shares (or Common Stock)]]) & long-term securities 
