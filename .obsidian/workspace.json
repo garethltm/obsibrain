@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Securities markets.md",
+                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Executing trades.md",
                 "mode": "source",
                 "source": false
               }
@@ -32,7 +32,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Securities markets.md",
+                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Executing trades.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -129,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Securities markets.md",
+                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Executing trades.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Securities markets.md",
+                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Executing trades.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,7 +169,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Securities markets.md"
+                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Executing trades.md"
               }
             }
           },
@@ -199,7 +199,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Securities markets.md"
+                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Executing trades.md"
               }
             }
           },
@@ -225,7 +225,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Securities markets.md",
+                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Executing trades.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -273,12 +273,13 @@
   },
   "active": "4643d37074eb2051",
   "lastOpenFiles": [
+    "2024 Semester 1/ACCTG151G - Financial Literacy/Securities markets.md",
+    "2024 Semester 1/ACCTG151G - Financial Literacy/Executing trades.md",
     "2024 Semester 1/ACCTG151G - Financial Literacy/Different investment products.md",
     "2024 Semester 1/ACCTG151G - Financial Literacy/Annuity.md",
     "2024 Semester 1/ACCTG151G - Financial Literacy/Bear market.md",
     "2024 Semester 1/ACCTG151G - Financial Literacy/Bull market.md",
     "2024 Semester 1/ACCTG151G - Financial Literacy/Market trends.md",
-    "2024 Semester 1/ACCTG151G - Financial Literacy/Securities markets.md",
     "2024 Semester 1/ACCTG151G - Financial Literacy/Over-the-counter market.md",
     "2024 Semester 1/ACCTG151G - Financial Literacy/securities dealers.md",
     "2024 Semester 1/ACCTG151G - Financial Literacy/Secondary Market.md",
@@ -299,7 +300,6 @@
     "2024 Semester 1/ACCTG151G - Financial Literacy/Bank deposits.md",
     "@images/Pasted image 20240520124514.png",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Accessibility.md",
-    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/New Zealand Debt Market (NZDX).md",
     "@images/Pasted image 20240520124330.png",
     "@images/Pasted image 20240515164136.png",
     "@images/Pasted image 20240515164112.png",
