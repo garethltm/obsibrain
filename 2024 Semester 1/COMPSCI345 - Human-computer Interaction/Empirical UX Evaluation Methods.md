@@ -8,4 +8,6 @@
 	- How they learn it overtime
 4. Retainability
 5. Advanced feature usage
-## Subjective [[ux]]
+## Subjective [[User eXperience (UX)]] measures (based on user opinions - their internal experience):
+1. First impression (initial opinion, initial satisfaction)
+2. Long-term
