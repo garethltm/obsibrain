@@ -12,5 +12,8 @@
 	- selecting representative users
 	- developing representative tasks
 - 5-10 users typically selected
+	- you find out lesser with more people
+	- users will depend on who you are trying to cater towards
 - Sessions usually around 30 minutes
-- Conditions are the same for every p
+- Conditions are the same for every participant
+- Informed consent form explains procedures & deals with ethical issues
