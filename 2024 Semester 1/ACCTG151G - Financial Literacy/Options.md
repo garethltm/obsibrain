@@ -1,1 +1,1 @@
-- contracts which conveys the rightm 
+- contracts which conveys the right, but not the obligation, to buy (call) or sell (put) the underlying [[asset(s)]] at a specific price on or before the expiration date
