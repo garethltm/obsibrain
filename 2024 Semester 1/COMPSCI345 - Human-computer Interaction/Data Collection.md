@@ -1,4 +1,4 @@
-
+- [[Usage Testing]]
 ### Data for metrics (What will you measure/collect)
 - Video
 - Counts of actions/errors
@@ -8,3 +8,5 @@
 ##### How many helpers do you need during tests?
 - Participant guide
 - Observer
+## Types of data
+![[Pasted image 20240521010703.png]]
