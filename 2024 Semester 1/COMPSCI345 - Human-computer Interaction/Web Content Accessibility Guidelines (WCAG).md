@@ -10,4 +10,6 @@ with level AA being the most commonly used by industry (we should look to confor
 #### Challenge:
 - differences in devices, interaction of user settings (Zoom level) and font size
 #### Solution strategies:
-- Explicit font size setting: 16p
+- Explicit font size setting: 16px as frequent recommendation
+- Using standard settings #compsci345example of established frameworks. 
+- Font size setting #compsci345example for paragraphs is expected to be acceptable
