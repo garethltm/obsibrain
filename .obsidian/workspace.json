@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "dom",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
