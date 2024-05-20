@@ -28,4 +28,5 @@ with level AA being the most commonly used by industry (we should look to confor
 #### Colour perception in different types of colour blindness
 ![[Pasted image 20240520135641.png]]
 ![[Pasted image 20240520135708.png]]
-## Primary & Secondary 
+## Primary & Secondary Navigation
+![[Pasted image 20240520135817.png]]
