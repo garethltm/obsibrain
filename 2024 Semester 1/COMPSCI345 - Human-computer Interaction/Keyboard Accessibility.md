@@ -1,1 +1,2 @@
-- Some users #3
+- Some users #compsci345example with mobility impairments rely on keyboard or on assistive technologies:
+	- every link, control & features that can be operated with a mouse must be accessible using only on a 
