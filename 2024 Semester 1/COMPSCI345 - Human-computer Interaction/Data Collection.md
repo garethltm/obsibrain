@@ -3,4 +3,7 @@
 - Counts of actions/errors
 - Time
 - Observations
-- Questionnaires
+- Questionnaire
+##### How many helpers do you need during tests?
+- Participant guide
+- Observer
