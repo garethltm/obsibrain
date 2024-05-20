@@ -13,3 +13,4 @@
 1. VMware Capacity Planner
 2. Liquidware Labs Stratusphere FIT
 3. Lakeside Software SysTrack
+In addition, both Windows XP & Windows 7 ship with Performance Monitor (Perfmon), a performance logs & alerts tool. Perfmon allows administrators to capture & graph various
