@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/w3.CSS Templates.md",
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Assistive.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 276.5
+    "width": 276.5,
+    "collapsed": true
   },
   "right": {
     "id": "29204b37fc003a9a",
@@ -86,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/w3.CSS Templates.md",
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Assistive.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/w3.CSS Templates.md",
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Assistive.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/w3.CSS Templates.md"
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Assistive.md"
               }
             }
           },
@@ -156,7 +157,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/w3.CSS Templates.md"
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Assistive.md"
               }
             }
           },
@@ -182,7 +183,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/w3.CSS Templates.md",
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Assistive.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -229,14 +230,17 @@
   },
   "active": "5a7e75109dbb0da9",
   "lastOpenFiles": [
+    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Analogous.md",
+    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Affinity diagram.md",
+    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Additive.md",
+    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Accessible.md",
+    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Assistive.md",
+    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/w3.CSS Templates.md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Wicked Problems.md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Web technology.md",
-    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/w3.CSS Templates.md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Visibility of System Status.md",
-    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Accessible.md",
     "2023 Semester 2/COMPSCI235 - Software Development Methodologies/Accessibility.md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Usability.md",
-    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Additive.md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Balance.md",
     "conflict-files-obsidian-git.md",
     "@images/Pasted image 20240520140654.png",
@@ -262,9 +266,6 @@
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Gestalt Principles of Perception.md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Similarity Principle.md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Proximity Principle.md",
-    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Human-computer Interaction (HCI).md",
-    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Affinity diagram.md",
-    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Usage Research & Data Elicitation.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Untitled",
     "2024 Semester 1",
     "2023 Semester 2",
