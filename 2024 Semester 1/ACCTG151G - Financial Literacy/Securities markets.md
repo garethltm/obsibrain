@@ -16,4 +16,9 @@
 	- offers a very limited range of [[Futures]] & [[Options]] contracts
 4. NZX Dairy Derivatives & the Fonterra Shareholders Market (FSM)
 ## Regulating the [[Securities markets]]
-- Laws regulate t
+- Laws regulate the sale of securities
+- NZ Stock Exchange listing rules & Securities Commission
+	- Purpose is to provide for adequate & accurate disclosure of financial information
+		1. Companies Act 1993
+		2. Securities Act 1978
+		3. Securities Ac
