@@ -20,4 +20,6 @@ with level AA being the most commonly used by industry (we should look to confor
 2. If text $\ge$ 18pt or $\ge$ **14pt(bold)**, then 3:1 contrast
 1pt = 0.75px
 ## Functional Colour
-- Functional Colour use is where colours transmit important information 
+- Functional Colour use is where colours transmit important information (traffic light colours)
+- Functional Colour should be used additionally to other representations of the information
+#compsci345example In markers on these slides we use cross & ticks where the colours are only repeating the information already given by the 
