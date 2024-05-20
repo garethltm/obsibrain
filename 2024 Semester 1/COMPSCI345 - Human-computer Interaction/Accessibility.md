@@ -12,4 +12,4 @@ ensures both:
 World Health Organization estimates:
 1. "285 million people are estimated to be visually impaired worldwide: 39 million are blind & 246 million have low vision".
 2. "466 million people worldwide have disabling hearing loss."
-3. 
+3. Physical disability: "Over 1 billion people are estimated to experience disability. This corresponds to about 15% of the world's population"
