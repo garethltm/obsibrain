@@ -1,0 +1,2 @@
+- for trading previously issued securities. Trading is done between investors under the oversight of the New Zealand Exchange (NZX)
+	- ([[Bonds or Debentures (Government or Company)]] & [[Ordinary Shares (or Common Stock)]] that are already existing in the [[Securities markets]])

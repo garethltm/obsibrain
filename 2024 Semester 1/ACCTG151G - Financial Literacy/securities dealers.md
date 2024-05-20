@@ -1,0 +1,2 @@
+- can post the selling price & purchase price online for the investors
+	- trade should be bilateral transaction as long as there is a counterparty in the [[Securities markets]]
