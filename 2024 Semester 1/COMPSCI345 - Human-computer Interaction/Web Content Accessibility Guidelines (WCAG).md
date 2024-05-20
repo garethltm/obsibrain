@@ -36,4 +36,6 @@ with level AA being the most commonly used by industry (we should look to confor
 ## [[2024 Semester 1/COMPSCI345 - Human-computer Interaction/Accessibility|Accessibility]] of Forms
 Labels & clear instructions are important for forms [[2024 Semester 1/COMPSCI345 - Human-computer Interaction/Accessibility|Accessibility]]. Each field should have an associated label or an appropriate title. All form controls are [[Keyboard Accessibility]] (in expected order)![[Pasted image 20240520140445.png]]
 ## WA - Alt Text
-T
+- Text alternatives ("alt text") convey the purpose of an image, including pictures, illustrations, charts, etc. Text alternatives are used by people who do not see the iamge
+- This can happen in 2 cases:
+	- when people who are visually impaired rely completely
