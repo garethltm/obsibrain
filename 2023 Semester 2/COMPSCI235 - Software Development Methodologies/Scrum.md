@@ -5,7 +5,7 @@
 
 <mark style="background: #FFB86CA6;">Successful project is one that optimises the value of the product for which it is being developed</mark>
 
-[[Scrum]] is [[empirical]]
+[[Scrum]] is [[2023 Semester 2/COMPSCI235 - Software Development Methodologies/empirical]]
 - learn & improve upon past mistakes & experiences
 - it allows teams to incorporate practices from other frameworks
 	- adapting your process based on your learnings

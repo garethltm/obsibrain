@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Evaluate UX.md",
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Empirical UX Evaluation Methods.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 276.5,
-    "collapsed": true
+    "width": 276.5
   },
   "right": {
     "id": "29204b37fc003a9a",
@@ -87,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Evaluate UX.md",
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Empirical UX Evaluation Methods.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Evaluate UX.md",
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Empirical UX Evaluation Methods.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Evaluate UX.md"
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Empirical UX Evaluation Methods.md"
               }
             }
           },
@@ -157,7 +156,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Evaluate UX.md"
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Empirical UX Evaluation Methods.md"
               }
             }
           },
@@ -183,7 +182,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Evaluate UX.md",
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Empirical UX Evaluation Methods.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -230,10 +229,12 @@
   },
   "active": "5a7e75109dbb0da9",
   "lastOpenFiles": [
+    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Empirical.md",
+    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Empirical UX Evaluation Methods.md",
+    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Evaluate UX.md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Usage Testing.md",
     "@images/Pasted image 20240521004826.png",
     "@images/Pasted image 20240521004509.png",
-    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Evaluate UX.md",
     "@images/Pasted image 20240521004149.png",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Contextual Inquiry.md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Understand needs.md",
@@ -264,7 +265,6 @@
     "2024 Semester 1/ACCTG151G - Financial Literacy/Types of orders.md",
     "2024 Semester 1/ACCTG151G - Financial Literacy/Stop-loss order.md",
     "2024 Semester 1/ACCTG151G - Financial Literacy/Securities markets.md",
-    "2024 Semester 1/ACCTG151G - Financial Literacy/Secondary Market.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Untitled",
     "2024 Semester 1",
     "2023 Semester 2",

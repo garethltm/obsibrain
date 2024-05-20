@@ -1,0 +1,1 @@
+- [[2024 Semester 1/COMPSCI345 - Human-computer Interaction/Empirical|Empirical]] methods, by definition, depend
