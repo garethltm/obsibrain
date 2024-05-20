@@ -28,5 +28,7 @@
 - Select from:
 	1. full-service - advise & help trade stocks
 	2. no advice
-	3. online broker - lower/flat fees (if you are a regular trader, you will probably open an)
-depending on your needs 
+	3. online broker - lower/flat fees (if you are a regular trader, you will probably open an account with an online broker)
+depending on your needs
+- Consider brokerage fees when making securities transactions
+As investors, we care about net-return. However, the net-return does not include the brokerage gee
