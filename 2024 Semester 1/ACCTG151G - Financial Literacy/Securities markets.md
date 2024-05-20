@@ -28,4 +28,5 @@
 - Select from:
 	1. full-service - advise & help trade stocks
 	2. no advice
-	3. online broker
+	3. online broker - lower/flat fees (if you are a regular trader, you will probably open an)
+depending on your needs 
