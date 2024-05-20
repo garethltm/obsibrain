@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Contextual Inquiry.md",
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Evaluate UX.md",
                 "mode": "source",
                 "source": false
               }
@@ -65,12 +65,12 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 276.5
+    "width": 276.5,
+    "collapsed": true
   },
   "right": {
     "id": "29204b37fc003a9a",
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Contextual Inquiry.md",
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Evaluate UX.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Contextual Inquiry.md",
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Evaluate UX.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Contextual Inquiry.md"
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Evaluate UX.md"
               }
             }
           },
@@ -157,7 +157,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Contextual Inquiry.md"
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Evaluate UX.md"
               }
             }
           },
@@ -183,7 +183,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Contextual Inquiry.md",
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Evaluate UX.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -230,6 +230,12 @@
   },
   "active": "5a7e75109dbb0da9",
   "lastOpenFiles": [
+    "@images/Pasted image 20240521004149.png",
+    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Contextual Inquiry.md",
+    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Understand needs.md",
+    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Design solutions.md",
+    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Prototype candidates.md",
+    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Evaluate UX.md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Accessible.md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Web Content Accessibility Guidelines (WCAG).md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Accessibility.md",
@@ -260,12 +266,6 @@
     "2024 Semester 1/ACCTG151G - Financial Literacy/Securities markets.md",
     "2024 Semester 1/ACCTG151G - Financial Literacy/Secondary Market.md",
     "2024 Semester 1/ACCTG151G - Financial Literacy/Real estate.md",
-    "2024 Semester 1/ACCTG151G - Financial Literacy/Convertible Bonds.md",
-    "2024 Semester 1/ACCTG151G - Financial Literacy/Capital Market.md",
-    "2024 Semester 1/ACCTG151G - Financial Literacy/Bull market.md",
-    "2024 Semester 1/ACCTG151G - Financial Literacy/Bear market.md",
-    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Common Fate Principle.md",
-    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Gestalt Principles of Perception.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Untitled",
     "2024 Semester 1",
     "2023 Semester 2",
