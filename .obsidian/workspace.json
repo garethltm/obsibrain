@@ -4,35 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "3555925eef15dfbd",
+        "id": "32bf5e3ca066426d",
         "type": "tabs",
         "children": [
           {
-            "id": "70e31997085318ba",
+            "id": "81e069876833d26d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Accessibility.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8acb77199fab38e8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/New Zealand Debt Market (NZDX).md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -99,7 +82,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/New Zealand Debt Market (NZDX).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +98,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/New Zealand Debt Market (NZDX).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,9 +119,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/New Zealand Debt Market (NZDX).md"
-              }
+              "state": {}
             }
           },
           {
@@ -168,9 +147,7 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/New Zealand Debt Market (NZDX).md"
-              }
+              "state": {}
             }
           },
           {
@@ -195,7 +172,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/New Zealand Debt Market (NZDX).md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -241,10 +217,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8acb77199fab38e8",
+  "active": "81e069876833d26d",
   "lastOpenFiles": [
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Accessibility.md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/New Zealand Debt Market (NZDX).md",
+    "@images/Pasted image 20240520124330.png",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/indirect access.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Principal Components Analysis (PCA).md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Dimensionality reduction.md",
@@ -273,12 +250,10 @@
     "2024 Semester 1/COMPSCI361 - Machine Learning/Bayes Optimal Classifier.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Naive Bayes.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Bayes Classifier.md",
-    "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week06/NP.md",
     "@images/Pasted image 20240515161922.png",
     "@images/Pasted image 20240515161532.png",
     "@images/Pasted image 20240515161404.png",
     "@images/Pasted image 20240515161341.png",
-    "@images/Pasted image 20240515161331.png",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Untitled",
     "2024 Semester 1",
     "2023 Semester 2",
