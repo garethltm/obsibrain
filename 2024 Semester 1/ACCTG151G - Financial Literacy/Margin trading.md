@@ -9,4 +9,4 @@ allows investor to purchase securities on credit by borrowing part of purchase p
 ## Leveraged Investments
 Imagine that you and 2 of your friends have $500,000 each & have decided to invest in property. You & Jim have decided to form a partnership & Glorias decided to "do it alone".
 You have found 2 houses, side-by-side in a new development, both costing $1,000,000
-You
+You & Jim in partnership buy one of these & Gloria buys the second one. To do this, she borrows $500,000 from the [[Banks (Commercial Banks)]] at an [[Interest rates (r)]] of 5% p.a.
