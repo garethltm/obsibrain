@@ -2,9 +2,9 @@ allows investor to purchase securities on credit by borrowing part of purchase p
 - Increases gains when returns are positive
 - Increases losses when returns are negative (an application of 'gearing' or 'leveraging')
 #acctg151Gexample 
-### Margin trade with profit
+#### Margin trade with profit
 ![[Pasted image 20240520133459.png]]
-### Margin trade with loss
+#### Margin trade with loss
 ![[Pasted image 20240520133523.png]]
-
 ## Leveraged Investments
+Imagine that you and 2 of your friends have $500,000 each & have decided to invest in property. You & Jim
