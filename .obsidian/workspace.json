@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Assistive.md",
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Accessible.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 276.5,
-    "collapsed": true
+    "width": 276.5
   },
   "right": {
     "id": "29204b37fc003a9a",
@@ -87,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Assistive.md",
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Accessible.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Assistive.md",
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Accessible.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Assistive.md"
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Accessible.md"
               }
             }
           },
@@ -157,7 +156,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Assistive.md"
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Accessible.md"
               }
             }
           },
@@ -183,7 +182,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Assistive.md",
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Accessible.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -230,11 +229,13 @@
   },
   "active": "5a7e75109dbb0da9",
   "lastOpenFiles": [
+    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Web Content Accessibility Guidelines (WCAG).md",
+    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Accessibility.md",
+    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Accessible.md",
+    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Assistive.md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Analogous.md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Affinity diagram.md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Additive.md",
-    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Accessible.md",
-    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Assistive.md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/w3.CSS Templates.md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Wicked Problems.md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Web technology.md",
@@ -264,8 +265,6 @@
     "2024 Semester 1/ACCTG151G - Financial Literacy/Bear market.md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Common Fate Principle.md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Gestalt Principles of Perception.md",
-    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Similarity Principle.md",
-    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Proximity Principle.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Untitled",
     "2024 Semester 1",
     "2023 Semester 2",
