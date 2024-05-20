@@ -24,3 +24,6 @@ with level AA being the most commonly used by industry (we should look to confor
 - Functional Colour should be used additionally to other representations of the information
 #compsci345example In markers on these slides we use cross & ticks where the colours are only repeating the information already given by the symbols![[Pasted image 20240520135513.png]]
 #### Texture aids readability for colour blind
+![[Pasted image 20240520135612.png]]
+#### Colour perception in different types of colour blindness
+![[Pasted image 20240520135641.png]]
