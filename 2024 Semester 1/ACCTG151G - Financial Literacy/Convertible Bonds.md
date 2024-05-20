@@ -1,1 +1,1 @@
-Convertible Bonds = [[Bonds or Debentures (Government or Company)]] converted to shares after a certain condition is met
+- Convertible Bonds = [[Bonds or Debentures (Government or Company)]] converted to shares after a certain condition is met
