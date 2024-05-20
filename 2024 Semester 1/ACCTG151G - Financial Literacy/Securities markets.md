@@ -4,3 +4,4 @@
 2. [[Money Market]]
 
 - If you invest in shares in a company that doesn't go bankrupt, you can essentially hold the shares indefinitely
+## Clas
