@@ -7,4 +7,6 @@ allows investor to purchase securities on credit by borrowing part of purchase p
 #### Margin trade with loss
 ![[Pasted image 20240520133523.png]]
 ## Leveraged Investments
-Imagine that you and 2 of your friends have $500,000 each & have decided to invest in property. You & Jim
+Imagine that you and 2 of your friends have $500,000 each & have decided to invest in property. You & Jim have decided to form a partnership & Glorias decided to "do it alone".
+You have found 2 houses, side-by-side in a new development, both costing $1,000,000
+You
