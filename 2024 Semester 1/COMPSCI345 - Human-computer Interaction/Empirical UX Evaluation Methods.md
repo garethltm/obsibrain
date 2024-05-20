@@ -1,1 +1,1 @@
-- [[2024 Semester 1/COMPSCI345 - Human-computer Interaction/Empirical|Empirical]] methods, by definition, depend
+- [[2024 Semester 1/COMPSCI345 - Human-computer Interaction/empirical|empirical]] methods, by definition, depend on data observed in the performance of real user participants & data coming directly from user participants. These data include critical incident data observed in [[2024 Semester 1/COMPSCI345 - Human-computer Interaction/empirical|empirical]] evaluation & comments from users while "thinking aloud" &)
