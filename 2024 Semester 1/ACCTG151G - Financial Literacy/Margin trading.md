@@ -4,3 +4,7 @@ allows investor to purchase securities on credit by borrowing part of purchase p
 #acctg151Gexample 
 ### Margin trade with profit
 ![[Pasted image 20240520133459.png]]
+### Margin trade with loss
+![[Pasted image 20240520133523.png]]
+
+## Leveraged Investments
