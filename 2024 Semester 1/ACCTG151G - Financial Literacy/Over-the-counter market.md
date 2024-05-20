@@ -1,3 +1,3 @@
 - less regulated, loosely regulated
 - [[Secondary Market]] where securities are traded via a telecommunications network
-- Investors trade directly with securities dealers
+- Investors trade directly with [[securities dealers]]
