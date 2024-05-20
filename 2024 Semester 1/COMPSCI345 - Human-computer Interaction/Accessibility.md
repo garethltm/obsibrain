@@ -10,4 +10,6 @@ ensures both:
 - Other good practices that improve [[2024 Semester 1/COMPSCI345 - Human-computer Interaction/Accessibility|Accessibility]] also make your site more usable by other groups, such as mobile phone users or those on low network speed. In fact, everyone can benefit from many such improvements
 ## Importance of Accessibility
 World Health Organization estimates:
-1
+1. "285 million people are estimated to be visually impaired worldwide: 39 million are blind & 246 million have low vision".
+2. "466 million people worldwide have disabling hearing loss."
+3. 
