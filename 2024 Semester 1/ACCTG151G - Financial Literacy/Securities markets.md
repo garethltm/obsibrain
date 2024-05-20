@@ -7,4 +7,7 @@
 ## Classification of functions
 1. [[Primary Market]]
 2. [[Secondary Market]]
-## 
+## Markets
+1. NZX Main Board (NZSX)
+2. NZX Debt Market (NZDX)
+3. NZD
