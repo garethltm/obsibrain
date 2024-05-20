@@ -11,8 +11,12 @@
             "id": "81e069876833d26d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Bank deposits.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -82,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Bank deposits.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Bank deposits.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Bank deposits.md"
+              }
             }
           },
           {
@@ -147,7 +155,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {}
+              "state": {
+                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Bank deposits.md"
+              }
             }
           },
           {
@@ -172,6 +182,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Bank deposits.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -219,6 +230,7 @@
   },
   "active": "81e069876833d26d",
   "lastOpenFiles": [
+    "Different investment products.md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Accessibility.md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/New Zealand Debt Market (NZDX).md",
     "@images/Pasted image 20240520124330.png",
