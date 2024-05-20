@@ -91,7 +91,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "dimension reduction",
+                "query": "order path:\"2024 Semester 1/ACCTG151G - Financial Literacy\"  ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -108,7 +108,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -273,9 +274,11 @@
   },
   "active": "4643d37074eb2051",
   "lastOpenFiles": [
+    "2024 Semester 1/ACCTG151G - Financial Literacy/Personal financial planning (personal finance).md",
+    "2024 Semester 1/ACCTG151G - Financial Literacy/Types of orders.md",
+    "2024 Semester 1/ACCTG151G - Financial Literacy/Executing trades.md",
     "@images/Pasted image 20240520132457.png",
     "2024 Semester 1/ACCTG151G - Financial Literacy/Secondary Market.md",
-    "2024 Semester 1/ACCTG151G - Financial Literacy/Executing trades.md",
     "2024 Semester 1/ACCTG151G - Financial Literacy/Securities markets.md",
     "2024 Semester 1/ACCTG151G - Financial Literacy/Different investment products.md",
     "2024 Semester 1/ACCTG151G - Financial Literacy/Annuity.md",
@@ -298,7 +301,6 @@
     "2024 Semester 1/ACCTG151G - Financial Literacy/Investing.md",
     "2024 Semester 1/ACCTG151G - Financial Literacy/Ordinary Shares (or Common Stock).md",
     "2024 Semester 1/ACCTG151G - Financial Literacy/Banks (Commercial Banks).md",
-    "2024 Semester 1/ACCTG151G - Financial Literacy/Bank deposits.md",
     "@images/Pasted image 20240520124514.png",
     "@images/Pasted image 20240520124330.png",
     "@images/Pasted image 20240515164136.png",
@@ -308,7 +310,6 @@
     "@images/Pasted image 20240515163716.png",
     "@images/Pasted image 20240515161922.png",
     "@images/Pasted image 20240515161532.png",
-    "@images/Pasted image 20240515161404.png",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Untitled",
     "2024 Semester 1",
     "2023 Semester 2",
