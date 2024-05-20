@@ -2,3 +2,5 @@
 - [[Preference shares]]
 - [[Managed funds]]
 - [[Real estate]]
+- [[Commodities]] & [[Futures]]
+	- originally designed for agricultural producers to manage pri
