@@ -1,4 +1,4 @@
-- these are first published by the World Wide Web Consortium (W3C) in 2008 to assist web developers in creating accessible web sites.
+- these are first published by the World Wide Web Consortium (W3C) in 2008 to assist web developers in creating [[accessible]] web sites.
 ### 3 WCAG levels
 1. A
 2. AA
@@ -33,3 +33,5 @@ with level AA being the most commonly used by industry (we should look to confor
 ## WA - Page Title
 - Good page titles are particularly important for orientation
 - Hence, there should be title that adequately & briefly describes the content of the page![[Pasted image 20240520140247.png]]
+## [[2024 Semester 1/COMPSCI345 - Human-computer Interaction/Accessibility|Accessibility]] of Forms
+Labels & clear instructions are important for forms 

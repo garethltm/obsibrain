@@ -13,27 +13,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Limit order.md",
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Web Content Accessibility Guidelines (WCAG).md",
                 "mode": "source",
                 "source": false
               }
             },
             "group": "0d6792e38a3c1125"
-          },
-          {
-            "id": "2d4c83461737cf9f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Web Content Accessibility Guidelines (WCAG).md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "da37652f4b080ab1",
@@ -45,7 +32,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Limit order.md",
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Web Content Accessibility Guidelines (WCAG).md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -284,24 +271,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2d4c83461737cf9f",
+  "active": "4643d37074eb2051",
   "lastOpenFiles": [
+    "2024 Semester 1/ACCTG151G - Financial Literacy/Limit order.md",
+    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Accessibility.md",
+    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Accessible.md",
+    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Web Content Accessibility Guidelines (WCAG).md",
     "@images/Pasted image 20240520140247.png",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Keyboard Accessibility.md",
     "@images/Pasted image 20240520140023.png",
-    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Web Content Accessibility Guidelines (WCAG).md",
     "@images/Pasted image 20240520135817.png",
     "@images/Pasted image 20240520135708.png",
     "@images/Pasted image 20240520135641.png",
     "@images/Pasted image 20240520135612.png",
     "@images/Pasted image 20240520135513.png",
     "@images/Pasted image 20240520135029.png",
-    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Accessibility.md",
     "2024 Semester 1/ACCTG151G - Financial Literacy/Margin trading.md",
     "@images/Pasted image 20240520133908.png",
     "@images/Pasted image 20240520133523.png",
-    "@images/Pasted image 20240520133459.png",
-    "2024 Semester 1/ACCTG151G - Financial Literacy/Limit order.md",
     "2024 Semester 1/ACCTG151G - Financial Literacy/Types of orders.md",
     "2024 Semester 1/ACCTG151G - Financial Literacy/Stop-loss order.md",
     "2024 Semester 1/ACCTG151G - Financial Literacy/Market order.md",
