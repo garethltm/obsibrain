@@ -2,7 +2,8 @@
 ## Objective [[User eXperience (UX)]] measures (directly measurable by evaluators):
 1. Initial performance
 	- How the user uses it for the first time
-2. Long-term performance (lojngi)
+2. Long-term performance (longitudinal, experienced, steady state) 
+	- How they use it over time
 3. Learnability
 4. Retainability
 5. Advanced feature usage
