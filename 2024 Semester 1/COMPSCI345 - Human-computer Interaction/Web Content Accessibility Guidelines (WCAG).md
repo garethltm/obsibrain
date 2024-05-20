@@ -13,3 +13,5 @@ with level AA being the most commonly used by industry (we should look to confor
 - Explicit font size setting: 16px as frequent recommendation
 - Using standard settings #compsci345example of established frameworks. 
 - Font size setting #compsci345example for paragraphs is expected to be acceptable
+## Colour Contrast
+- Many users cannot read text if there is not sufficient contrast between text & bac
