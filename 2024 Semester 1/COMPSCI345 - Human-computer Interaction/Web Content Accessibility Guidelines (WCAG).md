@@ -15,6 +15,9 @@ with level AA being the most commonly used by industry (we should look to confor
 - Font size setting #compsci345example for paragraphs is expected to be acceptable
 ## Colour Contrast
 - Many users cannot read text if there is not sufficient contrast between text & background, #compsci345example  light gray text on a light background![[Pasted image 20240520135029.png]]
-## Readability is helped with larger size
+### Readability is helped with larger size
 1. If text < 18pt or < **14pt(bold)**, then 4:5:1 contrast
 2. If text $\ge$ 18pt or $\ge$ **14pt(bold)**, then 3:1 contrast
+1pt = 0.75px
+## Functional Colour
+- Functional Colour use is where colours transmit important information 
