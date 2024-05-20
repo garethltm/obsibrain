@@ -36,3 +36,4 @@ with level AA being the most commonly used by industry (we should look to confor
 ## [[2024 Semester 1/COMPSCI345 - Human-computer Interaction/Accessibility|Accessibility]] of Forms
 Labels & clear instructions are important for forms [[2024 Semester 1/COMPSCI345 - Human-computer Interaction/Accessibility|Accessibility]]. Each field should have an associated label or an appropriate title. All form controls are [[Keyboard Accessibility]] (in expected order)![[Pasted image 20240520140445.png]]
 ## WA - Alt Text
+T
