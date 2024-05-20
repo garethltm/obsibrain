@@ -1,0 +1,1 @@
+- for new Shares (or notes) issues which are available for the very first time. The issuing company gets the proceeds following the issuance of an ISP (INvestment Stat)
