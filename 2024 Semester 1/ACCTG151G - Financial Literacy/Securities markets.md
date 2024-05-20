@@ -6,3 +6,4 @@
 - If you invest in shares in a company that doesn't go bankrupt, you can essentially hold the shares indefinitely
 ## Classification of functions
 1. [[Primary Market]]
+2. [[Secondary Market]]
