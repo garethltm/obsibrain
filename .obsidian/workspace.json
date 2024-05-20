@@ -19,8 +19,21 @@
               }
             },
             "group": "0d6792e38a3c1125"
+          },
+          {
+            "id": "2d4c83461737cf9f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Untitled.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "da37652f4b080ab1",
@@ -91,7 +104,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "market",
+                "query": "tag:#acctg151Gexample",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -108,8 +121,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -130,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Limit order.md",
+                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Limit order.md",
+                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Limit order.md"
+                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Untitled.md"
               }
             }
           },
@@ -200,7 +212,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Limit order.md"
+                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Untitled.md"
               }
             }
           },
@@ -226,7 +238,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Limit order.md",
+                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Untitled.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -272,11 +284,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4643d37074eb2051",
+  "active": "2d4c83461737cf9f",
   "lastOpenFiles": [
+    "2024 Semester 1/ACCTG151G - Financial Literacy/Limit order.md",
+    "2024 Semester 1/ACCTG151G - Financial Literacy/Untitled.md",
     "2024 Semester 1/ACCTG151G - Financial Literacy/Types of orders.md",
     "2024 Semester 1/ACCTG151G - Financial Literacy/Stop-loss order.md",
-    "2024 Semester 1/ACCTG151G - Financial Literacy/Limit order.md",
     "2024 Semester 1/ACCTG151G - Financial Literacy/Market order.md",
     "2024 Semester 1/ACCTG151G - Financial Literacy/Securities markets.md",
     "2024 Semester 1/ACCTG151G - Financial Literacy/Secondary Market.md",
@@ -300,7 +313,6 @@
     "2024 Semester 1/ACCTG151G - Financial Literacy/Money Market.md",
     "2024 Semester 1/ACCTG151G - Financial Literacy/Capital Market.md",
     "2024 Semester 1/ACCTG151G - Financial Literacy/Options.md",
-    "2024 Semester 1/ACCTG151G - Financial Literacy/Commodities.md",
     "@images/Pasted image 20240520124514.png",
     "@images/Pasted image 20240520124330.png",
     "@images/Pasted image 20240515164136.png",
