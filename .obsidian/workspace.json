@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Accessible.md",
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Contextual Inquiry.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "prototype",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -86,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Accessible.md",
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Contextual Inquiry.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Accessible.md",
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Contextual Inquiry.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Accessible.md"
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Contextual Inquiry.md"
               }
             }
           },
@@ -156,7 +157,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Accessible.md"
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Contextual Inquiry.md"
               }
             }
           },
@@ -182,7 +183,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Accessible.md",
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Contextual Inquiry.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -229,9 +230,9 @@
   },
   "active": "5a7e75109dbb0da9",
   "lastOpenFiles": [
+    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Accessible.md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Web Content Accessibility Guidelines (WCAG).md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Accessibility.md",
-    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Accessible.md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Assistive.md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Analogous.md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Affinity diagram.md",
