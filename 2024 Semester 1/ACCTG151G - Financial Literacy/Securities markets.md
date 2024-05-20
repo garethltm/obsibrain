@@ -21,4 +21,5 @@
 	- Purpose is to provide for adequate & accurate disclosure of financial information
 		1. Companies Act 1993
 		2. Securities Act 1978
-		3. Securities Ac
+		3. Securities Markets Act 1988
+		4. Securities Regulation 2009
