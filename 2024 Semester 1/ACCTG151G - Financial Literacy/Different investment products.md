@@ -1,3 +1,4 @@
 - [[Bank deposits]]
 - [[Preference shares]]
 - [[Managed funds]]
+- [[Real estate]]

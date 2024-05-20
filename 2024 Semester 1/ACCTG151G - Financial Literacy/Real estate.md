@@ -1,0 +1,2 @@
+- can invest directly or through buying shares or units in a unit trust or shares in a property company
+- Estimating risk & expected return can be difficult. Investors must be aware of economic cycles
