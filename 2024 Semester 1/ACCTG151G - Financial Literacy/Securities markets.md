@@ -11,6 +11,7 @@
 1. NZX Main Board (NZSX)
 	- the original equities market & home for New Zealand's best known brands & companies
 2. NZX Debt Market (NZDX)
-	-
+	- offers a range of [[Bonds or Debentures (Government or Company)]] & fixed income securities
 3. NZX Equity Derivatives (NZCX)
+	- offers a very limited range of [[f]]
 4. NZX Dairy Derivatives & the Fonterra Shareholders Market (FSM)
