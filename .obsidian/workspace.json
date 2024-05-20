@@ -13,7 +13,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Virtual Desktop Infrastructure (VDI).md",
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Establish a baseline of the existing desktop environment.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -53,9 +53,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "4b499c60b3edc498",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Establish a baseline of the existing desktop environment.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -122,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Virtual Desktop Infrastructure (VDI).md",
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Establish a baseline of the existing desktop environment.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Virtual Desktop Infrastructure (VDI).md",
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Establish a baseline of the existing desktop environment.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Virtual Desktop Infrastructure (VDI).md"
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Establish a baseline of the existing desktop environment.md"
               }
             }
           },
@@ -192,7 +204,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Virtual Desktop Infrastructure (VDI).md"
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Establish a baseline of the existing desktop environment.md"
               }
             }
           },
@@ -218,7 +230,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Virtual Desktop Infrastructure (VDI).md",
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Establish a baseline of the existing desktop environment.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -264,9 +276,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d1257a35eae338c8",
+  "active": "4b499c60b3edc498",
   "lastOpenFiles": [
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Virtual Desktop Infrastructure (VDI).md",
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Establish a baseline of the existing desktop environment.md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Web Content Accessibility Guidelines (WCAG).md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Assistive Tools.md",
     "@images/Pasted image 20240520140654.png",
@@ -301,7 +314,6 @@
     "2024 Semester 1/ACCTG151G - Financial Literacy/Different investment products.md",
     "2024 Semester 1/ACCTG151G - Financial Literacy/Annuity.md",
     "2024 Semester 1/ACCTG151G - Financial Literacy/Bull market.md",
-    "2024 Semester 1/ACCTG151G - Financial Literacy/Market trends.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Untitled",
     "2024 Semester 1",
     "2023 Semester 2",
