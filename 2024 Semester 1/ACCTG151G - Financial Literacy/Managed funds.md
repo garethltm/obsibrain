@@ -1,2 +1,5 @@
 - managed by fund managers (they will invest in large investment portfolios)
-- collection of professiona
+- there is also higher management fees
+	- funds 
+- collection of professionally managed securities offered by an investment company
+- Return & level of Risk depend on characteristics of underlying portfolio #acctg151Gexample combination of investments
