@@ -39,3 +39,7 @@ Labels & clear instructions are important for forms [[2024 Semester 1/COMPSCI345
 - Text alternatives ("alt text") convey the purpose of an image, including pictures, illustrations, charts, etc. Text alternatives are used by people who do not see the image
 - This can happen in 2 cases:
 	- when people who are visually impaired rely completely on screen readers or when the link to the picture is broken![[Pasted image 20240520140637.png]]![[Pasted image 20240520140654.png]]
+## [[2024 Semester 1/COMPSCI345 - Human-computer Interaction/Accessibility|Accessibility]]: Audio content
+If audio content is present on an interface:
+1. Provide alternative information channels for the deaf & hard of hearing community
+2. 
