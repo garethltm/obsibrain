@@ -31,4 +31,5 @@ with level AA being the most commonly used by industry (we should look to confor
 ## Primary & Secondary Navigation
 ![[Pasted image 20240520135817.png]]
 ## WA - Page Title
-- Good page t
+- Good page titles are particularly important for orientation
+- Hence, there should be title that adequately & briefly describes the content of the page![[Pasted image 20240520140247.png]]
