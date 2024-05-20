@@ -1,0 +1,1 @@
+- where low-risk, short-term securities (those with maturities less than 1 year) are traded

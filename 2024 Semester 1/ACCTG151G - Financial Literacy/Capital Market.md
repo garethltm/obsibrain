@@ -1,1 +1,1 @@
-- where equities ([[Ordinary Shares (or Common Stock)]]) & long-term securities 
+- where equities ([[Ordinary Shares (or Common Stock)]]) & long-term securities (those with maturities greater than 1 year) are traded

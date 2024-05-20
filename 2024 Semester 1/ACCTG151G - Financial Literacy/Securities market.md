@@ -2,3 +2,4 @@
 
 ## 2 types
 1. [[Capital Market]]
+2. [[Money Market]]
