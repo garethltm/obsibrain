@@ -1,2 +1,0 @@
-- [[Bank deposits]]
-- [[Preference shares]]

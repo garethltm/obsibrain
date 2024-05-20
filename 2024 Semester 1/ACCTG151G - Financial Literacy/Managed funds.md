@@ -1,1 +1,2 @@
 - managed by fund managers (they will invest in large investment portfolios)
+- collection of professiona
