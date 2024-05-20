@@ -13,27 +13,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Types of orders.md",
+                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Limit order.md",
                 "mode": "source",
                 "source": false
               }
             },
             "group": "0d6792e38a3c1125"
-          },
-          {
-            "id": "9bfc6f57d5f7109b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Stop-loss order.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "da37652f4b080ab1",
@@ -45,7 +32,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Types of orders.md",
+                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Limit order.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -143,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Stop-loss order.md",
+                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Limit order.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Stop-loss order.md",
+                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Limit order.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -183,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Stop-loss order.md"
+                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Limit order.md"
               }
             }
           },
@@ -213,7 +200,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Stop-loss order.md"
+                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Limit order.md"
               }
             }
           },
@@ -239,7 +226,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Stop-loss order.md",
+                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Limit order.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -285,7 +272,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9bfc6f57d5f7109b",
+  "active": "4643d37074eb2051",
   "lastOpenFiles": [
     "2024 Semester 1/ACCTG151G - Financial Literacy/Types of orders.md",
     "2024 Semester 1/ACCTG151G - Financial Literacy/Stop-loss order.md",
