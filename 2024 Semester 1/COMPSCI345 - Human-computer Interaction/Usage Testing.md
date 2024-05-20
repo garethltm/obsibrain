@@ -17,3 +17,11 @@
 - Sessions usually around 30 minutes
 - Conditions are the same for every participant
 - Informed consent form explains procedures & deals with ethical issues
+## What [[Usage Testing]] can look like
+![[Pasted image 20240521004826.png]]
+- we often want more than 1 facilitator so that there are dedicated people to noticing/observing what's going on
+#### Specific tasks
+- Observed
+- Recorded
+- Measured
+- Think-aloud
