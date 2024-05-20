@@ -42,4 +42,5 @@ Labels & clear instructions are important for forms [[2024 Semester 1/COMPSCI345
 ## [[2024 Semester 1/COMPSCI345 - Human-computer Interaction/Accessibility|Accessibility]]: Audio content
 If audio content is present on an interface:
 1. Provide alternative information channels for the deaf & hard of hearing community
-2. 
+2. Audio: transcripts
+3. Video content: closed captioning
