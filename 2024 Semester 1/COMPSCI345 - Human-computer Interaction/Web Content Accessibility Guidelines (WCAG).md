@@ -34,4 +34,5 @@ with level AA being the most commonly used by industry (we should look to confor
 - Good page titles are particularly important for orientation
 - Hence, there should be title that adequately & briefly describes the content of the page![[Pasted image 20240520140247.png]]
 ## [[2024 Semester 1/COMPSCI345 - Human-computer Interaction/Accessibility|Accessibility]] of Forms
-Labels & clear instructions are important for forms 
+Labels & clear instructions are important for forms [[2024 Semester 1/COMPSCI345 - Human-computer Interaction/Accessibility|Accessibility]]. Each field should have an associated label or an appropriate title. All form controls are [[Keyboard Accessibility]] (in expected order)![[Pasted image 20240520140445.png]]
+## WA - Alt Text
