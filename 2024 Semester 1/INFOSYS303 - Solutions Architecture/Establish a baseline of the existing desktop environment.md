@@ -14,4 +14,5 @@
 2. Liquidware Labs Stratusphere FIT
 3. Lakeside Software SysTrack
 In addition, both Windows XP & Windows 7 ship with Performance Monitor (`Perfmon`), a performance logs & alerts tool. `Perfmon` allows administrators to capture & graph various performance statistics from both local & remote computers.
-Physical-to-virtual hardware mapping is less important & should be considered separat
+Physical-to-virtual hardware mapping is less important & should be considered separately. Ideally, start with the recommended sizing of **2vCPUs & 4GB RAM**, and size larger if necessary
+- this is a good recommendation (good starting point) $\right
