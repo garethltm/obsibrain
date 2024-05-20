@@ -5,3 +5,12 @@
 2. Analyse results
 	- What is causing problems?
 	- How can you fix them?
+![[Pasted image 20240521004509.png]]
+## Standard Usage Testing Conditions
+- UX lab or other space
+- Emphasis on:
+	- selecting representative users
+	- developing representative tasks
+- 5-10 users typically selected
+- Sessions usually around 30 minutes
+- Conditions are the same for every p
