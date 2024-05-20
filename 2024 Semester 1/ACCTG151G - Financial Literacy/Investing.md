@@ -40,7 +40,7 @@
 1. [[Ordinary Shares (or Common Stock)]]
 2. [[Bonds or Debentures (Government or Company)]]
 3. [[Bank deposits]]
-4. [[Preference shares & Convertible Bonds]]
+4. [[Preference shares]]
 5. [[Managed funds]]
 6. Real estate (investing in property)
 7. [[Commodities]], Financial Futures & Options

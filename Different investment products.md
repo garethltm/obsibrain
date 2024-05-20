@@ -1,2 +1,2 @@
 - [[Bank deposits]]
-- [[Preference shares & Convertible Bonds]]
+- [[Preference shares]]

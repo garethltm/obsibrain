@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "81e069876833d26d",
+            "id": "4643d37074eb2051",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Preference shares & Convertible Bonds.md",
+                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Convertible Bonds.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Preference shares & Convertible Bonds.md",
+                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Convertible Bonds.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Preference shares & Convertible Bonds.md",
+                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Convertible Bonds.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Preference shares & Convertible Bonds.md"
+                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Convertible Bonds.md"
               }
             }
           },
@@ -156,7 +156,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Preference shares & Convertible Bonds.md"
+                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Convertible Bonds.md"
               }
             }
           },
@@ -182,7 +182,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Preference shares & Convertible Bonds.md",
+                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Convertible Bonds.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -228,8 +228,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "81e069876833d26d",
+  "active": "4643d37074eb2051",
   "lastOpenFiles": [
+    "2024 Semester 1/ACCTG151G - Financial Literacy/Preference shares.md",
+    "2024 Semester 1/ACCTG151G - Financial Literacy/Convertible Bonds.md",
+    "2024 Semester 1/ACCTG151G - Financial Literacy/Banks (Commercial Banks).md",
     "Different investment products.md",
     "2024 Semester 1/ACCTG151G - Financial Literacy/Bank deposits.md",
     "@images/Pasted image 20240520124514.png",
@@ -260,9 +263,6 @@
     "@images/Pasted image 20240515163716.png",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Unsupervised Learning.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Bayesian Networks.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Naive Bayes Classifier.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Bayes Optimal Classifier.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Naive Bayes.md",
     "@images/Pasted image 20240515161922.png",
     "@images/Pasted image 20240515161532.png",
     "@images/Pasted image 20240515161404.png",
