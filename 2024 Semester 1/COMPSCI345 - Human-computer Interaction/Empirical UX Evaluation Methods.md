@@ -10,4 +10,4 @@
 5. Advanced feature usage
 ## Subjective [[User eXperience (UX)]] measures (based on user opinions - their internal experience):
 1. First impression (initial opinion, initial satisfaction)
-2. Long-term
+2. Long-term (longitudinal) user s
