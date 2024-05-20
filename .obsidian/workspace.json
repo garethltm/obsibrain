@@ -6,6 +6,7 @@
       {
         "id": "32bf5e3ca066426d",
         "type": "tabs",
+        "dimension": 80.28776978417265,
         "children": [
           {
             "id": "4643d37074eb2051",
@@ -13,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Assistive Tools.md",
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Web Content Accessibility Guidelines (WCAG).md",
                 "mode": "source",
                 "source": false
               }
@@ -25,6 +26,7 @@
       {
         "id": "da37652f4b080ab1",
         "type": "tabs",
+        "dimension": 19.71223021582734,
         "children": [
           {
             "id": "7a18fecbb144f11a",
@@ -32,7 +34,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Assistive Tools.md",
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Web Content Accessibility Guidelines (WCAG).md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -91,7 +93,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#acctg151Gexample",
+                "query": "functional colo",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -108,7 +110,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -129,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Assistive Tools.md",
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Web Content Accessibility Guidelines (WCAG).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Assistive Tools.md",
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Web Content Accessibility Guidelines (WCAG).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Assistive Tools.md"
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Web Content Accessibility Guidelines (WCAG).md"
               }
             }
           },
@@ -199,7 +202,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Assistive Tools.md"
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Web Content Accessibility Guidelines (WCAG).md"
               }
             }
           },
@@ -225,7 +228,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Assistive Tools.md",
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Web Content Accessibility Guidelines (WCAG).md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -273,8 +276,8 @@
   },
   "active": "4643d37074eb2051",
   "lastOpenFiles": [
-    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Web Content Accessibility Guidelines (WCAG).md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Assistive Tools.md",
+    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Web Content Accessibility Guidelines (WCAG).md",
     "@images/Pasted image 20240520140654.png",
     "@images/Pasted image 20240520140637.png",
     "@images/Pasted image 20240520140445.png",
