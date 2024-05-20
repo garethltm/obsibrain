@@ -5,5 +5,7 @@
 2. Long-term performance (longitudinal, experienced, steady state) 
 	- How they use it over time
 3. Learnability
+	- How they learn it overtime
 4. Retainability
 5. Advanced feature usage
+## Subjective [[ux]]
