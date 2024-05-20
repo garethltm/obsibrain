@@ -13,5 +13,5 @@
 2. NZX Debt Market (NZDX)
 	- offers a range of [[Bonds or Debentures (Government or Company)]] & fixed income securities
 3. NZX Equity Derivatives (NZCX)
-	- offers a very limited range of [[f]]
+	- offers a very limited range of [[Futures]] & [[Options]] contracts
 4. NZX Dairy Derivatives & the Fonterra Shareholders Market (FSM)
