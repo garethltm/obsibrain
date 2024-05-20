@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Executing trades.md",
+                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Securities markets.md",
                 "mode": "source",
                 "source": false
               }
@@ -32,7 +32,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Executing trades.md",
+                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Securities markets.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -91,7 +91,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "order path:\"2024 Semester 1/ACCTG151G - Financial Literacy\"  ",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -108,8 +108,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -130,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Executing trades.md",
+                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Securities markets.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Executing trades.md",
+                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Securities markets.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +169,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Executing trades.md"
+                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Securities markets.md"
               }
             }
           },
@@ -200,7 +199,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Executing trades.md"
+                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Securities markets.md"
               }
             }
           },
@@ -226,7 +225,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Executing trades.md",
+                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Securities markets.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -274,9 +273,10 @@
   },
   "active": "4643d37074eb2051",
   "lastOpenFiles": [
-    "2024 Semester 1/ACCTG151G - Financial Literacy/Personal financial planning (personal finance).md",
     "2024 Semester 1/ACCTG151G - Financial Literacy/Types of orders.md",
+    "2024 Semester 1/ACCTG151G - Financial Literacy/Market order.md",
     "2024 Semester 1/ACCTG151G - Financial Literacy/Executing trades.md",
+    "2024 Semester 1/ACCTG151G - Financial Literacy/Personal financial planning (personal finance).md",
     "@images/Pasted image 20240520132457.png",
     "2024 Semester 1/ACCTG151G - Financial Literacy/Secondary Market.md",
     "2024 Semester 1/ACCTG151G - Financial Literacy/Securities markets.md",
@@ -300,7 +300,6 @@
     "2024 Semester 1/ACCTG151G - Financial Literacy/Preference shares.md",
     "2024 Semester 1/ACCTG151G - Financial Literacy/Investing.md",
     "2024 Semester 1/ACCTG151G - Financial Literacy/Ordinary Shares (or Common Stock).md",
-    "2024 Semester 1/ACCTG151G - Financial Literacy/Banks (Commercial Banks).md",
     "@images/Pasted image 20240520124514.png",
     "@images/Pasted image 20240520124330.png",
     "@images/Pasted image 20240515164136.png",
