@@ -3,7 +3,9 @@
 	 - ### [[Usage Testing]]
 		 - to identify problems before too costly to fix
 		 ##### When to do we do it?
-		 - Early & often - from init
+		 - Early & often - from initial design to late stages
+		 - [[Usage Testing]] plans involve carefully choosing tasks & writing scenarios/prompts
+		 - [[Usage Testing]] protocols include what you say, what you'll observe/record & what you'll do (eg., give a que)
 1. Evaluation goals, metrics & targets
 	- [[Typical UX metrics]]
 2. Empirical evaluation: Preparation
