@@ -1,4 +1,5 @@
-- [[2024 Semester 1/COMPSCI345 - Human-computer Interaction/empirical|empirical]] methods, by definition, depend on data observed in the performance of real user participants & data coming directly from user participants. These data include critical incident data observed in [[2024 Semester 1/COMPSCI345 - Human-computer Interaction/empirical|empirical]] evaluation & comments from users (verbalisation from the users) while "thinking aloud" &/or in their questionnaire responses
+- [[2024 Semester 1/COMPSCI345 - Human-computer Interaction/empirical|empirical]] methods, by definition, depend on data observed in the performance of real user participants & data coming directly from user participants. 
+- These data include [[Critical Incidents]] data observed in [[2024 Semester 1/COMPSCI345 - Human-computer Interaction/empirical|empirical]] evaluation & comments from users (verbalisation from the users) while "thinking aloud" &/or in their questionnaire responses
 ## Objective [[User eXperience (UX)]] measures 
 (directly measurable by evaluators):
 1. Initial performance
