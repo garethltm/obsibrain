@@ -13,7 +13,12 @@
 	- [[Presenting quantitative results]]
 
 
-| [[Usage Testing]] | Science |
-| ----------------- | ------- |
-| Improve products  |         |
-|                   |         |
+| [[Usage Testing]]                         | Science                        |
+| ----------------------------------------- | ------------------------------ |
+| Improve products                          | Discover knowledge             |
+| Few participants                          | Many participants              |
+| Results inform design                     | Results validated satistically |
+| Usually not completely replicable         | Must be replicable             |
+| Conditions controlled as much as possible | Strongly controlled co         |
+| Procedure planned                         |                                |
+| Results reported to developers            |                                |
