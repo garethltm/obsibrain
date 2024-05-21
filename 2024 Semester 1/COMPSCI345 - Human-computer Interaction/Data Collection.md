@@ -30,4 +30,7 @@ Objective/Quantitative - [[Critical Incidents]]
 		- Phone: You are just using it to browse - quick check
 		- Tablet: You are using it for leisure
 	- different context to shift the purpose of the design
-3. What are the key []
+3. What are the key [[Tasks]] for this interface?
+4. What would be helpful preparation for the facilitation to construct ideal tasks?
+5. What is the exact wording for the prompts you would use to elicit tasks?
+- Is there a specific way to cus
