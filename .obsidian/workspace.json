@@ -216,7 +216,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 371.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -228,7 +228,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5a7e75109dbb0da9",
+  "active": "0f8e0230b587650a",
   "lastOpenFiles": [
     "@images/Pasted image 20240521010703.png",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Evaluate UX.md",
