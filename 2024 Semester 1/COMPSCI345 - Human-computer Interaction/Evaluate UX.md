@@ -9,6 +9,10 @@
 2. Evaluation goals, metrics & targets
 	- #### [[Typical UX metrics]]
 	- #### [[Questionnaires]]
+	- #### [[UX Goals]]
+	- #### Choose metrics associated to UX goals
+![[Pasted image 20240521230427.png]]
+
 1. Empirical evaluation: Preparation
 	- #### [[Empirical UX Evaluation Methods]]
 2. Empirical evaluation: [[Data collection]]
