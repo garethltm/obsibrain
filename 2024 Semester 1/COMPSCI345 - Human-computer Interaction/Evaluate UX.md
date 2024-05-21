@@ -14,7 +14,8 @@
 	 - #### [[Critical Incidents]]
 2. Analytical evaluation: [[Data collection]]
 	- #### [[Measurability of user experience]]
-	- /
+	- #### [[Rigor vs Rapidness]]
+	- #### [[Reliability of UX evaluation methods]]
 1. UX evaluation: Data analysis
 	- #### [[Analysing qualitative data]]
 	- #### [[Formative UX evaluation]] vs [[Summative UX evaluation]]![[Pasted image 20240522012213.png]]
