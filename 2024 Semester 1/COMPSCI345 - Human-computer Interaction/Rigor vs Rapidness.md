@@ -1,0 +1,3 @@
+- basic tradeoff
+- completeness & accuracy vs time & cost
+- some [[User eXperience (UX)]] methods fav
