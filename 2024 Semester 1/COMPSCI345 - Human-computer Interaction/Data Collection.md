@@ -10,6 +10,7 @@
 - Observer
 ## Types of data
 ![[Pasted image 20240521010703.png]]
-- Qualitative, Quantitative
+- Qualitative
+- Quantitative
 - Objective
 - Subjective
