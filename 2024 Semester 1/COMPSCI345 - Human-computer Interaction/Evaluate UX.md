@@ -6,6 +6,7 @@
 4. Empirical evaluation: Data collection
 5. Analytical evaluation: Data collection
 6. UX evaluation: Data analysis
+	- [[Analysing qualitative data]]
 7. UX evaluation: Reporting results
 	- [[Presenting quantitative results]]
 ## Typical [[User eXperience (UX)]] metrics

@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "87d8c8c8952d52af",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Analysing qualitative data.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "bc8f038dcf605f62",
             "type": "leaf",
             "state": {
@@ -99,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Presenting quantitative results.md",
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Analysing qualitative data.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Presenting quantitative results.md",
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Analysing qualitative data.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Presenting quantitative results.md"
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Analysing qualitative data.md"
               }
             }
           },
@@ -169,7 +181,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Presenting quantitative results.md"
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Analysing qualitative data.md"
               }
             }
           },
@@ -195,7 +207,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Presenting quantitative results.md",
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Analysing qualitative data.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -241,10 +253,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bc8f038dcf605f62",
+  "active": "87d8c8c8952d52af",
   "lastOpenFiles": [
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Evaluate UX.md",
+    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Analysing qualitative data.md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Presenting quantitative results.md",
+    "@images/Pasted image 20240522010415.png",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Empirical UX Evaluation Methods.md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Diversity.md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/When to help.md",
@@ -274,11 +288,9 @@
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Logs & Notes.md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Usage Testing.md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Reliability of UX evaluation methods.md",
-    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Rigor vs Rapidness.md",
     "@images/Pasted image 20240521214918.png",
     "@images/Pasted image 20240521213855.png",
     "@images/Pasted image 20240521213852.png",
-    "@images/Pasted image 20240521213558.png",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Untitled",
     "2024 Semester 1",
     "2023 Semester 2",

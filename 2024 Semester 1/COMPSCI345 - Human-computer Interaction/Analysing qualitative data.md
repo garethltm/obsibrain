@@ -1,0 +1,3 @@
+- Cropped images/videos are helpful
+- Keep observations/quotes separate from:
+	- 
