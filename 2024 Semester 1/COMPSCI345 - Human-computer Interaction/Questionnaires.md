@@ -21,3 +21,8 @@
 2. People don't like to fill out long [[Questionnaires]]
 3. Closed-ended questions can restrict responses
 4. Open-ended questions can be hard to quantify
+## Questions - open & closed
+1. Open questions give you rich qualitative data
+	- Best for finding the seeds of resolutions to problems
+2. Closed questions allow you to quantify
+	- #
