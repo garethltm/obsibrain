@@ -30,4 +30,9 @@
 	- use prototypes $\rightarrow$ to make sure we are in the right direction
 ### In design
 - Early, often, informal, preferably with paper prototype to get the right product concept
-- As the des
+- As the design progresses
+	- Working prototypes
+	- Feedback to design team & broader project management on areas & priorities for change
+### In product selection
+- Simplified version with prototyping tool
+- Will this product work for your organisation (or your client)?
