@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Data Collection.md",
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/overcommit ratio.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Data Collection.md",
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/overcommit ratio.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Data Collection.md",
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/overcommit ratio.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Data Collection.md"
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/overcommit ratio.md"
               }
             }
           },
@@ -156,7 +156,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Data Collection.md"
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/overcommit ratio.md"
               }
             }
           },
@@ -182,7 +182,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Data Collection.md",
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/overcommit ratio.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -229,6 +229,7 @@
   },
   "active": "ba3c467ccf06b2d0",
   "lastOpenFiles": [
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/CPU.md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Data Collection.md",
     "conflict-files-obsidian-git.md",
     "@images/Pasted image 20240521010703.png",
