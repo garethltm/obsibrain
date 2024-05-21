@@ -9,5 +9,11 @@
 6. UX evaluation: Data analysis
 	- [[Analysing qualitative data]]
 	- [[Formative UX evaluation]] vs [[Summative UX evaluation]]
-1. UX evaluation: Reporting results
+7. UX evaluation: Reporting results
 	- [[Presenting quantitative results]]
+
+
+| [[Usage Testing]] | Science |
+| ----------------- | ------- |
+| Improve products  |         |
+|                   |         |
