@@ -41,3 +41,4 @@ User Experience Goals for the Ticket Kiosk System
 	- High learnability for more advanced tasks
 	- Draw, engagement, attraction
 	- Low error rate for completing transactions correctly, especially in the interaction for payment
+![[Pasted image 20240521221644.png]]
