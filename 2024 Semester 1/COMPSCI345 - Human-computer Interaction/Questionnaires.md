@@ -27,5 +27,7 @@
 2. Closed questions allow you to quantify
 	- #compsci345example 
 	- Is this website easy to use? (Yes or No)
+		- we need a more objective measure (how fast etc.) to know if it is "easy" to use
 	- Yes/No is okay but it is overall better to use Likert scale (Strongly Agree; Agree; Disagree; Strongly Disagree)
-	- Convert
+	- Converts to scores (1-4, 1-7- etc.), can report mean & other statistics & graphs
+###
