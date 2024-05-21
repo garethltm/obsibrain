@@ -1,1 +1,0 @@
-they have the right to discontinue the session at any time
