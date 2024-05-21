@@ -1,6 +1,6 @@
 ![[Pasted image 20240521004149.png]]
 1. Evaluation methods & techniques
-	 - [[Usage Testing]]
+	 - ## [[Usage Testing]] - to identify problems before too costly to fix
 2. Evaluation goals, metrics & targets
 	- [[Typical UX metrics]]
 3. Empirical evaluation: Preparation
@@ -8,7 +8,7 @@
 5. Analytical evaluation: Data collection
 6. UX evaluation: Data analysis
 	- [[Analysing qualitative data]]
-	- [[Formative UX evaluation]] vs [[Summative UX evaluation]]
+	- [[Formative UX evaluation]] vs [[Summative UX evaluation]]![[Pasted image 20240522012213.png]]
 7. UX evaluation: Reporting results
 	- [[Presenting quantitative results]]
 
