@@ -30,4 +30,7 @@
 		- we need a more objective measure (how fast etc.) to know if it is "easy" to use
 	- Yes/No is okay but it is overall better to use Likert scale (Strongly Agree; Agree; Disagree; Strongly Disagree)
 	- Converts to scores (1-4, 1-7- etc.), can report mean & other statistics & graphs
-###
+### Identify goals for the project
+#compsci345example
+User Experience Goals for the Ticket Kiosk System
+- from our usage research data, we can define the primary high-level [[User eXperience (UX)]] goals for the ticket buyer to include:
