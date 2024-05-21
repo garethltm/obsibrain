@@ -1,2 +1,5 @@
 - if deception is used $\rightarrow$ they should be informed after
-- Participants need to be told why the evaluation is being done, what theywi
+- Participants need to be told why the evaluation is being done, what they will be asked to do & their rights
+- [[informed consent]] forms provide this information
+- The design of the [[informed consent]] form, the evaluation process, data analysis & data storage methods are typically approved by a high authority
+- 
