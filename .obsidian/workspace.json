@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Reliability of UX evaluation methods.md",
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Usage Testing.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Reliability of UX evaluation methods.md",
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Usage Testing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Reliability of UX evaluation methods.md",
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Usage Testing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Reliability of UX evaluation methods.md"
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Usage Testing.md"
               }
             }
           },
@@ -168,7 +168,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Reliability of UX evaluation methods.md"
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Usage Testing.md"
               }
             }
           },
@@ -194,7 +194,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Reliability of UX evaluation methods.md",
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Usage Testing.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -242,8 +242,9 @@
   },
   "active": "415e282d5c2e3820",
   "lastOpenFiles": [
-    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Rigor vs Rapidness.md",
+    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Evaluate UX.md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Reliability of UX evaluation methods.md",
+    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Rigor vs Rapidness.md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Measurability of user experience.md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/empirical.md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Empirical UX Evaluation Methods.md",
@@ -265,7 +266,6 @@
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/CPU.md",
     "conflict-files-obsidian-git.md",
     "@images/Pasted image 20240521010703.png",
-    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Evaluate UX.md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/User eXperience (UX).md",
     "@images/Pasted image 20240521004826.png",
     "@images/Pasted image 20240521004509.png",
