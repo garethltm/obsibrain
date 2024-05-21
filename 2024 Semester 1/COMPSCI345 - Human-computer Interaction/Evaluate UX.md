@@ -1,5 +1,6 @@
 ![[Pasted image 20240521004149.png]]
-1. 
+1. Evaluation methods & techniques
+2. Evaluation goals, metrics & targets
 - [[Usage Testing]]
 ## Typical [[User eXperience (UX)]] metrics
 - time to complete task
