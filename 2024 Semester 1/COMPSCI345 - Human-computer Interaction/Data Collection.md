@@ -22,3 +22,7 @@ Imagine you were tasked to evaluate the [[User eXperience (UX)]] of this interfa
 Give an example of each of:
 1. Objective Qualitative data
 2. Objective Quantitative data
+	- Find various things in the website & see how long it might take
+3. Subjective Qualitative data
+	- Colour & Brand identity
+4. Subjective Quantitative data
