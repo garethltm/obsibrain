@@ -4,4 +4,6 @@
 	- [[Exploratory free use]]
 	- [[Reviewing Tasks]]
 	- [[Task Order]]
-- #### [[i]]
+- #### [[informed consent form]]
+	- [[Write a Protocol that includes]]
+- [[Think aloud]]
