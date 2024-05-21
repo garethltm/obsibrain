@@ -27,4 +27,6 @@ Objective/Quantitative - [[Critical Incidents]]
 	4. Subjective Quantitative data
 2. Imagine you were tasked to evaluate the [[User eXperience (UX)]] of Yahoo Sports for phone vs tablet. How would 'fit for purpose' goals differ for each?
 	- Is it usable with 1-hand for phone ([[Usability]])
-	- Phone: You are just using it to
+		- Phone: You are just using it to browse - quick check
+		- Tablet: You are using it for leisure
+	- different context to shift the purpose of the design

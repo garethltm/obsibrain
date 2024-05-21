@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Data Collection.md",
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Tasks.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,8 +77,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -99,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Data Collection.md",
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Tasks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Data Collection.md",
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Tasks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Data Collection.md"
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Tasks.md"
               }
             }
           },
@@ -169,7 +168,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Data Collection.md"
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Tasks.md"
               }
             }
           },
@@ -195,7 +194,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Data Collection.md",
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Tasks.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -243,6 +242,8 @@
   },
   "active": "415e282d5c2e3820",
   "lastOpenFiles": [
+    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Data Collection.md",
+    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Tasks.md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/empirical.md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Empirical UX Evaluation Methods.md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Usability for mobile.md",
@@ -259,7 +260,6 @@
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Reliability of UX evaluation methods.md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Rigor vs Rapidness.md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Measurability of user experience.md",
-    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Data Collection.md",
     "@images/Pasted image 20240521214918.png",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Critical Incidents.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Virtual Desktop Configuration by User Type.md",
@@ -278,7 +278,6 @@
     "@images/Pasted image 20240521010703.png",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/User eXperience (UX).md",
     "@images/Pasted image 20240521004826.png",
-    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Contextual Inquiry.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Untitled",
     "2024 Semester 1",
     "2023 Semester 2",
