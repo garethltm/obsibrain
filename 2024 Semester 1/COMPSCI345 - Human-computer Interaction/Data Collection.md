@@ -30,3 +30,4 @@ Objective/Quantitative - [[Critical Incidents]]
 		- Phone: You are just using it to browse - quick check
 		- Tablet: You are using it for leisure
 	- different context to shift the purpose of the design
+3. What are the key []
