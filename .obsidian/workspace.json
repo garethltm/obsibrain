@@ -13,7 +13,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Hick-Hyman Law.md",
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Accessibility.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -72,7 +72,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Hick-Hyman Law.md",
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Accessibility.md",
                 "mode": "source",
                 "source": false
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Hick-Hyman Law.md",
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Accessibility.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Hick-Hyman Law.md",
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Accessibility.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Hick-Hyman Law.md"
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Accessibility.md"
               }
             }
           },
@@ -216,7 +216,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Hick-Hyman Law.md"
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Accessibility.md"
               }
             }
           },
@@ -242,7 +242,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Hick-Hyman Law.md",
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Accessibility.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -289,11 +289,15 @@
   },
   "active": "c28546347828b7f8",
   "lastOpenFiles": [
+    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Web Content Accessibility Guidelines (WCAG).md",
+    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Usability.md",
+    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Usability Evaluations.md",
+    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Feature Purposes.md",
+    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Hick-Hyman Law.md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Generative design.md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Focus groups.md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Float Layout.md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Fidelity Prototypes.md",
-    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Feature Purposes.md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Design Walkthrough.md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Design solutions.md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Design Review.md",
@@ -315,13 +319,9 @@
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Data Collection.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Establish a baseline of the existing desktop environment.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Virtual Desktop Infrastructure (VDI).md",
-    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Web Content Accessibility Guidelines (WCAG).md",
-    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Assistive Tools.md",
     "@images/Pasted image 20240520140654.png",
     "@images/Pasted image 20240520140637.png",
     "@images/Pasted image 20240520140445.png",
-    "2024 Semester 1/ACCTG151G - Financial Literacy/Limit order.md",
-    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Accessibility.md",
     "@images/Pasted image 20240520140247.png",
     "@images/Pasted image 20240520140023.png",
     "@images/Pasted image 20240520135817.png",
