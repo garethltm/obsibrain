@@ -6,13 +6,15 @@
 	- #### [[Direct observations]]
 	- #### [[Critical Incidents]]
 5. Analytical evaluation: [[Data collection]]
+	- #### [[When to help]]
 	- #### [[Measurability of user experience]]
 	- #### [[Rigor vs Rapidness]]
 	- #### [[Reliability of UX evaluation methods]]
 6. UX evaluation: Data analysis
+	- #### [[Presenting quantitative results]]
 	- #### [[Analysing qualitative data]]
 	- #### [[Formative UX evaluation]] vs [[Summative UX evaluation]]![[Pasted image 20240522012213.png]]
-7. UX evaluation: Reporting results
+8. UX evaluation: Reporting results
 	- #### [[Presenting quantitative results]]
 
 | [[Usage Testing]]                         | Science                                   |
