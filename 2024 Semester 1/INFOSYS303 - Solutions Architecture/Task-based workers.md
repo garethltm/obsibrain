@@ -1,1 +1,1 @@
-Limited applications & limited perfo
+Limited applications & limited performance requirements
