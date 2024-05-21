@@ -11,8 +11,12 @@
             "id": "ba3c467ccf06b2d0",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Data Collection.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -65,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 276.5,
-    "collapsed": true
+    "width": 276.5
   },
   "right": {
     "id": "29204b37fc003a9a",
@@ -83,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Data Collection.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Data Collection.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -120,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Data Collection.md"
+              }
             }
           },
           {
@@ -148,7 +155,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {}
+              "state": {
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Data Collection.md"
+              }
             }
           },
           {
@@ -173,6 +182,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Data Collection.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
