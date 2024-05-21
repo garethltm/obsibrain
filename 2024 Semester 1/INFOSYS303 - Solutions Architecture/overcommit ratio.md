@@ -18,5 +18,6 @@ to allocate enough [[Memory]] to hold the set of applications & data while keepi
 ### Storage
 The Windows 7 64-bit version requires an additional 4GB of disk space over the Windows 7 32-bit version.
 - this will decrease the number of virtual machines on the server - unless additional storage can be added
-##### Formula
-$$\frac {Throughput(MB/sec\ \times 1024(KB/MB))}{}$$
+- disk input/output workload: peak is important value when measuring
+##### Formula of IOPS (which will always be an integer)
+$$\frac {Throughput(MB/sec)\ \times 1024(KB/MB)}{Blocksize(KB/IO)}$$
