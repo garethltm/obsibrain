@@ -1,1 +1,2 @@
-Utterly central to what you will learn in the [[Usage Testing]]
+- Utterly central to what you will learn in the [[Usage Testing]]
+- There just isn't time/resources to do [[Usage Testing]] on everything
