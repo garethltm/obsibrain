@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Untitled.md",
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Virtual Desktop Configuration by User Type.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7cd161d709dafedc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Task-based workers.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Untitled.md",
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Task-based workers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Untitled.md",
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Task-based workers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Untitled.md"
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Task-based workers.md"
               }
             }
           },
@@ -156,7 +169,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Untitled.md"
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Task-based workers.md"
               }
             }
           },
@@ -182,7 +195,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Untitled.md",
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Task-based workers.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -228,10 +241,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ba3c467ccf06b2d0",
+  "active": "7cd161d709dafedc",
   "lastOpenFiles": [
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Virtual Desktop Configuration by User Type.md",
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Task-based workers.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Virtual Desktop Infrastructure (VDI).md",
-    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Untitled.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/overcommit ratio.md",
     "@images/Pasted image 20240521213558.png",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Memory.md",
@@ -261,7 +275,6 @@
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Additive.md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/w3.CSS Templates.md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Wicked Problems.md",
-    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Web technology.md",
     "@images/Pasted image 20240520140654.png",
     "@images/Pasted image 20240520140637.png",
     "@images/Pasted image 20240520140445.png",
