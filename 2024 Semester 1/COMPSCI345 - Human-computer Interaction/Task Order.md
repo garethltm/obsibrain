@@ -1,2 +1,3 @@
 - If you have multiple tasks, or a task has subtasks that can be done in different orders, then you must consider task order
-- What differences could you expect 
+- What differences could you expect between
+	- Participants always doing task A 
