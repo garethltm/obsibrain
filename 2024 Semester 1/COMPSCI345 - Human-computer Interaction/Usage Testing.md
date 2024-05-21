@@ -25,4 +25,9 @@
 - Recorded
 - Measured
 - Think-aloud
-## When to do [[]]
+## When to do [[Usage Testing]]?
+- We want people to use it as intended
+	- use prototypes $\rightarrow$ to make sure we are in the right direction
+### In design
+- Early, often, informal, preferably with paper prototype to get the right product concept
+- As the des
