@@ -16,5 +16,6 @@ Instructional Wording in [[Benchmark Task]] for the Ticket Kiosk System
 ![[Pasted image 20240521233138.png]]
 ## Task Design
 - Prioritise [[Tasks]] that are crucial
-- Craft the specific langauge that the user will hear
+- Craft the specific language that the user will hear or read
+	- use normal language, no hints about your interface
 
