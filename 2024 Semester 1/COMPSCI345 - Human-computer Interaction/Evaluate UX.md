@@ -8,6 +8,6 @@
 5. Analytical evaluation: Data collection
 6. UX evaluation: Data analysis
 	- [[Analysing qualitative data]]
-7. UX evaluation: Reporting results
+	- [[Formative UX evaluation]]
+1. UX evaluation: Reporting results
 	- [[Presenting quantitative results]]
-## Typical [[User eXperience (UX)]] metrics
