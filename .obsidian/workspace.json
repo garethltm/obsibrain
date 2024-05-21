@@ -43,8 +43,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -111,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Analysing qualitative data.md",
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Evaluate UX.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Analysing qualitative data.md",
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Evaluate UX.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Analysing qualitative data.md"
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Evaluate UX.md"
               }
             }
           },
@@ -181,7 +180,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Analysing qualitative data.md"
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Evaluate UX.md"
               }
             }
           },
@@ -207,7 +206,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Analysing qualitative data.md",
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Evaluate UX.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -253,11 +252,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "87d8c8c8952d52af",
+  "active": "a495406cc55fc935",
   "lastOpenFiles": [
-    "@images/Pasted image 20240522010519.png",
+    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Typical UX metrics.md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Evaluate UX.md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Analysing qualitative data.md",
+    "@images/Pasted image 20240522010519.png",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Presenting quantitative results.md",
     "@images/Pasted image 20240522010415.png",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Empirical UX Evaluation Methods.md",
@@ -290,7 +290,6 @@
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Usage Testing.md",
     "@images/Pasted image 20240521214918.png",
     "@images/Pasted image 20240521213855.png",
-    "@images/Pasted image 20240521213852.png",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Untitled",
     "2024 Semester 1",
     "2023 Semester 2",
