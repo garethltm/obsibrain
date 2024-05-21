@@ -1,6 +1,4 @@
-- they have the right to discontinue the session at any time
-
-The [[informed consent form]], an important part of your IRB application and an important part of your [[Empirical UX Evaluation Methods]], is a requirement; it is not optional. The [[informed consent form]], which is to be read and signed by each participant, should state in clear understandable language:
+an important part of your IRB application and an important part of your [[Empirical UX Evaluation Methods]], is a requirement; it is not optional. The [[informed consent form]], which is to be read and signed by each participant, should state in clear understandable language:
 
 - That the participant is volunteering to participate in your evaluation.
 - The expected length of time for the evaluation session (the evaluator should have some idea of how long a session will take after performing pilot testing).
@@ -13,3 +11,4 @@ The [[informed consent form]], an important part of your IRB application and an 
 - That they can ask the evaluator questions at any time.
 - Whether any kind of recording (e.g., video, audio, photographic, or holodeck) involving the participant will be made and how you intend to use it, who will view it (and not), and by what date it will be erased or otherwise destroyed.
 - A statement that, if you want to use a video clip (for example) from the recording for any other purpose, you will get their additional approval in writing.
+#compsci345example ![[Pasted image 20240522005125.png]]
