@@ -37,5 +37,7 @@
 - Simplified version with prototyping tool
 - Will this product work for your organisation (or your client)?
 ## Finding 'bugs' is NOT the goal
+- finding bugs is more of a quality assurance thing
 - [[Usability]] Testing $\ne$ System testing
-- Aim is to elicit any [[User eXperience (UX)]] related problems if they're
+	- we are testing the intended design
+- Aim is to elicit any [[User eXperience (UX)]] related problems if they're there
