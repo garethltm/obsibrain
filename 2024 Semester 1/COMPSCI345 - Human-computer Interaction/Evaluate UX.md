@@ -8,18 +8,19 @@
 		 - [[Usage Testing]] protocols include what you say, what you'll observe/record & what you'll do (eg., give a [[Questionnaires]])
 2. Evaluation goals, metrics & targets
 	- #### [[Typical UX metrics]]
-3. Empirical evaluation: Preparation
+	- #### [[Questionnaires]]
+1. Empirical evaluation: Preparation
 	- #### [[Empirical UX Evaluation Methods]]
-1. Empirical evaluation: [[Data collection]]
+2. Empirical evaluation: [[Data collection]]
 	 - #### [[Critical Incidents]]
-2. Analytical evaluation: [[Data collection]]
+3. Analytical evaluation: [[Data collection]]
 	- #### [[Measurability of user experience]]
 	- #### [[Rigor vs Rapidness]]
 	- #### [[Reliability of UX evaluation methods]]
-1. UX evaluation: Data analysis
+4. UX evaluation: Data analysis
 	- #### [[Analysing qualitative data]]
 	- #### [[Formative UX evaluation]] vs [[Summative UX evaluation]]![[Pasted image 20240522012213.png]]
-2. UX evaluation: Reporting results
+5. UX evaluation: Reporting results
 	- #### [[Presenting quantitative results]]
 
 | [[Usage Testing]]                         | Science                                   |
