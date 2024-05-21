@@ -15,16 +15,20 @@
 
 1. Empirical evaluation: Preparation
 	- #### [[Empirical UX Evaluation Methods]]
-2. Empirical evaluation: [[Data collection]]
+	- #### [[Tasks]]
+		- [[Benchmark Task]]
+		- [[Exploratory free use]]
+		- [[Reviewing Tasks]]
+1. Empirical evaluation: [[Data collection]]
 	 - #### [[Critical Incidents]]
-3. Analytical evaluation: [[Data collection]]
+2. Analytical evaluation: [[Data collection]]
 	- #### [[Measurability of user experience]]
 	- #### [[Rigor vs Rapidness]]
 	- #### [[Reliability of UX evaluation methods]]
-4. UX evaluation: Data analysis
+3. UX evaluation: Data analysis
 	- #### [[Analysing qualitative data]]
 	- #### [[Formative UX evaluation]] vs [[Summative UX evaluation]]![[Pasted image 20240522012213.png]]
-5. UX evaluation: Reporting results
+4. UX evaluation: Reporting results
 	- #### [[Presenting quantitative results]]
 
 | [[Usage Testing]]                         | Science                                   |
