@@ -21,3 +21,7 @@
 | Conditions controlled as much as possible | Strongly controlled conditions            |
 | Procedure planned                         | Experimental design                       |
 | Results reported to developers            | Scientific report to scientific community |
+
+| [[Formative UX evaluation]] |     |
+| --------------------------- | --- |
+|                             |     |
