@@ -25,4 +25,7 @@
 1. Open questions give you rich qualitative data
 	- Best for finding the seeds of resolutions to problems
 2. Closed questions allow you to quantify
-	- #
+	- #compsci345example 
+	- Is this website easy to use? (Yes or No)
+	- Yes/No is okay but it is overall better to use Likert scale (Strongly Agree; Agree; Disagree; Strongly Disagree)
+	- Convert
