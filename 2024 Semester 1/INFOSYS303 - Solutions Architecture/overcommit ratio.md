@@ -3,7 +3,7 @@
 $$Virtual\ Machines\ per\ Server=\frac{Cores\ Available\ on\ Server}{vCPUs\ Needed\ per\ Virtual\ Machine}\times {Overcommit\ Ratio}$$
 #infosys303example if the overcommit ratio is 6, the previous example would advise a number of $8\times 6=48\ VMs\ per\ server$ (splitting workload across 48VMs)
 
-However, Microsoft advises: "Virtual machines possible per server" can vary based on upon the workload the virtual machines are running, the capacity of the server hardware, the requirements of the guest operating system & the efficiency of the hypervisor & available storage
+However, Microsoft advises: "Virtual machines possible per server" can vary based on upon the workload the virtual machines are running, the capacity of the server hardware, the requirements of the guest operating system & the efficiency of the [[Hypervisors (Virtual Machine Monitor - VMM)]] & available storage
 ![[Pasted image 20240521212539.png]]
 - Cloud providers are in a sense a capacity planning planner
 
@@ -16,4 +16,5 @@ to allocate enough [[Memory]] to hold the set of applications & data while keepi
 
 [[Memory]] should not be oversubscribed in a [[Virtual Desktop Infrastructure (VDI)]] deployment
 ### Storage
-The Windows 7 64-bit version requires an additional 4GB of disk space over the Windows 
+The Windows 7 64-bit version requires an additional 4GB of disk space over the Windows 7 32-bit version.
+- this will decrease the number of virtual machines on the server - unless additional
