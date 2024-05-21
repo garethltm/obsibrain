@@ -1,0 +1,1 @@
+is defined to be UX evaluation with the objective to sum up/assess the success of a UX design

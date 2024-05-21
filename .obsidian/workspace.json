@@ -18,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "87d8c8c8952d52af",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Analysing qualitative data.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -99,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Analysing qualitative data.md",
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Evaluate UX.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Analysing qualitative data.md",
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Evaluate UX.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Analysing qualitative data.md"
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Evaluate UX.md"
               }
             }
           },
@@ -169,7 +156,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Analysing qualitative data.md"
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Evaluate UX.md"
               }
             }
           },
@@ -195,7 +182,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Analysing qualitative data.md",
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Evaluate UX.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -241,13 +228,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "87d8c8c8952d52af",
+  "active": "a495406cc55fc935",
   "lastOpenFiles": [
-    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Presenting quantitative results.md",
+    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Summative UX evaluation.md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Evaluate UX.md",
+    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Analysing qualitative data.md",
+    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Presenting quantitative results.md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Formative UX evaluation.md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Typical UX metrics.md",
-    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Analysing qualitative data.md",
     "@images/Pasted image 20240522010519.png",
     "@images/Pasted image 20240522010415.png",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Empirical UX Evaluation Methods.md",
@@ -276,7 +264,6 @@
     "@images/Pasted image 20240521221644.png",
     "@images/Pasted image 20240521220910.png",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Collection - Elicitation.md",
-    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Logs & Notes.md",
     "@images/Pasted image 20240521214918.png",
     "@images/Pasted image 20240521213855.png",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Untitled",
