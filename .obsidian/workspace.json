@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Data Collection.md",
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Critical Incidents.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -99,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Empirical UX Evaluation Methods.md",
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Critical Incidents.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Empirical UX Evaluation Methods.md",
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Critical Incidents.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Empirical UX Evaluation Methods.md"
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Critical Incidents.md"
               }
             }
           },
@@ -169,7 +168,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Empirical UX Evaluation Methods.md"
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Critical Incidents.md"
               }
             }
           },
@@ -195,7 +194,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Empirical UX Evaluation Methods.md",
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Critical Incidents.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -241,10 +240,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0e570b7fd7700943",
+  "active": "415e282d5c2e3820",
   "lastOpenFiles": [
-    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Critical Incidents.md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Data Collection.md",
+    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Critical Incidents.md",
+    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Empirical UX Evaluation Methods.md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Usage Testing.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Virtual Desktop Configuration by User Type.md",
     "@images/Pasted image 20240521213855.png",
@@ -261,7 +261,6 @@
     "conflict-files-obsidian-git.md",
     "@images/Pasted image 20240521010703.png",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Evaluate UX.md",
-    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Empirical UX Evaluation Methods.md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/User eXperience (UX).md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/empirical.md",
     "@images/Pasted image 20240521004826.png",
