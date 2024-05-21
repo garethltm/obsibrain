@@ -17,4 +17,6 @@ to allocate enough [[Memory]] to hold the set of applications & data while keepi
 [[Memory]] should not be oversubscribed in a [[Virtual Desktop Infrastructure (VDI)]] deployment
 ### Storage
 The Windows 7 64-bit version requires an additional 4GB of disk space over the Windows 7 32-bit version.
-- this will decrease the number of virtual machines on the server - unless additional
+- this will decrease the number of virtual machines on the server - unless additional storage can be added
+##### Formula
+$$\frac {Throughput(MB/sec\ \times 1024(KB/MB))}{}$$
