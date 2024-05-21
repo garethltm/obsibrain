@@ -10,7 +10,11 @@
 		- If you're in a 'safe' zone where you're emulating well-established interaction patterns, then you'll learn less
 			- then again, still can be important to check that you got it right
 **say what to do but not how to do it**
+- give them a goal & not tell them anything about the interface $\rightarrow$ actually testing without interference
 #compsci345example 
 Instructional Wording in [[Benchmark Task]] for the Ticket Kiosk System
 ![[Pasted image 20240521233138.png]]
+## Task Design
+- Prioritise [[Tasks]] that are crucial
+- Craft the specific langauge that the user will hear
 
