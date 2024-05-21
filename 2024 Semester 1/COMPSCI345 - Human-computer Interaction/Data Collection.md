@@ -11,4 +11,5 @@
 ## Types of data
 ![[Pasted image 20240521010703.png]]
 - Qualitative, Quantitative
-- Objective, Subjective
+- Objective
+- Subjective
