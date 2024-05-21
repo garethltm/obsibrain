@@ -5,4 +5,7 @@
 	1. what's important, related to [[User eXperience (UX)]] goals
 	2. risk
 		- What's novel? What will differentiate this product? 
-			- not novel would mean not much testing because you can expect for a
+			- not novel would mean not much testing because you can expect for a certain target population that they're familiar
+		- What's potentially weak?
+		- If you're in a 'safe' zone where you're emulating well-established interaction patterns, then you'll learn less
+			- then again, still can be important to check that you got it right
