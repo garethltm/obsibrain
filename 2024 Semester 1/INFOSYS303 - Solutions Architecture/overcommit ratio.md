@@ -3,4 +3,4 @@
 $$Virtual\ Machines\ per\ Server=\frac{Cores\ Available\ on\ Server}{vCPUs\ Needed\ per\ Virtual\ Machine}\times {Overcommit\ Ratio}$$
 #infosys303example if the overcommit ratio is 6, the previous example would advise a number of $8\times 6=48\ VMs\ per\ server$ (splitting workload across 48VMs)
 
-However, Microsoft advises: "Virtual machines possible per server" can vary based on upon the workload the vir
+However, Microsoft advises: "Virtual machines possible per server" can vary based on upon the workload the virtual machines are running, the capacity of the server hardware, the requirements of the guest operating system & the efficiency of the hypervisor & available storage
