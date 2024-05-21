@@ -13,7 +13,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2023 Semester 2/COMPSCI235 - Software Development Methodologies/eXtreme Programming (XP).md",
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Hick-Hyman Law.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -72,26 +72,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/CPU.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6b0afa96e4500c12",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2023 Semester 2/COMPSCI235 - Software Development Methodologies/eXtreme Programming (XP).md",
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Hick-Hyman Law.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -120,7 +108,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "feedback",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -137,8 +125,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -159,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2023 Semester 2/COMPSCI235 - Software Development Methodologies/eXtreme Programming (XP).md",
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Hick-Hyman Law.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -176,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2023 Semester 2/COMPSCI235 - Software Development Methodologies/eXtreme Programming (XP).md",
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Hick-Hyman Law.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -199,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2023 Semester 2/COMPSCI235 - Software Development Methodologies/eXtreme Programming (XP).md"
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Hick-Hyman Law.md"
               }
             }
           },
@@ -229,7 +216,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2023 Semester 2/COMPSCI235 - Software Development Methodologies/eXtreme Programming (XP).md"
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Hick-Hyman Law.md"
               }
             }
           },
@@ -255,7 +242,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2023 Semester 2/COMPSCI235 - Software Development Methodologies/eXtreme Programming (XP).md",
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Hick-Hyman Law.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -288,8 +275,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 347.5,
-    "collapsed": true
+    "width": 347.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -301,10 +287,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6b0afa96e4500c12",
+  "active": "c28546347828b7f8",
   "lastOpenFiles": [
-    "2023 Semester 2/COMPSCI235 - Software Development Methodologies/Quantitative metrics.md",
+    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Generative design.md",
+    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Focus groups.md",
+    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Float Layout.md",
+    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Fidelity Prototypes.md",
+    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Feature Purposes.md",
+    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Design Walkthrough.md",
+    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Design solutions.md",
+    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Design Review.md",
+    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Colour Schemes.md",
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/CPU.md",
+    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Collection - Elicitation.md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Questionnaires.md",
+    "2023 Semester 2/COMPSCI235 - Software Development Methodologies/eXtreme Programming (XP).md",
+    "2023 Semester 2/COMPSCI235 - Software Development Methodologies/Quantitative metrics.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/overcommit ratio.md",
     "@images/Pasted image 20240521010703.png",
     "@images/Pasted image 20240521004826.png",
@@ -315,7 +313,6 @@
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Empirical.md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Empirical UX Evaluation Methods.md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Data Collection.md",
-    "2024 Semester 1/INFOSYS303 - Solutions Architecture/CPU.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Establish a baseline of the existing desktop environment.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Virtual Desktop Infrastructure (VDI).md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Web Content Accessibility Guidelines (WCAG).md",
@@ -325,20 +322,9 @@
     "@images/Pasted image 20240520140445.png",
     "2024 Semester 1/ACCTG151G - Financial Literacy/Limit order.md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Accessibility.md",
-    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Accessible.md",
     "@images/Pasted image 20240520140247.png",
-    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Keyboard Accessibility.md",
     "@images/Pasted image 20240520140023.png",
     "@images/Pasted image 20240520135817.png",
-    "2024 Semester 1/ACCTG151G - Financial Literacy/Margin trading.md",
-    "2024 Semester 1/ACCTG151G - Financial Literacy/Types of orders.md",
-    "2024 Semester 1/ACCTG151G - Financial Literacy/Stop-loss order.md",
-    "2024 Semester 1/ACCTG151G - Financial Literacy/Market order.md",
-    "2024 Semester 1/ACCTG151G - Financial Literacy/Securities markets.md",
-    "2024 Semester 1/ACCTG151G - Financial Literacy/Secondary Market.md",
-    "2024 Semester 1/ACCTG151G - Financial Literacy/Investing.md",
-    "2024 Semester 1/ACCTG151G - Financial Literacy/Financial Marketplace.md",
-    "2024 Semester 1/ACCTG151G - Financial Literacy/Financial Literacy.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Untitled",
     "2024 Semester 1",
     "2023 Semester 2",
