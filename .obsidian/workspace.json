@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/overcommit ratio.md",
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Memory.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/overcommit ratio.md",
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Memory.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/overcommit ratio.md",
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Memory.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/overcommit ratio.md"
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Memory.md"
               }
             }
           },
@@ -156,7 +156,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/overcommit ratio.md"
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Memory.md"
               }
             }
           },
@@ -182,7 +182,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/overcommit ratio.md",
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Memory.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -215,7 +215,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 371.5
+    "width": 371.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -229,6 +230,8 @@
   },
   "active": "ba3c467ccf06b2d0",
   "lastOpenFiles": [
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/overcommit ratio.md",
+    "@images/Pasted image 20240521212539.png",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/CPU.md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Data Collection.md",
     "conflict-files-obsidian-git.md",
@@ -258,13 +261,11 @@
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Visibility of System Status.md",
     "2023 Semester 2/COMPSCI235 - Software Development Methodologies/Accessibility.md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Usability.md",
-    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Balance.md",
     "@images/Pasted image 20240520140654.png",
     "@images/Pasted image 20240520140637.png",
     "@images/Pasted image 20240520140445.png",
     "@images/Pasted image 20240520140247.png",
     "@images/Pasted image 20240520140023.png",
-    "@images/Pasted image 20240520135817.png",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Untitled",
     "2024 Semester 1",
     "2023 Semester 2",
