@@ -11,4 +11,7 @@ However, Microsoft advises: "Virtual machines possible per server" can vary base
 A typical Windows 7 64-bit enterprise deployment requires 2 vCPUs & 4GB RAM
 The native OS alone is approximately 400MB
 ## Goal
-to allocate enough [[Memory]] to hold the set of 
+to allocate enough [[Memory]] to hold the set of applications & data while keeping the [[Memory]] [[overcommit ratio]] as low as possible
+- this prevents Windows from writing data to the paging file because there is not enough RAM available in the guest OS
+
+[[Memory]] should not be oversubscribed in a [[Virtual Desktop Infrastructure (VDI)]] deployment
