@@ -1,1 +1,1 @@
-Compute-intensive applications & high perfor
+Compute-intensive applications & high performance requirements

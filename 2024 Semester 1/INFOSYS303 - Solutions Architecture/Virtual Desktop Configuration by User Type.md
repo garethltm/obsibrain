@@ -3,3 +3,5 @@
 1. [[Task-based workers]]
 2. [[Knowledge workers]]
 3. [[Power users]]
+![[Pasted image 20240521213855.png]]
+- IOPS will vary based on our definitions of the worker types & the applications they use, the environment, storage & whether or not the virtual machines are optimized

@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Virtual Desktop Configuration by User Type.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ffcb56713c46aab5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Power users.md",
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Usage Testing.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -99,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Power users.md",
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Usage Testing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Power users.md",
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Usage Testing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Power users.md"
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Usage Testing.md"
               }
             }
           },
@@ -169,7 +156,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Power users.md"
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Usage Testing.md"
               }
             }
           },
@@ -195,7 +182,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Power users.md",
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Usage Testing.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -241,9 +228,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ffcb56713c46aab5",
+  "active": "415e282d5c2e3820",
   "lastOpenFiles": [
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Virtual Desktop Configuration by User Type.md",
+    "@images/Pasted image 20240521213855.png",
+    "@images/Pasted image 20240521213852.png",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Power users.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Knowledge workers.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Task-based workers.md",
@@ -274,11 +263,8 @@
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Assistive.md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Analogous.md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Affinity diagram.md",
-    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Additive.md",
     "@images/Pasted image 20240520140654.png",
     "@images/Pasted image 20240520140637.png",
-    "@images/Pasted image 20240520140445.png",
-    "@images/Pasted image 20240520140247.png",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Untitled",
     "2024 Semester 1",
     "2023 Semester 2",
