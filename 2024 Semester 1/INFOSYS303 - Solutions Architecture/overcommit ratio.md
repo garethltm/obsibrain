@@ -6,3 +6,9 @@ $$Virtual\ Machines\ per\ Server=\frac{Cores\ Available\ on\ Server}{vCPUs\ Need
 However, Microsoft advises: "Virtual machines possible per server" can vary based on upon the workload the virtual machines are running, the capacity of the server hardware, the requirements of the guest operating system & the efficiency of the hypervisor & available storage
 ![[Pasted image 20240521212539.png]]
 - Cloud providers are in a sense a capacity planning planner
+
+#infosys303example 
+A typical Windows 7 64-bit enterprise deployment requires 2 vCPUs & 4GB RAM
+The native OS alone is approximately 400MB
+## Goal
+to allocate enough [[Memory]] to hold the set of 
