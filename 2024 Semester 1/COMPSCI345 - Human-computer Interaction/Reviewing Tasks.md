@@ -6,4 +6,4 @@
 	- You are, in effect, doing a Heuristic Evaluation
 	- Remember these are your perceptions/actions (users will surprise you)
 	- DO NOT show this to participants
-- A design & heuristic walkthrough before user testing $\rightarrow$ gives you a view on what are important tasks & potential [[usabili ]]
+- A design & heuristic walkthrough before user testing $\rightarrow$ gives you a view on what are important tasks & potential [[Usability]] problems that you might find in user testing
