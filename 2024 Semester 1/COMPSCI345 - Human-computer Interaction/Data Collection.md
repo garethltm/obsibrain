@@ -14,3 +14,4 @@
 - Quantitative
 - Objective
 - Subjective
+Objective/Quantitative - [[Critical Incidents]]
