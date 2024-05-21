@@ -1,7 +1,12 @@
 ![[Pasted image 20240521004149.png]]
 1. Evaluation methods & techniques
 2. Evaluation goals, metrics & targets
-- [[Usage Testing]]
+3. Empirical evaluation: Preparation
+4. Empirical evaluation: Data collection
+5. Analytical evaluation: Data collection
+6. UX evaluation: Data analysis
+7. UX evaluation: Reporting results
+
 ## Typical [[User eXperience (UX)]] metrics
 - time to complete task
 - number of errors made by the user
