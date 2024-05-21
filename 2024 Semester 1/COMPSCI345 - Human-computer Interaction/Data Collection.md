@@ -16,3 +16,5 @@
 - Subjective
 	- related to [[Empirical UX Evaluation Methods]]
 Objective/Quantitative - [[Critical Incidents]]
+#compsci345example 
+imagine 
