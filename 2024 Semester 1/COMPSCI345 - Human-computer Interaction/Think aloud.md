@@ -7,4 +7,5 @@
 ## Considerations for [[Think aloud]]
 - co discovery
 - effects on task performance
-	- can
+	- can be irritating
+	- However, [[Think aloud]] can be useful when it comes to quick user testing

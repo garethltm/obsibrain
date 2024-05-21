@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Think aloud.md",
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Direct observations.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Think aloud.md",
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Direct observations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Think aloud.md",
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Direct observations.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Think aloud.md"
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Direct observations.md"
               }
             }
           },
@@ -168,7 +168,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Think aloud.md"
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Direct observations.md"
               }
             }
           },
@@ -194,7 +194,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Think aloud.md",
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Direct observations.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -242,8 +242,10 @@
   },
   "active": "415e282d5c2e3820",
   "lastOpenFiles": [
-    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Write a Protocol that includes.md",
+    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/When to help.md",
+    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Direct observations.md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Think aloud.md",
+    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Write a Protocol that includes.md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/informed consent form.md",
     "@images/Pasted image 20240522005125.png",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Participants' rights & getting their consent.md",
@@ -273,10 +275,8 @@
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Measurability of user experience.md",
     "@images/Pasted image 20240521214918.png",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Critical Incidents.md",
-    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Virtual Desktop Configuration by User Type.md",
     "@images/Pasted image 20240521213855.png",
     "@images/Pasted image 20240521213852.png",
-    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Power users.md",
     "@images/Pasted image 20240521213558.png",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Untitled",
     "2024 Semester 1",
