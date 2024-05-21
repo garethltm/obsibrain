@@ -7,7 +7,7 @@
 	- Scales (Likert scales, semantic differential scales)
 	- Short-answer fill-ins
 	- Comments
-4;
+4. Easiest way to gather satisfaction data is a [[Questionnaires]]![[Pasted image 20240521220910.png]]
 ***NOTE: Good for getting information from a lot of people***
 ## Advantages
 1. They don't involve face-to-face contact & can be administered remotely
