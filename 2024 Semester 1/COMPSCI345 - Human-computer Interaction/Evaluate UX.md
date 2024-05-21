@@ -1,11 +1,6 @@
 ![[Pasted image 20240521004149.png]]
-1. Evaluation methods & techniques
-	 - #### [[Usage Testing]]
-		 - to identify problems before too costly to fix
-		 ##### When to do we do it?
-		 - Early & often - from initial design to late stages
-		 - [[Usage Testing]] plans involve carefully choosing tasks & writing scenarios/prompts
-		 - [[Usage Testing]] protocols include what you say, what you'll observe/record & what you'll do (eg., give a [[Questionnaires]])
+1. [[Evaluation methods & techniques]]
+
 2. Evaluation goals, metrics & targets
 	- #### [[Typical UX metrics]]
 	- #### [[Questionnaires]]
@@ -19,6 +14,7 @@
 		- [[Benchmark Task]]
 		- [[Exploratory free use]]
 		- [[Reviewing Tasks]]
+		- [[Task Order]]
 1. Empirical evaluation: [[Data collection]]
 	 - #### [[Critical Incidents]]
 2. Analytical evaluation: [[Data collection]]
