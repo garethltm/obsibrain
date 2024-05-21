@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Data Collection.md",
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/informed consent.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Data Collection.md",
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/informed consent.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Data Collection.md",
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/informed consent.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Data Collection.md"
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/informed consent.md"
               }
             }
           },
@@ -168,7 +168,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Data Collection.md"
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/informed consent.md"
               }
             }
           },
@@ -194,7 +194,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Data Collection.md",
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/informed consent.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -242,6 +242,8 @@
   },
   "active": "415e282d5c2e3820",
   "lastOpenFiles": [
+    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Data Collection.md",
+    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/informed consent.md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Reviewing Tasks.md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Task Order.md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Exploratory free use.md",
@@ -249,7 +251,6 @@
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Tasks.md",
     "@images/Pasted image 20240521233138.png",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Benchmark Task.md",
-    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Data Collection.md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/empirical.md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Empirical UX Evaluation Methods.md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Usability for mobile.md",
@@ -275,7 +276,6 @@
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Knowledge workers.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Task-based workers.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Virtual Desktop Infrastructure (VDI).md",
-    "2024 Semester 1/INFOSYS303 - Solutions Architecture/overcommit ratio.md",
     "@images/Pasted image 20240521213558.png",
     "@images/Pasted image 20240521212539.png",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Untitled",

@@ -31,6 +31,6 @@ Objective/Quantitative - [[Critical Incidents]]
 		- Tablet: You are using it for leisure
 	- different context to shift the purpose of the design
 3. What are the key [[Tasks]] for this interface?
+	- Is there a specific way to customise this interface around your favourite teams (to keep track)
 4. What would be helpful preparation for the facilitation to construct ideal tasks?
 5. What is the exact wording for the prompts you would use to elicit tasks?
-- Is there a specific way to cus
