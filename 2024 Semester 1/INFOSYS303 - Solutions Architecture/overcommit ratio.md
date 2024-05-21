@@ -7,7 +7,7 @@ However, Microsoft advises: "Virtual machines possible per server" can vary base
 ![[Pasted image 20240521212539.png]]
 - Cloud providers are in a sense a capacity planning planner
 
-#infosys303example 
+### [[Memory]]
 A typical Windows 7 64-bit enterprise deployment requires 2 vCPUs & 4GB RAM
 The native OS alone is approximately 400MB
 ## Goal
@@ -15,3 +15,5 @@ to allocate enough [[Memory]] to hold the set of applications & data while keepi
 - this prevents Windows from writing data to the paging file because there is not enough RAM available in the guest OS
 
 [[Memory]] should not be oversubscribed in a [[Virtual Desktop Infrastructure (VDI)]] deployment
+### Storage
+The Windows 7 64-bit version requires an additional 4GB of disk space over the Windows 
