@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "ab3e1fd52c6a88a3",
+        "id": "62e3d8e496b1b4e9",
         "type": "tabs",
         "children": [
           {
-            "id": "d29468cb8fccba55",
+            "id": "b978ee37fb5df128",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Affordance.md",
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Cognitive Affordance.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Affordance.md",
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Cognitive Affordance.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Affordance.md",
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Cognitive Affordance.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Affordance.md"
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Cognitive Affordance.md"
               }
             }
           },
@@ -156,7 +156,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Affordance.md"
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Cognitive Affordance.md"
               }
             }
           },
@@ -182,7 +182,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Affordance.md",
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Cognitive Affordance.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -228,13 +228,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d29468cb8fccba55",
+  "active": "b978ee37fb5df128",
   "lastOpenFiles": [
-    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Emotional Affordance.md",
+    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Cognitive Affordance.md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Affordance.md",
+    "@images/Pasted image 20240522195559.png",
+    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Emotional Affordance.md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Functional Affordance.md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Physical Affordance.md",
-    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Cognitive Affordance.md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Sensory Affordance.md",
     "@images/Pasted image 20240522195327.png",
     "@images/Pasted image 20240522195132.png",
@@ -260,12 +261,10 @@
     "@images/Pasted image 20240522010519.png",
     "@images/Pasted image 20240522010415.png",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Diversity.md",
-    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Direct observations.md",
     "@images/Pasted image 20240522005125.png",
     "@images/Pasted image 20240521233624.png",
     "@images/Pasted image 20240521233138.png",
     "@images/Pasted image 20240521230427.png",
-    "@images/Pasted image 20240521221644.png",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Untitled",
     "2024 Semester 1",
     "2023 Semester 2",

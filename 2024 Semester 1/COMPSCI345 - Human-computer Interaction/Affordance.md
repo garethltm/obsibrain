@@ -18,3 +18,4 @@
 3. [[Physical Affordance]]
 4. [[Functional Affordance]]
 5. [[Emotional Affordance]]
+#compsci345example ![[Pasted image 20240522195559.png]]
