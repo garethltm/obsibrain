@@ -26,4 +26,8 @@ They have less need for [[Cognitive Affordance]]
 - it is important to consider your user's mental model
 - related to physical interaction with hardware, not software
 - includes pushing, pulling, grasping, moving
-- Design consiste
+- Design consistency is important
+	 ![[Pasted image 20240522202201.png]]
+## 7. [[Fitts' Law]]
+- size & location matters
+	![[Pasted image 20240522202246.png]]
