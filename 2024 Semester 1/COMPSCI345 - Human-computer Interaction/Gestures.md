@@ -27,3 +27,6 @@
 - Gesticulation (talking, moving around)
 - Manipulation (analogue of the real world - mapping the movement to manipulate the virtual world)
 - Semaphores (positions)
+- Sign Language
+#### Technologies
+- 
