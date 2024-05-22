@@ -59,4 +59,8 @@
 ## Limitations
 - Portability & outdoor use
 	- health & safety
-- Tracking & (auto) callibration
+- Tracking & (auto) calibration
+	- this is important for accuracy purposes
+- Depth perception
+- Overload & over-reliance
+- Social acceptance
