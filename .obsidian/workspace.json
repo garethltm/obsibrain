@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Prägnanz Principle.md",
+                "file": "2023 Semester 2/COMPSCI235 - Software Development Methodologies/Cascading Style Sheets (CSS).md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "principle path:\"2024 Semester 1/COMPSCI345 - Human-computer Interaction\"  ",
+                "query": "color",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Prägnanz Principle.md",
+                "file": "2023 Semester 2/COMPSCI235 - Software Development Methodologies/Cascading Style Sheets (CSS).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Prägnanz Principle.md",
+                "file": "2023 Semester 2/COMPSCI235 - Software Development Methodologies/Cascading Style Sheets (CSS).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Prägnanz Principle.md"
+                "file": "2023 Semester 2/COMPSCI235 - Software Development Methodologies/Cascading Style Sheets (CSS).md"
               }
             }
           },
@@ -157,7 +157,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Prägnanz Principle.md"
+                "file": "2023 Semester 2/COMPSCI235 - Software Development Methodologies/Cascading Style Sheets (CSS).md"
               }
             }
           },
@@ -183,7 +183,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Prägnanz Principle.md",
+                "file": "2023 Semester 2/COMPSCI235 - Software Development Methodologies/Cascading Style Sheets (CSS).md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -230,6 +230,9 @@
   },
   "active": "72cc13b08bb9967f",
   "lastOpenFiles": [
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Naive Bayes Classifier.md",
+    "2023 Semester 2/COMPSCI235 - Software Development Methodologies/Cascading Style Sheets (CSS).md",
+    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Prägnanz Principle.md",
     "conflict-files-obsidian-git.md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Data Collection.md",
     "README.md",
@@ -253,9 +256,6 @@
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Usage Research & Data Elicitation.md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Usage Research & Data Analysis.md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Usable.md",
-    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Usability.md",
-    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Usability for mobile.md",
-    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Usability Evaluations.md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction",
     "@images/Pasted image 20240522012213.png",
     "@images/Pasted image 20240522010519.png",
