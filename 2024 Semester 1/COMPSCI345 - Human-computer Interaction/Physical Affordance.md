@@ -29,5 +29,6 @@ They have less need for [[Cognitive Affordance]]
 - Design consistency is important
 	 ![[Pasted image 20240522202201.png]]
 ## 7. [[Fitts' Law]]
-- size & location matters
-	![[Pasted image 20240522202246.png]]
+- size & location matters![[Pasted image 20240522202246.png]]
+## 8. Physical Overshoot
+	![[Pasted image 20240522202326.png]]
