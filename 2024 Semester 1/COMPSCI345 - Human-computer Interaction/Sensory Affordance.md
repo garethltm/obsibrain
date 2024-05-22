@@ -14,6 +14,8 @@ Features that help users with their sensory actions:
 	3. discernibility
 		- can the user make out, detect or recognize the object, its shape & colors?![[Pasted image 20240522203246.png]]
 	4. legibility
+		- ![[Pasted image 20240522203257.png]]
 	5. distinguishability
+		- to avoid errors, how an object is interacted with needs to also be distinguishable - Can similar objects still be distinguishable?![[Pasted image 20240522203349.png]]
 	6. color
 	7. presentation
