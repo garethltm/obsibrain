@@ -72,3 +72,7 @@
 - Reconfigurability
 	- Not providing a huge palette to start, but modifying the palette
 	- Modify palette for different [[Tasks]]
+- Interaction space
+	- Where can [[Gestures]] be recognised (virtual interaction envelope)
+	- Stereo vision is best, but possible for mobile platforms?
+- [[ges]]
