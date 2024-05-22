@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "fe50bf2fc2fe1ccb",
+        "id": "b63109c832db797b",
         "type": "tabs",
         "children": [
           {
-            "id": "a806cc98d85e008c",
+            "id": "72cc13b08bb9967f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -123,9 +119,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "conflict-files-obsidian-git.md"
-              }
+              "state": {}
             }
           },
           {
@@ -153,9 +147,7 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "conflict-files-obsidian-git.md"
-              }
+              "state": {}
             }
           },
           {
@@ -224,8 +216,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0f8e0230b587650a",
+  "active": "72cc13b08bb9967f",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Data Collection.md",
+    "README.md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/w3.CSS Templates.md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/responsive design.md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/problem framing.md",
@@ -249,9 +244,6 @@
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Usability.md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Usability for mobile.md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Usability Evaluations.md",
-    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Universal.md",
-    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Unity.md",
-    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Understand needs.md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction",
     "@images/Pasted image 20240522012213.png",
     "@images/Pasted image 20240522010519.png",
