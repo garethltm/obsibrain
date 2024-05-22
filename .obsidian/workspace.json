@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "2b65daae1ea09b38",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Augmented Reality (AR).md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Reality-Virtuality Continuum.md",
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Augmented Reality (AR).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Reality-Virtuality Continuum.md",
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Augmented Reality (AR).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Reality-Virtuality Continuum.md"
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Augmented Reality (AR).md"
               }
             }
           },
@@ -156,7 +169,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Reality-Virtuality Continuum.md"
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Augmented Reality (AR).md"
               }
             }
           },
@@ -182,7 +195,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Reality-Virtuality Continuum.md",
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Augmented Reality (AR).md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -228,9 +241,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f9c599a98861fd25",
+  "active": "2b65daae1ea09b38",
   "lastOpenFiles": [
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Reality-Virtuality Continuum.md",
+    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Augmented Reality (AR).md",
+    "@images/Pasted image 20240522214534.png",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Affordance.md",
     "@images/Pasted image 20240522214354.png",
     "@images/Pasted image 20240522214312.png",
@@ -244,7 +259,6 @@
     "@images/Pasted image 20240522203349.png",
     "@images/Pasted image 20240522203257.png",
     "@images/Pasted image 20240522203246.png",
-    "@images/Pasted image 20240522203212.png",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Physical Affordance.md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Cognitive Affordance.md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/feedback.md",
@@ -265,7 +279,6 @@
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/A world of heuristics.md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Summative UX evaluation.md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Formative UX evaluation.md",
-    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Presenting quantitative results.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Untitled",
     "2024 Semester 1",
     "2023 Semester 2",
