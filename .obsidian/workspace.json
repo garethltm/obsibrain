@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Load Balancing.md",
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Load Balancer.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Load Balancing.md",
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Load Balancer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Load Balancing.md",
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Load Balancer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Load Balancing.md"
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Load Balancer.md"
               }
             }
           },
@@ -156,7 +156,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Load Balancing.md"
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Load Balancer.md"
               }
             }
           },
@@ -182,7 +182,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Load Balancing.md",
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Load Balancer.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -230,8 +230,10 @@
   },
   "active": "e4f769a59d266559",
   "lastOpenFiles": [
-    "2024 Semester 1/INFOSYS303 - Solutions Architecture/AWS Elastic Beanstalk.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Load Balancing.md",
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Load Balancer.md",
+    "@images/Pasted image 20240523002006.png",
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/AWS Elastic Beanstalk.md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Study 01 - Proprioceptive Gestures.md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Extended Reality (XR).md",
     "@images/Pasted image 20240522230931.png",
@@ -250,7 +252,6 @@
     "@images/Pasted image 20240522221515.png",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Virtual Reality (VR).md",
     "@images/Pasted image 20240522221330.png",
-    "@images/Pasted image 20240522221318.png",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Non-immersive environment.md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Immersive environment.md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Affordance.md",
@@ -265,7 +266,6 @@
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Analysing qualitative data.md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/When to help.md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Empirical evaluation - Preparation.md",
-    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Think aloud.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Untitled",
     "2024 Semester 1",
     "2023 Semester 2",
