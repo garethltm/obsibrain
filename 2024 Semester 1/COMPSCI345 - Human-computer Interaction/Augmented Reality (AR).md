@@ -55,4 +55,8 @@
 	- games![[Pasted image 20240522220610.png]]
 - In the office
 	- collaboration![[Pasted image 20240522220643.png]]
-	- education & training
+	- education & training![[Pasted image 20240522220705.png]]
+## Limitations
+- Portability & outdoor use
+	- health & safety
+- Tracking & (auto) callibration
