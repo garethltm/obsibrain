@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "bf7aecde7001de54",
+        "id": "eb1a4138e0bf1125",
         "type": "tabs",
         "children": [
           {
-            "id": "f9c599a98861fd25",
+            "id": "16e4b3d49e98b4aa",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Augmented Reality (AR).md",
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Haptic.md",
                 "mode": "source",
                 "source": false
               }
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -87,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Augmented Reality (AR).md",
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Haptic.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Augmented Reality (AR).md",
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Haptic.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Augmented Reality (AR).md"
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Haptic.md"
               }
             }
           },
@@ -157,7 +156,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Augmented Reality (AR).md"
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Haptic.md"
               }
             }
           },
@@ -183,7 +182,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Augmented Reality (AR).md",
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Haptic.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -229,8 +228,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f9c599a98861fd25",
+  "active": "16e4b3d49e98b4aa",
   "lastOpenFiles": [
+    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Sensory Affordance.md",
+    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Augmented Reality (AR).md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Haptic.md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Gestures.md",
     "@images/Pasted image 20240522222834.png",
@@ -248,11 +249,9 @@
     "@images/Pasted image 20240522221127.png",
     "@images/Pasted image 20240522221109.png",
     "@images/Pasted image 20240522221059.png",
-    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Augmented Reality (AR).md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Affordance.md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Emotional Affordance.md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Functional Affordance.md",
-    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Sensory Affordance.md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Physical Affordance.md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Cognitive Affordance.md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/feedback.md",

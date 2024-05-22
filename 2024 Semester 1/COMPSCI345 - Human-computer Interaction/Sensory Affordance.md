@@ -25,6 +25,6 @@ Features that help users with their sensory actions:
 - can users hear the sound?
 - is it noticeable (volume), discernable (audio quality)?
 	- #compsci345example apple pay sound when transaction is successful
-## 3. Haptic & Tactile
+## 3. [[Haptic]] & Tactile
 - Similarly, it is related to noticeability, discernability
-- #compsci345example haptic on smartphones
+- #compsci345example [[haptic]] on smartphones

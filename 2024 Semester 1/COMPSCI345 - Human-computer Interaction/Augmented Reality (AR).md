@@ -30,7 +30,7 @@
 	![[Pasted image 20240522215245.png]]![[Pasted image 20240522215251.png]]
 - New UI paradigm
 - Tangible UI & 3D pointing
-- Haptic UI & gesture recognition
+- [[Haptic]] UI & gesture recognition
 - Visual UI & gesture recognition
 - Gaze tracking
 - Aural UI & speech recognition
