@@ -26,4 +26,4 @@
 - Deictic (pointing at things) - can be seem as rude in certain cultures
 - Gesticulation (talking, moving around)
 - Manipulation (analogue of the real world - mapping the movement to manipulate the virtual world)
-- Semaph
+- Semaphores (positions)
