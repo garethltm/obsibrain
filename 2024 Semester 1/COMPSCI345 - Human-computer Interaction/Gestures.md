@@ -76,7 +76,12 @@
 	- Where can [[Gestures]] be recognised (virtual interaction envelope)
 	- Stereo vision is best, but possible for mobile platforms?
 - [[Gestures]] spotting & immersion syndrome
-		- Unintended movement recognition - Midas Touch proble
+	- Unintended movement recognition - Midas Touch problem
+		- a relaxed pose might cause issues
 	- Cue selection approaches (voice, buttons, [[Gestures]])
 - Ubiquity & wearability
 	- Small sensors & cameras placed where on the body
+## Summary
+- Many categories of [[Gestures]] across touch & touchless
+- Increasing sophistication & accuracy of devices
+- Conflicting range of criteria to be considered in [[Gestures]] design
