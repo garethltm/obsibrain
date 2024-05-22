@@ -85,3 +85,4 @@
 - Many categories of [[Gestures]] across touch & touchless
 - Increasing sophistication & accuracy of devices
 - Conflicting range of criteria to be considered in [[Gestures]] design
+	- consider domain-user proposed [[Gestures]]
