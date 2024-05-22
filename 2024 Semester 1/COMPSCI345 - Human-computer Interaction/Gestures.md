@@ -19,4 +19,4 @@
 ## [[Gestures]] Limitations
 - Little relationship between operations
 - Commands must be sequential
-- 
+-  
