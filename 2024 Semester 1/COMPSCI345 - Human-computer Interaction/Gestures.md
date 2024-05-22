@@ -37,4 +37,5 @@
 	- Data gloves
 	- Pens
 	- Mouse/Joystick
-	- Touch
+	- Touch surfaces
+	- Tangible devices
