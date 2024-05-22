@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "56d1926f0f07c98f",
+        "id": "444a2333b71657e0",
         "type": "tabs",
         "children": [
           {
-            "id": "81e703e23e2fc8f2",
+            "id": "e4f769a59d266559",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -61,8 +61,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -83,6 +82,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/AWS Elastic Beanstalk.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,6 +99,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/AWS Elastic Beanstalk.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -120,7 +121,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/AWS Elastic Beanstalk.md"
+              }
             }
           },
           {
@@ -148,7 +151,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {}
+              "state": {
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/AWS Elastic Beanstalk.md"
+              }
             }
           },
           {
@@ -173,6 +178,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/AWS Elastic Beanstalk.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -218,7 +224,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a6e0090ac9cbd1f3",
+  "active": "3ad179677b7fba41",
   "lastOpenFiles": [
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Study 01 - Proprioceptive Gestures.md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Extended Reality (XR).md",
