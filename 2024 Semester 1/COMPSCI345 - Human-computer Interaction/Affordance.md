@@ -14,4 +14,7 @@
 ## Types of [[Affordance]]
 ![[Pasted image 20240522195327.png]]
 1. [[Sensory Affordance]] - Seeing, Touch
-2. [[Cognitive Affordance]] - How you per
+2. [[Cognitive Affordance]] - How you perceive something
+3. [[Physical Affordance]]
+4. [[Functional Affordance]]
+5. [[Emotional Affordance]]
