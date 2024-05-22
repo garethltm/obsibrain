@@ -49,4 +49,6 @@
 	- assembly![[Pasted image 20240522220348.png]]
 	- maintenance![[Pasted image 20240522220409.png]]
 	- combat & simulation![[Pasted image 20240522220439.png]]
-- medical applications![[Pasted image 20240522220459.png]]
+- Medical applications![[Pasted image 20240522220459.png]]
+- Entertainment
+	- sports broadcasting![[Pasted image 20240522220556.png]]
