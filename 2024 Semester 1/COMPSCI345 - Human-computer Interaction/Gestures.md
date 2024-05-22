@@ -41,4 +41,9 @@
 	- Tangible devices
 ## Video/Vision Costs/Benefits
 - User adaptability & [[feedback]]
-	- fixed palette
+	- fixed palette of [[Gestures]], or adapt during use
+- Learnability
+	- Learning rate & memorability for users
+	- Performance versus [[Gestures]] set size
+- Accuracy
+	- Hand within the camera view, moving, occluded, s
