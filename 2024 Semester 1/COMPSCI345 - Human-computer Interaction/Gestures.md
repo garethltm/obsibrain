@@ -48,5 +48,5 @@
 - Accuracy
 	- Hand within the camera view, moving, occluded, shape, colour
 	- Gestures designed for camera accuracy versus intuitive![[Pasted image 20240522225627.png]]
-More [[Gestures]] can mean higher error rate
-- [[Gestures]] need to be different from each other for better recognition rate
+**More [[Gestures]] can mean higher error rate**
+- **[[Gestures]] need to be different from each other for better recognition rate**
