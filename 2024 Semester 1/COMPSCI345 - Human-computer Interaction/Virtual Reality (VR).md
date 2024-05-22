@@ -12,4 +12,8 @@
 ## Limitations
 - Maintenance of the illusion
 - Immersion time (motion sickness)
-- Portability
+- Portability (tethered)
+- Tracking (pose)
+	- Capturing information inside that environment
+- Calibration
+	- may break the illusion if not calibrated properly
