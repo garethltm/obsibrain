@@ -7,8 +7,8 @@
 	- Scales (Likert scales, semantic differential scales)
 	- Short-answer fill-ins
 	- Comments
+4. Easiest way to gather satisfaction data is a [[Questionnaires]]![[Pasted image 20240521220910.png]]
 ***NOTE: Good for getting information from a lot of people***
-
 ## Advantages
 1. They don't involve face-to-face contact & can be administered remotely
 2. They can be used to supply information for primary stakeholder profiles
@@ -21,3 +21,26 @@
 2. People don't like to fill out long [[Questionnaires]]
 3. Closed-ended questions can restrict responses
 4. Open-ended questions can be hard to quantify
+## Questions - open & closed
+1. Open questions give you rich qualitative data
+	- Best for finding the seeds of resolutions to problems
+2. Closed questions allow you to quantify
+	- #compsci345example 
+	- Is this website easy to use? (Yes or No)
+		- we need a more objective measure (how fast etc.) to know if it is "easy" to use
+	- Yes/No is okay but it is overall better to use Likert scale (Strongly Agree; Agree; Disagree; Strongly Disagree)
+	- Converts to scores (1-4, 1-7- etc.), can report mean & other statistics & graphs
+### Identify goals for the project
+#compsci345example
+User Experience Goals for the Ticket Kiosk System
+- from our usage research data, we can define the primary high-level [[User eXperience (UX)]] goals for the ticket buyer to include:
+	- Fast & easy walk-up & use user experience, with absolutely no user training
+	- Fast learning so new user performance (after limited experience) is on par with that of an experienced user.
+	- High customer satisfaction leading to high rate of repeat customers
+- Some other possibilities:
+	- High learnability for more advanced tasks
+	- Draw, engagement, attraction
+	- Low error rate for completing transactions correctly, especially in the interaction for payment
+![[Pasted image 20240521221644.png]]
+#### Choose metrics associated to UX goals
+![[Pasted image 20240521230427.png]]

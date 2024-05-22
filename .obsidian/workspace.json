@@ -4,82 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "da37652f4b080ab1",
+        "id": "829ee4a4fdaf6e1d",
         "type": "tabs",
         "children": [
           {
-            "id": "7a18fecbb144f11a",
+            "id": "bf2e6eec50f6349a",
             "type": "leaf",
             "state": {
-              "type": "localgraph",
+              "type": "diff-view",
               "state": {
-                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Accessibility.md",
-                "options": {
-                  "collapse-filter": true,
-                  "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": true,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 1,
-                  "close": true
-                }
-              }
-            }
-          },
-          {
-            "id": "d1257a35eae338c8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Virtual Desktop Infrastructure (VDI).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4b499c60b3edc498",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Establish a baseline of the existing desktop environment.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c28546347828b7f8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Accessibility.md",
-                "mode": "source",
-                "source": false
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Data Collection.md",
+                "staged": true
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -146,7 +85,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Accessibility.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +101,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Accessibility.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -185,9 +122,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Accessibility.md"
-              }
+              "state": {}
             }
           },
           {
@@ -215,9 +150,7 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Accessibility.md"
-              }
+              "state": {}
             }
           },
           {
@@ -242,7 +175,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Accessibility.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -287,8 +219,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c28546347828b7f8",
+  "active": "bf2e6eec50f6349a",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Accessibility.md",
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Establish a baseline of the existing desktop environment.md",
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Virtual Desktop Infrastructure (VDI).md",
+    "@images/Pasted image 20240521233624.png",
+    "@images/Pasted image 20240521233138.png",
+    "@images/Pasted image 20240521230427.png",
+    "@images/Pasted image 20240521221644.png",
+    "@images/Pasted image 20240521220910.png",
+    "@images/Pasted image 20240521214918.png",
+    "@images/Pasted image 20240521213855.png",
+    "@images/Pasted image 20240521213852.png",
+    "@images/Pasted image 20240521213558.png",
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Virtual Desktop Configuration by User Type.md",
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Task-based workers.md",
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Power users.md",
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Knowledge workers.md",
+    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Tasks.md",
+    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Task Order.md",
+    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Rigor vs Rapidness.md",
+    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Reviewing Tasks.md",
+    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Reliability of UX evaluation methods.md",
+    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Measurability of user experience.md",
+    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Exploratory free use.md",
+    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Critical Incidents.md",
+    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Benchmark Task.md",
     "@images/Pasted image 20240521212539.png",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Web Content Accessibility Guidelines (WCAG).md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Usability.md",
@@ -299,32 +257,6 @@
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Focus groups.md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Float Layout.md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Fidelity Prototypes.md",
-    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Design Walkthrough.md",
-    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Design solutions.md",
-    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Design Review.md",
-    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Colour Schemes.md",
-    "2024 Semester 1/INFOSYS303 - Solutions Architecture/CPU.md",
-    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Collection - Elicitation.md",
-    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Questionnaires.md",
-    "2023 Semester 2/COMPSCI235 - Software Development Methodologies/eXtreme Programming (XP).md",
-    "2023 Semester 2/COMPSCI235 - Software Development Methodologies/Quantitative metrics.md",
-    "2024 Semester 1/INFOSYS303 - Solutions Architecture/overcommit ratio.md",
-    "@images/Pasted image 20240521010703.png",
-    "@images/Pasted image 20240521004826.png",
-    "@images/Pasted image 20240521004509.png",
-    "@images/Pasted image 20240521004149.png",
-    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Usage Testing.md",
-    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Evaluate UX.md",
-    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Empirical.md",
-    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Empirical UX Evaluation Methods.md",
-    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Data Collection.md",
-    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Establish a baseline of the existing desktop environment.md",
-    "@images/Pasted image 20240520140654.png",
-    "@images/Pasted image 20240520140637.png",
-    "@images/Pasted image 20240520140445.png",
-    "@images/Pasted image 20240520140247.png",
-    "@images/Pasted image 20240520140023.png",
-    "@images/Pasted image 20240520135817.png",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Untitled",
     "2024 Semester 1",
     "2023 Semester 2",

@@ -25,3 +25,19 @@
 - Recorded
 - Measured
 - Think-aloud
+## When to do [[Usage Testing]]?
+- We want people to use it as intended
+	- use prototypes $\rightarrow$ to make sure we are in the right direction
+#### In design
+- Early, often, informal, preferably with paper prototype to get the right product concept
+- As the design progresses
+	- Working prototypes
+	- Feedback to design team & broader project management on areas & priorities for change
+#### In product selection
+- Simplified version with prototyping tool
+- Will this product work for your organisation (or your client)?
+## Finding 'bugs' is NOT the goal
+- finding bugs is more of a quality assurance thing
+- [[Usability]] Testing $\ne$ System testing
+	- we are testing the intended design
+- Aim is to elicit any [[User eXperience (UX)]] related problems if they're there

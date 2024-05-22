@@ -20,4 +20,4 @@ The Windows 7 64-bit version requires an additional 4GB of disk space over the W
 - this will decrease the number of virtual machines on the server - unless additional storage can be added
 - disk input/output workload: peak is important value when measuring
 ##### Formula of IOPS (which will always be an integer)
-$$\frac {Throughput(MB/sec)\ \times 1024(KB/MB)}{Blocksize(KB/IO)}$$
+$$\frac {Throughput(MB/sec)\ \times 1024(KB/MB)}{Blocksize(KB/IO)}$$![[Pasted image 20240521213558.png]]
