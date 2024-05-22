@@ -17,3 +17,4 @@
 	- ##### Mouse Gestures![[Pasted image 20240522222834.png]]
 - "Natural User Interfaces (NUI)" - easy & expressive
 ## [[Gestures]] Limitations
+- Little re
