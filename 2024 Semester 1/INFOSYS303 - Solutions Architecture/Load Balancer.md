@@ -7,4 +7,8 @@ If a single server goes down, the [[Load Balancer]] redirects traffic the remain
 When a new server is added to the server group, the [[Load Balancer]] automatically starts to send requests to it.
 ## Functions
 - Distributes client requests or network load efficiently across multiple servers
-- Ensures high availability & reliability by sending request
+- Ensures high availability & reliability by sending requests only to servers that are online
+- Provides the flexibility to add/subtract servers as demand dictates
+## How does the [[Load Balancer]] decide on which s
+## Static Balancing Algorithms
+
