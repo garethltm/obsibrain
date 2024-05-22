@@ -4,17 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "829ee4a4fdaf6e1d",
+        "id": "fe50bf2fc2fe1ccb",
         "type": "tabs",
         "children": [
           {
-            "id": "bf2e6eec50f6349a",
+            "id": "a806cc98d85e008c",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "staged": false
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Empirical UX Evaluation Methods.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -85,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Empirical UX Evaluation Methods.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Empirical UX Evaluation Methods.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -122,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Empirical UX Evaluation Methods.md"
+              }
             }
           },
           {
@@ -150,7 +155,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {}
+              "state": {
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Empirical UX Evaluation Methods.md"
+              }
             }
           },
           {
@@ -175,6 +182,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Empirical UX Evaluation Methods.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -219,11 +227,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bf2e6eec50f6349a",
+  "active": "a806cc98d85e008c",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
+    "README.md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Data Collection.md",
+    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Evaluate UX.md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Empirical UX Evaluation Methods.md",
+    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Cascading Style Sheets (CSS).md",
+    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Colour Pickers.md",
     "@images/Pasted image 20240522012213.png",
     "@images/Pasted image 20240522010519.png",
     "@images/Pasted image 20240522010415.png",
@@ -253,10 +265,6 @@
     "@images/Pasted image 20240521220910.png",
     "@images/Pasted image 20240521214918.png",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Virtual Desktop Configuration by User Type.md",
-    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Task-based workers.md",
-    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Power users.md",
-    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Knowledge workers.md",
-    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Tasks.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Untitled",
     "2024 Semester 1",
     "2023 Semester 2",
