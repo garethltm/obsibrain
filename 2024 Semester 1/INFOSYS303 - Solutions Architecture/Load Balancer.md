@@ -9,6 +9,9 @@ When a new server is added to the server group, the [[Load Balancer]] automatica
 - Distributes client requests or network load efficiently across multiple servers
 - Ensures high availability & reliability by sending requests only to servers that are online
 - Provides the flexibility to add/subtract servers as demand dictates
-## How does the [[Load Balancer]] decide on which s
-## Static Balancing Algorithms
+## How does the [[Load Balancer]] decide on which server to use?
+#### 1. Static Balancing Algorithms
+- [[Round robin]]
+- Weighted round robin
+- IP hash
 

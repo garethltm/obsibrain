@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "3c69faac8df444a4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Round robin.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Load Balancer.md",
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Round robin.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Load Balancer.md",
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Round robin.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Load Balancer.md"
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Round robin.md"
               }
             }
           },
@@ -156,7 +169,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Load Balancer.md"
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Round robin.md"
               }
             }
           },
@@ -182,7 +195,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Load Balancer.md",
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Round robin.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -228,10 +241,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e4f769a59d266559",
+  "active": "3c69faac8df444a4",
   "lastOpenFiles": [
-    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Load Balancing.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Load Balancer.md",
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Round robin.md",
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Load Balancing.md",
     "@images/Pasted image 20240523002006.png",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/AWS Elastic Beanstalk.md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Study 01 - Proprioceptive Gestures.md",
@@ -265,7 +279,6 @@
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Evaluation methods & techniques.md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Analysing qualitative data.md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/When to help.md",
-    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Empirical evaluation - Preparation.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Untitled",
     "2024 Semester 1",
     "2023 Semester 2",
