@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "0e51946ac43349c0",
+        "id": "ab3e1fd52c6a88a3",
         "type": "tabs",
         "children": [
           {
-            "id": "4afd4128cd3d1be8",
+            "id": "d29468cb8fccba55",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -44,8 +44,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "law",
-                "matchingCase": true,
+                "query": "finding bugs",
+                "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -61,12 +61,12 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 276.5
+    "width": 276.5,
+    "collapsed": true
   },
   "right": {
     "id": "29204b37fc003a9a",
@@ -83,7 +83,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Monochrome.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +99,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Monochrome.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -122,9 +120,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Monochrome.md"
-              }
+              "state": {}
             }
           },
           {
@@ -152,9 +148,7 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Monochrome.md"
-              }
+              "state": {}
             }
           },
           {
@@ -179,7 +173,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Monochrome.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -202,7 +195,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 1.254057990250493,
+                  "scale": 0.6380169077455764,
                   "close": true
                 }
               }
@@ -212,7 +205,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 347.5
+    "width": 371.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -224,40 +218,39 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a6e0090ac9cbd1f3",
+  "active": "0f8e0230b587650a",
   "lastOpenFiles": [
-    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Colour Schemes.md",
-    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Analogous.md",
-    "2023 Semester 2/COMPSCI235 - Software Development Methodologies/Cascading Style Sheets (CSS).md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Naive Bayes Classifier.md",
-    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Prägnanz Principle.md",
-    "conflict-files-obsidian-git.md",
-    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Data Collection.md",
-    "README.md",
-    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/w3.CSS Templates.md",
-    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/responsive design.md",
-    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/problem framing.md",
-    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/new semantic HTML5.md",
-    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/informed consent form.md",
-    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/indirect access.md",
-    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/brainstorming.md",
-    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/bi-cone Colour Model.md",
-    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Write a Protocol that includes.md",
-    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Wicked Problems.md",
+    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Evaluate UX.md",
+    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Evaluation methods & techniques.md",
+    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Analysing qualitative data.md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/When to help.md",
-    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Web technology.md",
-    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Web Content Accessibility Guidelines (WCAG).md",
-    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Visibility of System Status.md",
-    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/User eXperience (UX).md",
-    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/User Personas.md",
+    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Empirical evaluation - Preparation.md",
+    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Think aloud.md",
+    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Write a Protocol that includes.md",
+    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Evaluation goals, metrics & targets.md",
+    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Reviewing Tasks.md",
+    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/UX Goals.md",
+    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Questionnaires.md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Usage Testing.md",
-    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Usage Research & Data Elicitation.md",
-    "2024 Semester 1/COMPSCI345 - Human-computer Interaction",
+    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Empirical UX Evaluation Methods.md",
+    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/A world of heuristics.md",
     "@images/Pasted image 20240522012213.png",
+    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Summative UX evaluation.md",
+    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Formative UX evaluation.md",
+    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Presenting quantitative results.md",
+    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Typical UX metrics.md",
     "@images/Pasted image 20240522010519.png",
     "@images/Pasted image 20240522010415.png",
+    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Diversity.md",
+    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Direct observations.md",
+    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/informed consent form.md",
     "@images/Pasted image 20240522005125.png",
+    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Participants' rights & getting their consent.md",
+    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Data Collection.md",
+    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Task Order.md",
+    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Exploratory free use.md",
     "@images/Pasted image 20240521233624.png",
+    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Tasks.md",
     "@images/Pasted image 20240521233138.png",
     "@images/Pasted image 20240521230427.png",
     "@images/Pasted image 20240521221644.png",
@@ -271,6 +264,7 @@
     "@images/LeanIX_Poster_Best-practices-to-define-business-capability-maps_EN.pdf",
     "INFOSYS 303 - Solutions Architecture",
     "2024 Semester 1/COMPSCI361 - Machine Learning",
+    "2024 Semester 1/COMPSCI345 - Human-computer Interaction",
     "2024 Semester 1/ACCTG151G - Financial Literacy",
     "2023 Semester 2/COMPSCI235 - Software Development Methodologies/235 summary.canvas",
     "2023 Semester 2/COMPSCI367 - Artificial Intelligence/finals prep.canvas"
