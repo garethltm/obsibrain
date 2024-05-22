@@ -21,3 +21,6 @@
 #compsci345example ![[Pasted image 20240522195559.png]]
 ## Consolidating Affordances
 - putting them all together![[Pasted image 20240522214209.png]]
+## User-Created Affordances
+- [[Affordance]] added to an original design because it was not good enough
+	- as a designer, we don't want this to happen![[Pasted image 20240522214301.png]]![[Pasted image 20240522214312.png]]
