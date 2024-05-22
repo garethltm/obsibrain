@@ -17,5 +17,5 @@ They have less need for [[Cognitive Affordance]]
 - simply about how easy it is to manipulate & perform physical actions
 ## 4. Physical disabilities
 - [[Physical Affordance]] can go with [[Inclusive Design]]
-- Disabilities can be temporary, situational or permanent
+- Disabilities can be temporary, situational or permanent![[Pasted image 20240522201659.png]]
 - Accommodating them are design issues for [[Physical Affordance]]
