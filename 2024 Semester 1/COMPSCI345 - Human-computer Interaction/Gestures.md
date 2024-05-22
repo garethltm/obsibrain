@@ -4,8 +4,10 @@
 2. Survey gesture technologies
 3. Understand approaches to developing gestures
 ## Gesture-based Interactions
-1. [[Gestures]]
+1. [[Gestures]] - this would be useful in certain environments like construction
 	- Air-tap
 	- Tap-and-hold
 	- Hand cursor
-2. [[intu]]
+2. Intuitive gestures
+3. Memorable gestures
+4. Non-straining
