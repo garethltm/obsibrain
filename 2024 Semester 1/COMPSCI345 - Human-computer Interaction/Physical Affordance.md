@@ -14,4 +14,7 @@ They have less need for [[Cognitive Affordance]]
 ![[Pasted image 20240522200954.png]]
 ## 3. Assistance
 - basic design issue through [[Physical Affordance]]
+- simply about how easy it is to manipulate & perform physical actions
+## 4. Physical disabilities
+- [[Physical Affordance]] can go with [[Inclusive Design]]
 - 
