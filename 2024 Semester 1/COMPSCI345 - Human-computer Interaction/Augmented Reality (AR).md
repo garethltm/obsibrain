@@ -27,6 +27,7 @@
 	- Optical
 	- Hybrid
 ### 3. User interface & interaction
+	![[Pasted image 20240522215245.png]]![[Pasted image 20240522215251.png]]
 - New UI paradigm
 - Tangible UI & 3D pointing
 - Haptic UI & gesture recognition
@@ -35,4 +36,6 @@
 - Aural UI & speech recognition
 - Text input
 - Hybrid UI
-- 
+- Context awareness
+- Human-machine symbiosis
+	- Biometric devices
