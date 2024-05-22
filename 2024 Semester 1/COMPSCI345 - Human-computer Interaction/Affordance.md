@@ -9,3 +9,5 @@
 #compsci345example 
 ![[Pasted image 20240522195132.png]]
 ## Why is [[Affordance]] important?
+- Majority of [[Usability]] issues in [[User eXperience (UX)]] is due to bad [[Affordance]]
+	- also Majority of [[UX Design]] guidelines are about [[Affordance]]
