@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Reality-Virtuality Continuum.md",
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Gestures.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Reality-Virtuality Continuum.md",
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Gestures.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Reality-Virtuality Continuum.md",
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Gestures.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Reality-Virtuality Continuum.md"
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Gestures.md"
               }
             }
           },
@@ -156,7 +156,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Reality-Virtuality Continuum.md"
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Gestures.md"
               }
             }
           },
@@ -182,7 +182,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Reality-Virtuality Continuum.md",
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Gestures.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -230,6 +230,10 @@
   },
   "active": "f9c599a98861fd25",
   "lastOpenFiles": [
+    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Reality-Virtuality Continuum.md",
+    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Gestures.md",
+    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Extended Reality (XR).md",
+    "@images/Pasted image 20240522221515.png",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Virtual Reality (VR).md",
     "@images/Pasted image 20240522221330.png",
     "@images/Pasted image 20240522221318.png",
@@ -241,10 +245,8 @@
     "@images/Pasted image 20240522221127.png",
     "@images/Pasted image 20240522221109.png",
     "@images/Pasted image 20240522221059.png",
-    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Reality-Virtuality Continuum.md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Augmented Reality (AR).md",
     "@images/Pasted image 20240522220705.png",
-    "@images/Pasted image 20240522220643.png",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Affordance.md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Emotional Affordance.md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Functional Affordance.md",
@@ -264,7 +266,6 @@
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Reviewing Tasks.md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/UX Goals.md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Questionnaires.md",
-    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Usage Testing.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Untitled",
     "2024 Semester 1",
     "2023 Semester 2",
