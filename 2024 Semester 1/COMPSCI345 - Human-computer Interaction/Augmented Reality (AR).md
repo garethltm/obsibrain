@@ -43,3 +43,5 @@
 ### 1. Personal Information systems
 - Personal assistance & advertisement![[Pasted image 20240522215512.png]]![[Pasted image 20240522215521.png]]
 - Navigation![[Pasted image 20240522215551.png]]
+- Touring![[Pasted image 20240522220250.png]]
+- Desi
