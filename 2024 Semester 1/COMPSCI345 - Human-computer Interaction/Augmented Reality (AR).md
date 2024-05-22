@@ -52,3 +52,7 @@
 - Medical applications![[Pasted image 20240522220459.png]]
 - Entertainment
 	- sports broadcasting![[Pasted image 20240522220556.png]]
+	- games![[Pasted image 20240522220610.png]]
+- In the office
+	- collaboration![[Pasted image 20240522220643.png]]
+	- education & training
