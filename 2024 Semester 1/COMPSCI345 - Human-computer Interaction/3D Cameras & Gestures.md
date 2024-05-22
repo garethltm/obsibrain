@@ -1,0 +1,1 @@
+- mapping with a number of cameras

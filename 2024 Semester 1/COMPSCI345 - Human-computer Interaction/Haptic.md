@@ -16,4 +16,5 @@
 #compsci345example 
 - Novint's Falcon - used by surgeons
 	![[Pasted image 20240522224704.png]]
-- PHANToM - for visually impaired people; signature![[Pasted image 20240522224752.png]]
+- PHANToM - for visually impaired people; signature
+	![[Pasted image 20240522224752.png]]
