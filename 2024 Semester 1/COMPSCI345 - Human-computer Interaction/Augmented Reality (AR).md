@@ -47,4 +47,6 @@
 - Industrial & military applications 
 	- design![[Pasted image 20240522220321.png]]
 	- assembly![[Pasted image 20240522220348.png]]
-	- maintainenance
+	- maintenance![[Pasted image 20240522220409.png]]
+	- combat & simulation![[Pasted image 20240522220439.png]]
+- medical applications![[Pasted image 20240522220459.png]]
