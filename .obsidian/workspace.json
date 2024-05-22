@@ -30,21 +30,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "e4c487a35f8bc179",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Non-immersive environment.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -111,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Non-immersive environment.md",
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Virtual Reality (VR).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Non-immersive environment.md",
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Virtual Reality (VR).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Non-immersive environment.md"
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Virtual Reality (VR).md"
               }
             }
           },
@@ -181,7 +169,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Non-immersive environment.md"
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Virtual Reality (VR).md"
               }
             }
           },
@@ -207,7 +195,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Non-immersive environment.md",
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Virtual Reality (VR).md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -253,11 +241,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e4c487a35f8bc179",
+  "active": "ada9ffdaa18548d4",
   "lastOpenFiles": [
+    "@images/Pasted image 20240522221259.png",
+    "@images/Pasted image 20240522221230.png",
+    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Non-immersive environment.md",
     "@images/Pasted image 20240522221155.png",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Virtual Reality (VR).md",
-    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Non-immersive environment.md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Immersive environment.md",
     "@images/Pasted image 20240522221127.png",
     "@images/Pasted image 20240522221109.png",
@@ -269,8 +259,6 @@
     "@images/Pasted image 20240522220610.png",
     "@images/Pasted image 20240522220556.png",
     "@images/Pasted image 20240522220459.png",
-    "@images/Pasted image 20240522220439.png",
-    "@images/Pasted image 20240522220409.png",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Affordance.md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Emotional Affordance.md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Functional Affordance.md",
