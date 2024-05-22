@@ -26,3 +26,13 @@
 	- Inertial
 	- Optical
 	- Hybrid
+### 3. User interface & interaction
+- New UI paradigm
+- Tangible UI & 3D pointing
+- Haptic UI & gesture recognition
+- Visual UI & gesture recognition
+- Gaze tracking
+- Aural UI & speech recognition
+- Text input
+- Hybrid UI
+- 
