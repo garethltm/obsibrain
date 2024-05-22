@@ -44,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "law",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
