@@ -18,4 +18,6 @@ Features that help users with their sensory actions:
 	5. distinguishability
 		- to avoid errors, how an object is interacted with needs to also be distinguishable - Can similar objects still be distinguishable?![[Pasted image 20240522203349.png]]
 	6. color
+		- the use of color to deliver a message, whether to make an object or its interaction stand out more - closely related to color psychology![[Pasted image 20240522203429.png]]
 	7. presentation
+		- depending on the timing, what is presented to the user can be different
