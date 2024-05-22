@@ -64,4 +64,10 @@
 - Lexicon size & multi-hand systems
 	- Single hand, dual hand, arm, body
 	- Recogniser for small number of [[Gestures]] is best
-- Come as you are (do you need )
+- Come as you are 
+	- How encumbered can the user, be & in what environment
+		- do you need special setup
+	- Impact on setup
+	- IR for near, far, ultrasonic, other imagers
+- Reconfigurability
+	- Not providing a huge pa
