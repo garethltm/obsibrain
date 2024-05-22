@@ -11,3 +11,7 @@
 ## Why is [[Affordance]] important?
 - Majority of [[Usability]] issues in [[User eXperience (UX)]] is due to bad [[Affordance]]
 	- also Majority of [[UX Design]] guidelines are about [[Affordance]]
+## Types of [[Affordance]]
+![[Pasted image 20240522195327.png]]
+1. Sensory [[Affordance]]
+2. Cognitivce
