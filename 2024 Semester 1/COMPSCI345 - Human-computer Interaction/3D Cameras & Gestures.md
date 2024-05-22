@@ -1,1 +1,4 @@
 - mapping with a number of cameras
+- 2D cameras can't handle arbitrary scenes
+- 3D cameras incorporate Z-sensing
+	- Powerful segmentation featu
