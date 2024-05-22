@@ -14,4 +14,6 @@
 ## Ease vs Expressiveness
 - Keyboard - expressive but not easy
 - Mouse - easy but not expressive
-- "Natural User Interfaces"
+	- ##### Mouse Gestures![[Pasted image 20240522222834.png]]
+- "Natural User Interfaces (NUI)" - easy & expressive
+## [[Gestures]] Limitations
