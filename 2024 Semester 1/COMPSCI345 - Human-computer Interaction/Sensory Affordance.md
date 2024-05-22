@@ -22,4 +22,6 @@ Features that help users with their sensory actions:
 	7. presentation
 		- depending on the timing, what is presented to the user can be different![[Pasted image 20240522203458.png]]
 ## 2. Auditory
-- 
+- can users hear the sound?
+- is it noticeable (volume), discernable (audio quality)?
+	- #compsci345example apple pay sound when transaction is successful
