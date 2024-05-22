@@ -20,4 +20,6 @@ Features that help users with their sensory actions:
 	6. color
 		- the use of color to deliver a message, whether to make an object or its interaction stand out more - closely related to color psychology![[Pasted image 20240522203429.png]]
 	7. presentation
-		- depending on the timing, what is presented to the user can be different
+		- depending on the timing, what is presented to the user can be different![[Pasted image 20240522203458.png]]
+## 2. Auditory
+- 
