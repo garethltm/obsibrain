@@ -19,6 +19,11 @@ They have less need for [[Cognitive Affordance]]
 - [[Physical Affordance]] can go with [[Inclusive Design]]
 - Disabilities can be temporary, situational or permanent![[Pasted image 20240522201659.png]]
 - Accommodating them are design issues for [[Physical Affordance]]
-## Awkwardness
+## 5. Awkwardness
 - sometimes actions can be carried out, at the expense of comfort & awkwardness. This leads to unnecessary fatigue
 	- can have a social stigma around it - Apple Vision Pro![[Pasted image 20240522202038.png]]
+## 6. Physicality
+- it is important to consider your user's mental model
+- related to physical interaction with hardware, not software
+- includes pushing, pulling, grasping, moving
+- Design consiste
