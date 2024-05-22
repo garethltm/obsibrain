@@ -13,7 +13,9 @@ Senior people might take longer time as they have less experience with a phone
 #### What is a program/app/software that helps user to start it up?
 - Pop-ups that guide you through
 #### How does a program/app/software remind the user when there is an issue with completing the task?
-- Error message
+- Error message, highlighted red, progress bar
+#### What is an example of a program/app/software that misinforms or misleads user?
+- Button that misinforms the user what to do with wrong color
 ## 1. Getting started
 ![[Pasted image 20240522200205.png]]
 - understand that you need to help users get started in the first place
