@@ -19,4 +19,8 @@
 ## [[Gestures]] Limitations
 - Little relationship between operations
 - Commands must be sequential
--  
+-  Hard to refer to previous operations
+- Arbitrary order of operations
+## Types of [[Gestures]]
+#### Gesture Styles
+- Deictic (pointing at thin)
