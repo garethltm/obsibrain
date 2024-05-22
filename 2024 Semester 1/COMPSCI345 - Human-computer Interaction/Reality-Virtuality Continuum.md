@@ -1,2 +1,3 @@
 - consider potentials & issues for each technology![[Pasted image 20240522214534.png]]
 	- [[Augmented Reality (AR)]]
+	- [[Virtual Reality (VR)]]
