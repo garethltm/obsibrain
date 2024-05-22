@@ -14,5 +14,5 @@ When a new server is added to the server group, the [[Load Balancer]] automatica
 - [[Round robin]]
 - [[Weighted round robin]]
 - [[IP hash]]
-	Generally use different algorithms to move traffic
+	Generally use different algorithms to move traffic around
 
