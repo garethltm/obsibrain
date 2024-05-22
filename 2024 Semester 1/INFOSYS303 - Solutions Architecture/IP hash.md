@@ -1,0 +1,1 @@
+Combines incoming traffic's source & destination IP addresses & uses a mathematical function to convert it into a hash. Based on the hash, the connection is assigned to a specific server
