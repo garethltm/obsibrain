@@ -7,3 +7,4 @@
 - active infrared illumination & camera
 ## Possible alternative
 - Pulsed light emitter with active shuttering of camera
+## 3D [[Gestures]] Classification & Literature Review
