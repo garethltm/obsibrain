@@ -1,0 +1,1 @@
+- consider potentials & issues for each technology
