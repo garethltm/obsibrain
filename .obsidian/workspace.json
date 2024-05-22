@@ -11,8 +11,12 @@
             "id": "d29468cb8fccba55",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Affordance.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -82,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Affordance.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Affordance.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Affordance.md"
+              }
             }
           },
           {
@@ -147,7 +155,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {}
+              "state": {
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Affordance.md"
+              }
             }
           },
           {
@@ -172,6 +182,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Affordance.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -217,8 +228,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0f8e0230b587650a",
+  "active": "d29468cb8fccba55",
   "lastOpenFiles": [
+    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Affordance.md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Evaluate UX.md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Evaluation methods & techniques.md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Analysing qualitative data.md",
@@ -249,7 +261,6 @@
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Task Order.md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Exploratory free use.md",
     "@images/Pasted image 20240521233624.png",
-    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Tasks.md",
     "@images/Pasted image 20240521233138.png",
     "@images/Pasted image 20240521230427.png",
     "@images/Pasted image 20240521221644.png",
