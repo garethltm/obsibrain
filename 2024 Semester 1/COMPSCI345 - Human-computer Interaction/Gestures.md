@@ -59,4 +59,9 @@
 	- Tied to cultural background, no commonality![[Pasted image 20240522230126.png]]
 - Comfort
 	- Avoid requiring intense muscle tension - "Gorilla Arm" syndrome
-		- Holding a pose out for too
+		- Holding a pose out for too long can cause fatigue
+	- No awkward repetitive [[Gestures]]
+- Lexicon size & multi-hand systems
+	- Single hand, dual hand, arm, body
+	- Recogniser for small number of [[Gestures]] is best
+- Come as you are (do you need )
