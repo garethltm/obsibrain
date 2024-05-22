@@ -2,6 +2,7 @@
 - User can understand its use by just looking at it (It is an opportunity provided by the thing for the user to interact with it correctly)
 	- Good [[Affordance]] doesn't need a manual
 - an element of design that helps the user do or feel something
+- [[Affordance]] is about aligning with expectations & not requirei
 ## Goal
 1. To understand the meaning of [[affordance]] in the context of HCI
 2. To be able to identify [[affordance]] in current designs
@@ -24,3 +25,5 @@
 ## User-Created Affordances
 - [[Affordance]] added to an original design because it was not good enough
 	- as a designer, we don't want this to happen![[Pasted image 20240522214301.png]]![[Pasted image 20240522214312.png]]
+## "False" Affordance
+- [[Usability]] issue where a design sets an expectation but fails to deliver![[Pasted image 20240522214354.png]]
