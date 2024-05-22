@@ -39,3 +39,6 @@
 	- Mouse/Joystick
 	- Touch surfaces
 	- Tangible devices
+## Video/Vision Costs/Benefits
+- User adaptability & [[feedback]]
+	- fixed palette

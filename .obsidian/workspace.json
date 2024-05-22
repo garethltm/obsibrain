@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/3D Cameras & Gestures.md",
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Gestures.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 276.5
+    "width": 276.5,
+    "collapsed": true
   },
   "right": {
     "id": "29204b37fc003a9a",
@@ -86,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/3D Cameras & Gestures.md",
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Gestures.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/3D Cameras & Gestures.md",
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Gestures.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/3D Cameras & Gestures.md"
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Gestures.md"
               }
             }
           },
@@ -156,7 +157,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/3D Cameras & Gestures.md"
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Gestures.md"
               }
             }
           },
@@ -182,7 +183,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/3D Cameras & Gestures.md",
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Gestures.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -230,9 +231,9 @@
   },
   "active": "16e4b3d49e98b4aa",
   "lastOpenFiles": [
+    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/3D Cameras & Gestures.md",
     "@images/Pasted image 20240522225400.png",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Gestures.md",
-    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/3D Cameras & Gestures.md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Haptic.md",
     "@images/Pasted image 20240522224752.png",
     "@images/Pasted image 20240522224704.png",
@@ -250,7 +251,6 @@
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Non-immersive environment.md",
     "@images/Pasted image 20240522221155.png",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Immersive environment.md",
-    "@images/Pasted image 20240522221127.png",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Affordance.md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Emotional Affordance.md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Functional Affordance.md",

@@ -8,3 +8,4 @@
 ## Possible alternative
 - Pulsed light emitter with active shuttering of camera
 ## 3D [[Gestures]] Classification & Literature Review
+![[Pasted image 20240522225400.png]]
