@@ -13,4 +13,5 @@
 4. Non-straining
 ## Ease vs Expressiveness
 - Keyboard - expressive but not easy
-- Mouse - easy b
+- Mouse - easy but not expressive
+- "Natural User Interfaces"
