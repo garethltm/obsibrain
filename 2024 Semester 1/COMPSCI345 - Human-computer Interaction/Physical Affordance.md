@@ -20,4 +20,5 @@ They have less need for [[Cognitive Affordance]]
 - Disabilities can be temporary, situational or permanent![[Pasted image 20240522201659.png]]
 - Accommodating them are design issues for [[Physical Affordance]]
 ## Awkwardness
-- some
+- sometimes actions can be carried out, at the expense of comfort & awkwardness. This leads to unnecessary fatigue
+	- can have a social stigma around it - Apple Vision Pro![[Pasted image 20240522202038.png]]

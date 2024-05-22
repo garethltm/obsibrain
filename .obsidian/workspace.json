@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 276.5
+    "width": 276.5,
+    "collapsed": true
   },
   "right": {
     "id": "29204b37fc003a9a",
@@ -230,6 +231,7 @@
   },
   "active": "b978ee37fb5df128",
   "lastOpenFiles": [
+    "@images/Pasted image 20240522202038.png",
     "@images/Pasted image 20240522201659.png",
     "@images/Pasted image 20240522200954.png",
     "@images/Pasted image 20240522200936.png",
@@ -248,7 +250,6 @@
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Functional Affordance.md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Sensory Affordance.md",
     "@images/Pasted image 20240522195327.png",
-    "@images/Pasted image 20240522195132.png",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Evaluate UX.md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Evaluation methods & techniques.md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Analysing qualitative data.md",
