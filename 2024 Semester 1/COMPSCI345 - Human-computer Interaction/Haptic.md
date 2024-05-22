@@ -3,4 +3,12 @@
 ## Design
 - Uses sense of touch
 - Can be combined into [[Virtual Reality (VR)]]
-- User receives [[feedback]]
+- User receives [[feedback]] via tactile sensation
+## Issues
+- Sense of touch very complex
+	- Different nerves have different functions
+	- Pressure
+	- Temperature
+	- Muscle
+	- Hair movement
+- Texture of surface particularly difficult
