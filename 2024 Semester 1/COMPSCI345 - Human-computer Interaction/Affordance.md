@@ -13,5 +13,5 @@
 	- also Majority of [[UX Design]] guidelines are about [[Affordance]]
 ## Types of [[Affordance]]
 ![[Pasted image 20240522195327.png]]
-1. Sensory [[Affordance]]
-2. Cognitivce
+1. [[Sensory Affordance]] - Seeing, Touch
+2. [[Cognitive Affordance]] - How you per
