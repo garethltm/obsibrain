@@ -5,6 +5,13 @@
 ## Main issue
 - How do we register things that are actually placed in the real world (mapping)![[Pasted image 20240522214725.png]]
 ## Enabling Technologies
-1. Displays
+### 1. Displays![[Pasted image 20240522214905.png]]
 	- Aural display
-	- V
+	- Visual display
+		- Video see-through
+		- Optical see-through
+		- Projective
+	- Display Positioning
+		- Head worn
+		- Hand-held
+		- Spatial
