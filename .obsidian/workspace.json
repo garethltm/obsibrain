@@ -11,8 +11,12 @@
             "id": "4afd4128cd3d1be8",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week08/inductively.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -44,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "law",
+                "query": "direct obser",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -83,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Monochrome.md",
+                "file": "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week08/inductively.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Monochrome.md",
+                "file": "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week08/inductively.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Monochrome.md"
+                "file": "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week08/inductively.md"
               }
             }
           },
@@ -153,7 +157,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Monochrome.md"
+                "file": "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week08/inductively.md"
               }
             }
           },
@@ -179,7 +183,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Monochrome.md",
+                "file": "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week08/inductively.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -226,6 +230,9 @@
   },
   "active": "a6e0090ac9cbd1f3",
   "lastOpenFiles": [
+    "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week10/Zipf's law.md",
+    "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week10/Naïve Bayes - Laplace smoothing.md",
+    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Monochrome.md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Colour Schemes.md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Analogous.md",
     "2023 Semester 2/COMPSCI235 - Software Development Methodologies/Cascading Style Sheets (CSS).md",
@@ -249,9 +256,6 @@
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Web Content Accessibility Guidelines (WCAG).md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Visibility of System Status.md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/User eXperience (UX).md",
-    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/User Personas.md",
-    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Usage Testing.md",
-    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Usage Research & Data Elicitation.md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction",
     "@images/Pasted image 20240522012213.png",
     "@images/Pasted image 20240522010519.png",
