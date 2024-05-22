@@ -11,3 +11,4 @@
 2. Intuitive gestures
 3. Memorable gestures
 4. Non-straining
+## Ease vs Expressiveness
