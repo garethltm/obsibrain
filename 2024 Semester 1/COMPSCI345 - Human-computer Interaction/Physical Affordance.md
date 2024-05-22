@@ -12,3 +12,6 @@ They have less need for [[Cognitive Affordance]]
 ![[Pasted image 20240522200936.png]]
 ## 2. Door knobs
 ![[Pasted image 20240522200954.png]]
+## 3. Assistance
+- basic design issue through [[Physical Affordance]]
+- 
