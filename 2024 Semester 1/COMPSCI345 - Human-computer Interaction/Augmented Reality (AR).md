@@ -17,8 +17,12 @@
 	- Hand-held
 	- Spatial
 ### 2. Tracking sensors & approaches
+	![[Pasted image 20240522215035.png]]
 - Modelling environments
 - User movement tracking
 	- Mechanical, ultrasonic & magnetic
 	- GPS
 	- Radio
+	- Inertial
+	- Optical
+	- Hybrid
