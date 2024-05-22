@@ -70,4 +70,5 @@
 	- Impact on setup
 	- IR for near, far, ultrasonic, other imagers
 - Reconfigurability
-	- Not providing a huge pa
+	- Not providing a huge palette to start, but modifying the palette
+	- Modify palette for different [[Tasks]]
