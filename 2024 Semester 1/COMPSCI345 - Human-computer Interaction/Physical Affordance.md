@@ -11,3 +11,4 @@ They have less need for [[Cognitive Affordance]]
 ## 1. Keyboards
 ![[Pasted image 20240522200936.png]]
 ## 2. Door knobs
+![[Pasted image 20240522200954.png]]
