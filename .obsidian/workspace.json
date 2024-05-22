@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "444a2333b71657e0",
+        "id": "d4ea6fd670165a32",
         "type": "tabs",
         "children": [
           {
-            "id": "e4f769a59d266559",
+            "id": "252f1d2ec16ba331",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/IP hash.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -86,7 +82,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/IP hash.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +98,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/IP hash.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,9 +119,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/IP hash.md"
-              }
+              "state": {}
             }
           },
           {
@@ -155,9 +147,7 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/IP hash.md"
-              }
+              "state": {}
             }
           },
           {
@@ -182,7 +172,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/IP hash.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -228,11 +217,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e4f769a59d266559",
+  "active": "3ad179677b7fba41",
   "lastOpenFiles": [
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/IP hash.md",
     "@images/Pasted image 20240523002903.png",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Load Balancer.md",
-    "2024 Semester 1/INFOSYS303 - Solutions Architecture/IP hash.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Weighted round robin.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Round robin.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Load Balancing.md",
@@ -255,7 +244,6 @@
     "@images/Pasted image 20240522222834.png",
     "@images/Pasted image 20240522221515.png",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Virtual Reality (VR).md",
-    "@images/Pasted image 20240522221330.png",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Non-immersive environment.md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Immersive environment.md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Affordance.md",
