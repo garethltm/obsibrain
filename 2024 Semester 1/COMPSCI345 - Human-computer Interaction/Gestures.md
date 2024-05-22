@@ -29,4 +29,12 @@
 - Semaphores (positions)
 - Sign Language
 #### Technologies
-- 
+- Perceptual
+	- Vision
+	- Audio
+	- Remote sensing
+- Non-Perceptual
+	- Data gloves
+	- Pens
+	- Mouse/Joystick
+	- Touch
