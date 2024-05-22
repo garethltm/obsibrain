@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Cognitive Affordance.md",
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Physical Affordance.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Cognitive Affordance.md",
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Physical Affordance.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Cognitive Affordance.md",
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Physical Affordance.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Cognitive Affordance.md"
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Physical Affordance.md"
               }
             }
           },
@@ -156,7 +156,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Cognitive Affordance.md"
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Physical Affordance.md"
               }
             }
           },
@@ -182,7 +182,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Cognitive Affordance.md",
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Physical Affordance.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -230,9 +230,11 @@
   },
   "active": "b978ee37fb5df128",
   "lastOpenFiles": [
+    "@images/Pasted image 20240522200757.png",
+    "@images/Pasted image 20240522200748.png",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Affordance.md",
-    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Physical Affordance.md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Cognitive Affordance.md",
+    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Physical Affordance.md",
     "@images/Pasted image 20240522200405.png",
     "@images/Pasted image 20240522200317.png",
     "@images/Pasted image 20240522200205.png",
@@ -264,7 +266,6 @@
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Presenting quantitative results.md",
     "@images/Pasted image 20240522010519.png",
     "@images/Pasted image 20240522010415.png",
-    "@images/Pasted image 20240522005125.png",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Untitled",
     "2024 Semester 1",
     "2023 Semester 2",
