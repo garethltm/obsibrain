@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Emotional Affordance.md",
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Affordance.md",
                 "mode": "source",
                 "source": false
               }
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Emotional Affordance.md",
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Affordance.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Emotional Affordance.md",
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Affordance.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Emotional Affordance.md"
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Affordance.md"
               }
             }
           },
@@ -157,7 +157,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Emotional Affordance.md"
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Affordance.md"
               }
             }
           },
@@ -183,7 +183,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Emotional Affordance.md",
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Affordance.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -231,6 +231,8 @@
   },
   "active": "b978ee37fb5df128",
   "lastOpenFiles": [
+    "@images/Pasted image 20240522214209.png",
+    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Emotional Affordance.md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Affordance.md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Functional Affordance.md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Sensory Affordance.md",
@@ -248,7 +250,6 @@
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Cognitive Affordance.md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/feedback.md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/feed forward.md",
-    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Emotional Affordance.md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Evaluate UX.md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Evaluation methods & techniques.md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Analysing qualitative data.md",

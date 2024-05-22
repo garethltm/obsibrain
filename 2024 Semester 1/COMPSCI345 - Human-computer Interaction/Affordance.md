@@ -19,3 +19,5 @@
 4. [[Functional Affordance]]
 5. [[Emotional Affordance]]
 #compsci345example ![[Pasted image 20240522195559.png]]
+## Consolidating Affordances
+- putting them all together![[Pasted image 20240522214209.png]]
