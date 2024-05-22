@@ -12,6 +12,6 @@ When a new server is added to the server group, the [[Load Balancer]] automatica
 ## How does the [[Load Balancer]] decide on which server to use?
 #### 1. Static Balancing Algorithms
 - [[Round robin]]
-- Weighted round robin
-- IP hash
+- [[Weighted round robin]]
+- [[IP hash]]
 
