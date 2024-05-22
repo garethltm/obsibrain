@@ -12,3 +12,5 @@
 3. Memorable gestures
 4. Non-straining
 ## Ease vs Expressiveness
+- Keyboard - expressive but not easy
+- Mouse - easy b
