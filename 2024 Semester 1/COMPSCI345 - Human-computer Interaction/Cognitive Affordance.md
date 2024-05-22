@@ -10,8 +10,10 @@ This is a very simple, yet important question especially for less experienced us
 - Understanding people's cognitive ability by relying on user's mental model on how the system works
 #compsci345example 
 Senior people might take longer time as they have less experience with a phone
-
-#
+#### What is a program/app/software that helps user to start it up?
+- Pop-ups that guide you through
+#### How does a program/app/software remind the user when there is an issue with completing the task?
+- Error message
 ## 1. Getting started
 ![[Pasted image 20240522200205.png]]
 - understand that you need to help users get started in the first place
