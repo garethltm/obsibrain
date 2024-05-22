@@ -75,4 +75,8 @@
 - Interaction space
 	- Where can [[Gestures]] be recognised (virtual interaction envelope)
 	- Stereo vision is best, but possible for mobile platforms?
-- [[ges]]
+- [[Gestures]] spotting & immersion syndrome
+		- Unintended movement recognition - Midas Touch proble
+	- Cue selection approaches (voice, buttons, [[Gestures]])
+- Ubiquity & wearability
+	- Small sensors & cameras placed where on the body
