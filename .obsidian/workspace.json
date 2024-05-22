@@ -11,8 +11,12 @@
             "id": "72cc13b08bb9967f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Prägnanz Principle.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -44,8 +48,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "pragn",
-                "matchingCase": false,
+                "query": "principle path:\"2024 Semester 1/COMPSCI345 - Human-computer Interaction\"  ",
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -83,6 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Prägnanz Principle.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,6 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Prägnanz Principle.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -120,7 +126,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Prägnanz Principle.md"
+              }
             }
           },
           {
@@ -148,7 +156,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {}
+              "state": {
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Prägnanz Principle.md"
+              }
             }
           },
           {
@@ -173,6 +183,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Prägnanz Principle.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -217,7 +228,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a6e0090ac9cbd1f3",
+  "active": "72cc13b08bb9967f",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Data Collection.md",
