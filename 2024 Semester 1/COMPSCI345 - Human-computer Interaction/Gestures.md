@@ -55,3 +55,8 @@
 	- Short & natural [[Gestures]]
 - Intuitiveness
 	- Clear cognitive association with [[Tasks]]
+	- No complex shapes & unnatural combinations
+	- Tied to cultural background, no commonality![[Pasted image 20240522230126.png]]
+- Comfort
+	- Avoid requiring intense muscle tension - "Gorilla Arm" syndrome
+		- Holding a pose out for too
