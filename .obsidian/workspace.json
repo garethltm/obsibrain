@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ac01494f045e414f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Amazon EC2 Auto Scaling.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -48,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "strategy",
+                "query": "aws",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,8 +78,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -87,7 +99,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week02/Bidirectional Search.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +115,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week02/Bidirectional Search.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week02/Bidirectional Search.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -157,7 +167,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week02/Bidirectional Search.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -183,7 +193,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week02/Bidirectional Search.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -228,45 +237,45 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "890065a2b87f2126",
+  "active": "0f8e0230b587650a",
   "lastOpenFiles": [
-    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Enterprise Architecture.md",
-    "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week02/Informed Search.md",
-    "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week01/Game Playing Agent.md",
-    "2024 Semester 1/INFOSYS303 - Solutions Architecture/EA Tools.md",
-    "2024 Semester 1/INFOSYS303 - Solutions Architecture/ArchiMate Enterprise Architecture.md",
-    "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week04/Discretisation.md",
-    "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week04/Continuous Space (Continuous Functions).md",
-    "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week04/Bernoulli random variable.md",
-    "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week04/gradient.md",
-    "2023 Semester 2/COMPSCI235 - Software Development Methodologies/empirical.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Bayesian Networks.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/bias-variance decomposition.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Bayes rule.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Bayes Optimal Classifier.md",
-    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Empirical UX Evaluation Methods.md",
-    "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week08/inductively.md",
-    "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week10/Zipf's law.md",
-    "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week10/Naïve Bayes - Laplace smoothing.md",
-    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Monochrome.md",
-    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Colour Schemes.md",
-    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Analogous.md",
-    "2023 Semester 2/COMPSCI235 - Software Development Methodologies/Cascading Style Sheets (CSS).md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Naive Bayes Classifier.md",
-    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Prägnanz Principle.md",
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Amazon EC2 Auto Scaling.md",
     "conflict-files-obsidian-git.md",
-    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Data Collection.md",
+    "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week02/Bidirectional Search.md",
+    "@images/Pasted image 20240523002903.png",
+    "@images/Pasted image 20240523002006.png",
+    "@images/Pasted image 20240522230931.png",
+    "@images/Pasted image 20240522230126.png",
+    "@images/Pasted image 20240522225627.png",
+    "@images/Pasted image 20240522225400.png",
+    "@images/Pasted image 20240522224752.png",
+    "@images/Pasted image 20240522224704.png",
+    "@images/Pasted image 20240522222834.png",
+    "@images/Pasted image 20240522221515.png",
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Weighted round robin.md",
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Round robin.md",
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Load Balancing.md",
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Load Balancer.md",
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/IP hash.md",
+    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/feedback.md",
+    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/feed forward.md",
+    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Virtual Reality (VR).md",
+    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Sensory Affordance.md",
+    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Reality-Virtuality Continuum.md",
+    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Physical Affordance.md",
+    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Non-immersive environment.md",
+    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Immersive environment.md",
+    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Haptic.md",
+    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Gestures.md",
+    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Functional Affordance.md",
+    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Extended Reality (XR).md",
+    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Emotional Affordance.md",
+    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Cognitive Affordance.md",
+    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Augmented Reality (AR).md",
+    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Affordance.md",
+    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/3D Cameras & Gestures.md",
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Enterprise Architecture.md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction",
-    "@images/Pasted image 20240522012213.png",
-    "@images/Pasted image 20240522010519.png",
-    "@images/Pasted image 20240522010415.png",
-    "@images/Pasted image 20240522005125.png",
-    "@images/Pasted image 20240521233624.png",
-    "@images/Pasted image 20240521233138.png",
-    "@images/Pasted image 20240521230427.png",
-    "@images/Pasted image 20240521221644.png",
-    "@images/Pasted image 20240521220910.png",
-    "@images/Pasted image 20240521214918.png",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Untitled",
     "2024 Semester 1",
     "2023 Semester 2",

@@ -1,0 +1,1 @@
+help with a prior knowledge used to predict an outcome of an action
