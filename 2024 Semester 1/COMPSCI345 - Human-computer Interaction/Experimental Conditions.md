@@ -19,4 +19,8 @@ If 2 [[Independent variable]]?![[Pasted image 20240523223749.png]]
 - [[Replicability]]
 - [[Know your sample]]
 - [[Ethical Considerations]]
-	### Other consi
+	### Other considerations
+	1. Run a pilot study prior to your "actual" study
+	2. Take breaks. Your participants are only humans
+	3. Let them train with your system as an initial step if it's a novel system
+	4. Keep it simple. The more complex the experiment design, the harder it
