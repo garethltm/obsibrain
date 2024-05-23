@@ -1,3 +1,4 @@
+![[Pasted image 20240523224559.png]]
 - to overcome the [[Learning effect]]
 - when you still have to do [[Within-Subject Design]]
-- We understand that participants can learn from what they did,
+- not an issue for [[Between-Subject Design]]
