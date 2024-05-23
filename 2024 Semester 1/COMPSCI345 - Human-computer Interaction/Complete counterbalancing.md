@@ -1,0 +1,3 @@
+- all possible sequence of conditions for each participant
+- Good for low number of conditions
+	- 3 or 4

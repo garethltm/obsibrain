@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "16646a479c5b31a0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Complete counterbalancing.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -87,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Counterbalancing.md",
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Complete counterbalancing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Counterbalancing.md",
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Complete counterbalancing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Counterbalancing.md"
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Complete counterbalancing.md"
               }
             }
           },
@@ -157,7 +170,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Counterbalancing.md"
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Complete counterbalancing.md"
               }
             }
           },
@@ -183,7 +196,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Counterbalancing.md",
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Complete counterbalancing.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -229,11 +242,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5a84626aac60c8e5",
+  "active": "16646a479c5b31a0",
   "lastOpenFiles": [
+    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Counterbalancing.md",
+    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Complete counterbalancing.md",
     "@images/Pasted image 20240523224559.png",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Between-Subject Design.md",
-    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Counterbalancing.md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Learning effect.md",
     "@images/Pasted image 20240523224039.png",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Experimental Conditions.md",
@@ -263,7 +277,6 @@
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/quantitative.md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/qualitative.md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/A B Testing.md",
-    "@images/Pasted image 20240523215434.png",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/IP hash.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Load Balancer.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Weighted round robin.md",
