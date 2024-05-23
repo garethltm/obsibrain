@@ -3,4 +3,8 @@
 - Why should anyone care?
 
 Start with something general or simple (a comparison)
-- "is a smart watch better than a mechanical wri"
+#compsci345example 
+- "is a smart watch better than a mechanical wrist watch?"
+- "is an Android phone better than an Iphone"
+- "is Ebay better than Freecycle?"
+Then be s
