@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Covariate Variable.md",
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Research in HCI.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Covariate Variable.md",
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Research in HCI.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Covariate Variable.md",
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Research in HCI.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Covariate Variable.md"
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Research in HCI.md"
               }
             }
           },
@@ -156,7 +156,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Covariate Variable.md"
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Research in HCI.md"
               }
             }
           },
@@ -182,7 +182,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Covariate Variable.md",
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Research in HCI.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -230,8 +230,9 @@
   },
   "active": "252f1d2ec16ba331",
   "lastOpenFiles": [
-    "@images/Pasted image 20240523223022.png",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Defining variables.md",
+    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Covariate Variable.md",
+    "@images/Pasted image 20240523223022.png",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Control Variable.md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Dependent Variable.md",
     "@images/Pasted image 20240523222649.png",
@@ -239,7 +240,6 @@
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Research in HCI.md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Independent variable.md",
     "@images/Pasted image 20240523222002.png",
-    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Covariate Variable.md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Hypothesis formulation.md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Formulating Hypothesis.md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Alternative Hypothesis (Ha or H1).md",
@@ -265,7 +265,6 @@
     "@images/Pasted image 20240522230931.png",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Reality-Virtuality Continuum.md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Gestures.md",
-    "@images/Pasted image 20240522230126.png",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Untitled",
     "2024 Semester 1",
     "2023 Semester 2",
