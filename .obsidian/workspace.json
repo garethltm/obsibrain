@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "ead0ad080faf496b",
+        "id": "2e49a901b2fd1481",
         "type": "tabs",
         "children": [
           {
-            "id": "34c0131e4e33dce2",
+            "id": "4f4b392135bec168",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -44,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "private",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -61,7 +61,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -216,7 +217,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "34c0131e4e33dce2",
+  "active": "a6e0090ac9cbd1f3",
   "lastOpenFiles": [
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Private Cloud.md",
     "conflict-files-obsidian-git.md",
