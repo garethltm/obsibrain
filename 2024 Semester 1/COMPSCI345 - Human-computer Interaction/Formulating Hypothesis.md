@@ -16,4 +16,4 @@ You want to know if apples are sweeter than oranges
 	- you set out to disprove it.
 - By disproving it, you know "apples & oranges do not taste the same"
 	Instead of testing all apples if they taste the same as oranges
-We don
+**We don't PROVE the truth, We DISPROVE the false**
