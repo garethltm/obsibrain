@@ -4,4 +4,4 @@
 - not an issue for [[Between-Subject Design]]
 ## Types of [[Counterbalancing]]
 1. [[Complete counterbalancing]]
-2. [[]]
+2. [[Latin Square]]
