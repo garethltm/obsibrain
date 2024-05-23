@@ -13,4 +13,4 @@ More than 1 independent variable, Absolutely
 Say you wish to compare [[Usability]] of 2 android phones, you divide it to:
 1. Large Screen, Small Screen $\rightarrow$ screen size
 2. Qualcomm Processor, Exynos Processor $\rightarrow$ processor type
-but it is usually best to stick to jsu
+but it is usually best to stick to just 1 [[Independent variable]]
