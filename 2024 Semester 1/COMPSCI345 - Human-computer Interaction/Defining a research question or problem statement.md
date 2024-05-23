@@ -18,4 +18,7 @@
 - "How to measure phone responsivenes?"
 	- measure delay using high-speed camera
 - "How to measure website [[Usability]]?
-	- fill a p"
+	- fill a [[Usability]] [[Questionnaires]]"
+	- The question should be:
+		1. Clearly defined (not too general)
+		2. Feasible (won't take too long, too expensive to carry out, )
