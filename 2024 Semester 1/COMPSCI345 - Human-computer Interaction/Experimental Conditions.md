@@ -19,3 +19,4 @@ If 2 [[Independent variable]]?![[Pasted image 20240523223749.png]]
 - [[Replicability]]
 - [[Know your sample]]
 - [[Ethical Considerations]]
+	### Other consi
