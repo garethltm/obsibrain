@@ -9,7 +9,9 @@ If 2 [[Independent variable]]?![[Pasted image 20240523223749.png]]
 - [[Within-Subject Design]]
 - [[Between-Subject Design]]
 
-| [[Between-Subject Design]] | [[Within-Subject Design]] |
-| -------------------------- | ------------------------- |
-|                            | Lesser                    |
+| [[Within-Subject Design]]                                      | [[Between-Subject Design]] |
+| -------------------------------------------------------------- | -------------------------- |
+| Lesser participants required                                   | More participants required |
+| When there are large individual differences                    |                            |
+| When tasks are unlikely to be affected by learning & carryover |                            |
 
