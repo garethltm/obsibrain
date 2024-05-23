@@ -13,3 +13,6 @@ Try answering the research question, as though you already know the answer. (don
 2. Meaningful
 3. Testable
 4. [[Falsifiable]]
+## Contains
+- [[Null Hypothesis (Ho)]]
+- [[Alternative Hypothesis (Ha or H1)]]
