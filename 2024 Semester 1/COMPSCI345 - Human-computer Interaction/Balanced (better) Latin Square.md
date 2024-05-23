@@ -1,0 +1,2 @@
+- each condition precedes & follows each other equally often
+- However, you still need to cluster parti

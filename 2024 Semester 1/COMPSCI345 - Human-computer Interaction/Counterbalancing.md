@@ -5,3 +5,4 @@
 ## Types of [[Counterbalancing]]
 1. [[Complete counterbalancing]]
 2. [[Latin Square]]
+3. [[Balanced (better) Latin Square]]
