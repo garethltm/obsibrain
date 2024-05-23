@@ -25,6 +25,15 @@ It is to show how the manipulation of a variable has another direct causal influ
 2. [[Hypothesis formulation]]
 3. [[Defining variables]]
 4. [[Research Design]]
+## Extra Considerations
+- [[Replicability]]
+- [[Know your sample]]
+- [[Ethical Considerations]]
+	### Other considerations
+	1. Run a pilot study prior to your "actual" study (testing before the actual)
+	2. Take breaks. Your participants are only humans
+	3. Let them train with your system as an initial step if it's a novel system (let your participant know how to use it)
+	4. Keep it simple. The more complex the experiment design, the harder it is to analyze the results
 ## Limitations of Experiment
 1. It is not always easy to take account of every variable
 2. Not externally validated
