@@ -83,7 +83,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week04/Discretisation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +99,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week04/Discretisation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -122,9 +120,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week04/Discretisation.md"
-              }
+              "state": {}
             }
           },
           {
@@ -152,9 +148,7 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week04/Discretisation.md"
-              }
+              "state": {}
             }
           },
           {
@@ -179,7 +173,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week04/Discretisation.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -224,8 +217,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3ad179677b7fba41",
+  "active": "890065a2b87f2126",
   "lastOpenFiles": [
+    "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week04/Discretisation.md",
     "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week04/Continuous Space (Continuous Functions).md",
     "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week04/Bernoulli random variable.md",
     "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week04/gradient.md",
@@ -251,7 +245,6 @@
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/responsive design.md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/problem framing.md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/new semantic HTML5.md",
-    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/informed consent form.md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction",
     "@images/Pasted image 20240522012213.png",
     "@images/Pasted image 20240522010519.png",
