@@ -18,3 +18,4 @@ If 2 [[Independent variable]]?![[Pasted image 20240523223749.png]]
 | When working with rare or hard to reach populations                                 | When fatigue may be an issue                                                     |
 - [[Replicability]]
 - [[Know your sample]]
+- [[Ethical Considerations]]
