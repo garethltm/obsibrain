@@ -13,5 +13,9 @@ In HCI, we often want to determine:
 6. Why is it better?
 It is to show how the manipulation of a variable has another direct causal influence on another variable. It is the notion of causality.
 ## [[A B Testing]]
-
+- comparing 2 elements
+## Advantages of Experiment
+1. It's data, not just opinion
+2. We don't only know which is better but what makes it better
+3. It's a systematic process, allowing results to be generalized
 
