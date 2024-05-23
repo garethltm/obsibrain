@@ -1,3 +1,3 @@
 - to overcome the [[Learning effect]]
 - when you still have to do [[Within-Subject Design]]
-- 
+- We understand that participants can learn from what they did,

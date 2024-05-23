@@ -1,2 +1,3 @@
-they have learnt after the first variation
-- the task they do is a variable
+- also known as the "Carry-over effect"
+- participants
+	- the task they do is a variable
