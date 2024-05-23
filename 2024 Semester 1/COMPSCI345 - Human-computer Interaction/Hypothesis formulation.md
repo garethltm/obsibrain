@@ -7,3 +7,9 @@ Draw a line between cause & effect
 Try answering the research question, as though you already know the answer. (don't worry if you don't actually know yet - which you don't)
 - "A causes B"
 - "A is larger than B"
+- "A is more usable than B"
+## A hypothesis should be
+1. Precise
+2. Meaningful
+3. Testable
+4. [[Falsifiable]]
