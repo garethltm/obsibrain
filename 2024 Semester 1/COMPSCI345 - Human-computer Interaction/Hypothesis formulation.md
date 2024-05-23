@@ -2,3 +2,8 @@
 - It is the answer to your research question before you test it
 	- make a question & answer it
 - It explains the relationship between your [[Independent variable]] & [[2024 Semester 1/COMPSCI345 - Human-computer Interaction/Dependent Variable|Dependent Variable]]
+Draw a line between cause & effect
+
+Try answering the research question, as though you already know the answer. (don't worry if you don't actually know yet - which you don't)
+- "A causes B"
+- "A is larger than B"

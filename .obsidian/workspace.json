@@ -30,21 +30,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "07f8e8a79d1bd9ef",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Independent variable.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -111,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Independent variable.md",
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Hypothesis formulation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Independent variable.md",
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Hypothesis formulation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Independent variable.md"
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Hypothesis formulation.md"
               }
             }
           },
@@ -181,7 +169,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Independent variable.md"
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Hypothesis formulation.md"
               }
             }
           },
@@ -207,7 +195,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Independent variable.md",
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Hypothesis formulation.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -253,10 +241,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "07f8e8a79d1bd9ef",
+  "active": "ae5b7ffd6718fa9d",
   "lastOpenFiles": [
-    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Hypothesis formulation.md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Independent variable.md",
+    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Hypothesis formulation.md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Dependent Variable.md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Research in HCI.md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Defining a research question or problem statement.md",
