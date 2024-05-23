@@ -18,4 +18,6 @@ It is to show how the manipulation of a variable has another direct causal influ
 1. It's data, not just opinion
 2. We don't only know which is better but what makes it better
 3. It's a systematic process, allowing results to be generalized
-
+- A good experiment would cover both [[quantitative]] & [[qualitative]]
+## 4 stages of an Experiment
+![[Pasted image 20240523215801.png]]
