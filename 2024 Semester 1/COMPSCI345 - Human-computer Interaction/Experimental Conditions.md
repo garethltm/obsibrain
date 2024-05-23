@@ -8,3 +8,8 @@ If 2 [[Independent variable]]?![[Pasted image 20240523223749.png]]
 ## Types
 - [[Within-Subject Design]]
 - [[Between-Subject Design]]
+
+| [[Between-Subject Design]] | [[Within-Subject Design]] |
+| -------------------------- | ------------------------- |
+|                            | Lesser                    |
+

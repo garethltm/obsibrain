@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Balanced (better) Latin Square.md",
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Experimental Conditions.md",
                 "mode": "source",
                 "source": false
               }
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Balanced (better) Latin Square.md",
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Experimental Conditions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Balanced (better) Latin Square.md",
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Experimental Conditions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Balanced (better) Latin Square.md"
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Experimental Conditions.md"
               }
             }
           },
@@ -157,7 +157,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Balanced (better) Latin Square.md"
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Experimental Conditions.md"
               }
             }
           },
@@ -183,7 +183,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Balanced (better) Latin Square.md",
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Experimental Conditions.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -231,19 +231,20 @@
   },
   "active": "5a84626aac60c8e5",
   "lastOpenFiles": [
+    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Within-Subject Design.md",
+    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Experimental Conditions.md",
+    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Between-Subject Design.md",
+    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Learning effect.md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Counterbalancing.md",
-    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Latin Square.md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Balanced (better) Latin Square.md",
+    "@images/Pasted image 20240523225108.png",
+    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Latin Square.md",
     "@images/Pasted image 20240523224904.png",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Complete counterbalancing.md",
     "@images/Pasted image 20240523224720.png",
     "@images/Pasted image 20240523224559.png",
-    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Between-Subject Design.md",
-    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Learning effect.md",
     "@images/Pasted image 20240523224039.png",
-    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Experimental Conditions.md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Research Design.md",
-    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Within-Subject Design.md",
     "@images/Pasted image 20240523223832.png",
     "@images/Pasted image 20240523223749.png",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Condition.md",
@@ -256,7 +257,6 @@
     "@images/Pasted image 20240523222649.png",
     "@images/Pasted image 20240523222516.png",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Independent variable.md",
-    "@images/Pasted image 20240523222002.png",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Hypothesis formulation.md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Formulating Hypothesis.md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Alternative Hypothesis (Ha or H1).md",
@@ -266,7 +266,6 @@
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/quantitative.md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/qualitative.md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/A B Testing.md",
-    "2024 Semester 1/INFOSYS303 - Solutions Architecture/IP hash.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Untitled",
     "2024 Semester 1",
     "2023 Semester 2",
