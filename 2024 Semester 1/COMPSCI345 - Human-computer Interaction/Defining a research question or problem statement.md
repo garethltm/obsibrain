@@ -21,4 +21,6 @@
 	- fill a [[Usability]] [[Questionnaires]]"
 	- The question should be:
 		1. Clearly defined (not too general)
-		2. Feasible (won't take too long, too expensive to carry out, )
+		2. Feasible (won't take too long, too expensive to carry out, etc.)
+		3. Provide a good measurable outcome
+		4. Novel (don't ask something that has been answered already)

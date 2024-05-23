@@ -1,0 +1,2 @@
+- It is something like an initial, unproven, "conclusion"
+- It is the answer to your research ques

@@ -22,4 +22,4 @@ It is to show how the manipulation of a variable has another direct causal influ
 ## 4 stages of an Experiment
 ![[Pasted image 20240523215801.png]]
 1. [[Defining a research question or problem statement]]
-2. Hypothesis formulation
+2. [[Hypothesis formulation]]
