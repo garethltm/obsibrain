@@ -5,4 +5,5 @@ Condition 2 (Control [[Condition]]) - Using the conventional system
 
 #compsci345example 
 If 2 [[Independent variable]]?![[Pasted image 20240523223749.png]]
-
+## Types
+- [[Within-Subject Design]]
