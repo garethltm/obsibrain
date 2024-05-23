@@ -16,3 +16,4 @@ Try answering the research question, as though you already know the answer. (don
 ## Contains
 - [[Null Hypothesis (Ho)]]
 - [[Alternative Hypothesis (Ha or H1)]]
+- [[Formulating Hypothesis]]

@@ -20,12 +20,12 @@
             }
           },
           {
-            "id": "84f8714dea42c612",
+            "id": "f357a83780f13e9f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Alternative Hypothesis (Ha or H1).md",
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Formulating Hypothesis.md",
                 "mode": "source",
                 "source": false
               }
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Alternative Hypothesis (Ha or H1).md",
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Formulating Hypothesis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Alternative Hypothesis (Ha or H1).md",
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Formulating Hypothesis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Alternative Hypothesis (Ha or H1).md"
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Formulating Hypothesis.md"
               }
             }
           },
@@ -169,7 +169,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Alternative Hypothesis (Ha or H1).md"
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Formulating Hypothesis.md"
               }
             }
           },
@@ -195,7 +195,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Alternative Hypothesis (Ha or H1).md",
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Formulating Hypothesis.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -241,9 +241,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "84f8714dea42c612",
+  "active": "f357a83780f13e9f",
   "lastOpenFiles": [
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Hypothesis formulation.md",
+    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Formulating Hypothesis.md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Alternative Hypothesis (Ha or H1).md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Research in HCI.md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Null Hypothesis (Ho).md",
@@ -278,7 +279,6 @@
     "@images/Pasted image 20240522224752.png",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Sensory Affordance.md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Augmented Reality (AR).md",
-    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Virtual Reality (VR).md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Untitled",
     "2024 Semester 1",
     "2023 Semester 2",
