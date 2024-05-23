@@ -1,6 +1,6 @@
 Never say "I think", always back it up with data "Based on"
 ## Goal
-1. To learn how to design controlled experiments to be analyzed quantitatively
+1. To learn how to design controlled experiments to be analyzed [[quantitative]]ly
 2. To know the important terms of experiment design
 3. To understand the different variables & how they form an experiment
 ## What is an experiment in HCI context?
