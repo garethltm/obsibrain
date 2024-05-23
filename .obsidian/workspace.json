@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Experimental Conditions.md",
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/A B Testing.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 276.5,
-    "collapsed": true
+    "width": 276.5
   },
   "right": {
     "id": "29204b37fc003a9a",
@@ -87,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Experimental Conditions.md",
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/A B Testing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Experimental Conditions.md",
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/A B Testing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Experimental Conditions.md"
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/A B Testing.md"
               }
             }
           },
@@ -157,7 +156,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Experimental Conditions.md"
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/A B Testing.md"
               }
             }
           },
@@ -183,7 +182,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Experimental Conditions.md",
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/A B Testing.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -231,8 +230,9 @@
   },
   "active": "5a84626aac60c8e5",
   "lastOpenFiles": [
-    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Ethical Considerations.md",
+    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Defining a research question or problem statement.md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Experimental Conditions.md",
+    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Ethical Considerations.md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Replicability.md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Between-Subject Design.md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Know your sample.md",
@@ -265,7 +265,6 @@
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Alternative Hypothesis (Ha or H1).md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Null Hypothesis (Ho).md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Falsifiable.md",
-    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Defining a research question or problem statement.md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/quantitative.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Untitled",
     "2024 Semester 1",
