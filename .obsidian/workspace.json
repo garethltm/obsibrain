@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "13ebc25a607de564",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Research Design.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Research in HCI.md",
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Research Design.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Research in HCI.md",
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Research Design.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Research in HCI.md"
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Research Design.md"
               }
             }
           },
@@ -156,7 +169,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Research in HCI.md"
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Research Design.md"
               }
             }
           },
@@ -182,7 +195,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Research in HCI.md",
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Research Design.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -228,8 +241,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "252f1d2ec16ba331",
+  "active": "13ebc25a607de564",
   "lastOpenFiles": [
+    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Research in HCI.md",
+    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Research Design.md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Defining variables.md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Covariate Variable.md",
     "@images/Pasted image 20240523223022.png",
@@ -237,7 +252,6 @@
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Dependent Variable.md",
     "@images/Pasted image 20240523222649.png",
     "@images/Pasted image 20240523222516.png",
-    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Research in HCI.md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Independent variable.md",
     "@images/Pasted image 20240523222002.png",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Hypothesis formulation.md",

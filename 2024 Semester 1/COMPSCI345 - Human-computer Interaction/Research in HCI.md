@@ -24,3 +24,4 @@ It is to show how the manipulation of a variable has another direct causal influ
 1. [[Defining a research question or problem statement]]
 2. [[Hypothesis formulation]]
 3. [[Defining variables]]
+4. [[Research Design]]
