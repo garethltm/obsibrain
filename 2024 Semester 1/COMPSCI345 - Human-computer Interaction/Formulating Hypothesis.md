@@ -4,3 +4,4 @@ Your goal would be to REJECT the [[Null Hypothesis (Ho)]], because you want to s
 Why can't we just say "The hypothesis is proven?"
 - because the hypothesis is never truly proven
 We cannot say with absolute certainty, that A is better than B at all accounts.
+BUT
