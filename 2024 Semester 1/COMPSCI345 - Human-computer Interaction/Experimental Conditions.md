@@ -9,9 +9,10 @@ If 2 [[Independent variable]]?![[Pasted image 20240523223749.png]]
 - [[Within-Subject Design]]
 - [[Between-Subject Design]]
 
-| [[Within-Subject Design]]                                      | [[Between-Subject Design]] |
-| -------------------------------------------------------------- | -------------------------- |
-| Lesser participants required                                   | More participants required |
-| When there are large individual differences                    |                            |
-| When tasks are unlikely to be affected by learning & carryover |                            |
+| [[Within-Subject Design]]                                                           | [[Between-Subject Design]]                                                       |
+| ----------------------------------------------------------------------------------- | -------------------------------------------------------------------------------- |
+| Lesser participants required                                                        | More participants required                                                       |
+| When there are large individual differences                                         | When there are small individual differences but large expected across conditions |
+| When tasks are unlikely to be affected by [[Learning effect]] are unlikely to occur | When [[learn]]                                                                   |
+| When working with rare or hard to reach populations                                 |                                                                                  |
 
