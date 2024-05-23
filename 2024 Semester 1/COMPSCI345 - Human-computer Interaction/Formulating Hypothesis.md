@@ -13,4 +13,7 @@ We can say that A is not the same as B (reject [[Null Hypothesis (Ho)]])
 #compsci345example 
 You want to know if apples are sweeter than oranges
 - [[Null Hypothesis (Ho)]] = "apples & oranges taste the same"
-	- you
+	- you set out to disprove it.
+- By disproving it, you know "apples & oranges do not taste the same"
+	Instead of testing all apples if they taste the same as oranges
+We don
