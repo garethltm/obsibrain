@@ -13,4 +13,9 @@
 - "How is an Android phone more responsive than an Iphone?"
 - "How is Ebay more usable to purchase things compared to Freecycle?"
 ### At this point, we should think...how do we measure what we intend to know about?
-- 
+- "How to measure the accuracy of time telling?"
+	- a timegrapher could potentially be used
+- "How to measure phone responsivenes?"
+	- measure delay using high-speed camera
+- "How to measure website [[Usability]]?
+	- fill a p"
