@@ -11,8 +11,12 @@
             "id": "890065a2b87f2126",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week02/Bidirectional Search.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -44,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "empiric",
+                "query": "strategy",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -61,12 +65,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 276.5,
-    "collapsed": true
+    "width": 276.5
   },
   "right": {
     "id": "29204b37fc003a9a",
@@ -83,6 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week02/Bidirectional Search.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,6 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week02/Bidirectional Search.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -120,7 +126,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week02/Bidirectional Search.md"
+              }
             }
           },
           {
@@ -148,7 +156,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {}
+              "state": {
+                "file": "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week02/Bidirectional Search.md"
+              }
             }
           },
           {
@@ -173,6 +183,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week02/Bidirectional Search.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -219,6 +230,11 @@
   },
   "active": "890065a2b87f2126",
   "lastOpenFiles": [
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Enterprise Architecture.md",
+    "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week02/Informed Search.md",
+    "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week01/Game Playing Agent.md",
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/EA Tools.md",
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/ArchiMate Enterprise Architecture.md",
     "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week04/Discretisation.md",
     "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week04/Continuous Space (Continuous Functions).md",
     "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week04/Bernoulli random variable.md",
@@ -240,11 +256,6 @@
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Prägnanz Principle.md",
     "conflict-files-obsidian-git.md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Data Collection.md",
-    "README.md",
-    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/w3.CSS Templates.md",
-    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/responsive design.md",
-    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/problem framing.md",
-    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/new semantic HTML5.md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction",
     "@images/Pasted image 20240522012213.png",
     "@images/Pasted image 20240522010519.png",
