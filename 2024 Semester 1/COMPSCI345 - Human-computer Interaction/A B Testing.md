@@ -1,1 +1,4 @@
-Controlled experiment procedure used by large companies.
+- Controlled experiment procedure used by large companies.
+- It is to compare 2 (sometimes more) versions of something, to determine which is better.
+- Usually, between A (original, baseline version) & B (new, hopefully improved version)
+- It
