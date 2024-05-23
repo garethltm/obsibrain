@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/A B Testing.md",
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Research in HCI.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "load balanc",
+                "query": "hci",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -86,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/A B Testing.md",
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Research in HCI.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/A B Testing.md",
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Research in HCI.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/A B Testing.md"
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Research in HCI.md"
               }
             }
           },
@@ -156,7 +157,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/A B Testing.md"
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Research in HCI.md"
               }
             }
           },
@@ -182,7 +183,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/A B Testing.md",
+                "file": "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Research in HCI.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -230,6 +231,10 @@
   },
   "active": "5a84626aac60c8e5",
   "lastOpenFiles": [
+    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Affordance.md",
+    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Research in HCI.md",
+    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Human-computer Interaction (HCI).md",
+    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/A B Testing.md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Defining a research question or problem statement.md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Experimental Conditions.md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Ethical Considerations.md",
@@ -251,7 +256,6 @@
     "@images/Pasted image 20240523223832.png",
     "@images/Pasted image 20240523223749.png",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Condition.md",
-    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Research in HCI.md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Defining variables.md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Covariate Variable.md",
     "@images/Pasted image 20240523223022.png",
@@ -263,9 +267,6 @@
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Hypothesis formulation.md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Formulating Hypothesis.md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Alternative Hypothesis (Ha or H1).md",
-    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Null Hypothesis (Ho).md",
-    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Falsifiable.md",
-    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/quantitative.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Untitled",
     "2024 Semester 1",
     "2023 Semester 2",

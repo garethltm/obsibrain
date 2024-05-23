@@ -3,8 +3,8 @@ Never say "I think", always back it up with data "Based on"
 1. To learn how to design controlled experiments to be analyzed [[quantitative]]ly
 2. To know the important terms of experiment design
 3. To understand the different variables & how they form an experiment
-## What is an experiment in HCI context?
-In HCI, we often want to determine:
+## What is an experiment in [[Human-computer Interaction (HCI)]] context?
+In [[Human-computer Interaction (HCI)]], we often want to determine:
 1. Which interface is better?
 2. Which interaction is better?
 3. Which design is better?
@@ -25,3 +25,4 @@ It is to show how the manipulation of a variable has another direct causal influ
 2. [[Hypothesis formulation]]
 3. [[Defining variables]]
 4. [[Research Design]]
+## Limitations of Experiment
