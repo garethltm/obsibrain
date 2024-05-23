@@ -26,3 +26,8 @@ It is to show how the manipulation of a variable has another direct causal influ
 3. [[Defining variables]]
 4. [[Research Design]]
 ## Limitations of Experiment
+1. It is not always easy to take account of every variable
+2. Not externally validated
+3. No difference is not the same as "just as good"
+4. A hypothesis is never absolutely proven
+	- You can only reject [[Null Hypothesis (Ho)]]
