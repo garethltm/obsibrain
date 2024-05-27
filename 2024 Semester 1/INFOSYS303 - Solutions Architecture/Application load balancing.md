@@ -1,2 +1,2 @@
 Complex modern applications have several server farms with multiple servers dedicated to a single application function. Application [[Load Balancer(s)]] look at the request content, such as HTTP headers or SSL session ID, to redirect traffic
-#infosys303example  an ecommerce application has a product directory, shopp
+#infosys303example  an ecommerce application has a product directory, shopping cart & checkout functions. The application [[Load Balancer(s)]] sends requests for browsing connections. By comparison, it sends shopping cart requests to servers that can maintain many client connections & sae
