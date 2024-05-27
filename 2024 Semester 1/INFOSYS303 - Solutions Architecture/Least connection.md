@@ -1,0 +1,1 @@
+Checks which servers have the fewest connections open at the time & sends traffic to those servers. This assumes all connections require roughly equal
