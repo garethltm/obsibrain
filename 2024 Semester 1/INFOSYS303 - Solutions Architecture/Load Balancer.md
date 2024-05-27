@@ -22,3 +22,4 @@ server is informing the [[Load Balancer]] with the state
 - [[Weighted Least Connection]]
 - [[Weighted response time]]
 - [[Resource-based]]
+Smarter [[Load Balancer]] are more expensive in general

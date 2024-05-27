@@ -6,3 +6,5 @@ refers to efficiently distributing incoming network traffic across a group of ba
 - Redundancy
 - Flexibility
 - Efficiency
+## Types of [[Load Balancing]]
+Three main categories depending on what the [[Load Balancer]] checks in the client reque
