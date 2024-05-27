@@ -21,3 +21,4 @@ server is informing the [[Load Balancer]] with the state
 - [[Least connection]]
 - [[Weighted Least Connection]]
 - [[Weighted response time]]
+- [[Resouce-based]]
