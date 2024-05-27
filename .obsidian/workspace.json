@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/DNS load balancing.md",
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/DNS load balancing.md",
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/DNS load balancing.md",
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/DNS load balancing.md"
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Untitled.md"
               }
             }
           },
@@ -169,7 +169,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/DNS load balancing.md"
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Untitled.md"
               }
             }
           },
@@ -195,7 +195,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/DNS load balancing.md",
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Untitled.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -243,8 +243,9 @@
   },
   "active": "aedd1f8300eddd91",
   "lastOpenFiles": [
-    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Load Balancing.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/DNS load balancing.md",
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Untitled.md",
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Load Balancing.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Global server load balancing.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Network load balancing.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Application load balancing.md",
@@ -270,7 +271,6 @@
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Know your sample.md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Within-Subject Design.md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Learning effect.md",
-    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Counterbalancing.md",
     "@images/Pasted image 20240523225108.png",
     "@images/Pasted image 20240523224904.png",
     "@images/Pasted image 20240523224720.png",
