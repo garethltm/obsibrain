@@ -9,11 +9,11 @@ Security in IT essentially the protection of information, where information is r
 	- data is what we manipulate
 ## [[Confidentiality, Integrity, Availability (CIA)]]
 The NIST standard FIPS 199 characterizes [[Confidentiality, Integrity, Availability (CIA)]] in terms of requirements & the definition of a loss of security in each category as:
-1. Confidentiality $\rightarrow$ Preserving authorized restrictions on information access & disclosure, including the means for protecting personal privacy & proprietary information. 
-	- A loss of confidentiality is the unauthorized disclosure of information
-2. Integrity $\rightarrow$ Guarding against improper information modification or destruction, including ensuring information nonrepudiation & authenticity.
-	- A loss of integrity is the unauthorized modification or destruction of information
-3. Availability $\rightarrow$ Ensuring timely & reliable access to & use of information.
+1. [[Confidentiality]]
+	- A loss of [[confidentiality]] is the unauthorized disclosure of information
+2. [[Integrity]] $\rightarrow$ 
+	- A loss of [[integrity]] is the unauthorized modification or destruction of information
+3. [[Availability]]
 	- A loss of availability is the disruption of access to or use of information or an information system
 ##### ++
 4. Authenticity $\rightarrow$ The property of being genuine & being able to be verified & trusted; confidence in the validity of a transmission, a message or message originator. This means verifying that users are who they say they are & that each input arriving at the system came from a trusted source.
