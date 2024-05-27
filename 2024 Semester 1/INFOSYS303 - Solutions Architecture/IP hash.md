@@ -12,6 +12,7 @@ Then we apply the modulo operator to that hash, where the right operand is the n
 The [[Load Balancer]] can be configured to [[IP hash]] the IP address of incoming requests & use the hash value to determine which server to redirect the request to.![[Pasted image 20240527232020.png]]
 
 - Hashing $\rightarrow$ can cause collisions where 2 numbers hashed may be the same
+- Hashes are shorter & easier to use than the information that they are based on, while retaining enough information to ensure that no 2 different pieces of information generate the same hash & are there fore
 ## [[IP hash]] methods
 1. URL hash method
 2. Domain hash method
