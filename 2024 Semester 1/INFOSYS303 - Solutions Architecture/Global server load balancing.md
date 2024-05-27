@@ -1,2 +1,2 @@
 [[Global server load balancing]] occurs across several geographically distributed servers. 
-#infosys303example companies can have servers in multiple data centers, in different countries, & in 3rd-party cloud provi
+#infosys303example companies can have servers in multiple data centers, in different countries, & in 3rd-party cloud providers around the globe. In this case, local [[Load Balancer(s)]] manage the application load within a region or zone. They attempt t
