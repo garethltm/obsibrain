@@ -3,4 +3,6 @@ Combines incoming traffic's source & destination IP addresses & uses a mathemati
 #compsci345example ![[Pasted image 20240523002903.png]]
 
 #compsci345example 
-We have 4 servers to allocate loads acros
+We have 4 servers to allocate loads across
+
+An easy-to-understand method is to hash incoming requests (maybe by IP address or some client detail) & then 
