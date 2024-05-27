@@ -14,7 +14,8 @@ The [[Load Balancer]] can be configured to [[IP hash]] the IP address of incomin
 - Hashing $\rightarrow$ can cause collisions where 2 numbers hashed may be the same
 - Hashes are shorter & easier to use than the information that they are based on, while retaining enough information to ensure that no 2 different pieces of information generate the same hash & are therefore confused with 1 another
 - You can the hashing [[Load Balancing]] methods in an environment where a cache serves a wider range of content from the Internet or specified origin servers
-- Caching requests $|r
+- Caching requests $\rightarrow$ reduces request & response latency & ensures better resource (CPU) utilization, making caching popular on heavily used websites & application servers
+- 
 ## [[IP hash]] methods
 1. URL hash method
 2. Domain hash method
