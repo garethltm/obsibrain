@@ -7,4 +7,4 @@ This definition introduces 3 key objectives, known as [[Confidentiality, Integri
 2. [[Integrity]]: covers 2 related concepts:
 	- Data integrity: Assures that information & programs are changed only in a specified & authorized manner.
 	- System integrity: Assures that a system performs its intended function in an unimpaired manner, free from deliberate or inadvertent unauthorized manipulation of the system.
-3. [[Availability]]:
+3. [[Availability]]: Assures that systems work promptly & service is not denied to authorized users.
