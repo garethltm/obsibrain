@@ -1,0 +1,1 @@
+Complex modern applications have several server farms with multiple servers dedicated to a single application function. Application [[Load Balancer]]
