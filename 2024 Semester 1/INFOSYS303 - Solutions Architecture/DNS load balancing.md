@@ -1,0 +1,1 @@
+In [[DNS load balancing]], you configure your domain to r

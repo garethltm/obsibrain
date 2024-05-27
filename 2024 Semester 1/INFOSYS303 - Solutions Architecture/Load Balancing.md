@@ -11,3 +11,4 @@ Three main categories depending on what the [[Load Balancer(s)]] checks in the c
 1. [[Application load balancing]]
 2. [[Network load balancing]]
 3. [[Global server load balancing]]
+4. [[DNS load balancing]]
