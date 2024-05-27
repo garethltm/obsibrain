@@ -1,1 +1,1 @@
-provides a systematic framework for defining [[security attacks]], [[security mechanism]] & services
+provides a systematic framework for defining [[security attacks]], [[security mechanism]] & [[security services]]
