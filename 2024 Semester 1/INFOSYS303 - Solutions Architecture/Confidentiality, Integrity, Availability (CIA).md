@@ -16,4 +16,4 @@ The NIST standard FIPS 199 characterizes [[Confidentiality, Integrity, Availabil
 3. Availability $\rightarrow$ Ensuring timely & reliable access to & use of information.
 	- A loss of availability is the disruption of access to or use of information or an information system
 ##### ++
-4. Authenticity $\rightarrow$ 
+4. Authenticity $\rightarrow$ The property of being genuine & being able to be verified & trusted; confidence in the validity of a transmission, a message or message originator. This means verifying that users are who they say they are & that each input arriving at the sys
