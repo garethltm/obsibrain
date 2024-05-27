@@ -17,4 +17,7 @@ The [[Load Balancer]] can be configured to [[IP hash]] the IP address of incomin
 2. Domain hash method
 3. Destination IP hash method
 4. Source IP hash method
-5. De
+5. Source Destination IP hash method
+6. Source IP Source Port hash method
+7. Call ID hash method
+8. Token method
