@@ -1,2 +1,4 @@
 ### Three pillars of security: the [[Confidentiality, Integrity, Availability (CIA)]] Triad
-- Confidentiality: information & 
+- Confidentiality: information & functions can be accessed only by properly authorized parties
+- Integrity: information & functions can be added, altered or removed only by authorized persons & means
+- Availability: systems,
