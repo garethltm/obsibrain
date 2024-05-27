@@ -9,7 +9,7 @@ An easy-to-understand method is to hash incoming requests (maybe by IP address o
 
 Then we apply the modulo operator to that hash, where the right operand is the number of servers.![[Pasted image 20240527231831.png]]
 
-The [[Load Balancer]] can be configured to [[IP hash]] the IP address of incoming requests & use the hash value to determine which server to redirect the request to.![[Pasted image 20240527232020.png]]
+The [[Load Balancer(s)]] can be configured to [[IP hash]] the IP address of incoming requests & use the hash value to determine which server to redirect the request to.![[Pasted image 20240527232020.png]]
 
 - Hashing $\rightarrow$ can cause collisions where 2 numbers hashed may be the same
 - Hashes are shorter & easier to use than the information that they are based on, while retaining enough information to ensure that no 2 different pieces of information generate the same hash & are therefore confused with 1 another

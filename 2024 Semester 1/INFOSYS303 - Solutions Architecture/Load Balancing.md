@@ -7,5 +7,5 @@ refers to efficiently distributing incoming network traffic across a group of ba
 - Flexibility
 - Efficiency
 ## Types of [[Load Balancing]]
-Three main categories depending on what the [[Load Balancer]] checks in the client request to redirect the traffic.
+Three main categories depending on what the [[Load Balancer(s)]] checks in the client request to redirect the traffic.
 1. [[Application load balancing]]
