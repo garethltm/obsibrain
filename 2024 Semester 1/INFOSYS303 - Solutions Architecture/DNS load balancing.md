@@ -1,1 +1,1 @@
-In [[DNS load balancing]], you configure your domain to r
+In [[DNS load balancing]], you configure your domain to route network requests across a pool of resources on your domain. A domain can correspond to a website, a mail system, a print server or another service that is made accessible through the internet. [[DNS load balancing]] is helpful for maintaining application availability & balancing networ
