@@ -19,3 +19,4 @@ When a new server is added to the server group, the [[Load Balancer]] automatica
 #### 2. Dynamic [[Load Balancing]] Algorithms
 server is informing the [[Load Balancer]] with the state
 - [[Least connection]]
+- [[Weighted Least Connection]]

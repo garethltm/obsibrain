@@ -20,12 +20,12 @@
             }
           },
           {
-            "id": "8c3b8f07592ec498",
+            "id": "c4865a102919c123",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Least connection.md",
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Weighted Least Connection.md",
                 "mode": "source",
                 "source": false
               }
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Least connection.md",
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Weighted Least Connection.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Least connection.md",
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Weighted Least Connection.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Least connection.md"
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Weighted Least Connection.md"
               }
             }
           },
@@ -170,7 +170,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Least connection.md"
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Weighted Least Connection.md"
               }
             }
           },
@@ -196,7 +196,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Least connection.md",
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Weighted Least Connection.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -242,9 +242,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8c3b8f07592ec498",
+  "active": "c4865a102919c123",
   "lastOpenFiles": [
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Load Balancer.md",
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Weighted Least Connection.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Least connection.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/IP hash.md",
     "@images/Pasted image 20240527232020.png",
@@ -279,7 +280,6 @@
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Defining variables.md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Covariate Variable.md",
     "@images/Pasted image 20240523223022.png",
-    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Control Variable.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Untitled",
     "2024 Semester 1",
     "2023 Semester 2",
