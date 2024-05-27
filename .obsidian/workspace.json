@@ -4,22 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "d48577ed5b051bc2",
+        "id": "09c958a6fb5d11bd",
         "type": "tabs",
         "children": [
           {
-            "id": "2f255c4e7a2b7443",
+            "id": "7723d54e97005c96",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Application load balancing.md",
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Load Balancing.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3ebfd64fff2bcf5f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Network load balancing.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Application load balancing.md",
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Network load balancing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Application load balancing.md",
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Network load balancing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Application load balancing.md"
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Network load balancing.md"
               }
             }
           },
@@ -156,7 +169,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Application load balancing.md"
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Network load balancing.md"
               }
             }
           },
@@ -182,7 +195,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Application load balancing.md",
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Network load balancing.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -228,11 +241,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2f255c4e7a2b7443",
+  "active": "3ebfd64fff2bcf5f",
   "lastOpenFiles": [
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Load Balancing.md",
-    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Load Balancer(s).md",
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Network load balancing.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Application load balancing.md",
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Load Balancer(s).md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Resource-based.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Weighted response time.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Weighted Least Connection.md",
@@ -259,7 +273,6 @@
     "@images/Pasted image 20240523225108.png",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Latin Square.md",
     "@images/Pasted image 20240523224904.png",
-    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Complete counterbalancing.md",
     "@images/Pasted image 20240523224720.png",
     "@images/Pasted image 20240523224559.png",
     "@images/Pasted image 20240523224039.png",

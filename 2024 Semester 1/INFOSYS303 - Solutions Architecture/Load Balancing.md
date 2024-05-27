@@ -9,3 +9,4 @@ refers to efficiently distributing incoming network traffic across a group of ba
 ## Types of [[Load Balancing]]
 Three main categories depending on what the [[Load Balancer(s)]] checks in the client request to redirect the traffic.
 1. [[Application load balancing]]
+2. [[Network load balancing]]
