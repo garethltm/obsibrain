@@ -25,14 +25,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Untitled.md",
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/The Open Systems Interconnection (OSI) security architecture.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -99,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Untitled.md",
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Computer Security.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Untitled.md",
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Computer Security.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Untitled.md"
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Computer Security.md"
               }
             }
           },
@@ -169,7 +168,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Untitled.md"
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Computer Security.md"
               }
             }
           },
@@ -195,7 +194,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Untitled.md",
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Computer Security.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -241,10 +240,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6e9c6dc947717b19",
+  "active": "aedd1f8300eddd91",
   "lastOpenFiles": [
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/The Open Systems Interconnection (OSI) security architecture.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Computer Security.md",
-    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Untitled.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Confidentiality, Integrity, Availability (CIA).md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Accountability.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Authenticity.md",
