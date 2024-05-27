@@ -17,4 +17,4 @@ The NIST standard FIPS 199 characterizes [[Confidentiality, Integrity, Availabil
 	- A loss of availability is the disruption of access to or use of information or an information system
 ##### ++
 4. Authenticity $\rightarrow$ The property of being genuine & being able to be verified & trusted; confidence in the validity of a transmission, a message or message originator. This means verifying that users are who they say they are & that each input arriving at the system came from a trusted source.
-5. Accountability $\rightarrow$ The security goal that generates the requirement for actions of an entity to be traced uniquely to that entity. This supports nonrepudiation (basically hsowing who sent)
+5. Accountability $\rightarrow$ The security goal that generates the requirement for actions of an entity to be traced uniquely to that entity. This supports nonrepudiation (basically showing who sent what as proof), deterrence, fault isolation, intrusion detection & prevention & after-action recovery & legal action. Because truly secure systems are not yet an achievable goal, we
