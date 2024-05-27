@@ -3,4 +3,5 @@ include:
 - access control
 - data [[Confidentiality]]
 - data [[Integrity]]
-- nonrepu
+- nonrepudiation
+- [[Availability]]
