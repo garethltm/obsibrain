@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6e9c6dc947717b19",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Untitled.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Computer Security.md",
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Computer Security.md",
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Computer Security.md"
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Untitled.md"
               }
             }
           },
@@ -156,7 +169,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Computer Security.md"
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Untitled.md"
               }
             }
           },
@@ -182,7 +195,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Computer Security.md",
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Untitled.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -228,10 +241,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "aedd1f8300eddd91",
+  "active": "6e9c6dc947717b19",
   "lastOpenFiles": [
-    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Confidentiality, Integrity, Availability (CIA).md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Computer Security.md",
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Untitled.md",
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Confidentiality, Integrity, Availability (CIA).md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Accountability.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Authenticity.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Availability.md",
@@ -258,7 +272,6 @@
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Experimental Conditions.md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Affordance.md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Human-computer Interaction (HCI).md",
-    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/A B Testing.md",
     "@images/Pasted image 20240523225108.png",
     "@images/Pasted image 20240523224904.png",
     "@images/Pasted image 20240523224720.png",
