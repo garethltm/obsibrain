@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "a2ad00b8061b9a48",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Global server load balancing.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Load Balancing.md",
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Global server load balancing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Load Balancing.md",
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Global server load balancing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Load Balancing.md"
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Global server load balancing.md"
               }
             }
           },
@@ -156,7 +169,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Load Balancing.md"
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Global server load balancing.md"
               }
             }
           },
@@ -182,7 +195,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Load Balancing.md",
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Global server load balancing.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -228,10 +241,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7723d54e97005c96",
+  "active": "a2ad00b8061b9a48",
   "lastOpenFiles": [
-    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Network load balancing.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Load Balancing.md",
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Network load balancing.md",
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Global server load balancing.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Application load balancing.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Load Balancer(s).md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Resource-based.md",
@@ -258,7 +272,6 @@
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Counterbalancing.md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Balanced (better) Latin Square.md",
     "@images/Pasted image 20240523225108.png",
-    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Latin Square.md",
     "@images/Pasted image 20240523224904.png",
     "@images/Pasted image 20240523224720.png",
     "@images/Pasted image 20240523224559.png",

@@ -1,0 +1,1 @@
+[[Global server load balancing]] occurs across several geographically distributed 
