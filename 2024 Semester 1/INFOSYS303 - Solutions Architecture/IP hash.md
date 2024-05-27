@@ -7,4 +7,6 @@ We have 4 servers to allocate loads across
 
 An easy-to-understand method is to hash incoming requests (maybe by IP address or some client detail) & then generate hashes for each request.
 
-Then we apply the modulo operator to that hash, where the right operand is the number of servers
+Then we apply the modulo operator to that hash, where the right operand is the number of servers.![[Pasted image 20240527231831.png]]
+
+The [[Load Balancer]] can be configuration
