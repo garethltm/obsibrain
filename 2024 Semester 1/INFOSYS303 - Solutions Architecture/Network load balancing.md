@@ -1,1 +1,1 @@
-Network [[Load Balancer(s)]]
+Network [[Load Balancer(s)]] examine IP addresses & other network information to redirect traffic optimally. They track the source of the application traffic & can assign a static IP address to several servers. N
