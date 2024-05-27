@@ -1,1 +1,2 @@
-[[Global server load balancing]] occurs across several geographically distributed 
+[[Global server load balancing]] occurs across several geographically distributed servers. 
+#infosys303example companies can have servers in multiple data centers, in different countries, & in 3rd-party cloud provi
