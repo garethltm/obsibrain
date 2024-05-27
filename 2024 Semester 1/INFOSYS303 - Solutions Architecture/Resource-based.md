@@ -1,0 +1,1 @@
+Distributes load based on what resources each server has available at the time. Specialized software *cal*
