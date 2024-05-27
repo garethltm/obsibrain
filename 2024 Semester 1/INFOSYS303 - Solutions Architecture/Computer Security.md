@@ -5,4 +5,5 @@ This definition introduces 3 key objectives, known as [[Confidentiality, Integri
 	- Data confidentiality: Assures that private or confidential information is not made available or disclosed to unauthorized individuals.
 	- Privacy: Assures that individuals' control or influence what information related to them may be collected & stored & by whom & to whom that information may disclosed.
 2. [[Integrity]]: covers 2 related concepts:
-3. 
+	- Data integrity: Assures that information & programs are changed only in a specified & authorized manner
+	- System integrity: Assures that a system performs its intended funcit
