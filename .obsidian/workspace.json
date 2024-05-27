@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d06993f2818d7488",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/passive attack.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/security attacks.md",
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/passive attack.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/security attacks.md",
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/passive attack.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/security attacks.md"
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/passive attack.md"
               }
             }
           },
@@ -156,7 +169,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/security attacks.md"
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/passive attack.md"
               }
             }
           },
@@ -182,7 +195,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/security attacks.md",
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/passive attack.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -228,13 +241,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "aedd1f8300eddd91",
+  "active": "d06993f2818d7488",
   "lastOpenFiles": [
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/security attacks.md",
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/passive attack.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/The Open Systems Interconnection (OSI) security architecture.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/The Open Systems Interconnection Layer (OSI) Model.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/security services.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/security mechanism.md",
-    "2024 Semester 1/INFOSYS303 - Solutions Architecture/security attacks.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Computer Security.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Confidentiality, Integrity, Availability (CIA).md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Accountability.md",
@@ -258,7 +272,6 @@
     "@images/Pasted image 20240527232020.png",
     "@images/Pasted image 20240527231831.png",
     "README.md",
-    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Research in HCI.md",
     "@images/Pasted image 20240523225108.png",
     "@images/Pasted image 20240523224904.png",
     "@images/Pasted image 20240523224720.png",
