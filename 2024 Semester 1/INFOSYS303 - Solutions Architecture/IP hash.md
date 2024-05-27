@@ -15,7 +15,7 @@ The [[Load Balancer]] can be configured to [[IP hash]] the IP address of incomin
 - Hashes are shorter & easier to use than the information that they are based on, while retaining enough information to ensure that no 2 different pieces of information generate the same hash & are therefore confused with 1 another
 - You can the hashing [[Load Balancing]] methods in an environment where a cache serves a wider range of content from the Internet or specified origin servers
 - Caching requests $\rightarrow$ reduces request & response latency & ensures better resource (CPU) utilization, making caching popular on heavily used websites & application servers
-- 
+- Since these sites also benefit from [[Load Balancing]], hashing [[Load Balancing]] methods are widely useful
 ## [[IP hash]] methods
 1. URL hash method
 2. Domain hash method
