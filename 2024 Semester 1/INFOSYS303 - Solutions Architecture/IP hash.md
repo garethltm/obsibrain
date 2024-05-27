@@ -25,3 +25,4 @@ The [[Load Balancer]] can be configured to [[IP hash]] the IP address of incomin
 6. Source IP Source Port hash method
 7. Call ID hash method
 8. Token method
+## Calculate 2
