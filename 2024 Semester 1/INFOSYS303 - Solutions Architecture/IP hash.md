@@ -10,4 +10,11 @@ An easy-to-understand method is to hash incoming requests (maybe by IP address o
 Then we apply the modulo operator to that hash, where the right operand is the number of servers.![[Pasted image 20240527231831.png]]
 
 The [[Load Balancer]] can be configured to [[IP hash]] the IP address of incoming requests & use the hash value to determine which server to redirect the request to.![[Pasted image 20240527232020.png]]
+
+- Hashing $\rightarrow$ can cause collisions where 2 numbers hashed may be the same
 ## [[IP hash]] methods
+1. URL hash method
+2. Domain hash method
+3. Destination IP hash method
+4. Source IP hash method
+5. De
