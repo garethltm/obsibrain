@@ -1,1 +1,1 @@
-Distributes load based on what resources each server has available at the time. Specialized software (called an "agent") running on each server measures that server's available
+Distributes load based on what resources each server has available at the time. Specialized software (called an "agent") running on each server measures that server's available CPU & memory, & [[Load Balancer]] queries the agent before distributing traffic to that s
