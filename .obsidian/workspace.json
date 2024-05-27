@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Confidentiality, Integrity, Availability (CIA).md",
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Computer Security.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Confidentiality, Integrity, Availability (CIA).md",
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Computer Security.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Confidentiality, Integrity, Availability (CIA).md",
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Computer Security.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Confidentiality, Integrity, Availability (CIA).md"
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Computer Security.md"
               }
             }
           },
@@ -156,7 +156,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Confidentiality, Integrity, Availability (CIA).md"
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Computer Security.md"
               }
             }
           },
@@ -182,7 +182,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Confidentiality, Integrity, Availability (CIA).md",
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Computer Security.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -230,8 +230,9 @@
   },
   "active": "aedd1f8300eddd91",
   "lastOpenFiles": [
-    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Accountability.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Confidentiality, Integrity, Availability (CIA).md",
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Computer Security.md",
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Accountability.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Authenticity.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Availability.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Integrity.md",
@@ -258,7 +259,6 @@
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Affordance.md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Human-computer Interaction (HCI).md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/A B Testing.md",
-    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Defining a research question or problem statement.md",
     "@images/Pasted image 20240523225108.png",
     "@images/Pasted image 20240523224904.png",
     "@images/Pasted image 20240523224720.png",
