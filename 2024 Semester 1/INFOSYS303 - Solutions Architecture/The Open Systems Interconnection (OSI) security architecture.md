@@ -6,4 +6,4 @@ The [[The Open Systems Interconnection (OSI) security architecture]] provides a 
 - [[security attacks]]: Any action that compromises the security of information owned by an organization.
 - [[security mechanism]]: A process (or device incorporating such as process) that is designed to detect, prevent or recover from a [[security attacks]].
 - [[security services]]: A processing or communication services that enhances the security of the data processing systems & information transfers of an organization.
-The services are intended to counter [[security attacks]], & they make use of one or more [[security mechanism]] to provide the [[security services]].
+The services are intended to counter [[security attacks]], & they make use of one or more [[security mechanism]] to provide the [[security services]]. In the literature, the terms threat & attack are commonly used to mean more or less the same thing.
