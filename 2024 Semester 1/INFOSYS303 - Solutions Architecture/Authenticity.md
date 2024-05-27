@@ -1,0 +1,1 @@
+The property of being genuine & being able to be verified & trusted; confidence in the validity of a transmission, a message or message originator. This means verifying that users are who they say they are & that each input arriving at the system came from a trusted source.
