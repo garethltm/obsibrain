@@ -11,8 +11,12 @@
             "id": "b945334f1682a55d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Load Balancing.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -61,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -83,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Load Balancing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Load Balancing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -120,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Load Balancing.md"
+              }
             }
           },
           {
@@ -148,7 +155,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {}
+              "state": {
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Load Balancing.md"
+              }
             }
           },
           {
@@ -173,6 +182,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Load Balancing.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -220,6 +230,8 @@
   },
   "active": "b945334f1682a55d",
   "lastOpenFiles": [
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Load Balancer.md",
+    "README.md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Research in HCI.md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Research Design.md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Experimental Conditions.md",
@@ -254,8 +266,6 @@
     "@images/Pasted image 20240523222516.png",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Independent variable.md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Hypothesis formulation.md",
-    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Formulating Hypothesis.md",
-    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Alternative Hypothesis (Ha or H1).md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Untitled",
     "2024 Semester 1",
     "2023 Semester 2",
