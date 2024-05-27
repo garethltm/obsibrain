@@ -27,4 +27,4 @@ The [[Load Balancer]] can be configured to [[IP hash]] the IP address of incomin
 8. Token method
 ## Most hashing algorithms calculate 2 hash values:
 1. A hash of the service's IP address & port
-2. A hash of the incoming URL, the domain name, the source IP address, the destination IP address or the source & destination IP addresses, depending on the con
+2. A hash of the incoming URL, the domain name, the source IP address, the destination IP address or the source & destination IP addresses, depending on the configured hash method

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/IP hash.md",
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Load Balancer.md",
                 "mode": "source",
                 "source": false
               }
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/IP hash.md",
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Load Balancer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/IP hash.md",
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Load Balancer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/IP hash.md"
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Load Balancer.md"
               }
             }
           },
@@ -157,7 +157,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/IP hash.md"
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Load Balancer.md"
               }
             }
           },
@@ -183,7 +183,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/IP hash.md",
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Load Balancer.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -231,6 +231,7 @@
   },
   "active": "b945334f1682a55d",
   "lastOpenFiles": [
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/IP hash.md",
     "@images/Pasted image 20240527232020.png",
     "@images/Pasted image 20240527231831.png",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Load Balancer.md",
@@ -266,7 +267,6 @@
     "@images/Pasted image 20240523223022.png",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Control Variable.md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Dependent Variable.md",
-    "@images/Pasted image 20240523222649.png",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Untitled",
     "2024 Semester 1",
     "2023 Semester 2",
