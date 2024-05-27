@@ -1,1 +1,1 @@
-Distributes load based on what resources each server has available at the time. Specialized software *cal*
+Distributes load based on what resources each server has available at the time. Specialized software (called an "agent") running on each server measures that server's available
