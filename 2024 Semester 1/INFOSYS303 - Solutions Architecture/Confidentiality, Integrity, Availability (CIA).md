@@ -7,3 +7,6 @@ Security in IT essentially the protection of information, where information is r
 - information $\ne$ data
 	- information, meaning of that data
 	- data is what we manipulate
+## [[Confidentiality, Integrity, Availability (CIA)]]
+The NIST standard FIPS 199 characterizes [[Confidentiality, Integrity, Availability (CIA)]] in terms of requirements & the definition of a loss of security in each category as:
+1. Confidentiality $\rig
