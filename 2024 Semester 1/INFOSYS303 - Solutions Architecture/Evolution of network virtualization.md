@@ -10,4 +10,9 @@
 - Server virtualization was the initial introduction to software defined networking.
 - Multiple operating systems can run as virtual machines on a single server
 - Each of these virtual machines has [[Software Defined Networks (SDN)]] adapters that connect to a software defined, virtualised network switch
-- The [[control plane]] 
+- The [[control plane]] & data planes for these virtual machines are now managed wat the server level on commodity hardware, but the rest of the network remains running traditional hardware.
+## Server virtualisation datacentre networking
+![[Pasted image 20240528204144.png]]
+- Since server virtualisation only provides [[Software Defined Networks (SDN)]] capabilities for the VMs contained on each individual server, the 2 major issues with traditional networking remain:
+1. The control of the network equipment is still tied to each device
+2. Network device capa
