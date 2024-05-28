@@ -15,4 +15,6 @@ When an app is not in use, there are no computing resources allocated to the app
 - AWS Lambda, introduced by Amazon in 2014
 	- it popularized the abstract [[Serverless Computing]] model
 	- It is supported by AWS Serverless Application Model (AWS SAM)
-- Google Cloud Platform created a second serverless offering, Goo
+- Google Cloud Platform created a second serverless offering, Google Cloud Functions in 2016
+- Oracle Cloud Functions is a serverless platform offered on Oracle Cloud Infrastructure
+	- Since it is open-source, developers can create applications that can be ported to other cloud & on-premise environments
