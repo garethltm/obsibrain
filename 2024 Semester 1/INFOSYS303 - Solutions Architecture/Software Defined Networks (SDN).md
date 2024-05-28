@@ -1,3 +1,8 @@
 Software on commodity hardware that coexists with or replaces traditional, proprietary network hardware, like switches & routers
 
 A term coined when it became necessary to distinguish between hardware-based networking. [[Software Defined Networks (SDN)]] as the current & future state of networking
+## Competing forces influencing [[Software Defined Networks (SDN)]] adoption:
+- Huge growth in multimedia content
+- Rise in [[Cloud Computing]]
+- Impact of increasing mobile usage
+- Continuing business pressures to reduce costs
