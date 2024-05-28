@@ -15,4 +15,8 @@ Within [[Amazon EC2 Auto Scaling]], you can use two approaches: dynamic scaling 
 2. Scaling Options
 	- it can scale out (add [[instance(s)]]) to handle increased load & scale in (remove [[instance(s)]]) when the demand stops
 3. Health Checks
-	- The health of [[instance(s)]] is monitored, & if any are found to be unhealthy, they are replaced to maintain
+	- The health of [[instance(s)]] is monitored, & if any are found to be unhealthy, they are replaced to maintain the desired capacity
+4. [[Load Balancing]]
+	- Often integrated with [[Load Balancer(s)]] to distributed traffic evenly across the [[instance(s)]] in the group
+5. High [[Availability]]
+	- Spreads [[instance(s)]] across 
