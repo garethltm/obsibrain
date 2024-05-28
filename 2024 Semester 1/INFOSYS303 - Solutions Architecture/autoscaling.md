@@ -29,4 +29,4 @@ This ensures optimal performance, cost-effectiveness & reliability without manua
 - Manual Scaling $\rightarrow$ Trigger scaling manually #infosys303example during maintenance
 ## Challenges
 1. Complexity of Configuration
-2. 
+	- Setting up [[autoscaling]] involves configuring groups, defining scaling policies, & establishing monitoring, which can be intricate & requires expertise
