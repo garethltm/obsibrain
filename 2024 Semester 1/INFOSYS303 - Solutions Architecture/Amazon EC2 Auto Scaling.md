@@ -12,4 +12,7 @@ Within [[Amazon EC2 Auto Scaling]], you can use two approaches: dynamic scaling 
 ## Components of AWS Auto Scaling Group
 1. [[instance(s)]]
 	- the group contains a collection of [[Amazon EC2 instance(s)]] that are automatically adjusted in number based on the defined conditions for scaling.
-2. Scaling O
+2. Scaling Options
+	- it can scale out (add [[instance(s)]]) to handle increased load & scale in (remove [[instance(s)]]) when the demand stops
+3. Health Checks
+	- The health of [[instance(s)]] is monitored, & if any are found to be unhealthy, they are replaced to maintain
