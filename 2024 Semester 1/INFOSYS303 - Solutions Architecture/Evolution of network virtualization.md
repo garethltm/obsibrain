@@ -1,0 +1,1 @@
+- Before server virtualization, every s

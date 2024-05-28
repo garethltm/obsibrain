@@ -1,1 +1,1 @@
-consists of 1 or more controllers, which are considered the brain of the [[Software Defined Networks (SDN)]] network where the whole intelligence is 
+consists of 1 or more controllers, which are considered the brain of the [[Software Defined Networks (SDN)]] network where the whole intelligence is incorporated.

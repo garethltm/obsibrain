@@ -18,3 +18,5 @@ A term coined when it became necessary to distinguish between hardware-based net
 	- it is more like [[Cloud Computing]] than traditional network management.
 [[Software Defined Networks (SDN)]] is meant to address the static architecture of traditional networks:
 - [[Software Defined Networks (SDN)]] attempts to centralize network intelligence in 1 network component by disassociating the forwarding process of network packets (data plane) from the routing process ([[control plane]]).
+## High-level overview of the software-defined networking architecture
+![[Pasted image 20240528203520.png]]

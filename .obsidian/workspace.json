@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Software Defined Networks (SDN).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fa7b0372980b2e29",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/control plane.md",
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Evolution of network virtualization.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -99,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/control plane.md",
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Evolution of network virtualization.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/control plane.md",
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Evolution of network virtualization.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/control plane.md"
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Evolution of network virtualization.md"
               }
             }
           },
@@ -169,7 +156,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/control plane.md"
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Evolution of network virtualization.md"
               }
             }
           },
@@ -195,7 +182,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/control plane.md",
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Evolution of network virtualization.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -241,9 +228,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fa7b0372980b2e29",
+  "active": "a2c8eeb95827a53e",
   "lastOpenFiles": [
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Software Defined Networks (SDN).md",
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Evolution of network virtualization.md",
+    "@images/Pasted image 20240528203520.png",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/control plane.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Amazon S3.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Amazon Elastic Kubernetes Service (Amazon EKS).md",
@@ -257,7 +246,6 @@
     "@images/Pasted image 20240523224904.png",
     "@images/Pasted image 20240523224720.png",
     "@images/Pasted image 20240523224559.png",
-    "@images/Pasted image 20240523224039.png",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/security services.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/security mechanism.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/security attacks.md",
@@ -278,7 +266,6 @@
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Computer Security.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Availability.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Authenticity.md",
-    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Application load balancing.md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Untitled",
     "2024 Semester 1",
