@@ -9,9 +9,12 @@
 		of VMs or physical servers
 When an app is not in use, there are no computing resources allocated to the app. Pricing is based on the actual amount of resources consumed by an application. [[Serverless Computing]] is a form of utility computing
 ## Advantages
+#### Cost
 - Serverless can be more cost-effective than renting or purchasing a fixed quantity of servers, which generally involves significant periods of underutilization or idle time
 	- can be described as a pay-as-you-go computing or bare-code as users are charged based solely upon the time & memory allocated to run the code without associated fees for idle time
-	- Immediate cost benefits are related to lack of operating costs, including:
+	- Immediate cost benefits are related to lack of operating costs, including: licenses, installation, dependencies & personnel cost for maintenance, support or patching
+#### Elasticity vs [[2024 Semester 1/INFOSYS303 - Solutions Architecture/Scalability|Scalability]]
+- A serverless architectur
 ## Major providers
 - Google App Engine, introduced in 2008 was the first abstract [[Serverless Computing]] offering.
 	- It was used to support early customers including Snapchat, as well as many external & internal Google apps.
