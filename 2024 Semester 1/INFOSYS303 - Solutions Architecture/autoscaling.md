@@ -24,4 +24,6 @@ This ensures optimal performance, cost-effectiveness & reliability without manua
 ## How does [[autoscaling]] work?
 ![[Pasted image 20240528213139.png]]
 ## Strategies
-- Proactive Strategies $\rightarrow$ Anti
+- Proactive Scaling $\rightarrow$ Anticipate load changes #infosys303example scheduled events
+- Reactive Scaling $\rightarrow$ Respond to actual load #infosys303example based on metrics
+- Manual Scaling $\rightarrow$ Triggger s
