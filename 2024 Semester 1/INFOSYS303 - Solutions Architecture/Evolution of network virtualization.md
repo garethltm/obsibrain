@@ -8,4 +8,6 @@
 ## Virtual switches provide [[Software Defined Networks (SDN)]] to virtual machines
 ![[Pasted image 20240528203913.png]]
 - Server virtualization was the initial introduction to software defined networking.
-- Muk
+- Multiple operating systems can run as virtual machines on a single server
+- Each of these virtual machines has [[Software Defined Networks (SDN)]] adapters that connect to a software defined, virtualised network switch
+- The [[control plane]] 
