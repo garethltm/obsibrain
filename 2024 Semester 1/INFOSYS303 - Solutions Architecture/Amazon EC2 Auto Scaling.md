@@ -28,4 +28,8 @@ Within [[Amazon EC2 Auto Scaling]], you can use two approaches: dynamic scaling 
 | Health:           | Monitors the health of [[instance(s)]] & replaces unhealthy ones to ensure continuous service                                               | Periodically checks the health of [[instance(s)]] & only routes traffic to the healthy ones                                             |
 ## How [[Amazon EC2 Auto Scaling]] & [[Load Balancer(s)]] work together
 1. Dynamic Scaling
-	- As traffic to your application changes, the [[Load Balancer(s)]] spreads the load across the [[instance(s)]] i
+	- As traffic to your application changes, the [[Load Balancer(s)]] spreads the load across the [[instance(s)]] in the [[autoscaling]] group
+2. Efficient Resource Use
+	- [[autoscaling]] ensures that you have the right number of [[Amazon EC2 instance(s)]] available
+	- The [[Load Balancer(s)]] then ensures that each [[instance(s)]] is used effectively
+3. High [[]]
