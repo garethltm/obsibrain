@@ -22,3 +22,6 @@ This ensures optimal performance, cost-effectiveness & reliability without manua
 ## Key components of [[autoscaling]]
 ![[Pasted image 20240528211846.png]]
 ## How does [[autoscaling]] work?
+![[Pasted image 20240528213139.png]]
+## Strategies
+- Proactive Strategies $\rightarrow$ Anti
