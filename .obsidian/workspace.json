@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "09c958a6fb5d11bd",
+        "id": "2e49a901b2fd1481",
         "type": "tabs",
         "children": [
           {
-            "id": "aedd1f8300eddd91",
+            "id": "4f4b392135bec168",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/security attacks.md",
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Private Cloud.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,8 +48,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#compsci345example",
-                "matchingCase": false,
+                "query": "private",
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -65,12 +65,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 276.5,
-    "collapsed": true
+    "width": 276.5
   },
   "right": {
     "id": "29204b37fc003a9a",
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/security attacks.md",
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Private Cloud.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/security attacks.md",
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Private Cloud.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/security attacks.md"
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Private Cloud.md"
               }
             }
           },
@@ -157,7 +157,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/security attacks.md"
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Private Cloud.md"
               }
             }
           },
@@ -183,7 +183,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/security attacks.md",
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Private Cloud.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -206,7 +206,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.6380169077455764,
+                  "scale": 1.254057990250493,
                   "close": true
                 }
               }
@@ -216,8 +216,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 314.5,
-    "collapsed": true
+    "width": 307.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -229,36 +228,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "aedd1f8300eddd91",
+  "active": "4f4b392135bec168",
   "lastOpenFiles": [
-    "2024 Semester 1/INFOSYS303 - Solutions Architecture/active attack.md",
     "@images/Pasted image 20240528003845.png",
-    "2024 Semester 1/INFOSYS303 - Solutions Architecture/security attacks.md",
-    "2024 Semester 1/INFOSYS303 - Solutions Architecture/passive attack.md",
     "@images/Pasted image 20240528003738.png",
-    "2024 Semester 1/INFOSYS303 - Solutions Architecture/The Open Systems Interconnection (OSI) security architecture.md",
-    "2024 Semester 1/INFOSYS303 - Solutions Architecture/The Open Systems Interconnection Layer (OSI) Model.md",
-    "2024 Semester 1/INFOSYS303 - Solutions Architecture/security services.md",
-    "2024 Semester 1/INFOSYS303 - Solutions Architecture/security mechanism.md",
-    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Computer Security.md",
-    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Confidentiality, Integrity, Availability (CIA).md",
-    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Accountability.md",
-    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Authenticity.md",
-    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Availability.md",
-    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Integrity.md",
-    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Confidentiality.md",
-    "2024 Semester 1/INFOSYS303 - Solutions Architecture/block.md",
     "@images/Pasted image 20240527235958.png",
-    "2024 Semester 1/INFOSYS303 - Solutions Architecture/DNS load balancing.md",
-    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Load Balancing.md",
-    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Global server load balancing.md",
-    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Network load balancing.md",
-    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Application load balancing.md",
-    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Load Balancer(s).md",
-    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Resource-based.md",
-    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Weighted response time.md",
-    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Weighted Least Connection.md",
-    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Least connection.md",
     "@images/Pasted image 20240527232020.png",
     "@images/Pasted image 20240527231831.png",
     "@images/Pasted image 20240523225108.png",
@@ -266,6 +240,33 @@
     "@images/Pasted image 20240523224720.png",
     "@images/Pasted image 20240523224559.png",
     "@images/Pasted image 20240523224039.png",
+    "@images/Pasted image 20240523223832.png",
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/security services.md",
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/security mechanism.md",
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/security attacks.md",
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/passive attack.md",
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/active attack.md",
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Weighted response time.md",
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Weighted Least Connection.md",
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/The Open Systems Interconnection (OSI) security architecture.md",
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Resource-based.md",
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Network load balancing.md",
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Load Balancer(s).md",
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Least connection.md",
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Integrity.md",
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Global server load balancing.md",
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/DNS load balancing.md",
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Confidentiality.md",
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Confidentiality, Integrity, Availability (CIA).md",
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Computer Security.md",
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Availability.md",
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Authenticity.md",
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Application load balancing.md",
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Accountability.md",
+    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/quantitative.md",
+    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/qualitative.md",
+    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Within-Subject Design.md",
+    "2024 Semester 1/COMPSCI345 - Human-computer Interaction",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Untitled",
     "2024 Semester 1",
     "2023 Semester 2",
@@ -274,7 +275,6 @@
     "@images/LeanIX_Poster_Best-practices-to-define-business-capability-maps_EN.pdf",
     "INFOSYS 303 - Solutions Architecture",
     "2024 Semester 1/COMPSCI361 - Machine Learning",
-    "2024 Semester 1/COMPSCI345 - Human-computer Interaction",
     "2024 Semester 1/ACCTG151G - Financial Literacy",
     "2023 Semester 2/COMPSCI235 - Software Development Methodologies/235 summary.canvas",
     "2023 Semester 2/COMPSCI367 - Artificial Intelligence/finals prep.canvas"
