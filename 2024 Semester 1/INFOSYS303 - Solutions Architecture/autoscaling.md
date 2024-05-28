@@ -13,4 +13,6 @@ This ensures optimal performance, cost-effectiveness & reliability without manua
 3. Improved Reliability
 	- with [[autoscaling]], you can distribute workloads across multiple instances or servers, reducing the risk of system failures or downtime
 		- this redundancy enhances the overall reliability & availability of your applications & services
-4. O
+4. Operational Efficiency
+	- by automating the process of resource provisioning & management, [[autoscaling]] reduces the burden on operations teams, allowing them to focus on more strategic tasks
+		- this streamlines operations & improves overall efficiency within your organization
