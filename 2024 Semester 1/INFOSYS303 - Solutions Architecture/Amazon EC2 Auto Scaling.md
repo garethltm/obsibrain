@@ -35,4 +35,5 @@ Within [[Amazon EC2 Auto Scaling]], you can use two approaches: dynamic scaling 
 3. High [[Availability]]
 	- if an [[instance(s)]] fails health checks & is deemed unhealthy by the [[Load Balancer(s)]], [[autoscaling]] can replace it without manual intervention
 4. Cost Optimization
-	 - By adjusting the number of [[instance(s)]] automatically, 
+	 - By adjusting the number of [[instance(s)]] automatically, [[autoscaling]] helps optimize costs.
+	 - You don't pay for idle resources & you don't lose out on performance during peak times.
