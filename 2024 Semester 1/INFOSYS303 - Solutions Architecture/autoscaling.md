@@ -9,4 +9,4 @@ This ensures optimal performance, cost-effectiveness & reliability without manua
 		- by automatically adjusting resources in response to demand, it maintains consistent performance levels even during peak usage periods
 2. Cost Efficiency
 	- it helps in optimizing costs by automatically scaling resources up when demand increases & scaling down during periods of low demand
-	- 
+		- this prevents over-provi
