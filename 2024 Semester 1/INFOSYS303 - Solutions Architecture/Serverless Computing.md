@@ -19,7 +19,7 @@ When an app is not in use, there are no computing resources allocated to the app
 - As cloud native systems inherently scale down as well as up, these systems are known as elastic rather than scalable
 - Small teams of developers are able to run code themselves without the dependence upon teams of infrastructure & support engineers
 #### Productivity
-- Wit
+- With [[Function as a Service (FaaS)]], the units of code exposed to the outside world are simple event driven functions. This means that typically, the programmer does not have to worry about multithreading or directly handling [[Hypertext Transfer Protocol (HTTP)]] requests in their code, 
 ## Major providers
 - Google App Engine, introduced in 2008 was the first abstract [[Serverless Computing]] offering.
 	- It was used to support early customers including Snapchat, as well as many external & internal Google apps.
