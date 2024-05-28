@@ -1,1 +1,7 @@
-- is a [[Cloud Computing]] execution model in which the cl
+- is a [[Cloud Computing]] execution model in which the cloud provider allocates machine resources on demand, taking care of the servers on behalf of their customers
+- developers of serverless applications are not concerned with:
+	- capacity planning
+	- configuration
+	- management
+	- maintenance
+	- 
