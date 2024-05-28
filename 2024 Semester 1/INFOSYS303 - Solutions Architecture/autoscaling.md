@@ -30,3 +30,5 @@ This ensures optimal performance, cost-effectiveness & reliability without manua
 ## Challenges
 1. Complexity of Configuration
 	- Setting up [[autoscaling]] involves configuring groups, defining scaling policies, & establishing monitoring, which can be intricate & requires expertise
+2. Cost Management
+	- [[autoscaling]] can lead to unexpected costs if not configured p
