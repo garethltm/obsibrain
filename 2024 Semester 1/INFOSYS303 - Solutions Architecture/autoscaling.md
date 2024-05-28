@@ -41,4 +41,7 @@ This ensures optimal performance, cost-effectiveness & reliability without manua
 6. Network Considerations
 	- [[autoscaling]] can introduce network configuration & communication challenges, particularly in distributed systems or [[2024 Semester 1/INFOSYS303 - Solutions Architecture/microservices|microservices]] architectures
 ## Real World Use Cases
-1. Web Applicatio
+1. Web Applications #infosys303example UBER
+	- [[autoscaling]] ensures that the application can handle peak loads during busy periods while minimizing costs during periods of low activity.
+2. E-commerce sites #infosys303example Amazon
+	 - 
