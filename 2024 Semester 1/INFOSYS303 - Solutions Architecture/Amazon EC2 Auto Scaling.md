@@ -21,8 +21,8 @@ Within [[Amazon EC2 Auto Scaling]], you can use two approaches: dynamic scaling 
 5. High [[Availability]]
 	- Spreads [[instance(s)]] across multiple [[Availability Zone]] within a region to increase fault tolerance
 
-|                   | [[Amazon EC2 Auto Scaling]]                                                                                                                 | [[Load Balancer(s)]]               |
-| ----------------- | ------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------- |
-| Purpose:          | Automatically adjust the number of [[Amazon EC2]] [[instance(s)]] in your application's architecture to handle the current load efficiently | Distributes incoming application t |
-| Behavior:    <br> | Scales out by adding [[instance(s)]] when demand increases, & scales in by terminating [[instance(s)]] when demand decreases                |                                    |
-| Health:           | Monitors the health of [[instance(s)]] & replaces unhealthy ones to ensure continuous service                                               |                                    |
+|                   | [[Amazon EC2 Auto Scaling]]                                                                                                                 | [[Load Balancer(s)]]                                                                                                                    |
+| ----------------- | ------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------- |
+| Purpose:          | Automatically adjust the number of [[Amazon EC2]] [[instance(s)]] in your application's architecture to handle the current load efficiently | Distributes incoming application traffic across multiple targets, such as [[Amazon EC2 instance(s)]], in multiple [[Availability Zone]] |
+| Behavior:    <br> | Scales out by adding [[instance(s)]] when demand increases, & scales in by terminating [[instance(s)]] when demand decreases                | Routes user requests to [[instance(s)]] that are operational & have the capacity to serve those requests                                |
+| Health:           | Monitors the health of [[instance(s)]] & replaces unhealthy ones to ensure continuous service                                               | Periodically checks the health of [[instance(s)]] & only routes traffic to the h                                                        |
