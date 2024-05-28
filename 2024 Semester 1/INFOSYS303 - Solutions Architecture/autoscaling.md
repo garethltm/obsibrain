@@ -18,4 +18,6 @@ This ensures optimal performance, cost-effectiveness & reliability without manua
 		- this streamlines operations & improves overall efficiency within your organization.
 5. Fault Tolerance
 	- [[autoscaling]] enhances fault tolerance by distributing workloads across multiple instances or servers
-		- if any individual instance fails, [[autoscaling]] can quickly replace it with a new inst
+		- if any individual instance fails, [[autoscaling]] can quickly replace it with a new instance, ensuring continuous operation & minimizing downtime.
+## Key components of [[autoscaling]]
+![[Pasted image 20240528211846.png]]
