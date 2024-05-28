@@ -14,7 +14,7 @@ When an app is not in use, there are no computing resources allocated to the app
 	- can be described as a pay-as-you-go computing or bare-code as users are charged based solely upon the time & memory allocated to run the code without associated fees for idle time
 	- Immediate cost benefits are related to lack of operating costs, including: licenses, installation, dependencies & personnel cost for maintenance, support or patching
 #### Elasticity vs [[2024 Semester 1/INFOSYS303 - Solutions Architecture/Scalability|Scalability]]
-- A serverless architecture means that developers & operators do not need to spend time setting up & tuning autoscaling policies or systems
+- A serverless architecture means that developers & operators do not need to spend time setting up & tuning [[autoscaling]] policies or systems
 	- the cloud provider is responsible for scaling the capacity to the demand
 - As cloud native systems inherently scale down as well as up, these systems are known as elastic rather than scalable
 - Small teams of developers are able to run code themselves without the dependence upon teams of infrastructure & support engineers
