@@ -11,8 +11,12 @@
             "id": "ccb76b5d1c3b787b",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Amazon S3.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -65,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 276.5
+    "width": 276.5,
+    "collapsed": true
   },
   "right": {
     "id": "29204b37fc003a9a",
@@ -82,6 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Amazon S3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Amazon S3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +126,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Amazon S3.md"
+              }
             }
           },
           {
@@ -147,7 +156,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {}
+              "state": {
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Amazon S3.md"
+              }
             }
           },
           {
@@ -172,6 +183,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Amazon S3.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -218,6 +230,7 @@
   },
   "active": "ccb76b5d1c3b787b",
   "lastOpenFiles": [
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Amazon Elastic Kubernetes Service (Amazon EKS).md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Private Cloud.md",
     "@images/Pasted image 20240528003845.png",
     "@images/Pasted image 20240528003738.png",
@@ -253,7 +266,6 @@
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Accountability.md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/quantitative.md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/qualitative.md",
-    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Within-Subject Design.md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Untitled",
     "2024 Semester 1",
