@@ -44,4 +44,5 @@ This ensures optimal performance, cost-effectiveness & reliability without manua
 1. Web Applications #infosys303example UBER
 	- [[autoscaling]] ensures that the application can handle peak loads during busy periods while minimizing costs during periods of low activity.
 2. E-commerce sites #infosys303example Amazon
-	 - 
+	 - often experience spikes in traffic during sales events, promotions or holiday seasons
+	 - [[autoscaling]] facilitates dynamically scaling resources to accommodate increased demand, ensuring that customers can access the website without experiencing slowdowns or outages.
