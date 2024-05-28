@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/autoscaling.md",
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Amazon EC2 Auto Scaling.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "autoscal",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,8 +78,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -100,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/autoscaling.md",
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Amazon EC2 Auto Scaling.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/autoscaling.md",
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Amazon EC2 Auto Scaling.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/autoscaling.md"
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Amazon EC2 Auto Scaling.md"
               }
             }
           },
@@ -170,7 +169,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/autoscaling.md"
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Amazon EC2 Auto Scaling.md"
               }
             }
           },
@@ -196,7 +195,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/autoscaling.md",
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Amazon EC2 Auto Scaling.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -244,11 +243,11 @@
   },
   "active": "30041d3de5c99bfd",
   "lastOpenFiles": [
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/autoscaling.md",
     "@images/Pasted image 20240528213139.png",
     "@images/Pasted image 20240528213126.png",
     "@images/Pasted image 20240528211846.png",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Serverless Computing.md",
-    "2024 Semester 1/INFOSYS303 - Solutions Architecture/autoscaling.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Evolution of network virtualization.md",
     "@images/Pasted image 20240528204328.png",
     "@images/Pasted image 20240528204144.png",
@@ -262,7 +261,6 @@
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Private Cloud.md",
     "@images/Pasted image 20240528003845.png",
     "@images/Pasted image 20240528003738.png",
-    "@images/Pasted image 20240527235958.png",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/security services.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/security mechanism.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/security attacks.md",
