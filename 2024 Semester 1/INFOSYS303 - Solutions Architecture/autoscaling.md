@@ -38,4 +38,7 @@ This ensures optimal performance, cost-effectiveness & reliability without manua
 	- Scaling events can affect application performance, necessitating strategies to minimize degradation during these events
 5. Handling Stateful Components
 	- Managing stateful components like databases in an [[autoscaling]] environment is challenging due to the need for data consistency & [[Availability]] during scaling events
-6
+6. Network Considerations
+	- [[autoscaling]] can introduce network configuration & communication challenges, particularly in distributed systems or [[2024 Semester 1/INFOSYS303 - Solutions Architecture/microservices|microservices]] architectures
+## Real World Use Cases
+1. Web Applicatio
