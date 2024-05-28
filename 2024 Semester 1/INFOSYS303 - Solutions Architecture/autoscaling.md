@@ -31,4 +31,6 @@ This ensures optimal performance, cost-effectiveness & reliability without manua
 1. Complexity of Configuration
 	- Setting up [[autoscaling]] involves configuring groups, defining scaling policies, & establishing monitoring, which can be intricate & requires expertise
 2. Cost Management
-	- [[autoscaling]] can lead to unexpected costs if not configured p
+	- [[autoscaling]] can lead to unexpected costs if not configured properly, due to unpredictable traffic patterns or over-provisioning
+3. Scaling Limitations
+	- Certain applications, especially stateful ones or legacy systems, may not be suitable for dynamic scaling, presenting a challenge for [[autoscaling]] implemet
