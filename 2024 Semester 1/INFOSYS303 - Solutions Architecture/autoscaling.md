@@ -26,4 +26,5 @@ This ensures optimal performance, cost-effectiveness & reliability without manua
 ## Strategies
 - Proactive Scaling $\rightarrow$ Anticipate load changes #infosys303example scheduled events
 - Reactive Scaling $\rightarrow$ Respond to actual load #infosys303example based on metrics
-- Manual Scaling $\rightarrow$ Triggger s
+- Manual Scaling $\rightarrow$ Trigger scaling manually #infosys303example during maintenance
+## Challenges
