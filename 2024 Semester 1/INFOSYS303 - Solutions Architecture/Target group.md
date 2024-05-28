@@ -1,1 +1,1 @@
-is where the [[autoscaling]] grou
+is where the [[autoscaling]] group registers its [[instance(s)]] to receive traffic

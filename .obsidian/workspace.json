@@ -13,38 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Serverless Computing.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "30041d3de5c99bfd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Amazon EC2 Auto Scaling.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "fab107cc56d8ca33",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Target group.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -111,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Target group.md",
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Amazon EC2 Auto Scaling.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Target group.md",
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Amazon EC2 Auto Scaling.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Target group.md"
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Amazon EC2 Auto Scaling.md"
               }
             }
           },
@@ -181,7 +156,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Target group.md"
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Amazon EC2 Auto Scaling.md"
               }
             }
           },
@@ -207,7 +182,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Target group.md",
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Amazon EC2 Auto Scaling.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -253,15 +228,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fab107cc56d8ca33",
+  "active": "e71ae096a8fdadb2",
   "lastOpenFiles": [
-    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Amazon EC2 Auto Scaling.md",
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Serverless Computing.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Target group.md",
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Amazon EC2 Auto Scaling.md",
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Security group.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/autoscaling.md",
     "@images/Pasted image 20240528213139.png",
     "@images/Pasted image 20240528213126.png",
     "@images/Pasted image 20240528211846.png",
-    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Serverless Computing.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Evolution of network virtualization.md",
     "@images/Pasted image 20240528204328.png",
     "@images/Pasted image 20240528204144.png",
@@ -290,7 +266,6 @@
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Integrity.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Global server load balancing.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/DNS load balancing.md",
-    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Confidentiality.md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Untitled",
     "2024 Semester 1",
