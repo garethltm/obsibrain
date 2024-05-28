@@ -14,5 +14,8 @@
 ## Server virtualisation datacentre networking
 ![[Pasted image 20240528204144.png]]
 - Since server virtualisation only provides [[Software Defined Networks (SDN)]] capabilities for the VMs contained on each individual server, the 2 major issues with traditional networking remain:
-1. The control of the network equipment is still tied to each device
-2. Network device capa
+	1. The control of the network equipment is still tied to each device
+	2. Network device capability remains fairly inflexible
+## [[Software Defined Networks (SDN)]] for datacentre network infrastructure
+![[Pasted image 20240528204328.png]]
+- Decrease capit
