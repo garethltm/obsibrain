@@ -11,4 +11,5 @@ A term coined when it became necessary to distinguish between hardware-based net
 - Continuing business pressures to reduce costs
 ## Architecture
 - facilitates a more agile & flexible networking solution
-- allows enterprises & service providers to respond quickly
+- allows enterprises & service providers to respond quickly to changing business requirements
+(a network engineer can shape traffic from a centralised control console without having to touch individual switches in the network)
