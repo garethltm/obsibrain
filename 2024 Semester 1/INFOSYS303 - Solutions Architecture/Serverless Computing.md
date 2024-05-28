@@ -16,7 +16,10 @@ When an app is not in use, there are no computing resources allocated to the app
 #### Elasticity vs [[2024 Semester 1/INFOSYS303 - Solutions Architecture/Scalability|Scalability]]
 - A serverless architecture means that developers & operators do not need to spend time setting up & tuning autoscaling policies or systems
 	- the cloud provider is responsible for scaling the capacity to the demand
-- As cloud native systems inherently scale
+- As cloud native systems inherently scale down as well as up, these systems are known as elastic rather than scalable
+- Small teams of developers are able to run code themselves without the dependence upon teams of infrastructure & support engineers
+#### Productivity
+- Wit
 ## Major providers
 - Google App Engine, introduced in 2008 was the first abstract [[Serverless Computing]] offering.
 	- It was used to support early customers including Snapchat, as well as many external & internal Google apps.
