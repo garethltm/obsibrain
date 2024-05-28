@@ -33,4 +33,6 @@ This ensures optimal performance, cost-effectiveness & reliability without manua
 2. Cost Management
 	- [[autoscaling]] can lead to unexpected costs if not configured properly, due to unpredictable traffic patterns or over-provisioning
 3. Scaling Limitations
-	- Certain applications, especially stateful ones or legacy systems, may not be suitable for dynamic scaling, presenting a challenge for [[autoscaling]] implemet
+	- Certain applications, especially stateful ones or legacy systems, may not be suitable for dynamic scaling, presenting a challenge for [[autoscaling]] implementation
+4. Performance Impact
+	- 
