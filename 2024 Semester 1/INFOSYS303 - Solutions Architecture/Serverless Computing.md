@@ -13,4 +13,6 @@ When an app is not in use, there are no computing resources allocated to the app
 	- It was used to support early customers including Snapchat, as well as many external & internal Google apps.
 	- Google App Engine used pay-for-what-you-use billing
 - AWS Lambda, introduced by Amazon in 2014
-	- it popularized
+	- it popularized the abstract [[Serverless Computing]] model
+	- It is supported by AWS Serverless Application Model (AWS SAM)
+- Google Cloud Platform created a second serverless offering, Goo
