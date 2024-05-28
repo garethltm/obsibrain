@@ -4,4 +4,6 @@ It allows systems to efficiently handle fluctuations in demand by scaling resour
 
 This ensures optimal performance, cost-effectiveness & reliability without manual intervention, enabling organizations to adapt to varying workload demands in their cloud infrastructure seamlessly
 ## Importance of [[autoscaling]]
-1. Opti
+1. Optimized Performance
+	- [[autoscaling]] ensures that your system can handle varying levels of traffic or workload without sacrificing performance.
+		- by automatically adjusting resources in response to demand, it maintains consistent performance levels even during peak usage
