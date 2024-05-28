@@ -49,4 +49,6 @@ This ensures optimal performance, cost-effectiveness & reliability without manua
 3. Media streaming platforms #infosys303example Netflix
 	- Varying levels of demand depending on the popularity of content & time of day
 	- [[autoscaling]] facilitates scaling their streaming infrastructure up or down in real-time to ensure smooth playback uninterrupted streaming for users
-4. Online 
+4. Online Gaming
+	- Must scale their infrastructure to handle unpredictable spikes in player activity, especially during game launches, updates or special events.
+	- [[autoscaling]] ensures that game servers can dynamically adjust their capacity to accommodate player demand & provide a seamless gaming experience.
