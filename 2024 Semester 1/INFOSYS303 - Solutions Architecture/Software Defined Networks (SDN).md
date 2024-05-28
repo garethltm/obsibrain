@@ -15,4 +15,6 @@ A term coined when it became necessary to distinguish between hardware-based net
 (a network engineer can shape traffic from a centralised control console without having to touch individual switches in the network)
 ## [[Software Defined Networks (SDN)]] technology
 - is an approach to network management that enables dynamic, programmatically efficient network configuration in order to improve network performance & monitoring
-	- it is more like [[Cloud Computing]]
+	- it is more like [[Cloud Computing]] than traditional network management.
+[[Software Defined Networks (SDN)]] is meant to address the static architecture of traditional networks:
+- [[Software Defined Networks (SDN)]] attempts to centralize network intelligence in 1 network component b
