@@ -32,4 +32,7 @@ Within [[Amazon EC2 Auto Scaling]], you can use two approaches: dynamic scaling 
 2. Efficient Resource Use
 	- [[autoscaling]] ensures that you have the right number of [[Amazon EC2 instance(s)]] available
 	- The [[Load Balancer(s)]] then ensures that each [[instance(s)]] is used effectively
-3. High [[]]
+3. High [[Availability]]
+	- if an [[instance(s)]] fails health checks & is deemed unhealthy by the [[Load Balancer(s)]], [[autoscaling]] can replace it without manual intervention
+4. Cost Optimization
+	 - By adjusting the number of [[instance(s)]] automatically, 
