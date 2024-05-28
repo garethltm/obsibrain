@@ -1,1 +1,3 @@
-- Before server virtualization, every s
+- Before server virtualization, every server had a single operating system, typically a single application & connected to 1 or many legacy switch ports.
+- Network control & data flow are all managed at an individual switch level.
+- Every network component throughout the network infrastructure,
