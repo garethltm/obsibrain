@@ -11,4 +11,5 @@ This ensures optimal performance, cost-effectiveness & reliability without manua
 	- it helps in optimizing costs by automatically scaling resources up when demand increases & scaling down during periods of low demand.
 		- this prevents over-provisioning of resources, thereby minimizing unnecessary expenses.
 3. Improved Reliability
-	- with [[autoscaling]], you can distribute workloads across multiple instances or servers, reducig 
+	- with [[autoscaling]], you can distribute workloads across multiple instances or servers, reducing the risk of system failures or downtime
+		- this redundancy
