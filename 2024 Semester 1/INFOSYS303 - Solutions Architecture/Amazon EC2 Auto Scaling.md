@@ -9,4 +9,7 @@
 Within [[Amazon EC2 Auto Scaling]], you can use two approaches: dynamic scaling and predictive scaling.
 - _Dynamic scaling_ responds to changing demand. 
 - _Predictive scaling_ automatically schedules the right number of Amazon EC2 instances based on predicted demand.
-## Components of 
+## Components of AWS Auto Scaling Group
+1. [[instance(s)]]
+	- the group contains a collection of [[Amazon EC2 instance(s)]] that are automatically adjusted in number based on the defined conditions for scaling.
+2. Scaling O
