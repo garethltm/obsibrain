@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "fa7b0372980b2e29",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/control plane.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Software Defined Networks (SDN).md",
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/control plane.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Software Defined Networks (SDN).md",
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/control plane.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Software Defined Networks (SDN).md"
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/control plane.md"
               }
             }
           },
@@ -156,7 +169,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Software Defined Networks (SDN).md"
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/control plane.md"
               }
             }
           },
@@ -182,7 +195,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Software Defined Networks (SDN).md",
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/control plane.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -228,9 +241,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a2c8eeb95827a53e",
+  "active": "fa7b0372980b2e29",
   "lastOpenFiles": [
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Software Defined Networks (SDN).md",
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/control plane.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Amazon S3.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Amazon Elastic Kubernetes Service (Amazon EKS).md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Private Cloud.md",
@@ -265,7 +279,6 @@
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Availability.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Authenticity.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Application load balancing.md",
-    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Accountability.md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Untitled",
     "2024 Semester 1",
