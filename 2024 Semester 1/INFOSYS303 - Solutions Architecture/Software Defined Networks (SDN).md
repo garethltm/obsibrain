@@ -14,4 +14,4 @@ A term coined when it became necessary to distinguish between hardware-based net
 - allows enterprises & service providers to respond quickly to changing business requirements
 (a network engineer can shape traffic from a centralised control console without having to touch individual switches in the network)
 ## [[Software Defined Networks (SDN)]] technology
-- is an approach to network management that enables dynamic
+- is an approach to network management that enables dynamic, programmatically efficient network configuration in order to improve netowrk performance
