@@ -28,3 +28,5 @@ This ensures optimal performance, cost-effectiveness & reliability without manua
 - Reactive Scaling $\rightarrow$ Respond to actual load #infosys303example based on metrics
 - Manual Scaling $\rightarrow$ Trigger scaling manually #infosys303example during maintenance
 ## Challenges
+1. Complexity of Configuration
+2. 
