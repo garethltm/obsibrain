@@ -6,4 +6,7 @@ This ensures optimal performance, cost-effectiveness & reliability without manua
 ## Importance of [[autoscaling]]
 1. Optimized Performance
 	- [[autoscaling]] ensures that your system can handle varying levels of traffic or workload without sacrificing performance.
-		- by automatically adjusting resources in response to demand, it maintains consistent performance levels even during peak usage
+		- by automatically adjusting resources in response to demand, it maintains consistent performance levels even during peak usage periods
+2. Cost Efficiency
+	- it helps in optimizing costs by automatically scaling resources up when demand increases & scaling down during periods of low demand
+	- 
