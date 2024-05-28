@@ -21,6 +21,7 @@ Within [[Amazon EC2 Auto Scaling]], you can use two approaches: dynamic scaling 
 5. High [[Availability]]
 	- Spreads [[instance(s)]] across multiple [[Availability Zone]] within a region to increase fault tolerance
 
-| [[Amazon EC2 Auto Scaling]]         |     |
-| ----------------------------------- | --- |
-| Purpose: Automatically adjust the n |     |
+| [[Amazon EC2 Auto Scaling]]                                                                                                                          |     |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------- | --- |
+| Purpose: Automatically adjust the number of [[Amazon EC2]] [[instance(s)]] in your application's architecture to handle the current load efficiently |     |
+| Behavior: Scales out by adding [[Spot Instances]]                                                                                                    |     |
