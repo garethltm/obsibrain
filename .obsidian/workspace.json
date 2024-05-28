@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Evolution of network virtualization.md",
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Serverless Computing.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Evolution of network virtualization.md",
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Serverless Computing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Evolution of network virtualization.md",
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Serverless Computing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Evolution of network virtualization.md"
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Serverless Computing.md"
               }
             }
           },
@@ -156,7 +156,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Evolution of network virtualization.md"
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Serverless Computing.md"
               }
             }
           },
@@ -182,7 +182,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Evolution of network virtualization.md",
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Serverless Computing.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -230,12 +230,13 @@
   },
   "active": "a2c8eeb95827a53e",
   "lastOpenFiles": [
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Evolution of network virtualization.md",
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Serverless Computing.md",
     "@images/Pasted image 20240528204328.png",
     "@images/Pasted image 20240528204144.png",
     "@images/Pasted image 20240528203913.png",
     "@images/Pasted image 20240528203720.png",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Software Defined Networks (SDN).md",
-    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Evolution of network virtualization.md",
     "@images/Pasted image 20240528203520.png",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/control plane.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Amazon S3.md",
@@ -246,7 +247,6 @@
     "@images/Pasted image 20240527235958.png",
     "@images/Pasted image 20240527232020.png",
     "@images/Pasted image 20240527231831.png",
-    "@images/Pasted image 20240523225108.png",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/security services.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/security mechanism.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/security attacks.md",

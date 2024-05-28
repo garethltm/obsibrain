@@ -1,0 +1,1 @@
+- is a [[Cloud Computing]] execution model in which the cl

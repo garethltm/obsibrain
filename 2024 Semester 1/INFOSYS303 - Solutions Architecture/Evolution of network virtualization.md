@@ -20,4 +20,4 @@
 ![[Pasted image 20240528204328.png]]
 - Decrease capital & operational expenditure
 - Decouple the management - [[control plane]], from the device itself - data plane, whereby centralising network control
-- 
+- Large increase in flexibility & deployment of programmable network infrastructure & network functions
