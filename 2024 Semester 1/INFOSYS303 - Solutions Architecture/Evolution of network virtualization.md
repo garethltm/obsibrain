@@ -5,3 +5,7 @@
 ## 2 major issues are revealed:
 1. The control of the network equipment is tied to each device
 2. Network equipment capability if fairly inflexible
+## Virtual switches provide [[Software Defined Networks (SDN)]] to virtual machines
+![[Pasted image 20240528203913.png]]
+- Server virtualization was the initial introduction to software defined networking.
+- Muk
