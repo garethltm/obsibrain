@@ -19,4 +19,8 @@ Within [[Amazon EC2 Auto Scaling]], you can use two approaches: dynamic scaling 
 4. [[Load Balancing]]
 	- Often integrated with [[Load Balancer(s)]] to distributed traffic evenly across the [[instance(s)]] in the group
 5. High [[Availability]]
-	- Spreads [[instance(s)]] across 
+	- Spreads [[instance(s)]] across multiple [[Availability Zone]] within a region to increase fault tolerance
+
+| [[Amazon EC2 Auto Scaling]]         |     |
+| ----------------------------------- | --- |
+| Purpose: Automatically adjust the n |     |
