@@ -46,3 +46,7 @@ This ensures optimal performance, cost-effectiveness & reliability without manua
 2. E-commerce sites #infosys303example Amazon
 	 - often experience spikes in traffic during sales events, promotions or holiday seasons
 	 - [[autoscaling]] facilitates dynamically scaling resources to accommodate increased demand, ensuring that customers can access the website without experiencing slowdowns or outages.
+3. Media streaming platforms #infosys303example Netflix
+	- Varying levels of demand depending on the popularity of content & time of day
+	- [[autoscaling]] facilitates scaling their streaming infrastructure up or down in real-time to ensure smooth playback uninterrupted streaming for users
+4. Online 
