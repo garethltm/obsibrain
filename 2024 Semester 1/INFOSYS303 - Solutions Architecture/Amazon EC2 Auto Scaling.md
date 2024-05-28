@@ -21,8 +21,8 @@ Within [[Amazon EC2 Auto Scaling]], you can use two approaches: dynamic scaling 
 5. High [[Availability]]
 	- Spreads [[instance(s)]] across multiple [[Availability Zone]] within a region to increase fault tolerance
 
-| [[Amazon EC2 Auto Scaling]]                                                                                                                          |     |     |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------- | --- | --- |
-| Purpose: Automatically adjust the number of [[Amazon EC2]] [[instance(s)]] in your application's architecture to handle the current load efficiently |     |     |
-| Behavior: Scales out by adding [[instance(s)]] when demand increases, & scales in by terminating [[instance(s)]] when demand decreases        <br>   |     |     |
-| Health                                                                                                                                               |     |     |
+|                   | [[Amazon EC2 Auto Scaling]]                                                                                                                 | [[Load Balancer(s)]]               |
+| ----------------- | ------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------- |
+| Purpose:          | Automatically adjust the number of [[Amazon EC2]] [[instance(s)]] in your application's architecture to handle the current load efficiently | Distributes incoming application t |
+| Behavior:    <br> | Scales out by adding [[instance(s)]] when demand increases, & scales in by terminating [[instance(s)]] when demand decreases                |                                    |
+| Health:           | Monitors the health of [[instance(s)]] & replaces unhealthy ones to ensure continuous service                                               |                                    |
