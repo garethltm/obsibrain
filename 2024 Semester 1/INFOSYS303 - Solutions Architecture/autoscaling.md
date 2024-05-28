@@ -35,4 +35,4 @@ This ensures optimal performance, cost-effectiveness & reliability without manua
 3. Scaling Limitations
 	- Certain applications, especially stateful ones or legacy systems, may not be suitable for dynamic scaling, presenting a challenge for [[autoscaling]] implementation
 4. Performance Impact
-	- 
+	- Scaling events can affect application performance, necessitating strategies to minimize degradatio
