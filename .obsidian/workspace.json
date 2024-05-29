@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d1a513793325ac76",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Amazon EC2 Auto Scaling.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Amazon EC2 Auto Scaling.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Amazon EC2 Auto Scaling.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -156,7 +169,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Amazon EC2 Auto Scaling.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -182,7 +195,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Amazon EC2 Auto Scaling.md",
+                "file": "conflict-files-obsidian-git.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -227,26 +240,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "34bbdd0fecfd4443",
+  "active": "d1a513793325ac76",
   "lastOpenFiles": [
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Amazon EC2 Auto Scaling.md",
+    "conflict-files-obsidian-git.md",
+    "@images/Pasted image 20240528222941.png",
+    "@images/Pasted image 20240528213139.png",
+    "@images/Pasted image 20240528213126.png",
+    "@images/Pasted image 20240528211846.png",
+    "@images/Pasted image 20240528204328.png",
+    "@images/Pasted image 20240528204144.png",
+    "@images/Pasted image 20240528203913.png",
+    "@images/Pasted image 20240528203720.png",
+    "@images/Pasted image 20240528203520.png",
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/control plane.md",
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/autoscaling.md",
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Target group.md",
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Software Defined Networks (SDN).md",
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Serverless Computing.md",
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Security group.md",
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Evolution of network virtualization.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Amazon EBS.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Amazon EC2.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Amazon EC2 pricing.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Amazon EC2 instance(s).md",
     "README.md",
-    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Amazon EC2 Auto Scaling.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/AdaBoost.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Private Cloud.md",
     "@images/Pasted image 20240528003845.png",
-    "@images/Pasted image 20240528003738.png",
-    "@images/Pasted image 20240527235958.png",
-    "@images/Pasted image 20240527232020.png",
-    "@images/Pasted image 20240527231831.png",
-    "@images/Pasted image 20240523225108.png",
-    "@images/Pasted image 20240523224904.png",
-    "@images/Pasted image 20240523224720.png",
-    "@images/Pasted image 20240523224559.png",
-    "@images/Pasted image 20240523224039.png",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/security services.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/security mechanism.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/security attacks.md",
@@ -257,14 +278,6 @@
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/The Open Systems Interconnection (OSI) security architecture.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Resource-based.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Network load balancing.md",
-    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Load Balancer(s).md",
-    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Least connection.md",
-    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Integrity.md",
-    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Global server load balancing.md",
-    "2024 Semester 1/INFOSYS303 - Solutions Architecture/DNS load balancing.md",
-    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Confidentiality.md",
-    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Confidentiality, Integrity, Availability (CIA).md",
-    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Computer Security.md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Untitled",
     "2024 Semester 1",
