@@ -44,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "private",
+                "query": "logistic",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -61,7 +61,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -216,7 +217,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ccb76b5d1c3b787b",
+  "active": "a6e0090ac9cbd1f3",
   "lastOpenFiles": [
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Private Cloud.md",
     "@images/Pasted image 20240528003845.png",
