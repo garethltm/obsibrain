@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "a96e19524f9e3313",
+        "id": "4c94c3ef3d0469e9",
         "type": "tabs",
         "children": [
           {
-            "id": "34bbdd0fecfd4443",
+            "id": "2c1a40d5c4ca4331",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -194,7 +194,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 1.254057990250493,
+                  "scale": 0.8588896463637218,
                   "close": true
                 }
               }
@@ -216,8 +216,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "34bbdd0fecfd4443",
+  "active": "2c1a40d5c4ca4331",
   "lastOpenFiles": [
+    "2024 Semester 1/COMPSCI361 - Machine Learning/bag-of-words.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Dependent vs Explanatory Variable.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/classification.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Bayes Optimal Classifier.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Amazon Elastic Container Service (Amazon ECS).md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Amazon EFS.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Amazon EC2 pricing.md",
@@ -250,10 +254,6 @@
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/security mechanism.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/security attacks.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/passive attack.md",
-    "2024 Semester 1/INFOSYS303 - Solutions Architecture/active attack.md",
-    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Weighted response time.md",
-    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Weighted Least Connection.md",
-    "2024 Semester 1/INFOSYS303 - Solutions Architecture/The Open Systems Interconnection (OSI) security architecture.md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Untitled",
     "2024 Semester 1",
