@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Solution Architect (SA).md",
+                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Investing.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Solution Architect (SA).md",
+                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Investing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Solution Architect (SA).md",
+                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Investing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Solution Architect (SA).md"
+                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Investing.md"
               }
             }
           },
@@ -156,7 +156,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Solution Architect (SA).md"
+                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Investing.md"
               }
             }
           },
@@ -182,7 +182,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Solution Architect (SA).md",
+                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Investing.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -230,6 +230,7 @@
   },
   "active": "db6adabc13275ec4",
   "lastOpenFiles": [
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Solution Architect (SA).md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Enterprise Architect (EA).md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Enterprise Architecture.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Amazon EC2 Auto Scaling.md",
@@ -265,7 +266,6 @@
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Network load balancing.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Load Balancer(s).md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Least connection.md",
-    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Integrity.md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Untitled",
     "2024 Semester 1",
