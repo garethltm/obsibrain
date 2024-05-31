@@ -46,3 +46,5 @@
 7. [[Commodities]], Financial Futures & Options
 - Both [[Bonds or Debentures (Government or Company)]] & [[Bank deposits]] are considered [[debt instruments]]
 	- For [[Banks (Commercial Banks)]]: your money is their [[liability]]
+### What are your investment objectives?
+- Save for retirement - to live comfortably in your 'golden y'
