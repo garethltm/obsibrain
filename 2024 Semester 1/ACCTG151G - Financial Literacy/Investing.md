@@ -47,4 +47,7 @@
 - Both [[Bonds or Debentures (Government or Company)]] & [[Bank deposits]] are considered [[debt instruments]]
 	- For [[Banks (Commercial Banks)]]: your money is their [[liability]]
 ### What are your investment objectives?
-- Save for retirement - to live comfortably in your 'golden y'
+- Save for retirement - to live comfortably in your 'golden years'
+- Supplement for current income - appropriate for retired persons (receiving a pension...)
+	- you wish to get some supplements for income after retirement
+- Save for major acquisitions - such as university education, deposit o
