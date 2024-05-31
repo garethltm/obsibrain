@@ -14,10 +14,9 @@ You & Jim in partnership buy one of these & Gloria buys the second one. To do th
 A year later prices have risen and you all decide to see your investment properties & go on a world cruise with the profits (note that this is not a sensible use of your investment money)
 - The properties have both risen in value to $1,200,000
 - The return that you & Jim have made on this investment, without leverage (borrowing) is straightforward to calculate.
-- The return that your friend Gloria has made by herself needs just a little more calculation:
-![[Pasted image 20240520133908.png]]
+- The return that your friend Gloria has made by herself needs just a little more calculation:![[Pasted image 20240520133908.png]]
 ### Investment returns 2
 But what if a year later prices have fallen & you all decide to sell your investment so you don't lose any more money.
 - The properties have both fallen in value to $800,000
 - The return (which is obviously negative) that you & Jim have made on this investment, without leverage (borrowing) is again straightforward to calculate
-- 
+- The return that your friend Gloria has made by herself also needs just a little more calculation:![[Pasted image 20240531203305.png]]
