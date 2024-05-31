@@ -17,4 +17,7 @@ A year later prices have risen and you all decide to see your investment propert
 - The return that your friend Gloria has made by herself needs just a little more calculation:
 ![[Pasted image 20240520133908.png]]
 ### Investment returns 2
-But what if a year later prices have fallen & you all decide to sell your inv
+But what if a year later prices have fallen & you all decide to sell your investment so you don't lose any more money.
+- The properties have both fallen in value to $800,000
+- The return (which is obviously negative) that you & Jim have made on this investment, without leverage (borrowing) is again straightforward to calculate
+- 
