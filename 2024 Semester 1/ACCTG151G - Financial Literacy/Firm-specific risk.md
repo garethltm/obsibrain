@@ -1,1 +1,2 @@
-- also known as "Idiosyncratic"
+- also known as "Idiosyncratic risk" (can be [[diversified away]])
+	- Risks that affect only specific companies or [[asset(s)]]
