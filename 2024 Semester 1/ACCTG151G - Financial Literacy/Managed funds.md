@@ -51,4 +51,8 @@
 		- think about what you need
 	- Consider your tolerance for [[Risk]] and your investment time horizon
 		- consider your tolerance: risk averse/risk taking
-	- Read the [[investment]]
+	- Read the Investment Statement & Prospectus
+		- will include the fund's objectives (what are their goals)
+	- Assess the fund's services
+		- what service can they provide to you
+	- 
