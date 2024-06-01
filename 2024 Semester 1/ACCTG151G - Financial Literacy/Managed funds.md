@@ -16,4 +16,7 @@
 - No control over sale of [[Securities]] within fund - timing of sales has potential taxation implications for investors
 	- not in New Zealand as they don't have capital gain tax
 ## [[Managed funds]] cost considerations
-1. 
+- Keep track of Fees
+	- Funds are required to disclose all fees in their Investment Statement & Prospectus
+	- Even 'no-load' funds can have high annual expense ratios
+	- Fees affect your return, and annual fees will be collec
