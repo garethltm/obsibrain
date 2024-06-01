@@ -49,4 +49,6 @@
 - Selecting a [[Managed funds]]:
 	- Match the fund's objectives with your investment objectives
 		- think about what you need
-	- Consider your tolerance for [[ris]]
+	- Consider your tolerance for [[Risk]] and your investment time horizon
+		- consider your tolerance: risk averse/risk taking
+	- Read the [[investment]]
