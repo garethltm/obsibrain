@@ -11,4 +11,5 @@
 - This deviation is driven by:
 	- Market movement as a whole $\rightarrow$ [[Market risk]]
 	- A stock's own events $\rightarrow$ [[Firm-specific risk]]
-- 
+- [[Diversification]] allows us to eliminate [[Firm-specific risk]] only
+- [[Market risk]] affects all stocks (to a greater or lesser degree) & cannot be eliminated through [[Diversification]]
