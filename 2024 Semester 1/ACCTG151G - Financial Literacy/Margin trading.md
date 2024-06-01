@@ -20,3 +20,5 @@ But what if a year later prices have fallen & you all decide to sell your invest
 - The properties have both fallen in value to $800,000
 - The return (which is obviously negative) that you & Jim have made on this investment, without leverage (borrowing) is again straightforward to calculate
 - The return that your friend Gloria has made by herself also needs just a little more calculation:![[Pasted image 20240531203305.png]]
+## Becoming an informed investor
+- [[Investing]] is always involving risks $\rightarrow$ you need to make informed de
