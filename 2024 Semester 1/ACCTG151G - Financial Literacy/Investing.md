@@ -57,4 +57,6 @@
 8. NZX
 - all these information to enhance your decision making process
 ### Managing your investment holdings
-- Build a diversified portfolio of
+- Build a diversified portfolio of securities based upon your goals & personal situation
+- Allocate your [[asset(s)]] according to your objectives
+- Track your investments & rebalance your portfolio as your 
