@@ -18,6 +18,6 @@
 ## [[Managed funds]] cost considerations
 - Keep track of Fees
 	- Funds are required to disclose all fees in their Investment Statement & Prospectus
-	- Even 'no-load' funds can have high annual expense ratios
+	- Even 'no-[[2023 Semester 2/INFOSYS222 - Database Systems/Load]]' funds can have high annual expense ratios
 	- Fees affect your return, and annual fees will be collected regardless of the performance of the fund
-		- this consistent annual fee will quickly add up, choose the one 
+		- this consistent annual fee will quickly add up, choose the one with the lowest fee

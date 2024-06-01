@@ -2,6 +2,6 @@
 
 1. [[Extract]]
 2. [[Transform]]
-3. [[Load]]
+3. [[2023 Semester 2/INFOSYS222 - Database Systems/Load]]
 
 ![[Pasted image 20231017003208.png]]
