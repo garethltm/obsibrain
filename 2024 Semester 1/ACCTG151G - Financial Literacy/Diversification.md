@@ -5,4 +5,4 @@
 - The lower the correlation between 2 [[asset(s)]], the stronger the [[Diversification]] effect.
 [[Managed funds]] will help build a large portfolio $\rightarrow$ easy way to achieve [[Diversification]]
 
-#acctg151Gexample ![[Pasted image 20240602004108.png]]![[Pasted image 20240602004117.png]]![[Pasted image 20240602004127.png]]![[Pasted image 20240602004137.png]]![[Pasted image 20240602004156.png]]
+#acctg151Gexample ![[Pasted image 20240602004108.png]]![[Pasted image 20240602004117.png]]![[Pasted image 20240602004127.png]]![[Pasted image 20240602004137.png]]![[Pasted image 20240602004156.png]]![[Pasted image 20240602004209.png]]![[Pasted image 20240602004220.png]]![[Pasted image 20240602004231.png]]![[Pasted image 20240602004243.png]]![[Pasted image 20240602004251.png]]![[Pasted image 20240602004259.png]]
