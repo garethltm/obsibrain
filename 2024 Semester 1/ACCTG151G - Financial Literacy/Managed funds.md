@@ -8,4 +8,7 @@
 - [[Diversification]] - [[Risk]] is lowered; one share buys a slice of everything in the fund
 - Professional management - pay someone else to make [[Investing]] decisions & who are suitably qualified
 - Financial returns - history of relatively attractive returns over the long terms
-- Conveniencv
+- Convenience - easy in & out, small outlays, help with record keeping
+	- book-keeping $\rightarrow$ keep historical returns visible
+## Disadvantages
+- No choice in securities selection - if you don't agree with choices ex
