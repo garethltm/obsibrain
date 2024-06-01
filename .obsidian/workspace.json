@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "8ebd9527550cc0f9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Retirement Plans.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Managed funds.md",
+                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Retirement Plans.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Managed funds.md",
+                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Retirement Plans.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Managed funds.md"
+                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Retirement Plans.md"
               }
             }
           },
@@ -156,7 +169,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Managed funds.md"
+                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Retirement Plans.md"
               }
             }
           },
@@ -182,7 +195,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Managed funds.md",
+                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Retirement Plans.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -227,10 +240,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "db6adabc13275ec4",
+  "active": "8ebd9527550cc0f9",
   "lastOpenFiles": [
-    "2024 Semester 1/ACCTG151G - Financial Literacy/Conversion Privileges.md",
     "2024 Semester 1/ACCTG151G - Financial Literacy/Managed funds.md",
+    "2024 Semester 1/ACCTG151G - Financial Literacy/Retirement Plans.md",
+    "2024 Semester 1/ACCTG151G - Financial Literacy/Conversion Privileges.md",
     "2024 Semester 1/ACCTG151G - Financial Literacy/Regular Income.md",
     "2024 Semester 1/ACCTG151G - Financial Literacy/Automatic Reinvestment Plan.md",
     "2024 Semester 1/ACCTG151G - Financial Literacy/Automatic Investment Plan.md",
@@ -264,7 +278,6 @@
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Security group.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/autoscaling.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Evolution of network virtualization.md",
-    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Software Defined Networks (SDN).md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Untitled",
     "2024 Semester 1",
