@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "22d9f19b548f8c7a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Market risk.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Risk.md",
+                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Market risk.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Risk.md",
+                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Market risk.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Risk.md"
+                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Market risk.md"
               }
             }
           },
@@ -156,7 +169,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Risk.md"
+                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Market risk.md"
               }
             }
           },
@@ -182,7 +195,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Risk.md",
+                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Market risk.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -228,10 +241,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "db6adabc13275ec4",
+  "active": "22d9f19b548f8c7a",
   "lastOpenFiles": [
-    "2024 Semester 1/ACCTG151G - Financial Literacy/Managed funds.md",
     "2024 Semester 1/ACCTG151G - Financial Literacy/Risk.md",
+    "2024 Semester 1/ACCTG151G - Financial Literacy/Market risk.md",
+    "2024 Semester 1/ACCTG151G - Financial Literacy/Managed funds.md",
     "@images/Pasted image 20240602003428.png",
     "2024 Semester 1/ACCTG151G - Financial Literacy/Investing.md",
     "2024 Semester 1/ACCTG151G - Financial Literacy/Margin trading.md",
@@ -265,7 +279,6 @@
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/security attacks.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/passive attack.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/active attack.md",
-    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Weighted response time.md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Untitled",
     "2024 Semester 1",
