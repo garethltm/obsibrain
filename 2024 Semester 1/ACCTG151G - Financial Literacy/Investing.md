@@ -50,4 +50,11 @@
 1. Annual Reports $\rightarrow$ see companies annual report such as cash flow statements, [[Balance sheet]] & income statements to assess [[Statement of Financial Performance]]
 2. Financial Press - National Business Review
 3. Broker Analysts Reports
-4. Advisory
+4. Advisory Services
+5. Investment Advisors
+6. On-Line Sources
+7. Company announcements
+8. NZX
+- all these information to enhance your decision making process
+### Managing your investment holdings
+- Build a diversified portfolio of
