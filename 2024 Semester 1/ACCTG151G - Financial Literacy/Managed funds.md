@@ -1,7 +1,7 @@
 - managed by [[fund managers]] (they will invest in large investment portfolios)
 - there is also higher management fees
 	- funds that are managed by professional [[fund managers]]
-- collection of professionally managed securities offered by an investment company
+- collection of professionally managed [[securities]] offered by an investment company
 - Return & level of Risk depend on characteristics of underlying portfolio #acctg151Gexample combination of investments
 ![[Pasted image 20240602003428.png]]
 ## Advantages
@@ -11,4 +11,6 @@
 - Convenience - easy in & out, small outlays, help with record keeping
 	- book-keeping $\rightarrow$ keep historical returns visible
 ## Disadvantages
-- No choice in securities selection - if you don't agree with choices ex
+- No choice in [[securities]] selection - if you don't agree with choices exit
+	- you are hiring someone to make decisions on your behalf
+- No control over sale of [[Securities]]

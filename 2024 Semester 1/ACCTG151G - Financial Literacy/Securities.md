@@ -15,7 +15,7 @@
 3. NZX Equity Derivatives (NZCX)
 	- offers a very limited range of [[Futures]] & [[Options]] contracts
 4. NZX Dairy Derivatives & the Fonterra Shareholders Market (FSM)
-## Regulating the [[Securities markets]]
+## Regulating the [[Securities]]
 - Laws regulate the sale of securities
 - NZ Stock Exchange listing rules & Securities Commission
 	- Purpose is to provide for adequate & accurate disclosure of financial information
@@ -23,7 +23,7 @@
 		2. Securities Act 1978
 		3. Securities Markets Act 1988
 		4. Securities Regulation 2009
-## Making transactions in the [[Securities markets]]
+## Making transactions in the [[Securities]]
 - Shareholders act to buy & sell shares, fixed [[Income (Cash IN)]] securities for investors
 - Select from:
 	1. full-service - advise & help trade stocks
