@@ -33,7 +33,9 @@
 - [[Money Market]]
 	- maturities less than a year - short term
 - Index
+	- ETF, designed to track index-passive funds (following the market)
 - Sector
-- Socially Responsible (Ethical)
+- [[Socially Responsible (Ethical)]]
+	- socially responsible companies
 - International
 - [[asset(s)]] Allocation
