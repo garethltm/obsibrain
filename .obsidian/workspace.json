@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Margin trading.md",
+                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Investing.md",
                 "mode": "source",
                 "source": false
               }
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Margin trading.md",
+                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Investing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Margin trading.md",
+                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Investing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Margin trading.md"
+                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Investing.md"
               }
             }
           },
@@ -157,7 +157,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Margin trading.md"
+                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Investing.md"
               }
             }
           },
@@ -183,7 +183,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Margin trading.md",
+                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Investing.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -231,6 +231,7 @@
   },
   "active": "db6adabc13275ec4",
   "lastOpenFiles": [
+    "2024 Semester 1/ACCTG151G - Financial Literacy/Margin trading.md",
     "@images/Pasted image 20240531203305.png",
     "2024 Semester 1/ACCTG151G - Financial Literacy/Types of orders.md",
     "2024 Semester 1/ACCTG151G - Financial Literacy/Securities markets.md",
@@ -258,7 +259,6 @@
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Amazon S3.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Amazon Elastic Kubernetes Service (Amazon EKS).md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Private Cloud.md",
-    "@images/Pasted image 20240528003845.png",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/security services.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/security mechanism.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/security attacks.md",

@@ -25,6 +25,6 @@ But what if a year later prices have fallen & you all decide to sell your invest
 - Types of information to follow:
 	1. Economic developments & current events
 	2. Alternative investment vehicles
-		- [[Bonds or Debentures (Government or Company)]] markets 
+		- [[Bonds or Debentures (Government or Company)]] markets etc,... not only [[Ordinary Shares (or Common Stock)]]
 	3. Current [[Interest rates (r)]] & price quotations
 	4. Personal investment strategies
