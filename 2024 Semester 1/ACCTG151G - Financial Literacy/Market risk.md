@@ -1,2 +1,3 @@
-- also known as "Systematic risk"
-	- Risk to which all  c
+- also known as "Systematic risk" (cannot be diversified away)
+	- Risk to which all companies/[[asset(s)]] are exposed
+	- Relate to economy-wide factors (related to the economy fluctuations - no one can avoid)
