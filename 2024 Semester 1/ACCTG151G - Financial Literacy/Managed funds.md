@@ -19,4 +19,5 @@
 - Keep track of Fees
 	- Funds are required to disclose all fees in their Investment Statement & Prospectus
 	- Even 'no-load' funds can have high annual expense ratios
-	- Fees affect your return, and annual fees will be collec
+	- Fees affect your return, and annual fees will be collected regardless of the performance of the fund
+		- this consistent annual fee will quickly add up, choose the one 
