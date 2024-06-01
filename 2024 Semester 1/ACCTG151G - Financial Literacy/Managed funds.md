@@ -15,3 +15,5 @@
 	- you are hiring someone to make decisions on your behalf
 - No control over sale of [[Securities]] within fund - timing of sales has potential taxation implications for investors
 	- not in New Zealand as they don't have capital gain tax
+## [[Managed funds]] cost considerations
+1. 
