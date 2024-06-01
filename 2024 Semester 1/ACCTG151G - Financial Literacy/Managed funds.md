@@ -55,4 +55,6 @@
 		- will include the fund's objectives (what are their goals)
 	- Assess the fund's services
 		- what service can they provide to you
-	- 
+	- Check fees charged
+		- always pick lowest fee funds
+	- Consider the fund's longer-term returns as well as its shorter-term returns ([[Managed fund performance]])
