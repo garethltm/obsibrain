@@ -4,4 +4,4 @@
 1. Front-load
 2. Back-load
 
-When you start your [[inves, you will pay your 
+When you start your [[Investing]], you will pay your front-load fee. Back load is when you close out your investment

@@ -18,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "360776bebb39e5fd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/load.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -99,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/load.md",
+                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Managed funds.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/load.md",
+                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Managed funds.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/load.md"
+                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Managed funds.md"
               }
             }
           },
@@ -169,7 +156,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/load.md"
+                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Managed funds.md"
               }
             }
           },
@@ -195,7 +182,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/load.md",
+                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Managed funds.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -240,10 +227,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "360776bebb39e5fd",
+  "active": "db6adabc13275ec4",
   "lastOpenFiles": [
-    "2024 Semester 1/ACCTG151G - Financial Literacy/Managed funds.md",
     "2024 Semester 1/ACCTG151G - Financial Literacy/load.md",
+    "2024 Semester 1/ACCTG151G - Financial Literacy/Managed funds.md",
     "2024 Semester 1/ACCTG151G - Financial Literacy/Securities.md",
     "2024 Semester 1/ACCTG151G - Financial Literacy/Diversification.md",
     "@images/Pasted image 20240602004259.png",
