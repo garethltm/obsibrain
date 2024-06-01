@@ -5,4 +5,7 @@
 - Return & level of Risk depend on characteristics of underlying portfolio #acctg151Gexample combination of investments
 ![[Pasted image 20240602003428.png]]
 ## Advantages
-- [[diversi]]
+- [[Diversification]] - [[Risk]] is lowered; one share buys a slice of everything in the fund
+- Professional management - pay someone else to make [[Investing]] decisions & who are suitably qualified
+- Financial returns - history of relatively attractive returns over the long terms
+- Conveniencv
