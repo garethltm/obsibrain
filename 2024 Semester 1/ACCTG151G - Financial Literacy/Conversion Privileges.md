@@ -1,0 +1,1 @@
+allow shareholders to easily move from one fund to another within the fund family *
