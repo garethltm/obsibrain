@@ -45,3 +45,8 @@
 3. [[Regular Income]]
 4. [[Conversion Privileges]]
 5. [[Retirement Plans]]
+## Making [[Managed funds]] investments
+- Selecting a [[Managed funds]]:
+	- Match the fund's objectives with your investment objectives
+		- think about what you need
+	- Consider your tolerance for [[ris]]
