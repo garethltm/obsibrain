@@ -20,12 +20,12 @@
             }
           },
           {
-            "id": "76887c01825f3496",
+            "id": "c185e4e869b01ad2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Automatic Investment Plan.md",
+                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Automatic Reinvestment Plan.md",
                 "mode": "source",
                 "source": false
               }
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Automatic Investment Plan.md",
+                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Automatic Reinvestment Plan.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Automatic Investment Plan.md",
+                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Automatic Reinvestment Plan.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Automatic Investment Plan.md"
+                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Automatic Reinvestment Plan.md"
               }
             }
           },
@@ -169,7 +169,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Automatic Investment Plan.md"
+                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Automatic Reinvestment Plan.md"
               }
             }
           },
@@ -195,7 +195,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Automatic Investment Plan.md",
+                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Automatic Reinvestment Plan.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -240,9 +240,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "76887c01825f3496",
+  "active": "c185e4e869b01ad2",
   "lastOpenFiles": [
     "2024 Semester 1/ACCTG151G - Financial Literacy/Managed funds.md",
+    "2024 Semester 1/ACCTG151G - Financial Literacy/Automatic Reinvestment Plan.md",
     "2024 Semester 1/ACCTG151G - Financial Literacy/Automatic Investment Plan.md",
     "2024 Semester 1/ACCTG151G - Financial Literacy/Socially Responsible (Ethical).md",
     "@images/Pasted image 20240602010054.png",
@@ -277,7 +278,6 @@
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Software Defined Networks (SDN).md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/control plane.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Amazon S3.md",
-    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Amazon Elastic Kubernetes Service (Amazon EKS).md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Untitled",
     "2024 Semester 1",

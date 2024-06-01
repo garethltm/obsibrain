@@ -41,3 +41,4 @@
 - [[asset(s)]] Allocation
 ## Services offered by [[Managed funds]]
 1. [[Automatic Investment Plan]]
+2. [[Automatic Reinvestment Plan]]

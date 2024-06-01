@@ -1,0 +1,1 @@
+fund earnings & distributions automatically reinvested in additional 
