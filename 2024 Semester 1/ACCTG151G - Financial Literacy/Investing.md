@@ -47,4 +47,7 @@
 - Both [[Bonds or Debentures (Government or Company)]] & [[Bank deposits]] are considered [[debt instruments]]
 	- For [[Banks (Commercial Banks)]]: your money is their [[liability]]
 ### Available investment information
-1. Annual Reports $
+1. Annual Reports $\rightarrow$ see companies annual report such as cash flow statements, [[Balance sheet]] & income statements to assess [[Statement of Financial Performance]]
+2. Financial Press - National Business Review
+3. Broker Analysts Reports
+4. Advisory
