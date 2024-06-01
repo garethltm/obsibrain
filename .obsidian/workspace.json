@@ -20,12 +20,12 @@
             }
           },
           {
-            "id": "2fe6d75f03ef6453",
+            "id": "76887c01825f3496",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Untitled.md",
+                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Automatic Investment Plan.md",
                 "mode": "source",
                 "source": false
               }
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Untitled.md",
+                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Automatic Investment Plan.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Untitled.md",
+                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Automatic Investment Plan.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Untitled.md"
+                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Automatic Investment Plan.md"
               }
             }
           },
@@ -169,7 +169,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Untitled.md"
+                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Automatic Investment Plan.md"
               }
             }
           },
@@ -195,7 +195,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Untitled.md",
+                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Automatic Investment Plan.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -240,11 +240,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2fe6d75f03ef6453",
+  "active": "76887c01825f3496",
   "lastOpenFiles": [
-    "@images/Pasted image 20240602010054.png",
     "2024 Semester 1/ACCTG151G - Financial Literacy/Managed funds.md",
-    "2024 Semester 1/ACCTG151G - Financial Literacy/Untitled.md",
+    "2024 Semester 1/ACCTG151G - Financial Literacy/Automatic Investment Plan.md",
+    "2024 Semester 1/ACCTG151G - Financial Literacy/Socially Responsible (Ethical).md",
+    "@images/Pasted image 20240602010054.png",
     "2024 Semester 1/ACCTG151G - Financial Literacy/load.md",
     "2024 Semester 1/ACCTG151G - Financial Literacy/Securities.md",
     "2024 Semester 1/ACCTG151G - Financial Literacy/Diversification.md",
@@ -257,7 +258,6 @@
     "@images/Pasted image 20240602004156.png",
     "@images/Pasted image 20240602004137.png",
     "@images/Pasted image 20240602004127.png",
-    "@images/Pasted image 20240602004117.png",
     "2024 Semester 1/ACCTG151G - Financial Literacy/Risk.md",
     "2024 Semester 1/ACCTG151G - Financial Literacy/Firm-specific risk.md",
     "2024 Semester 1/ACCTG151G - Financial Literacy/diversified away.md",

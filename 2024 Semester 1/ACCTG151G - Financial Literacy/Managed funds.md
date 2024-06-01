@@ -39,3 +39,5 @@
 	- socially responsible companies
 - International
 - [[asset(s)]] Allocation
+## Services offered by [[Managed funds]]
+1. [[Automatic Investment Plan]]

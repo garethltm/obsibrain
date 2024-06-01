@@ -1,0 +1,1 @@
+[[Managed funds]] periodically invests money transferred from investor's bank account ("pay yourself first")
