@@ -1,4 +1,7 @@
 - no downside, always a benefit
 - it is possible to reduce the total amount of [[Risk]] through [[Diversification]]
 - [[Diversification]] allows us to eliminate [[Firm-specific risk]] but not [[Market risk]]
-- [[Diversification]] is achieved by combining [[asset(s)]] which move in different directions at different times; [[asset(s)]] which are less than perfectly positively
+- [[Diversification]] is achieved by combining [[asset(s)]] which move in different directions at different times; [[asset(s)]] which are less than perfectly positively correlated
+- The lower the correlation between 2 [[asset(s)]], the stronger the [[Diversification]] effect.
+[[Managed funds]] will help build a large portfolio $\rightarrow$ easy way to achieve [[Diversification]]
+
