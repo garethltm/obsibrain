@@ -26,4 +26,12 @@
 - Aggressive growth
 - Equity-income
 - Balanced
-- Gr
+	- balanced portfolio between [[net worth (equity)]] & [[bo]]
+- Growth & income
+- Bonds - income
+- [[Money Market]]
+- Index
+- Sector
+- Socially Responsible (Ethical)
+- International
+- [[asset(s)]] Allocation
