@@ -25,11 +25,13 @@
 - Growth
 - Aggressive growth
 - Equity-income
+	- invest in [[Ordinary Shares (or Common Stock)]] with high dividend payout ratio
 - Balanced
-	- balanced portfolio between [[net worth (equity)]] & [[bo]]
+	- balanced portfolio between [[net worth (equity)]] & [[Bonds or Debentures (Government or Company)]]
 - Growth & income
-- Bonds - income
+- [[Bonds or Debentures (Government or Company)]] - income
 - [[Money Market]]
+	- maturities less than a year - short term
 - Index
 - Sector
 - Socially Responsible (Ethical)
