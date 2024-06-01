@@ -1,2 +1,4 @@
 - no downside, always a benefit
-- it is possible
+- it is possible to reduce the total amount of [[Risk]] through [[Diversification]]
+- [[Diversification]] allows us to eliminate [[Firm-specific risk]] but not [[Market risk]]
+- [[Diversification]] is achieved by combining [[asset(s)]] which move in different directions at different times; [[asset(s)]] which are less than perfectly positively
