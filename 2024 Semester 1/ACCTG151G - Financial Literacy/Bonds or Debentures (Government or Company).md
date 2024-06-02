@@ -16,3 +16,4 @@
 - Generally interest is paid to the bondholder every 6 months
 - [[coupon rate]]
 - [[maturity date]]
+- [[face()]]
