@@ -17,6 +17,7 @@
 - Diversify
 - While saving, learn as much as possible about various types of investments
 ## Risks of [[Investing]] (there will always be risks involved)
+Investments always invol
 - Business (Firm-related)
 	- #acctg151Gexample If product is not popular, decreased share price
 - Financial (Debt-related)
