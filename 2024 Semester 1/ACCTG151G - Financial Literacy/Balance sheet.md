@@ -12,3 +12,9 @@
 2. [[Liquidity ratio]]
 ## The [[Balance sheet]] - [[asset(s)]]
 - resources of the company
+- controlled by the company
+- provides future economic benefits
+- capable of reliable measurements
+- arise from transactions
+	- value is being recorded as historical cost
+[[asset(s)]] are classified
