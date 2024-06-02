@@ -27,4 +27,7 @@
 - Treasury Bonds (Treasury Department by government)
 - Municipal (Local Authority) 
 - Corporate Bonds (Debentures)
-- Zerp
+- Zero Coupon Bonds (Treasury notes)
+	- no coupon payment $\rightarrow$ pay [[face(par) value]] at maturity
+- [[Convertible Bonds]]
+	- can convert at certain conditions to shares (usually bobd)
