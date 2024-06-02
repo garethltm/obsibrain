@@ -76,4 +76,7 @@ Investments always involve risk:
 	- If you want a GREATER RETURN, you will most likely have to carry a GREATER RISK![[Pasted image 20240602125506.png]]
 	- [[Ordinary Shares (or Common Stock)]], cash is not guaranteed
 ## What makes a good investment?
-- Know your 
+- Know your desired level of [[Risk]]
+- Consider all potential investments
+- Compare their returns with those of like investment types
+- Do the returns on the investments you are considering meet or exceed the returns expected for this type of investment?
