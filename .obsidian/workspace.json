@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Basic tax considerations.md",
+                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/dividends.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cca5e28c9a11ce6d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/dividends.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Basic tax considerations.md",
+                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/dividends.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Basic tax considerations.md",
+                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/dividends.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Basic tax considerations.md"
+                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/dividends.md"
               }
             }
           },
@@ -156,7 +168,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Basic tax considerations.md"
+                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/dividends.md"
               }
             }
           },
@@ -182,7 +194,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Basic tax considerations.md",
+                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/dividends.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -230,8 +242,9 @@
   },
   "active": "33e0358ccdb50780",
   "lastOpenFiles": [
-    "2024 Semester 1/ACCTG151G - Financial Literacy/imputation credits.md",
     "2024 Semester 1/ACCTG151G - Financial Literacy/Basic tax considerations.md",
+    "2024 Semester 1/ACCTG151G - Financial Literacy/dividends.md",
+    "2024 Semester 1/ACCTG151G - Financial Literacy/imputation credits.md",
     "2024 Semester 1/ACCTG151G - Financial Literacy/Voting rights.md",
     "2024 Semester 1/ACCTG151G - Financial Literacy/Ordinary Shares (or Common Stock).md",
     "2024 Semester 1/ACCTG151G - Financial Literacy/residual claim.md",
@@ -265,7 +278,6 @@
     "2024 Semester 1/ACCTG151G - Financial Literacy/Regular Income.md",
     "2024 Semester 1/ACCTG151G - Financial Literacy/Automatic Reinvestment Plan.md",
     "2024 Semester 1/ACCTG151G - Financial Literacy/Automatic Investment Plan.md",
-    "2024 Semester 1/ACCTG151G - Financial Literacy/Socially Responsible (Ethical).md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Untitled",
     "2024 Semester 1",
