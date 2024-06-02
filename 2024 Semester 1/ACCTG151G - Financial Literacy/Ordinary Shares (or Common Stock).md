@@ -9,4 +9,5 @@
 - Share ownership is a [[residual claim]]; other obligations of the company must be paid first.
 - Shareholders have limited [[liability]]
 	- maximum shareholders will lose = initial amount they put in to start with the investment
-## K
+## Key measures of performance
+- [[Book Value]]

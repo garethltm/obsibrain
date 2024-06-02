@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "f67ddfaefdd13365",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Book Value.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Ordinary Shares (or Common Stock).md",
+                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Book Value.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Ordinary Shares (or Common Stock).md",
+                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Book Value.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Ordinary Shares (or Common Stock).md"
+                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Book Value.md"
               }
             }
           },
@@ -156,7 +169,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Ordinary Shares (or Common Stock).md"
+                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Book Value.md"
               }
             }
           },
@@ -182,7 +195,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Ordinary Shares (or Common Stock).md",
+                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Book Value.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -228,15 +241,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "33e0358ccdb50780",
+  "active": "f67ddfaefdd13365",
   "lastOpenFiles": [
+    "2024 Semester 1/ACCTG151G - Financial Literacy/Ordinary Shares (or Common Stock).md",
+    "2024 Semester 1/ACCTG151G - Financial Literacy/Book Value.md",
     "2024 Semester 1/ACCTG151G - Financial Literacy/Voting rights.md",
     "2024 Semester 1/ACCTG151G - Financial Literacy/Basic tax considerations.md",
     "2024 Semester 1/ACCTG151G - Financial Literacy/dividends.md",
     "2024 Semester 1/ACCTG151G - Financial Literacy/dividend yield.md",
     "@images/Pasted image 20240602135941.png",
     "2024 Semester 1/ACCTG151G - Financial Literacy/imputation credits.md",
-    "2024 Semester 1/ACCTG151G - Financial Literacy/Ordinary Shares (or Common Stock).md",
     "2024 Semester 1/ACCTG151G - Financial Literacy/residual claim.md",
     "2024 Semester 1/ACCTG151G - Financial Literacy/Bond yield(s).md",
     "2024 Semester 1/ACCTG151G - Financial Literacy/Bond rating(s).md",
