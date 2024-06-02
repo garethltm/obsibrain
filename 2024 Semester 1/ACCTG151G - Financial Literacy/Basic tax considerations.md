@@ -1,0 +1,2 @@
+Profits are taxed at the company rate but when these profits are distributed to shareholders as dividends (Income components received for shareholders)
+- Shareholders receive a credit for the tax already paid [[imputation ]]
