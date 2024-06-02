@@ -4,9 +4,10 @@
 		- #acctg151Gexample If you hold 10% of shares $\rightarrow$ ownership interest would be 10% of the company
 - Greater potential returns, but at a higher level risk
 
-|     |     |
-| --- | --- |
-|     |     |
+| [[Preference shares]]                  | [[Ordinary Shares (or Common Stock)]]  |
+| -------------------------------------- | -------------------------------------- |
+| represent the ownership of the company | represent the ownership of the company |
+| [[dividends]] guaranteed               | [[dividends]] not guaranteed           |
 
 ## [[Investing]] in Shares (stocks)
 - Each share represents [[net worth (equity)]] or part ownership in the company
@@ -23,3 +24,4 @@
 ## Types of [[Ordinary Shares (or Common Stock)]]
 - [[Blue-Chip]]
 - [[Growth shares]]
+- [[Tech shares]]
