@@ -3,4 +3,5 @@ The price of a bond is a function of its [[coupon rate]] (will affect the coupon
 - Higher [[Interest rates (r)]] = Lower [[Bond prices]]
 
 [[Bond prices]] is to discount all future cashflows to present $\rightarrow$ [[Present Value (PV)]]
-#acctg151Gexample ![[Pasted image 20240602133538.png]]![[Pasted image 20240602133610.png]]![[Pasted image 20240602133620.png]]
+#acctg151Gexample ![[Pasted image 20240602133538.png]]![[Pasted image 20240602133610.png]]![[Pasted image 20240602133620.png]]![[Pasted image 20240602134154.png]]
+- related to [[current yield]]

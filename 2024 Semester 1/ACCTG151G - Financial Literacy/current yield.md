@@ -1,2 +1,2 @@
 - Amount of annual interest income relative to the [[current]] market of the [[Bond prices]]
-- Essentially the same calculation as the dividend yield on [[shares]]
+- Essentially the same calculation as the dividend yield on [[Ordinary Shares (or Common Stock)]]
