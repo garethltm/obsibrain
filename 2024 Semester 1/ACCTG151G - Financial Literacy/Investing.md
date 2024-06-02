@@ -21,9 +21,9 @@
 	- #acctg151Gexample If product is not popular, decreased share price
 - Financial (Debt-related)
 	- #acctg151Gexample If company lack money & wishes to raise capital by equity/debt financing - company cannot receive fund from the market
-- Market
+- Market (Market situation)
 	- #acctg151Gexample Recession/Expansion of the economy
-- Purchasing Power
+- Purchasing Power (Inflation - high inflation $\rightarrow$ loss)
 	- #acctg151Gexample If inflation rate is higher, purchasing power is lower
 - [[Interest rates (r)]] 
 	- #acctg151Gexample the change of the [[Official Cash Rate (OCR)]] determined by the [[Reserve Bank]]
