@@ -42,5 +42,7 @@
 	- #acctg151Gexample Revaluation Reserve
 ## The [[Balance sheet]]
 - shows how much a business is worth & also shows what shareholders can claim off the [[net worth (equity)]]
-#acctg151Gexample 
-![[Pasted image 20240602224158.png]]
+
+#acctg151Gexample ![[Pasted image 20240602224158.png]]![[Pasted image 20240602224234.png]]
+## Mary's Business
+1. 
