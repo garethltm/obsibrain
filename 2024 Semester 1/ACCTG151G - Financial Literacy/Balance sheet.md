@@ -31,4 +31,8 @@
 [[liability]] are classified as either [[current]] or non-[[current]]
 #acctg151Gexample Trade & other Payables
 ## [[net worth (equity)]]
-- S
+- Shareholders' equity:
+	- owners' [[residual claim]] to [[asset(s)]]
+- Share capital
+	- the amount of money paid by investors to purchase shares in the company when first issued
+- Retained
