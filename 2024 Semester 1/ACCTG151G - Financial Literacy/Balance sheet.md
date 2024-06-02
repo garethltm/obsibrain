@@ -22,4 +22,5 @@
 	- value is being recorded as historical cost
 [[asset(s)]] are classified as either [[current]] or non-[[current]]
 #acctg151Gexample ![[Pasted image 20240602223359.png]]
-- [[cur]]
+- [[current asset]]
+- 
