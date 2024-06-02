@@ -4,7 +4,8 @@
 1. Going Concern
 	- assume that the business will continue in existence. (value of [[asset(s)]] in liquidation is not relevant.)
 	- acceptable to record [[asset(s)]] at historic cost (not looking at [[current]] market value according to accounting books) but new standards look to 'fair values'
+		- #acctg151Gexample Building is valued at initial cost bought, not [[current]] market value (as it keeps changing)
 2. Money Measurements
 	- deal with items that can be expressed in monetary terms only.
 		- dealing with money
-		- value of human capital doesn't count (cannot value peop)
+		- value of human capital doesn't count (cannot value people)

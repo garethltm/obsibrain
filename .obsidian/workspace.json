@@ -18,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "635fa54523842128",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/The Statement of Concepts.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -100,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/The Statement of Concepts.md",
+                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Ordinary Shares (or Common Stock).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/The Statement of Concepts.md",
+                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Ordinary Shares (or Common Stock).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/The Statement of Concepts.md"
+                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Ordinary Shares (or Common Stock).md"
               }
             }
           },
@@ -170,7 +157,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/The Statement of Concepts.md"
+                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Ordinary Shares (or Common Stock).md"
               }
             }
           },
@@ -196,7 +183,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/The Statement of Concepts.md",
+                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Ordinary Shares (or Common Stock).md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -242,11 +229,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "635fa54523842128",
+  "active": "ae15bb9e193c9fde",
   "lastOpenFiles": [
+    "2024 Semester 1/ACCTG151G - Financial Literacy/The Statement of Concepts.md",
     "@images/Pasted image 20240602222235.png",
     "2024 Semester 1/ACCTG151G - Financial Literacy/Speculative shares.md",
-    "2024 Semester 1/ACCTG151G - Financial Literacy/The Statement of Concepts.md",
     "2024 Semester 1/ACCTG151G - Financial Literacy/Ordinary Shares (or Common Stock).md",
     "2024 Semester 1/ACCTG151G - Financial Literacy/Income shares.md",
     "2024 Semester 1/ACCTG151G - Financial Literacy/Tech shares.md",
@@ -279,7 +266,6 @@
     "@images/Pasted image 20240602130116.png",
     "@images/Pasted image 20240602130045.png",
     "@images/Pasted image 20240602125955.png",
-    "@images/Pasted image 20240602125506.png",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Untitled",
     "2024 Semester 1",
