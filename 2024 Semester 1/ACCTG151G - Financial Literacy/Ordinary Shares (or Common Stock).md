@@ -25,3 +25,4 @@
 - [[Blue-Chip]]
 - [[Growth shares]]
 - [[Tech shares]]
+- [[Income s]]
