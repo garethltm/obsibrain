@@ -8,3 +8,4 @@
 	- you get the value at maturity date
 ## Main idea
 - they are both bonds. However, company bonds are riskier as the government cannot go bankrupt which means that it is less risk.
+	![[Pasted image 20240602125955.png]]![[Pasted image 20240602130045.png]]
