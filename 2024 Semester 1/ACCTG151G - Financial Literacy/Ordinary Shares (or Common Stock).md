@@ -3,7 +3,7 @@
 	- Ownership interest will depend on how many shares you hold
 		- #acctg151Gexample If you hold 10% of shares $\rightarrow$ ownership interest would be 10% of the company
 - Greater potential returns, but at a higher level risk
-- Both [[Preference shares]] & [[ordin]]
+- Both [[Preference shares]] & [[Ordinary Shares (or Common Stock)]] represent the ownership of the company
 ## [[Investing]] in Shares (stocks)
 - Each share represents [[net worth (equity)]] or part ownership in the company
 - Share ownership allows the investor to participate in the profits of the firm
@@ -18,3 +18,4 @@
 - [[Price Earnings Ratio]]
 ## Types of [[Ordinary Shares (or Common Stock)]]
 - [[Blue-Chip]]
+- [[Growth shares]]
