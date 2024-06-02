@@ -75,8 +75,10 @@ Investments always involve risk:
 1. A Fundamental [[Investing]] Concept
 	- If you want a GREATER RETURN, you will most likely have to carry a GREATER RISK![[Pasted image 20240602125506.png]]
 	- [[Ordinary Shares (or Common Stock)]], cash is not guaranteed
-## What makes a good investment?
+## What makes a good investment? (think about [[Diversification]])
 - Know your desired level of [[Risk]]
+	- Risk taker/Risk averse
 - Consider all potential investments
+	- Investing in not just [[Ordinary Shares (or Common Stock)]]/
 - Compare their returns with those of like investment types
 - Do the returns on the investments you are considering meet or exceed the returns expected for this type of investment?
