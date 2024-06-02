@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "32f7dd439bc37763",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/maturity date.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -99,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Bonds or Debentures (Government or Company).md",
+                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/maturity date.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Bonds or Debentures (Government or Company).md",
+                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/maturity date.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Bonds or Debentures (Government or Company).md"
+                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/maturity date.md"
               }
             }
           },
@@ -169,7 +181,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Bonds or Debentures (Government or Company).md"
+                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/maturity date.md"
               }
             }
           },
@@ -195,7 +207,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Bonds or Debentures (Government or Company).md",
+                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/maturity date.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -241,10 +253,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "807da6cfa6fddc3f",
+  "active": "32f7dd439bc37763",
   "lastOpenFiles": [
-    "2024 Semester 1/ACCTG151G - Financial Literacy/coupon rate.md",
     "2024 Semester 1/ACCTG151G - Financial Literacy/Bonds or Debentures (Government or Company).md",
+    "2024 Semester 1/ACCTG151G - Financial Literacy/maturity date.md",
+    "2024 Semester 1/ACCTG151G - Financial Literacy/coupon rate.md",
     "@images/Pasted image 20240602130116.png",
     "@images/Pasted image 20240602130045.png",
     "@images/Pasted image 20240602125955.png",
@@ -278,7 +291,6 @@
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Enterprise Architect (EA).md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Enterprise Architecture.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Amazon EC2 Auto Scaling.md",
-    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Serverless Computing.md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Untitled",
     "2024 Semester 1",
