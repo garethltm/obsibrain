@@ -66,3 +66,6 @@ Investments always involve risk:
 - Track your investments & rebalance your portfolio as your needs change
 ## Returns from [[Investing]]
 ![[Pasted image 20240602125043.png]]
+## Interest-on-interest: An important element of return
+- Investment returns must be reinvested in order for [[compound interest]] to take place
+- Utilises the [[Time value of money (TVM)]]
