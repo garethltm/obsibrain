@@ -1,1 +1,4 @@
-- A letter grade is assigned to new [[Bonds or Debentures (Government or Company)]] issues to design
+- A letter grade is assigned to new [[Bonds or Debentures (Government or Company)]] issues to designate investment quality
+- The lower the rating, the greater the [[Risk]] of default & the higher the [[coupon rate]] which must be offered
+- Outstanding bonds are also reviewed regularly to ensure that their ratings are still valid
+- Some bonds mi
