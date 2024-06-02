@@ -15,6 +15,7 @@
 - Income statement $\rightarrow$ financial performance over a certain time period
 
 #acctg151Gexample ![[Pasted image 20240602223359.png]]
+- [[current asset]]
 ## The [[Balance sheet]] - [[asset(s)]]
 - resources of the company
 - controlled by the company
@@ -23,5 +24,8 @@
 - arise from transactions
 	- value is being recorded as historical cost
 [[asset(s)]] are classified as either [[current]] or non-[[current]]
-
-
+## The [[Balance sheet]] - [[liability]]
+- present obligations of the company
+- capable of reliable measurement
+- arise from past transactions
+[[liability]] are classified
