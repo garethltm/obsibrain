@@ -3,5 +3,6 @@
 ## Underlying Assumptions/Conventions
 1. Going Concern
 	- assume that the business will continue in existence. (value of [[asset(s)]] in liquidation is not relevant.)
-	- acceptable to record [[asset(s)]] at historic cost but new standards look to 'fair values'
-1. Money Measurements
+	- acceptable to record [[asset(s)]] at historic cost (not looking at [[current]] market value according to accounting books) but new standards look to 'fair values'
+2. Money Measurements
+	- deal with items that can be expressed in monetary terms only.
