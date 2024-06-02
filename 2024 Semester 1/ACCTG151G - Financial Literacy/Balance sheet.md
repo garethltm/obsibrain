@@ -45,5 +45,6 @@
 
 #acctg151Gexample ![[Pasted image 20240602224158.png]]![[Pasted image 20240602224234.png]]
 ## Mary's Business
-1. Contributed personal![[Pasted image 20240602224315.png]]
-2. ![[Pasted image 20240602224351.png]]
+1. Contributed personal cash of $20,000 to the business![[Pasted image 20240602224315.png]]
+2. Purchases computers for $12,000 from XY Ltd, paying cash![[Pasted image 20240602224351.png]]
+3. Purchases a photocopier for $3,200, from 
