@@ -69,3 +69,4 @@ Investments always involve risk:
 ## Interest-on-interest: An important element of return
 - Investment returns must be reinvested in order for [[compound interest]] to take place
 - Utilises the [[Time value of money (TVM)]]
+- #acctg151Gexample ![[Pasted image 20240602125206.png]]![[Pasted image 20240602125226.png]]![[Pasted image 20240602125241.png]]
