@@ -22,4 +22,6 @@
 ## [[Bonds or Debentures (Government or Company)]] characteristics
 #### Collateral (some bonds come with collateral $\rightarrow$ that means those bonds are secure bonds/debentures)
 - [[Secure debentures]]
-- Unsecured debentures
+- [[Unsecured debentures]]
+## Types of [[Bonds or Debentures (Government or Company)]]
+- Treasury Bonds
