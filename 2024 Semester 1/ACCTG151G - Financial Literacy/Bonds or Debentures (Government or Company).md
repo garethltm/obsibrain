@@ -14,4 +14,4 @@
 ## [[Investing]] in [[Bonds or Debentures (Government or Company)]]
 - A [[Bonds or Debentures (Government or Company)]] is debt - the bondholder is lending money to the bond issuer
 - Generally interest is paid to the bondholder every 6 months
-- 
+- [[coupon rate]]
