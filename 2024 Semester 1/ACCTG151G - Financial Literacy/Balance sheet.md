@@ -28,4 +28,7 @@
 - present obligations of the company
 - capable of reliable measurement
 - arise from past transactions
-[[liability]] are classified
+[[liability]] are classified as either [[current]] or non-[[current]]
+#acctg151Gexample Trade & other Payables
+## [[net worth (equity)]]
+- S
