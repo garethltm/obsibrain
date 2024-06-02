@@ -20,8 +20,11 @@
 - Regardless of the market price paid for the bond, the bondholder will receive the [[face(par) value]] at maturity
 - [[Bonds or Debentures (Government or Company)]] offer [[current]] [[Income (Cash IN)]] during the time the bonds are held. If sold before maturity, bonds can also generate capital gains/losses.
 ## [[Bonds or Debentures (Government or Company)]] characteristics
-#### Collateral (some bonds come with collateral $\rightarrow$ that means those bonds are secure bonds/debentures)
+##### Collateral (some bonds come with collateral $\rightarrow$ that means those bonds are secure bonds/debentures)
 - [[Secure debentures]]
 - [[Unsecured debentures]]
 ## Types of [[Bonds or Debentures (Government or Company)]]
-- Treasury Bonds
+- Treasury Bonds (Treasury Department by government)
+- Municipal (Local Authority) 
+- Corporate Bonds (Debentures)
+- Zerp
