@@ -69,8 +69,11 @@ Investments always involve risk:
 ## Interest-on-interest: An important element of return
 - Investment returns must be reinvested in order for [[compound interest]] to take place
 - Utilises the [[Time value of money (TVM)]]
-- #acctg151Gexample ![[Pasted image 20240602125206.png]]![[Pasted image 20240602125226.png]]![[Pasted image 20240602125241.png]]![[Pasted image 20240602125301.png]]
+- #acctg151Gexample ![[Pasted image 20240602125206.png]]![[Pasted image 20240602125226.png]]![[Pasted image 20240602125241.png]]![[Pasted image 20240602125458.png]]
 ## The [[Risk]]-return trade-off
 - Higher returns = Greater [[Risk]]
 1. A Fundamental [[Investing]] Concept
-	- If you want a GREATER RETURN, you will most likely have to carry a GREATER RISK
+	- If you want a GREATER RETURN, you will most likely have to carry a GREATER RISK![[Pasted image 20240602125506.png]]
+	- [[Ordinary Shares (or Common Stock)]], cash is not guaranteed
+## What makes a good investment?
+- Know your 
