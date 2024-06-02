@@ -26,8 +26,9 @@
 ## Types of [[Bonds or Debentures (Government or Company)]]
 - Treasury Bonds (Treasury Department by government)
 - Municipal (Local Authority) 
+	- Local government funding agency
 - Corporate Bonds (Debentures)
 - Zero Coupon Bonds (Treasury notes)
 	- no coupon payment $\rightarrow$ pay [[face(par) value]] at maturity
 - [[Convertible Bonds]]
-	- can convert at certain conditions to shares (usually bobd)
+	- can convert at certain conditions to shares (usually bondholders can choose when to convert)
