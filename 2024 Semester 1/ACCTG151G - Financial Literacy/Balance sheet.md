@@ -10,6 +10,9 @@
 ## Types of ratios
 1. [[Solvency ratio]]
 2. [[Liquidity ratio]]
+
+- [[Balance sheet]] $\rightarrow$ financial position at a specific time point
+- Income statement 
 ## The [[Balance sheet]] - [[asset(s)]]
 - resources of the company
 - controlled by the company
@@ -17,4 +20,4 @@
 - capable of reliable measurements
 - arise from transactions
 	- value is being recorded as historical cost
-[[asset(s)]] are classified
+[[asset(s)]] are classified as either [[current]] or non-[[current]]
