@@ -7,3 +7,5 @@ amount of shareholder funds used to finance the company
 - Good if [[Book Value]] steadily increases
 - Good if market value exceeds [[Book Value]]
 - Note implications of IFRS
+
+Acquisition price of those [[asset(s)]] $\rightarrow$ how much money spent when you acquire those [[asset(s)]]
