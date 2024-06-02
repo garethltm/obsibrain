@@ -72,4 +72,5 @@ Investments always involve risk:
 - #acctg151Gexample ![[Pasted image 20240602125206.png]]![[Pasted image 20240602125226.png]]![[Pasted image 20240602125241.png]]![[Pasted image 20240602125301.png]]
 ## The [[Risk]]-return trade-off
 - Higher returns = Greater [[Risk]]
-1. A Fundamental [[investi]]
+1. A Fundamental [[Investing]] Concept
+	- If you want a GREATER RETURN, you will most likely have to carry a GREATER RISK
