@@ -6,6 +6,6 @@
 ## [[Investing]] in Shares (stocks)
 - Each share represents [[net worth (equity)]] or part ownership in the company
 - Share ownership allows the investor to participate in the profits of the firm
-- Share ownership is a residual claim; other obligations of the company must be paid first.
+- Share ownership is a [[residual claim]]; other obligations of the company must be paid first.
 - Shareholders have limited [[liability]]
-	- maximum shareholders will lose = initial amount they put in to start with the investme
+	- maximum shareholders will lose = initial amount they put in to start with the investment

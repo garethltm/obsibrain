@@ -1,0 +1,1 @@
+- Usually one share = one vote
