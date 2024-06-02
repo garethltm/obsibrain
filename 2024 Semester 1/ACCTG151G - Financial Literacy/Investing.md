@@ -17,9 +17,9 @@
 - Diversify
 - While saving, learn as much as possible about various types of investments
 ## Risks of [[Investing]] (there will always be risks involved)
-- Business 
+- Business (Firm-related)
 	- #acctg151Gexample If product is not popular, decreased share price
-- Financial 
+- Financial (Debt-related)
 	- #acctg151Gexample If company lack money & wishes to raise capital by equity/debt financing - company cannot receive fund from the market
 - Market
 	- #acctg151Gexample Recession/Expansion of the economy
