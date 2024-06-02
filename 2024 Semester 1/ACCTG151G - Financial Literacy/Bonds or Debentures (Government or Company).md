@@ -21,4 +21,5 @@
 - [[Bonds or Debentures (Government or Company)]] offer [[current]] [[Income (Cash IN)]] during the time the bonds are held. If sold before maturity, bonds can also generate capital gains/losses.
 ## [[Bonds or Debentures (Government or Company)]] characteristics
 #### Collateral (some bonds come with collateral $\rightarrow$ that means those bonds are secure bonds/debentures)
-- Secure
+- [[Secure debentures]]
+- Unsecured debentures
