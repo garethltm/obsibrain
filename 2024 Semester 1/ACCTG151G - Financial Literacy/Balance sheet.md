@@ -55,3 +55,5 @@
 8. $2,000 is placed in a [[term deposit(s)]], for 60 days![[Pasted image 20240602224944.png]]
 9. XY Ltd are paid $1,500 on their account (related to transaction 3)![[Pasted image 20240602225046.png]]
 10. Purchased $4,000...![[Pasted image 20240602225202.png]]
+11. CDE Ltd pays $1,500 off their account (transaction 7)![[Pasted image 20240602225255.png]]
+12. Took $500 from the business for 
