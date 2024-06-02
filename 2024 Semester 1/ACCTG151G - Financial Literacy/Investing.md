@@ -16,8 +16,10 @@
 - Invest in quality
 - Diversify
 - While saving, learn as much as possible about various types of investments
-## Risks of [[Investing]] (there will always be risks involved)
-Investments always invol
+## Risks of [[Investing]]
+Investments always involve risk:
+1. [[Market risk]]
+2. [[Firm-specific risk]]
 - Business (Firm-related)
 	- #acctg151Gexample If product is not popular, decreased share price
 - Financial (Debt-related)
@@ -26,11 +28,11 @@ Investments always invol
 	- #acctg151Gexample Recession/Expansion of the economy
 - Purchasing Power (Inflation - high inflation $\rightarrow$ loss)
 	- #acctg151Gexample If inflation rate is higher, purchasing power is lower
-- [[Interest rates (r)]] 
+- [[Interest rates (r)]] (Real estate market)
 	- #acctg151Gexample the change of the [[Official Cash Rate (OCR)]] determined by the [[Reserve Bank]]
-- Liquidity
+- Liquidity ([[Liquidity ratio]], How fast you can turn cash)
 	- #acctg151Gexample Liquidity of the company, if there is not enough [[liquid asset]] to cover the [[liability]] = [[Statement of Financial Performance]] is not looking good
-- Event
+- Event (Covid*
 	- #acctg151Gexample Covid19 = not good to make investment
 ### Coming up with 'capital'
 - Determine your investment objective
