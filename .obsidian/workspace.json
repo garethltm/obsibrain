@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Managed funds.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "807da6cfa6fddc3f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/face(par) value.md",
+                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Bonds or Debentures (Government or Company).md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -99,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/face(par) value.md",
+                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Bonds or Debentures (Government or Company).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/face(par) value.md",
+                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Bonds or Debentures (Government or Company).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/face(par) value.md"
+                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Bonds or Debentures (Government or Company).md"
               }
             }
           },
@@ -169,7 +156,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/face(par) value.md"
+                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Bonds or Debentures (Government or Company).md"
               }
             }
           },
@@ -195,7 +182,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/face(par) value.md",
+                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Bonds or Debentures (Government or Company).md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -241,10 +228,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "807da6cfa6fddc3f",
+  "active": "db6adabc13275ec4",
   "lastOpenFiles": [
-    "2024 Semester 1/ACCTG151G - Financial Literacy/Bonds or Debentures (Government or Company).md",
+    "2024 Semester 1/ACCTG151G - Financial Literacy/Managed funds.md",
     "2024 Semester 1/ACCTG151G - Financial Literacy/face(par) value.md",
+    "2024 Semester 1/ACCTG151G - Financial Literacy/Bonds or Debentures (Government or Company).md",
     "2024 Semester 1/ACCTG151G - Financial Literacy/maturity date.md",
     "2024 Semester 1/ACCTG151G - Financial Literacy/coupon rate.md",
     "@images/Pasted image 20240602130116.png",
@@ -260,7 +248,6 @@
     "2024 Semester 1/ACCTG151G - Financial Literacy/Time value of money (TVM).md",
     "@images/Pasted image 20240602125043.png",
     "2024 Semester 1/ACCTG151G - Financial Literacy/Managed fund performance.md",
-    "2024 Semester 1/ACCTG151G - Financial Literacy/Managed funds.md",
     "2024 Semester 1/ACCTG151G - Financial Literacy/Retirement Plans.md",
     "2024 Semester 1/ACCTG151G - Financial Literacy/Conversion Privileges.md",
     "2024 Semester 1/ACCTG151G - Financial Literacy/Regular Income.md",

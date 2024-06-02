@@ -17,4 +17,5 @@
 - [[coupon rate]]
 - [[maturity date]]
 - [[face(par) value]]
-- Regardless
+- Regardless of the market price paid for the bond, the bondholder will receive the [[face(par) value]] at maturity
+- [[Bonds or Debentures (Government or Company)]] offer [[current]] [[]]
