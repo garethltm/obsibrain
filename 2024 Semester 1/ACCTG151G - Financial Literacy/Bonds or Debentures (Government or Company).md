@@ -9,3 +9,7 @@
 ## Main idea
 - they are both bonds. However, company bonds are riskier as the government cannot go bankrupt which means that it is less risk.
 	![[Pasted image 20240602125955.png]]![[Pasted image 20240602130045.png]]
+## [[Bonds or Debentures (Government or Company)]] Costs
+![[Pasted image 20240602130116.png]]
+## [[Investing]] in [[Bonds or Debentures (Government or Company)]]
+- A [[Bonds or Debentures (Government or Company)]] is debt - 
