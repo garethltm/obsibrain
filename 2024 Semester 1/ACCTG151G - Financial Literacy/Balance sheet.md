@@ -13,6 +13,8 @@
 
 - [[Balance sheet]] $\rightarrow$ financial position at a specific time point
 - Income statement $\rightarrow$ financial performance over a certain time period
+
+#acctg151Gexample ![[Pasted image 20240602223359.png]]
 ## The [[Balance sheet]] - [[asset(s)]]
 - resources of the company
 - controlled by the company
@@ -21,6 +23,5 @@
 - arise from transactions
 	- value is being recorded as historical cost
 [[asset(s)]] are classified as either [[current]] or non-[[current]]
-#acctg151Gexample ![[Pasted image 20240602223359.png]]
-- [[current asset]]
-- 
+
+
