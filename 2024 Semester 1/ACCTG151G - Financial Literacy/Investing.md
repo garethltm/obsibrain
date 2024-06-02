@@ -79,6 +79,8 @@ Investments always involve risk:
 - Know your desired level of [[Risk]]
 	- Risk taker/Risk averse
 - Consider all potential investments
-	- Investing in not just [[Ordinary Shares (or Common Stock)]]/
+	- Investing in not just [[Ordinary Shares (or Common Stock)]]/[[Bonds or Debentures (Government or Company)]]
 - Compare their returns with those of like investment types
+	- Choose ones with higher returns if [[Risk]] is similar
 - Do the returns on the investments you are considering meet or exceed the returns expected for this type of investment?
+If not good at investment, do [[Exchange Traded Funds (ETF)]] or [[Managed funds]] $\rightarrow$ [[Diversification]]
