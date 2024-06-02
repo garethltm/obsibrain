@@ -1,1 +1,2 @@
 the ratio of net income to shareholders funds
+
