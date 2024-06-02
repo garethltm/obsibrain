@@ -18,4 +18,5 @@
 - [[maturity date]]
 - [[face(par) value]]
 - Regardless of the market price paid for the bond, the bondholder will receive the [[face(par) value]] at maturity
-- [[Bonds or Debentures (Government or Company)]] offer [[current]] [[]]
+- [[Bonds or Debentures (Government or Company)]] offer [[current]] [[Income (Cash IN)]] during the time the bonds are held. If sold before maturity, bonds can also generate capital gains/losses.
+## [[Bonds or Debentures (Government or Company)]] characteristics
