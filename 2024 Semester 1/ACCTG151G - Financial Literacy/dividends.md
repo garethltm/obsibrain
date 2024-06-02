@@ -5,3 +5,5 @@ Usually paid semi-annually (Interim, Final) - similar to [[Bonds or Debentures (
 	- if they accumulated [[dividends]] in the past
 - paid either in cash or in additional [[Ordinary Shares (or Common Stock)]] ([[dividends]] reinvestment)
 Paying [[dividends]] is not mandatory for the company
+### Assessing dividends:
+1. Compare shares based on [[dividend yield]]
