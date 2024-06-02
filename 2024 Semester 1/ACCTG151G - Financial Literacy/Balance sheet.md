@@ -52,3 +52,5 @@
 5. Receives a power account from Venus Energy, for her first week of usage of power. The bill is for $95. (hasn't paid yet)![[Pasted image 20240602224730.png]]
 6. Cash sale is made for $450 (sold something)![[Pasted image 20240602224810.png]]
 7. A client, CDE Ltd is invoiced $1,750, for a completed job![[Pasted image 20240602224907.png]]
+8. $2,000 is placed in a [[term deposit(s)]], for 60 days![[Pasted image 20240602224944.png]]
+9. XY Ltd are paid $1,500 on their account
