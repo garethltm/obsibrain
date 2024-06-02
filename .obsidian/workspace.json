@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 276.5
+    "width": 276.5,
+    "collapsed": true
   },
   "right": {
     "id": "29204b37fc003a9a",
@@ -230,6 +231,7 @@
   },
   "active": "53c2c772b80dc229",
   "lastOpenFiles": [
+    "@images/Pasted image 20240602225414.png",
     "@images/Pasted image 20240602225255.png",
     "@images/Pasted image 20240602225202.png",
     "@images/Pasted image 20240602225046.png",
@@ -240,7 +242,6 @@
     "@images/Pasted image 20240602224620.png",
     "@images/Pasted image 20240602224529.png",
     "@images/Pasted image 20240602224351.png",
-    "@images/Pasted image 20240602224338.png",
     "2024 Semester 1/ACCTG151G - Financial Literacy/current asset.md",
     "2024 Semester 1/ACCTG151G - Financial Literacy/Balance sheet.md",
     "2024 Semester 1/ACCTG151G - Financial Literacy/Accounting Equation.md",
