@@ -11,3 +11,4 @@
 	- maximum shareholders will lose = initial amount they put in to start with the investment
 ## Key measures of performance
 - [[Book Value]]
+- [[Net Profit Margin]]
