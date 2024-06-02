@@ -47,4 +47,6 @@
 ## Mary's Business
 1. Contributed personal cash of $20,000 to the business![[Pasted image 20240602224315.png]]
 2. Purchases computers for $12,000 from XY Ltd, paying cash![[Pasted image 20240602224351.png]]
-3. Purchases a photocopier for $3,200, from 
+3. Purchases a photocopier for $3,200, from XY Ltd on credit (not paid yet)![[Pasted image 20240602224529.png]]
+4. Pays 2 weeks rent on premises at $350 per week (company [[Expenses (Cash OUT)]])![[Pasted image 20240602224620.png]]
+5. Receives a power account from Venus Energy, for her first week of usage of power. The bill is for $95
