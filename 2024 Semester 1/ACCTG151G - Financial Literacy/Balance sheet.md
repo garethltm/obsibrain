@@ -35,4 +35,8 @@
 	- owners' [[residual claim]] to [[asset(s)]]
 - Share capital
 	- the amount of money paid by investors to purchase shares in the company when first issued
-- Retained
+- Retained earnings
+	- past profits that have been retained as a source of future investment
+		- #acctg151Gexample not distributed as [[dividends]]
+- Reserves
+	- #acctg151Gexample Revaluation Reserve
