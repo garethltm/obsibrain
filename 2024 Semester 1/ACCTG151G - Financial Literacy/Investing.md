@@ -32,8 +32,9 @@ Investments always involve risk:
 	- #acctg151Gexample the change of the [[Official Cash Rate (OCR)]] determined by the [[Reserve Bank]]
 - Liquidity ([[Liquidity ratio]], How fast you can turn cash)
 	- #acctg151Gexample Liquidity of the company, if there is not enough [[liquid asset]] to cover the [[liability]] = [[Statement of Financial Performance]] is not looking good
-- Event (Covid*
+- Event (Covid19)
 	- #acctg151Gexample Covid19 = not good to make investment
+- Exchange Rate (Foreign currency)
 ### Coming up with 'capital'
 - Determine your investment objective
 - How much money will it take?
@@ -63,3 +64,5 @@ Investments always involve risk:
 - Build a diversified portfolio of securities based upon your goals & personal situation
 - Allocate your [[asset(s)]] according to your objectives
 - Track your investments & rebalance your portfolio as your needs change
+## Returns from [[Investing]]
+![[Pasted image 20240602125043.png]]
