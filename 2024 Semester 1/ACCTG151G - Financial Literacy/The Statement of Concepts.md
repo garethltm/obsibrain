@@ -6,3 +6,5 @@
 	- acceptable to record [[asset(s)]] at historic cost (not looking at [[current]] market value according to accounting books) but new standards look to 'fair values'
 2. Money Measurements
 	- deal with items that can be expressed in monetary terms only.
+		- dealing with money
+		- value of human capital doesn't count (cannot value peop)
