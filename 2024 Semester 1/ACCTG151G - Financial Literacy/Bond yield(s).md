@@ -6,4 +6,4 @@
 1. If bond is purchased at [[face(par) value]] then [[yield to maturity (YTM)]] = [[coupon rate]]
 2. If bond is purchased at a discount then [[yield to maturity (YTM)]] > [[coupon rate]]
 3. If bond is purchased at premium then [[yield to maturity (YTM)]] < [[coupon rate]]
-From this 
+From this we can determine if the bond is selling/purchasing at a discount/premium price

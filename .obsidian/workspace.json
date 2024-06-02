@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "c2adbac9086d98f4",
+        "id": "1d69c48f64430f4b",
         "type": "tabs",
         "children": [
           {
-            "id": "db6adabc13275ec4",
+            "id": "33e0358ccdb50780",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Bond yield(s).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ff8442e2df3ba28d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Bond yield(s).md",
+                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Ordinary Shares (or Common Stock).md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -99,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Bond yield(s).md",
+                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Ordinary Shares (or Common Stock).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Bond yield(s).md",
+                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Ordinary Shares (or Common Stock).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Bond yield(s).md"
+                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Ordinary Shares (or Common Stock).md"
               }
             }
           },
@@ -169,7 +156,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Bond yield(s).md"
+                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Ordinary Shares (or Common Stock).md"
               }
             }
           },
@@ -195,7 +182,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Bond yield(s).md",
+                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Ordinary Shares (or Common Stock).md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -241,10 +228,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ff8442e2df3ba28d",
+  "active": "33e0358ccdb50780",
   "lastOpenFiles": [
-    "2024 Semester 1/ACCTG151G - Financial Literacy/Bond rating(s).md",
     "2024 Semester 1/ACCTG151G - Financial Literacy/Bond yield(s).md",
+    "2024 Semester 1/ACCTG151G - Financial Literacy/Bond rating(s).md",
     "2024 Semester 1/ACCTG151G - Financial Literacy/Bond price(s).md",
     "2024 Semester 1/ACCTG151G - Financial Literacy/yield to maturity (YTM).md",
     "@images/Pasted image 20240602134154.png",
