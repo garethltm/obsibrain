@@ -14,4 +14,4 @@
 - [[Net Profit Margin]]
 - [[Return on Equity (ROE or ROSF)]])
 - [[Earnings per Share (EPS)]]
-- [[Price/Earnings Ratio]]
+- [[Price Earnings Ratio]]
