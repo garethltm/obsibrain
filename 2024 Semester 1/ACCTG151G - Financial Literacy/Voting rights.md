@@ -1,1 +1,3 @@
 - Usually one share = one vote
+- Most small shareholders assign their votes to a proxy (another party who will vote for them) $\rightarrow$ ordinary shareholders
+- Voting rights are not particularly important to 
