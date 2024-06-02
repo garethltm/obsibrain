@@ -15,3 +15,5 @@
 - [[Return on Equity (ROE or ROSF)]])
 - [[Earnings per Share (EPS)]]
 - [[Price Earnings Ratio]]
+## Types of [[Ordinary Shares (or Common Stock)]]
+- [[Blue-Chip]]
