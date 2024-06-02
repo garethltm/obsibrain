@@ -1,0 +1,1 @@
+Shareholders receive a credit for the tax already paid
