@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Speculative shares.md",
+                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/The Statement of Concepts.md",
                 "mode": "source",
                 "source": false
               }
@@ -82,7 +82,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 276.5
+    "width": 276.5,
+    "collapsed": true
   },
   "right": {
     "id": "29204b37fc003a9a",
@@ -99,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Speculative shares.md",
+                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/The Statement of Concepts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Speculative shares.md",
+                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/The Statement of Concepts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Speculative shares.md"
+                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/The Statement of Concepts.md"
               }
             }
           },
@@ -169,7 +170,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Speculative shares.md"
+                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/The Statement of Concepts.md"
               }
             }
           },
@@ -195,7 +196,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Speculative shares.md",
+                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/The Statement of Concepts.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -243,8 +244,9 @@
   },
   "active": "635fa54523842128",
   "lastOpenFiles": [
-    "2024 Semester 1/ACCTG151G - Financial Literacy/Ordinary Shares (or Common Stock).md",
     "2024 Semester 1/ACCTG151G - Financial Literacy/Speculative shares.md",
+    "2024 Semester 1/ACCTG151G - Financial Literacy/The Statement of Concepts.md",
+    "2024 Semester 1/ACCTG151G - Financial Literacy/Ordinary Shares (or Common Stock).md",
     "2024 Semester 1/ACCTG151G - Financial Literacy/Income shares.md",
     "2024 Semester 1/ACCTG151G - Financial Literacy/Tech shares.md",
     "2024 Semester 1/ACCTG151G - Financial Literacy/Growth shares.md",
@@ -274,7 +276,6 @@
     "2024 Semester 1/ACCTG151G - Financial Literacy/Bonds or Debentures (Government or Company).md",
     "2024 Semester 1/ACCTG151G - Financial Literacy/Unsecured debentures.md",
     "2024 Semester 1/ACCTG151G - Financial Literacy/Secure debentures.md",
-    "2024 Semester 1/ACCTG151G - Financial Literacy/Managed funds.md",
     "@images/Pasted image 20240602130116.png",
     "@images/Pasted image 20240602130045.png",
     "@images/Pasted image 20240602125955.png",
