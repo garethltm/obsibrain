@@ -1,2 +1,2 @@
 - governing principles when the company prepare the financial statements
-- Financial statements are prepared in accordance with GAAP (generally accepted accounting practice). The basic assumptions underlying the standards are
+- Financial statements are prepared in accordance with GAAP (generally accepted accounting practice). The basic assumptions underlying the standards are:![[Pasted image 20240602222235.png]]
