@@ -45,4 +45,5 @@
 
 #acctg151Gexample ![[Pasted image 20240602224158.png]]![[Pasted image 20240602224234.png]]
 ## Mary's Business
-1. 
+1. Contributed personal![[Pasted image 20240602224315.png]]
+2. ![[Pasted image 20240602224351.png]]
