@@ -40,3 +40,5 @@
 		- #acctg151Gexample not distributed as [[dividends]]
 - Reserves
 	- #acctg151Gexample Revaluation Reserve
+## The [[Balance sheet]]
+- shows how much a business i
