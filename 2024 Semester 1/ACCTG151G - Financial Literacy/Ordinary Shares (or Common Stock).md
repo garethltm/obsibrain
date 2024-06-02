@@ -13,3 +13,4 @@
 - [[Book Value]]
 - [[Net Profit Margin]]
 - [[Return on Equity (ROE or ROSF)]])
+- [[Earnings per Share (EPS)]]

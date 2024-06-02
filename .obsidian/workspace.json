@@ -13,25 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Return on Equity (ROE or ROSF).md",
+                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Ordinary Shares (or Common Stock).md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "5f0a29f8f03ca509",
+            "id": "8b2a64f7f4204ff8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Return on Equity (ROE or ROSF).md",
+                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Earnings per Share (EPS).md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -98,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Return on Equity (ROE or ROSF).md",
+                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Earnings per Share (EPS).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Return on Equity (ROE or ROSF).md",
+                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Earnings per Share (EPS).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Return on Equity (ROE or ROSF).md"
+                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Earnings per Share (EPS).md"
               }
             }
           },
@@ -168,7 +169,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Return on Equity (ROE or ROSF).md"
+                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Earnings per Share (EPS).md"
               }
             }
           },
@@ -194,7 +195,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Return on Equity (ROE or ROSF).md",
+                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Earnings per Share (EPS).md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -240,9 +241,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "33e0358ccdb50780",
+  "active": "8b2a64f7f4204ff8",
   "lastOpenFiles": [
     "2024 Semester 1/ACCTG151G - Financial Literacy/Ordinary Shares (or Common Stock).md",
+    "2024 Semester 1/ACCTG151G - Financial Literacy/Earnings per Share (EPS).md",
     "2024 Semester 1/ACCTG151G - Financial Literacy/Return on Equity (ROE or ROSF).md",
     "2024 Semester 1/ACCTG151G - Financial Literacy/Net Profit Margin.md",
     "2024 Semester 1/ACCTG151G - Financial Literacy/Book Value.md",
@@ -277,7 +279,6 @@
     "@images/Pasted image 20240602125506.png",
     "2024 Semester 1/ACCTG151G - Financial Literacy/Time value of money (TVM).md",
     "2024 Semester 1/ACCTG151G - Financial Literacy/Managed fund performance.md",
-    "2024 Semester 1/ACCTG151G - Financial Literacy/Retirement Plans.md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Untitled",
     "2024 Semester 1",
