@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2021 Semester 2/COMPSCI130/Useful.md",
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Amazon EC2 instance(s).md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2021 Semester 2/COMPSCI130/Useful.md",
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Amazon EC2 instance(s).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2021 Semester 2/COMPSCI130/Useful.md",
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Amazon EC2 instance(s).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2021 Semester 2/COMPSCI130/Useful.md"
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Amazon EC2 instance(s).md"
               }
             }
           },
@@ -156,7 +156,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2021 Semester 2/COMPSCI130/Useful.md"
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Amazon EC2 instance(s).md"
               }
             }
           },
@@ -182,7 +182,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2021 Semester 2/COMPSCI130/Useful.md",
+                "file": "2024 Semester 1/INFOSYS303 - Solutions Architecture/Amazon EC2 instance(s).md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -230,6 +230,8 @@
   },
   "active": "53c2c772b80dc229",
   "lastOpenFiles": [
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Amazon EBS.md",
+    "2021 Semester 2/COMPSCI130/Useful.md",
     "2021 Semester 2/COMPSCI130/TimedCoderunner.md",
     "2021 Semester 2/COMPSCI130/Revision.md",
     "2021 Semester 2/COMPSCI130/Revision/Revision - Lists.md",
@@ -264,8 +266,6 @@
     "2024 Semester 1/ACCTG151G - Financial Literacy/Growth shares.md",
     "2024 Semester 1/ACCTG151G - Financial Literacy/Blue-Chip.md",
     "2024 Semester 1/ACCTG151G - Financial Literacy/Price Earnings Ratio.md",
-    "2024 Semester 1/ACCTG151G - Financial Literacy/Earnings per Share (EPS).md",
-    "2024 Semester 1/ACCTG151G - Financial Literacy/Return on Equity (ROE or ROSF).md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Untitled",
     "2024 Semester 1",
