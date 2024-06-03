@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2021 Semester 2/COMPSCI120/Finals/2020 S1.md",
+                "file": "2021 Semester 2/COMPSCI130/Useful.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2021 Semester 2/COMPSCI120/Finals/2020 S1.md",
+                "file": "2021 Semester 2/COMPSCI130/Useful.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2021 Semester 2/COMPSCI120/Finals/2020 S1.md",
+                "file": "2021 Semester 2/COMPSCI130/Useful.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2021 Semester 2/COMPSCI120/Finals/2020 S1.md"
+                "file": "2021 Semester 2/COMPSCI130/Useful.md"
               }
             }
           },
@@ -156,7 +156,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2021 Semester 2/COMPSCI120/Finals/2020 S1.md"
+                "file": "2021 Semester 2/COMPSCI130/Useful.md"
               }
             }
           },
@@ -182,7 +182,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2021 Semester 2/COMPSCI120/Finals/2020 S1.md",
+                "file": "2021 Semester 2/COMPSCI130/Useful.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -230,6 +230,16 @@
   },
   "active": "53c2c772b80dc229",
   "lastOpenFiles": [
+    "2021 Semester 2/COMPSCI130/TimedCoderunner.md",
+    "2021 Semester 2/COMPSCI130/Revision.md",
+    "2021 Semester 2/COMPSCI130/Revision/Revision - Lists.md",
+    "2021 Semester 2/COMPSCI120/Claims.md",
+    "2021 Semester 2/COMPSCI120/Lectures.md",
+    "2021 Semester 2/COMPSCI120/Practice problems.md",
+    "2021 Semester 2/COMPSCI120/Useful.md",
+    "2021 Semester 2/COMPSCI120/Tutorials.md",
+    "2021 Semester 2/COMPSCI120/Definition.md",
+    "2021 Semester 2/COMPSCI120/Finals/2020 S1.md",
     "2021 Semester 2/COMPSCI120/Finals/2019 SS.md",
     "2021 Semester 2/COMPSCI120/Finals/2019 S1.md",
     "2021 Semester 2/COMPSCI120/Assignments/Assignment 4.md",
@@ -256,16 +266,6 @@
     "2024 Semester 1/ACCTG151G - Financial Literacy/Price Earnings Ratio.md",
     "2024 Semester 1/ACCTG151G - Financial Literacy/Earnings per Share (EPS).md",
     "2024 Semester 1/ACCTG151G - Financial Literacy/Return on Equity (ROE or ROSF).md",
-    "2024 Semester 1/ACCTG151G - Financial Literacy/Net Profit Margin.md",
-    "2024 Semester 1/ACCTG151G - Financial Literacy/Book Value.md",
-    "2024 Semester 1/ACCTG151G - Financial Literacy/Voting rights.md",
-    "2024 Semester 1/ACCTG151G - Financial Literacy/Basic tax considerations.md",
-    "2024 Semester 1/ACCTG151G - Financial Literacy/dividends.md",
-    "2024 Semester 1/ACCTG151G - Financial Literacy/dividend yield.md",
-    "2024 Semester 1/ACCTG151G - Financial Literacy/imputation credits.md",
-    "2024 Semester 1/ACCTG151G - Financial Literacy/residual claim.md",
-    "2024 Semester 1/ACCTG151G - Financial Literacy/Bond yield(s).md",
-    "2024 Semester 1/ACCTG151G - Financial Literacy/Bond rating(s).md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Untitled",
     "2024 Semester 1",
