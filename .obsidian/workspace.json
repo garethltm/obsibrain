@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Balance sheet.md",
+                "file": "2021 Semester 2/COMPSCI120/Assignments/Assignment 4.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 276.5,
-    "collapsed": true
+    "width": 276.5
   },
   "right": {
     "id": "29204b37fc003a9a",
@@ -87,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Balance sheet.md",
+                "file": "2021 Semester 2/COMPSCI120/Assignments/Assignment 4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Balance sheet.md",
+                "file": "2021 Semester 2/COMPSCI120/Assignments/Assignment 4.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Balance sheet.md"
+                "file": "2021 Semester 2/COMPSCI120/Assignments/Assignment 4.md"
               }
             }
           },
@@ -157,7 +156,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Balance sheet.md"
+                "file": "2021 Semester 2/COMPSCI120/Assignments/Assignment 4.md"
               }
             }
           },
@@ -183,7 +182,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Balance sheet.md",
+                "file": "2021 Semester 2/COMPSCI120/Assignments/Assignment 4.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -231,6 +230,7 @@
   },
   "active": "53c2c772b80dc229",
   "lastOpenFiles": [
+    "2024 Semester 1/ACCTG151G - Financial Literacy/Balance sheet.md",
     "@images/Pasted image 20240602225414.png",
     "@images/Pasted image 20240602225255.png",
     "@images/Pasted image 20240602225202.png",
@@ -241,9 +241,7 @@
     "@images/Pasted image 20240602224730.png",
     "@images/Pasted image 20240602224620.png",
     "@images/Pasted image 20240602224529.png",
-    "@images/Pasted image 20240602224351.png",
     "2024 Semester 1/ACCTG151G - Financial Literacy/current asset.md",
-    "2024 Semester 1/ACCTG151G - Financial Literacy/Balance sheet.md",
     "2024 Semester 1/ACCTG151G - Financial Literacy/Accounting Equation.md",
     "2024 Semester 1/ACCTG151G - Financial Literacy/Ordinary Shares (or Common Stock).md",
     "2024 Semester 1/ACCTG151G - Financial Literacy/The Statement of Concepts.md",
