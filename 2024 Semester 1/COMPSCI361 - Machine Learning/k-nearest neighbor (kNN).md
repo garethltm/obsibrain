@@ -13,3 +13,7 @@ uses proximity to make [[classification]] or predictions about the grouping of a
 ![[Pasted image 20240605102004.png]]
 1. If $k$ is too small, sensitive to [[Noise]] points
 2. If $k$ is too large, neighborhood may include points from other classes
+## What's the impact of $k$?
+- [[Euclidean distance]]
+	![[Pasted image 20240605102032.png]]
+- [[Manhattan distance]]![[Pasted image 20240605102122.png]]
