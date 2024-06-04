@@ -1,24 +1,24 @@
 - most popular [[Clustering]] method
 ## Algorithm
-Given set of instance & number of [[cluster(s)]] $k$ ([[hyperparameter(s)]]), [[k-]] is implemented in 
+Given set of instance & number of [[cluster(s)]] $k$ ([[hyperparameter(s)]]), [[k-Means]] is implemented in 
 ### 4 steps:
 1. Initial guess of the [[centroid]] of each [[cluster(s)]]
-2. Assign each [[instance(s)]] to its closest [[cluster(s)]] [[centroid]] (in terms of Euclidean distance)
+2. Assign each instance to its closest [[cluster(s)]] [[centroid]] (in terms of Euclidean distance)
 3. Update the [[cluster(s)]] [[centroid]] based on the assignment in **step 2**
 	- you now have more information
 4. go back to **step 2** & repeat until [[convergence]]
 	- recalculate the [[centroid]] of your [[cluster(s)]] & re-assign
-		- such that the some [[instance(s)]] are closer to other [[centroid]]
+		- such that the some instances are closer to other [[centroid]]
 ## [[k-Means]]
 ![[Pasted image 20240604135959.png]]
 ### Complexity
 - $k$ number of [[cluster(s)]]
-- $n$ [[instance(s)]] (each d-dimensional vector)
+- $n$ instances (each d-dimensional vector)
 - $l$ number of iterations
 - ### Suggestions
 	- $O(nkld)$ $\rightarrow$ product of all values
 - #### Bottleneck:
-	- We need to compute distance from $n$ [[instance(s)]] to $k$ [[cluster(s)]] $l$ times
+	- We need to compute distance from $n$ instances to $k$ [[cluster(s)]] $l$ times
 - For fixed $l<<k^n$ & $k<<n$,$d<<n$ then it is almost linear in $n$
 	1. $l<<k^n$ = number of iterations where it CANNOT be bigger than $k^n$ (exponential)
 	2. $k<<n$ = k should be far smaller than n because you want to compress your data & only be represented with small number of examples
@@ -38,7 +38,7 @@ Each example is assigned to one (& only one) [[cluster(s)]] $\rightarrow$ no pos
 	- if you don't know, you can define a function which sums up the distances from your [[instance(s)]] from each [[cluster(s)]] to the cluster centre (within cluster variance)
 - [[k-Means]] is guaranteed to converge when using Euclidean distance
 	1. you can forget about all [[instance(s)]] that belong to your [[cluster(s)]]. Your cluster centroid is like a pillar to your [[cluster(s)]]
-	2. you can compute distances for that new test [[instance(s)]] to all existing [[cluster(s)]] centres, choose the one closest to you in terms of Euclidean distance
+	2. you can compute distances for that new test instancesto all existing [[cluster(s)]] centres, choose the one closest to you in terms of Euclidean distance
 Not all [[Clustering]] algorithms can be applied in a predictive manner to a new test instance, some only work in a valid descriptively only for the data set you have obtained.
 ## Behaviour/Assumptions
 - Given a new (test) example
