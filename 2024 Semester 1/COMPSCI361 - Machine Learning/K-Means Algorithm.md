@@ -13,4 +13,7 @@ Given set of [[instance(s)]] & number of [[cluster(s)]] $k$ ([[hyperparameter(s)
 ![[Pasted image 20240604135959.png]]
 ### Complexity
 - k number of [[cluster(s)]]
-- n [[inst]]
+- n [[instance(s)]] (each d-dimensional vector)
+- I number of iterations
+- ### Suggestions = O(nkld) $\rightarrow$ product of all values
+- 
