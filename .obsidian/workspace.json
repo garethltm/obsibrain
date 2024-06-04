@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Weighted kNN.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/k-nearest neighbour (kNN).md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Weighted kNN.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/k-nearest neighbour (kNN).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Weighted kNN.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/k-nearest neighbour (kNN).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Weighted kNN.md"
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/k-nearest neighbour (kNN).md"
               }
             }
           }
@@ -162,7 +162,8 @@
   "lastOpenFiles": [
     "2024 Semester 1/COMPSCI361 - Machine Learning/Real-valued (Regression).md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Weighted kNN.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/k-nearest neighbour (KNN).md",
+    "@images/Pasted image 20240605101049.png",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/k-nearest neighbour (kNN).md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/k-Means.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Principal Components Analysis (PCA).md",
     "@images/Pasted image 20240605100429.png",

@@ -3,7 +3,7 @@
 - Memory-based approaches
 - Prediction can be expensive
 ![[Pasted image 20240604215638.png]]
-- [[k-nearest neighbour (KNN)]]
+- [[k-nearest neighbour (kNN)]]
 
 Construct hypotheses directly from the training instances themselves
 The hypothesis complexity can grow with the data (more [[training data]] = more complex)
