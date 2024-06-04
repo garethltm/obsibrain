@@ -9,4 +9,5 @@ Revenue & [[Expenses (Cash OUT)]] should be recognised in the [[Income Statement
 The accounting period assumption divides the life of a business up over several accounting periods.
 - One of the potential use about those particular accounting information is to predict what is going to happen in the future
 
-## Difference between [[accrual account]]
+## Difference between [[Accrual Accounting]] & [[Cash Accounting]]
+![[Pasted image 20240604224147.png]]
