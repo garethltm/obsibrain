@@ -14,5 +14,6 @@ It's (almost) non-parametric [[Clustering]] method
 ## Density-Based Spatial [[Clustering]] with applications with [[Noise]] algorithm (DBSCAN)
 has 2 parameters:
 - $\epsilon$: distance we use to decide if another point is a "neighbour"
-- $minNeighbours$: number of neighbours needed to say a region is "dense"
-- If you have at least $minNeighbours$ 
+- $minNeighbours$: number of neighbours needed to say a region is "dense"![[Pasted image 20240604152658.png]]
+#### Main idea:
+- merge all neighbouring core points to form
