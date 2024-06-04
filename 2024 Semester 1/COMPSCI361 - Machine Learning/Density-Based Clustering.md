@@ -13,4 +13,6 @@ It's (almost) non-parametric [[Clustering]] method
 	- [[cluster(s)]] can become more complicated with more data
 ## Density-Based Spatial [[Clustering]] with applications with [[Noise]] algorithm (DBSCAN)
 has 2 parameters:
-- $\epsilon$: distance
+- $\epsilon$: distance we use to decide if another point is a "neighbour"
+- $minNeighbours$: number of neighbours needed to say a region is "dense"
+- If you have at least $minNeighbours$ 
