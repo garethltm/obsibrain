@@ -14,4 +14,6 @@ The accounting period assumption divides the life of a business up over several 
 Profit differences could exist when:
 - Service is performed/sale takes place, but cash will be collected in a future accounting period.
 - Customer makes a deposit, but revenue won't be earned until a future accounting period. (from the company's perspective = company hasn't provided to customer)
-- The business
+	- Cash will increase because we receive money from customer
+- The business incurs an expense that won't be paid until the next accounting period.
+- The business pre-pays an expense that won't be used up until future accounting periods.
