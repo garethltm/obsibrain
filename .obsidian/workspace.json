@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "e5752d708ec27dc7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Earnings Before Interest & Tax (EBIT).md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Income Statement.md",
+                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Earnings Before Interest & Tax (EBIT).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Income Statement.md",
+                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Earnings Before Interest & Tax (EBIT).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Income Statement.md"
+                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Earnings Before Interest & Tax (EBIT).md"
               }
             }
           },
@@ -156,7 +169,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Income Statement.md"
+                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Earnings Before Interest & Tax (EBIT).md"
               }
             }
           },
@@ -182,7 +195,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Income Statement.md",
+                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Earnings Before Interest & Tax (EBIT).md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -228,8 +241,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "69ca8e22ddf9264b",
+  "active": "e5752d708ec27dc7",
   "lastOpenFiles": [
+    "2024 Semester 1/ACCTG151G - Financial Literacy/Income Statement.md",
+    "2024 Semester 1/ACCTG151G - Financial Literacy/Earnings Before Interest & Tax (EBIT).md",
     "2024 Semester 1/ACCTG151G - Financial Literacy/Accounting Reports.md",
     "2024 Semester 1/ACCTG151G - Financial Literacy/Financial Statement.md",
     "@images/Pasted image 20240604225537.png",
@@ -242,7 +257,6 @@
     "@images/Pasted image 20240604224147.png",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Instance-based Learning.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Model-based Learning.md",
-    "2024 Semester 1/ACCTG151G - Financial Literacy/Income Statement.md",
     "@images/Pasted image 20240604221959.png",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Support Vector Machines (SVM).md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Machine Learning Systems.md",

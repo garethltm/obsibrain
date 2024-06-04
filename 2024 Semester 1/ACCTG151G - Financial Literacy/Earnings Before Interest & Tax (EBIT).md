@@ -1,0 +1,1 @@
+Once we subtract all these other operating (day-to-day) ex

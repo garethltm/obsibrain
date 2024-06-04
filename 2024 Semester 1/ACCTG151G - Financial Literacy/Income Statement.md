@@ -13,3 +13,4 @@ These expenses include things like:
 - Bad debts (customers on account who will never pay us - we weren't able to receive the amount from the customer)
 - Stolen or damaged stock (inventory)
 - Depreciation - can reduce taxable income
+[[Earnings Before Interest & Tax (EBIT)]]
