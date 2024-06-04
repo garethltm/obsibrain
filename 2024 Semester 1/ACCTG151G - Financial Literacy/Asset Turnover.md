@@ -1,3 +1,3 @@
 $$Asset\ Turnover=\frac{Sales}{Total\ Assets}$$
-- Sales = [[Income Statement]]
-- 
+- $Sales$ = [[Income Statement]]
+- $Total\ Assets$ = [[Balance sheet]]
