@@ -1,5 +1,6 @@
 With other distances [[k-Means Algorithm]] may not converge
 - But we can make it converge by changing the updates so that they are minimizing an alternative objective function
+	- by changing the updates = you are changing the objective function, which allows us to represent that repres
 	- this will converge & will be the [[Optimal]] solution starting from the right initial centres
 #compsci361example we can use the L1-norm as an objective:
 $$
@@ -10,4 +11,5 @@ Minimizing the L1-norm objective gives the [[k-Medians Clustering]] algorithm
 - Assign points to [[cluster(s)]] by finding centres with smallest L1-norm distance
 - Update cluster centers as median value (dimension-wise) of each [[cluster(s)]]
 	- this minimizes the L1-norm distance to all the [[instance(s)]] in the [[cluster(s)]]
-This approach is mo
+
+**Advantage: This approach is more robust to outliers**
