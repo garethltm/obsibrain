@@ -2,4 +2,5 @@ uses proximity to make [[classification]] or predictions about the grouping of a
 ## Algorithm
 - all instances correspond to points in the $D$-dim space
 - The [[nearest neighbor(s)]] are defined based on Euclidean distance:
-- 
+- Sure, here's the equation converted to Markdown syntax using LaTeX:
+	$$d_E(x, y) = \sqrt{\sum_{i=1}^{D}(x_i - y_i)^2}$$
