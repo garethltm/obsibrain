@@ -7,4 +7,6 @@ Revenue & [[Expenses (Cash OUT)]] should be recognised in the [[Income Statement
 - This will give you an idea of the **actual occurring time** of those transactions
 
 The accounting period assumption divides the life of a business up over several accounting periods.
-- One of the potential use about those particular accounting information is to predict what is going to happen in th
+- One of the potential use about those particular accounting information is to predict what is going to happen in the future
+
+![[Cash Accounting]]
