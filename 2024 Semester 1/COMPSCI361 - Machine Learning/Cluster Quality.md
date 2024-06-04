@@ -1,1 +1,1 @@
-## 
+## [[Extrinsic]] vs Intrinsic
