@@ -13,6 +13,6 @@ A disadvantage of [[k-Means Algorithm]] in some applications: the cluster center
 	- run to convergence using different random initializations
 	- Choose the one that minimizes average squared distances of data to the [[cluster(s)]] centers
 		- choose the best one out of those several runs
-- Newer approach: k-Means++ (smartly chooses the centers)
+- Newer approach: [[k-Means++]] (smartly chooses the centers)
 	- random initialization that prefers cluster centers that are far apart
 		- Pick first randomly then 2nd one as far as possible
