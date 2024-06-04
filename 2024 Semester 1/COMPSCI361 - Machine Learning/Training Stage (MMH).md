@@ -22,3 +22,6 @@ This becomes a constrained (convex) quadratic optimization problem:
 	$L(\vec {w},b,\alpha)=\frac{||\vec {w}||}{2}-\sum\limits_{i=1}^n \alpha_i[y_i(\vec{w} \cdot \vec{x_i} + b) - 1], \quad \alpha_i > 0$
 	- $\frac{dL}{d\vec {w}} = 0 \Rightarrow \vec{w} = \sum_{i=1}^{n} \alpha_i y_i \vec{x_i}$
 	- $\frac{dL}{db} = 0 \Rightarrow \sum_{i=1}^{n} \alpha_i y_i = 0$
+4. Substituting them in the Lagrangian function $L$, we obtain the final dual optimization function:
+	$\max_{\vec{\alpha}} \sum_{i=1}^{n} \alpha_i - \frac{1}{2} \sum_{i=1}^{n} \sum_{j=1}^{n} \alpha_i \alpha_j y_i y_j \vec{x_i} \cdot \vec{x_j}$
+	
