@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#compsci361example",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -230,10 +230,10 @@
   "active": "884ca03eed0719a3",
   "lastOpenFiles": [
     "@images/Pasted image 20240604153139.png",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Density-Based Clustering.md",
     "@images/Pasted image 20240604153043.png",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Partitioning Algorithms.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/core point.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Density-Based Clustering.md",
     "@images/Pasted image 20240604152658.png",
     "2024 Semester 1/COMPSCI361 - Machine Learning/overfit(ting).md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/k-Means++.md",
@@ -250,7 +250,6 @@
     "2024 Semester 1/COMPSCI361 - Machine Learning/k-Medians Clustering.md",
     "@images/Pasted image 20240604142628.png",
     "@images/Pasted image 20240604142559.png",
-    "@images/Pasted image 20240604141023.png",
     "2024 Semester 1/COMPSCI361 - Machine Learning/cluster(s).md",
     "conflict-files-obsidian-git.md",
     "2024 Semester 1/ACCTG151G - Financial Literacy/yield to maturity (YTM).md",

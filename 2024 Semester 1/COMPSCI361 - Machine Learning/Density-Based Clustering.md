@@ -24,3 +24,5 @@ has 2 parameters:
 	- points that are not [[core point]] but are edges of the [[cluster(s)]] (boundary)![[Pasted image 20240604153043.png]]
 ## Pseudo Code
 ![[Pasted image 20240604153139.png]]
+
+#compsci361example 
