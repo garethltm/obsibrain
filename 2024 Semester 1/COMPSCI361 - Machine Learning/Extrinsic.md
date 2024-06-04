@@ -3,7 +3,7 @@
 ## Types of [[Extrinsic]] methods
 - [[Purity]]
 - [[Rand Index]]
-- Normalized Mutual Information
+- Normalized [[2023 Semester 2/COMPSCI367 - Artificial Intelligence/week10/Mutual Information]]
 ## Methods
 A good [[Clustering]] quality measure $Q(C,G)$ for a clustering $C$ given the ground truth $G$, should satisfying following 4 essential criteria:
 1. [[Cluster homogeneity]]

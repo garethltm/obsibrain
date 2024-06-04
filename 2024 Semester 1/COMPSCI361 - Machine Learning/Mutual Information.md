@@ -1,0 +1,2 @@
+- an information-theoretic measure about the amount of information by which our knowledge about the categories increases when we are told what the [[cluster(s)]] are
+- 

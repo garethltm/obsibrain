@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "37d93e2178d20e07",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Mutual Information.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Extrinsic.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Mutual Information.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Extrinsic.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Mutual Information.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Extrinsic.md"
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Mutual Information.md"
               }
             }
           },
@@ -156,7 +169,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Extrinsic.md"
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Mutual Information.md"
               }
             }
           },
@@ -182,7 +195,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Extrinsic.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Mutual Information.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -227,15 +240,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "884ca03eed0719a3",
+  "active": "37d93e2178d20e07",
   "lastOpenFiles": [
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Extrinsic.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Mutual Information.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Hierarchical Clustering.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Purity.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Rand Index.md",
     "@images/Pasted image 20240604172119.png",
     "@images/Pasted image 20240604172059.png",
     "@images/Pasted image 20240604172038.png",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Extrinsic.md",
     "@images/Pasted image 20240604171913.png",
     "@images/Pasted image 20240604171842.png",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Small cluster preservation.md",
