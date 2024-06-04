@@ -7,9 +7,12 @@
 - Each internal node in the tree splits the data into 2 or more [[cluster(s)]]
 Heuristic that needs similarity/distance matrix to guide the [[Clustering]] process.
 ![[Pasted image 20240604164636.png]]
+- refer to [[dendrogram]]
 1. agglomerative
 2. divisive
 ## Motivation
 - Consider [[Density-Based Clustering]] on this data:![[Pasted image 20240604162912.png]]
 - Increase $\epsilon$ & run it again:![[Pasted image 20240604162947.png]]
 - More complicated case:![[Pasted image 20240604163021.png]]
+## Note
+When you are calculating [[cluster(s)]], there is no reason to think about hierarchy $\rightarrow$ main point is to find grou
