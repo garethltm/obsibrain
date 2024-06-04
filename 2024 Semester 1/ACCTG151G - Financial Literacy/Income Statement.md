@@ -17,4 +17,5 @@ These expenses include things like:
 
 Statements that most businesses have every year:
 These expenses are:
-- Interest e
+- [[Interest expense]]
+- [[Tax expense]]
