@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Margin Maximization.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Maximum Margin Hyperplane (MMH).md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Margin Maximization.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Maximum Margin Hyperplane (MMH).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Margin Maximization.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Maximum Margin Hyperplane (MMH).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Margin Maximization.md"
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Maximum Margin Hyperplane (MMH).md"
               }
             }
           }
@@ -186,10 +186,11 @@
   "active": "3392bc9e2af2e9ba",
   "lastOpenFiles": [
     "2024 Semester 1/COMPSCI361 - Machine Learning/support vectors.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Margin Maximization.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/hyperplanes.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Maximum Margin Hyperplane (MMH).md",
     "@images/Pasted image 20240605110057.png",
     "@images/Pasted image 20240605105538.png",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Margin Maximization.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Generalization Performance.md",
     "@images/Pasted image 20240605105452.png",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Support Vector Machines (SVM).md",
@@ -217,7 +218,6 @@
     "@images/Pasted image 20240605104008.png",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Model-based Learning.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Data Characteristics.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Fundamental Trade-Off.md",
     "@images/Pasted image 20240605103836.png",
     "@images/Pasted image 20240605103805.png",
     "@images/Pasted image 20240605103727.png"
