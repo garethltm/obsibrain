@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "774520b2a14c3d6b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Lagrange Multipliers & Constrained Optimization.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -99,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Quadratic Programming (QP).md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Lagrange Multipliers & Constrained Optimization.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Quadratic Programming (QP).md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Lagrange Multipliers & Constrained Optimization.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Quadratic Programming (QP).md"
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Lagrange Multipliers & Constrained Optimization.md"
               }
             }
           }
@@ -172,10 +184,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d7b9af870a871f2a",
+  "active": "774520b2a14c3d6b",
   "lastOpenFiles": [
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Training Stage (MMH).md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Quadratic Programming (QP).md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Lagrange Multipliers & Constrained Optimization.md",
+    "@images/Pasted image 20240605112335.png",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Training Stage (MMH).md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Maximum Margin Hyperplane (MMH).md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/support vectors.md",
     "@images/Pasted image 20240605111453.png",
@@ -206,9 +220,7 @@
     "2024 Semester 1/COMPSCI361 - Machine Learning/Kernelized (SVMs).md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Hard-margin (SVMs).md",
     "@images/Pasted image 20240605104149.png",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Soft-margin (SVMs).md",
     "@images/Pasted image 20240605104139.png",
-    "@images/Pasted image 20240605104008.png",
-    "@images/Pasted image 20240605103836.png"
+    "@images/Pasted image 20240605104008.png"
   ]
 }
