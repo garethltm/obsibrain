@@ -23,12 +23,8 @@
             "id": "75b7d725287ec28f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Ensemble Clustering.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ],
@@ -100,7 +96,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Ensemble Clustering.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +112,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Ensemble Clustering.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,9 +133,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Ensemble Clustering.md"
-              }
+              "state": {}
             }
           },
           {
@@ -169,9 +161,7 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Ensemble Clustering.md"
-              }
+              "state": {}
             }
           },
           {
@@ -196,7 +186,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Ensemble Clustering.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -241,12 +230,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a6e0090ac9cbd1f3",
+  "active": "75b7d725287ec28f",
   "lastOpenFiles": [
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Label Switching Problem.md",
-    "@images/Pasted image 20240604161124.png",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Ensemble Clustering.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Density-Based Clustering.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Label Switching Problem.md",
+    "@images/Pasted image 20240604161124.png",
     "@images/Pasted image 20240604154658.png",
     "2024 Semester 1/COMPSCI361 - Machine Learning/k-Means.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/elbow method.md",
