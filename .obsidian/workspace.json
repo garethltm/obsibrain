@@ -13,38 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Hierarchical Clustering.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "029207f089c33dd3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Purity.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f0ae946d40ab7f18",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Rand Index.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Extrinsic.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -73,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "divisi",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -111,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Rand Index.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Extrinsic.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Rand Index.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Extrinsic.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Rand Index.md"
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Extrinsic.md"
               }
             }
           },
@@ -181,7 +156,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Rand Index.md"
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Extrinsic.md"
               }
             }
           },
@@ -207,7 +182,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Rand Index.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Extrinsic.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -252,10 +227,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f0ae946d40ab7f18",
+  "active": "884ca03eed0719a3",
   "lastOpenFiles": [
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Hierarchical Clustering.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Purity.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Rand Index.md",
+    "@images/Pasted image 20240604172119.png",
+    "@images/Pasted image 20240604172059.png",
     "@images/Pasted image 20240604172038.png",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Extrinsic.md",
     "@images/Pasted image 20240604171913.png",
@@ -268,7 +246,6 @@
     "2024 Semester 1/COMPSCI361 - Machine Learning/Intrinsic.md",
     "@images/Pasted image 20240604170919.png",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Silhouette coefficient.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Hierarchical Clustering.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/agglomerative clustering.md",
     "@images/Pasted image 20240604165642.png",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Centroid distance.md",
@@ -277,8 +254,6 @@
     "2024 Semester 1/COMPSCI361 - Machine Learning/Single-Linkage.md",
     "@images/Pasted image 20240604165334.png",
     "@images/Pasted image 20240604165237.png",
-    "@images/Pasted image 20240604165117.png",
-    "@images/Pasted image 20240604164930.png",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Partitioning Algorithms.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/dendrogram.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Density-Based Clustering.md",
