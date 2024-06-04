@@ -28,6 +28,8 @@ Given set of [[instance(s)]] & number of [[cluster(s)]] $k$ ([[hyperparameter(s)
 - because [[Clustering]] is typically applied to large databases & [[2024 Semester 1/INFOSYS303 - Solutions Architecture/Scalability|Scalability]] is important
 
 #compsci361example ![[Pasted image 20240604140826.png]]![[Pasted image 20240604140846.png]]![[Pasted image 20240604140903.png]]![[Pasted image 20240604140927.png]]![[Pasted image 20240604140944.png]]![[Pasted image 20240604141002.png]]![[Pasted image 20240604141023.png]]
+**This algo
 ## Potential Problems
 1. We may not be aware of how many clusters there actually are (which gives a suboptimal solution)
-2. Because it is a heuristic, we may still know the exact number of clusters but our 1st step on initialisation can have a big influence on your resul
+2. Because it is a heuristic, we may still know the exact number of clusters but our 1st step on initialisation can have a big influence on your result
+Each example is assigned to one (& only one) [[cluster(s)]] $\rightarrow$ no possibility of overlapping [[cluster(s)]] or leaving unassigned examples
