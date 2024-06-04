@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "434030b0798380d4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Ratios.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Profitability & Financial Risk Analysis.md",
+                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Ratios.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Profitability & Financial Risk Analysis.md",
+                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Ratios.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Profitability & Financial Risk Analysis.md"
+                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Ratios.md"
               }
             }
           },
@@ -156,7 +169,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Profitability & Financial Risk Analysis.md"
+                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Ratios.md"
               }
             }
           },
@@ -182,7 +195,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Profitability & Financial Risk Analysis.md",
+                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Ratios.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -228,12 +241,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e02606a8f80b4459",
+  "active": "434030b0798380d4",
   "lastOpenFiles": [
+    "2024 Semester 1/ACCTG151G - Financial Literacy/Profitability & Financial Risk Analysis.md",
+    "2024 Semester 1/ACCTG151G - Financial Literacy/Ratios.md",
     "@images/Pasted image 20240604233847.png",
     "2024 Semester 1/ACCTG151G - Financial Literacy/Gross Profit Margin.md",
     "2024 Semester 1/ACCTG151G - Financial Literacy/Vertical percentage changes.md",
-    "2024 Semester 1/ACCTG151G - Financial Literacy/Profitability & Financial Risk Analysis.md",
     "@images/Pasted image 20240604233737.png",
     "2024 Semester 1/ACCTG151G - Financial Literacy/Horizontal percentage changes.md",
     "2024 Semester 1/ACCTG151G - Financial Literacy/Earnings per Share (EPS).md",
@@ -265,7 +279,6 @@
     "conflict-files-obsidian-git.md",
     "Untitled.canvas",
     "@images/Pasted image 20240604174306.png",
-    "@images/Pasted image 20240604173656.png",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Extrinsic.md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Untitled",
