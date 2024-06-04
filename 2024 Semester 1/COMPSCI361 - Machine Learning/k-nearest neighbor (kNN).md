@@ -24,5 +24,9 @@ uses proximity to make [[classification]] or predictions about the grouping of a
 - [[Vonoroi diagram (1-NN)]]
 ## Issues
 1. Scaling Issue
-	- height of a person may ca
-2. Irrelevant & Redundant Attributes Issue
+	#compsci361example 
+	- height of a person may vary from 1.5m to 1.8m
+	- weight of a person may vary from 90lb to 300lb
+	- income of a person may vary from $10k to $1M
+	### Solution
+1. Irrelevant & Redundant Attributes Issue
