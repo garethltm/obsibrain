@@ -11,8 +11,12 @@
             "id": "4cf62ebcdecd1848",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Classification - A Mathematical Formulation.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Classification - A Mathematical Formulation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Classification - A Mathematical Formulation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +136,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Classification - A Mathematical Formulation.md"
+              }
             }
           }
         ]
@@ -151,5 +159,8 @@
     }
   },
   "active": "4cf62ebcdecd1848",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "2024 Semester 1/COMPSCI361 - Machine Learning/classification.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Classification - A Mathematical Formulation.md"
+  ]
 }
