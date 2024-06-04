@@ -9,3 +9,6 @@ Given set of [[instance(s)]] & number of [[cluster(s)]] $k$ ([[hyperparameter(s)
 4. go back to **step 2** & repeat until [[convergence]]
 	- recalculate the [[centroid]] of your [[cluster(s)]] & re-assign
 		- such that the some [[instance(s)]] are closer to other [[centroid]]
+## [[K-Means Algorithm]]
+![[Pasted image 20240604135959.png]]
+### Complexity
