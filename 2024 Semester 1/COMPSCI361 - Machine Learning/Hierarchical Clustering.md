@@ -8,7 +8,7 @@
 Heuristic that needs similarity/distance matrix to guide the [[Clustering]] process.
 ![[Pasted image 20240604164636.png]]
 - refer to [[dendrogram]]
-1. [[agglomerative]]
+1. [[agglomerative clustering]]
 2. divisive
 ## Motivation
 - Consider [[Density-Based Clustering]] on this data:![[Pasted image 20240604162912.png]]
