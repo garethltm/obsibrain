@@ -30,21 +30,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "2496787965d2e3ac",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Purity.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -111,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Purity.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Extrinsic.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Purity.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Extrinsic.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Purity.md"
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Extrinsic.md"
               }
             }
           },
@@ -181,7 +169,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Purity.md"
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Extrinsic.md"
               }
             }
           },
@@ -207,7 +195,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Purity.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Extrinsic.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -252,11 +240,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2496787965d2e3ac",
+  "active": "029207f089c33dd3",
   "lastOpenFiles": [
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Purity.md",
+    "@images/Pasted image 20240604171913.png",
     "@images/Pasted image 20240604171842.png",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Extrinsic.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Purity.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Small cluster preservation.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Rag bag.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Cluster completeness.md",
@@ -279,8 +268,6 @@
     "@images/Pasted image 20240604164636.png",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Partitioning Algorithms.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/dendrogram.md",
-    "@images/Pasted image 20240604164218.png",
-    "@images/Pasted image 20240604164145.png",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Density-Based Clustering.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Data Preprocessing.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Data cleaning.md",
