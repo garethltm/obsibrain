@@ -2,4 +2,6 @@
 ### [[Financial Statement]] - [[Statement of Financial Performance]]
 #### What is income/revenue?
 - Payment for goods or services sold by a business
-- [[Interest rates (r)]] ear
+- [[Interest rates (r)]] earned by [[Investing]]
+##### Other "operating" expenses include:
+- 
