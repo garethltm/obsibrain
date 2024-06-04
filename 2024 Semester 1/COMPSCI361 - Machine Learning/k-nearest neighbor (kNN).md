@@ -20,4 +20,5 @@ uses proximity to make [[classification]] or predictions about the grouping of a
 ## Decision boundaries of [[k-nearest neighbor (kNN)]]
 - [[k-nearest neighbor (kNN)]] produces decision boundaries of arbitrary shape
 - Provide more flexibility compared to [[rule-based classifiers]]
-- High variety because decision boundaries depends on
+- High variety because decision boundaries depends on training samples in the local neighborhood
+- [[Vonoroi diagram (1-NN)]]

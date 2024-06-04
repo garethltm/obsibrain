@@ -1,0 +1,1 @@
+the decision surface induced by 1-NN for a typical set of training examples
