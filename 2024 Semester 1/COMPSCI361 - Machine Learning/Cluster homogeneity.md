@@ -1,0 +1,2 @@
+- the purer, the better
+	- we want things that are in the same category to be in 1 [[cluster(s)]]

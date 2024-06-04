@@ -1,0 +1,2 @@
+- should assign objects belonging to the same category in the ground truth to the same [[cluster(s)]]
+	- if 2 objects belong to the same category, stay in the same cluster

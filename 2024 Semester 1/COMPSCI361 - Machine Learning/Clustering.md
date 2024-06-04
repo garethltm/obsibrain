@@ -13,7 +13,7 @@
 ## General algorithm
 ![[Pasted image 20240515164136.png]]
 ![[Pasted image 20240515164111.png]]
-- Input: set of [[instance(s)]] described by $d$ features
+- Input: set of instances described by $d$ features
 - Output: an assignment of [[instance(s)]] to 'groups' (no target class)
 - Unlike [[classification]], we are not given the 'groups'
 	- #### Task: Algorithm must discover groups

@@ -11,8 +11,12 @@
             "id": "c5172c5c390e17ff",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -82,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "conflict-files-obsidian-git.md"
+              }
             }
           },
           {
@@ -147,7 +155,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {}
+              "state": {
+                "file": "conflict-files-obsidian-git.md"
+              }
             }
           },
           {
@@ -159,7 +169,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 7
       },
       {
         "id": "aca6307e70cdfa79",
@@ -172,6 +182,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "conflict-files-obsidian-git.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -218,6 +229,27 @@
   },
   "active": "c5172c5c390e17ff",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "Untitled.canvas",
+    "@images/Pasted image 20240604174306.png",
+    "@images/Pasted image 20240604173656.png",
+    "@images/Pasted image 20240604173102.png",
+    "@images/Pasted image 20240604172119.png",
+    "@images/Pasted image 20240604172059.png",
+    "@images/Pasted image 20240604172038.png",
+    "@images/Pasted image 20240604171913.png",
+    "@images/Pasted image 20240604171842.png",
+    "@images/Pasted image 20240604170919.png",
+    "@images/Pasted image 20240604165642.png",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Extrinsic.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Ensemble Clustering.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Density-Based Clustering.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/DBSCAN.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Complete Linkage.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Cluster homogeneity.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Cluster completeness.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Cluster Quality.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Centroid distance.md",
     "2024 Semester 1/ACCTG151G - Financial Literacy/asset(s).md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Amazon EC2 instance(s).md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Amazon EBS.md",
@@ -234,26 +266,6 @@
     "2021 Semester 2/COMPSCI120/Finals/2020 S1.md",
     "2021 Semester 2/COMPSCI120/Finals/2019 SS.md",
     "2021 Semester 2/COMPSCI120/Finals/2019 S1.md",
-    "2021 Semester 2/COMPSCI120/Assignments/Assignment 4.md",
-    "2024 Semester 1/ACCTG151G - Financial Literacy/Balance sheet.md",
-    "@images/Pasted image 20240602225414.png",
-    "@images/Pasted image 20240602225255.png",
-    "@images/Pasted image 20240602225202.png",
-    "@images/Pasted image 20240602225046.png",
-    "@images/Pasted image 20240602224944.png",
-    "@images/Pasted image 20240602224907.png",
-    "@images/Pasted image 20240602224810.png",
-    "@images/Pasted image 20240602224730.png",
-    "@images/Pasted image 20240602224620.png",
-    "@images/Pasted image 20240602224529.png",
-    "2024 Semester 1/ACCTG151G - Financial Literacy/current asset.md",
-    "2024 Semester 1/ACCTG151G - Financial Literacy/Accounting Equation.md",
-    "2024 Semester 1/ACCTG151G - Financial Literacy/Ordinary Shares (or Common Stock).md",
-    "2024 Semester 1/ACCTG151G - Financial Literacy/The Statement of Concepts.md",
-    "2024 Semester 1/ACCTG151G - Financial Literacy/Speculative shares.md",
-    "2024 Semester 1/ACCTG151G - Financial Literacy/Income shares.md",
-    "2024 Semester 1/ACCTG151G - Financial Literacy/Tech shares.md",
-    "2024 Semester 1/ACCTG151G - Financial Literacy/Growth shares.md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Untitled",
     "2024 Semester 1",

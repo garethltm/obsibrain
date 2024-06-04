@@ -18,5 +18,5 @@ $$I(X;Y) = \displaystyle\sum_{x,y}p(x,y)\ log\frac{p(x,y)}{p(x)\ p(y)}$$
 - 0 when the variables are independent (no overlaps)
 >		independent dice throws
 
-- [[Mutual Information]] grows with the dependence between variables & their [[Entropy (or self-information)]]
+- [[2023 Semester 2/COMPSCI367 - Artificial Intelligence/week10/Mutual Information]] grows with the dependence between variables & their [[Entropy (or self-information)]]
 >		how dependent are they on each other & how much information do they contain?

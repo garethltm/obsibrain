@@ -1,0 +1,2 @@
+- putting a heterogeneous object into a pure [[cluster(s)]] should be penalized more than putting it into a [[Rag bag]] ("miscellaneous" or "other" category)
+	- everything you don't know is put into a separate group to be separated

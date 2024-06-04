@@ -13,6 +13,20 @@
         "a": 1,
         "rgb": 14701138
       }
+    },
+    {
+      "query": "path:\"2024 Semester 1/ACCTG151G - Financial Literacy\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 6479954
+      }
+    },
+    {
+      "query": "path:\"2024 Semester 1/COMPSCI345 - Human-computer Interaction\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 5399264
+      }
     }
   ],
   "collapse-display": false,
@@ -25,6 +39,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.04412854311152093,
+  "scale": 0.22701232906669538,
   "close": true
 }
