@@ -24,4 +24,7 @@ This becomes a constrained (convex) quadratic optimization problem:
 	- $\frac{dL}{db} = 0 \Rightarrow \sum_{i=1}^{n} \alpha_i y_i = 0$
 4. Substituting them in the Lagrangian function $L$, we obtain the final dual optimization function:
 	$$\max_{{\alpha}} \sum_{i=1}^{n} \alpha_i - \frac{1}{2} \sum_{i=1}^{n} \sum_{j=1}^{n} \alpha_i \cdot \alpha_j \cdot y_i \cdot y_j \cdot \vec{x_i} \cdot \vec{x_j}$$
-	
+#### Solving the Dual Problem
+- Dual Problem Optimization
+	$$\max_{{\alpha}} \sum_{i=1}^{n} \alpha_i - \frac{1}{2} \sum_{i=1}^{n} \sum_{j=1}^{n} \alpha_i \cdot \alpha_j \cdot y_i \cdot y_j \cdot \vec{x_i} \cdot \vec{x_j}$$
+	such that $\alpha _i_
