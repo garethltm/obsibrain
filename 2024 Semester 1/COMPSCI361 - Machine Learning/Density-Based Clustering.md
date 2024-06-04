@@ -16,4 +16,5 @@ has 2 parameters:
 - $\epsilon$: distance we use to decide if another point is a "neighbour"
 - $minNeighbours$: number of neighbours needed to say a region is "dense"![[Pasted image 20240604152658.png]]
 #### Main idea:
-- merge all neighbouring core points to form
+- merge all neighbouring [[core point]] to form [[cluster(s)]]
+	- implements a "chain reaction" throughout the dense areas
