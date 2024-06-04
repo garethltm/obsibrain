@@ -14,7 +14,8 @@ This becomes a constrained (convex) quadratic optimization problem:
 ## Duality
 [[Support Vector Machines (SVM)]] primal problem form:
 	$\min\limits_{w,b} \frac{||\vec {w}||}{2} \quad s.t. \quad y_i(\vec {w} \cdot \vec {x_i} + b) \geq 1, \quad i=1,2,...,n$
-We can convert it to the dual problem of [[Support Vector Machines (SVM)]] by introducing [[Lagrange Multipliers & Constrained Optimization]] ($\alpha _i$)
+1. We can convert it to the dual problem of [[Support Vector Machines (SVM)]] by introducing [[Lagrange Multipliers & Constrained Optimization]] ($\alpha _i$)
 	$L(\vec {w},b,\alpha)=\frac{||\vec {w}||}{2}-\sum\limits_{i=1}^n \alpha_i[y_i(\vec{w} \cdot \vec{x_i} + b) - 1], \quad \alpha_i > 0$
-- Solving the primal problem is equivalent to solving the dual problem:
+2. Solving the primal problem is equivalent to solving the dual problem:
 	$\min\limits_{w,b} \frac{||\vec {w}||}{2} \equiv \max\limits_{\alpha} \min\limits_{w,b} L(\vec {w},b,\alpha)$
+3. Set the derivatives to [[Support Vector Machines (SVM)]] Lagrangian function with respect to $\vec {w}$ and b to be zero:
