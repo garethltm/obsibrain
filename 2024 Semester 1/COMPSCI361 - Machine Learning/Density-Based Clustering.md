@@ -32,4 +32,6 @@ It's (almost) non-parametric [[Clustering]] method
 		- set $minNeighbours$ to $k$
 		- calculate and plot distances of each point to the $k$ closest neighbours
 		- sort the points & plot the distances
-		- look for "elbow" to set $\epsilon
+		- look for "elbow" to set $\epsilon$![[Pasted image 20240604154658.png]]
+	- Otherwise, not sensitive to initialization (except for [[boundary points]])
+	- 
