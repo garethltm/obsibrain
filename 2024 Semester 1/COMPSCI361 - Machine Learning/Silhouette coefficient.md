@@ -6,4 +6,6 @@ $$
 	- $a(x)$ is the mean distance between a point $x$ and all other points in the same [[cluster(s)]] 
 		- (how compact is the [[cluster(s)]] $C_i$ to which $x$ belongs)
 	- $b(x)$ is the mean distance between a point $x$ & all other points in the nearest [[cluster(s)]] 
-		- (how separated is the [[cluster(s)]] $C_i$ to which $x$ be)
+		- (how separated is the [[cluster(s)]] $C_i$ to which $x$ belongs)
+	- Fitness of [[cluster(s)]] $C_i$ in given [[Clustering]] can be measured by the average [[Silhouette coefficient]] value of all points in the [[cluster(s)]]
+## Visualized [[Silhouette coefficient]]
