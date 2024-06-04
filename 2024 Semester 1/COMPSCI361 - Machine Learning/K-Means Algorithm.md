@@ -14,6 +14,8 @@ Given set of [[instance(s)]] & number of [[cluster(s)]] $k$ ([[hyperparameter(s)
 ### Complexity
 - k number of [[cluster(s)]]
 - n [[instance(s)]] (each d-dimensional vector)
-- I number of iterations
-- ### Suggestions = O(nkld) $\rightarrow$ product of all values
-- 
+- l number of iterations
+- ### Suggestions
+	- $O(nkld)$ $\rightarrow$ product of all values
+- #### Bottleneck:
+	- We need to compute distance from n [[instance(s)]] to k [[cluster(s)]] l time
