@@ -18,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "18682ea2f901845d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Statement of Movement in Equity.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -99,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Statement of Movement in Equity.md",
+                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Accounting Reports.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Statement of Movement in Equity.md",
+                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Accounting Reports.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Statement of Movement in Equity.md"
+                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Accounting Reports.md"
               }
             }
           },
@@ -169,7 +156,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Statement of Movement in Equity.md"
+                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Accounting Reports.md"
               }
             }
           },
@@ -195,7 +182,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Statement of Movement in Equity.md",
+                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Accounting Reports.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -241,12 +228,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "18682ea2f901845d",
+  "active": "69ca8e22ddf9264b",
   "lastOpenFiles": [
+    "2024 Semester 1/ACCTG151G - Financial Literacy/Financial Statement.md",
+    "@images/Pasted image 20240604225537.png",
     "2024 Semester 1/ACCTG151G - Financial Literacy/Accounting Reports.md",
+    "2024 Semester 1/ACCTG151G - Financial Literacy/Statement of Cash Flows.md",
     "2024 Semester 1/ACCTG151G - Financial Literacy/Statement of Movement in Equity.md",
     "2024 Semester 1/ACCTG151G - Financial Literacy/Statement of Financial Position.md",
-    "2024 Semester 1/ACCTG151G - Financial Literacy/Financial Statement.md",
     "2024 Semester 1/ACCTG151G - Financial Literacy/Income Recognition & Accrual Accounting.md",
     "2024 Semester 1/ACCTG151G - Financial Literacy/Accrual Accounting.md",
     "2024 Semester 1/ACCTG151G - Financial Literacy/Cash Accounting.md",
@@ -267,7 +256,6 @@
     "@images/Pasted image 20240604173102.png",
     "@images/Pasted image 20240604172119.png",
     "@images/Pasted image 20240604172059.png",
-    "@images/Pasted image 20240604172038.png",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Extrinsic.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Ensemble Clustering.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Density-Based Clustering.md",
@@ -278,8 +266,6 @@
     "2024 Semester 1/COMPSCI361 - Machine Learning/Cluster Quality.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Centroid distance.md",
     "2024 Semester 1/ACCTG151G - Financial Literacy/asset(s).md",
-    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Amazon EC2 instance(s).md",
-    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Amazon EBS.md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Untitled",
     "2024 Semester 1",
