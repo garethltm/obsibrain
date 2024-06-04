@@ -54,4 +54,4 @@ We can interpret [[K-Means Algorithm]] steps as minimizing an objective
 - Total sum of squared distances from each example $x_i$ to its [[cluster(s)]] center (squared L2 norm)$$f(w_1, \ldots, w_k, \hat{y}_1, \ldots, \hat{y}_n) = \sum_{i=1}^{n} \| w_{\hat{y}_i} - x_i \|_2^2$$
 - $w_{\hat{y}_i} - x_i$ = minimizes in terms of chosen centres = because we are always refining the centres to represent the mean/ average/best point that represents
 #### Steps
-- minimize $f$ in terms of $y
+- minimize $f$ in terms of $\hat{y}_i \in $  
