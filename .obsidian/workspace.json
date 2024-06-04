@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "affb166fd18d9581",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Hierarchical Clustering.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Partitioning Algorithms.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Hierarchical Clustering.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Partitioning Algorithms.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Hierarchical Clustering.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Partitioning Algorithms.md"
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Hierarchical Clustering.md"
               }
             }
           },
@@ -156,7 +169,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Partitioning Algorithms.md"
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Hierarchical Clustering.md"
               }
             }
           },
@@ -182,7 +195,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Partitioning Algorithms.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Hierarchical Clustering.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -227,8 +240,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "884ca03eed0719a3",
+  "active": "affb166fd18d9581",
   "lastOpenFiles": [
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Partitioning Algorithms.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Hierarchical Clustering.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Density-Based Clustering.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Data Preprocessing.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Data cleaning.md",
@@ -249,7 +264,6 @@
     "@images/Pasted image 20240604153613.png",
     "@images/Pasted image 20240604153558.png",
     "@images/Pasted image 20240604153546.png",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Partitioning Algorithms.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/core point.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/overfit(ting).md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/k-Means++.md",
@@ -265,7 +279,6 @@
     "2024 Semester 1/ACCTG151G - Financial Literacy/maturity date.md",
     "2024 Semester 1/ACCTG151G - Financial Literacy/load.md",
     "2024 Semester 1/ACCTG151G - Financial Literacy/imputation credits.md",
-    "2024 Semester 1/ACCTG151G - Financial Literacy/face(par) value.md",
     "2023 Semester 1/MKTG151G/Notes",
     "2023 Semester 1/MKTG151G/Lecture Notes",
     "2023 Semester 1/COMPSCI225/Tutorials",
