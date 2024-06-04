@@ -8,3 +8,5 @@
 - Paying rent for shops/premises
 - Employees' salaries
 - Electricity bills
+- Telephone/Internet
+These expenses 
