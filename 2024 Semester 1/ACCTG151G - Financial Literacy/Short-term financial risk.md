@@ -14,4 +14,4 @@ $$Interest\ Cover=\frac {Earnings\ Before\ Interest\ \&\ Tax}{Interest\ Expense}
 - [[Interest expense]]
 
 to see whether the company has enough profit to service the interest payment
-- Before paying [[Interest expense]] to the debt holders & paying tax
+- Before paying [[Interest expense]] to the debt holders & paying 
