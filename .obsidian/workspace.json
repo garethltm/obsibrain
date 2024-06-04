@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Nearest-Neighbor Classifiers.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/nearest neighbor(s).md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/nearest neighbors.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/nearest neighbor(s).md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Nearest-Neighbor Classifiers.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/nearest neighbor(s).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Nearest-Neighbor Classifiers.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/nearest neighbor(s).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Nearest-Neighbor Classifiers.md"
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/nearest neighbor(s).md"
               }
             }
           }
@@ -172,8 +172,8 @@
   },
   "active": "4f003a0602a087c8",
   "lastOpenFiles": [
-    "2024 Semester 1/COMPSCI361 - Machine Learning/nearest neighbors.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Nearest-Neighbor Classifiers.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/nearest neighbor(s).md",
     "@images/Pasted image 20240605094631.png",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Minimizing a Differential Equation.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Classification - A Mathematical Formulation.md",
