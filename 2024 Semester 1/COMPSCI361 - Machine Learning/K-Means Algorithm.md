@@ -20,6 +20,7 @@ Given set of [[instance(s)]] & number of [[cluster(s)]] $k$ ([[hyperparameter(s)
 - #### Bottleneck:
 	- We need to compute distance from $n$ [[instance(s)]] to $k$ [[cluster(s)]] $l$ times
 - For fixed $l<<k^n$ & $k<<n$,$d<<n$ then it is almost linear in $n$
-	- 1. $l<<k^n$ 
+	1. $l<<k^n$ = number of iterations where it CANNOT be bigger than $k^n$ (exponential)
+	2. $k<<n$ = k should be far smaller than n because you want to compress your data & only be r 
 ##### Why is complexity important
 - because [[Clustering]] is typically applied to large databases & [[2024 Semester 1/INFOSYS303 - Solutions Architecture/Scalability|Scalability]] is important
