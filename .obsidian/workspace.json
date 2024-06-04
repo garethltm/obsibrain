@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Profitability & Financial Risk Analysis.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "92bd9a9a404b9a24",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Profitability Analysis.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -241,11 +228,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "92bd9a9a404b9a24",
+  "active": "e02606a8f80b4459",
   "lastOpenFiles": [
-    "@images/Pasted image 20240604234141.png",
     "2024 Semester 1/ACCTG151G - Financial Literacy/Profitability & Financial Risk Analysis.md",
+    "2024 Semester 1/ACCTG151G - Financial Literacy/Balance sheet.md",
+    "2024 Semester 1/ACCTG151G - Financial Literacy/Income Statement.md",
+    "@images/Pasted image 20240604234334.png",
     "2024 Semester 1/ACCTG151G - Financial Literacy/Profitability Analysis.md",
+    "@images/Pasted image 20240604234141.png",
     "2024 Semester 1/ACCTG151G - Financial Literacy/Ratios.md",
     "@images/Pasted image 20240604233847.png",
     "2024 Semester 1/ACCTG151G - Financial Literacy/Gross Profit Margin.md",
@@ -257,7 +247,6 @@
     "2024 Semester 1/ACCTG151G - Financial Literacy/Interest expense.md",
     "2024 Semester 1/ACCTG151G - Financial Literacy/Extra bits & pieces (Unexpected cost).md",
     "2024 Semester 1/ACCTG151G - Financial Literacy/Tax expense.md",
-    "2024 Semester 1/ACCTG151G - Financial Literacy/Income Statement.md",
     "2024 Semester 1/ACCTG151G - Financial Literacy/Earnings Before Interest & Tax (EBIT).md",
     "@images/Pasted image 20240604231122.png",
     "2024 Semester 1/ACCTG151G - Financial Literacy/Accounting Reports.md",
@@ -276,10 +265,7 @@
     "2024 Semester 1/COMPSCI361 - Machine Learning/Support Vector Machines (SVM).md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Machine Learning Systems.md",
     "@images/Pasted image 20240604215931.png",
-    "@images/Pasted image 20240604215638.png",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/k-nearest neighbour (KNN).md",
     "Untitled.canvas",
-    "@images/Pasted image 20240604174306.png",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Untitled",
     "2024 Semester 1",

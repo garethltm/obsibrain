@@ -19,3 +19,5 @@ Statements that most businesses have every year:
 These expenses are:
 - [[Interest expense]]
 - [[Tax expense]]
+
+#acctg151Gexample ![[Pasted image 20240604234334.png]]
