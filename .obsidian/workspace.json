@@ -13,13 +13,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Machine Learning Systems.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Model-based Learning.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4e374fd07866cb04",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Data Characteristics.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "85a03f48c2153a07",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Linearly Separable Data.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -65,8 +90,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Machine Learning Systems.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Linearly Separable Data.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Machine Learning Systems.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Linearly Separable Data.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Machine Learning Systems.md"
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Linearly Separable Data.md"
               }
             }
           }
@@ -159,11 +183,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c376100e65314c09",
+  "active": "85a03f48c2153a07",
   "lastOpenFiles": [
+    "@images/Pasted image 20240605103727.png",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Data Characteristics.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Linearly Separable Data.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/hyperparameter(s).md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Model-based Learning.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Machine Learning Systems.md",
     "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week02/Motivation of having a Search Strategy.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Instance-based Learning.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Model-based Learning.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Support Vector Machines (SVM).md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/k-nearest neighbor (kNN).md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/rule-based classifiers.md",
@@ -191,11 +220,6 @@
     "2024 Semester 1/COMPSCI361 - Machine Learning/nearest neighbor(s).md",
     "@images/Pasted image 20240605095113.png",
     "@images/Pasted image 20240605095036.png",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Nearest-Neighbor Classifiers.md",
-    "@images/Pasted image 20240605094631.png",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Minimizing a Differential Equation.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Classification - A Mathematical Formulation.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Logistic Regression.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Neural Network (NN).md"
+    "@images/Pasted image 20240605094631.png"
   ]
 }
