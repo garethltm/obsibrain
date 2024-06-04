@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Partitioning Algorithms.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "affb166fd18d9581",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Hierarchical Clustering.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -241,16 +228,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "affb166fd18d9581",
+  "active": "884ca03eed0719a3",
   "lastOpenFiles": [
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Partitioning Algorithms.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/dendrogram.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Hierarchical Clustering.md",
     "@images/Pasted image 20240604164218.png",
     "@images/Pasted image 20240604164145.png",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Hierarchical Clustering.md",
     "@images/Pasted image 20240604163021.png",
     "@images/Pasted image 20240604162947.png",
     "@images/Pasted image 20240604162912.png",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Partitioning Algorithms.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Density-Based Clustering.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Data Preprocessing.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Data cleaning.md",
