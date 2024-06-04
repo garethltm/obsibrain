@@ -18,4 +18,5 @@ Given set of [[instance(s)]] & number of [[cluster(s)]] $k$ ([[hyperparameter(s)
 - ### Suggestions
 	- $O(nkld)$ $\rightarrow$ product of all values
 - #### Bottleneck:
-	- We need to compute distance from n [[instance(s)]] to k [[cluster(s)]] l time
+	- We need to compute distance from n [[instance(s)]] to k [[cluster(s)]] l times
+- For fixed $l<<k^n$ & $k<<n$,$d<
