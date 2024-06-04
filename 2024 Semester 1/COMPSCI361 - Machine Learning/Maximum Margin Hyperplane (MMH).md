@@ -11,3 +11,7 @@ it can be written as: $w_1\cdot x_{i,1}+w_2\cdot x_{i,2}+b =0$,
 	- $H_2:w_1\cdot x_{i,1}+w_2\cdot x_{i,2}+b\le 1$, for $y_i$ = -1
 Any training tuples (data) that fall on margins $H_1$ or $H_2$ 
 -  are [[support vectors]]
+
+## Linear model
+$f(\vec{x}) = \begin{cases} +1, & \vec{w} \cdot \vec{x} + b \geq +1\\-1, & \vec{w} \cdot \vec{x} + b \leq -1\end{cases}$
+1. Traini
