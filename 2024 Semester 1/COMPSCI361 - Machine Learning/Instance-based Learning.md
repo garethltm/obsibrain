@@ -4,3 +4,4 @@
 - Prediction can be expensive
 ![[Pasted image 20240604215638.png]]
 - [[k-nearest neighbour (KNN)]]
+

@@ -3,4 +3,4 @@
 - Prediction is extremely fast
 	- You can also use [[Linear Regression]]
 ![[Pasted image 20240604215931.png]]
-- [[Support Vector Machine (SVM)]]
+- [[Support Vector Machines (SVM)]]
