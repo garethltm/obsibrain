@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Cluster Quality.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Extrinsic.md",
                 "mode": "source",
                 "source": false
               }
@@ -254,9 +254,9 @@
   },
   "active": "c1e8a08598b3eb49",
   "lastOpenFiles": [
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Cluster Quality.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Intrinsic.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Extrinsic.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Intrinsic.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Cluster Quality.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Hierarchical Clustering.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/agglomerative clustering.md",
     "@images/Pasted image 20240604165642.png",
