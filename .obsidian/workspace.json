@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Maximum Margin Hyperplane (MMH).md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Margin Maximization.md",
                 "mode": "source",
                 "source": false
               }
@@ -72,7 +72,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "hyperplane",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -89,7 +89,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -109,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Maximum Margin Hyperplane (MMH).md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Margin Maximization.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Maximum Margin Hyperplane (MMH).md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Margin Maximization.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Maximum Margin Hyperplane (MMH).md"
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Margin Maximization.md"
               }
             }
           }
@@ -184,6 +185,8 @@
   },
   "active": "3392bc9e2af2e9ba",
   "lastOpenFiles": [
+    "2024 Semester 1/COMPSCI361 - Machine Learning/support vectors.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Maximum Margin Hyperplane (MMH).md",
     "@images/Pasted image 20240605110057.png",
     "@images/Pasted image 20240605105538.png",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Margin Maximization.md",
@@ -192,7 +195,6 @@
     "2024 Semester 1/COMPSCI361 - Machine Learning/Support Vector Machines (SVM).md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Ensemble(s).md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/k-Means.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Maximum Margin Hyperplane (MMH).md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/hyperplane.md",
     "@images/Pasted image 20240605104722.png",
     "2024 Semester 1/COMPSCI361 - Machine Learning/AdaBoost.md",
@@ -218,7 +220,6 @@
     "2024 Semester 1/COMPSCI361 - Machine Learning/Fundamental Trade-Off.md",
     "@images/Pasted image 20240605103836.png",
     "@images/Pasted image 20240605103805.png",
-    "@images/Pasted image 20240605103727.png",
-    "@images/Pasted image 20240605102527.png"
+    "@images/Pasted image 20240605103727.png"
   ]
 }
