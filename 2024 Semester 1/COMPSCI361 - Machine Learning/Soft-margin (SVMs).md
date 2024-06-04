@@ -1,0 +1,1 @@
+[[Soft-margin (SVMs)]] selects the maximum margin linear [[classifier(s)]] with partial misclassifications allowed
