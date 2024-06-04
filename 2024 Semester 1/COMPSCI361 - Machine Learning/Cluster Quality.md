@@ -1,2 +1,2 @@
 - how can we judge the goodness of a [[cluster(s)]]
-## [[Extrinsic]] vs Intrinsic
+## [[Extrinsic]] vs [[Intrinsic]]

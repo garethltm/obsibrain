@@ -25,26 +25,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Extrinsic.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c1e8a08598b3eb49",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Intrinsic.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Cluster Quality.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -111,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Intrinsic.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Cluster Quality.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Intrinsic.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Cluster Quality.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Intrinsic.md"
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Cluster Quality.md"
               }
             }
           },
@@ -181,7 +169,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Intrinsic.md"
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Cluster Quality.md"
               }
             }
           },
@@ -207,7 +195,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Intrinsic.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Cluster Quality.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -252,12 +240,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c1e8a08598b3eb49",
+  "active": "029207f089c33dd3",
   "lastOpenFiles": [
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Silhouette coefficient.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Intrinsic.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Extrinsic.md",
+    "@images/Pasted image 20240604170919.png",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Cluster Quality.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Extrinsic.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Silhouette coefficient.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Hierarchical Clustering.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/agglomerative clustering.md",
     "@images/Pasted image 20240604165642.png",
@@ -274,7 +263,6 @@
     "2024 Semester 1/COMPSCI361 - Machine Learning/dendrogram.md",
     "@images/Pasted image 20240604164218.png",
     "@images/Pasted image 20240604164145.png",
-    "@images/Pasted image 20240604163021.png",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Density-Based Clustering.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Data Preprocessing.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Data cleaning.md",
@@ -289,7 +277,6 @@
     "2024 Semester 1/COMPSCI361 - Machine Learning/overfit(ting).md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/k-Means++.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Untitled 1.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/k-Medoids Clustering.md",
     "Untitled.canvas",
     "2023 Semester 1/MKTG151G/Notes",
     "2023 Semester 1/MKTG151G/Lecture Notes",
