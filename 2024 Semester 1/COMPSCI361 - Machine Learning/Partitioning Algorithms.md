@@ -8,4 +8,4 @@
 	- Global optimum: exhaustively enumerate all partitions $\rightarrow$ Expensive
 	- Local optimum: heuristics, such as [[k-Means]] (not guaranteed correct solution/[[Optimal]] solution)
 Suitable for detecting non-overlapping spherical [[cluster(s)]] of similar size & density
-There are other types of [[Clustering]] 
+There are other types of [[Clustering]] algorithms, such as [[Density-based Clustering]] & hierarchical [[Clustering]]
