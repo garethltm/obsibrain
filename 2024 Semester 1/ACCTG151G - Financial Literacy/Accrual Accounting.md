@@ -1,0 +1,1 @@
+this means that revenue will be recognised even though the benefits (cash)
