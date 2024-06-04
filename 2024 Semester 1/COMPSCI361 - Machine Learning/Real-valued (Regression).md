@@ -10,4 +10,6 @@ Weighted [[k-nearest neighbour (KNN)]] (a variant of normal [[k-nearest neighbou
 	- lesser weight to further neighbors
 ### Issue
 - [[Noisy data]]: distance between neighbors could be dominated by irrelevant attributes
-## Fix
+### Fix
+- Elimination of the least relevant attributes
+	- #compsci361example by applying [[Principal Components Analysis (PCA)]] on data before using [[k-nearest neighbour (KNN)]]

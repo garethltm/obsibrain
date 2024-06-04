@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "27dd5c377a493a71",
+        "id": "d551644de33d5d46",
         "type": "tabs",
         "children": [
           {
-            "id": "4f003a0602a087c8",
+            "id": "c376100e65314c09",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Real-valued (Regression).md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -65,8 +61,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Real-valued (Regression).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Real-valued (Regression).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,9 +130,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Real-valued (Regression).md"
-              }
+              "state": {}
             }
           }
         ]
@@ -159,11 +150,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4f003a0602a087c8",
+  "active": "c376100e65314c09",
   "lastOpenFiles": [
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Principal Components Analysis (PCA).md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Real-valued (Regression).md",
     "@images/Pasted image 20240605100429.png",
     "2024 Semester 1/COMPSCI361 - Machine Learning/k-nearest neighbour (KNN).md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Real-valued (Regression).md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Discrete-valued (Classification).md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/nearest neighbor(s).md",
     "@images/Pasted image 20240605095113.png",
