@@ -23,3 +23,6 @@ It's (almost) non-parametric [[Clustering]] method
 ![[Pasted image 20240604153139.png]]
 
 #compsci361example ![[Pasted image 20240604153546.png]]![[Pasted image 20240604153558.png]]![[Pasted image 20240604153613.png]]![[Pasted image 20240604153626.png]]![[Pasted image 20240604153639.png]]![[Pasted image 20240604153659.png]]![[Pasted image 20240604153710.png]]
+## Issues
+- Finding [[cluster(s)]] for a new point is expensive you need to compute distances to $m$ core points $O(md)$, or in worst case to all training points $O(nd)$
+- 
