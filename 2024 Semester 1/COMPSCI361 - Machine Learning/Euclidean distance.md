@@ -1,0 +1,1 @@
+root of square difference between coordinates of pair of points $x$ and $y$ on $D$-dimensional plane
