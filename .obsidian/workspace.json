@@ -8,30 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3392bc9e2af2e9ba",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Maximum Margin Hyperplane (MMH).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d72a5a2e0f6b9578",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Generalization Performance.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "c09a5424549e495e",
             "type": "leaf",
             "state": {
@@ -183,12 +159,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3392bc9e2af2e9ba",
+  "active": "c09a5424549e495e",
   "lastOpenFiles": [
     "2024 Semester 1/COMPSCI361 - Machine Learning/support vectors.md",
+    "@images/Pasted image 20240605110910.png",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Maximum Margin Hyperplane (MMH).md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Margin Maximization.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/hyperplanes.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Maximum Margin Hyperplane (MMH).md",
     "@images/Pasted image 20240605110057.png",
     "@images/Pasted image 20240605105538.png",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Generalization Performance.md",
@@ -217,9 +194,7 @@
     "@images/Pasted image 20240605104139.png",
     "@images/Pasted image 20240605104008.png",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Model-based Learning.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Data Characteristics.md",
     "@images/Pasted image 20240605103836.png",
-    "@images/Pasted image 20240605103805.png",
-    "@images/Pasted image 20240605103727.png"
+    "@images/Pasted image 20240605103805.png"
   ]
 }
