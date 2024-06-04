@@ -29,5 +29,7 @@ uses proximity to make [[classification]] or predictions about the grouping of a
 	- weight of a person may vary from 90lb to 300lb
 	- income of a person may vary from $10k to $1M
 	**Solution**: Attributes may have to be scaled ([[Normalization]]) to prevent distance measures from being dominated by one of the attributes:
-	1. Irrelevant & Redundant Attributes Issue
-		- Irrelev
+	- Irrelevant & Redundant Attributes Issue
+		1. Irrelevant attributes add [[Noise]] to the proximity measure
+		2. Redundant attributes bias the proximity measure towards certain attributes
+	
