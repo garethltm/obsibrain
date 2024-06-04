@@ -25,4 +25,4 @@ has 2 parameters:
 ## Pseudo Code
 ![[Pasted image 20240604153139.png]]
 
-#compsci361example 
+#compsci361example ![[Pasted image 20240604153546.png]]![[Pasted image 20240604153558.png]]![[Pasted image 20240604153613.png]]![[Pasted image 20240604153626.png]]
