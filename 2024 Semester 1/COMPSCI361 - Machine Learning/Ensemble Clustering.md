@@ -11,4 +11,6 @@ We can consider [[Ensemble(s)]] methods for [[Clustering]]: "consensus" [[Cluste
 2. For each pair of [[instance(s)]] $x_i$ & $x_j$, define
 	- $m_{ij}$, the number times both [[instance(s)]] are in the same [[cluster(s)]]
 	- $p_{ij}=\frac {m_{ij}}{m}$, the probability the [[instance(s)]] are clustered together
-
+3. Put $x_i$ and $x_j$ in the same [[cluster(s)]] if $p_{ij}>0.5$
+	- If both are already assigned to [[cluster(s)]], merge both [[cluster(s)]]
+	- If none are assigned, for
