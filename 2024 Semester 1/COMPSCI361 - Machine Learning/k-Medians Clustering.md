@@ -8,4 +8,6 @@ $$
 - $w_{\hat{y}_i}[j] - x_i[j]$ represents the sum of the absolute differences in each dimension (Manhattan distance)
 Minimizing the L1-norm objective gives the [[k-Medians Clustering]] algorithm
 - Assign points to [[cluster(s)]] by finding centres with smallest L1-norm distance
-- Upda
+- Update cluster centers as median value (dimension-wise) of each [[cluster(s)]]
+	- this minimizes the L1-norm distance to all the [[instance(s)]] in the [[cluster(s)]]
+This approach is mo
