@@ -1,0 +1,1 @@
+1. Debt to equity Ratio
