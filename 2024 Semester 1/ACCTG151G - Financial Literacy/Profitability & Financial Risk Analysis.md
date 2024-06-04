@@ -3,6 +3,6 @@ We can evaluate [[Financial Statement]] using a variety of tools including ratio
 2. [[Vertical percentage changes]]
 
 ![[Pasted image 20240604233847.png]]
-- [[Ratios]]
+- [[Ratio]]
 
 1. [[Profitability Analysis]]
