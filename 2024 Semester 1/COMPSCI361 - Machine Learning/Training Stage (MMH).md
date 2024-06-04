@@ -39,3 +39,4 @@ This becomes a constrained (convex) quadratic optimization problem:
 	- Green [[support vectors]] ($y_i = -1$)
 	Thus, the solution for $b$ from any of the [[support vectors]] 
 	$$b = \frac{1}{|SV|} \sum_{x_i \in SV} y_i - (\vec{w} \cdot \vec{x_i})$$
+#compsci361example ![[Pasted image 20240605115402.png]]

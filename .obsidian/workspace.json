@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Training Stage (MMH).md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Maximum Margin Hyperplane (MMH).md",
                 "mode": "source",
                 "source": false
               }
@@ -186,10 +186,12 @@
   },
   "active": "e7da56fe055b8b40",
   "lastOpenFiles": [
-    "@images/Pasted image 20240605115223.png",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Training Stage (MMH).md",
+    "@images/Pasted image 20240605115418.png",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Maximum Margin Hyperplane (MMH).md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Training Stage (MMH).md",
+    "@images/Pasted image 20240605115402.png",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Testing Stage (MMH).md",
+    "@images/Pasted image 20240605115223.png",
     "@images/Pasted image 20240605114904.png",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Lagrange Multipliers & Constrained Optimization.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Quadratic Programming (QP).md",
@@ -203,9 +205,7 @@
     "2024 Semester 1/COMPSCI361 - Machine Learning/Margin Maximization.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/hyperplanes.md",
     "@images/Pasted image 20240605110057.png",
-    "@images/Pasted image 20240605105538.png",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Generalization Performance.md",
-    "@images/Pasted image 20240605105452.png",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Support Vector Machines (SVM).md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Ensemble(s).md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/k-Means.md",
