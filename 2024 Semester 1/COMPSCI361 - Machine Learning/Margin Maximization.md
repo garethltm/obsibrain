@@ -10,4 +10,6 @@ The [[Hard-margin (SVMs)]] algorithms aims to find a linear [[classifier(s)]] th
 Any linear [[classifier(s)]] that separates $S$ correctly will have margin $\gamma > 0$
 We want to find the best one (the one that minimizes [[classification]] error on unseen data)
 #### Assumption
-- the [[hyperplane]] with the largest margin will genera
+- the [[hyperplane]] with the largest margin will generalise best on unseen data
+[[Support Vector Machines (SVM)]] searches for [[hyperplane]] with largest margin
+- [[Maxi]]
