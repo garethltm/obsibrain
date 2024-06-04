@@ -1,1 +1,2 @@
-$$Debt\ to\ Asset\ Ratio=\frac{}{}$$
+$$Debt\ to\ Asset\ =\frac{Debt}{Total\ Assets}$$
+- 
