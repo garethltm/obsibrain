@@ -24,3 +24,6 @@ When you are calculating [[cluster(s)]], there is no reason to think about hiera
 1. [[Single-Linkage]]
 2. [[Complete Linkage]]
 3. [[Centroid distance]]
+	![[Pasted image 20240604165642.png]]
+	
+	
