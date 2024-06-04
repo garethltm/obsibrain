@@ -9,7 +9,7 @@ Given set of [[instance(s)]] & number of [[cluster(s)]] $k$ ([[hyperparameter(s)
 4. go back to **step 2** & repeat until [[convergence]]
 	- recalculate the [[centroid]] of your [[cluster(s)]] & re-assign
 		- such that the some [[instance(s)]] are closer to other [[centroid]]
-## [[K-Means Algorithm]]
+## [[k-Means Algorithm]]
 ![[Pasted image 20240604135959.png]]
 ### Complexity
 - $k$ number of [[cluster(s)]]
@@ -36,7 +36,7 @@ Each example is assigned to one (& only one) [[cluster(s)]] $\rightarrow$ no pos
 ## Potential Fix (in a predictive setting)
 - Assumes you know number of [[cluster(s)]] k
 	- if you don't know, you can define a function which sums up the distances from your [[instance(s)]] from each [[cluster(s)]] to the cluster centre (within cluster variance)
-- [[K-Means Algorithm]] is guaranteed to converge when using Euclidean distance
+- [[k-Means Algorithm]] is guaranteed to converge when using Euclidean distance
 	1. you can forget about all [[instance(s)]] that belong to your [[cluster(s)]]. Your cluster centroid is like a pillar to your [[cluster(s)]]
 	2. you can compute distances for that new test [[instance(s)]] to all existing [[cluster(s)]] centres, choose the one closest to you in terms of Euclidean distance
 Not all [[Clustering]] algorithms can be applied in a predictive manner to a new test instance, some only work in a valid descriptively only for the data set you have obtained.
@@ -49,8 +49,8 @@ Not all [[Clustering]] algorithms can be applied in a predictive manner to a new
 - Assumes you know the number of [[cluster(s)]] $k$
 	- Lots of heuristics to pick $k$ (elbow method), none satisfying![[Pasted image 20240604142559.png]]![[Pasted image 20240604142628.png]]
 	- [[Cross-Validation (CV)]]
-## What is [[K-Means Algorithm]] doing?
-We can interpret [[K-Means Algorithm]] steps as minimizing an objective
+## What is [[k-Means Algorithm]] doing?
+We can interpret [[k-Means Algorithm]] steps as minimizing an objective
 - Total sum of squared distances from each example $x_i$ to its [[cluster(s)]] center (squared L2 norm)$$f(w_1, \ldots, w_k, \hat{y}_1, \ldots, \hat{y}_n) = \sum_{i=1}^{n} \| w_{\hat{y}_i} - x_i \|_2^2$$
 - $w_{\hat{y}_i} - x_i$ = minimizes in terms of chosen centres = because we are always refining the centres to represent the mean/ average/best point that represents
 #### Steps
