@@ -1,0 +1,1 @@
+are backed by a legal claim on specific property which could be liquidated & used to pay the bondholders if the issuer defaults.

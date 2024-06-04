@@ -1,0 +1,1 @@
+is the annual [[Interest rates (r)]] paid by the bond issuer & is usually fixed for the life of the bond

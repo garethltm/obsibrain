@@ -4,15 +4,27 @@
     "type": "split",
     "children": [
       {
+<<<<<<< HEAD
         "id": "4c94c3ef3d0469e9",
         "type": "tabs",
         "children": [
           {
             "id": "2c1a40d5c4ca4331",
+=======
+        "id": "4c0ffba66571d636",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "53c2c772b80dc229",
+>>>>>>> origin/main
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/asset(s).md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -82,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/asset(s).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/asset(s).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +133,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/asset(s).md"
+              }
             }
           },
           {
@@ -147,7 +163,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {}
+              "state": {
+                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/asset(s).md"
+              }
             }
           },
           {
@@ -159,7 +177,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 3
       },
       {
         "id": "aca6307e70cdfa79",
@@ -172,6 +190,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/asset(s).md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -194,7 +213,11 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
+<<<<<<< HEAD
                   "scale": 0.8588896463637218,
+=======
+                  "scale": 0.23152827722148644,
+>>>>>>> origin/main
                   "close": true
                 }
               }
@@ -204,7 +227,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 307.5
+    "width": 307.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -216,6 +240,7 @@
       "command-palette:Open command palette": false
     }
   },
+<<<<<<< HEAD
   "active": "2c1a40d5c4ca4331",
   "lastOpenFiles": [
     "2024 Semester 1/COMPSCI361 - Machine Learning/bag-of-words.md",
@@ -225,27 +250,13 @@
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Amazon Elastic Container Service (Amazon ECS).md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Amazon EFS.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Amazon EC2 pricing.md",
+=======
+  "active": "53c2c772b80dc229",
+  "lastOpenFiles": [
+>>>>>>> origin/main
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Amazon EC2 instance(s).md",
-    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Amazon EC2.md",
-    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Amazon EC2 Auto Scaling.md",
-    "conflict-files-obsidian-git.md",
-    "@images/Pasted image 20240528222941.png",
-    "@images/Pasted image 20240528213139.png",
-    "@images/Pasted image 20240528213126.png",
-    "@images/Pasted image 20240528211846.png",
-    "@images/Pasted image 20240528204328.png",
-    "@images/Pasted image 20240528204144.png",
-    "@images/Pasted image 20240528203913.png",
-    "@images/Pasted image 20240528203720.png",
-    "@images/Pasted image 20240528203520.png",
-    "2024 Semester 1/INFOSYS303 - Solutions Architecture/control plane.md",
-    "2024 Semester 1/INFOSYS303 - Solutions Architecture/autoscaling.md",
-    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Target group.md",
-    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Software Defined Networks (SDN).md",
-    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Serverless Computing.md",
-    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Security group.md",
-    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Evolution of network virtualization.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Amazon EBS.md",
+<<<<<<< HEAD
     "README.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/AdaBoost.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Private Cloud.md",
@@ -254,6 +265,42 @@
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/security mechanism.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/security attacks.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/passive attack.md",
+=======
+    "2021 Semester 2/COMPSCI130/Useful.md",
+    "2021 Semester 2/COMPSCI130/TimedCoderunner.md",
+    "2021 Semester 2/COMPSCI130/Revision.md",
+    "2021 Semester 2/COMPSCI130/Revision/Revision - Lists.md",
+    "2021 Semester 2/COMPSCI120/Claims.md",
+    "2021 Semester 2/COMPSCI120/Lectures.md",
+    "2021 Semester 2/COMPSCI120/Practice problems.md",
+    "2021 Semester 2/COMPSCI120/Useful.md",
+    "2021 Semester 2/COMPSCI120/Tutorials.md",
+    "2021 Semester 2/COMPSCI120/Definition.md",
+    "2021 Semester 2/COMPSCI120/Finals/2020 S1.md",
+    "2021 Semester 2/COMPSCI120/Finals/2019 SS.md",
+    "2021 Semester 2/COMPSCI120/Finals/2019 S1.md",
+    "2021 Semester 2/COMPSCI120/Assignments/Assignment 4.md",
+    "2024 Semester 1/ACCTG151G - Financial Literacy/Balance sheet.md",
+    "@images/Pasted image 20240602225414.png",
+    "@images/Pasted image 20240602225255.png",
+    "@images/Pasted image 20240602225202.png",
+    "@images/Pasted image 20240602225046.png",
+    "@images/Pasted image 20240602224944.png",
+    "@images/Pasted image 20240602224907.png",
+    "@images/Pasted image 20240602224810.png",
+    "@images/Pasted image 20240602224730.png",
+    "@images/Pasted image 20240602224620.png",
+    "@images/Pasted image 20240602224529.png",
+    "2024 Semester 1/ACCTG151G - Financial Literacy/current asset.md",
+    "2024 Semester 1/ACCTG151G - Financial Literacy/Accounting Equation.md",
+    "2024 Semester 1/ACCTG151G - Financial Literacy/Ordinary Shares (or Common Stock).md",
+    "2024 Semester 1/ACCTG151G - Financial Literacy/The Statement of Concepts.md",
+    "2024 Semester 1/ACCTG151G - Financial Literacy/Speculative shares.md",
+    "2024 Semester 1/ACCTG151G - Financial Literacy/Income shares.md",
+    "2024 Semester 1/ACCTG151G - Financial Literacy/Tech shares.md",
+    "2024 Semester 1/ACCTG151G - Financial Literacy/Growth shares.md",
+    "2024 Semester 1/ACCTG151G - Financial Literacy/Blue-Chip.md",
+>>>>>>> origin/main
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Untitled",
     "2024 Semester 1",
