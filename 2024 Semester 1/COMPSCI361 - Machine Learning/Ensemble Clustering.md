@@ -7,4 +7,6 @@ We can consider [[Ensemble(s)]] methods for [[Clustering]]: "consensus" [[Cluste
 - Normally, averaging across models doing different things is good
 - But this is a bad [[Ensemble(s)]] method: worse than [[k-Means]] on its own
 ## Idea for [[Ensemble Clustering]]
-1. Run [[k-Means]] $m$ times with different initialization to produce $m$ [[cluster]]
+1. Run [[k-Means]] $m$ times with different initialization to produce $m$ [[Clustering]] outputs
+2. For each pair of [[instance(s)]] $x_i$ & $x_j$, define
+	- $m_{ij}$, the number ti
