@@ -9,4 +9,6 @@ We can consider [[Ensemble(s)]] methods for [[Clustering]]: "consensus" [[Cluste
 ## Idea for [[Ensemble Clustering]]
 1. Run [[k-Means]] $m$ times with different initialization to produce $m$ [[Clustering]] outputs
 2. For each pair of [[instance(s)]] $x_i$ & $x_j$, define
-	- $m_{ij}$, the number ti
+	- $m_{ij}$, the number times both [[instance(s)]] are in the same [[cluster(s)]]
+	- $p_{ij}=\frac {m_{ij}}{m}$, the probability the [[instance(s)]] are clustered together
+
