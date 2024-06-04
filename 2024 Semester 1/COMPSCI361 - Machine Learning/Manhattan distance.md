@@ -1,0 +1,1 @@
+absolute differences between coordinates of pair points $x$ and $y$ on $D$-dimensional plane$$d_M(x,y) = \sum_{i=1}^{D}|(x_i - y_i)|$$
