@@ -1,1 +1,3 @@
 - balance between 2 things
+- A measure for distance within a [[cluster(s)]] and between [[cluster(s)]]
+- 
