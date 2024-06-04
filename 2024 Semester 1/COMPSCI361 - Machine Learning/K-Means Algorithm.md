@@ -52,3 +52,4 @@ Not all [[Clustering]] algorithms can be applied in a predictive manner to a new
 ## What is [[K-Means Algorithm]] doing?
 We can interpret [[K-Means Algorithm]] steps as minimizing an objective
 - Total sum of squared distances from each example $x_i$ to its [[cluster(s)]] center (squared L2 norm)
+- $$\[ $$f(w_1, \ldots, w_k, \hat{y}_1, \ldots, \hat{y}_n) = \sum_{i=1}^{n} \| w_{\hat{y}_i} - x_i \|_2^2$$
