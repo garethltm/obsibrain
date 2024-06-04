@@ -39,4 +39,7 @@ Each example is assigned to one (& only one) [[cluster(s)]] $\rightarrow$ no pos
 - [[K-Means Algorithm]] is guaranteed to converge when using Euclidean distance
 	1. you can forget about all [[instance(s)]] that belong to your [[cluster(s)]]. Your cluster centroid is like a pillar to your [[cluster(s)]]
 	2. you can compute distances for that new test [[instance(s)]] to all existing [[cluster(s)]] centres, choose the one closest to you in terms of Euclidean distance
-Not all [[Clustering]] algorithms can be applied in a predictive 
+Not all [[Clustering]] algorithms can be applied in a predictive manner to a new test instance, some only work in a valid descriptively only for the data set you have obtained.
+## Behaviour/Assumptions
+- Given a new (test) example
+	- Assign it to the nearest ([[cluster(s)]]) 
