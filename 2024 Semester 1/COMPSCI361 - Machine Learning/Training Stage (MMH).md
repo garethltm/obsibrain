@@ -33,5 +33,9 @@ This becomes a constrained (convex) quadratic optimization problem:
 	- $a_i = 0$ for other training points
 	Thus, the solution of $\vec {w}$ corresponding to the maximal margin classifier can be written as a linear combination of just the [[support vectors]]:
 	$$\vec{w} = \sum_{x_i \in SV} \alpha_i y_i \vec{x_i}$$
+	![[Pasted image 20240605114904.png]]
 	For [[support vectors]], we have $y_i - (\vec {w}\cdot \vec {x_i} +b) = 0$
+	- Blue [[support vectors]] ($y_i = +1$)
+	- Green [[support vectors]] ($y_i = -1$)
+	Thus, the solution for $b$ from any of the [[support vectors]] 
 	
