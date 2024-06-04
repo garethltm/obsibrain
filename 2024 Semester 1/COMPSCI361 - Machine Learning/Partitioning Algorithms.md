@@ -1,1 +1,1 @@
-- [[k-Means Algorithm]]
+- [[k-Means]]

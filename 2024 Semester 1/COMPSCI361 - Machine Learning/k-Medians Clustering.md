@@ -1,4 +1,4 @@
-With other distances [[k-Means Algorithm]] may not converge
+With other distances [[k-Means]] may not converge
 - But we can make it converge by changing the updates so that they are minimizing an alternative objective function
 	- by changing the updates = you are changing the objective function, which allows us to represent that representative example differently not with average
 	- this will converge & will be the [[Optimal]] solution starting from the right initial centres

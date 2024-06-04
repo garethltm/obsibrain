@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/k-Means++.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/k-Means.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/k-Means++.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/k-Means.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/k-Means++.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/k-Means.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/k-Means++.md"
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/k-Means.md"
               }
             }
           },
@@ -168,7 +168,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/k-Means++.md"
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/k-Means.md"
               }
             }
           },
@@ -194,7 +194,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/k-Means++.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/k-Means.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -241,10 +241,10 @@
   },
   "active": "ac8a6c4d20c44f06",
   "lastOpenFiles": [
-    "2024 Semester 1/COMPSCI361 - Machine Learning/k-Medoids Clustering.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/k-Means++.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/k-Medoids Clustering.md",
     "@images/Pasted image 20240604145426.png",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/k-Means Algorithm.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/k-Means.md",
     "2021 Semester 2/COMPSCI130/Lectures/Second Half.md",
     "Untitled.canvas",
     "2024 Semester 1/COMPSCI361 - Machine Learning/k-Medians Clustering.md",
