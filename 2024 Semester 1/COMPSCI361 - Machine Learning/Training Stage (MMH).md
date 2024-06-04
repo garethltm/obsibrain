@@ -14,4 +14,5 @@ This becomes a constrained (convex) quadratic optimization problem:
 ## Duality
 [[Support Vector Machines (SVM)]] primal problem form:
 	$\min\limits_{w,b} \frac{||w||}{2} \quad s.t. \quad y_i(w \cdot x_i + b) \geq 1, \quad i=1,2,...,n$
-We ca
+We can convert it to the dual problem of [[Support Vector Machines (SVM)]] by introducing [[Lagrange Multipliers & Constrained Optimization]] ($\alpha _i$)
+	$L(w,b,\alpha)=\frac{||w||}{2}-\sum\limits_{i=1}^n \alpha_i[y_i(w \cdot x_i + b) - 1], \quad \alpha_i > 0$
