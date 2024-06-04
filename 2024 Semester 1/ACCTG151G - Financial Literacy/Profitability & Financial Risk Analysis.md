@@ -4,3 +4,5 @@ We can evaluate [[Financial Statement]] using a variety of tools including ratio
 
 ![[Pasted image 20240604233847.png]]
 - [[Ratios]]
+
+1. [[Profitability Analysis]]
