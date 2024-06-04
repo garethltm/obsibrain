@@ -12,3 +12,5 @@ Given set of [[instance(s)]] & number of [[cluster(s)]] $k$ ([[hyperparameter(s)
 ## [[K-Means Algorithm]]
 ![[Pasted image 20240604135959.png]]
 ### Complexity
+- k number of [[cluster(s)]]
+- n [[inst]]
