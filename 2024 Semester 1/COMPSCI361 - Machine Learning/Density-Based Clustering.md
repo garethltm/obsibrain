@@ -34,4 +34,4 @@ It's (almost) non-parametric [[Clustering]] method
 		- sort the points & plot the distances
 		- look for "elbow" to set $\epsilon$![[Pasted image 20240604154658.png]]
 	- Otherwise, not sensitive to initialization (except for [[boundary points]])
-	- 
+	-  
