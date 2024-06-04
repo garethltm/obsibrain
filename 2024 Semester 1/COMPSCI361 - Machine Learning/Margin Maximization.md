@@ -7,4 +7,7 @@ The [[Hard-margin (SVMs)]] algorithms aims to find a linear [[classifier(s)]] th
 - We want to find the one that is as far away as possible from the [[training data]] 
 	- largest margin from the middle [[hyperplane]]
 ## Why?
-Any linear [[classifier(s)]] that se
+Any linear [[classifier(s)]] that separates $S$ correctly will have margin $\gamma > 0$
+We want to find the best one (the one that minimizes [[classification]] error on unseen data)
+#### Assumption
+- the [[hyperplane]] with the largest margin will genera
