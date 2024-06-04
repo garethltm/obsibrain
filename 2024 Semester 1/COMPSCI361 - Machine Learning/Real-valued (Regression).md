@@ -1,0 +1,1 @@
+[[k-nearest neighbour (KNN)]] returns the mean values among the $k$ training examples nearest to $x'$
