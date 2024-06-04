@@ -8,4 +8,5 @@ The last section of the [[Income Statement]] wraps things up & tells us how well
 
 Its our last "type" of profit referred to as [[Earnings per Share (EPS)]]
 
-It's the total fi
+It's the total final profit of the business divided by the total number of shares that the business has issued
+#acctg151Gexample ![[Pasted image 20240604232946.png]]
