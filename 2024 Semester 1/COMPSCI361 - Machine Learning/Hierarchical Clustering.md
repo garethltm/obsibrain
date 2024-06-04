@@ -15,4 +15,7 @@ Heuristic that needs similarity/distance matrix to guide the [[Clustering]] proc
 - Increase $\epsilon$ & run it again:![[Pasted image 20240604162947.png]]
 - More complicated case:![[Pasted image 20240604163021.png]]
 ## Note
-When you are calculating [[cluster(s)]], there is no reason to think about hierarchy $\rightarrow$ main point is to find grou
+When you are calculating [[cluster(s)]], there is no reason to think about hierarchy $\rightarrow$ main point is to find groups
+- The hierarchical structure is returned whether there exists 1 in the data or not
+	- How would the [[dendrogram]] look if there is no structure in the data?
+- A [[dendrogram]] is the description of the result of the algorithm, not a graphical
