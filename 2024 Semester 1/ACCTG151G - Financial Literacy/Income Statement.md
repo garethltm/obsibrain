@@ -6,3 +6,5 @@
 ##### Other "operating" expenses include:
 (as long as there is a bill, we have to record down)
 - Paying rent for shops/premises
+- Employees' salaries
+- Electricity bills
