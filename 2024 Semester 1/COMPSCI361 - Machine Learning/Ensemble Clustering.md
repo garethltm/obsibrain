@@ -13,4 +13,7 @@ We can consider [[Ensemble(s)]] methods for [[Clustering]]: "consensus" [[Cluste
 	- $p_{ij}=\frac {m_{ij}}{m}$, the probability the [[instance(s)]] are clustered together
 3. Put $x_i$ and $x_j$ in the same [[cluster(s)]] if $p_{ij}>0.5$
 	- If both are already assigned to [[cluster(s)]], merge both [[cluster(s)]]
-	- If none are assigned, for
+	- If none are assigned, form a new [[cluster(s)]]
+	- If only one is assigned, assign the other one into the same [[cluster(s)]]
+Note: some points are not assigned to any [[cluster(s)]]
+You can implement this with a [[DBSCAN]] code (just "distance" changes)
