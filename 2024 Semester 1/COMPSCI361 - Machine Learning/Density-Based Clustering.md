@@ -25,4 +25,4 @@ It's (almost) non-parametric [[Clustering]] method
 ## Issues
 - Finding [[cluster(s)]] for a new point is expensive you need to compute distances to $m$ core points $O(md)$, or in worst case to all training points $O(nd)$
 - Some points are not assigned to a [[cluster(s)]]
-- Ambiguity of non-core
+- Ambiguity of [[boundary points]]: when these are at same distance from [[core point]] that belong to different [[cluster(s)]]![[Pasted image 20240604154224.png]]
