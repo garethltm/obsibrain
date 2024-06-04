@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Earnings per Share (EPS).md",
+                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Profitability & Financial Risk Analysis.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Earnings per Share (EPS).md",
+                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Profitability & Financial Risk Analysis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Earnings per Share (EPS).md",
+                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Profitability & Financial Risk Analysis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Earnings per Share (EPS).md"
+                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Profitability & Financial Risk Analysis.md"
               }
             }
           },
@@ -156,7 +156,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Earnings per Share (EPS).md"
+                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Profitability & Financial Risk Analysis.md"
               }
             }
           },
@@ -182,7 +182,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Earnings per Share (EPS).md",
+                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Profitability & Financial Risk Analysis.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -230,9 +230,10 @@
   },
   "active": "e02606a8f80b4459",
   "lastOpenFiles": [
+    "2024 Semester 1/ACCTG151G - Financial Literacy/Earnings per Share (EPS).md",
+    "2024 Semester 1/ACCTG151G - Financial Literacy/Profitability & Financial Risk Analysis.md",
     "@images/Pasted image 20240604232946.png",
     "2024 Semester 1/ACCTG151G - Financial Literacy/Interest expense.md",
-    "2024 Semester 1/ACCTG151G - Financial Literacy/Untitled.md",
     "2024 Semester 1/ACCTG151G - Financial Literacy/Extra bits & pieces (Unexpected cost).md",
     "2024 Semester 1/ACCTG151G - Financial Literacy/Tax expense.md",
     "2024 Semester 1/ACCTG151G - Financial Literacy/Income Statement.md",
@@ -261,7 +262,6 @@
     "@images/Pasted image 20240604174306.png",
     "@images/Pasted image 20240604173656.png",
     "@images/Pasted image 20240604173102.png",
-    "@images/Pasted image 20240604172119.png",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Extrinsic.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Ensemble Clustering.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Density-Based Clustering.md",
