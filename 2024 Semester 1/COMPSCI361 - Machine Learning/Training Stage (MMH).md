@@ -30,4 +30,5 @@ This becomes a constrained (convex) quadratic optimization problem:
 	such that $\alpha _i \ge 0$ and $\sum_{i=1}^{n} \alpha_i y_i = 0$,  $i=1,2,...,n$
 	This can be solved efficiently using numerical optimization
 	- $a_i > 0$ for [[support vectors]] $\vec {x_i}$ that lie on the margin $H_1$ and $H_2$
-	- 
+	- $a_i = 0$ for other training points
+Thus, the solution of $\vec {w}$ corresponding to the maximal margin classifier can be written as a linear combination of just the [[support vectors]]:
