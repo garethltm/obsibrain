@@ -18,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "113adda5b7dc491a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Untitled.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Untitled.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Classification - A Mathematical Formulation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Untitled.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Classification - A Mathematical Formulation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Untitled.md"
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Classification - A Mathematical Formulation.md"
               }
             }
           }
@@ -171,10 +158,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "113adda5b7dc491a",
+  "active": "31557bf955dfb712",
   "lastOpenFiles": [
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Logistic Regression.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Classification - A Mathematical Formulation.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Untitled.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Neural Network (NN).md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Document representation.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Dependent vs Explanatory Variable.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Bayes Optimal Classifier.md",
