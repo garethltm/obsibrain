@@ -4,4 +4,6 @@
 	SSE = \sum_{c=1}^{k} \sum_{x \in C_c} \text{dist}(x - w_c)^2 
 	$$
 - where $w_c$ is the centroid or medoid of [[cluster(s)]] $C_c$
-- 
+- Given $k$, find a partition of $k$ [[cluster(s)]] that optimizes the chosen partitioning criterion
+	- Global optimum: exhaustively enumerate all partitions $\rightarrow$ Expensive
+	- Local optimu
