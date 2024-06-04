@@ -1,5 +1,5 @@
 - [[cluster(s)]] are defined by "dense" regions
-- [[instance(s)]] in non-dense regions don't get clustered
+- instances in non-dense regions don't get clustered
 	- Not trying to "partition" the space
 - Sparse doesn't mean that it is not a cluster
 [[cluster(s)]] can be non-convex
