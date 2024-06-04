@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Return on Assets.md",
+                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Gross Profit Margin.md",
                 "mode": "source",
                 "source": false
               }
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Return on Assets.md",
+                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Gross Profit Margin.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Return on Assets.md",
+                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Gross Profit Margin.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Return on Assets.md"
+                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Gross Profit Margin.md"
               }
             }
           },
@@ -169,7 +169,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Return on Assets.md"
+                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Gross Profit Margin.md"
               }
             }
           },
@@ -195,7 +195,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Return on Assets.md",
+                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Gross Profit Margin.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -243,9 +243,9 @@
   },
   "active": "69d9c692ebcf4dc7",
   "lastOpenFiles": [
+    "2024 Semester 1/ACCTG151G - Financial Literacy/Return on Assets.md",
     "@images/Pasted image 20240604234742.png",
     "2024 Semester 1/ACCTG151G - Financial Literacy/Profitability Analysis.md",
-    "2024 Semester 1/ACCTG151G - Financial Literacy/Return on Assets.md",
     "2024 Semester 1/ACCTG151G - Financial Literacy/Profitability & Financial Risk Analysis.md",
     "2024 Semester 1/ACCTG151G - Financial Literacy/Balance sheet.md",
     "2024 Semester 1/ACCTG151G - Financial Literacy/Income Statement.md",
@@ -278,7 +278,6 @@
     "2024 Semester 1/COMPSCI361 - Machine Learning/Model-based Learning.md",
     "@images/Pasted image 20240604221959.png",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Support Vector Machines (SVM).md",
-    "@images/Pasted image 20240604215931.png",
     "Untitled.canvas",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Untitled",
