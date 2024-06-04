@@ -7,3 +7,4 @@
 
 Construct hypotheses directly from the training instances themselves
 The hypothesis complexity can grow with the data (more [[training data]] = more complex)
+#compsci361example if we have $n$ training items, the computation
