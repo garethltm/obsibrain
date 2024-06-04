@@ -23,3 +23,4 @@ has 2 parameters:
 - All non-core neighbours of [[core point]] (boundary points)
 	- points that are not [[core point]] but are edges of the [[cluster(s)]] (boundary)![[Pasted image 20240604153043.png]]
 ## Pseudo Code
+![[Pasted image 20240604153139.png]]
