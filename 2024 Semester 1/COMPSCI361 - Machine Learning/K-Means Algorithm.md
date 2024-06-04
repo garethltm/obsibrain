@@ -47,4 +47,5 @@ Not all [[Clustering]] algorithms can be applied in a predictive manner to a new
 	- No possibility of overlapping [[cluster(s)]] or leaving examples unassigned (outliers)
 - It may converge to sub-optimal solution (sensitive to initialization & outliers)
 - Assumes you know the number of [[cluster(s)]] $k$
-	- Lots of heuristics to pick $k$ (elbow method), none satisfying
+	- Lots of heuristics to pick $k$ (elbow method), none satisfying![[Pasted image 20240604142559.png]]![[Pasted image 20240604142628.png]]
+	- [[Cross-Validation (CV)]]
