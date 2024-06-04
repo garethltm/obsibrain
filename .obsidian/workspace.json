@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "66d126467c38720a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Rag bag.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -99,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Extrinsic.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Rag bag.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Extrinsic.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Rag bag.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Extrinsic.md"
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Rag bag.md"
               }
             }
           },
@@ -169,7 +181,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Extrinsic.md"
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Rag bag.md"
               }
             }
           },
@@ -195,7 +207,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Extrinsic.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Rag bag.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -240,10 +252,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "029207f089c33dd3",
+  "active": "66d126467c38720a",
   "lastOpenFiles": [
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Cluster completeness.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Extrinsic.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Rag bag.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Cluster completeness.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Cluster homogeneity.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Cluster Quality.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Intrinsic.md",
@@ -277,7 +290,6 @@
     "2024 Semester 1/COMPSCI361 - Machine Learning/DBSCAN.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/core point.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/overfit(ting).md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/k-Means++.md",
     "Untitled.canvas",
     "2023 Semester 1/MKTG151G/Notes",
     "2023 Semester 1/MKTG151G/Lecture Notes",

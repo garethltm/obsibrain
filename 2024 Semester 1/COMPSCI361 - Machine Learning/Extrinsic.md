@@ -5,4 +5,4 @@
 A good [[Clustering]] quality measure $Q(C,G)$ for a clustering $C$ given the ground truth $G$, should satisfying following 4 essential criteria:
 1. [[Cluster homogeneity]]
 2. [[Cluster completeness]]
-3. Rag 
+3. [[Rag bag]]
