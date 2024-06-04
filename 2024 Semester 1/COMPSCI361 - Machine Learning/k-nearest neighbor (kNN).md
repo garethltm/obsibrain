@@ -34,3 +34,9 @@ uses proximity to make [[classification]] or predictions about the grouping of a
 		2. Redundant attributes bias the proximity measure towards certain attributes
 	**Solution**: [[Principal Components Analysis (PCA)]] for [[Dimensionality reduction]]
 			[[Principal Components Analysis (PCA)]] $\ne$ Analysis
+## Advantages
+1. Easy to implement
+2. Incremental addition of [[training data]] is trivial
+3. [[k-nearest neighbor (kNN)]] [[classifier(s)]] are local [[classifier(s)]]
+4. [[k-nearest neighbor (kNN)]] [[classifier(s)]] can produce decision boundaries of arbitrary shapes
+$$
