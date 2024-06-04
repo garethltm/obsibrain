@@ -4,3 +4,4 @@ this means that revenue will be recognised even though the benefits (cash) may o
 - It better reflects economic reality... how the company really did
 #### Why is this important?
 - Being a better reflection of economic reality, [[Accrual Accounting]] is the better predictor of future profitability & financial [[Risk]]
+	- will reflect the nature of the transaction & actual occurring time
