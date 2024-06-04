@@ -18,3 +18,5 @@ has 2 parameters:
 #### Main idea:
 - merge all neighbouring [[core point]] to form [[cluster(s)]]
 	- implements a "chain reaction" throughout the dense areas
+[[cluster(s)]] contain:
+- All [[core point]] that can be reached by following a seq

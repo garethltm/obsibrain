@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Partitioning Algorithms.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c1eff24b417260f8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/core point.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Density-Based Clustering.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -99,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/core point.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Density-Based Clustering.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/core point.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Density-Based Clustering.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/core point.md"
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Density-Based Clustering.md"
               }
             }
           },
@@ -169,7 +156,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/core point.md"
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Density-Based Clustering.md"
               }
             }
           },
@@ -195,7 +182,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/core point.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Density-Based Clustering.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -240,12 +227,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c1eff24b417260f8",
+  "active": "884ca03eed0719a3",
   "lastOpenFiles": [
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Density-Based Clustering.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/core point.md",
-    "@images/Pasted image 20240604152658.png",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Partitioning Algorithms.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/core point.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Density-Based Clustering.md",
+    "@images/Pasted image 20240604152658.png",
     "2024 Semester 1/COMPSCI361 - Machine Learning/overfit(ting).md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/k-Means++.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Untitled 1.md",
