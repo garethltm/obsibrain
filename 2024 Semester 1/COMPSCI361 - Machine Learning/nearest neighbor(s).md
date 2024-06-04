@@ -2,3 +2,7 @@ $k$-nearest neighbor of an instance $x'$ are data points that have the $k$ small
 ![[Pasted image 20240605095036.png]]
 ### Breaking ties
 ![[Pasted image 20240605095113.png]]
+- Need to break ties:
+	- Choose an odd $k$ value (does not solve every possible ties)
+		- 
+	- Randomly select between tied neighbors (pick either)
