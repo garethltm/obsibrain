@@ -19,4 +19,7 @@ has 2 parameters:
 - merge all neighbouring [[core point]] to form [[cluster(s)]]
 	- implements a "chain reaction" throughout the dense areas
 [[cluster(s)]] contain:
-- All [[core point]] that can be reached by following a seq
+- All [[core point]] that can be reached by following a sequence of [[core point]]
+- All non-core neighbours of [[core point]] (boundary points)
+	- points that are not [[core point]] but are edges of the [[cluster(s)]] (boundary)
+- 
