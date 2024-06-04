@@ -36,3 +36,5 @@ Each example is assigned to one (& only one) [[cluster(s)]] $\rightarrow$ no pos
 ## Potential Fix (in a predictive setting)
 - Assumes you know number of [[cluster(s)]] k
 	- if you don't know, you can define a function which sums up the distances from your [[instance(s)]] from each [[cluster(s)]] to the cluster centre (within cluster variance)
+- [[K-Means Algorithm]] is guaranteed to converge when using Euclidean distance
+	1. you can forget about all [[instance(s)]] that belong to your [[cluster(s)]]. Your cluster 
