@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Hierarchical Clustering.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9f02e7026fef8a89",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Single-Linkage.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Complete Linkage.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -100,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Single-Linkage.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Complete Linkage.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Single-Linkage.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Complete Linkage.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Single-Linkage.md"
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Complete Linkage.md"
               }
             }
           },
@@ -170,7 +157,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Single-Linkage.md"
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Complete Linkage.md"
               }
             }
           },
@@ -196,7 +183,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Single-Linkage.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Complete Linkage.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -241,11 +228,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9f02e7026fef8a89",
+  "active": "884ca03eed0719a3",
   "lastOpenFiles": [
-    "@images/Pasted image 20240604165237.png",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Hierarchical Clustering.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Single-Linkage.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Complete Linkage.md",
+    "@images/Pasted image 20240604165334.png",
+    "@images/Pasted image 20240604165237.png",
     "@images/Pasted image 20240604165117.png",
     "2024 Semester 1/COMPSCI361 - Machine Learning/agglomerative.md",
     "@images/Pasted image 20240604164930.png",
@@ -263,8 +252,6 @@
     "2024 Semester 1/COMPSCI361 - Machine Learning/eXtreme Gradient Boost (XGBoost).md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Ensemble Clustering.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Label Switching Problem.md",
-    "@images/Pasted image 20240604161124.png",
-    "@images/Pasted image 20240604154658.png",
     "2024 Semester 1/COMPSCI361 - Machine Learning/k-Means.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/elbow method.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/boundary points.md",
@@ -279,7 +266,6 @@
     "2024 Semester 1/COMPSCI361 - Machine Learning/k-Medians Clustering.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/cluster(s).md",
     "conflict-files-obsidian-git.md",
-    "2024 Semester 1/ACCTG151G - Financial Literacy/yield to maturity (YTM).md",
     "2023 Semester 1/MKTG151G/Notes",
     "2023 Semester 1/MKTG151G/Lecture Notes",
     "2023 Semester 1/COMPSCI225/Tutorials",

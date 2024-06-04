@@ -1,0 +1,1 @@
+- prevents close [[cluster(s)]] to merge together![[Pasted image 20240604165334.png]]

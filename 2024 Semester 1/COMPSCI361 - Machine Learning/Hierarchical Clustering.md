@@ -22,3 +22,4 @@ When you are calculating [[cluster(s)]], there is no reason to think about hiera
 ## Distances between [[cluster(s)]]
 - How do you measure the $dist(C_1,C_2)$ between [[cluster(s)]] $C_1$ & [[cluster(s)]] $C_2$?![[Pasted image 20240604165117.png]]
 1. [[Single-Linkage]]
+2. [[Complete Linkage]]
