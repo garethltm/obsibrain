@@ -5,3 +5,5 @@ for each $1 = how much net profit the shareholders can get
 
 [[Return on Equity (ROE or ROSF)]] measures the accounting return to holders of [[Ordinary Shares (or Common Stock)]]
 $$Return\ on\ Equity=\frac {Profit\ after\ Tax}{Shareholder's\ Funds}$$
+- $Proft\ after\ Tax$ = [[Income Statement]]
+- $Shareholder's\ Funds$ = [[Balance sheet]]
