@@ -57,4 +57,7 @@ We can interpret [[K-Means Algorithm]] steps as minimizing an objective
 - minimize $f$ in terms of the $\hat{y}_i \in (1,2,\dots,k)$ (cluster assignments)
 - minimize $f$ in terms of the $w_c$ (cluster centers)
 #### Termination/convergence of the algorithm is guaranteed because:
-- Each step does no
+- Each step does not increase the objective
+	- will always be decrease $\rightarrow$ converge
+- There are finite number of [[instance(s)]] assignments to $k$ [[cluster(s)]] ($k^n$)
+- 
