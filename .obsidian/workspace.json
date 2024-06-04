@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Machine Learning Systems.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Instance-based Learning.md",
                 "mode": "source",
                 "source": false
               }
@@ -243,9 +243,10 @@
   },
   "active": "4c15f75aecfb9562",
   "lastOpenFiles": [
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Instance-based Learning.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Machine Learning Systems.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Model-based Learning.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Instance-based Learning.md",
+    "@images/Pasted image 20240604215931.png",
     "@images/Pasted image 20240604215638.png",
     "2024 Semester 1/COMPSCI361 - Machine Learning/k-nearest neighbour (KNN).md",
     "conflict-files-obsidian-git.md",
@@ -258,7 +259,6 @@
     "@images/Pasted image 20240604172038.png",
     "@images/Pasted image 20240604171913.png",
     "@images/Pasted image 20240604171842.png",
-    "@images/Pasted image 20240604170919.png",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Extrinsic.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Ensemble Clustering.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Density-Based Clustering.md",
@@ -279,7 +279,6 @@
     "2021 Semester 2/COMPSCI120/Lectures.md",
     "2021 Semester 2/COMPSCI120/Practice problems.md",
     "2021 Semester 2/COMPSCI120/Useful.md",
-    "2021 Semester 2/COMPSCI120/Tutorials.md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Untitled",
     "2024 Semester 1",
