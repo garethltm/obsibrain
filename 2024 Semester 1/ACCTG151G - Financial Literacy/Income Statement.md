@@ -9,4 +9,5 @@
 - Employees' salaries
 - Electricity bills
 - Telephone/Internet
-These expenses inclde things like
+These expenses include things like:
+- Bad debts ()
