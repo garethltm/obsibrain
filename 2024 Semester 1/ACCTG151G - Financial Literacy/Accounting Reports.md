@@ -1,2 +1,4 @@
 #### 4 [[Financial Statement]]
-- [[Stat]]
+- [[Statement of Financial Position]]
+- [[Statement of Financial Performance]]
+- [[Statement of Movement in Equity]]
