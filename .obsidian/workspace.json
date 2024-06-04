@@ -160,6 +160,9 @@
   },
   "active": "c376100e65314c09",
   "lastOpenFiles": [
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Hard-margin (SVMs).md",
+    "@images/Pasted image 20240605104008.png",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Support Vector Machines (SVM).md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Model-based Learning.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Data Characteristics.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Fundamental Trade-Off.md",
@@ -172,7 +175,6 @@
     "2024 Semester 1/COMPSCI361 - Machine Learning/Machine Learning Systems.md",
     "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week02/Motivation of having a Search Strategy.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Instance-based Learning.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Support Vector Machines (SVM).md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/k-nearest neighbor (kNN).md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/rule-based classifiers.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Decision Tree(s).md",
@@ -192,9 +194,6 @@
     "2024 Semester 1/COMPSCI361 - Machine Learning/Euclidean distance.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Real-valued (Regression).md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Weighted kNN.md",
-    "@images/Pasted image 20240605101049.png",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Principal Components Analysis (PCA).md",
-    "@images/Pasted image 20240605100429.png",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Discrete-valued (Classification).md"
+    "@images/Pasted image 20240605101049.png"
   ]
 }
