@@ -18,6 +18,6 @@ $+1$ and $-1$ are class labels in this case
 
 1. [[Training Stage (MMH)]]: Learning the model is equivalent to determining the values of $\vec{w}$ and $b$
 	- How to find $\vec{w}$ and $b$ from [[training data]] $S$?
-2. Testing Stage: Once $\vec{w}$ and b are found, given a [[test data]] ($\vec{x}$). use $f(\cdot)$ to determine the class label
+2. [[Testing Stage (MMH)]]: Once $\vec{w}$ and b are found, given a [[test data]] ($\vec{x}$). use $f(\cdot)$ to determine the class label
 Decision boundary depends only on [[support vectors]]
 - If we have data set with same [[support vectors]], decision boundary will be the same
