@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d7b9af870a871f2a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Training Stage (MMH).md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Maximum Margin Hyperplane (MMH).md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Training Stage (MMH).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Maximum Margin Hyperplane (MMH).md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Training Stage (MMH).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Maximum Margin Hyperplane (MMH).md"
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Training Stage (MMH).md"
               }
             }
           }
@@ -159,11 +172,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c09a5424549e495e",
+  "active": "d7b9af870a871f2a",
   "lastOpenFiles": [
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Maximum Margin Hyperplane (MMH).md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Training Stage (MMH).md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/support vectors.md",
     "@images/Pasted image 20240605111453.png",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Maximum Margin Hyperplane (MMH).md",
     "@images/Pasted image 20240605110910.png",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Margin Maximization.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/hyperplanes.md",
