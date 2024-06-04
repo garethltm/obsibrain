@@ -41,4 +41,5 @@ uses proximity to make [[classification]] or predictions about the grouping of a
 4. [[k-nearest neighbor (kNN)]] [[classifier(s)]] can produce decision boundaries of arbitrary shapes
 ## Disadvantages
 1. [[k-nearest neighbor (kNN)]] are "lazy" learners, which do not build models explicitly. This can be relatively more **expensive** than eager learners (such as [[Decision Tree(s)]]) when classifying a test/unknown instance
-2. Unlike 
+2. Unlike [[Decision Tree(s)]] that attempts to find a global model that fits the entire input space, [[Nearest-Neighbor Classifiers]] make the prediction based on local information, which can be more susceptible to [[Noise]]
+	- Wrong instances will cause wrong prediction
