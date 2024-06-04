@@ -3,6 +3,7 @@
 - Memory-based approaches
 - Prediction can be expensive
 ![[Pasted image 20240604215638.png]]
+use the entire dataset as a model
 - [[k-nearest neighbor (kNN)]]
 
 Construct hypotheses directly from the training instances themselves
