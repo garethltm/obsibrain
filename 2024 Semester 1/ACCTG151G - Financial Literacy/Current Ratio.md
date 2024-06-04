@@ -1,1 +1,1 @@
-$$Current\ Ratio=\frac $$
+$$Current\ Ratio=\frac {Current\ Assets}{Current\ Liabilities}$$
