@@ -20,4 +20,5 @@ This becomes a constrained (convex) quadratic optimization problem:
 	$\min\limits_{w,b} \frac{||\vec {w}||}{2} \equiv \max\limits_{\alpha} \min\limits_{w,b} L(\vec {w},b,\alpha)$
 3. Set the derivatives to [[Support Vector Machines (SVM)]] Lagrangian function with respect to $\vec {w}$ and b to be zero:
 	$L(\vec {w},b,\alpha)=\frac{||\vec {w}||}{2}-\sum\limits_{i=1}^n \alpha_i[y_i(\vec{w} \cdot \vec{x_i} + b) - 1], \quad \alpha_i > 0$
-	
+	- $\frac{dL}{d\vec {w}} = 0 \Rightarrow \vec{w} = \sum_{i=1}^{n} \alpha_i y_i \vec{x_i}$
+	- $\frac{dL}{db} = 0 \Rightarrow \sum_{i=1}^{n} \alpha_i y_i = 0$
