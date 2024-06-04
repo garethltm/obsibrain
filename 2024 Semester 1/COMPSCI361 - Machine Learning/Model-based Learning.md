@@ -1,0 +1,3 @@
+- Detect a pattern in the [[training data]]
+- Build a predictive model
+- 
