@@ -1,0 +1,1 @@
+- number of columns (features) that cannot be obtained as a linear combination or any other combination of the other features in a dataset

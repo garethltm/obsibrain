@@ -1,0 +1,2 @@
+- splitting a small category into pieces is more harmful than splitting a large category into pieces
+	- You want to preserve smaller [[cluster(s)]] because they are very cohesive (something very specific) - PENALISE more for splitting smaller [[cluster(s)]]

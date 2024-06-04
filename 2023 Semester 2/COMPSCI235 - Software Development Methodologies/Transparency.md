@@ -1,0 +1,1 @@
+Giving visibility to the significant aspect of the process to those responsible for the outcome

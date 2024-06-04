@@ -1,0 +1,1 @@
+Gives administrators the ability to assign different weights to each server, assuming that some servers can handle more connections than others

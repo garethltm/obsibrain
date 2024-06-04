@@ -1,0 +1,1 @@
+Designed for workloads that require high sequential read/write access to very large data sets on local storage. They are optimized to deliver tens of thousands of low latency, random I/O operations per second (IOPS) to applications.

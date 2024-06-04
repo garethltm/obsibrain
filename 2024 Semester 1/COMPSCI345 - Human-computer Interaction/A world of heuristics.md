@@ -1,0 +1,12 @@
+- Can be devised for more specific domains
+	- For physical format
+		- #compsci345example - web pages
+		- Domain specific concepts like good background graphics
+		- 'Housekeeping' like correct spelling & grammar
+		- May want to evaluate the search function
+	- For task domain
+		- #compsci345example - in health...
+		- Is the patient name & date-of-birth clearly visible at all times?
+		- Does the interaction fit to clinical workflow
+- Can be quite long
+	- About 100 heuristics for mobile apps

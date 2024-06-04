@@ -1,0 +1,2 @@
+- the named or stated [[Interest rates (r)]]
+- quoted rate by the [[Banks (Commercial Banks)]]

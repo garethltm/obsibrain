@@ -1,0 +1,2 @@
+- consisting of [[Percepts|Percepts]] & [[Atomic Propositions (atoms)]]
+- new observation

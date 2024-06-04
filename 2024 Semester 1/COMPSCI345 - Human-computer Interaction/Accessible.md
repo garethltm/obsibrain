@@ -1,0 +1,1 @@
+It is an attribute, whereas [[Inclusive Design]] is a method. More focused on disability![[Pasted image 20240423174218.png]]

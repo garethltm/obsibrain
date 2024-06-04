@@ -1,0 +1,1 @@
+is anything that prevents a build from reporting success

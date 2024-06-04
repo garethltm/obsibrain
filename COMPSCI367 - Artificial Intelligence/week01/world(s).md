@@ -1,1 +1,0 @@
-- An [[agent(s)]] together with its [[environment]]

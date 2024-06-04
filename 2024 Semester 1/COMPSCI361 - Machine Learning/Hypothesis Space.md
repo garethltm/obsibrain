@@ -1,0 +1,5 @@
+- Learning can be defined as searching the best hypothesis for all observed data
+- For [[Decision Tree(s)|Decision Tree(s)]], the hypothesis space are all possible [[Decision Tree(s)|Decision Tree(s)]] that can be generated for a data set (specific)
+- The learner searches through the space and returns the best hypothesis, for [[Decision Tree(s)|Decision Tree(s)]], the tree that potentially best predicts new data
+- If the space is small enough, it is possible to test all hypotheses (then no [[Machine Learning (ML)]] needed)
+	- possible to test all [[Decision Tree(s)|Decision Tree(s)]] that you can come up with

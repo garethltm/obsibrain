@@ -1,0 +1,16 @@
+- study of the transmission, storage & retrieval of digital information
+	- sending & receiving messages
+- Idea of [[Channel Capacity]]:
+	- Encrypted message decoded into plain-text
+	- [[Transmission errors]] can be arbitrarily low as long as:
+		[[data rate]] < channel capacity
+- Idea of [[Entropy (or self-information)]]
+	- how difficult is is to compress information given a particular language 
+		- more complex = more information needs to be decoded
+- [[2023 Semester 2/COMPSCI367 - Artificial Intelligence/week10/Data compression]]
+- Truly random data can't be compressed
+	- Ordered data can be:
+		- Compression is limited by a.) [[Entropy (or self-information)]] ([[H]])
+			- Important for understanding everything from cell phones, to biology, to thermodynamics, to black holes.
+		- & more fundamentally by b.) Kolmogorov Complexity (K)
+			- Measure of computational resources needed to specify an object, such as a piece of text

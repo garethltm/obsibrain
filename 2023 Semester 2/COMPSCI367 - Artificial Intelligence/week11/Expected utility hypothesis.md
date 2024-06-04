@@ -1,0 +1,2 @@
+the [[Utility function]] correctly reflects the [[Performance measure]] of an [[agent(s)]]
+>	if the [[agent(s)]]acts so as to maximize the [[expected utility]], then the [[agent(s)]] while achieve the highest [[performance measure]]

@@ -1,0 +1,1 @@
+- inversion problem![[Pasted image 20240604165609.png]]

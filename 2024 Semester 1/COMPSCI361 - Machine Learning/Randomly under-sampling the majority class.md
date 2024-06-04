@@ -1,0 +1,4 @@
+- Randomly removes instances from the majority class
+- Balances the dataset
+- Discarded observations could have important information
+- Can introduce bias

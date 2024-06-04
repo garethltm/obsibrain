@@ -1,0 +1,2 @@
+- designed initially for use by the US Government to integrate its federal agencies 
+- is a collaborative planning methodology that has become a popular [[Enterprise Architecture]] model used in private enterprises

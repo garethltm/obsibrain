@@ -1,0 +1,1 @@
+Old people $\rightarrow$ don't want to sell property but want to borrow money, when they pass away = [[Banks (Commercial Banks)]] will sell their [[asset(s)]]

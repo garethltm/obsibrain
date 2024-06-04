@@ -1,0 +1,2 @@
+![[Pasted image 20231103163808.png]]
+when the [[Product Owner]] & some or all, of the rest of the team review items on the [[product backlog]] to ensure - the [[product backlog]] contains the appropriate items, that they are prioritized & that the items at the top of the [[product backlog]] are ready for delivery

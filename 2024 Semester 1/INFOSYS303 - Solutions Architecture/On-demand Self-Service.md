@@ -1,0 +1,1 @@
+Services can be requested & provisioned quickly, without the need for manual setup & configuration.

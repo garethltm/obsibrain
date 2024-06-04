@@ -1,0 +1,1 @@
+- establishes procedures for managing change to the new architecture

@@ -1,0 +1,6 @@
+- Wages & Salaries
+- Bonuses
+- Interest & Dividends (Invest in shares)
+- Child support receipts
+- Tax refunds
+- Gifts received

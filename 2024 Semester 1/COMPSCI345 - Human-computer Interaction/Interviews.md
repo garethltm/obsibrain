@@ -1,0 +1,2 @@
+- On-site interviews: may help people remember aspects of the job
+- Away from job site interviews: not interrupted by normal work related events

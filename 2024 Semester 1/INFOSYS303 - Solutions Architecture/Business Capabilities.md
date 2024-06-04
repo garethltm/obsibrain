@@ -1,0 +1,1 @@
+![[LeanIX_Poster_Best-practices-to-define-business-capability-maps_EN.pdf]]

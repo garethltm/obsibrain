@@ -1,0 +1,2 @@
+- known as computing power, refers to CPU and RAM performance. 
+- In cloud computing, there are terms like [[Virtual Central Processing Unit (vCPU)]] and Cores.

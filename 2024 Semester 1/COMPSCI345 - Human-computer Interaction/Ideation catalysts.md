@@ -1,0 +1,3 @@
+1. Inspirations
+	- Perhaps from brainstorming, storytelling, the world,...
+		- Velcro story: George de Mestral getting burrs stuck in his clothes

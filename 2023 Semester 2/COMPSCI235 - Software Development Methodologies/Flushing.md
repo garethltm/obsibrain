@@ -1,0 +1,6 @@
+- We have to frequently push out changes of objects to the [[2023 Semester 2/COMPSCI235 - Software Development Methodologies/database|database]]
+		- Before we do a query
+			- So that we get the latest data from the [[2023 Semester 2/COMPSCI235 - Software Development Methodologies/database|database]]
+		- When the user issues an explicit commit or a [[transaction(s)]] finishes
+	- This is called **flushing** of pending changes
+		- `autoflush = True`

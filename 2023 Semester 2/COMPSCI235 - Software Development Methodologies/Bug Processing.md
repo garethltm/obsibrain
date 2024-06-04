@@ -1,0 +1,36 @@
+![[Pasted image 20231103112625.png]]
+- Open/New
+	- bug issue was raised
+	- nobody in the project has looked at it yet
+- Assigned
+	- ![[triager]] this person will assign the bug to a developer. If the change is a:
+		- [[Bug reports]]: the developer will first reproduce the bug & then try to fix
+		- [[Feature requests]]: discuss with colleagues on whether to accommodate the request & implement the feature
+		- [[Patches]]: validate the patch
+- Closed
+	- When the decision on the issue is made in any way
+		- Fixed - usually accompanied with code commits
+			- a bug is fixed
+			- a feature is added
+			- a patch is applied
+		- Reject - invalid
+			- bug cannot be reproduced
+			- feature does not make sense
+			- request may not be understandable
+			- patch is not correct
+				- Won't fix (Rejected)
+					- the developers decide not to fix the bug/implement the new feature
+					- limited human resources
+					- new version is about to be released
+		- Duplicate
+			- the issue is a duplicate of an existing issue
+			- Often happens for a user raised issues
+			- Usually a [[Bug reports]]/[[Feature requests]]
+			- sometimes [[Issue Tracking]] systems will allow merge duplicate issues
+		- Deferred
+		- Invalid (Rejected)
+- Reopened
+	- After the issue is closed, something happens & the issue becomes active again
+		- incomplete fix
+		- start to implement a postponed feature
+		- revoke any wrong decision taken earlier

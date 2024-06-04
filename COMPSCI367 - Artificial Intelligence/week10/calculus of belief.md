@@ -1,1 +1,0 @@
-derive [[probability]] based on [[degree of belief]]

@@ -1,0 +1,1 @@
+**The variable that is used to explain or predict the [[2024 Semester 1/COMPSCI361 - Machine Learning/Dependent Variable]] is called the [[Explanatory Variable]]**

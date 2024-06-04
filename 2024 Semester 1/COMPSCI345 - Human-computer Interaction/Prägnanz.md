@@ -1,0 +1,1 @@
+-  Prägnanz = german for 'pithiness'/'concise' & standing out' (roughly 'precise')

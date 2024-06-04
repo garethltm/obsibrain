@@ -1,0 +1,2 @@
+- more response = less busy
+Averages the response time of each server, & combines that with the number of connections each server has open to determine where to send traffic. By sending traffic to the servers with the quickest response time, the algorithm ensures faster service for users

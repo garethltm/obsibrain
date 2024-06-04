@@ -1,0 +1,2 @@
+allow shareholders to easily move from one fund to another within the fund family (as an individuals circumstances change)
+- same fund family = allows you to move money from one fund to another without changes

@@ -1,0 +1,1 @@
+A numerical value that expresses the [[agent(s)]]'s preference of a [[State(s)]]

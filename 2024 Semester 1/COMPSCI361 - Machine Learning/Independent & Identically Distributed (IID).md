@@ -1,0 +1,22 @@
+- [[training data]]/[[test data]] is [[Independent & Identically Distributed (IID)]] if:
+	- All examples come from the same distribution:
+	- #compsci361example ![[Pasted image 20240312151153.png]]
+	- taking one of the rows out does not affect the other in any way possible
+- #compsci361example - Cards:
+	- Pick a card, put it back in the deck, re-shuffle, repeat
+		- [[Independent & Identically Distributed (IID)]]
+	- Pick a card, put it back in the deck, repeat
+		- Depends
+	- Pick a card, don't put it back, re-shuffle, repeat
+		- probability is affected $\rightarrow$ not [[Independent & Identically Distributed (IID)]]
+- #compsci361example - Food Allergy:
+	- Do all the examples come from the same distribution?
+	- Does the order of the examples matter
+		- Yes
+- Food Allergy is not [[Independent & Identically Distributed (IID)]]
+	- Being sick might depend on what you ate yesterday $\rightarrow$ not independent
+	- Your eating habits might have changed over time $\rightarrow$ not identically distributed
+- What can we do about this?
+	- Just ignore that data isn't [[Independent & Identically Distributed (IID)]] & hope for the best?
+	- For each day, maybe add the features from the previous day?
+	- Maybe add time as an extra feature?

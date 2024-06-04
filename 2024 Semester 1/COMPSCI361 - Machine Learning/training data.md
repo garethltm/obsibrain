@@ -1,0 +1,1 @@
+- **the data you use to train a [[Machine Learning (ML)]] algorithm or model to accurately predict a particular outcome, or answer, that you want your model to predict**.

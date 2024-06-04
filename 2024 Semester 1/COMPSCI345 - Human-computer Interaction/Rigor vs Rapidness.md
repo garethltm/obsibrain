@@ -1,0 +1,3 @@
+- basic tradeoff
+- completeness & accuracy (rigor) VS time & cost (rapidness)
+- some [[User eXperience (UX)]] methods favour rapidness over rigor

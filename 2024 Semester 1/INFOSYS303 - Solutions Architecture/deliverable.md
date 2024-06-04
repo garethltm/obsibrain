@@ -1,0 +1,2 @@
+- a work product that is contractually specified & in turn formally reviewed, approved & signed off by the stakeholders
+- represent the output of projects & those [[deliverable]] that are in documentation form will typically be archived at completion of a project or transitioned into an Architecture Repository as a reference model, standard or snapshot of the Architecture Landscape at a point in time

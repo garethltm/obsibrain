@@ -1,0 +1,2 @@
+- "mean" or aka center
+- most representative of that [[cluster(s)]]

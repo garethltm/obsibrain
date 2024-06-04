@@ -1,0 +1,1 @@
+Provides access to reliable & inexpensive data storage infrastructure. It is designed to make web-scale computing easier by enabling storage & retrieval of any amount of data, at any time, from within [[Amazon EC2]] or anywhere on the web.

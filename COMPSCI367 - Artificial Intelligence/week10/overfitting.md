@@ -1,2 +1,0 @@
-- if the combination doesn't appear in your [[Knowledge Base (KB)]]/[[INFOSYS222 - Database Systems/Database]] then it might not representative of the the real world
-	- might not be the representation of the real [[probability]]

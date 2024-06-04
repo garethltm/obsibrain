@@ -1,0 +1,3 @@
+- it either underestimates the [[path cost]] to the [[Goal(s) - Goal State(s)]] 
+- OR provides a correct estimate for the [[path cost]] to the [[Goal(s) - Goal State(s)]], 
+- BUT it never overestimates the [[path cost]] to the [[Goal(s) - Goal State(s)]].

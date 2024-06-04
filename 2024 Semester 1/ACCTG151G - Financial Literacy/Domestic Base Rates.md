@@ -1,0 +1,3 @@
+- Business lending rate
+- Farm lending rate
+- Bank Bill Rate (BKBM) $\rightarrow$ Base Rate + Premium Rate

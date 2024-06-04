@@ -1,0 +1,2 @@
+- a team facilitator (NOT A LEADER)
+- ensures the team lives [[AGILE]] values & principles & follows the processes & practices that the team agreed to use

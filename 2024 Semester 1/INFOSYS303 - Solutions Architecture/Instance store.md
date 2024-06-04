@@ -1,0 +1,1 @@
+Provides temporary [[block-level storage]] for [[instance(s)]]. The number, size & type of [[instance(s)]] store volumes are determined by the [[instance type(s)]] & [[instance(s)]] size. The data on an [[instance(s)]] store volume persists only during the life of the associated [[instance(s)]]

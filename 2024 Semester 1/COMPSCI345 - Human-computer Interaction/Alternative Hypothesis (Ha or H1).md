@@ -1,0 +1,6 @@
+Opposes the [[Null Hypothesis (Ho)]]. It is the prediction you're trying to prove
+- "There is a difference between A and B"
+	or to be more specific...
+- "A is better than B"
+	or even more specific...
+- "A is faster than B","A is more accurate than B", etc.

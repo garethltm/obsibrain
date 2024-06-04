@@ -1,6 +1,0 @@
-- stored in a [[INFOSYS222 - Database Systems/Database]]
-- store similar data as a [[Relation]]
-- implement [[Relationship]] using attributes/domains
-- present data to user as a [[Relation]] (table)
-- provide operators to access [[Relation]]
-- provide operators to manipulate [[Relation]]

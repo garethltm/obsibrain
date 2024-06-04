@@ -1,0 +1,1 @@
+if you invest in different [[asset(s)]], you can avoid taking [[Firm-specific risk]]

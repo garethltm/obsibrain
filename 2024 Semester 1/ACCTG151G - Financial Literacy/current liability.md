@@ -1,0 +1,1 @@
+- refers to a [[liability]] that is expected to be turned into cash within 1 year

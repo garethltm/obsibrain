@@ -1,0 +1,5 @@
+-  A model-based agent uses a [[World Model]] to determine the agent's [[action(s)]]. In particular:
+	- the agent maintains an internal state in the [[World Model]]
+	- the internal state is updated by a state-transition function based on the [[agent(s)]]'s [[Percepts]] history
+	- (OPTIONAL) an [[agent(s)]]'s behaviours may be directed by [[Goal(s) - Goal State(s)]] ([[Goal-Based (Telelogical Agent)]]) or utilities ([[Utility-Based Agent]])
+		- ChatGPT

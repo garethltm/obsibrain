@@ -1,0 +1,1 @@
+A _virtual private gateway_ is a logical, fully redundant distributed edge routing function that sits at the edge of your [[Virtual Private Cloud (VPC)]].

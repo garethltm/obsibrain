@@ -1,0 +1,1 @@
+A [[physical server]] will have CPUs with cores inside each CPU

@@ -1,0 +1,1 @@
+- refers to the process of transforming a continuous-valued feature into a discrete one using a relatively small number of intervals or bins

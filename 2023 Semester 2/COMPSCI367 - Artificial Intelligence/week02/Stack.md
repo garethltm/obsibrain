@@ -1,0 +1,2 @@
+- insert newly generated [[State(s)]] at the front of the [[Queue]]
+- Last In First Out (LIFO)

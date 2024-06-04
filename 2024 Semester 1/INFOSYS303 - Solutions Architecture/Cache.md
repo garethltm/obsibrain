@@ -1,0 +1,1 @@
+[[Cache]] is a high-speed random-access [[Memory]] that holds data that the [[CPU core]] will probably reuse

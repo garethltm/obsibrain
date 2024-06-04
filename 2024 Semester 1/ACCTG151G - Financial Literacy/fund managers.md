@@ -1,0 +1,1 @@
+they will collect money from individual investors & then they will invest in a large investment portfolio

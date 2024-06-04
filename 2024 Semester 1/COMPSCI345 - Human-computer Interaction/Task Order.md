@@ -1,0 +1,5 @@
+- If you have multiple tasks, or a task has subtasks that can be done in different orders, then you must consider task order
+- What differences could you expect between
+	- Participants always doing task A & then task B
+	- $\frac{1}{2}$ of the participants doing task A before B. The other $\frac{1}{2}$ doing task B before A
+- This is called the learning effect & good systems should demonstrate it
