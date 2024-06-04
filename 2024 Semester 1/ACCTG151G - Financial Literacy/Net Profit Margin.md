@@ -4,7 +4,7 @@ one of the most widely used measures of performance
 - Stable or increasing net profit margins are good signs
 
 $$Net\ Profit\ Margin=\frac{Net\ Profit}{Sales}$$
-- Net Profit = [[Income Statement]]
-- Sales = [[Income Statement]]
+- $Net\ Profit$ = [[Income Statement]]
+- $Sales$ = [[Income Statement]]
 
 the higher the better
