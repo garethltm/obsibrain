@@ -19,3 +19,5 @@ This becomes a constrained (convex) quadratic optimization problem:
 2. Solving the primal problem is equivalent to solving the dual problem:
 	$\min\limits_{w,b} \frac{||\vec {w}||}{2} \equiv \max\limits_{\alpha} \min\limits_{w,b} L(\vec {w},b,\alpha)$
 3. Set the derivatives to [[Support Vector Machines (SVM)]] Lagrangian function with respect to $\vec {w}$ and b to be zero:
+	$L(\vec {w},b,\alpha)=\frac{||\vec {w}||}{2}-\sum\limits_{i=1}^n \alpha_i[y_i(\vec{w} \cdot \vec{x_i} + b) - 1], \quad \alpha_i > 0$
+	
