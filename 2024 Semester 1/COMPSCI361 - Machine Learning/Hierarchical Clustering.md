@@ -20,4 +20,5 @@ When you are calculating [[cluster(s)]], there is no reason to think about hiera
 	- How would the [[dendrogram]] look if there is no structure in the data?
 - A [[dendrogram]] is the description of the result of the algorithm, **not a graphical summary of the data**
 ## Distances between [[cluster(s)]]
-- How do you measure the $dist(C_1,C_2)$ between [[cluster(s)]] $C_1$ & [[cluster(s)]] 
+- How do you measure the $dist(C_1,C_2)$ between [[cluster(s)]] $C_1$ & [[cluster(s)]] $C_2$?![[Pasted image 20240604165117.png]]
+1. [[Single-Linkage]]
