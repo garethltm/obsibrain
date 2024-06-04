@@ -60,4 +60,4 @@ We can interpret [[K-Means Algorithm]] steps as minimizing an objective
 - Each step does not increase the objective
 	- will always be decrease $\rightarrow$ converge
 - There are finite number of [[instance(s)]] assignments to $k$ [[cluster(s)]] ($k^n$)
-- 
+	- it cannot be larger than $k^n$

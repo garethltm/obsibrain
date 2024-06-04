@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/K-Means Algorithm.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/k-Medians Clustering.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/K-Means Algorithm.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/k-Medians Clustering.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/K-Means Algorithm.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/k-Medians Clustering.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/K-Means Algorithm.md"
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/k-Medians Clustering.md"
               }
             }
           },
@@ -156,7 +156,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/K-Means Algorithm.md"
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/k-Medians Clustering.md"
               }
             }
           },
@@ -182,7 +182,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/K-Means Algorithm.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/k-Medians Clustering.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -229,6 +229,8 @@
   },
   "active": "2c1a40d5c4ca4331",
   "lastOpenFiles": [
+    "2024 Semester 1/COMPSCI361 - Machine Learning/K-Means Algorithm.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/k-Medians Clustering.md",
     "@images/Pasted image 20240604142628.png",
     "@images/Pasted image 20240604142559.png",
     "@images/Pasted image 20240604141023.png",
@@ -239,10 +241,8 @@
     "@images/Pasted image 20240604140846.png",
     "@images/Pasted image 20240604140826.png",
     "2024 Semester 1/COMPSCI361 - Machine Learning/cluster(s).md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/K-Means Algorithm.md",
     "@images/Pasted image 20240604135959.png",
     "conflict-files-obsidian-git.md",
-    "@images/Pasted image 20240602225414.png",
     "2024 Semester 1/ACCTG151G - Financial Literacy/yield to maturity (YTM).md",
     "2024 Semester 1/ACCTG151G - Financial Literacy/residual claim.md",
     "2024 Semester 1/ACCTG151G - Financial Literacy/maturity date.md",
