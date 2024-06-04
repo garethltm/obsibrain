@@ -1,2 +1,2 @@
 - [[k-Means]] is a partitioning algorithm
-- Partitioning a database D of n [[instance(s)]] into a set of $k$ [[cluster(s)]], such that within-cluster variation (the sum of )
+- Partitioning a database D of n [[instance(s)]] into a set of $k$ [[cluster(s)]], such that within-cluster variation (the sum of squared distances of the [[instance(s)]] )
