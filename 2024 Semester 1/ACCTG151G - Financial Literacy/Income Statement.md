@@ -14,3 +14,7 @@ These expenses include things like:
 - Stolen or damaged stock (inventory)
 - Depreciation - can reduce taxable income
 [[Earnings Before Interest & Tax (EBIT)]]
+
+Statements that most businesses have every year:
+These expenses are:
+- Interest e
