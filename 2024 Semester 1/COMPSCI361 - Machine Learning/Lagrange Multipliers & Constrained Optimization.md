@@ -6,4 +6,5 @@
 		- $gradient\ of\ f = a (gradient\ of\ g)$
 	- Finding the minimum is then equivalent to solving: $\nabla f - a \nabla g = 0$
 2. Subject to constraint: $g=2x +6y-5= 0$
+	- Lagrange function (Lagrangian multiplier $\alpha$):
 	- 
