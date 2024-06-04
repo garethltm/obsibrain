@@ -31,5 +31,7 @@ This becomes a constrained (convex) quadratic optimization problem:
 	This can be solved efficiently using numerical optimization
 	- $a_i > 0$ for [[support vectors]] $\vec {x_i}$ that lie on the margin $H_1$ and $H_2$
 	- $a_i = 0$ for other training points
-Thus, the solution of $\vec {w}$ corresponding to the maximal margin classifier can be written as a linear combination of just the [[support vectors]]:
-$$\vec{w} = \sum_{x_i \in SV} \alpha_i y_i \vec{x_i}$$
+	Thus, the solution of $\vec {w}$ corresponding to the maximal margin classifier can be written as a linear combination of just the [[support vectors]]:
+	$$\vec{w} = \sum_{x_i \in SV} \alpha_i y_i \vec{x_i}$$
+	For [[support vectors]], we have $y_i - (\vec {w}\cdot \vec {x_i} +b) = 0$
+	
