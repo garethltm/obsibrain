@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "11ad658a5fc863d8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/k-Medoids Clustering.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/k-Medians Clustering.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/k-Medoids Clustering.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/k-Medians Clustering.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/k-Medoids Clustering.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/k-Medians Clustering.md"
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/k-Medoids Clustering.md"
               }
             }
           },
@@ -156,7 +169,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/k-Medians Clustering.md"
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/k-Medoids Clustering.md"
               }
             }
           },
@@ -182,7 +195,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/k-Medians Clustering.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/k-Medoids Clustering.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -227,10 +240,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2c1a40d5c4ca4331",
+  "active": "11ad658a5fc863d8",
   "lastOpenFiles": [
-    "2024 Semester 1/COMPSCI361 - Machine Learning/k-Means Algorithm.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/k-Medians Clustering.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/k-Medoids Clustering.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/k-Means Algorithm.md",
     "@images/Pasted image 20240604142628.png",
     "@images/Pasted image 20240604142559.png",
     "@images/Pasted image 20240604141023.png",
@@ -264,7 +278,6 @@
     "2024 Semester 1/ACCTG151G - Financial Literacy/Secure debentures.md",
     "2024 Semester 1/ACCTG151G - Financial Literacy/Risk.md",
     "2024 Semester 1/ACCTG151G - Financial Literacy/Return on Equity (ROE or ROSF).md",
-    "2024 Semester 1/ACCTG151G - Financial Literacy/Retirement Plans.md",
     "2023 Semester 1/MKTG151G/Notes",
     "2023 Semester 1/MKTG151G/Lecture Notes",
     "2023 Semester 1/COMPSCI225/Tutorials",
