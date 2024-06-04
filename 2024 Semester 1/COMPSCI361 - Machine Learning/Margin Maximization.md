@@ -12,4 +12,4 @@ We want to find the best one (the one that minimizes [[classification]] error on
 #### Assumption
 - the [[hyperplane]] with the largest margin will generalise best on unseen data
 [[Support Vector Machines (SVM)]] searches for [[hyperplane]] with largest margin
-- [[Maxi]]
+- [[Maximum Margin Hyperplane (MMH)]]
