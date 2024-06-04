@@ -29,4 +29,7 @@ It's (almost) non-parametric [[Clustering]] method
 4. Sensitive to choice of $\epsilon$ and $minNeighbours$
 	- Original paper proposed to an [[elbow method]] to select $\epsilon$ based on some fixed value $k$
 		- set $k$ to 4
-		- set $minNeigho
+		- set $minNeighbours$ to $k$
+		- calculate and plot distances of each point to the $k$ closest neighbours
+		- sort the points & plot the distances
+		- look for "elbow" to set $\epsilon
