@@ -19,8 +19,7 @@
 	- What does the high-dimensional X look like?
 6. Ranking ([[Attribute (Feature) selection]])
 	- Which are the most important $x_i$?
-7. [[Clustering]] (what types of [[instance(s)]] are there?)
+7. [[Clustering]] (what types of instances are there?)
 	- What types of $x_i$ are there?
-
 ## Summary
 - fitting data without explicit labels

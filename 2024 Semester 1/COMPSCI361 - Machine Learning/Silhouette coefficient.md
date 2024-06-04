@@ -9,5 +9,5 @@ $$
 		- (how separated is the [[cluster(s)]] $C_i$ to which $x$ belongs)
 	- Fitness of [[cluster(s)]] $C_i$ in given [[Clustering]] can be measured by the average [[Silhouette coefficient]] value of all points in the [[cluster(s)]]
 ## Visualized [[Silhouette coefficient]]
-- Typically we sort & plot $s(x)$ for each [[instance(s)]], grouped by [[cluster(s)]]![[Pasted image 20240604173656.png]]
+- Typically we sort & plot $s(x)$ for each instance, grouped by [[cluster(s)]]![[Pasted image 20240604173656.png]]
 - 

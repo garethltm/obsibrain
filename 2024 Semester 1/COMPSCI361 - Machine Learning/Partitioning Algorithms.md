@@ -1,5 +1,5 @@
 - [[k-Means]] is a partitioning algorithm
-- Partitioning a database D of n [[instance(s)]] into a set of $k$ [[cluster(s)]], such that within-cluster variation (the sum of squared distances of the [[instance(s)]] to the [[cluster(s)]] centers) is minimized
+- Partitioning a database $D$ of $n$ instances into a set of $k$ [[cluster(s)]], such that within-cluster variation (the sum of squared distances of the instances to the [[cluster(s)]] centers) is minimized
 	$$
 	SSE = \sum_{c=1}^{k} \sum_{x \in C_c} \text{dist}(x - w_c)^2 
 	$$

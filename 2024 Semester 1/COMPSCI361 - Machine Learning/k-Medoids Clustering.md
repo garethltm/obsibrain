@@ -6,7 +6,7 @@ A disadvantage of [[k-Means]] in some applications: the cluster centers might no
 ## Alternative to [[k-Means]] is [[k-Medoids Clustering]]
 - Same algorithm as [[k-Means]], except the [[cluster(s)]] centres must be data points in D.
 	- take one sample in your [[cluster(s)]] such that, it is the one that is closest to all others in terms of distance measured
-- Update the cluster center by finding instance in the [[cluster(s)]] minimizing squared L2-norm distance to all points in the [[cluster(s)]]
+- Update the cluster center by finding instances in the [[cluster(s)]] minimizing squared L2-norm distance to all points in the [[cluster(s)]]
 ## Initialization
 - [[k-Means]] is fast but sensitive to **Initialization**
 - Classic approach to initialization: random restarts

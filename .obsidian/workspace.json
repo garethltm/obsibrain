@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/k-Medoids Clustering.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Unsupervised Learning.md",
                 "mode": "source",
                 "source": false
               }
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/k-Medoids Clustering.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Unsupervised Learning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/k-Medoids Clustering.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Unsupervised Learning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/k-Medoids Clustering.md"
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Unsupervised Learning.md"
               }
             }
           },
@@ -157,7 +157,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/k-Medoids Clustering.md"
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Unsupervised Learning.md"
               }
             }
           },
@@ -183,7 +183,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/k-Medoids Clustering.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Unsupervised Learning.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -230,6 +230,10 @@
   },
   "active": "884ca03eed0719a3",
   "lastOpenFiles": [
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Silhouette coefficient.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Partitioning Algorithms.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Naive Bayes Classifier.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/k-Medoids Clustering.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/k-Medians Clustering.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/k-Means.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Imputation.md",
@@ -241,7 +245,6 @@
     "2024 Semester 1/COMPSCI361 - Machine Learning/Bayes Classifier.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Bayes Optimal Classifier.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Accelerated computing instances.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Silhouette coefficient.md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/instance(s).md",
     "@images/Pasted image 20240604173656.png",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Intrinsic.md",
@@ -260,9 +263,6 @@
     "@images/Pasted image 20240604171842.png",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Small cluster preservation.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Rag bag.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Cluster completeness.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Cluster homogeneity.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Cluster Quality.md",
     "@images/Pasted image 20240604170919.png",
     "@images/Pasted image 20240604165642.png",
     "@images/Pasted image 20240604165609.png",
