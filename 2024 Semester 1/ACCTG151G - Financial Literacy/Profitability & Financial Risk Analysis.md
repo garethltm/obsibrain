@@ -6,4 +6,4 @@ We can evaluate [[Financial Statement]] using a variety of tools including ratio
 - [[Ratio]]
 
 1. [[Profitability Analysis]]
-2. [[]]
+2. [[Financial Risk Analysis]]
