@@ -4,4 +4,4 @@ for each $1 = how much net profit the shareholders can get
 - The better the [[Return on Equity (ROE or ROSF)]], the better the financial condition & competitive position of the company
 
 [[Return on Equity (ROE or ROSF)]] measures the accounting return to holders of [[Ordinary Shares (or Common Stock)]]
-$$
+$$Return\ on\ Equity=\frac {Profit\ after\ Tax}{Shareholder's\ Funds}$$
