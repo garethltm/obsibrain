@@ -49,3 +49,6 @@ Not all [[Clustering]] algorithms can be applied in a predictive manner to a new
 - Assumes you know the number of [[cluster(s)]] $k$
 	- Lots of heuristics to pick $k$ (elbow method), none satisfying![[Pasted image 20240604142559.png]]![[Pasted image 20240604142628.png]]
 	- [[Cross-Validation (CV)]]
+## What is [[K-Means Algorithm]] doing?
+We can interpret [[K-Means Algorithm]] steps as minimizing an objective
+- Total sum of squared distances from each example $x_i$ to its [[cluster(s)]] center (squared L2 norm)
