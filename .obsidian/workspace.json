@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ae4fce57ce2ba3e2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Horizontal percentage changes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Profitability & Financial Risk Analysis.md",
+                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Horizontal percentage changes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Profitability & Financial Risk Analysis.md",
+                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Horizontal percentage changes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Profitability & Financial Risk Analysis.md"
+                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Horizontal percentage changes.md"
               }
             }
           },
@@ -156,7 +169,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Profitability & Financial Risk Analysis.md"
+                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Horizontal percentage changes.md"
               }
             }
           },
@@ -182,7 +195,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Profitability & Financial Risk Analysis.md",
+                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Horizontal percentage changes.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -228,10 +241,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e02606a8f80b4459",
+  "active": "ae4fce57ce2ba3e2",
   "lastOpenFiles": [
-    "2024 Semester 1/ACCTG151G - Financial Literacy/Earnings per Share (EPS).md",
     "2024 Semester 1/ACCTG151G - Financial Literacy/Profitability & Financial Risk Analysis.md",
+    "2024 Semester 1/ACCTG151G - Financial Literacy/Horizontal percentage changes.md",
+    "2024 Semester 1/ACCTG151G - Financial Literacy/Earnings per Share (EPS).md",
     "@images/Pasted image 20240604232946.png",
     "2024 Semester 1/ACCTG151G - Financial Literacy/Interest expense.md",
     "2024 Semester 1/ACCTG151G - Financial Literacy/Extra bits & pieces (Unexpected cost).md",
@@ -266,7 +280,6 @@
     "2024 Semester 1/COMPSCI361 - Machine Learning/Ensemble Clustering.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Density-Based Clustering.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/DBSCAN.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Complete Linkage.md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Untitled",
     "2024 Semester 1",
