@@ -35,10 +35,10 @@ Given set of instance & number of [[cluster(s)]] $k$ ([[hyperparameter(s)]]), [[
 Each example is assigned to one (& only one) [[cluster(s)]] $\rightarrow$ no possibility of overlapping [[cluster(s)]] or leaving unassigned examples
 ## Potential Fix (in a predictive setting)
 - Assumes you know number of [[cluster(s)]] k
-	- if you don't know, you can define a function which sums up the distances from your [[instance(s)]] from each [[cluster(s)]] to the cluster centre (within cluster variance)
+	- if you don't know, you can define a function which sums up the distances from your instance from each [[cluster(s)]] to the cluster centre (within cluster variance)
 - [[k-Means]] is guaranteed to converge when using Euclidean distance
-	1. you can forget about all [[instance(s)]] that belong to your [[cluster(s)]]. Your cluster centroid is like a pillar to your [[cluster(s)]]
-	2. you can compute distances for that new test instancesto all existing [[cluster(s)]] centres, choose the one closest to you in terms of Euclidean distance
+	1. you can forget about all instance that belong to your [[cluster(s)]]. Your cluster centroid is like a pillar to your [[cluster(s)]]
+	2. you can compute distances for that new test instances to all existing [[cluster(s)]] centres, choose the one closest to you in terms of Euclidean distance
 Not all [[Clustering]] algorithms can be applied in a predictive manner to a new test instance, some only work in a valid descriptively only for the data set you have obtained.
 ## Behaviour/Assumptions
 - Given a new (test) example
@@ -59,7 +59,7 @@ We can interpret [[k-Means]] steps as minimizing an objective
 #### Termination/convergence of the algorithm is guaranteed because:
 - Each step does not increase the objective
 	- will always be decrease $\rightarrow$ converge
-- There are finite number of [[instance(s)]] assignments to $k$ [[cluster(s)]] ($k^n$)
+- There are finite number of instance assignments to $k$ [[cluster(s)]] ($k^n$)
 	- it cannot be larger than $k^n$
 ## Shape of [[k-Means]] [[cluster(s)]]
 ![[Pasted image 20240604145821.png]]

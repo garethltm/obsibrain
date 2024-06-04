@@ -10,6 +10,6 @@ $$
 Minimizing the L1-norm objective gives the [[k-Medians Clustering]] algorithm
 - Assign points to [[cluster(s)]] by finding centres with smallest L1-norm distance
 - Update cluster centers as median value (dimension-wise) of each [[cluster(s)]]
-	- this minimizes the L1-norm distance to all the [[instance(s)]] in the [[cluster(s)]]
+	- this minimizes the L1-norm distance to all the instances in the [[cluster(s)]]
 
 **Advantage: This approach is more robust to outliers**
