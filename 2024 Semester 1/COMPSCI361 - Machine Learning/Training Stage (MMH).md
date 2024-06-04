@@ -27,4 +27,7 @@ This becomes a constrained (convex) quadratic optimization problem:
 #### Solving the Dual Problem
 - Dual Problem Optimization
 	$$\max_{{\alpha}} \sum_{i=1}^{n} \alpha_i - \frac{1}{2} \sum_{i=1}^{n} \sum_{j=1}^{n} \alpha_i \cdot \alpha_j \cdot y_i \cdot y_j \cdot \vec{x_i} \cdot \vec{x_j}$$
-	such that $\alpha _i \ge 0$ and $\sum_{i=1}^{n} \alpha_i y_i = 0$, 
+	such that $\alpha _i \ge 0$ and $\sum_{i=1}^{n} \alpha_i y_i = 0$,  $i=1,2,...,n$
+	This can be solved efficiently using numerical optimization
+	- $a_i > 0$ for [[support vectors]] $\vec {x_i}$ that lie on the margin $H_1$ and $H_2$
+	- 
