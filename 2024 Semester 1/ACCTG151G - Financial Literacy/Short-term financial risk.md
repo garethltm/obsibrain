@@ -4,4 +4,4 @@ Short-term obligations
 $$Current\ Ratio=\frac{Current\ Assets}{Current\ Liabilities}$$
 - $Current\ Assets$
 - $Current\ Liabilities$
-If we are assessing liquidity by using the [[current]] [[Ratio]], does the composi
+If we are assessing liquidity by using the [[current]] [[Ratio]], does the composition of the [[current asset]] matter?
