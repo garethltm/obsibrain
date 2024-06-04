@@ -6,7 +6,7 @@ With other distances [[k-Means]] may not converge
 $$
 \sum_{i=1}^{n} \| w_{\hat{y}_i} - x_i \|_1 = \sum_{i=1}^{n} \sum_{j=1}^{d} | w_{\hat{y}_i}[j] - x_i[j] | 
 $$
-- $w_{\hat{y}_i}[j] - x_i[j]$ represents the sum of the absolute differences in each dimension (Manhattan distance)
+- $w_{\hat{y}_i}[j] - x_i[j]$ represents the sum of the absolute differences in each dimension ([[Manhattan distance]])
 Minimizing the L1-norm objective gives the [[k-Medians Clustering]] algorithm
 - Assign points to [[cluster(s)]] by finding centres with smallest L1-norm distance
 - Update cluster centers as median value (dimension-wise) of each [[cluster(s)]]
