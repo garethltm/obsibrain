@@ -14,6 +14,8 @@ uses proximity to make [[classification]] or predictions about the grouping of a
 1. If $k$ is too small, sensitive to [[Noise]] points
 2. If $k$ is too large, neighborhood may include points from other classes
 ## What's the impact of $k$?
-- [[Euclidean distance]]
-	![[Pasted image 20240605102032.png]]
+- [[Euclidean distance]]![[Pasted image 20240605102032.png]]
+
 - [[Manhattan distance]]![[Pasted image 20240605102122.png]]
+## Decision boundaries of [[k-nearest neighbor (kNN)]]
+
