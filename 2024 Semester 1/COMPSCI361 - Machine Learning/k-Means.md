@@ -68,4 +68,5 @@ We can interpret [[k-Means]] steps as minimizing an objective
 - ##### Potential issues: True [[cluster(s)]] may not be convex
 	- [[k-Means]] will fail if not convex
 ## Non-convex data sets
-- be
+- being separated by just singular lines![[Pasted image 20240604145900.png]]
+## Other issues 
