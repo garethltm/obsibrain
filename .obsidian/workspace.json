@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Training Stage (MMH).md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Quadratic Programming (QP).md",
                 "mode": "source",
                 "source": false
               }
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Training Stage (MMH).md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Quadratic Programming (QP).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Training Stage (MMH).md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Quadratic Programming (QP).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Training Stage (MMH).md"
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Quadratic Programming (QP).md"
               }
             }
           }
@@ -174,8 +174,9 @@
   },
   "active": "d7b9af870a871f2a",
   "lastOpenFiles": [
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Maximum Margin Hyperplane (MMH).md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Training Stage (MMH).md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Quadratic Programming (QP).md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Maximum Margin Hyperplane (MMH).md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/support vectors.md",
     "@images/Pasted image 20240605111453.png",
     "@images/Pasted image 20240605110910.png",
@@ -208,7 +209,6 @@
     "2024 Semester 1/COMPSCI361 - Machine Learning/Soft-margin (SVMs).md",
     "@images/Pasted image 20240605104139.png",
     "@images/Pasted image 20240605104008.png",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Model-based Learning.md",
     "@images/Pasted image 20240605103836.png"
   ]
 }
