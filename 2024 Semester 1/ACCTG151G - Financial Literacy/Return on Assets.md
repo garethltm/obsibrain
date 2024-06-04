@@ -8,3 +8,4 @@ $$ROA=\frac {Net\ profit}{Total\ Assets}$$
 Divide the [[Return on Assets]] formula into 2 other important ratios (the product of which still gives you [[Return on Assets]])![[Pasted image 20240604234742.png]]
 - [[Net Profit Margin]]
 - [[Asset Turnover]]
+## Some businesses operate on a low [[Net Profit Margin]]
