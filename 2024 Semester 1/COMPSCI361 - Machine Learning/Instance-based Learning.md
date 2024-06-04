@@ -6,4 +6,4 @@
 - [[k-nearest neighbour (KNN)]]
 
 Construct hypotheses directly from the training instances themselves
-The hypothesis complexity can grow with 
+The hypothesis complexity can grow with the data (more [[training data]] = more complex)
