@@ -18,4 +18,5 @@ uses proximity to make [[classification]] or predictions about the grouping of a
 
 - [[Manhattan distance]]![[Pasted image 20240605102122.png]]
 ## Decision boundaries of [[k-nearest neighbor (kNN)]]
-
+- [[k-nearest neighbor (kNN)]] produces decision boundaries of arbitrary shape
+- Provide more flexibility compared to ru
