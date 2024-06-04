@@ -3,7 +3,9 @@ shows amount investors are willing to pay for $1 of earnings
 - For each $1 company earnings generated, how much investors are willing to pay
 - High P/E ratio may indicate a share is overpriced or is a high growth share
 $$\frac{Market\ price\ of\ the\ share}{Earnings\ per\ share}$$
-If there is higher [[Price Earnings Ratio]] ratio, shareholders have op
+If there is higher [[Price Earnings Ratio]] ratio, shareholders have optimistic views about company's future performance.
 ## Questions
 1. How can [[Price Earnings Ratio]] change?
+	- Either change of 
 2. How is [[Price Earnings Ratio]] interpreted?
+3. What does a [[Price Earnings Ratio]] of 30 mean?
