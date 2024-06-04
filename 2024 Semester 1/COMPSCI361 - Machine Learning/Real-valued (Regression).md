@@ -6,4 +6,8 @@
 Weighted [[k-nearest neighbour (KNN)]] (a variant of normal [[k-nearest neighbour (KNN)]]): Distance-weighted [[nearest neighbor(s)]] algorithm
 1. Weight the contribution of each of the $k$ neighbors according to the query $x'$
 2. Give greater weight to closer neighbors:
-	- $w=\frac {1}{d(x')}$
+	- $w=\frac {1}{d(x',x_i)}$
+	- lesser weight to further neighbors
+### Issue
+- [[Noisy data]]: distance between neighbors could be dominated by irrelevant attributes
+## Fix
