@@ -11,3 +11,6 @@ It's (almost) non-parametric [[Clustering]] method
 	- doesn't assume that you have to give a number of [[cluster(s)]]
 		- it detects the number of [[cluster(s)]]
 	- [[cluster(s)]] can become more complicated with more data
+## Density-Based Spatial [[Clustering]] with applications with [[Noise]] algorithm (DBSCAN)
+has 2 parameters:
+- $\epsilon$: distance
