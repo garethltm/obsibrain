@@ -13,7 +13,7 @@
 		- Might change relationship with other variables other than class $\implies$ bias in data (we need to explore the whole data in such a way where we keep those underlying relations)
 		- There might be relationship between X' & other features in combination (you are only looking at a single pairwise relationship)
 	4. the most probable value (dividing the complete dataset into 2 parts) - **NOT TESTED** ![[Pasted image 20240413214838.png]]
-		- Inference-based such as Bayesian formula, [[Decision Tree(s)]], [[k-nearest neighbour (kNN)]],...
+		- Inference-based such as Bayesian formula, [[Decision Tree(s)]], [[k-nearest neighbor (kNN)]],...
 	- IDEA: Any model that can be used for [[Supervised Learning]] can be used here
 ## Imputation as matrix completion problem
 - useful for high-dimensional, sparsely populated datasets
