@@ -6,4 +6,6 @@
 - where $w_c$ is the centroid or medoid of [[cluster(s)]] $C_c$
 - Given $k$, find a partition of $k$ [[cluster(s)]] that optimizes the chosen partitioning criterion
 	- Global optimum: exhaustively enumerate all partitions $\rightarrow$ Expensive
-	- Local optimu
+	- Local optimum: heuristics, such as [[k-Means]] (not guaranteed correct solution/[[Optimal]] solution)
+Suitable for detecting non-overlapping spherical [[cluster(s)]] of similar size & density
+There are other types of [[Clustering]] 
