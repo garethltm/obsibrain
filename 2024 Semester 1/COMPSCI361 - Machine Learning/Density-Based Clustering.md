@@ -23,6 +23,6 @@ It's (almost) non-parametric [[Clustering]] method
 
 #compsci361example ![[Pasted image 20240604153546.png]]![[Pasted image 20240604153558.png]]![[Pasted image 20240604153613.png]]![[Pasted image 20240604153626.png]]![[Pasted image 20240604153639.png]]![[Pasted image 20240604153659.png]]![[Pasted image 20240604153710.png]]
 ## Issues
-- Finding [[cluster(s)]] for a new point is expensive you need to compute distances to $m$ core points $O(md)$, or in worst case to all training points $O(nd)$
-- Some points are not assigned to a [[cluster(s)]]
-- Ambiguity of [[boundary points]]: when these are at same distance from [[core point]] that belong to different [[cluster(s)]]![[Pasted image 20240604154224.png]]
+1. Finding [[cluster(s)]] for a new point is expensive you need to compute distances to $m$ core points $O(md)$, or in worst case to all training points $O(nd)$
+2. Some points are not assigned to a [[cluster(s)]]
+3. Ambiguity of [[boundary points]]: when these are at same distance from [[core point]] that belong to different [[cluster(s)]]![[Pasted image 20240604154224.png]]
