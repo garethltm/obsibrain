@@ -5,5 +5,8 @@ A disadvantage of [[k-Means Algorithm]] in some applications: the cluster center
 - What does it mean to have 0.3 of word 2 in a document? - it doesn't compute
 ## Alternative to [[k-Means Algorithm]] is [[k-Medoids Clustering]]
 - Same algorithm as [[k-Means Algorithm]], except the [[cluster(s)]] centres must be data points in D.
-	- take one sample in your [[cluster(s)]] such that, it is 
+	- take one sample in your [[cluster(s)]] such that, it is the one that is closest to all others in terms of distance measured
 - Update the cluster center by finding [[instance(s)]] in the [[cluster(s)]] minimizing squared L2-norm distance to all points in the [[cluster(s)]]
+## Initialization
+- [[k-Means Algorithm]] is fast but sensitive to **Initialization**
+- 
