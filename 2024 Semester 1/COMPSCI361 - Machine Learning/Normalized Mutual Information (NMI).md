@@ -4,3 +4,4 @@
 $$
 NMI(C, G) = \frac{I(C, G) \cdot 2}{H(C) + H(G)}
 $$
+where \( H \) is the entropy \( H(C) = - \sum_i p(C_i) \log p(C_i) = - \sum_i \frac{|C_i|}{n} \log \frac{|C_i|}{n} \)
