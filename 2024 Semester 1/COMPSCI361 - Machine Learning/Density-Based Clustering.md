@@ -27,4 +27,6 @@ It's (almost) non-parametric [[Clustering]] method
 2. Some points are not assigned to a [[cluster(s)]]
 3. Ambiguity of [[boundary points]]: when these are at same distance from [[core point]] that belong to different [[cluster(s)]]![[Pasted image 20240604154224.png]]
 4. Sensitive to choice of $\epsilon$ and $minNeighbours$
-	- Original paper proposed to an 
+	- Original paper proposed to an [[elbow method]] to select $\epsilon$ based on some fixed value $k$
+		- set $k$ to 4
+		- set $minNeigho
