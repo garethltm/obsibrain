@@ -29,4 +29,5 @@ Given set of [[instance(s)]] & number of [[cluster(s)]] $k$ ([[hyperparameter(s)
 
 #compsci361example ![[Pasted image 20240604140826.png]]![[Pasted image 20240604140846.png]]![[Pasted image 20240604140903.png]]![[Pasted image 20240604140927.png]]![[Pasted image 20240604140944.png]]![[Pasted image 20240604141002.png]]![[Pasted image 20240604141023.png]]
 ## Potential Problems
-1. [[K-Means Algorithm]] is that we may not be aware of how many clusters there actually are (which gi)
+1. We may not be aware of how many clusters there actually are (which gives a suboptimal solution)
+2. Because it is a heuristic, we may still know the exact number of clusters but our 1st step on initialisation can have a big influence on your resul
