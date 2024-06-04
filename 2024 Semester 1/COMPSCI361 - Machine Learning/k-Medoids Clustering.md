@@ -9,4 +9,7 @@ A disadvantage of [[k-Means Algorithm]] in some applications: the cluster center
 - Update the cluster center by finding [[instance(s)]] in the [[cluster(s)]] minimizing squared L2-norm distance to all points in the [[cluster(s)]]
 ## Initialization
 - [[k-Means Algorithm]] is fast but sensitive to **Initialization**
-- 
+- Classic approach to initialization: random restarts
+	- run to convergence using different random initializations
+	- Choose the one that minimizes average squared distances of data to the [[cluster(s)]] centers
+		- choose the best one out of those several runs
