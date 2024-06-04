@@ -5,3 +5,4 @@ With other distances [[k-Means Algorithm]] may not converge
 $$
 \sum_{i=1}^{n} \| w_{\hat{y}_i} - x_i \|_1 = \sum_{i=1}^{n} \sum_{j=1}^{d} | w_{\hat{y}_i}[j] - x_i[j] | 
 $$
+- $w_{\hat{y}_i}[j] - x_i[j]$ represents the sum of the absolute differences in each dimension (Manhattan distance)
