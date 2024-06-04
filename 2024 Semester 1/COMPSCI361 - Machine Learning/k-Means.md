@@ -69,4 +69,5 @@ We can interpret [[k-Means]] steps as minimizing an objective
 	- [[k-Means]] will fail if not convex
 ## Non-convex data sets
 - being separated by just singular lines![[Pasted image 20240604145900.png]]
-## Other issues 
+## Other issues of [[k-Means]]
+![[Pasted image 20240604150003.png]]
