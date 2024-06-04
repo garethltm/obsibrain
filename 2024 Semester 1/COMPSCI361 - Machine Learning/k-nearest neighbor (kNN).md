@@ -10,4 +10,6 @@ uses proximity to make [[classification]] or predictions about the grouping of a
 	- [[Euclidean distance]]
 	- [[Manhattan distance]]
 ## Choice of $k$
-1. If $k$ is too small, sen
+![[Pasted image 20240605102004.png]]
+1. If $k$ is too small, sensitive to [[Noise]] points
+2. If $k$ is too large, neighborhood may include points from other classes
