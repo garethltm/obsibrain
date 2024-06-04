@@ -32,4 +32,5 @@ uses proximity to make [[classification]] or predictions about the grouping of a
 	- Irrelevant & Redundant Attributes Issue
 		1. Irrelevant attributes add [[Noise]] to the proximity measure
 		2. Redundant attributes bias the proximity measure towards certain attributes
-	
+	**Solution**: [[Principal Components Analysis (PCA)]] for [[Dimensionality reduction]]
+			[[Principal Components Analysis (PCA)]] $\ne$ Analysis
