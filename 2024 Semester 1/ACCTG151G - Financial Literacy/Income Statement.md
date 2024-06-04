@@ -10,4 +10,5 @@
 - Electricity bills
 - Telephone/Internet
 These expenses include things like:
-- Bad debts ()
+- Bad debts (customers on account who will never pay us - we weren't able to receive the amount from the customer)
+- Stolden 
