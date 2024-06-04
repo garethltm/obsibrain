@@ -17,8 +17,7 @@ It's (almost) non-parametric [[Clustering]] method
 	- implements a "chain reaction" throughout the dense areas
 [[cluster(s)]] contain:
 - All [[core point]] that can be reached by following a sequence of [[core point]]
-- All non-core neighbours of [[core point]] (boundary points)
-	- points that are not [[core point]] but are edges of the [[cluster(s)]] (boundary)![[Pasted image 20240604153043.png]]
+- [[boundary points]]![[Pasted image 20240604153043.png]]
 ## Pseudo Code
 ![[Pasted image 20240604153139.png]]
 
@@ -26,4 +25,4 @@ It's (almost) non-parametric [[Clustering]] method
 ## Issues
 - Finding [[cluster(s)]] for a new point is expensive you need to compute distances to $m$ core points $O(md)$, or in worst case to all training points $O(nd)$
 - Some points are not assigned to a [[cluster(s)]]
-- Ambiguity 
+- Ambiguity of non-core
