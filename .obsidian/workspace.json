@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Ensemble(s).md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Margin Maximization.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d72a5a2e0f6b9578",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Generalization Performance.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,7 +43,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -77,8 +90,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Ensemble(s).md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Generalization Performance.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Ensemble(s).md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Generalization Performance.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Ensemble(s).md"
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Generalization Performance.md"
               }
             }
           }
@@ -171,14 +183,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3392bc9e2af2e9ba",
+  "active": "d72a5a2e0f6b9578",
   "lastOpenFiles": [
-    "2024 Semester 1/COMPSCI361 - Machine Learning/k-Means.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Margin Maximization.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Generalization Performance.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Support Vector Machines (SVM).md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Ensemble(s).md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/k-Means.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Maximum Margin Hyperplane (MMH).md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/hyperplane.md",
     "@images/Pasted image 20240605104722.png",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Support Vector Machines (SVM).md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/AdaBoost.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Learning Theory.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Euclidean distance.md",
@@ -203,9 +217,7 @@
     "@images/Pasted image 20240605103836.png",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Non-Linearly Separable Data.md",
     "@images/Pasted image 20240605103805.png",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Linearly Separable Data.md",
     "@images/Pasted image 20240605103727.png",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/hyperparameter(s).md",
     "@images/Pasted image 20240605102527.png",
     "@images/Pasted image 20240605102122.png",
     "@images/Pasted image 20240605102032.png"
