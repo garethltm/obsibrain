@@ -12,4 +12,6 @@ If we are assessing liquidity by using the [[current]] [[Ratio]], does the compo
 $$Interest\ Cover=\frac {Earnings\ Before\ Interest\ \&\ Tax}{Interest\ Expense}$$
 - [[Earnings Before Interest & Tax (EBIT)]] 
 - [[Interest expense]]
-to see whether the company has enough profit to serv
+
+to see whether the company has enough profit to service the interest payment
+- Before paying [[Interest expense]] to the debt holders & paying tax
