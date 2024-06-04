@@ -3,4 +3,5 @@
 - #compsci361example Purity, Rand Index & Normalized Mutual Information
 ## Methods
 A good [[Clustering]] quality measure $Q(C,G)$ for a clustering $C$ given the ground truth $G$, should satisfying following 4 essential criteria:
-- Cluster homo
+1. [[Cluster homogeneity]]
+2. [[Cluster completeness]]
