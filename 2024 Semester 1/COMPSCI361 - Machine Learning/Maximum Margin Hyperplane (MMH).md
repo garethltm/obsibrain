@@ -14,6 +14,7 @@ Any training tuples (data) that fall on margins $H_1$ or $H_2$
 
 ## Linear model
 $f(\vec{x}) = \begin{cases} +1, & \vec{w} \cdot \vec{x} + b \geq +1\\-1, & \vec{w} \cdot \vec{x} + b \leq -1\end{cases}$
+$+1$
 1. Training Stage: Learning the model is equivalent to determining the values of $\vec{w}$ and $b$
 	- How to find $\vec{w}$ and $b$ from [[training data]] $S$?
-2. Testing Stage: Once 
+2. Testing Stage: Once $\vec{w}$ and b are found, given a [[test data]] ($\vec{x}$). use $f(\cdot)$ to determine the class label
