@@ -37,4 +37,6 @@ Each example is assigned to one (& only one) [[cluster(s)]] $\rightarrow$ no pos
 - Assumes you know number of [[cluster(s)]] k
 	- if you don't know, you can define a function which sums up the distances from your [[instance(s)]] from each [[cluster(s)]] to the cluster centre (within cluster variance)
 - [[K-Means Algorithm]] is guaranteed to converge when using Euclidean distance
-	1. you can forget about all [[instance(s)]] that belong to your [[cluster(s)]]. Your cluster 
+	1. you can forget about all [[instance(s)]] that belong to your [[cluster(s)]]. Your cluster centroid is like a pillar to your [[cluster(s)]]
+	2. you can compute distances for that new test [[instance(s)]] to all existing [[cluster(s)]] centres, choose the one closest to you in terms of Euclidean distance
+Not all [[Clustering]] algorithms can be applied in a predictive 
