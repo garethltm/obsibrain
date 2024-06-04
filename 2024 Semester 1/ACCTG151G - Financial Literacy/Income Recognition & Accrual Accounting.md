@@ -12,4 +12,5 @@ The accounting period assumption divides the life of a business up over several 
 ## Difference between [[Accrual Accounting]] & [[Cash Accounting]]
 ![[Pasted image 20240604224147.png]]
 Profit differences could exist when:
-- Service is performed/sale takes place, but 
+- Service is performed/sale takes place, but cash will be collected in a future accounting period.
+- Customer makes a deposit, but revenue won't be earned until a future accounting period. (from the company's )
