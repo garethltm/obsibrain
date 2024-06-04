@@ -1,1 +1,1 @@
-Once we subtract all these other operating (day-to-day) ex
+Once we subtract all these other operating (day-to-day) expenses from our Gross Profit we end up with a new 'level' of profit often referred
