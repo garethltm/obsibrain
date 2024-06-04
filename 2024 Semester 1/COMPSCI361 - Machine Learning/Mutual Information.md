@@ -1,2 +1,2 @@
 - an information-theoretic measure about the amount of information by which our knowledge about the categories increases when we are told what the [[cluster(s)]] are
-- 
+- It is 0 if the [[Clustering]] is random with respect to category membership

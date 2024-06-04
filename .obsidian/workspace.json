@@ -61,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "information theory",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,7 +78,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -240,7 +241,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "37d93e2178d20e07",
+  "active": "a6e0090ac9cbd1f3",
   "lastOpenFiles": [
     "2024 Semester 1/COMPSCI361 - Machine Learning/Extrinsic.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Mutual Information.md",
