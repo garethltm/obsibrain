@@ -1,3 +1,4 @@
 - Detect a pattern in the [[training data]]
 - Build a predictive model
-- 
+- Prediction is extremely fast
+	- You can also use 
