@@ -25,5 +25,6 @@ When you are calculating [[cluster(s)]], there is no reason to think about hiera
 2. [[Complete Linkage]]
 3. [[Centroid distance]]
 	![[Pasted image 20240604165642.png]]
-	
+	1. [[Complete Linkage]] gives the impression that $D$ is far removed from the rest
+	2. With [[Centroid distance]] we see that $A$ & $B$ are not really discernible as separate [[cluster(s)]], even though they are found fir
 	
