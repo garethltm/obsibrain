@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "69d9c692ebcf4dc7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Return on Assets.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Profitability Analysis.md",
+                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Return on Assets.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Profitability Analysis.md",
+                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Return on Assets.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Profitability Analysis.md"
+                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Return on Assets.md"
               }
             }
           },
@@ -156,7 +169,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Profitability Analysis.md"
+                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Return on Assets.md"
               }
             }
           },
@@ -182,7 +195,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Profitability Analysis.md",
+                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Return on Assets.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -228,13 +241,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e02606a8f80b4459",
+  "active": "69d9c692ebcf4dc7",
   "lastOpenFiles": [
+    "2024 Semester 1/ACCTG151G - Financial Literacy/Profitability Analysis.md",
+    "2024 Semester 1/ACCTG151G - Financial Literacy/Return on Assets.md",
     "2024 Semester 1/ACCTG151G - Financial Literacy/Profitability & Financial Risk Analysis.md",
     "2024 Semester 1/ACCTG151G - Financial Literacy/Balance sheet.md",
     "2024 Semester 1/ACCTG151G - Financial Literacy/Income Statement.md",
     "@images/Pasted image 20240604234334.png",
-    "2024 Semester 1/ACCTG151G - Financial Literacy/Profitability Analysis.md",
     "@images/Pasted image 20240604234141.png",
     "2024 Semester 1/ACCTG151G - Financial Literacy/Ratios.md",
     "@images/Pasted image 20240604233847.png",
