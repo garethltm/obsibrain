@@ -61,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "dendro",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,7 +78,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -240,7 +241,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "affb166fd18d9581",
+  "active": "a6e0090ac9cbd1f3",
   "lastOpenFiles": [
     "@images/Pasted image 20240604163021.png",
     "@images/Pasted image 20240604162947.png",
