@@ -9,4 +9,4 @@
 - Employees' salaries
 - Electricity bills
 - Telephone/Internet
-These expenses 
+These expenses inclde things like
