@@ -32,12 +32,12 @@
             }
           },
           {
-            "id": "66d126467c38720a",
+            "id": "7ef22a6bb45aeec8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Rag bag.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Small cluster preservation.md",
                 "mode": "source",
                 "source": false
               }
@@ -111,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Rag bag.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Small cluster preservation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Rag bag.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Small cluster preservation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Rag bag.md"
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Small cluster preservation.md"
               }
             }
           },
@@ -181,7 +181,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Rag bag.md"
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Small cluster preservation.md"
               }
             }
           },
@@ -207,7 +207,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Rag bag.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Small cluster preservation.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -252,9 +252,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "66d126467c38720a",
+  "active": "7ef22a6bb45aeec8",
   "lastOpenFiles": [
     "2024 Semester 1/COMPSCI361 - Machine Learning/Extrinsic.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Small cluster preservation.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Rag bag.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Cluster completeness.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Cluster homogeneity.md",
@@ -289,7 +290,6 @@
     "2024 Semester 1/COMPSCI361 - Machine Learning/boundary points.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/DBSCAN.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/core point.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/overfit(ting).md",
     "Untitled.canvas",
     "2023 Semester 1/MKTG151G/Notes",
     "2023 Semester 1/MKTG151G/Lecture Notes",

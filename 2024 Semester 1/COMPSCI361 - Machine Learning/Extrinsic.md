@@ -6,3 +6,4 @@ A good [[Clustering]] quality measure $Q(C,G)$ for a clustering $C$ given the gr
 1. [[Cluster homogeneity]]
 2. [[Cluster completeness]]
 3. [[Rag bag]]
+4. [[Small cluster preservation]]

@@ -1,0 +1,1 @@
+- splitting a small category into pieces is more harm
