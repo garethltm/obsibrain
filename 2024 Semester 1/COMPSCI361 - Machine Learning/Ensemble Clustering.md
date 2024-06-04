@@ -3,4 +3,4 @@ We can consider [[Ensemble(s)]] methods for [[Clustering]]: "consensus" [[Cluste
 	- [[Bootstrapping]] is widely-used
 	- Do [[cluster(s)]] change if the data was slightly different?
 - But we need to be careful about how we combine models
-- #compsci361example run [[k-Means]] 
+- #compsci361example run [[k-Means]] 20 times & then [[cluster(s)]] using the mode of the assigned [[cluster(s)]] labels 
