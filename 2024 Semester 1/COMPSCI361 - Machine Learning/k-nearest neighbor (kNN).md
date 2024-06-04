@@ -22,3 +22,7 @@ uses proximity to make [[classification]] or predictions about the grouping of a
 - Provide more flexibility compared to [[rule-based classifiers]]
 - High variety because decision boundaries depends on training samples in the local neighborhood
 - [[Vonoroi diagram (1-NN)]]
+## Issues
+1. Scaling Issue
+	- height of a person may ca
+2. Irrelevant & Redundant Attributes Issue
