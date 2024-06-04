@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Classification - A Mathematical Formulation.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Bayes Optimal Classifier.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "{ path:\"2024 Semester 1/COMPSCI361 - Machine Learning\"  ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Classification - A Mathematical Formulation.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Bayes Optimal Classifier.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Classification - A Mathematical Formulation.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Bayes Optimal Classifier.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Classification - A Mathematical Formulation.md"
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Bayes Optimal Classifier.md"
               }
             }
           }
@@ -160,7 +161,10 @@
   },
   "active": "4cf62ebcdecd1848",
   "lastOpenFiles": [
-    "2024 Semester 1/COMPSCI361 - Machine Learning/classification.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Classification - A Mathematical Formulation.md"
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Additional assumption.md",
+    "2024 Semester 1/ACCTG151G - Financial Literacy/Asset Turnover.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Accuracy.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Classification - A Mathematical Formulation.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/classification.md"
   ]
 }
