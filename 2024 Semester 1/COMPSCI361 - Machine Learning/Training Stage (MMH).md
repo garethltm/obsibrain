@@ -13,3 +13,5 @@ This becomes a constrained (convex) quadratic optimization problem:
 - Quadratic objective function with linear constraints $\rightarrow$ [[Quadratic Programming (QP)]]
 ## Duality
 [[Support Vector Machines (SVM)]] primal problem form:
+	$\min\limits_{w,b} \frac{||w||}{2} \quad s.t. \quad y_i(w \cdot x_i + b) \geq 1, \quad i=1,2,...,n$
+We ca
