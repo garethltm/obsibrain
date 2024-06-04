@@ -5,4 +5,8 @@
 ## Requires 3 things
 1. The set of stored training instances (already labelled by humans)
 2. Distance metric to compute distance between instances
-3. The value of $k$, the number of [[neres]]
+3. The value of $k$, the number of nearest neighbours to retrieve
+## To classify an unknown instance
+- compute distance to other training instances
+- Identify $k$ nearest neighbours
+- Use class labels of the nearest neighbours to determine the class label of the unknown ins
