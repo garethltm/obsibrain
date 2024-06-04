@@ -6,6 +6,7 @@ $$\frac{Market\ price\ of\ the\ share}{Earnings\ per\ share}$$
 If there is higher [[Price Earnings Ratio]] ratio, shareholders have optimistic views about company's future performance.
 ## Questions
 1. How can [[Price Earnings Ratio]] change?
-	- Either change of 
+	- Either change of numerator/denominator or BOTH
 2. How is [[Price Earnings Ratio]] interpreted?
+	- for every $1 [[Earnings per Share (EPS)]], shareholder's are happy to apy more to acquire
 3. What does a [[Price Earnings Ratio]] of 30 mean?
