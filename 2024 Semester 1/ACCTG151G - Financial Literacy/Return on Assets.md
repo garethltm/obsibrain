@@ -11,4 +11,4 @@ Divide the [[Return on Assets]] formula into 2 other important ratios (the produ
 ## Questions
 Some businesses operate on a low [[Net Profit Margin]] (supermarket chain). 
 Does this mean that the [[Return on Assets]] used by the business will also be low?
-- 
+- No, even though there is a lower [[Net Profit Margin]], [[Asset Turnover]] could still be high. The [[Return on Assets]] could still be high at t
