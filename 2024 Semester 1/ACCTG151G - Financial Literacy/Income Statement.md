@@ -12,4 +12,4 @@
 These expenses include things like:
 - Bad debts (customers on account who will never pay us - we weren't able to receive the amount from the customer)
 - Stolen or damaged stock (inventory)
-- Depreciation
+- Depreciation - can reduce taxable income
