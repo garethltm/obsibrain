@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Long-term financial risk.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9bd1d1ff899763bb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Interest cover.md",
+                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Short-term financial risk.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -99,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Interest cover.md",
+                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Short-term financial risk.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Interest cover.md",
+                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Short-term financial risk.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Interest cover.md"
+                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Short-term financial risk.md"
               }
             }
           },
@@ -169,7 +156,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Interest cover.md"
+                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Short-term financial risk.md"
               }
             }
           },
@@ -195,7 +182,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Interest cover.md",
+                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Short-term financial risk.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -241,14 +228,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9bd1d1ff899763bb",
+  "active": "e02606a8f80b4459",
   "lastOpenFiles": [
+    "2024 Semester 1/ACCTG151G - Financial Literacy/Financial Risk Analysis.md",
     "2024 Semester 1/ACCTG151G - Financial Literacy/Long-term financial risk.md",
     "2024 Semester 1/ACCTG151G - Financial Literacy/Interest cover.md",
     "2024 Semester 1/ACCTG151G - Financial Literacy/Gearing.md",
     "2024 Semester 1/ACCTG151G - Financial Literacy/Debt-to-asset Ratio.md",
     "2024 Semester 1/ACCTG151G - Financial Literacy/Debt-to-equity Ratio.md",
-    "2024 Semester 1/ACCTG151G - Financial Literacy/Financial Risk Analysis.md",
     "2024 Semester 1/ACCTG151G - Financial Literacy/Short-term financial risk.md",
     "@images/Pasted image 20240605000815.png",
     "2024 Semester 1/ACCTG151G - Financial Literacy/Profitability & Financial Risk Analysis.md",
