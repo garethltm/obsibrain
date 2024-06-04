@@ -9,4 +9,4 @@ to see the company's ability to cover its shorter obligations with its [[current
 If we are assessing liquidity by using the [[current]] [[Ratio]], does the composition of the [[current asset]] matter?
 
 ## Liquidity
-$$Interest\ Cover=\frac {}{}$$
+$$Interest\ Cover=\frac {Earnings\ Before\ Interest\ \&\ Tax}{}$$
