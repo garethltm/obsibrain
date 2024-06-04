@@ -34,3 +34,5 @@ Given set of [[instance(s)]] & number of [[cluster(s)]] $k$ ([[hyperparameter(s)
 2. Because it is a heuristic, we may still know the exact number of clusters but our 1st step on initialisation can have a big influence on your result
 Each example is assigned to one (& only one) [[cluster(s)]] $\rightarrow$ no possibility of overlapping [[cluster(s)]] or leaving unassigned examples
 ## Potential Fix (in a predictive setting)
+- Assumes you know number of [[cluster(s)]] k
+	- if you don't know, you can define a function which sums up the distances from your [[instance(s)]] from each [[cluster(s)]] to the cluster centre (within cluster variance)
