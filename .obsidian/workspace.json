@@ -61,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "model-based",
+                "query": "{ path",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,7 +78,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -171,7 +172,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9031ae77b0ef733d",
+  "active": "df196a25d0db2b45",
   "lastOpenFiles": [
     "2024 Semester 1/COMPSCI361 - Machine Learning/Support Vector Machines (SVM).md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Margin Maximization.md",
