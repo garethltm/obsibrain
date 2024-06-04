@@ -28,5 +28,6 @@ uses proximity to make [[classification]] or predictions about the grouping of a
 	- height of a person may vary from 1.5m to 1.8m
 	- weight of a person may vary from 90lb to 300lb
 	- income of a person may vary from $10k to $1M
-	### Solution
-1. Irrelevant & Redundant Attributes Issue
+	**Solution**: Attributes may have to be scaled ([[Normalization]]) to prevent distance measures from being dominated by one of the attributes:
+	1. Irrelevant & Redundant Attributes Issue
+		- Irrelev
