@@ -62,6 +62,10 @@ We can interpret [[k-Means]] steps as minimizing an objective
 - There are finite number of [[instance(s)]] assignments to $k$ [[cluster(s)]] ($k^n$)
 	- it cannot be larger than $k^n$
 ## Shape of [[k-Means]] [[cluster(s)]]
+![[Pasted image 20240604145821.png]]
 - [[k-Means]] partitions the input space into convex regions, with linear cluster boundaries
 	- convex: if any line between 2 points in the region stays in the region![[Pasted image 20240604145740.png]]
-- 
+- ##### Potential issues: True [[cluster(s)]] may not be convex
+	- [[k-Means]] will fail if not convex
+## Non-convex data sets
+- be
