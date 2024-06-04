@@ -13,8 +13,8 @@ This becomes a constrained (convex) quadratic optimization problem:
 - Quadratic objective function with linear constraints $\rightarrow$ [[Quadratic Programming (QP)]]
 ## Duality
 [[Support Vector Machines (SVM)]] primal problem form:
-	$\min\limits_{w,b} \frac{||w||}{2} \quad s.t. \quad y_i(w \cdot x_i + b) \geq 1, \quad i=1,2,...,n$
+	$\min\limits_{w,b} \frac{||\vec {w}||}{2} \quad s.t. \quad y_i(\vec {w} \cdot \vec {x_i} + b) \geq 1, \quad i=1,2,...,n$
 We can convert it to the dual problem of [[Support Vector Machines (SVM)]] by introducing [[Lagrange Multipliers & Constrained Optimization]] ($\alpha _i$)
 	$L(w,b,\alpha)=\frac{||w||}{2}-\sum\limits_{i=1}^n \alpha_i[y_i(\vec{w} \cdot \vec{x_i} + b) - 1], \quad \alpha_i > 0$
 - Solving the primal problem is equivalent to solving the dual problem:
-	$\min\limits_{w,b} \frac{||w||}{2} \equiv \max\limits_{\alpha} \min\limits_{w,b} L(w,b,\alpha)$
+	$\min\limits_{w,b} \frac{||\vec {w}||}{2} \equiv \max\limits_{\alpha} \min\limits_{\vec {w},b} L(w,b,\alpha)$
