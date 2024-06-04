@@ -1,0 +1,1 @@
+- Income Recognition = We have to recognise the [[transaction]]
