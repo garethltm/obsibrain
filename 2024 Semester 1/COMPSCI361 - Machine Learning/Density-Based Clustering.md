@@ -11,10 +11,7 @@ It's (almost) non-parametric [[Clustering]] method
 	- doesn't assume that you have to give a number of [[cluster(s)]]
 		- it detects the number of [[cluster(s)]]
 	- [[cluster(s)]] can become more complicated with more data
-
-has 2 parameters:
-- $\epsilon$: distance we use to decide if another point is a "neighbour"
-- $minNeighbours$: number of neighbours needed to say a region is "dense"![[Pasted image 20240604152658.png]]
+## [[DBSCAN]]
 #### Main idea:
 - merge all neighbouring [[core point]] to form [[cluster(s)]]
 	- implements a "chain reaction" throughout the dense areas
