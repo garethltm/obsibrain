@@ -26,3 +26,5 @@ Given set of [[instance(s)]] & number of [[cluster(s)]] $k$ ([[hyperparameter(s)
 	- if all 3 assumptions hold then it is fast (almost linear)
 ##### Why is complexity important
 - because [[Clustering]] is typically applied to large databases & [[2024 Semester 1/INFOSYS303 - Solutions Architecture/Scalability|Scalability]] is important
+
+#compsci361example ![[Pasted image 20240604140826.png]]![[Pasted image 20240604140846.png]]![[Pasted image 20240604140903.png]]
