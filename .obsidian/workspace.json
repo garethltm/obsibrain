@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "568ff7f847ed9ad9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/dendrogram.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -61,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "dendro",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -100,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Hierarchical Clustering.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/dendrogram.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Hierarchical Clustering.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/dendrogram.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Hierarchical Clustering.md"
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/dendrogram.md"
               }
             }
           },
@@ -170,7 +182,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Hierarchical Clustering.md"
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/dendrogram.md"
               }
             }
           },
@@ -196,7 +208,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Hierarchical Clustering.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/dendrogram.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -241,13 +253,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a6e0090ac9cbd1f3",
+  "active": "568ff7f847ed9ad9",
   "lastOpenFiles": [
+    "@images/Pasted image 20240604164145.png",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Hierarchical Clustering.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/dendrogram.md",
     "@images/Pasted image 20240604163021.png",
     "@images/Pasted image 20240604162947.png",
     "@images/Pasted image 20240604162912.png",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Partitioning Algorithms.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Hierarchical Clustering.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Density-Based Clustering.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Data Preprocessing.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Data cleaning.md",
@@ -265,7 +279,6 @@
     "@images/Pasted image 20240604153659.png",
     "@images/Pasted image 20240604153639.png",
     "@images/Pasted image 20240604153626.png",
-    "@images/Pasted image 20240604153613.png",
     "2024 Semester 1/COMPSCI361 - Machine Learning/core point.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/overfit(ting).md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/k-Means++.md",
@@ -279,7 +292,6 @@
     "2024 Semester 1/ACCTG151G - Financial Literacy/yield to maturity (YTM).md",
     "2024 Semester 1/ACCTG151G - Financial Literacy/residual claim.md",
     "2024 Semester 1/ACCTG151G - Financial Literacy/maturity date.md",
-    "2024 Semester 1/ACCTG151G - Financial Literacy/load.md",
     "2023 Semester 1/MKTG151G/Notes",
     "2023 Semester 1/MKTG151G/Lecture Notes",
     "2023 Semester 1/COMPSCI225/Tutorials",
