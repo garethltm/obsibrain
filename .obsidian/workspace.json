@@ -11,8 +11,12 @@
             "id": "69ca8e22ddf9264b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/k-nearest neighbour (KNN).md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -82,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/DBSCAN.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/k-nearest neighbour (KNN).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/DBSCAN.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/k-nearest neighbour (KNN).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -122,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/DBSCAN.md"
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/k-nearest neighbour (KNN).md"
               }
             }
           },
@@ -152,7 +156,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/DBSCAN.md"
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/k-nearest neighbour (KNN).md"
               }
             }
           },
@@ -178,7 +182,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/DBSCAN.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/k-nearest neighbour (KNN).md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -223,7 +227,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0f8e0230b587650a",
+  "active": "69ca8e22ddf9264b",
   "lastOpenFiles": [
     "2024 Semester 1/COMPSCI361 - Machine Learning/k-nearest neighbour (KNN).md",
     "conflict-files-obsidian-git.md",
