@@ -25,14 +25,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Extrinsic.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Purity.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f0ae946d40ab7f18",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Rand Index.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -99,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Extrinsic.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Rand Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Extrinsic.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Rand Index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Extrinsic.md"
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Rand Index.md"
               }
             }
           },
@@ -169,7 +181,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Extrinsic.md"
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Rand Index.md"
               }
             }
           },
@@ -195,7 +207,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Extrinsic.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Rand Index.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -240,12 +252,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "029207f089c33dd3",
+  "active": "f0ae946d40ab7f18",
   "lastOpenFiles": [
     "2024 Semester 1/COMPSCI361 - Machine Learning/Purity.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Rand Index.md",
+    "@images/Pasted image 20240604172038.png",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Extrinsic.md",
     "@images/Pasted image 20240604171913.png",
     "@images/Pasted image 20240604171842.png",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Extrinsic.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Small cluster preservation.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Rag bag.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Cluster completeness.md",
@@ -265,7 +279,6 @@
     "@images/Pasted image 20240604165237.png",
     "@images/Pasted image 20240604165117.png",
     "@images/Pasted image 20240604164930.png",
-    "@images/Pasted image 20240604164636.png",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Partitioning Algorithms.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/dendrogram.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Density-Based Clustering.md",
@@ -276,7 +289,6 @@
     "2024 Semester 1/COMPSCI361 - Machine Learning/Label Switching Problem.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/k-Means.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/elbow method.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/boundary points.md",
     "Untitled.canvas",
     "2023 Semester 1/MKTG151G/Notes",
     "2023 Semester 1/MKTG151G/Lecture Notes",
