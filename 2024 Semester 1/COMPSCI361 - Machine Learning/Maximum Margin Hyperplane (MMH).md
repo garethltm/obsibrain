@@ -6,4 +6,5 @@ A separating hyperplane ($H$) can be formally defined as $\vec{w}\cdot \vec{x} +
 - $\vec{w} = \{w_1, w_2, ..., w_n\}$ is a weight vector & $b$ is scalar (bias)
 ### For 2D
 it can be written as: $w_1\cdot x_{i,1}+w_2\cdot x_{i,2}+b =0$,
-- 
+- The [[hyperplane]]s defining the sides of the margin:
+	- $H_1:w_1\cdot x_{i,1}+w_2\cdot x_{i,2}+b\ge 1$, for 
