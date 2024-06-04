@@ -8,7 +8,7 @@
 Heuristic that needs similarity/distance matrix to guide the [[Clustering]] process.
 ![[Pasted image 20240604164636.png]]
 - refer to [[dendrogram]]
-1. agglomerative
+1. [[agglomerative]]
 2. divisive
 ## Motivation
 - Consider [[Density-Based Clustering]] on this data:![[Pasted image 20240604162912.png]]
@@ -18,4 +18,4 @@ Heuristic that needs similarity/distance matrix to guide the [[Clustering]] proc
 When you are calculating [[cluster(s)]], there is no reason to think about hierarchy $\rightarrow$ main point is to find groups
 - The hierarchical structure is returned whether there exists 1 in the data or not
 	- How would the [[dendrogram]] look if there is no structure in the data?
-- A [[dendrogram]] is the description of the result of the algorithm, not a graphical
+- A [[dendrogram]] is the description of the result of the algorithm, **not a graphical summary of the data**
