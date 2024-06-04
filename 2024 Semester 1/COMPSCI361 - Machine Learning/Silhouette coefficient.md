@@ -10,4 +10,4 @@ $$
 	- Fitness of [[cluster(s)]] $C_i$ in given [[Clustering]] can be measured by the average [[Silhouette coefficient]] value of all points in the [[cluster(s)]]
 ## Visualized [[Silhouette coefficient]]
 - Typically we sort & plot $s(x)$ for each instance, grouped by [[cluster(s)]]![[Pasted image 20240604173656.png]]
-- 
+- Almost all points have high $s(x)$, which means that they are much closer, on average, to the other members of their [[cluster(s)]] than to the members of the neighbouring [[cluster(s)]]
