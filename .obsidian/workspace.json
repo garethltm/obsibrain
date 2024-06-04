@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "afe9af658af739de",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Real-valued (Regression).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "325f9bb6e9491797",
             "type": "leaf",
             "state": {
@@ -31,7 +43,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -60,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "euclidean distance",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -98,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/k-nearest neighbour (KNN).md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Real-valued (Regression).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/k-nearest neighbour (KNN).md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Real-valued (Regression).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/k-nearest neighbour (KNN).md"
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Real-valued (Regression).md"
               }
             }
           }
@@ -171,8 +184,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "df196a25d0db2b45",
+  "active": "afe9af658af739de",
   "lastOpenFiles": [
+    "2024 Semester 1/COMPSCI361 - Machine Learning/k-nearest neighbour (KNN).md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Real-valued (Regression).md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Discrete-valued (Classification).md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/nearest neighbor(s).md",
     "@images/Pasted image 20240605095113.png",
     "@images/Pasted image 20240605095036.png",
