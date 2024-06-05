@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Slack Variables.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Soft-margin (SVMs).md",
                 "mode": "source",
                 "source": false
               }
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Slack Variables.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Soft-margin (SVMs).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Slack Variables.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Soft-margin (SVMs).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Slack Variables.md"
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Soft-margin (SVMs).md"
               }
             }
           },
@@ -157,7 +157,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Slack Variables.md"
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Soft-margin (SVMs).md"
               }
             }
           },
@@ -183,7 +183,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Slack Variables.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Soft-margin (SVMs).md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -231,6 +231,9 @@
   },
   "active": "6910057bf555cd84",
   "lastOpenFiles": [
+    "@images/Pasted image 20240605234504.png",
+    "@images/Pasted image 20240605234454.png",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Slack Variables.md",
     "@images/Pasted image 20240605234428.png",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Soft-margin (SVMs).md",
     "@images/Pasted image 20240605234014.png",
@@ -239,7 +242,6 @@
     "@images/Pasted image 20240605225307.png",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Support Vector Machines (SVM).md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Hard-margin (SVMs).md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Slack Variables.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Handling Numerical Labels.md",
     "README.md",
     "Untitled.canvas",
@@ -248,8 +250,6 @@
     "@images/Pasted image 20240605115402.png",
     "@images/Pasted image 20240605115223.png",
     "@images/Pasted image 20240605114904.png",
-    "@images/Pasted image 20240605113124.png",
-    "@images/Pasted image 20240605112957.png",
     "2024 Semester 1/COMPSCI361 - Machine Learning/support vectors.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/rule-based classifiers.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/nearest neighbor(s).md",

@@ -24,3 +24,5 @@ $$
 2. If $(\mathbf{w} \cdot \mathbf{x}_i + b)y_i < 1$ then $\xi_i = 1-(\mathbf{w} \cdot \mathbf{x}_i + b)y_i$ (if wrongly classified, we want to penalise)
 ##### [[Slack Variables]]
 ![[Pasted image 20240605234014.png]]
+
+#compsci361example ![[Pasted image 20240605234454.png]]![[Pasted image 20240605234504.png]]
