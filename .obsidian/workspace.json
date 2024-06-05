@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Soft-margin (SVMs).md",
+                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Bond price(s).md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "ytm",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -86,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Soft-margin (SVMs).md",
+                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Bond price(s).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Soft-margin (SVMs).md",
+                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Bond price(s).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Soft-margin (SVMs).md"
+                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Bond price(s).md"
               }
             }
           },
@@ -156,7 +157,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Soft-margin (SVMs).md"
+                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Bond price(s).md"
               }
             }
           },
@@ -182,7 +183,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Soft-margin (SVMs).md",
+                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Bond price(s).md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -228,10 +229,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6910057bf555cd84",
+  "active": "a6e0090ac9cbd1f3",
   "lastOpenFiles": [
-    "2024 Semester 1/COMPSCI361 - Machine Learning/overfit(ting).md",
+    "2024 Semester 1/ACCTG151G - Financial Literacy/yield to maturity (YTM).md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Soft-margin (SVMs).md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/overfit(ting).md",
     "@images/Pasted image 20240605234846.png",
     "@images/Pasted image 20240605234504.png",
     "@images/Pasted image 20240605234454.png",
@@ -266,7 +268,6 @@
     "2024 Semester 1/ACCTG151G - Financial Literacy/Long-term financial risk.md",
     "2024 Semester 1/ACCTG151G - Financial Literacy/Financial Risk Analysis.md",
     "2024 Semester 1/ACCTG151G - Financial Literacy/Short-term financial risk.md",
-    "2024 Semester 1/ACCTG151G - Financial Literacy/Current Ratio.md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Untitled",
     "2024 Semester 1",
