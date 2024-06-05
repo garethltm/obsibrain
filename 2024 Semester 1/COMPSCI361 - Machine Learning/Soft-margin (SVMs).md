@@ -34,4 +34,5 @@ $$
 #compsci361questions 
 1. How do we recover [[Hard-margin (SVMs)]] from [[Soft-margin (SVMs)]]?
 	- Set misclassification penalty $C$ = $\infty$ (as long as large - using the [[Hard-margin (SVMs)]])
-2. Given [[Linearly Separable Data]], we train a [[Hard-margin (SVMs)]] & find out that the margin is so small that the model becomes prone to [[overfit(ting)]]. How d
+2. Given [[Linearly Separable Data]], we train a [[Hard-margin (SVMs)]] & find out that the margin is so small that the model becomes prone to [[overfit(ting)]]. How would you resolve the [[overfit(ting)]] issue?
+	- We can opt for a larger margin 
