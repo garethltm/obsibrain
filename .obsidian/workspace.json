@@ -11,8 +11,12 @@
             "id": "c05493f0c87415e1",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Centroid distance.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -83,6 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Centroid distance.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,6 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Centroid distance.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -120,7 +126,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Centroid distance.md"
+              }
             }
           },
           {
@@ -148,7 +156,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {}
+              "state": {
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Centroid distance.md"
+              }
             }
           },
           {
@@ -172,6 +182,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Centroid distance.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -204,8 +215,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 307.5,
-    "collapsed": true
+    "width": 307.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -219,6 +229,9 @@
   },
   "active": "c05493f0c87415e1",
   "lastOpenFiles": [
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Hierarchical Clustering.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Single-Linkage.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Complete Linkage.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Testing Stage (MMH).md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Maximum Margin Hyperplane (MMH).md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/k-Means++.md",
@@ -252,9 +265,6 @@
     "2024 Semester 1/COMPSCI361 - Machine Learning/Model-based Learning.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Margin Maximization.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Manhattan distance.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Machine Learning Systems.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Logistic Regression.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Linearly Separable Data.md",
     "Untitled.canvas",
     "2023 Semester 1/MKTG151G/Notes",
     "2023 Semester 1/MKTG151G/Lecture Notes",
