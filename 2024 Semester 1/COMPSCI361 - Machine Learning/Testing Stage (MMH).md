@@ -10,8 +10,8 @@ $$
 2. Dual form$$
 f(x) = 
 \begin{cases} 
-+1 & \text{if } \sum_{x_i \in ESV} a_i y_i (\vec {x_i} \cdot \vec {x}) + b > 0, \\
--1 & \text{if } \sum_{x_i \in ESV} a_i y_i (\vec {x_i} \cdot \vec {x}) + b < 0.
++1 & \text{if } \sum_{x_i \in ESV} a_i y_i (\vec {x_i} \cdot \vec {x}) + b > 0 \\
+-1 & \text{if } \sum_{x_i \in ESV} a_i y_i (\vec {x_i} \cdot \vec {x}) + b < 0
 \end{cases}
 $$
 
