@@ -11,4 +11,6 @@ The [[Soft-margin (SVMs)]] algorithm aims to find a linear [[classifier(s)]] tha
 	- ![[Pasted image 20240605233151.png]]
 #### Definition
 [[Soft-margin (SVMs)]] introduce a misclassification penalty ($C$) controls the trade-off between
-1. Maxi
+1. Maximizing the margin (same as [[Hard-margin (SVMs)]])
+2. Minimizing the loss
+Primal formulation for the soft-margin
