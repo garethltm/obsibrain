@@ -6,4 +6,5 @@ Given a set of [[training data]] $S = ((x_1, y_1), \ldots, (x_n, y_n)), y_i \in 
 #### Goal
 The [[Soft-margin (SVMs)]] algorithm aims to find a linear [[classifier(s)]] that
 1. Maximises ($\gamma$) the margin on $S$ (on all [[training data]]) and
-2. Minimise the misclassification error ()
+2. Minimise the misclassification error ($\left( C \sum_{i=1}^{n} \xi_{i} \right)$)
+	- the new parameter $\xi$ denotes teh
