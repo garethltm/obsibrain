@@ -2,4 +2,6 @@
 ![[Pasted image 20240605225310.png]]
 [[Soft-margin (SVMs)]] selects the maximum margin linear [[classifier(s)]] with partial misclassifications allowed
 ## Soft-margin Maximization
-Given a set of [[training data]] $S = ((x_1, y_1), \ldots, (x_n, y_n)), y_i \in \{+1, -1\}\}$
+Given a set of [[training data]] $S = ((x_1, y_1), \ldots, (x_n, y_n)), y_i \in \{+1, -1\}$
+#### Goal
+The [[soft-marg]]
