@@ -26,3 +26,5 @@ $$
 ![[Pasted image 20240605234014.png]]
 
 #compsci361example ![[Pasted image 20240605234454.png]]![[Pasted image 20240605234504.png]]
+## Bias & Variance
+A large value of C keeps the errors small at the cost of a reduced margin (can lead to [[overfit(ting)]]), low bias,
