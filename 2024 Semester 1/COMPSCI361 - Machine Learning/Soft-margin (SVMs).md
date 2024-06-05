@@ -20,3 +20,6 @@ $$
 - representing the minimization of the loss 
 $$y_i (\mathbf{\vec{w}} \cdot \vec {x_i} + b) \geq 1 - \xi_i, \quad i = 1, 2, \ldots, n, \quad \xi_i \geq 0
 $$
+1. 
+##### [[Slack Variables]]
+![[Pasted image 20240605234014.png]]
