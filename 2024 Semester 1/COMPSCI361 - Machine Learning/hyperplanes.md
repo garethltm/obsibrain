@@ -1,0 +1,1 @@
+There is an infinite number of lines ([[hyperplane]]) separating the 2 classes

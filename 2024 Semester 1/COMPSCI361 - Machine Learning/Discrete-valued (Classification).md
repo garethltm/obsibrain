@@ -1,0 +1,1 @@
+[[k-nearest neighbor (kNN)]] returns the most common value among the $k$ training examples nearest to the new point $x'$

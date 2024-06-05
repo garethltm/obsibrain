@@ -3,7 +3,7 @@
 Given set of instance & number of [[cluster(s)]] $k$ ([[hyperparameter(s)]]), [[k-Means]] is implemented in 
 ### 4 steps:
 1. Initial guess of the [[centroid]] of each [[cluster(s)]]
-2. Assign each instance to its closest [[cluster(s)]] [[centroid]] (in terms of Euclidean distance)
+2. Assign each instance to its closest [[cluster(s)]] [[centroid]] (in terms of [[Euclidean distance]])
 3. Update the [[cluster(s)]] [[centroid]] based on the assignment in **step 2**
 	- you now have more information
 4. go back to **step 2** & repeat until [[convergence]]
@@ -36,9 +36,9 @@ Each example is assigned to one (& only one) [[cluster(s)]] $\rightarrow$ no pos
 ## Potential Fix (in a predictive setting)
 - Assumes you know number of [[cluster(s)]] k
 	- if you don't know, you can define a function which sums up the distances from your instance from each [[cluster(s)]] to the cluster centre (within cluster variance)
-- [[k-Means]] is guaranteed to converge when using Euclidean distance
+- [[k-Means]] is guaranteed to converge when using [[Euclidean distance]]
 	1. you can forget about all instance that belong to your [[cluster(s)]]. Your cluster centroid is like a pillar to your [[cluster(s)]]
-	2. you can compute distances for that new test instances to all existing [[cluster(s)]] centres, choose the one closest to you in terms of Euclidean distance
+	2. you can compute distances for that new test instances to all existing [[cluster(s)]] centres, choose the one closest to you in terms of [[Euclidean distance]]
 Not all [[Clustering]] algorithms can be applied in a predictive manner to a new test instance, some only work in a valid descriptively only for the data set you have obtained.
 ## Behaviour/Assumptions
 - Given a new (test) example

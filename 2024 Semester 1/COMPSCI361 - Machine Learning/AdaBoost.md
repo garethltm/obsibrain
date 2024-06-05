@@ -30,7 +30,7 @@ giving these examples that are wrong with higher weightage to allow the [[classi
 
 ## [[AdaBoost]] with shallow [[Decision Tree(s)]] gives fast/accurate [[classifier(s)]]
 - Classically viewed as one of the best off-the-shelf [[classifier(s)]]
-- Procedures originally came from ideas in learning theory
+- Procedures originally came from ideas in [[learning theory]]
 
 ## Many attempts to extend theory beyond binary case
 - Led to [[gradient boosting]]

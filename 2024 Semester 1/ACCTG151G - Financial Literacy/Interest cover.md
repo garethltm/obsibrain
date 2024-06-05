@@ -1,0 +1,1 @@
+[[Interest rates (r)]] payment would be involved because [[Long-term financial risk]]

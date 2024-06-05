@@ -1,1 +1,0 @@
-uses proximity to make [[classification]] or predictions about the grouping of an individual data point.
