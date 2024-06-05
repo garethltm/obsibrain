@@ -31,4 +31,4 @@ $$
 1. A large value of C keeps the errors small at the cost of a reduced margin (can lead to [[overfit(ting)]], low bias, high variance)
 2. A small value of C allows more misclassification while increasing the margin on the remaining examples (can lead to underfitting, large bias, low variance)
 #compsci361questions How do we recover [[Hard-margin (SVMs)]] from [[Soft-margin (SVMs)]]?
-- Set misclassification penalty
+- Set misclassification penalty $C$ = $\infinity$
