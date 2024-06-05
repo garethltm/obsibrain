@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "06135c81050e4b72",
+        "id": "2cd5a8d51ef1c0c2",
         "type": "tabs",
         "children": [
           {
-            "id": "884ca03eed0719a3",
+            "id": "42158422f9485ac8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Silhouette coefficient.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -87,7 +83,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Silhouette coefficient.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +99,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Silhouette coefficient.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,9 +120,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Silhouette coefficient.md"
-              }
+              "state": {}
             }
           },
           {
@@ -156,9 +148,7 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Silhouette coefficient.md"
-              }
+              "state": {}
             }
           },
           {
@@ -183,7 +173,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Silhouette coefficient.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -228,11 +217,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "884ca03eed0719a3",
+  "active": "42158422f9485ac8",
   "lastOpenFiles": [
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Silhouette coefficient.md",
     "@images/Pasted image 20240604174306.png",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Partitioning Algorithms.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Silhouette coefficient.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Unsupervised Learning.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Naive Bayes Classifier.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/k-Medoids Clustering.md",
@@ -265,7 +254,6 @@
     "@images/Pasted image 20240604171842.png",
     "@images/Pasted image 20240604170919.png",
     "@images/Pasted image 20240604165642.png",
-    "@images/Pasted image 20240604165609.png",
     "Untitled.canvas",
     "2023 Semester 1/MKTG151G/Notes",
     "2023 Semester 1/MKTG151G/Lecture Notes",
