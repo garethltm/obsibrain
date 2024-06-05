@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "2cd5a8d51ef1c0c2",
+        "id": "64d4ceb2bc110e77",
         "type": "tabs",
         "children": [
           {
-            "id": "42158422f9485ac8",
+            "id": "a0a1e31710ced000",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/k-Means++.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -61,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -83,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/k-Means++.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/k-Means++.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -120,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/k-Means++.md"
+              }
             }
           },
           {
@@ -148,7 +155,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {}
+              "state": {
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/k-Means++.md"
+              }
             }
           },
           {
@@ -173,6 +182,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/k-Means++.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -217,7 +227,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "42158422f9485ac8",
+  "active": "a0a1e31710ced000",
   "lastOpenFiles": [
     "2024 Semester 1/COMPSCI361 - Machine Learning/Silhouette coefficient.md",
     "@images/Pasted image 20240604174306.png",
