@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Centroid distance.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Hierarchical Clustering.md",
                 "mode": "source",
                 "source": false
               }
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Centroid distance.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Hierarchical Clustering.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Centroid distance.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Hierarchical Clustering.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Centroid distance.md"
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Hierarchical Clustering.md"
               }
             }
           },
@@ -157,7 +157,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Centroid distance.md"
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Hierarchical Clustering.md"
               }
             }
           },
@@ -182,7 +182,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Centroid distance.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Hierarchical Clustering.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -229,6 +229,7 @@
   },
   "active": "c05493f0c87415e1",
   "lastOpenFiles": [
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Centroid distance.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Hierarchical Clustering.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Single-Linkage.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Complete Linkage.md",
@@ -264,7 +265,6 @@
     "2024 Semester 1/COMPSCI361 - Machine Learning/Nearest-Neighbor Classifiers.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Model-based Learning.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Margin Maximization.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Manhattan distance.md",
     "Untitled.canvas",
     "2023 Semester 1/MKTG151G/Notes",
     "2023 Semester 1/MKTG151G/Lecture Notes",
