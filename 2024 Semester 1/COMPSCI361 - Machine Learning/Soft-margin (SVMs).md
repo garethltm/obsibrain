@@ -20,8 +20,7 @@ $$
 - representing the minimization of the loss 
 $$y_i (\mathbf{\vec{w}} \cdot \vec {x_i} + b) \geq 1 - \xi_i, \quad i = 1, 2, \ldots, n, \quad \xi_i \geq 0
 $$
-1. $(\mathbf{w} \cdot \mathbf{x}_i + b)y_i \geq 1$ then $\xi = 0$
-2. 
-3. 
+1. If $(\mathbf{w} \cdot \mathbf{x}_i + b)y_i \geq 1$ then $\xi_i = 0$
+2. If $(\mathbf{w} \cdot \mathbf{x}_i + b)y_i < 1$ then $\xi_i = 0$
 ##### [[Slack Variables]]
 ![[Pasted image 20240605234014.png]]
