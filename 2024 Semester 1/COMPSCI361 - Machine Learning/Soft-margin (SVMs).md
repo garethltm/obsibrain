@@ -4,4 +4,4 @@
 ## Soft-margin Maximization
 Given a set of [[training data]] $S = ((x_1, y_1), \ldots, (x_n, y_n)), y_i \in \{+1, -1\}$
 #### Goal
-The [[soft-marg]]
+The [[Soft-margin (SVMs)]] algorithm aims to find a linear [[classifier(s)]]
