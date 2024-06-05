@@ -18,5 +18,5 @@ $$
 \min_{w, b} \frac{\| \mathbf{\vec {w}} \|}{2} + C \sum_{i=1}^{n} \xi_{i}
 $$
 - representing the minimization of the loss 
-$$y_i (\mathbf{\vec{w}} \cdot \mathbf{x}_i + b) \geq 1 - \xi_i, \quad i = 1, 2, \ldots, n, \quad \xi_i \geq 0
+$$y_i (\mathbf{\vec{w}} \cdot \vec {x_i} + b) \geq 1 - \xi_i, \quad i = 1, 2, \ldots, n, \quad \xi_i \geq 0
 $$
