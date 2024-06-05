@@ -11,14 +11,11 @@
             "id": "6910057bf555cd84",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Untitled.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
-                }
+                "file": "README.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -89,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.canvas",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.canvas",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.canvas"
+                "file": "README.md"
               }
             }
           },
@@ -159,7 +156,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Untitled.canvas"
+                "file": "README.md"
               }
             }
           },
@@ -185,7 +182,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Untitled.canvas",
+                "file": "README.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -232,6 +229,7 @@
   },
   "active": "3ad179677b7fba41",
   "lastOpenFiles": [
+    "Untitled.canvas",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Vonoroi diagram (1-NN).md",
     "@images/Pasted image 20240605115418.png",
     "@images/Pasted image 20240605115402.png",
@@ -267,7 +265,6 @@
     "2024 Semester 1/ACCTG151G - Financial Literacy/Return on Equity (ROE or ROSF).md",
     "2024 Semester 1/ACCTG151G - Financial Literacy/Ratio.md",
     "2024 Semester 1/ACCTG151G - Financial Literacy/Return on Assets.md",
-    "Untitled.canvas",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Untitled",
     "2024 Semester 1",
