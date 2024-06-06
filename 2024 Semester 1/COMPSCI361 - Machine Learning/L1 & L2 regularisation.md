@@ -28,4 +28,5 @@ $$| \mathbf{w} \|_2 = \left( |w_1|^2 + |w_2|^2 + \dots + |w_N|^2 \right)^{\frac{
 	- A large $\lambda$ value increases the penalty on the weights, encouraging smaller weight values and thus more [[Regularisation]]
 ## Summary
 - L1 [[Regularisation]] results in a sparse weight matrix (a lot of weight values to 0 after optimisation)
-- L1 [[Regularisation]] is a
+- L1 [[Regularisation]] is acting as [[Attribute (Feature) selection]], dropping irrelevant feature $\rightarrow$ choosing most important features
+- L2 [[Regularisation]] results in a less sparse weight matrix than L1 [[Regularisation]], and it will reduce the effect of collinear features (balance weight $w$ evenyl)
