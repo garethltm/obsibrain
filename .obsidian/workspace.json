@@ -32,6 +32,18 @@
             }
           },
           {
+            "id": "690a42938135a83f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/kernel width.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "28410c00cd5feb1b",
             "type": "leaf",
             "state": {
@@ -44,7 +56,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -111,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Radial Basis Function (RBF) Kernel.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/kernel width.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Radial Basis Function (RBF) Kernel.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/kernel width.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Radial Basis Function (RBF) Kernel.md"
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/kernel width.md"
               }
             }
           },
@@ -181,7 +193,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Radial Basis Function (RBF) Kernel.md"
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/kernel width.md"
               }
             }
           },
@@ -207,7 +219,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Radial Basis Function (RBF) Kernel.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/kernel width.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -252,11 +264,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "11834686e0ab7a6a",
+  "active": "690a42938135a83f",
   "lastOpenFiles": [
+    "@images/Pasted image 20240606133715.png",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Radial Basis Function (RBF) Kernel.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/kernel width.md",
+    "@images/Pasted image 20240606133626.png",
     "@images/Pasted image 20240606133135.png",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Kernel function.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Radial Basis Function (RBF) Kernel.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Kernel Trick.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Kernelized (SVMs).md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Polynomial Kernel.md",
@@ -282,14 +297,11 @@
     "2024 Semester 1/COMPSCI361 - Machine Learning/Notion of Feature Transformation.md",
     "@images/Pasted image 20240606122452.png",
     "@images/Pasted image 20240606122349.png",
-    "@images/Pasted image 20240606122335.png",
-    "@images/Pasted image 20240606122316.png",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Soft-margin (SVMs).md",
     "conflict-files-obsidian-git.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/k-Means.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Slack Variables.md",
     "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week03/A-Star Search.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Additional assumption.md",
     "Untitled.canvas",
     "2023 Semester 1/MKTG151G/Notes",
     "2023 Semester 1/MKTG151G/Lecture Notes",
