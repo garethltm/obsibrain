@@ -1,1 +1,1 @@
-None of the weight cycles back to a 
+None of the weight cycles back to an input unit or output unit of a previous layer
