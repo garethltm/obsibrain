@@ -55,8 +55,9 @@ $$
 
 #compsci361example ![[Pasted image 20240606155701.png]]
 ## Types of [[Gradient descent]]
-![[Pasted image 20240606155952.png]]
+![[Pasted image 20240606160203.png]]
 1. [[Batch Gradient Descent (BGD)]]
+	- computes the [[Loss Function]] with respect to all [[parameters]] on all [[training data]]
 2. [[Stochastic Gradient Descent (SGD)]]
 	- small batches of [[training data]] being picked
-	- [[Stochastic Gradient Descent (SGD)]] direction is very jagged compared to [[bgd]]
+	- [[Stochastic Gradient Descent (SGD)]] direction is very jagged compared to [[Batch Gradient Descent (BGD)]] or mini-batch
