@@ -1,2 +1,2 @@
 1. [[High avoidable bias]]
-2. High variance
+2. [[High variance]]

@@ -25,19 +25,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Simplest formula to address variance & bias issues.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Optimal error rate, Avoidable bias, Variance.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "53ed6ccb3503c7a6",
+            "id": "36faa9ca5103dc93",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/High variance.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Bias vs Variance tradeoff.md",
                 "mode": "source",
                 "source": false
               }
@@ -111,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/High variance.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Bias vs Variance tradeoff.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/High variance.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Bias vs Variance tradeoff.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/High variance.md"
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Bias vs Variance tradeoff.md"
               }
             }
           },
@@ -181,7 +181,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/High variance.md"
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Bias vs Variance tradeoff.md"
               }
             }
           },
@@ -207,7 +207,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/High variance.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Bias vs Variance tradeoff.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -253,12 +253,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "53ed6ccb3503c7a6",
+  "active": "36faa9ca5103dc93",
   "lastOpenFiles": [
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Optimal error rate, Avoidable bias, Variance.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Bias vs Variance tradeoff.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Bias-Variance vs Fundamental Trade-Off.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Simplest formula to address variance & bias issues.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/High variance.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/High avoidable bias.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Optimal error rate, Avoidable bias, Variance.md",
     "@images/Pasted image 20240607005130.png",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Accuracy.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/data augmentation.md",
@@ -289,8 +291,6 @@
     "2024 Semester 1/COMPSCI361 - Machine Learning/Weight Update Formula.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Universal Function Approximation Theorem.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Artificial Neural Networks (ANN).md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Activation Function.md",
-    "2024 Semester 1/ACCTG151G - Financial Literacy/yield to maturity (YTM).md",
     "Untitled.canvas",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Untitled",

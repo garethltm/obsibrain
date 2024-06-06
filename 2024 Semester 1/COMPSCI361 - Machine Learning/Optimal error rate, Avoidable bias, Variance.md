@@ -9,4 +9,4 @@
 	- $Training\ Error - Optimal\ Error\ Rate$
 1. [[variance]]
 	- $Dev\ Error - Training\ Error$
-	- smaller [[bias]] can lead to higher [[variance]] ([[Bias-Variance vs Fundamental Trade-Off]])
+	- smaller [[bias]] can lead to higher [[variance]] ([[Bias vs Variance tradeoff]])
