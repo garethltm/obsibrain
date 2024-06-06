@@ -1,0 +1,1 @@
+get the gradient of the width with respect to [[Loss Function]]

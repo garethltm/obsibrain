@@ -14,6 +14,9 @@ For each training tuple, the weights are modified to minimize the loss between t
 - For each training instance:
 	1. Make a prediction (forward pass/propagation) 
 	2. Measure the error/loss (to calculate the [[Loss Function]])
-	3. Go through each layer in reverse to measure the error contribution from each connection (backward pass/propagation)
+	3. Go through each layer in reverse to measure the [[error contribution]] from each connection (backward pass/propagation)
 	4. Slightly tweak the connection weights to reduce the error ([[Stochastic Gradient Descent (SGD)]] step)
-Until stopping crite
+Until stopping criterion is reached
+
+#compsci361example 
+![[Pasted image 20240606175452.png]]
