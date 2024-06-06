@@ -43,25 +43,13 @@ $$
 	- For each training example ($x^{(i)},y^{(i)}$)
 	- Compute $\hat {y}^{(i)}$
 	- Compute the derivative of the [[Loss Function]]
-	- Update the weights (only if $\hat {y}^{(i)} \ne y^{(i)}$)![[Pasted image 20240606155445.png]]
-	- $w\leftarrow w - \lambda (derivative\ of\ Hinge Loss)$ 
-	- $w\leftarrow w - \lambda (- y^{(i)} x^{(i)} )$
-	- $w\leftarrow w + \lambda ( y^{(i)} x^{(i)})$
-		- [[Hinge Loss]]
-	- $k$ represents the iteration number
-	- $\lambda$ represents the learning rate (step size)
-3. Until change of $w_j \le \ threshold$
-#### Weight Update Formula
-$$w\leftarrow w + \lambda ( y^{(i)} x^{(i)})$$
-- [[Perceptron Learning]] finds [[decision boundary]] if classes are [[Linearly Separable Data]]
+	- Update the weights (only if $\hat {y}^{(i)} \ne y^{(i)}$)
+		![[Pasted image 20240606155445.png]]
+		- $w\leftarrow w - \lambda (derivative\ of\ Hinge Loss)$ 
+		- $w\leftarrow w - \lambda (- y^{(i)} x^{(i)} )$
+		- $w\leftarrow w + \lambda ( y^{(i)} x^{(i)})$
+			- [[Hinge Loss]]
+		- $k$ represents the iteration number
+		- $\lambda$ represents the learning rate (step size)
+1. Until change of $w_j \le \ threshold$
 
- $l(y^{(i)}, \hat{y}^{(i)}) = \max(0, 1 - y^{(i)}\hat{y}^{(i)})$
-- Intuition for updating weight based on error over one sample:
-	1. If $\hat {y}^{(i)} = y^{(i)},\ l = 0$ 
-		- [[Loss Function]] equals 0: the lowest point $w$, no update needed
-	2. $\hat {y}^{(i)} \ne y^{(i)}$ and $y^{(i)}=1,\ l > 0$
-		- [[Loss Function]] more than 0: weight must be increased so that $\hat {y}^{(i)}$ will increase = $w\leftarrow w + \lambda ( y^{(i)} x^{(i)})$
-	3. $\hat {y}^{(i)} \ne y^{(i)}$ and $y^{(i)}=-1,\ l > 0$
-		- [[Loss Function]] less than 0: weight must be decreased so that $\hat {y}^{(i)}$ will decrease = $w\leftarrow w - \lambda ( y^{(i)} x^{(i)})$
-- **If [[Loss Function]] bigger than 1 than there is some error**
-	

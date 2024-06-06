@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -231,9 +230,10 @@
   },
   "active": "3caaeec7dfcecc13",
   "lastOpenFiles": [
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Weight Update Formula.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Perceptron Learning.md",
     "@images/Pasted image 20240606155445.png",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Loss Function.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Perceptron Learning.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Hinge Loss.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Stochastic Gradient Descent (SGD).md",
     "@images/Pasted image 20240606152427.png",
@@ -258,7 +258,6 @@
     "2024 Semester 1/COMPSCI361 - Machine Learning/Activation Function.md",
     "@images/Pasted image 20240606142828.png",
     "@images/Pasted image 20240606142805.png",
-    "@images/Pasted image 20240606142350.png",
     "2024 Semester 1/COMPSCI361 - Machine Learning/One-vs-One (OVO).md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/One-vs-Rest (OVR).md",
     "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week01/Discrete.md",
