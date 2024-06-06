@@ -12,7 +12,7 @@ $$
 $$
 ### Second degree polynomial mapping
 $$
-\Phi(\mathbf{\vec x}) = \Phi\begin{bmatrix}
+\Phi({\vec x}) = \Phi\begin{bmatrix}
            x_1 \\
            x_2 
          \end{bmatrix} =
@@ -37,5 +37,5 @@ z_2^2
 \end{bmatrix}
 $$
 $$
-= x_1^2 z_1^2 + 2 x_1 x_2 z_1 z_2 + x_2^2 z_2^2 = (x_1 z_1 + x_2 z_2)^2 = (\mathbf{\vec x} \cdot \mathbf{\vec z})^2
+= x_1^2 z_1^2 + 2 x_1 x_2 z_1 z_2 + x_2^2 z_2^2 = (x_1 z_1 + x_2 z_2)^2 = ({\vec x} \cdot {\vec z})^2
 $$
