@@ -34,4 +34,9 @@ Which decision boundaries refer to [[Kernelized (SVMs)]]? (note: [[support vecto
 1. Prediction accuracy is generally high
 2. As compared to [[Bayesian Learning]] methods generally
 3. Robust when training examples contain errors
-4. Fast evaluation of the learned 
+4. Fast evaluation of the learned target function
+5. [[2024 Semester 1/COMPSCI361 - Machine Learning/Bayesian Networks|Bayesian Networks]] are normally slow
+## Disadvantages
+1. Long training time
+2. Difficult to understand the learned function (weights)
+3. [[2024 Semester 1/COMPSCI361 - Machine Learning/Bayesian Networks|Bayesian Networks]] can be used easily for pattern discove
