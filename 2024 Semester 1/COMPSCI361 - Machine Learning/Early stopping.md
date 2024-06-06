@@ -6,4 +6,7 @@ Learn enough, but not too much
 Avoid too much training = lowest [[Validation Error]]
 ## When to stop
 1. Monitor the performance on the validation set
-	- Loss on the dev datase
+	- Loss on the dev dataset (if it's at the lowest point, we STOP)
+	- Additional metrics ([[Precision (Exactness)]], [[Recall (Completeness)]], etc.)
+2. Trigger the early stopping
+	- Simplest trigger: increase 
