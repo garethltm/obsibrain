@@ -43,13 +43,13 @@ $$
 	- For each training example ($x^{(i)},y^{(i)}$)
 	- Compute $\hat {y}^{(i)}$
 	- Compute the derivative of the [[Loss Function]]
-	- Update the weights (only if $\hat {y}^{(i)} \ne y^{(i)}$)
-		- $w\leftarrow w - \lambda (derivative\ of\ Hinge Loss)$ 
-		- $w\leftarrow w - \lambda (- y^{(i)} x^{(i)} )$
-		- $w\leftarrow w + \lambda ( y^{(i)} x^{(i)})$
-			- [[Hinge Loss]]
-		- $k$ represents the iteration number
-		- $\lambda$ represents the learning rate (step size)
+	- Update the weights (only if $\hat {y}^{(i)} \ne y^{(i)}$)![[Pasted image 20240606155445.png]]
+	- $w\leftarrow w - \lambda (derivative\ of\ Hinge Loss)$ 
+	- $w\leftarrow w - \lambda (- y^{(i)} x^{(i)} )$
+	- $w\leftarrow w + \lambda ( y^{(i)} x^{(i)})$
+		- [[Hinge Loss]]
+	- $k$ represents the iteration number
+	- $\lambda$ represents the learning rate (step size)
 3. Until change of $w_j \le \ threshold$
 #### Weight Update Formula
 $$w\leftarrow w + \lambda ( y^{(i)} x^{(i)})$$
@@ -62,6 +62,6 @@ $$w\leftarrow w + \lambda ( y^{(i)} x^{(i)})$$
 	2. $\hat {y}^{(i)} \ne y^{(i)}$ and $y^{(i)}=1,\ l > 0$
 		- [[Loss Function]] more than 0: weight must be increased so that $\hat {y}^{(i)}$ will increase = $w\leftarrow w + \lambda ( y^{(i)} x^{(i)})$
 	3. $\hat {y}^{(i)} \ne y^{(i)}$ and $y^{(i)}=-1,\ l > 0$
-		- [[Loss Function]] less than 0: weight must be decreased so that $\hat {y}^{(i)}$ will decrease
+		- [[Loss Function]] less than 0: weight must be decreased so that $\hat {y}^{(i)}$ will decrease = $w\leftarrow w - \lambda ( y^{(i)} x^{(i)})$
 - **If [[Loss Function]] bigger than 1 than there is some error**
 	
