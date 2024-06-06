@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "14afc4ec8b39b902",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Kernel Trick.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Kernelized (SVMs).md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Kernel Trick.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Kernelized (SVMs).md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Kernel Trick.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Kernelized (SVMs).md"
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Kernel Trick.md"
               }
             }
           },
@@ -156,7 +169,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Kernelized (SVMs).md"
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Kernel Trick.md"
               }
             }
           },
@@ -182,7 +195,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Kernelized (SVMs).md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Kernel Trick.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -227,11 +240,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a4702aa48b8cc5c9",
+  "active": "14afc4ec8b39b902",
   "lastOpenFiles": [
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Kernelized (SVMs).md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Kernel Trick.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Non-Linearly Separable Data.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/support vectors (SV).md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Kernelized (SVMs).md",
     "@images/Pasted image 20240606124149.png",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Kernelized Optimization Problem.md",
     "@images/Pasted image 20240606123546.png",
@@ -264,7 +278,6 @@
     "2024 Semester 1/COMPSCI361 - Machine Learning/Centroid distance.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Single-Linkage.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Complete Linkage.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Testing Stage (MMH).md",
     "Untitled.canvas",
     "2023 Semester 1/MKTG151G/Notes",
     "2023 Semester 1/MKTG151G/Lecture Notes",

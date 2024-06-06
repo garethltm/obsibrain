@@ -24,5 +24,6 @@ f(\vec {z}) = \text{sign}(\vec{w} \cdot \phi(\vec {z}) + b)
 $$
 
 $$
-= \text{sign}\left(\sum_{x_i \in SV} \alpha_i y_i (\Phi(\vec {x_i}) \cdot \Phi({\vec{z})) + b\right)
+= \text{sign}\left(\sum_{x_i \in SV} \alpha_i y_i (\Phi(\vec {x_i}) \cdot \Phi(\vec{z})) + b\right)
 $$
+
