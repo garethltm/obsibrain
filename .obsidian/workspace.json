@@ -11,8 +11,12 @@
             "id": "7b779742c2df3e3b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Multi-Layer Feed-Forward (FF) Neural Network (FNN).md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -82,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Multi-Layer Feed-Forward (FF) Neural Network (FNN).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Multi-Layer Feed-Forward (FF) Neural Network (FNN).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Multi-Layer Feed-Forward (FF) Neural Network (FNN).md"
+              }
             }
           },
           {
@@ -147,7 +155,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {}
+              "state": {
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Multi-Layer Feed-Forward (FF) Neural Network (FNN).md"
+              }
             }
           },
           {
@@ -172,6 +182,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Multi-Layer Feed-Forward (FF) Neural Network (FNN).md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
