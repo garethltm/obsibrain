@@ -13,3 +13,10 @@ If you don't have the hidden layers $\rightarrow$ you cannot approximate the non
 - High tolerance to data with a lot of [[Noise]]
 - Widely and empirically successful on real-world data
 	- #compsci361example hand-written letters
+- Algorithm are inherently parallel
+- Techniques have recently been developed for the extraction of rules from trained [[Neural Network (NN)]]
+- Deep [[Neural Network (NN)]] are powerful
+## Disadvantages
+- Long training time
+- Require to empirically determine
+	- #compsci361example 
