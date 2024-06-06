@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week04/Gradient descent.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Perceptron.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week04/Gradient descent.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Perceptron.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week04/Gradient descent.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Perceptron.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week04/Gradient descent.md"
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Perceptron.md"
               }
             }
           },
@@ -168,7 +168,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week04/Gradient descent.md"
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Perceptron.md"
               }
             }
           },
@@ -194,7 +194,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week04/Gradient descent.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Perceptron.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -243,6 +243,7 @@
   "active": "3caaeec7dfcecc13",
   "lastOpenFiles": [
     "2024 Semester 1/COMPSCI361 - Machine Learning/Stochastic Gradient Descent (SGD).md",
+    "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week04/Gradient descent.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Perceptron.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Backpropagation.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/multi-class classification.md",

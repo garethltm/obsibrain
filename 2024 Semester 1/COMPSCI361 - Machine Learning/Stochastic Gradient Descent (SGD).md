@@ -1,4 +1,3 @@
-- [[Gradient descent]] but [[Stochastic]]
 ## Definition
 Optimisation of the [[parameters]] (weights $w$ and biases $b$) to minimise a cost/loss/error function
 - #compsci361example the difference between actual value and predicted value

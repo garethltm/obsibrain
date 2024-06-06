@@ -49,3 +49,4 @@ $$
 	- so that $w$ can be used for all sizes of the dataset
 ## Solution
 [[Stochastic Gradient Descent (SGD)]] + chain rule = [[Backpropagation]]
+## Gradient Descent
