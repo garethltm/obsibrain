@@ -5,4 +5,5 @@ an efficient way to perform [[Outlier Detection]] on moderately high dimensional
 ## Idea
 to detect the samples that have a substantially lower density than their neighbors
 ## In practice
-the local density is obtained from the [[k-nearest neighbor (kNN)]] (cumulative distance of $K$ neighbors).
+the local density is obtained from the [[k-nearest neighbor (kNN)]] (cumulative distance of $K$ neighbors). The LOF score of an observation is equal to the ratio of the average local density of its $K$ [[nearest neighbor(s)]] and its local density:
+- a normal instance is expected to have a local density similar to that of its neigbo
