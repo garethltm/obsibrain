@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "f298cd2e17ca56da",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/weight update - regularisation.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "62092e48eae62273",
             "type": "leaf",
             "state": {
@@ -31,7 +43,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -99,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/L1 & L2 regularisation.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/weight update - regularisation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/L1 & L2 regularisation.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/weight update - regularisation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/L1 & L2 regularisation.md"
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/weight update - regularisation.md"
               }
             }
           },
@@ -169,7 +182,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/L1 & L2 regularisation.md"
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/weight update - regularisation.md"
               }
             }
           },
@@ -195,7 +208,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/L1 & L2 regularisation.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/weight update - regularisation.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -241,11 +254,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0b8d56ad363b3b3b",
+  "active": "f298cd2e17ca56da",
   "lastOpenFiles": [
+    "2024 Semester 1/COMPSCI361 - Machine Learning/L1 & L2 regularisation.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/weight update - regularisation.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Evaluation strategy.md",
     "@images/Pasted image 20240607000221.png",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/L1 & L2 regularisation.md",
     "@images/Pasted image 20240607000021.png",
     "@images/Pasted image 20240607000005.png",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Empirical & iterative process.md",

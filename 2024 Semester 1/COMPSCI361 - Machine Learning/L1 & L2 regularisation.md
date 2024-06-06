@@ -17,7 +17,7 @@ $$| \mathbf{w} \|_2 = \left( |w_1|^2 + |w_2|^2 + \dots + |w_N|^2 \right)^{\frac{
 1. Calculate the weights size
 	- L1: Sum of the absolute values of the weights $\rightarrow$ $\displaystyle \sum_{i=1}^{N} |w_i|$
 	- L2: Sum of the squared values of the weights $\rightarrow$ $\displaystyle \sum_{i=1}^{N} w_i^2$
-2. Apply [[Regularisation]] to the weight update
+2. Apply [[Regularisation]] to the [[weight update - regularisation]]
 	- L1 [[Regularisation]]:
 		- $Loss ={Error(y, \hat{y})} + \lambda \displaystyle \sum_{i=1}^{N} |w_i|$
 	- L2 [[Regularisation]]:
