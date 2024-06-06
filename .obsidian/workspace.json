@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "3d06a40b2d7995ba",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Activation Function.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Perceptron.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Activation Function.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Perceptron.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Activation Function.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Perceptron.md"
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Activation Function.md"
               }
             }
           },
@@ -156,7 +169,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Perceptron.md"
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Activation Function.md"
               }
             }
           },
@@ -182,7 +195,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Perceptron.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Activation Function.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -228,11 +241,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3caaeec7dfcecc13",
+  "active": "3d06a40b2d7995ba",
   "lastOpenFiles": [
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Perceptron.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Activation Function.md",
     "@images/Pasted image 20240606142350.png",
     "@images/Pasted image 20240606142249.png",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Perceptron.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/One-vs-One (OVO).md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Support Vector Machines (SVM).md",
     "@images/Pasted image 20240606140051.png",
@@ -260,7 +274,6 @@
     "2024 Semester 1/COMPSCI361 - Machine Learning/Kernel Trick.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Polynomial Kernel.md",
     "@images/Pasted image 20240606132957.png",
-    "@images/Pasted image 20240606130121.png",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Non-Linearly Separable Data.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/support vectors (SV).md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Kernelized Optimization Problem.md",

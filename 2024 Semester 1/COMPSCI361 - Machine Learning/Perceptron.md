@@ -12,4 +12,4 @@ It is possible to have multiple structures of neurons
 ## Function
 - maps input to output
 - contains [[parameters]] to be learned
-### Activation Function
+### [[Activation Function]]
