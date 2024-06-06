@@ -1,6 +1,7 @@
 ![[Pasted image 20240606164308.png]]
 - The inputs to the network correspond to the attributes measured for each training tuple
-	- Input
+	- Inputs are then weighted and fed simultaneously to a **Hidden Layer**
+- The number of **
 ## Architecture
 - A two-layer [[Neural Network (NN)]]
 ## [[Activation Function]]
