@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Perceptron.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Perceptron Learning.md",
                 "mode": "source",
                 "source": false
               }
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Perceptron.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Perceptron Learning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Perceptron.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Perceptron Learning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Perceptron.md"
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Perceptron Learning.md"
               }
             }
           },
@@ -157,7 +157,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Perceptron.md"
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Perceptron Learning.md"
               }
             }
           },
@@ -183,7 +183,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Perceptron.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Perceptron Learning.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -232,7 +232,7 @@
   "active": "3caaeec7dfcecc13",
   "lastOpenFiles": [
     "2024 Semester 1/COMPSCI361 - Machine Learning/Hinge Loss.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Perceptron.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Perceptron Learning.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Loss Function.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Stochastic Gradient Descent (SGD).md",
     "@images/Pasted image 20240606152427.png",
