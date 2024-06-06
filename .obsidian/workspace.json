@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/learning rate.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Empirical & iterative process.md",
                 "mode": "source",
                 "source": false
               }
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/learning rate.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Empirical & iterative process.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/learning rate.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Empirical & iterative process.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/learning rate.md"
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Empirical & iterative process.md"
               }
             }
           },
@@ -157,7 +157,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/learning rate.md"
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Empirical & iterative process.md"
               }
             }
           },
@@ -183,7 +183,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/learning rate.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Empirical & iterative process.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -231,12 +231,12 @@
   },
   "active": "0b8d56ad363b3b3b",
   "lastOpenFiles": [
+    "2024 Semester 1/COMPSCI361 - Machine Learning/learning rate.md",
     "@images/Pasted image 20240607011303.png",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Empirical & iterative process.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Stochastic Gradient Descent (SGD).md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Sigmoid Function.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Perceptron Learning.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/learning rate.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/initialisation.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Evaluation strategy.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/data augmentation.md",
@@ -264,7 +264,6 @@
     "@images/Pasted image 20240607003245.png",
     "@images/Pasted image 20240607000221.png",
     "@images/Pasted image 20240607000021.png",
-    "@images/Pasted image 20240607000005.png",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Generalization Performance.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Backpropagation.md",
     "Untitled.canvas",

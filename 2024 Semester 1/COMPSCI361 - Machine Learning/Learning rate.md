@@ -13,6 +13,7 @@ we need to choose just-right [[learning rate]]
 		- gradually make the [[learning rate]] smaller to easily fine-tune the model
 	- #compsci361example linear decay
 - Linear decay for set number of iterations and then constant
-## Adaptive learning rates strategies
-- Monitors the model's performance & adapt the [[learning rate]] in response
-- Reduces [[learning rate]] when performa
+## Adaptive [[learning rate]] strategies
+Monitors the model's performance & adapt the [[learning rate]] in response
+1. Reduces [[learning rate]] when performance plateaus
+2. Increases [[learning rate]] when performance does not improve for a number of iterations
