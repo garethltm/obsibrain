@@ -21,7 +21,9 @@ $$\hat {y}=f(\sum_{j} w_{j}x_{j} + b)$$
 ### Loss Functions
 #### Definition
 difference between the actual value and predicted value
-$$l(y^{(i)},\hat )
+$$l(y^{(i)},\hat{y}^{(i)} )$$
+#compsci361example 
+- 
 For every [[training data]] we has a Loss Function that we sum up to get an overall loss value
 - For every $w$, we could have a loss value
 This is used to quantify the difference between the output labels ($\hat{y}$) & true labels
