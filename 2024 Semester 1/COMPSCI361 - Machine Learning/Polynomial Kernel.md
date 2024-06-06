@@ -12,11 +12,6 @@ $$
 And the transformations are given by:
 
 $$
-\phi(\vec {x})  \phi(\vec z) = \begin{bmatrix} x_1 \\ x_2 \end{bmatrix} \cdot \begin{bmatrix} z_1 \\ z_2 \end{bmatrix}
+\phi(\vec {x})  \phi(\vec z) = \begin{bmatrix} x_1 \\ x_2 \end{bmatrix} \cdot \begin{bmatrix} z_1 \\ z_2 \end{bmatrix} = x_1z_1 + x_2z_2 = (\vec{x} \cdot \vec{z})
 $$
 
-The scalar product resulting from the matrix multiplication is:
-
-$$
-k(x,z) = x_1z_1 + x_2z_2 = (\vec{x} \cdot \vec{z})
-$$
