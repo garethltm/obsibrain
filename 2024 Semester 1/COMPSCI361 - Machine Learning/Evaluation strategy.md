@@ -10,4 +10,5 @@ Make sure dev and test sets come from the same distribution
 - If cat & dog must be from cat & dog (not airplanes)
 ### How does your model do?
 [[Bias-Variance vs Fundamental Trade-Off]]/ underfitting vs [[overfit(ting)]]
-![[Pasted image 20240606234947.png]]
+![[Pasted image 20240606234947.png]]![[Pasted image 20240606234956.png]]
+### How to improve learning?
