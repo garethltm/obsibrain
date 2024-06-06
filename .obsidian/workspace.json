@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Bond price(s).md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Ensemble Clustering.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 276.5
+    "width": 276.5,
+    "collapsed": true
   },
   "right": {
     "id": "29204b37fc003a9a",
@@ -86,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Bond price(s).md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Ensemble Clustering.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Bond price(s).md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Ensemble Clustering.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Bond price(s).md"
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Ensemble Clustering.md"
               }
             }
           },
@@ -156,7 +157,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Bond price(s).md"
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Ensemble Clustering.md"
               }
             }
           },
@@ -182,7 +183,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Bond price(s).md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Ensemble Clustering.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -228,8 +229,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3ad179677b7fba41",
+  "active": "6910057bf555cd84",
   "lastOpenFiles": [
+    "2024 Semester 1/COMPSCI361 - Machine Learning/empirical risk.md",
+    "2024 Semester 1/ACCTG151G - Financial Literacy/Bond price(s).md",
     "@images/Pasted image 20240606175603.png",
     "@images/Pasted image 20240606175511.png",
     "@images/Pasted image 20240606175452.png",
@@ -240,7 +243,6 @@
     "@images/Pasted image 20240606173407.png",
     "@images/Pasted image 20240606173145.png",
     "@images/Pasted image 20240606164308.png",
-    "@images/Pasted image 20240606164033.png",
     "2024 Semester 1/COMPSCI361 - Machine Learning/binary classification.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/XOR Problem.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Weight Update Formula.md",
@@ -266,7 +268,6 @@
     "2024 Semester 1/COMPSCI361 - Machine Learning/hyperplane.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Weighted kNN.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Neural Network (NN).md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Nearest-Neighbor Classifiers.md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Untitled",
     "2024 Semester 1",
