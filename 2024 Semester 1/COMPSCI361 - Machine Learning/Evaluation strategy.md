@@ -17,4 +17,5 @@ Very common problem with [[Deep Learning (DL)]]: [[overfit(ting)]]![[Pasted imag
 	- Reduces the [[variance]], but increases the [[bias]]
 ### How does [[Regularisation]] help avoid [[overfit(ting)]]?
 1. First intuition:
-	- #compsci361example [[L1 & L2 regularisation]] 
+	- #compsci361example [[L1 & L2 regularisation]]
+	
