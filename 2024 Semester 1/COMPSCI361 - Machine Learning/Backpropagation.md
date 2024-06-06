@@ -1,4 +1,4 @@
-Going backwards to get gradient
+Going backwards to get [[gradient]]
 ## Definition
 Modifications are made in the "backwards" direction
 - From the output layer, through each hidden layer down to the 1st hidden layer
@@ -36,4 +36,4 @@ Until stopping criterion is reached
 		[[Activation Function]] - [[Sigmoid Function]]
 	3. [[Backpropagation]]![[Pasted image 20240606233846.png]]![[Pasted image 20240606233900.png]]
 	4. [[Backpropagation]]![[Pasted image 20240606233917.png]]![[Pasted image 20240606233932.png]]![[Pasted image 20240606234130.png]]
-	5. [[Backpropagation]]![[Pasted image 20240606234223.png]]
+	5. [[Backpropagation]]![[Pasted image 20240606234223.png]]![[Pasted image 20240606234300.png]]

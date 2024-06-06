@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Backpropagation.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 276.5,
-    "collapsed": true
+    "width": 276.5
   },
   "right": {
     "id": "29204b37fc003a9a",
@@ -87,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Backpropagation.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Backpropagation.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Backpropagation.md"
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Untitled.md"
               }
             }
           },
@@ -157,7 +156,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Backpropagation.md"
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Untitled.md"
               }
             }
           },
@@ -183,7 +182,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Backpropagation.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Untitled.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -231,6 +230,9 @@
   },
   "active": "6910057bf555cd84",
   "lastOpenFiles": [
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Backpropagation.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Untitled.md",
+    "@images/Pasted image 20240606234300.png",
     "@images/Pasted image 20240606234223.png",
     "@images/Pasted image 20240606234130.png",
     "@images/Pasted image 20240606233932.png",
@@ -240,8 +242,6 @@
     "@images/Pasted image 20240606233810.png",
     "@images/Pasted image 20240606233757.png",
     "@images/Pasted image 20240606233718.png",
-    "@images/Pasted image 20240606233708.png",
-    "@images/Pasted image 20240606233647.png",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Ensemble Clustering.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/empirical risk.md",
     "2024 Semester 1/ACCTG151G - Financial Literacy/Bond price(s).md",
@@ -249,7 +249,6 @@
     "2024 Semester 1/COMPSCI361 - Machine Learning/XOR Problem.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Weight Update Formula.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Universal Function Approximation Theorem.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Backpropagation.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Artificial Neural Networks (ANN).md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Activation Function.md",
     "2024 Semester 1/ACCTG151G - Financial Literacy/yield to maturity (YTM).md",
