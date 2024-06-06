@@ -30,3 +30,8 @@ $$
 #compsci361questions 
 Which decision boundaries refer to [[Kernelized (SVMs)]]? (note: [[support vectors (SV)]] are represented by solid square/triangle)
 ![[Pasted image 20240606134110.png]]
+## Advantages
+1. Prediction accuracy is generally high
+2. As compared to [[Bayesian Learning]] methods generally
+3. Robust when training examples contain errors
+4. Fast evaluation of the learned 
