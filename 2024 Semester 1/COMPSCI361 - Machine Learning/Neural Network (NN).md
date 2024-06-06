@@ -9,3 +9,7 @@ If you don't have the hidden layers $\rightarrow$ you cannot approximate the non
 - 1 hidden layer + linear [[Activation Function]] $\rightarrow$ combination of linear surface
 #### $M_4$
 - 1 hidden layer + non-linear [[Activation Function]] $\rightarrow$ non-linear surface (MLP)
+## Advantages
+- High tolerance to data with a lot of [[Noise]]
+- Widely and empirically successful on real-world data
+	- #compsci361example hand-written letters

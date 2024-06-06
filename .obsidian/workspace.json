@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Empirical & iterative process.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Neural Network (NN).md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Empirical & iterative process.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Neural Network (NN).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Empirical & iterative process.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Neural Network (NN).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Empirical & iterative process.md"
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Neural Network (NN).md"
               }
             }
           },
@@ -168,7 +168,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Empirical & iterative process.md"
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Neural Network (NN).md"
               }
             }
           },
@@ -194,7 +194,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Empirical & iterative process.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Neural Network (NN).md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -242,9 +242,9 @@
   },
   "active": "0b8d56ad363b3b3b",
   "lastOpenFiles": [
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Empirical & iterative process.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Vanishing Gradient Problem.md",
     "@images/Pasted image 20240607012602.png",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Empirical & iterative process.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/learning rate.md",
     "@images/Pasted image 20240607011303.png",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Stochastic Gradient Descent (SGD).md",
