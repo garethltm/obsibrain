@@ -1,2 +1,2 @@
 ![[Pasted image 20240606122452.png]]
-1. [[Non-Linearly Separable Data]] 
+- [[Non-Linearly Separable Data]] in input data space becomes [[Linearly Separable Data]] in higher dimensional feature space
