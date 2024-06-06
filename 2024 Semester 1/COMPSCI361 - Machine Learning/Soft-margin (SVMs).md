@@ -8,7 +8,8 @@ The [[Soft-margin (SVMs)]] algorithm aims to find a linear [[classifier(s)]] tha
 1. Maximises ($\gamma$) the margin on $S$ (on all [[training data]]) and
 2. Minimise the misclassification error ($\left( C \sum_{i=1}^{n} \xi_{i} \right)$)
 	- the new parameter $\xi$ denotes the degree of the errors of each [[training data]]
-	- ![[Pasted image 20240605233151.png]]
+	- each [[training data]] has 
+		![[Pasted image 20240606121947.png]]
 #### Definition
 [[Soft-margin (SVMs)]] introduce a misclassification penalty ($C$) controls the trade-off between
 1. Maximizing the margin (same as [[Hard-margin (SVMs)]])
