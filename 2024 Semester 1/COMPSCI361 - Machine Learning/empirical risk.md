@@ -6,5 +6,3 @@ $$
 - $\hat{y}^{(i)}$ represents the predicted labels (output)
 	- $\hat {y}_i=f(x^{(1)},w)$
 		$w$ represents the [[parameters]] in the model (width of the model)
-## Goal
-we want to find the $w$ that minimises the loss function error
