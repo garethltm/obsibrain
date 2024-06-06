@@ -19,4 +19,5 @@ For each training tuple, the weights are modified to minimize the loss between t
 Until stopping criterion is reached
 
 #compsci361example 
-![[Pasted image 20240606175452.png]]
+![[Pasted image 20240606175452.png]]![[Pasted image 20240606175511.png]]
+1. Initialization of weights (random weight initialization)![[Pasted image 20240606175603.png]]
