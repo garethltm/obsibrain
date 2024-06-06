@@ -11,4 +11,7 @@
 	5. Weight [[initialisation]]
 	6. Mini-batch size
 ## Design issues:
-1. 
+1. [[Regularisation]]
+2. [[initialisation]]
+3. [[learning rate]]
+4. [[Exploding and vanishing gradients]]

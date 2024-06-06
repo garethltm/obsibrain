@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "87f545e614431599",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Exploding and vanishing gradients.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -65,8 +78,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -87,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Empirical & iterative process.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Exploding and vanishing gradients.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Empirical & iterative process.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Exploding and vanishing gradients.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Empirical & iterative process.md"
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Exploding and vanishing gradients.md"
               }
             }
           },
@@ -157,7 +169,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Empirical & iterative process.md"
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Exploding and vanishing gradients.md"
               }
             }
           },
@@ -183,7 +195,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Empirical & iterative process.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Exploding and vanishing gradients.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -229,11 +241,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a6e0090ac9cbd1f3",
+  "active": "87f545e614431599",
   "lastOpenFiles": [
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Empirical & iterative process.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Exploding and vanishing gradients.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/learning rate.md",
     "@images/Pasted image 20240607011303.png",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Empirical & iterative process.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Stochastic Gradient Descent (SGD).md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Sigmoid Function.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Perceptron Learning.md",

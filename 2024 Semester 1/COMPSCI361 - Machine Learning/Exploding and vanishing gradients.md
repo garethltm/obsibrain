@@ -1,0 +1,1 @@
+[[gradient]]s are calculated in the [[Backpropagation]] 
