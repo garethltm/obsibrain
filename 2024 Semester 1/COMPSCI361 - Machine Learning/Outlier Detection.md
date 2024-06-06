@@ -7,4 +7,7 @@
 3. [[k-nearest neighbor (kNN)]]
 	- identifies [[Outlier]] as data points whose $K$ [[nearest neighbor(s)]] are far away from there
 		1. Fix a $K$-value
-		2. For each data, find its $K$ - [[nearest neighbor(s)]] and calculate the c
+		2. For each data, find its $K$ - [[nearest neighbor(s)]] and calculate the cumulative distance of this data to all $K$ neighbors
+		3. Ranking all data according to their cumulative distances
+		4. Treat the data points as [[Outlier]] whose $K$ [[nearest neighbor(s)]] are far away from them
+4. 
