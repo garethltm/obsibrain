@@ -24,5 +24,5 @@ $$| \mathbf{w} \|_2 = \left( |w_1|^2 + |w_2|^2 + \dots + |w_N|^2 \right)^{\frac{
 		- $Loss ={Error(y, \hat{y})} + \lambda \displaystyle \sum_{i=1}^{N} {w_i}^2$
 	- $Error(y, \hat{y})$ represents the minimisation of the errors (summation of the [[Loss Function]]) - also known as [[empirical risk]]
 	- We are trying to minimise $|w_i|$ and ${w_i}^2$ by adding penalties to the weight values which prevents [[overfit(ting)]]
-	- this will give you a [[Loss Function]] that we want to minimise on all the training data using [[Stochastic Gradient Descent (SGD)]]
-	- For large $\lambda$ we want to penalise more
+	- This will result in a loss function that is minimised on all the training data using [[Stochastic Gradient Descent (SGD)]]
+	- A large $\lambda$ value increases the penalty on the weights, encouraging smaller weight values and thus more [[Regularisation]]
