@@ -10,3 +10,5 @@
 	4. [[learning rate]]
 	5. Weight [[initialisation]]
 	6. Mini-batch size
+## Design issues:
+1. 
