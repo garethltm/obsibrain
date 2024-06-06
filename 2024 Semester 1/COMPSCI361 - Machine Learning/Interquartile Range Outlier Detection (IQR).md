@@ -3,4 +3,4 @@
 - Q1- **1.5 * IQR**
 	to
 - Q3- **1.5 * IQR**
-where [[Interquartile Range Outlier Detection (IQR)]] is the difference bet
+where [[Interquartile Range Outlier Detection (IQR)]] is the difference between Q3 and Q1. Data points that fall outside this range are considered [[Outlier]]

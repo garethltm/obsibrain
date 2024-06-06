@@ -4,3 +4,5 @@
 ## Statistical methods for [[Outlier Detection]]
 1. [[Z-score outlier detection]]
 2. [[Interquartile Range Outlier Detection (IQR)]]
+3. [[k-nearest neighbor (kNN)]]
+	- identifies [[Outlier]] as data points whose $K$ [[nearest neighbor(s)]] are far away from there
