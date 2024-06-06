@@ -2,3 +2,7 @@
 $$\hat{y} = \sigma \left( \sum_{j} w_j x_j + b \right)
 = \frac{1}{1+exp{(-\left(\sum_{j} w_j x_j + b\right)})}
 $$
+## [[Activation Function]] 
+- Training: [[Sigmoid Function]]
+- [[inference(s)]]: [[Sigmoid Function]]
+## [[Loss Function]]
