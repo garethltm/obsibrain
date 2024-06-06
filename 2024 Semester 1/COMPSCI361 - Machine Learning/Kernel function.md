@@ -8,3 +8,6 @@ Applying the [[Kernel function]] is equivalent to calculating the inner product 
 - transformation is never directly calculated
 
 A valid [[Kernel function]] is a function that can be used to compute the inner product between 2 feature vectors in a high-dimensional space without explicitly mapping them.
+## Possible [[Kernel function]]
+You pick the kernel by yourself
+- [[Kernel Trick]] to implicitly help you map the low dimensional data into higher dimensional data
