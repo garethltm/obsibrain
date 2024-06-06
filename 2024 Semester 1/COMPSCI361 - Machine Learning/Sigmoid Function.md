@@ -6,3 +6,5 @@ $$
 - Training: [[Sigmoid Function]]
 - [[inference(s)]]: [[Sigmoid Function]]
 ## [[Loss Function]]
+$$l = -(y \ln(p) + (1 - y) \ln(1 - p))$$
+- 
