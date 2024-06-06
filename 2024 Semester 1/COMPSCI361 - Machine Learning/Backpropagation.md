@@ -28,3 +28,5 @@ Until stopping criterion is reached
 	![[Pasted image 20240606233038.png]]- Square [[Loss Function]]$$E({y}, \hat{{y}}) = \frac{1}{2} \| {y} - \hat{{y}} \|^2$$
 	![[Pasted image 20240606233338.png]]
 ### 4. [[Backpropagation]] (output layout)
+	![[Pasted image 20240606233459.png]]![[Pasted image 20240606233511.png]]
+		Checking how each weight influences the error $\rightarro
