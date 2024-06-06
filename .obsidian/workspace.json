@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Untitled.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Outlier.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Untitled.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Outlier.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Untitled.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Outlier.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Untitled.md"
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Outlier.md"
               }
             }
           },
@@ -156,7 +156,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Untitled.md"
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Outlier.md"
               }
             }
           },
@@ -182,7 +182,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Untitled.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Outlier.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -230,7 +230,8 @@
   },
   "active": "6d6b535e8fbc7be3",
   "lastOpenFiles": [
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Untitled.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Outlier Detection.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Outlier.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Vanishing Gradient Problem.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Neural Network (NN).md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Empirical & iterative process.md",
@@ -262,7 +263,6 @@
     "@images/Pasted image 20240607003942.png",
     "@images/Pasted image 20240607003835.png",
     "2024 Semester 1/COMPSCI361 - Machine Learning/collinear features.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/weight update - regularisation.md",
     "@images/Pasted image 20240607003257.png",
     "@images/Pasted image 20240607003245.png",
     "@images/Pasted image 20240607000221.png",
