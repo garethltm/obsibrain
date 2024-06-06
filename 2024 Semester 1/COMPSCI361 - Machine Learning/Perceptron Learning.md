@@ -62,4 +62,9 @@ $$
 	- small batches of [[training data]] being picked
 	- [[Stochastic Gradient Descent (SGD)]] direction is very jagged compared to [[Batch Gradient Descent (BGD)]] or mini-batch
 ## Summary
-[[Batch Gradient Descent (BGD)]] computes the gradient of the cost function with respect to the model [[parameters]] usin
+1. [[Batch Gradient Descent (BGD)]] computes the gradient of the cost function with respect to the model [[parameters]] using the entire [[training data]] in each iteration
+2. [[Stochastic Gradient Descent (SGD)]] computes the gradient using a small subset of examples in each iteration
+
+|     |     |
+| --- | --- |
+|     |     |
