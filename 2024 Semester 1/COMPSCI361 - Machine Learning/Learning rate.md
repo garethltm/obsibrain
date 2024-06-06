@@ -6,4 +6,8 @@ we need to choose just-right [[learning rate]]
 ## What will happen if we use a [[learning rate]] that is too small or too large?
 - too small $\rightarrow$ longer time to find optimum
 - Learning efficiency, optimization accuracy
-- #compsci361example learning steps that were taken to find the local minimum oof
+- #compsci361example learning steps that were taken to find the local minimum of a function![[Pasted image 20240607011303.png]]
+## [[learning rate]] decay schedule
+- Common practice
+	- decrease [[learning rate]] over time ([[learning rate]] decay)
+		- gradually make the learn
