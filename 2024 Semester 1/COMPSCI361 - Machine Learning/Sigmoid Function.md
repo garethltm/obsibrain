@@ -1,0 +1,1 @@
+- Sigmoid Unit ($\sigma$) is selected as the [[Activation Function]]

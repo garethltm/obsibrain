@@ -4,5 +4,6 @@ $f(\cdot)$ in the neuron's output that controls the nature of the output
 
 Bring nonlinearity into hidden layers, which increases the complexity of the model
 
-Should be differentiable for optimisation purpose
+**Should be differentiable for optimisation purpose**
+
 ![[Pasted image 20240606142828.png]]

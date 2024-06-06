@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Logistic Regression.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Activation Function.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Logistic Regression.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Activation Function.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Logistic Regression.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Activation Function.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Logistic Regression.md"
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Activation Function.md"
               }
             }
           },
@@ -156,7 +156,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Logistic Regression.md"
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Activation Function.md"
               }
             }
           },
@@ -182,7 +182,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Logistic Regression.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Activation Function.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -230,9 +230,10 @@
   },
   "active": "3caaeec7dfcecc13",
   "lastOpenFiles": [
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Sigmoid Function.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Logistic Regression.md",
     "@images/Pasted image 20240606161757.png",
     "@images/Pasted image 20240606161528.png",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Untitled.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Untitled 1.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Artificial Neural Networks (ANN).md",
     "@images/Pasted image 20240606161423.png",
@@ -255,7 +256,6 @@
     "2024 Semester 1/COMPSCI361 - Machine Learning/multi-class classification.md",
     "@images/Pasted image 20240606151447.png",
     "2024 Semester 1/COMPSCI361 - Machine Learning/steepest direction.md",
-    "@images/Pasted image 20240606151114.png",
     "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week01/Stochastic.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/classification.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Regression.md",
