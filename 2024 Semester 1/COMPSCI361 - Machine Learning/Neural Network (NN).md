@@ -8,4 +8,4 @@ If you don't have the hidden layers $\rightarrow$ you cannot approximate the non
 #### $M_3$
 - 1 hidden layer + linear [[Activation Function]] $\rightarrow$ combination of linear surface
 #### $M_4$
-- 1 hidden layer + 
+- 1 hidden layer + non-linear [[Activation Function]] $\rightarrow$ non-linear surface (MLP)
