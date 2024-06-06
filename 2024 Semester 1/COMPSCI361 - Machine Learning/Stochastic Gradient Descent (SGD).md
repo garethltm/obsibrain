@@ -14,4 +14,5 @@ Optimisation of the [[parameters]] (weights $w$ and biases $b$) to minimise a co
 		![[Pasted image 20240606151447.png]]
 	- $\lambda$: learning rate
 		- [[hyperparameter(s)]] that needs to be chosen carefully
-	1. If too high $\rightarrow$ chance to miss the 
+	1. If too high $\rightarrow$ chance to miss the optimum
+	2. If too low $\rightarrow$ very long time
