@@ -6,5 +6,6 @@
 	- #compsci361example [[Sigmoid Function]] transformation
 ## Hidden Layer
 We sum the inputs being fed into a single neuron
-- $h=g(W^{(1)}x+b^{(1)})
+- $h=g(W^{(1)}x+b^{(1)})$
 ## Output layer
+- $o=g(W^{(2)}h+b^{(2)})
