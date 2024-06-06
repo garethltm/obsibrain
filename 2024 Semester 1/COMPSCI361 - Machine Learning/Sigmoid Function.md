@@ -8,4 +8,4 @@ $$
 ## [[Loss Function]]
 [[Loss Function]] compared to cross [[entropy]] function
 $$l = -(y \ln(p) + (1 - y) \ln(1 - p))$$
-- $y\in \{0,1}\$
+- $y\in \{0,1\}$: binary indicator (0 or 1) if label
