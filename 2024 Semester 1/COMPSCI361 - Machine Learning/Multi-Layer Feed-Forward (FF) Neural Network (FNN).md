@@ -16,7 +16,6 @@ We sum the inputs being fed into a single neuron
 - $o=g(W^{(2)}h+b^{(2)})$
 $W$ represents the Weight Matrix
 $b$ represents the Bias Term
-
 ## Important
 The more layers we have the more $W$ we have
 - the more complex the [[Neural Network (NN)]]
