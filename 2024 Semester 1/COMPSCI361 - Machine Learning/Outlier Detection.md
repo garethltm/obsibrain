@@ -36,3 +36,6 @@
 	- Using [[Principal Components Analysis (PCA)]] to detect defective products by identifying measurements that fall outside normal ranges
 4. Medical Diagnosis
 	- [[Clustering]] can help identify rare diseases by finding patients whose medical records differ significantly from the norm
+
+**Detection outliers requires domain expertise**
+- You have to examine your data to see whether this data point is an [[Outlier]] or not
