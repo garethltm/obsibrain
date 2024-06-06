@@ -9,4 +9,7 @@ The difference between a [[Hard-margin (SVMs)]] & a [[Soft-margin (SVMs)]] lies 
 ## Problem Definition
 - [[Margin Maximization]]
 ## What if we have more than 2 classes?
-- Original [[Support Vector Machines (SVM)]] can only perform [[binary classification]]
+- Original [[Support Vector Machines (SVM)]] can only perform [[binary classification]] (2 classes)
+- [[Support Vector Machines (SVM)]] can be extended to multi-class problems (more than 2 classes)
+##### Approaches
+1. 
