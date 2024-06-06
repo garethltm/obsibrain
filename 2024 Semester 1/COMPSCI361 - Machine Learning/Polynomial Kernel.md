@@ -24,7 +24,7 @@ $$
 $$
 Where: $d = 2$
 $$
-\begin{bmatrix}
+\Phi(\vec x)\Phi(\vec z)=\begin{bmatrix}
 x_1^2 \\
 \sqrt{2} x_1 x_2 \\
 x_2^2
