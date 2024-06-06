@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Untitled.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Optimal error rate, Avoidable bias, Variance.md",
                 "mode": "source",
                 "source": false
               }
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Untitled.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Optimal error rate, Avoidable bias, Variance.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Untitled.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Optimal error rate, Avoidable bias, Variance.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Untitled.md"
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Optimal error rate, Avoidable bias, Variance.md"
               }
             }
           },
@@ -169,7 +169,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Untitled.md"
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Optimal error rate, Avoidable bias, Variance.md"
               }
             }
           },
@@ -195,7 +195,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Untitled.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Optimal error rate, Avoidable bias, Variance.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -243,8 +243,9 @@
   },
   "active": "86f667d77c191de9",
   "lastOpenFiles": [
+    "@images/Pasted image 20240607005130.png",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Accuracy.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Untitled.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Optimal error rate, Avoidable bias, Variance.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/data augmentation.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Regularisation.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Early stopping.md",
@@ -278,7 +279,6 @@
     "2024 Semester 1/ACCTG151G - Financial Literacy/yield to maturity (YTM).md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Soft-margin (SVMs).md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/overfit(ting).md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Slack Variables.md",
     "Untitled.canvas",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Untitled",
