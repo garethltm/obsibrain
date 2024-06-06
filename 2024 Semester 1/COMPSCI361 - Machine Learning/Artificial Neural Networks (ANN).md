@@ -1,2 +1,3 @@
 - Single Unit: Architecture of Perceptron ([[Perceptron Learning]])
-- Connec
+- Connection to Shallow Machine Learning
+- Multi-Layer Feed-Forward [[Neural Network (NN)]]
