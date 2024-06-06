@@ -7,4 +7,4 @@ A [[Kernel function]] calculates the similarity between pairs of data points.
 Applying the [[Kernel function]] is equivalent to calculating the inner product in the transformed space, but $\Phi$ is never directly calculated (no need to know $\Phi$ explicitly)
 - transformation is never directly calculated
 
-A valid [[Kernel function]] is a function that can be used to compu
+A valid [[Kernel function]] is a function that can be used to compute the inner product between 2 feature vectors in a high-dimensional space without explicitly mapping them.
