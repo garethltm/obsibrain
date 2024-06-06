@@ -11,3 +11,4 @@ This is used to quantify the difference between the output labels ($\hat{y}$) & 
 Quantify the differences of outputs compared with labels (target)
 ![[empirical risk]]
 #compsci361example ![[Pasted image 20240606144848.png]]
+- [[Hinge Loss]]
