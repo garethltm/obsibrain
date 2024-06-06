@@ -6,5 +6,6 @@ $$
 - Training: [[Sigmoid Function]]
 - [[inference(s)]]: [[Sigmoid Function]]
 ## [[Loss Function]]
+[[Loss Function]] compared to cross [[entropy]] function
 $$l = -(y \ln(p) + (1 - y) \ln(1 - p))$$
-- 
+- $y\in \{0,1}\$
