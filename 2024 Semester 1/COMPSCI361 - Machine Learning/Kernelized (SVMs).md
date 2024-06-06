@@ -26,4 +26,7 @@ $$
 $$
 = \text{sign}\left(\sum_{x_i \in SV} \alpha_i y_i (\Phi(\vec {x_i}) \cdot \Phi(\vec{z})) + b\right)
 $$
-## [[Kernelized (SVMs)]] with 
+## [[Kernelized (SVMs)]] with [[Soft-margin (SVMs)]]/[[Hard-margin (SVMs)]]
+#compsci361questions 
+Which decision boundaries refer to [[Kernelized (SVMs)]]? (note: [[support vectors (SV)]] are represented by solid square/triangle)
+![[Pasted image 20240606134110.png]]
