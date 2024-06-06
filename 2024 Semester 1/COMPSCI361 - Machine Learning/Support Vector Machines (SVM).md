@@ -8,4 +8,5 @@ The difference between a [[Hard-margin (SVMs)]] & a [[Soft-margin (SVMs)]] lies 
 1. [[Kernelized (SVMs)]]
 ## Problem Definition
 - [[Margin Maximization]]
-##
+## What if we have more than 2 classes?
+- Original [[Support Vector Machines (SVM)]] can only perform [[binary classification]]
