@@ -12,4 +12,4 @@ Avoid too much training = lowest [[Validation Error]]
 	- Simplest trigger: increase of the [[Loss Function]] compared to the last iterations
 	- More elaborated ones: no change over several epochs, absolute change in a metric, average change in a metric over several epochs, reaching a specific level of performance, etc.
 3. Choose the model to keep
-	- Usually,
+	- Usually, keep the model from the epoch before the increase in [[Loss Function]]

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Early stopping.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/data augmentation.md",
                 "mode": "source",
                 "source": false
               }
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Early stopping.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/data augmentation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Early stopping.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/data augmentation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Early stopping.md"
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/data augmentation.md"
               }
             }
           },
@@ -157,7 +157,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Early stopping.md"
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/data augmentation.md"
               }
             }
           },
@@ -183,7 +183,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Early stopping.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/data augmentation.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -231,9 +231,9 @@
   },
   "active": "0b8d56ad363b3b3b",
   "lastOpenFiles": [
-    "@images/Pasted image 20240607004333.png",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Regularisation.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Early stopping.md",
+    "@images/Pasted image 20240607004333.png",
     "2024 Semester 1/COMPSCI361 - Machine Learning/L1 & L2 regularisation.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Dropout.md",
     "@images/Pasted image 20240607003953.png",
@@ -251,7 +251,6 @@
     "2024 Semester 1/COMPSCI361 - Machine Learning/data augmentation.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Generalization Performance.md",
     "@images/Pasted image 20240606235127.png",
-    "@images/Pasted image 20240606234956.png",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Backpropagation.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Ensemble Clustering.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/empirical risk.md",
