@@ -14,3 +14,16 @@ $$
 \phi(\vec {x})  \phi(\vec z) = \begin{bmatrix} x_1 \\ x_2 \end{bmatrix} \cdot \begin{bmatrix} z_1 \\ z_2 \end{bmatrix} = x_1z_1 + x_2z_2 = (\vec{x} \cdot \vec{z})
 $$
 ### Second degree polynomial mapping
+$$
+\Phi(\mathbf{\vec x}) = \Phi\begin{bmatrix}
+           x_1 \\
+           x_2 
+         \end{bmatrix} =
+         \begin{bmatrix}
+           x_1^2 \\
+           \sqrt{2}x_1x_2 \\
+           x_2^2 
+         \end{bmatrix}
+$$
+Where:
+$$ d = 2$$
