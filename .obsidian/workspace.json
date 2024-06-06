@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "3fed5240c5e9af4d",
+        "id": "fd059631434d11d6",
         "type": "tabs",
         "children": [
           {
-            "id": "4fddafdb57c7dcba",
+            "id": "6910057bf555cd84",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Bond price(s).md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -82,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Bond price(s).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Bond price(s).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Bond price(s).md"
+              }
             }
           },
           {
@@ -147,7 +155,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {}
+              "state": {
+                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Bond price(s).md"
+              }
             }
           },
           {
@@ -172,6 +182,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Bond price(s).md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -194,7 +205,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 1.1680817509038262,
+                  "scale": 0.23152827722148644,
                   "close": true
                 }
               }
@@ -204,7 +215,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 307.5
+    "width": 307.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -216,54 +228,55 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4fddafdb57c7dcba",
+  "active": "3ad179677b7fba41",
   "lastOpenFiles": [
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Backpropagation.md",
     "@images/Pasted image 20240606175603.png",
     "@images/Pasted image 20240606175511.png",
     "@images/Pasted image 20240606175452.png",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/error contribution.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Perceptron Learning.md",
-    "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week10/Chain Rule.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/chain rule.md",
     "@images/Pasted image 20240606174918.png",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Neural Network (NN).md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Universal Function Approximation Theorem.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Multiple Hidden Layers.md",
     "@images/Pasted image 20240606174029.png",
     "@images/Pasted image 20240606173606.png",
     "@images/Pasted image 20240606173555.png",
     "@images/Pasted image 20240606173407.png",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/XOR Problem.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Activation Function.md",
     "@images/Pasted image 20240606173145.png",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Non-Linearly Separable Data (XOR Data).md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/empirical risk.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Multi-Layer Feed-Forward (FF) Neural Network (FNN).md",
-    "2024 Semester 1/ACCTG151G - Financial Literacy/Tech shares.md",
-    "2024 Semester 1/ACCTG151G - Financial Literacy/Blue-Chip.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/feed-forward.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Sigmoid Function.md",
     "@images/Pasted image 20240606164308.png",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Polynomial Kernel.md",
+    "@images/Pasted image 20240606164033.png",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/binary classification.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/XOR Problem.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Weight Update Formula.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Universal Function Approximation Theorem.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Backpropagation.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Artificial Neural Networks (ANN).md",
-    "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week02/Optimal.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Logistic Regression.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Stochastic Gradient Descent (SGD).md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Loss Function.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Untitled 1.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/training data.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Activation Function.md",
+    "2024 Semester 1/ACCTG151G - Financial Literacy/yield to maturity (YTM).md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Soft-margin (SVMs).md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/overfit(ting).md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Slack Variables.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Support Vector Machines (SVM).md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Hard-margin (SVMs).md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Handling Numerical Labels.md",
+    "README.md",
     "Untitled.canvas",
-    "2023 Semester 1/MKTG151G/Notes",
-    "2023 Semester 1/MKTG151G/Lecture Notes",
-    "2023 Semester 1/COMPSCI225/Tutorials",
-    "2023 Semester 1/COMPSCI225/PYQ",
-    "2023 Semester 1/COMPSCI225/Lecture Notes",
-    "2023 Semester 1/COMPSCI225/Assignments",
-    "2023 Semester 1/INFOSYS220/Quizzes",
-    "2023 Semester 1/INFOSYS220/Midterm prep",
-    "2023 Semester 1/INFOSYS220/Lecture Notes",
-    "2023 Semester 1/INFOSYS220/Lab Slides",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Vonoroi diagram (1-NN).md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/support vectors.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/rule-based classifiers.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/nearest neighbor(s).md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/k-nearest neighbor (kNN).md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/hyperplanes.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/hyperplane.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Weighted kNN.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Neural Network (NN).md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Nearest-Neighbor Classifiers.md",
+    "2024 Semester 1/COMPSCI345 - Human-computer Interaction",
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Untitled",
+    "2024 Semester 1",
+    "2023 Semester 2",
+    "2024 Semester 1/INFOSYS303 - Solutions Architecture",
+    "@images/LeanIX_Poster_EA_vs_SA_vs_TA_EN.pdf",
+    "@images/LeanIX_Poster_Best-practices-to-define-business-capability-maps_EN.pdf",
+    "INFOSYS 303 - Solutions Architecture",
+    "2024 Semester 1/COMPSCI361 - Machine Learning",
+    "2024 Semester 1/ACCTG151G - Financial Literacy",
     "2023 Semester 2/COMPSCI235 - Software Development Methodologies/235 summary.canvas",
     "2023 Semester 2/COMPSCI367 - Artificial Intelligence/finals prep.canvas"
   ]
