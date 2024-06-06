@@ -9,6 +9,9 @@ $$h=g(W^{(1)}x+b^{(1)})$$
 - $h$ represents the activation value
 - $g$ represents the [[Activation Function]]
 - $(W^{(1)}x+b^{(1)})$ represents the Linear Predictor
+Networks perform non-[[Linear Regression]]:
+- Given enough units & enough training samples, they can closely approximate any [[Continuous Space (Continuous Functions)]]
+	- ([[]])
 ## Architecture
 - A two-layer [[Neural Network (NN)]]
 ## [[Activation Function]]
