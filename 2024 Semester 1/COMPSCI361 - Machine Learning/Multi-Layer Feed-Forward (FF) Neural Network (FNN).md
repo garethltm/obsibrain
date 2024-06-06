@@ -7,7 +7,8 @@
 Every node in a ***Hidden Layer*** operates on activations preceding layer & transmits activations forward to nodes of next layer
 $$h=g(W^{(1)}x+b^{(1)})$$
 - $h$ represents the activation value
-- 
+- $g$ represents the [[Activation Function]]
+- $(W^{(1)}x+b^{(1)})$ represents the Linear Predictor
 ## Architecture
 - A two-layer [[Neural Network (NN)]]
 ## [[Activation Function]]
