@@ -8,4 +8,6 @@ The [[Kernelized (SVMs)]] algorithm aims to find a non-linear [[classifier(s)]],
 #### Step 1: Space Transformation
 $\Phi(\cdot)$: Transform the original input data into a higher dimensional space
 ![[Pasted image 20240606123251.png]]
-- We can use a [[Hard-margin (SVMs)]] to derive a [[]]
+- We can use a [[Hard-margin (SVMs)]] to derive a [[hyperplane]]
+#### Search for a Linearly Separating [[hyperplane]]
+1. Dual Optimization Problem
