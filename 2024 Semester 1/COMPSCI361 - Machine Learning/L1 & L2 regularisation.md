@@ -11,6 +11,13 @@ penalises large weight values
 	- a "weight shrinkage" or a "penalty against complexity"
 	- Encourages
 ## How does it work?
+L1 norm (Manhattan norm):
+  - Denoted as: $$||\mathbf{w}||_1$$
+  - Formula: $$||\mathbf{w}||_1 = |w_1| + |w_2| + \ldots + |w_N|$$
+
+L2 norm (Euclidean norm):
+  - Denoted as: $$||\mathbf{w}||_2$$
+  - Formula: $$||\mathbf{w}||_2 = \sqrt{w_1^2 + w_2^2 + \ldots + w_N^2}$$
 
 1. Calculate the weights size
 	- L1: Sum of the absolute values of the weights $\rightarrow$ $\sum_{i=1}^{N} |w_i|$
