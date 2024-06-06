@@ -26,3 +26,5 @@ $$| \mathbf{w} \|_2 = \left( |w_1|^2 + |w_2|^2 + \dots + |w_N|^2 \right)^{\frac{
 	- We are trying to minimise $|w_i|$ and ${w_i}^2$ by adding penalties to the weight values which prevents [[overfit(ting)]]
 	- This will result in a loss function that is minimised on all the training data using [[Stochastic Gradient Descent (SGD)]]
 	- A large $\lambda$ value increases the penalty on the weights, encouraging smaller weight values and thus more [[Regularisation]]
+## Summary
+L1 [[Regularisation]]
