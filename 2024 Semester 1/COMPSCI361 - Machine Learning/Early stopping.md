@@ -1,1 +1,1 @@
-Simple 
+Simple and popular [[Regularisation]] technic
