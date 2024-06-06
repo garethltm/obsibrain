@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Perceptron Learning.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Non-Linearly Separable Data (XOR Data).md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Perceptron Learning.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Non-Linearly Separable Data (XOR Data).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Perceptron Learning.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Non-Linearly Separable Data (XOR Data).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Perceptron Learning.md"
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Non-Linearly Separable Data (XOR Data).md"
               }
             }
           },
@@ -156,7 +156,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Perceptron Learning.md"
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Non-Linearly Separable Data (XOR Data).md"
               }
             }
           },
@@ -182,7 +182,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Perceptron Learning.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Non-Linearly Separable Data (XOR Data).md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -229,8 +229,8 @@
   },
   "active": "7b779742c2df3e3b",
   "lastOpenFiles": [
-    "2024 Semester 1/COMPSCI361 - Machine Learning/empirical risk.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Perceptron Learning.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/empirical risk.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Multi-Layer Feed-Forward (FF) Neural Network (FNN).md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Non-Linearly Separable Data (XOR Data).md",
     "2024 Semester 1/ACCTG151G - Financial Literacy/Tech shares.md",
