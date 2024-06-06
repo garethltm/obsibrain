@@ -19,4 +19,5 @@ $$| \mathbf{w} \|_2 = \left( |w_1|^2 + |w_2|^2 + \dots + |w_N|^2 \right)^{\frac{
 	- L2: Sum of the squared values of the weights $\rightarrow$ $\displaystyle \sum_{i=1}^{N} w_i^2$
 2. Apply [[Regularisation]] to the weight update
 	- L1 [[Regularisation]]:
-		- 
+		- $Loss ={Error(y, \hat{y})} + \lambda \displaystyle \sum_{i=1}^{N} |w_i|$
+			$Error(y, \hat{y})$ represents the minimisation of the errors (summation of the [[Loss Function]])
