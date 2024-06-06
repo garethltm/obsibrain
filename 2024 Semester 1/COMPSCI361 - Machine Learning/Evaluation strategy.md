@@ -20,5 +20,5 @@ Very common problem with [[Deep Learning (DL)]]: [[overfit(ting)]]![[Pasted imag
 	- Making some neurons useless to make these predictions $\rightarrow$ simplification
 	- [[L1 & L2 regularisation]]
 2. Second intuition:
-	- Limiting the weight values wil
-	
+	- Limiting the weight values will bring out the output of a neuron in the linear zone of [[Activation Function]] #compsci361example $tanh$
+	- It will limit 
