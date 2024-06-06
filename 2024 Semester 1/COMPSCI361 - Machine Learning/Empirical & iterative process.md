@@ -14,4 +14,4 @@
 1. [[Regularisation]]
 2. [[initialisation]]
 3. [[learning rate]]
-4. [[Exploding and vanishing gradients]]
+4. [[Vanishing gradients and Exploding gradients]]

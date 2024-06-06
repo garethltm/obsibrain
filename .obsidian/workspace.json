@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Exploding and vanishing gradients.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Vanishing gradients and Exploding gradients.md",
                 "mode": "source",
                 "source": false
               }
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Exploding and vanishing gradients.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Vanishing gradients and Exploding gradients.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Exploding and vanishing gradients.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Vanishing gradients and Exploding gradients.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Exploding and vanishing gradients.md"
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Vanishing gradients and Exploding gradients.md"
               }
             }
           },
@@ -169,7 +169,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Exploding and vanishing gradients.md"
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Vanishing gradients and Exploding gradients.md"
               }
             }
           },
@@ -195,7 +195,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Exploding and vanishing gradients.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Vanishing gradients and Exploding gradients.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -244,7 +244,7 @@
   "active": "87f545e614431599",
   "lastOpenFiles": [
     "2024 Semester 1/COMPSCI361 - Machine Learning/Empirical & iterative process.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Exploding and vanishing gradients.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Vanishing gradients and Exploding gradients.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/learning rate.md",
     "@images/Pasted image 20240607011303.png",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Stochastic Gradient Descent (SGD).md",
