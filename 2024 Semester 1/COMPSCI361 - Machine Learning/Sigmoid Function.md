@@ -12,4 +12,6 @@ $$l = -(y \ln(p) + (1 - y) \ln(1 - p))$$
 - $p \in [0,1]$: predicted probability observation $o$ is of class $c$ 
 ## Optimisation
 For a misclassified or barely correct [[training data]] point ($x^{(i)},y^{(i)}$)
-$$w\leftarrow w + \lambda (\hat {y}^{(i)}} )x^{(i)}$$
+$$w\leftarrow w + \lambda (y^{(i)} -\hat {y}^{(i)} )x^{(i)}$$
+- $\lambda$ represents the learning rate
+- $w$ represents the [[optimal]]
