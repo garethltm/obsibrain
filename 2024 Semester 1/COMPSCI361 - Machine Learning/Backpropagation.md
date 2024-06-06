@@ -25,4 +25,5 @@ Until stopping criterion is reached
 ### 2. Forward propagation
 	![[Pasted image 20240606232924.png]]![[Pasted image 20240606232933.png]]
 ### 3. Calculating total error (Calculating the [[Loss Function]])
-	![[Pasted image 20240606233038.png]]
+	![[Pasted image 20240606233038.png]]- Square [[Loss Function]]
+	
