@@ -18,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "64890cda2d7b8f37",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/One-Class SVM.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -99,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/One-Class SVM.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Outlier Detection.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/One-Class SVM.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Outlier Detection.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/One-Class SVM.md"
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Outlier Detection.md"
               }
             }
           },
@@ -169,7 +156,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/One-Class SVM.md"
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Outlier Detection.md"
               }
             }
           },
@@ -195,7 +182,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/One-Class SVM.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Outlier Detection.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -241,10 +228,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "64890cda2d7b8f37",
+  "active": "6d6b535e8fbc7be3",
   "lastOpenFiles": [
+    "2024 Semester 1/COMPSCI361 - Machine Learning/One-Class SVM (OC-SVM).md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Outlier Detection.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/One-Class SVM.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Local Outlier Factor (LOF).md",
     "@images/Pasted image 20240607014820.png",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Interquartile Range Outlier Detection (IQR).md",

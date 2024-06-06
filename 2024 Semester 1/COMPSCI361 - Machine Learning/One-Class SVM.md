@@ -1,1 +1,0 @@
-is often used for [[Outlier Detection]] where the algorithm tries to find a [[hyperplane]] that best separates the normal data points from [[outli]]
