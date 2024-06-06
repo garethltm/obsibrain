@@ -1,2 +1,2 @@
 penalises large weight values
-- keeping wei
+- keeping weights close to zero for some neurons (simplify the structure of the [[Neural Network (NN)]])
