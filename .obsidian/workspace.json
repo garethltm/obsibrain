@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "e4c777e47ddb6567",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/One-vs-One (OVO).md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -87,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Support Vector Machines (SVM).md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/One-vs-One (OVO).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Support Vector Machines (SVM).md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/One-vs-One (OVO).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Support Vector Machines (SVM).md"
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/One-vs-One (OVO).md"
               }
             }
           },
@@ -157,7 +170,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Support Vector Machines (SVM).md"
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/One-vs-One (OVO).md"
               }
             }
           },
@@ -183,7 +196,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Support Vector Machines (SVM).md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/One-vs-One (OVO).md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -229,10 +242,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3c3f78aa3b47f7d9",
+  "active": "e4c777e47ddb6567",
   "lastOpenFiles": [
-    "2024 Semester 1/COMPSCI361 - Machine Learning/binary classification.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Support Vector Machines (SVM).md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/One-vs-One (OVO).md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/binary classification.md",
     "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week01/Discrete.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Discrete-valued (Classification).md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/classifier(s).md",
@@ -266,7 +280,6 @@
     "2024 Semester 1/COMPSCI361 - Machine Learning/Hard-margin (SVMs).md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/k-nearest neighbor (kNN).md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Bayesian Networks.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Clustering.md",
     "Untitled.canvas",
     "2023 Semester 1/MKTG151G/Notes",
     "2023 Semester 1/MKTG151G/Lecture Notes",

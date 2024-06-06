@@ -12,4 +12,5 @@ The difference between a [[Hard-margin (SVMs)]] & a [[Soft-margin (SVMs)]] lies 
 - Original [[Support Vector Machines (SVM)]] can only perform [[binary classification]] (2 classes)
 - [[Support Vector Machines (SVM)]] can be extended to multi-class problems (more than 2 classes)
 ##### Approaches
-1. 
+1. [[One-vs-One (OVO)]]
+2. One-vs-Rest (OVR)
