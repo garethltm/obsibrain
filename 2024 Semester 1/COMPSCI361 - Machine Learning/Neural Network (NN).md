@@ -1,1 +1,1 @@
-is the ultimate approximator, it can approximate & recover 
+is the ultimate approximator, it can approximate & recover conventional [[Machine Learning (ML)]] methods such as [[Logistic Regression]], [[Support Vector Machines (SVM)]], [[k-nearest neighbor (kNN)]] & [[Decision Tree(s)]]
