@@ -34,4 +34,6 @@ Until stopping criterion is reached
 	1. ![[Pasted image 20240606233647.png]]![[Pasted image 20240606233708.png]]![[Pasted image 20240606233718.png]]
 	2. ![[Pasted image 20240606233757.png]]![[Pasted image 20240606233810.png]]
 		[[Activation Function]] - [[Sigmoid Function]]
-	3. ![[Pasted image 20240606233846.png]]
+	3. ![[Pasted image 20240606233846.png]]![[Pasted image 20240606233900.png]]
+	4. [[Backpropagation]]
+		![[Pasted image 20240606233917.png]]![[Pasted image 20240606233932.png]]
