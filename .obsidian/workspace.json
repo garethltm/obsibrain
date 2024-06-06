@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Empirical & iterative process.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b354698ba8532416",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Stochastic Gradient Descent (SGD).md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Learning rate.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -100,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Stochastic Gradient Descent (SGD).md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Learning rate.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Stochastic Gradient Descent (SGD).md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Learning rate.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Stochastic Gradient Descent (SGD).md"
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Learning rate.md"
               }
             }
           },
@@ -170,7 +157,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Stochastic Gradient Descent (SGD).md"
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Learning rate.md"
               }
             }
           },
@@ -196,7 +183,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Stochastic Gradient Descent (SGD).md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Learning rate.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -242,12 +229,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b354698ba8532416",
+  "active": "0b8d56ad363b3b3b",
   "lastOpenFiles": [
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Empirical & iterative process.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Stochastic Gradient Descent (SGD).md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Sigmoid Function.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Perceptron Learning.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Learning rate.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Empirical & iterative process.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/initialisation.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Evaluation strategy.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/data augmentation.md",
@@ -279,7 +267,6 @@
     "2024 Semester 1/COMPSCI361 - Machine Learning/Generalization Performance.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Backpropagation.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Ensemble Clustering.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/empirical risk.md",
     "Untitled.canvas",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Untitled",
