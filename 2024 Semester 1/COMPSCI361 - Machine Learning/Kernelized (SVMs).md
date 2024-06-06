@@ -13,8 +13,6 @@ $\Phi(\cdot)$: Transform the original input data into a higher dimensional space
 1. [[Dual Optimization Problem]]
 2. [[Kernelized Optimization Problem]]
 Solve the [[Kernelized Optimization Problem]] by [[Quadratic Programming (QP)]] 
-- this will give you the [[support vectors]]$$
-	\max_{\alpha} \sum_{i=1}^n \alpha_i - \frac{1}{2} \sum_{i=1}^n \sum_{j=1}^n \alpha_i \alpha_j y_i y_j \Phi(\vec{x}_i) \cdot \Phi(\vec{x}_j)$$
+- this will give you the [[support vectors]]1. $$ w = \sum_{i \in S} \alpha_i \phi(x_i) $$
+2. $$ b = \frac{1}{|S|} \sum_{i \in S} y_i (w \cdot \phi(x_i)) $$
 
-	subject to$$
-	\alpha_i \geq 0 \quad \text{and} \quad \sum_{i=1}^n \alpha_i y_i = 0, \quad i = 1, 2, \ldots, n$$
