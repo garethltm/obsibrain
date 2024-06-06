@@ -37,7 +37,9 @@ $$
 	- so that $w$ can be used for all sizes of the dataset
 ## Solution
 [[Stochastic Gradient Descent (SGD)]] + [[2024 Semester 1/COMPSCI361 - Machine Learning/chain rule|chain rule]] = [[Backpropagation]]
-- [[Gradient descent]]: 
+- [[Gradient descent]]: Update the [[parameters]] in the direction of "maximum descent" in the [[Loss Function]] across all points
+- [[Stochastic Gradient Descent (SGD)]]: update the weight for every instance
+- Mini-batch [[Stochastic Gradient Descent (SGD)]]: update over min-batches of i
 ## Gradient Descent
 1. Initialize the weights $w=(w_0,w_1,\dots,w_d)$
 2. Repeat
