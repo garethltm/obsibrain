@@ -12,4 +12,4 @@ A valid [[Kernel function]] is a function that can be used to compute the inner 
 You pick the kernel by yourself
 - [[Kernel Trick]] to implicitly help you map the low dimensional data into higher dimensional data (different kernel has different abilities) ![[Pasted image 20240606130121.png]]
 1. [[Polynomial Kernel]]
-2. [[RBF K]]
+2. [[Radial Basis Function (RBF) Kernel]]

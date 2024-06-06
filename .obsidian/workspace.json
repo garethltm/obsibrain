@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "11834686e0ab7a6a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Radial Basis Function (RBF) Kernel.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "28410c00cd5feb1b",
             "type": "leaf",
             "state": {
@@ -31,7 +43,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -98,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Kernel function.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Radial Basis Function (RBF) Kernel.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Kernel function.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Radial Basis Function (RBF) Kernel.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Kernel function.md"
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Radial Basis Function (RBF) Kernel.md"
               }
             }
           },
@@ -168,7 +181,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Kernel function.md"
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Radial Basis Function (RBF) Kernel.md"
               }
             }
           },
@@ -194,7 +207,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Kernel function.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Radial Basis Function (RBF) Kernel.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -239,13 +252,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3c3f78aa3b47f7d9",
+  "active": "11834686e0ab7a6a",
   "lastOpenFiles": [
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Kernel function.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Radial Basis Function (RBF) Kernel.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Kernel Trick.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Kernelized (SVMs).md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Polynomial Kernel.md",
     "@images/Pasted image 20240606132957.png",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Kernel function.md",
     "@images/Pasted image 20240606130121.png",
     "@images/Pasted image 20240606125337.png",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Non-Linearly Separable Data.md",
