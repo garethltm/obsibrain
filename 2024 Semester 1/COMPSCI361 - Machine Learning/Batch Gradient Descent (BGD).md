@@ -1,1 +1,1 @@
-is far less efficient to calculate 
+is far less efficient to calculate the gradient in every step of our algorithm for massive training points

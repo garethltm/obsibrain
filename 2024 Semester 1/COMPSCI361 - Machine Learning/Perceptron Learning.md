@@ -55,4 +55,6 @@ $$
 
 #compsci361example ![[Pasted image 20240606155701.png]]
 ## Types of [[Gradient descent]]
+![[Pasted image 20240606155952.png]]
 1. [[Batch Gradient Descent (BGD)]]
+2. [[Stochastic Gradient Descent (SGD)]]
