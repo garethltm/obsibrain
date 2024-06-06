@@ -11,7 +11,7 @@ $$h=g(W^{(1)}x+b^{(1)})$$
 - $g$ represents the [[Activation Function]]
 - $(W^{(1)}x+b^{(1)})$ represents the Linear Predictor
 Each neuron, we need to define the [[Activation Function]]
-**NOTE**: Make sure [[Normalization]] ovvu
+**NOTE**: Make sure [[Normalization]] occurs for your data to handle (numerical stability)
 
 Networks perform non-[[Linear Regression]]:
 - Given enough units & enough training samples, they can closely approximate any [[Continuous Space (Continuous Functions)]]
