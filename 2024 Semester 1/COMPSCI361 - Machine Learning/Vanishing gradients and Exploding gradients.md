@@ -16,4 +16,5 @@ can become exponentially large if term is larger than 1
 choosing the correct [[Activation Function]]
 ![[Pasted image 20240607012602.png]]
 As the number of layers goes up, the [[gradient]] is more likely to vanish during [[Backpropagation]]
-- Using ReLU [[Activation Function]] instead of 
+- Using ReLU [[Activation Function]] instead of $tanh$ or [[Sigmoid Function]] can reduce this problem since its [[gradient]] does not go to zero as the input goes to zero
+- [[Sigmoid Function]] and $Tanh$ functions saturates at 0 or 1 when inputs become small or large
