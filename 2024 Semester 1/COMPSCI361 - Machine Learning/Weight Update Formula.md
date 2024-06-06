@@ -1,3 +1,4 @@
+$$w\leftarrow w + \lambda ( y^{(i)} x^{(i)})$$
 - [[Perceptron Learning]] finds [[decision boundary]] if classes are [[Linearly Separable Data]]
 
  $l(y^{(i)}, \hat{y}^{(i)}) = \max(0, 1 - y^{(i)}\hat{y}^{(i)})$

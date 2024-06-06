@@ -43,7 +43,7 @@ $$
 	- For each training example ($x^{(i)},y^{(i)}$)
 	- Compute $\hat {y}^{(i)}$
 	- Compute the derivative of the [[Loss Function]]
-	- Update the weights (only if $\hat {y}^{(i)} \ne y^{(i)}$)
+	- Update the weights (only if $\hat {y}^{(i)} \ne y^{(i)}$) using [[Weight Update Formula]]
 		![[Pasted image 20240606155445.png]]
 		- $w\leftarrow w - \lambda (derivative\ of\ Hinge Loss)$ 
 		- $w\leftarrow w - \lambda (- y^{(i)} x^{(i)} )$
@@ -51,5 +51,6 @@ $$
 			- [[Hinge Loss]]
 		- $k$ represents the iteration number
 		- $\lambda$ represents the learning rate (step size)
-1. Until change of $w_j \le \ threshold$
+3. Until change of $w_j \le \ threshold$
 
+#compsci361example ![[Pasted image 20240606155701.png]]
