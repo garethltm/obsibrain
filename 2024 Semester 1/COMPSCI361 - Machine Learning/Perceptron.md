@@ -36,3 +36,5 @@ Quantify the differences of outputs compared with labels (target)
 Given a set of [[training data]] $S = \{ (x^{(1)}, y^{(1)}), \ldots, (x^{(n)}, y^{(n)}) \}$
 - $y^{(i)}$ is categorical: [[classification]] task ([[multi-class classification]] or [[binary classification]])
 - $y^{(i)}$ is continuous: [[Regression]] task
+## Goal
+FInd $w$, such that [[empirical risk]] is minimized (smallest loss) on all [[training data]]
