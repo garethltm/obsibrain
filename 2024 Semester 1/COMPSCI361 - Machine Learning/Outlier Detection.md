@@ -18,5 +18,6 @@
 	- #compsci361example [[One-Class SVM (OC-SVM)]]
 6. [[Clustering]] ([[k-Means]], [[DBSCAN]])
 	- used to identify [[Outlier]] as points that do not fit well into any [[Cluster(s)]] or form their own small [[Cluster(s)]]
-	- Advantages: Does not require labeled data, can detect groups of [[Outlier]]
-	- Disadvantages: Choice of [[Clustering]] [[parameters]] ca
+	- **Advantages**: Does not require labeled data, can detect groups of [[Outlier]]
+	- **Disadvantages**: Choice of [[Clustering]] [[parameters]] can significantly affect results, may struggle with high-dimensional data
+	- #compsci361example [[DBSCAN]] identifies [[Outlier]] as points that are in low-density regions

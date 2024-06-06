@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Outlier Detection.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/DBSCAN.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Outlier Detection.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/DBSCAN.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Outlier Detection.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/DBSCAN.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Outlier Detection.md"
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/DBSCAN.md"
               }
             }
           },
@@ -156,7 +156,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Outlier Detection.md"
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/DBSCAN.md"
               }
             }
           },
@@ -182,7 +182,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Outlier Detection.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/DBSCAN.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -230,8 +230,8 @@
   },
   "active": "6d6b535e8fbc7be3",
   "lastOpenFiles": [
-    "2024 Semester 1/COMPSCI361 - Machine Learning/One-Class SVM (OC-SVM).md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Outlier Detection.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/One-Class SVM (OC-SVM).md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Local Outlier Factor (LOF).md",
     "@images/Pasted image 20240607014820.png",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Interquartile Range Outlier Detection (IQR).md",
