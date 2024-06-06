@@ -15,4 +15,4 @@
 	- can be adapted for [[Outlier Detection]] by identifying a [[decision boundary]] that separates normal data points from [[Outlier]]
 	- Advantages: Effective in high-dimensional spaces, robust to [[Outlier]], can model complex relationships
 	- Disadvantages: Requires labeled data, computationally intensive for large datasets
-	- #compsci361example 
+	- #compsci361example [[One-Class SVM]]
