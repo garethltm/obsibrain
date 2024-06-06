@@ -23,3 +23,16 @@ $$
          \end{bmatrix}
 $$
 Where: $d = 2$
+$$
+\begin{bmatrix}
+x_1^2 \\
+\sqrt{2} x_1 x_2 \\
+x_2^2
+\end{bmatrix}
+\cdot
+\begin{bmatrix}
+z_1^2 \\
+\sqrt{2} z_1 z_2 \\
+z_2^2
+\end{bmatrix}
+$$
