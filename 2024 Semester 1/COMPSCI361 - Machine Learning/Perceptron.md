@@ -30,4 +30,5 @@ For every [[training data]] we has a Loss Function that we sum up to get an over
 This is used to quantify the difference between the output labels ($\hat{y}$) & true labels
 #### Goal
 Quantify the differences of outputs compared with labels (target)
-[[empirical risk]]
+![[empirical risk]]
+#compsci361example ![[Pasted image 20240606144848.png]]
