@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Multi-Layer Feed-Forward (FF) Neural Network (FNN).md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Perceptron Learning.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Multi-Layer Feed-Forward (FF) Neural Network (FNN).md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Perceptron Learning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Multi-Layer Feed-Forward (FF) Neural Network (FNN).md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Perceptron Learning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Multi-Layer Feed-Forward (FF) Neural Network (FNN).md"
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Perceptron Learning.md"
               }
             }
           },
@@ -156,7 +156,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Multi-Layer Feed-Forward (FF) Neural Network (FNN).md"
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Perceptron Learning.md"
               }
             }
           },
@@ -182,7 +182,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Multi-Layer Feed-Forward (FF) Neural Network (FNN).md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Perceptron Learning.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -205,7 +205,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 1.546214327216576,
+                  "scale": 1.3737564438318801,
                   "close": true
                 }
               }
@@ -229,10 +229,12 @@
   },
   "active": "7b779742c2df3e3b",
   "lastOpenFiles": [
+    "2024 Semester 1/COMPSCI361 - Machine Learning/empirical risk.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Perceptron Learning.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Multi-Layer Feed-Forward (FF) Neural Network (FNN).md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Non-Linearly Separable Data (XOR Data).md",
     "2024 Semester 1/ACCTG151G - Financial Literacy/Tech shares.md",
     "2024 Semester 1/ACCTG151G - Financial Literacy/Blue-Chip.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Multi-Layer Feed-Forward (FF) Neural Network (FNN).md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/feed-forward.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Neural Network (NN).md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Sigmoid Function.md",
@@ -241,7 +243,6 @@
     "@images/Pasted image 20240606163957.png",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Polynomial Kernel.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Artificial Neural Networks (ANN).md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Perceptron Learning.md",
     "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week02/Optimal.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Logistic Regression.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Stochastic Gradient Descent (SGD).md",
@@ -259,7 +260,6 @@
     "@images/Pasted image 20240606155701.png",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Weight Update Formula.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Hinge Loss.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/empirical risk.md",
     "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week04/Gradient descent.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Backpropagation.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/multi-class classification.md",
