@@ -1,6 +1,6 @@
 ![[Pasted image 20240606164308.png]]
 ## Architecture
-- A two-layer network
+- A two-layer [[Neural Network (NN)]]
 ## [[Activation Function]]
 - $g$ represents the Nonlinear transformation
 	- #compsci361example [[Sigmoid Function]] transformation
@@ -15,4 +15,4 @@ $b$ represents the Bias Term
 ## Important
 The more layers we have the more $W$ we have
 - the more complex the [[Neural Network (NN)]]
-More neurons = more [[parameters]] $\rightarrow$ 
+**More neurons = more [[parameters]] $\rightarrow$ more approximation abilities on how to make a network more powerful**

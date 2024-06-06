@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Multi-Layer Feed-Forward Neural Network (FNN).md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Multi-Layer Feed-Forward (FF) Neural Network (FNN).md",
                 "mode": "source",
                 "source": false
               }
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Multi-Layer Feed-Forward Neural Network (FNN).md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Multi-Layer Feed-Forward (FF) Neural Network (FNN).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Multi-Layer Feed-Forward Neural Network (FNN).md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Multi-Layer Feed-Forward (FF) Neural Network (FNN).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Multi-Layer Feed-Forward Neural Network (FNN).md"
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Multi-Layer Feed-Forward (FF) Neural Network (FNN).md"
               }
             }
           },
@@ -169,7 +169,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Multi-Layer Feed-Forward Neural Network (FNN).md"
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Multi-Layer Feed-Forward (FF) Neural Network (FNN).md"
               }
             }
           },
@@ -195,7 +195,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Multi-Layer Feed-Forward Neural Network (FNN).md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Multi-Layer Feed-Forward (FF) Neural Network (FNN).md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -243,8 +243,9 @@
   },
   "active": "19025ad27d640452",
   "lastOpenFiles": [
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Neural Network (NN).md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Multi-Layer Feed-Forward (FF) Neural Network (FNN).md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Sigmoid Function.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Multi-Layer Feed-Forward Neural Network (FNN).md",
     "@images/Pasted image 20240606164308.png",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Non-Linearly Separable Data (XOR Data).md",
     "@images/Pasted image 20240606164033.png",
@@ -255,7 +256,6 @@
     "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week02/Optimal.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Logistic Regression.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Stochastic Gradient Descent (SGD).md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Neural Network (NN).md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Loss Function.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Activation Function.md",
     "@images/Pasted image 20240606161757.png",
