@@ -13,4 +13,4 @@ The difference between a [[Hard-margin (SVMs)]] & a [[Soft-margin (SVMs)]] lies 
 - [[Support Vector Machines (SVM)]] can be extended to multi-class problems (more than 2 classes)
 ##### Approaches
 1. [[One-vs-One (OVO)]]
-2. One-vs-Rest (OVR)
+2. [[One-vs-Rest (OVR)]]
