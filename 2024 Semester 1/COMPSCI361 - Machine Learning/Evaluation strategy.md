@@ -19,4 +19,6 @@ Very common problem with [[Deep Learning (DL)]]: [[overfit(ting)]]![[Pasted imag
 1. First intuition:
 	- Making some neurons useless to make these predictions $\rightarrow$ simplification
 	- [[L1 & L2 regularisation]]
+2. Second intuition:
+	- Limiting the weight values wil
 	
