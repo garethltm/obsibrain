@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Notion of Feature Transformation.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Kernelized (SVMs).md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "given a set of path:\"2024 Semester 1/COMPSCI361 - Machine Learning\"  ",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Notion of Feature Transformation.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Kernelized (SVMs).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Notion of Feature Transformation.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Kernelized (SVMs).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Notion of Feature Transformation.md"
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Kernelized (SVMs).md"
               }
             }
           },
@@ -170,7 +170,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Notion of Feature Transformation.md"
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Kernelized (SVMs).md"
               }
             }
           },
@@ -196,7 +196,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Notion of Feature Transformation.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Kernelized (SVMs).md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -241,11 +241,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d2485045e982cf30",
+  "active": "a6e0090ac9cbd1f3",
   "lastOpenFiles": [
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Notion of Feature Transformation.md",
     "@images/Pasted image 20240606122452.png",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Non-Linearly Separable Data.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Notion of Feature Transformation.md",
     "@images/Pasted image 20240606122349.png",
     "@images/Pasted image 20240606122335.png",
     "@images/Pasted image 20240606122316.png",
@@ -258,7 +258,6 @@
     "@images/Pasted image 20240605234454.png",
     "@images/Pasted image 20240605234428.png",
     "@images/Pasted image 20240605234014.png",
-    "@images/Pasted image 20240605233151.png",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Slack Variables.md",
     "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week03/A-Star Search.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Additional assumption.md",
