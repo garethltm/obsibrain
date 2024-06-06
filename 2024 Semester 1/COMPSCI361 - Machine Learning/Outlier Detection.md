@@ -23,6 +23,7 @@
 	- #compsci361example [[DBSCAN]] identifies [[Outlier]] as points that are in low-density regions
 7. [[Principal Components Analysis (PCA)]]
 	- reduces the dimensionality of data while preserving [[variance]]. [[Outlier]] can be identified by looking at the principal components and detecting points that have unusual values.
-	- Advantages: Reduces dimensionality, highlights [[variance]] in data
-	- Disadvantages: Sensitive to scaling, linear method may not capture complex patterns
-	- #compsci361example Points 
+	- **Advantages**: Reduces dimensionality, highlights [[variance]] in data
+	- **Disadvantages**: Sensitive to scaling, linear method may not capture complex patterns
+	- #compsci361example Points that have high value in the directions of principal components can be considered [[Outlier]]
+8. Scatter Plot
