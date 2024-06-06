@@ -8,5 +8,6 @@ Pre-processing technic $\rightarrow$ does not modify explicitly the learning alg
 - Increases the diversity of the data
 - Especially used with images
 This includes operations like rotating the image, flipping, scaling, adding [[Noise]], etc.
+- basically adding random stuff to the training set
 ## However
-this can lead to underfitting if generate
+this can lead to underfitting if generated data is not relevant to the task
