@@ -8,3 +8,4 @@ The difference between a [[Hard-margin (SVMs)]] & a [[Soft-margin (SVMs)]] lies 
 1. [[Kernelized (SVMs)]]
 ## Problem Definition
 - [[Margin Maximization]]
+##
