@@ -9,5 +9,7 @@ It is possible to have multiple structures of neurons
 - Number of units in each hidden layer
 - Number of connections between layers
 - Number of units in the output layer
-#### A function
-- maps
+## Function
+- maps input to output
+- contains [[parameters]] to be learned
+### Activation Function
