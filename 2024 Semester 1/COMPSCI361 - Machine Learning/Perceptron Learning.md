@@ -62,5 +62,6 @@ $$w\leftarrow w + \lambda ( y^{(i)} x^{(i)})$$
 	2. $\hat {y}^{(i)} \ne y^{(i)}$ and $y^{(i)}=1,\ l > 0$
 		- [[Loss Function]] more than 0: weight must be increased so that $\hat {y}^{(i)}$ will increase
 	3. $\hat {y}^{(i)} \ne y^{(i)}$ and $y^{(i)}=-1,\ l > 0$
-		- [[Loss Function]] less than 0: weight must be decreased so that
+		- [[Loss Function]] less than 0: weight must be decreased so that $\hat {y}^{(i)}$ will decrease
+- **If [[Loss Function]] bigger than 1 than there is some error**
 	
