@@ -18,33 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "86f667d77c191de9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Optimal error rate, Avoidable bias, Variance.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "36faa9ca5103dc93",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Bias vs Variance tradeoff.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -111,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Bias vs Variance tradeoff.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/data augmentation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Bias vs Variance tradeoff.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/data augmentation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Bias vs Variance tradeoff.md"
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/data augmentation.md"
               }
             }
           },
@@ -181,7 +156,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Bias vs Variance tradeoff.md"
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/data augmentation.md"
               }
             }
           },
@@ -207,7 +182,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Bias vs Variance tradeoff.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/data augmentation.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -253,12 +228,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "36faa9ca5103dc93",
+  "active": "0b8d56ad363b3b3b",
   "lastOpenFiles": [
-    "2024 Semester 1/COMPSCI361 - Machine Learning/variance.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Optimal error rate, Avoidable bias, Variance.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Bias vs Variance tradeoff.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/bias.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Optimal error rate, Avoidable bias, Variance.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/variance.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Bias-Variance vs Fundamental Trade-Off.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Simplest formula to address variance & bias issues.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/High variance.md",
