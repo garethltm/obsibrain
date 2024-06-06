@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Sigmoid Function.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Neural Network (NN).md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Sigmoid Function.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Neural Network (NN).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Sigmoid Function.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Neural Network (NN).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Sigmoid Function.md"
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Neural Network (NN).md"
               }
             }
           },
@@ -156,7 +156,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Sigmoid Function.md"
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Neural Network (NN).md"
               }
             }
           },
@@ -182,7 +182,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Sigmoid Function.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Neural Network (NN).md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -230,8 +230,8 @@
   },
   "active": "3caaeec7dfcecc13",
   "lastOpenFiles": [
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Loss Function.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Sigmoid Function.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Loss Function.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Logistic Regression.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Artificial Neural Networks (ANN).md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Activation Function.md",
