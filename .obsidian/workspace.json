@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "b8c8c8677c737459",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Z-score outlier detection.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Outlier Detection.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Z-score outlier detection.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Outlier Detection.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Z-score outlier detection.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Outlier Detection.md"
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Z-score outlier detection.md"
               }
             }
           },
@@ -156,7 +169,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Outlier Detection.md"
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Z-score outlier detection.md"
               }
             }
           },
@@ -182,7 +195,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Outlier Detection.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Z-score outlier detection.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -228,11 +241,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6d6b535e8fbc7be3",
+  "active": "b8c8c8677c737459",
   "lastOpenFiles": [
+    "@images/Pasted image 20240607013535.png",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Outlier Detection.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Z-score outlier detection.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Outlier.md",
     "@images/Pasted image 20240607013310.png",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Outlier Detection.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Vanishing Gradient Problem.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Neural Network (NN).md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Empirical & iterative process.md",
@@ -259,7 +274,6 @@
     "2024 Semester 1/COMPSCI361 - Machine Learning/Early stopping.md",
     "@images/Pasted image 20240607004333.png",
     "2024 Semester 1/COMPSCI361 - Machine Learning/L1 & L2 regularisation.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Dropout.md",
     "@images/Pasted image 20240607003953.png",
     "@images/Pasted image 20240607003942.png",
     "@images/Pasted image 20240607003835.png",
