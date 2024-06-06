@@ -4,4 +4,7 @@ Train/dev/test sets with deep networks![[Pasted image 20240606234602.png]]
 - If large dataset (> 1,000,000 samples)
 	- 98%/1%/1%
 
-Training set, dev set ([[Validation set(s)]]) & test set usually need to come from same distribution (but it is ok varies a bit when gathering a lot of )
+Training set, dev set ([[Validation set(s)]]) & test set usually need to come from same distribution (but it is ok varies a bit when gathering a lot of [[training data]])
+
+Make sure dev and test sets come from the same distribution
+- If cat & dog must be from cat & dog (not airplanes)
