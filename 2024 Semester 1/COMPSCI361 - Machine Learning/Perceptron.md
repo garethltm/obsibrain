@@ -48,4 +48,4 @@ $$
 - $n$ represents [[Normalization]], this is used to organize for all $n$
 	- so that $w$ can be used for all sizes of the dataset
 ## Solution
-Stocastic gr
+[[Stochastic Gradient Descent (SGD)]] + chain rule = 
