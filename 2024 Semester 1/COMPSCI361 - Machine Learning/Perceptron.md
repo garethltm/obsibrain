@@ -41,7 +41,7 @@ FInd $w$, such that [[empirical risk]] is minimized (smallest loss) on all [[tra
 $$
 L(w) = \frac{1}{n} \sum_{i} l(y^{(i)}, \hat{y}^{(i)})
 $$
-
 $$
-\hat{y}^{(i)} = sign() =\text{sign}(\sum_{j} w_j x_j^{(i)} + b)
+\hat{y}^{(i)} = sign(x^{(i)},w) =\text{sign}(\sum_{j} w_j x_j^{(i)} + b)
 $$
+- this is used to make a prediction [-1, 1]
