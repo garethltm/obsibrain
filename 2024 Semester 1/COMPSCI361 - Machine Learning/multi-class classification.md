@@ -6,4 +6,8 @@ a [[multi-class classification]] model could be trained to predict the type of f
 The model is trained using a set of input-output pairs, also known as training examples. Each training example consists of an input vector (or features) and a desired output value (or label). The model learns a function that maps the input to the output for these training examples. Once the model is trained, it can be used to predict the output for new, unseen inputs.
 ## Common algorithms used for
 1. [[Logistic Regression]]
-2. [[decisionrandom forests, gradient boosting, neural networks, and others. Some algorithms, like support vector machines, are inherently binary classifiers, but can be adapted for multi-class classification using strategies like one-vs-all or one-vs-one.
+2. [[Decision Tree(s)]]
+3. [[Random Forests]]
+4. [[gradient boosting]]
+5. [[Neural Network (NN)]] and others. 
+Some algorithms, like [[Support Vector Machines (SVM)]], are inherently binary classifiers, but can be adapted for [[multi-class classification]] using strategies like one-vs-all or one-vs-one.
