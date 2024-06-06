@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Multi-Layer Feed-Forward (FF) Neural Network (FNN).md",
+                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Tech shares.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\\lambda",
+                "query": "zero",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Multi-Layer Feed-Forward (FF) Neural Network (FNN).md",
+                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Tech shares.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Multi-Layer Feed-Forward (FF) Neural Network (FNN).md",
+                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Tech shares.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Multi-Layer Feed-Forward (FF) Neural Network (FNN).md"
+                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Tech shares.md"
               }
             }
           },
@@ -169,7 +169,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Multi-Layer Feed-Forward (FF) Neural Network (FNN).md"
+                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Tech shares.md"
               }
             }
           },
@@ -195,7 +195,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Multi-Layer Feed-Forward (FF) Neural Network (FNN).md",
+                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Tech shares.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -228,8 +228,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 307.5,
-    "collapsed": true
+    "width": 307.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -243,8 +242,9 @@
   },
   "active": "19025ad27d640452",
   "lastOpenFiles": [
-    "2024 Semester 1/COMPSCI361 - Machine Learning/feed-forward.md",
+    "2024 Semester 1/ACCTG151G - Financial Literacy/Blue-Chip.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Multi-Layer Feed-Forward (FF) Neural Network (FNN).md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/feed-forward.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Neural Network (NN).md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Sigmoid Function.md",
     "@images/Pasted image 20240606164308.png",
@@ -278,7 +278,6 @@
     "2024 Semester 1/COMPSCI361 - Machine Learning/steepest direction.md",
     "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week01/Stochastic.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/classification.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Regression.md",
     "Untitled.canvas",
     "2023 Semester 1/MKTG151G/Notes",
     "2023 Semester 1/MKTG151G/Lecture Notes",
