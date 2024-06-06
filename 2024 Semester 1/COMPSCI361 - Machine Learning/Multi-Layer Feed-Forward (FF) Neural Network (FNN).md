@@ -4,7 +4,8 @@
 - The number of ***Hidden Layer*** is arbitrary
 	- you can define the number of black neurons
 - The network is [[feed-forward]]
-Every node in a ***Hidden Layer*** operates on activations preceding layer & transmits
+Every node in a ***Hidden Layer*** operates on activations preceding layer & transmits activations forward to nodes of next layer
+$$h=g(W^{(1)}x+b^{(1)})$$
 ## Architecture
 - A two-layer [[Neural Network (NN)]]
 ## [[Activation Function]]
