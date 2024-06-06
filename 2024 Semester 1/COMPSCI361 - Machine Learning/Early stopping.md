@@ -9,4 +9,7 @@ Avoid too much training = lowest [[Validation Error]]
 	- Loss on the dev dataset (if it's at the lowest point, we STOP)
 	- Additional metrics ([[Precision (Exactness)]], [[Recall (Completeness)]], etc.)
 2. Trigger the early stopping
-	- Simplest trigger: increase 
+	- Simplest trigger: increase of the [[Loss Function]] compared to the last iterations
+	- More elaborated ones: no change over several epochs, absolute change in a metric, average change in a metric over several epochs, reaching a specific level of performance, etc.
+3. Choose the model to keep
+	- Usually,
