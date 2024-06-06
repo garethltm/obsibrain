@@ -12,3 +12,8 @@ caused by multiplying values ([[2024 Semester 1/COMPSCI361 - Machine Learning/ch
 can become exponentially large if term is larger than 1
 **Gradients become larger and large as [[Backpropagation]] progresses**
 - Learning can become unstable (large weights update) and diverge
+## Solution
+choosing the correct [[Activation Function]]
+![[Pasted image 20240607012602.png]]
+As the number of layers goes up, the [[gradient]] is more likely to vanish during [[Backpropagation]]
+- Using ReLU [[Activation Function]] instead of 
