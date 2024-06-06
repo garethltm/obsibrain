@@ -11,3 +11,5 @@
 		3. Ranking all data according to their cumulative distances
 		4. Treat the data points as [[Outlier]] whose $K$ [[nearest neighbor(s)]] are far away from them
 4. [[Local Outlier Factor (LOF)]]
+5. [[Support Vector Machines (SVM)]]
+	- can be adapted for [[Outlier Detection]] by identifying a [[decision boundary]] that separates normal data points from
