@@ -56,5 +56,5 @@ $$w\leftarrow w + \lambda ( y^{(i)} x^{(i)})$$
 - [[Perceptron Learning]] finds [[decision boundary]] if classes are [[Linearly Separable Data]]
 - Intuition for updating weight based on error over one sample:
 	$l(y^{(i)}, \hat{y}^{(i)}) = \max(0, 1 - y^{(i)}\hat{y}^{(i)})$
-	1. If $\hat {y}^{(i)} = y^{(i)}$ 
+	1. If $\hat {y}^{(i)} = y^{(i)}, l = 0$ ([[Loss Function]] = 0)
 	
