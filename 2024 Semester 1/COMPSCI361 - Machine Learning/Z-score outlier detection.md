@@ -4,4 +4,4 @@
 The Z-score for a value of $x$ in the dataset with a normal distribution with mean $\mu$ and standard deviation $\sigma$ is given by:
 $$z=\frac{(x-\mu )}{\sigma}$$
 - The Z-score is equal to zero when $x=\mu$
-- The Z-score is $\+=1$
+- The Z-score is $± 1$, $± 2$, or $± 3$, depending on 
