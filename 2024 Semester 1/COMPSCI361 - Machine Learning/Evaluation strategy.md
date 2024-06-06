@@ -19,6 +19,6 @@ Very common problem with [[Deep Learning (DL)]]: [[overfit(ting)]]![[Pasted imag
 1. First intuition:
 	- Making some neurons useless to make these predictions $\rightarrow$ simplification
 	- [[L1 & L2 regularisation]]
-2. Second intuition:
+2. Second intuition:![[Pasted image 20240607000221.png]]
 	- Limiting the weight values will bring out the output of a neuron in the linear zone of [[Activation Function]] #compsci361example $tanh$
-	- It will limit 
+	- It will limit the [[Neural Network (NN)]] power to model non-linearities
