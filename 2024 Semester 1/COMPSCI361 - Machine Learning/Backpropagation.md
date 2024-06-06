@@ -10,5 +10,8 @@ For each training tuple, the weights are modified to minimize the loss between t
 - adjust weight to minimize [[Loss Function]]
 - [[empirical risk]] for all [[training data]]
 ## Steps
-Random 
-For each training instance:
+**Random initialization of weights**
+- For each training instance:
+	1. Make a prediction (forward pass/propagation) 
+	2. Measure the error/loss (to calculate the [[Loss Function]])
+	3. 
