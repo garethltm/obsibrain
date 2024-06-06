@@ -27,7 +27,7 @@ $$
 ![[Pasted image 20240605234014.png]]
 
 #compsci361example ![[Pasted image 20240605234454.png]]![[Pasted image 20240605234504.png]]
-## Bias & Variance
+## Bias and Variance
 ![[Pasted image 20240605234846.png]]
 1. A large value of C keeps the errors small at the cost of a reduced margin (can lead to [[overfit(ting)]], low bias, high variance)
 2. A small value of C allows more misclassification while increasing the margin on the remaining examples (can lead to underfitting, large bias, low variance)

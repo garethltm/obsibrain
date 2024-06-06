@@ -8,3 +8,4 @@ $$
 ![[Pasted image 20240606133626.png]]
 #compsci361example 
 ![[Pasted image 20240606133135.png]]
+## Bias and Variance
