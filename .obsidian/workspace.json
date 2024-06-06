@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Non-Linearly Separable Data.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d2485045e982cf30",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Kernelized (SVMs).md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -240,12 +227,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d2485045e982cf30",
+  "active": "a4702aa48b8cc5c9",
   "lastOpenFiles": [
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Non-Linearly Separable Data.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/support vectors (SV).md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Kernelized (SVMs).md",
     "@images/Pasted image 20240606124149.png",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Kernelized Optimization Problem.md",
     "@images/Pasted image 20240606123546.png",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Kernelized (SVMs).md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Dual Optimization Problem.md",
     "@images/Pasted image 20240606123251.png",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Margin Maximization.md",
@@ -259,7 +248,6 @@
     "2024 Semester 1/COMPSCI361 - Machine Learning/random events.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Notion of Feature Transformation.md",
     "@images/Pasted image 20240606122452.png",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Non-Linearly Separable Data.md",
     "@images/Pasted image 20240606122349.png",
     "@images/Pasted image 20240606122335.png",
     "@images/Pasted image 20240606122316.png",
@@ -269,7 +257,6 @@
     "2024 Semester 1/COMPSCI361 - Machine Learning/k-Means.md",
     "@images/Pasted image 20240605234846.png",
     "@images/Pasted image 20240605234504.png",
-    "@images/Pasted image 20240605234454.png",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Slack Variables.md",
     "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week03/A-Star Search.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Additional assumption.md",
