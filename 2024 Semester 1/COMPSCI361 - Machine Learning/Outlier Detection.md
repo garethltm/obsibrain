@@ -13,8 +13,10 @@
 4. [[Local Outlier Factor (LOF)]]
 5. [[Support Vector Machines (SVM)]]
 	- can be adapted for [[Outlier Detection]] by identifying a [[decision boundary]] that separates normal data points from [[Outlier]]
-	- Advantages: Effective in high-dimensional spaces, robust to [[Outlier]], can model complex relationships
-	- Disadvantages: Requires labeled data, computationally intensive for large datasets
+	- **Advantages**: Effective in high-dimensional spaces, robust to [[Outlier]], can model complex relationships
+	- **Disadvantages**: Requires labeled data, computationally intensive for large datasets
 	- #compsci361example [[One-Class SVM (OC-SVM)]]
 6. [[Clustering]] ([[k-Means]], [[DBSCAN]])
-	- used to identify [[Outlier]] as points that do not fit well 
+	- used to identify [[Outlier]] as points that do not fit well into any [[Cluster(s)]] or form their own small [[Cluster(s)]]
+	- Advantages: Does not require labeled data, can detect groups of [[Outlier]]
+	- Disadvantages: Choice of [[Clustering]] [[parameters]] ca
