@@ -3,5 +3,9 @@ is the ultimate approximator, it can approximate & recover conventional [[Machin
 If you don't have the hidden layers $\rightarrow$ you cannot approximate the nonlinear functions
 #### $M_1$
 - 0 hidden layer + linear [[Activation Function]] $\rightarrow$ linear surface
-## $M_2$
-- 0 hidden layer + non-linear [[Activation Function]] $\rightarrow$ linear surfa
+#### $M_2$
+- 0 hidden layer + non-linear [[Activation Function]] $\rightarrow$ linear surface ([[Logistic Regression]])
+#### $M_3$
+- 1 hidden layer + linear [[Activation Function]] $\rightarrow$ combination of linear surface
+#### $M_4$
+- 1 hidden layer + 
