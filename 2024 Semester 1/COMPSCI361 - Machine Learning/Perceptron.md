@@ -40,4 +40,6 @@ $$
 ## Gradient Descent
 1. Initialize the weights $w=(w_0,w_1,\dots,w_d)$
 2. Repeat
-	- For each training example ($x^{(i)},y^)
+	- For each training example ($x^{(i)},y^{(i)}$)
+	- Compute $\hat {y}^{(i)}$
+	- Compute the derivative of the [[Loss Function]]
