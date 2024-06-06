@@ -1,1 +1,22 @@
 #### [[Polynomial Kernel]] of Degree $d$
+$$
+k(x,z) = (\vec{x} \cdot \vec{z})d
+$$
+
+Where:
+
+$$
+d = 1
+$$
+
+And the transformations are given by:
+
+$$
+\phi(x) = \begin{bmatrix} x_1 \\ x_2 \end{bmatrix}, \quad \phi(z) = \begin{bmatrix} z_1 \\ z_2 \end{bmatrix}
+$$
+
+The scalar product resulting from the matrix multiplication is:
+
+$$
+k(x,z) = x_1z_1 + x_2z_2 = (\vec{x} \cdot \vec{z})
+$$
