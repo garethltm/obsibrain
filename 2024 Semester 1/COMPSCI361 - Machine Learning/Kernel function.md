@@ -1,0 +1,1 @@
+A [[Kernel function]] $K$ takes vectors in the original space as inputs, & returns the inner product of the vecto

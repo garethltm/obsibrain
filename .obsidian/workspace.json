@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "3c3f78aa3b47f7d9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Kernel function.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -99,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Kernel Trick.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Kernel function.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Kernel Trick.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Kernel function.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Kernel Trick.md"
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Kernel function.md"
               }
             }
           },
@@ -169,7 +181,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Kernel Trick.md"
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Kernel function.md"
               }
             }
           },
@@ -195,7 +207,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Kernel Trick.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Kernel function.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -240,11 +252,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "14afc4ec8b39b902",
+  "active": "3c3f78aa3b47f7d9",
   "lastOpenFiles": [
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Kernel Trick.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Kernel function.md",
     "@images/Pasted image 20240606125337.png",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Kernelized (SVMs).md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Kernel Trick.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Non-Linearly Separable Data.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/support vectors (SV).md",
     "@images/Pasted image 20240606124149.png",
@@ -271,7 +284,6 @@
     "conflict-files-obsidian-git.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/k-Means.md",
     "@images/Pasted image 20240605234846.png",
-    "@images/Pasted image 20240605234504.png",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Slack Variables.md",
     "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week03/A-Star Search.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Additional assumption.md",
