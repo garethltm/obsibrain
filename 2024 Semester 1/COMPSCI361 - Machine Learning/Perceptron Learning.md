@@ -58,8 +58,9 @@ $$w\leftarrow w + \lambda ( y^{(i)} x^{(i)})$$
  $l(y^{(i)}, \hat{y}^{(i)}) = \max(0, 1 - y^{(i)}\hat{y}^{(i)})$
 - Intuition for updating weight based on error over one sample:
 	1. If $\hat {y}^{(i)} = y^{(i)},\ l = 0$ 
-		- [[Loss Function]] = 0: the lowest point $w$, no update needed
+		- [[Loss Function]] equals 0: the lowest point $w$, no update needed
 	2. $\hat {y}^{(i)} \ne y^{(i)}$ and $y^{(i)}=1,\ l > 0$
 		- [[Loss Function]] more than 0: weight must be increased so that $\hat {y}^{(i)}$ will increase
-	3. $\hat {y}^{(i)} \ne y^{(i)}$ 
+	3. $\hat {y}^{(i)} \ne y^{(i)}$ and $y^{(i)}=-1,\ l > 0$
+		- [[Loss Function]] less than 0: weight must be decreased so that
 	
