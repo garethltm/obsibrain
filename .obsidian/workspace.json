@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Support Vector Machines (SVM).md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Kernelized (SVMs).md",
                 "mode": "source",
                 "source": false
               }
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Support Vector Machines (SVM).md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Kernelized (SVMs).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Support Vector Machines (SVM).md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Kernelized (SVMs).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Support Vector Machines (SVM).md"
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Kernelized (SVMs).md"
               }
             }
           },
@@ -169,7 +169,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Support Vector Machines (SVM).md"
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Kernelized (SVMs).md"
               }
             }
           },
@@ -195,7 +195,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Support Vector Machines (SVM).md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Kernelized (SVMs).md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -242,6 +242,9 @@
   },
   "active": "d2485045e982cf30",
   "lastOpenFiles": [
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Margin Maximization.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Support Vector Machines (SVM).md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Hard-margin (SVMs).md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/k-nearest neighbor (kNN).md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Bayesian Networks.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Clustering.md",
@@ -275,9 +278,6 @@
     "2024 Semester 1/COMPSCI361 - Machine Learning/k-Means++.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/support vectors.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/rule-based classifiers.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/nearest neighbor(s).md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/hyperplanes.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/hyperplane.md",
     "Untitled.canvas",
     "2023 Semester 1/MKTG151G/Notes",
     "2023 Semester 1/MKTG151G/Lecture Notes",
