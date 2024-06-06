@@ -39,9 +39,9 @@ Given a set of [[training data]] $S = \{ (x^{(1)}, y^{(1)}), \ldots, (x^{(n)}, y
 ## Goal
 FInd $w$, such that [[empirical risk]] is minimized (smallest loss) on all [[training data]]
 $$
-L(w) = \frac{1}{n} \sum_{}^{n} l(y^{(i)}, \hat{y}^{(i)})
+L(w) = \frac{1}{n} \sum_{i} l(y^{(i)}, \hat{y}^{(i)})
 $$
 
 $$
-\hat{y}^{(i)} = \text{sign}(\sum_{j} w_j x_j^{(i)} + b)
+\hat{y}^{(i)} = sign() =\text{sign}(\sum_{j} w_j x_j^{(i)} + b)
 $$
