@@ -10,4 +10,4 @@ The model is trained using a set of input-output pairs, also known as training e
 3. [[Random Forests]]
 4. [[gradient boosting]]
 5. [[Neural Network (NN)]] and others. 
-Some algorithms, like [[Support Vector Machines (SVM)]], are inherently binary classifiers, but can be adapted for [[multi-class classification]] using strategies like one-vs-all or one-vs-one.
+Some algorithms, like [[Support Vector Machines (SVM)]], are inherently binary classifiers, but can be adapted for [[multi-class classification]] using strategies like [[One-vs-One (OVO)]] or [[One-vs-Rest (OVR)]].
