@@ -1,5 +1,4 @@
 ![[Pasted image 20240606164308.png]]
-- The more layers we have the mode
 ## Architecture
 - A two-layer network
 ## [[Activation Function]]
@@ -12,3 +11,8 @@ We sum the inputs being fed into a single neuron
 - $o=g(W^{(2)}h+b^{(2)})$
 $W$ represents the Weight Matrix
 $b$ represents the Bias Term
+
+## Important
+The more layers we have the more $W$ we have
+- the more complex the [[Neural Network (NN)]]
+More neurons = more [[parameters]] $\rightarrow$ 
