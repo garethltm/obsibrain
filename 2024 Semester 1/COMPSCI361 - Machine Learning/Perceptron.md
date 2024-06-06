@@ -38,3 +38,4 @@ $$
 ## Solution
 [[Stochastic Gradient Descent (SGD)]] + chain rule = [[Backpropagation]]
 ## Gradient Descent
+1. Initialize the weights $w=
