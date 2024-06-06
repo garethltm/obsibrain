@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Perceptron.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Support Vector Machines (SVM).md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#compsci361example",
+                "query": "multi-class",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Perceptron.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Support Vector Machines (SVM).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Perceptron.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Support Vector Machines (SVM).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Perceptron.md"
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Support Vector Machines (SVM).md"
               }
             }
           },
@@ -157,7 +157,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Perceptron.md"
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Support Vector Machines (SVM).md"
               }
             }
           },
@@ -183,7 +183,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Perceptron.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Support Vector Machines (SVM).md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -231,9 +231,10 @@
   },
   "active": "3caaeec7dfcecc13",
   "lastOpenFiles": [
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Perceptron.md",
+    "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week01/task(s).md",
     "@images/Pasted image 20240606144848.png",
     "2024 Semester 1/COMPSCI361 - Machine Learning/empirical risk.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Perceptron.md",
     "@images/Pasted image 20240606143408.png",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Activation Function.md",
     "@images/Pasted image 20240606142828.png",
@@ -261,7 +262,6 @@
     "@images/Pasted image 20240606133907.png",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Kernel function.md",
     "@images/Pasted image 20240606133733.png",
-    "@images/Pasted image 20240606133715.png",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Kernel Trick.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Polynomial Kernel.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Non-Linearly Separable Data.md",
