@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/k-Means.md",
+                "file": "conflict-files-obsidian-git.md",
                 "mode": "source",
                 "source": false
               }
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -87,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/k-Means.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/k-Means.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/k-Means.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -157,7 +156,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/k-Means.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -182,7 +181,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/k-Means.md",
+                "file": "conflict-files-obsidian-git.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -227,8 +226,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a6e0090ac9cbd1f3",
+  "active": "c05493f0c87415e1",
   "lastOpenFiles": [
+    "2024 Semester 1/COMPSCI361 - Machine Learning/k-Means.md",
+    "conflict-files-obsidian-git.md",
     "@images/Pasted image 20240605234846.png",
     "@images/Pasted image 20240605234504.png",
     "@images/Pasted image 20240605234454.png",
@@ -248,10 +249,8 @@
     "2024 Semester 1/COMPSCI361 - Machine Learning/Testing Stage (MMH).md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Maximum Margin Hyperplane (MMH).md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/k-Means++.md",
-    "conflict-files-obsidian-git.md",
     "@images/Pasted image 20240605115418.png",
     "@images/Pasted image 20240605115402.png",
-    "@images/Pasted image 20240605115223.png",
     "2024 Semester 1/COMPSCI361 - Machine Learning/support vectors.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/rule-based classifiers.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/nearest neighbor(s).md",
