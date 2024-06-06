@@ -1,3 +1,4 @@
+updates values after looking at each item in the training set to make steps right away
 ## Definition
 Optimisation of the [[parameters]] (weights $w$ and biases $b$) to minimise a cost/[[Loss Function]]/error function
 - #compsci361example the difference between actual value and predicted value

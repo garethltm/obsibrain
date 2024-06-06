@@ -58,3 +58,5 @@ $$
 ![[Pasted image 20240606155952.png]]
 1. [[Batch Gradient Descent (BGD)]]
 2. [[Stochastic Gradient Descent (SGD)]]
+	- small batches of [[training data]] being picked
+	- [[Stochastic Gradient Descent (SGD)]] direction is very jagged compared to [[bgd]]
