@@ -19,3 +19,10 @@ Solve the [[Kernelized Optimization Problem]] by [[Quadratic Programming (QP)]]
 		$$ \vec {w} = \sum_{x_i \in S} \alpha_i y_i \phi(\vec {x_i}) $$$$\vec {b} = \frac{1}{|SV|} \sum_{x_i \in S} y_i - (\vec {w} \cdot \phi(\vec {x_i})) $$
 ##### Testing
 Determine the class label for a test point $\vec {z}$ by using the learned [[Kernelized (SVMs)]] ($\vec {w}$ and $\vec {b}$) with [[support vectors (SV)]]
+$$
+f(\vec {z}) = \text{sign}(\vec{w} \cdot \phi(\vec {z}) + b)
+$$
+
+$$
+= \text{sign}\left(\sum_{x_i \in SV} \alpha_i y_i (\Phi(x_i)^T \cdot \Phi(z)) + b\right)
+$$
