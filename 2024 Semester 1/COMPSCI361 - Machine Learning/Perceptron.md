@@ -43,3 +43,5 @@ $$
 	- For each training example ($x^{(i)},y^{(i)}$)
 	- Compute $\hat {y}^{(i)}$
 	- Compute the derivative of the [[Loss Function]]
+	- Update the weights (only if $\hat {y}^{(i)} \ne y^{(i)}$)
+	- 
