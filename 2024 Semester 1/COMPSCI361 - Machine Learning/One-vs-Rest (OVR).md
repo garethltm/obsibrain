@@ -1,1 +1,1 @@
-Train $m$ [[Support Vector Machines (SVM)]]. Each [[Support Vector Machines (SVM)]] learns to separate 1 cla
+Train $m$ [[Support Vector Machines (SVM)]]. Each [[Support Vector Machines (SVM)]] learns to separate 1 class from the other ones.
