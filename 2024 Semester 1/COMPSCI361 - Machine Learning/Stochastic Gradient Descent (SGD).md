@@ -12,4 +12,6 @@ Optimisation of the [[parameters]] (weights $w$ and biases $b$) to minimise a co
 	1. Start somewhere
 	2. Repeat: Take a step in the [[steepest direction]] (descent)![[Pasted image 20240606151114.png]]
 		![[Pasted image 20240606151447.png]]
-	- $\
+	- $\lambda$: learning rate
+		- [[hyperparameter(s)]] that needs to be chosen carefully
+	1. If too high $\rightarrow$ chance to miss the 
