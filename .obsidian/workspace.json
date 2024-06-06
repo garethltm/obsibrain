@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Backpropagation.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Perceptron Learning.md",
                 "mode": "source",
                 "source": false
               }
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Backpropagation.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Perceptron Learning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Backpropagation.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Perceptron Learning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Backpropagation.md"
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Perceptron Learning.md"
               }
             }
           },
@@ -169,7 +169,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Backpropagation.md"
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Perceptron Learning.md"
               }
             }
           },
@@ -195,7 +195,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Backpropagation.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Perceptron Learning.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -242,6 +242,7 @@
   },
   "active": "4f7be0d124a0c053",
   "lastOpenFiles": [
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Backpropagation.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Neural Network (NN).md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Universal Function Approximation Theorem.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Multiple Hidden Layers.md",

@@ -37,6 +37,7 @@ $$
 	- so that $w$ can be used for all sizes of the dataset
 ## Solution
 [[Stochastic Gradient Descent (SGD)]] + chain rule = [[Backpropagation]]
+
 ## Gradient Descent
 1. Initialize the weights $w=(w_0,w_1,\dots,w_d)$
 2. Repeat

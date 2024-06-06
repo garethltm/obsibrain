@@ -1,7 +1,7 @@
 Going backwards to get gradient
 ## Definition
 Modifications are made in the "backwards" direction
-
+- From the output layer, through each hidden layer down to the 1st hidden layer
 ## Training
 Iteratively process a set of training tuples & compare the network's prediction with the actual known target value
 #### [[Loss Function]]
