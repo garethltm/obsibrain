@@ -2,3 +2,6 @@ A [[Kernel function]] $K$ takes vectors in the original space as inputs, & retur
 $$
 K(\vec x_i,\vec x_j) = \Phi(\vec x_i) \cdot \Phi(\vec x_j)
 $$
+A [[Kernel function]] calculates the similarity between pairs of data points.
+
+Applying the [[Kernel function]] is equivalent to calculating the inner product in the transformed space, but $
