@@ -1,5 +1,5 @@
 ## Definition
-Optimisation of the [[parameters]] (weights $w$ and biases $b$) to minimise a cost/loss/error function
+Optimisation of the [[parameters]] (weights $w$ and biases $b$) to minimise a cost/[[Loss Functions]]/error function
 - #compsci361example the difference between actual value and predicted value
 
 #compsci361example ![[Pasted image 20240606150700.png]]
