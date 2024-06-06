@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "binary clas",
+                "query": "binary classification",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -229,11 +229,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a6e0090ac9cbd1f3",
+  "active": "3c3f78aa3b47f7d9",
   "lastOpenFiles": [
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Supervised Learning Notation.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/binary classification.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Support Vector Machines (SVM).md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/classifier(s).md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Averaging.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/AdaBoost.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/binary classification.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Supervised Learning Notation.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Kernelized (SVMs).md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/decision boundary.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/hyperplane.md",
@@ -264,9 +267,6 @@
     "2024 Semester 1/COMPSCI361 - Machine Learning/Clustering.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Maximum A Posteriori (MAP) Hypothesis.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Maximum Margin Hyperplane (MMH).md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/random events.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Notion of Feature Transformation.md",
-    "conflict-files-obsidian-git.md",
     "Untitled.canvas",
     "2023 Semester 1/MKTG151G/Notes",
     "2023 Semester 1/MKTG151G/Lecture Notes",
