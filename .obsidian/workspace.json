@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "32e6b9881cfce6e2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Regularisation.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -99,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Evaluation strategy.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Regularisation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Evaluation strategy.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Regularisation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Evaluation strategy.md"
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Regularisation.md"
               }
             }
           },
@@ -169,7 +181,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Evaluation strategy.md"
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Regularisation.md"
               }
             }
           },
@@ -195,7 +207,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Evaluation strategy.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Regularisation.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -241,12 +253,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0b8d56ad363b3b3b",
+  "active": "32e6b9881cfce6e2",
   "lastOpenFiles": [
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Evaluation strategy.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Regularisation.md",
+    "@images/Pasted image 20240606235127.png",
     "@images/Pasted image 20240606234956.png",
     "@images/Pasted image 20240606234947.png",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Empirical & iterative process.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Evaluation strategy.md",
     "@images/Pasted image 20240606234602.png",
     "@images/Pasted image 20240606234530.png",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Backpropagation.md",
@@ -255,8 +269,6 @@
     "@images/Pasted image 20240606234130.png",
     "@images/Pasted image 20240606233932.png",
     "@images/Pasted image 20240606233917.png",
-    "@images/Pasted image 20240606233900.png",
-    "@images/Pasted image 20240606233846.png",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Ensemble Clustering.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/empirical risk.md",
     "2024 Semester 1/ACCTG151G - Financial Literacy/Bond price(s).md",
