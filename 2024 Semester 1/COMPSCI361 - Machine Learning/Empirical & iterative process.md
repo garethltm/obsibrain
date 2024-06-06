@@ -8,5 +8,5 @@
 	2. Number of neurons per layer
 	3. [[Activation Function]]
 	4. Learning rate
-	5. Weight initialisation
+	5. Weight [[initialisation]]
 	6. Mini-batch size
