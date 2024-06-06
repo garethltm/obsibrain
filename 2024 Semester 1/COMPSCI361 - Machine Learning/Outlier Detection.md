@@ -6,3 +6,5 @@
 2. [[Interquartile Range Outlier Detection (IQR)]]
 3. [[k-nearest neighbor (kNN)]]
 	- identifies [[Outlier]] as data points whose $K$ [[nearest neighbor(s)]] are far away from there
+		1. Fix a $K$-value
+		2. For each data, find its $K$ - [[nearest neighbor(s)]] and calculate the c
