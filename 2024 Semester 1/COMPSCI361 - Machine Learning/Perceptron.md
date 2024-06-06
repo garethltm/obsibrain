@@ -13,3 +13,5 @@ It is possible to have multiple structures of neurons
 - maps input to output
 - contains [[parameters]] to be learned
 ### [[Activation Function]]
+- to control output of neurons to a certain range
+- Applied to the weighted sum
