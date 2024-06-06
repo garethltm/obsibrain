@@ -9,6 +9,6 @@ $$
 #compsci361example 
 ![[Pasted image 20240606133135.png]]
 ## Bias and Variance
-- a [[Non-Linearly Separable Data]] that trades off between the bias and variance
+- a [[Non-Linearly Separable Data (XOR Data)]] that trades off between the bias and variance
 	![[Pasted image 20240606133907.png]]
 	- based on validation data, we need to try to get a good [[hyperparameter(s)]]
