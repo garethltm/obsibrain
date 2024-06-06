@@ -3,4 +3,11 @@
 ## Architecture
 It is possible to have multiple structures of neurons
 ![[Pasted image 20240606142350.png]]
-- Netwo
+- Network topology
+- Number of units in the input layer
+- Number of hidden layers (if > 1)
+- Number of units in each hidden layer
+- Number of connections between layers
+- Number of units in the output layer
+#### A function
+- maps
