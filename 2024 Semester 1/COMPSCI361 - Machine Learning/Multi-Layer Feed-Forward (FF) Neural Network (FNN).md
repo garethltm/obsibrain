@@ -1,4 +1,6 @@
 ![[Pasted image 20240606164308.png]]
+- The inputs to the network correspond to the attributes measured for each training tuple
+	- Input
 ## Architecture
 - A two-layer [[Neural Network (NN)]]
 ## [[Activation Function]]
