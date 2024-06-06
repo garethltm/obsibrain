@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Non-Linearly Separable Data (XOR Data).md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/XOR Problem.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Non-Linearly Separable Data (XOR Data).md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/XOR Problem.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Non-Linearly Separable Data (XOR Data).md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/XOR Problem.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Non-Linearly Separable Data (XOR Data).md"
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/XOR Problem.md"
               }
             }
           },
@@ -156,7 +156,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Non-Linearly Separable Data (XOR Data).md"
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/XOR Problem.md"
               }
             }
           },
@@ -182,7 +182,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Non-Linearly Separable Data (XOR Data).md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/XOR Problem.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -229,10 +229,12 @@
   },
   "active": "7b779742c2df3e3b",
   "lastOpenFiles": [
+    "@images/Pasted image 20240606173145.png",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Non-Linearly Separable Data (XOR Data).md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/XOR Problem.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Perceptron Learning.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/empirical risk.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Multi-Layer Feed-Forward (FF) Neural Network (FNN).md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Non-Linearly Separable Data (XOR Data).md",
     "2024 Semester 1/ACCTG151G - Financial Literacy/Tech shares.md",
     "2024 Semester 1/ACCTG151G - Financial Literacy/Blue-Chip.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/feed-forward.md",
@@ -263,8 +265,6 @@
     "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week04/Gradient descent.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Backpropagation.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/multi-class classification.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/steepest direction.md",
-    "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week01/Stochastic.md",
     "Untitled.canvas",
     "2023 Semester 1/MKTG151G/Notes",
     "2023 Semester 1/MKTG151G/Lecture Notes",
