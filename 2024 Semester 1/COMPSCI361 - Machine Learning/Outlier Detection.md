@@ -33,4 +33,6 @@
 2. Fraud Detection in Financial Transactions
 	- Applying [[Support Vector Machines (SVM)]] to identify fraudulent transactions that deviate from normal behavior
 3. Quality Control in Manufacturing
-	- Using [[Principal Components Analysis (PCA)]] to
+	- Using [[Principal Components Analysis (PCA)]] to detect defective products by identifying measurements that fall outside normal ranges
+4. Medical Diagnosis
+	- [[Clustering]] can help identify rare diseases by finding patients whose medical records differ significantly from the norm
