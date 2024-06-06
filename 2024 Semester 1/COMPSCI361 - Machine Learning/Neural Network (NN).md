@@ -19,4 +19,5 @@ If you don't have the hidden layers $\rightarrow$ you cannot approximate the non
 ## Disadvantages
 - Long training time
 - Require to empirically determine
-	- #compsci361example 
+	- #compsci361example the network topology or "structure"
+- Difficult to interpret the symbolic meaning behind the learnable weights and hidden units in the network
