@@ -2,9 +2,9 @@
 ## Architecture
 - A two-layer network
 ## [[Activation Function]]
-- Nonlinear transformation
-- [[Sigmoid Function]] transformation
+- $g$ represents the Nonlinear transformation
+	- #compsci361example [[Sigmoid Function]] transformation
 ## Hidden Layer
 We sum the inputs being fed into a single neuron
-- $h=g
+- $h=g(W^{(1)}x+b^{(1)})
 ## Output layer
