@@ -1,4 +1,9 @@
 Simple and popular [[Regularisation]] technic
 ![[Pasted image 20240607004333.png]]
 Learn enough, but not too much
-- a
+- avoid to end up in the high [[variance]] zone
+
+Avoid too much training = lowest [[Validation Error]]
+## When to stop
+1. Monitor the performance on the validation set
+	- Loss on the dev datase
