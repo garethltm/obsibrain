@@ -3,10 +3,7 @@ $$
 k(\vec {x},\vec {z}) = (\vec{x} \cdot \vec{z})^d
 $$
 
-Where:
-$$
-d = 1
-$$
+Where: $d = 1$
 - $d$ = represents the mapping to dimension $d$
 And the transformations are given by:
 
@@ -25,5 +22,4 @@ $$
            x_2^2 
          \end{bmatrix}
 $$
-Where:
-$$ d = 2$$
+Where: $d = 2$
