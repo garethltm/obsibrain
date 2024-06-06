@@ -6,4 +6,7 @@ generate synthetic data
 Pre-processing technic $\rightarrow$ does not modify explicitly the learning algorithm
 - Increases the [[training data]] set size
 - Increases the diversity of the data
-- Especia
+- Especially used with images
+This includes operations like rotating the image, flipping, scaling, adding [[Noise]], etc.
+## However
+this can lead to underfitting if generate
