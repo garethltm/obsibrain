@@ -54,3 +54,5 @@ $$
 3. Until change of $w_j \le \ threshold$
 
 #compsci361example ![[Pasted image 20240606155701.png]]
+## Types of [[Gradient descent]]
+1. [[Batch Gradient Descent (BGD)]]
