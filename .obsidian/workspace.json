@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week01/Stochastic.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Stochastic Gradient Descent (SGD).md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week01/Stochastic.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Stochastic Gradient Descent (SGD).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week01/Stochastic.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Stochastic Gradient Descent (SGD).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week01/Stochastic.md"
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Stochastic Gradient Descent (SGD).md"
               }
             }
           },
@@ -180,7 +180,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week01/Stochastic.md"
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Stochastic Gradient Descent (SGD).md"
               }
             }
           },
@@ -206,7 +206,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week01/Stochastic.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Stochastic Gradient Descent (SGD).md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -254,6 +254,7 @@
   },
   "active": "3caaeec7dfcecc13",
   "lastOpenFiles": [
+    "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week01/Stochastic.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Stochastic Gradient Descent (SGD).md",
     "@images/Pasted image 20240606150822.png",
     "@images/Pasted image 20240606150700.png",
