@@ -12,7 +12,7 @@ $$
 And the transformations are given by:
 
 $$
-\phi(\vec {x}) = \begin{bmatrix} x_1 \\ x_2 \end{bmatrix}, \quad \phi(z) = \begin{bmatrix} z_1 \\ z_2 \end{bmatrix}
+\phi(\vec {x})  \phi(\vec z) = \begin{bmatrix} x_1 \\ x_2 \end{bmatrix} \cdot \begin{bmatrix} z_1 \\ z_2 \end{bmatrix}
 $$
 
 The scalar product resulting from the matrix multiplication is:
