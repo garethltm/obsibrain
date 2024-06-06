@@ -12,5 +12,5 @@ penalises large weight values
 	- Encourages
 ## How does it work?
 1. Calculate the weights size
-	- Sum of the absolute values of the weights $\rightarrow$ $\sum_{i=1}^{N} |w_i|$
+	- L1: Sum of the absolute values of the weights $\rightarrow$ $\sum_{i=1}^{N} |w_i|$
 
