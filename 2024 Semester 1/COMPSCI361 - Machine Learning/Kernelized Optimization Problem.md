@@ -8,4 +8,4 @@ subject to
 $$
 \alpha_i \geq 0 \quad \text{and} \quad \sum_{i=1}^n \alpha_i y_i = 0, \quad i = 1, 2, \ldots, n
 $$
-- Same set of equations as 
+- Same set of equations as [[Dual Optimization Problem]] except that we involve $\Phi (\vec {x})$ in feature space, instead of $\vec {x}$
