@@ -45,7 +45,8 @@ $$
 	- Compute the derivative of the [[Loss Function]]
 	- Update the weights (only if $\hat {y}^{(i)} \ne y^{(i)}$)
 		- $w\leftarrow w - \lambda (derivative\ of\ Hinge Loss)$ 
-		- $w
+		- $w \leftarrow w - \lambda (- y^{(i)} x^{(i))$
+		- 
 		- [[Hinge Loss]]
 		- $k$ represents the iteration number
 		- $\lambda$ represents the learning rate (step size)
