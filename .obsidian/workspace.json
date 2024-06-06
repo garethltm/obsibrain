@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Soft-margin (SVMs).md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Non-Linearly Separable Data.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Soft-margin (SVMs).md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Non-Linearly Separable Data.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Soft-margin (SVMs).md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Non-Linearly Separable Data.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Soft-margin (SVMs).md"
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Non-Linearly Separable Data.md"
               }
             }
           },
@@ -156,7 +156,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Soft-margin (SVMs).md"
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Non-Linearly Separable Data.md"
               }
             }
           },
@@ -182,7 +182,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Soft-margin (SVMs).md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Non-Linearly Separable Data.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -229,6 +229,7 @@
   },
   "active": "a4702aa48b8cc5c9",
   "lastOpenFiles": [
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Soft-margin (SVMs).md",
     "@images/Pasted image 20240606121947.png",
     "conflict-files-obsidian-git.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/k-Means.md",
@@ -252,7 +253,6 @@
     "2024 Semester 1/COMPSCI361 - Machine Learning/Maximum Margin Hyperplane (MMH).md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/k-Means++.md",
     "@images/Pasted image 20240605115418.png",
-    "@images/Pasted image 20240605115402.png",
     "2024 Semester 1/COMPSCI361 - Machine Learning/support vectors.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/rule-based classifiers.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/nearest neighbor(s).md",
@@ -262,7 +262,6 @@
     "2024 Semester 1/COMPSCI361 - Machine Learning/Vonoroi diagram (1-NN).md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Training Stage (MMH).md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Support Vector Machines (SVM).md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Soft-margin (SVMs).md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Real-valued (Regression).md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Quadratic Programming (QP).md",
     "Untitled.canvas",
