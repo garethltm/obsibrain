@@ -44,4 +44,5 @@ Which decision boundaries refer to [[Kernelized (SVMs)]]? (note: [[support vecto
 5. Easy in the form of priors on the data or distributions
 ## Why [[Kernelized (SVMs)]] work?
 ####  Main Reason:
-- It uses nonlinear mapping to transform the original t
+- It uses nonlinear mapping to transform the original [[training data]] into a higher dimension
+With the new dimension, it searches for the linear optimal separating [[hyperplane]] (decision boundary)

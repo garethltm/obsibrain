@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Kernelized (SVMs).md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/hyperplane.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "bias and variance",
+                "query": "decision boundary",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -86,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Kernelized (SVMs).md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/hyperplane.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Kernelized (SVMs).md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/hyperplane.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Kernelized (SVMs).md"
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/hyperplane.md"
               }
             }
           },
@@ -156,7 +157,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Kernelized (SVMs).md"
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/hyperplane.md"
               }
             }
           },
@@ -182,7 +183,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Kernelized (SVMs).md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/hyperplane.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -229,6 +230,7 @@
   },
   "active": "3c3f78aa3b47f7d9",
   "lastOpenFiles": [
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Kernelized (SVMs).md",
     "@images/Pasted image 20240606134110.png",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Soft-margin (SVMs).md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Radial Basis Function (RBF) Kernel.md",
@@ -240,7 +242,6 @@
     "@images/Pasted image 20240606133626.png",
     "@images/Pasted image 20240606133135.png",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Kernel Trick.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Kernelized (SVMs).md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Polynomial Kernel.md",
     "@images/Pasted image 20240606132957.png",
     "@images/Pasted image 20240606130121.png",
@@ -249,7 +250,6 @@
     "2024 Semester 1/COMPSCI361 - Machine Learning/support vectors (SV).md",
     "@images/Pasted image 20240606124149.png",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Kernelized Optimization Problem.md",
-    "@images/Pasted image 20240606123546.png",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Dual Optimization Problem.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Margin Maximization.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Support Vector Machines (SVM).md",
