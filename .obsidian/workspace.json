@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/data augmentation.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Empirical & iterative process.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "regularisation",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -86,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/data augmentation.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Empirical & iterative process.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/data augmentation.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Empirical & iterative process.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/data augmentation.md"
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Empirical & iterative process.md"
               }
             }
           },
@@ -156,7 +157,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/data augmentation.md"
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Empirical & iterative process.md"
               }
             }
           },
@@ -182,7 +183,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/data augmentation.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Empirical & iterative process.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -205,7 +206,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.6380169077455778,
+                  "scale": 0.638016907745578,
                   "close": true
                 }
               }
@@ -230,6 +231,8 @@
   },
   "active": "0b8d56ad363b3b3b",
   "lastOpenFiles": [
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Evaluation strategy.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/data augmentation.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Optimal error rate, Avoidable bias, Variance.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Bias vs Variance tradeoff.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/bias.md",
@@ -240,7 +243,6 @@
     "2024 Semester 1/COMPSCI361 - Machine Learning/High avoidable bias.md",
     "@images/Pasted image 20240607005130.png",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Accuracy.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/data augmentation.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Regularisation.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Early stopping.md",
     "@images/Pasted image 20240607004333.png",
@@ -248,7 +250,6 @@
     "2024 Semester 1/COMPSCI361 - Machine Learning/Dropout.md",
     "@images/Pasted image 20240607003953.png",
     "@images/Pasted image 20240607003942.png",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Evaluation strategy.md",
     "@images/Pasted image 20240607003835.png",
     "2024 Semester 1/COMPSCI361 - Machine Learning/collinear features.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/weight update - regularisation.md",
