@@ -28,6 +28,6 @@ The following holds for all [[proposition(s)]] $a$ & $b$ & $e$:
 	- $P(Sunny\ |\ NotHot)=P(Sunny\land Windy\ |\ NotHot) +P(Sunny\land NotWindy\ |\ NotHot)$
 - $P(a \lor b\ |\ e)=P(a\ |\ e) + P(b\ |\ e)-P(a\land b\ |\ e)$
 	- $-P(a\land b\ |\ e)$: to prevent overcounting the intersection
-- [[Chain Rule]]
+- [[2023 Semester 2/COMPSCI367 - Artificial Intelligence/week10/Chain Rule]]
 - [[Law of total probability]]
 - [[2023 Semester 2/COMPSCI367 - Artificial Intelligence/week10/Bayes Theorem]]
