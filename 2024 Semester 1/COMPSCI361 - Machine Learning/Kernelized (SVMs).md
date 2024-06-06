@@ -39,4 +39,9 @@ Which decision boundaries refer to [[Kernelized (SVMs)]]? (note: [[support vecto
 ## Disadvantages
 1. Long training time
 2. Difficult to understand the learned function (weights)
-3. [[2024 Semester 1/COMPSCI361 - Machine Learning/Bayesian Networks|Bayesian Networks]] can be used easily for pattern discove
+3. [[2024 Semester 1/COMPSCI361 - Machine Learning/Bayesian Networks|Bayesian Networks]] can be used easily for pattern discovery
+4. Not easy to incorporate domain knowledge
+5. Easy in the form of priors on the data or distributions
+## Why [[Kernelized (SVMs)]] work?
+####  Main Reason:
+- It uses nonlinear mapping to transform the original t
