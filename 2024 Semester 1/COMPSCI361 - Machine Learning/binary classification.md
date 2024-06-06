@@ -5,4 +5,9 @@ a binary classification model could be trained to predict whether an email is sp
 
 The model is trained using a set of input-output pairs, also known as training examples. Each training example consists of an input vector (or features) and a desired output value (or label). The model learns a function that maps the input to the output for these training examples. Once the model is trained, it can be used to predict the output for new, unseen inputs.
 
-Common algorithms used for binary classification include logistic regression, support vector machines, decision trees, and neural networks, among others. The choice of algorithm often depends on the specific problem and the nature of the data.
+Common algorithms used for binary classification include:
+1. [[Logistic Regression]]
+2. [[Support Vector Machines (SVM)]]
+3. [[Decision Tree(s)]]
+4. [[Neural Network (NN)]] 
+The choice of algorithm often depends on the specific problem and the nature of the data.
