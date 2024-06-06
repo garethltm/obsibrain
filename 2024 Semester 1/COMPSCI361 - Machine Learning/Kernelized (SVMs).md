@@ -45,6 +45,6 @@ Which decision boundaries refer to [[Kernelized (SVMs)]]? (note: [[support vecto
 ## Why [[Kernelized (SVMs)]] work?
 ####  Main Reason:
 - It uses nonlinear mapping to transform the original [[training data]] into a higher dimension
-		With the new dimension, it searches for the [[decision boundary]]
-		With an appropriate nonlinear mapping to a sufficiently high dimension, data from 2 classes can always be separated by a [[hyperplane]]
-		The [[hyperplane]] discovered based on [[support vectors (SV)]] ("essential" training tuples) and margins
+	1. With the new dimension, it searches for the [[decision boundary]]
+	2. With an appropriate nonlinear mapping to a sufficiently high dimension, data from 2 classes can always be separated by a [[hyperplane]]
+	3. The [[hyperplane]] discovered based on [[support vectors (SV)]] ("essential" training tuples) and margins (defined by the [[support vectors (SV)]])
