@@ -22,4 +22,4 @@ Until stopping criterion is reached
 ![[Pasted image 20240606175452.png]]![[Pasted image 20240606175511.png]]
 ### 1. Initialization of weights (random weight initialization)
 	![[Pasted image 20240606175603.png]]
-### 2.
+### 2. Forw
