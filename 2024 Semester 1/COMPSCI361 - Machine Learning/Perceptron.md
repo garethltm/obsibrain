@@ -13,11 +13,8 @@ It is possible to have multiple structures of neurons
 - maps input to output
 - contains [[parameters]] to be learned
 #### Output
-$$\hat {y}=f($$
-\sum_{j} w_{j}x_{j} + b
-$$
-$$
-### [[Activation Function]]
+$$\hat {y}=f(\sum_{j} w_{j}x_{j} + b)$$
+### [[Activation Function]] $f(\cdot)$
 - to control output of neurons to a certain range
 - Applied to the weighted sum ($\sum_{j} w_{j}x_{j} + b$)
 
