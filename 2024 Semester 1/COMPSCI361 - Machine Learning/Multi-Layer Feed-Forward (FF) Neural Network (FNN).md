@@ -4,13 +4,15 @@
 - The number of ***Hidden Layer*** is arbitrary
 	- you can define the number of black neurons
 - The network is [[feed-forward]]
+
 Every node in a ***Hidden Layer*** operates on activations preceding layer & transmits activations forward to nodes of next layer
 $$h=g(W^{(1)}x+b^{(1)})$$
 - $h$ represents the activation value
 - $g$ represents the [[Activation Function]]
 - $(W^{(1)}x+b^{(1)})$ represents the Linear Predictor
 Each neuron, we need to define the [[Activation Function]]
-Make sure to [[normaliz]]
+**NOTE**: Make sure [[Normalization]] ovvu
+
 Networks perform non-[[Linear Regression]]:
 - Given enough units & enough training samples, they can closely approximate any [[Continuous Space (Continuous Functions)]]
 	- ([[Neural Network (NN)]] is an universal approximator)
