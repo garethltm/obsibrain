@@ -11,7 +11,8 @@
 	5. Weight [[initialisation]]
 	6. Mini-batch size
 ## Design issues:
-1. [[Regularisation]]
-2. [[initialisation]]
-3. [[learning rate]]
-4. [[Vanishing gradients and Exploding gradients]]
+1. [[Evaluation strategy]]
+2. [[Regularisation]]
+3. [[initialisation]]
+4. [[learning rate]]
+5. [[Vanishing Gradient Problem]]
