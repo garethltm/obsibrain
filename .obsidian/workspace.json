@@ -205,7 +205,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 1.3737564438318801,
+                  "scale": 1.1680817509038262,
                   "close": true
                 }
               }
@@ -229,10 +229,11 @@
   },
   "active": "7b779742c2df3e3b",
   "lastOpenFiles": [
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Activation Function.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Perceptron Learning.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/XOR Problem.md",
     "@images/Pasted image 20240606173145.png",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Non-Linearly Separable Data (XOR Data).md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/XOR Problem.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Perceptron Learning.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/empirical risk.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Multi-Layer Feed-Forward (FF) Neural Network (FNN).md",
     "2024 Semester 1/ACCTG151G - Financial Literacy/Tech shares.md",
@@ -249,7 +250,6 @@
     "2024 Semester 1/COMPSCI361 - Machine Learning/Logistic Regression.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Stochastic Gradient Descent (SGD).md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Loss Function.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Activation Function.md",
     "@images/Pasted image 20240606161757.png",
     "@images/Pasted image 20240606161528.png",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Untitled 1.md",
@@ -259,7 +259,6 @@
     "@images/Pasted image 20240606160203.png",
     "@images/Pasted image 20240606155952.png",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Batch Gradient Descent (BGD).md",
-    "@images/Pasted image 20240606155701.png",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Weight Update Formula.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Hinge Loss.md",
     "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week04/Gradient descent.md",
