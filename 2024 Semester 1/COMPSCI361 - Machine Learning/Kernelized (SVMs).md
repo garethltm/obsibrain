@@ -11,3 +11,4 @@ $\Phi(\cdot)$: Transform the original input data into a higher dimensional space
 - We can use a [[Hard-margin (SVMs)]] to derive a [[hyperplane]]
 #### Search for a Linearly Separating [[hyperplane]]
 1. [[Dual Optimization Problem]]
+2. [[Kernelized Optimization Problem]]

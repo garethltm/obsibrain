@@ -32,12 +32,12 @@
             }
           },
           {
-            "id": "eacff2b4b2523e6d",
+            "id": "849d0cf0b6c12632",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Dual Optimization Problem.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Kernelized Optimization Problem.md",
                 "mode": "source",
                 "source": false
               }
@@ -111,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Dual Optimization Problem.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Kernelized Optimization Problem.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Dual Optimization Problem.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Kernelized Optimization Problem.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Dual Optimization Problem.md"
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Kernelized Optimization Problem.md"
               }
             }
           },
@@ -181,7 +181,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Dual Optimization Problem.md"
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Kernelized Optimization Problem.md"
               }
             }
           },
@@ -207,7 +207,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Dual Optimization Problem.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Kernelized Optimization Problem.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -252,9 +252,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "eacff2b4b2523e6d",
+  "active": "849d0cf0b6c12632",
   "lastOpenFiles": [
+    "@images/Pasted image 20240606123546.png",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Kernelized (SVMs).md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Kernelized Optimization Problem.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Dual Optimization Problem.md",
     "@images/Pasted image 20240606123251.png",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Margin Maximization.md",
@@ -288,8 +290,6 @@
     "2024 Semester 1/COMPSCI361 - Machine Learning/Single-Linkage.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Complete Linkage.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Testing Stage (MMH).md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/k-Means++.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/support vectors.md",
     "Untitled.canvas",
     "2023 Semester 1/MKTG151G/Notes",
     "2023 Semester 1/MKTG151G/Lecture Notes",
