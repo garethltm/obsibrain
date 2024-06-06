@@ -15,4 +15,6 @@ Make sure dev and test sets come from the same distribution
 Very common problem with [[Deep Learning (DL)]]: [[overfit(ting)]]![[Pasted image 20240606235127.png]]
 - [[Regularisation]]
 	- Reduces the [[variance]], but increases the [[bias]]
-### How does [[Regularisation]] help avoid 
+### How does [[Regularisation]] help avoid [[overfit(ting)]]?
+1. First intuition:
+	- #compsci361example [[L1 & L2 regularisation]] 
