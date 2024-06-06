@@ -25,18 +25,6 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Evaluation strategy.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "32e6b9881cfce6e2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Regularisation.md",
                 "mode": "source",
                 "source": false
@@ -44,7 +32,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -253,7 +241,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "32e6b9881cfce6e2",
+  "active": "0b8d56ad363b3b3b",
   "lastOpenFiles": [
     "2024 Semester 1/COMPSCI361 - Machine Learning/Evaluation strategy.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Regularisation.md",

@@ -14,3 +14,4 @@ Make sure dev and test sets come from the same distribution
 ### How to improve learning? [[overfit(ting)]]
 Very common problem with [[Deep Learning (DL)]]: [[overfit(ting)]]![[Pasted image 20240606235127.png]]
 - [[Regularisation]]
+	- Reduces the [[variance]], but increases the [[bias]]
