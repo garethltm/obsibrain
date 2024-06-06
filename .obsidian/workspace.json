@@ -11,12 +11,8 @@
             "id": "3caaeec7dfcecc13",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Perceptron Learning.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -86,7 +82,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Perceptron Learning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +98,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Perceptron Learning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,9 +119,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Perceptron Learning.md"
-              }
+              "state": {}
             }
           },
           {
@@ -155,9 +147,7 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Perceptron Learning.md"
-              }
+              "state": {}
             }
           },
           {
@@ -182,7 +172,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Perceptron Learning.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -230,7 +219,10 @@
   },
   "active": "3caaeec7dfcecc13",
   "lastOpenFiles": [
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Untitled.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Untitled 1.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Artificial Neural Networks (ANN).md",
+    "@images/Pasted image 20240606161423.png",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Perceptron Learning.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/training data.md",
     "@images/Pasted image 20240606160226.png",
@@ -253,8 +245,6 @@
     "@images/Pasted image 20240606151114.png",
     "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week01/Stochastic.md",
     "@images/Pasted image 20240606150822.png",
-    "@images/Pasted image 20240606150700.png",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Untitled.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/classification.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Regression.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Support Vector Machines (SVM).md",
@@ -265,7 +255,6 @@
     "2024 Semester 1/COMPSCI361 - Machine Learning/One-vs-Rest (OVR).md",
     "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week01/Discrete.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Discrete-valued (Classification).md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/classifier(s).md",
     "Untitled.canvas",
     "2023 Semester 1/MKTG151G/Notes",
     "2023 Semester 1/MKTG151G/Lecture Notes",
