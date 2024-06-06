@@ -11,14 +11,12 @@ penalises large weight values
 	- a "weight shrinkage" or a "penalty against complexity"
 	- Encourages
 ## How does it work?
-L1 norm ([[Manhattan distance]] norm):
-  - Denoted as: $$||\mathbf{w}||_1$$
-  - Formula: $$||\mathbf{w}||_1 = |w_1| + |w_2| + \ldots + |w_N|$$
+### L1 and L2 norms
 
-L2 norm (Euclidean norm):
+$$ \| \mathbf{w} \|_1 = |w_1| + |w_2| + \dots + |w_N| \]
 
-- Denoted as: $$||\mathbf{w}||_2$$
-- Formula: $$||\mathbf{w}||_2 = \sqrt{w_1^2 + w_2^2 + \ldots + w_N^2}$$
+\[ \| \mathbf{w} \|_2 = \left( |w_1|^2 + |w_2|^2 + \dots + |w_N|^2 \right)^{\frac{1}{2}} \]
+
 
 
 1. Calculate the weights size
