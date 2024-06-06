@@ -21,3 +21,5 @@
 	- **Advantages**: Does not require labeled data, can detect groups of [[Outlier]]
 	- **Disadvantages**: Choice of [[Clustering]] [[parameters]] can significantly affect results, may struggle with high-dimensional data
 	- #compsci361example [[DBSCAN]] identifies [[Outlier]] as points that are in low-density regions
+7. [[Principal Components Analysis (PCA)]]
+	- reduces the dimensionality of data while preserving [[variance]]. [[Outlier]] can be identified by looking at the principal components and detecting points
