@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Support Vector Machines (SVM).md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/binary classification.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Support Vector Machines (SVM).md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/binary classification.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Support Vector Machines (SVM).md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/binary classification.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Support Vector Machines (SVM).md"
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/binary classification.md"
               }
             }
           },
@@ -156,7 +156,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Support Vector Machines (SVM).md"
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/binary classification.md"
               }
             }
           },
@@ -182,7 +182,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Support Vector Machines (SVM).md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/binary classification.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -215,7 +215,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 307.5
+    "width": 307.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -229,6 +230,9 @@
   },
   "active": "3c3f78aa3b47f7d9",
   "lastOpenFiles": [
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Supervised Learning Notation.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/binary classification.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Support Vector Machines (SVM).md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Kernelized (SVMs).md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/decision boundary.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/hyperplane.md",
@@ -253,7 +257,6 @@
     "2024 Semester 1/COMPSCI361 - Machine Learning/Kernelized Optimization Problem.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Dual Optimization Problem.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Margin Maximization.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Support Vector Machines (SVM).md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Hard-margin (SVMs).md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/k-nearest neighbor (kNN).md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Bayesian Networks.md",
@@ -263,8 +266,6 @@
     "2024 Semester 1/COMPSCI361 - Machine Learning/random events.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Notion of Feature Transformation.md",
     "conflict-files-obsidian-git.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/k-Means.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Slack Variables.md",
     "Untitled.canvas",
     "2023 Semester 1/MKTG151G/Notes",
     "2023 Semester 1/MKTG151G/Lecture Notes",
