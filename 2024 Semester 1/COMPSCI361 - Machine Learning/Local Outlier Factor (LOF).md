@@ -3,4 +3,6 @@ an efficient way to perform [[Outlier Detection]] on moderately high dimensional
 
 [[Local Outlier Factor (LOF)]] computes a score (local outlier factor) reflecting the degree of abnormality of the observations. It measures the local density deviation of a given data point with respect to its neighbors.
 ## Idea
-to detect the samples wit
+to detect the samples that have a substantially lower density than their neighbors
+## In practice
+the local density is obtained from the [[k-nearest neighbor (kNN)]] (cumulative distance of $K$ neighbors).
