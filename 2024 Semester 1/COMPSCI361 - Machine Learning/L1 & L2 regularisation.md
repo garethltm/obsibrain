@@ -4,7 +4,7 @@ penalises large weight values
 ## Why use it?
 - Penalises/constraints the weight values towards 0
 	- a "weight shrinkage" or a "penalty against complexity"
-	- E
+	- Encourages simpler models
 #### Purpose of Regularisation
 - Large weights:
 	- are characteristic of more complex models (higher learning time)
