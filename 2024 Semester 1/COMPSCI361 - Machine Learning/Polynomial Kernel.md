@@ -8,7 +8,7 @@ Where:
 $$
 d = 1
 $$
-
+- $d$ = represents the mappin
 And the transformations are given by:
 
 $$
