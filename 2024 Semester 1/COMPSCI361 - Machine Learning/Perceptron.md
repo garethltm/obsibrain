@@ -45,3 +45,7 @@ $$
 \hat{y}^{(i)} = sign(x^{(i)},w) =\text{sign}(\sum_{j} w_j x_j^{(i)} + b)
 $$
 - this is used to make a prediction [-1, 1]
+- $n$ represents [[Normalization]], this is used to organize for all $n$
+	- so that $w$ can be used for all sizes of the dataset
+## Solution
+Stocastic gr
