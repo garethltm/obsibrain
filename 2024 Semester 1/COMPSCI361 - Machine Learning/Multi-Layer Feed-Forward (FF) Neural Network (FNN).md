@@ -1,13 +1,15 @@
 ![[Pasted image 20240606164308.png]]
 - The inputs to the network correspond to the attributes measured for each training tuple
-	- Inputs are then weighted and fed simultaneously to a **Hidden Layer**
-- The number of **
+	- Inputs are then weighted and fed simultaneously to a ***Hidden Layer***
+- The number of ***Hidden Layer*** is arbitrary
+	- you can define the number of black neurons
+- The network is [[feed-forward]]
 ## Architecture
 - A two-layer [[Neural Network (NN)]]
 ## [[Activation Function]]
 - $g$ represents the Nonlinear transformation
 	- #compsci361example [[Sigmoid Function]] transformation
-## Hidden Layer
+## *Hidden Layer*
 We sum the inputs being fed into a single neuron
 - $h=g(W^{(1)}x+b^{(1)})$
 ## Output layer
