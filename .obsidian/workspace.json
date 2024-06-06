@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "0b8d56ad363b3b3b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Evaluation strategy.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Empirical & iterative process.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Evaluation strategy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Empirical & iterative process.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Evaluation strategy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Empirical & iterative process.md"
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Evaluation strategy.md"
               }
             }
           },
@@ -156,7 +169,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Empirical & iterative process.md"
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Evaluation strategy.md"
               }
             }
           },
@@ -182,7 +195,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Empirical & iterative process.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Evaluation strategy.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -228,10 +241,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6910057bf555cd84",
+  "active": "0b8d56ad363b3b3b",
   "lastOpenFiles": [
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Backpropagation.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Empirical & iterative process.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Evaluation strategy.md",
+    "@images/Pasted image 20240606234530.png",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Backpropagation.md",
     "@images/Pasted image 20240606234300.png",
     "@images/Pasted image 20240606234223.png",
     "@images/Pasted image 20240606234130.png",
@@ -241,7 +256,6 @@
     "@images/Pasted image 20240606233846.png",
     "@images/Pasted image 20240606233810.png",
     "@images/Pasted image 20240606233757.png",
-    "@images/Pasted image 20240606233718.png",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Ensemble Clustering.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/empirical risk.md",
     "2024 Semester 1/ACCTG151G - Financial Literacy/Bond price(s).md",
@@ -266,7 +280,6 @@
     "2024 Semester 1/COMPSCI361 - Machine Learning/nearest neighbor(s).md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/k-nearest neighbor (kNN).md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/hyperplanes.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/hyperplane.md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Untitled",
     "2024 Semester 1",
