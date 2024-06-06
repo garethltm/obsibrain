@@ -53,4 +53,6 @@ $$
 3. Until change of $w_j \le \ threshold$
 #### Weight Update Formula
 $$w\leftarrow w + \lambda ( y^{(i)} x^{(i)})$$
-- [[Perceptron Learning]] finds [[decision boundary]] if
+- [[Perceptron Learning]] finds [[decision boundary]] if classes are [[Linearly Separable Data]]
+- Intuition for updating weight based on error over one sample:
+	1. If 
