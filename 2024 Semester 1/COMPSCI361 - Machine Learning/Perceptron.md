@@ -17,4 +17,7 @@ $$\hat {y}=f(\sum_{j} w_{j}x_{j} + b)$$
 ### [[Activation Function]] $f(\cdot)$
 - to control output of neurons to a certain range
 - Applied to the weighted sum ($\sum_{j} w_{j}x_{j} + b$)
-
+	#compsci361example ![[Pasted image 20240606143408.png]]
+### Loss Functions
+#### Goal
+Quantify the diffferences 

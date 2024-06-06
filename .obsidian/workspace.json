@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "binary classification",
+                "query": "tag:#compsci361example",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -228,8 +229,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3caaeec7dfcecc13",
+  "active": "a6e0090ac9cbd1f3",
   "lastOpenFiles": [
+    "@images/Pasted image 20240606143408.png",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Activation Function.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Perceptron.md",
     "@images/Pasted image 20240606142828.png",
