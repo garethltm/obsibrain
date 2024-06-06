@@ -9,3 +9,6 @@ For each training tuple, the weights are modified to minimize the loss between t
 - we compare the differences of the output of the [[Neural Network (NN)]] with the target labels
 - adjust weight to minimize [[Loss Function]]
 - [[empirical risk]] for all [[training data]]
+## Steps
+Random 
+For each training instance:
