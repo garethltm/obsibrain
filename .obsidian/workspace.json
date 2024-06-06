@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Perceptron.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/multi-class classification.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/multi-class.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/multi-class classification.md",
                 "mode": "source",
                 "source": false
               }
@@ -60,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "multi-class",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Perceptron.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/multi-class classification.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Perceptron.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/multi-class classification.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Perceptron.md"
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/multi-class classification.md"
               }
             }
           },
@@ -168,7 +168,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Perceptron.md"
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/multi-class classification.md"
               }
             }
           },
@@ -194,7 +194,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Perceptron.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/multi-class classification.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -242,9 +242,10 @@
   },
   "active": "3caaeec7dfcecc13",
   "lastOpenFiles": [
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Support Vector Machines (SVM).md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/multi-class.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/binary classification.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/multi-class classification.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Perceptron.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Support Vector Machines (SVM).md",
     "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week01/task(s).md",
     "@images/Pasted image 20240606144848.png",
     "2024 Semester 1/COMPSCI361 - Machine Learning/empirical risk.md",
@@ -257,7 +258,6 @@
     "2024 Semester 1/COMPSCI361 - Machine Learning/One-vs-One (OVO).md",
     "@images/Pasted image 20240606140051.png",
     "2024 Semester 1/COMPSCI361 - Machine Learning/One-vs-Rest (OVR).md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/binary classification.md",
     "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week01/Discrete.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Discrete-valued (Classification).md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/classifier(s).md",

@@ -34,5 +34,5 @@ Quantify the differences of outputs compared with labels (target)
 #compsci361example ![[Pasted image 20240606144848.png]]
 ## Optimisation
 Given a set of [[training data]] $S = \{ (x^{(1)}, y^{(1)}), \ldots, (x^{(n)}, y^{(n)}) \}$
-- $y^{(i)}$ is categorical: [[classification]] task ([[multi-class]] or binary)
+- $y^{(i)}$ is categorical: [[classification]] task ([[multi-class classification]] or binary)
 - 
