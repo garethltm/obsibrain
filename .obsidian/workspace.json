@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "4f7be0d124a0c053",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Universal Function Approximation Theorem.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/XOR Problem.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Universal Function Approximation Theorem.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/XOR Problem.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Universal Function Approximation Theorem.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/XOR Problem.md"
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Universal Function Approximation Theorem.md"
               }
             }
           },
@@ -156,7 +169,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/XOR Problem.md"
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Universal Function Approximation Theorem.md"
               }
             }
           },
@@ -182,7 +195,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/XOR Problem.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Universal Function Approximation Theorem.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -227,11 +240,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7b779742c2df3e3b",
+  "active": "4f7be0d124a0c053",
   "lastOpenFiles": [
+    "2024 Semester 1/COMPSCI361 - Machine Learning/XOR Problem.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Universal Function Approximation Theorem.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Activation Function.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Perceptron Learning.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/XOR Problem.md",
     "@images/Pasted image 20240606173145.png",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Non-Linearly Separable Data (XOR Data).md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/empirical risk.md",
