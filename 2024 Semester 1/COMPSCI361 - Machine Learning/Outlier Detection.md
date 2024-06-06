@@ -29,4 +29,8 @@
 8. [[Scatter Plot]]
 ## Where to use [[Outlier Detection]]?
 1. Anomaly Detection in Network Traffic
-	- Using [[k-nearest neighbor (kNN)]] or [[Clustering]] to detect unusual patterns that may indicate security bre
+	- Using [[k-nearest neighbor (kNN)]] or [[Clustering]] to detect unusual patterns that may indicate security breaches
+2. Fraud Detection in Financial Transactions
+	- Applying [[Support Vector Machines (SVM)]] to identify fraudulent transactions that deviate from normal behavior
+3. Quality Control in Manufacturing
+	- Using [[Principal Components Analysis (PCA)]] to
