@@ -20,6 +20,7 @@ L2 norm (Euclidean norm):
 - Denoted as: $$||\mathbf{w}||_2$$
 - Formula: $$||\mathbf{w}||_2 = \sqrt{w_1^2 + w_2^2 + \ldots + w_N^2}$$
 
+
 1. Calculate the weights size
 	- L1: Sum of the absolute values of the weights $\rightarrow$ $\sum_{i=1}^{N} |w_i|$
 	- L2: Sum of the squared values of the weights $\rightarrow$ $\sum_{i=1}^{N} {w_i}^2$
