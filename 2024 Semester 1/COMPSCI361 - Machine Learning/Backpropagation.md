@@ -29,4 +29,6 @@ Until stopping criterion is reached
 	![[Pasted image 20240606233338.png]]
 ### 4. [[Backpropagation]] (output layout)
 	![[Pasted image 20240606233459.png]]![[Pasted image 20240606233511.png]]
-		Checking how each weight influences the error $\rightarro
+		- [[2024 Semester 1/COMPSCI361 - Machine Learning/chain rule|chain rule]]
+		Checking how each weight influences the error $\rightarrow$ inclusive offset values
+	![[Pasted image 20240606233647.png]]
