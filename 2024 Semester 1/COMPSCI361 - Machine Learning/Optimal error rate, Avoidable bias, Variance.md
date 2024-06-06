@@ -5,6 +5,6 @@
 	- Can be hard to estimate
 2. Avoidable bias
 	- If we keep the training long enough, [[training error]] would always decrease
-	- [[training error]] - [[Optimal]] error rate
-3. [[variance]]
-	- dev error - [[training error]]
+	- $Training\ Error - Optimal\ Error\ Rate$
+1. [[variance]]
+	- $Dev\ Error - 
