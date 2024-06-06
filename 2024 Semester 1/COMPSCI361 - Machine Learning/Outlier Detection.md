@@ -1,4 +1,4 @@
 
 ## Why study the [[Outlier Detection]]?
 - To ensure that the trained model generalizes well to valid range of test inputs, it's important to detect and remove [[Outlier]]
-- In the 
+- In the [[Machine Learning (ML)]] pipeline, [[Data cleaning]] and [[Data Preprocessing]] is an important step as it helps you better understand the data. During this step, you deal with [[Incomplete (Missing) Data]], detect [[Outlier]] and more.
