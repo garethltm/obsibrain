@@ -1,7 +1,10 @@
 ![[Pasted image 20240607005130.png]]
 1. Optimal error rate
-	- Error rate of an [[Optimal]] [[classifier(s)]] 
+	- Error rate of an [[Optimal]] [[classifier(s)]] (there will always be some irreducible error)
 		- #compsci361example human performance
 	- Can be hard to estimate
 2. Avoidable bias
 	- If we keep the training long enough, [[training error]] would always decrease
+	- [[training error]] - [[Optimal]] error rate
+3. [[variance]]
+	- dev error - [[training error]]
