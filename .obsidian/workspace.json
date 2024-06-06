@@ -11,8 +11,12 @@
             "id": "a4702aa48b8cc5c9",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Soft-margin (SVMs).md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -82,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Soft-margin (SVMs).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Soft-margin (SVMs).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Soft-margin (SVMs).md"
+              }
             }
           },
           {
@@ -147,7 +155,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {}
+              "state": {
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Soft-margin (SVMs).md"
+              }
             }
           },
           {
@@ -158,7 +168,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 7
       },
       {
         "id": "aca6307e70cdfa79",
@@ -171,6 +182,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Soft-margin (SVMs).md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
