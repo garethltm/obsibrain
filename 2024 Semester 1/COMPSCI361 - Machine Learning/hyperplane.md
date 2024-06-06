@@ -1,1 +1,1 @@
-linear decision boundary to separate the 2 classes
+linear [[decision boundary]] to separate the 2 classes
