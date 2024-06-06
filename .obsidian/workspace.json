@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "5ff7be203de99c0f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Local Outlier Factor (LOF).md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Outlier Detection.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Local Outlier Factor (LOF).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Outlier Detection.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Local Outlier Factor (LOF).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Outlier Detection.md"
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Local Outlier Factor (LOF).md"
               }
             }
           },
@@ -156,7 +169,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Outlier Detection.md"
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Local Outlier Factor (LOF).md"
               }
             }
           },
@@ -182,7 +195,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Outlier Detection.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Local Outlier Factor (LOF).md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -228,12 +241,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6d6b535e8fbc7be3",
+  "active": "5ff7be203de99c0f",
   "lastOpenFiles": [
+    "@images/Pasted image 20240607014820.png",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Outlier Detection.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Local Outlier Factor (LOF).md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Interquartile Range Outlier Detection (IQR).md",
     "@images/Pasted image 20240607014406.png",
     "@images/Pasted image 20240607014247.png",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Outlier Detection.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Z-score outlier detection.md",
     "@images/Pasted image 20240607013535.png",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Outlier.md",
@@ -261,7 +276,6 @@
     "@images/Pasted image 20240607005130.png",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Accuracy.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Regularisation.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Early stopping.md",
     "@images/Pasted image 20240607004333.png",
     "@images/Pasted image 20240607003953.png",
     "@images/Pasted image 20240607003942.png",

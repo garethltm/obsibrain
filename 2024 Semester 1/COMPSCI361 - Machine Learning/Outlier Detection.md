@@ -10,4 +10,4 @@
 		2. For each data, find its $K$ - [[nearest neighbor(s)]] and calculate the cumulative distance of this data to all $K$ neighbors
 		3. Ranking all data according to their cumulative distances
 		4. Treat the data points as [[Outlier]] whose $K$ [[nearest neighbor(s)]] are far away from them
-4. 
+4. [[Local Outlier Factor (LOF)]]
