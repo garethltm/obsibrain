@@ -9,4 +9,6 @@ caused by multiplying values ([[2024 Semester 1/COMPSCI361 - Machine Learning/ch
 	([[2024 Semester 1/COMPSCI361 - Machine Learning/chain rule|chain rule]])
 	If $g'()$ is close to 0, then the value of the [[gradient]] comes smaller and smaller as [[Backpropagation]] processes back to the initial layers (significant for large [[Neural Network (NN)]])
 ## 2. Exploding gradients (>1)
-Gra
+can become exponentially large if term is larger than 1
+**Gradients become larger and large as [[Backpropagation]] progresses**
+- Learning can become unstable (large weights update) and diverge
