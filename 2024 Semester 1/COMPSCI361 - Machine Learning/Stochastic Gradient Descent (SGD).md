@@ -10,4 +10,4 @@ Optimisation of the [[parameters]] (weights $w$ and biases $b$) to minimise a co
 - #compsci361example ![[Pasted image 20240606150822.png]]
 ## Idea
 1. Start somewhere
-2. Repeat: Take a step in the steepest direction![[Pasted image 20240606151114.png]]
+2. Repeat: Take a step in the [[steepest direction]] (descent)![[Pasted image 20240606151114.png]]
