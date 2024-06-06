@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Perceptron.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Activation Function.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Perceptron.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Activation Function.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Perceptron.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Activation Function.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Perceptron.md"
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Activation Function.md"
               }
             }
           },
@@ -156,7 +156,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Perceptron.md"
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Activation Function.md"
               }
             }
           },
@@ -182,7 +182,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Perceptron.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Activation Function.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -230,10 +230,10 @@
   },
   "active": "3caaeec7dfcecc13",
   "lastOpenFiles": [
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Perceptron.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Activation Function.md",
     "@images/Pasted image 20240606142828.png",
     "@images/Pasted image 20240606142805.png",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Perceptron.md",
     "@images/Pasted image 20240606142350.png",
     "@images/Pasted image 20240606142249.png",
     "2024 Semester 1/COMPSCI361 - Machine Learning/One-vs-One (OVO).md",

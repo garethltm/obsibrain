@@ -14,7 +14,5 @@ It is possible to have multiple structures of neurons
 - contains [[parameters]] to be learned
 ### [[Activation Function]]
 - to control output of neurons to a certain range
-- Applied to the weighted sum$
-\sum_{j} w_{j}x_{j} + b
-$$
+- Applied to the weighted sum ($\sum_{j} w_{j}x_{j} + b$)
 
