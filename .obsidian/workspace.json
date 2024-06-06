@@ -32,12 +32,12 @@
             }
           },
           {
-            "id": "c169b3a1f720a61f",
+            "id": "53ed6ccb3503c7a6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/High avoidable bias.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/High variance.md",
                 "mode": "source",
                 "source": false
               }
@@ -111,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/High avoidable bias.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/High variance.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/High avoidable bias.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/High variance.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/High avoidable bias.md"
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/High variance.md"
               }
             }
           },
@@ -181,7 +181,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/High avoidable bias.md"
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/High variance.md"
               }
             }
           },
@@ -207,7 +207,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/High avoidable bias.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/High variance.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -253,9 +253,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c169b3a1f720a61f",
+  "active": "53ed6ccb3503c7a6",
   "lastOpenFiles": [
     "2024 Semester 1/COMPSCI361 - Machine Learning/Simplest formula to address variance & bias issues.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/High variance.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/High avoidable bias.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Optimal error rate, Avoidable bias, Variance.md",
     "@images/Pasted image 20240607005130.png",
@@ -290,7 +291,6 @@
     "2024 Semester 1/COMPSCI361 - Machine Learning/Artificial Neural Networks (ANN).md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Activation Function.md",
     "2024 Semester 1/ACCTG151G - Financial Literacy/yield to maturity (YTM).md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Soft-margin (SVMs).md",
     "Untitled.canvas",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Untitled",
