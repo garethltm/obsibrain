@@ -63,8 +63,10 @@ $$
 	- [[Stochastic Gradient Descent (SGD)]] direction is very jagged compared to [[Batch Gradient Descent (BGD)]] or mini-batch
 ## Summary
 
-|                       | [[Batch Gradient Descent (BGD)]]                                                                                                         | [[Stochastic Gradient Descent (SGD)]]                                    |
-| --------------------- | ---------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------ |
-| **algorithm**         | computes the gradient of the cost function with respect to the model [[parameters]] using the entire [[training data]] in each iteration | computes the gradient using a small subset of examples in each iteration |
-| **Convergence Speed** |                                                                                                                                          |                                                                          |
-| C                     |                                                                                                                                          |                                                                          |
+|                                          | [[Batch Gradient Descent (BGD)]]                                                                                                         | [[Stochastic Gradient Descent (SGD)]]                                    |
+| ---------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------ |
+| **Algorithm**                            | Computes the gradient of the cost function with respect to the model [[parameters]] using the entire [[training data]] in each iteration | Computes the gradient using a small subset of examples in each iteration |
+| **Convergence Speed**                    | t                                                                                                                                        |                                                                          |
+| **Convergence Accuracy**                 |                                                                                                                                          |                                                                          |
+| **Computation & Memory Requirements**    |                                                                                                                                          |                                                                          |
+| **Optimization of Non-Convex Functions** |                                                                                                                                          |                                                                          |
