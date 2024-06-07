@@ -11,8 +11,12 @@
             "id": "605336dc6c4edf6f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Hierarchical Clustering.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -44,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "agglo",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -83,6 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Hierarchical Clustering.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,6 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Hierarchical Clustering.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -120,7 +126,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Hierarchical Clustering.md"
+              }
             }
           },
           {
@@ -148,7 +156,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {}
+              "state": {
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Hierarchical Clustering.md"
+              }
             }
           },
           {
@@ -173,6 +183,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Hierarchical Clustering.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
