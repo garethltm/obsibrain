@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "05ec2c66a0494185",
+        "id": "f6b41c004def8556",
         "type": "tabs",
         "children": [
           {
-            "id": "dc57dd4d484b925b",
+            "id": "605336dc6c4edf6f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -87,7 +83,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +99,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,9 +120,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "conflict-files-obsidian-git.md"
-              }
+              "state": {}
             }
           },
           {
@@ -156,9 +148,7 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "conflict-files-obsidian-git.md"
-              }
+              "state": {}
             }
           },
           {
@@ -183,7 +173,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -228,7 +217,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "dc57dd4d484b925b",
+  "active": "605336dc6c4edf6f",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
     "@images/Pasted image 20240607020103.png",
