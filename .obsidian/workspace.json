@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "3fed5240c5e9af4d",
+        "id": "05ec2c66a0494185",
         "type": "tabs",
         "children": [
           {
-            "id": "4fddafdb57c7dcba",
+            "id": "dc57dd4d484b925b",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -61,7 +61,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -216,8 +217,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4fddafdb57c7dcba",
+  "active": "dc57dd4d484b925b",
   "lastOpenFiles": [
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Regularized Regression Trees.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/L2-regularization.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Backpropagation.md",
     "@images/Pasted image 20240606175603.png",
     "@images/Pasted image 20240606175511.png",
@@ -252,7 +255,6 @@
     "2024 Semester 1/COMPSCI361 - Machine Learning/Stochastic Gradient Descent (SGD).md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Loss Function.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Untitled 1.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/training data.md",
     "Untitled.canvas",
     "2023 Semester 1/MKTG151G/Notes",
     "2023 Semester 1/MKTG151G/Lecture Notes",
