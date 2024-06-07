@@ -13,5 +13,5 @@ $$l = -(y \ln(p) + (1 - y) \ln(1 - p))$$
 ## Optimisation
 For a misclassified or barely correct [[training data]] point ($x^{(i)},y^{(i)}$)
 $$w\leftarrow w + \lambda (y^{(i)} -\hat {y}^{(i)} )x^{(i)}$$
-- $\lambda$ represents the learning rate
+- $\lambda$ represents the [[learning rate]]
 - $w$ represents the [[Optimal]] value for [[Logistic Regression]]

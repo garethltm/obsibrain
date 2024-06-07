@@ -54,7 +54,7 @@ $$
 		- $w\leftarrow w + \lambda ( y^{(i)} x^{(i)})$
 			- [[Hinge Loss]]
 		- $k$ represents the iteration number
-		- $\lambda$ represents the learning rate (step size)
+		- $\lambda$ represents the [[learning rate]] (step size)
 3. Until change of $w_j \le \ threshold$
 
 #compsci361example ![[Pasted image 20240606155701.png]]
