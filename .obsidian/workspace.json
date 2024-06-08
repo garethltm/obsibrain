@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Naive Bayes Classifier.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/DBSCAN.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Naive Bayes Classifier.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/DBSCAN.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Naive Bayes Classifier.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/DBSCAN.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Naive Bayes Classifier.md"
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/DBSCAN.md"
               }
             }
           },
@@ -156,7 +156,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Naive Bayes Classifier.md"
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/DBSCAN.md"
               }
             }
           },
@@ -182,7 +182,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Naive Bayes Classifier.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/DBSCAN.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -230,6 +230,7 @@
   },
   "active": "6d6b535e8fbc7be3",
   "lastOpenFiles": [
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Naive Bayes Classifier.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Naive Bayes.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Outlier Detection.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Scatter Plot.md",
@@ -263,7 +264,6 @@
     "2024 Semester 1/COMPSCI361 - Machine Learning/bias.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/variance.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Bias-Variance vs Fundamental Trade-Off.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Simplest formula to address variance & bias issues.md",
     "@images/Pasted image 20240607005130.png",
     "@images/Pasted image 20240607004333.png",
     "Untitled.canvas",
