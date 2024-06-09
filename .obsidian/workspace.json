@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Bayesian Belief Networks.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Naive Bayes Classifier.md",
                 "mode": "source",
                 "source": false
               }
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Bayesian Belief Networks.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Naive Bayes Classifier.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Bayesian Belief Networks.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Naive Bayes Classifier.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Bayesian Belief Networks.md"
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Naive Bayes Classifier.md"
               }
             }
           },
@@ -157,7 +157,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Bayesian Belief Networks.md"
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Naive Bayes Classifier.md"
               }
             }
           },
@@ -183,7 +183,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Bayesian Belief Networks.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Naive Bayes Classifier.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -229,10 +229,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a6e0090ac9cbd1f3",
+  "active": "70541560f4dbec60",
   "lastOpenFiles": [
-    "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week11/CPT Operations.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Bayesian Belief Networks.md",
+    "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week11/CPT Operations.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Bayesian Networks.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/conditionally independent.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/k-Means++.md",
