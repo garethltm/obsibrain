@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Bayesian Networks.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Bayesian Belief Networks.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "bayesian network",
+                "query": "conditional probability table",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Bayesian Networks.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Bayesian Belief Networks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Bayesian Networks.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Bayesian Belief Networks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Bayesian Networks.md"
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Bayesian Belief Networks.md"
               }
             }
           },
@@ -157,7 +157,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Bayesian Networks.md"
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Bayesian Belief Networks.md"
               }
             }
           },
@@ -183,7 +183,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Bayesian Networks.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Bayesian Belief Networks.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -229,10 +229,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "70541560f4dbec60",
+  "active": "a6e0090ac9cbd1f3",
   "lastOpenFiles": [
-    "2024 Semester 1/COMPSCI361 - Machine Learning/conditionally independent.md",
+    "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week11/CPT Operations.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Bayesian Belief Networks.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Bayesian Networks.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/conditionally independent.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/k-Means++.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/k-Means.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Density-Based Clustering.md",
@@ -265,8 +267,6 @@
     "2024 Semester 1/COMPSCI361 - Machine Learning/initialisation.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/data augmentation.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/collinear features.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Z-score outlier detection.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Vanishing Gradient Problem.md",
     "Untitled.canvas",
     "2023 Semester 1/MKTG151G/Notes",
     "2023 Semester 1/MKTG151G/Lecture Notes",
