@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Density-Based Clustering.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/k-Means++.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "dbscan",
+                "query": "k-means",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Density-Based Clustering.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/k-Means++.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Density-Based Clustering.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/k-Means++.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Density-Based Clustering.md"
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/k-Means++.md"
               }
             }
           },
@@ -157,7 +157,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Density-Based Clustering.md"
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/k-Means++.md"
               }
             }
           },
@@ -183,7 +183,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Density-Based Clustering.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/k-Means++.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -230,9 +230,9 @@
   },
   "active": "70541560f4dbec60",
   "lastOpenFiles": [
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Clustering.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Density-Based Clustering.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/k-Means.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Density-Based Clustering.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Clustering.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/centroid.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Cluster Quality.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Silhouette coefficient.md",
