@@ -48,8 +48,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "cluster quali",
-                "matchingCase": true,
+                "query": "rand index",
+                "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -230,8 +230,9 @@
   },
   "active": "70541560f4dbec60",
   "lastOpenFiles": [
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Clustering.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Purity.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Extrinsic.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Clustering.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/agglomerative clustering.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Hierarchical Clustering.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Density-Based Clustering.md",
@@ -265,7 +266,6 @@
     "2024 Semester 1/COMPSCI361 - Machine Learning/Local Outlier Factor (LOF).md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Learning rate.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/L1 & L2 regularisation.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Interquartile Range Outlier Detection (IQR).md",
     "Untitled.canvas",
     "2023 Semester 1/MKTG151G/Notes",
     "2023 Semester 1/MKTG151G/Lecture Notes",
