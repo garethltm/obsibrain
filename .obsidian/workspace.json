@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "relief",
+                "query": "instance-bas",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -231,6 +231,8 @@
   },
   "active": "70541560f4dbec60",
   "lastOpenFiles": [
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Instance-based Learning.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Relief.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Filters.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/k-nearest neighbor (kNN).md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Averaging.md",
@@ -255,8 +257,6 @@
     "2024 Semester 1/COMPSCI361 - Machine Learning/Intrinsic.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Normalized Mutual Information (NMI).md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Purity.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Extrinsic.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Rand Index.md",
     "@images/Pasted image 20240607020103.png",
     "@images/Pasted image 20240607014820.png",
     "@images/Pasted image 20240607014406.png",
