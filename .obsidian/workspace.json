@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "k nearest neighb",
+                "query": "k nearest ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -236,6 +236,7 @@
     "2024 Semester 1/COMPSCI361 - Machine Learning/variance.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/bias-variance decomposition.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Bias vs Variance tradeoff.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/k-nearest neighbor (kNN).md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/AdaBoost.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Binning.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Naive Bayes Classifier.md",
@@ -256,7 +257,6 @@
     "2024 Semester 1/COMPSCI361 - Machine Learning/Extrinsic.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Rand Index.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/agglomerative clustering.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Hierarchical Clustering.md",
     "@images/Pasted image 20240607020103.png",
     "@images/Pasted image 20240607014820.png",
     "@images/Pasted image 20240607014406.png",
