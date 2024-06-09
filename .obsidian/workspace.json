@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Naive Bayes Classifier.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Batch Gradient Descent (BGD).md",
                 "mode": "source",
                 "source": false
               }
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -87,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Naive Bayes Classifier.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Batch Gradient Descent (BGD).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Naive Bayes Classifier.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Batch Gradient Descent (BGD).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Naive Bayes Classifier.md"
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Batch Gradient Descent (BGD).md"
               }
             }
           },
@@ -157,7 +156,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Naive Bayes Classifier.md"
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Batch Gradient Descent (BGD).md"
               }
             }
           },
@@ -183,7 +182,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Naive Bayes Classifier.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Batch Gradient Descent (BGD).md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -231,6 +230,8 @@
   },
   "active": "70541560f4dbec60",
   "lastOpenFiles": [
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Bagging.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Naive Bayes Classifier.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/k-Means.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Relief.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Instance-based Learning.md",
@@ -243,7 +244,6 @@
     "2024 Semester 1/COMPSCI361 - Machine Learning/Bias vs Variance tradeoff.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/AdaBoost.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Binning.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Naive Bayes Classifier.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Bayesian Belief Networks.md",
     "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week11/CPT Operations.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Bayesian Networks.md",
@@ -256,7 +256,6 @@
     "2024 Semester 1/COMPSCI361 - Machine Learning/Silhouette coefficient.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Intrinsic.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Normalized Mutual Information (NMI).md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Purity.md",
     "@images/Pasted image 20240607020103.png",
     "@images/Pasted image 20240607014820.png",
     "@images/Pasted image 20240607014406.png",
