@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Clustering.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Hierarchical Clustering.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "clustering",
+                "query": "rand index",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Clustering.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Hierarchical Clustering.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Clustering.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Hierarchical Clustering.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Clustering.md"
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Hierarchical Clustering.md"
               }
             }
           },
@@ -157,7 +157,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Clustering.md"
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Hierarchical Clustering.md"
               }
             }
           },
@@ -183,7 +183,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Clustering.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Hierarchical Clustering.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -229,8 +229,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "70541560f4dbec60",
+  "active": "a6e0090ac9cbd1f3",
   "lastOpenFiles": [
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Extrinsic.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Clustering.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/AdaBoost.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Naive Bayes.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Hierarchical Clustering.md",
@@ -265,8 +267,6 @@
     "2024 Semester 1/COMPSCI361 - Machine Learning/L1 & L2 regularisation.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Interquartile Range Outlier Detection (IQR).md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/High variance.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/High avoidable bias.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Evaluation strategy.md",
     "Untitled.canvas",
     "2023 Semester 1/MKTG151G/Notes",
     "2023 Semester 1/MKTG151G/Lecture Notes",
