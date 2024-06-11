@@ -33,9 +33,11 @@
             "id": "3d2b1b100bcf289a",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.6.3"
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Density-Based Clustering.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -70,7 +72,7 @@
               "type": "search",
               "state": {
                 "query": "dbscan",
-                "matchingCase": true,
+                "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -108,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Hierarchical Clustering.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Density-Based Clustering.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Hierarchical Clustering.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Density-Based Clustering.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Hierarchical Clustering.md"
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Density-Based Clustering.md"
               }
             }
           },
@@ -178,7 +180,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Hierarchical Clustering.md"
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Density-Based Clustering.md"
               }
             }
           },
@@ -204,7 +206,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Hierarchical Clustering.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Density-Based Clustering.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -250,7 +252,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a6e0090ac9cbd1f3",
+  "active": "3d2b1b100bcf289a",
   "lastOpenFiles": [
     "2024 Semester 1/COMPSCI361 - Machine Learning/DBSCAN.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Naive Bayes Classifier.md",
