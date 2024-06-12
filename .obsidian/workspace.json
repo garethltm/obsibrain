@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Discretization.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Regression (Noisy Data).md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "discreti",
+                "query": "regression",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Discretization.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Regression (Noisy Data).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Discretization.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Regression (Noisy Data).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Discretization.md"
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Regression (Noisy Data).md"
               }
             }
           },
@@ -157,7 +157,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Discretization.md"
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Regression (Noisy Data).md"
               }
             }
           },
@@ -183,7 +183,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Discretization.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Regression (Noisy Data).md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -231,8 +231,13 @@
   },
   "active": "70541560f4dbec60",
   "lastOpenFiles": [
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Binning.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Noisy data.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Multi-Layer Feed-Forward (FF) Neural Network (FNN).md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Missing at random (MAR).md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Linear Regression in 1 Dimension.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Logistic Regression.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Discretization.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Binning.md",
     "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week04/Discretisation.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Correlation analysis.md",
     "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week04/Continuous Space (Continuous Functions).md",
@@ -252,11 +257,6 @@
     "2024 Semester 1/COMPSCI361 - Machine Learning/Filters.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/k-nearest neighbor (kNN).md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Averaging.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Soft-margin (SVMs).md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/variance.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/AdaBoost.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Bayesian Belief Networks.md",
-    "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week11/CPT Operations.md",
     "@images/Pasted image 20240607020103.png",
     "@images/Pasted image 20240607014820.png",
     "@images/Pasted image 20240607014406.png",
