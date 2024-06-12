@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Missing at random (MAR).md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Relief.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "missing data",
+                "query": "relief",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Missing at random (MAR).md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Relief.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Missing at random (MAR).md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Relief.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Missing at random (MAR).md"
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Relief.md"
               }
             }
           },
@@ -157,7 +157,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Missing at random (MAR).md"
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Relief.md"
               }
             }
           },
@@ -183,7 +183,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Missing at random (MAR).md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Relief.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -231,13 +231,13 @@
   },
   "active": "70541560f4dbec60",
   "lastOpenFiles": [
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Missing at random (MAR).md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Incomplete (Missing) Data.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Data cleaning.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Clustering.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Noisy data.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Regression (Noisy Data).md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Multi-Layer Feed-Forward (FF) Neural Network (FNN).md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Missing at random (MAR).md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Linear Regression in 1 Dimension.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Logistic Regression.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Discretization.md",
