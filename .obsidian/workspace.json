@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Regression (Noisy Data).md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Clustering.md",
                 "mode": "source",
                 "source": false
               }
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Regression (Noisy Data).md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Clustering.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Regression (Noisy Data).md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Clustering.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Regression (Noisy Data).md"
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Clustering.md"
               }
             }
           },
@@ -157,7 +157,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Regression (Noisy Data).md"
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Clustering.md"
               }
             }
           },
@@ -183,7 +183,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Regression (Noisy Data).md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Clustering.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -232,6 +232,7 @@
   "active": "70541560f4dbec60",
   "lastOpenFiles": [
     "2024 Semester 1/COMPSCI361 - Machine Learning/Noisy data.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Regression (Noisy Data).md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Multi-Layer Feed-Forward (FF) Neural Network (FNN).md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Missing at random (MAR).md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Linear Regression in 1 Dimension.md",
@@ -256,7 +257,6 @@
     "2024 Semester 1/COMPSCI361 - Machine Learning/Instance-based Learning.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Filters.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/k-nearest neighbor (kNN).md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Averaging.md",
     "@images/Pasted image 20240607020103.png",
     "@images/Pasted image 20240607014820.png",
     "@images/Pasted image 20240607014406.png",
