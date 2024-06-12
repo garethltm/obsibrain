@@ -13,24 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Relief.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Filters.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "14ed222486d5a534",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.6.3"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Relief.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Filters.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Relief.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Filters.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Relief.md"
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Filters.md"
               }
             }
           },
@@ -168,7 +157,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Relief.md"
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Filters.md"
               }
             }
           },
@@ -194,7 +183,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Relief.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Filters.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -240,8 +229,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "14ed222486d5a534",
+  "active": "70541560f4dbec60",
   "lastOpenFiles": [
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Relief.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Missing at random (MAR).md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Incomplete (Missing) Data.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Data cleaning.md",
@@ -266,7 +256,6 @@
     "2024 Semester 1/COMPSCI361 - Machine Learning/Bagging.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Naive Bayes Classifier.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/k-Means.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Relief.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Instance-based Learning.md",
     "@images/Pasted image 20240607020103.png",
     "@images/Pasted image 20240607014820.png",
