@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Vonoroi diagram (1-NN).md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/k-nearest neighbor (kNN).md",
                 "mode": "source",
                 "source": false
               }
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Vonoroi diagram (1-NN).md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/k-nearest neighbor (kNN).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Vonoroi diagram (1-NN).md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/k-nearest neighbor (kNN).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Vonoroi diagram (1-NN).md"
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/k-nearest neighbor (kNN).md"
               }
             }
           },
@@ -157,7 +157,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Vonoroi diagram (1-NN).md"
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/k-nearest neighbor (kNN).md"
               }
             }
           },
@@ -183,7 +183,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Vonoroi diagram (1-NN).md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/k-nearest neighbor (kNN).md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -231,6 +231,7 @@
   },
   "active": "70541560f4dbec60",
   "lastOpenFiles": [
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Vonoroi diagram (1-NN).md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/k-nearest neighbor (kNN).md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Hierarchical Clustering.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Bayes Theorem.md",
@@ -256,7 +257,6 @@
     "2024 Semester 1/COMPSCI361 - Machine Learning/Principal Components Analysis (PCA).md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/bias-variance decomposition.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Bias vs Variance tradeoff.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Batch Gradient Descent (BGD).md",
     "@images/Pasted image 20240607020103.png",
     "@images/Pasted image 20240607014820.png",
     "@images/Pasted image 20240607014406.png",
