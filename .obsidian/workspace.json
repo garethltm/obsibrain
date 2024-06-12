@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "14ed222486d5a534",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.3"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -229,7 +240,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "70541560f4dbec60",
+  "active": "14ed222486d5a534",
   "lastOpenFiles": [
     "2024 Semester 1/COMPSCI361 - Machine Learning/Missing at random (MAR).md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Incomplete (Missing) Data.md",
