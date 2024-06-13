@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/k-Means.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Hidden Markov Model.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "elbow",
+                "query": "bayesian network",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/k-Means.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Hidden Markov Model.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/k-Means.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Hidden Markov Model.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/k-Means.md"
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Hidden Markov Model.md"
               }
             }
           },
@@ -157,7 +157,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/k-Means.md"
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Hidden Markov Model.md"
               }
             }
           },
@@ -183,7 +183,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/k-Means.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Hidden Markov Model.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -230,9 +230,10 @@
   },
   "active": "70541560f4dbec60",
   "lastOpenFiles": [
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Bayesian Networks.md",
+    "2024 Semester 1/COMPSCI361 - Machine Learning/k-Means.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/elbow method.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Density-Based Clustering.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/k-Means.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/k-nearest neighbor (kNN).md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Vonoroi diagram (1-NN).md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Hierarchical Clustering.md",
@@ -255,7 +256,6 @@
     "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week04/Continuous Space (Continuous Functions).md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Transformation & discretization.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Handling Numerical Labels.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Cross-Validation (CV).md",
     "@images/Pasted image 20240607020103.png",
     "@images/Pasted image 20240607014820.png",
     "@images/Pasted image 20240607014406.png",
