@@ -4,45 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "571597120b344272",
+        "id": "b20a1b82ba80211d",
         "type": "tabs",
         "children": [
           {
-            "id": "6d6b535e8fbc7be3",
+            "id": "0841de873b60d2b0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Hierarchical Clustering.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "721c8386913ade67",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.6.2"
-              }
-            }
-          },
-          {
-            "id": "3d2b1b100bcf289a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Outlier Detection.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Bootstrapping.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -71,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "dbscan",
+                "query": "bagging",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -110,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Outlier Detection.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Bootstrapping.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Outlier Detection.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Bootstrapping.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Outlier Detection.md"
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Bootstrapping.md"
               }
             }
           },
@@ -180,7 +157,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Outlier Detection.md"
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Bootstrapping.md"
               }
             }
           },
@@ -206,7 +183,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Outlier Detection.md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Bootstrapping.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -252,15 +229,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3d2b1b100bcf289a",
+  "active": "0841de873b60d2b0",
   "lastOpenFiles": [
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Outlier Detection.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Density-Based Clustering.md",
     "conflict-files-obsidian-git.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Ensemble Clustering.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/DBSCAN.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Naive Bayes Classifier.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Naive Bayes.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Outlier Detection.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Scatter Plot.md",
     "@images/Pasted image 20240607020103.png",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Principal Components Analysis (PCA).md",
