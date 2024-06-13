@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Stochastic Gradient Descent (SGD).md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Lagrange Multipliers & Constrained Optimization.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "stochasti",
+                "query": "lagr",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Stochastic Gradient Descent (SGD).md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Lagrange Multipliers & Constrained Optimization.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Stochastic Gradient Descent (SGD).md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Lagrange Multipliers & Constrained Optimization.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Stochastic Gradient Descent (SGD).md"
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Lagrange Multipliers & Constrained Optimization.md"
               }
             }
           },
@@ -157,7 +157,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Stochastic Gradient Descent (SGD).md"
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Lagrange Multipliers & Constrained Optimization.md"
               }
             }
           },
@@ -183,7 +183,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Stochastic Gradient Descent (SGD).md",
+                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Lagrange Multipliers & Constrained Optimization.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -230,6 +230,7 @@
   },
   "active": "a85bac2087db5241",
   "lastOpenFiles": [
+    "2024 Semester 1/COMPSCI361 - Machine Learning/Stochastic Gradient Descent (SGD).md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/L1 & L2 regularisation.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Dropout.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/k-nearest neighbor (kNN).md",
@@ -255,7 +256,6 @@
     "2024 Semester 1/COMPSCI361 - Machine Learning/Logistic Regression.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Discretization.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Binning.md",
-    "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week04/Discretisation.md",
     "@images/Pasted image 20240607020103.png",
     "@images/Pasted image 20240607014820.png",
     "@images/Pasted image 20240607014406.png",
