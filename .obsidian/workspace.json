@@ -11,8 +11,12 @@
             "id": "3afd0cf72ec73179",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "2023 Semester 2/INFOSYS222 - Database Systems/DQL - SELECT.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -82,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "2023 Semester 2/INFOSYS222 - Database Systems/DQL - SELECT.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "2023 Semester 2/INFOSYS222 - Database Systems/DQL - SELECT.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "2023 Semester 2/INFOSYS222 - Database Systems/DQL - SELECT.md"
+              }
             }
           },
           {
@@ -147,7 +155,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {}
+              "state": {
+                "file": "2023 Semester 2/INFOSYS222 - Database Systems/DQL - SELECT.md"
+              }
             }
           },
           {
@@ -172,6 +182,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "2023 Semester 2/INFOSYS222 - Database Systems/DQL - SELECT.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -218,6 +229,10 @@
   },
   "active": "3afd0cf72ec73179",
   "lastOpenFiles": [
+    "2023 Semester 2/INFOSYS222 - Database Systems/DQL - JOIN.md",
+    "2023 Semester 2/INFOSYS222 - Database Systems/Basic with Staging.md",
+    "2023 Semester 2/INFOSYS222 - Database Systems/Attribute Specialisation.md",
+    "2023 Semester 2/INFOSYS222 - Database Systems/2NF - 2nd Normal Form.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Lagrange Multipliers & Constrained Optimization.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Stochastic Gradient Descent (SGD).md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/L1 & L2 regularisation.md",
@@ -240,10 +255,6 @@
     "2024 Semester 1/COMPSCI361 - Machine Learning/Clustering.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Noisy data.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Regression (Noisy Data).md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Multi-Layer Feed-Forward (FF) Neural Network (FNN).md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Linear Regression in 1 Dimension.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Logistic Regression.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Discretization.md",
     "@images/Pasted image 20240607020103.png",
     "@images/Pasted image 20240607014820.png",
     "@images/Pasted image 20240607014406.png",
