@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "reverse",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -228,7 +227,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a6e0090ac9cbd1f3",
+  "active": "3ad179677b7fba41",
   "lastOpenFiles": [
     "2024 Semester 1/ACCTG151G - Financial Literacy/Accounting Equation.md",
     "2023 Semester 2/COMPSCI235 - Software Development Methodologies/SQL Joins.md",
