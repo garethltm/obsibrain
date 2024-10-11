@@ -11,8 +11,12 @@
             "id": "e6ccee784ff7abf6",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week10/Pipelined NLP.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -44,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "natural langua",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -61,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -82,6 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week10/Pipelined NLP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week10/Pipelined NLP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +126,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week10/Pipelined NLP.md"
+              }
             }
           },
           {
@@ -147,7 +156,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {}
+              "state": {
+                "file": "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week10/Pipelined NLP.md"
+              }
             }
           },
           {
@@ -172,6 +183,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week10/Pipelined NLP.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -216,8 +228,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3ad179677b7fba41",
+  "active": "e6ccee784ff7abf6",
   "lastOpenFiles": [
+    "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week10/Natural Language Processing (NLP).md",
+    "2023 Semester 2/COMPSCI235 - Software Development Methodologies/specification.md",
+    "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week10/Why should you use NLP.md",
+    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Gestures.md",
+    "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week01/Artificial Intelligence (AI).md",
     "2024 Semester 1/INFOSYS303 - Solutions Architecture/Hyper-Threading (HTT).md",
     "2023 Semester 2/COMPSCI235 - Software Development Methodologies/Concurrent.md",
     "2023 Semester 2/INFOSYS222 - Database Systems/SQL.md",
@@ -239,11 +256,6 @@
     "2023 Semester 2/INFOSYS222 - Database Systems/Attribute Specialisation.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Lagrange Multipliers & Constrained Optimization.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Stochastic Gradient Descent (SGD).md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/L1 & L2 regularisation.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Dropout.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/k-nearest neighbor (kNN).md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Instance-based Learning.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/k-Means.md",
     "@images/Pasted image 20240607020103.png",
     "@images/Pasted image 20240607014820.png",
     "@images/Pasted image 20240607014406.png",
