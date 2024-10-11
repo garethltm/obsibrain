@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Accounting Equation.md",
+                "file": "2023 Semester 2/INFOSYS222 - Database Systems/SQL.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Accounting Equation.md",
+                "file": "2023 Semester 2/INFOSYS222 - Database Systems/SQL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Accounting Equation.md",
+                "file": "2023 Semester 2/INFOSYS222 - Database Systems/SQL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Accounting Equation.md"
+                "file": "2023 Semester 2/INFOSYS222 - Database Systems/SQL.md"
               }
             }
           },
@@ -156,7 +156,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Accounting Equation.md"
+                "file": "2023 Semester 2/INFOSYS222 - Database Systems/SQL.md"
               }
             }
           },
@@ -182,7 +182,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Accounting Equation.md",
+                "file": "2023 Semester 2/INFOSYS222 - Database Systems/SQL.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -227,8 +227,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3ad179677b7fba41",
+  "active": "3afd0cf72ec73179",
   "lastOpenFiles": [
+    "2024 Semester 1/ACCTG151G - Financial Literacy/Accounting Equation.md",
     "2023 Semester 2/COMPSCI235 - Software Development Methodologies/SQL Joins.md",
     "2023 Semester 2/INFOSYS222 - Database Systems/Entity Generalisation.md",
     "2023 Semester 2/INFOSYS222 - Database Systems/Entity.md",
@@ -254,7 +255,6 @@
     "2024 Semester 1/COMPSCI361 - Machine Learning/Hidden Markov Model.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Bayesian Networks.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/elbow method.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Density-Based Clustering.md",
     "@images/Pasted image 20240607020103.png",
     "@images/Pasted image 20240607014820.png",
     "@images/Pasted image 20240607014406.png",
