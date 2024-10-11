@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2023 Semester 2/INFOSYS222 - Database Systems/DQL - SELECT.md",
+                "file": "2023 Semester 2/INFOSYS222 - Database Systems/Denormalisation.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2023 Semester 2/INFOSYS222 - Database Systems/DQL - SELECT.md",
+                "file": "2023 Semester 2/INFOSYS222 - Database Systems/Denormalisation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2023 Semester 2/INFOSYS222 - Database Systems/DQL - SELECT.md",
+                "file": "2023 Semester 2/INFOSYS222 - Database Systems/Denormalisation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2023 Semester 2/INFOSYS222 - Database Systems/DQL - SELECT.md"
+                "file": "2023 Semester 2/INFOSYS222 - Database Systems/Denormalisation.md"
               }
             }
           },
@@ -156,7 +156,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2023 Semester 2/INFOSYS222 - Database Systems/DQL - SELECT.md"
+                "file": "2023 Semester 2/INFOSYS222 - Database Systems/Denormalisation.md"
               }
             }
           },
@@ -182,7 +182,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2023 Semester 2/INFOSYS222 - Database Systems/DQL - SELECT.md",
+                "file": "2023 Semester 2/INFOSYS222 - Database Systems/Denormalisation.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -229,7 +229,11 @@
   },
   "active": "3afd0cf72ec73179",
   "lastOpenFiles": [
+    "2023 Semester 2/INFOSYS222 - Database Systems/Dependency.md",
+    "2023 Semester 2/INFOSYS222 - Database Systems/DML - Data Manipulation Language.md",
+    "2023 Semester 2/INFOSYS222 - Database Systems/DQL - Data Query Language.md",
     "2023 Semester 2/INFOSYS222 - Database Systems/DQL - JOIN.md",
+    "2023 Semester 2/INFOSYS222 - Database Systems/DQL - SELECT.md",
     "2023 Semester 2/INFOSYS222 - Database Systems/Basic with Staging.md",
     "2023 Semester 2/INFOSYS222 - Database Systems/Attribute Specialisation.md",
     "2023 Semester 2/INFOSYS222 - Database Systems/2NF - 2nd Normal Form.md",
@@ -251,10 +255,6 @@
     "2024 Semester 1/COMPSCI361 - Machine Learning/Relief.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Missing at random (MAR).md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Incomplete (Missing) Data.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Data cleaning.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Clustering.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Noisy data.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Regression (Noisy Data).md",
     "@images/Pasted image 20240607020103.png",
     "@images/Pasted image 20240607014820.png",
     "@images/Pasted image 20240607014406.png",
