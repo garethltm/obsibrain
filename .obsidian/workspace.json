@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week10/Pipelined NLP.md",
+                "file": "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week10/Shallow NLP.md",
                 "mode": "source",
                 "source": false
               }
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week10/Pipelined NLP.md",
+                "file": "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week10/Shallow NLP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week10/Pipelined NLP.md",
+                "file": "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week10/Shallow NLP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week10/Pipelined NLP.md"
+                "file": "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week10/Shallow NLP.md"
               }
             }
           },
@@ -157,7 +157,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week10/Pipelined NLP.md"
+                "file": "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week10/Shallow NLP.md"
               }
             }
           },
@@ -183,7 +183,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week10/Pipelined NLP.md",
+                "file": "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week10/Shallow NLP.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -231,6 +231,7 @@
   "active": "e6ccee784ff7abf6",
   "lastOpenFiles": [
     "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week10/Natural Language Processing (NLP).md",
+    "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week10/Pipelined NLP.md",
     "2023 Semester 2/COMPSCI235 - Software Development Methodologies/specification.md",
     "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week10/Why should you use NLP.md",
     "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Gestures.md",
@@ -255,7 +256,6 @@
     "2023 Semester 2/INFOSYS222 - Database Systems/Basic with Staging.md",
     "2023 Semester 2/INFOSYS222 - Database Systems/Attribute Specialisation.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Lagrange Multipliers & Constrained Optimization.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Stochastic Gradient Descent (SGD).md",
     "@images/Pasted image 20240607020103.png",
     "@images/Pasted image 20240607014820.png",
     "@images/Pasted image 20240607014406.png",
