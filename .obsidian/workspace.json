@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2023 Semester 2/INFOSYS222 - Database Systems/Denormalisation.md",
+                "file": "2023 Semester 2/INFOSYS222 - Database Systems/DQL - JOIN.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2023 Semester 2/INFOSYS222 - Database Systems/Denormalisation.md",
+                "file": "2023 Semester 2/INFOSYS222 - Database Systems/DQL - JOIN.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2023 Semester 2/INFOSYS222 - Database Systems/Denormalisation.md",
+                "file": "2023 Semester 2/INFOSYS222 - Database Systems/DQL - JOIN.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2023 Semester 2/INFOSYS222 - Database Systems/Denormalisation.md"
+                "file": "2023 Semester 2/INFOSYS222 - Database Systems/DQL - JOIN.md"
               }
             }
           },
@@ -156,7 +156,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2023 Semester 2/INFOSYS222 - Database Systems/Denormalisation.md"
+                "file": "2023 Semester 2/INFOSYS222 - Database Systems/DQL - JOIN.md"
               }
             }
           },
@@ -182,7 +182,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2023 Semester 2/INFOSYS222 - Database Systems/Denormalisation.md",
+                "file": "2023 Semester 2/INFOSYS222 - Database Systems/DQL - JOIN.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -229,14 +229,18 @@
   },
   "active": "3afd0cf72ec73179",
   "lastOpenFiles": [
-    "2023 Semester 2/INFOSYS222 - Database Systems/Dependency.md",
-    "2023 Semester 2/INFOSYS222 - Database Systems/DML - Data Manipulation Language.md",
     "2023 Semester 2/INFOSYS222 - Database Systems/DQL - Data Query Language.md",
+    "2023 Semester 2/INFOSYS222 - Database Systems/DML - Data Manipulation Language.md",
+    "2023 Semester 2/INFOSYS222 - Database Systems/Business Intelligence.md",
+    "2023 Semester 2/INFOSYS222 - Database Systems/3NF - 3rd Normal Form.md",
+    "2023 Semester 2/INFOSYS222 - Database Systems/2NF - 2nd Normal Form.md",
+    "2023 Semester 2/INFOSYS222 - Database Systems/1NF - 1st Normal Form.md",
+    "2023 Semester 2/INFOSYS222 - Database Systems/Denormalisation.md",
+    "2023 Semester 2/INFOSYS222 - Database Systems/Dependency.md",
     "2023 Semester 2/INFOSYS222 - Database Systems/DQL - JOIN.md",
     "2023 Semester 2/INFOSYS222 - Database Systems/DQL - SELECT.md",
     "2023 Semester 2/INFOSYS222 - Database Systems/Basic with Staging.md",
     "2023 Semester 2/INFOSYS222 - Database Systems/Attribute Specialisation.md",
-    "2023 Semester 2/INFOSYS222 - Database Systems/2NF - 2nd Normal Form.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Lagrange Multipliers & Constrained Optimization.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Stochastic Gradient Descent (SGD).md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/L1 & L2 regularisation.md",
@@ -251,10 +255,6 @@
     "2024 Semester 1/COMPSCI361 - Machine Learning/Vonoroi diagram (1-NN).md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Hierarchical Clustering.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Bayes Theorem.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Filters.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Relief.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Missing at random (MAR).md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Incomplete (Missing) Data.md",
     "@images/Pasted image 20240607020103.png",
     "@images/Pasted image 20240607014820.png",
     "@images/Pasted image 20240607014406.png",
