@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2023 Semester 2/INFOSYS222 - Database Systems/DQL - JOIN.md",
+                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Accounting Equation.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "lagr",
+                "query": "outer join",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2023 Semester 2/INFOSYS222 - Database Systems/DQL - JOIN.md",
+                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Accounting Equation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2023 Semester 2/INFOSYS222 - Database Systems/DQL - JOIN.md",
+                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Accounting Equation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2023 Semester 2/INFOSYS222 - Database Systems/DQL - JOIN.md"
+                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Accounting Equation.md"
               }
             }
           },
@@ -156,7 +156,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2023 Semester 2/INFOSYS222 - Database Systems/DQL - JOIN.md"
+                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Accounting Equation.md"
               }
             }
           },
@@ -182,7 +182,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2023 Semester 2/INFOSYS222 - Database Systems/DQL - JOIN.md",
+                "file": "2024 Semester 1/ACCTG151G - Financial Literacy/Accounting Equation.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -227,8 +227,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3afd0cf72ec73179",
+  "active": "3ad179677b7fba41",
   "lastOpenFiles": [
+    "2023 Semester 2/COMPSCI235 - Software Development Methodologies/SQL Joins.md",
+    "2023 Semester 2/INFOSYS222 - Database Systems/Entity Generalisation.md",
+    "2023 Semester 2/INFOSYS222 - Database Systems/Entity.md",
+    "2023 Semester 2/INFOSYS222 - Database Systems/DQL - SELECT.md",
+    "2023 Semester 2/INFOSYS222 - Database Systems/DQL - JOIN.md",
     "2023 Semester 2/INFOSYS222 - Database Systems/DQL - Data Query Language.md",
     "2023 Semester 2/INFOSYS222 - Database Systems/DML - Data Manipulation Language.md",
     "2023 Semester 2/INFOSYS222 - Database Systems/Business Intelligence.md",
@@ -237,8 +242,6 @@
     "2023 Semester 2/INFOSYS222 - Database Systems/1NF - 1st Normal Form.md",
     "2023 Semester 2/INFOSYS222 - Database Systems/Denormalisation.md",
     "2023 Semester 2/INFOSYS222 - Database Systems/Dependency.md",
-    "2023 Semester 2/INFOSYS222 - Database Systems/DQL - JOIN.md",
-    "2023 Semester 2/INFOSYS222 - Database Systems/DQL - SELECT.md",
     "2023 Semester 2/INFOSYS222 - Database Systems/Basic with Staging.md",
     "2023 Semester 2/INFOSYS222 - Database Systems/Attribute Specialisation.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Lagrange Multipliers & Constrained Optimization.md",
@@ -252,9 +255,6 @@
     "2024 Semester 1/COMPSCI361 - Machine Learning/Bayesian Networks.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/elbow method.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Density-Based Clustering.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Vonoroi diagram (1-NN).md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Hierarchical Clustering.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Bayes Theorem.md",
     "@images/Pasted image 20240607020103.png",
     "@images/Pasted image 20240607014820.png",
     "@images/Pasted image 20240607014406.png",
