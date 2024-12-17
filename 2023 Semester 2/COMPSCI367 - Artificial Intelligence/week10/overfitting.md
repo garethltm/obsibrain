@@ -1,2 +1,0 @@
-- if the combination doesn't appear in your [[Knowledge Base (KB)]]/[[2023 Semester 2/INFOSYS222 - Database Systems/Database]] then it might not representative of the the real world
-	- might not be the representation of the real [[2023 Semester 2/COMPSCI367 - Artificial Intelligence/week09/Probability]]

@@ -1,0 +1,2 @@
+- It is possible to [[Refinance]] your [[Mortgage]] & may lead to a lower monthly payment if new rate is lower
+- May be able to [[Refinance]] with existing lender or by changing lender

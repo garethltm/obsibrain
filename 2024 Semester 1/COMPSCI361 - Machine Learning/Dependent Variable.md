@@ -1,1 +1,0 @@
-The variable that researchers are trying to explain or predict is called the response variable. It is also sometimes called the [[2024 Semester 1/COMPSCI361 - Machine Learning/Dependent Variable]] because it depends on another variable. 

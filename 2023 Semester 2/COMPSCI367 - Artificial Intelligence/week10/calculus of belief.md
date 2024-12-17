@@ -1,1 +1,0 @@
-derive [[2023 Semester 2/COMPSCI367 - Artificial Intelligence/week09/Probability]] based on [[degree of belief]]

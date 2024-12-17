@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "b1ec4ee951cda14d",
+        "id": "04d9bab40d566607",
         "type": "tabs",
         "children": [
           {
-            "id": "97091dfc2974a984",
+            "id": "d1ef5059a16fe555",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Hidden Markov Model.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Hidden Markov Model"
+              "title": "New tab"
             }
           }
         ]
@@ -52,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "markov",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -73,8 +69,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -201,7 +196,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2024 Semester 1/COMPSCI361 - Machine Learning/Hidden Markov Model.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -229,7 +223,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Hidden Markov Model"
+              "title": "Graph view"
             }
           }
         ]
@@ -248,34 +242,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "97091dfc2974a984",
+  "active": "3ad179677b7fba41",
   "lastOpenFiles": [
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Bayesian Networks.md",
-    "2024 Semester 1/COMPSCI361 - Machine Learning/Bayesian Belief Networks.md",
-    "2023 Semester 2/COMPSCI235 - Software Development Methodologies/Combating CSRF.md",
-    "2024 Semester 1/COMPSCI345 - Human-computer Interaction/Gestures.md",
-    "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week10/Shallow NLP.md",
-    "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week10/Natural Language Processing (NLP).md",
-    "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week10/Pipelined NLP.md",
-    "2023 Semester 2/COMPSCI235 - Software Development Methodologies/specification.md",
-    "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week10/Why should you use NLP.md",
-    "2023 Semester 2/COMPSCI367 - Artificial Intelligence/week01/Artificial Intelligence (AI).md",
-    "2024 Semester 1/INFOSYS303 - Solutions Architecture/Hyper-Threading (HTT).md",
-    "2023 Semester 2/COMPSCI235 - Software Development Methodologies/Concurrent.md",
-    "2023 Semester 2/INFOSYS222 - Database Systems/SQL.md",
-    "2024 Semester 1/ACCTG151G - Financial Literacy/Accounting Equation.md",
-    "2023 Semester 2/COMPSCI235 - Software Development Methodologies/SQL Joins.md",
-    "2023 Semester 2/INFOSYS222 - Database Systems/Entity Generalisation.md",
-    "2023 Semester 2/INFOSYS222 - Database Systems/Entity.md",
-    "2023 Semester 2/INFOSYS222 - Database Systems/DQL - SELECT.md",
-    "2023 Semester 2/INFOSYS222 - Database Systems/DQL - JOIN.md",
-    "2023 Semester 2/INFOSYS222 - Database Systems/DQL - Data Query Language.md",
-    "2023 Semester 2/INFOSYS222 - Database Systems/DML - Data Manipulation Language.md",
-    "2023 Semester 2/INFOSYS222 - Database Systems/Business Intelligence.md",
-    "2023 Semester 2/INFOSYS222 - Database Systems/3NF - 3rd Normal Form.md",
-    "2023 Semester 2/INFOSYS222 - Database Systems/2NF - 2nd Normal Form.md",
-    "2023 Semester 2/INFOSYS222 - Database Systems/1NF - 1st Normal Form.md",
-    "2023 Semester 2/INFOSYS222 - Database Systems/Denormalisation.md",
+    "University of Auckland",
+    "University of Auckland/2024 Semester 1/COMPSCI361 - Machine Learning/Hidden Markov Model.md",
+    "University of Auckland/2024 Semester 1/COMPSCI361 - Machine Learning/Bayesian Networks.md",
+    "University of Auckland/2024 Semester 1/COMPSCI361 - Machine Learning/Bayesian Belief Networks.md",
+    "University of Auckland/2023 Semester 2/COMPSCI235 - Software Development Methodologies/Combating CSRF.md",
+    "University of Auckland/2024 Semester 1/COMPSCI345 - Human-computer Interaction/Gestures.md",
+    "University of Auckland/2023 Semester 2/COMPSCI367 - Artificial Intelligence/week10/Shallow NLP.md",
+    "University of Auckland/2023 Semester 2/COMPSCI367 - Artificial Intelligence/week10/Natural Language Processing (NLP).md",
+    "University of Auckland/2023 Semester 2/COMPSCI367 - Artificial Intelligence/week10/Pipelined NLP.md",
+    "University of Auckland/2023 Semester 2/COMPSCI235 - Software Development Methodologies/specification.md",
+    "University of Auckland/2023 Semester 2/COMPSCI367 - Artificial Intelligence/week10/Why should you use NLP.md",
+    "University of Auckland/2023 Semester 2/COMPSCI367 - Artificial Intelligence/week01/Artificial Intelligence (AI).md",
+    "University of Auckland/2024 Semester 1/INFOSYS303 - Solutions Architecture/Hyper-Threading (HTT).md",
+    "University of Auckland/2023 Semester 2/COMPSCI235 - Software Development Methodologies/Concurrent.md",
+    "University of Auckland/2023 Semester 2/INFOSYS222 - Database Systems/SQL.md",
+    "University of Auckland/2024 Semester 1/ACCTG151G - Financial Literacy/Accounting Equation.md",
+    "University of Auckland/2023 Semester 2/COMPSCI235 - Software Development Methodologies/SQL Joins.md",
+    "University of Auckland/2023 Semester 2/INFOSYS222 - Database Systems/Entity Generalisation.md",
+    "University of Auckland/2023 Semester 2/INFOSYS222 - Database Systems/Entity.md",
+    "University of Auckland/2023 Semester 2/INFOSYS222 - Database Systems/DQL - SELECT.md",
+    "University of Auckland/2023 Semester 2/INFOSYS222 - Database Systems/DQL - JOIN.md",
+    "University of Auckland/2023 Semester 2/INFOSYS222 - Database Systems/DQL - Data Query Language.md",
+    "University of Auckland/2023 Semester 2/INFOSYS222 - Database Systems/DML - Data Manipulation Language.md",
+    "University of Auckland/2023 Semester 2/INFOSYS222 - Database Systems/Business Intelligence.md",
+    "University of Auckland/2023 Semester 2/INFOSYS222 - Database Systems/3NF - 3rd Normal Form.md",
+    "University of Auckland/2023 Semester 2/INFOSYS222 - Database Systems/2NF - 2nd Normal Form.md",
     "@images/Pasted image 20240607020103.png",
     "@images/Pasted image 20240607014820.png",
     "@images/Pasted image 20240607014406.png",
@@ -287,17 +281,17 @@
     "@images/Pasted image 20240607005130.png",
     "@images/Pasted image 20240607004333.png",
     "Untitled.canvas",
-    "2023 Semester 1/MKTG151G/Notes",
-    "2023 Semester 1/MKTG151G/Lecture Notes",
-    "2023 Semester 1/COMPSCI225/Tutorials",
-    "2023 Semester 1/COMPSCI225/PYQ",
-    "2023 Semester 1/COMPSCI225/Lecture Notes",
-    "2023 Semester 1/COMPSCI225/Assignments",
-    "2023 Semester 1/INFOSYS220/Quizzes",
-    "2023 Semester 1/INFOSYS220/Midterm prep",
-    "2023 Semester 1/INFOSYS220/Lecture Notes",
-    "2023 Semester 1/INFOSYS220/Lab Slides",
-    "2023 Semester 2/COMPSCI235 - Software Development Methodologies/235 summary.canvas",
-    "2023 Semester 2/COMPSCI367 - Artificial Intelligence/finals prep.canvas"
+    "University of Auckland/2023 Semester 1/MKTG151G/Notes",
+    "University of Auckland/2023 Semester 1/MKTG151G/Lecture Notes",
+    "University of Auckland/2023 Semester 1/COMPSCI225/Tutorials",
+    "University of Auckland/2023 Semester 1/COMPSCI225/PYQ",
+    "University of Auckland/2023 Semester 1/COMPSCI225/Lecture Notes",
+    "University of Auckland/2023 Semester 1/COMPSCI225/Assignments",
+    "University of Auckland/2023 Semester 1/INFOSYS220/Quizzes",
+    "University of Auckland/2023 Semester 1/INFOSYS220/Midterm prep",
+    "University of Auckland/2023 Semester 1/INFOSYS220/Lecture Notes",
+    "University of Auckland/2023 Semester 1/INFOSYS220/Lab Slides",
+    "University of Auckland/2023 Semester 2/COMPSCI235 - Software Development Methodologies/235 summary.canvas",
+    "University of Auckland/2023 Semester 2/COMPSCI367 - Artificial Intelligence/finals prep.canvas"
   ]
 }
