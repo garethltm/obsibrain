@@ -3,4 +3,7 @@ a structured approach for managing GRC helps organizations reduce risk and impro
 1. Governance
 	- the system of rules, practices & processes an organization uses to direct & control its activities
 2. Risk
-	- the process of identifying, assessing & responding to threats or events that can impact a company or customer objectives.
+	- the process of identifying, assessing & responding to threats or events that can impact a company or customer objectives
+3. Compliance
+	- refers to the country/region, state or federal laws or even multi-nation regulations that an organization must follow.
+		- 
