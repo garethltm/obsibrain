@@ -1,3 +1,3 @@
 - represent people such as employees and external users (customers, consultant, vendors, and partners).
 	- [[User identities]] are characterized by how they authenticate and the user type property
--
+[![A four by four matrix showing the types of user identities supported based on whether they're a guest or member user. The matrix also shows type of user based on whether they use internal or external authentication.](https://learn.microsoft.com/en-us/training/wwl-sci/explore-basic-services-identity-types/media/entra-id-user-properties-v3-inline.png)](https://learn.microsoft.com/en-us/training/wwl-sci/explore-basic-services-identity-types/media/entra-id-user-properties-v2-expanded.png#lightbox)
