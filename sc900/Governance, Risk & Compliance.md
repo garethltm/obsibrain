@@ -1,0 +1,2 @@
+a structured approach for managing GRC helps organizations reduc
+[![Diagram showing a GRC framework.](https://learn.microsoft.com/en-us/training/wwl-sci/describe-security-concepts-methodologies/media/grc-framework-v3-inline.png)](https://learn.microsoft.com/en-us/training/wwl-sci/describe-security-concepts-methodologies/media/grc-framework-v3-expanded.png#lightbox)
