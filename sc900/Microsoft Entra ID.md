@@ -1,1 +1,2 @@
 - Microsoft's cloud-based identity and access management service (used to be called Azure Active Directory)
+- simplifies the way organizations manage
