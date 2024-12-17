@@ -1,2 +1,1 @@
-- the center of [[Modern Authentication]] is the role of the [[Identity]] provider
-	- an identity provider creates, maintains and manages [[Identity]] information while
+- the center of [[Modern Authentication]] is the role of the [[identity provider]]
