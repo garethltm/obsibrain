@@ -11,7 +11,7 @@ In [[Microsoft Entra ID]], there are different types of identities are supported
 2. [[Workload identities]]
 3. [[Device identities]]
 4. External identities
-5. Hybrid identities
+5. [[Hybrid identities]]
 #### What can I assign an [[Identity]] in [[Microsoft Entra ID]]
 1. You can assign [[Identity]] to people (humans).
 	#Example employees = internal users, customers, consultants, vendors and partners = external users

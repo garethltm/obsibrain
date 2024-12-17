@@ -8,20 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d1ef5059a16fe555",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "sc900/Tenant.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Tenant"
-            }
-          },
-          {
             "id": "184fe24a9cf1bb73",
             "type": "leaf",
             "state": {
@@ -36,35 +22,21 @@
             }
           },
           {
-            "id": "5c2b218a36d8185f",
+            "id": "7b773a3ffbd28baf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sc900/Group identities.md",
+                "file": "sc900/Hybrid identities.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Group identities"
-            }
-          },
-          {
-            "id": "c6f28fafd523479f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "sc900/Device identities.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Device identities"
+              "title": "Hybrid identities"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -120,7 +92,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 276.5
+    "width": 276.5,
+    "collapsed": true
   },
   "right": {
     "id": "29204b37fc003a9a",
@@ -243,7 +216,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "sc900/Group identities.md",
+                "file": "sc900/Hybrid identities.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -271,7 +244,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Group identities"
+              "title": "Graph of Hybrid identities"
             }
           }
         ]
@@ -290,9 +263,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5c2b218a36d8185f",
+  "active": "7b773a3ffbd28baf",
   "lastOpenFiles": [
     "sc900/Identity.md",
+    "sc900/Hybrid identities.md",
     "sc900/Group identities.md",
     "sc900/Device identities.md",
     "sc900/Workload identities.md",
@@ -317,7 +291,6 @@
     "sc900/Zero Trust Model.md",
     "University of Auckland/2024 Semester 1/INFOSYS303 - Solutions Architecture/Computer Security.md",
     "sc900/Shared Responsibility Model.md",
-    "University of Auckland/2024 Semester 1/COMPSCI361 - Machine Learning/AdaBoost.md",
     "sc900",
     "University of Auckland",
     "@images/Pasted image 20240607020103.png",
