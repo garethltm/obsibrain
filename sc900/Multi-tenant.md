@@ -1,0 +1,2 @@
+- an organization that has more than one instance of [[Microsoft Entra ID]].
+- reasons why an organization might have multiple [[Tenant]] 

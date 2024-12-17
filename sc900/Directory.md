@@ -1,1 +1,1 @@
-- a logical container within a Microsoft Entra [[Tenant]] that holds and organizes the various resources and objects related to [[Identity]] and access management including users, groups, applications, devices and other directory obj
+- a logical container within a Microsoft Entra [[Tenant]] that holds and organizes the various resources and objects related to [[Identity]] and access management including users, groups, applications, devices and other directory objects.
