@@ -1,0 +1,1 @@
+- an instance of [[Microsoft Entra ID]] in which information about a single organization resides including organizational objects such as us
