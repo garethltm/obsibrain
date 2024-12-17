@@ -21,3 +21,9 @@ The end-goal for many organizations is to remove the use of passwords as part of
 
 The following video explains the problem with passwords, and why passwordless authentication is so important.
 
+## Windows Hello for Business
+Windows Hello for Business replaces passwords with strong two-factor authentication on devices. This involves a combination of a key or certificate tied to a device and either a PIN or biometrics. Both PIN entry and biometric gestures trigger the use of a private key to sign data cryptographically, which is then verified by the identity provider.
+
+This method helps protect against credential theft, as an attacker would need both the device and the biometric info or PIN. Windows Hello for Business can be used as a primary form of passwordless authentication and as a secondary form of authentication during multifactor authentication (MFA).
+
+## F
