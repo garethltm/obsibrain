@@ -1,1 +1,1 @@
-- an instance of [[Microsoft Entra ID]] in which information about a single organization resides including organizational objects such as us
+- an instance of [[Microsoft Entra ID]] in which information about a single organization resides including organizational objects such as users, groups, devices and application registrations. A [[Tenant]] also contains access and compliance policies for resources such as
