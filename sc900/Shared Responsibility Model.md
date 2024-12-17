@@ -1,2 +1,4 @@
-1. If on-premises hardware and software - the organization is fully responsible for implementing security and compliance.
-2. If cloud-based - responsibility is shared between customer 
+- identifies which security tasks are handled by whom:
+
+1. If on-premises hardware and software - responsible for implementing security and compliance.
+2. If cloud-based services - responsibility is shared between customer and cloud provider
