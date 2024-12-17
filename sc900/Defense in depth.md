@@ -5,4 +5,5 @@
 - Identity & Access - MFA
 - Perimeter - DDoS Protection
 - Network - Network segmentation & Network Access Controls (limit communication between resources)
-- CO
+- Compute - Securing VMs by closing ports
+- Application - 
