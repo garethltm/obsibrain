@@ -1,0 +1,1 @@
+Microsoft Entra External ID combines powerful solutions for working with people outside your organization. With External ID
