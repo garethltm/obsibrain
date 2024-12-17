@@ -1,0 +1,1 @@
+In [[Microsoft Entra ID]], if you have several identities with the same access needs, you can create a group. You use groups to give access permissions to all members of the group, instead of having to assign access rights individually. Limiting access to Microsoft Entra 

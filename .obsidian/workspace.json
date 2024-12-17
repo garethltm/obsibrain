@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sc900/Untitled.md",
+                "file": "sc900/Group identities.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "Group identities"
             }
           },
           {
@@ -243,7 +243,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "sc900/Untitled.md",
+                "file": "sc900/Group identities.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -271,7 +271,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Untitled"
+              "title": "Graph of Group identities"
             }
           }
         ]
@@ -293,7 +293,7 @@
   "active": "5c2b218a36d8185f",
   "lastOpenFiles": [
     "sc900/Identity.md",
-    "sc900/Untitled.md",
+    "sc900/Group identities.md",
     "sc900/Device identities.md",
     "sc900/Workload identities.md",
     "sc900/Service principals.md",
