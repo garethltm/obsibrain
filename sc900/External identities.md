@@ -2,6 +2,7 @@ Microsoft Entra External ID enables secure access for external identities to you
 
 Microsoft Entra External ID helps manage external users by addressing different scenarios:
 - **Collaborate with business guests**.
+	- To enable employees to collaborate with business partners and guests, use External ID for B2B collaboration. This allows your workforce to share applications and services with external partners while maintaining control over corporate data. Guests can sign in using their own credentials to access shared resources. This is useful for letting business guests access Office 365 apps, SaaS apps, and line-of-business applications. Guests authenticate with their home organization or identity provider, and your organization checks their eligibility for collaboration.![Diagram showing a representation of B2B collaboration.](https://learn.microsoft.com/en-us/training/wwl-sci/explore-basic-services-identity-types/media/b2b-collaboration-overview.png)
 - **Secure apps for consumers and business customers**.
 
 Organizations can configure their Microsoft Entra ID tenant in two ways:
