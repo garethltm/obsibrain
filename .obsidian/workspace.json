@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sc900/Identity.md",
+                "file": "sc900/Hybrid identities.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Identity"
+              "title": "Hybrid identities"
             }
           },
           {
@@ -35,8 +35,7 @@
               "title": "External identities"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -216,7 +215,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "sc900/External identities.md",
+                "file": "sc900/Hybrid identities.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -244,7 +243,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of External identities"
+              "title": "Graph of Hybrid identities"
             }
           }
         ]
@@ -263,7 +262,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "729822bbd239b3bc",
+  "active": "184fe24a9cf1bb73",
   "lastOpenFiles": [
     "sc900/Identity.md",
     "sc900/External identities.md",
