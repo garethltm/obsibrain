@@ -8,4 +8,6 @@
 - Network - Network segmentation & Network Access Controls (limit communication between resources)
 - Compute - Securing VMs by closing ports
 - Application - Ensure applications are free from vulnerabilities
-- Data - Control 
+- Data - Manage access & Encryption to protect data
+
+/2

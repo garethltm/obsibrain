@@ -52,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "confidenti",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -73,7 +73,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -249,8 +250,9 @@
   },
   "active": "d1ef5059a16fe555",
   "lastOpenFiles": [
-    "sc900/Shared Responsibility Model.md",
+    "University of Auckland/2024 Semester 1/INFOSYS303 - Solutions Architecture/Computer Security.md",
     "sc900/Defense in depth.md",
+    "sc900/Shared Responsibility Model.md",
     "University of Auckland/2024 Semester 1/COMPSCI361 - Machine Learning/AdaBoost.md",
     "sc900",
     "University of Auckland",
@@ -276,7 +278,6 @@
     "University of Auckland/2023 Semester 2/INFOSYS222 - Database Systems/DQL - JOIN.md",
     "University of Auckland/2023 Semester 2/INFOSYS222 - Database Systems/DQL - Data Query Language.md",
     "University of Auckland/2023 Semester 2/INFOSYS222 - Database Systems/DML - Data Manipulation Language.md",
-    "University of Auckland/2023 Semester 2/INFOSYS222 - Database Systems/Business Intelligence.md",
     "@images/Pasted image 20240607020103.png",
     "@images/Pasted image 20240607014820.png",
     "@images/Pasted image 20240607014406.png",
