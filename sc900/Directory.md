@@ -1,0 +1,1 @@
+- a logical container within a Microsoft Entra [[Tenant]] that holds and organizae
