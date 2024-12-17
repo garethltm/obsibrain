@@ -12,5 +12,6 @@
 
 ## [[Confidentiality, Integrity, Availability (CIA)]]
 ![Diagram showing the Confidentiality, Integrity, Availability (CIA) triangle.](https://learn.microsoft.com/en-us/training/wwl-sci/describe-security-concepts-methodologies/media/4-confidentiality-integrity-availability.png)
-- Confidentiality - keep confidential sensitive data (customer information, passwords, financial data). Should encrypt data to keep it confidential
-- Integrity - keeping data or messages correct. When encrypted it 
+- Confidentiality - keep confidential sensitive data (customer information, passwords, financial data). Should encrypt data to keep it confidential.
+- Integrity - keeping data or messages correct. When encrypted it should be the same data.
+- Availability - make data available to those and
