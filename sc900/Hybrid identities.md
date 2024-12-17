@@ -1,1 +1,1 @@
-Because organizations are moving workload to the cloud, but many still use a mix of on-premise and cloud applications. 
+Because organizations are moving workload to the cloud, but many still use a mix of on-premise and cloud applications. $\rightarrow$ users need easy access to applications regardless of where they are hosted 
