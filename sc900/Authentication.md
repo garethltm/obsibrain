@@ -26,4 +26,9 @@ Windows Hello for Business replaces passwords with strong two-factor authenticat
 
 This method helps protect against credential theft, as an attacker would need both the device and the biometric info or PIN. Windows Hello for Business can be used as a primary form of passwordless authentication and as a secondary form of authentication during multifactor authentication (MFA).
 
-## F
+## FIDO2
+Fast Identity Online (FIDO) is an open standard for passwordless authentication, allowing users to sign in using an external security key or a built-in platform key, eliminating the need for usernames and passwords.
+
+FIDO2 is the latest standard, incorporating WebAuthn, and is supported by Microsoft Entra ID. FIDO2 security keys are unphishable and can come in various forms, such as USB, Bluetooth, or NFC devices. These keys enhance security by eliminating passwords that could be exposed or guessed.
+
+Users can sign in to [[Microsoft Entra ID]], hybrid joined Windows 10 devices, and supported browsers using FIDO2 security keys, providing single sign-on to cloud and on-premises resources. FIDO2 is ideal for security-sensitive enterprises or users who prefer not to use their phone as a second factor. It serves as both a primary and secondary form of authentication during multifactor authentication (MFA).
