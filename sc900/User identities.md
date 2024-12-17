@@ -1,0 +1,3 @@
+- represent people such as employees and external users (customers, consultant, vendors, and partners).
+	- [[User identities]] are characterized by how they authenticate and the user type property
+-
