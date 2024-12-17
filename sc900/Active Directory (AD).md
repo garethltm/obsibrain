@@ -1,0 +1,1 @@
+- a set of directory services developed by Microsoft as part of Windows 2000 for on-premises domain-based networks.
