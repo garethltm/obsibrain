@@ -14,4 +14,4 @@
 ### 6 foundation pillars
 1. Identities - must be verified with strong authentication and follow least privilege access principles
 2. Devices - monitoring devices for health & compliance is an important aspect of security
-3. Applications - 
+3. Applications - because not all applications are managed centrally
