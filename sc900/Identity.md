@@ -6,11 +6,12 @@
 3. Authorization - processing the incoming identity data to determine the level of access
 4. Auditing - tracking who does what, when, where and how
 
-#### What can I assign an [[i]]
-
 In [[Microsoft Entra ID]], there are different types of identities are supported.
 1. User identities
 2. Workload identities
 3. Device identities
 4. External identities
 5. Hybrid identities
+#### What can I assign an [[Identity]] in [[Microsoft Entra ID]]
+1. You can assign [[Identity]] to people (humans).
+	1
