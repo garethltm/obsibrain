@@ -1,0 +1,1 @@
+- you can create a [[Managed identities]] as a standalone Azure resource.
