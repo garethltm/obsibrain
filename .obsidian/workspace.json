@@ -20,21 +20,8 @@
               "icon": "lucide-file",
               "title": "Hidden Markov Model"
             }
-          },
-          {
-            "id": "1d0449269c675845",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.7.5"
-              },
-              "icon": "lucide-file",
-              "title": "Release Notes 1.7.5"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -261,7 +248,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1d0449269c675845",
+  "active": "97091dfc2974a984",
   "lastOpenFiles": [
     "2024 Semester 1/COMPSCI361 - Machine Learning/Bayesian Networks.md",
     "2024 Semester 1/COMPSCI361 - Machine Learning/Bayesian Belief Networks.md",
