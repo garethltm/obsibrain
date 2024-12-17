@@ -1,0 +1,1 @@
+Because organizations are moving workload to the cloud, but many still use a mix of on-premise and cloud applications.
