@@ -4,4 +4,5 @@
 2. If cloud-based services - responsibility is shared between customer and cloud provider
 
 ![Diagram showing the Shared responsibility model responsibilities by type.](https://learn.microsoft.com/en-us/training/wwl-sci/describe-security-concepts-methodologies/media/3-shared-responsibility-model.png)
-- M365, Sky
+- SaaS - M365, Skype
+- PaaS - mainly for building, testing, & deploying software applications (creating without managing underl)
