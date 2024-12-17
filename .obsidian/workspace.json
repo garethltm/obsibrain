@@ -34,9 +34,37 @@
               "icon": "lucide-file",
               "title": "Identity"
             }
+          },
+          {
+            "id": "c829bda1d774f99b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "sc900/User identities.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "User identities"
+            }
+          },
+          {
+            "id": "91c85762b753d12f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "sc900/Workload identities.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Workload identities"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -215,7 +243,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "sc900/Identity.md",
+                "file": "sc900/User identities.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -243,7 +271,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Identity"
+              "title": "Graph of User identities"
             }
           }
         ]
@@ -262,11 +290,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "184fe24a9cf1bb73",
+  "active": "c829bda1d774f99b",
   "lastOpenFiles": [
+    "sc900/Identity.md",
+    "sc900/User identities.md",
+    "sc900/Workload identities.md",
     "sc900/Directory.md",
     "sc900/Microsoft Entra ID.md",
-    "sc900/Identity.md",
     "sc900/Multi-tenant.md",
     "sc900/Tenant.md",
     "sc900/Modern Authentication.md",
@@ -290,8 +320,6 @@
     "University of Auckland/2023 Semester 2/COMPSCI235 - Software Development Methodologies/Combating CSRF.md",
     "University of Auckland/2024 Semester 1/COMPSCI345 - Human-computer Interaction/Gestures.md",
     "University of Auckland/2023 Semester 2/COMPSCI367 - Artificial Intelligence/week10/Shallow NLP.md",
-    "University of Auckland/2023 Semester 2/COMPSCI367 - Artificial Intelligence/week10/Natural Language Processing (NLP).md",
-    "University of Auckland/2023 Semester 2/COMPSCI367 - Artificial Intelligence/week10/Pipelined NLP.md",
     "@images/Pasted image 20240607020103.png",
     "@images/Pasted image 20240607014820.png",
     "@images/Pasted image 20240607014406.png",

@@ -7,8 +7,8 @@
 4. Auditing - tracking who does what, when, where and how
 
 In [[Microsoft Entra ID]], there are different types of identities are supported.
-1. User identities
-2. Workload identities
+1. [[User identities]]
+2. [[Workload identities]]
 3. Device identities
 4. External identities
 5. Hybrid identities
@@ -16,4 +16,4 @@ In [[Microsoft Entra ID]], there are different types of identities are supported
 1. You can assign [[Identity]] to people (humans).
 	#Example employees = internal users, customers, consultants, vendors and partners = external users
 2. You can assign identities to physical devices such as mobile phones, computers and IoT devices
-3. You can assign identities to software-based objects, such as applications, virtual machines, services and containters
+3. You can assign identities to software-based objects, such as applications, virtual machines, services and containers ([[Workload identities]])[![A block diagram showing the categories of identity types. The categories consist of Workload identities, device identities, and human identities. Workload and device identities are grouped under machine identities.](https://learn.microsoft.com/en-us/training/wwl-sci/explore-basic-services-identity-types/media/identity-types-inline.png)](https://learn.microsoft.com/en-us/training/wwl-sci/explore-basic-services-identity-types/media/identity-types-expanded.png#lightbox)
