@@ -2,4 +2,5 @@
 
 ### 4 pillars of an identity infrastructure
 1. Administration - creation & management/governance of identities for users, devices and services
-2. Authentication - 
+2. Authentication - how much an IT system need to know about an identity to have sufficient proof
+3. Authorization - processing the incoming identity data to determine the level of access
