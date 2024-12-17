@@ -1,0 +1,1 @@
+- assume everything is open & untrusted network (even resources behind the firewalls of the corporate network)
