@@ -5,4 +5,5 @@
 
 ![Diagram showing the Shared responsibility model responsibilities by type.](https://learn.microsoft.com/en-us/training/wwl-sci/describe-security-concepts-methodologies/media/3-shared-responsibility-model.png)
 - SaaS - M365, Skype
-- PaaS - mainly for building, testing, & deploying software applications (creating without managing underl)
+- PaaS - mainly for building, testing, & deploying software applications (creating without managing underlying infrastructure)
+- IaaS - only not responsible for the physical infrastructure
