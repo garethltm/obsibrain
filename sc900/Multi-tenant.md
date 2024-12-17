@@ -1,4 +1,5 @@
 - an organization that has more than one instance of [[Microsoft Entra ID]].
 - reasons why an organization might have multiple [[Tenant]] include
-	- organizations with multiple subsidiaries or business units that operate independently 
-	- organizations that merge or acquire companies, 
+	- organizations with multiple subsidiaries or business units that operate independently
+	- organizations that merge or acquire companies
+	- multiple geographical boundaries with various residency regulations
