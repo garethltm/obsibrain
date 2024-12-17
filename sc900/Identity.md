@@ -15,4 +15,5 @@ In [[Microsoft Entra ID]], there are different types of identities are supported
 #### What can I assign an [[Identity]] in [[Microsoft Entra ID]]
 1. You can assign [[Identity]] to people (humans).
 	#Example employees = internal users, customers, consultants, vendors and partners = external users
-2. You can assign identities to physical d
+2. You can assign identities to physical devices such as mobile phones, computers and IoT devices
+3. You can assign identities to software-based objects, such as applications, virtual machines, services and containters
