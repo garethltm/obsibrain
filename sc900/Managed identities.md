@@ -2,3 +2,4 @@
 
 ## 2 types of [[Managed identities]]
 1. [[System-assigned]]
+2. [[User-assigned]]

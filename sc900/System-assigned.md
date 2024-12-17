@@ -1,0 +1,1 @@
+- some Azure resource can allow you to enable a [[Managed identities]] directly on the resource.
