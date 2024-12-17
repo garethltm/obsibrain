@@ -13,4 +13,5 @@
 
 # Hashing
 - uses an algorithm to convert text
-	- each time the same text is hashed using the same algorithm, the same hash value is produced. That hash can then be used as a unique identifier of it
+	- each time the same text is hashed using the same algorithm, the same hash value is produced. That hash can then be used as a unique identifier of its associated data
+- Hashing doesn't use keys compared to encryption
