@@ -10,4 +10,6 @@
 - Application - Ensure applications are free from vulnerabilities
 - Data - Manage access & Encryption to protect data
 
-/2
+## [[Confidentiality, Integrity, Availability (CIA)]]
+![Diagram showing the Confidentiality, Integrity, Availability (CIA) triangle.](https://learn.microsoft.com/en-us/training/wwl-sci/describe-security-concepts-methodologies/media/4-confidentiality-integrity-availability.png)
+- Confidentiality - keep confidential sensitive data (customer information, passwords, financial data)
