@@ -9,7 +9,7 @@
 In [[Microsoft Entra ID]], there are different types of identities are supported.
 1. [[User identities]]
 2. [[Workload identities]]
-3. Device identities
+3. [[Device identities]]
 4. External identities
 5. Hybrid identities
 #### What can I assign an [[Identity]] in [[Microsoft Entra ID]]
