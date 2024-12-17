@@ -8,4 +8,4 @@ a structured approach for managing GRC helps organizations reduce risk and impro
 	- refers to the country/region, state or federal laws or even multi-nation regulations that an organization must follow.
 		1. Data residency - data residency regulations govern the physical locations
 		2. Data sovereignty - personal data is subject to laws & regulations of the country/region
-		3. Data privacy - providing notice & being transparent 
+		3. Data privacy - providing notice & being transparent about the collection, processing, use and sharing of personal data
