@@ -12,6 +12,9 @@
 	- use analytics to get visibility, detect threats and improve security
 
 ### 6 foundation pillars
-1. Identities - must be verified with strong authentication and follow least privilege access principles
-2. Devices - monitoring devices for health & compliance is an important aspect of security
-3. Applications - because not all applications are managed centrally
+1. Identities: Verify all identities (users, services, devices) with strong authentication and least privilege access.
+2. Devices: Monitor device health and compliance to secure the large attack surface they create.
+3. Applications: Discover and manage all applications, including Shadow IT, and control permissions and access.
+4. Data: Classify, label, and encrypt data to protect it across all environments.
+5. Infrastructure: Assess and secure infrastructure (on-premises or cloud) using telemetry to detect and respond to threats.
+6. Networks: Segment networks and use real-time threat protection, encryption, monitoring, and analytics.
