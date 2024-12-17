@@ -1,0 +1,1 @@
+- enables the access or services across organizational or domain boundaries by establishing trust relationships between the respective domain's [[identity provider]]. With [[federation]], there's no ne

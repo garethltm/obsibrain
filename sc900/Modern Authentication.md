@@ -7,4 +7,4 @@ Microsoft Entra ID is an example of a cloud-based [[identity provider]]
 
 ### Single Sign-On (SSO)
 Another fundamental capability of an [[identity provider]] and [[Modern Authentication]] is the support for SSO. With SSO, the user logs in once and that credential is used to access multiple applications or resources
-- federation - when you set up SSO between multiple [[identity provider]]
+- [[federation]] - when you set up SSO between multiple [[identity provider]]
