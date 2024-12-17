@@ -6,4 +6,5 @@ a structured approach for managing GRC helps organizations reduce risk and impro
 	- the process of identifying, assessing & responding to threats or events that can impact a company or customer objectives
 3. Compliance
 	- refers to the country/region, state or federal laws or even multi-nation regulations that an organization must follow.
-		- 
+		1. Data residency - data residency regulations govern the physical locations
+		2. Data sovereignty - 
