@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sc900/Hybrid identities.md",
+                "file": "sc900/Managed identities.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Hybrid identities"
+              "title": "Managed identities"
             }
           },
           {
@@ -91,8 +91,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 276.5,
-    "collapsed": true
+    "width": 276.5
   },
   "right": {
     "id": "29204b37fc003a9a",
@@ -215,7 +214,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "sc900/Hybrid identities.md",
+                "file": "sc900/Managed identities.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -243,7 +242,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Hybrid identities"
+              "title": "Graph of Managed identities"
             }
           }
         ]
@@ -264,13 +263,13 @@
   },
   "active": "184fe24a9cf1bb73",
   "lastOpenFiles": [
+    "sc900/Service principals.md",
     "sc900/Identity.md",
-    "sc900/External identities.md",
     "sc900/Hybrid identities.md",
+    "sc900/External identities.md",
     "sc900/Group identities.md",
     "sc900/Device identities.md",
     "sc900/Workload identities.md",
-    "sc900/Service principals.md",
     "sc900/Managed identities.md",
     "sc900/User-assigned.md",
     "sc900/System-assigned.md",
