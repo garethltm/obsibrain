@@ -1,1 +1,1 @@
-Microsoft Entra External ID combines powerful solutions for working with people outside your organization. With External ID
+Microsoft Entra External ID combines powerful solutions for working with people outside your organization. With External ID, capabilities, you can allow [[External identities]] to secure access your apps and resources. Whether you're working with external partners, consumers or business customers, users can bring their own identities. 
