@@ -1,0 +1,1 @@
+- [[Identity]] has become the new security perimeter that enables organizations to secure their assets![Diagram showing identity as the new security perimeter](https://learn.microsoft.com/en-us/training/wwl-sci/describe-identity-principles-concepts/media/3-identity-new-security-perimeter.png)
