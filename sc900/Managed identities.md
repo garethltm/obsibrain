@@ -1,0 +1,1 @@
+- type of [[Service principals]] that are automatically managed in [[Microsoft Entra ID]] and eliminate the ne
