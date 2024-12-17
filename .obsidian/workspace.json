@@ -50,7 +50,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -229,7 +229,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "sc900/Device identities.md",
+                "file": "sc900/Identity.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -257,7 +257,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Device identities"
+              "title": "Graph of Identity"
             }
           }
         ]
@@ -276,10 +276,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c6f28fafd523479f",
+  "active": "184fe24a9cf1bb73",
   "lastOpenFiles": [
-    "sc900/Identity.md",
     "sc900/Device identities.md",
+    "sc900/Identity.md",
     "sc900/Workload identities.md",
     "sc900/Service principals.md",
     "sc900/Managed identities.md",
