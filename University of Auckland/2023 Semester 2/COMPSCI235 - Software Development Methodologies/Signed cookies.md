@@ -11,4 +11,4 @@
 	- the secret is supplied by the application in an environment variable named `SECRET_KEY` which can be found in the `.env` file
 ![[Pasted image 20231102011820.png]]
 
-Related to: [[Authentication]], [[cookie]]
+Related to: [[University of Auckland/2023 Semester 2/COMPSCI235 - Software Development Methodologies/Authentication]], [[cookie]]

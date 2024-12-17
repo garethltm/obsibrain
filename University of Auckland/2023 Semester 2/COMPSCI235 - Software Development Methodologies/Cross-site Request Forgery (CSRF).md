@@ -1,4 +1,4 @@
-[[cookie]]-based [[Authentication]] does not have solid protection against attacks, & they are mainly vulnerable to [[Cross-site Request Forgery (CSRF)]] attacks
+[[cookie]]-based [[University of Auckland/2023 Semester 2/COMPSCI235 - Software Development Methodologies/Authentication]] does not have solid protection against attacks, & they are mainly vulnerable to [[Cross-site Request Forgery (CSRF)]] attacks
 
 [[Cross-site Request Forgery (CSRF)]] is where a malicious user induces another user to perform an action (clicking some virus link).
 

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sc900/Governance, Risk & Compliance.md",
+                "file": "sc900/Authorization.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Governance, Risk & Compliance"
+              "title": "Authorization"
             }
           }
         ]
@@ -200,7 +200,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "sc900/Governance, Risk & Compliance.md",
+                "file": "sc900/Authorization.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -228,7 +228,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Governance, Risk & Compliance"
+              "title": "Graph of Authorization"
             }
           }
         ]
@@ -249,8 +249,10 @@
   },
   "active": "d1ef5059a16fe555",
   "lastOpenFiles": [
-    "sc900/Defense in depth.md",
+    "sc900/Authentication.md",
+    "sc900/Authorization.md",
     "sc900/Governance, Risk & Compliance.md",
+    "sc900/Defense in depth.md",
     "sc900/Encryption & Hashing.md",
     "sc900/Zero Trust Model.md",
     "University of Auckland/2024 Semester 1/INFOSYS303 - Solutions Architecture/Computer Security.md",
@@ -275,8 +277,6 @@
     "University of Auckland/2024 Semester 1/ACCTG151G - Financial Literacy/Accounting Equation.md",
     "University of Auckland/2023 Semester 2/COMPSCI235 - Software Development Methodologies/SQL Joins.md",
     "University of Auckland/2023 Semester 2/INFOSYS222 - Database Systems/Entity Generalisation.md",
-    "University of Auckland/2023 Semester 2/INFOSYS222 - Database Systems/Entity.md",
-    "University of Auckland/2023 Semester 2/INFOSYS222 - Database Systems/DQL - SELECT.md",
     "@images/Pasted image 20240607020103.png",
     "@images/Pasted image 20240607014820.png",
     "@images/Pasted image 20240607014406.png",
