@@ -1,3 +1,5 @@
 - enables the access or services across organizational or domain boundaries by establishing trust relationships between the respective domain's [[identity provider]]. With [[federation]], there's no need for a user to maintain a different username and password when accessing resources in other domains.![Diagram showing a simplified view of how federation works](https://learn.microsoft.com/en-us/training/wwl-sci/describe-identity-principles-concepts/media/5-federated-identification.png)
 
 With [[federation]], trust isn't always bidirectional. Although IdP-A may trust IdP-B and allow the user in domain B to access the website in domain A, the opposite isn't true, unless that trust relationship is configured.
+
+#Example A common example of federation in practice is when a user logs in to a third-party site with their social media account, such as X. In this scenario, X is an identity provider, and the third-party site might be using a different identity provider, such as Microsoft Entra ID. There's a trust relationship between Microsoft Entra ID and X.
