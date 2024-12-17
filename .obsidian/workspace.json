@@ -36,20 +36,6 @@
             }
           },
           {
-            "id": "c829bda1d774f99b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "sc900/User identities.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "User identities"
-            }
-          },
-          {
             "id": "91c85762b753d12f",
             "type": "leaf",
             "state": {
@@ -243,7 +229,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "sc900/User identities.md",
+                "file": "sc900/Workload identities.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -271,7 +257,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of User identities"
+              "title": "Graph of Workload identities"
             }
           }
         ]
@@ -290,11 +276,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c829bda1d774f99b",
+  "active": "91c85762b753d12f",
   "lastOpenFiles": [
     "sc900/Identity.md",
-    "sc900/User identities.md",
     "sc900/Workload identities.md",
+    "sc900/User identities.md",
     "sc900/Directory.md",
     "sc900/Microsoft Entra ID.md",
     "sc900/Multi-tenant.md",
