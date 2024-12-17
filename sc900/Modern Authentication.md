@@ -5,5 +5,5 @@ with [[Modern Authentication]], all services, including all [[sc900/Authenticati
 
 Microsoft Entra ID is an example of a cloud-based [[identity provider]]
 
-### Single sign-on
-Another fundamental capability of an identi
+### Single Sign-On (SSO)
+Another fundamental capability of an [[identity provider]] and [[Modern Authentication]] is the support for SSO. With SSO, the user logs in once and that credential is used to access multiple applications or resources
