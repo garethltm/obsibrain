@@ -1,1 +1,1 @@
-- creates, maintains and manages [[Identity]] information 
+- creates, maintains and manages [[Identity]] information while offering [[sc900/Authentication|Authentication]], [[Authorization]] and auditing services
