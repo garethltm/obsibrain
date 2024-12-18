@@ -39,4 +39,8 @@ With Passwordless sign-in, the Authenticator App turns any iOS or Android phone 
 
 The Authenticator app can also be used as a software token to generate an OATH verification code. After entering your username and password, you enter the code provided by the Authenticator app into the sign-in interface. The OATH verification code provides a second form of authentication for SSPR or MFA.
 ## Certificate-based authentication
-The Authenticator app can also be used as a software token to generate an OATH verification code. After entering your username and password, you enter the code provided by the Authenticator app into the sign-in interface. The OATH verification code provides a second form of authentication for SSPR or MFA.
+Microsoft Entra identity certificate-based authentication (CBA) enables customers to allow or require users to authenticate directly with X.509 certificates against their Microsoft Entra identity, for applications and browser sign-in. CBA is supported only as a primary form of passwordless authentication.
+
+X.509 certificates, which are part of the public key infrastructure (PKI), are digitally signed documents that bind an identity (an individual, organization, website) to its public key.
+## Primary & Secondary authentication
+Some authentication methods can be used as the primary factor when you sign in to an application or device. Other authentication methods are only available as a secondary factor when you use Microsoft Entra multifactor authentication or SSPR. While that information is called-out in the text that describes each authentication method, the following table summarizes when an authentication method can be used during a sign-in event.
