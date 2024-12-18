@@ -30,3 +30,9 @@ Fast Identity Online (FIDO) is an open standard for passwordless authentication,
 FIDO2 is the latest standard, incorporating WebAuthn, and is supported by Microsoft Entra ID. FIDO2 security keys are unphishable and can come in various forms, such as USB, Bluetooth, or NFC devices. These keys enhance security by eliminating passwords that could be exposed or guessed.
 
 Users can sign in to [[Microsoft Entra ID]], hybrid joined Windows 10 devices, and supported browsers using FIDO2 security keys, providing single sign-on to cloud and on-premises resources. FIDO2 is ideal for security-sensitive enterprises or users who prefer not to use their phone as a second factor. It serves as both a primary and secondary form of authentication during multifactor authentication (MFA).
+## Microsoft Authenticator
+As a passwordless authentication method, the Microsoft Authenticator app can be used as a primary form of authentication to sign in to any Microsoft Entra account or as an additional verification option during self-service password reset (SSPR) or Microsoft Entra multifactor authentication events.
+
+To use Microsoft Authenticator, a user must download the phone app from the Microsoft store and register their account. Microsoft Authenticator is available for Android and iOS.
+
+With Passwordless sign-in, the Authenticator App turns any iOS or Android phone into a strong, passwordless credential. To sign in to their Microsoft Entra account, a user enters their username, matches a number displayed on the screen to the one on their phone, then uses their biometric or PIN to confirm.
