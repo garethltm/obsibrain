@@ -52,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "risky users",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -73,7 +73,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -248,7 +249,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "de41219755deecf2",
+  "active": "a6e0090ac9cbd1f3",
   "lastOpenFiles": [
     "@images/Pasted image 20241219141328.png",
     "@images/Pasted image 20241219141303.png",
