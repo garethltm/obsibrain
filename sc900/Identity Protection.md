@@ -23,3 +23,6 @@
 2. Manual remediation
 	- When user remediation isn't enabled, an administrator must manually review them in the reports in the portal, through the API, or in Microsoft 365 Defender. Administrators can perform manual actions to dismiss, confirm safe, or confirm compromise on the risks.
 ### Making use of the data
+Data from ID Protection can be exported to other tools for archive, further investigation, and correlation. The Microsoft Graph based APIs allow organizations to collect this data for further processing in a tool such as their [[Security Information and Event Management (SIEM)]].
+
+Organizations might store data for longer periods by changing the diagnostic settings in [[Microsoft Entra ID]]. They can choose to send data to a Log Analytics workspace, archive data to a storage account, stream data to Event Hubs, or send data to another solution.
