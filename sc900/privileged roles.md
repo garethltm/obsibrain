@@ -15,4 +15,4 @@
 
 ![[Pasted image 20241219142611.png]]
 
-See more: ![https://learn.microsoft.com/en-us/entra/identity/role-based-access-control/privileged-roles-permissions?tabs=admin-center]
+[Privileged-roles](https://learn.microsoft.com/en-us/entra/identity/role-based-access-control/privileged-roles-permissions?tabs=admin-center)

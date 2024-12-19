@@ -19,3 +19,5 @@ Audit logs in [[Microsoft Entra ID]] provide access to system activity records, 
 - What changes were made to [custom security attribute](https://learn.microsoft.com/en-us/entra/fundamentals/custom-security-attributes-overview) definitions or assignments?
 - What updates were made to attribute sets?
 - What custom attribute values were assigned to a user?
+
+## What do the logs show
