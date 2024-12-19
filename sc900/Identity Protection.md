@@ -26,3 +26,7 @@
 Data from ID Protection can be exported to other tools for archive, further investigation, and correlation. The Microsoft Graph based APIs allow organizations to collect this data for further processing in a tool such as their [[Security Information and Event Management (SIEM)]].
 
 Organizations might store data for longer periods by changing the diagnostic settings in [[Microsoft Entra ID]]. They can choose to send data to a Log Analytics workspace, archive data to a storage account, stream data to Event Hubs, or send data to another solution.
+## Required roles
+![[Pasted image 20241219141303.png]]
+## License requirements
+![[Pasted image 20241219141328.png]]
