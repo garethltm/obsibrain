@@ -17,4 +17,6 @@
 	- A Risky user is reported when either or both are true:
 		1. The user has one or more Risky sign-ins
 		2. One or more risk detections are reported
-###
+### Remediate risks
+1. Automatic remediation
+2. Manual remediation
