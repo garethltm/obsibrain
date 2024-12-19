@@ -4,6 +4,8 @@
 	- Assign time-bound access to resources using start/end dates
 	- Require approval to activate privileged roles
 	- Enforce MFA to activate any role
+	- Use justification to understand why users activate
+	- Get notifications when privileged roles are activated
 ![[Pasted image 20241219130311.png]]
 ## Reasons to use
 - useful in a Guest scenario
