@@ -3,6 +3,7 @@
 		- usually between 0-24 hours
 	- Assign time-bound access to resources using start/end dates
 	- Require approval to activate privileged roles
+	- Enforce MFA to activate any role
 ![[Pasted image 20241219130311.png]]
 ## Reasons to use
 - useful in a Guest scenario
