@@ -1,2 +1,4 @@
-Microsoft Entra logs all sign-ins into a Microsoft Entra tenant, which includes your internal apps and resources. The sign-in logs provided by [[]] are a powerful type of [activity log](https://learn.microsoft.com/en-us/entra/identity/monitoring-health/overview-monitoring-health) that you can analyze.
-
+Microsoft Entra logs all sign-ins into a Microsoft Entra tenant, which includes your internal apps and resources. The sign-in logs provided by [[Microsoft Entra ID]] are a powerful type of [activity log](https://learn.microsoft.com/en-us/entra/identity/monitoring-health/overview-monitoring-health) that you can analyze.
+- [[Audit Logs]] – Information about changes applied to your tenant, such as users and group management or updates applied to your tenant’s resources.
+- **[Provisioning](https://learn.microsoft.com/en-us/entra/identity/monitoring-health/concept-provisioning-logs)** – Activities performed by a provisioning service, such as the creation of a group in ServiceNow or a user imported from Workday.
+### What can you do with sign-in logs
