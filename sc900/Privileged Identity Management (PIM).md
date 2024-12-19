@@ -6,6 +6,8 @@
 	- Enforce MFA to activate any role
 	- Use justification to understand why users activate
 	- Get notifications when privileged roles are activated
+	- Conduct Access Reviews to ensure users still need roles
+	- 
 ![[Pasted image 20241219130311.png]]
 ## Reasons to use
 - useful in a Guest scenario
