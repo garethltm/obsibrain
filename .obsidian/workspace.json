@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sc900/Identity Protection.md",
+                "file": "sc900/Identity and Access Management (IAM).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Identity Protection"
+              "title": "Identity and Access Management (IAM)"
             }
           }
         ]
@@ -73,8 +73,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -201,7 +200,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "sc900/Identity Protection.md",
+                "file": "sc900/Identity and Access Management (IAM).md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -229,7 +228,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Identity Protection"
+              "title": "Graph of Identity and Access Management (IAM)"
             }
           }
         ]
@@ -249,12 +248,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a6e0090ac9cbd1f3",
+  "active": "de41219755deecf2",
   "lastOpenFiles": [
+    "sc900/Identity Protection.md",
+    "sc900/Identity and Access Management (IAM).md",
+    "sc900/Untitled",
     "@images/Pasted image 20241219141328.png",
     "@images/Pasted image 20241219141303.png",
     "sc900/Security Information and Event Management (SIEM).md",
-    "sc900/Identity Protection.md",
     "sc900/Microsoft Entra ID.md",
     "sc900/Conditional Access.md",
     "@images/Pasted image 20241219131616.png",
@@ -288,7 +289,6 @@
     "@images/Pasted image 20240607014406.png",
     "@images/Pasted image 20240607014247.png",
     "@images/Pasted image 20240607013535.png",
-    "@images/Pasted image 20240607013310.png",
     "Untitled.canvas",
     "University of Auckland/2023 Semester 1/MKTG151G/Notes",
     "University of Auckland/2023 Semester 1/MKTG151G/Lecture Notes",
@@ -297,7 +297,6 @@
     "University of Auckland/2023 Semester 1/COMPSCI225/Lecture Notes",
     "University of Auckland/2023 Semester 1/COMPSCI225/Assignments",
     "University of Auckland/2023 Semester 1/INFOSYS220/Quizzes",
-    "University of Auckland/2023 Semester 1/INFOSYS220/Midterm prep",
     "University of Auckland/2023 Semester 2/COMPSCI235 - Software Development Methodologies/235 summary.canvas",
     "University of Auckland/2023 Semester 2/COMPSCI367 - Artificial Intelligence/finals prep.canvas"
   ]
