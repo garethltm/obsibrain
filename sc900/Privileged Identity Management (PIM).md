@@ -13,4 +13,8 @@
 - useful in a Guest scenario
 	- maybe like an intern or something (2 months period for example)
 
-Supports all roles curren
+Supports all roles currently in Azure [[Active Directory (AD)]]
+![[Pasted image 20241219131303.png]]
+
+& Azure Resource Roles
+
