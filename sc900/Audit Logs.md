@@ -1,6 +1,6 @@
 Audit logs in [[Microsoft Entra ID]] provide access to system activity records, often needed for compliance. You can get answers to questions related to users, groups, and applications.
 
-**Users:*
+**Users:**
 - What types of changes were recently applied to users?
 - How many users were changed?
 - How many passwords were changed?
@@ -25,4 +25,4 @@ Audit logs in [[Microsoft Entra ID]] provide access to system activity records, 
 - Service that logged the occurrence
 - Category and name of the activity (_what_)
 - Status of the activity (success or failure)
--![Screenshot of the audit logs, with the Directory and Custom Security tabs highlighted.](https://learn.microsoft.com/en-us/entra/identity/monitoring-health/media/concept-audit-logs/audit-log-tabs.png)
+![Screenshot of the audit logs, with the Directory and Custom Security tabs highlighted.](https://learn.microsoft.com/en-us/entra/identity/monitoring-health/media/concept-audit-logs/audit-log-tabs.png)
