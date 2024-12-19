@@ -2,3 +2,9 @@
 
 ![[Pasted image 20241219131616.png]]
 1. Detect risks
+	- Detect risky behaviors like:
+		- Anonymous IP address usage
+		- Password spray attacks
+		- Leaked credentials
+		- and more...
+		During each sign-in, ID Protection runs all real-time sign-in detections generating a sign-in session risk level, indicating how likely the sign-in is compromised. Based on this risk level, policies are then applied to protect the user and the organization.
