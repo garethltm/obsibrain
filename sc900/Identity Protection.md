@@ -19,5 +19,7 @@
 		2. One or more risk detections are reported
 ### Remediate risks
 1. Automatic remediation
-	- an be enabled to require access controls such as providing a strong authentication method, perform multifactor authentication, or perform a secure password reset based on the detected risk level. If the user successfully completes the access control, the risk is automatically remediated.
+	- Risk-based [[Conditional Access]] policies an be enabled to require access controls such as providing a strong authentication method, perform multifactor authentication, or perform a secure password reset based on the detected risk level. If the user successfully completes the access control, the risk is automatically remediated.
 2. Manual remediation
+	- When user remediation isn't enabled, an administrator must manually review them in the reports in the portal, through the API, or in Microsoft 365 Defender. Administrators can perform manual actions to dismiss, confirm safe, or confirm compromise on the risks.
+### Making use of the data
