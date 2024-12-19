@@ -19,4 +19,5 @@
 		2. One or more risk detections are reported
 ### Remediate risks
 1. Automatic remediation
+	- an be enabled to require access controls such as providing a strong authentication method, perform multifactor authentication, or perform a secure password reset based on the detected risk level. If the user successfully completes the access control, the risk is automatically remediated.
 2. Manual remediation
