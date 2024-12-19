@@ -10,3 +10,5 @@
 - Configure recurring access reviews to revoke unneeded permissions over time
 - Limit the number of Global Administrators to less than 5
 - Limit the number of privileged role assignments to less than 10
+
+![[Pasted image 20241219142611.png]]
