@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sc900/Identity and Access Management (IAM).md",
+                "file": "sc900/Privileged Identity Management (PIM).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Identity and Access Management (IAM)"
+              "title": "Privileged Identity Management (PIM)"
             }
           }
         ]
@@ -200,7 +200,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "sc900/Identity and Access Management (IAM).md",
+                "file": "sc900/Privileged Identity Management (PIM).md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -228,7 +228,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Identity and Access Management (IAM)"
+              "title": "Graph of Privileged Identity Management (PIM)"
             }
           }
         ]
@@ -250,8 +250,8 @@
   },
   "active": "de41219755deecf2",
   "lastOpenFiles": [
-    "sc900/Identity Protection.md",
     "sc900/Identity and Access Management (IAM).md",
+    "sc900/Identity Protection.md",
     "sc900/Untitled",
     "@images/Pasted image 20241219141328.png",
     "@images/Pasted image 20241219141303.png",

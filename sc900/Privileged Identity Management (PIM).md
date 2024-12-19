@@ -3,7 +3,7 @@
 		- usually between 0-24 hours
 	- Assign **time-bound access** to resources using start/end dates
 	- Require **approval** to activate privileged roles
-	- Enforce **MFA** to activate any role
+	- Enforce **MFA** to activate any role ([[sc900/Authentication|Authentication]])
 	- Use **justification** to understand why users activate
 	- Get **notifications** when privileged roles are activated
 	- Conduct **Access Reviews** to ensure users still need roles
