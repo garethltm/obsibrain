@@ -16,5 +16,4 @@
 Supports all roles currently in Azure [[Active Directory (AD)]]
 ![[Pasted image 20241219131303.png]]
 
-& Azure Resource Roles
-
+& Azure Resource Roles (Azure Resources)
