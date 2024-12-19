@@ -2,14 +2,14 @@
 1. **Cost Reduction**: By allowing users to reset their passwords independently, it significantly reduces IT support costs.
 2. **Increased Productivity**: Users can quickly get back to work without waiting for help desk assistance.
 3. **Flexible Security**: Administrators can update security settings and roll them out without disrupting user sign-ins.
-4. **Robust Auditing**: SSPR provides detailed audit logs that can be integrated into a Security Incident and Event Monitoring (SIEM) system.
+4. **Robust Auditing**: SSPR provides detailed audit logs that can be integrated into a [[Security Information and Event Management (SIEM)]] system.
 
 To use SSPR, users need to:
-- Have a Microsoft Entra ID license.
+- Have a [[Microsoft Entra ID]] license.
 - Be enabled for SSPR by an administrator.
-- Register their authentication methods (at least two are recommended).
+- Register their [[authentication]] methods (at least two are recommended).
 
-Available authentication methods include:
+Available [[authentication]] methods include:
 - Mobile app notification
 - Mobile app code
 - Email

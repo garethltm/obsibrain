@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sc900/Self-service password reset.md",
+                "file": "sc900/Self-Service Password Reset (SSPR).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Self-service password reset"
+              "title": "Self-Service Password Reset (SSPR)"
             }
           }
         ]
@@ -200,7 +200,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "sc900/Self-service password reset.md",
+                "file": "sc900/Self-Service Password Reset (SSPR).md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -228,7 +228,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Self-service password reset"
+              "title": "Graph of Self-Service Password Reset (SSPR)"
             }
           }
         ]
@@ -251,7 +251,7 @@
   "active": "de41219755deecf2",
   "lastOpenFiles": [
     "sc900/Security Information and Event Management (SIEM).md",
-    "sc900/Self-service password reset.md",
+    "sc900/Self-Service Password Reset (SSPR).md",
     "sc900/privileged roles.md",
     "@images/Pasted image 20241219142611.png",
     "sc900/Privileged Identity Management (PIM).md",
