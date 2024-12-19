@@ -21,3 +21,8 @@ Audit logs in [[Microsoft Entra ID]] provide access to system activity records, 
 - What custom attribute values were assigned to a user?
 
 ## What do the logs show
+- Date and time of the occurrence
+- Service that logged the occurrence
+- Category and name of the activity (_what_)
+- Status of the activity (success or failure)
+-![Screenshot of the audit logs, with the Directory and Custom Security tabs highlighted.](https://learn.microsoft.com/en-us/entra/identity/monitoring-health/media/concept-audit-logs/audit-log-tabs.png)
