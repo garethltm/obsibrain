@@ -12,5 +12,9 @@
 - Risk detections:
 	- Each risk detected is reported as a risk detection
 - Risky sign-ins:
-	- A risky sign-in is reported when there are one or more 
+	- A risky sign-in is reported when there are one or more risk detections reported for that sign-in
 - Risky users:
+	- A Risky user is reported when either or both are true:
+		1. The user has one or more Risky sign-ins
+		2. One or more risk detections are reported
+###
