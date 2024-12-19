@@ -1,0 +1,5 @@
+- gives secure access to company resources—like emails, databases, data, and applications—to verified entities, ideally with a bare minimum of interference. The goal is to manage access so that the right people can do their jobs and the wrong people, like hackers, are denied entry.
+
+The need for secure access extends beyond employees working on company machines. It also includes contractors, vendors, business partners, and people working on personal devices. IAM makes sure that each person who should have access has the right level of access at the right time on the right machine. Because of this, and the role it plays in an organization’s cybersecurity, IAM is a vital part of modern IT.
+
+With an IAM system, the organization can quickly and accurately verify a person’s identity and that they have the necessary permissions to use the requested resource during each access attempt.
