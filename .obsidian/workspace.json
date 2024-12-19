@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "Identity Protection"
             }
+          },
+          {
+            "id": "ad3ea5068c30d918",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "sc900/Security Information and Event Management (SIEM).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Security Information and Event Management (SIEM)"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -200,7 +215,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "sc900/Identity Protection.md",
+                "file": "sc900/Security Information and Event Management (SIEM).md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -228,7 +243,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Identity Protection"
+              "title": "Graph of Security Information and Event Management (SIEM)"
             }
           }
         ]
@@ -248,11 +263,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "de41219755deecf2",
+  "active": "ad3ea5068c30d918",
   "lastOpenFiles": [
+    "sc900/Identity Protection.md",
+    "sc900/Security Information and Event Management (SIEM).md",
     "sc900/Microsoft Entra ID.md",
     "sc900/Conditional Access.md",
-    "sc900/Identity Protection.md",
     "@images/Pasted image 20241219131616.png",
     "sc900/Privileged Identity Management (PIM).md",
     "@images/Pasted image 20241219131303.png",
@@ -278,7 +294,6 @@
     "sc900/User-assigned.md",
     "sc900/System-assigned.md",
     "sc900/User identities.md",
-    "sc900/Multi-tenant.md",
     "sc900",
     "University of Auckland",
     "@images/Pasted image 20240607020103.png",
