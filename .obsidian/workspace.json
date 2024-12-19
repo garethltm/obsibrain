@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sc900/Privileged Identity Management (PIM).md",
+                "file": "sc900/Identity and Access Management (IAM).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Privileged Identity Management (PIM)"
+              "title": "Identity and Access Management (IAM)"
             }
           }
         ]
@@ -200,7 +200,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "sc900/Privileged Identity Management (PIM).md",
+                "file": "sc900/Identity and Access Management (IAM).md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -228,7 +228,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Privileged Identity Management (PIM)"
+              "title": "Graph of Identity and Access Management (IAM)"
             }
           }
         ]
@@ -250,16 +250,17 @@
   },
   "active": "de41219755deecf2",
   "lastOpenFiles": [
+    "sc900/Microsoft Entra ID.md",
+    "sc900/Active Directory (AD).md",
+    "sc900/Privileged Identity Management (PIM).md",
     "sc900/Identity and Access Management (IAM).md",
     "sc900/Identity Protection.md",
     "sc900/Untitled",
     "@images/Pasted image 20241219141328.png",
     "@images/Pasted image 20241219141303.png",
     "sc900/Security Information and Event Management (SIEM).md",
-    "sc900/Microsoft Entra ID.md",
     "sc900/Conditional Access.md",
     "@images/Pasted image 20241219131616.png",
-    "sc900/Privileged Identity Management (PIM).md",
     "@images/Pasted image 20241219131303.png",
     "@images/Pasted image 20241219130311.png",
     "sc900/Self-service password reset.md",
@@ -276,7 +277,6 @@
     "sc900/Directory.md",
     "sc900/Defense in depth.md",
     "sc900/Authorization.md",
-    "sc900/Active Directory (AD).md",
     "sc900/Managed identities.md",
     "sc900/Service principals.md",
     "sc900/Workload identities.md",
