@@ -1,5 +1,5 @@
 - helps IT departments control access to sensitive data and functions, ensuring that only authorized users can access necessary resources like emails, databases, and applications.
-### Key Benefits of IAM:
+### Key Benefits
 - **Secure Access**: Provides verified entities with secure access to company resources with minimal interference.
 - **Access Control**: Ensures that only the right people have access to the right resources at the right time.
 - **Broad Coverage**: Extends secure access to employees, contractors, vendors, business partners, and personal devices.
