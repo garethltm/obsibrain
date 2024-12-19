@@ -3,14 +3,19 @@ Microsoft Entra logs all sign-ins into a Microsoft Entra tenant, which includes 
 - **[Provisioning](https://learn.microsoft.com/en-us/entra/identity/monitoring-health/concept-provisioning-logs)** – Activities performed by a provisioning service, such as the creation of a group in ServiceNow or a user imported from Workday.
 ### What can you do with sign-in logs
 You can use the sign-in logs to answer questions such as:
-
 - How many users signed into a particular application this week?
 - How many failed sign-in attempts occurred in the last 24 hours?
 - Are users signing in from specific browsers or operating systems?
 - Which of my Azure resources were accessed by managed identities and service principals?
 
 You can also describe the activity associated with a sign-in request by identifying the following details:
-
 - **Who** – The identity (User) performing the sign-in.
 - **How** – The client (Application) used for the sign-in.
 - **What** – The target (Resource) accessed by the identity.
+### What are the types of sign-in logs?
+There are four types of logs in the sign-in logs preview:
+- [Interactive user sign-ins](https://learn.microsoft.com/en-us/entra/identity/monitoring-health/concept-interactive-sign-ins)
+- [Non-interactive user sign-ins](https://learn.microsoft.com/en-us/entra/identity/monitoring-health/concept-noninteractive-sign-ins)
+- [Service principal sign-ins](https://learn.microsoft.com/en-us/entra/identity/monitoring-health/concept-service-principal-sign-ins)
+- [Managed identity sign-ins](https://learn.microsoft.com/en-us/entra/identity/monitoring-health/concept-managed-identity-sign-ins)
+
