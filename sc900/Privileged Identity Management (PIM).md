@@ -2,6 +2,8 @@
 	- Provide just in time privileged access to resources and directory
 		- usually between 0-24 hours
 	- Assign time-bound access to resources using start/end dates
+	- Require approval to activate privileged roles
 ![[Pasted image 20241219130311.png]]
 ## Reasons to use
-- u
+- useful in a Guest scenario
+	- maybe like an intern or something (2 months period for example)
