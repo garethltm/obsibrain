@@ -11,10 +11,10 @@
             "id": "002d15bad18b6221",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -73,7 +73,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 276.5
+    "width": 276.5,
+    "collapsed": true
   },
   "right": {
     "id": "29204b37fc003a9a",
@@ -245,6 +246,8 @@
   },
   "active": "002d15bad18b6221",
   "lastOpenFiles": [
+    "sc900/Group identities.md",
+    "sc900/Governance, Risk & Compliance.md",
     "sc900/Active Directory (AD).md",
     "sc900/Identity Protection.md",
     "sc900/Audit Logs.md",
@@ -267,8 +270,6 @@
     "sc900/identity provider.md",
     "sc900/Identity.md",
     "sc900/Hybrid identities.md",
-    "sc900/Group identities.md",
-    "sc900/Governance, Risk & Compliance.md",
     "sc900/federation.md",
     "sc900/External identities.md",
     "sc900/Encryption & Hashing.md",
