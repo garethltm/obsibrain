@@ -22,4 +22,7 @@
 		- Security Administrator
 		- Security Reader
 - View/filter your devices
-- 
+- Download devices
+- Configure device settings
+	- they need to be either registered or joined to [[Microsoft Entra ID]]
+	- 
