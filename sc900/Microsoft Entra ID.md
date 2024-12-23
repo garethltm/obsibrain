@@ -14,4 +14,11 @@
 - Enable/disable a Microsoft Entra device
 - Delete a Microsoft Entra device
 - View/copy a device ID
-- View/copy BitL
+- View/copy BitLocker keys![Screenshot that shows how to view BitLocker keys.](https://learn.microsoft.com/en-us/entra/identity/devices/media/manage-device-identities/show-bitlocker-key.png)
+	- To view or copy BitLocker keys, you need to be the owner of the device or have one of these roles:
+		- Cloud Device Administrator
+		- Helpdesk Administrator
+		- Intune Administrator
+		- Security Administrator
+		- Security Reader
+- 
