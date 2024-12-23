@@ -12,3 +12,6 @@
 
 ### Manage an Intune device
 - Enable/disable a Microsoft Entra device
+- Delete a Microsoft Entra device
+- View/copy a device ID
+- View/copy BitL
