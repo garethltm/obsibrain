@@ -25,4 +25,8 @@
 - Download devices
 - Configure device settings
 	- they need to be either registered or joined to [[Microsoft Entra ID]]
-	- 
+	- You must be assigned one of the following roles to read or modify device settings:
+		- [Cloud Device Administrator](https://learn.microsoft.com/en-us/entra/identity/role-based-access-control/permissions-reference#cloud-device-administrator) (read and modify)
+		- [Intune Administrator](https://learn.microsoft.com/en-us/entra/identity/role-based-access-control/permissions-reference#intune-administrator) (read only)
+		- [Windows 365 Administrator](https://learn.microsoft.com/en-us/entra/identity/role-based-access-control/permissions-reference#windows-365-administrator) (read only)![Screenshot that shows device settings related to Microsoft Entra ID.](https://learn.microsoft.com/en-us/entra/identity/devices/media/manage-device-identities/device-settings-azure-portal.png)
+[Manage devices in Microsoft Entra ID](https://learn.microsoft.com/en-us/entra/identity/devices/manage-device-identities)
