@@ -8,4 +8,7 @@
 
 
 ## Manage devices in Microsoft Entra ID
-- provides a central place to manage device identities & monitor related event informat
+- provides a central place to manage device identities & monitor related event information![Screenshot that shows the devices overview.](https://learn.microsoft.com/en-us/entra/identity/devices/media/manage-device-identities/devices-azure-portal.png)
+
+### Manage an Intune device
+- Enable/disable a Microsoft Entra device
