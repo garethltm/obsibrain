@@ -21,4 +21,5 @@
 		- Intune Administrator
 		- Security Administrator
 		- Security Reader
+- View/filter your devices
 - 
