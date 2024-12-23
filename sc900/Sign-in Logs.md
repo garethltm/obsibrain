@@ -21,3 +21,6 @@ There are four types of logs in the sign-in logs preview:
 
 Sign-in data is used by several services in Azure and Microsoft Entra to monitor risky sign-ins, provide insight into application usage, and more.
 
+### Microsoft Entra Usage & Insights
+- for application-specific sign-in data
+
