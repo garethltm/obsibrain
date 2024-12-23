@@ -5,3 +5,7 @@
 
 ## Identity Secure Score
 - a percentage that functions as an indicator for how aligned you are with Microsoft's best practice recommendations for security. Each improvement action in identity secure score is tailored to your specific configuration
+
+
+## Manage devices in Microsoft Entra ID
+- provides a central place to manage device identities & monitor related event informat

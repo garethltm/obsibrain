@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sc900/Identity and Access Management (IAM).md",
+                "file": "sc900/Microsoft Entra ID.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Identity and Access Management (IAM)"
+              "title": "Microsoft Entra ID"
             }
           }
         ]
@@ -200,7 +200,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "sc900/Identity and Access Management (IAM).md",
+                "file": "sc900/Microsoft Entra ID.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -228,7 +228,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Identity and Access Management (IAM)"
+              "title": "Graph of Microsoft Entra ID"
             }
           }
         ]
@@ -248,8 +248,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "002d15bad18b6221",
+  "active": "3ad179677b7fba41",
   "lastOpenFiles": [
+    "sc900/Identity and Access Management (IAM).md",
     "sc900/Sign-in Logs.md",
     "sc900/Audit Logs.md",
     "sc900/Directory.md",
@@ -263,7 +264,6 @@
     "sc900/Security Information and Event Management (SIEM).md",
     "@images/Pasted image 20241219142611.png",
     "sc900/Microsoft Entra ID.md",
-    "sc900/Identity and Access Management (IAM).md",
     "sc900/Untitled",
     "@images/Pasted image 20241219141328.png",
     "@images/Pasted image 20241219141303.png",
