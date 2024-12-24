@@ -1,0 +1,1 @@
+- helps organizations detect, investigate & remediate identity-based risks. This includes user identities & workload identities
