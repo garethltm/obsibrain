@@ -1,1 +1,2 @@
 - a unifying term used for both [[Microsoft Entra Internet Access]] & [[Microsoft Entra Private Access]]
+	- both come together as a solution that converges [[Zero Trust Model]] network,

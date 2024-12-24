@@ -1,1 +1,1 @@
-- provides your users, whether in an office or 
+- provides your users, whether in an office or working remote remotely secure access to your private, corporate resources
