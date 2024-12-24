@@ -26,7 +26,7 @@ Supports all roles currently in Azure [[Active Directory (AD)]]
 		- Assignment types:
 			1. Eligible assignments require the member of the role to perform an action to use the role; Actions might include activation or requesting approval from designated approvers.
 			2. Active assignments don't require the member to perform any action to use the role; Members assigned as active have the privileges assigned to the role.
-		- Duration - the duration of the assignm
-1. Activate
+		- Duration - the duration of the assignment is defined by start & end dates or is set to permanent.![Screen capture showing the assignment step.](https://learn.microsoft.com/en-us/training/wwl-sci/describe-identity-protection-governance-capabilities/media/role-assignment-inline.png)
+2. Activate - if users haev been made eligible for a role, then they must activate the role assi
 2. Approve/Deny
 3. Extend and renew
