@@ -10,5 +10,7 @@ Access policy analyses signals including user, location, device, application & r
 1. assignments
 2. access controls
 	![Screen capture showing the two components of a conditional access policy, the assignments and the access controls.](https://learn.microsoft.com/en-us/training/wwl-sci/explore-access-management-capabilities/media/conditional-access-policy-components-v3.png)
-
+### Assignments
+- logically an AND-statement
+	- you 
 
