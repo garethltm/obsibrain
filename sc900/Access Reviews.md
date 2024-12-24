@@ -7,4 +7,6 @@
 1. Too many users in privileged roles
 	- It's a good idea to check how many users have administrative access & if there are any invited guests or partners that haven't been removed after being assigned to do an administrative task. You can recertify the role assignment of users in Microsoft Entra roles such as Global Administrators, or Azure resources roles such as User Access Administrator in the Microsoft [[Privileged Identity Management (PIM)]] experience.
 2. Business critical data access
-	- For certain resources, such as business critical applications , it might be required as part of compliance processes to ask people to regularly reconfirm & give a 
+	- For certain resources, such as business critical applications , it might be required as part of compliance processes to ask people to regularly reconfirm & give a justification on why they need continued access
+3. To maintain a policy's exception list
+	- Sometimes there are business cases that require you to make exceptions to policies. As the IT admin, you can 
