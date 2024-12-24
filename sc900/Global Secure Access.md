@@ -1,2 +1,1 @@
 - a unifying term used for both [[Microsoft Entra Internet Access]] & [[Microsoft Entra Private Access]]
-	- both come together as a solution that converges [[Zero Trust Model]] network, identity & endpoint access controls to that you can secure access to any app or resource, from any location, device or identity. This type of solution represents
