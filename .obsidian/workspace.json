@@ -250,9 +250,9 @@
   },
   "active": "002d15bad18b6221",
   "lastOpenFiles": [
-    "sc900/Fully Qualified Domain Name (FQDN).md",
-    "sc900/Microsoft Entra Private Access.md",
     "sc900/Global Secure Access.md",
+    "sc900/Microsoft Entra Private Access.md",
+    "sc900/Fully Qualified Domain Name (FQDN).md",
     "sc900/Security Service Edge (SSE).md",
     "sc900/Self-Service Password Reset (SSPR).md",
     "sc900/Microsoft Entra Internet Access.md",
