@@ -279,10 +279,10 @@
   },
   "active": "8548dd8b8cbca85a",
   "lastOpenFiles": [
-    "sc900/Microsoft Entra ID Protection.md",
-    "sc900/Microsoft Entra Permissions Management.md",
-    "sc900/Privileged Identity Management (PIM).md",
     "sc900/Entitlement Management.md",
+    "sc900/Microsoft Entra Permissions Management.md",
+    "sc900/Microsoft Entra ID Protection.md",
+    "sc900/Privileged Identity Management (PIM).md",
     "sc900/Access Reviews.md",
     "sc900/Microsoft Entra ID Governance.md",
     "sc900/Dynamic Groups.md",
