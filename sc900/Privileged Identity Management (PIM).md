@@ -25,7 +25,8 @@ Supports all roles currently in Azure [[Active Directory (AD)]]
 		- Scope - the scope limits the assigned role to a particular set of resources
 		- Assignment types:
 			1. Eligible assignments require the member of the role to perform an action to use the role; Actions might include activation or requesting approval from designated approvers.
-			2. Active assignments don;;
+			2. Active assignments don't require the member to perform any action to use the role; Members assigned as active have the privileges assigned to the role.
+		- Duration - the duration of the assignm
 1. Activate
 2. Approve/Deny
 3. Extend and renew
