@@ -20,4 +20,5 @@ The solution employs a [[Global Secure Access]] client that gives organizations 
 4. Cross tenant access
 	- [[Global Secure Access]] provides visibility into the number of users & devices that are accessing other tenants.
 	- Widgets:
-		1. Sign-ins - The number of sign-ins through [[Microsoft Entra ID]] to M
+		1. Sign-ins - The number of sign-ins through [[Microsoft Entra ID]] to Microsoft services in the last 24 hours. This widget provides you with information about the activity in your tenant
+		2. 
