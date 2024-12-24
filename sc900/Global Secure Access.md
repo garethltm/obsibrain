@@ -7,4 +7,6 @@ The solution employs a [[Global Secure Access]] client that gives organizations 
 - provides you with visualizations of the network traffic acquired by the [[Microsoft Entra Private Access]] & [[Microsoft Entra Internet Access]] services. The dashboard compiles the data from your network configurations, including devices, users & tenants into several widgets. Those widgets, in turn, provide you with information you can use to monitor & improve your network configurations.
 1. Global Secure Access snapshot
 	- provides a summary of how many users & devices are using the service & how many applications were secured through the service![Screenshot of the Global Secure Access snapshot widget.](https://learn.microsoft.com/en-us/training/wwl-sci/explore-access-management-capabilities/media/global-secure-access-snapshot-widget.png)
-	- The widget defaults to showing all types of traffic but you can change the filter to show Internet Access, Private Access or Microsoft tr
+	- The widget defaults to showing all types of traffic but you can change the filter to show Internet Access, Private Access or Microsoft traffic
+2. Usage profiling (preview)
+	- The Usage profiling widget displays usage patterns for Internet Access, Private Access or Microsoft 365
