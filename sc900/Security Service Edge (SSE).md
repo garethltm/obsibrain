@@ -4,5 +4,3 @@
 2. Put a perimeter around internet-based assets
 3. Improve service in remote office locations, such as branch offices
 
-The solution employs a [[Global Secure Access]] client that gives organizations control over network traffic at the end-user computing device. Organizations gain the ability to route specific traffic profile through
-

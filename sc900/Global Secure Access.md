@@ -1,1 +1,3 @@
-- a unifying term used for both [[Microsoft Entra Internet Access]] & [[Microsoft Entra Private Access]]![Screenshot showing components that make up Global Secure Access.](https://learn.microsoft.com/en-us/training/wwl-sci/explore-access-management-capabilities/media/global-secure-access-v3.png)
+- a unifying term used for both [[Microsoft Entra Internet Access]] & [[Microsoft Entra Private Access]]
+ 
+![Screenshot showing components that make up Global Secure Access.](https://learn.microsoft.com/en-us/training/wwl-sci/explore-access-management-capabilities/media/global-secure-access-v3.png)
