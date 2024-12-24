@@ -14,5 +14,10 @@ Access policy analyses signals including user, location, device, application & r
 - logically an AND-statement
 	- if you have more than 1 assignment configured (all assignments must be satisfied to trigger a policy)
 ### Access controls
-- an informed decision is reached whether 
+- an informed decision is reached whether to
+	- block access
+	- grant access
+	- grant access with extra verification
+	- apply a session control to enable a limited experience
+
 
