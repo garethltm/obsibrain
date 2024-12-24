@@ -3,4 +3,4 @@
 ## Quick Access
 - works by creating a new enterprise application that serves as a container for the private resources you want to secure
 - you can determine which private resources to add to the "container" or enterprise application; defined by "**Quick Access application**"
-	- the private resources you add to the "**Quick Access application**" are defined by the [[Fully Qualified Do]]
+	- the private resources you add to the "**Quick Access application**" are defined by the [[Fully Qualified Domain Name (FQDN)]]
