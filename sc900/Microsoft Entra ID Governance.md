@@ -32,4 +32,4 @@ Organizations can regularly review access rights using recurring Microsoft Entra
 ### Privileged access lifecycle
 Monitoring privileged access is a key part of identity governance. When employees, vendors & contractors are assigned administrative rights, there should be a governance process because of the potential for misuse.
 
-Microsoft [[Privileged Identity Management (PIM)]] provides extra controls tailored to securing ac
+Microsoft [[Privileged Identity Management (PIM)]] provides extra controls tailored to securing access rights. [[Privileged Identity Management (PIM)]] helps you minimize the number of people who have access to resources across [[Microsoft Entra ID]], Azure & other Microsoft online services. [[Privileged Identity Management (PIM)]] provides a comprehensive set of governance controls to help secure your company's resources.
