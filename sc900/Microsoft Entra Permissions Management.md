@@ -9,4 +9,8 @@ This functionality helps organizations address the [[Zero Trust Model]] principl
 
 Permissions Management detects, automatically right-sizes (remediates), & continuously monitors unused & excessive permissions.
 
-Permissions Management helps organizations address requirements for least access privilege through discovery of the entire infrastructure, remediate that automatically rightsizes for least privilege through discovery of the entire infrastructure, remediation that automatically rightsizes for least privilege access & continuously monitoring the entire infrastructure for unused & excessive permissions
+Permissions Management helps organizations address requirements for least access privilege through discovery of the entire infrastructure, remediate that automatically rightsizes for least privilege through discovery of the entire infrastructure, remediation that automatically rightsizes for least privilege access & continuously monitoring the entire infrastructure for unused & excessive permissions.![Screen capture showing the three steps of permissions management: Discover, remediate, and monitor.](https://learn.microsoft.com/en-us/training/wwl-sci/describe-identity-protection-governance-capabilities/media/discover-remediate-monitor.png)
+1. Discover
+	- Customers can assess permission risks by evaluating 
+2. Remediate
+3. Monitor
