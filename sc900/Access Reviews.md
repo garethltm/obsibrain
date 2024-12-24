@@ -1,1 +1,1 @@
-- enables organizations to efficiently manage group memberships, access to enterprise applications & role assignment. Regular [[Access Reviews]] ensure that only the right 
+- enables organizations to efficiently manage group memberships, access to enterprise applications & role assignment. Regular [[Access Reviews]] ensure that only the right people have access to resources. 
