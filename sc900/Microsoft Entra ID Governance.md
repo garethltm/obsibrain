@@ -14,4 +14,6 @@ It's intended to help organizations address these 4 key questions
 4. Can auditors verify that the controls are working
 ### Identity lifecycle
  ![Diagram showing identity lifecycle for employees. The lifecycle is represented as a circle that starts with no access followed by joining the organization then moving to a new role and then leaving the organization. The cycle repeats.](https://learn.microsoft.com/en-us/training/wwl-sci/describe-identity-protection-governance-capabilities/media/2-identify-lifecycle-management-v3.png)
-- you ca
+You can automate the identity lifecycle of users using:
+1. Inbound provisioning from your organization's HR sources, to automatically maintain user identities in both [[Microsoft Entra ID]] & Active Directory
+2. 
