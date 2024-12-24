@@ -23,6 +23,8 @@ Supports all roles currently in Azure [[Active Directory (AD)]]
 	- the assignment process starts by assigning roles to members. To grant access to a resource, the administrator assigns roles to users, groups, service principals or managed identities. Assignment includes:
 		- Members or owners - the members or owners to assign to the role
 		- Scope - the scope limits the assigned role to a particular set of resources
+		- Assignment type:
+			- 
 1. Activate
 2. Approve/Deny
 3. Extend and renew
