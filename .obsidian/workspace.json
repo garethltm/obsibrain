@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sc900/Microsoft Entra ID Governance.md",
+                "file": "sc900/Access Reviews.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Microsoft Entra ID Governance"
+              "title": "Access Reviews"
             }
           }
         ]
@@ -200,7 +200,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "sc900/Microsoft Entra ID Governance.md",
+                "file": "sc900/Access Reviews.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -228,7 +228,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Microsoft Entra ID Governance"
+              "title": "Graph of Access Reviews"
             }
           }
         ]
@@ -250,8 +250,8 @@
   },
   "active": "002d15bad18b6221",
   "lastOpenFiles": [
-    "sc900/Access Reviews.md",
     "sc900/Microsoft Entra ID Governance.md",
+    "sc900/Access Reviews.md",
     "sc900/Dynamic Groups.md",
     "sc900/Microsoft Entra Private Access.md",
     "sc900/Identity Protection.md",
