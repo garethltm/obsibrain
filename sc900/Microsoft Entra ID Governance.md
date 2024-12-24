@@ -11,4 +11,7 @@ It's intended to help organizations address these 4 key questions
 1. Which users should have access to which resources
 2. What are those users doing with that access
 3. Are there effective organizational controls for managing access
-4. Can audi
+4. Can auditors verify that the controls are working
+### Identity lifecycle
+- 
+- ![Diagram showing identity lifecycle for employees. The lifecycle is represented as a circle that starts with no access followed by joining the organization then moving to a new role and then leaving the organization. The cycle repeats.](https://learn.microsoft.com/en-us/training/wwl-sci/describe-identity-protection-governance-capabilities/media/2-identify-lifecycle-management-v3.png)
