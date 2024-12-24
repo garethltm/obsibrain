@@ -13,4 +13,4 @@
 4. Ask group owners to confirm they still need guests in their groups
 	- If a group gives guests access to business sensitive content, then it's the group owner's responsibility to confirm the guests still have a legitimate business need for access.
 5. Have reviews recur periodically
-	- You can set up recurring access reviews of users at set frequencies such as weekly, monthlky
+	- You can set up recurring access reviews of users at set frequencies such as weekly, monthly, quarterly or annually. Reviewers are notified at the start of each review & upon completion approve or deny access through a friendly user interface & with the hlp of smar
