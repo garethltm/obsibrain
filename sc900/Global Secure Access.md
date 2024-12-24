@@ -24,4 +24,6 @@ The solution employs a [[Global Secure Access]] client that gives organizations 
 		2. Total distinct tenants - The number of distinct tenant IDs seen in the last 24 hours
 		3. Unseen tenants - The number of distinct tenants IDs that were seen in the last 24 hours, but not in the previous seven days
 		4. Users - The number of distinct user sign-ins to other tenants in the last 24 hours
-		5. Devices - The number of distinct devices that are signed in to other tenant
+		5. Devices - The number of distinct devices that are signed in to other tenants in the last 24 hours![Screenshot of the cross tenant access widget.](https://learn.microsoft.com/en-us/training/wwl-sci/explore-access-management-capabilities/media/cross-tenant-access.png)
+5. Web category filtering
+	- displays the top categories of web content that were blocked or allowed by the service. These categories can be used to determine what sites or categories 
