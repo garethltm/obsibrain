@@ -30,5 +30,5 @@ Supports all roles currently in Azure [[Active Directory (AD)]]
 2. Activate
 	- if users have been made eligible for a role, then they must activate the role assignment before using the role. To activate the role, users select specific activation duration within the maximum (configured by administrators) & the reason for the activation request![Screen capture showing the activation step.](https://learn.microsoft.com/en-us/training/wwl-sci/describe-identity-protection-governance-capabilities/media/role-activation-inline.png)
 3. Approve/Deny
-	- Delegate approvers receive email notifications when a role request
+	- Delegate approvers receive email notifications when a role request is pending their approval. Approvers can view, approve or deny these pending requests in [[Privileged Identity Management (PIM)]]. After the request has been approve, the member can start using the role.![Screen capture showing the approve or deny step.](https://learn.microsoft.com/en-us/training/wwl-sci/describe-identity-protection-governance-capabilities/media/resources-approve-pane-inline.png)
 4. Extend and renew
