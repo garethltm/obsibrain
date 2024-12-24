@@ -9,4 +9,6 @@ The solution employs a [[Global Secure Access]] client that gives organizations 
 	- provides a summary of how many users & devices are using the service & how many applications were secured through the service![Screenshot of the Global Secure Access snapshot widget.](https://learn.microsoft.com/en-us/training/wwl-sci/explore-access-management-capabilities/media/global-secure-access-snapshot-widget.png)
 	- The widget defaults to showing all types of traffic but you can change the filter to show Internet Access, Private Access or Microsoft traffic
 2. Usage profiling (preview)
-	- The Usage profiling widget displays usage patterns for Internet Access, Private Access or Microsoft 365
+	- The Usage profiling widget displays usage patterns for Internet Access, Private Access or Microsoft 365 over a selected period of time & by category![Screenshot of the usage profiling widget.](https://learn.microsoft.com/en-us/training/wwl-sci/explore-access-management-capabilities/media/dashboard-usage-profiling.png)
+3. Alerts & notifications (preview)
+	- The Alerts & notifications widget shows what is happening in the network & helps identitfy su
