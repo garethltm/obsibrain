@@ -24,7 +24,7 @@ Supports all roles currently in Azure [[Active Directory (AD)]]
 		- Members or owners - the members or owners to assign to the role
 		- Scope - the scope limits the assigned role to a particular set of resources
 		- Assignment type:
-			- 
+			- Eligible assignments require the member of the role to perform
 1. Activate
 2. Approve/Deny
 3. Extend and renew
