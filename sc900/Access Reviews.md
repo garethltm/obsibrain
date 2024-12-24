@@ -15,4 +15,5 @@
 5. Have reviews recur periodically
 	- You can set up recurring access reviews of users at set frequencies such as weekly, monthly, quarterly or annually. Reviewers are notified at the start of each review & upon completion approve or deny access through a friendly user interface & with the help of smart recommendations
 ### Multi-stage access reviews
-- Microsoft Entra [[Access Reviews]] support up to 3 review stages, in 
+- Microsoft Entra [[Access Reviews]] support up to 3 review stages, in which multiple types of reviewers engage in determining who still needs access to company resources.
+- Multi-stage access reviews allow you & your organization to enable complex workflows to meet recertification & audit requirements calling for multiple reviewers to attest to access for users in perticular sequen
