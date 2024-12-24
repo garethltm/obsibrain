@@ -11,4 +11,6 @@ The solution employs a [[Global Secure Access]] client that gives organizations 
 2. Usage profiling (preview)
 	- The Usage profiling widget displays usage patterns for Internet Access, Private Access or Microsoft 365 over a selected period of time & by category![Screenshot of the usage profiling widget.](https://learn.microsoft.com/en-us/training/wwl-sci/explore-access-management-capabilities/media/dashboard-usage-profiling.png)
 3. Alerts & notifications (preview)
-	- The Alerts & notifications widget shows what is happening in the network & helps identitfy su
+	- The Alerts & notifications widget shows what is happening in the network & helps identify suspicious activities or trends identified by the network data
+		1. Unhealthy remote network - An unhealthy remote network has 1 or more device links disconnected
+		2. Increased external tenants activity - The number of us
