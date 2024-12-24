@@ -1,0 +1,1 @@
+- enable admins to create attribute-based rules to determine membership of groups
