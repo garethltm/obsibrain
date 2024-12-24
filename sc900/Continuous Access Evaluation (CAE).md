@@ -1,1 +1,2 @@
-- a security feature where apps & Microsoft Entra constantly communicate to ensure user access is up-to-date & secure. If something changes, like a user's location or security concern arises, the system can quickly adjust or block access in near real-time, ensuring ploic
+- a security feature where apps & Microsoft Entra constantly communicate to ensure user access is up-to-date & secure. 
+If something changes, like a user's location or security concern arises, the system can quickly adjust or block access in near real-time, ensuring policies are always enforced
