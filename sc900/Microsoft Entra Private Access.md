@@ -4,4 +4,6 @@
 - works by creating a new enterprise application that serves as a container for the private resources you want to secure
 - you can determine which private resources to add to the "container" or enterprise application; defined by "**Quick Access application**"
 	- the private resources you add to the "**Quick Access application**" are defined by the [[Fully Qualified Domain Name (FQDN)]], IP address, IP or address range & ports used to access the resource.
-		- This information is referred to as a "**Quick Access application**" 
+		- This information is referred to as a "**Quick Access application**" segment.
+		- You can add many application segments to the "**Quick Access application**".
+		- You can th
