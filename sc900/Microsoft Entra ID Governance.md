@@ -26,4 +26,8 @@ In general, managing the lifecycle of an identity is about updating the access t
 
 Organizations can automate the access lifecycle process through technologies such as [[Dynamic Groups]]. When any attributes of a user or device change, the system evaluates all dynamic group rules in a directory to see if the change would trigger any users to be added or removed from a group. If a user or device satisfies a rule for a group, they're added as a member of that group. If they no longer satisfy the rule, they're removed.
 
-Entitlement management enables organizations to define how users request access across packages of group & team memberships, app roles & SharePoint Online roles & enforce separation of dut
+Entitlement management enables organizations to define how users request access across packages of group & team memberships, app roles & SharePoint Online roles & enforce separation of duties checks on access requests.
+
+Organizations can regularly review access rights using recurring Microsoft Entra access reviews for access recertification.
+### Privileged access lifecycle
+Monitoring privileged access is a key part of identity governance
