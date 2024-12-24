@@ -5,4 +5,4 @@ This functionality helps organizations address the [[Zero Trust Model]] principl
 1. Organizations are increasingly adopting multicloud strategy & are struggling with the lack of visibility & the increasing complexity of managing access permissions.
 2. With the proliferation of identities & cloud services, the number of high-risk cloud permissions is exploding, expanding the attack surface for organizations
 3. IT security teams are under increased pressure to ensure access to their expanding cloud estate is secure & compliant.
-4. 
+4. The inconsistency of cloud providers' native access management models makes it even more complex for Security 
