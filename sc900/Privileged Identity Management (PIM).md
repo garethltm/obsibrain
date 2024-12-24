@@ -20,7 +20,8 @@ Supports all roles currently in Azure [[Active Directory (AD)]]
 & Azure Resource Roles (Azure Resources)
 ## General workflow
 1. Assign
-- the assignment process starts by assigning roles to members. To grant access to a 
-2. Activate
-3. Approve/Deny
-4. Extend and renew
+	- the assignment process starts by assigning roles to members. To grant access to a resource, the administrator assigns roles to users, groups, service principals or managed identities.
+	/al
+1. Activate
+2. Approve/Deny
+3. Extend and renew
