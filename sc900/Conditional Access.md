@@ -7,5 +7,8 @@ Access policy analyses signals including user, location, device, application & r
 ![Screenshot showing Conditional Access policy flow. Signals are used to decide whether to allow or block access to apps and data.](https://learn.microsoft.com/en-us/training/wwl-sci/explore-access-management-capabilities/media/conditional-access.png)
 
 ## Components
+1. assignments
+2. access controls
+	![Screen capture showing the two components of a conditional access policy, the assignments and the access controls.](https://learn.microsoft.com/en-us/training/wwl-sci/explore-access-management-capabilities/media/conditional-access-policy-components-v3.png)
 
 
