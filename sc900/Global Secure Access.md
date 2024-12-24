@@ -1,1 +1,1 @@
-- a unifying term used for both Microsoft Entra Internet Access & Microsoft Entra Private Access
+- a unifying term used for both [[Microsoft Entra Internet Access]] & [[Microsoft Entra Private Access]]
