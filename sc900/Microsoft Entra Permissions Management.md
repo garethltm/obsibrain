@@ -6,4 +6,7 @@ This functionality helps organizations address the [[Zero Trust Model]] principl
 2. With the proliferation of identities & cloud services, the number of high-risk cloud permissions is exploding, expanding the attack surface for organizations.
 3. IT security teams are under increased pressure to ensure access to their expanding cloud estate is secure & compliant.
 4. The inconsistency of cloud providers' native access management models makes it even more complex for Security & Identity to manage permissions & enforce least privilege access policies across their entire environment.
-Permisssio
+
+Permissions Management detects, automatically right-sizes (remediates), & continuously monitors unused & excessive permissions.
+
+Permissions Management helps organizations address requirements for least ac
