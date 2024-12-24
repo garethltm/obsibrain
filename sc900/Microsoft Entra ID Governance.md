@@ -3,4 +3,5 @@
 ID governance gives organizations the ability to do the following tasks:
 1. Govern the identity lifecycle
 2. Govern access lifecycle
-3. Secure pri
+3. Secure privileged access for administration
+
