@@ -19,4 +19,5 @@ You can automate the identity lifecycle of users using:
 2. Lifecycle workflows to automate workflow tasks that run at certain key events, such before a new employee is schedule to start work at the organization, as they change status during their time in the organization & as they leave the organization
 3. Automatic assignment policies in entitlement management to add & remove a user's group memberships, application roles, & SharePoint site roles, based on changes ot the user's attributes. Information on entitlement management is covered in a subsequent unit.
 4. User provisioning to create, update & remove user accounts in other applications, with connectors to hundreds of cloud & on-premises applications.
-In general, managing the lifecycle of an identity is about updating the access
+In general, managing the lifecycle of an identity is about updating the access the users need, whether through integration with an HR system, or through user provisioning applications
+### Access lifecycle
