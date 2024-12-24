@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sc900/Microsoft Entra Private Access.md",
+                "file": "sc900/Microsoft Entra ID Governance.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Microsoft Entra Private Access"
+              "title": "Microsoft Entra ID Governance"
             }
           }
         ]
@@ -200,7 +200,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "sc900/Microsoft Entra Private Access.md",
+                "file": "sc900/Microsoft Entra ID Governance.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -228,7 +228,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Microsoft Entra Private Access"
+              "title": "Graph of Microsoft Entra ID Governance"
             }
           }
         ]
@@ -250,6 +250,8 @@
   },
   "active": "002d15bad18b6221",
   "lastOpenFiles": [
+    "sc900/Microsoft Entra Private Access.md",
+    "sc900/Microsoft Entra ID Governance.md",
     "sc900/Identity Protection.md",
     "sc900/Conditional Access.md",
     "sc900/Microsoft Entra ID.md",
@@ -257,7 +259,6 @@
     "sc900/Microsoft Entra Internet Access.md",
     "sc900/Continuous Access Evaluation (CAE).md",
     "sc900/Secure Web Gateway (SWG).md",
-    "sc900/Microsoft Entra Private Access.md",
     "sc900/Fully Qualified Domain Name (FQDN).md",
     "sc900/Security Service Edge (SSE).md",
     "sc900/Self-Service Password Reset (SSPR).md",
@@ -282,7 +283,6 @@
     "sc900/identity provider.md",
     "sc900/Identity.md",
     "sc900/Hybrid identities.md",
-    "sc900/federation.md",
     "sc900",
     "University of Auckland",
     "@images/Pasted image 20240607020103.png",
