@@ -13,4 +13,7 @@ The solution employs a [[Global Secure Access]] client that gives organizations 
 3. Alerts & notifications (preview)
 	- The Alerts & notifications widget shows what is happening in the network & helps identify suspicious activities or trends identified by the network data
 		1. Unhealthy remote network - An unhealthy remote network has 1 or more device links disconnected
-		2. Increased external tenants activity - The number of us
+		2. Increased external tenants activity - The number of users accessing external tenants has increased
+		3. Token & device inconsistency - The original token is used on a different device
+		4. Web content blocked - Access to the website has been blocked![Screenshot of the dashboard alerts notifications widget.](https://learn.microsoft.com/en-us/training/wwl-sci/explore-access-management-capabilities/media/dashboard-alerts-notifications.png)
+4. Cross tenant access
