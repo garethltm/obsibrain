@@ -3,4 +3,4 @@
 This functionality helps organizations address the [[Zero Trust Model]] principle of least privilege access. Organizations need to consider permissions management as a central piece of their [[Zero Trust Model]] security strategy that includes implementing least privilege access across their entire infrastructure.
 ## Key reasons
 1. Organizations are increasingly adopting multicloud strategy & are struggling with the lack of visibility & the increasing complexity of managing access permissions.
-2. With the proliferation of identities & cloud services, the number of high-risk cloud
+2. With the proliferation of identities & cloud services, the number of high-risk cloud permissions is exploding, expanding the attack surface for organizations
