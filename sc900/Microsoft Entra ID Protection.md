@@ -1,1 +1,3 @@
-- helps organizations detect, investigate & remediate identity-based risks. This includes user identities & workload identities
+- helps organizations detect, investigate & remediate identity-based risks. This includes user identities & workload identities.
+
+These identity-based risks can be further fed into tools like [[Conditional Access]] to make access decisions or fed back to a [[Security Information and Event Management (SIEM)]] for further investigation & correlation![Diagram that shows building blocks of Microsoft Entra ID Protection. The signals user to detect risk, the types of risks, and steps to investigate and remediate risks.](https://learn.microsoft.com/en-us/training/wwl-sci/describe-identity-protection-governance-capabilities/media/identity-protection-overview.png)
