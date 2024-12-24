@@ -11,4 +11,6 @@
 3. To maintain a policy's exception list
 	- Sometimes there are business cases that require you to make exceptions to policies. As the IT admin, you can manage this task & provide auditors with proof that these exceptions are reviewed regularly
 4. Ask group owners to confirm they still need guests in their groups
-	- If a group gives guests access to business sensitive content, then it's the group owner's responsibility to confirm the guests sti
+	- If a group gives guests access to business sensitive content, then it's the group owner's responsibility to confirm the guests still have a legitimate business need for access.
+5. Have reviews recur periodically
+	- You can set up recurring access reviews of users at set frequencies such as weekly, monthlky
