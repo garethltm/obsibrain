@@ -1,1 +1,2 @@
-- allows you to balance your organization's need for security & employee productivity with the right processes & visibility. As employees' role change within an orgnaization, you can use [[Microsoft Entra ID Governance]] 
+- allows you to balance your organization's need for security & employee productivity with the right processes & visibility. As employees' role change within an orgnaization, you can use [[Microsoft Entra ID Governance]] to automatically ensure that the right people have the right access to the right resources, with identity & access process automation, delegation to business groups & increased visibility.
+- 
