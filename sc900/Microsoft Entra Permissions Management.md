@@ -9,4 +9,4 @@ This functionality helps organizations address the [[Zero Trust Model]] principl
 
 Permissions Management detects, automatically right-sizes (remediates), & continuously monitors unused & excessive permissions.
 
-Permissions Management helps organizations address requirements for least ac
+Permissions Management helps organizations address requirements for least access privilege through discovery of the entire infrastructure, remediate that automatically rightsizes for least pr
