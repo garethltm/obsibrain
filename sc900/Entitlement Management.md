@@ -1,0 +1,1 @@
+- an identity governance feature that enables organizations to manage the identity & access lifecycle at scale. [[Entitlement Management]] automates access request workflows, access assignments, re

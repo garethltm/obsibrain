@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sc900/Untitled.md",
+                "file": "sc900/Entitlement Management.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "Entitlement Management"
             }
           }
         ],
@@ -215,7 +215,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "sc900/Untitled.md",
+                "file": "sc900/Entitlement Management.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -243,7 +243,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Untitled"
+              "title": "Graph of Entitlement Management"
             }
           }
         ]
@@ -266,7 +266,7 @@
   "active": "6f2a4465f063933f",
   "lastOpenFiles": [
     "sc900/Access Reviews.md",
-    "sc900/Untitled.md",
+    "sc900/Entitlement Management.md",
     "sc900/Microsoft Entra ID Governance.md",
     "sc900/Dynamic Groups.md",
     "sc900/Microsoft Entra Private Access.md",
