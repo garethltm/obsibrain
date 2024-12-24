@@ -12,4 +12,4 @@
 ## 2. [[Global Secure Access]] app (Per-app Access)
 - more granular approach
 - you can create multiple "containers" or enterprise application.
-- For each of these new enterprise apps, you define the properties of the private resource & you assign users & groups & assign specific [[co]]
+- For each of these new enterprise apps, you define the properties of the private resource & you assign users & groups & assign specific [[Conditional Access]] policies
