@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sc900/Microsoft Entra Internet Access.md",
+                "file": "sc900/Global Secure Access.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Microsoft Entra Internet Access"
+              "title": "Global Secure Access"
             }
           }
         ]
@@ -200,7 +200,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "sc900/Microsoft Entra Internet Access.md",
+                "file": "sc900/Global Secure Access.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -228,7 +228,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Microsoft Entra Internet Access"
+              "title": "Graph of Global Secure Access"
             }
           }
         ]
@@ -250,8 +250,8 @@
   },
   "active": "002d15bad18b6221",
   "lastOpenFiles": [
-    "sc900/Continuous Access Evaluation (CAE).md",
     "sc900/Microsoft Entra Internet Access.md",
+    "sc900/Continuous Access Evaluation (CAE).md",
     "sc900/Secure Web Gateway (SWG).md",
     "sc900/Microsoft Entra Private Access.md",
     "sc900/Global Secure Access.md",
