@@ -22,4 +22,5 @@ You can automate the identity lifecycle of users using:
 In general, managing the lifecycle of an identity is about updating the access the users need, whether through integration with an HR system, or through user provisioning applications
 ### Access lifecycle
 - the process of managing access throughout the user's organizational life. Users require different levels of access from the point at which they join an organization to when they leave it.
-- With [[]]
+- With [[Microsoft Entra ID Governance]], IT departments can establish what access rights users should have across various resources and what enforcement checks are necessary
+Organizations can automate the access lifecycle process through technologies such as dynamic groups. Dynamic groups enable damins to create attribute-based rules t
