@@ -5,4 +5,10 @@ ID governance gives organizations the ability to do the following tasks:
 2. Govern access lifecycle
 3. Secure privileged access for administration
 
-These actions can be completed for employees, business partners & vendors & across services & applications, both on-premises & in the c
+These actions can be completed for employees, business partners & vendors & across services & applications, both on-premises & in the cloud
+
+It's intended to help organizations address these 4 key questions
+1. Which users should have access to which resources
+2. What are those users doing with that access
+3. Are there effective organizational controls for managing access
+4. Can audi
