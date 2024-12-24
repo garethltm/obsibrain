@@ -21,3 +21,4 @@ You can automate the identity lifecycle of users using:
 4. User provisioning to create, update & remove user accounts in other applications, with connectors to hundreds of cloud & on-premises applications.
 In general, managing the lifecycle of an identity is about updating the access the users need, whether through integration with an HR system, or through user provisioning applications
 ### Access lifecycle
+- 
