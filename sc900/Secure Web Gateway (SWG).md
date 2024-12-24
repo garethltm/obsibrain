@@ -1,0 +1,1 @@
+- a cybersecurity solution that protects users from web-based threats by filtering internet traffic & enforcing security policies
