@@ -12,7 +12,7 @@
 ## Reasons to use
 - useful in a Guest scenario
 	- maybe like an intern or something (2 months period for example)
-- reduces the 
+- reduces the chance of a malicious actor getting access by minimizing the number of people who have access to secure information or resources. By time-limiting authorized users, it reduces the risk of an authorized user inadvertently affecting sensitive resources. [[Privileged Identity Management (PIM)]]
 
 Supports all roles currently in Azure [[Active Directory (AD)]]
 ![[Pasted image 20241219131303.png]]
