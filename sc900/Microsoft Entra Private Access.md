@@ -9,4 +9,7 @@
 		- This information is referred to as a "**Quick Access application**" segment.
 		- You can add many application segments to the "**Quick Access application**".
 		- You can then link [[Conditional Access]] policies to the "**Quick Access application**"
-## 2. [[global]]
+## 2. [[Global Secure Access]] app (Per-app Access)
+- more granular approach
+- you can create multiple "containers" or enterprise application.
+- 
