@@ -9,4 +9,6 @@
 2. Business critical data access
 	- For certain resources, such as business critical applications , it might be required as part of compliance processes to ask people to regularly reconfirm & give a justification on why they need continued access
 3. To maintain a policy's exception list
-	- Sometimes there are business cases that require you to make exceptions to policies. As the IT admin, you can 
+	- Sometimes there are business cases that require you to make exceptions to policies. As the IT admin, you can manage this task & provide auditors with proof that these exceptions are reviewed regularly
+4. Ask group owners to confirm they still need guests in their groups
+	- If a group gives guests access to business sensitive content, then it's the group owner's responsibility to confirm the guests sti
