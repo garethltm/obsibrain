@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sc900/Microsoft Entra ID.md",
+                "file": "sc900/Conditional Access.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Microsoft Entra ID"
+              "title": "Conditional Access"
             }
           }
         ]
@@ -200,7 +200,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "sc900/Microsoft Entra ID.md",
+                "file": "sc900/Conditional Access.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -228,7 +228,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Microsoft Entra ID"
+              "title": "Graph of Conditional Access"
             }
           }
         ]
@@ -248,8 +248,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "002d15bad18b6221",
+  "active": "3ad179677b7fba41",
   "lastOpenFiles": [
+    "sc900/Microsoft Entra ID.md",
     "sc900/Global Secure Access.md",
     "sc900/Microsoft Entra Internet Access.md",
     "sc900/Continuous Access Evaluation (CAE).md",
@@ -259,7 +260,6 @@
     "sc900/Security Service Edge (SSE).md",
     "sc900/Self-Service Password Reset (SSPR).md",
     "sc900/Conditional Access.md",
-    "sc900/Microsoft Entra ID.md",
     "sc900/Identity and Access Management (IAM).md",
     "sc900/Sign-in Logs.md",
     "sc900/Audit Logs.md",
