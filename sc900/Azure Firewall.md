@@ -6,4 +6,4 @@ You can deploy [[Azure Firewall]] on any virtual network but the best approach i
 1. [[Stateful Firewall]]
 2. [[Built-in high availability & availability zones]]
 3. [[Network & application level filtering]]
-4. [[Source & destination network address translation (NAT)]]
+4. [[sc900/Network Address Translation (NAT)]]

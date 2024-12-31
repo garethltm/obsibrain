@@ -1,0 +1,1 @@
+a method of remapping an IP address into another IP address to manage and secure network traffic.
