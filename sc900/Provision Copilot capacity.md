@@ -1,0 +1,1 @@
+[[Microsoft Security Copilot]] is sold as a [[consumptive offering]]
