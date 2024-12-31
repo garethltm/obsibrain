@@ -7,4 +7,6 @@ Business that are onboarded to Copilot & whose users have the appropriate role p
 	- steps to remediate
 	- recommended guidance for each identity at risk
 
-Analysts cann 
+Analysts can use Copilot to guide in the creation of a lifecycle workflow to streamline the process of creating & issuing user credentials & access rights. These & many other Entra capabilities are supported by Copilot
+
+Microsoft Entra capabilities in Co
