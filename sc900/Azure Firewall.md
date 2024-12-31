@@ -23,8 +23,8 @@ For organizations onboarded to [[Microsoft Security Copilot]], users can experie
 
 The [[Azure Firewall]] integration helps analysts perform detailed investigations of the malicious traffic intercepted by the network intrusion detection and prevention system (available in the standard and premium [[Azure Firewall]] SKUs) and/or the threat intelligence features, using natural language questions in the Security Copilot standalone experience.
 
-To use the Azure Firewall integration with Copilot:
-
+To use the [[Azure Firewall]] integration with Copilot:
 - The Azure Firewalls to be used with Security Copilot must be configured with resource specific structured logs for IDPS and these logs must be sent to a Log Analytics workspace.
-- The users must have role permissions to use Microsoft Security Copilot and must have the appropriate Azure role-based access control (RBAC) roles to access the Firewall and associated Log Analytics workspace.
-- The Azure Firewall plugin in Security Copilot must be turned on.
+- The users must have role permissions to use Microsoft Security Copilot and must have the appropriate Azure role-based access control (RBAC) roles to access the [[Firewall]] and associated Log Analytics workspace.
+- The [[Azure Firewall]] plugin in Security Copilot must be turned on.![Screen capture of the Azure Firewall plugin.](https://learn.microsoft.com/en-us/training/wwl-sci/describe-basic-security-capabilities-azure/media/firewall-plugin.png)
+- [[azu]]
