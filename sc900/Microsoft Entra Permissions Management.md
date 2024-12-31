@@ -1,6 +1,6 @@
 - a cloud infrastructure [[Entitlement Management]] (CIEM) product that provides comprehensive visibility & control over permissions for any identity & any resource in Microsoft Azure, Amazon Web Services (AWS) & Google Cloud Platform (GCP).
 
-This functionality helps organizations address the [[Zero Trust Model]] principle of least privilege access. Organizations need to consider permissions management as a central piece of their [[Zero Trust Model]] security strategy that includes implementing least privilege access across their entire infrastructure.
+This functionality helps organizations address the [[Zero Trust model]] principle of least privilege access. Organizations need to consider permissions management as a central piece of their [[Zero Trust model]] security strategy that includes implementing least privilege access across their entire infrastructure.
 ## Key reasons
 1. Organizations are increasingly adopting multicloud strategy & are struggling with the lack of visibility & the increasing complexity of managing access permissions.
 2. With the proliferation of identities & cloud services, the number of high-risk cloud permissions is exploding, expanding the attack surface for organizations.
@@ -21,8 +21,8 @@ Permissions Management helps organizations address requirements for least access
 		- Permissions on-demand - Grant identities permissions on-demand for a time-limited period or on as-needed basis
 3. Monitor
 	- Customer can detect anomalous activities with machine learning-powered (ML-powered) alerts & generate detailed forensic reports.
-	- ML-powered anomaly detections. Context-rich forensic reports around identities, actions & resources to support rapid investigation & remediation. Permissions Management depends [[Zero Trust Model]] security strategies by augmenting the least privilege access principle, which allows customers to:
+	- ML-powered anomaly detections. Context-rich forensic reports around identities, actions & resources to support rapid investigation & remediation. Permissions Management depends [[Zero Trust model]] security strategies by augmenting the least privilege access principle, which allows customers to:
 		- Get comprehensive visibility - Discover which identity is doing what, where & when.
 		- Automate least privilege access - Use access analytics to ensure identities have the right permissions, at the right time
 		- Unify access policies across [[Infrastructure as a Service (IaaS)]] platforms - Implement consistent security policies across your cloud infrastructure
-	- Once your organization has explored & implemented the discover, remediation & monitor phases, you've established one of the core pillars of a modern [[Zero Trust Model]] security strategy
+	- Once your organization has explored & implemented the discover, remediation & monitor phases, you've established one of the core pillars of a modern [[Zero Trust model]] security strategy
