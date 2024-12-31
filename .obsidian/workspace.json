@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sc900/Microsoft Security Copilot.md",
+                "file": "sc900/Web Application Firewall (WAF).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Microsoft Security Copilot"
+              "title": "Web Application Firewall (WAF)"
             }
           }
         ]
@@ -200,7 +200,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "sc900/Microsoft Security Copilot.md",
+                "file": "sc900/Web Application Firewall (WAF).md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -228,7 +228,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Microsoft Security Copilot"
+              "title": "Graph of Web Application Firewall (WAF)"
             }
           }
         ]
@@ -250,12 +250,16 @@
   },
   "active": "4d5ddf45ca534938",
   "lastOpenFiles": [
+    "sc900/Conditional Access.md",
+    "sc900/Microsoft Entra ID Governance.md",
+    "sc900/Microsoft Entra Verified ID.md",
+    "sc900/Microsoft Entra Private Access.md",
+    "sc900/Microsoft Security Copilot.md",
     "sc900/Web Application Firewall (WAF).md",
     "sc900/Azure Firewall.md",
     "sc900/Azure DDoS Protection.md",
     "sc900/Microsoft Entra ID.md",
     "sc900/Security Compute Unit (SCU).md",
-    "sc900/Microsoft Security Copilot.md",
     "sc900/Built-in high availability & availability zones.md",
     "sc900/Stateful Firewall.md",
     "sc900/Network & application level filtering.md",
@@ -273,10 +277,6 @@
     "sc900/Set up the default environment.md",
     "University of Auckland/2023 Semester 2/COMPSCI235 - Software Development Methodologies/Transport protocols.md",
     "sc900/Microsoft Purview.md",
-    "sc900/Provision Copilot capacity.md",
-    "sc900/consumptive offering.md",
-    "sc900/Prompt.md",
-    "sc900/Orchestrator.md",
     "@images/Pasted image 20241219142611.png",
     "sc900/Untitled",
     "@images/Pasted image 20241219141328.png",
