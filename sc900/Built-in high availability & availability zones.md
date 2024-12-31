@@ -1,0 +1,1 @@
+[[Azure Firewall]] has built-in high [[availa]]
