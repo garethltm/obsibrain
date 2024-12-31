@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Azure DDoS Protection.md",
+                "file": "sc900/Azure DDoS Protection.md",
                 "mode": "source",
                 "source": false
               },
@@ -200,7 +200,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Azure DDoS Protection.md",
+                "file": "sc900/Azure DDoS Protection.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -248,9 +248,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f553afc710a77eeb",
+  "active": "3ad179677b7fba41",
   "lastOpenFiles": [
-    "Azure DDoS Protection.md",
+    "sc900/Azure DDoS Protection.md",
     "sc900/Set up the default environment.md",
     "sc900/Distributed Denial of Service (DDoS).md",
     "sc900/Resource (application) layer attacks.md",

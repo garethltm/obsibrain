@@ -1,0 +1,3 @@
+is designed to help protect your applications & servers by analyzing network traffic & discarding anything that looks like a [[Distributed Denial of Service (DDoS)]] attack.![Diagram showing network flow into Azure from both customers and attackers, and how  Azure DDoS Protection filters out DDoS attacks.](https://learn.microsoft.com/en-us/training/wwl-sci/describe-basic-security-capabilities-azure/media/2-network-flow.png)
+
+[[Azure DDoS Protection]] service protects at layer 3 (ne)
