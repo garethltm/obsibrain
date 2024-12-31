@@ -1,3 +1,3 @@
 - is a managed verifiable credentials service based on open standards. [[Microsoft Entra Verified ID]] automates verifications of identity credentials & enabled privacy-protected interactions between organizations & users.
 ### Why do we need it?
-In the digital world, transactions are increasingly done over the web & often require individuals to make claims or assertions that orgnizations can digitally verify. The current process
+In the digital world, transactions are increasingly done over the web & often require individuals to make claims or assertions that orgnizations can digitally verify. The current process obtaining & presenting a digital credential can make a verifiable claim can be difficult & cumbersome. In addition, a digital credential serves as a digital identity. Onc
