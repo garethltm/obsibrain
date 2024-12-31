@@ -12,4 +12,6 @@ Azure Key Vault has two service tiers: Standard, which encrypts with a software 
 >	#Example of the URL format for a standard tier [[Azure Key Vault]] object identifier & the premium tier managed HSM are as follows:
 >		For standard tier vaults:
 >		- https://{vault-name}.vault.azure.net/{object-type}/{object-name}/{object-version}
->		
+>		For Managed HSM:
+>		- https://{hsm-name}.managedhsm.azure.net/{object-type}/{object-name}/{object-version}
+>	Securely store secrets & keys. Access to a key vault requires proper authentication & authorization before 
