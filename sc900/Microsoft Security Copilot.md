@@ -16,4 +16,5 @@ Microsoft Entra integration with Copilot can also be experienced through embedde
 > #Example the risky user's report, available from the Microsoft Entra admin center under Identity protection, embeds the capabilities of [[Microsoft Security Copilot]] to summarize a user's risk level, provide insights relevant to the incident at hand, & provide recommendations for rapid mitigation
 ![Screen capture showing the Copilot generated summary.](https://learn.microsoft.com/en-us/training/wwl-sci/describe-identity-protection-governance-capabilities/media/entra-risky-users-summarize-v2.png)
 ## Use cases
-- Investigate & remediate security threats
+- Investigate & remediate security threats - gain context for incidents to quickly triage complex security alerts into actionable summaries & remediate quicker with step-by-step response guidance.
+- Build KQL queries or
