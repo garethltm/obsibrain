@@ -16,15 +16,18 @@ For Copilot, context can refer to the time frame, or that you'll use the respons
 	> 	Better prompt: Can you give me information about Pearl Sleet activity, including a list of known indicators of compromise and tools, tactics, and procedures (TTPs)?
 
 2. Iterate. Subsequent prompts are typically needed to further clarify what you need or to try other versions of a prompt to get closer to what you're looking for. Like all LLM-based systems, Copilot can respond to the same prompt in slightly different ways.
-    3.Provide necessary context to narrow down where Copilot looks for data.
-    > 		Basic prompt: Summarize incident 15134.
-    > 		Better prompt: Summarize incident 15134 in Microsoft Defender XDR into a paragraph that I can submit to my manager and create a list of entities involved.
-- Give positive instructions instead of "what not to do." Copilot is geared toward action, so telling it what you want it to do for exceptions is more productive.
     
-    - Basic prompt: Give me a list of unmanaged devices in my network.
-    - Better prompt: Give me a list of high-risk unmanaged devices in my network. If they're named "test" remove them from the list.
-- Directly address Copilot as "You" as in, "You should ..." or "You must ...", as this is more effective than referring to it as a model or assistant.
+3. Provide necessary context to narrow down where Copilot looks for data.
+    > #Example 	
+    > 	Basic prompt: Summarize incident 15134.
+    > 	Better prompt: Summarize incident 15134 in Microsoft Defender XDR into a paragraph that I can submit to my manager and create a list of entities involved.
     
+4. Give positive instructions instead of "what not to do." Copilot is geared toward action, so telling it what you want it to do for exceptions is more productive.
+    > #Example 
+    > 	Basic prompt: Give me a list of unmanaged devices in my network.
+    > 	Better prompt: Give me a list of high-risk unmanaged devices in my network. If they're named "test" remove them from the list.
+
+5. Directly address Copilot as "You" as in, "You should ..." or "You must ...", as this is more effective than referring to it as a model or assistant.
 
 While these guidelines can help you get started in creating prompts, it’s important to note that you’re not limited to forming prompts following the structure of the previous examples. What’s great about Copilot is that it's designed to respond to questions or instructions made in your own words (that is, using natural language).
 
