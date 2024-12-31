@@ -21,4 +21,5 @@ Microsoft Entra integration with Copilot can also be experienced through embedde
 - Understand risks & manage security posture of the organization - get a broad picture of your environment with prioritized risks to uncover opportunities to improve posture more easily
 - Troubleshoot IT issues faster - synthesize relevant information rapidly & receive actionable insights to identify & resolve IT issues quickly
 - Define & manage security policies - define a new policy, cross-reference it with others for conflicts, & summarize existing policies to manage complex organization context quickly & easily
-- Configure secure lifecycle workflows - build groups & set access parameters with step-by-step
+- Configure secure lifecycle workflows - build groups & set access parameters with step-by-step guidance to ensure a seamless configuration to prevent security vulnerabilities
+- Develop reports for stakeholders - get a clear & concise report that summarizes the context & en
