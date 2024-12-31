@@ -75,5 +75,5 @@ When a user submits a [[prompt]], Copilot processes that prompt to generate the 
 During this process, Copilot generates a process log that is visible to the user. The user can see what [[capability]] is used to generate the response. This is important because it enables the user to determine whether the response was generated from a trusted source. In the screenshot that follows, the process log shows that Copilot chose the Incident Analysis capability. The process log also shows that the final output went through safety checks, which is part of Microsoft’s commitment to responsible AI.![Screen capture of the process log that highlights the capability selected and the text indicating that Copilot ran safety checks as part of the process to compose the response message.](https://learn.microsoft.com/en-us/training/wwl-sci/security-copilot-getting-started/media/process-log-new.png)
 ## Steps to onboard the service & users
 1. [[Provision Copilot capacity]]
-2. Set up the default environment
+2. [[Set up the default environment]]
 3. Assign role permissions
