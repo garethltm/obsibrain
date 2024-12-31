@@ -11,13 +11,13 @@ Effective prompts give Copilot adequate and useful parameters to generate a valu
 For Copilot, context can refer to the time frame, or that you'll use the response for a report. Expectations can include whether you want the response to be in a table format, a list of action steps, a summary, or even a diagram. Source might be useful in specifying which Microsoft [[Plugin]](s) you're referring to, if needed. Some [[Plugin]](s) require more context to work effectively or supporting [[Plugin]](s) to ensure a response when initial responses fail.
 ### Other prompting tips
 1. Be specific, clear, and concise as much as you can about what you want to achieve. You can always start simply with your first [[prompt]], but as you get more familiar with Copilot, include more details following the elements of an effective prompt.
+	> #Example 
     - Basic prompt: Pearl Sleet actor
     - Better prompt: Can you give me information about Pearl Sleet activity, including a list of known indicators of compromise and tools, tactics, and procedures (TTPs)?
 
-- Iterate. Subsequent prompts are typically needed to further clarify what you need or to try other versions of a prompt to get closer to what you're looking for. Like all LLM-based systems, Copilot can respond to the same prompt in slightly different ways.
-    
+3. Iterate. Subsequent prompts are typically needed to further clarify what you need or to try other versions of a prompt to get closer to what you're looking for. Like all LLM-based systems, Copilot can respond to the same prompt in slightly different ways.
+    > #Example 
 - Provide necessary context to narrow down where Copilot looks for data.
-    
     - Basic prompt: Summarize incident 15134.
     - Better prompt: Summarize incident 15134 in Microsoft Defender XDR into a paragraph that I can submit to my manager and create a list of entities involved.
 - Give positive instructions instead of "what not to do." Copilot is geared toward action, so telling it what you want it to do for exceptions is more productive.
