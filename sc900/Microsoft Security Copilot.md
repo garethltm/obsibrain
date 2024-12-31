@@ -44,4 +44,6 @@ The information you give Copilot will only be accessible to your organization. Y
 - Plugin
 	- a collection of capabilities by a particular resource
 - Orchestrator
-	- Copilot's system for composing
+	- Copilot's system for composing capabilities together to answer a user's prompt
+- Prompt bar & sessions
+	- At the center of Security Copilot is the prompt bar. You use the prompt bar to tell Copilot what insights you want from your security data, this is referred to as the prompt. In other words, the prompt is the text-based, natural language input you provide in the prompt bar that instructs Copilot to generate a response. Although you interact with Copilot in natural language, it’s helpful to be specific in the prompts (specific questions or statements) that you provide. For those that are relatively new to the security analyst role and engaging with AI, effective prompting may take some practice. For this reason, Copilot provides promptbooks that provide a series of preselected prompts and prompt suggestions (more details on this in a subsequent module).![A screen capture of the Microsoft Security Copilot prompt bar.](https://learn.microsoft.com/en-us/training/wwl-sci/security-copilot-getting-started/media/prompt-bar-new.png)
