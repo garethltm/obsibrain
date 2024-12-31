@@ -1,0 +1,1 @@
+[[Azure Firewall]] is a stateful [[firewall]], meaning it can keep track of the state of ac
