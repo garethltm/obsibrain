@@ -250,9 +250,9 @@
   },
   "active": "4d5ddf45ca534938",
   "lastOpenFiles": [
-    "sc900/Stateful Firewall.md",
-    "sc900/Azure Firewall.md",
     "sc900/Built-in high availability & availability zones.md",
+    "sc900/Azure Firewall.md",
+    "sc900/Stateful Firewall.md",
     "sc900/Network & application level filtering.md",
     "sc900/Threat intelligence.md",
     "sc900/Destination Network Address Translation (DNAT).md",
