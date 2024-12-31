@@ -1,0 +1,1 @@
+- is a managed verifiable credentials service based on open standards, 

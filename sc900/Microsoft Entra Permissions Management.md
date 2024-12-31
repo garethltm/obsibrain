@@ -25,4 +25,4 @@ Permissions Management helps organizations address requirements for least access
 		- Get comprehensive visibility - Discover which identity is doing what, where & when.
 		- Automate least privilege access - Use access analytics to ensure identities have the right permissions, at the right time
 		- Unify access policies across [[Infrastructure as a Service (IaaS)]] platforms - Implement consistent security policies across your cloud infrastructure
-	- Once your organization has explored & implemented the discover, remediation & monitor phases, you've established one of the core pillars of a modern zero-trust security strategy
+	- Once your organization has explored & implemented the discover, remediation & monitor phases, you've established one of the core pillars of a modern [[Zero Trust Model]] security strategy
