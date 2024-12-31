@@ -1,5 +1,5 @@
 is the fundamental building block for your organization's private network in Azure.
 
-Azure [[virtual network]] enables organizations to segment their network. Organizations can create multiple [[virtual network]](s) per region per subscription, and multiple smaller networks ([[subnet(s)]]) can be created within each [[vir.
+Azure [[virtual network]] enables organizations to segment their network. Organizations can create multiple [[virtual network]](s) per region per subscription, and multiple smaller networks ([[subnet(s)]]) can be created within each [[virtual network]].
 
-VNets provide network level containment of resources with no traffic allowed across VNets or inbound to the virtual network, by default. Communication needs to be explicitly provisioned. This enables more control over how Azure resources in a virtual network communicate with other Azure resources, the internet, and on-premises networks.
+VNets provide network level containment of resources with no traffic allowed across VNets or inbound to the [[virtual network]], by default. Communication needs to be explicitly provisioned. This enables more control over how Azure resources in a [[virtual network]] communicate with other Azure resources, the internet, and on-premises networks.![Diagram depicting network segmentation using Azure Virtual Networks.](https://learn.microsoft.com/en-us/training/wwl-sci/describe-basic-security-capabilities-azure/media/azure-virtual-networks.png)
