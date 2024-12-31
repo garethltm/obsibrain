@@ -53,6 +53,8 @@ In the previous unit, we mentioned that Copilot integrates with various sources 
 > 	- The ability to generate KQL queries from natural language input.
 > 	- The ability to generate incident reports.
 
-A plugin for Microsoft Sentinel may have similar capabilities but runs only within the scope of Microsoft Sentinel.
+A [[plugin]] for Microsoft Sentinel may have similar capabilities but runs only within the scope of Microsoft Sentinel.
 
 Copilot currently supports plug-ins for Microsoft services and non-Microsoft services, including websites and custom plug-ins that can be enabled.![A screen capture of the plugins window, showing the Microsoft plugins, including Entra, Intune, Microsoft Defender XDR, and more.](https://learn.microsoft.com/en-us/training/wwl-sci/security-copilot-getting-started/media/microsoft-plugins-updated.png)![A screen capture of the plugins window, showing the non-Microsoft plugins, including ServiceNow, Splunk, the public web, and custom plugins.](https://learn.microsoft.com/en-us/training/wwl-sci/security-copilot-getting-started/media/non-microsoft-plugins-updated.png)
+## Process flow
+When a user submits a [[prompt]], Copilot processes that prompt to generate the best possible response. The diagram that follows illustrates, at a high level, steps that Copilot takes to process the prompt and generate a response.
