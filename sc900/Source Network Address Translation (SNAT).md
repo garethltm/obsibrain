@@ -1,0 +1,1 @@
+translates the private IP address of a network resource (the source) to an Azure public IP address. This identifies and allows traffic originating from the virtual network to internet destinations.
