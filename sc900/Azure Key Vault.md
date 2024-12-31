@@ -9,4 +9,7 @@ Azure Key Vault has two service tiers: Standard, which encrypts with a software 
 ## Why use Key Vault?
 **Centralize application secrets**. 
 - Centralizing storage of application secrets in [[Azure Key Vault]] allows you to control their distribution and greatly reduces the chances that secrets may be accidentally leaked. When application developers use Key Vault, they no longer need to store security information as part of the code in their application. Instead, the application can securely access the information it needs by using a Key Vault object identifier that uniquely identifies the object within the Key Vault. Key Vault object identifiers are URLs that allow the application to retrieve specific versions of a secret. There's no need to write custom code to protect any of the secret information stored in Key Vault.
->	#Example of the URL format for a standard
+>	#Example of the URL format for a standard tier [[Azure Key Vault]] object identifier & the premium tier managed HSM are as follows:
+>		For standard tier vaults:
+>		- https://{vault-name}.vault.azure.net/{object-type}/{object-name}/{object-version}
+>		
