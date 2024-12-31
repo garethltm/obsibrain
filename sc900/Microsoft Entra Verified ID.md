@@ -8,4 +8,4 @@ Individuals & businesses need a way to express their qualifications &/or persona
 ### How it works
 ![Diagram showing the flow for the issuance and verification of a verifiable credential.](https://learn.microsoft.com/en-us/training/wwl-sci/describe-identity-protection-governance-capabilities/media/verified-id-flow-inline.png)
 - The issuer is an organization that attests to claims & grants digitally signed credentials to the user. An issuer can be an identity verification provider, a government agency, an employer, a university or any other organization that can provide proof of the user's credential
-- 
+- The user receives & approves the cren
