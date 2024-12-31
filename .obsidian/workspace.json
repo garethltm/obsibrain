@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sc900/Conditional Access.md",
+                "file": "sc900/Microsoft Security Copilot.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Conditional Access"
+              "title": "Microsoft Security Copilot"
             }
           }
         ],
@@ -102,8 +102,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -230,7 +229,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "sc900/Conditional Access.md",
+                "file": "sc900/Microsoft Security Copilot.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -258,7 +257,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Conditional Access"
+              "title": "Graph of Microsoft Security Copilot"
             }
           }
         ]
@@ -280,6 +279,7 @@
   },
   "active": "601e98ebd1323f19",
   "lastOpenFiles": [
+    "sc900/Conditional Access.md",
     "sc900/Microsoft Entra ID Protection.md",
     "sc900/Privileged Identity Management (PIM).md",
     "sc900/Entitlement Management.md",
@@ -292,7 +292,6 @@
     "sc900/Microsoft Entra ID Governance.md",
     "sc900/Dynamic Groups.md",
     "sc900/Microsoft Entra Private Access.md",
-    "sc900/Conditional Access.md",
     "sc900/Microsoft Entra ID.md",
     "sc900/Global Secure Access.md",
     "sc900/Microsoft Entra Internet Access.md",
