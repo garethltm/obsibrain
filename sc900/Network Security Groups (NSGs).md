@@ -7,16 +7,19 @@ In the highly simplified diagram that follows, you can see an Azure [[virtual ne
 A [[Network Security Groups (NSGs)]] is made up of inbound and outbound security rules. [[Network Security Groups (NSGs)]] security rules are evaluated by priority using five information points: 
 1. source
 2. source port
-3. destination, destination port, and protocol to either allow or deny the traffic. By default, Azure creates a series of rules, three inbound and three outbound rules, to provide a baseline level of security. You can't remove the default rules, but you can override them by creating new rules with higher priorities.
+3. destination
+4. destination port
+5. protocol 
+- to either allow or deny the traffic. 
+By default, Azure creates a series of rules, three inbound and three outbound rules, to provide a baseline level of security. You can't remove the default rules, but you can override them by creating new rules with higher priorities.
 
 Each rule specifies one or more of the following properties:
-
-- **Name**: Every NSG rule needs to have a unique name that describes its purpose. For example, AdminAccessOnlyFilter.
-- **Priority**: Rules are processed in priority order, with lower numbers processed before higher numbers. When traffic matches a rule, processing stops. This means that any other rules with a lower priority (higher numbers) won't be processed.
-- **Source or destination**: Specify either individual IP address or an IP address range, service tag (a group of IP address prefixes from a given Azure service), or application security group. Specifying a range, a service tag, or application security group, enables you to create fewer security rules.
-- **Protocol**: What network protocol will the rule check? The protocol can be any of: TCP, UDP, ICMP or Any.
-- **Direction**: Whether the rule should be applied to inbound or outbound traffic.
-- **Port range**: You can specify an individual or range of ports. Specifying ranges enables you to be more efficient when creating security rules.
-- **Action**: Finally, you need to decide what will happen when this rule is triggered.
+1. **Name**: Every NSG rule needs to have a unique name that describes its purpose. For example, AdminAccessOnlyFilter.
+2. **Priority**: Rules are processed in priority order, with lower numbers processed before higher numbers. When traffic matches a rule, processing stops. This means that any other rules with a lower priority (higher numbers) won't be processed.
+3. **Source or destination**: Specify either individual IP address or an IP address range, service tag (a group of IP address prefixes from a given Azure service), or application security group. Specifying a range, a service tag, or application security group, enables you to create fewer security rules.
+4. **Protocol**: What network protocol will the rule check? The protocol can be any of: TCP, UDP, ICMP or Any.
+5. **Direction**: Whether the rule should be applied to inbound or outbound traffic.
+6. **Port range**: You can specify an individual or range of ports. Specifying ranges enables you to be more efficient when creating security rules.
+7. **Action**: Finally, you need to decide what will happen when this rule is triggered.
 
 The screenshot that follows shows the default inbound rules and outbound, which are included in all NSGs.
