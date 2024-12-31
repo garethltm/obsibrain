@@ -248,15 +248,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3ad179677b7fba41",
+  "active": "f553afc710a77eeb",
   "lastOpenFiles": [
-    "sc900/Azure DDoS Protection.md",
-    "sc900/Set up the default environment.md",
     "sc900/Distributed Denial of Service (DDoS).md",
     "sc900/Resource (application) layer attacks.md",
-    "University of Auckland/2023 Semester 2/COMPSCI235 - Software Development Methodologies/Transport protocols.md",
     "sc900/Protocol attacks.md",
     "sc900/Volumetric attacks.md",
+    "sc900/Azure DDoS Protection.md",
+    "sc900/Set up the default environment.md",
+    "University of Auckland/2023 Semester 2/COMPSCI235 - Software Development Methodologies/Transport protocols.md",
     "sc900/Microsoft Purview.md",
     "sc900/Microsoft Security Copilot.md",
     "sc900/Provision Copilot capacity.md",
