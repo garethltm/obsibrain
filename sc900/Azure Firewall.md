@@ -8,3 +8,5 @@ You can deploy [[Azure Firewall]] on any virtual network but the best approach i
 3. [[Network & application level filtering]]
 4. [[Source Network Address Translation (SNAT)]] & [[Destination Network Address Translation (DNAT)]]
 5. [[Threat intelligence]]
+6. Logging & Monitoring
+7. Integration with Azure Services
