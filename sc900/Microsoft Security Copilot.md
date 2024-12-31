@@ -13,4 +13,5 @@ Analysts can use Copilot to guide in the creation of a lifecycle workflow to str
 
 Microsoft Entra integration with Copilot can also be experienced through embedded experience, referred to as Microsoft Copilot in [[Microsoft Entra ID]]
 
-> #Example the risky user's report, available from the Microsoft Entra admin center under Identity po
+> #Example the risky user's report, available from the Microsoft Entra admin center under Identity protection, embeds the capabilities of [[Microsoft Security Copilot]] to summarize a user's risk level, provide insights relevant to the incident at hand, & provide recommendations for r![Screen capture showing the Copilot generated summary.](https://learn.microsoft.com/en-us/training/wwl-sci/describe-identity-protection-governance-capabilities/media/entra-risky-users-summarize-v2.png)apid mitigation
+
