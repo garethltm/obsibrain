@@ -1,1 +1,0 @@
-[[Azure Firewall]] allows you to create and enforce network traffic filtering rules for both inbound and outbound traffic. You can define rules based on IP addresses, ports, and protocols. [[Azure Firewall]] can filter traffic based on the application-layer protocols such as HTTP/S. This means you can control access to [[Fully Qualified Domain Name (FQDN)]].

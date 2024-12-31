@@ -5,8 +5,12 @@ You can deploy [[Azure Firewall]] on any virtual network but the best approach i
 ## Features
 1. [[Stateful Firewall]]
 2. [[Built-in high availability & availability zones]]
-3. [[Network & application level filtering]]
+3. Network & application level filtering
+	1. [[Azure Firewall]] allows you to create and enforce network traffic filtering rules for both inbound and outbound traffic. You can define rules based on IP addresses, ports, and protocols. [[Azure Firewall]] can filter traffic based on the application-layer protocols such as HTTP/S. This means you can control access to [[Fully Qualified Domain Name (FQDN)]].
 4. [[Source Network Address Translation (SNAT)]] & [[Destination Network Address Translation (DNAT)]]
-5. [[Threat intelligence]]
+5. Threat intelligence
+	- [[Azure Firewall]] integrates with Microsoft's Threat Intelligence feed to alert you about known malicious IP addresses and domains, helping to protect your network from threats. Threat intelligence-based filtering can be enabled for your firewall to alert and deny traffic from/to known malicious IP addresses and domains.
 6. Logging & Monitoring
+	- [[Azure Firewall]] provides logging & monitoring capabilities to help you keep track of [[firewall]] activity & diagnose issues. Logs can be sent to Azure Monitor, Log Analytics, or Event Hubs for further analysis
 7. Integration with Azure Services
+	- 
