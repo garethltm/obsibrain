@@ -8,3 +8,5 @@ is designed to help protect your applications & servers by analyzing network tra
 ### Tiers
 1. **DDoS Network Protection**: The DDoS Network Protection service (available as a SKU), combined with application design best practices, provides enhanced DDoS mitigation features to defend against [[Distributed Denial of Service (DDoS)]] attacks. It's automatically tuned to help protect your specific Azure resources in a virtual network. Protection is simple to enable on any new or existing virtual network, and it requires no application or resource changes.
 2. **DDoS IP Protection**: DDoS IP Protection is a pay-per-protected IP model. DDoS IP Protection contains the same core engineering features as DDoS Network Protection, but differs in that it doesn't include the value-added services such as [[Distributed Denial of Service (DDoS)]] rapid response support, cost protection, and discounts on Web Application Firewall (WAF) that are part of DDoS Network Protection.
+### Why consider adding [[Azure DDoS Protection]] services if services running on Azure?
+- Azure 
