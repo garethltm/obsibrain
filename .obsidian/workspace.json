@@ -52,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "standal",
+                "query": "standalone",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -73,8 +73,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -249,10 +248,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a6e0090ac9cbd1f3",
+  "active": "3ad179677b7fba41",
   "lastOpenFiles": [
-    "sc900/Built-in high availability & availability zones.md",
+    "sc900/Microsoft Entra ID.md",
+    "sc900/Security Compute Unit (SCU).md",
+    "sc900/Microsoft Security Copilot.md",
     "sc900/Azure Firewall.md",
+    "sc900/Built-in high availability & availability zones.md",
     "sc900/Stateful Firewall.md",
     "sc900/Network & application level filtering.md",
     "sc900/Threat intelligence.md",
@@ -270,14 +272,11 @@
     "sc900/Set up the default environment.md",
     "University of Auckland/2023 Semester 2/COMPSCI235 - Software Development Methodologies/Transport protocols.md",
     "sc900/Microsoft Purview.md",
-    "sc900/Microsoft Security Copilot.md",
     "sc900/Provision Copilot capacity.md",
-    "sc900/Security Compute Unit (SCU).md",
     "sc900/consumptive offering.md",
     "sc900/Prompt.md",
     "sc900/Orchestrator.md",
     "sc900/Plugin.md",
-    "sc900/Capability.md",
     "@images/Pasted image 20241219142611.png",
     "sc900/Untitled",
     "@images/Pasted image 20241219141328.png",
