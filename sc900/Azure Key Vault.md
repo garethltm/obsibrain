@@ -14,4 +14,7 @@ Azure Key Vault has two service tiers: Standard, which encrypts with a software 
 >		- https://{vault-name}.vault.azure.net/{object-type}/{object-name}/{object-version}
 >		For Managed HSM:
 >		- https://{hsm-name}.managedhsm.azure.net/{object-type}/{object-name}/{object-version}
->	Securely store secrets & keys. Access to a key vault requires proper [[sc900/Authentication|Authentication]] & [[Authorization]] before a caller (user or application) can get access. [[sc900/Authentication|Authentication]] establishes the identity of the caller while authorization determines the operations that they're allowed to perform.
+
+Securely store secrets & keys. Access to a key vault requires proper [[sc900/Authentication|Authentication]] & [[Authorization]] before a caller (user or application) can get access. [[sc900/Authentication|Authentication]] establishes the identity of the caller while authorization determines the operations that they're allowed to perform.
+
+[[sc900/Authentication|Authentication]] is done 
