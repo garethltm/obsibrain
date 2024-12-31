@@ -20,4 +20,5 @@ Microsoft Entra integration with Copilot can also be experienced through embedde
 - Build KQL queries or analyze suspicious scripts - eliminate the need to manually write query-language scripts or reverse engineer malware scripts with natural language translation to enable every team member to execute technical tasks
 - Understand risks & manage security posture of the organization - get a broad picture of your environment with prioritized risks to uncover opportunities to improve posture more easily
 - Troubleshoot IT issues faster - synthesize relevant information rapidly & receive actionable insights to identify & resolve IT issues quickly
-- Define & manage security policies - define a new policy, cross-refer
+- Define & manage security policies - define a new policy, cross-reference it with others for conflicts, & summarize existing policies to manage complex organization context quickly & easily
+- Configure secure lifecycle workflows - build groups & set access parameters with step-by-step
