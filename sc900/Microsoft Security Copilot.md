@@ -36,13 +36,10 @@ Copilot combines powerful LLMs with security-specific sources from Microsoft. Th
 The information you give Copilot will only be accessible to your organization. Your data is your data, and it's protected by comprehensive enterprise compliance and security controls. Your data isn't used to train the foundation AI models.![Diagram showing key attributes of Security Copilot, including hyperscale AI infrastructure, security specific orchestrator,evergreen threat intelligence, and cyber skills and promptbooks.](https://learn.microsoft.com/en-us/training/wwl-sci/security-copilot-getting-started/media/security-copilot-v2.png)
 ## Terminology
 - [[sc900/Session|Session]]
-
-- Prompt
-	- a specific statement or question within a session. A user enters a prompt in the prompt bar
-- Capability
-	- a function Copilot uses to solve part of a problem. A capability may sometimes be referred to as a skill
-- Plugin
-	- a collection of capabilities by a particular resource
+- [[Prompt]]
+- [[Capability]]
+- [[Plugin]]
+	- 
 - Orchestrator
 	- Copilot's system for composing capabilities together to answer a user's prompt
 

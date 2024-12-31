@@ -1,0 +1,1 @@
+a collection of capabilities by a particular resource

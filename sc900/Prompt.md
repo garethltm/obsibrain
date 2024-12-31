@@ -1,0 +1,1 @@
+a specific statement or question within a [[session]]. A user enters a prompt in the prompt bar

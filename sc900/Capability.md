@@ -1,0 +1,1 @@
+a function Copilot uses to solve part of a problem. A [[capability]] may sometimes be referred to as a skill
