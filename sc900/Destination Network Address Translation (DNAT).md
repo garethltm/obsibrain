@@ -1,0 +1,1 @@
+the public IP address used to access specific services inside your network is translated and filtered to the private IP addresses of the resource on the virtual network (the destination). This allows traffic, originating from the internet, to access your private resources.
