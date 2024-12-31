@@ -42,4 +42,6 @@ The information you give Copilot will only be accessible to your organization. Y
 - Capability
 	- a function Copilot uses to solve part of a problem. A capability may sometimes be referred to as a skill
 - Plugin
-	- a colle
+	- a collection of capabilities by a particular resource
+- Orchestrator
+	- Copilot's system for composing
