@@ -2,4 +2,4 @@ Azure [[Web Application Firewall (WAF)]] is integrated with [[Microsoft Security
 
 For organizations onboarded to [[Microsoft Security Copilot]], users can experience the [[Microsoft Security Copilot]] integration through the standalone experience.
 
-Azure [[Web Application Firewall (WAF)]] integration in
+Azure [[Web Application Firewall (WAF)]] integration in 
