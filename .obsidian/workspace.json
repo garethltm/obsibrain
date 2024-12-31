@@ -279,8 +279,9 @@
   },
   "active": "bac966133aa4fe6b",
   "lastOpenFiles": [
-    "sc900/segmentation.md",
+    "sc900/virtual network.md",
     "sc900/Azure Virtual Network (VNet).md",
+    "sc900/segmentation.md",
     "sc900/Zero Trust model.md",
     "sc900/Azure Web Application Firewall.md",
     "sc900/Destination Network Address Translation (DNAT).md",
@@ -305,7 +306,6 @@
     "Untitled",
     "sc900/firewall.md",
     "sc900/Distributed Denial of Service (DDoS).md",
-    "sc900/Resource (application) layer attacks.md",
     "@images/Pasted image 20241219142611.png",
     "sc900/Untitled",
     "@images/Pasted image 20241219141328.png",

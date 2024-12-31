@@ -1,0 +1,1 @@
+is similar to a traditional network that you'd operate in your own data center, but brings with it additional benefits of Azure's infrastructure such as scale, [[availability]], and isolation.

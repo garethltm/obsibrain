@@ -1,5 +1,5 @@
-is the fundamental building block for your organization's private network in Azure. A virtual network is similar to a traditional network that you'd operate in your own data center, but brings with it additional benefits of Azure's infrastructure such as scale, availability, and isolation.
+is the fundamental building block for your organization's private network in Azure.
 
-Azure virtual network enables organizations to segment their network. Organizations can create multiple virtual networks per region per subscription, and multiple smaller networks (subnets) can be created within each virtual network.
+Azure [[virtual network]] enables organizations to segment their network. Organizations can create multiple [[virtual network]](s) per region per subscription, and multiple smaller networks ([[subnet(s)]]) can be created within each [[vir.
 
 VNets provide network level containment of resources with no traffic allowed across VNets or inbound to the virtual network, by default. Communication needs to be explicitly provisioned. This enables more control over how Azure resources in a virtual network communicate with other Azure resources, the internet, and on-premises networks.
