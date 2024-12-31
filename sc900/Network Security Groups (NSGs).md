@@ -22,4 +22,13 @@ Each rule specifies one or more of the following properties:
 6. **Port range**: You can specify an individual or range of ports. Specifying ranges enables you to be more efficient when creating security rules.
 7. **Action**: Finally, you need to decide what will happen when this rule is triggered.
 
-The screenshot that follows shows the default inbound rules and outbound, which are included in all NSGs.
+The screenshot that follows shows the default inbound rules and outbound, which are included in all NSGs.![Screenshot showing the default inbound and outbound rules for an Azure network security group.](https://learn.microsoft.com/en-us/training/wwl-sci/describe-basic-security-capabilities-azure/media/network-security-group-rules-inline.png)
+- Descriptions for the default inbound rules are as follows:
+	- **AllowVNetInBound** - The AllowVNetInBound rule is processed first as it has the lowest priority value. Recall that rules with the lowest priority value get processed first. This rule allows traffic from a source with the VirtualNetwork service tag to a destination with the VirtualNetwork service tag on any port, using any protocol. If a match is found for this rule, then no other rules are processed. If no match is found, then the next rule gets processed.
+	
+	- **AllowAzureLoadBalancerInBound** - The AllowAzureLoadBalancerInBound rule is processed second, as its priority value is higher than the AllowVNetInBound rule. This rule allows traffic from a source with the AzureLoadBalancer service tag to a destination with the AzureLoadBalancer service tag on any port to any IP address on any port, using any protocol. If a match is found for this rule, then no other rules are processed. If no match is found, then the next rule gets processed.
+	
+	- DenyAllInBound - The last rule in this NSG is the DenyAllInBound rule. This rule denies all traffic from any source IP address on any port to any other IP address on any port, using any protocol.
+    
+
+In summary, any virtual network subnet or network interface card to which this NSG is assigned will only allow inbound traffic from an Azure Virtual Network or an Azure load balancer (as defined by their respective service tags). All other inbound network traffic is denied. You can't remove the default rules, but you can override them by creating new rules with higher priorities (lower priority value).
