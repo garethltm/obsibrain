@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sc900/segmentation.md",
+                "file": "sc900/Zero Trust Model.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "segmentation"
+              "title": "Zero Trust Model"
             }
           }
         ],
@@ -215,7 +215,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "sc900/segmentation.md",
+                "file": "sc900/Zero Trust Model.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -243,7 +243,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of segmentation"
+              "title": "Graph of Zero Trust Model"
             }
           }
         ]
@@ -265,8 +265,8 @@
   },
   "active": "142f910f1834f424",
   "lastOpenFiles": [
-    "sc900/Azure Web Application Firewall.md",
     "sc900/segmentation.md",
+    "sc900/Azure Web Application Firewall.md",
     "sc900/Destination Network Address Translation (DNAT).md",
     "sc900/Web Application Firewall (WAF).md",
     "sc900/Conditional Access.md",
