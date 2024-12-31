@@ -14,3 +14,27 @@ During the setup of Security Copilot, you're prompted to configure settings. The
 - Your organization's data - The admin must also opt in or opt out of data sharing options. These options are part of the initial setup and also listed under Owner settings in the standalone experience. Turn the toggles on or off for any of the following options:
 	- Allow Microsoft to capture data from Security Copilot to validate product performance using human review: When turned on, customer data is shared with Microsoft for product improvement. Prompts and responses are evaluated to understand whether the right plugins were selected, if the output is what was expected, how responses, latency, and output format can be improved.
 	- Allow Microsoft to capture and human review data from Security Copilot to build and validate Microsoft's security AI model: When turned on, customer data is shared with Microsoft for Copilot AI improvement. Opting in does NOT allow Microsoft to use customer data to train foundational models. Prompts and responses are evaluated to enhance responses and to ensure they're what's expected and useful to you.![Screen capture showing the settings for how you can configure data sharing to help improve Copilot.](https://learn.microsoft.com/en-us/training/wwl-sci/security-copilot-getting-started/media/help-improve-copilot.png)
+	- Plugin settings - The admin manages plugins and configures whether to allow Security Copilot to access data from your Microsoft 365 services.
+		- Configure who can add and manage their own custom plugins and who can add and manage custom plugins for everyone in the organization.
+		- Manage plugin availability and restrict access. When enabled, admins decide which new and existing plugins will be available to everyone in your organization, and which will be restricted to owners only.
+		- Allow Security Copilot to access data from your Microsoft 365 services. If this option is turned off, your organization won't be able to use plugins that access Microsoft 365 services. Currently, this option is required for use of the Microsoft Purview plugin. Setting and/or changing this setting requires a user with a Global administrator role.![Screen capture showing the plugin settings and the setting to allow Security Copilot to access data from your Microsoft 365 services.](https://learn.microsoft.com/en-us/training/wwl-sci/security-copilot-getting-started/media/plugin-settings-no-restrictions.png)
+### Role permissions
+To ensure that the users can access the features of Copilot, they need to have the appropriate role permissions.
+
+Permissions can be assigned using Microsoft Entra ID roles or Security Copilot roles. As a best practice, provide the least privileged role applicable for each user.
+
+The Microsoft Entra ID roles are:
+
+- Global administrator
+- Security administrator
+- Security operator
+- Security reader
+
+Although these Microsoft Entra ID roles grant users varying levels of access to Copilot, the scope of these roles extends beyond Copilot. For this reason, Security Copilot introduces two roles that function like access groups but aren't Microsoft Entra ID roles. Instead, they only control access to the capabilities of the Security Copilot platform.
+
+The Microsoft Security Copilot roles are:
+
+- Copilot owner
+- Copilot contributor
+
+The Security Administrator and Global Administrator roles in Microsoft Entra automatically inherit Copilot owner access.
