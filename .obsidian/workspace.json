@@ -52,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "conditional access",
+                "query": "tag:#Example",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -73,7 +73,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",

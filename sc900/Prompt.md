@@ -12,14 +12,13 @@ For Copilot, context can refer to the time frame, or that you'll use the respons
 ### Other prompting tips
 1. Be specific, clear, and concise as much as you can about what you want to achieve. You can always start simply with your first [[prompt]], but as you get more familiar with Copilot, include more details following the elements of an effective prompt.
 	> #Example 
-    - Basic prompt: Pearl Sleet actor
-    - Better prompt: Can you give me information about Pearl Sleet activity, including a list of known indicators of compromise and tools, tactics, and procedures (TTPs)?
+	> 	Basic prompt: Pearl Sleet actor
+	> 	Better prompt: Can you give me information about Pearl Sleet activity, including a list of known indicators of compromise and tools, tactics, and procedures (TTPs)?
 
-3. Iterate. Subsequent prompts are typically needed to further clarify what you need or to try other versions of a prompt to get closer to what you're looking for. Like all LLM-based systems, Copilot can respond to the same prompt in slightly different ways.
-    > #Example 
-- Provide necessary context to narrow down where Copilot looks for data.
-    - Basic prompt: Summarize incident 15134.
-    - Better prompt: Summarize incident 15134 in Microsoft Defender XDR into a paragraph that I can submit to my manager and create a list of entities involved.
+2. Iterate. Subsequent prompts are typically needed to further clarify what you need or to try other versions of a prompt to get closer to what you're looking for. Like all LLM-based systems, Copilot can respond to the same prompt in slightly different ways.
+    3.Provide necessary context to narrow down where Copilot looks for data.
+    > 		Basic prompt: Summarize incident 15134.
+    > 		Better prompt: Summarize incident 15134 in Microsoft Defender XDR into a paragraph that I can submit to my manager and create a list of entities involved.
 - Give positive instructions instead of "what not to do." Copilot is geared toward action, so telling it what you want it to do for exceptions is more productive.
     
     - Basic prompt: Give me a list of unmanaged devices in my network.
