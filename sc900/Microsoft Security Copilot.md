@@ -11,4 +11,6 @@ Analysts can use Copilot to guide in the creation of a lifecycle workflow to str
 
 [[Microsoft Entra ID]] capabilities in Copilot are built-in prompts that you can use but you can also enter your own prompts based on the capabilities supported![Screen capture of the Entra capabilities that can be run in the standalone experience.](https://learn.microsoft.com/en-us/training/wwl-sci/describe-identity-protection-governance-capabilities/media/entra-skills.png)
 
-Microsoft Entra integration with Copilot can also be experienced through embedded experience, referred to as Microsoft Copilo
+Microsoft Entra integration with Copilot can also be experienced through embedded experience, referred to as Microsoft Copilot in [[Microsoft Entra ID]]
+
+> #Example the risky user's report, available from the Microsoft Entra admin center under Identity po
