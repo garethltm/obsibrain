@@ -15,5 +15,9 @@ Permissions Management helps organizations address requirements for least access
 		- Cross-cloud permissions discovery - Granular & normalized metrics for key cloudplatforms
 		- [[Permission Creep Index (PCI)]]
 		- Permissions usage analytics - Multi-dimensional view of risk of all identities, actions & resources
-2. Remediate - Customer can right-size permissions based o
-2. Monitor
+2. Remediate
+	- Customer can right-size permissions based on usage, grant new permissions on-demand, & automate just-in-time access for cloud resources
+		- Automated deletion of permissions unused for the past 90 days
+		- Permissions on d
+	
+3. Monitor
