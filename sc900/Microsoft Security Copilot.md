@@ -24,4 +24,6 @@ Microsoft Entra integration with Copilot can also be experienced through embedde
 - Configure secure lifecycle workflows - build groups & set access parameters with step-by-step guidance to ensure a seamless configuration to prevent security vulnerabilities
 - Develop reports for stakeholders - get a clear & concise report that summarizes the context & environment, open issues & protective measures prepared for the tone & language of the report's audience
 ### Standalone & embedded experience
-1. Dedicated site (standab)
+1. Dedicated site (standalone experience)![Screenshot that shows the landing page for the Security Copilot standalone experience. The prompt bar is at the bottom center of the page.](https://learn.microsoft.com/en-us/training/wwl-sci/security-copilot-getting-started/media/copilot-landing-page-prompt-bar.png)
+2. Embedded experience through Microsoft Security products![Diagram that shows the advanced hunting page of Microsoft Defender XDR, The page includes a button for Copilot that When selected opens a side panel for natural language to KQL query assistant.](https://learn.microsoft.com/en-us/training/wwl-sci/security-copilot-getting-started/media/security-copilot-embedded-m365-xdr-v3.png)
+3. 
