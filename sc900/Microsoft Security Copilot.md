@@ -57,4 +57,17 @@ A [[plugin]] for Microsoft Sentinel may have similar capabilities but runs only 
 
 Copilot currently supports plug-ins for Microsoft services and non-Microsoft services, including websites and custom plug-ins that can be enabled.![A screen capture of the plugins window, showing the Microsoft plugins, including Entra, Intune, Microsoft Defender XDR, and more.](https://learn.microsoft.com/en-us/training/wwl-sci/security-copilot-getting-started/media/microsoft-plugins-updated.png)![A screen capture of the plugins window, showing the non-Microsoft plugins, including ServiceNow, Splunk, the public web, and custom plugins.](https://learn.microsoft.com/en-us/training/wwl-sci/security-copilot-getting-started/media/non-microsoft-plugins-updated.png)
 ## Process flow
-When a user submits a [[prompt]], Copilot processes that prompt to generate the best possible response. The diagram that follows illustrates, at a high level, steps that Copilot takes to process the prompt and generate a response.
+When a user submits a [[prompt]], Copilot processes that prompt to generate the best possible response. The diagram that follows illustrates, at a high level, steps that Copilot takes to process the [[prompt]] and generate a response.![Diagram illustrating how Microsoft Security Copilot processes a prompt request.](https://learn.microsoft.com/en-us/training/wwl-sci/security-copilot-getting-started/media/copilot-how-it-works-v2.png)
+1. Submit a [[prompt]]: The process starts when a user submits a [[prompt]] in the prompt bar.
+    
+2. [[Orchestrator]]: Security Copilot sends the information to the Copilot backend referred to as the [[orchestrator]]. The [[orchestrator]] is Copilot’s system for composing [[Capability]](s) together to answer a user’s [[prompt]]. It determines the initial context and builds a plan using all the available [[Capability]](s) (skills).
+    
+3. Build context: Once a plan is defined and built, Copilot executes that plan to get the required data context to answer the prompt.
+    
+4. Plugins: In the course of executing the plan, Copilot analyzes all data and patterns to provide intelligent insights. This includes reasoning over all the plugins and sources of data, enabled and available to Copilot.
+    
+5. Responding: Copilot combines all the data and context and uses the power of its advanced LLM to compose a response using language that makes sense to a human being.
+    
+6. Response: Before the response can be sent back to the user, Copilot formats and reviews the response as part of Microsoft's commitment to responsible AI.
+    
+7. Receives response: The process culminates with the user receiving the response from the Copilot.
