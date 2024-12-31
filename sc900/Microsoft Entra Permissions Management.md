@@ -22,4 +22,6 @@ Permissions Management helps organizations address requirements for least access
 3. Monitor
 	- Customer can detect anomalous activities with machine learning-powered (ML-powered) alerts & generate detailed forensic reports.
 	- ML-powered anomaly detections. Context-rich forensic reports around identities, actions & resources to support rapid investigation & remediation. Permissions Management depends [[Zero Trust Model]] security strategies by augmenting the least privilege access principle, which allows customers to:
-		- Get comprehensive visibility - Discover which identitiy is 
+		- Get comprehensive visibility - Discover which identity is doing what, where & when.
+		- Automate least privilege access: Use access analytics to ensure identities have the right permissions, at the right time
+		- Unify access policies across infrastructure as a service
