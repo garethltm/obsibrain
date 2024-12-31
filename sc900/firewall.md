@@ -1,0 +1,1 @@
+is a security device, either hardware, software or a combination,  that monitors and controls incoming and outgoing network traffic based on predetermined security rules. Its primary purpose is to establish a barrier between a trusted internal network and untrusted external networks, such as the internet, to protect the internal network from malicious attacks.

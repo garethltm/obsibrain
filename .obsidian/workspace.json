@@ -13,20 +13,6 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sc900/Azure DDoS Protection.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Azure DDoS Protection"
-            }
-          },
-          {
-            "id": "199b0b48a82ea23f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "sc900/Azure Firewall.md",
                 "mode": "source",
                 "source": false
@@ -35,8 +21,7 @@
               "title": "Azure Firewall"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -263,14 +248,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "199b0b48a82ea23f",
+  "active": "f553afc710a77eeb",
   "lastOpenFiles": [
-    "sc900/Azure DDoS Protection.md",
+    "sc900/Volumetric attacks.md",
     "sc900/Azure Firewall.md",
+    "sc900/Azure DDoS Protection.md",
+    "Untitled",
+    "sc900/firewall.md",
     "sc900/Distributed Denial of Service (DDoS).md",
     "sc900/Resource (application) layer attacks.md",
     "sc900/Protocol attacks.md",
-    "sc900/Volumetric attacks.md",
     "sc900/Set up the default environment.md",
     "University of Auckland/2023 Semester 2/COMPSCI235 - Software Development Methodologies/Transport protocols.md",
     "sc900/Microsoft Purview.md",
@@ -290,7 +277,6 @@
     "sc900/Entitlement Management.md",
     "sc900/Identity Protection.md",
     "sc900/Microsoft Entra Permissions Management.md",
-    "sc900/Permission Creep Index (PCI).md",
     "@images/Pasted image 20241219142611.png",
     "sc900/Untitled",
     "@images/Pasted image 20241219141328.png",
@@ -311,7 +297,6 @@
     "University of Auckland/2023 Semester 1/COMPSCI225/PYQ",
     "University of Auckland/2023 Semester 1/COMPSCI225/Lecture Notes",
     "University of Auckland/2023 Semester 1/COMPSCI225/Assignments",
-    "University of Auckland/2023 Semester 1/INFOSYS220/Quizzes",
     "University of Auckland/2023 Semester 2/COMPSCI235 - Software Development Methodologies/235 summary.canvas",
     "University of Auckland/2023 Semester 2/COMPSCI367 - Artificial Intelligence/finals prep.canvas"
   ]
