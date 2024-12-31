@@ -1,0 +1,1 @@
+a firewall is a security device, either hardware, software or a combination, that m
