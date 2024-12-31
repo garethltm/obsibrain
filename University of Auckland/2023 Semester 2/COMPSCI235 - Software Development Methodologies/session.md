@@ -1,1 +1,1 @@
-A [[session]] represents an exchange between a browser & Web server where the requests can be attributed to a particular user
+A [[University of Auckland/2023 Semester 2/COMPSCI235 - Software Development Methodologies/session]] represents an exchange between a browser & Web server where the requests can be attributed to a particular user

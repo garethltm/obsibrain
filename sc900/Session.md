@@ -1,0 +1,1 @@
+a particular conversation within Copilot. Copilot maintains context within a session

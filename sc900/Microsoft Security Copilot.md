@@ -35,8 +35,8 @@ Copilot combines powerful LLMs with security-specific sources from Microsoft. Th
 
 The information you give Copilot will only be accessible to your organization. Your data is your data, and it's protected by comprehensive enterprise compliance and security controls. Your data isn't used to train the foundation AI models.![Diagram showing key attributes of Security Copilot, including hyperscale AI infrastructure, security specific orchestrator,evergreen threat intelligence, and cyber skills and promptbooks.](https://learn.microsoft.com/en-us/training/wwl-sci/security-copilot-getting-started/media/security-copilot-v2.png)
 ## Terminology
-- Session
-	- a particular conversation within Copilot. Copilot maintains context within a session
+- [[sc900/Session|Session]]
+
 - Prompt
 	- a specific statement or question within a session. A user enters a prompt in the prompt bar
 - Capability
@@ -60,4 +60,4 @@ In the previous unit, we mentioned that Copilot integrates with various sources 
 
 A plugin for Microsoft Sentinel may have similar capabilities but runs only within the scope of Microsoft Sentinel.
 
-Copilot currently supports plug-ins for Microsoft services and non-Microsoft services, including websites and custom plug-ins that can be enabled.![A screen capture of the plugins window, showing the Microsoft plugins, including Entra, Intune, Microsoft Defender XDR, and more.](https://learn.microsoft.com/en-us/training/wwl-sci/security-copilot-getting-started/media/microsoft-plugins-updated.png)
+Copilot currently supports plug-ins for Microsoft services and non-Microsoft services, including websites and custom plug-ins that can be enabled.![A screen capture of the plugins window, showing the Microsoft plugins, including Entra, Intune, Microsoft Defender XDR, and more.](https://learn.microsoft.com/en-us/training/wwl-sci/security-copilot-getting-started/media/microsoft-plugins-updated.png)![A screen capture of the plugins window, showing the non-Microsoft plugins, including ServiceNow, Splunk, the public web, and custom plugins.](https://learn.microsoft.com/en-us/training/wwl-sci/security-copilot-getting-started/media/non-microsoft-plugins-updated.png)
