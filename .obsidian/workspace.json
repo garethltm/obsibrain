@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sc900/Web Application Firewall (WAF).md",
+                "file": "sc900/Microsoft Security Copilot.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Web Application Firewall (WAF)"
+              "title": "Microsoft Security Copilot"
             }
           }
         ]
@@ -200,7 +200,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "sc900/Web Application Firewall (WAF).md",
+                "file": "sc900/Microsoft Security Copilot.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -228,7 +228,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Web Application Firewall (WAF)"
+              "title": "Graph of Microsoft Security Copilot"
             }
           }
         ]
@@ -250,9 +250,9 @@
   },
   "active": "4d5ddf45ca534938",
   "lastOpenFiles": [
+    "sc900/Web Application Firewall (WAF).md",
     "sc900/Azure Firewall.md",
     "sc900/Azure DDoS Protection.md",
-    "sc900/Web Application Firewall (WAF).md",
     "sc900/Microsoft Entra ID.md",
     "sc900/Security Compute Unit (SCU).md",
     "sc900/Microsoft Security Copilot.md",
