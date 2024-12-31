@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sc900/Web Application Firewall (WAF).md",
+                "file": "sc900/Azure Web Application Firewall.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Web Application Firewall (WAF)"
+              "title": "Azure Web Application Firewall"
             }
           },
           {
@@ -214,7 +214,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "sc900/Web Application Firewall (WAF).md",
+                "file": "sc900/Azure Web Application Firewall.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -242,7 +242,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Web Application Firewall (WAF)"
+              "title": "Graph of Azure Web Application Firewall"
             }
           }
         ]
@@ -264,8 +264,8 @@
   },
   "active": "4d5ddf45ca534938",
   "lastOpenFiles": [
-    "sc900/Azure Web Application Firewall.md",
     "sc900/Web Application Firewall (WAF).md",
+    "sc900/Azure Web Application Firewall.md",
     "sc900/Conditional Access.md",
     "sc900/Microsoft Entra ID Governance.md",
     "sc900/Microsoft Entra Verified ID.md",
