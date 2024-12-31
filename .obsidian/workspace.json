@@ -20,23 +20,8 @@
               "icon": "lucide-file",
               "title": "Azure Virtual Network (VNet)"
             }
-          },
-          {
-            "id": "491af1e23a515b9f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "sc900/Network Security Groups (NSGs).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Network Security Groups (NSGs)"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -67,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "waf",
+                "query": "defense",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -215,7 +200,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "sc900/Network Security Groups (NSGs).md",
+                "file": "sc900/Azure Virtual Network (VNet).md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -243,7 +228,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Network Security Groups (NSGs)"
+              "title": "Graph of Azure Virtual Network (VNet)"
             }
           }
         ]
@@ -263,10 +248,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "491af1e23a515b9f",
+  "active": "3ad179677b7fba41",
   "lastOpenFiles": [
-    "sc900/Azure Virtual Network (VNet).md",
     "sc900/segmentation.md",
+    "sc900/Azure Virtual Network (VNet).md",
+    "sc900/defense-in-depth.md",
     "sc900/Network Security Groups (NSGs).md",
     "sc900/virtual network.md",
     "sc900/Zero Trust model.md",
@@ -291,7 +277,6 @@
     "University of Auckland/2024 Semester 1/INFOSYS303 - Solutions Architecture/Availability.md",
     "sc900/Volumetric attacks.md",
     "Untitled",
-    "sc900/firewall.md",
     "@images/Pasted image 20241219142611.png",
     "sc900/Untitled",
     "@images/Pasted image 20241219141328.png",
