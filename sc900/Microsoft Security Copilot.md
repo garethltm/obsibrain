@@ -16,13 +16,13 @@ Microsoft Entra integration with Copilot can also be experienced through embedde
 > #Example the risky user's report, available from the Microsoft Entra admin center under Identity protection, embeds the capabilities of [[Microsoft Security Copilot]] to summarize a user's risk level, provide insights relevant to the incident at hand, & provide recommendations for rapid mitigation
 ![Screen capture showing the Copilot generated summary.](https://learn.microsoft.com/en-us/training/wwl-sci/describe-identity-protection-governance-capabilities/media/entra-risky-users-summarize-v2.png)
 ## Use cases
-- Investigate & remediate security threats - gain context for incidents to quickly triage complex security alerts into actionable summaries & remediate quicker with step-by-step response guidance.
-- Build KQL queries or analyze suspicious scripts - eliminate the need to manually write query-language scripts or reverse engineer malware scripts with natural language translation to enable every team member to execute technical tasks
-- Understand risks & manage security posture of the organization - get a broad picture of your environment with prioritized risks to uncover opportunities to improve posture more easily
-- Troubleshoot IT issues faster - synthesize relevant information rapidly & receive actionable insights to identify & resolve IT issues quickly
-- Define & manage security policies - define a new policy, cross-reference it with others for conflicts, & summarize existing policies to manage complex organization context quickly & easily
-- Configure secure lifecycle workflows - build groups & set access parameters with step-by-step guidance to ensure a seamless configuration to prevent security vulnerabilities
-- Develop reports for stakeholders - get a clear & concise report that summarizes the context & environment, open issues & protective measures prepared for the tone & language of the report's audience
+1. Investigate & remediate security threats - gain context for incidents to quickly triage complex security alerts into actionable summaries & remediate quicker with step-by-step response guidance.
+2. Build KQL queries or analyze suspicious scripts - eliminate the need to manually write query-language scripts or reverse engineer malware scripts with natural language translation to enable every team member to execute technical tasks
+3. Understand risks & manage security posture of the organization - get a broad picture of your environment with prioritized risks to uncover opportunities to improve posture more easily
+4. Troubleshoot IT issues faster - synthesize relevant information rapidly & receive actionable insights to identify & resolve IT issues quickly
+5. Define & manage security policies - define a new policy, cross-reference it with others for conflicts, & summarize existing policies to manage complex organization context quickly & easily
+6. Configure secure lifecycle workflows - build groups & set access parameters with step-by-step guidance to ensure a seamless configuration to prevent security vulnerabilities
+7. Develop reports for stakeholders - get a clear & concise report that summarizes the context & environment, open issues & protective measures prepared for the tone & language of the report's audience
 ### Standalone & embedded experience
 1. Dedicated site (standalone experience)![Screenshot that shows the landing page for the Security Copilot standalone experience. The prompt bar is at the bottom center of the page.](https://learn.microsoft.com/en-us/training/wwl-sci/security-copilot-getting-started/media/copilot-landing-page-prompt-bar.png)
 2. Embedded experience through Microsoft Security products![Diagram that shows the advanced hunting page of Microsoft Defender XDR, The page includes a button for Copilot that When selected opens a side panel for natural language to KQL query assistant.](https://learn.microsoft.com/en-us/training/wwl-sci/security-copilot-getting-started/media/security-copilot-embedded-m365-xdr-v3.png)
@@ -73,3 +73,4 @@ When a user submits a [[prompt]], Copilot processes that prompt to generate the 
 7. Receives response: The process culminates with the user receiving the response from the Copilot.
 ### Process log
 During this process, Copilot generates a process log that is visible to the user. The user can see what [[capability]] is used to generate the response. This is important because it enables the user to determine whether the response was generated from a trusted source. In the screenshot that follows, the process log shows that Copilot chose the Incident Analysis capability. The process log also shows that the final output went through safety checks, which is part of Microsoft’s commitment to responsible AI.![Screen capture of the process log that highlights the capability selected and the text indicating that Copilot ran safety checks as part of the process to compose the response message.](https://learn.microsoft.com/en-us/training/wwl-sci/security-copilot-getting-started/media/process-log-new.png)
+## 
