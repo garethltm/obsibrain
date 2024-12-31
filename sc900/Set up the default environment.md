@@ -21,20 +21,18 @@ During the setup of Security Copilot, you're prompted to configure settings. The
 ### Role permissions
 To ensure that the users can access the features of Copilot, they need to have the appropriate role permissions.
 
-Permissions can be assigned using Microsoft Entra ID roles or Security Copilot roles. As a best practice, provide the least privileged role applicable for each user.
+Permissions can be assigned using [[Microsoft Entra ID]] roles or Security Copilot roles. As a best practice, provide the least privileged role applicable for each user.
 
-The Microsoft Entra ID roles are:
-
+The [[Microsoft Entra ID]] roles are:
 - Global administrator
 - Security administrator
 - Security operator
 - Security reader
 
-Although these Microsoft Entra ID roles grant users varying levels of access to Copilot, the scope of these roles extends beyond Copilot. For this reason, Security Copilot introduces two roles that function like access groups but aren't Microsoft Entra ID roles. Instead, they only control access to the capabilities of the Security Copilot platform.
+Although these [[Microsoft Entra ID]] roles grant users varying levels of access to Copilot, the scope of these roles extends beyond Copilot. For this reason, Security Copilot introduces two roles that function like access groups but aren't [[Microsoft Entra ID]] roles. Instead, they only control access to the capabilities of the Security Copilot platform.
 
-The Microsoft Security Copilot roles are:
-
+The [[Microsoft Security Copilot]] roles are:
 - Copilot owner
 - Copilot contributor
 
-The Security Administrator and Global Administrator roles in Microsoft Entra automatically inherit Copilot owner access.
+The Security Administrator and Global Administrator roles in Microsoft Entra automatically inherit Copilot owner access.![Screen capture showing the role assignment settings.](https://learn.microsoft.com/en-us/training/wwl-sci/security-copilot-getting-started/media/role-assignments-new-edited.png)
