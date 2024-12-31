@@ -1,1 +1,1 @@
-a collection of capabilities by a particular resource
+a collection of [[Capability]](s) by a particular resource

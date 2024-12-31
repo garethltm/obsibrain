@@ -1,0 +1,1 @@
+Copilot's system for composing [[Capability]](s) together to answer a user's prompt
