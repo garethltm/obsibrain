@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sc900/Azure Firewall.md",
+                "file": "sc900/Built-in high availability & availability zones.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Azure Firewall"
+              "title": "Built-in high availability & availability zones"
             }
           },
           {
@@ -35,8 +35,7 @@
               "title": "Built-in high availability & availability zones"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -263,11 +262,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "959e2b8c49a45883",
+  "active": "f553afc710a77eeb",
   "lastOpenFiles": [
     "sc900/Azure Firewall.md",
-    "sc900/Built-in high availability & availability zones.md",
     "sc900/Stateful Firewall.md",
+    "sc900/Built-in high availability & availability zones.md",
+    "University of Auckland/2024 Semester 1/INFOSYS303 - Solutions Architecture/Availability.md",
     "sc900/Volumetric attacks.md",
     "sc900/Azure DDoS Protection.md",
     "Untitled",
@@ -291,7 +291,6 @@
     "sc900/Conditional Access.md",
     "sc900/Microsoft Entra ID Protection.md",
     "sc900/Privileged Identity Management (PIM).md",
-    "sc900/Entitlement Management.md",
     "@images/Pasted image 20241219142611.png",
     "sc900/Untitled",
     "@images/Pasted image 20241219141328.png",
