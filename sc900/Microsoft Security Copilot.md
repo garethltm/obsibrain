@@ -17,4 +17,4 @@ Microsoft Entra integration with Copilot can also be experienced through embedde
 ![Screen capture showing the Copilot generated summary.](https://learn.microsoft.com/en-us/training/wwl-sci/describe-identity-protection-governance-capabilities/media/entra-risky-users-summarize-v2.png)
 ## Use cases
 - Investigate & remediate security threats - gain context for incidents to quickly triage complex security alerts into actionable summaries & remediate quicker with step-by-step response guidance.
-- Build KQL queries or
+- Build KQL queries or analyze suspicious scripts - eliminate the need to manually write query-language scripts or reverse engineer malware scripts with natural language translation to enable every team member to execute technical tasks
