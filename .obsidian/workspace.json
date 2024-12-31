@@ -52,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Example",
+                "query": "standal",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -73,7 +73,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -248,7 +249,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4d5ddf45ca534938",
+  "active": "a6e0090ac9cbd1f3",
   "lastOpenFiles": [
     "sc900/Built-in high availability & availability zones.md",
     "sc900/Azure Firewall.md",

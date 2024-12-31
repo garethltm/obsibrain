@@ -16,4 +16,7 @@ You can deploy [[Azure Firewall]] on any virtual network but the best approach i
 	- [[Azure Firewall]] provides logging & monitoring capabilities to help you keep track of [[firewall]] activity & diagnose issues. Logs can be sent to Azure Monitor, Log Analytics, or Event Hubs for further analysis
 7. Integration with Azure Services
 	- It integrates seamlessly with other Azure services, such as Azure Virtual Networks, Azure Policy, and Azure Security Center, providing a cohesive security solution for your cloud infrastructure.
-### Integration 
+### Integration with Security Copilot
+[[Azure Firewall]] is integrated with [[Microsoft Security Copilot]]
+
+For organizations onboarded to [[Microsoft Security Copilot]], users can experience the Copilot integration through standalone experience
