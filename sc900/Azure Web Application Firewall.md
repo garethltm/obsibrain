@@ -2,6 +2,7 @@ Azure [[Web Application Firewall (WAF)]] is integrated with [[Microsoft Security
 
 For organizations onboarded to [[Microsoft Security Copilot]], users can experience the [[Microsoft Security Copilot]] integration through the standalone experience.
 
-Azure [[Web Application Firewall (WAF)]] integration in Copilot enables deep investigation of [[Azure Web Application Firewall]] events, using natural language prompts and responses. It can help you investigate WAF logs triggered by Azure WAF in a matter of minutes and provide related attack vectors. Azure WAF integration with Copilot provides visibility into your environment’s threat landscape.
+Azure [[Web Application Firewall (WAF)]] integration in Copilot enables deep investigation of [[Azure Web Application Firewall]] events, using natural language prompts and responses. It can help you investigate [[Web Application Firewall (WAF)]] logs triggered by [[Azure Web Application Firewall]] in a matter of minutes and provide related attack vectors. Azure [[Web Application Firewall (WAF)]] integration with Copilot provides visibility into your environment’s threat landscape.
 
-To use the Azure WAF integration in Copilot, the Azure WAF plugin in Security Copilot must be turned on and configured.
+To use the Azure [[Web Application Firewall (WAF)]] integration in Copilot, the Azure [[Web Application Firewall (WAF)]] plugin in Security Copilot must be turned on and configured.![Screen capture of the Azure Web Application Firewall plugin.](https://learn.microsoft.com/en-us/training/wwl-sci/describe-basic-security-capabilities-azure/media/azure-web-firewall-plugin.png)
+[[azcapabilities in Copilot are built-in prompts that you can use but you can also enter your own prompts based on the capabilities supported.
