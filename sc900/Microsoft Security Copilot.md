@@ -9,4 +9,4 @@ Business that are onboarded to Copilot & whose users have the appropriate role p
 
 Analysts can use Copilot to guide in the creation of a lifecycle workflow to streamline the process of creating & issuing user credentials & access rights. These & many other Entra capabilities are supported by Copilot
 
-Microsoft Entra capabilities in Co
+[[Microsoft Entra ID]] capabilities in Copilot are built-in prompts that you can use but you can also enter your own prompts based on the capabilities supported
