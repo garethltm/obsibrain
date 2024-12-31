@@ -7,3 +7,5 @@ Effective prompts give Copilot adequate and useful parameters to generate a valu
 - Source - known information, data sources, or plugins Copilot should use![Diagram that four elements of an effective prompt: the goal, context, expectations, and source.](https://learn.microsoft.com/en-us/training/wwl-sci/security-copilot-getting-started/media/effective-prompts.png)
 
 ~ Every good prompt should have a goal. Whether it comes in the form of instructions or questions, it should indicate what you want out of your current [[sc900/Session|Session]]
+
+For Copilot, context can refer to the time frame, or that you'll use the response for a report. Expectations can include whether you want the response to be in a table format, a list of action steps, a summary, or even a diagram. Source might be useful in specifying which Microsoft plugins you're referring to, if needed. Some [[Plugin]](s) require more context to work effectively or supporting plugins to ensure a response when initial responses fail.
