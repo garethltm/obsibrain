@@ -10,4 +10,4 @@ is designed to help protect your applications & servers by analyzing network tra
 2. **DDoS IP Protection**: DDoS IP Protection is a pay-per-protected IP model. DDoS IP Protection contains the same core engineering features as DDoS Network Protection, but differs in that it doesn't include the value-added services such as [[Distributed Denial of Service (DDoS)]] rapid response support, cost protection, and discounts on Web Application Firewall (WAF) that are part of DDoS Network Protection.
 ### Why consider adding [[Azure DDoS Protection]] services if services running on Azure?
 - Azure is inherently protected by the default infrastructure-level [[Distributed Denial of Service (DDoS)]] protection
-- The reason is because the protection that safeguards the infrastructure has a higher threshold than most application
+- The reason is because the protection that safeguards the infrastructure has a higher threshold than most applications have the capacity to handle, & doesn't provide telemetry or alerting. So while traffic volume may be perceived as harmless by the platform, it can be devastating t
