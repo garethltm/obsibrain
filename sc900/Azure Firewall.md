@@ -27,4 +27,4 @@ To use the [[Azure Firewall]] integration with Copilot:
 - The Azure Firewalls to be used with Security Copilot must be configured with resource specific structured logs for IDPS and these logs must be sent to a Log Analytics workspace.
 - The users must have role permissions to use Microsoft Security Copilot and must have the appropriate Azure role-based access control (RBAC) roles to access the [[Firewall]] and associated Log Analytics workspace.
 - The [[Azure Firewall]] plugin in Security Copilot must be turned on.![Screen capture of the Azure Firewall plugin.](https://learn.microsoft.com/en-us/training/wwl-sci/describe-basic-security-capabilities-azure/media/firewall-plugin.png)
-- [[azu]]
+- [[Azure Firewall]] [[Capability]](s) in [[Microsoft Security Copilot]] are built-in prompts that you can use but you can also enter your own prompts based on the capabilities supported.![Screen capture of the Azure Firewall capabilities that can be run in the standalone experience.](https://learn.microsoft.com/en-us/training/wwl-sci/describe-basic-security-capabilities-azure/media/azure-firewall-capabilities.png)
