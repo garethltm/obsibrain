@@ -18,6 +18,6 @@ Permissions Management helps organizations address requirements for least access
 2. Remediate
 	- Customer can right-size permissions based on usage, grant new permissions on-demand, & automate just-in-time access for cloud resources
 		- Automated deletion of permissions unused for the past 90 days
-		- Permissions on d
-	
+		- Permissions on-demand - Grant identities permissions on-demand for a time-limited period or on as-needed basis
 3. Monitor
+	- Customer can detect anomalous activities with machine learning-powered (ML-powered) alerts & generate detailed forensive report
