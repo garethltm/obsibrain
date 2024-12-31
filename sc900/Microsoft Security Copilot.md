@@ -29,4 +29,5 @@ Microsoft Entra integration with Copilot can also be experienced through embedde
 
 Copilot is built using Azure OpenAI Services & is designed to integrate with existing security tools & processes, making it easier for organizations to improve their overall security posture. Azure OpenAI Services provides REST API access to OpenAI's powerful large language models (LLMs) for [[Natural Language Processing (NLP)]], while providing security capabilities of Microsoft Azure.
 
-With access to the powerful LLMs for []
+With access to the powerful LLMs for [[Natural Language Processing (NLP)]], Copilot is able to read, decipher & make sense of human languages, enabling users to securely interact with it using natural language. Although the LLMs are trained on a vast amount of information that endows Copilot with broad general knowledge and problem solving abilities, it’s not enough. Security analysts expect their copilot to be trained on security and that is where the integration with existing security tools and processes comes into play.
+
