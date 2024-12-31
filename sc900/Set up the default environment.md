@@ -36,3 +36,6 @@ The [[Microsoft Security Copilot]] roles are:
 - Copilot contributor
 
 The Security Administrator and Global Administrator roles in Microsoft Entra automatically inherit Copilot owner access.![Screen capture showing the role assignment settings.](https://learn.microsoft.com/en-us/training/wwl-sci/security-copilot-getting-started/media/role-assignments-new-edited.png)
+Only users that have the global administrator, security administrator, or Copilot owner roles can make role assignments in Copilot by adding/removing members from the Owner and Contributor roles.
+
+A group that admins/owners can include as a member of the Contributor role is the **Recommended Microsoft Security roles** group. This group exists only in Security Copilot and is a bundle of existing Microsoft Entra roles. When you add this group as a member of the Contributor role, all users that are members of the [[Microsoft Entra ID]] roles that are included in the recommended Microsoft Security roles group get access to the Copilot platform. This option provides a quick, secure way to give users in your organization, who already have access to security data used by Copilot through a Microsoft plugin, access to the Copilot platform.
