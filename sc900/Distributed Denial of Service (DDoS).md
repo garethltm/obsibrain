@@ -2,5 +2,5 @@ The aim of a [[Distributed Denial of Service (DDoS)]] attack is to overwhelm the
 
 The 3 most frequent types of [[Distributed Denial of Service (DDoS)]] attack are:
 - [[Volumetric attacks]]
-- Protocol attacks
+- [[Protocol attacks]]
 - Resource (application) layer attacks

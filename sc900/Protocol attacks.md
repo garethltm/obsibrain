@@ -1,0 +1,1 @@
+Protocol attacks render a target inaccessible by exhausting server resources with false protocol requests that exploit weaknesses in layer 3 ([[Network layer]]) & layer 4 [[transport]]
