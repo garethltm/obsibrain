@@ -265,8 +265,9 @@
   },
   "active": "12ba2b40fa6c7d79",
   "lastOpenFiles": [
-    "sc900/Microsoft Security Copilot.md",
+    "sc900/Microsoft Purview.md",
     "sc900/Set up the default environment.md",
+    "sc900/Microsoft Security Copilot.md",
     "sc900/Provision Copilot capacity.md",
     "sc900/Security Compute Unit (SCU).md",
     "sc900/consumptive offering.md",
@@ -290,7 +291,6 @@
     "sc900/Microsoft Entra ID.md",
     "sc900/Global Secure Access.md",
     "sc900/Microsoft Entra Internet Access.md",
-    "sc900/Continuous Access Evaluation (CAE).md",
     "@images/Pasted image 20241219142611.png",
     "sc900/Untitled",
     "@images/Pasted image 20241219141328.png",
