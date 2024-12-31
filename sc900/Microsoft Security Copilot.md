@@ -18,3 +18,4 @@ Microsoft Entra integration with Copilot can also be experienced through embedde
 ## Use cases
 - Investigate & remediate security threats - gain context for incidents to quickly triage complex security alerts into actionable summaries & remediate quicker with step-by-step response guidance.
 - Build KQL queries or analyze suspicious scripts - eliminate the need to manually write query-language scripts or reverse engineer malware scripts with natural language translation to enable every team member to execute technical tasks
+- Understand risks & manage security posture of the organization - get a broad picture of your environment with prioritized risks to unc
