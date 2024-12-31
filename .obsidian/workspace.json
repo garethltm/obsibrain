@@ -13,20 +13,6 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sc900/Azure Bastion.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Azure Bastion"
-            }
-          },
-          {
-            "id": "88cef712a94d8daf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "sc900/Azure Key Vault.md",
                 "mode": "source",
                 "source": false
@@ -35,8 +21,7 @@
               "title": "Azure Key Vault"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -67,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "c",
+                "query": "copil",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -88,8 +73,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -264,9 +248,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a6e0090ac9cbd1f3",
+  "active": "69ae7a8f8598d9dd",
   "lastOpenFiles": [
     "sc900/Azure Bastion.md",
+    "sc900/Microsoft Security Copilot.md",
     "sc900/Azure Key Vault.md",
     "sc900/Azure Network Security Groups (NSGs).md",
     "sc900/Azure Virtual Network (VNet).md",
@@ -281,7 +266,6 @@
     "sc900/Microsoft Entra ID Governance.md",
     "sc900/Microsoft Entra Verified ID.md",
     "sc900/Microsoft Entra Private Access.md",
-    "sc900/Microsoft Security Copilot.md",
     "sc900/Azure Firewall.md",
     "sc900/Azure DDoS Protection.md",
     "sc900/Microsoft Entra ID.md",
