@@ -1,1 +1,0 @@
-[[Azure Firewall]] is a stateful [[firewall]], meaning it can keep track of the state of active connections & make decisions based on the context of the traffic
