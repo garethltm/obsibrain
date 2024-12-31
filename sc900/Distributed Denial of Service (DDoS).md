@@ -1,0 +1,1 @@
+The aim of a [[Distributed Denial of Service (DDoS)]] attack is to overwhelm the resources on your applications & servers, making them unresponsive or slow for genuine users. A [[Distributed Denial of Service (DDoS)]] atta
