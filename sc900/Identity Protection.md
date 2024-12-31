@@ -1,1 +1,1 @@
-- is a tool that allows 
+- is a tool that allows organizations to utilize security signals to identify potential threats
