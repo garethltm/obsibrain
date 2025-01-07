@@ -52,3 +52,7 @@ Many organizations find it challenging to effectively manage and monitor web tra
 
 Priva Tracker Scanning empowers organizations to automate the identification of tracking technologies across multiple web properties, driving the efficient management of website privacy compliance. With Tracker Scanning you can automate scans for trackers, evaluate and manage web trackers, and streamline compliance reporting.
 ### Priva portal (preview)
+![Screenshot of the Priva portal landing page.](https://learn.microsoft.com/en-us/training/wwl-sci/describe-compliance-management-capabilities-microsoft/media/priva-portal.png)
+The new Priva portal (preview) has a unified experience that streamlines navigation for all Priva solutions and provides a single-entry point for settings, search, and roles and permissions management.
+
+The classic Microsoft Purview compliance portal doesn't support the newest solutions currently in preview: Consent Management, Privacy Assessments, Tracker scanning, and Subject Rights Request beyond Microsoft 365.
