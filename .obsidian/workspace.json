@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sc900/cloud access security broker (CASB).md",
+                "file": "sc900/Microsoft Defender for Cloud Apps.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "cloud access security broker (CASB)"
+              "title": "Microsoft Defender for Cloud Apps"
             }
           },
           {
@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sc900/cloud access security broker (CASB).md",
+                "file": "sc900/Cloud Access Security Broker (CASB).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "cloud access security broker (CASB)"
+              "title": "Cloud Access Security Broker (CASB)"
             }
           }
         ]
@@ -214,7 +214,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "sc900/cloud access security broker (CASB).md",
+                "file": "sc900/Microsoft Defender for Cloud Apps.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -242,7 +242,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of cloud access security broker (CASB)"
+              "title": "Graph of Microsoft Defender for Cloud Apps"
             }
           }
         ]
@@ -264,8 +264,8 @@
   },
   "active": "06456c99ed1e1a5a",
   "lastOpenFiles": [
+    "sc900/Cloud Access Security Broker (CASB).md",
     "sc900/Microsoft Defender for Cloud Apps.md",
-    "sc900/cloud access security broker (CASB).md",
     "sc900/Microsoft Defender for Endpoint.md",
     "sc900/Microsoft Defender for Office 365.md",
     "sc900/Microsoft Defender XDR.md",
