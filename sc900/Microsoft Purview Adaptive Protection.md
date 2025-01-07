@@ -18,9 +18,8 @@ Adaptive protection dynamically assigns appropriate data loss prevention, data l
 ### Adaptive protection in [[Microsoft Purview Data Loss Prevention (DLP)]]
 Adaptive Protection in [[Microsoft Purview]] integrates [[Microsoft Purview Insider Risk Management]] with [[Microsoft Purview Data Loss Prevention (DLP)]]. When [[Microsoft Purview Insider Risk Management]] identifies a user who is engaging in risky behaviour, they're dynamically assigned an insider risk level. Then adaptive protection can automatically create a DLP policy to help protect the organization against the risky behavior that's associated with that insider risk level. As users insider risk levels change in insider risk management, the DLP policies applied to users can adjust.
 ### Audit
-Auditing solutions in [[Microsoft Purview]] help organizations effectively respond to security events, forensic investigations, internal investigations, and compliance obligations. Thousands of user and admin operations performed in dozens of Microsoft 365 services and solutions, and also Security Copilot (if enabled) are captured, recorded, and retained in your organization's unified audit log. Audit records for these events are searchable by security ops, IT admins, insider risk teams, and compliance and legal investigators in your organization. This capability provides visibility into the activities performed across your Microsoft 365 organization.
+Auditing solutions in [[Microsoft Purview]] help organizations effectively respond to security events, forensic investigations, internal investigations, and compliance obligations. Thousands of user and admin operations performed in dozens of Microsoft 365 services and solutions, and also [[Microsoft Security Copilot]] (if enabled) are captured, recorded, and retained in your organization's unified audit log. Audit records for these events are searchable by security ops, IT admins, insider risk teams, and compliance and legal investigators in your organization. This capability provides visibility into the activities performed across your Microsoft 365 organization.
 
-Microsoft Purview provides two auditing solutions:
-
-- Audit (Standard)
+[[Microsoft Purview]] provides two auditing solutions:
+- [[Audit (Standard)]]
 - Audit (Premium)
