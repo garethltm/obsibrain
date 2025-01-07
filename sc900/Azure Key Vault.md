@@ -16,7 +16,7 @@ Azure Key Vault has two service tiers: Standard, which encrypts with a software 
 >		- https://{hsm-name}.managedhsm.azure.net/{object-type}/{object-name}/{object-version}
 
 ### Securely store secrets & keys. 
-Access to a key vault requires proper [[sc900/Authentication|Authentication]] & [[Authorization]] before a caller (user or application) can get access. [[sc900/Authentication|Authentication]] establishes the identity of the caller while authorization determines the operations that they're allowed to perform.
+Access to a key vault requires proper [[sc900/Authentication|Authentication]] & [[Authorization]] before a caller (user or application) can get access. [[sc900/Authentication|Authentication]] establishes the identity of the caller while [[Authorization]] determines the operations that they're allowed to perform.
 
 [[sc900/Authentication|Authentication]] is done via [[Microsoft Entra ID]]. [[Authorization]] may be done via Azure role-based access control (Azure RBAC) or [[Azure Key Vault]] access policy.
 
@@ -25,5 +25,8 @@ Access to a key vault requires proper [[sc900/Authentication|Authentication]] & 
 One you've created a couple of Key Vaults, you can monitor activity by enabling logging for your vaults. You have control over your logs & you may secure them by restricting access & you may also delete logs that you no longer need.
 ### Simplified administration of application secrets
 [[Azure Key Vault]] simplifies the administration that would typically be required to secure your application secrets, including:
-- Replicating
+- Replicating the contents of your Key Vault within a region and to a secondary region. Data replication ensures high [[Availability]] and takes away the need of any action from the administrator to trigger the failover.
+- Providing standard Azure administration options via the portal, Azure CLI and PowerShell.
+- Automating certain tasks on certificates that you purchase from Public Certificate Authorities (CAs), such as enrollment and renewal.![Diagram showing a representation of Azure Key Vault, an Azure developer receiving a key vault object identifier as a URI, and a security admin that obtains usage logging for keys.](https://learn.microsoft.com/en-us/training/wwl-sci/describe-basic-security-capabilities-azure/media/azure-key-vault-inline.png)
+In addition, [[Azure Key Vault]] allow you to segregate application secrets. Applications may access only the vault that they're allowed to access, and they can be limited to only perform specific operations. You can create an Azure Key Vault per application and restrict the secrets stored in a Key Vault to a specific application and team of developers.
 
