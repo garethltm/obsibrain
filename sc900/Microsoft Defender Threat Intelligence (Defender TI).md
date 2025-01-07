@@ -22,10 +22,7 @@ Copilot also includes a builtin promptbook that deliver information from [[Micro
 - Threat actor profile - Generates a report profiling a known activity group, including suggestions to defend against their common tools and tactics.
 
 Copilot integration with Defender TI can also be experienced through the embedded experience. You can experience Security Copilot's capability to look up threat intelligence in the following pages of the Microsoft Defender portal:
-
-- Threat analytics
-- Intel profiles
-- Intel explorer
-- Intel projects
-
-For each of these pages, you can use one of the available prompts or you can enter your own prompt.
+- [[Threat analytics]]
+- [[Intel profiles]]
+- [[Intel explorer]]
+- [[Intel projects]]
