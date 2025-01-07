@@ -75,3 +75,5 @@ DLP policies can be created from predefined templates, or you can create a custo
 - Choose the location where the policy will be applied, such as Exchange, SharePoint, OneDrive, and more.
 - Choose the conditions that must be matched for a policy to be applied to an item.
 - Choose the protective action to take when the policy conditions are met.
+## Data loss prevention in Microsoft Teams
+![A screenshot of a Microsoft Teams chat that was blocked that includes a link for the user to obtain more information.](https://learn.microsoft.com/en-us/training/wwl-sci/describe-purview-data-solutions/media/5-data-loss-prevention-policy-tip-v2.png)

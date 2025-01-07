@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sc900/Endpoint data loss prevention.md",
+                "file": "sc900/Microsoft Purview.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Endpoint data loss prevention"
+              "title": "Microsoft Purview"
             }
           }
         ]
@@ -200,7 +200,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "sc900/Endpoint data loss prevention.md",
+                "file": "sc900/Microsoft Purview.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -228,7 +228,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Endpoint data loss prevention"
+              "title": "Graph of Microsoft Purview"
             }
           }
         ]
@@ -250,8 +250,8 @@
   },
   "active": "655eec678a3a660d",
   "lastOpenFiles": [
-    "sc900/Microsoft Purview.md",
     "sc900/Endpoint data loss prevention.md",
+    "sc900/Microsoft Purview.md",
     "sc900/Microsoft Purview Data Security Posture Management (DSPM).md",
     "sc900/Pre-trained classifiers.md",
     "sc900/Trainable classifiers.md",
