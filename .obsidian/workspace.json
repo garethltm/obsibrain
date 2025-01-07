@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sc900/Microsoft Defender for Cloud.md",
+                "file": "sc900/Untitled.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Microsoft Defender for Cloud"
+              "title": "Untitled"
             }
           }
         ]
@@ -200,7 +200,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "sc900/Microsoft Defender for Cloud.md",
+                "file": "sc900/Untitled.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -228,7 +228,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Microsoft Defender for Cloud"
+              "title": "Graph of Untitled"
             }
           }
         ]
@@ -250,8 +250,9 @@
   },
   "active": "69ae7a8f8598d9dd",
   "lastOpenFiles": [
-    "sc900/Microsoft cloud security benchmark (MCSB).md",
     "sc900/Microsoft Defender for Cloud.md",
+    "sc900/Untitled.md",
+    "sc900/Microsoft cloud security benchmark (MCSB).md",
     "sc900/security initiative.md",
     "sc900/Azure Policy.md",
     "sc900/cloud workload protection platform (CWPP).md",
@@ -275,7 +276,6 @@
     "sc900/Microsoft Entra Verified ID.md",
     "sc900/Microsoft Entra Private Access.md",
     "sc900/Azure Firewall.md",
-    "sc900/Azure DDoS Protection.md",
     "Untitled",
     "@images/Pasted image 20241219142611.png",
     "sc900/Untitled",

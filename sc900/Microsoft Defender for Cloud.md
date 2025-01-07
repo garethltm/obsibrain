@@ -20,4 +20,7 @@ When you enable Defender for Cloud, you automatically gain access to Microsoft D
 Microsoft Defender for Cloud applies [[security initiative]] to your subscriptions. These initiatives contain one or more security policies. Each of those policies results in a security recommendation for improving your security posture.
 
 Security administrators can build their own custom security initiatives in [[Microsoft Defender for Cloud]], but there's also a default, built-in security initiative named '[[Microsoft cloud security benchmark (MCSB)]]' that is automatically assigned when you enable [[Microsoft Defender for Cloud]] on your subscription.
-## [[Microsoft cloud security benchmark (MCSB)]] 
+## [[Microsoft cloud security benchmark (MCSB)]] in Defender for Cloud
+[[Microsoft Defender for Cloud]] continuously assesses an organization's hybrid cloud environment to analyze the risk factors according to the controls and best practices in the [[Microsoft cloud security benchmark]]. The regulatory compliance dashboard in Microsoft Defender for Cloud reflects the status of your compliance with the MCSB and any other standards that you've applied to your subscriptions.
+
+Some of the controls used in the MCSB include network security, identity and access control, data protection, data recovery, incident response, and more.
