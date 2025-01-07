@@ -1,3 +1,7 @@
-One of Microsoft Defender for Cloud's main pillars for cloud security is Cloud Security Posture Management (CSPM). CSPM provides you with hardening guidance that helps you efficiently and effectively improve your security. CSPM also gives you visibility into your current security situation.
+One of [[Microsoft Defender for Cloud]] main pillars for cloud security is [[Cloud Security Posture Management (CSPM)]]. CSPM provides you with hardening guidance that helps you efficiently and effectively improve your security. CSPM also gives you visibility into your current security situation.
 
 The security of your cloud and on-premises resources depends on proper configuration and deployment. [[Cloud security posture management (CSPM) ]]assesses your systems and automatically alerts security staff in your IT department when a vulnerability is found. [[cloud security posture management (CSPM)]] uses tools and services in your cloud environment to monitor and prioritize security enhancements and features admins can take to secure the environment.
+### Secure score
+The central feature in [[Microsoft Defender for Cloud]] that provides visibility to your current security posture is secure score. Defender for Cloud continually assesses your cross-cloud resources for security issues. It then aggregates all the findings into a single score so that you can tell, at a glance, your current security situation: the higher the score, the lower the identified risk level.
+
+All Defender for Cloud customers automatically gain access to the secure score when they enable Defender for Cloud. Microsoft Cloud Security Benchmark (MCSB) is automatically applied to your environments and generates all the built-in recommendations that are part of this default initiative.
