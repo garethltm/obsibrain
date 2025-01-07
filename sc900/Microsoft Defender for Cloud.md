@@ -2,3 +2,11 @@
 - [[development security operations (DevSecOps)]] solution that unifies security management at the code level across multicloud & multiple-pipeline environments
 - A [[cloud security posture management (CSPM)]] solution that surfaces actions that you can take to prevent breaches.
 - A [[cloud workload protection platform (CWPP)]] with specific protections for servers, containers, storage, databases, and other workloads.![A s=diagram showing the three pillars fo Microsoft Defender for Cloud:  DevOps security management, cloud security posture management, and cloud workload protection platform.](https://learn.microsoft.com/en-us/training/wwl-sci/describe-security-management-capabilities-of-azure/media/defender-for-cloud-pillars-inline.png)
+
+Microsoft Defender for Cloud, through its [[development security operations (DevSecOps)]], CSPM, and [[cloud workload protection platform (CWPP)]] capabilities, enables organizations to manage the security of their resources and workloads in the cloud and on-premises and improve their overall security posture.
+
+Also, for businesses that are onboarded to Microsoft Security Copilot, Microsoft Defender for Cloud embeds capabilities of Microsoft Security Copilot. Specifically, the integration with Copilot allows you to analyze, summarize, remediate, and delegate recommendations using natural language prompts.
+
+When you enable Defender for Cloud, you automatically gain access to Microsoft Defender XDR, an enterprise defense suite that natively coordinates detection, prevention, investigation, and response across endpoints, identities, email, and applications to provide integrated protection against sophisticated attacks. Information on Microsoft Defender XDR is covered in a subsequent module.
+
+DevSecOps, CSPM, and CWPP are covered in more detail throughout the rest of this module. But first, it's important to start with an understanding of the policies and security initiatives that Microsoft Defender for Cloud applies in the course of making recommendations.
