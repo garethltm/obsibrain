@@ -29,4 +29,4 @@ Good data governance helps reveal your data's business value and simplifies data
     - Data value creation - maximize value creation from your data while reducing operations spend.
     - Data estate standardization - create common controls across your data estate with federated accountability so your data is healthy and safe.
 
-[[Microsoft Purview]] data governance delivers on these benefits through the rich set of features in Microsoft Purview Data Catalog.
+[[Microsoft Purview]] data governance delivers on these benefits through the rich set of features in [[Microsoft Purview Data Catalog]].
