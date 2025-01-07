@@ -1,0 +1,1 @@
+Defender for Office 365 safeguards your organization against malicious threats posed by email messages, links (URLs), and collaboration tools.
