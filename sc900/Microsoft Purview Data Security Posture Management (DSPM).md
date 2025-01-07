@@ -32,4 +32,11 @@ The DSPM (preview) workflow helps you investigate and take action to address pot
 	- **Investigate with Security Copilot**: Use built-in and custom prompts with Security Copilot to help identify specific areas of risk.
 	- **Create policies with recommendations**: Use recommendations to quickly create insider risk management and DLP policies to help mitigate data security risks for unprotected data assets.
 4. **Track posture with analytic trends and reports**: Use analytic trends and reports to view your posture over time and for data locations across your organization.
-### 
+### Using DSPM (preview) in new environments
+For organizations just getting started with Microsoft Purview, DSPM (preview) helps provide easy configuration and new policy creation across several data security and risk and compliance solutions.
+
+By automatically scanning data and activities across your organization, you'll quickly get baseline insights and recommendations focused on unprotected data that can help you quickly get started in DLP, information protection, and insider risk management.
+### Using data security in existing environments
+If your organization is already using DLP, information protection, and insider risk management in Microsoft Purview, DSPM (preview) helps to identify any gaps in your current policy coverage.
+
+Without having to conduct deeper dives into your existing policies, DSPM (preview) can quickly determine and highlight any unprotected data at risk, saving you the time and effort associated with reviewing and testing numerous individual data security and risk and compliance policies.
