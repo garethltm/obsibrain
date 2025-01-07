@@ -36,3 +36,15 @@ Data catalog access policies allow you to manage access to your data products an
 ### Search & browse
 Data discovery can be time consuming because you might not know where to find the data that you want. Search enables data consumers need to easily find the data needed for their analytics or governance workloads. Searching is great if you know what you're looking for, but there are times where data consumers wish to explore the data available to them. The [[Microsoft Purview Data Catalog]] offers a browse experience that enables users to explore what data is available to them either by collection or through traversing the hierarchy of each data source in the catalog.
 ### Health management
+Health management has features to enhance your [[data governance]] strategy and management.
+
+The benefits of data [[health controls]] include:
+- Improved Data Quality: Ensures that data remains accurate, consistent, and reliable for decision-making.
+- Enhanced Security: Protects sensitive data from breaches, unauthorized access, and corruption.
+- Regulatory Compliance: Helps organizations adhere to legal and industry standards for data management.
+- Operational Efficiency: Reduces the time and resources spent on correcting data issues and ensures that data is readily available and usable.
+- Risk Mitigation: Prevents costly errors and data-related risks that can arise from poor data management.
+
+In summary, data health controls are essential components of a comprehensive data governance strategy, helping organizations maintain the integrity, security, and usability of their data assets.
+
+_**Health actions**_: Health management actions give you and your users steps to take to improve data health and governance across your data estate. These actions correspond to the checks made to calculate a data product's data governance health control score. Addressing these actions raises your health score and promotes an overall more useable and discoverable data catalog.
