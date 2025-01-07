@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sc900/Microsoft Defender Vulnerability Management.md",
+                "file": "sc900/Microsoft Defender Threat Intelligence (Defender TI).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Microsoft Defender Vulnerability Management"
+              "title": "Microsoft Defender Threat Intelligence (Defender TI)"
             }
           }
         ],
@@ -215,7 +215,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "sc900/Microsoft Defender Vulnerability Management.md",
+                "file": "sc900/Microsoft Defender Threat Intelligence (Defender TI).md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -243,7 +243,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Microsoft Defender Vulnerability Management"
+              "title": "Graph of Microsoft Defender Threat Intelligence (Defender TI)"
             }
           }
         ]
@@ -265,13 +265,13 @@
   },
   "active": "3a62890c2f1f02f5",
   "lastOpenFiles": [
+    "sc900/Microsoft Defender Vulnerability Management.md",
     "sc900/Microsoft Defender Threat Intelligence (Defender TI).md",
     "sc900/Microsoft Defender Threat Intelligence.md",
     "sc900/Intel Projects.md",
     "sc900/Intel Explorer.md",
     "sc900/Intel Profiles.md",
     "sc900/Threat analytics.md",
-    "sc900/Microsoft Defender Vulnerability Management.md",
     "sc900/Microsoft Defender for Identity.md",
     "sc900/Microsoft Defender for Cloud Apps.md",
     "sc900/SaaS Security Posture Management (SSPM).md",
