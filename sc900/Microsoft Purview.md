@@ -91,3 +91,10 @@ In the activity explorer, you can view information about what users are doing wi
 Data loss prevention capabilities extend to Microsoft Teams chat and channel messages, whether it's in a message or a file, including messages in private channels. Just like with Exchange, Outlook, SharePoint, and OneDrive, administrators can use DLP policy tips that will be displayed to the user to show them why a policy has been triggered. For example, the screenshot that follows shows a policy tip on a chat message that was blocked because the user attempted to share a U.S. Social Security Number.
 >User can then find out more about why their message was blocked by selecting the "What can I do?" link, and take appropriate action.![A screenshot of a DLP policy tip presented to user whose message is blocked. The tip provides information about why their message was blocked, and actions to take.](https://learn.microsoft.com/en-us/training/wwl-sci/describe-purview-data-solutions/media/5-policy-tip-more-information.png)
 	DLP policies applied to Microsoft 365 services, including Microsoft Teams, can help users across organizations to collaborate securely and in a way that's in line with compliance requirements.
+## Inte![Screen capture of the Microsoft Purview capabilities available Microsoft Security Copilot.](https://learn.microsoft.com/en-us/training/wwl-sci/describe-purview-data-solutions/media/purview-capabilities.png)gration with [[Microsoft Security Copilot]]
+
+[[Microsoft Purview]] Data Loss Prevention supports integration with [[Microsoft Security Copilot]], through the standalone and embedded experiences.
+
+To experience this Copilot capability, organizations must be onboarded to Copilot, have enabled Copilot to access data from Microsoft 365 services, and users must have the appropriate role permissions,
+
+The Microsoft Purview capabilities, that you can view in the standalone experience by selecting the prompt icon and selecting all capabilities, are built-in prompts that you can use but you can also enter your own prompts based on the capabilities supported.
