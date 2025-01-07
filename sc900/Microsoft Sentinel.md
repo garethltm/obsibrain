@@ -69,4 +69,9 @@ Microsoft Sentinel content refers to [[Security Information and Event Management
 The Microsoft Sentinel Content hub is your centralized location to discover and manage out-of-the-box (built-in) packaged solutions. Microsoft Sentinel solutions are packages of Microsoft Sentinel content or Microsoft Sentinel API integrations that provide single-step deployment and enablement. Content hub solutions, which fulfill an end-to-end product, domain, or industry vertical scenario in Microsoft Sentinel. 
 >An example of a domain specific, built-in, is the [[Microsoft Purview]] Insider Risk Management that includes a data connector, workbook, analytics rules, hunting queries, and playbook.![Screen capture of the Microsoft Sentinel content hub.](https://learn.microsoft.com/en-us/training/wwl-sci/describe-security-capabilities-of-azure-sentinel/media/content-hub.png)
 
-### 
+### [[Microsoft Sentinel]] in the [[Microsoft Defender for Cloud]] portal
+[[Microsoft Sentinel]] is a security service that is enabled through the Azure portal. Once the Microsoft Sentinel service is enabled, you can access it through the Azure portal or from within the Microsoft unified security operations platform in the Microsoft Defender portal.
+
+The Microsoft unified security operations platform in the Microsoft Defender portal brings together the full capabilities of Microsoft Sentinel, Microsoft Defender XDR, and Microsoft Copilot in Microsoft Defender.
+
+When you onboard Microsoft Sentinel to the Defender portal, you unify capabilities with Microsoft Defender XDR like incident management and advanced hunting. Reduce tool switching and build a more context-focused investigation that expedites incident response and stops breaches faster.
