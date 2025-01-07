@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sc900/cloud security posture management (CSPM).md",
+                "file": "sc900/Microsoft Defender for Cloud.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "cloud security posture management (CSPM)"
+              "title": "Microsoft Defender for Cloud"
             }
           }
         ]
@@ -200,7 +200,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "sc900/cloud security posture management (CSPM).md",
+                "file": "sc900/Microsoft Defender for Cloud.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -228,7 +228,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of cloud security posture management (CSPM)"
+              "title": "Graph of Microsoft Defender for Cloud"
             }
           }
         ]
@@ -248,8 +248,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c43a081b5b35c8fa",
+  "active": "3ad179677b7fba41",
   "lastOpenFiles": [
+    "sc900/cloud security posture management (CSPM).md",
     "sc900/Microsoft Defender for Cloud.md",
     "sc900/security recommendation.md",
     "sc900/Microsoft Security Copilot.md",
@@ -257,7 +258,6 @@
     "sc900/security initiative.md",
     "sc900/Azure Policy.md",
     "sc900/cloud workload protection platform (CWPP).md",
-    "sc900/cloud security posture management (CSPM).md",
     "sc900/Azure Key Vault.md",
     "sc900/development security operations (DevSecOps).md",
     "University of Auckland/2024 Semester 1/INFOSYS303 - Solutions Architecture/Availability.md",
