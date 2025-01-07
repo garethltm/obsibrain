@@ -20,4 +20,15 @@ allows you to quickly and easily monitor cross-cloud data and user risk through 
     
     Depending on specific recommendations identified for the data, you can choose to quickly create an applicable [insider risk management policy](https://learn.microsoft.com/en-us/purview/insider-risk-management-policy-templates) directly in the DSPM (preview) workflow.
 ### Working with Adaptive Protection
-[Adaptive protection](https://learn.microsoft.com/en-us/purview/insider-risk-management-adaptive-protection) in Microsoft Purview uses [[Machine Learning (ML)]] to identify the most critical risks and proactively and dynamically apply protection controls from data loss prevention, data lifecycle management, and Microsoft Entra conditional access. If Adaptive Protection isn't currently enabled for unprotected sensitive data, you can create a new Adaptive Protection policy directly in the DSPM (preview) workflow.
+[Adaptive protection](https://learn.microsoft.com/en-us/purview/insider-risk-management-adaptive-protection) in Microsoft Purview uses [[Machine Learning (ML)]] to identify the most critical risks and proactively and dynamically apply protection controls from data loss prevention, data lifecycle management, and Microsoft Entra [[conditional access]]. If Adaptive Protection isn't currently enabled for unprotected sensitive data, you can create a new Adaptive Protection policy directly in the DSPM (preview) workflow.
+## Workflow
+The DSPM (preview) workflow helps you investigate and take action to address potential security concerns with unprotected data across your organization.![Data security posture management workflow diagram.](https://learn.microsoft.com/en-us/purview/media/dspm-workflow.png)
+1. **Opt-in to analytics processing**: To get started with DSPM (preview), you must enable and opt in to:
+    1. Insider risk management analytics
+    2. DLP analytics
+    3. Analytics processing in DSPM (preview) to scan for unprotected data in your organization.
+2. **Evaluate insights and take action**: After the automated analytics processing is completed, you can evaluate the insights created by DSPM (preview) to help mitigate risks for unprotected data.
+3. **Actions**:
+    1. **Investigate with Security Copilot**: Use built-in and custom prompts with Security Copilot to help identify specific areas of risk.
+    2. **Create policies with recommendations**: Use recommendations to quickly create insider risk management and DLP policies to help mitigate data security risks for unprotected data assets.
+4. **Track posture with analytic trends and reports**: Use analytic trends and reports to view your posture over time and for data locations across your organization.
