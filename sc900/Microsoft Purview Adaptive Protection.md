@@ -22,4 +22,4 @@ Auditing solutions in [[Microsoft Purview]] help organizations effectively respo
 
 [[Microsoft Purview]] provides two auditing solutions:
 - [[Audit (Standard)]]
-- Audit (Premium)
+- [[Audit (Premium)]]
