@@ -1,0 +1,3 @@
+A [[Security Orchestration Automated Response (SOAR)]] system takes alerts from many sources, such as a [[Security Information and Event Management (SIEM)]] system. The SOAR system then triggers action-driven automated workflows and processes to run security tasks that mitigate the issue.
+
+To provide a comprehensive approach to security, an organization needs to use a solution that embraces or combines both SIEM and SOAR functionality.
