@@ -25,7 +25,7 @@ Communication compliance is a powerful tool that can help maintain and safeguard
 Contextual Summarization currently supports trainable classifiers as context and contextual summaries are only eligible for messages and attachments with a combined length of 100 words or more.
 
 To access Copilot from within [[Microsoft Purview Communication Compliance]]:
-1. Navigate to the Communication Compliance solution from the Microsoft Purview compliance portal, or the new Microsoft Purview portal currently in preview, then navigate to the Policies tab in Communication Compliance.
+1. Navigate to the Communication Compliance solution from the [[Microsoft Purview]] compliance portal, or the new [[Microsoft Purview]] portal currently in preview, then navigate to the Policies tab in Communication Compliance.
     
 2. Navigate to a policy that uses trainable classifiers as part of the policy’s configurations and view message content by selecting a policy match.
     

@@ -34,9 +34,23 @@
               "icon": "lucide-file",
               "title": "Microsoft Purview Communication Compliance"
             }
+          },
+          {
+            "id": "21a655b9f9a57daa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "sc900/Microsoft Purview Records Management.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Microsoft Purview Records Management"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -215,7 +229,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "sc900/Microsoft Purview Communication Compliance.md",
+                "file": "sc900/Microsoft Purview Records Management.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -243,7 +257,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Microsoft Purview Communication Compliance"
+              "title": "Graph of Microsoft Purview Records Management"
             }
           }
         ]
@@ -263,10 +277,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3ad179677b7fba41",
+  "active": "21a655b9f9a57daa",
   "lastOpenFiles": [
-    "sc900/Microsoft Purview Data Lifecycle Management.md",
     "sc900/Microsoft Purview Communication Compliance.md",
+    "sc900/Microsoft Purview Records Management.md",
+    "sc900/Microsoft Purview Data Lifecycle Management.md",
     "sc900/Microsoft Purview Compliance Manager.md",
     "sc900/eDiscovery.md",
     "sc900/Microsoft Purview.md",
@@ -290,7 +305,6 @@
     "sc900/Microsoft Defender for Office 365.md",
     "sc900/Microsoft Defender for Endpoint.md",
     "sc900/Microsoft Security Copilot.md",
-    "sc900/Microsoft Defender portal.md",
     "Untitled",
     "@images/Pasted image 20241219142611.png",
     "sc900/Untitled",
