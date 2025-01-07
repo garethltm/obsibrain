@@ -18,4 +18,13 @@ Consider the example where a data scientist has created a set of data assets to 
 ### [[Glossary terms]]
 Terms are created under governance domains to create context that is specific to each part of your organization. For example, both sales and marketing might use the same term to mean different things, and your governance domains help your team to differentiate between those meanings. Once created, terms map to [[data product]](s), to provide context for those [[data product]](s), and to provide specific data governance based on business context.
 
-[[Glossary terms]] provide data governance based on the business context, because they now contain policies. Policies in a business term apply specific business health goals, data governance requirements, and terms of use to any data product that a term is applied to.
+[[Glossary terms]] provide [[data governance]] based on the business context, because they now contain policies. Policies in a business term apply specific business health goals, [[data governance]] requirements, and terms of use to any data product that a term is applied to.
+### Critical data elements
+Not all data elements have the same importance or sensitivity, and dedicating resources to manage the quality of all data indiscriminately can be impractical and costly. Critical data elements (CDEs) are a logical grouping of important pieces of information across your data estate. These groupings can make data easier to understand and promote standardization. Data quality rules and access policies can be attached to these elements to further secure sensitive information across your data estate.
+
+>For example: A "Customer ID" critical data element can map "CustID" from one table and "CID" from another table into the same logical container. Users can match this value across data assets to make connections, and when data producers create a new asset they can use this element as a blueprint to provide quality information in the correct format.
+
+Critical data elements are created within governance domains and can have policies set to manage these important pieces of information.
+
+By creating CDEs, organizations can allocate resources strategically, focusing governance effort on areas that have the most significant impact on the business.
+### OKRs
