@@ -29,3 +29,8 @@ Some of the features of [[Microsoft Defender for Office 365]] that help organiza
 - URL trace that allows admins to investigate a domain to see if the devices and servers in your enterprise network have been communicating with a known malicious domain.
 - Threat trackers that are queries that you create and save to automatically or manually discover cybersecurity threats in your organization.
 - The campaigns feature that identifies and categorizes coordinated phishing and malware email attacks. The campaigns feature lets you see the overall picture of an email attack faster and more completely than any human.
+### Respond
+Some of the features of Microsoft Defender for Office 365 that help organizations detect email and collaboration based threats include:
+- Zero-hour auto purge (ZAP) that retroactively detects and neutralizes malicious phishing, spam, or malware messages that have already been delivered to Exchange Online mailboxes.
+- Automated investigation and response (AIR) capabilities that include automated investigation processes in response to well-known threats that exist today.
+- Security information and event management (SIEM) integration for automated responses.
