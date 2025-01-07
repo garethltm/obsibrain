@@ -41,4 +41,7 @@ Priva Consent Management is a regulatory-independent solution for streamlining t
 Consent management provides customizable consent models that allow you to add branding and style elements specific to your organization. Consent models also support adding, importing, or machine-generating language translations to support visitors in multiple regions who have different language requirements. The consent models you create don’t need to be created for specific websites, meaning you can use the same model across your public domains.
 
 When you’re ready to publish your consent models, a centralized process allows you to publish consent models at scale to multiple regions.
-### Privacy Assessments (p)
+### Privacy Assessments (preview)
+Organizations today face significant challenges in maintaining current justified documentation of data usage across their data estates. The assessment of personal data use often involves manual and time-consuming tasks like generating and updating custom questionnaires as well as monitoring data use across the business. As a result, privacy impact assessments are performed after the fact or quickly become stale, failing to accurately reflect the current state of data use within the organization.
+
+Priva Privacy Assessments automates the discovery, documentation, and evaluation of personal data use across your entire data estate. Using this regulatory-independent solution, you can automate privacy assessments and build a complete compliance record for the responsible use of personal data.
