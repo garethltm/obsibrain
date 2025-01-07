@@ -48,7 +48,6 @@ Once a sensitivity label is applied to an email or document, any configured prot
 Data loss can harm an organization’s customers, business processes, and the organization itself. Organizations need to prevent data loss by detecting risky behavior and preventing sensitive information from being shared inappropriately.
 
 In [[Microsoft Purview]], you implement data loss prevention (DLP) by defining and applying DLP policies. With a DLP policy, you can **identify, monitor, and automatically protect** sensitive items across:
-
 - Microsoft 365 services such as Teams, Exchange, SharePoint, and OneDrive accounts
 - Office applications such as Word, Excel, and PowerPoint
 - Windows 10, Windows 11, and macOS (three latest released versions) endpoints
@@ -56,4 +55,13 @@ In [[Microsoft Purview]], you implement data loss prevention (DLP) by defining a
 - On-premises file shares and on-premises SharePoint
 - Power BI
 
-DLP detects sensitive items by using deep content analysis, not by just a simple text scan. Content is analyzed for primary data matches to keywords, by the evaluation of regular expressions, by internal function validation, and by secondary data matches that are in proximity to the primary data match. Beyond that DLP also uses machine learning algorithms and other methods to detect content that matches your DLP policies.
+DLP detects sensitive items by using deep content analysis, not by just a simple text scan. Content is analyzed for primary data matches to keywords, by the evaluation of regular expressions, by internal function validation, and by secondary data matches that are in proximity to the primary data match. Beyond that DLP also uses [[Machine Learning (ML)]] algorithms and other methods to detect content that matches your DLP policies.
+## Protective actions of DLP policies
+DLP policies are how you monitor the activities that users take on sensitive items at rest, sensitive items in transit, or sensitive items in use and take protective actions. Protective actions that DLP policies can take include:
+- Show a pop-up policy tip to the user that warns them that they may be trying to share a sensitive item inappropriately.
+- Block the sharing and, via a policy tip, allow the user to override the block and capture the users' justification.
+- Block the sharing without the override option.
+- For data at rest, sensitive items can be locked and moved to a secure quarantine location,
+- For Teams chat, the sensitive information won't be displayed.
+
+All DLP monitored activities are recorded to the Microsoft 365 Audit log by default and routed to Activity explorer. When a user performs an action that meets the criteria of a DLP policy, and you have alerts configured, DLP provides alerts in the DLP alert management dashboard.
