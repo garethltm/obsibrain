@@ -23,4 +23,16 @@ This section includes general documents relating to the following categories:
 - Pen Test and Security Assessments - Attestation of Penetration tests and security assessments conducted by third parties
 - Privacy and Data Protection - Privacy and Data Protection Resources
 - FAQ and Whitepapers - Whitepapers and answers to frequently asked questions
-### 
+### Industry & Regional Resources
+![Screenshot of the tiles available in the reports, whitepapers, and artifacts section of the Service Trust Portal home page.](https://learn.microsoft.com/en-us/training/wwl-sci/describe-compliance-management-capabilities-microsoft/media/stp-industry-regions.png)
+This section includes documents that apply to the following industries and regions:
+- Financial Services - Resources elaborating regulatory compliance guidance for FSI (by country/region)
+- Healthcare and Life Sciences - Capabilities offered by Microsoft for Healthcare Industry
+- Media and Entertainment - Media and Entertainment Industry Resources
+- United States Government - Resources exclusively for US Government customers
+- Regional Resources - Documents describing compliance of Microsoft's online services with various regional policies and regulations
+### Resources for your Organization
+![Screenshot showing tiles available in the resources for your organization section of the Service Trust Portal home page.](https://learn.microsoft.com/en-us/training/wwl-sci/describe-compliance-management-capabilities-microsoft/media/stp-organization-resources.png)
+This section lists documents applying to your organization (restricted by tenant) based on your organization’s subscription and permissions.
+# My Library
+![Screenshot of the documents listed in the My Library page.](https://learn.microsoft.com/en-us/training/wwl-sci/describe-compliance-management-capabilities-microsoft/media/stp-my-library.png)
