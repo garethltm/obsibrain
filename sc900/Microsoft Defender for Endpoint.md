@@ -26,6 +26,14 @@ Microsoft Defender for Endpoint includes:
 - **Management and APIs**: 
 	- Defender for Endpoint offers an API model designed to expose entities and capabilities through a standard Microsoft Entra ID-based authentication and authorization model.
 
-[[Microsoft Defender for Endpoint]] also integrates with various components in the Microsoft Defender suite, and with other Microsoft solutions including Intune and Microsoft Defender for Cloud.
+[[Microsoft Defender for Endpoint]] also integrates with various components in the Microsoft Defender suite, and with other Microsoft solutions including Intune and [[Microsoft Defender for Cloud]].
+### Microsoft Defender for Endpoints in the Microsoft Defender portal
+Microsoft Defender for Endpoints is experienced through the Microsoft Defender portal. The Defender portal is the home for monitoring and managing security across your Microsoft identities, data, devices, apps, and infrastructure, allowing security admins to perform their security tasks, in one location.
 
-Microsoft Defender for Endpoint is available in two plans, Defender for Endpoint Plan 1 and Plan 2. Information on what's included in each plan is detailed in the Compare Microsoft Defender for Endpoint plans document linked in the summary and resources unit.
+The Endpoints node on the left navigation panel of the Microsoft Defender portal includes the following:
+
+- Vulnerability management - Manage vulnerabilities and other risk sources on devices. From here you can access the vulnerability management dashboard, recommendations, remediation, weaknesses, and more. More details on Microsoft Defender Vulnerability Management are in a subsequent unit of this module.
+- Partners and APIs - From here you can select Connected applications and API explorer.
+    - Connected applications - The Connected applications page provides information about the Microsoft Entra applications (SaaS applications that are preintegrated with Microsoft Entra ID) connected to Microsoft Defender for Endpoint in your organization.
+    - API Explorer - Defender for Endpoint exposes much of its data and actions through a set of programmatic APIs. Those APIs enable you to automate workflows and innovate based on Defender for Endpoint capabilities. The Microsoft Defender for Endpoint API Explorer is a tool that helps you explore various Defender for Endpoint APIs interactively. You can use the API explorer to test Microsoft Defender for Endpoint capabilities by running sample queries or creating and testing your own API query.
+- Configuration management - Define endpoint policies and track deployment.
