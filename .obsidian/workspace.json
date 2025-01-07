@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sc900/Development Operations (DevOps).md",
+                "file": "sc900/cloud security posture management (CSPM).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Development Operations (DevOps)"
+              "title": "cloud security posture management (CSPM)"
             }
           }
         ]
@@ -200,7 +200,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "sc900/Development Operations (DevOps).md",
+                "file": "sc900/cloud security posture management (CSPM).md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -228,7 +228,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Development Operations (DevOps)"
+              "title": "Graph of cloud security posture management (CSPM)"
             }
           }
         ]
@@ -250,13 +250,13 @@
   },
   "active": "c43a081b5b35c8fa",
   "lastOpenFiles": [
-    "sc900/Development Security Operations (DevSecOps).md",
+    "sc900/Microsoft cloud security benchmark (MCSB).md",
     "sc900/Development Operations (DevOps).md",
+    "sc900/Development Security Operations (DevSecOps).md",
     "sc900/Microsoft Defender for Cloud.md",
     "sc900/cloud security posture management (CSPM).md",
     "sc900/security recommendation.md",
     "sc900/Microsoft Security Copilot.md",
-    "sc900/Microsoft cloud security benchmark (MCSB).md",
     "sc900/security initiative.md",
     "sc900/Azure Policy.md",
     "sc900/cloud workload protection platform (CWPP).md",
