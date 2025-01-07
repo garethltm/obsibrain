@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sc900/Untitled.md",
+                "file": "sc900/Microsoft Defender portal.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "Microsoft Defender portal"
             }
           }
         ],
@@ -229,7 +229,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "sc900/Untitled.md",
+                "file": "sc900/Microsoft Defender portal.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -257,7 +257,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Untitled"
+              "title": "Graph of Microsoft Defender portal"
             }
           }
         ]
@@ -280,7 +280,7 @@
   "active": "927da55305a1820e",
   "lastOpenFiles": [
     "sc900/Microsoft Defender Threat Intelligence (Defender TI).md",
-    "sc900/Untitled.md",
+    "sc900/Microsoft Defender portal.md",
     "sc900/Microsoft Defender Vulnerability Management.md",
     "sc900/Microsoft Defender Threat Intelligence.md",
     "sc900/Intel Projects.md",
