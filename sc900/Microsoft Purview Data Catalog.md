@@ -28,3 +28,11 @@ Critical data elements are created within governance domains and can have polici
 
 By creating CDEs, organizations can allocate resources strategically, focusing governance effort on areas that have the most significant impact on the business.
 ### OKRs
+OKRs (objectives and key results) in [[Microsoft Purview]] are trackable business objectives tied to governance domains and data products to emphasize the value of business data.
+
+OKRs link data products directly to real business objectives to cross the gap between the business and the data estate. [[Data governance]] isn't just an IT task or engineering best practice, it's a critical part of value generation.
+### Data access policies
+Data catalog access policies allow you to manage access to your data products and set up a system to provide access to users who request it. Promote innovation and flexibility in your data estate by creating self-service access opportunities, while upholding security and right-use standards.
+### Search & browse
+Data discovery can be time consuming because you might not know where to find the data that you want. Search enables data consumers need to easily find the data needed for their analytics or governance workloads. Searching is great if you know what you're looking for, but there are times where data consumers wish to explore the data available to them. The [[Microsoft Purview Data Catalog]] offers a browse experience that enables users to explore what data is available to them either by collection or through traversing the hierarchy of each data source in the catalog.
+### Health management
