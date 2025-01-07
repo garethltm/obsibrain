@@ -45,3 +45,9 @@ When you’re ready to publish your consent models, a centralized process allows
 Organizations today face significant challenges in maintaining current justified documentation of data usage across their data estates. The assessment of personal data use often involves manual and time-consuming tasks like generating and updating custom questionnaires as well as monitoring data use across the business. As a result, privacy impact assessments are performed after the fact or quickly become stale, failing to accurately reflect the current state of data use within the organization.
 
 Priva Privacy Assessments automates the discovery, documentation, and evaluation of personal data use across your entire data estate. Using this regulatory-independent solution, you can automate privacy assessments and build a complete compliance record for the responsible use of personal data.
+### Tracker Scanning (preview)
+Web tracker compliance refers to the adherence of websites to legal and regulatory requirements regarding the use of web tracking technologies. These technologies, such as cookies and other tracking mechanisms, are used to monitor and collect data about users' activities on a website.
+
+Many organizations find it challenging to effectively manage and monitor web tracker compliance. Navigating the intricate realm of tracker compliance is a complex and often burdensome task due to the swift evolution of technology, the proliferation of websites, and the evolving landscape of privacy regulations.
+
+Priva Tracker Scanning empowers organizations to automate the identification of tracking technologies across multiple web properties, driving the efficient management of website privacy compliance. With Tracker Scanning you can automate scans for trackers, evaluate and manage web trackers, and streamline compliance reporting.
