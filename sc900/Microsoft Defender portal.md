@@ -74,3 +74,10 @@ The Identities node on the left navigation panel of the [[Microsoft Defender por
 ![A screenshot of the endpoints node on the left navigation panel of the Microsoft Defender portal.](https://learn.microsoft.com/en-us/training/wwl-sci/describe-threat-protection-with-microsoft-365-defender/media/endpoints-node.png)
 The Endpoints node on the left navigation panel of the Microsoft Defender portal maps to functionality associated with [[Microsoft Defender for Endpoint]].
 # Email & collaboration
+![A screenshot of the email and collaboration node on the navigation panel of the Microsoft Defender portal.](https://learn.microsoft.com/en-us/training/wwl-sci/describe-threat-protection-with-microsoft-365-defender/media/email-collaboration.png)
+The email and collaboration node on the left navigational panel is where you find [[Microsoft Defender for Office 365]] functionality that allows you to track and investigate threats to your users' email, track campaigns, and more.
+# Cloud apps
+![A screenshot of the cloud apps node on the navigation panel of the Microsoft Defender portal.](https://learn.microsoft.com/en-us/training/wwl-sci/describe-threat-protection-with-microsoft-365-defender/media/cloud-apps-node.png)
+The Cloud apps node on the left navigational panel is where you find [[Microsoft Defender for Cloud Apps]] functionality.
+### SOC Optimization
+![A screenshot of the SOC optimization page in the Microsoft Defender portal.](https://learn.microsoft.com/en-us/training/wwl-sci/describe-threat-protection-with-microsoft-365-defender/media/optimization.png)
