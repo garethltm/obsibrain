@@ -23,4 +23,4 @@ Security administrators can build their own custom security initiatives in [[Mic
 ## [[Microsoft cloud security benchmark (MCSB)]] in Defender for Cloud
 [[Microsoft Defender for Cloud]] continuously assesses an organization's hybrid cloud environment to analyze the risk factors according to the controls and best practices in the [[Microsoft cloud security benchmark]]. The regulatory compliance dashboard in Microsoft Defender for Cloud reflects the status of your compliance with the MCSB and any other standards that you've applied to your subscriptions.
 
-Some of the controls used in the MCSB include network security, identity and access control, data protection, data recovery, incident response, and more.
+Some of the controls used in the MCSB include network security, identity and access control, data protection, data recovery, incident response, and more.![Screenshot of Microsoft Defender for Cloud showing status of regulatory compliance against Microsoft cloud security benchmark.](https://learn.microsoft.com/en-us/training/wwl-sci/describe-security-management-capabilities-of-azure/media/defender-cloud-compliance-inline.png)
