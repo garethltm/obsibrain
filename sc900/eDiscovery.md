@@ -39,6 +39,11 @@ The list that follows is a small subset of the capabilities available with [[eDi
 	- Preserve content relevant to your investigation by placing a hold on the content locations in a case. Holds let you secure electronically stored information from inadvertent (or intentional) deletion during your investigation.
 - **Review sets** (premium feature):
 	- A review set is a secure, Microsoft-provided Azure Storage location in the Microsoft cloud. When you add data to a review set, the collected items are copied from their original content location to the review set. Review sets provide a static, known set of content that you can search, filter, tag, analyze, and predict relevancy using predictive coding models.
-- **Optical character recognition (OCR)** (premium feature) - 
+- **Optical character recognition (OCR)** (premium feature):
 	- When content is added to a review set, OCR functionality extracts text from images, and includes the image text with the content that's added to a review set. This lets you search for image text when you query the content in the review set.
-- **Conversation threading** (premium feature) - When chat messages from Teams and Viva Engage conversations are added to a review set, you can collect the entire conversation thread. This lets you review chat items in the context of the back-and-forth conversation.
+- **Conversation threading** (premium feature):
+	- When chat messages from Teams and Viva Engage conversations are added to a review set, you can collect the entire conversation thread. This lets you review chat items in the context of the back-and-forth conversation.
+### Integration with [[Microsoft Security Copilot]]
+[[Microsoft Purview]] [[eDiscovery]] supports integration with [[Microsoft Security Copilot]], through the embedded experience. Users whose organization has been onboarded to Copilot, have enabled Copilot to access data from Microsoft 365 services, and have the appropriate role permissions can experience Copilot integration through the following supported capabilities:
+- Gain contextual summary of evidence collected in eDiscovery review sets (Preview).
+- Natural language to keyword query language (keyQL) queries.
