@@ -1,0 +1,1 @@
+[[Microsoft Defender for Cloud]] is a cloud-native application platform (CNAPP) with a set of security measures & practices designed 
