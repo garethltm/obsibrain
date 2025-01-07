@@ -37,4 +37,15 @@ Some of the features of [[Microsoft Defender for Office 365]] that help organiza
 ## Microsoft Defender for Office 365 in the Microsoft Defender portal
 [[Microsoft Defender for Office 365]] is experienced through the Microsoft Defender portal. The Defender portal is the home for monitoring and managing security across your Microsoft identities, data, devices, apps, and infrastructure, allowing security admins to perform their security tasks, in one location.
 
-Microsoft Defender for Office 365 functionality can be found under the Email & collaboration node on the left navigation panel of the Microsoft Defender portal.
+[[Microsoft Defender for Office 365]] functionality can be found under the Email & collaboration node on the left navigation panel of the Microsoft Defender portal.
+![A screenshot of the incident details page for a selected incident in the Microsoft Defender portal.](https://learn.microsoft.com/en-us/training/wwl-sci/describe-threat-protection-with-microsoft-365-defender/media/email-collaboration.png)
+- Investigations
+	- View, manage, and remediate threats using automated investigation and response.
+- Explorer
+	- Investigate, hunt for, and remediate threats in emails and documents.
+- Review - Manage quarantined items and restricted senders.
+- Campaigns - Analyze coordinated attacks against your environment.
+- Threat tracker - Monitor threat trends using widgets and custom searches.
+- Exchange message trace - Analyze message flow in the Exchange admin center.
+- Attack simulation training - Access and build user resilience using simulated attacks and training.
+- Policies & rules - Configure security policies for email and other Microsoft 365 workspaces.
