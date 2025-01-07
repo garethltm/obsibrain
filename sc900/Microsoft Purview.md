@@ -75,5 +75,7 @@ DLP policies can be created from predefined templates, or you can create a custo
 - Choose the location where the policy will be applied, such as Exchange, SharePoint, OneDrive, and more.
 - Choose the conditions that must be matched for a policy to be applied to an item.
 - Choose the protective action to take when the policy conditions are met.
+## Endpoi
 ## Data loss prevention in Microsoft Teams
 ![A screenshot of a Microsoft Teams chat that was blocked that includes a link for the user to obtain more information.](https://learn.microsoft.com/en-us/training/wwl-sci/describe-purview-data-solutions/media/5-data-loss-prevention-policy-tip-v2.png)
+Data loss prevention capabilities extend to Microsoft Teams chat and channel messages, whether it's in a message or a file, including messages in private channels. Just like with Exchange, Outlook, SharePoint, and OneDrive, administrators can use DLP policy tips that will be displayed to the user to show them why a policy has been triggered. For example, the screenshot that follows shows a policy tip on a chat message that was blocked because the user attempted to share a U.S. Social Security Number.
