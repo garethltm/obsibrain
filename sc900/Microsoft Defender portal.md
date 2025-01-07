@@ -46,6 +46,11 @@ Within an incident, you analyze the alerts that affect your network, understand 
 If your organization is onboarded to [[Microsoft Security Copilot]] you can also view an incident summary, guided responses, and more.
 ### Hunting
 ![A screenshot of the advanced hunting page in the Microsoft Defender portal.](https://learn.microsoft.com/en-us/training/wwl-sci/describe-threat-protection-with-microsoft-365-defender/media/hunting.png)
-Advanced hunting is a query-based threat hunting tool that lets you explore up to 30 days of raw data, from [[Microsoft Defender XDR]] and [[Microsoft Sentinel]]. You can proactively inspect events in your network to locate threat indicators and entities, through hunting queries. Hunting queries can be created via the query editor, if you're familiar with Kusto Query Language (KQL), using a query builder, or through [[Microsoft Security Copilot]]. For users onboarded to Microsoft Security Copilot, you can make a request or ask a question in natural language and Security Copilot generates a KQL query that corresponds to the request.
+Advanced hunting is a query-based threat hunting tool that lets you explore up to 30 days of raw data, from [[Microsoft Defender XDR]] and [[Microsoft Sentinel]]. You can proactively inspect events in your network to locate threat indicators and entities, through hunting queries. Hunting queries can be created via the query editor, if you're familiar with Kusto Query Language (KQL), using a query builder, or through [[Microsoft Security Copilot]]. For users onboarded to [[Microsoft Security Copilot]], you can make a request or ask a question in natural language and Security Copilot generates a KQL query that corresponds to the request.
 
 You can use the same threat hunting queries to build custom detection rules. These rules run automatically to check for and then respond to suspected breach activity, misconfigured machines, and other findings.
+### Actions & submissions
+The unified Action center brings together remediation actions across [[Microsoft Defender for Endpoint]] and [[Microsoft Defender for Office 365]]. It lists pending and completed remediation actions for your devices, email & collaboration content, and identities in one location.
+
+In Microsoft 365 organizations with Exchange Online mailboxes, admins can use the Submissions page in the [[Microsoft Defender portal]] to submit messages, URLs, and attachments to Microsoft for analysis.
+### Partner catalog
