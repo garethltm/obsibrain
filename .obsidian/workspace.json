@@ -250,8 +250,9 @@
   },
   "active": "655eec678a3a660d",
   "lastOpenFiles": [
-    "sc900/Endpoint data loss prevention.md",
+    "sc900/Microsoft Purview Insider Risk Management.md",
     "sc900/Microsoft Purview.md",
+    "sc900/Endpoint data loss prevention.md",
     "sc900/Microsoft Purview Data Security Posture Management (DSPM).md",
     "sc900/Pre-trained classifiers.md",
     "sc900/Trainable classifiers.md",
@@ -275,7 +276,6 @@
     "sc900/Threat analytics.md",
     "sc900/Microsoft Defender for Cloud Apps.md",
     "sc900/SaaS Security Posture Management (SSPM).md",
-    "sc900/Cloud Access Security Broker (CASB).md",
     "Untitled",
     "@images/Pasted image 20241219142611.png",
     "sc900/Untitled",
