@@ -1,0 +1,1 @@
+is a rule about specific security conditions that you want controlled. [[Azure policy]] supports built-in definitions but you can also create your own custom policy definitions.
