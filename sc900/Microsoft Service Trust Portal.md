@@ -10,3 +10,6 @@ The Service Trust Portal landing page includes content that is organized into th
 - Reports, Whitepapers, and Artifacts
 - Industry and Regional Resources
 - Resources for your Organization
+### Certifications, Regulations & Standards
+![Screenshot of the tiles available in the certifications, regulations, and standards section of the Service Trust Portal home page.](https://learn.microsoft.com/en-us/training/wwl-sci/describe-compliance-management-capabilities-microsoft/media/stp-certifications-standards.png)
+The certification, regulations, and standards section of the [[Microsoft Service Trust Portal]] provides a wealth of security implementation and design information with the goal of making it easier for you to meet regulatory compliance objectives by understanding how Microsoft Cloud services keep your data secure.
