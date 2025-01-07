@@ -18,19 +18,19 @@ Some of the features of [[Microsoft Defender for Office 365]] that help organiza
 - Safe attachments that provide an additional layer of protection against malware. After files are scanned by the common virus detection engine in Microsoft 365, Safe Attachments opens files in a virtual environment to see what happens (a process known as detonation).
 - Email and collaboration alerts
 - Attack simulation training, which allows admins to run realistic attack scenarios in your organization. These simulated attacks help identify and train vulnerable users before a real attack impacts your bottom line.
-- Security information and event management (SIEM) integration for alerts.
+- [[Security Information and Event Management (SIEM)]] integration for alerts.
 ### 2. Investigate
 Some of the features of [[Microsoft Defender for Office 365]] that help organizations detect email and collaboration based threats include:
 - Audit log search by users with appropriate permissions such as admins, insider risk teams, compliance and legal investigators, to provide visibility into the activities of the organization.
 - Message trace capabilities. Message trace follows email messages as they travel through your Microsoft 365 organization. You can determine if a message was received, rejected, deferred, or delivered by the service. It also shows what actions were taken on the message before it reached its final status.
 - Reports to help you see how email security features are protecting your organization.
 - Explorer (also known as Threat Explorer) or Real-time detections that are near real-time tools to help Security Operations (SecOps) teams investigate and respond to threats. Explorer allows admins to see malware detected by Microsoft 365 security features, start an automated investigation and response process, Investigate malicious email, and more.
-- Security information and event management (SIEM) integration for detections.
+- [[Security Information and Event Management (SIEM)]] integration for detections.
 - URL trace that allows admins to investigate a domain to see if the devices and servers in your enterprise network have been communicating with a known malicious domain.
 - Threat trackers that are queries that you create and save to automatically or manually discover cybersecurity threats in your organization.
 - The campaigns feature that identifies and categorizes coordinated phishing and malware email attacks. The campaigns feature lets you see the overall picture of an email attack faster and more completely than any human.
 ### Respond
-Some of the features of Microsoft Defender for Office 365 that help organizations detect email and collaboration based threats include:
+Some of the features of [[Microsoft Defender for Office 365]] that help organizations detect email and collaboration based threats include:
 - Zero-hour auto purge (ZAP) that retroactively detects and neutralizes malicious phishing, spam, or malware messages that have already been delivered to Exchange Online mailboxes.
 - Automated investigation and response (AIR) capabilities that include automated investigation processes in response to well-known threats that exist today.
 - Security information and event management (SIEM) integration for automated responses.
