@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sc900/Microsoft Defender for Cloud.md",
+                "file": "sc900/Microsoft Defender XDR.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Microsoft Defender for Cloud"
+              "title": "Microsoft Defender XDR"
             }
           },
           {
@@ -215,7 +215,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "sc900/Microsoft Defender for Cloud.md",
+                "file": "sc900/Microsoft Defender XDR.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -243,7 +243,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Microsoft Defender for Cloud"
+              "title": "Graph of Microsoft Defender XDR"
             }
           }
         ]
@@ -265,7 +265,10 @@
   },
   "active": "06456c99ed1e1a5a",
   "lastOpenFiles": [
+    "sc900/Prompt.md",
     "sc900/Microsoft Sentinel.md",
+    "sc900/Microsoft Security Copilot.md",
+    "sc900/Microsoft Defender for Cloud.md",
     "sc900/Microsoft Defender XDR.md",
     "sc900/MITRE ATT&CK.md",
     "sc900/Security Orchestration Automated Response (SOAR).md",
@@ -276,9 +279,7 @@
     "sc900/Microsoft cloud security benchmark (MCSB).md",
     "sc900/Development Operations (DevOps).md",
     "sc900/Development Security Operations (DevSecOps).md",
-    "sc900/Microsoft Defender for Cloud.md",
     "sc900/security recommendation.md",
-    "sc900/Microsoft Security Copilot.md",
     "sc900/security initiative.md",
     "sc900/Azure Policy.md",
     "sc900/cloud workload protection platform (CWPP).md",
@@ -290,7 +291,6 @@
     "sc900/segmentation.md",
     "sc900/defense-in-depth.md",
     "sc900/virtual network.md",
-    "sc900/Zero Trust model.md",
     "Untitled",
     "@images/Pasted image 20241219142611.png",
     "sc900/Untitled",

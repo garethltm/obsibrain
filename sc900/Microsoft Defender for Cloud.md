@@ -7,7 +7,7 @@ Microsoft Defender for Cloud, through its [[Development Security Operations (Dev
 
 Also, for businesses that are onboarded to Microsoft Security Copilot, Microsoft Defender for Cloud embeds capabilities of Microsoft Security Copilot. Specifically, the integration with Copilot allows you to analyze, summarize, remediate, and delegate recommendations using natural language prompts.
 
-When you enable Defender for Cloud, you automatically gain access to Microsoft Defender XDR, an enterprise defense suite that natively coordinates detection, prevention, investigation, and response across endpoints, identities, email, and applications to provide integrated protection against sophisticated attacks. 
+When you enable Defender for Cloud, you automatically gain access to [[Microsoft Defender XDR]], an enterprise defense suite that natively coordinates detection, prevention, investigation, and response across endpoints, identities, email, and applications to provide integrated protection against sophisticated attacks. 
 ## How Security policies & initiatives improve cloud security posture
 [[Microsoft Defender for Cloud ]]enables organizations to manage the security of their resources and workloads in the cloud and on-premises and improve their overall security posture. It does this by using policy definitions and security initiatives, so it's important to understand these terms.
 - An [[Azure Policy]] definition, created in [[Azure policy]]

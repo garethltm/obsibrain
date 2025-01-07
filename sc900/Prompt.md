@@ -20,7 +20,7 @@ For Copilot, context can refer to the time frame, or that you'll use the respons
 3. Provide necessary context to narrow down where Copilot looks for data.
     > #Example 	
     > 	Basic prompt: Summarize incident 15134.
-    > 	Better prompt: Summarize incident 15134 in Microsoft Defender XDR into a paragraph that I can submit to my manager and create a list of entities involved.
+    > 	Better prompt: Summarize incident 15134 in [[Microsoft Defender XDR]] into a paragraph that I can submit to my manager and create a list of entities involved.
     
 4. Give positive instructions instead of "what not to do." Copilot is geared toward action, so telling it what you want it to do for exceptions is more productive.
     > #Example 
