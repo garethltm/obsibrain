@@ -2,7 +2,7 @@ combines development (Dev) and operations (Ops) to unite people, process, and te
 
 Modern enterprises rely on [[Development Operations (DevOps)]] platforms for deployment, including the pipelines and production environments that developers require to be productive. Traditional application security methods didn’t consider the increased attack surface that these pipelines and production environments represent for hackers. But now, with hackers shifting left and targeting these upstream tools, a new approach is needed to secure [[Development Operations (DevOps)]] platform environments.
 
-Defender for DevOps, a service available in Defender for Cloud, empowers security teams to manage DevOps security across multi-pipeline environments.
+Defender for DevOps, a service available in [[Microsoft Defender for Cloud]], empowers security teams to manage [[Development Operations (DevOps)]] security across multi-pipeline environments.
 
 Defender for DevOps uses a central console to empower security teams with the ability to protect applications and resources from code to cloud across multi-pipeline environments, such as GitHub and Azure DevOps. Findings from Defender for DevOps can then be correlated with other contextual cloud security insights to prioritize remediation in code. Key capabilities in Defender for DevOps include:
 
