@@ -34,3 +34,7 @@ Some of the features of [[Microsoft Defender for Office 365]] that help organiza
 - Zero-hour auto purge (ZAP) that retroactively detects and neutralizes malicious phishing, spam, or malware messages that have already been delivered to Exchange Online mailboxes.
 - Automated investigation and response (AIR) capabilities that include automated investigation processes in response to well-known threats that exist today.
 - Security information and event management (SIEM) integration for automated responses.
+## Microsoft Defender for Office 365 in the Microsoft Defender portal
+[[Microsoft Defender for Office 365]] is experienced through the Microsoft Defender portal. The Defender portal is the home for monitoring and managing security across your Microsoft identities, data, devices, apps, and infrastructure, allowing security admins to perform their security tasks, in one location.
+
+Microsoft Defender for Office 365 functionality can be found under the Email & collaboration node on the left navigation panel of the Microsoft Defender portal.
