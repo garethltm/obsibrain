@@ -22,5 +22,12 @@ Security Exposure Management automatically generates attack paths based on the d
 Security Exposure Management automatically generates attack paths based on the data collected across assets and workloads. It simulates attack scenarios, and identifies vulnerabilities and weaknesses that an attacker could exploit.
 ### Secure score
 ![A screenshot of the secure score page in Exposure Management.](https://learn.microsoft.com/en-us/training/wwl-sci/describe-threat-protection-with-microsoft-365-defender/media/secure-score.png)
+Microsoft Secure Score, one of the tools in the Microsoft Defender portal, is a representation of a company's security posture. The higher the score, the better your protection. From a centralized dashboard in the Microsoft Defender portal, organizations can monitor and work on the security of their Microsoft 365 identities, apps, and devices.
+
+Secure Score provides a breakdown of the score, the improvement actions that can boost the organization's score, and how well the organization's Secure Score compares to other similar organizations.
 ### Data connectors
 ![A screenshot of the data-connectors page in Exposure Management.](https://learn.microsoft.com/en-us/training/wwl-sci/describe-threat-protection-with-microsoft-365-defender/media/data-connectors.png)
+Using data connectors you can connect data sources for a richer, more centralized exposure management experience.
+## Investigation & response
+The investigation and response tab includes access to incidents and alerts, hunting, actions & submissions, and a partner catalog.![A screenshot of the Microsoft Defender portal showing the selections available for investigation and response. They are incidents and alerts, hunting, actions and submissions, and partner catalog.](https://learn.microsoft.com/en-us/training/wwl-sci/describe-threat-protection-with-microsoft-365-defender/media/investigation-response-v2.png)
+### Incidents & alerts
