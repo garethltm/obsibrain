@@ -17,6 +17,6 @@ When you enable Defender for Cloud, you automatically gain access to Microsoft D
 - To implement policy definitions or initiatives, you assign them to any scope of resources that are supported, such as management groups, subscriptions, resource groups, or individual resources.
     
 
-Microsoft Defender for Cloud applies security initiatives to your subscriptions. These initiatives contain one or more security policies. Each of those policies results in a security recommendation for improving your security posture.
+Microsoft Defender for Cloud applies [[security initiative]] to your subscriptions. These initiatives contain one or more security policies. Each of those policies results in a security recommendation for improving your security posture.
 
-Security administrators can build their own custom security initiatives in Microsoft Defender for Cloud, but there's also a default, built-in security initiative named 'Microsoft cloud security benchmark' that is automatically assigned when you enable Microsoft Defender for Cloud on your subscription.
+Security administrators can build their own custom security initiatives in [[Microsoft Defender for Cloud]], but there's also a default, built-in security initiative named '[[Microsoft cloud security benchmark (MCSB)]]' that is automatically assigned when you enable [[Microsoft Defender for Cloud]] on your subscription.
