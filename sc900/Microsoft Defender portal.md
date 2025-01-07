@@ -16,7 +16,11 @@ Microsoft Security Exposure Management is a security solution that provides a un
 With Security Exposure Management you can discover and monitor assets, get rich security insights, investigate specific risk areas with security initiatives, and track metrics across the organization to improve security posture.![A screenshot of the Exposure Management overview in the Microsoft Defender portal.](https://learn.microsoft.com/en-us/training/wwl-sci/describe-threat-protection-with-microsoft-365-defender/media/exposure-management.png)
 ### Attack surface
 ![A screenshot of an attack path under Exposure Management.](https://learn.microsoft.com/en-us/training/wwl-sci/describe-threat-protection-with-microsoft-365-defender/media/attack-path.png)
+Security Exposure Management automatically generates attack paths based on the data collected across assets and workloads. It simulates attack scenarios, and identifies vulnerabilities and weaknesses that an attacker could exploit.
 ### Security Insights
 ![A screenshot of the initiatives page in Exposure Management.](https://learn.microsoft.com/en-us/training/wwl-sci/describe-threat-protection-with-microsoft-365-defender/media/initiatives.png)
-/3
-![A screenshot of the secure score page in Exposure Management.](https://learn.microsoft.com/en-us/training/wwl-sci/describe-threat-protection-with-microsoft-365-defender/media/secure-score.png)![A screenshot of the data-connectors page in Exposure Management.](https://learn.microsoft.com/en-us/training/wwl-sci/describe-threat-protection-with-microsoft-365-defender/media/data-connectors.png)
+Security Exposure Management automatically generates attack paths based on the data collected across assets and workloads. It simulates attack scenarios, and identifies vulnerabilities and weaknesses that an attacker could exploit.
+### Secure score
+![A screenshot of the secure score page in Exposure Management.](https://learn.microsoft.com/en-us/training/wwl-sci/describe-threat-protection-with-microsoft-365-defender/media/secure-score.png)
+### Data connectors
+![A screenshot of the data-connectors page in Exposure Management.](https://learn.microsoft.com/en-us/training/wwl-sci/describe-threat-protection-with-microsoft-365-defender/media/data-connectors.png)
