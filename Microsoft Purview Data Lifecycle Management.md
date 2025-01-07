@@ -25,7 +25,7 @@ Retention settings work with the following different workloads:
 
 To assign your retention settings to content, use retention policies and retention labels with label policies. You can use just one of these methods, or combine them.
 
-When using retention policies and retention labels to assign retention settings to content, there are some points to understand about each. Listed below are just a few of the key points. For more information, see the article, "Learn about retention policies and retention labels" linked in the Summary and resources unit of this module.
+When using retention policies and retention labels to assign retention settings to content, there are some points to understand about each. Listed below are just a few of the key points. 
 
 **Retention policies**
 - Retention policies are used to assign the same retention settings to content at a site level or mailbox level.
@@ -33,7 +33,6 @@ When using retention policies and retention labels to assign retention settings 
 - Items inherit the retention settings from their container specified in the retention policy. If a policy is configured to keep content, and an item is then moved outside that container, a copy of the item is kept in the workload's secured location. However, the retention settings don't travel with the content in its new location.
 
 **Retention labels**
-
 - Retention labels are used to assign retention settings at an item level, such as a folder, document, or email.
 - An email or document can have only a single retention label assigned to it at a time.
 - Retention settings from retention labels travel with the content if it’s moved to a different location within your Microsoft 365 tenant, but don't persist if the content is moved outside of your Microsoft 365 tenant.
@@ -47,5 +46,4 @@ Consider the following scenarios. If all documents in a SharePoint site should b
 However, if some documents in that site should be kept for five years and others for 10 years, you'd need to apply a policy to the SharePoint site with a retention period of five years. You'd then apply a retention label to the individual items with a retention setting of 10 years.
 
 **Retention labels and policies that apply them**
-
 When you publish retention labels, they're included in a retention label policy that makes them available for admins and users to apply to content.
