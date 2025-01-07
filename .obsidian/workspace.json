@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sc900/Untitled.md",
+                "file": "sc900/Microsoft Purview Compliance Manager.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "Microsoft Purview Compliance Manager"
             }
           }
         ],
@@ -229,7 +229,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "sc900/Untitled.md",
+                "file": "sc900/Microsoft Purview Compliance Manager.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -257,7 +257,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Untitled"
+              "title": "Graph of Microsoft Purview Compliance Manager"
             }
           }
         ]
@@ -280,7 +280,7 @@
   "active": "52a1d368659adcf2",
   "lastOpenFiles": [
     "sc900/eDiscovery.md",
-    "sc900/Untitled.md",
+    "sc900/Microsoft Purview Compliance Manager.md",
     "sc900/Microsoft Purview.md",
     "sc900/Microsoft Purview Adaptive Protection.md",
     "sc900/Audit (Premium).md",
