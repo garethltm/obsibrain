@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sc900/Glossary terms.md",
+                "file": "sc900/Microsoft Purview Data Catalog.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Glossary terms"
+              "title": "Microsoft Purview Data Catalog"
             }
           },
           {
@@ -214,7 +214,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "sc900/Glossary terms.md",
+                "file": "sc900/Microsoft Purview Data Catalog.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -242,7 +242,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Glossary terms"
+              "title": "Graph of Microsoft Purview Data Catalog"
             }
           }
         ]
@@ -264,9 +264,9 @@
   },
   "active": "e0d28ab97f96b768",
   "lastOpenFiles": [
-    "sc900/Microsoft Purview Data Catalog.md",
     "sc900/Glossary terms.md",
-    "sc900/Data product.md",
+    "sc900/data product.md",
+    "sc900/Microsoft Purview Data Catalog.md",
     "sc900/Data Governance.md",
     "sc900/Data curation.md",
     "sc900/Data understanding.md",

@@ -7,8 +7,8 @@ Governance domains are a new way of organizing your data estate through business
 - Boundaries based on organizational functions - customer experience, cloud supply chain, business intelligence, etc.
 
 Business domains are connected to several other business concepts that are incorporated as features of the Data Catalog.
-### [[Data product]]
-Related to business domains are [[Data product]](s). 
+### [[data product]]
+Related to business domains are [[data product]](s). 
 
 A governance domain can house many data products but a [[data product]] is managed by a single governance domain and can be discovered across many domains.
 
@@ -16,3 +16,6 @@ A successful [[data product]] makes it easy for data consumers to recognize valu
 
 Consider the example where a data scientist has created a set of data assets to be used by a data model and to be used by others. Although the data scientist can use the data catalog to add a glossary term to all the relevant data assets and can add a description to each asset to make it more relevant in search for similar information, it doesn't guarantee that a data consumer would know what glossary term to use or that the data consumer will find all the data assets. This is where a [[data product]] fits nicely. The data scientist creates a data product that lists all the assets used to create their data model. The description provides a full use case, with examples or suggestions on how to use the data. The data scientist is now a data product owner and they've improved their data consumer's search experience by helping them get everything they need in this one data product.
 ### [[Glossary terms]]
+Terms are created under governance domains to create context that is specific to each part of your organization. For example, both sales and marketing might use the same term to mean different things, and your governance domains help your team to differentiate between those meanings. Once created, terms map to [[data product]](s), to provide context for those [[data product]](s), and to provide specific data governance based on business context.
+
+[[Glossary terms]] provide data governance based on the business context, because they now contain policies. Policies in a business term apply specific business health goals, data governance requirements, and terms of use to any data product that a term is applied to.
