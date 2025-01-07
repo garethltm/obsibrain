@@ -39,4 +39,14 @@ Defender for Cloud Apps is also integrated directly into [[Microsoft Defender XD
 OAuth, an open standard for token-based authentication and authorization, enables a user's account information to be used by third-party services, without exposing the user's password. Apps that use OAuth often have extensive permissions to access data in other apps on behalf of a user, making OAuth apps susceptible to a compromise.
 
 Defender for Cloud Apps closes the gap on OAuth app security, helping you protect inter-app data exchange with application governance. With Defender for Cloud Apps, you can watch for unused apps and monitor both current and expired credentials to govern the apps used in your organization and maintain app hygiene.
-### 
+### [[Microsoft Defender for Cloud Apps]] in the Microsoft Defender portal
+[[Microsoft Defender for Cloud Apps]] is experienced through the Microsoft Defender portal. The Defender portal is the home for monitoring and managing security across your Microsoft identities, data, devices, apps, and infrastructure, allowing security admins to perform their security tasks, in one location.
+
+Microsoft Defender for Cloud apps functionality can be found under the Cloud apps node on the left navigation panel of the Microsoft Defender portal. The list that follows is a subset of the functionality supported.
+
+- Cloud discovery - Identify cloud app usage in your environment.
+- Cloud app catalog - Reference information about known cloud apps.
+- App governance - Get in-depth visibility and control over OAuth apps integrated with Microsoft Entra ID, Google, and Salesforce.
+- Activity log - View all activities involving connected apps.
+- Governance log - Review actions taken to secure cloud apps.
+- Policies - Configure security policies for cloud apps.![A screenshot of the cloud discovery page in the Microsoft Defender portal.](https://learn.microsoft.com/en-us/training/wwl-sci/describe-threat-protection-with-microsoft-365-defender/media/cloud-discovery.png)
