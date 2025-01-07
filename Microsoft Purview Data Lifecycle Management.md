@@ -1,0 +1,2 @@
+provides you with tools and capabilities to retain the content that you need to keep, and delete the content that you don't. Retaining and deleting emails, documents, and messages are often needed for compliance and regulatory requirements. However, deleting content that no longer has business value also reduces your attack surface.
+### Retention p
