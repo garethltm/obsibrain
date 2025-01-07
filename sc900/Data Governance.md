@@ -4,10 +4,7 @@ Historically, [[data governance]] has been a defense mechanism, a way to make su
 ### Concepts
 - **[[Federated governance]]**
 - **[[Data access]]** 
-- **Data curation** is about organizing, annotating, and publishing your data so that it's safely accessible, reuseable, and protected.
-    
-- **Data discovery** is about ensuring users can find the data they need for day-to-day business and innovation.
-    
-- **Data health** is about ensuring data quality standards are maintained across your estate, and having an active data lifecycle keeping your data fresh and secure.
-    
+- **[[Data curation]]**
+- **[[Data discovery]]** 
+- **[[Data health]]** 
 - **Data understanding** is about ensure data has quality descriptors that help users understand what the data is and how it should be used.
