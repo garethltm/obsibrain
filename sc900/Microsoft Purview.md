@@ -114,8 +114,10 @@ Managing and minimizing risk in an organization starts with understanding the ty
 >- Regulatory compliance violations
 
 Insider risk management is centered around the following principles:
-
 - **Transparency**: Balance user privacy versus organization risk with privacy-by-design architecture.
 - **Configurable**: Configurable policies based on industry, geographical, and business groups.
 - **Integrated**: Integrated workflow across Microsoft Purview solutions.
 - **Actionable**: Provides insights to enable user notifications, data investigations, and user investigations.
+## Insider risk management workflow
+![A diagram of the insider risk management workflow.](https://learn.microsoft.com/en-us/training/wwl-sci/describe-purview-data-solutions/media/insider-risk-management-workflow.png)
+Insider risk management helps organizations to identify, investigate, and address internal risks. With focused policy templates, comprehensive activity signaling across Microsoft 365, and a flexible workflow, organizations can take advantage of actionable insights to help identify and resolve risky behavior quickly. Identifying and resolving internal risk activities and compliance issues with insider risk management in Microsoft Purview is achieved using the following workflow:
