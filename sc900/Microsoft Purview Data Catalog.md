@@ -7,8 +7,8 @@ Governance domains are a new way of organizing your data estate through business
 - Boundaries based on organizational functions - customer experience, cloud supply chain, business intelligence, etc.
 
 Business domains are connected to several other business concepts that are incorporated as features of the Data Catalog.
-### Data products
-Related to business domains are data products. A data product is a business construct with a name, description, owners, and most importantly a list of associated data assets. The data product provides context for the assets that are included within it, and provides a use case for data consumers.
+### [[Data product]]
+Related to business domains are [[data . 
 
 A governance domain can house many data products but a data product is managed by a single governance domain and can be discovered across many domains.
 
