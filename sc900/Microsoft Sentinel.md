@@ -50,5 +50,15 @@ Investigate threats with [[Artificial Intelligence (AI)]], and hunt for suspicio
     
 	    Use notebooks in Microsoft Sentinel to extend the scope of what you can do with Microsoft Sentinel data. For example:
 	    - Perform analytics that aren't built in to [[Microsoft Sentinel]], such as some Python machine learning features.
-	    - Create data visualizations that aren't built in to Microsoft Sentinel, such as custom timelines and process trees.
-	    - Integrate data sources outside of Microsoft Sentinel, such as an on-premises data set.
+	    - Create data visualizations that aren't built in to [[Microsoft Sentinel]], such as custom timelines and process trees.
+	    - Integrate data sources outside of [[Microsoft Sentinel]], such as an on-premises data set.
+### Respond to incidents rapidly
+With [[Microsoft Sentinel]], you can automate your common tasks and simplify security orchestration with playbooks that integrate with Azure services and your existing tools, to respond to incidents more rapidly.
+
+The following are key capabilities in Microsoft Sentinel for threat response.
+- _**Automation rules**_
+	- Centrally manage the automation of incident handling in Microsoft Sentinel by defining and coordinating a small set of rules that cover different scenarios.
+    
+- _**Playbooks**_ - Automate and orchestrate your threat response by using playbooks, which are a collection of remediation actions. Run a playbook on-demand or automatically in response to specific alerts or incidents, when triggered by an automation rule.
+    
+    Playbooks in Microsoft Sentinel are based on workflows built in Azure Logic Apps. For example, if you use the ServiceNow ticketing system, use Azure Logic Apps to automate your workflows and open a ticket in ServiceNow each time a particular alert or incident is generated.
