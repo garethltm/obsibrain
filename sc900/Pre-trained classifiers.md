@@ -1,0 +1,1 @@
+Microsoft has created and pretrained many classifiers that you can start using without training them. These classifiers appear with the status of **Ready to use**. Microsoft Purview comes with five pretrained classifiers that detect and classify things like resumes, source code, harassment, profanity, and threat (relates to committing violence or doing physical harm).
