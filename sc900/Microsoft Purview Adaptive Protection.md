@@ -2,7 +2,7 @@ Adaptive protection in [[Microsoft Purview]] uses [[Machine Learning (ML)]] to i
 
 - [[Microsoft Purview Data Loss Prevention (DLP)]]
 - Microsoft Purview Data Lifecycle Management (preview)
-- Microsoft Entra Conditional Access (preview)
+- Microsoft Entra [[Conditional Access]] (preview)
 
 Integration with data loss prevention, data lifecycle management, and [[Conditional Access]] can help organizations automate their response to insider risks and reduce the time required to identify and remediate potential threats. By using the capabilities of all four solutions, organizations can create a more comprehensive security framework that addresses both internal and external threats.
 
@@ -17,3 +17,10 @@ Adaptive protection helps mitigate potential risks by using:
 Adaptive protection dynamically assigns appropriate data loss prevention, data lifecycle management, and Conditional Access policies to users based on the insider risk levels (elevated, moderate, or minor) defined and analyzed by the machine learning models in Insider Risk Management. Policies become adaptive based on user context, ensuring that the most effective policy, such as blocking data sharing through data loss prevention or blocking application access through Conditional Access, is applied only to high-risk users while low-risk users maintain productivity.
 ### Adaptive protection in [[Microsoft Purview Data Loss Prevention (DLP)]]
 Adaptive Protection in [[Microsoft Purview]] integrates [[Microsoft Purview Insider Risk Management]] with [[Microsoft Purview Data Loss Prevention (DLP)]]. When [[Microsoft Purview Insider Risk Management]] identifies a user who is engaging in risky behaviour, they're dynamically assigned an insider risk level. Then adaptive protection can automatically create a DLP policy to help protect the organization against the risky behavior that's associated with that insider risk level. As users insider risk levels change in insider risk management, the DLP policies applied to users can adjust.
+### Audit
+Auditing solutions in [[Microsoft Purview]] help organizations effectively respond to security events, forensic investigations, internal investigations, and compliance obligations. Thousands of user and admin operations performed in dozens of Microsoft 365 services and solutions, and also Security Copilot (if enabled) are captured, recorded, and retained in your organization's unified audit log. Audit records for these events are searchable by security ops, IT admins, insider risk teams, and compliance and legal investigators in your organization. This capability provides visibility into the activities performed across your Microsoft 365 organization.
+
+Microsoft Purview provides two auditing solutions:
+
+- Audit (Standard)
+- Audit (Premium)
