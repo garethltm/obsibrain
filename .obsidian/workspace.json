@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "cloud security posture management (CSPM)"
             }
+          },
+          {
+            "id": "8c3b81012422e817",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "sc900/Microsoft Purview Data Security Posture Management (DSPM).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Microsoft Purview Data Security Posture Management (DSPM)"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -200,7 +215,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "sc900/cloud security posture management (CSPM).md",
+                "file": "sc900/Microsoft Purview Data Security Posture Management (DSPM).md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -228,7 +243,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of cloud security posture management (CSPM)"
+              "title": "Graph of Microsoft Purview Data Security Posture Management (DSPM)"
             }
           }
         ]
@@ -248,13 +263,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c43a081b5b35c8fa",
+  "active": "8c3b81012422e817",
   "lastOpenFiles": [
+    "sc900/cloud security posture management (CSPM).md",
+    "sc900/Microsoft Purview Data Security Posture Management (DSPM).md",
     "sc900/Microsoft cloud security benchmark (MCSB).md",
     "sc900/Development Operations (DevOps).md",
     "sc900/Development Security Operations (DevSecOps).md",
     "sc900/Microsoft Defender for Cloud.md",
-    "sc900/cloud security posture management (CSPM).md",
     "sc900/security recommendation.md",
     "sc900/Microsoft Security Copilot.md",
     "sc900/security initiative.md",
@@ -275,7 +291,6 @@
     "sc900/Conditional Access.md",
     "sc900/Microsoft Entra ID Governance.md",
     "sc900/Microsoft Entra Verified ID.md",
-    "sc900/Microsoft Entra Private Access.md",
     "Untitled",
     "@images/Pasted image 20241219142611.png",
     "sc900/Untitled",
