@@ -1,1 +1,4 @@
+Modern enterprises rely on [[DevOps]] platforms for deployment, including the pipelines and production environments that developers require to be productive. Traditional application security methods didn’t consider the increased attack surface that these pipelines and production environments represent for hackers. But now, with hackers shifting left and targeting these upstream tools, a new approach is needed to secure DevOps platform environments.
+
+
 Defender for Cloud helps you to incorporate good security practices early during the software development process, or [[development security operations (DevSecOps)]]. You can protect your code management environments and your code pipelines, and get insights into your development environment security posture from a single location. Defender for DevOps, a service available in Defender for Cloud, empowers security teams to manage DevOps security across multi-pipeline environments.

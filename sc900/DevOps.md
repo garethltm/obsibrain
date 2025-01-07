@@ -1,0 +1,1 @@
+combines development (Dev) and operations (Ops) to unite people, process, and technology in application planning, development, delivery, and operations.
