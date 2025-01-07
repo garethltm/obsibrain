@@ -17,3 +17,21 @@ You can use [[Microsoft Purview]] [[eDiscovery]] to identify, review, and manage
 - Viva Engage
 ### Workflow
 ![A diagram showing the eDiscovery workflow.](https://learn.microsoft.com/en-us/training/wwl-sci/describe-purview-risk-compliance-governance/media/ediscovery-workflow.png)
+The [[eDiscovery]] workflow helps you more quickly identify, investigate, and take action on electronic stored information (ESI) in your organization. Identifying and taking action on ESI items with eDiscovery (preview) uses the following workflow:
+	**Step 1: Escalate from trigger event**: Trigger events are activities that are escalated in your organization and prompt the creation of a new case in eDiscovery (preview).
+	
+	**Step 2: Create and manage case**: A case in eDiscovery (preview) contains all searches, holds, and review sets related to a specific investigation.
+	
+	**Step 3: Search, evaluate results, and refine**: After you create a case, use the built-in search tools in eDiscovery (preview) to search the content locations in your organization.
+	
+	**Step 4a: Actions include**:
+	
+	- Export search results
+	- Create review sets from the search results: A review set is a secure, Microsoft-provided Azure Storage location in the Microsoft cloud. When you add data to a review set, the collected items are copied from their original content location to the review set. Review sets provide a static, known set of content that you can search, filter, tag, and analyze.
+	- Create holds: You can create holds to preserve content that might be relevant to an eDiscovery case.
+	
+	**Step 5: Review and take action from review sets**: There are many different actions you can take. Some of the actions include:
+	
+	- Run analytics: eDiscovery provides integrated analytics tool that helps you further cull data from the review set that you determine isn't relevant to the investigation.
+	- Tag items - When experts, attorneys, or other users review content in a review set, their opinions related to the content can be captured by using tags.
+	- Export items - After you search for and find data that's relevant to your investigation, you can export it out of your Microsoft 365 organization for review by people outside of the investigation team.
