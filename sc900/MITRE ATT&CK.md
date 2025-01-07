@@ -1,0 +1,5 @@
+is a curated knowledge base that tracks cyber adversary tactics and techniques used by [threat actors](https://www.crowdstrike.com/en-us/cybersecurity-101/threat-intelligence/threat-actor/) across the entire attack lifecycle. The framework is meant to be more than a collection of data: it is intended to be used as a tool to strengthen an organization’s security posture.
+
+For instance, because [[MITRE ATT&CK]] takes the perspective of the adversary, security operations teams can more easily deduce an adversary’s motivation for individual actions and understand how those actions relate to specific classes of defenses.
+### Where does the data in the MITRE ATTACK Framework come from?
+[[MITRE’s ATT&CK]] is populated mainly by publicly available threat intelligence and incident reporting, as well as by research on new techniques contributed by cyber security analysts and threat hunters. It is used by those same professionals to better understand the different ways bad actors might operate so adversarial behavior can be detected and stopped.

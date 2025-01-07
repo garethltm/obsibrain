@@ -24,8 +24,8 @@ Detect previously undetected threats, and minimize false positives using Microso
 - _**Analytics**_ 
 	- [[Microsoft Sentinel]] uses analytics to group alerts into incidents. Use the out of the box analytic rules as-is, or as a starting point to build your own rules. [[Microsoft Sentinel]] also provides rules to map your network behavior and then look for anomalies across your resources.
     
-- _**MITRE ATT&CK coverage**_
-	- [[Microsoft Sentinel]] analyzes ingested data, not only to detect threats and help you investigate, but also to visualize the nature and coverage of your organization's security status based on the tactics and techniques from the MITRE ATT&CK® framework, a global database of adversary tactics and techniques.
+- _**[[MITRE ATT&CK]] coverage**_
+	- [[Microsoft Sentinel]] analyzes ingested data, not only to detect threats and help you investigate, but also to visualize the nature and coverage of your organization's security status based on the tactics and techniques from the [[MITRE ATT&CK]]® framework, a global database of adversary tactics and techniques.
     
 - _**Threat intelligence**_ - You can integrate numerous sources of threat intelligence into Microsoft Sentinel to detect malicious activity in your environment and provide context to security investigators for informed response decisions.
     
