@@ -28,7 +28,7 @@ Secure Score provides a breakdown of the score, the improvement actions that can
 ### Data connectors
 ![A screenshot of the data-connectors page in Exposure Management.](https://learn.microsoft.com/en-us/training/wwl-sci/describe-threat-protection-with-microsoft-365-defender/media/data-connectors.png)
 Using data connectors you can connect data sources for a richer, more centralized exposure management experience.
-## Investigation & response
+# Investigation & response
 ![A screenshot of the Microsoft Defender portal showing the selections available for investigation and response. They are incidents and alerts, hunting, actions and submissions, and partner catalog.](https://learn.microsoft.com/en-us/training/wwl-sci/describe-threat-protection-with-microsoft-365-defender/media/investigation-response-v2.png)
 The investigation and response tab includes access to incidents and alerts, hunting, actions & submissions, and a partner catalog.
 ### Incidents & alerts
@@ -44,3 +44,8 @@ Within an incident, you analyze the alerts that affect your network, understand 
 - All the supported evidence and response.
 
 If your organization is onboarded to [[Microsoft Security Copilot]] you can also view an incident summary, guided responses, and more.
+### Hunting
+![A screenshot of the advanced hunting page in the Microsoft Defender portal.](https://learn.microsoft.com/en-us/training/wwl-sci/describe-threat-protection-with-microsoft-365-defender/media/hunting.png)
+Advanced hunting is a query-based threat hunting tool that lets you explore up to 30 days of raw data, from [[Microsoft Defender XDR]] and [[Microsoft Sentinel]]. You can proactively inspect events in your network to locate threat indicators and entities, through hunting queries. Hunting queries can be created via the query editor, if you're familiar with Kusto Query Language (KQL), using a query builder, or through [[Microsoft Security Copilot]]. For users onboarded to Microsoft Security Copilot, you can make a request or ask a question in natural language and Security Copilot generates a KQL query that corresponds to the request.
+
+You can use the same threat hunting queries to build custom detection rules. These rules run automatically to check for and then respond to suspected breach activity, misconfigured machines, and other findings.
