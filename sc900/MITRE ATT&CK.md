@@ -19,3 +19,9 @@ Adversarial tactics are specific technical objectives that an adversary intends 
 - **Command and Control ([C2 or C&C](https://www.crowdstrike.com/en-us/cybersecurity-101/cyberattacks/command-and-control-cac-attack/))**: When adversaries communicate with compromised systems to gain control.
 - [**Exfiltration**](https://www.crowdstrike.com/en-us/cybersecurity-101/cyberattacks/data-exfiltration/): Consists of techniques that straight up steal data from your network.
 - **Impact**: When adversaries focus on disrupting data availability or integrity and interrupting business operations.
+### Techniques
+**A technique describes one specific way an adversary may try to achieve an objective**. A multitude of techniques are documented under each “tactics” category. This is because adversaries may use different techniques depending on factors such as their skills sets, targets’ system configuration aned availability of suitable tools.
+
+Each technique includes a description of the method, the systems and platforms it pertains to, which adversary groups use it (if that is known), ways to mitigate the activity, and references to its use in the real world.
+
+MITRE ATT&CK currently identifies [188 techniques and 379 sub-techniques for enterprise](https://attack.mitre.org/techniques/enterprise/).
