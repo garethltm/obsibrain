@@ -84,3 +84,6 @@ The Cloud apps node on the left navigational panel is where you find [[Microsoft
 Security operations center (SOC) teams actively look for opportunities to optimize both processes and outcomes.
 
 SOC optimization surfaces ways you can optimize your security controls, gaining more value from Microsoft security services as time goes on.
+## Reports
+![A screenshot of the reports page in the Microsoft Defender portal.](https://learn.microsoft.com/en-us/training/wwl-sci/describe-threat-protection-with-microsoft-365-defender/media/reports.png)
+Reports are unified in the Microsoft Defender portal. Admins can start with a general security report, and branch into specific reports about endpoints, email & collaboration, cloud apps, infrastructure, and identities. The links here are dynamically generated based upon workload configuration.
