@@ -2,9 +2,8 @@ is an enterprise defense suite of solutions that protects against sophisticated 
 
 The [[Microsoft Defender XDR]] suite includes:
 - **[[Microsoft Defender for Endpoint]]**
-	- Microsoft Defender for Endpoint is a unified endpoint platform for preventative protection, post-breach detection, automated investigation, and response.
-- **Defender Vulnerability Management** - Microsoft Defender Vulnerability Management delivers continuous asset visibility, intelligent risk-based assessments, and built-in remediation tools to help your security and IT teams prioritize and address critical vulnerabilities and misconfigurations across your organization.
-- **Microsoft Defender for Office 365** - Defender for Office 365 safeguards your organization against malicious threats posed by email messages, links (URLs), and collaboration tools.
+- **[[Defender Vulnerability Management]]**
+- **Microsoft Defender for Office 365**
 - **Microsoft Defender for Identity** - Microsoft Defender for Identity uses Active Directory signals to identify, detect, and investigate advanced threats, compromised identities, and malicious insider actions directed at your organization.
 - **Microsoft Defender for Cloud Apps** - Microsoft Defender for Cloud Apps delivers full protection for software as a service (SaaS) applications. Defender for Cloud apps is a cloud access security broker that brings deep visibility, strong data controls, and enhanced threat protection to your cloud apps.
 
