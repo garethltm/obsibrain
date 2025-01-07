@@ -10,7 +10,7 @@ The [[Microsoft Defender portal]] home page shows many of the common cards that 
 The [[Microsoft Defender portal]] allows you to tailor the navigation pane to meet daily operational needs. You can customize the navigation pane to show or hide functions and services based on their specific preferences. Customization is specific to you, so other admins won’t see these changes.
 
 The left navigation pane provides easy access to the suite of [[Microsoft Defender XDR]] services. You also get access to [[Microsoft Sentinel]] and many other capabilities The sections that follow provide a brief description of the capabilities accessible from the left navigation bar in the [[Microsoft Defender portal]].
-### Exposure management
+# Exposure management
 Microsoft Security Exposure Management is a security solution that provides a unified view of security posture across company assets and workloads. Security Exposure Management enriches asset information with security context that helps you to proactively manage attack surfaces, protect critical assets, and explore and mitigate exposure risk.
 
 With Security Exposure Management you can discover and monitor assets, get rich security insights, investigate specific risk areas with security initiatives, and track metrics across the organization to improve security posture.![A screenshot of the Exposure Management overview in the Microsoft Defender portal.](https://learn.microsoft.com/en-us/training/wwl-sci/describe-threat-protection-with-microsoft-365-defender/media/exposure-management.png)
@@ -29,8 +29,11 @@ Secure Score provides a breakdown of the score, the improvement actions that can
 ![A screenshot of the data-connectors page in Exposure Management.](https://learn.microsoft.com/en-us/training/wwl-sci/describe-threat-protection-with-microsoft-365-defender/media/data-connectors.png)
 Using data connectors you can connect data sources for a richer, more centralized exposure management experience.
 ## Investigation & response
-The investigation and response tab includes access to incidents and alerts, hunting, actions & submissions, and a partner catalog.![A screenshot of the Microsoft Defender portal showing the selections available for investigation and response. They are incidents and alerts, hunting, actions and submissions, and partner catalog.](https://learn.microsoft.com/en-us/training/wwl-sci/describe-threat-protection-with-microsoft-365-defender/media/investigation-response-v2.png)
+![A screenshot of the Microsoft Defender portal showing the selections available for investigation and response. They are incidents and alerts, hunting, actions and submissions, and partner catalog.](https://learn.microsoft.com/en-us/training/wwl-sci/describe-threat-protection-with-microsoft-365-defender/media/investigation-response-v2.png)
+The investigation and response tab includes access to incidents and alerts, hunting, actions & submissions, and a partner catalog.
 ### Incidents & alerts
+![A screenshot of the Microsoft Defender portal incidents page.](https://learn.microsoft.com/en-us/training/wwl-sci/describe-threat-protection-with-microsoft-365-defender/media/incidents.png)
+![A screenshot of the incident details page for a selected incident in the Microsoft Defender portal.](https://learn.microsoft.com/en-us/training/wwl-sci/describe-threat-protection-with-microsoft-365-defender/media/incident-details.png)
 An incident in the [[Microsoft Defender portal]] is a collection of related alerts, assets, investigations, and evidence to give you a comprehensive look into the entire breadth of an attack. It serves as a case file that your SOC can use to investigate that attack and manage, implement, and document the response to it. Because the [[Microsoft Defender portal]] is built upon a unified security operations platform, you get a view of all incidents including incidents generated from the suite of [[Microsoft Defender XDR]] solutions, [[Microsoft Sentinel]], and other solutions.
 
 Within an incident, you analyze the alerts that affect your network, understand what they mean, and collate the evidence so that you can devise an effective remediation plan. The information provided for an incident includes:
