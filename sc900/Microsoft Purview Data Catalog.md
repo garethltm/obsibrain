@@ -45,6 +45,12 @@ The benefits of data [[health controls]] include:
 - Operational Efficiency: Reduces the time and resources spent on correcting data issues and ensures that data is readily available and usable.
 - Risk Mitigation: Prevents costly errors and data-related risks that can arise from poor data management.
 
-In summary, data health controls are essential components of a comprehensive data governance strategy, helping organizations maintain the integrity, security, and usability of their data assets.
+In summary, data [[health controls]] are essential components of a comprehensive data governance strategy, helping organizations maintain the integrity, security, and usability of their data assets.
 
-_**Health actions**_: Health management actions give you and your users steps to take to improve data health and governance across your data estate. These actions correspond to the checks made to calculate a data product's data governance health control score. Addressing these actions raises your health score and promotes an overall more useable and discoverable data catalog.
+_**Health actions**_: Health management actions give you and your users steps to take to improve data health and governance across your data estate. These actions correspond to the checks made to calculate a data product's [[data governance]] health control score. Addressing these actions raises your health score and promotes an overall more useable and discoverable data catalog.
+### Data quality
+Microsoft Purview Data Quality is a comprehensive solution that empowers governance domain and data owners to assess and oversee the quality of their data ecosystem, facilitating targeted actions for improvement.
+
+Data Quality offers users the ability to evaluate data quality using no-code/low-code rules, including out-of-the-box (OOB) rules and AI-generated rules. These rules are aggregated to provide scores at the levels of data assets, data products, and governance domains, ensuring end-to-end visibility of data quality within each domain. Microsoft Purview Data Quality also incorporates AI-powered data profiling capabilities
+
+By applying Microsoft Purview Data Quality, organizations can effectively measure, monitor, and enhance the quality of their data assets.
