@@ -30,3 +30,16 @@ An assessment consists of several components including the services that are in-
 
 Compliance Manager provides templates to help admins to quickly create assessments. They can modify these templates to create an assessment optimized for their needs. All of your assessments are listed on the Assessments page of Compliance Manager.
 ### Regulations
+The Regulations page in Compliance Manager displays the list of regulations and certifications for which Compliance Manager provides control-mapping templates. Compliance Manager provides over 360 regulatory templates from which you can quickly create assessments.
+### Improvement actions
+![A screenshot of the assessments page of Compliance Manager in the Microsoft Purview portal.](https://learn.microsoft.com/en-us/training/wwl-sci/describe-purview-risk-compliance-governance/media/assessments.png)
+Improvement actions help centralize compliance activities. Each improvement action provides recommended guidance that's intended to help organizations to align with data protection regulations and standards. Improvement actions can be assigned to users in the organization to do implementation and testing work. Admins can also store documentation, notes, and record status updates within the improvement action.
+### Benefits
+Compliance Manager provides many benefits, including:
+- Translating complicated regulations, standards, company policies, or other control frameworks into a simple language.
+- Providing access to a large variety of out-of-the-box assessments and custom assessments to help organizations with their unique compliance needs.
+- Mapping regulatory controls against recommended improvement actions.
+- Providing step-by-step guidance on how to implement the solutions to meet regulatory requirements.
+- Helping admins and users to prioritize actions that have the highest impact on their organizational compliance by associating a score with each action.
+
+In summary, Compliance Manager helps organizations measure progress in completing actions that help reduce risks around data protection and regulatory standards.
