@@ -2,7 +2,8 @@ is an insider risk solution that helps you detect, capture, and act on inappropr
 
 Communication Compliance has predefined and custom policies that allow you to check internal and external communications for policy matches so that designated reviewers can examine them. Reviewers can investigate email, Microsoft Teams, Microsoft Copilot for Microsoft 365, Viva Engage, or third-party communications in your organization and take appropriate actions to make sure they're compliant with your organization's message standards.
 
-With role-based access controls, Communication compliance supports the separation of duties between your IT admins and your compliance management team. For example, the IT group for your organization might be responsible for setting up communication compliance role permissions, groups, and policies. While investigators and reviewers might be responsible for message triage, review, and mitigation actions.
+With role-based access controls, Communication compliance supports the separation of duties between your IT admins and your compliance management team. 
+>For example, the IT group for your organization might be responsible for setting up communication compliance role permissions, groups, and policies. While investigators and reviewers might be responsible for message triage, review, and mitigation actions.
 
 Identifying and resolving compliance issues with communication compliance in [[Microsoft Purview]] uses the following workflow:![Diagram showing the communication compliance workflow.](https://learn.microsoft.com/en-us/training/wwl-sci/describe-purview-risk-compliance-governance/media/communication-compliance-workflow.png)
 - **Configure** – in this step, admins identify compliance requirements and configure applicable communication compliance policies.
