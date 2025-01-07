@@ -36,3 +36,8 @@ This section includes documents that apply to the following industries and regio
 This section lists documents applying to your organization (restricted by tenant) based on your organization’s subscription and permissions.
 # My Library
 ![Screenshot of the documents listed in the My Library page.](https://learn.microsoft.com/en-us/training/wwl-sci/describe-compliance-management-capabilities-microsoft/media/stp-my-library.png)
+Use the My Library feature to add documents and resources on the Service Trust Portal to your My Library page. This lets you access documents that are relevant to you in a single place. To add a document to your My Library, select the ellipsis (...) menu to the right of a document and then select Save to library.
+
+Additionally, the notifications feature lets you configure your My Library so that an email message is sent to you whenever Microsoft updates a document that you've added to your My Library. To set up notifications, go to your My Library and select Notification Settings. You can choose the frequency of notifications and specify an email address in your organization to send notifications to. Email notifications include links to the documents that have been updated and a brief description of the update.
+
+If a document is part of a series, you'll be subscribed to the series, and will receive notifications when there's an update to that series.
