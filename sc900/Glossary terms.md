@@ -1,0 +1,3 @@
+provide critical business context to your data assets and also apply policies that determine how your data should be managed, governed, and made discoverable for use.
+
+Glossary terms are individual concepts that define the business, processes, and systems used in an organization. They can be applied across a data estate, relating to data assets and [[data produc]] to provide business context to your users.
