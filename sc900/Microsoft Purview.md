@@ -44,3 +44,16 @@ After sensitivity labels are created, they need to be published to make them ava
 - **Link users to custom help pages**. It helps users to understand what the different labels mean and how they should be used.
 
 Once a sensitivity label is applied to an email or document, any configured protection settings for that label are enforced on the content.
+## Data loss prevention (DLP)
+Data loss can harm an organization’s customers, business processes, and the organization itself. Organizations need to prevent data loss by detecting risky behavior and preventing sensitive information from being shared inappropriately.
+
+In [[Microsoft Purview]], you implement data loss prevention (DLP) by defining and applying DLP policies. With a DLP policy, you can **identify, monitor, and automatically protect** sensitive items across:
+
+- Microsoft 365 services such as Teams, Exchange, SharePoint, and OneDrive accounts
+- Office applications such as Word, Excel, and PowerPoint
+- Windows 10, Windows 11, and macOS (three latest released versions) endpoints
+- Cloud apps
+- On-premises file shares and on-premises SharePoint
+- Power BI
+
+DLP detects sensitive items by using deep content analysis, not by just a simple text scan. Content is analyzed for primary data matches to keywords, by the evaluation of regular expressions, by internal function validation, and by secondary data matches that are in proximity to the primary data match. Beyond that DLP also uses machine learning algorithms and other methods to detect content that matches your DLP policies.
