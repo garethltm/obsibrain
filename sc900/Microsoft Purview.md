@@ -1,4 +1,4 @@
-
+reduces risk and complexity with unified data security, governance, and compliance solutions for the era of AI.
 ### Understand & explore the data
 ![A screenshot of the activity explorer page in the Microsoft Purview portal.](https://learn.microsoft.com/en-us/training/wwl-sci/describe-purview-data-solutions/media/activity-explorer.png)![A screenshot of the content explorer page in the Microsoft Purview portal.](https://learn.microsoft.com/en-us/training/wwl-sci/describe-purview-data-solutions/media/content-explorer.png)
 Data classification can involve large numbers of documents and emails. To help administrators derive insights and understanding, the Explorers node under Information Protection in the [[Microsoft Purview]] portal provides tools such as the activity explorer and content explorer that provide details at a glance, including:
@@ -34,3 +34,13 @@ Sensitivity labels can be configured to:
 - **Classify content without using any protection settings**. A classification can be assigned to content (just like a sticker) that persists and roams with the content as it's used and shared. The classification can be used to generate usage reports and view activity data for sensitive content.
 
 The image that follows shows the settings for a sensitivity label named Confidential-Finance, which includes settings for encryption, content marking, and autolabeling for files and emails.
+## Label policies
+After sensitivity labels are created, they need to be published to make them available to people and services in the organization. Sensitivity labels are published to users or groups through label policies. Sensitivity labels will then appear in Office apps for those users and groups. The sensitivity labels can be applied to documents and emails. Label policies enable admins to:
+
+- **Choose the users and groups that can see labels**. Labels can be published to specific users, distribution groups, Microsoft 365 groups in Microsoft Entra ID, and more.
+- **Apply a default label** to all new emails and documents that the specified users and groups create. Users can always change the default label if they believe the document or email has been mislabeled.
+- **Require justifications for label changes**. If a user wants to remove a label or replace it, admins can require the user to provide a valid justification to complete the action. The user will be prompted to provide an explanation for why the label should be changed.
+- **Require users to apply a label (mandatory labeling)**. It ensures a label is applied before users can save their documents, send emails, or create new sites or groups.
+- **Link users to custom help pages**. It helps users to understand what the different labels mean and how they should be used.
+
+Once a sensitivity label is applied to an email or document, any configured protection settings for that label are enforced on the content.
