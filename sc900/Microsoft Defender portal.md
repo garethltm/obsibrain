@@ -10,7 +10,7 @@ The [[Microsoft Defender portal]] home page shows many of the common cards that 
 The [[Microsoft Defender portal]] allows you to tailor the navigation pane to meet daily operational needs. You can customize the navigation pane to show or hide functions and services based on their specific preferences. Customization is specific to you, so other admins won’t see these changes.
 
 The left navigation pane provides easy access to the suite of [[Microsoft Defender XDR]] services. You also get access to [[Microsoft Sentinel]] and many other capabilities The sections that follow provide a brief description of the capabilities accessible from the left navigation bar in the [[Microsoft Defender portal]].
-# Exposure management
+## Exposure management
 Microsoft Security Exposure Management is a security solution that provides a unified view of security posture across company assets and workloads. Security Exposure Management enriches asset information with security context that helps you to proactively manage attack surfaces, protect critical assets, and explore and mitigate exposure risk.
 
 With Security Exposure Management you can discover and monitor assets, get rich security insights, investigate specific risk areas with security initiatives, and track metrics across the organization to improve security posture.![A screenshot of the Exposure Management overview in the Microsoft Defender portal.](https://learn.microsoft.com/en-us/training/wwl-sci/describe-threat-protection-with-microsoft-365-defender/media/exposure-management.png)
@@ -28,7 +28,7 @@ Secure Score provides a breakdown of the score, the improvement actions that can
 ### Data connectors
 ![A screenshot of the data-connectors page in Exposure Management.](https://learn.microsoft.com/en-us/training/wwl-sci/describe-threat-protection-with-microsoft-365-defender/media/data-connectors.png)
 Using data connectors you can connect data sources for a richer, more centralized exposure management experience.
-# Investigation & response
+## Investigation & response
 ![A screenshot of the Microsoft Defender portal showing the selections available for investigation and response. They are incidents and alerts, hunting, actions and submissions, and partner catalog.](https://learn.microsoft.com/en-us/training/wwl-sci/describe-threat-protection-with-microsoft-365-defender/media/investigation-response-v2.png)
 The investigation and response tab includes access to incidents and alerts, hunting, actions & submissions, and a partner catalog.
 ### Incidents & alerts
@@ -55,7 +55,7 @@ The unified Action center brings together remediation actions across [[Microsoft
 In Microsoft 365 organizations with Exchange Online mailboxes, admins can use the Submissions page in the [[Microsoft Defender portal]] to submit messages, URLs, and attachments to Microsoft for analysis.
 ### Partner catalog
 The partner catalog lists supported technology partners and professional services that can help your organization enhance the detection, investigation, and threat intelligence capabilities of the platform.
-# Threat intelligence
+## Threat intelligence
 ![A screenshot of the device inventory page in the Microsoft Defender portal.](https://learn.microsoft.com/en-us/training/wwl-sci/describe-threat-protection-with-microsoft-365-defender/media/assets-devices.png)
 ![A screenshot of the identities inventory page in the Microsoft Defender portal.](https://learn.microsoft.com/en-us/training/wwl-sci/describe-threat-protection-with-microsoft-365-defender/media/assets-identities.png)
 ### Assets
@@ -64,20 +64,23 @@ The Assets tab allows you to view and manage your organization's inventory of pr
 The Device inventory shows a list of the devices in your network where alerts were generated. By default, the queue displays devices seen in the last 30 days. At a glance, you see information such as domain, risk level, OS platform, and other details for easy identification of devices most at risk.
 
 The identity inventory provides a comprehensive view of all corporate identities, both cloud and on-premises.
-# [[Microsoft Sentinel]]
+## [[Microsoft Sentinel]]
 ![A screenshot of the Microsoft Sentinel node on the navigation panel of the Microsoft Defender portal.](https://learn.microsoft.com/en-us/training/wwl-sci/describe-threat-protection-with-microsoft-365-defender/media/sentinel-node.png)
 Some [[Microsoft Sentinel]] capabilities, like the unified incident queue, are accessed through the incidents and alerts page of the Defender portal, along with incidents from other Microsoft Defender services. Many other Microsoft Sentinel capabilities are available in the Microsoft Sentinel section of the Defender portal.
-# Identities
+## Identities
 ![A screenshot of the identities node on the left navigation panel of the Microsoft Defender portal.](https://learn.microsoft.com/en-us/training/wwl-sci/describe-threat-protection-with-microsoft-365-defender/media/identities-node.png)
 The Identities node on the left navigation panel of the [[Microsoft Defender portal]] maps to functionality associated with [[Microsoft Defender for Identity]].
-# Endpoints
+## Endpoints
 ![A screenshot of the endpoints node on the left navigation panel of the Microsoft Defender portal.](https://learn.microsoft.com/en-us/training/wwl-sci/describe-threat-protection-with-microsoft-365-defender/media/endpoints-node.png)
 The Endpoints node on the left navigation panel of the Microsoft Defender portal maps to functionality associated with [[Microsoft Defender for Endpoint]].
-# Email & collaboration
+## Email & collaboration
 ![A screenshot of the email and collaboration node on the navigation panel of the Microsoft Defender portal.](https://learn.microsoft.com/en-us/training/wwl-sci/describe-threat-protection-with-microsoft-365-defender/media/email-collaboration.png)
 The email and collaboration node on the left navigational panel is where you find [[Microsoft Defender for Office 365]] functionality that allows you to track and investigate threats to your users' email, track campaigns, and more.
-# Cloud apps
+## Cloud apps
 ![A screenshot of the cloud apps node on the navigation panel of the Microsoft Defender portal.](https://learn.microsoft.com/en-us/training/wwl-sci/describe-threat-protection-with-microsoft-365-defender/media/cloud-apps-node.png)
 The Cloud apps node on the left navigational panel is where you find [[Microsoft Defender for Cloud Apps]] functionality.
-### SOC Optimization
+# SOC Optimization
 ![A screenshot of the SOC optimization page in the Microsoft Defender portal.](https://learn.microsoft.com/en-us/training/wwl-sci/describe-threat-protection-with-microsoft-365-defender/media/optimization.png)
+Security operations center (SOC) teams actively look for opportunities to optimize both processes and outcomes.
+
+SOC optimization surfaces ways you can optimize your security controls, gaining more value from Microsoft security services as time goes on.
