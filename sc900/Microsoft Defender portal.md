@@ -64,6 +64,9 @@ The Assets tab allows you to view and manage your organization's inventory of pr
 The Device inventory shows a list of the devices in your network where alerts were generated. By default, the queue displays devices seen in the last 30 days. At a glance, you see information such as domain, risk level, OS platform, and other details for easy identification of devices most at risk.
 
 The identity inventory provides a comprehensive view of all corporate identities, both cloud and on-premises.
-### [[Microsoft Sentinel]]
+# [[Microsoft Sentinel]]
 ![A screenshot of the Microsoft Sentinel node on the navigation panel of the Microsoft Defender portal.](https://learn.microsoft.com/en-us/training/wwl-sci/describe-threat-protection-with-microsoft-365-defender/media/sentinel-node.png)
-Some Microsoft Sentinel capabilities, like the unified incident queue, are accessed through the incidents and alerts page of the Defender portal, along with incidents from other Microsoft Defender services. Many other Microsoft Sentinel capabilities are available in the Microsoft Sentinel section of the Defender portal.
+Some [[Microsoft Sentinel]] capabilities, like the unified incident queue, are accessed through the incidents and alerts page of the Defender portal, along with incidents from other Microsoft Defender services. Many other Microsoft Sentinel capabilities are available in the Microsoft Sentinel section of the Defender portal.
+# Identities
+![A screenshot of the identities node on the left navigation panel of the Microsoft Defender portal.](https://learn.microsoft.com/en-us/training/wwl-sci/describe-threat-protection-with-microsoft-365-defender/media/identities-node.png)
+The Identities node on the left navigation panel of the [[Microsoft Defender portal]] maps to functionality associated with [[Microsoft Defender for Identity]].
