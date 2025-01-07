@@ -1,0 +1,1 @@
+provides a centralized place to develop data safety, quality, and standards, but provides tools to create self-service access control, discoverability, and maintenance. Federated data governance spreads ownership across your business, reducing bottlenecks and encouraging participation in the life cycle of managing, governing, consuming, and applying data.
