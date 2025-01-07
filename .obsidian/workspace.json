@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sc900/Audit (Premium).md",
+                "file": "sc900/Microsoft Purview Records Management.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Audit (Premium)"
+              "title": "Microsoft Purview Records Management"
             }
           }
         ],
@@ -229,7 +229,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "sc900/Audit (Premium).md",
+                "file": "sc900/Microsoft Purview Records Management.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -257,7 +257,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Audit (Premium)"
+              "title": "Graph of Microsoft Purview Records Management"
             }
           }
         ]
@@ -280,6 +280,7 @@
   "active": "21a655b9f9a57daa",
   "lastOpenFiles": [
     "sc900/Audit (Standard).md",
+    "sc900/Audit (Premium).md",
     "sc900/Microsoft Purview Records Management.md",
     "sc900/Microsoft Purview Communication Compliance.md",
     "sc900/Microsoft Purview Data Lifecycle Management.md",
@@ -287,7 +288,6 @@
     "sc900/eDiscovery.md",
     "sc900/Microsoft Purview.md",
     "sc900/Microsoft Purview Adaptive Protection.md",
-    "sc900/Audit (Premium).md",
     "sc900/Audit Logs.md",
     "sc900/Microsoft Purview Data Loss Prevention (DLP).md",
     "sc900/Microsoft Purview Insider Risk Management.md",
