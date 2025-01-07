@@ -70,3 +70,7 @@ Some [[Microsoft Sentinel]] capabilities, like the unified incident queue, are a
 # Identities
 ![A screenshot of the identities node on the left navigation panel of the Microsoft Defender portal.](https://learn.microsoft.com/en-us/training/wwl-sci/describe-threat-protection-with-microsoft-365-defender/media/identities-node.png)
 The Identities node on the left navigation panel of the [[Microsoft Defender portal]] maps to functionality associated with [[Microsoft Defender for Identity]].
+# Endpoints
+![A screenshot of the endpoints node on the left navigation panel of the Microsoft Defender portal.](https://learn.microsoft.com/en-us/training/wwl-sci/describe-threat-protection-with-microsoft-365-defender/media/endpoints-node.png)
+The Endpoints node on the left navigation panel of the Microsoft Defender portal maps to functionality associated with [[Microsoft Defender for Endpoint]].
+# Email & collaboration
