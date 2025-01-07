@@ -5,9 +5,9 @@ The [[Microsoft Defender XDR]] suite includes:
 - **[[Defender Vulnerability Management]]**
 - **[[Microsoft Defender for Office 365]]**
 - **[[Microsoft Defender for Identity]]** 
-- **Microsoft Defender for Cloud Apps** - Microsoft Defender for Cloud Apps delivers full protection for software as a service (SaaS) applications. Defender for Cloud apps is a cloud access security broker that brings deep visibility, strong data controls, and enhanced threat protection to your cloud apps.
+- **[[Microsoft Defender for Cloud Apps]]** - 
 
-Microsoft Defender XDR now also **integrates with Microsoft Security Copilot**. Integration with Security Copilot can be experienced through the standalone and embedded experiences.
+[[Microsoft Defender XDR]] now also **integrates with [[Microsoft Security Copilot]]**. Integration with Security Copilot can be experienced through the standalone and embedded experiences.
 
 The information and insights surfaced by the Microsoft Defender XDR suite of solutions are centralized in the **Microsoft Defender portal**, which delivers a unified security operations platform. As a unified security operations platform, the Microsoft Defender portal now includes information and insights from other Microsoft security products, including Microsoft Sentinel and Microsoft Defender for Cloud.
 

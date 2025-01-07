@@ -1,0 +1,1 @@
+Microsoft Defender for Cloud Apps delivers full protection for software as a service (SaaS) applications. Defender for Cloud apps is a cloud access security broker that brings deep visibility, strong data controls, and enhanced threat protection to your cloud apps.
