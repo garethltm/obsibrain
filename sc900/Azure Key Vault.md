@@ -22,5 +22,8 @@ Access to a key vault requires proper [[sc900/Authentication|Authentication]] & 
 
 [[Azure Key Vault]] is designed so that Microsoft doesn't see or extract your data
 ### Monitor access & use
-One you've created a couple of Key Vaults, you can monitor activity by enabling logging for your vaults. You have control over your logs & you may secure them by restricting access & you may also delete logs that you 
+One you've created a couple of Key Vaults, you can monitor activity by enabling logging for your vaults. You have control over your logs & you may secure them by restricting access & you may also delete logs that you no longer need.
+### Simplified administration of application secrets
+[[Azure Key Vault]] simplifies the administration that would typically be required to secure your application secrets, including:
+- Replicating
 
