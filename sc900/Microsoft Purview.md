@@ -44,8 +44,6 @@ After sensitivity labels are created, they need to be published to make them ava
 - **Link users to custom help pages**. It helps users to understand what the different labels mean and how they should be used.
 
 Once a sensitivity label is applied to an email or document, any configured protection settings for that label are enforced on the content.
-## Data loss prevention (DLP)
-
 ## Integration with [[Microsoft Security Copilot]]
 ![Screen capture of the Microsoft Purview capabilities available Microsoft Security Copilot.](https://learn.microsoft.com/en-us/training/wwl-sci/describe-purview-data-solutions/media/purview-capabilities.png)
 [[Microsoft Purview Insider Risk Management]] supports integration with [[Microsoft Security Copilot]], through the standalone and embedded experiences.
@@ -59,7 +57,7 @@ In the embedded experience, Copilot in Microsoft Purview Insider Risk Management
 ## Adaptive Protection
 Adaptive protection in Microsoft Purview uses machine learning (ML) to identify the most critical risks and proactively and dynamically apply protection controls from:
 
-- Data Loss Prevention
+- [[Microsoft Purview Data Loss Prevention (DLP)]]
 - Microsoft Purview Data Lifecycle Management (preview)
 - Microsoft Entra Conditional Access (preview)
 
