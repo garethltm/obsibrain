@@ -57,4 +57,13 @@ In Microsoft 365 organizations with Exchange Online mailboxes, admins can use th
 The partner catalog lists supported technology partners and professional services that can help your organization enhance the detection, investigation, and threat intelligence capabilities of the platform.
 # Threat intelligence
 ![A screenshot of the device inventory page in the Microsoft Defender portal.](https://learn.microsoft.com/en-us/training/wwl-sci/describe-threat-protection-with-microsoft-365-defender/media/assets-devices.png)
+![A screenshot of the identities inventory page in the Microsoft Defender portal.](https://learn.microsoft.com/en-us/training/wwl-sci/describe-threat-protection-with-microsoft-365-defender/media/assets-identities.png)
 ### Assets
+The Assets tab allows you to view and manage your organization's inventory of protected and discovered assets (devices and identities).
+
+The Device inventory shows a list of the devices in your network where alerts were generated. By default, the queue displays devices seen in the last 30 days. At a glance, you see information such as domain, risk level, OS platform, and other details for easy identification of devices most at risk.
+
+The identity inventory provides a comprehensive view of all corporate identities, both cloud and on-premises.
+### [[Microsoft Sentinel]]
+![A screenshot of the Microsoft Sentinel node on the navigation panel of the Microsoft Defender portal.](https://learn.microsoft.com/en-us/training/wwl-sci/describe-threat-protection-with-microsoft-365-defender/media/sentinel-node.png)
+Some Microsoft Sentinel capabilities, like the unified incident queue, are accessed through the incidents and alerts page of the Defender portal, along with incidents from other Microsoft Defender services. Many other Microsoft Sentinel capabilities are available in the Microsoft Sentinel section of the Defender portal.
