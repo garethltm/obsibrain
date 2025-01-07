@@ -65,3 +65,13 @@ DLP policies are how you monitor the activities that users take on sensitive ite
 - For Teams chat, the sensitive information won't be displayed.
 
 All DLP monitored activities are recorded to the Microsoft 365 Audit log by default and routed to Activity explorer. When a user performs an action that meets the criteria of a DLP policy, and you have alerts configured, DLP provides alerts in the DLP alert management dashboard.
+## DLP Policy information
+![A screen capture of the landing page when creating a DLP policy. The screen shows the option of starting with a template or custom policy.](https://learn.microsoft.com/en-us/training/wwl-sci/describe-purview-data-solutions/media/data-loss-prevention-policy-create-v2.png)
+![A screen capture from creating a DLP policy. The screen shows the options for choosing a location to apply a DLP policy.](https://learn.microsoft.com/en-us/training/wwl-sci/describe-purview-data-solutions/media/data-loss-prevention-policy-locations-v2.png)
+DLP policies can be created from predefined templates, or you can create a custom policy. No matter which you choose, all DLP policies require the same information.
+
+- Choose the type of data to monitor. Predefined policy templates allow you to choose from categories such as Financial data, Medical and health data, or Privacy data for various countries and regions. Alternatively, you can create a custom policy that uses the available sensitive information types, retention labels, and sensitivity labels.
+- Choose administrative scoping. DLP policies can be applied to all users and groups by an unrestricted administrator, or they can be scoped to administrative units. Administrative units let you subdivide your organization into smaller units, and then assign specific administrators that can manage only the members of those units.
+- Choose the location where the policy will be applied, such as Exchange, SharePoint, OneDrive, and more.
+- Choose the conditions that must be matched for a policy to be applied to an item.
+- Choose the protective action to take when the policy conditions are met.
