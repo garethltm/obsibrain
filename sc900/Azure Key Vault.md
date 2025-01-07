@@ -21,4 +21,6 @@ Access to a key vault requires proper [[sc900/Authentication|Authentication]] & 
 [[sc900/Authentication|Authentication]] is done via [[Microsoft Entra ID]]. [[Authorization]] may be done via Azure role-based access control (Azure RBAC) or [[Azure Key Vault]] access policy.
 
 [[Azure Key Vault]] is designed so that Microsoft doesn't see or extract your data
+### Monitor access & use
+One you've created a couple of Key Vaults, you can monitor activity by enabling logging for your vaults. You have control over your logs & you may secure them by restricting access & you may also delete logs that you 
 
