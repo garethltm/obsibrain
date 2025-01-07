@@ -57,8 +57,7 @@ With [[Microsoft Sentinel]], you can automate your common tasks and simplify sec
 
 The following are key capabilities in Microsoft Sentinel for threat response.
 - _**Automation rules**_
-	- Centrally manage the automation of incident handling in Microsoft Sentinel by defining and coordinating a small set of rules that cover different scenarios.
-    
-- _**Playbooks**_ - Automate and orchestrate your threat response by using playbooks, which are a collection of remediation actions. Run a playbook on-demand or automatically in response to specific alerts or incidents, when triggered by an automation rule.
-    
-    Playbooks in Microsoft Sentinel are based on workflows built in Azure Logic Apps. For example, if you use the ServiceNow ticketing system, use Azure Logic Apps to automate your workflows and open a ticket in ServiceNow each time a particular alert or incident is generated.
+	- Centrally manage the automation of incident handling in [[Microsoft Sentinel]] by defining and coordinating a small set of rules that cover different scenarios.
+- _**Playbooks**_
+	- Automate and orchestrate your threat response by using playbooks, which are a collection of remediation actions. Run a playbook on-demand or automatically in response to specific alerts or incidents, when triggered by an automation rule. Playbooks in [[Microsoft Sentinel]] are based on workflows built in Azure Logic Apps. For example, if you use the ServiceNow ticketing system, use Azure Logic Apps to automate your workflows and open a ticket in ServiceNow each time a particular alert or incident is generated.
+### Enable out of the box security conent
