@@ -139,7 +139,7 @@ Insider risk management helps organizations to identify, investigate, and addres
 	    - Case notes:
 		    - Reviewers can provide notes for a case in the Case Notes section. This list consolidates all notes in a central view and includes reviewer and date submitted information.
 - **Action**
-	- After cases are investigated, reviewers can quickly act to resolve the case or collaborate with other risk stakeholders in the organization. Actions can be as simple as sending a notification when employees accidentally or inadvertently violate policy conditions. In more serious cases, reviewers may need to share the insider risk management case information with other reviewers in the organization. Escalating a case for investigation makes it possible to transfer data and management of the case to eDiscovery in Microsoft Purview.
-    
+	- After cases are investigated, reviewers can quickly act to resolve the case or collaborate with other risk stakeholders in the organization. Actions can be as simple as sending a notification when employees accidentally or inadvertently violate policy conditions. In more serious cases, reviewers may need to share the insider risk management case information with other reviewers in the organization. Escalating a case for investigation makes it possible to transfer data and management of the case to eDiscovery in [[Microsoft Purview]].
 
 Insider risk management can help you detect, investigate, and take action to mitigate internal risks in your organization in several common scenarios. These scenarios include data theft by employees, the intentional, or unintentional leak of confidential information, offensive behavior, and more.
+## Integration with [[Microsoft Security Copilot]]![Screen capture of the Microsoft Purview capabilities available Microsoft Security Copilot.](https://learn.microsoft.com/en-us/training/wwl-sci/describe-purview-data-solutions/media/purview-capabilities.png)
