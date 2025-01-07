@@ -63,3 +63,6 @@ Auditing solutions in [[Microsoft Purview]] help organizations effectively respo
 ### Licensing
 Licensing for [[Audit (Standard)]] or [[Audit (Premium)]] requires the appropriate organization-level subscription and corresponding per-user licensing. For additional information on licensing requirements, visit the Learn more section in the Summary and resources unit.
 ### Audit log in [[Microsoft Purview]] for [[Microsoft Security Copilot]]
+The audit logging feature in Security Copilot uses [[Microsoft Purview]] to process and store admin actions, user actions, and Copilot responses. This includes data from any Microsoft and non-Microsoft integrations.
+
+From the [[Microsoft Security Copilot]] portal (the standalone experience), Copilot owners can opt in to allow [[Microsoft Purview]] to access, process, copy, and store customer data from your Security Copilot services. Once this feature is enabled in Copilot, if your organization is already using [[Microsoft Purview]], no further actions is required. Audit logging is turned on by default for Microsoft 365 organizations. However, when setting up a new Microsoft 365 organization, you should verify the auditing status for your organization. If your organization isn't already using Microsoft Purview, then Audit logging needs to be provisioned.
