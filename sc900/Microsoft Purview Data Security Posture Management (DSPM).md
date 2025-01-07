@@ -24,11 +24,12 @@ allows you to quickly and easily monitor cross-cloud data and user risk through 
 ## Workflow
 The DSPM (preview) workflow helps you investigate and take action to address potential security concerns with unprotected data across your organization.![Data security posture management workflow diagram.](https://learn.microsoft.com/en-us/purview/media/dspm-workflow.png)
 1. **Opt-in to analytics processing**: To get started with DSPM (preview), you must enable and opt in to:
-    1. Insider risk management analytics
-    2. DLP analytics
-    3. Analytics processing in DSPM (preview) to scan for unprotected data in your organization.
+    - Insider risk management analytics
+    - DLP analytics
+    - Analytics processing in DSPM (preview) to scan for unprotected data in your organization.
 2. **Evaluate insights and take action**: After the automated analytics processing is completed, you can evaluate the insights created by DSPM (preview) to help mitigate risks for unprotected data.
 3. **Actions**:
-    1. **Investigate with Security Copilot**: Use built-in and custom prompts with Security Copilot to help identify specific areas of risk.
-    2. **Create policies with recommendations**: Use recommendations to quickly create insider risk management and DLP policies to help mitigate data security risks for unprotected data assets.
+	- **Investigate with Security Copilot**: Use built-in and custom prompts with Security Copilot to help identify specific areas of risk.
+	- **Create policies with recommendations**: Use recommendations to quickly create insider risk management and DLP policies to help mitigate data security risks for unprotected data assets.
 4. **Track posture with analytic trends and reports**: Use analytic trends and reports to view your posture over time and for data locations across your organization.
+### 
