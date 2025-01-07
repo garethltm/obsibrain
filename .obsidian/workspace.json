@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sc900/Microsoft Defender Threat Intelligence.md",
+                "file": "sc900/(Defender TI).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Microsoft Defender Threat Intelligence"
+              "title": "(Defender TI)"
             }
           }
         ],
@@ -229,7 +229,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "sc900/Microsoft Defender Threat Intelligence.md",
+                "file": "sc900/(Defender TI).md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -257,7 +257,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Microsoft Defender Threat Intelligence"
+              "title": "Graph of (Defender TI)"
             }
           }
         ]
@@ -279,8 +279,10 @@
   },
   "active": "c3c46d76b5e8ba46",
   "lastOpenFiles": [
-    "sc900/Intel Explorer.md",
     "sc900/Microsoft Defender Threat Intelligence.md",
+    "sc900/(Defender TI).md",
+    "sc900/Intel Projects.md",
+    "sc900/Intel Explorer.md",
     "sc900/Intel Profiles.md",
     "sc900/Threat analytics.md",
     "sc900/Microsoft Defender Vulnerability Management.md",
@@ -303,8 +305,6 @@
     "sc900/cloud security posture management (CSPM).md",
     "sc900/conditional access.md",
     "sc900/Microsoft cloud security benchmark (MCSB).md",
-    "sc900/Development Operations (DevOps).md",
-    "sc900/Development Security Operations (DevSecOps).md",
     "Untitled",
     "@images/Pasted image 20241219142611.png",
     "sc900/Untitled",
