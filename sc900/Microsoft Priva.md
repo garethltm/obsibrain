@@ -22,7 +22,12 @@ These solutions can be found in the new Microsoft Priva portal (preview).
 - _**Find and mitigate data transfers**_. 
 	- Data transfer policies allow you to monitor for transfers between different world regions or between departments in your organization, and transfers outside of your organization. When a policy match is detected, you can send users email notifications that allow them to take corrective action right in the email, such as making content items private, notifying content owners, or tagging items for further review.
     
-- _**Minimize stored data**_. Data minimization policies allow you to look for data that your organization has been storing for at least a certain length of time. This can help you manage your ongoing storage practices. When policy matches are found, remediation options include marking items for deletion, notifying content owners, or tagging items for further review.
+- _**Minimize stored data**_. 
+	- Data minimization policies allow you to look for data that your organization has been storing for at least a certain length of time. This can help you manage your ongoing storage practices. When policy matches are found, remediation options include marking items for deletion, notifying content owners, or tagging items for further review.
     
 
 The summary and resources unit of this module, includes a link to learn more about Privacy Risk Management policies that provides more details on policy settings, including data sources supported and the data types to monitor.
+### Priva Subject Rights Requests
+In accordance with certain privacy regulations around the world, individuals (or data subjects) may make requests to review or manage the personal data about themselves that companies have collected. These requests are sometimes also referred to as data subject requests (DSRs), data subject access requests (DSARs), or consumer rights requests. For companies that store large amounts of information, finding the relevant data can be a formidable task.
+
+Microsoft Priva can help you handle these inquiries through the Subject Rights Requests solution, which can address subject rights request for data within your organization's Microsoft 365 environment or for **subject rights request for data beyond Microsoft 365, currently in preview**. The solution provides automation, insights, and workflows to help organizations fulfill requests more confidently and efficiently.
