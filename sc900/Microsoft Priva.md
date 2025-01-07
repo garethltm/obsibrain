@@ -51,3 +51,4 @@ Web tracker compliance refers to the adherence of websites to legal and regulato
 Many organizations find it challenging to effectively manage and monitor web tracker compliance. Navigating the intricate realm of tracker compliance is a complex and often burdensome task due to the swift evolution of technology, the proliferation of websites, and the evolving landscape of privacy regulations.
 
 Priva Tracker Scanning empowers organizations to automate the identification of tracking technologies across multiple web properties, driving the efficient management of website privacy compliance. With Tracker Scanning you can automate scans for trackers, evaluate and manage web trackers, and streamline compliance reporting.
+### Priva portal (preview)
