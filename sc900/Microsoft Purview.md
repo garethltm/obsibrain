@@ -103,7 +103,7 @@ The Microsoft Purview capabilities, that you can view in the standalone experien
 In the embedded experience, [[Microsoft Security Copilot]] in [[Microsoft Purview]] Data Loss Prevention supports alert summarization. To access Copilot from within [[Microsoft Purview]] Data Loss Prevention, navigate to the alerts queue to select the alert you want to review. Information about the alert and the option to summarize the alert are displayed. You select Summarize to have Copilot generate the alert summary.
 ## Integration with [[Microsoft Security Copilot]]
 ![Screen capture of the Microsoft Purview capabilities available Microsoft Security Copilot.](https://learn.microsoft.com/en-us/training/wwl-sci/describe-purview-data-solutions/media/purview-capabilities.png)
-[[Microsoft Purview Insider Risk Management]] supports integration with Microsoft Security Copilot, through the standalone and embedded experiences.
+[[Microsoft Purview Insider Risk Management]] supports integration with [[Microsoft Security Copilot]], through the standalone and embedded experiences.
 
 To experience Copilot integration, organizations must be onboarded to Copilot, have enabled Copilot to access data from Microsoft 365 services, and users must have the appropriate role permissions.
 
