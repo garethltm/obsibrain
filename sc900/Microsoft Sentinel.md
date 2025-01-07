@@ -28,8 +28,11 @@ Detect previously undetected threats, and minimize false positives using Microso
 	- [[Microsoft Sentinel]] analyzes ingested data, not only to detect threats and help you investigate, but also to visualize the nature and coverage of your organization's security status based on the tactics and techniques from the [[MITRE ATT&CK]]® framework, a global database of adversary tactics and techniques.
     
 - _**Threat intelligence**_
-	- You can integrate numerous sources of threat intelligence into Microsoft Sentinel to detect malicious activity in your environment and provide context to security investigators for informed response decisions.
+	- You can integrate numerous sources of threat intelligence into [[Microsoft Sentinel]] to detect malicious activity in your environment and provide context to security investigators for informed response decisions.
     
-- _**Watchlists**_ - You can correlate data from a data source you provide, a watchlist, with the events in your Microsoft Sentinel environment. For example, you might create a watchlist with a list of high-value assets, terminated employees, or service accounts in your environment. Use watchlists in your search, detection rules, threat hunting, and response playbooks.
+- _**Watchlists**_
+	- You can correlate data from a data source you provide, a watchlist, with the events in your [[Microsoft Sentinel]] environment. 
+		>For example, you might create a watchlist with a list of high-value assets, terminated employees, or service accounts in your environment. Use watchlists in your search, detection rules, threat hunting, and response playbooks.
     
-- _**Workbooks**_ - You can create interactive visual reports by using workbooks. After you connect data sources to Microsoft Sentinel, you can monitor the data using the Microsoft Sentinel integration with Azure Monitor Workbooks. [[Microsoft Sentinel]] comes with built-in workbook templates that allow you to quickly gain insights across your data. You can also create your own custom workbooks.
+- _**Workbooks**_
+	- You can create interactive visual reports by using workbooks. After you connect data sources to [[Microsoft Sentinel]], you can monitor the data using the [[Microsoft Sentinel]] integration with Azure Monitor Workbooks. [[Microsoft Sentinel]] comes with built-in workbook templates that allow you to quickly gain insights across your data. You can also create your own custom workbooks.
