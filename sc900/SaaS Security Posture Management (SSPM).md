@@ -1,0 +1,3 @@
+Optimizing an organization's security posture is important, but security teams are challenged by needing to research best practices for each app individually. Defender for Cloud Apps helps by surfacing misconfigurations and recommending specific actions to strengthen the security posture for each connected app. Recommendations are based on industry standards like the Center for Internet Security and follow best practices set by the specific app provider.
+
+Defender for Cloud Apps automatically provides SSPM data in Microsoft Secure Score, for any supported and connected app.
