@@ -30,4 +30,15 @@ The summary and resources unit of this module, includes a link to learn more abo
 ### Priva Subject Rights Requests
 In accordance with certain privacy regulations around the world, individuals (or data subjects) may make requests to review or manage the personal data about themselves that companies have collected. These requests are sometimes also referred to as data subject requests (DSRs), data subject access requests (DSARs), or consumer rights requests. For companies that store large amounts of information, finding the relevant data can be a formidable task.
 
-Microsoft Priva can help you handle these inquiries through the Subject Rights Requests solution, which can address subject rights request for data within your organization's Microsoft 365 environment or for **subject rights request for data beyond Microsoft 365, currently in preview**. The solution provides automation, insights, and workflows to help organizations fulfill requests more confidently and efficiently.
+[[Microsoft Priva]] can help you handle these inquiries through the Subject Rights Requests solution, which can address subject rights request for data within your organization's Microsoft 365 environment or for **subject rights request for data beyond Microsoft 365, currently in preview**. The solution provides automation, insights, and workflows to help organizations fulfill requests more confidently and efficiently.
+### Consent Management (preview)
+Nearly all interactions with companies, service providers, websites, programs, and apps are conducted digitally, which has resulted in an explosion of data belonging to individuals. It’s never been more important for organizations to meet the requirements of data privacy regulations to provide the right type of consent and notice around the collection and use of personal data.
+
+Consent models refer to the approaches used by organizations to obtain, manage, and record user consent for the collection, processing, and sharing of personal data. These models are crucial for ensuring that organizations comply with privacy regulations.
+
+Priva Consent Management is a regulatory-independent solution for streamlining the management of consented personal data. Consent management empowers organizations to effectively track consumer consent across their entire data estate.
+
+Consent management provides customizable consent models that allow you to add branding and style elements specific to your organization. Consent models also support adding, importing, or machine-generating language translations to support visitors in multiple regions who have different language requirements. The consent models you create don’t need to be created for specific websites, meaning you can use the same model across your public domains.
+
+When you’re ready to publish your consent models, a centralized process allows you to publish consent models at scale to multiple regions.
+### Privacy Assessments (p)
