@@ -7,6 +7,7 @@ The threat analytics dashboard highlights the reports that are most relevant to 
 	- Lists the most recently published or updated threat reports, along with the number of active and resolved alerts.
 - High-impact threats
 	- Lists the threats that have the highest impact to your organization. This section lists threats with the highest number of active and resolved alerts first.
-- Highest exposure - Lists threats to which your org has the highest exposure. Your exposure level to a threat is calculated using two pieces of information: how severe the vulnerabilities associated with the threat are, and how many devices in your organization could be exploited by those vulnerabilities.
+- Highest exposure
+	- Lists threats to which your org has the highest exposure. Your exposure level to a threat is calculated using two pieces of information: how severe the vulnerabilities associated with the threat are, and how many devices in your organization could be exploited by those vulnerabilities.
 
-Each report provides an overview, an analyst report, related incidents, impacted assets, endpoints exposure, and recommended actions.T
+Each report provides an overview, an analyst report, related incidents, impacted assets, endpoints exposure, and recommended actions.

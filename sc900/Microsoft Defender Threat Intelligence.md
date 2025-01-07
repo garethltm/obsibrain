@@ -4,6 +4,6 @@ Threat intelligence analysts struggle with balancing a breadth of threat intelli
 
 Microsoft Defender Threat Intelligence functionality includes:
 - [[Threat analytics]]
-- Intel Profiles
-- Intel Explorer
+- [[Intel Profiles]]
+- [[Intel Explorer]]
 - Projects

@@ -48,23 +48,9 @@
               "icon": "lucide-file",
               "title": "Microsoft Defender Threat Intelligence"
             }
-          },
-          {
-            "id": "afb840579fbc13ee",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "sc900/Threat analytics.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Threat analytics"
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -243,7 +229,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "sc900/Threat analytics.md",
+                "file": "sc900/Microsoft Defender Threat Intelligence.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -271,7 +257,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Threat analytics"
+              "title": "Graph of Microsoft Defender Threat Intelligence"
             }
           }
         ]
@@ -291,9 +277,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "afb840579fbc13ee",
+  "active": "c3c46d76b5e8ba46",
   "lastOpenFiles": [
+    "sc900/Intel Explorer.md",
     "sc900/Microsoft Defender Threat Intelligence.md",
+    "sc900/Intel Profiles.md",
     "sc900/Threat analytics.md",
     "sc900/Microsoft Defender Vulnerability Management.md",
     "sc900/Microsoft Defender for Identity.md",
@@ -317,8 +305,6 @@
     "sc900/Microsoft cloud security benchmark (MCSB).md",
     "sc900/Development Operations (DevOps).md",
     "sc900/Development Security Operations (DevSecOps).md",
-    "sc900/security recommendation.md",
-    "sc900/security initiative.md",
     "Untitled",
     "@images/Pasted image 20241219142611.png",
     "sc900/Untitled",
