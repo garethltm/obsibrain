@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sc900/Untitled.md",
+                "file": "sc900/Microsoft Service Trust Portal.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "Microsoft Service Trust Portal"
             }
           }
         ],
@@ -215,7 +215,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "sc900/Untitled.md",
+                "file": "sc900/Microsoft Service Trust Portal.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -243,7 +243,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Untitled"
+              "title": "Graph of Microsoft Service Trust Portal"
             }
           }
         ]
@@ -266,7 +266,7 @@
   "active": "9ad0712a926866e2",
   "lastOpenFiles": [
     "sc900/Microsoft Defender for Identity.md",
-    "sc900/Untitled.md",
+    "sc900/Microsoft Service Trust Portal.md",
     "sc900/Microsoft Defender for Office 365.md",
     "sc900/Microsoft Defender for Endpoint.md",
     "sc900/Microsoft Security Copilot.md",
