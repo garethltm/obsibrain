@@ -54,3 +54,7 @@ The unified Action center brings together remediation actions across [[Microsoft
 
 In Microsoft 365 organizations with Exchange Online mailboxes, admins can use the Submissions page in the [[Microsoft Defender portal]] to submit messages, URLs, and attachments to Microsoft for analysis.
 ### Partner catalog
+The partner catalog lists supported technology partners and professional services that can help your organization enhance the detection, investigation, and threat intelligence capabilities of the platform.
+# Threat intelligence
+![A screenshot of the device inventory page in the Microsoft Defender portal.](https://learn.microsoft.com/en-us/training/wwl-sci/describe-threat-protection-with-microsoft-365-defender/media/assets-devices.png)
+### Assets
