@@ -43,9 +43,15 @@ Some of the features of [[Microsoft Defender for Office 365]] that help organiza
 	- View, manage, and remediate threats using automated investigation and response.
 - Explorer
 	- Investigate, hunt for, and remediate threats in emails and documents.
-- Review - Manage quarantined items and restricted senders.
-- Campaigns - Analyze coordinated attacks against your environment.
-- Threat tracker - Monitor threat trends using widgets and custom searches.
-- Exchange message trace - Analyze message flow in the Exchange admin center.
-- Attack simulation training - Access and build user resilience using simulated attacks and training.
-- Policies & rules - Configure security policies for email and other Microsoft 365 workspaces.
+- Review
+	- Manage quarantined items and restricted senders.
+- Campaigns
+	- Analyze coordinated attacks against your environment.
+- Threat tracker
+	- Monitor threat trends using widgets and custom searches.
+- Exchange message trace
+	- Analyze message flow in the Exchange admin center.
+- Attack simulation training
+	- Access and build user resilience using simulated attacks and training.
+- Policies & rules
+	- Configure security policies for email and other Microsoft 365 workspaces.

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sc900/Microsoft Defender for Office 365.md",
+                "file": "sc900/Microsoft Defender for Endpoint.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Microsoft Defender for Office 365"
+              "title": "Microsoft Defender for Endpoint"
             }
           }
         ]
@@ -200,7 +200,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "sc900/Microsoft Defender for Office 365.md",
+                "file": "sc900/Microsoft Defender for Endpoint.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -228,7 +228,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Microsoft Defender for Office 365"
+              "title": "Graph of Microsoft Defender for Endpoint"
             }
           }
         ]
@@ -248,12 +248,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "06456c99ed1e1a5a",
+  "active": "3ad179677b7fba41",
   "lastOpenFiles": [
+    "sc900/Microsoft Defender for Office 365.md",
     "sc900/Microsoft Defender XDR.md",
     "sc900/Microsoft Defender for Cloud Apps.md",
     "sc900/Microsoft Defender for Identity.md",
-    "sc900/Microsoft Defender for Office 365.md",
     "sc900/Defender Vulnerability Management.md",
     "sc900/Microsoft Defender for Endpoint.md",
     "sc900/Prompt.md",
