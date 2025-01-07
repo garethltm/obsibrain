@@ -29,3 +29,9 @@ Defender for Cloud Apps connects to [[Software as a Service (SaaS)]] apps to sca
 - Remove external collaborators on confidential files
 
 The Defender for Cloud Apps integration with [[Microsoft Purview]] also enables security teams to leverage out-of-the-box data classification types in their information protection policies and control sensitive information with data loss protection (DLP) features.
+### Advanced threat protection
+Cloud apps continue to be a target for adversaries trying to exfiltrate corporate data. Sophisticated attacks often cross modalities. Attacks often start from email as the most common entry point then move laterally to compromise endpoints and identities, before ultimately gaining access to in-app data.
+
+Defender for Cloud Apps offers built-in adaptive access control (AAC), provides user and entity behavior analysis (UEBA), and helps you mitigate these types of attacks.
+
+Defender for Cloud Apps is also integrated directly into [[Microsoft Defender XDR]], correlating eXtended detection and response (XDR) signals from the Microsoft Defender suite and providing incident-level detection, investigation, and powerful response capabilities. Integrating [[Software as a Service (SaaS)]] security into Microsoft's XDR experience gives SOC teams full kill chain visibility and improves operational efficiency and effectivity.
