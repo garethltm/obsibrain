@@ -6,7 +6,6 @@ To meet regulatory requirements and build customer trust, organizations need to 
 [[Microsoft Priva]] is a comprehensive set of privacy solutions that support privacy operations across your organization's entire digital estate and enables your organization to consolidate privacy protection across your data landscape, streamline compliance to regulations, and mitigate privacy risk.
 
 The Priva suite of solutions has expanded to include the following solutions:
-
 - Subject Rights Requests
 - Privacy Risk Management
 - Consent Management (preview)
@@ -14,3 +13,16 @@ The Priva suite of solutions has expanded to include the following solutions:
 - Tracker Scanning (preview)
 
 These solutions can be found in the new Microsoft Priva portal (preview).
+### Microsoft Privacy Risk Management
+[[Microsoft Priva]] Privacy Risk Management gives you the capability to set up policies that identify privacy risks in your Microsoft 365 environment and enable easy remediation. Policy options in Privacy Risk Management can help you find issues in the following areas of privacy concern and guide your users through recommended steps for remediation.
+
+- _**Limit data overexposure**_. 
+	- Data overexposure policies, which can be set up to cover both Microsoft 365 and multicloud (preview) locations, can help you detect and handle situations in which data that your organization has stored is insufficiently secure. For example, Privacy Risk Management can alert you if access to an internal site is open to too many people or your permissions settings haven't been maintained. Privacy Risk Management also offers remediation options that help your users resolve any issues that are found. For data overexposure, these include making content items private, notifying content owners, or tagging items for further review.
+    
+- _**Find and mitigate data transfers**_. 
+	- Data transfer policies allow you to monitor for transfers between different world regions or between departments in your organization, and transfers outside of your organization. When a policy match is detected, you can send users email notifications that allow them to take corrective action right in the email, such as making content items private, notifying content owners, or tagging items for further review.
+    
+- _**Minimize stored data**_. Data minimization policies allow you to look for data that your organization has been storing for at least a certain length of time. This can help you manage your ongoing storage practices. When policy matches are found, remediation options include marking items for deletion, notifying content owners, or tagging items for further review.
+    
+
+The summary and resources unit of this module, includes a link to learn more about Privacy Risk Management policies that provides more details on policy settings, including data sources supported and the data types to monitor.
