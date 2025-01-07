@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "Microsoft Defender for Cloud"
             }
+          },
+          {
+            "id": "1222b823a1264b1d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "sc900/Untitled.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -200,7 +215,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "sc900/Microsoft Defender for Cloud.md",
+                "file": "sc900/Untitled.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -228,7 +243,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Microsoft Defender for Cloud"
+              "title": "Graph of Untitled"
             }
           }
         ]
@@ -248,11 +263,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "69ae7a8f8598d9dd",
+  "active": "1222b823a1264b1d",
   "lastOpenFiles": [
+    "sc900/Microsoft Defender for Cloud.md",
+    "sc900/Untitled.md",
+    "sc900/cloud security posture management (CSPM).md",
     "sc900/Azure Key Vault.md",
     "sc900/development security operations (DevSecOps).md",
-    "sc900/Microsoft Defender for Cloud.md",
     "University of Auckland/2024 Semester 1/INFOSYS303 - Solutions Architecture/Availability.md",
     "sc900/Azure Bastion.md",
     "sc900/Microsoft Security Copilot.md",
@@ -274,8 +291,6 @@
     "sc900/Microsoft Entra ID.md",
     "sc900/Security Compute Unit (SCU).md",
     "sc900/Built-in high availability & availability zones.md",
-    "sc900/Stateful Firewall.md",
-    "sc900/Network & application level filtering.md",
     "Untitled",
     "@images/Pasted image 20241219142611.png",
     "sc900/Untitled",
