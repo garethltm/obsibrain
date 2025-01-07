@@ -10,9 +10,9 @@ Also, for businesses that are onboarded to Microsoft Security Copilot, Microsoft
 When you enable Defender for Cloud, you automatically gain access to Microsoft Defender XDR, an enterprise defense suite that natively coordinates detection, prevention, investigation, and response across endpoints, identities, email, and applications to provide integrated protection against sophisticated attacks. 
 ## How Security policies & initiatives improve cloud security posture
 [[Microsoft Defender for Cloud ]]enables organizations to manage the security of their resources and workloads in the cloud and on-premises and improve their overall security posture. It does this by using policy definitions and security initiatives, so it's important to understand these terms.
-- An [[Azure Policy]] definition, created in Azure policy
+- An [[Azure Policy]] definition, created in [[Azure policy]]
     
-- A [[security initiative]] is a collection of Azure Policy definitions, or rules, grouped together towards a specific goal or purpose. Security initiatives simplify management of your policies by grouping a set of policies together, logically, as a single item.
+- A [[security initiative]] is a collection of [[Azure Policy]] definitions, or rules, grouped together towards a specific goal or purpose. 
     
 - To implement policy definitions or initiatives, you assign them to any scope of resources that are supported, such as management groups, subscriptions, resource groups, or individual resources.
     
