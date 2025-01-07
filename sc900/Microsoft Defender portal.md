@@ -31,3 +31,13 @@ Using data connectors you can connect data sources for a richer, more centralize
 ## Investigation & response
 The investigation and response tab includes access to incidents and alerts, hunting, actions & submissions, and a partner catalog.![A screenshot of the Microsoft Defender portal showing the selections available for investigation and response. They are incidents and alerts, hunting, actions and submissions, and partner catalog.](https://learn.microsoft.com/en-us/training/wwl-sci/describe-threat-protection-with-microsoft-365-defender/media/investigation-response-v2.png)
 ### Incidents & alerts
+An incident in the [[Microsoft Defender portal]] is a collection of related alerts, assets, investigations, and evidence to give you a comprehensive look into the entire breadth of an attack. It serves as a case file that your SOC can use to investigate that attack and manage, implement, and document the response to it. Because the [[Microsoft Defender portal]] is built upon a unified security operations platform, you get a view of all incidents including incidents generated from the suite of [[Microsoft Defender XDR]] solutions, [[Microsoft Sentinel]], and other solutions.
+
+Within an incident, you analyze the alerts that affect your network, understand what they mean, and collate the evidence so that you can devise an effective remediation plan. The information provided for an incident includes:
+- The full story of the attack, including all the alerts, assets, and remediation actions taken.
+- All the alerts related to the incident.
+- All the assets (devices, users, mailboxes, and apps) that have been identified to be part of or related to the incident.
+- All the automated investigations triggered by the alerts in the incident.
+- All the supported evidence and response.
+
+If your organization is onboarded to [[Microsoft Security Copilot]] you can also view an incident summary, guided responses, and more.
