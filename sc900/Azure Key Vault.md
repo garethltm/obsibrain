@@ -19,3 +19,4 @@ Securely store secrets & keys. Access to a key vault requires proper [[sc900/Aut
 
 [[sc900/Authentication|Authentication]] is done via [[Microsoft Entra ID]]. [[Authorization]] may be done via Azure role-based access control (Azure RBAC) or [[Azure Key Vault]] access policy.
 
+Azure Key
