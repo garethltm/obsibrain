@@ -1,0 +1,2 @@
+Most of us are already familiar with this term. But what does it actually mean? First, let’s think about viruses in nontechnical terms. In biology, for example, a virus enters the human body, and once inside, can spread and cause harm. Technology-based viruses depend on some means of entry, specifically a user action, to get into a system. 
+>For example, a user might download a file or plug in a USB device that contains the virus, and contaminates the system. You now have a [[security breach]].
