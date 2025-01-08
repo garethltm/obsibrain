@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "digital certificates.md",
+                "file": "sc900/digital certificate(s).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "digital certificates"
+              "title": "digital certificate(s)"
             }
           }
         ]
@@ -250,9 +250,9 @@
   },
   "active": "e2ba14ee88abb8e9",
   "lastOpenFiles": [
-    "digital certificates.md",
+    "sc900/digital signature(s).md",
+    "sc900/digital certificate(s).md",
     "sc900/hashing.md",
-    "sc900/digital signature.md",
     "University of Auckland/2023 Semester 2/COMPSCI367 - Artificial Intelligence/week03/Graph Seach.md",
     "sc900/encryption.md",
     "sc900/Encryption & Hashing.md",
