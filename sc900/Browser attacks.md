@@ -1,0 +1,4 @@
+Whether on a desktop, laptop, or phone, browsers are an important access tool for the internet. Security vulnerabilities in a browser can have a significant impact because of their pervasiveness. 
+>For example, suppose a user is working on an important project with a looming deadline. They want to figure out how to solve a particular problem for their project. They find a website that they believe will provide a solution.
+
+The website asks the user to make some changes to their browser settings so they can install an add-on. The user follows the instructions on the website. Unknown to them, the browser is now compromised. This is a browser modifier attack, one of many different types used by [[cybercriminal(s)]]. An attacker can now use the browser to steal information, monitor user behavior, or compromise a device.

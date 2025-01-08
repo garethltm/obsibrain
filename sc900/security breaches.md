@@ -2,5 +2,5 @@ Any attack that results in someone gaining unauthorized access to devices, servi
 
 Security breaches come in different forms, including the following:
 1. [[Social engineering attacks]]
-2. Browser attacks
-3. Password attacks
+2. [[Browser attacks]]
+3. [[Password attacks]]

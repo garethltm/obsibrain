@@ -1,0 +1,3 @@
+It's common to think about security breaches as exploiting some flaw or vulnerability in a technology service or piece of equipment. Likewise, you might believe that security breaches only happen because of vulnerabilities in technology. But that’s not the case. Attackers can use social engineering attacks to exploit or manipulate users into granting them unauthorized access to a system.
+
+In social engineering, impersonation attacks happen when an unauthorized user (the attacker), aims to gain the trust of an authorized user by posing as a person of authority to access a system from some nefarious activity. For example, a cybercriminal might pretend to be a support engineer to trick a user into revealing their password to access an organization’s systems.
