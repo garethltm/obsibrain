@@ -20,21 +20,8 @@
               "icon": "lucide-file",
               "title": "Microsoft Purview Data Catalog"
             }
-          },
-          {
-            "id": "f43cb58a0c6479c3",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.7.7"
-              },
-              "icon": "lucide-file",
-              "title": "Release Notes 1.7.7"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -261,7 +248,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f43cb58a0c6479c3",
+  "active": "e0d28ab97f96b768",
   "lastOpenFiles": [
     "sc900/Microsoft Purview Data Quality.md",
     "sc900/Microsoft Purview Data Catalog.md",
