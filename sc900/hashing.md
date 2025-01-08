@@ -1,0 +1,5 @@
+uses an algorithm, also known as a **hashing function**, to convert the original text to a unique fixed-length value. This is called a hash value. Each time the same text is hashed using the same algorithm, the same hash value is produced. That hash can then be used as a unique identifier of its associated data.![Diagram showing an example of a hashing function accepting a plaintext message and generating a hash value.](https://learn.microsoft.com/en-us/training/wwl-sci/describe-concepts-of-cryptography/media/hashing-function-example.png)
+
+Hashing is different to [[encryption]] in that it doesn't use keys, and the hashed value can’t decrypt back to the original.
+
+There are many different types of hash functions. One that's common, and you may hear in discussions with security professionals, is the Secure Hash Algorithm (SHA). SHA is a family of hash algorithms that each work differently. The details are beyond the scope of this content, but one of the more commonly used SHAs is SHA-256, which produces a hash value that is 256 bits long.
