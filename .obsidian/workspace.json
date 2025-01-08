@@ -8,16 +8,35 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a3772de820a1f944",
+            "id": "3a6983315e3eb9f8",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "sc900/security breaches.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "security breaches"
+            }
+          },
+          {
+            "id": "dfc06af7c31e5a08",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "sc900/Social engineering attacks.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Social engineering attacks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -244,12 +263,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a3772de820a1f944",
+  "active": "dfc06af7c31e5a08",
   "lastOpenFiles": [
+    "sc900/security breaches.md",
+    "sc900/Social engineering attacks.md",
+    "sc900/Service principals.md",
+    "sc900/Shared Responsibility Model.md",
+    "sc900/conditional access.md",
+    "sc900/attack vectors.md",
     "sc900/cybercriminal(s).md",
-    "attack vectors.md",
-    "threat landscape.md",
-    "cybersecurity.md",
+    "sc900/threat landscape.md",
+    "sc900/cybersecurity.md",
     "sc900/Microsoft Purview Data Catalog.md",
     "sc900/cyberattack.md",
     "sc900/Microsoft Purview Data Quality.md",
@@ -267,11 +291,6 @@
     "sc900/Microsoft Purview Communication Compliance.md",
     "sc900/Audit (Standard).md",
     "sc900/Audit (Premium).md",
-    "sc900/Microsoft Purview Data Lifecycle Management.md",
-    "sc900/Microsoft Purview Compliance Manager.md",
-    "sc900/eDiscovery.md",
-    "sc900/Microsoft Purview.md",
-    "sc900/Microsoft Purview Adaptive Protection.md",
     "Untitled",
     "@images/Pasted image 20241219142611.png",
     "sc900/Untitled",
