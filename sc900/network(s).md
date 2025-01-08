@@ -14,6 +14,10 @@ Whatever type of network you're using, there are several different ways that you
 ![A diagram that shows a simple rendering of the client server with different client devices connecting a central server.](https://learn.microsoft.com/en-us/training/wwl-sci/describe-network-based-threats-mitigations/media/client-server.png)
 While [[network(s)]] allow devices or apps to communicate with each other, one of the most common network implementations is the client-server topology. In this model, the client can be one or more devices or applications on a device that wants to do something. The server is responsible for processing each client request and sending back a response.
 
-A [[network(s)]] exists when you have two or more devices that share data. As you saw in the previous unit, a network is composed of many different physical parts that work together to ensure your data gets to where it's needed. This transmission of data across a network is enabled by a suite of communication protocols, often referred to as TCP/IP. It's named after the two main protocols: Transmission Control Protocol (TCP), , and , 
+### How data moves around a [[network(s)]]
+A [[network(s)]] exists when you have two or more devices that share data. As you saw in the previous unit, a network is composed of many different physical parts that work together to ensure your data gets to where it's needed. This transmission of data across a network is enabled by a suite of communication protocols, often referred to as TCP/IP. It's named after the two main protocols: 
+- [[Transmission Control Protocol (TCP)]]
+- [[Internet Protocol (IP)]]
 
 Every network on the planet shares and moves data every second of the day. This data comes in every shape and size, from a simple message to images, and even the movies that are streamed to your home.
+### 
