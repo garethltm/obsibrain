@@ -1,4 +1,4 @@
-Cryptography has many applications in today's modern world. You've seen how encryption can ensure the confidentiality of messages. You also learned how hashing is used in digital signatures to verify a message hasn't been tampered with. In this unit, you'll learn about digital certificates and how they provide an added layer of security.
+[[Cryptography]] has many applications in today's modern world. You've seen how [[encryption]] can ensure the [[confidentiality]] of messages. You also learned how [[hashing]] is used in [[digital signatures]] to verify a message hasn't been tampered with. In this unit, you'll learn about [[digital certificates]] and how they provide an added layer of security.
 
 Certificates address the possibility of an unethical person intercepting, altering, or counterfeiting messages that can occur in digital communication.
 
