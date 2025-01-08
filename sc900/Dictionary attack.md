@@ -1,0 +1,1 @@
+A dictionary attack is a form of [[brute force attack]], where a dictionary of commonly used words is applied. To prevent dictionary attacks, it’s important to use symbols, numbers, and multiple word combinations in a password.
