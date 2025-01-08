@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sc900/mitigation strategy.md",
+                "file": "sc900/cryptography.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "mitigation strategy"
+              "title": "cryptography"
             }
           }
         ],
@@ -279,9 +279,10 @@
   },
   "active": "daeed22acf1c9e3a",
   "lastOpenFiles": [
+    "sc900/mitigation strategy.md",
+    "sc900/cryptography.md",
     "sc900/cyberattack(s).md",
     "sc900/Threat intelligence.md",
-    "sc900/mitigation strategy.md",
     "sc900/Browser security.md",
     "sc900/Multifactor authentication.md",
     "sc900/Payload.md",
@@ -304,7 +305,6 @@
     "sc900/conditional access.md",
     "sc900/attack vectors.md",
     "sc900/cybercriminal(s).md",
-    "sc900/threat landscape.md",
     "Untitled",
     "@images/Pasted image 20241219142611.png",
     "sc900/Untitled",
