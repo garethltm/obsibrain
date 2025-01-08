@@ -3,4 +3,4 @@ Authentication attacks occur when someone tries to steal another person's creden
 - [[Dictionary attack]]
 - [[Credential stuffing]]
 - [[Keylogging]]
-- Social engineering
+- [[Social engineering]]
