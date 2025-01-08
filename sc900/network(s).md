@@ -22,14 +22,9 @@ A [[network(s)]] exists when you have two or more devices that share data. As yo
 Every network on the planet shares and moves data every second of the day. This data comes in every shape and size, from a simple message to images, and even the movies that are streamed to your home.
 1. [[datagram (packet)]]
 2. [[IP addresses]]
+3. [[Domain Name Service (DNS)]]
+4. [[Routing]]
 
-### IP addresses
-
-### DNS
-Just like every device on a network needs a unique IP address, every public facing website has its own IP address. You could use the IP address to visit your favorite online retail store, bank, or streaming video service. But with so many websites available, that would be difficult to remember. Instead, you type the name of the service you're looking for into your browser and it takes you to the website you want. This is all thanks to the domain name service or DNS.
-
-The DNS holds a table that has the name of the website, for instance [microsoft.com](https://microsoft.com/), which maps to its corresponding IP address. Your browser uses this to find the actual website in much the same way as you might use a phone book to find a telephone number.![Diagram that shows a simplified representation of a DNS lookup table, where the domain microsoft.com has been found and gives the corresponding IP address.](https://learn.microsoft.com/en-us/training/wwl-sci/describe-network-based-threats-mitigations/media/dns-lookup-table.png)
-Each time your device connects to the internet, it uses a local DNS server to find the name of the website you're looking for. If the DNS can’t find the site, it checks other DNS servers. If the site can't be found, or the request times out, you'll get an error message such as "DNS server not responding."
 ### Routing
 When the IP addresses have been added to the packet, it's ready to be transmitted across the network. If the IP address exists on your network, the packet is sent directly to the device. However, if the IP address is outside of your network, it needs to go via a router. A router is a physical device that connects one network to another.
 
