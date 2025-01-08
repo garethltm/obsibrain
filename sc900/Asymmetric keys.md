@@ -10,4 +10,13 @@ While the algorithms and mathematics that underpin asymmetric encryption are com
 Let's assume that we have two people, Quincy and Monica, who need to communicate securely and privately. Using readily available software tools, Quincy and Monica each create their own key pair.
 
 The first thing that Quincy and Monica will do is share their **public keys** with each other. Because public keys aren't secret, they can exchange them via email.![This diagram shows how Quincy must share his public key with Monica so she can send him ciphertext. It also slows Monica sharing her public key with Quincy.](https://learn.microsoft.com/en-us/training/wwl-sci/describe-concepts-of-cryptography/media/asymmetric-public-key-sharing.png)
-When Quincy wants to send a secured message to Monica, he uses her **public key** to encrypt the [[plaintext]] and create the [[ciphertext]]. Quincy then sends the ciphertext to Monica using whatever means he wants, such as email. When Monica receives the ciphertext, she uses her **private key** to decrypt it, turning it back to plaintext.
+When Quincy wants to send a secured message to Monica, he uses her **public key** to encrypt the [[plaintext]] and create the [[ciphertext]]. Quincy then sends the [[ciphertext]] to Monica using whatever means he wants, such as email. When Monica receives the [[ciphertext]], she uses her **private key** to decrypt it, turning it back to [[plaintext]].![This diagram shows the process of encrypting a message using Monica’s public key, and Monica decrypting the ciphertext using her private key.](https://learn.microsoft.com/en-us/training/wwl-sci/describe-concepts-of-cryptography/media/asymmetric-encryption-process.png)
+When Monica wants to respond, she uses Quincy's **public key** to encrypt the message before sending it. Quincy then uses his **private key** to decrypt it.
+
+Let's assume that Eve is interested in what Quincy and Monica are saying. Eve intercepts a [[ciphertext]] message sent from Quincy to Monica. Additionally, Eve knows Monica's public key.
+
+Because Eve doesn’t know Monica’s private key, she has no way of decrypting the [[ciphertext]]. If Eve tries to decrypt the [[ciphertext]] with Monica’s public key, she will see gibberish.
+
+Given the nature of asymmetric encryption, even if you know the public key, it's impossible to discover the private key.
+
+In this two-minute video, we'll demonstrate how symmetric and asymmetric encryption work, and how they protect your documents from being read by unauthorized people.
