@@ -24,3 +24,6 @@ Every network on the planet shares and moves data every second of the day. This 
 2. [[IP addresses]]
 3. [[Domain Name Service (DNS)]]
 4. [[sc900/Routing|Routing]]
+## Common threats to network security
+- **Man-in-the-middle or eavesdropping attack** – this type of attack can occur when cybercriminals compromise or emulate routes in the network, allowing them to intercept the packets of information. Think of this as a form of wiretapping. This allows attackers to not just steal data but also compromise its integrity.
+- **Distributed denial of service (DDoS) attack** – the objective of a DDoS attack is to compromise the availability of the targeted network or service. Attackers do this by bombarding the targeted network or service with millions of simultaneous requests, from sources that are distributed across the network, overwhelming it and causing it to crash.

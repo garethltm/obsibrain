@@ -1,4 +1,4 @@
-When the IP addresses have been added to the [[datagram (packet)]], it's ready to be transmitted across the network. If the IP address exists on your network, the [[packet]] is sent directly to the device. However, if the IP address is outside of your network, it needs to go via a router. A router is a physical device that connects one network to another.
+When the IP addresses have been added to the [[datagram (packet)]], it's ready to be transmitted across the [[network(s)]]. If the IP address exists on your network, the [[datagram (packet)]] is sent directly to the device. However, if the IP address is outside of your [[network(s)]], it needs to go via a router. A router is a physical device that connects one [[network(s)]] to another.
 
 Using our letter scenario, if your friend was only a few streets away, you might decide to deliver the message by hand. Your friend is within your local network.
 
