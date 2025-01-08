@@ -1,0 +1,1 @@
+the objective of a DDoS attack is to compromise the availability of the targeted network or service. Attackers do this by bombarding the targeted network or service with millions of simultaneous requests, from sources that are distributed across the network, overwhelming it and causing it to crash.

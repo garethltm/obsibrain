@@ -1,0 +1,1 @@
+this type of attack can occur when [[cybercriminal(s)]] compromise or emulate routes in the network, allowing them to intercept the [[datagram (packet)]] of information. Think of this as a form of wiretapping. This allows attackers to not just steal data but also compromise its integrity.
