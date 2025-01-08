@@ -1,0 +1,2 @@
+is a type of [[payload]] that spies on a device or system. 
+>For example, the [[malware]] may install keyboard scanning software on a user's device, collect password details, and transmit them back to the attacker, all without the user's knowledge.
