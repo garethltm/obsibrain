@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sc900/network.md",
+                "file": "sc900/network(s).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "network"
+              "title": "network(s)"
             }
           }
         ],
@@ -266,7 +266,7 @@
   "active": "2ac3482556b29130",
   "lastOpenFiles": [
     "sc900/Authentication-based attacks.md",
-    "sc900/network.md",
+    "sc900/network(s).md",
     "sc900/Social engineering.md",
     "sc900/Baiting.md",
     "sc900/Pretexting.md",
