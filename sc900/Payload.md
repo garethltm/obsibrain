@@ -1,5 +1,5 @@
 The [[payload]] is the action that a piece of [[malware]] performs on an infected device or system. Here are some common types of [[payload]]:
 - **[[Ransomware]]**
 - **[[Spyware]]**
-- **Backdoors**: A backdoor is a payload that enables a cybercriminal to exploit a vulnerability in a system or device to bypass existing security measures and cause harm. Imagine that a cybercriminal infiltrates a software developing company and leaves some code that allows them to carry out attacks. This becomes a backdoor that the cybercriminal could use to hack into the application, the device it's running on, and even the organization's and customers' networks and systems.
-- **Botnet** is a type of payload that joins a computer, server, or another device to a network of similarly infected devices that can be controlled remotely to carry out some nefarious action. A common application of botnet malware is crypto-mining (often referred to as crypto-mining malware). In this case, the malware connects a device to a botnet that consumes the device's computing power to mine or generate cryptocurrencies. A user might notice their computer is running slower than normal and getting worse by the day.
+- **[[Backdoor]]**
+- **[[Botnet]]**
