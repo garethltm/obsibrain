@@ -21,15 +21,10 @@ A [[network(s)]] exists when you have two or more devices that share data. As yo
 
 Every network on the planet shares and moves data every second of the day. This data comes in every shape and size, from a simple message to images, and even the movies that are streamed to your home.
 1. [[datagram (packet)]]
+2. [[IP addresses]]
 
 ### IP addresses
-When you want to send a letter to a friend, you'll first write it out before putting it in an envelope. Next you'll write your friend's address on the envelope before posting it. The postal service collects the letter, and through various sorting offices, eventually delivers it.
 
-Networks operate in a similar manner. The message is contained in the packet, like an envelope. Then the sender and recipient addresses are added to the packet.
-
-The primary function of the Internet Protocol (IP) is to ensure that every device on a network can be uniquely identified. Before a packet is sent across the network, it must be told the IP address of where it's going, and the IP address of where it's come from.
-
-There are presently two standards of IP address: the [[Internet Protocol version 4 (IPv4)]] and the [[Internet Protocol version 6 (IPv6)]]. The details are beyond the scope of this module, but the most common type of IP address, and the one you may be familiar with, is [[Internet Protocol version 4 (IPv4)]]. This is made up of four groups of digits separated by a dot, for example: 127.100.0.1.
 ### DNS
 Just like every device on a network needs a unique IP address, every public facing website has its own IP address. You could use the IP address to visit your favorite online retail store, bank, or streaming video service. But with so many websites available, that would be difficult to remember. Instead, you type the name of the service you're looking for into your browser and it takes you to the website you want. This is all thanks to the domain name service or DNS.
 
