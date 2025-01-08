@@ -24,3 +24,12 @@ Every network on the planet shares and moves data every second of the day. This 
 Networks exist to help make device-to-device or system-to-system communication easier. Whatever the size of data, it all needs to be broken down into tiny, uniform chunks. These chunks are called datagrams but are also more commonly known as packets.
 
 Imagine that you want to stream a movie to your device. Given the enormous size of the data involved, the streaming server can't give you the whole movie in one go. Instead, the movie is broken up into billions of packets. Each packet contains a small part of the movie, which is then sent to your device. Your device has to wait until enough packets have been received before you can start watching the movie. In the background, the server continues to send a steady stream of packets to your device just ahead of what's being displayed. If your network speed slows down, then the packets may not reach you in time. The picture you see might become distorted or blocky and there may be gaps in the sound.
+### IP addresses
+When you want to send a letter to a friend, you'll first write it out before putting it in an envelope. Next you'll write your friend's address on the envelope before posting it. The postal service collects the letter, and through various sorting offices, eventually delivers it.
+
+Networks operate in a similar manner. The message is contained in the packet, like an envelope. Then the sender and recipient addresses are added to the packet.
+
+The primary function of the Internet Protocol (IP) is to ensure that every device on a network can be uniquely identified. Before a packet is sent across the network, it must be told the IP address of where it's going, and the IP address of where it's come from.
+
+There are presently two standards of IP address: the [[Internet Protocol version 4 (IPv4)]] and the [[Internet Protocol version 6 (IPv6)]]. The details are beyond the scope of this module, but the most common type of IP address, and the one you may be familiar with, is [[Internet Protocol version 4 (IPv4)]]. This is made up of four groups of digits separated by a dot, for example: 127.100.0.1.
+### DNS
