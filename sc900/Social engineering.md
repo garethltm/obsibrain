@@ -4,5 +4,5 @@ Most [[authentication]] attacks involve exploitation of computers or an attempt 
 
 A number of social engineering techniques can be used for authentication theft, including:
 - **[[Phishing]]**
-- **Pretexting** is a method where an attacker gains the victim's trust and convinces them to divulge secure information. This can then be used to steal their identity. For example, a hacker might call you, pretending to be from the bank, and ask for your password to verify your identity. Another approach uses social media. You might get asked to complete a survey or a quiz, where they asked seemingly random and innocent questions that get you to reveal personal facts, or you'll get something that looks fun, like making up the name for your fantasy pop-star band by using the name of your first pet and the place you were born.
-- **Baiting** is a form of attack where the criminal offers a fake reward or prize to encourage the victim to divulge secure information.
+- **[[Pretexting]]**
+- **[[Baiting]]**

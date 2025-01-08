@@ -1,0 +1,1 @@
+is a form of attack where the criminal offers a fake reward or prize to encourage the victim to divulge secure information.
