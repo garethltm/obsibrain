@@ -1,0 +1,1 @@
+The term **plaintext** represents any message including documents, music, pictures, movies, data, and computer programs, waiting to be cryptographically transformed.
