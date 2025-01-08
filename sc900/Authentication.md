@@ -4,7 +4,7 @@ When you want to access a computer or device, you'll encounter the same type of 
 
 Strong [[authentication]] methods are essential to maintaining good [[cybersecurity]] and ensure that only authorized users can gain access to confidential data and resources.
 
-While authentication verifies the user, it doesn't govern what a user can do once they've been authenticated. Control over what a user can do is called authorization and we'll cover that later in this module.
+While [[authentication]] verifies the user, it doesn't govern what a user can do once they've been authenticated. Control over what a user can do is called authorization and we'll cover that later in this module.
 
 ## Phone
 Microsoft Entra ID offers two options for phone-based [[authentication]]:

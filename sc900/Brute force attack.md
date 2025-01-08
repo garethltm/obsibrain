@@ -1,0 +1,1 @@
+In a brute force attack, a criminal will attempt to gain access simply by trying different usernames and password combinations. Typically, attackers have tools that automate this process by using millions of username and password combinations. Simple passwords, with single-factor authentication, are vulnerable to brute force attacks.
