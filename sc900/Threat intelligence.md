@@ -1,0 +1,7 @@
+The [[threat landscape]] can be vast. Organizations might have many [[attack vectors]] that are all possible targets for [[cybercriminal(s)]]. This means that organizations need to take as many measures as possible to monitor, prevent, defend against attacks, and even identify possible vulnerabilities before cybercriminals use them to carry out attacks. In short, they need to use threat intelligence.
+
+Threat intelligence enables an organization to collect systems information, details about vulnerabilities, information on attacks, and more. Based on its understanding of this information, the organization can then implement policies for security, devices, user access, and more, to defend against cyberattacks. The collection of information to gain insights, and respond to cyberattacks, is known as threat intelligence.
+
+Organizations can use technological solutions to implement threat intelligence across their systems. These are often threat intelligent solutions that can automatically collect information, and even hunt and respond to attacks and vulnerabilities.
+
+These are just some of the mitigation strategies that organizations can take to protect against cyberattacks. Mitigation strategies enable an organization to take a robust approach to cybersecurity. This will ultimately protect the confidentiality, integrity, and availability of information.
