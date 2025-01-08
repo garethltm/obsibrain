@@ -27,3 +27,8 @@ Every network on the planet shares and moves data every second of the day. This 
 ## Common threats to network security
 - **[[Man-in-the-middle or eavesdropping attack]]**
 - **[[Distributed denial of service (DDoS) attack]]**
+### Common wireless attacks
+Wireless networks allow our devices to seamlessly connect to networks everywhere. In your home, the wireless network allows your smartphone, and always-on IoT devices to connect to the internet. The broad availability of these networks makes them the perfect target for cybercriminals. There are many different ways to attack a wireless network:
+
+- **Wardriving** – the term Wardriving was popularized by a couple of 1980s movies. The attacker, typically operating from a vehicle, searches for unsecured wireless networks that have vulnerabilities. Most wardriving attacks seek to use your network for criminal activities, like hacking other computers and stealing personal information.
+- **Spoofing Wi-Fi hotspots** – This is similar to a man-in-the-middle attack. The attacker uses their laptop, or a device connected to it, to offer a network access point that mimics a genuine access point. For example, if you're in a coffee shop looking to access the internet using their guest Wi-Fi, you might see a couple of access points that show the name of the business. One of those could be from a bad actor. If you connect to the bogus access point, anything you do over the network can be intercepted. It also allows the cybercriminal to direct you to bad websites or capture your private data.
