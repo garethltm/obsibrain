@@ -1,0 +1,2 @@
+In contrast to a [[virus]], a [[worm]] doesn't need any user action to spread itself across systems. Instead, a [[worm]] causes damage by finding vulnerable systems it can exploit. Once inside, the [[worm]] can spread to other connected systems. 
+>For example, a [[worm]] might infect a device by exploiting a vulnerability in an application that runs on it. The [[worm]] can then spread across other devices in the same network and other connected networks.
