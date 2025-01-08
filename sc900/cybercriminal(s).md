@@ -1,4 +1,4 @@
-is anyone who carries out a [[cyberattack]]. [[cybercriminal(s)]] can be:
+is anyone who carries out a [[cyberattack(s)]]. [[cybercriminal(s)]] can be:
 - A single person or a group of people.
 - An organization for hire.
 - A government entity.

@@ -1,4 +1,4 @@
-Whether an organization is large or small, the entirety of the digital landscape with which it interacts represents an entry point for a [[cyberattack]]. These can include:
+Whether an organization is large or small, the entirety of the digital landscape with which it interacts represents an entry point for a [[cyberattack(s)]]. These can include:
 - Email accounts
 - Social media accounts
 - Mobile devices
