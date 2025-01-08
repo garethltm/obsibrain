@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "a3a9c80516079e78",
+        "id": "7c9dec6cc19abc90",
         "type": "tabs",
         "children": [
           {
-            "id": "7b6a7d75d318866a",
+            "id": "a3772de820a1f944",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "attack vectors.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "attack vectors"
+              "title": "New tab"
             }
           }
         ]
@@ -248,14 +244,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7b6a7d75d318866a",
+  "active": "a3772de820a1f944",
   "lastOpenFiles": [
+    "sc900/cybercriminal(s).md",
     "attack vectors.md",
     "threat landscape.md",
     "cybersecurity.md",
     "sc900/Microsoft Purview Data Catalog.md",
     "sc900/cyberattack.md",
-    "sc900/cybercriminal.md",
     "sc900/Microsoft Purview Data Quality.md",
     "sc900/health controls.md",
     "sc900/data governance.md",
