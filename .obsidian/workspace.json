@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "90c883db2ddf3b91",
+        "id": "ca1c1a58b82ea0dc",
         "type": "tabs",
         "children": [
           {
-            "id": "dfeee8cca34c38a9",
+            "id": "09c248c43425e8d2",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -244,7 +244,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "dfeee8cca34c38a9",
+  "active": "09c248c43425e8d2",
   "lastOpenFiles": [
     "sc900/network(s).md",
     "sc900/Protect your network.md",
