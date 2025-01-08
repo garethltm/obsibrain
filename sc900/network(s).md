@@ -23,11 +23,4 @@ Every network on the planet shares and moves data every second of the day. This 
 1. [[datagram (packet)]]
 2. [[IP addresses]]
 3. [[Domain Name Service (DNS)]]
-4. [[Routing]]
-
-### Routing
-When the IP addresses have been added to the packet, it's ready to be transmitted across the network. If the IP address exists on your network, the packet is sent directly to the device. However, if the IP address is outside of your network, it needs to go via a router. A router is a physical device that connects one network to another.
-
-Using our letter scenario, if your friend was only a few streets away, you might decide to deliver the message by hand. Your friend is within your local network.
-
-However, if your friend is in a different city or country/region, you need to post the letter and let the mail service deliver it. In this instance, the postal service is the router. It takes the message from your network, then finds the best route to get it to your friend's network for delivery.
+4. [[sc900/Routing|Routing]]
