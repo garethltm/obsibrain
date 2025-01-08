@@ -20,10 +20,8 @@ A [[network(s)]] exists when you have two or more devices that share data. As yo
 - [[Internet Protocol (IP)]]
 
 Every network on the planet shares and moves data every second of the day. This data comes in every shape and size, from a simple message to images, and even the movies that are streamed to your home.
-### The datagram or packet
-Networks exist to help make device-to-device or system-to-system communication easier. Whatever the size of data, it all needs to be broken down into tiny, uniform chunks. These chunks are called datagrams but are also more commonly known as packets.
+1. [[datagram (packet)]]
 
-Imagine that you want to stream a movie to your device. Given the enormous size of the data involved, the streaming server can't give you the whole movie in one go. Instead, the movie is broken up into billions of packets. Each packet contains a small part of the movie, which is then sent to your device. Your device has to wait until enough packets have been received before you can start watching the movie. In the background, the server continues to send a steady stream of packets to your device just ahead of what's being displayed. If your network speed slows down, then the packets may not reach you in time. The picture you see might become distorted or blocky and there may be gaps in the sound.
 ### IP addresses
 When you want to send a letter to a friend, you'll first write it out before putting it in an envelope. Next you'll write your friend's address on the envelope before posting it. The postal service collects the letter, and through various sorting offices, eventually delivers it.
 
