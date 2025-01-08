@@ -18,5 +18,3 @@ Let's assume that Eve is interested in what Quincy and Monica are saying. Eve in
 Because Eve doesn’t know Monica’s private key, she has no way of decrypting the [[ciphertext]]. If Eve tries to decrypt the [[ciphertext]] with Monica’s public key, she will see gibberish.
 
 Given the nature of asymmetric encryption, even if you know the public key, it's impossible to discover the private key.
-
-In this two-minute video, we'll demonstrate how symmetric and asymmetric encryption work, and how they protect your documents from being read by unauthorized people.
