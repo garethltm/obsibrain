@@ -51,4 +51,4 @@ _**Health actions**_: Health management actions give you and your users steps to
 ### Data quality
 [[Microsoft Purview Data Quality]] offers users the ability to evaluate data quality using no-code/low-code rules, including out-of-the-box (OOB) rules and AI-generated rules. These rules are aggregated to provide scores at the levels of data assets, data products, and governance domains, ensuring end-to-end visibility of data quality within each domain. [[Microsoft Purview Data Quality]] also incorporates AI-powered data profiling capabilities
 
-By applying Microsoft Purview Data Quality, organizations can effectively measure, monitor, and enhance the quality of their data assets.
+By applying [[Microsoft Purview Data Quality]], organizations can effectively measure, monitor, and enhance the quality of their data assets.
