@@ -1,0 +1,1 @@
+A common application of [[hashing]] is in digital signing. Like a signature on a piece of paper, a digital signature validates that the document bears the signature, which actually comes from the person who signed it. Additionally, a digital signature is used to validate that the document hasn't been tampered with.

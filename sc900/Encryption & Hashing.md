@@ -4,11 +4,11 @@
 2. Asymmetric: uses a public and private key pair
 - Either key can encrypt data but the key used cannot be used to decrypt encrypted data.
 	- to decrypt you would need a paired key.
-### Encryption for data at rest
+### [[Encryption]] for data at rest
 - data that is stored on a physical device such as a server. It may be stored in a database or a storage account
-### Encryption for data in transit
+### [[Encryption]] for data in transit
 - data moving from one location to another, such as across the internet or through a private network.
-### Encryption for data in use
+### [[Encryption]] for data in use
 - securing data in nonpersistent storage (RAM or CPU caches)
 
 # [[Hashing]]
