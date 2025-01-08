@@ -33,3 +33,13 @@ The primary function of the Internet Protocol (IP) is to ensure that every devic
 
 There are presently two standards of IP address: the [[Internet Protocol version 4 (IPv4)]] and the [[Internet Protocol version 6 (IPv6)]]. The details are beyond the scope of this module, but the most common type of IP address, and the one you may be familiar with, is [[Internet Protocol version 4 (IPv4)]]. This is made up of four groups of digits separated by a dot, for example: 127.100.0.1.
 ### DNS
+Just like every device on a network needs a unique IP address, every public facing website has its own IP address. You could use the IP address to visit your favorite online retail store, bank, or streaming video service. But with so many websites available, that would be difficult to remember. Instead, you type the name of the service you're looking for into your browser and it takes you to the website you want. This is all thanks to the domain name service or DNS.
+
+The DNS holds a table that has the name of the website, for instance [microsoft.com](https://microsoft.com/), which maps to its corresponding IP address. Your browser uses this to find the actual website in much the same way as you might use a phone book to find a telephone number.![Diagram that shows a simplified representation of a DNS lookup table, where the domain microsoft.com has been found and gives the corresponding IP address.](https://learn.microsoft.com/en-us/training/wwl-sci/describe-network-based-threats-mitigations/media/dns-lookup-table.png)
+Each time your device connects to the internet, it uses a local DNS server to find the name of the website you're looking for. If the DNS can’t find the site, it checks other DNS servers. If the site can't be found, or the request times out, you'll get an error message such as "DNS server not responding."
+### Routing
+When the IP addresses have been added to the packet, it's ready to be transmitted across the network. If the IP address exists on your network, the packet is sent directly to the device. However, if the IP address is outside of your network, it needs to go via a router. A router is a physical device that connects one network to another.
+
+Using our letter scenario, if your friend was only a few streets away, you might decide to deliver the message by hand. Your friend is within your local network.
+
+However, if your friend is in a different city or country/region, you need to post the letter and let the mail service deliver it. In this instance, the postal service is the router. It takes the message from your network, then finds the best route to get it to your friend's network for delivery.
