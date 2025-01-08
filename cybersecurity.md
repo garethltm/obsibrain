@@ -1,0 +1,6 @@
+refers to technologies, processes, and training that help protect systems, networks, programs, and data from cyberattacks, damage, and unauthorized access. Cybersecurity enables you to achieve the following goals:![Diagram showing the three aspects of CIA: Confidentiality, Integrity, and Availability.](https://learn.microsoft.com/en-us/training/wwl-sci/describe-basic-cybersecurity-threats-attacks-mitigations/media/confidentiality-integrity-availability-triangle.png)
+- **[[Confidentiality]]**: Information should only be visible to the right people.
+- **[[Integrity]]**: Information should only be changed by the right people or processes.
+- **[[Availability]]**: Information should be visible and accessible whenever needed.
+
+This is commonly referred to as the _Confidentiality, Integrity, Availability_ (CIA) model in the context of cybersecurity. Throughout the rest of this module, you'll learn about the types of attacks that cybercriminals use to disrupt these goals, and cause harm. You'll also see some basic threat mitigation strategies.
