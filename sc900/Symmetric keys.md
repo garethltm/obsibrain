@@ -1,0 +1,5 @@
+is based around the idea that the same **cryptographic key** is used for both the _[[encryption]]_ of the [[plaintext]] message and the _[[decryption]]_ of the [[ciphertext]] message. This makes the [[encryption]] method quick and provides a degree of confidentiality about the security of the [[ciphertext]].
+
+With this encryption method, the cryptographic key is treated as a _shared secret_ between two or more parties. The secret must be carefully guarded to avoid it being found by a bad actor. All parties must have the same cryptographic key before secure messages can be sent. Distribution of the key represents one of the challenges associated with symmetric encryption.
+
+Consider a group or organization where each individual needs the capability to communicate securely with every other person. If the group consists of three individuals, you need only three keys.![This diagram shows how a cryptographic key is needed by all recipients for the symmetric key encryption to work](https://learn.microsoft.com/en-us/training/wwl-sci/describe-concepts-of-cryptography/media/symmetric-encryption.png)
