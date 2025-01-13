@@ -11,10 +11,14 @@
             "id": "1d6744fd00537c00",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "sc900/Microsoft Defender for Endpoint.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Microsoft Defender for Endpoint"
             }
           }
         ]
