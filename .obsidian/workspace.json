@@ -11,10 +11,14 @@
             "id": "23b0bb13bc8a70bb",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "University of Auckland/2021 Semester 2/COMPSCI120/Assignments/Assignment 1.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Assignment 1"
             }
           }
         ]
