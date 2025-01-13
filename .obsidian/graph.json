@@ -6,40 +6,11 @@
   "hideUnresolved": false,
   "showOrphans": true,
   "collapse-color-groups": false,
-  "colorGroups": [
-    {
-      "query": "path:\"2024 Semester 1/COMPSCI361 - Machine Learning\"  ",
-      "color": {
-        "a": 1,
-        "rgb": 14701138
-      }
-    },
-    {
-      "query": "path:\"2024 Semester 1/ACCTG151G - Financial Literacy\"  ",
-      "color": {
-        "a": 1,
-        "rgb": 6479954
-      }
-    },
-    {
-      "query": "path:\"2024 Semester 1/COMPSCI345 - Human-computer Interaction\"  ",
-      "color": {
-        "a": 1,
-        "rgb": 5399264
-      }
-    },
-    {
-      "query": "path:sc900  ",
-      "color": {
-        "a": 1,
-        "rgb": 5431378
-      }
-    }
-  ],
-  "collapse-display": false,
+  "colorGroups": [],
+  "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": 0,
-  "nodeSizeMultiplier": 1.05025227864583,
+  "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 1,
   "collapse-forces": true,
   "centerStrength": 0.518713248970312,
@@ -47,5 +18,5 @@
   "linkStrength": 1,
   "linkDistance": 250,
   "scale": 0.3404403088706559,
-  "close": false
+  "close": true
 }

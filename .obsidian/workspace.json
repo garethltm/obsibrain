@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "830618c087e3e8f4",
+        "id": "a27763ce58e72bee",
         "type": "tabs",
         "children": [
           {
-            "id": "23b0bb13bc8a70bb",
+            "id": "1d6744fd00537c00",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -244,7 +244,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "23b0bb13bc8a70bb",
+  "active": "1d6744fd00537c00",
   "lastOpenFiles": [
     "Untitled.canvas",
     "University of Auckland/2021 Semester 2/COMPSCI120/Assignments/Assignment 1.md",
