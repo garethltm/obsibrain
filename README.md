@@ -1,4 +1,4 @@
-# 2nd Brain idk productivity but I hope this works 🤡 
+# brain v2
 
 ### Windows OS :trollface:
 1. Install Git (https://git-scm.com/downloads)

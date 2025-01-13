@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sc900/Azure Bastion.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Azure Bastion"
+              "title": "README"
             }
           }
         ]
@@ -250,6 +250,7 @@
   },
   "active": "1d6744fd00537c00",
   "lastOpenFiles": [
+    "sc900/Azure Bastion.md",
     "sc900/Audit (Premium).md",
     "sc900/attack vector(s).md",
     "sc900/Privileged Identity Management (PIM).md",
@@ -276,7 +277,6 @@
     "sc900/Social engineering.md",
     "sc900/Baiting.md",
     "sc900/Pretexting.md",
-    "sc900/Phishing.md",
     "Untitled",
     "@images/Pasted image 20241219142611.png",
     "sc900/Untitled",
