@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sc900/Microsoft Defender for Endpoint.md",
+                "file": "sc900/Security Information and Event Management (SIEM).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Microsoft Defender for Endpoint"
+              "title": "Security Information and Event Management (SIEM)"
             }
           }
         ]
@@ -250,6 +250,8 @@
   },
   "active": "1d6744fd00537c00",
   "lastOpenFiles": [
+    "sc900/Microsoft Defender for Office 365.md",
+    "sc900/Microsoft Defender for Endpoint.md",
     "Untitled.canvas",
     "University of Auckland/2021 Semester 2/COMPSCI120/Assignments/Assignment 1.md",
     "sc900/Microsoft Security Copilot.md",
@@ -275,7 +277,6 @@
     "sc900/Keylogging.md",
     "sc900/Credential stuffing.md",
     "sc900/Dictionary attack.md",
-    "sc900/Brute force attack.md",
     "Untitled",
     "@images/Pasted image 20241219142611.png",
     "sc900/Untitled",
