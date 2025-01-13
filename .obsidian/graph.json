@@ -27,6 +27,13 @@
         "a": 1,
         "rgb": 5399264
       }
+    },
+    {
+      "query": "path:sc900  ",
+      "color": {
+        "a": 1,
+        "rgb": 5431378
+      }
     }
   ],
   "collapse-display": false,
@@ -40,5 +47,5 @@
   "linkStrength": 1,
   "linkDistance": 250,
   "scale": 0.3404403088706559,
-  "close": true
+  "close": false
 }
