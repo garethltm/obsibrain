@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sc900/Authentication.md",
+                "file": "sc900/Privileged Identity Management (PIM).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Authentication"
+              "title": "Privileged Identity Management (PIM)"
             }
           }
         ]
@@ -250,6 +250,8 @@
   },
   "active": "1d6744fd00537c00",
   "lastOpenFiles": [
+    "sc900/Identity and Access Management (IAM).md",
+    "sc900/Authentication.md",
     "sc900/Authentication-based attacks.md",
     "README.md",
     "sc900/Azure Bastion.md",
@@ -275,8 +277,6 @@
     "sc900/datagram (packet).md",
     "University of Auckland/2024 Semester 1/INFOSYS303 - Solutions Architecture/packet(s).md",
     "sc900/Transmission Control Protocol (TCP).md",
-    "sc900/Social engineering.md",
-    "sc900/Baiting.md",
     "Untitled",
     "@images/Pasted image 20241219142611.png",
     "sc900/Untitled",
