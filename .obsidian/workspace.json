@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sc900/Privileged Identity Management (PIM).md",
+                "file": "sc900/Microsoft Purview Data Loss Prevention (DLP).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Privileged Identity Management (PIM)"
+              "title": "Microsoft Purview Data Loss Prevention (DLP)"
             }
           }
         ]
@@ -250,6 +250,11 @@
   },
   "active": "1d6744fd00537c00",
   "lastOpenFiles": [
+    "sc900/Microsoft Purview Data Lifecycle Management.md",
+    "sc900/Microsoft Purview Data Catalog.md",
+    "sc900/Microsoft Entra ID Governance.md",
+    "sc900/Access Reviews.md",
+    "sc900/Privileged Identity Management (PIM).md",
     "sc900/Identity and Access Management (IAM).md",
     "sc900/Authentication.md",
     "sc900/Authentication-based attacks.md",
@@ -257,7 +262,6 @@
     "sc900/Azure Bastion.md",
     "sc900/Audit (Premium).md",
     "sc900/attack vector(s).md",
-    "sc900/Privileged Identity Management (PIM).md",
     "Untitled.canvas",
     "sc900/Security Information and Event Management (SIEM).md",
     "sc900/Microsoft Defender for Office 365.md",
@@ -273,10 +277,6 @@
     "sc900/Routing.md",
     "University of Auckland/2024 Semester 1/INFOSYS303 - Solutions Architecture/Routing.md",
     "sc900/IP addresses.md",
-    "sc900/Internet Protocol (IP).md",
-    "sc900/datagram (packet).md",
-    "University of Auckland/2024 Semester 1/INFOSYS303 - Solutions Architecture/packet(s).md",
-    "sc900/Transmission Control Protocol (TCP).md",
     "Untitled",
     "@images/Pasted image 20241219142611.png",
     "sc900/Untitled",
