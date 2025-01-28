@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "University of Auckland/2024 Semester 1/ACCTG151G - Financial Literacy/Annuity.md",
+                "file": "University of Auckland/2024 Semester 1/COMPSCI361 - Machine Learning/Data cleaning.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Annuity"
+              "title": "Data cleaning"
             }
           }
         ]
@@ -249,8 +249,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a6e0090ac9cbd1f3",
+  "active": "1d6744fd00537c00",
   "lastOpenFiles": [
+    "University of Auckland/2024 Semester 1/ACCTG151G - Financial Literacy/Annuity.md",
     "University of Auckland/2024 Semester 1/COMPSCI345 - Human-computer Interaction/A world of heuristics.md",
     "University of Auckland/2023 Semester 2/COMPSCI367 - Artificial Intelligence/week05/Population-based Search.md",
     "University of Auckland/2023 Semester 2/COMPSCI367 - Artificial Intelligence/week05/Local beam Search.md",
@@ -278,7 +279,6 @@
     "sc900/Microsoft Security Copilot.md",
     "sc900/Microsoft Purview Data Security Posture Management (DSPM).md",
     "sc900/network(s).md",
-    "sc900/Protect your network.md",
     "Untitled",
     "@images/Pasted image 20241219142611.png",
     "sc900/Untitled",
