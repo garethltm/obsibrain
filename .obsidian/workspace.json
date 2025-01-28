@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "University of Auckland/2023 Semester 2/COMPSCI367 - Artificial Intelligence/week06/Knowledge-based Agents.md",
+                "file": "University of Auckland/2023 Semester 2/COMPSCI367 - Artificial Intelligence/week06/Propositional Logic with Wumpus World.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Knowledge-based Agents"
+              "title": "Propositional Logic with Wumpus World"
             }
           }
         ]
@@ -250,6 +250,15 @@
   },
   "active": "1d6744fd00537c00",
   "lastOpenFiles": [
+    "University of Auckland/2023 Semester 2/COMPSCI367 - Artificial Intelligence/week06/Reasoning.md",
+    "University of Auckland/2023 Semester 2/COMPSCI367 - Artificial Intelligence/week06/SAT solvers.md",
+    "University of Auckland/2023 Semester 2/COMPSCI367 - Artificial Intelligence/week06/Online.md",
+    "University of Auckland/2023 Semester 2/COMPSCI367 - Artificial Intelligence/week06/Offline.md",
+    "University of Auckland/2023 Semester 2/COMPSCI367 - Artificial Intelligence/week06/NP.md",
+    "University of Auckland/2023 Semester 2/COMPSCI367 - Artificial Intelligence/week06/Knowledge-based Agents.md",
+    "University of Auckland/2023 Semester 2/COMPSCI367 - Artificial Intelligence/week06/literal(s).md",
+    "University of Auckland/2023 Semester 2/COMPSCI367 - Artificial Intelligence/week06/Logic Inference vs Constraint Satisfaction.md",
+    "University of Auckland/2023 Semester 2/COMPSCI367 - Artificial Intelligence/week06/Logic Inference Problem.md",
     "University of Auckland/2023 Semester 2/COMPSCI367 - Artificial Intelligence/week06/Knowledge Representation Language.md",
     "University of Auckland/2023 Semester 2/COMPSCI367 - Artificial Intelligence/week06/Knowledge Base (KB).md",
     "University of Auckland/2023 Semester 2/COMPSCI367 - Artificial Intelligence/week06/DPLL algorithm.md",
@@ -267,15 +276,6 @@
     "University of Auckland/2023 Semester 2/COMPSCI367 - Artificial Intelligence/week05/two-player zero-sum games.md",
     "University of Auckland/2023 Semester 2/COMPSCI367 - Artificial Intelligence/week05/Genetic Algorithm with Travelling Salesman Problem.md",
     "University of Auckland/2023 Semester 2/COMPSCI367 - Artificial Intelligence/week05/genetics.md",
-    "University of Auckland/2023 Semester 2/COMPSCI367 - Artificial Intelligence/week05/Greedy descent with M random restarts vs Local beam Search.md",
-    "University of Auckland/2023 Semester 2/COMPSCI367 - Artificial Intelligence/week05/Local beam Search.md",
-    "University of Auckland/2023 Semester 2/COMPSCI367 - Artificial Intelligence/week05/Minmax Algorithm.md",
-    "University of Auckland/2023 Semester 2/COMPSCI367 - Artificial Intelligence/week05/Genetic Algorithm with 8-Queens.md",
-    "University of Auckland/2023 Semester 2/COMPSCI367 - Artificial Intelligence/week05/Genetic Algorithm (GA).md",
-    "University of Auckland/2023 Semester 2/COMPSCI367 - Artificial Intelligence/week05/game.md",
-    "University of Auckland/2023 Semester 2/COMPSCI367 - Artificial Intelligence/week05/Fitness function.md",
-    "University of Auckland/2023 Semester 2/COMPSCI367 - Artificial Intelligence/week05/fitness.md",
-    "University of Auckland/2023 Semester 2/COMPSCI367 - Artificial Intelligence/week05/Evolutionary computation.md",
     "University of Auckland/2023 Semester 2/COMPSCI367 - Artificial Intelligence/finals prep.canvas",
     "Untitled.canvas",
     "Untitled",
