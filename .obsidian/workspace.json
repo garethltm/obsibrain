@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "University of Auckland/2023 Semester 2/COMPSCI367 - Artificial Intelligence/week10/Entropy (or self-information).md",
+                "file": "University of Auckland/2023 Semester 2/COMPSCI367 - Artificial Intelligence/week05/Genetic Algorithm (GA).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Entropy (or self-information)"
+              "title": "Genetic Algorithm (GA)"
             }
           }
         ]
@@ -251,6 +251,15 @@
   },
   "active": "1d6744fd00537c00",
   "lastOpenFiles": [
+    "University of Auckland/2024 Semester 1/COMPSCI361 - Machine Learning/Kernelized (SVMs).md",
+    "University of Auckland/2024 Semester 1/COMPSCI361 - Machine Learning/Kernelized Optimization Problem.md",
+    "University of Auckland/2024 Semester 1/COMPSCI361 - Machine Learning/Lagrange Multipliers & Constrained Optimization.md",
+    "University of Auckland/2023 Semester 2/COMPSCI367 - Artificial Intelligence/week10/Naïve Bayes - Laplace smoothing.md",
+    "University of Auckland/2023 Semester 2/COMPSCI367 - Artificial Intelligence/week09/Probability.md",
+    "University of Auckland/2023 Semester 2/COMPSCI367 - Artificial Intelligence/week09/Probability Theory.md",
+    "University of Auckland/2023 Semester 2/COMPSCI367 - Artificial Intelligence/week06/Propositional Logic Inference Engine.md",
+    "University of Auckland/2023 Semester 2/COMPSCI367 - Artificial Intelligence/week08/signature.md",
+    "University of Auckland/2023 Semester 2/COMPSCI367 - Artificial Intelligence/week10/Entropy (or self-information).md",
     "University of Auckland/2023 Semester 2/COMPSCI367 - Artificial Intelligence/week06/Equivalence between inference & satisfiability.md",
     "University of Auckland/2023 Semester 2/COMPSCI367 - Artificial Intelligence/week05/Genetic Algorithm (GA).md",
     "University of Auckland/2023 Semester 2/COMPSCI367 - Artificial Intelligence/week08/First-Order Formulas.md",
@@ -268,15 +277,6 @@
     "University of Auckland/2023 Semester 2/COMPSCI367 - Artificial Intelligence/week06/literal(s).md",
     "University of Auckland/2023 Semester 2/COMPSCI367 - Artificial Intelligence/week06/Logic Inference vs Constraint Satisfaction.md",
     "University of Auckland/2023 Semester 2/COMPSCI367 - Artificial Intelligence/week06/Logic Inference Problem.md",
-    "University of Auckland/2023 Semester 2/COMPSCI367 - Artificial Intelligence/week06/Knowledge Representation Language.md",
-    "University of Auckland/2023 Semester 2/COMPSCI367 - Artificial Intelligence/week06/Knowledge Base (KB).md",
-    "University of Auckland/2023 Semester 2/COMPSCI367 - Artificial Intelligence/week06/DPLL algorithm.md",
-    "University of Auckland/2023 Semester 2/COMPSCI367 - Artificial Intelligence/week06/Compound Propositions (Compound Entities).md",
-    "University of Auckland/2023 Semester 2/COMPSCI367 - Artificial Intelligence/week06/clause(s).md",
-    "University of Auckland/2023 Semester 2/COMPSCI367 - Artificial Intelligence/week06/Agents with a World Model.md",
-    "University of Auckland/2023 Semester 2/COMPSCI367 - Artificial Intelligence/week06/Atomic Entities.md",
-    "University of Auckland/2023 Semester 2/COMPSCI367 - Artificial Intelligence/week05/mutation operation.md",
-    "University of Auckland/2023 Semester 2/COMPSCI367 - Artificial Intelligence/week05/population.md",
     "University of Auckland/2023 Semester 2/COMPSCI367 - Artificial Intelligence/finals prep.canvas",
     "Untitled.canvas",
     "Untitled",
