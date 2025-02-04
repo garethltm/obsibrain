@@ -11,10 +11,12 @@
             "id": "1fa8b2c3753400b1",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.4"
             }
           }
         ]
@@ -36,7 +38,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -244,7 +247,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3ad179677b7fba41",
+  "active": "1fa8b2c3753400b1",
   "lastOpenFiles": [
     "University of Auckland/2023 Semester 2/COMPSCI367 - Artificial Intelligence/week05/Genetic Algorithm (GA).md",
     "University of Auckland/2024 Semester 1/COMPSCI361 - Machine Learning/Kernelized (SVMs).md",
