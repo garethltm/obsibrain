@@ -4,19 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "31ce621eca400dc3",
+        "id": "583161410f7f8396",
         "type": "tabs",
         "children": [
           {
-            "id": "1fa8b2c3753400b1",
+            "id": "f12f4ab0070df44b",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.8.4"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.4"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -247,7 +245,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1fa8b2c3753400b1",
+  "active": "f12f4ab0070df44b",
   "lastOpenFiles": [
     "University of Auckland/2023 Semester 2/COMPSCI367 - Artificial Intelligence/week05/Genetic Algorithm (GA).md",
     "University of Auckland/2024 Semester 1/COMPSCI361 - Machine Learning/Kernelized (SVMs).md",
