@@ -11,10 +11,14 @@
             "id": "f12f4ab0070df44b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "sc900/Microsoft Purview Data Catalog.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Microsoft Purview Data Catalog"
             }
           }
         ]
@@ -49,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "alpha",
+                "query": "purview",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -70,7 +74,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -247,6 +252,7 @@
   },
   "active": "f12f4ab0070df44b",
   "lastOpenFiles": [
+    "sc900/data governance.md",
     "University of Auckland/2023 Semester 2/COMPSCI367 - Artificial Intelligence/week05/Genetic Algorithm (GA).md",
     "University of Auckland/2024 Semester 1/COMPSCI361 - Machine Learning/Kernelized (SVMs).md",
     "University of Auckland/2024 Semester 1/COMPSCI361 - Machine Learning/Kernelized Optimization Problem.md",
@@ -272,7 +278,6 @@
     "University of Auckland/2023 Semester 2/COMPSCI367 - Artificial Intelligence/week06/Knowledge-based Agents.md",
     "University of Auckland/2023 Semester 2/COMPSCI367 - Artificial Intelligence/week06/literal(s).md",
     "University of Auckland/2023 Semester 2/COMPSCI367 - Artificial Intelligence/week06/Logic Inference vs Constraint Satisfaction.md",
-    "University of Auckland/2023 Semester 2/COMPSCI367 - Artificial Intelligence/week06/Logic Inference Problem.md",
     "University of Auckland/2023 Semester 2/COMPSCI367 - Artificial Intelligence/finals prep.canvas",
     "Untitled.canvas",
     "Untitled",
