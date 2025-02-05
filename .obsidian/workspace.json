@@ -74,8 +74,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -250,7 +249,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f12f4ab0070df44b",
+  "active": "3ad179677b7fba41",
   "lastOpenFiles": [
     "sc900/Microsoft Purview Data Catalog.md",
     "sc900/data governance.md",
